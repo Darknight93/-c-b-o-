@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BriefFeed — Tin tức tóm tắt</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,700;1,9..144,300&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:       #0e0e10;
+    --surface:  #18181c;
+    --surface2: #222228;
+    --border:   #2e2e38;
+    --text:     #e8e8ec;
+    --muted:    #888898;
+    --accent:   #c8f450;
+    --accent2:  #8b5cf6;
+    --red:      #ff6b6b;
+    --blue:     #60a5fa;
+    --amber:    #fbbf24;
+    --teal:     #2dd4bf;
+    --cat-politics:   #ff6b6b;
+    --cat-economy:    #fbbf24;
+    --cat-technology: #8b5cf6;
+    --cat-science:    #2dd4bf;
+    --cat-other:      #888898;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.65;
+    min-height: 100vh;
+  }
+
+  /* ── HEADER ─────────────────────────────────────── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 0 max(1.5rem, calc(50vw - 680px));
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 58px;
+    position: sticky;
+    top: 0;
+    background: rgba(14,14,16,0.9);
+    backdrop-filter: blur(12px);
+    z-index: 100;
+  }
+
+  .logo {
+    font-family: 'Fraunces', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .header-meta {
+    font-size: 12px;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .pulse {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: pulse 2s infinite;
+    display: inline-block;
+  }
+  @keyframes pulse {
+    0%,100% { opacity:1; transform:scale(1); }
+    50%      { opacity:.4; transform:scale(1.4); }
+  }
+
+  /* ── LAYOUT ─────────────────────────────────────── */
+  .shell {
+    max-width: 1360px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 0;
+    min-height: calc(100vh - 58px);
+  }
+
+  /* ── SIDEBAR ─────────────────────────────────────── */
+  aside {
+    border-right: 1px solid var(--border);
+    padding: 2rem 1.5rem 2rem 0;
+    position: sticky;
+    top: 58px;
+    height: calc(100vh - 58px);
+    overflow-y: auto;
+  }
+
+  .sidebar-label {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: .75rem;
+  }
+
+  .cat-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: .5rem .75rem;
+    border-radius: 8px;
+    color: var(--muted);
+    font-family: inherit;
+    font-size: 14px;
+    text-align: left;
+    transition: background .15s, color .15s;
+    margin-bottom: 2px;
+  }
+  .cat-btn:hover { background: var(--surface2); color: var(--text); }
+  .cat-btn.active { background: var(--surface2); color: var(--text); }
+  .cat-btn .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .cat-btn .count {
+    margin-left: auto;
+    font-size: 12px;
+    background: var(--surface2);
+    padding: 1px 6px;
+    border-radius: 20px;
+    color: var(--muted);
+  }
+  .cat-btn.active .count { background: var(--border); color: var(--text); }
+
+  .sidebar-section { margin-top: 2rem; }
+
+  .source-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 12px;
+    color: var(--muted);
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    padding: 3px 8px;
+    border-radius: 20px;
+    margin: 3px 3px 0 0;
+    cursor: pointer;
+    transition: border-color .15s, color .15s;
+    white-space: nowrap;
+  }
+  .source-chip:hover, .source-chip.active {
+    border-color: var(--accent);
+    color: var(--text);
+  }
+
+  /* ── MAIN FEED ───────────────────────────────────── */
+  main {
+    padding: 2rem 0 4rem 2rem;
+  }
+
+  .feed-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1.75rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .feed-title {
+    font-family: 'Fraunces', serif;
+    font-size: 1.6rem;
+    font-weight: 300;
+    font-style: italic;
+    color: var(--text);
+  }
+  .feed-title span { color: var(--accent); font-style: normal; font-weight: 700; }
+
+  .sort-btns { display: flex; gap: 4px; }
+  .sort-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    font-family: inherit;
+    font-size: 12px;
+    padding: 4px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all .15s;
+  }
+  .sort-btn:hover, .sort-btn.active { border-color: var(--accent); color: var(--accent); }
+
+  /* ── CARDS ───────────────────────────────────────── */
+  #feed { display: flex; flex-direction: column; gap: 1px; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: border-color .2s;
+    margin-bottom: 10px;
+  }
+  .card:hover { border-color: #3e3e50; }
+
+  .card-summary {
+    padding: 1.1rem 1.25rem;
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: .5rem 1rem;
+    align-items: start;
+  }
+
+  .card-top {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: .5rem;
+    flex-wrap: wrap;
+  }
+
+  .cat-tag {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 20px;
+  }
+
+  .source-tag {
+    font-size: 12px;
+    color: var(--muted);
+  }
+
+  .importance-bar {
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    margin-left: auto;
+  }
+  .imp-dot {
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: var(--border);
+  }
+  .imp-dot.on { background: var(--accent); }
+
+  .headline {
+    font-family: 'Fraunces', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--text);
+    margin-bottom: .5rem;
+  }
+
+  .bullets-preview {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .bullets-preview li {
+    font-size: 13px;
+    color: var(--muted);
+    display: flex;
+    gap: 6px;
+    align-items: baseline;
+  }
+  .bullets-preview li::before {
+    content: '›';
+    color: var(--accent);
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+
+  .card-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 8px;
+    min-width: 60px;
+  }
+
+  .expand-btn {
+    width: 30px; height: 30px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: none;
+    color: var(--muted);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    transition: all .2s;
+    flex-shrink: 0;
+  }
+  .expand-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .expand-btn.open { background: var(--accent); color: #0e0e10; border-color: var(--accent); transform: rotate(180deg); }
+
+  .time-tag {
+    font-size: 11px;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  /* ── EXPANDED ────────────────────────────────────── */
+  .card-detail {
+    display: none;
+    border-top: 1px solid var(--border);
+    padding: 1.25rem 1.25rem 1.25rem;
+    animation: slideDown .2s ease;
+  }
+  .card-detail.open { display: block; }
+  @keyframes slideDown { from { opacity:0; transform:translateY(-6px); } to { opacity:1; transform:translateY(0); } }
+
+  .full-summary {
+    font-size: 14.5px;
+    line-height: 1.75;
+    color: #ccccd8;
+    margin-bottom: 1rem;
+  }
+
+  .detail-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding-top: .75rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .source-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: var(--accent);
+    text-decoration: none;
+    transition: opacity .15s;
+  }
+  .source-link:hover { opacity: .75; }
+
+  .reddit-stats {
+    font-size: 12px;
+    color: var(--muted);
+    display: flex;
+    gap: 12px;
+  }
+
+  /* ── SKELETON / LOADING ──────────────────────────── */
+  .skeleton {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.1rem 1.25rem;
+    margin-bottom: 10px;
+    animation: shimmer 1.5s infinite;
+  }
+  .skel-line {
+    height: 14px;
+    border-radius: 6px;
+    background: var(--surface2);
+    margin-bottom: 10px;
+  }
+  @keyframes shimmer {
+    0%,100% { opacity:.6; } 50% { opacity:1; }
+  }
+
+  .empty { text-align:center; padding: 4rem 2rem; color: var(--muted); }
+  .empty-icon { font-size: 3rem; margin-bottom: 1rem; }
+
+  /* ── RESPONSIVE ──────────────────────────────────── */
+  @media (max-width: 720px) {
+    .shell { grid-template-columns: 1fr; }
+    aside {
+      position: static;
+      height: auto;
+      border-right: none;
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 0;
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+    }
+    .sidebar-section { display: none; }
+    .sidebar-label { display: none; }
+    .cat-btn { white-space: nowrap; }
+    main { padding: 1.5rem 0 3rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="#">BriefFeed</a>
+  <div class="header-meta">
+    <span class="pulse"></span>
+    <span id="update-time">Đang tải...</span>
+  </div>
+</header>
+
+<div class="shell">
+  <aside>
+    <div class="sidebar-label">Chủ đề</div>
+    <button class="cat-btn active" data-cat="all">
+      <span class="dot" style="background:var(--text)"></span>
+      Tất cả
+      <span class="count" id="count-all">0</span>
+    </button>
+    <button class="cat-btn" data-cat="politics">
+      <span class="dot" style="background:var(--cat-politics)"></span>
+      Chính trị
+      <span class="count" id="count-politics">0</span>
+    </button>
+    <button class="cat-btn" data-cat="economy">
+      <span class="dot" style="background:var(--cat-economy)"></span>
+      Kinh tế
+      <span class="count" id="count-economy">0</span>
+    </button>
+    <button class="cat-btn" data-cat="technology">
+      <span class="dot" style="background:var(--cat-technology)"></span>
+      Công nghệ
+      <span class="count" id="count-technology">0</span>
+    </button>
+    <button class="cat-btn" data-cat="science">
+      <span class="dot" style="background:var(--cat-science)"></span>
+      Khoa học
+      <span class="count" id="count-science">0</span>
+    </button>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Nguồn</div>
+      <div id="source-chips"></div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="feed-header">
+      <h1 class="feed-title">Tin <span>mới nhất</span></h1>
+      <div class="sort-btns">
+        <button class="sort-btn active" data-sort="time">Mới nhất</button>
+        <button class="sort-btn" data-sort="importance">Quan trọng</button>
+      </div>
+    </div>
+    <div id="feed">
+      <!-- skeleton -->
+      <div class="skeleton"><div class="skel-line" style="width:30%"></div><div class="skel-line" style="width:85%"></div><div class="skel-line" style="width:60%"></div></div>
+      <div class="skeleton"><div class="skel-line" style="width:25%"></div><div class="skel-line" style="width:90%"></div><div class="skel-line" style="width:55%"></div></div>
+      <div class="skeleton"><div class="skel-line" style="width:35%"></div><div class="skel-line" style="width:75%"></div><div class="skel-line" style="width:65%"></div></div>
+    </div>
+  </main>
+</div>
+
+<script>
+const CAT_COLORS = {
+  politics:   'var(--cat-politics)',
+  economy:    'var(--cat-economy)',
+  technology: 'var(--cat-technology)',
+  science:    'var(--cat-science)',
+  other:      'var(--cat-other)',
+};
+const CAT_LABELS = {
+  politics: 'Chính trị', economy: 'Kinh tế',
+  technology: 'Công nghệ', science: 'Khoa học', other: 'Khác',
+};
+
+let allArticles = [];
+let activeCategory = 'all';
+let activeSources = new Set();
+let sortMode = 'time';
+
+function relativeTime(iso) {
+  const diff = (Date.now() - new Date(iso)) / 1000;
+  if (diff < 60)     return 'vừa xong';
+  if (diff < 3600)   return `${Math.floor(diff/60)} phút trước`;
+  if (diff < 86400)  return `${Math.floor(diff/3600)} giờ trước`;
+  return `${Math.floor(diff/86400)} ngày trước`;
+}
+
+function importance(score) {
+  let html = '';
+  for (let i = 1; i <= 5; i++)
+    html += `<span class="imp-dot ${i <= score ? 'on' : ''}"></span>`;
+  return `<div class="importance-bar">${html}</div>`;
+}
+
+function renderCard(a) {
+  const color = CAT_COLORS[a.category] || CAT_COLORS.other;
+  const label = CAT_LABELS[a.category] || 'Khác';
+  const bullets = (a.bullets || []).map(b =>
+    `<li>${b}</li>`).join('');
+  const stats = (a.score > 0 || a.comments > 0)
+    ? `<div class="reddit-stats"><span>▲ ${a.score.toLocaleString()}</span><span>💬 ${a.comments.toLocaleString()}</span></div>`
+    : '';
+
+  return `
+  <div class="card" data-id="${a.id}" data-cat="${a.category}" data-source="${a.source}">
+    <div class="card-summary" onclick="toggleCard('${a.id}')">
+      <div>
+        <div class="card-top">
+          <span class="cat-tag" style="background:${color}22;color:${color}">${label}</span>
+          <span class="source-tag">${a.icon} ${a.source}</span>
+        </div>
+        <div class="headline">${a.headline}</div>
+        <ul class="bullets-preview">${bullets}</ul>
+      </div>
+      <div class="card-right">
+        <button class="expand-btn" id="btn-${a.id}" aria-label="Mở rộng">▼</button>
+        <span class="time-tag">${relativeTime(a.fetched_at)}</span>
+        ${importance(a.importance || 3)}
+      </div>
+    </div>
+    <div class="card-detail" id="detail-${a.id}">
+      <p class="full-summary">${a.full_summary}</p>
+      <div class="detail-footer">
+        <a class="source-link" href="${a.url}" target="_blank" rel="noopener">
+          Đọc bài gốc ↗
+        </a>
+        ${stats}
+      </div>
+    </div>
+  </div>`;
+}
+
+function toggleCard(id) {
+  const detail = document.getElementById(`detail-${id}`);
+  const btn    = document.getElementById(`btn-${id}`);
+  const isOpen = detail.classList.contains('open');
+  detail.classList.toggle('open', !isOpen);
+  btn.classList.toggle('open', !isOpen);
+}
+
+function filtered() {
+  return allArticles.filter(a => {
+    const catOk  = activeCategory === 'all' || a.category === activeCategory;
+    const srcOk  = activeSources.size === 0 || activeSources.has(a.source);
+    return catOk && srcOk;
+  }).sort((a, b) => {
+    if (sortMode === 'importance') return (b.importance||3) - (a.importance||3);
+    return new Date(b.fetched_at) - new Date(a.fetched_at);
+  });
+}
+
+function render() {
+  const feed = document.getElementById('feed');
+  const arts = filtered();
+  if (!arts.length) {
+    feed.innerHTML = `<div class="empty"><div class="empty-icon">📭</div><p>Không có tin tức nào phù hợp</p></div>`;
+    return;
+  }
+  feed.innerHTML = arts.map(renderCard).join('');
+}
+
+function updateCounts() {
+  const cats = ['all','politics','economy','technology','science'];
+  cats.forEach(cat => {
+    const count = cat === 'all'
+      ? allArticles.length
+      : allArticles.filter(a => a.category === cat).length;
+    const el = document.getElementById(`count-${cat}`);
+    if (el) el.textContent = count;
+  });
+}
+
+function buildSourceChips() {
+  const sources = [...new Set(allArticles.map(a => a.source))].sort();
+  const container = document.getElementById('source-chips');
+  container.innerHTML = sources.map(s => {
+    const icon = allArticles.find(a => a.source === s)?.icon || '';
+    return `<span class="source-chip" data-source="${s}" onclick="toggleSource('${s}')">${icon} ${s}</span>`;
+  }).join('');
+}
+
+function toggleSource(src) {
+  const chip = document.querySelector(`.source-chip[data-source="${src}"]`);
+  if (activeSources.has(src)) {
+    activeSources.delete(src);
+    chip?.classList.remove('active');
+  } else {
+    activeSources.add(src);
+    chip?.classList.add('active');
+  }
+  render();
+}
+
+// Category buttons
+document.querySelectorAll('.cat-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeCategory = btn.dataset.cat;
+    render();
+  });
+});
+
+// Sort buttons
+document.querySelectorAll('.sort-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    sortMode = btn.dataset.sort;
+    render();
+  });
+});
+
+// Load data
+async function loadNews() {
+  try {
+    const res  = await fetch('news.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allArticles = data.articles || [];
+
+    const upd = new Date(data.updated_at);
+    document.getElementById('update-time').textContent =
+      'Cập nhật ' + upd.toLocaleTimeString('vi-VN', { hour:'2-digit', minute:'2-digit' });
+
+    updateCounts();
+    buildSourceChips();
+    render();
+  } catch(e) {
+    document.getElementById('feed').innerHTML =
+      `<div class="empty"><div class="empty-icon">⚠️</div><p>Chưa có dữ liệu. Hãy chạy bot lần đầu.</p><p style="margin-top:8px;font-size:13px;color:var(--muted)">Trigger workflow trên GitHub Actions để bắt đầu.</p></div>`;
+    document.getElementById('update-time').textContent = 'Chưa có dữ liệu';
+  }
+}
+
+loadNews();
+</script>
+</body>
+</html>
