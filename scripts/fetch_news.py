@@ -271,7 +271,7 @@ def run():
                 "comments":     a.get("comments", 0),
                 "score":        a.get("score", 0),
             })
-        time.sleep(0.5)
+        time.sleep(5)
 
     # Merge: new first, then existing, trimmed to MAX_ARTICLES_TOTAL
     merged = new_articles + existing_articles
