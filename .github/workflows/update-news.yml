@@ -1,0 +1,39 @@
+name: Update News
+
+on:
+  schedule:
+    # Run every 6 hours (UTC) — adjust as you like
+    - cron: "0 */6 * * *"
+  workflow_dispatch:   # also allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run NewsBot
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/fetch_news.py
+
+      - name: Commit updated news.json
+        run: |
+          git config user.name  "NewsBot"
+          git config user.email "newsbot@github-actions"
+          git add docs/news.json
+          git diff --cached --quiet && echo "No changes" || git commit -m "chore: update news $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
