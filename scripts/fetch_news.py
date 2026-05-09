@@ -14,13 +14,12 @@ from typing import Optional
 
 import feedparser
 import requests
-from gemini import gemini
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger(__name__)
 
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-client = Gemini(api_key=GEMINI_API_KEY)
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
 
 NEWS_JSON_PATH = os.path.join(os.path.dirname(__file__), "../docs/news.json")
 MAX_ARTICLES_TOTAL = 40   # keep newest N articles across all sources
@@ -190,13 +189,10 @@ Return ONLY a JSON object (no markdown, no extra text) with these exact fields:
 }}"""
 
     try:
-        msg = client.messages.create(
-            model="claude-opus-4-5",
-            max_tokens=600,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        raw = msg.content[0].text.strip()
-        # strip json fences if present
+        payload = {"contents": [{"parts": [{"text": prompt}]}]}
+        r = requests.post(GEMINI_URL, json=payload, timeout=30)
+        r.raise_for_status()
+        raw = r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
         if raw.startswith("```"):
             raw = raw.split("```")[1]
             if raw.startswith("json"):
