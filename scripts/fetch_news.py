@@ -252,7 +252,7 @@ def run():
 
     # Summarize new articles
     new_articles = []
-    for a in new_raw[:20]:  # cap at 20 new articles per run to save API tokens
+    for a in new_raw[:10]:  # cap at 20 new articles per run to save API tokens
         log.info(f"Summarizing: {a['title'][:60]}...")
         summary = summarize_article(a)
         if summary:
@@ -271,7 +271,7 @@ def run():
                 "comments":     a.get("comments", 0),
                 "score":        a.get("score", 0),
             })
-        time.sleep(5)
+        time.sleep(15)
 
     # Merge: new first, then existing, trimmed to MAX_ARTICLES_TOTAL
     merged = new_articles + existing_articles
