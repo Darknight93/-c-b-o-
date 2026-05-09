@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(mess
 log = logging.getLogger(__name__)
 
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
 
 NEWS_JSON_PATH = os.path.join(os.path.dirname(__file__), "../docs/news.json")
 MAX_ARTICLES_TOTAL = 40   # keep newest N articles across all sources
