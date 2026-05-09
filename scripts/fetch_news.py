@@ -14,13 +14,13 @@ from typing import Optional
 
 import feedparser
 import requests
-from anthropic import Anthropic
+from gemini import gemini
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger(__name__)
 
-ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
-client = Anthropic(api_key=ANTHROPIC_API_KEY)
+GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
+client = Gemini(api_key=GEMINI_API_KEY)
 
 NEWS_JSON_PATH = os.path.join(os.path.dirname(__file__), "../docs/news.json")
 MAX_ARTICLES_TOTAL = 40   # keep newest N articles across all sources
