@@ -18,8 +18,8 @@ import requests
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger(__name__)
 
-GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+GROQ_API_KEY = os.environ["GROQ_API_KEY"]
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 NEWS_JSON_PATH = os.path.join(os.path.dirname(__file__), "../docs/news.json")
 MAX_ARTICLES_TOTAL = 40   # keep newest N articles across all sources
@@ -189,10 +189,19 @@ Return ONLY a JSON object (no markdown, no extra text) with these exact fields:
 }}"""
 
     try:
-        payload = {"contents": [{"parts": [{"text": prompt}]}]}
-        r = requests.post(GEMINI_URL, json=payload, timeout=30)
+        payload = {
+            "model": "llama-3.1-8b-instant",
+            "messages": [{"role": "user", "content": prompt}],
+            "max_tokens": 600,
+            "temperature": 0.3,
+        }
+        headers = {
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+            "Content-Type": "application/json",
+        }
+        r = requests.post(GROQ_URL, json=payload, headers=headers, timeout=30)
         r.raise_for_status()
-        raw = r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+        raw = r.json()["choices"][0]["message"]["content"].strip()
         if raw.startswith("```"):
             raw = raw.split("```")[1]
             if raw.startswith("json"):
@@ -252,7 +261,7 @@ def run():
 
     # Summarize new articles
     new_articles = []
-    for a in new_raw[:10]:  # cap at 20 new articles per run to save API tokens
+    for a in new_raw[:20]:  # cap at 20 new articles per run to save API tokens
         log.info(f"Summarizing: {a['title'][:60]}...")
         summary = summarize_article(a)
         if summary:
@@ -271,7 +280,7 @@ def run():
                 "comments":     a.get("comments", 0),
                 "score":        a.get("score", 0),
             })
-        time.sleep(15)
+        time.sleep(0.5)
 
     # Merge: new first, then existing, trimmed to MAX_ARTICLES_TOTAL
     merged = new_articles + existing_articles
