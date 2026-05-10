@@ -1,4 +1,204 @@
 {
-  "updated_at": "2026-05-10T13:05:40.121626+00:00",
-  "articles": []
+  "updated_at": "2026-05-10T15:00:47.950466+00:00",
+  "articles": [
+    {
+      "id": "0656808dcc67",
+      "title": "First passengers fly home from virus-hit cruise ship",
+      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:31.335895+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hàng khách đầu tiên rời tàu du lịch bị dịch",
+      "bullets": [
+        "Đầu tiên rời tàu là hành khách Tây Ban Nha",
+        "Ba người đã tử vong do dịch bệnh",
+        "Nhiều người đã bị nhiễm virus",
+        "Tàu du lịch MV Hondius vẫn đang bị phong tỏa"
+      ],
+      "full_summary": "Hàng khách đầu tiên rời tàu du lịch MV Hondius sau khi xảy ra dịch bệnh. Ba người đã tử vong và nhiều người bị nhiễm virus. Tàu du lịch vẫn đang bị phong tỏa. Đây là một trong những vụ dịch bệnh nghiêm trọng trên tàu du lịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a66ce21dcad6",
+      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:32.409889+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Đội đặc nhiệm nhảy dù đến Tristan da Cunha để cứu người Anh nghi ngờ mắc virus hanta",
+      "bullets": [
+        "Đội đặc nhiệm quân đội Anh nhảy dù đến đảo Tristan da Cunha",
+        "Đảo Tristan da Cunha là một lãnh thổ hải ngoại của Anh",
+        "Người Anh nghi ngờ mắc virus hanta cần được điều trị khẩn cấp",
+        "Đội đặc nhiệm sẽ giúp người Anh được điều trị tại chỗ"
+      ],
+      "full_summary": "Một đội đặc nhiệm quân đội Anh đã nhảy dù đến đảo Tristan da Cunha, một lãnh thổ hải ngoại của Anh, để giúp một người Anh nghi ngờ mắc virus hanta. Đảo Tristan da Cunha là một trong những nơi xa nhất trên thế giới. Đội đặc nhiệm sẽ giúp người Anh được điều trị tại chỗ để tránh lây lan virus.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6685ff50245c",
+      "title": "Iran sends response to US proposals to end war",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:33.868133+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran phản hồi đề xuất của Mỹ để kết thúc chiến tranh",
+      "bullets": [
+        "Iran đã gửi phản hồi cho đề xuất của Mỹ",
+        "Mỹ và Iran đang tìm cách kết thúc chiến tranh",
+        "Không có chi tiết về đề xuất của Mỹ và phản hồi của Iran",
+        "Cả hai bên chưa công bố thông tin về tiến trình đàm phán"
+      ],
+      "full_summary": "Iran đã gửi phản hồi cho đề xuất của Mỹ nhằm kết thúc chiến tranh. Tuy nhiên, không có chi tiết về đề xuất của Mỹ và phản hồi của Iran. Cả hai bên chưa công bố thông tin về tiến trình đàm phán. Điều này đã tạo ra sự không chắc chắn về khả năng đạt được thỏa thuận hòa bình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c3010ad2b1fa",
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:35.193386+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Putin tin chiến tranh Ukraine sắp kết thúc",
+      "bullets": [
+        "Putin cho rằng có khả năng đàm phán với Ukraine",
+        "Ngài Tổng thống chỉ trích phương Tây ủng hộ Tổng thống Zelensky",
+        "Putin tin rằng xung đột đang dần hạ nhiệt",
+        "Ngài Tổng thống hy vọng sẽ đạt được giải pháp hòa bình"
+      ],
+      "full_summary": "Tổng thống Putin cho biết ông tin rằng xung đột ở Ukraine sắp kết thúc. Ông Putin cho rằng có khả năng đàm phán với Ukraine và hy vọng sẽ đạt được giải pháp hòa bình. Tuy nhiên, ông chỉ trích phương Tây ủng hộ Tổng thống Zelensky, người đứng đầu Ukraine. Ông Putin tin rằng xung đột đang dần hạ nhiệt và hy vọng sẽ đạt được một kết quả tốt đẹp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "239a226147cd",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:36.211964+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Israel tấn công Lebanon khiến 39 người thiệt mạng",
+      "bullets": [
+        "Israel tiếp tục bắn đạn vào Hezbollah",
+        "Hai bên vẫn tiếp tục giao tranh",
+        "Ceasefire được tuyên bố nhưng không được thực hiện",
+        "Vụ tấn công khiến nhiều người thiệt mạng"
+      ],
+      "full_summary": "Mặc dù đã có thỏa thuận ngừng bắn được tuyên bố vào tháng trước, Israel và Hezbollah vẫn tiếp tục giao tranh. Vào ngày 3 tháng 5, Israel đã tiến hành các cuộc tấn công vào Lebanon, khiến 39 người thiệt mạng. Các cuộc tấn công này đã được đáp trả bởi Hezbollah, dẫn đến sự gia tăng căng thẳng giữa hai bên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6f3822c39e5d",
+      "title": "Israel deports two activists detained on board Gaza flotilla",
+      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:37.216356+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Israel trục xuất hai nhà hoạt động sau vụ tàu vận chuyển hàng viện trợ Gaza",
+      "bullets": [
+        "Hai nhà hoạt động Saif Abu Keshek và Thiago Ávila bị Israel bắt giữ",
+        "Họ tham gia vụ tàu vận chuyển hàng viện trợ Gaza",
+        "Israel đã trục xuất hai nhà hoạt động",
+        "Họ được cho là đã vi phạm các quy định của Israel"
+      ],
+      "full_summary": "Hai nhà hoạt động Saif Abu Keshek và Thiago Ávila đã bị Israel bắt giữ sau khi tham gia vụ tàu vận chuyển hàng viện trợ Gaza. Họ được cho là đã vi phạm các quy định của Israel. Sau đó, Israel đã trục xuất họ. Đây là một phần của nỗ lực vận chuyển hàng viện trợ Gaza.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7f9c9405592",
+      "title": "Bread dresses and gowns inspired by cathedrals at Nigeria fashion spectacle",
+      "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:38.305268+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Các ngôi sao và nhà thiết kế trình diễn trang phục bằng bánh mì tại lễ hội thời trang Nigeria",
+      "bullets": [
+        "Trình diễn trang phục bằng bánh mì và váy được lấy cảm hứng từ các nhà thờ lớn",
+        "Các ngôi sao, đạo diễn và nhà tạo mẫu tham gia vào sự kiện lớn nhất về phim ảnh và thời trang ở châu Phi",
+        "Sự kiện diễn ra tại lễ hội phim ảnh và thời trang lớn nhất ở Nigeria",
+        "Các nhà thiết kế và nghệ sĩ trình diễn các tác phẩm thời trang độc đáo"
+      ],
+      "full_summary": "Các ngôi sao và nhà thiết kế đã trình diễn các tác phẩm thời trang độc đáo tại lễ hội phim ảnh và thời trang lớn nhất ở Nigeria. Các tác phẩm được lấy cảm hứng từ các nhà thờ lớn và được tạo ra từ bánh mì và váy. Sự kiện này đã thu hút sự tham gia của các ngôi sao, đạo diễn và nhà tạo mẫu. Các tác phẩm thời trang độc đáo đã được trình diễn tại lễ hội phim ảnh và thời trang lớn nhất ở Nigeria.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "219f2fa906a9",
+      "title": "Suspected boat explosion injures 11 in Miami",
+      "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:39.259007+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một vụ nổ trên tàu ở Miami khiến 11 người bị thương",
+      "bullets": [
+        "Các quan chức đang điều tra nguyên nhân của vụ nổ tại một bến cảng nổi tiếng ở Florida Nam",
+        "Vụ nổ xảy ra tại một marina ở Miami, làm 11 người bị thương",
+        "Các cơ quan chức năng đang làm việc để xác định nguyên nhân của vụ nổ"
+      ],
+      "full_summary": "Một vụ nổ bất ngờ xảy ra tại một marina ở Miami, làm 11 người bị thương. Các quan chức đang điều tra nguyên nhân của vụ nổ. Vụ nổ xảy ra tại một bến cảng nổi tiếng ở Florida Nam, nơi có nhiều người dân và khách du lịch thường xuyên đến.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1a8a3b86c668",
+      "title": "TikTok scales back AI-generated video descriptions after absurd errors",
+      "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:40.969365+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "TikTok giảm bớt mô tả video tự động do AI tạo ra sau những lỗi bất thường",
+      "bullets": [
+        "TikTok đã giới hạn việc sử dụng mô tả video tự động do AI tạo ra",
+        "Mô tả video này đã gây ra nhiều lỗi bất thường và được chia sẻ rộng rãi",
+        "Tính năng này chỉ được triển khai với một số người dùng",
+        "TikTok đang cố gắng cải thiện chất lượng mô tả video tự động"
+      ],
+      "full_summary": "TikTok đã phải giảm bớt việc sử dụng mô tả video tự động do AI tạo ra sau khi tính năng này gây ra nhiều lỗi bất thường. Mô tả video này chỉ được triển khai với một số người dùng và đã được chia sẻ rộng rãi trên mạng xã hội. TikTok đang cố gắng cải thiện chất lượng mô tả video tự động để tránh những lỗi tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "96a130af889f",
+      "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+      "url": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T15:00:44.453610+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Elon Musk đề nghị Shivon Zilis hiến tinh trùng",
+      "bullets": [
+        "Cô Shivon Zilis là mẹ của bốn đứa con của Elon Musk",
+        "Quan hệ của họ bắt đầu khi Zilis tư vấn cho OpenAI",
+        "Cô Zilis từng là thành viên hội đồng quản trị của OpenAI",
+        "Musk và Zilis đã có mối quan hệ ngoài hôn nhân"
+      ],
+      "full_summary": "Cựu thành viên hội đồng quản trị của OpenAI, Shivon Zilis, đã tiết lộ rằng tỷ phú Elon Musk đã đề nghị hiến tinh trùng cho cô. Quan hệ của họ bắt đầu khi Zilis tư vấn cho OpenAI. Cô Zilis từng là thành viên hội đồng quản trị của công ty trí tuệ nhân tạo này. Mối quan hệ ngoài hôn nhân của Musk và Zilis đã được tiết lộ sau khi Zilis sinh bốn đứa con.",
+      "comments": 0,
+      "score": 0
+    }
+  ]
 }
