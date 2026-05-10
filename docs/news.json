@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-10T15:00:47.950466+00:00",
+  "updated_at": "2026-05-10T18:52:23.349346+00:00",
   "articles": [
+    {
+      "id": "0434537a624f",
+      "title": "How sunburn inspired a new way to store energy",
+      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T18:52:08.921923+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Nghiên cứu về cháy nắng giúp phát triển công nghệ lưu trữ năng lượng",
+      "bullets": [
+        "Khám phá ra các phân tử hấp thụ nhiệt có thể giúp giảm thiểu khí thải nhà kính",
+        "Công nghệ này có thể được sử dụng để giảm thiểu khí thải nhà kính trong quá trình sưởi ấm",
+        "Các nhà khoa học đang nghiên cứu cách ứng dụng công nghệ này vào thực tế",
+        "Mục tiêu cuối cùng là tạo ra một nguồn năng lượng sạch và bền vững"
+      ],
+      "full_summary": "Các nhà khoa học đã phát hiện ra các phân tử có thể hấp thụ nhiệt từ ánh nắng mặt trời, và họ đang nghiên cứu cách ứng dụng công nghệ này để lưu trữ năng lượng. Công nghệ này có thể giúp giảm thiểu khí thải nhà kính trong quá trình sưởi ấm và tạo ra một nguồn năng lượng sạch và bền vững. Các nhà khoa học đang nghiên cứu cách ứng dụng công nghệ này vào thực tế để tạo ra một nguồn năng lượng sạch và bền vững.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "386666cd7abf",
+      "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
+      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T18:52:09.864039+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta tắt công nghệ bảo mật tin nhắn Instagram",
+      "bullets": [
+        "Meta sẽ xóa tin nhắn mã hóa hoàn toàn trên Instagram",
+        "Công nghệ này được coi là một bước lùi lớn của Meta",
+        "Người dùng có thể không còn tin tưởng vào tính bảo mật của Instagram",
+        "Meta chưa công bố kế hoạch thay thế công nghệ này"
+      ],
+      "full_summary": "Meta, công ty mẹ của Instagram, đã quyết định tắt công nghệ bảo mật tin nhắn mã hóa hoàn toàn trên ứng dụng này. Điều này có nghĩa là các tin nhắn trên Instagram sẽ không còn được mã hóa hoàn toàn như trước đây. Việc này được coi là một bước lùi lớn của Meta và có thể làm giảm sự tin tưởng của người dùng vào tính bảo mật của ứng dụng. Meta chưa công bố kế hoạch thay thế công nghệ này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4450b82eae39",
+      "title": "Meta brings High Court challenge over Ofcom fees",
+      "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T18:52:10.855636+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta kiện tòa án về phí của Ofcom",
+      "bullets": [
+        "Meta kiện Ofcom về phí quá cao",
+        "Ofcom sẽ bảo vệ vị trí của mình",
+        "Meta cho rằng tính toán của Ofcom quá không hợp lý",
+        "Vụ việc đang được đưa ra tòa án"
+      ],
+      "full_summary": "Meta đã kiện tòa án về phí mà Ofcom tính cho họ. Ofcom cho rằng tính toán của họ là hợp lý, nhưng Meta cho rằng đó là quá cao. Vụ việc đang được đưa ra tòa án để giải quyết. Meta hy vọng sẽ có được một kết quả tốt hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbc00abbaa87",
+      "title": "Watch: Drone delivers first Amazon parcels in UK",
+      "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T18:52:11.888140+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Amazon sử dụng máy bay không người lái để giao hàng siêu tốc",
+      "bullets": [
+        "Amazon bắt đầu thử nghiệm giao hàng siêu tốc bằng máy bay không người lái tại Anh",
+        "Dịch vụ này sẽ được mở rộng dần theo nhu cầu của khách hàng",
+        "Mục tiêu của Amazon là giảm thời gian giao hàng xuống còn vài phút",
+        "Kỹ thuật này có thể thay đổi cách giao hàng truyền thống trong tương lai"
+      ],
+      "full_summary": "Amazon đã bắt đầu thử nghiệm giao hàng siêu tốc bằng máy bay không người lái tại Anh. Dịch vụ này sẽ được mở rộng dần theo nhu cầu của khách hàng. Mục tiêu của Amazon là giảm thời gian giao hàng xuống còn vài phút, giúp khách hàng nhận được hàng nhanh chóng hơn. Kỹ thuật này có thể thay đổi cách giao hàng truyền thống trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d26632a4f96b",
+      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
+      "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T18:52:12.797274+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Musk và Altman đối đầu trong vụ kiện đắt giá",
+      "bullets": [
+        "Đường đua công nghệ giữa Musk và Altman trở nên căng thẳng hơn",
+        "Vụ kiện đã gây ra nhiều tranh cãi và ảnh hưởng đến ngành công nghệ",
+        "Hai tỷ phú công nghệ đang đối đầu trong một vụ kiện đắt giá",
+        "Kết quả của vụ kiện sẽ ảnh hưởng đến tương lai của ngành công nghệ"
+      ],
+      "full_summary": "Vụ kiện giữa Elon Musk và Sam Altman đã trở thành tâm điểm của ngành công nghệ. Hai tỷ phú công nghệ đang đối đầu trong một vụ kiện đắt giá, với Musk là chủ tịch của Twitter và Altman là CEO của OpenAI. Vụ kiện đã gây ra nhiều tranh cãi và ảnh hưởng đến ngành công nghệ. Kết quả của vụ kiện sẽ ảnh hưởng đến tương lai của ngành công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "28c9179743d2",
+      "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
+      "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T18:52:13.807740+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Ukraine sử dụng robot và drone để chiếm đất đai",
+      "bullets": [
+        "Hình thành chiến trường không người lái trong tương lai",
+        "Sử dụng robot và drone trong chiến tranh hiện đại",
+        "Phát triển công nghệ quân sự không người lái",
+        "Tác động của robot và drone trong chiến tranh"
+      ],
+      "full_summary": "Ukraine đã sử dụng robot và drone để chiếm đất đai, theo lời của Tổng thống Zelensky. Điều này cho thấy tương lai của chiến tranh không người lái. Các robot và drone đã được sử dụng trong nhiều cuộc xung đột, bao gồm cả Ukraine. Điều này cho thấy sự phát triển của công nghệ quân sự không người lái và tác động của nó trong chiến tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b132da4025db",
+      "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-10T18:52:16.550589+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ công nhân bị tra tấn sau khi biểu tình hòa bình",
+      "bullets": [
+        "Bị bắt giữ vì biểu tình hòa bình",
+        "Bị tra tấn bằng roi và bị đánh",
+        "Bị bỏ đói và không được ăn",
+        "Bị giam giữ trong một phòng nhỏ"
+      ],
+      "full_summary": "Sadia Moalim Ali, một tài xế xe rickshaw 27 tuổi, đã bị bắt giữ vì tham gia biểu tình hòa bình ở Somalia. Cô đã mô tả cách cô bị tra tấn bởi các vệ sĩ trong tù. Cô nói rằng cô bị hai vệ sĩ nam trong một phòng được giám sát bởi camera an ninh, bị đánh, bị đánh bằng roi và bị bỏ đói trong hai ngày.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7006740ea943",
+      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+      "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-10T18:52:20.572551+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Sự kiện núi lở lớn tạo sóng thần 500m ở khu du lịch nổi tiếng",
+      "bullets": [
+        "Núi lở lớn xảy ra vào sáng sớm, không ai bị thương",
+        "Sóng thần cao 500m được tạo ra bởi sự tan chảy của một thung lũng băng",
+        "Sự kiện xảy ra tại khu vực du lịch nổi tiếng, nhưng may mắn không có người dân ở đó",
+        "Các nhà khoa học đang nghiên cứu nguyên nhân và tác động của sự kiện này"
+      ],
+      "full_summary": "Một sự kiện núi lở lớn đã xảy ra tại khu vực du lịch nổi tiếng, tạo ra sóng thần cao 500m. Sự kiện này xảy ra vào sáng sớm, khi không có người dân ở đó. Các nhà khoa học đang nghiên cứu nguyên nhân và tác động của sự kiện này. Sự kiện này là một ví dụ về tác động của biến đổi khí hậu đối với môi trường tự nhiên.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0656808dcc67",
       "title": "First passengers fly home from virus-hit cruise ship",
