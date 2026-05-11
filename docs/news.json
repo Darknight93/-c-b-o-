@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-05-10T18:52:23.349346+00:00",
+  "updated_at": "2026-05-11T02:32:40.930098+00:00",
   "articles": [
+    {
+      "id": "861d32da4afc",
+      "title": "French national shows symptoms on return from hantavirus-hit ship",
+      "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-11T02:32:26.388424+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một người Pháp có triệu chứng khi trở về từ tàu bị nhiễm hantavirus",
+      "bullets": [
+        "Bốn người hành khách của tàu MV Hondius sẽ được cách ly tại Paris",
+        "Chính phủ Pháp cho biết họ sẽ được cách ly cho đến khi có thông tin mới",
+        "Hantavirus đã được phát hiện trên tàu và một số người đã bị nhiễm",
+        "Một người Pháp đã có triệu chứng khi trở về từ chuyến đi"
+      ],
+      "full_summary": "Một người Pháp đã có triệu chứng khi trở về từ chuyến đi trên tàu MV Hondius, nơi đã phát hiện hantavirus. Chính phủ Pháp đã quyết định cách ly bốn người hành khách khác trên tàu. Họ sẽ được cách ly tại Paris cho đến khi có thông tin mới. Hantavirus đã được phát hiện trên tàu và một số người đã bị nhiễm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c3407e3661ff",
+      "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-11T02:32:27.288727+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nga cấp giấy bảo lãnh cho nhà hoạt động nhân quyền Narges Mohammadi",
+      "bullets": [
+        "Cấp giấy bảo lãnh cho Narges Mohammadi",
+        "Chuyển Narges Mohammadi đến bệnh viện",
+        "Lỗi sức khỏe của Narges Mohammadi đang gây lo ngại",
+        "Narges Mohammadi là nhà hoạt động nhân quyền Iran đoạt giải Nobel"
+      ],
+      "full_summary": "Nga đã cấp giấy bảo lãnh cho nhà hoạt động nhân quyền Iran Narges Mohammadi. Điều này diễn ra sau khi Narges Mohammadi bị giam giữ và sức khỏe của cô đang gặp vấn đề. Narges Mohammadi đã được chuyển đến bệnh viện để được điều trị. Cô là một trong những nhà hoạt động nhân quyền nổi tiếng của Iran và đã đoạt giải Nobel.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4919966c477e",
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-11T02:32:28.689324+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Thái Lan: Thaksin ra tù, liệu kỷ nguyên của ông đã kết thúc?",
+      "bullets": [
+        "Thaksin đã được thả tù sau nhiều năm bị giam giữ.",
+        "Tuy nhiên, ông vẫn không thể từ bỏ tham vọng chính trị.",
+        "Thaksin đã gây ra nhiều cuộc khủng hoảng ở Thái Lan trong quá khứ.",
+        "Liệu ông có thể thay đổi cách hành xử của mình?"
+      ],
+      "full_summary": "Thaksin, cựu Thủ tướng Thái Lan, đã được thả tù sau nhiều năm bị giam giữ. Tuy nhiên, ông vẫn không thể từ bỏ tham vọng chính trị. Thaksin đã gây ra nhiều cuộc khủng hoảng ở Thái Lan trong quá khứ, nhưng liệu ông có thể thay đổi cách hành xử của mình? Điều này vẫn còn là một câu hỏi lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "32d71c9e5c3e",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-11T02:32:29.625160+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nạn nhân đàn áp ở Iran chịu thêm áp lực tâm lý vì chiến tranh",
+      "bullets": [
+        "Căng thẳng chiến tranh khiến người dân Iran thêm lo lắng",
+        "Những người bất đồng chính kiến cảm thấy vô dụng và áp lực tâm lý",
+        "Nạn nhân đàn áp ở Iran đang phải đối mặt với nhiều khó khăn",
+        "Tình hình ở Iran tiếp tục gây lo ngại cho cộng đồng quốc tế"
+      ],
+      "full_summary": "Người bất đồng chính kiến ở Tehran cho biết họ cảm thấy vô dụng và chịu áp lực tâm lý lớn. Chiến tranh đang đe dọa, khiến tình hình ở Iran thêm căng thẳng. Những người bất đồng chính kiến đang phải đối mặt với nhiều khó khăn, bao gồm cả áp lực tâm lý và lo lắng cho tương lai. Tình hình ở Iran tiếp tục gây lo ngại cho cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "148343adfee4",
+      "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-11T02:32:30.557422+00:00",
+      "category": "politics|economy",
+      "importance": 5,
+      "headline": "Giá dầu tăng vọt sau khi Trump bác bỏ đề xuất của Iran",
+      "bullets": [
+        "Giá dầu thô tăng mạnh",
+        "Kênh nước biển eo biển Hormuz vẫn bị phong tỏa",
+        "Chuyển giao năng lượng toàn cầu bị ảnh hưởng nghiêm trọng",
+        "Tình hình chiến tranh ở khu vực Trung Đông vẫn chưa thuyên giảm"
+      ],
+      "full_summary": "Giá dầu thô đã tăng mạnh sau khi Tổng thống Trump bác bỏ đề xuất của Iran để kết thúc chiến tranh. Kênh nước biển eo biển Hormuz vẫn bị phong tỏa, gây ra sự gián đoạn nghiêm trọng đối với các chuyến giao dịch năng lượng toàn cầu. Điều này đã dẫn đến sự tăng giá của dầu thô. Tình hình chiến tranh ở khu vực Trung Đông vẫn chưa thuyên giảm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "45ad41a815f7",
+      "title": "Cyber-crime increasingly coming with threats of physical violence",
+      "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-11T02:32:31.635079+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Hackers ngày càng đe dọa nhân viên bằng bạo lực",
+      "bullets": [
+        "Hacker ngày càng sử dụng đe dọa bạo lực để xâm nhập hệ thống máy tính",
+        "Các hacker đã chuyển từ tấn công mạng sang đe dọa nhân viên trực tiếp",
+        "Nạn nhân của các cuộc tấn công này thường phải đối mặt với bạo lực và đe dọa",
+        "Các công ty cần phải tăng cường biện pháp an ninh để bảo vệ nhân viên"
+      ],
+      "full_summary": "Các hacker ngày càng sử dụng đe dọa bạo lực để xâm nhập hệ thống máy tính. Họ đã chuyển từ tấn công mạng sang đe dọa nhân viên trực tiếp, khiến nạn nhân phải đối mặt với bạo lực và đe dọa. Các công ty cần phải tăng cường biện pháp an ninh để bảo vệ nhân viên khỏi các cuộc tấn công này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ec1ea5e8e3d8",
+      "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+      "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-11T02:32:33.200823+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "África dẫn đầu sự thay đổi trong thói quen tiêu thụ tin tức",
+      "bullets": [
+        "Các nhà sáng tạo nội dung trực tuyến ở châu Phi đang thay đổi cách người tiêu dùng tiếp cận tin tức",
+        "Một số người sáng tạo nội dung đã trở thành chuyên gia giải thích tin tức cho giới trẻ ở châu Phi",
+        "Các video trên TikTok đã trở thành nguồn tin tức phổ biến cho giới trẻ ở châu Phi",
+        "Các nhà sáng tạo nội dung đang thu hút sự chú ý của công chúng và trở thành những người giải thích tin tức"
+      ],
+      "full_summary": "Các nhà sáng tạo nội dung trực tuyến ở châu Phi đang thay đổi cách người tiêu dùng tiếp cận tin tức. Họ đang giải thích tin tức cho giới trẻ ở châu Phi thông qua các video trên TikTok. Các video này đã trở thành nguồn tin tức phổ biến cho giới trẻ ở châu Phi. Các nhà sáng tạo nội dung đang thu hút sự chú ý của công chúng và trở thành những người giải thích tin tức.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0434537a624f",
       "title": "How sunburn inspired a new way to store energy",
