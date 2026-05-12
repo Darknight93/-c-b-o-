@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-05-12T08:31:03.867139+00:00",
+  "updated_at": "2026-05-12T14:04:48.393884+00:00",
   "articles": [
+    {
+      "id": "ce22c3f28656",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T14:04:32.321910+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump chỉ trích thỏa thuận ngừng bắn Iran yếu kém",
+      "bullets": [
+        "Trump chỉ trích thỏa thuận ngừng bắn Iran yếu kém",
+        "Hội nghị thượng đỉnh Iran không đạt được thỏa thuận ngừng bắn",
+        "Iran đưa ra một thỏa thuận ngừng bắn mới, nhưng yếu kém",
+        "Thỏa thuận ngừng bắn hiện tại đang gặp khó khăn"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump đã chỉ trích thỏa thuận ngừng bắn Iran mới, gọi nó là 'yếu kém'. Ông nói rằng thỏa thuận này không đáp ứng được các yêu cầu của Mỹ. Iran đã đưa ra một thỏa thuận ngừng bắn mới sau khi hội nghị thượng đỉnh với Mỹ thất bại. Thỏa thuận ngừng bắn hiện tại đang gặp khó khăn và cần được cứu vớt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "103a3694374f",
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T14:04:33.260674+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Lạm phát Mỹ tăng vọt lên 3,8% do giá năng lượng tăng cao",
+      "bullets": [
+        "Tăng lạm phát Mỹ lên mức cao nhất kể từ tháng 5 năm 2023",
+        "Chi phí năng lượng tăng cao do chiến tranh Iran",
+        "Tác động tiêu cực đến người tiêu dùng Mỹ",
+        "Lạm phát có thể tiếp tục tăng trong thời gian tới"
+      ],
+      "full_summary": "Lạm phát Mỹ tăng vọt lên mức 3,8% trong tháng 4, cao nhất kể từ tháng 5 năm 2023. Nguyên nhân là do giá năng lượng tăng cao do chiến tranh Iran. Điều này đã tác động tiêu cực đến người tiêu dùng Mỹ, khiến họ phải đối mặt với chi phí sống cao hơn. Các chuyên gia dự đoán lạm phát có thể tiếp tục tăng trong thời gian tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f7a0119fad0f",
+      "title": "Uganda's president sworn in for record seventh term",
+      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T14:04:34.210298+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Uganda Yoweri Museveni được tuyên thệ nhậm chức lần thứ 7",
+      "bullets": [
+        "Yoweri Museveni tuyên thệ nhậm chức tổng thống Uganda lần thứ 7",
+        "Ông đã giành chiến thắng trong cuộc bầu cử gây tranh cãi vào tháng 1",
+        "Sự kiện này đánh dấu bước ngoặt trong 40 năm cai trị của ông"
+      ],
+      "full_summary": "Tổng thống Uganda Yoweri Museveni, 81 tuổi, đã tuyên thệ nhậm chức tổng thống Uganda lần thứ 7 sau khi giành chiến thắng trong cuộc bầu cử gây tranh cãi vào tháng 1. Sự kiện này đánh dấu bước ngoặt trong 40 năm cai trị của ông. Yoweri Museveni đã trở thành tổng thống Uganda từ năm 1986 và đã được bầu lại nhiều lần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5ac99efc4872",
+      "title": "No sign of larger hantavirus outbreak, says UN health agency",
+      "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T14:04:35.385796+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "WHO cảnh báo có thể có thêm trường hợp nhiễm virus hanta",
+      "bullets": [
+        "WHO cảnh báo có thể có thêm trường hợp nhiễm virus hanta",
+        "Không có dấu hiệu của một đợt bùng phát lớn",
+        "Cơ quan y tế của Liên Hợp Quốc cảnh báo tình hình có thể thay đổi",
+        "Có thể có thêm trường hợp nhiễm virus hanta được xác nhận"
+      ],
+      "full_summary": "Cơ quan y tế của Liên Hợp Quốc (WHO) vừa phát đi cảnh báo về tình hình virus hanta. Theo WHO, không có dấu hiệu của một đợt bùng phát lớn, nhưng tình hình có thể thay đổi. Cơ quan y tế của Liên Hợp Quốc cảnh báo có thể có thêm trường hợp nhiễm virus hanta được xác nhận. Điều này cho thấy WHO vẫn đang theo dõi tình hình chặt chẽ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7408d880ab35",
+      "title": "EU needs to delay social media access for children - von der Leyen",
+      "url": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T14:04:36.690150+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ủy viên EU đề nghị hoãn truy cập mạng xã hội cho trẻ em",
+      "bullets": [
+        "Đề nghị hoãn truy cập mạng xã hội cho trẻ em",
+        "Báo cáo chuyên gia dự kiến trình bày biện pháp bảo vệ trẻ em trực tuyến",
+        "Ủy viên EU von der Leyen kêu gọi hành động để bảo vệ trẻ em",
+        "Đề xuất này nhằm đảm bảo an toàn cho trẻ em trên mạng xã hội"
+      ],
+      "full_summary": "Ủy viên EU Ursula von der Leyen đề nghị hoãn truy cập mạng xã hội cho trẻ em. Bà cho biết một nhóm chuyên gia sẽ trình bày các biện pháp bảo vệ trẻ em trực tuyến vào tháng 7. Cô kêu gọi hành động để bảo vệ trẻ em khỏi các mối đe dọa trực tuyến. Đề xuất này nhằm đảm bảo an toàn cho trẻ em trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "28eec746193b",
+      "title": "Mexico cancels plans to end school year early for World Cup",
+      "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T14:04:37.653670+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mexico hủy kế hoạch kết thúc năm học sớm để World Cup",
+      "bullets": [
+        "Mexico đã hủy kế hoạch kết thúc năm học sớm vào ngày 5 tháng 6",
+        "Giáo viên và phụ huynh phản đối vì lo ngại về thời tiết nóng",
+        "Tổ chức World Cup sẽ diễn ra vào tháng 6",
+        "Các trường học sẽ kết thúc năm học vào ngày 15 tháng 7 như kế hoạch ban đầu"
+      ],
+      "full_summary": "Mexico đã hủy kế hoạch kết thúc năm học sớm vào ngày 5 tháng 6 để World Cup. Kế hoạch này đã gây ra phản ứng dữ dội từ phụ huynh và giáo viên. Họ lo ngại về thời tiết nóng và ảnh hưởng đến việc học tập của học sinh. Các trường học sẽ kết thúc năm học vào ngày 15 tháng 7 như kế hoạch ban đầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "97d546c87f0d",
+      "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+      "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T14:04:39.168065+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hãng bánh kẹo lớn chuyển sang bao bì đen trắng do chiến tranh Iran gây thiếu hụt mực",
+      "bullets": [
+        "Thiếu hụt mực in toàn cầu do chiến tranh Iran",
+        "Hãng bánh kẹo lớn chuyển sang bao bì đen trắng",
+        "Kéo dài thời gian giao hàng và tăng chi phí sản xuất",
+        "Sự cố này ảnh hưởng đến nhiều ngành công nghiệp khác"
+      ],
+      "full_summary": "Chiến tranh Iran đã gây ra sự cố nghiêm trọng trong việc cung cấp mực in toàn cầu. Hãng bánh kẹo lớn đã phải chuyển sang bao bì đen trắng để tránh thiếu hụt mực. Sự cố này đã kéo dài thời gian giao hàng và tăng chi phí sản xuất. Nó cũng ảnh hưởng đến nhiều ngành công nghiệp khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f1d38ba7f3ad",
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-12T14:04:44.669972+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nhân viên Amazon bị ép dùng công cụ AI tự động hóa công việc",
+      "bullets": [
+        "Sử dụng công cụ AI để tự động hóa các công việc không quan trọng",
+        "Căng thẳng do áp lực từ công ty về việc sử dụng công cụ AI",
+        "Tác động tiêu cực đến công việc và sức khỏe của nhân viên",
+        "Cần xem xét lại chiến lược sử dụng công nghệ tại Amazon"
+      ],
+      "full_summary": "Các nhân viên Amazon đang phải chịu áp lực từ công ty để sử dụng công cụ AI tự động hóa công việc. Họ đang sử dụng công cụ này để tự động hóa các công việc không quan trọng, dẫn đến căng thẳng và tác động tiêu cực đến công việc và sức khỏe của họ. Điều này đã gây ra lo ngại về việc sử dụng công nghệ tại Amazon và cần được xem xét lại.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "06128af9a3f0",
       "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
@@ -637,164 +796,6 @@
         "Gói đăng ký sẽ giúp người dùng tránh quảng cáo trên ứng dụng"
       ],
       "full_summary": "TikTok đã giới thiệu gói đăng ký £3.99 cho người dùng UK. Người dùng không đăng ký sẽ phải xem quảng cáo cá nhân hóa trên ứng dụng. Gói đăng ký sẽ giúp người dùng tránh quảng cáo và sử dụng ứng dụng một cách thoải mái hơn. Người dùng có thể sử dụng TikTok miễn phí nhưng sẽ thấy quảng cáo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d7c1c7dfec02",
-      "title": "A promising Indian launch startup nears its first orbital test flight",
-      "url": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-11T14:34:36.089777+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Công ty khởi nghiệp Ấn Độ sắp thử nghiệm chuyến bay đầu tiên lên quỹ đạo",
-      "bullets": [
-        "Chung tay phát triển tên lửa phóng vệ tinh",
-        "Đạt được mục tiêu tên lửa phóng vệ tinh trong vài năm",
-        "Khởi nghiệp Skyroot dẫn đầu ngành công nghiệp không gian tư nhân Ấn Độ",
-        "Sắp thử nghiệm chuyến bay đầu tiên lên quỹ đạo"
-      ],
-      "full_summary": "Công ty khởi nghiệp Ấn Độ Skyroot đang chuẩn bị cho chuyến bay đầu tiên lên quỹ đạo. Họ đã đạt được mục tiêu tên lửa phóng vệ tinh trong vài năm. Skyroot dẫn đầu ngành công nghiệp không gian tư nhân Ấn Độ, hy vọng sẽ giúp Ấn Độ trở thành một trong những cường quốc không gian.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4d22e21fca84",
-      "title": "Manufacturing qubits that can move",
-      "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-11T14:34:38.895356+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các qubit di động được sản xuất với thành công",
-      "bullets": [
-        "Tạo ra qubit có thể di chuyển",
-        "Sử dụng kỹ thuật điện tử và hình học linh hoạt",
-        "Khó khăn trong việc kết hợp sản xuất điện tử và hình học linh hoạt",
-        "Tiến bộ trong lĩnh vực công nghệ lượng tử"
-      ],
-      "full_summary": "Các nhà khoa học đã đạt được thành công trong việc sản xuất qubit có thể di chuyển. Qubit là một phần quan trọng trong công nghệ lượng tử, giúp tăng cường khả năng tính toán. Tuy nhiên, việc sản xuất qubit có thể di chuyển gặp phải khó khăn do sự kết hợp giữa kỹ thuật điện tử và hình học linh hoạt. Tiến bộ này có thể mở ra cơ hội mới trong lĩnh vực công nghệ lượng tử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11eec0aab040",
-      "title": "US and French nationals test positive for hantavirus after leaving ship",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T09:29:34.321125+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hanta virus lây lan từ tàu biển đến Mỹ và Pháp",
-      "bullets": [
-        "Một người Mỹ đã đến Nebraska",
-        "Một phụ nữ Pháp đang cách ly ở Paris",
-        "Hai người này đã dương tính với virus hanta",
-        "Virus này được phát hiện trên tàu biển"
-      ],
-      "full_summary": "Một người Mỹ và một phụ nữ Pháp đã dương tính với virus hanta sau khi rời tàu biển. Người Mỹ đã đến Nebraska, trong khi phụ nữ Pháp đang cách ly ở Paris. Virus hanta là một loại virus có thể lây lan qua tiếp xúc với động vật gặm nhấm. Các trường hợp này đã được báo cáo sau khi virus được phát hiện trên tàu biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c140507a8a8e",
-      "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
-      "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T09:29:36.796858+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mưa lũ ở Nam Phi, Mỹ và Mexico đối mặt với đợt nóng",
-      "bullets": [
-        "Nhiệt độ ở California và Arizona tăng cao",
-        "Sóng nước lũ tiếp tục ảnh hưởng ở Tây và Bắc Cape",
-        "Mỹ và Mexico chuẩn bị đối mặt với đợt nóng mạnh",
-        "Nhiệt độ có thể lên đến 40-43 độ C ở một số khu vực"
-      ],
-      "full_summary": "Mưa lũ ở Nam Phi tiếp tục gây thiệt hại nặng nề. Trong khi đó, Mỹ và Mexico chuẩn bị đối mặt với đợt nóng mạnh. Nhiệt độ ở California và Arizona tăng cao, với các khu vực như Palm Springs có thể đạt 40-43 độ C. Các chuyên gia dự báo nhiệt độ sẽ tiếp tục tăng cao trước khi dịch chuyển về phía đông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "003c5de8dd48",
-      "title": "Body of missing US soldier recovered off coast of Morocco",
-      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T09:29:37.960569+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Thân xác lính Mỹ mất tích được tìm thấy gần bờ biển Morocco",
-      "bullets": [
-        "Lính Mỹ 1st Lt Kendrick Lamont Key Jr bị mất tích trong một cuộc tập trận",
-        "Đội tìm kiếm của Mỹ và Morocco đã tìm thấy xác trong nước cách vị trí mất tích 1,6km",
-        "Lính Mỹ mất tích trong cuộc tập trận lớn giữa Mỹ, NATO và các nước châu Phi"
-      ],
-      "full_summary": "Lính Mỹ 1st Lt Kendrick Lamont Key Jr đã mất tích trong một cuộc tập trận ở Cap Draa, Morocco. Đội tìm kiếm của Mỹ và Morocco đã tìm thấy xác trong nước cách vị trí mất tích 1,6km. Lính Mỹ mất tích trong cuộc tập trận lớn giữa Mỹ, NATO và các nước châu Phi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f37ccef60fa2",
-      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
-      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T09:29:39.149132+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhà báo Somalia bị bắt và đánh đập vì báo cáo về trường hợp phụ nữ bị tra tấn",
-      "bullets": [
-        "Bị bắt giữ Mohamed Bulbul và 2 đồng nghiệp khi đang ở một nhà hàng ở Mogadishu",
-        "Bị đánh đập bằng súng và bị đưa đi hỏi cung",
-        "Tất cả 3 người được thả vào sáng sớm ngày 10/5"
-      ],
-      "full_summary": "Mohamed Bulbul, một nhà báo của The Guardian, đã bị bắt giữ và đánh đập bởi cảnh sát Somalia sau khi ông ta báo cáo về trường hợp một phụ nữ bị tra tấn trong tù. Sự việc xảy ra vào tối thứ 6, khi ông Bulbul và 2 đồng nghiệp đang ở một nhà hàng ở trung tâm thành phố Mogadishu. Họ bị đánh đập bằng súng và bị đưa đi hỏi cung, nhưng sau đó được thả vào sáng sớm ngày 10/5.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6bfcc5248ad5",
-      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
-      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T09:29:40.206383+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai người Anh được sơ tán khỏi tàu bị nhiễm hantavirus đang hồi phục",
-      "bullets": [
-        "Hai người Anh được sơ tán khỏi tàu bị nhiễm hantavirus",
-        "Người đàn ông 69 tuổi đang được chăm sóc tại Johannesburg",
-        "Người hướng dẫn Martin Anstee 56 tuổi đang được chăm sóc tại Hà Lan",
-        "Hai người này đang được chăm sóc tại bệnh viện"
-      ],
-      "full_summary": "Hai người Anh đã được sơ tán khỏi tàu bị nhiễm hantavirus. Người đàn ông 69 tuổi đang được chăm sóc tại một cơ sở y tế tư nhân ở Sandton, Johannesburg. Người hướng dẫn Martin Anstee 56 tuổi đang được chăm sóc tại Hà Lan. Các quan chức y tế toàn cầu cho biết hai người này đang được chăm sóc và đang hồi phục.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8037a4dcd455",
-      "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
-      "url": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T09:29:41.565659+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Brazil có thể bị Mỹ sáp nhập Amazon",
-      "bullets": [
-        "Mỹ có thể sáp nhập Amazon nếu Brazil bị đảo chính",
-        "Đảo chính Brazil dẫn đến sự sụp đổ của nền dân chủ",
-        "Mỹ có thể khai thác tài nguyên Amazon",
-        "Sự kiện này đe dọa đến cuộc sống của người dân bản địa"
-      ],
-      "full_summary": "Một bộ phim mới mang tên Vitória Régia đã mô tả một Brazil bị đảo chính, nơi mà nền dân chủ bị sụp đổ và Amazon bị sáp nhập vào Mỹ. Bộ phim này cho thấy một Brazil bị Mỹ kiểm soát, nơi mà người dân bản địa phải đối mặt với nhiều rủi ro. Bộ phim này cũng cho thấy sự tham gia của Mỹ trong việc khai thác tài nguyên Amazon.",
       "comments": 0,
       "score": 0
     }
