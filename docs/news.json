@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-05-12T14:04:48.393884+00:00",
+  "updated_at": "2026-05-12T19:41:02.693720+00:00",
   "articles": [
+    {
+      "id": "b45d5a2ae761",
+      "title": "Lebanon says two paramedics among 10 killed in Israeli strikes",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:45.539286+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel tấn công Lebanon, giết 10 người, bao gồm 2 nhân viên cứu hộ",
+      "bullets": [
+        "Israel tiến hành các cuộc tấn công ở Lebanon",
+        "10 người, bao gồm 2 nhân viên cứu hộ, bị giết",
+        "Các nhân viên cứu hộ đang thực hiện một nhiệm vụ cứu hộ ở Nabatieh",
+        "Một người đã bị giết trong một cuộc tấn công trước đó"
+      ],
+      "full_summary": "Israel đã tiến hành các cuộc tấn công ở Lebanon, giết 10 người, bao gồm 2 nhân viên cứu hộ. Các nhân viên cứu hộ đang thực hiện một nhiệm vụ cứu hộ ở Nabatieh trong khi phản ứng lại một cuộc tấn công trước đó đã giết một người. Lebanon đã lên án các cuộc tấn công của Israel.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "497f9a6bd2ca",
+      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
+      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:47.109793+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch cũ của Zelensky bị đưa ra tòa trong vụ điều tra tham nhũng ở Ukraine",
+      "bullets": [
+        "Đã có cáo buộc tham nhũng đối với Andriy Yermak, cựu chủ tịch của Tổng thống Zelensky",
+        "Cơ quan chống tham nhũng Ukraine đã cáo buộc Yermak tham gia vào một vụ rửa tiền",
+        "Yermak bị đưa ra tòa để đối mặt với cáo buộc tham nhũng"
+      ],
+      "full_summary": "Andriy Yermak, cựu chủ tịch của Tổng thống Ukraine Volodymyr Zelensky, đã bị đưa ra tòa trong vụ điều tra tham nhũng ở Ukraine. Cơ quan chống tham nhũng Ukraine đã cáo buộc Yermak tham gia vào một vụ rửa tiền. Yermak bị cáo buộc đã sử dụng tiền mặt bất hợp pháp để mua bất động sản và tài sản khác. Vụ việc đang gây ra sự quan tâm lớn ở Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7abec4d3d8c",
+      "title": "South Africa's top court bars repeat asylum applications",
+      "url": "https://www.bbc.com/news/articles/cy42yx1kn90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:48.320378+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hạ viện Nam Phi cấm nộp đơn xin tị nạn lặp lại",
+      "bullets": [
+        "Cơ quan quản lý nhập cư Nam Phi đã ra quyết định cấm nộp đơn xin tị nạn lặp lại.",
+        "Bộ trưởng Bộ Nội vụ hails quyết định này là một 'thắng lợi' chống lại 'lạm dụng' hệ thống tị nạn.",
+        "Quyết định này nhằm ngăn chặn các trường hợp lạm dụng hệ thống tị nạn.",
+        "Quyết định có thể ảnh hưởng đến hàng nghìn người xin tị nạn tại Nam Phi."
+      ],
+      "full_summary": "Hạ viện Nam Phi đã ra quyết định cấm nộp đơn xin tị nạn lặp lại. Bộ trưởng Bộ Nội vụ hails quyết định này là một 'thắng lợi' chống lại 'lạm dụng' hệ thống tị nạn. Quyết định này nhằm ngăn chặn các trường hợp lạm dụng hệ thống tị nạn. Quyết định có thể ảnh hưởng đến hàng nghìn người xin tị nạn tại Nam Phi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0d709d535f4f",
+      "title": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
+      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:49.961699+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hamas bị cáo buộc sử dụng bạo lực tình dục trong các cuộc tấn công 7/10",
+      "bullets": [
+        "Hồi cứu báo cáo chi tiết về các vụ tấn công tình dục hệ thống",
+        "Các trường hợp đau thương được mô tả trong báo cáo của Israel",
+        "Báo cáo cáo buộc Hamas đã 'lợi dụng' bạo lực tình dục trong các cuộc tấn công",
+        "Các vụ tấn công tình dục được cho là có hệ thống và được lên kế hoạch"
+      ],
+      "full_summary": "Một báo cáo chi tiết của Israel cáo buộc Hamas đã sử dụng bạo lực tình dục trong các cuộc tấn công vào ngày 7/10. Báo cáo mô tả các trường hợp đau thương về bạo lực tình dục và cáo buộc Hamas đã lên kế hoạch và thực hiện các vụ tấn công này. Các vụ tấn công tình dục được cho là có hệ thống và được lên kế hoạch, gây ra những hậu quả nghiêm trọng cho các nạn nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ae31883019d0",
+      "title": "Dali ship operator charged over deadly  Baltimore bridge collapse",
+      "url": "https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:51.018322+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tàu chở hàng va vào cầu ở Baltimore, khiến 6 công nhân thiệt mạng",
+      "bullets": [
+        "Va vào cầu ở Baltimore khiến 6 công nhân thiệt mạng",
+        "Làm rơi nhiều xe xuống sông",
+        "Cướp đi sinh mạng của 6 công nhân",
+        "Được cho là do lỗi của tàu chở hàng"
+      ],
+      "full_summary": "Một vụ tai nạn nghiêm trọng đã xảy ra ở cầu ở Baltimore, Mỹ. Tàu chở hàng đã va vào cầu, khiến 6 công nhân thiệt mạng và nhiều xe rơi xuống sông. Vụ tai nạn đã gây ra sự chú ý lớn và được cho là do lỗi của tàu chở hàng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e09f1261c9e9",
+      "title": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+      "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:52.480192+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Elon Musk muốn giao OpenAI cho con mình",
+      "bullets": [
+        "Elon Musk nhiều lần yêu cầu toàn quyền kiểm soát OpenAI",
+        "Sam Altman từ chối và đang kiện Musk",
+        "Altman nói Musk muốn giao OpenAI cho con mình"
+      ],
+      "full_summary": "Sam Altman, người sáng lập OpenAI, đang kiện Elon Musk vì đã nhiều lần yêu cầu toàn quyền kiểm soát công ty. Altman cho biết Musk muốn giao OpenAI cho con mình, nhưng Altman từ chối và đang kiện để bảo vệ quyền sở hữu của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b0ca955ff244",
+      "title": "Canvas hack: Company pays criminals to delete students' stolen data",
+      "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:53.645585+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty Canvas trả tiền cho hacker để xóa dữ liệu học sinh bị đánh cắp",
+      "bullets": [
+        "Hợp tác với hacker để xóa dữ liệu",
+        "Đánh cắp dữ liệu của hàng nghìn trường đại học",
+        "Công ty Canvas xác nhận đã đạt được thỏa thuận với hacker",
+        "Hacker đòi tiền để xóa dữ liệu bị đánh cắp"
+      ],
+      "full_summary": "Công ty Canvas đã đạt được thỏa thuận với hacker để xóa dữ liệu học sinh bị đánh cắp. Hacker đã tấn công hàng nghìn trường đại học và đòi tiền để xóa dữ liệu. Công ty Canvas xác nhận đã trả tiền cho hacker để xóa dữ liệu và bảo vệ thông tin học sinh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1270d72050fd",
+      "title": "Texas accuses Netflix of spying on users, including children",
+      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T19:40:54.954615+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Netflix bị tố xâm phạm quyền riêng tư người dùng, bao gồm trẻ em",
+      "bullets": [
+        "Texas kiện Netflix về hành vi theo dõi người dùng",
+        "Sự việc xảy ra trong bối cảnh tăng cường kiểm tra các tính năng của nền tảng",
+        "Tính năng tự động phát video gây tranh cãi",
+        "Tính năng này mang lại lợi ích cho Netflix nhưng gây khó chịu cho người dùng"
+      ],
+      "full_summary": "Tỉnh Texas đã kiện Netflix vì hành vi theo dõi người dùng, bao gồm cả trẻ em. Sự việc xảy ra trong bối cảnh tăng cường kiểm tra các tính năng của nền tảng, đặc biệt là tính năng tự động phát video. Tính năng này mang lại lợi ích cho Netflix nhưng gây khó chịu cho người dùng. Các chuyên gia cho rằng việc theo dõi người dùng là vi phạm quyền riêng tư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa1818281719",
+      "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
+      "url": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-12T19:40:59.905674+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Microsoft sẽ tận dụng sức mạnh CPU để tăng tốc ứng dụng và hiệu ứng Windows 11",
+      "bullets": [
+        "Tăng tốc ứng dụng và hiệu ứng Windows 11 bằng cách tận dụng sức mạnh CPU",
+        "Cải thiện hiệu suất hệ điều hành",
+        "Hỗ trợ các ứng dụng và hiệu ứng hoạt động mượt mà hơn",
+        "Tương tự như macOS và Linux"
+      ],
+      "full_summary": "Microsoft đang phát triển một bản cập nhật cho Windows 11, cho phép hệ điều hành tận dụng sức mạnh CPU để tăng tốc ứng dụng và hiệu ứng. Điều này sẽ giúp các ứng dụng và hiệu ứng hoạt động mượt mà hơn, tương tự như macOS và Linux. Cải thiện hiệu suất hệ điều hành sẽ mang lại trải nghiệm người dùng tốt hơn. Bản cập nhật này dự kiến sẽ được phát hành trong tương lai gần.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ce22c3f28656",
       "title": "Trump says Iran ceasefire is on 'massive life support'",
@@ -617,185 +795,6 @@
         "Cộng đồng bản địa đang tìm kiếm sự giúp đỡ từ chính phủ"
       ],
       "full_summary": "Một tổ chức bản địa cáo buộc Los Ardillos, một băng đảng địa phương, đã tấn công các làng bản địa ở bang Guerrero, Mexico bằng máy bay không người lái và đạn súng. Vụ tấn công đã khiến hàng trăm gia đình bản địa phải di dời khỏi nhà cửa. Tổ chức bản địa cho biết các làng đã bị tấn công trong 8 giờ vào cuối tuần qua, buộc khoảng 800-1.000 gia đình phải di dời đến các thị trấn khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d461e1f1e9b5",
-      "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:23.399010+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Sáu người chết trong xe lửa tại khu vực biên giới Texas-Mexico",
-      "bullets": [
-        "Cơ quan Liên minh Bãi biển phát hiện sáu người chết trong một xe lửa tại khu vực Laredo",
-        "Người lao động Union Pacific kiểm tra xe lửa trước khi nó tiếp tục hành trình phía Bắc",
-        "Cơ quan cảnh sát Laredo đang điều tra nguyên nhân cái chết của sáu người này"
-      ],
-      "full_summary": "Tại khu vực biên giới Texas-Mexico, một nhóm người đã chết trong một xe lửa tại khu vực Laredo. Người lao động Union Pacific đã phát hiện ra vụ việc khi kiểm tra xe lửa trước khi nó tiếp tục hành trình phía Bắc. Cơ quan cảnh sát Laredo đang điều tra nguyên nhân cái chết của sáu người này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5888bdbe2a99",
-      "title": "Chicago teen who pushed for parents’ release from ICE custody dies of cancer",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/chicago-teen-kevin-gonzalez-ice-cancer",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:25.005178+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trẻ 18 tuổi Chicago qua đời sau khi cha mẹ được thả khỏi trại giam",
-      "bullets": [
-        "Trẻ 18 tuổi Kevin González qua đời vì ung thư đại tràng",
-        "Cha mẹ của Kevin bị cơ quan quản lý nhập cư Mỹ bắt giữ",
-        "Kevin đã vận động cho cha mẹ được thả khỏi trại giam để ở bên cạnh",
-        "Cha mẹ Kevin được thả khỏi trại giam và được đoàn tụ với Kevin ở Mexico"
-      ],
-      "full_summary": "Kevin González, một chàng trai 18 tuổi từ Chicago, đã qua đời vì ung thư đại tràng. Trước khi qua đời, Kevin đã vận động cho cha mẹ được thả khỏi trại giam của cơ quan quản lý nhập cư Mỹ để ở bên cạnh. Cha mẹ của Kevin đã bị bắt giữ ở Arizona sau khi nhập cảnh không phép vào Mỹ để thăm con trai. Sau khi được thả khỏi trại giam, cha mẹ Kevin đã đoàn tụ với Kevin ở Mexico.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cda09dbc4792",
-      "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
-      "url": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-11T19:30:26.583665+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Starlink tắt tính năng định vị GPS thay thế",
-      "bullets": [
-        "Tắt tính năng định vị GPS thay thế của Starlink",
-        "Các nhà nghiên cứu có thể tìm ra cách mở khóa tính năng này",
-        "Tính năng này không liên quan đến IPO của SpaceX",
-        "Sự thay đổi này không ảnh hưởng đến sự quan tâm đến các giải pháp thay thế GPS"
-      ],
-      "full_summary": "Starlink đã tắt tính năng định vị GPS thay thế của mình, nhưng các nhà nghiên cứu có thể tìm ra cách mở khóa tính năng này. Tính năng này không liên quan đến IPO của SpaceX. Sự thay đổi này không ảnh hưởng đến sự quan tâm đến các giải pháp thay thế GPS. Các nhà nghiên cứu có thể sử dụng dữ liệu công khai để tìm ra cách mở khóa tính năng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2890a35316d",
-      "title": "Microsoft Israel chief leaves amid ethical controversy",
-      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-11T19:30:31.550389+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chủ tịch Microsoft Israel từ chức vì tranh cãi về đạo đức",
-      "bullets": [
-        "Từ chức",
-        "Tranh cãi về đạo đức",
-        "Microsoft Israel",
-        "Chủ tịch"
-      ],
-      "full_summary": "Chủ tịch Microsoft Israel đã từ chức sau khi bị chỉ trích vì liên quan đến một tranh cãi về đạo đức. Điều này đã gây ra sự quan ngại trong cộng đồng và các nhà đầu tư. Microsoft Israel đã không công bố lý do chính thức cho việc từ chức này. Sự kiện này đã thu hút sự chú ý của nhiều người và gây ra nhiều cuộc tranh luận về đạo đức trong công ty.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d82b5b369105",
-      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
-      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T14:34:27.618973+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hình tranh bị cướp bởi Nazi được tìm thấy trong nhà của hậu duệ của chỉ huy SS Hà Lan",
-      "bullets": [
-        "Bị cướp bởi Hermann Goering trong Thế chiến II",
-        "Được tìm thấy trong nhà của hậu duệ chỉ huy SS Hà Lan",
-        "Hình tranh được cho là có giá trị lớn",
-        "Sẽ được trả lại cho sở hữu hợp pháp"
-      ],
-      "full_summary": "Một bức tranh được cho là đã bị Hermann Goering, một chỉ huy cao cấp của Nazi, cướp trong Thế chiến II đã được tìm thấy trong nhà của hậu duệ của một chỉ huy SS Hà Lan. Bức tranh được cho là có giá trị lớn và sẽ được trả lại cho sở hữu hợp pháp. Việc tìm thấy bức tranh đã gây ra sự chú ý trong cộng đồng về vấn đề tài sản bị cướp trong Thế chiến II.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9ce28b4ae223",
-      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T14:34:28.698447+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn bão không kích của Chad khiến nhiều ngư dân Nigeria thiệt mạng",
-      "bullets": [
-        "Châu Chad tiến hành không kích nhằm vào Boko Haram",
-        "Hàng chục ngư dân Nigeria bị thương hoặc thiệt mạng",
-        "Nhiều người chết đuối khi cố gắng trốn tránh bom đạn",
-        "Lãnh đạo ngư dân Nigeria cho biết ít nhất 40 người thiệt mạng"
-      ],
-      "full_summary": "Châu Chad đã tiến hành không kích nhằm vào tổ chức khủng bố Boko Haram. Theo lãnh đạo ngư dân Nigeria, ít nhất 40 người đã thiệt mạng, bao gồm cả những người bị thương và chết đuối khi cố gắng trốn tránh bom đạn. Sự kiện này đã gây ra sự lo lắng lớn ở khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b8a693fe36b6",
-      "title": "Philippine VP Sara Duterte impeached for a second time",
-      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T14:34:29.628540+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chánh án Philippines bị luận tội lần hai",
-      "bullets": [
-        "Bị luận tội vì vi phạm hiến pháp",
-        "Sẽ bị tước quyền ứng cử tổng thống nếu bị kết tội",
-        "Thử thách trong quá trình xét xử tại Thượng viện",
-        "Kết quả xét xử vẫn chưa được xác định"
-      ],
-      "full_summary": "Chánh án Philippines, Sara Duterte, đã bị luận tội lần hai vì vi phạm hiến pháp. Nếu bị kết tội, bà sẽ bị tước quyền ứng cử tổng thống. Quá trình xét xử tại Thượng viện sẽ là thử thách lớn đối với bà Duterte. Kết quả xét xử vẫn chưa được xác định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d08d1c92268a",
-      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
-      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T14:34:31.578968+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chuyên viên hòa bình Bosnia từ chức sau khi mất hậu thuẫn Mỹ",
-      "bullets": [
-        "Chuyên viên hòa bình Bosnia Christian Schmidt từ chức",
-        "Ông mất hậu thuẫn của Mỹ sau khi nhiệm kỳ 2 năm",
-        "Quyền lực và vai trò của ông trong hòa bình Bosnia bị đặt ra câu hỏi",
-        "Tình hình hòa bình Bosnia sẽ tiếp tục diễn biến phức tạp"
-      ],
-      "full_summary": "Chuyên viên hòa bình Bosnia Christian Schmidt đã từ chức sau khi mất hậu thuẫn của Mỹ. Ông đã giữ chức vụ này từ năm 2021. Việc từ chức của ông đặt ra câu hỏi về quyền lực và vai trò của ông trong hòa bình Bosnia. Tình hình hòa bình Bosnia sẽ tiếp tục diễn biến phức tạp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5af439d1d8bd",
-      "title": "TikTok launches £3.99 subscription for no ads in UK",
-      "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T14:34:32.904755+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "TikTok giới thiệu gói đăng ký £3.99 cho người dùng UK tránh quảng cáo",
-      "bullets": [
-        "TikTok sẽ đưa ra gói đăng ký £3.99 cho người dùng UK",
-        "Người dùng không đăng ký sẽ phải xem quảng cáo cá nhân hóa",
-        "Người dùng có thể sử dụng TikTok miễn phí nhưng sẽ thấy quảng cáo",
-        "Gói đăng ký sẽ giúp người dùng tránh quảng cáo trên ứng dụng"
-      ],
-      "full_summary": "TikTok đã giới thiệu gói đăng ký £3.99 cho người dùng UK. Người dùng không đăng ký sẽ phải xem quảng cáo cá nhân hóa trên ứng dụng. Gói đăng ký sẽ giúp người dùng tránh quảng cáo và sử dụng ứng dụng một cách thoải mái hơn. Người dùng có thể sử dụng TikTok miễn phí nhưng sẽ thấy quảng cáo.",
       "comments": 0,
       "score": 0
     }
