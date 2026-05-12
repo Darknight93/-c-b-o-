@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-12T02:26:18.808836+00:00",
+  "updated_at": "2026-05-12T08:31:03.867139+00:00",
   "articles": [
+    {
+      "id": "06128af9a3f0",
+      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
+      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:48.397923+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Pháp tìm cách vượt qua lịch sử thuộc địa bằng cách gặp gỡ lãnh đạo châu Phi tại Kenya",
+      "bullets": [
+        "Pháp tổ chức cuộc họp lịch sử với các nhà lãnh đạo châu Phi tại Kenya.",
+        "Đây là lần đầu tiên kể từ khi các cuộc họp này bắt đầu vào những năm 1970.",
+        "Pháp đang tìm cách thay đổi tư duy về quan hệ với châu Phi.",
+        "Cuộc họp này phản ánh sự thay đổi trong tư duy của Pháp về lịch sử thuộc địa."
+      ],
+      "full_summary": "Pháp đã tổ chức một cuộc họp lịch sử với các nhà lãnh đạo châu Phi tại Kenya. Đây là lần đầu tiên kể từ khi các cuộc họp này bắt đầu vào những năm 1970. Cuộc họp này phản ánh sự thay đổi trong tư duy của Pháp về lịch sử thuộc địa. Pháp đang tìm cách vượt qua lịch sử thuộc địa và xây dựng lại quan hệ với châu Phi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f1f74e55fe8",
+      "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
+      "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:49.882769+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Pakistan tấn công trung tâm phục hồi và giết 269 người Afghanistan",
+      "bullets": [
+        "Pakistan bị chỉ trích vì tấn công vào trung tâm phục hồi",
+        "UN cho rằng có thể có nhiều người Afghanistan thiệt mạng hơn",
+        "Các gia đình nạn nhân đòi hỏi lý do tại sao Pakistan tấn công",
+        "Có những lời kêu gọi điều tra vụ tấn công này như một tội ác chiến tranh"
+      ],
+      "full_summary": "Pakistan đã bị chỉ trích vì tấn công vào một trung tâm phục hồi ở Afghanistan vào ngày 16 tháng 3, khiến ít nhất 269 người thiệt mạng. Các gia đình nạn nhân đang đòi hỏi lý do tại sao Pakistan tấn công. UN cho rằng có thể có nhiều người Afghanistan thiệt mạng hơn. Có những lời kêu gọi điều tra vụ tấn công này như một tội ác chiến tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dd10191525ec",
+      "title": "Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest",
+      "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:51.304512+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu cảnh sát trưởng Duterte trốn tránh bị bắt bởi ICC",
+      "bullets": [
+        "Cảnh sát trưởng quốc gia Philippines trước đây, Ronald 'Bato' Dela Rosa, tìm kiếm sự bảo vệ tại Thượng viện.",
+        "Ông bị cáo buộc liên quan đến chiến dịch chống ma túy gây tranh cãi.",
+        "ICC muốn bắt giữ ông vì tội ác nhân quyền.",
+        "Ông tìm kiếm sự bảo vệ tại Thượng viện để tránh bị bắt."
+      ],
+      "full_summary": "Cựu cảnh sát trưởng quốc gia Philippines trước đây, Ronald 'Bato' Dela Rosa, đã tìm kiếm sự bảo vệ tại Thượng viện để tránh bị bắt bởi Tòa án Hình sự Quốc tế (ICC). Ông bị cáo buộc liên quan đến chiến dịch chống ma túy gây tranh cãi của cựu tổng thống Philippines Rodrigo Duterte. ICC muốn bắt giữ ông vì tội ác nhân quyền. Động thái này đã gây ra tranh cãi và đặt ra câu hỏi về tính hiệu quả của ICC trong việc thực thi công lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3af691833204",
+      "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:52.493925+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel thông qua luật cho phép tử hình và xét xử công khai những liên quan đến vụ tấn công Hamas",
+      "bullets": [
+        "Chính phủ Israel thông qua luật cho phép tử hình những liên quan đến vụ tấn công Hamas",
+        "Luật cho phép xét xử công khai những liên quan đến vụ tấn công",
+        "Vụ tấn công Hamas diễn ra vào ngày 7 tháng 10",
+        "Luật này gây tranh cãi và được coi là bước đi cứng rắn của chính phủ Israel"
+      ],
+      "full_summary": "Chính phủ Israel đã thông qua một luật cho phép tử hình và xét xử công khai những liên quan đến vụ tấn công Hamas diễn ra vào ngày 7 tháng 10. Luật này được coi là bước đi cứng rắn của chính phủ Israel nhằm đối phó với cuộc tấn công của Hamas. Tuy nhiên, luật này cũng gây tranh cãi và được coi là vi phạm quyền con người. Luật này sẽ được áp dụng cho những người liên quan đến vụ tấn công, bao gồm cả những người không trực tiếp tham gia vào vụ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0434537a624f",
+      "title": "How sunburn inspired a new way to store energy",
+      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:53.521546+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Nghiên cứu về cháy nắng giúp phát triển công nghệ lưu trữ năng lượng",
+      "bullets": [
+        "Khám phá ra các phân tử có thể hấp thụ nhiệt",
+        "Công nghệ này có thể giúp giảm thiểu khí thải nhà kính",
+        "Mở ra hướng mới cho việc giảm thiểu khí thải trong lĩnh vực sưởi ấm",
+        "Có thể giúp giảm thiểu tác động của biến đổi khí hậu"
+      ],
+      "full_summary": "Các nhà khoa học đã phát hiện ra các phân tử có thể hấp thụ nhiệt từ ánh nắng mặt trời, điều này có thể giúp giảm thiểu khí thải nhà kính trong lĩnh vực sưởi ấm. Công nghệ này có thể giúp giảm thiểu tác động của biến đổi khí hậu và mở ra hướng mới cho việc giảm thiểu khí thải trong lĩnh vực này. Các nhà khoa học hy vọng rằng công nghệ này sẽ giúp giảm thiểu khí thải nhà kính và giảm thiểu tác động của biến đổi khí hậu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "386666cd7abf",
+      "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
+      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:54.492132+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta tắt công nghệ bảo mật tin nhắn Instagram",
+      "bullets": [
+        "Meta sẽ xóa mã hóa tin nhắn end-to-end trên Instagram",
+        "Tính năng này sẽ ảnh hưởng đến các tin nhắn riêng tư trên ứng dụng",
+        "Động thái này được coi là một u-turn lớn của công ty mẹ Meta",
+        "Việc xóa mã hóa có thể khiến thông tin người dùng dễ bị truy cập hơn"
+      ],
+      "full_summary": "Meta đã thông báo sẽ xóa mã hóa tin nhắn end-to-end trên Instagram, gây ra sự bất ngờ lớn trong cộng đồng người dùng. Điều này có nghĩa là các tin nhắn riêng tư trên ứng dụng sẽ không còn được mã hóa nữa, khiến thông tin người dùng dễ bị truy cập hơn. Động thái này được coi là một u-turn lớn của công ty mẹ Meta, sau khi công ty này đã cam kết bảo vệ quyền riêng tư của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4450b82eae39",
+      "title": "Meta brings High Court challenge over Ofcom fees",
+      "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:55.368570+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta thách thức tòa án về phí của Ofcom",
+      "bullets": [
+        "Meta kiện Ofcom về phí quá cao",
+        "Ofcom sẽ bảo vệ vị trí của mình",
+        "Meta cho rằng tính toán của Ofcom là không hợp lý",
+        "Vụ việc đang được đưa ra xét xử"
+      ],
+      "full_summary": "Meta đã kiện Ofcom về phí quá cao. Meta cho rằng tính toán của Ofcom là không hợp lý. Ofcom cho biết sẽ bảo vệ vị trí của mình. Vụ việc đang được đưa ra xét xử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbc00abbaa87",
+      "title": "Watch: Drone delivers first Amazon parcels in UK",
+      "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-12T08:30:56.433042+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Amazon sử dụng máy bay không người lái để giao hàng siêu tốc tại Anh",
+      "bullets": [
+        "Amazon bắt đầu sử dụng máy bay không người lái để giao hàng siêu tốc",
+        "Dịch vụ này sẽ được mở rộng dần theo nhu cầu",
+        "Mục tiêu của Amazon là giảm thời gian giao hàng xuống còn vài phút",
+        "Công nghệ này có thể mở ra một kỷ nguyên mới trong giao hàng siêu tốc"
+      ],
+      "full_summary": "Amazon đã bắt đầu sử dụng máy bay không người lái để giao hàng siêu tốc tại Anh. Công ty này hy vọng sẽ mở rộng dịch vụ này theo nhu cầu. Mục tiêu của Amazon là giảm thời gian giao hàng xuống còn vài phút. Công nghệ này có thể mở ra một kỷ nguyên mới trong giao hàng siêu tốc.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "474d5924fa66",
       "title": "How the Trump-Xi summit could set superpower relations for many years to come",
@@ -635,165 +795,6 @@
         "Sự kiện này đe dọa đến cuộc sống của người dân bản địa"
       ],
       "full_summary": "Một bộ phim mới mang tên Vitória Régia đã mô tả một Brazil bị đảo chính, nơi mà nền dân chủ bị sụp đổ và Amazon bị sáp nhập vào Mỹ. Bộ phim này cho thấy một Brazil bị Mỹ kiểm soát, nơi mà người dân bản địa phải đối mặt với nhiều rủi ro. Bộ phim này cũng cho thấy sự tham gia của Mỹ trong việc khai thác tài nguyên Amazon.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5367795636eb",
-      "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
-      "url": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-11T09:29:45.685479+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump được cho là chuẩn bị sa thải Giám đốc FDA Marty Makary",
-      "bullets": [
-        "Chính phủ Mỹ có kế hoạch thay đổi lãnh đạo FDA",
-        "Giám đốc FDA Marty Makary có thể bị sa thải sớm",
-        "Thay đổi lãnh đạo FDA có thể ảnh hưởng đến chính sách y tế",
-        "Kế hoạch sa thải Giám đốc FDA chưa được công bố chính thức"
-      ],
-      "full_summary": "Theo nguồn tin, Tổng thống Trump đang chuẩn bị sa thải Giám đốc FDA Marty Makary. Đây không phải là điều bất ngờ vì Tổng thống Trump từng có quan điểm trái ngược với Giám đốc FDA về nhiều vấn đề. Nếu kế hoạch này được thực hiện, nó sẽ ảnh hưởng đến chính sách y tế của Mỹ. Tuy nhiên, kế hoạch này vẫn chưa được công bố chính thức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0c2c06d4d4d1",
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-11T09:29:50.372650+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhà sản xuất phim James Burke đã có một cơ hội duy nhất để ghi hình cảnh này",
-      "bullets": [
-        "Ghi hình cảnh quan trọng trong một lần",
-        "James Burke đã chuẩn bị kỹ lưỡng cho cảnh này",
-        "Cảnh được ghi hình với một diễn biến bất ngờ"
-      ],
-      "full_summary": "James Burke, nhà sản xuất phim, đã có một cơ hội duy nhất để ghi hình cảnh quan trọng trong một bộ phim. Ông đã chuẩn bị kỹ lưỡng cho cảnh này và đã ghi hình thành công. Cảnh được ghi hình với một diễn biến bất ngờ, khiến khán giả bị bất ngờ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "861d32da4afc",
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T02:32:26.388424+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một người Pháp có triệu chứng khi trở về từ tàu bị nhiễm hantavirus",
-      "bullets": [
-        "Bốn người hành khách của tàu MV Hondius sẽ được cách ly tại Paris",
-        "Chính phủ Pháp cho biết họ sẽ được cách ly cho đến khi có thông tin mới",
-        "Hantavirus đã được phát hiện trên tàu và một số người đã bị nhiễm",
-        "Một người Pháp đã có triệu chứng khi trở về từ chuyến đi"
-      ],
-      "full_summary": "Một người Pháp đã có triệu chứng khi trở về từ chuyến đi trên tàu MV Hondius, nơi đã phát hiện hantavirus. Chính phủ Pháp đã quyết định cách ly bốn người hành khách khác trên tàu. Họ sẽ được cách ly tại Paris cho đến khi có thông tin mới. Hantavirus đã được phát hiện trên tàu và một số người đã bị nhiễm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c3407e3661ff",
-      "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
-      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T02:32:27.288727+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nga cấp giấy bảo lãnh cho nhà hoạt động nhân quyền Narges Mohammadi",
-      "bullets": [
-        "Cấp giấy bảo lãnh cho Narges Mohammadi",
-        "Chuyển Narges Mohammadi đến bệnh viện",
-        "Lỗi sức khỏe của Narges Mohammadi đang gây lo ngại",
-        "Narges Mohammadi là nhà hoạt động nhân quyền Iran đoạt giải Nobel"
-      ],
-      "full_summary": "Nga đã cấp giấy bảo lãnh cho nhà hoạt động nhân quyền Iran Narges Mohammadi. Điều này diễn ra sau khi Narges Mohammadi bị giam giữ và sức khỏe của cô đang gặp vấn đề. Narges Mohammadi đã được chuyển đến bệnh viện để được điều trị. Cô là một trong những nhà hoạt động nhân quyền nổi tiếng của Iran và đã đoạt giải Nobel.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4919966c477e",
-      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-      "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T02:32:28.689324+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Thái Lan: Thaksin ra tù, liệu kỷ nguyên của ông đã kết thúc?",
-      "bullets": [
-        "Thaksin đã được thả tù sau nhiều năm bị giam giữ.",
-        "Tuy nhiên, ông vẫn không thể từ bỏ tham vọng chính trị.",
-        "Thaksin đã gây ra nhiều cuộc khủng hoảng ở Thái Lan trong quá khứ.",
-        "Liệu ông có thể thay đổi cách hành xử của mình?"
-      ],
-      "full_summary": "Thaksin, cựu Thủ tướng Thái Lan, đã được thả tù sau nhiều năm bị giam giữ. Tuy nhiên, ông vẫn không thể từ bỏ tham vọng chính trị. Thaksin đã gây ra nhiều cuộc khủng hoảng ở Thái Lan trong quá khứ, nhưng liệu ông có thể thay đổi cách hành xử của mình? Điều này vẫn còn là một câu hỏi lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "32d71c9e5c3e",
-      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
-      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T02:32:29.625160+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nạn nhân đàn áp ở Iran chịu thêm áp lực tâm lý vì chiến tranh",
-      "bullets": [
-        "Căng thẳng chiến tranh khiến người dân Iran thêm lo lắng",
-        "Những người bất đồng chính kiến cảm thấy vô dụng và áp lực tâm lý",
-        "Nạn nhân đàn áp ở Iran đang phải đối mặt với nhiều khó khăn",
-        "Tình hình ở Iran tiếp tục gây lo ngại cho cộng đồng quốc tế"
-      ],
-      "full_summary": "Người bất đồng chính kiến ở Tehran cho biết họ cảm thấy vô dụng và chịu áp lực tâm lý lớn. Chiến tranh đang đe dọa, khiến tình hình ở Iran thêm căng thẳng. Những người bất đồng chính kiến đang phải đối mặt với nhiều khó khăn, bao gồm cả áp lực tâm lý và lo lắng cho tương lai. Tình hình ở Iran tiếp tục gây lo ngại cho cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "148343adfee4",
-      "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T02:32:30.557422+00:00",
-      "category": "politics|economy",
-      "importance": 5,
-      "headline": "Giá dầu tăng vọt sau khi Trump bác bỏ đề xuất của Iran",
-      "bullets": [
-        "Giá dầu thô tăng mạnh",
-        "Kênh nước biển eo biển Hormuz vẫn bị phong tỏa",
-        "Chuyển giao năng lượng toàn cầu bị ảnh hưởng nghiêm trọng",
-        "Tình hình chiến tranh ở khu vực Trung Đông vẫn chưa thuyên giảm"
-      ],
-      "full_summary": "Giá dầu thô đã tăng mạnh sau khi Tổng thống Trump bác bỏ đề xuất của Iran để kết thúc chiến tranh. Kênh nước biển eo biển Hormuz vẫn bị phong tỏa, gây ra sự gián đoạn nghiêm trọng đối với các chuyến giao dịch năng lượng toàn cầu. Điều này đã dẫn đến sự tăng giá của dầu thô. Tình hình chiến tranh ở khu vực Trung Đông vẫn chưa thuyên giảm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "45ad41a815f7",
-      "title": "Cyber-crime increasingly coming with threats of physical violence",
-      "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T02:32:31.635079+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hackers ngày càng đe dọa nhân viên bằng bạo lực",
-      "bullets": [
-        "Hacker ngày càng sử dụng đe dọa bạo lực để xâm nhập hệ thống máy tính",
-        "Các hacker đã chuyển từ tấn công mạng sang đe dọa nhân viên trực tiếp",
-        "Nạn nhân của các cuộc tấn công này thường phải đối mặt với bạo lực và đe dọa",
-        "Các công ty cần phải tăng cường biện pháp an ninh để bảo vệ nhân viên"
-      ],
-      "full_summary": "Các hacker ngày càng sử dụng đe dọa bạo lực để xâm nhập hệ thống máy tính. Họ đã chuyển từ tấn công mạng sang đe dọa nhân viên trực tiếp, khiến nạn nhân phải đối mặt với bạo lực và đe dọa. Các công ty cần phải tăng cường biện pháp an ninh để bảo vệ nhân viên khỏi các cuộc tấn công này.",
       "comments": 0,
       "score": 0
     }
