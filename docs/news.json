@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-05-13T14:13:42.350816+00:00",
+  "updated_at": "2026-05-13T19:45:26.131220+00:00",
   "articles": [
+    {
+      "id": "f2774d7dd6c5",
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:09.120251+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tòa án đảo ngược kết tội Alex Murdaugh, yêu cầu xét xử lại",
+      "bullets": [
+        "Tòa án đã đảo ngược kết tội giết người của Alex Murdaugh",
+        "Tòa án đã yêu cầu xét xử lại vụ giết Paul và Maggie Murdaugh",
+        "Vụ án xảy ra vào tháng 6 năm 2021",
+        "Alex Murdaugh đã bị kết tội giết vợ và con trai"
+      ],
+      "full_summary": "Tòa án đã đảo ngược kết tội giết người của Alex Murdaugh, người đã bị kết tội giết vợ và con trai vào tháng 6 năm 2021. Tòa án đã yêu cầu xét xử lại vụ án. Vụ án đã gây ra sự quan tâm lớn trong cộng đồng. Alex Murdaugh đã bị kết tội giết Paul và Maggie Murdaugh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e0b151ffbd2a",
+      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+      "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:10.450051+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bất động viên người dân bằng hình ảnh chó bị thương",
+      "bullets": [
+        "Vạch trần những kẻ lừa đảo sử dụng hình ảnh chó bị thương để lừa tiền",
+        "BBC điều tra và phát hiện ra những kẻ lừa đảo này",
+        "Đã có hàng chục con chó được cứu và nghi phạm bị bắt giữ",
+        "Nghi phạm bị bắt giữ sau khi BBC điều tra về hoạt động lừa đảo này"
+      ],
+      "full_summary": "Một cuộc điều tra của BBC đã phát hiện ra những kẻ lừa đảo sử dụng hình ảnh chó bị thương để lừa tiền từ người dân. Những kẻ lừa đảo này đã đăng tải hình ảnh chó bị thương lên mạng xã hội để thu hút sự chú ý và lừa tiền từ người dân. Sau khi BBC điều tra, hàng chục con chó đã được cứu và nghi phạm bị bắt giữ. Điều tra này đã giúp ngăn chặn hoạt động lừa đảo này và bảo vệ những con chó bị thương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "62296495310e",
+      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:11.422829+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người phụ nữ trên hòn đảo Pitcairn không có triệu chứng hạch hantavirus",
+      "bullets": [
+        "Được đưa đến hòn đảo Pitcairn sau khi tiếp xúc với hạch hantavirus trên tàu",
+        "Không có dấu hiệu mắc bệnh hạch hantavirus",
+        "Đang được cách ly trên hòn đảo",
+        "Hòn đảo Pitcairn là một lãnh thổ hải ngoại của Anh"
+      ],
+      "full_summary": "Người phụ nữ đã được đưa đến hòn đảo Pitcairn sau khi tiếp xúc với hạch hantavirus trên tàu. Theo chính phủ hòn đảo, người phụ nữ không có dấu hiệu mắc bệnh. Người phụ nữ đang được cách ly trên hòn đảo để đảm bảo an toàn. Hòn đảo Pitcairn là một lãnh thổ hải ngoại của Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69508f26f007",
+      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:12.415345+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Waymo tự nguyện thu hồi hàng nghìn xe tự lái sau tai nạn",
+      "bullets": [
+        "Thu hồi xe tự lái Waymo sau khi một chiếc xe tự lái rơi vào một con suối",
+        "Vụ tai nạn xảy ra vào ngày 20 tháng 4 tại San Antonio, Texas",
+        "Xe tự lái Waymo không có người lái khi xảy ra vụ tai nạn",
+        "Thu hồi xe tự lái là một biện pháp tự nguyện"
+      ],
+      "full_summary": "Waymo đã tự nguyện thu hồi hàng nghìn xe tự lái sau khi một chiếc xe tự lái rơi vào một con suối tại San Antonio, Texas. Vụ tai nạn xảy ra vào ngày 20 tháng 4 khi một chiếc xe tự lái Waymo không có người lái đi vào một con đường bị ngập nước. Điều này đã dẫn đến việc thu hồi xe tự lái Waymo để đảm bảo an toàn cho người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fdd28d946674",
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:13.536892+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp ra tính năng trò chuyện riêng tư với AI",
+      "bullets": [
+        "WhatsApp ra mắt tính năng trò chuyện riêng tư với AI",
+        "Tính năng này cho phép người dùng xóa lịch sử trò chuyện",
+        "Một chuyên gia an ninh mạng lo ngại việc xóa lịch sử có thể dẫn đến thiếu trách nhiệm",
+        "Tính năng này sẽ giúp người dùng giữ bí mật thông tin cá nhân"
+      ],
+      "full_summary": "WhatsApp vừa ra mắt tính năng trò chuyện riêng tư với AI. Tính năng này cho phép người dùng xóa lịch sử trò chuyện, giúp họ giữ bí mật thông tin cá nhân. Tuy nhiên, một chuyên gia an ninh mạng lo ngại việc xóa lịch sử có thể dẫn đến thiếu trách nhiệm nếu có vấn đề xảy ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7a0726b70204",
+      "title": "Suicide forum fined £950,000 for not blocking UK users",
+      "url": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:14.574901+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Điện tử Anh phạt £950,000 vì không chặn người dùng UK",
+      "bullets": [
+        "Phó chủ tịch Ofcom chỉ trích diễn đàn vì chậm chặn người dùng UK",
+        "Điện tử Anh phạt £950,000 vì không chặn người dùng UK",
+        "Diễn đàn không thực hiện đủ biện pháp bảo vệ người dùng UK"
+      ],
+      "full_summary": "Một diễn đàn điện tử đã bị phạt £950,000 vì không chặn người dùng UK. Theo cơ quan quản lý, diễn đàn này không thực hiện đủ biện pháp bảo vệ người dùng UK. Tuy nhiên, một số người chỉ trích cơ quan quản lý Ofcom vì chậm chặn diễn đàn này. Cả hai bên đều có lập luận của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "003c5de8dd48",
+      "title": "Body of missing US soldier recovered off coast of Morocco",
+      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:15.548892+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mỹ tìm thấy thi thể binh sĩ mất tích ở Morocco",
+      "bullets": [
+        "Tìm thấy thi thể binh sĩ Mỹ ở Morocco",
+        "Binh sĩ Mỹ mất tích trong cuộc tập trận ở Cap Draa",
+        "Thi thể được tìm thấy trong nước cách nơi mất tích 1,6 km",
+        "Lực lượng tìm kiếm bao gồm cả quân đội Morocco"
+      ],
+      "full_summary": "Một binh sĩ Mỹ tên Kendrick Lamont Key Jr đã mất tích trong một cuộc tập trận ở Cap Draa, Morocco. Lực lượng tìm kiếm đã tìm thấy thi thể của binh sĩ này vào ngày 9 tháng 5. Binh sĩ này mất tích vào ngày 2 tháng 5 trong khi đang tham gia một cuộc tập trận với các đồng minh NATO và các nước châu Phi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f6dcf02c3652",
+      "title": "Les Simpson: return of Québécois show spares viewers from ‘European French’",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:16.551346+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Les Simpson sẽ trở lại với mùa thứ 36",
+      "bullets": [
+        "Bell Media đã đạt được thỏa thuận với Disney để phát sóng và lồng tiếng Les Simpson",
+        "Serie được yêu thích sẽ trở lại vào mùa thu sau gần một năm bất ổn",
+        "Les Simpson là phiên bản tiếng Pháp của bộ phim hoạt hình được yêu thích ở tỉnh Quebec",
+        "Bộ phim sẽ được phát sóng với mùa thứ 36"
+      ],
+      "full_summary": "Bộ phim hoạt hình Les Simpson sẽ trở lại với mùa thứ 36 vào mùa thu sau. Sau gần một năm bất ổn, Bell Media đã đạt được thỏa thuận với Disney để phát sóng và lồng tiếng bộ phim. Les Simpson là phiên bản tiếng Pháp của bộ phim hoạt hình được yêu thích ở tỉnh Quebec. Bộ phim sẽ tiếp tục mang lại niềm vui cho người hâm mộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8813b9dc5ac5",
+      "title": "Trump urged to rule out ‘unlawful’ Cuba takeover and stop using Guantánamo Bay for migrant detention",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/trump-cuba-takeover-guantanamo-bay-migrants",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T19:45:18.300613+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hội đồng lập pháp Mỹ ngăn chặn Trump xâm lược Cuba và sử dụng Guantánamo Bay",
+      "bullets": [
+        "Hội đồng lập pháp Mỹ gửi thư cảnh báo không xâm lược Cuba",
+        "Kêu gọi Trump ngưng sử dụng Guantánamo Bay để giam giữ người nhập cư",
+        "Liên kết sự gia tăng di cư từ Cuba với sự gia tăng căng thẳng từ Mỹ",
+        "Hội đồng lập pháp Mỹ lo ngại kế hoạch này sẽ làm trầm trọng thêm 'sự khổ đau hàng loạt'"
+      ],
+      "full_summary": "Hơn 30 thành viên Hội đồng lập pháp Mỹ đã gửi thư cho các quan chức hàng đầu của Tổng thống Donald Trump, kêu gọi họ ngưng sử dụng căn cứ hải quân Guantánamo Bay để giam giữ người nhập cư và ngăn chặn bất kỳ kế hoạch nào xâm lược Cuba. Họ cho rằng sự gia tăng di cư từ Cuba là kết quả của sự gia tăng căng thẳng từ Mỹ. Hội đồng lập pháp Mỹ lo ngại kế hoạch này sẽ làm trầm trọng thêm 'sự khổ đau hàng loạt' ở Cuba.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "819b883be50c",
+      "title": "Neanderthals drilled cavities to treat a toothache 59,000 years ago",
+      "url": "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-13T19:45:21.836220+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Người Neanderthal đã khoan lỗ để chữa răng nhức 59.000 năm trước",
+      "bullets": [
+        "Khoan lỗ để chữa răng nhức",
+        "Phát hiện ở xương hàm Neanderthal 59.000 năm trước",
+        "Bằng chứng cho thấy Neanderthal có khả năng điều trị răng",
+        "Khám phá mới về sự tiến hóa của loài người"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã phát hiện ra bằng chứng về việc người Neanderthal đã khoan lỗ để chữa răng nhức 59.000 năm trước. Bằng chứng này được tìm thấy trên xương hàm của một người Neanderthal ở châu Âu. Điều này cho thấy rằng người Neanderthal có khả năng điều trị răng và có thể đã có kiến thức về y học. Phát hiện này đã mở ra một số câu hỏi về sự tiến hóa của loài người và khả năng của chúng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "9a6095249d95",
       "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
@@ -592,205 +791,6 @@
         "Hacker đòi tiền để xóa dữ liệu bị đánh cắp"
       ],
       "full_summary": "Công ty Canvas đã đạt được thỏa thuận với hacker để xóa dữ liệu học sinh bị đánh cắp. Hacker đã tấn công hàng nghìn trường đại học và đòi tiền để xóa dữ liệu. Công ty Canvas xác nhận đã trả tiền cho hacker để xóa dữ liệu và bảo vệ thông tin học sinh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1270d72050fd",
-      "title": "Texas accuses Netflix of spying on users, including children",
-      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T19:40:54.954615+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Netflix bị tố xâm phạm quyền riêng tư người dùng, bao gồm trẻ em",
-      "bullets": [
-        "Texas kiện Netflix về hành vi theo dõi người dùng",
-        "Sự việc xảy ra trong bối cảnh tăng cường kiểm tra các tính năng của nền tảng",
-        "Tính năng tự động phát video gây tranh cãi",
-        "Tính năng này mang lại lợi ích cho Netflix nhưng gây khó chịu cho người dùng"
-      ],
-      "full_summary": "Tỉnh Texas đã kiện Netflix vì hành vi theo dõi người dùng, bao gồm cả trẻ em. Sự việc xảy ra trong bối cảnh tăng cường kiểm tra các tính năng của nền tảng, đặc biệt là tính năng tự động phát video. Tính năng này mang lại lợi ích cho Netflix nhưng gây khó chịu cho người dùng. Các chuyên gia cho rằng việc theo dõi người dùng là vi phạm quyền riêng tư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa1818281719",
-      "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
-      "url": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-12T19:40:59.905674+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Microsoft sẽ tận dụng sức mạnh CPU để tăng tốc ứng dụng và hiệu ứng Windows 11",
-      "bullets": [
-        "Tăng tốc ứng dụng và hiệu ứng Windows 11 bằng cách tận dụng sức mạnh CPU",
-        "Cải thiện hiệu suất hệ điều hành",
-        "Hỗ trợ các ứng dụng và hiệu ứng hoạt động mượt mà hơn",
-        "Tương tự như macOS và Linux"
-      ],
-      "full_summary": "Microsoft đang phát triển một bản cập nhật cho Windows 11, cho phép hệ điều hành tận dụng sức mạnh CPU để tăng tốc ứng dụng và hiệu ứng. Điều này sẽ giúp các ứng dụng và hiệu ứng hoạt động mượt mà hơn, tương tự như macOS và Linux. Cải thiện hiệu suất hệ điều hành sẽ mang lại trải nghiệm người dùng tốt hơn. Bản cập nhật này dự kiến sẽ được phát hành trong tương lai gần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ce22c3f28656",
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T14:04:32.321910+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump chỉ trích thỏa thuận ngừng bắn Iran yếu kém",
-      "bullets": [
-        "Trump chỉ trích thỏa thuận ngừng bắn Iran yếu kém",
-        "Hội nghị thượng đỉnh Iran không đạt được thỏa thuận ngừng bắn",
-        "Iran đưa ra một thỏa thuận ngừng bắn mới, nhưng yếu kém",
-        "Thỏa thuận ngừng bắn hiện tại đang gặp khó khăn"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump đã chỉ trích thỏa thuận ngừng bắn Iran mới, gọi nó là 'yếu kém'. Ông nói rằng thỏa thuận này không đáp ứng được các yêu cầu của Mỹ. Iran đã đưa ra một thỏa thuận ngừng bắn mới sau khi hội nghị thượng đỉnh với Mỹ thất bại. Thỏa thuận ngừng bắn hiện tại đang gặp khó khăn và cần được cứu vớt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "103a3694374f",
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T14:04:33.260674+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Lạm phát Mỹ tăng vọt lên 3,8% do giá năng lượng tăng cao",
-      "bullets": [
-        "Tăng lạm phát Mỹ lên mức cao nhất kể từ tháng 5 năm 2023",
-        "Chi phí năng lượng tăng cao do chiến tranh Iran",
-        "Tác động tiêu cực đến người tiêu dùng Mỹ",
-        "Lạm phát có thể tiếp tục tăng trong thời gian tới"
-      ],
-      "full_summary": "Lạm phát Mỹ tăng vọt lên mức 3,8% trong tháng 4, cao nhất kể từ tháng 5 năm 2023. Nguyên nhân là do giá năng lượng tăng cao do chiến tranh Iran. Điều này đã tác động tiêu cực đến người tiêu dùng Mỹ, khiến họ phải đối mặt với chi phí sống cao hơn. Các chuyên gia dự đoán lạm phát có thể tiếp tục tăng trong thời gian tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f7a0119fad0f",
-      "title": "Uganda's president sworn in for record seventh term",
-      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T14:04:34.210298+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Uganda Yoweri Museveni được tuyên thệ nhậm chức lần thứ 7",
-      "bullets": [
-        "Yoweri Museveni tuyên thệ nhậm chức tổng thống Uganda lần thứ 7",
-        "Ông đã giành chiến thắng trong cuộc bầu cử gây tranh cãi vào tháng 1",
-        "Sự kiện này đánh dấu bước ngoặt trong 40 năm cai trị của ông"
-      ],
-      "full_summary": "Tổng thống Uganda Yoweri Museveni, 81 tuổi, đã tuyên thệ nhậm chức tổng thống Uganda lần thứ 7 sau khi giành chiến thắng trong cuộc bầu cử gây tranh cãi vào tháng 1. Sự kiện này đánh dấu bước ngoặt trong 40 năm cai trị của ông. Yoweri Museveni đã trở thành tổng thống Uganda từ năm 1986 và đã được bầu lại nhiều lần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ac99efc4872",
-      "title": "No sign of larger hantavirus outbreak, says UN health agency",
-      "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T14:04:35.385796+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "WHO cảnh báo có thể có thêm trường hợp nhiễm virus hanta",
-      "bullets": [
-        "WHO cảnh báo có thể có thêm trường hợp nhiễm virus hanta",
-        "Không có dấu hiệu của một đợt bùng phát lớn",
-        "Cơ quan y tế của Liên Hợp Quốc cảnh báo tình hình có thể thay đổi",
-        "Có thể có thêm trường hợp nhiễm virus hanta được xác nhận"
-      ],
-      "full_summary": "Cơ quan y tế của Liên Hợp Quốc (WHO) vừa phát đi cảnh báo về tình hình virus hanta. Theo WHO, không có dấu hiệu của một đợt bùng phát lớn, nhưng tình hình có thể thay đổi. Cơ quan y tế của Liên Hợp Quốc cảnh báo có thể có thêm trường hợp nhiễm virus hanta được xác nhận. Điều này cho thấy WHO vẫn đang theo dõi tình hình chặt chẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7408d880ab35",
-      "title": "EU needs to delay social media access for children - von der Leyen",
-      "url": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T14:04:36.690150+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ủy viên EU đề nghị hoãn truy cập mạng xã hội cho trẻ em",
-      "bullets": [
-        "Đề nghị hoãn truy cập mạng xã hội cho trẻ em",
-        "Báo cáo chuyên gia dự kiến trình bày biện pháp bảo vệ trẻ em trực tuyến",
-        "Ủy viên EU von der Leyen kêu gọi hành động để bảo vệ trẻ em",
-        "Đề xuất này nhằm đảm bảo an toàn cho trẻ em trên mạng xã hội"
-      ],
-      "full_summary": "Ủy viên EU Ursula von der Leyen đề nghị hoãn truy cập mạng xã hội cho trẻ em. Bà cho biết một nhóm chuyên gia sẽ trình bày các biện pháp bảo vệ trẻ em trực tuyến vào tháng 7. Cô kêu gọi hành động để bảo vệ trẻ em khỏi các mối đe dọa trực tuyến. Đề xuất này nhằm đảm bảo an toàn cho trẻ em trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "28eec746193b",
-      "title": "Mexico cancels plans to end school year early for World Cup",
-      "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T14:04:37.653670+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mexico hủy kế hoạch kết thúc năm học sớm để World Cup",
-      "bullets": [
-        "Mexico đã hủy kế hoạch kết thúc năm học sớm vào ngày 5 tháng 6",
-        "Giáo viên và phụ huynh phản đối vì lo ngại về thời tiết nóng",
-        "Tổ chức World Cup sẽ diễn ra vào tháng 6",
-        "Các trường học sẽ kết thúc năm học vào ngày 15 tháng 7 như kế hoạch ban đầu"
-      ],
-      "full_summary": "Mexico đã hủy kế hoạch kết thúc năm học sớm vào ngày 5 tháng 6 để World Cup. Kế hoạch này đã gây ra phản ứng dữ dội từ phụ huynh và giáo viên. Họ lo ngại về thời tiết nóng và ảnh hưởng đến việc học tập của học sinh. Các trường học sẽ kết thúc năm học vào ngày 15 tháng 7 như kế hoạch ban đầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "97d546c87f0d",
-      "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
-      "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T14:04:39.168065+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Hãng bánh kẹo lớn chuyển sang bao bì đen trắng do chiến tranh Iran gây thiếu hụt mực",
-      "bullets": [
-        "Thiếu hụt mực in toàn cầu do chiến tranh Iran",
-        "Hãng bánh kẹo lớn chuyển sang bao bì đen trắng",
-        "Kéo dài thời gian giao hàng và tăng chi phí sản xuất",
-        "Sự cố này ảnh hưởng đến nhiều ngành công nghiệp khác"
-      ],
-      "full_summary": "Chiến tranh Iran đã gây ra sự cố nghiêm trọng trong việc cung cấp mực in toàn cầu. Hãng bánh kẹo lớn đã phải chuyển sang bao bì đen trắng để tránh thiếu hụt mực. Sự cố này đã kéo dài thời gian giao hàng và tăng chi phí sản xuất. Nó cũng ảnh hưởng đến nhiều ngành công nghiệp khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f1d38ba7f3ad",
-      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-12T14:04:44.669972+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Nhân viên Amazon bị ép dùng công cụ AI tự động hóa công việc",
-      "bullets": [
-        "Sử dụng công cụ AI để tự động hóa các công việc không quan trọng",
-        "Căng thẳng do áp lực từ công ty về việc sử dụng công cụ AI",
-        "Tác động tiêu cực đến công việc và sức khỏe của nhân viên",
-        "Cần xem xét lại chiến lược sử dụng công nghệ tại Amazon"
-      ],
-      "full_summary": "Các nhân viên Amazon đang phải chịu áp lực từ công ty để sử dụng công cụ AI tự động hóa công việc. Họ đang sử dụng công cụ này để tự động hóa các công việc không quan trọng, dẫn đến căng thẳng và tác động tiêu cực đến công việc và sức khỏe của họ. Điều này đã gây ra lo ngại về việc sử dụng công nghệ tại Amazon và cần được xem xét lại.",
       "comments": 0,
       "score": 0
     }
