@@ -1,6 +1,182 @@
 {
-  "updated_at": "2026-05-13T02:32:45.825968+00:00",
+  "updated_at": "2026-05-13T08:37:07.528710+00:00",
   "articles": [
+    {
+      "id": "bcee42153285",
+      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
+      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T08:36:51.713651+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ghana sắp sơ tán 300 công dân khỏi Nam Phi vì biểu tình chống người nhập cư",
+      "bullets": [
+        "Ghana sắp sơ tán 300 công dân khỏi Nam Phi",
+        "Bộ trưởng Ngoại giao Ghana cho biết các công dân này đã đăng ký tại Đại sứ quán ở Pretoria",
+        "Biểu tình chống người nhập cư đang diễn ra ở Nam Phi",
+        "Số lượng công dân Ghana cần sơ tán có thể tăng lên"
+      ],
+      "full_summary": "Ghana sắp sơ tán 300 công dân khỏi Nam Phi vì biểu tình chống người nhập cư đang diễn ra ở Nam Phi. Bộ trưởng Ngoại giao Ghana cho biết các công dân này đã đăng ký tại Đại sứ quán ở Pretoria. Biểu tình chống người nhập cư đang diễn ra ở nhiều thành phố ở Nam Phi. Ghana đang làm việc với chính phủ Nam Phi để đảm bảo an toàn cho công dân của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "596fcdc5079a",
+      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+      "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T08:36:53.268783+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chi phí xây dựng 'Golden Dome' của Trump lên tới 1,2 nghìn tỷ USD",
+      "bullets": [
+        "Xây dựng 'Golden Dome' sẽ tốn tới 1,2 nghìn tỷ USD",
+        "Số tiền này cao hơn ước tính ban đầu của Trump",
+        "Cơ quan ngân sách độc lập cho rằng chi phí này không đủ để ngăn chặn tấn công tên lửa toàn diện"
+      ],
+      "full_summary": "Một dự án phòng thủ tên lửa do cựu Tổng thống Mỹ Donald Trump đề xuất có thể sẽ tốn tới 1,2 nghìn tỷ USD, cao hơn ước tính ban đầu của ông. Cơ quan ngân sách độc lập cho rằng số tiền này không đủ để ngăn chặn tấn công tên lửa toàn diện. Dự án này được đề xuất để ngăn chặn các cuộc tấn công tên lửa từ các quốc gia như Iran và North Korea.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4eb30977bc43",
+      "title": "More than 70 million warnings sent to people seeking child abuse material",
+      "url": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T08:36:54.173621+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 70 triệu cảnh báo gửi đến những người tìm kiếm nội dung lạm dụng trẻ em",
+      "bullets": [
+        "Gửi cảnh báo cho những người tìm kiếm nội dung lạm dụng trẻ em",
+        "Đưa hướng dẫn và hỗ trợ cho những người tìm kiếm nội dung này",
+        "Cảnh báo về tính bất hợp pháp của nội dung lạm dụng trẻ em",
+        "Hỗ trợ những người tìm kiếm nội dung này để tránh hành vi phạm tội"
+      ],
+      "full_summary": "BBC Technology cho biết đã gửi hơn 70 triệu cảnh báo cho những người tìm kiếm nội dung lạm dụng trẻ em. Các tin nhắn này nhằm cảnh báo về tính bất hợp pháp của nội dung này và hướng dẫn người dùng đến các nguồn hỗ trợ. Mục đích của việc này là giúp những người tìm kiếm nội dung này nhận thức được hành vi của mình và tránh phạm tội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "da7945d8112e",
+      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T08:36:55.286855+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Công ty công nghệ lớn đang bán kính thông minh bất chấp lo ngại về quyền riêng tư",
+      "bullets": [
+        "Cung cấp hàng triệu kính thông minh",
+        "Lo ngại về quyền riêng tư đang tăng lên",
+        "Công ty Meta bán kính thông minh tốt hơn bao giờ hết",
+        "Chính phủ và người tiêu dùng quan ngại về vấn đề này"
+      ],
+      "full_summary": "Công ty công nghệ lớn đang bán hàng triệu kính thông minh bất chấp lo ngại về quyền riêng tư. Lo ngại về quyền riêng tư đang tăng lên khi công ty Meta bán kính thông minh tốt hơn bao giờ hết. Chính phủ và người tiêu dùng quan ngại về vấn đề này và lo ngại rằng công nghệ này có thể xâm phạm quyền riêng tư của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "197fb7a5a9ae",
+      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T08:36:56.303951+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Gabon chặn mạng xã hội bất chấp quyền con người",
+      "bullets": [
+        "Chính quyền Gabon chặn mạng xã hội vì lý do an ninh",
+        "Sử dụng VPN để lách hạn chế tăng vọt sau khi chặn mạng xã hội",
+        "Hành động này bị chỉ trích là vi phạm quyền tự do internet"
+      ],
+      "full_summary": "Chính quyền Gabon đã vĩnh viễn chặn các nền tảng mạng xã hội lớn vào tháng 2, viện dẫn lý do an ninh trong bối cảnh biểu tình chống chính phủ. Điều này đã khiến các nhà hoạt động và thành viên đối lập bị cấm sử dụng các tài khoản mạng xã hội. Sử dụng VPN để lách hạn chế đã tăng vọt, nhưng các nhà chức trách đã bắt đầu kiểm soát và tịch thu điện thoại di động có cài đặt VPN.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c140507a8a8e",
+      "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+      "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T08:36:57.499671+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Mỹ và Mexico chuẩn bị đối mặt với cơn nóng kỷ lục, trong khi lũ lụt giết chết ở Nam Phi",
+      "bullets": [
+        "Nhiệt độ tăng cao ở California và Arizona",
+        "Lũ lụt tiếp tục xảy ra ở Western và Northern Cape",
+        "Nhiệt độ dự kiến tăng cao ở phía tây Mỹ và Mexico",
+        "Cảnh báo nhiệt độ cao được phát hành ở một số khu vực"
+      ],
+      "full_summary": "Mỹ và Mexico chuẩn bị đối mặt với cơn nóng kỷ lục do một đỉnh áp suất cao đẩy nhiệt độ lên cao hơn mức trung bình. Nhiệt độ cao nhất dự kiến ở một số khu vực có thể lên đến 40-43 độ C. Trong khi đó, Nam Phi đang đối mặt với lũ lụt nghiêm trọng ở các tỉnh Western và Northern Cape.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "586b2603b2a3",
+      "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
+      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T08:36:59.706017+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Băng tội phạm tấn công đẩy hàng trăm gia đình bản địa phải di dời",
+      "bullets": [
+        "Tấn công của băng tội phạm Los Ardillos khiến hàng trăm gia đình bản địa phải di dời khỏi nhà",
+        "Băng tội phạm sử dụng máy bay không người lái để ném bom các ngôi làng",
+        "Hàng trăm gia đình bản địa đã phải chạy trốn đến các thị trấn khác để tìm nơi an toàn"
+      ],
+      "full_summary": "Một băng tội phạm địa phương ở bang Guerrero, Mexico đã tấn công các ngôi làng bản địa bằng máy bay không người lái và súng, khiến hàng trăm gia đình phải di dời. Tổ chức Indigenous Congress cho biết, các làng đã bị tấn công trong 8 giờ vào ngày thứ 6, khiến 800-1.000 gia đình phải chạy trốn đến các thị trấn khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ecab58c1d07e",
+      "title": "The newest AI boom pitch: Host a mini data center at your home",
+      "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-13T08:37:01.286423+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cơ sở dữ liệu mini tại nhà: Mô hình mới cho AI",
+      "bullets": [
+        "Xây dựng cơ sở dữ liệu mini tại nhà để tăng tốc triển khai tính toán AI",
+        "Phát triển hệ thống này nhằm bù đắp cho cư dân",
+        "Giúp giảm tải cho các trung tâm dữ liệu lớn",
+        "Tăng cường tính linh hoạt và hiệu suất cho AI"
+      ],
+      "full_summary": "Một mô hình mới đang được đề xuất để xây dựng cơ sở dữ liệu mini tại nhà, giúp tăng tốc triển khai tính toán AI và bù đắp cho cư dân. Mô hình này sẽ giúp giảm tải cho các trung tâm dữ liệu lớn và tăng cường tính linh hoạt và hiệu suất cho AI. Mục tiêu của mô hình này là cung cấp một giải pháp hiệu quả hơn cho việc triển khai AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4bef1eeb9759",
+      "title": "Starship V3",
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-13T08:37:06.437521+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "SpaceX ra mắt Starship V3, tàu vũ trụ mới với thiết kế cải tiến",
+      "bullets": [
+        "Xây dựng lại thiết kế tàu vũ trụ Starship",
+        "Cải thiện hiệu suất và độ tin cậy",
+        "Được thiết kế để chở người và hàng hóa lên vũ trụ"
+      ],
+      "full_summary": "SpaceX vừa công bố Starship V3, phiên bản mới của tàu vũ trụ Starship. Tàu vũ trụ này được thiết kế lại để cải thiện hiệu suất và độ tin cậy. Starship V3 được thiết kế để chở người và hàng hóa lên vũ trụ và có thể trở thành một trong những tàu vũ trụ quan trọng nhất trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "523dc460f03d",
       "title": "A decade on, Trump returns to a stronger and more assertive China",
@@ -615,186 +791,6 @@
         "Việc xóa mã hóa có thể khiến thông tin người dùng dễ bị truy cập hơn"
       ],
       "full_summary": "Meta đã thông báo sẽ xóa mã hóa tin nhắn end-to-end trên Instagram, gây ra sự bất ngờ lớn trong cộng đồng người dùng. Điều này có nghĩa là các tin nhắn riêng tư trên ứng dụng sẽ không còn được mã hóa nữa, khiến thông tin người dùng dễ bị truy cập hơn. Động thái này được coi là một u-turn lớn của công ty mẹ Meta, sau khi công ty này đã cam kết bảo vệ quyền riêng tư của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4450b82eae39",
-      "title": "Meta brings High Court challenge over Ofcom fees",
-      "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:55.368570+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta thách thức tòa án về phí của Ofcom",
-      "bullets": [
-        "Meta kiện Ofcom về phí quá cao",
-        "Ofcom sẽ bảo vệ vị trí của mình",
-        "Meta cho rằng tính toán của Ofcom là không hợp lý",
-        "Vụ việc đang được đưa ra xét xử"
-      ],
-      "full_summary": "Meta đã kiện Ofcom về phí quá cao. Meta cho rằng tính toán của Ofcom là không hợp lý. Ofcom cho biết sẽ bảo vệ vị trí của mình. Vụ việc đang được đưa ra xét xử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cbc00abbaa87",
-      "title": "Watch: Drone delivers first Amazon parcels in UK",
-      "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:56.433042+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Amazon sử dụng máy bay không người lái để giao hàng siêu tốc tại Anh",
-      "bullets": [
-        "Amazon bắt đầu sử dụng máy bay không người lái để giao hàng siêu tốc",
-        "Dịch vụ này sẽ được mở rộng dần theo nhu cầu",
-        "Mục tiêu của Amazon là giảm thời gian giao hàng xuống còn vài phút",
-        "Công nghệ này có thể mở ra một kỷ nguyên mới trong giao hàng siêu tốc"
-      ],
-      "full_summary": "Amazon đã bắt đầu sử dụng máy bay không người lái để giao hàng siêu tốc tại Anh. Công ty này hy vọng sẽ mở rộng dịch vụ này theo nhu cầu. Mục tiêu của Amazon là giảm thời gian giao hàng xuống còn vài phút. Công nghệ này có thể mở ra một kỷ nguyên mới trong giao hàng siêu tốc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "474d5924fa66",
-      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T02:26:03.482212+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trump thăm Trung Quốc: Một cuộc gặp lịch sử có thể định hình quan hệ giữa hai siêu cường.",
-      "bullets": [
-        "Đảng Cộng hòa Mỹ và Đảng Cộng sản Trung Quốc đã đạt được thỏa thuận về vấn đề nông nghiệp.",
-        "Căng thẳng thương mại giữa Mỹ và Trung Quốc có thể giảm nhẹ sau cuộc gặp.",
-        "Trump và Tập Cận Bình đã thảo luận về vấn đề Bắc Triều Tiên.",
-        "Cuộc gặp giữa hai nhà lãnh đạo có thể mở ra một kỷ nguyên mới trong quan hệ giữa Mỹ và Trung Quốc."
-      ],
-      "full_summary": "Cuộc gặp giữa Tổng thống Mỹ Donald Trump và Tổng Bí thư Trung Quốc Tập Cận Bình là một sự kiện lịch sử quan trọng. Cuộc gặp diễn ra trong bối cảnh căng thẳng thương mại giữa Mỹ và Trung Quốc đang ở mức cao. Tuy nhiên, sau cuộc gặp, hai bên đã đạt được thỏa thuận về vấn đề nông nghiệp và các vấn đề khác. Cuộc gặp này có thể mở ra một kỷ nguyên mới trong quan hệ giữa Mỹ và Trung Quốc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f72bc8982b6f",
-      "title": "US in closely-guarded talks to open new bases in Greenland",
-      "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T02:26:04.457100+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ tìm cách mở 3 căn cứ quân sự ở Greenland",
-      "bullets": [
-        "Mỹ đang tiến hành các cuộc đàm phán bí mật",
-        "Mục tiêu mở 3 căn cứ quân sự ở phía nam Greenland",
-        "Các quan chức thân cận xác nhận thông tin này",
-        "Mỹ muốn tăng cường sự hiện diện quân sự ở khu vực Bắc Cực"
-      ],
-      "full_summary": "Mỹ đang tiến hành các cuộc đàm phán bí mật để mở 3 căn cứ quân sự ở phía nam Greenland. Mục tiêu của Mỹ là tăng cường sự hiện diện quân sự ở khu vực Bắc Cực. Các quan chức thân cận xác nhận thông tin này. Điều này có thể sẽ gây ra sự lo ngại về an ninh ở khu vực Bắc Cực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "356d23cfcdf8",
-      "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
-      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T02:26:05.541253+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "EU áp phạt đối với người định cư Israel vì bạo lực ở Tây Ban Nha",
-      "bullets": [
-        "EU áp đặt trừng phạt đối với người định cư Israel",
-        "Chủ tịch ngoại giao EU nói 'tư tưởng cực đoan và bạo lực có hậu quả'",
-        "Israel gọi quyết định này là 'không hợp lý'",
-        "Ngoại trưởng Israel nói rằng EU đang 'đánh đồng'"
-      ],
-      "full_summary": "Chủ tịch ngoại giao EU đã tuyên bố rằng 'tư tưởng cực đoan và bạo lực có hậu quả'. Ngoại trưởng Israel đã phản ứng lại và nói rằng quyết định này là 'không hợp lý'. EU áp đặt trừng phạt đối với người định cư Israel vì bạo lực ở Tây Ban Nha. Quyết định này được đưa ra sau khi có nhiều vụ tấn công ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9b9b39803b82",
-      "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
-      "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T02:26:07.331212+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Starmer cam kết xây dựng lại mối quan hệ giữa Anh và châu Âu",
-      "bullets": [
-        "Starmer cam kết xây dựng lại mối quan hệ giữa Anh và châu Âu",
-        "Anh sẽ trở thành trung tâm của châu Âu nếu Starmer trở thành thủ tướng",
-        "Starmer muốn tái lập quan hệ hợp tác kinh tế với châu Âu",
-        "Anh sẽ tham gia vào các quyết định quan trọng của châu Âu"
-      ],
-      "full_summary": "Chủ tịch Đảng Lao động Anh, Sir Keir Starmer, đã cam kết xây dựng lại mối quan hệ giữa Anh và châu Âu trong một bài phát biểu quyết liệt vào thứ Hai. Ông muốn tái lập quan hệ hợp tác kinh tế với châu Âu và tham gia vào các quyết định quan trọng của châu Âu. Điều này có thể giúp Anh trở thành trung tâm của châu Âu nếu Starmer trở thành thủ tướng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3c1799e029d3",
-      "title": "South African president says he will not step down after impeachment call",
-      "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T02:26:08.569226+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Nam Phi từ chối rời nhiệm sở sau khi bị đề nghị luận tội",
-      "bullets": [
-        "Chủ tịch Cyril Ramaphosa từ chối rời nhiệm sở",
-        "Ông phủ nhận mọi cáo buộc",
-        "Chính phủ Nam Phi đang đối mặt với nhiều thách thức",
-        "Cáo buộc đối với Ramaphosa vẫn đang được điều tra"
-      ],
-      "full_summary": "Chủ tịch Nam Phi Cyril Ramaphosa đã tuyên bố sẽ không rời nhiệm sở sau khi bị đề nghị luận tội. Ông Ramaphosa đã phủ nhận mọi cáo buộc và cho biết sẽ tiếp tục thực hiện nhiệm vụ của mình. Các cáo buộc đối với ông Ramaphosa vẫn đang được điều tra. Chính phủ Nam Phi đang đối mặt với nhiều thách thức và các cuộc tranh luận về tương lai của Ramaphosa vẫn tiếp tục diễn ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ba751de3ee58",
-      "title": "Not so dusty: How tech is changing woodworking",
-      "url": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T02:26:09.509640+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công nghệ thay đổi ngành mộc bằng cách làm cho công cụ an toàn và chính xác hơn.",
-      "bullets": [
-        "Tạo ra các công cụ mộc an toàn hơn.",
-        "Cải thiện độ chính xác của các công cụ mộc.",
-        "Giảm thiểu bụi và tiếng ồn trong xưởng mộc.",
-        "Tăng cường hiệu suất sản xuất mộc."
-      ],
-      "full_summary": "Công nghệ đã thay đổi đáng kể ngành mộc bằng cách tạo ra các công cụ an toàn hơn và chính xác hơn. Các công cụ mộc hiện đại được trang bị các tính năng như hệ thống hút bụi, đèn chiếu sáng và các hệ thống điều khiển tự động. Điều này không chỉ giúp giảm thiểu bụi và tiếng ồn trong xưởng mộc mà còn tăng cường hiệu suất sản xuất mộc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1a8a3b86c668",
-      "title": "TikTok scales back AI-generated video descriptions after absurd errors",
-      "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T02:26:10.604131+00:00",
-      "category": "công nghệ",
-      "importance": 3,
-      "headline": "TikTok giảm bớt sử dụng mô hình AI tạo mô tả video",
-      "bullets": [
-        "TikTok thu hẹp việc sử dụng mô hình AI tạo mô tả video sau những lỗi kỳ lạ",
-        "Mô hình AI tạo ra những mô tả không liên quan hoặc thậm chí sai sự thật",
-        "Người dùng chia sẻ rộng rãi những mô tả kỳ lạ này trên mạng xã hội",
-        "TikTok chưa công bố lý do cụ thể về việc thu hẹp sử dụng mô hình AI này"
-      ],
-      "full_summary": "TikTok đã thu hẹp việc sử dụng mô hình AI tạo mô tả video sau khi những mô tả kỳ lạ và không liên quan được chia sẻ rộng rãi trên mạng xã hội. Mô hình AI này chỉ được triển khai cho một số người dùng, nhưng đã gây ra nhiều tranh cãi. TikTok chưa công bố lý do cụ thể về việc thu hẹp sử dụng mô hình AI này, nhưng có thể là do những lỗi kỳ lạ đã gây ra sự mất niềm tin của người dùng.",
       "comments": 0,
       "score": 0
     }
