@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-05-13T08:37:07.528710+00:00",
+  "updated_at": "2026-05-13T14:13:42.350816+00:00",
   "articles": [
+    {
+      "id": "9a6095249d95",
+      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T14:13:27.255150+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Trump đến Trung Quốc để gặp Xi Jinping trong cuộc họp quan trọng",
+      "bullets": [
+        "Trump dự kiến thảo luận về chiến tranh ở Iran",
+        "Hai nhà lãnh đạo sẽ bàn về thuế và trí tuệ nhân tạo",
+        "Căng thẳng giữa Mỹ và Trung Quốc sẽ được thảo luận",
+        "Sự kiện sẽ diễn ra trong 2 ngày"
+      ],
+      "full_summary": "Chủ tịch Mỹ Donald Trump đã đến Trung Quốc để gặp Tổng Bí thư và Chủ tịch Trung Quốc Tập Cận Bình. Trong cuộc họp hai ngày, hai nhà lãnh đạo sẽ thảo luận về nhiều vấn đề quan trọng, bao gồm chiến tranh ở Iran, thuế và trí tuệ nhân tạo. Căng thẳng giữa Mỹ và Trung Quốc đã trở thành một vấn đề lớn trong thời gian gần đây và cuộc họp này được kỳ vọng sẽ giúp giảm thiểu căng thẳng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8b1dbfe329ad",
+      "title": "What to know as Trump visits Xi in China",
+      "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T14:13:28.214574+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump đến Bắc Kinh để gặp Tập Cận Bình",
+      "bullets": [
+        "Đầu tiên, Trump đã đáp máy bay tại Bắc Kinh",
+        "Thứ hai, ông gặp Tập Cận Bình để thảo luận về các vấn đề quan trọng",
+        "Thứ ba, chuyến thăm này đánh dấu lần đầu tiên một nhà lãnh đạo Mỹ đến Trung Quốc kể từ năm 2017",
+        "Thứ tư, cuộc gặp giữa Trump và Tập Cận Bình sẽ có ý nghĩa quan trọng đối với quan hệ Mỹ - Trung"
+      ],
+      "full_summary": "Chủ tịch Mỹ Donald Trump đã đến Bắc Kinh để gặp Tổng Bí thư Tập Cận Bình. Đây là chuyến thăm đầu tiên của một nhà lãnh đạo Mỹ đến Trung Quốc kể từ năm 2017. Chuyến thăm này được kỳ vọng sẽ giúp cải thiện quan hệ giữa hai nước. Cuộc gặp giữa Trump và Tập Cận Bình sẽ có ý nghĩa quan trọng đối với quan hệ Mỹ - Trung.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a4ecb4635d64",
+      "title": "Philippine Senate in lockdown after gunshots fired",
+      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T14:13:29.220628+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Báo chí Philippines bị phong tỏa sau tiếng súng nổ",
+      "bullets": [
+        "Cảnh sát đột kích vào tòa nhà nơi một thượng nghị sĩ đang bị Tòa án Hình sự Quốc tế truy nã",
+        "Thượng nghị sĩ này đang tìm kiếm nơi ẩn náu",
+        "Tình hình đang được kiểm soát",
+        "Không có thông tin về thương vong"
+      ],
+      "full_summary": "Thượng viện Philippines đã bị phong tỏa sau khi nghe thấy tiếng súng nổ. Cảnh sát đã đột kích vào tòa nhà nơi một thượng nghị sĩ đang bị Tòa án Hình sự Quốc tế truy nã. Thượng nghị sĩ này đang tìm kiếm nơi ẩn náu. Tình hình đang được kiểm soát và không có thông tin về thương vong.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c6f16fcccd56",
+      "title": "Israeli strikes on cars in southern Lebanon kill 12, health ministry says",
+      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T14:13:30.174099+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai đứa trẻ bị giết trong vụ tấn công xe ở miền Nam Liban",
+      "bullets": [
+        "Hai đứa trẻ bị giết trong vụ tấn công xe ở miền Nam Liban",
+        "Bảy xe đã bị tấn công ở khu vực phía nam Beirut",
+        "Số thương vong đã lên đến 12 người",
+        "Các quan chức Israel chưa bình luận về vụ tấn công"
+      ],
+      "full_summary": "Theo BBC, hai đứa trẻ đã bị giết trong vụ tấn công xe ở miền Nam Liban. Bảy xe đã bị tấn công ở khu vực phía nam Beirut, khiến 12 người thiệt mạng. Các quan chức Israel chưa bình luận về vụ tấn công. Vụ việc đã gây ra lo ngại về tình hình an ninh ở khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7a17b4f0d296",
+      "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+      "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T14:13:31.119225+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Jeffrey Epstein đã bị cáo buộc lạm dụng một nạn nhân khi đang bị giam tại nhà",
+      "bullets": [
+        "Một nạn nhân đã kể lại về việc bị Jeffrey Epstein lạm dụng khi đang bị giam tại nhà",
+        "Nạn nhân đã trình bày với các nhà lập pháp Dân chủ tại Hoa Kỳ",
+        "Jeffrey Epstein đã bị cáo buộc lạm dụng nhiều nạn nhân",
+        "Các nạn nhân đã kể lại về những hành vi lạm dụng của Epstein"
+      ],
+      "full_summary": "Một nạn nhân đã kể lại về việc bị Jeffrey Epstein lạm dụng khi đang bị giam tại nhà. Nạn nhân này đã trình bày với các nhà lập pháp Dân chủ tại Hoa Kỳ. Các nạn nhân khác cũng đã kể lại về những hành vi lạm dụng của Epstein. Những cáo buộc này đã được đưa ra sau khi Epstein qua đời.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "09c4edc614af",
+      "title": "Daredevil: Born Again S2 gives us a darker, grittier canvas",
+      "url": "https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-13T14:13:39.455081+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Daredevil: Born Again S2 mang đến một bức tranh tối tăm, gồ ghề hơn",
+      "bullets": [
+        "Tập đoàn sản xuất đã chọn hướng đi tối tăm hơn cho mùa thứ hai",
+        "Cinematographer Hillary Fyfe Spera đã sử dụng các kỹ thuật mới để giữ cho hình ảnh luôn tươi mới",
+        "Cốt truyện của mùa thứ hai đã được thiết kế để tạo ra một bầu không khí căng thẳng hơn",
+        "Dự án đã thu hút sự chú ý của khán giả nhờ vào sự kết hợp giữa hình ảnh và âm thanh"
+      ],
+      "full_summary": "Daredevil: Born Again S2 đã mang đến một hướng đi mới cho khán giả. Với sự giúp đỡ của cinematographer Hillary Fyfe Spera, mùa thứ hai đã được thiết kế để tạo ra một bầu không khí tối tăm và gồ ghề hơn. Cốt truyện đã được thiết kế để tạo ra một bầu không khí căng thẳng hơn, thu hút sự chú ý của khán giả nhờ vào sự kết hợp giữa hình ảnh và âm thanh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "bcee42153285",
       "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
@@ -671,126 +791,6 @@
         "Cần xem xét lại chiến lược sử dụng công nghệ tại Amazon"
       ],
       "full_summary": "Các nhân viên Amazon đang phải chịu áp lực từ công ty để sử dụng công cụ AI tự động hóa công việc. Họ đang sử dụng công cụ này để tự động hóa các công việc không quan trọng, dẫn đến căng thẳng và tác động tiêu cực đến công việc và sức khỏe của họ. Điều này đã gây ra lo ngại về việc sử dụng công nghệ tại Amazon và cần được xem xét lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "06128af9a3f0",
-      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
-      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:48.397923+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Pháp tìm cách vượt qua lịch sử thuộc địa bằng cách gặp gỡ lãnh đạo châu Phi tại Kenya",
-      "bullets": [
-        "Pháp tổ chức cuộc họp lịch sử với các nhà lãnh đạo châu Phi tại Kenya.",
-        "Đây là lần đầu tiên kể từ khi các cuộc họp này bắt đầu vào những năm 1970.",
-        "Pháp đang tìm cách thay đổi tư duy về quan hệ với châu Phi.",
-        "Cuộc họp này phản ánh sự thay đổi trong tư duy của Pháp về lịch sử thuộc địa."
-      ],
-      "full_summary": "Pháp đã tổ chức một cuộc họp lịch sử với các nhà lãnh đạo châu Phi tại Kenya. Đây là lần đầu tiên kể từ khi các cuộc họp này bắt đầu vào những năm 1970. Cuộc họp này phản ánh sự thay đổi trong tư duy của Pháp về lịch sử thuộc địa. Pháp đang tìm cách vượt qua lịch sử thuộc địa và xây dựng lại quan hệ với châu Phi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f1f74e55fe8",
-      "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
-      "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:49.882769+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Pakistan tấn công trung tâm phục hồi và giết 269 người Afghanistan",
-      "bullets": [
-        "Pakistan bị chỉ trích vì tấn công vào trung tâm phục hồi",
-        "UN cho rằng có thể có nhiều người Afghanistan thiệt mạng hơn",
-        "Các gia đình nạn nhân đòi hỏi lý do tại sao Pakistan tấn công",
-        "Có những lời kêu gọi điều tra vụ tấn công này như một tội ác chiến tranh"
-      ],
-      "full_summary": "Pakistan đã bị chỉ trích vì tấn công vào một trung tâm phục hồi ở Afghanistan vào ngày 16 tháng 3, khiến ít nhất 269 người thiệt mạng. Các gia đình nạn nhân đang đòi hỏi lý do tại sao Pakistan tấn công. UN cho rằng có thể có nhiều người Afghanistan thiệt mạng hơn. Có những lời kêu gọi điều tra vụ tấn công này như một tội ác chiến tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dd10191525ec",
-      "title": "Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest",
-      "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:51.304512+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cựu cảnh sát trưởng Duterte trốn tránh bị bắt bởi ICC",
-      "bullets": [
-        "Cảnh sát trưởng quốc gia Philippines trước đây, Ronald 'Bato' Dela Rosa, tìm kiếm sự bảo vệ tại Thượng viện.",
-        "Ông bị cáo buộc liên quan đến chiến dịch chống ma túy gây tranh cãi.",
-        "ICC muốn bắt giữ ông vì tội ác nhân quyền.",
-        "Ông tìm kiếm sự bảo vệ tại Thượng viện để tránh bị bắt."
-      ],
-      "full_summary": "Cựu cảnh sát trưởng quốc gia Philippines trước đây, Ronald 'Bato' Dela Rosa, đã tìm kiếm sự bảo vệ tại Thượng viện để tránh bị bắt bởi Tòa án Hình sự Quốc tế (ICC). Ông bị cáo buộc liên quan đến chiến dịch chống ma túy gây tranh cãi của cựu tổng thống Philippines Rodrigo Duterte. ICC muốn bắt giữ ông vì tội ác nhân quyền. Động thái này đã gây ra tranh cãi và đặt ra câu hỏi về tính hiệu quả của ICC trong việc thực thi công lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3af691833204",
-      "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
-      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:52.493925+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Israel thông qua luật cho phép tử hình và xét xử công khai những liên quan đến vụ tấn công Hamas",
-      "bullets": [
-        "Chính phủ Israel thông qua luật cho phép tử hình những liên quan đến vụ tấn công Hamas",
-        "Luật cho phép xét xử công khai những liên quan đến vụ tấn công",
-        "Vụ tấn công Hamas diễn ra vào ngày 7 tháng 10",
-        "Luật này gây tranh cãi và được coi là bước đi cứng rắn của chính phủ Israel"
-      ],
-      "full_summary": "Chính phủ Israel đã thông qua một luật cho phép tử hình và xét xử công khai những liên quan đến vụ tấn công Hamas diễn ra vào ngày 7 tháng 10. Luật này được coi là bước đi cứng rắn của chính phủ Israel nhằm đối phó với cuộc tấn công của Hamas. Tuy nhiên, luật này cũng gây tranh cãi và được coi là vi phạm quyền con người. Luật này sẽ được áp dụng cho những người liên quan đến vụ tấn công, bao gồm cả những người không trực tiếp tham gia vào vụ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0434537a624f",
-      "title": "How sunburn inspired a new way to store energy",
-      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:53.521546+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Nghiên cứu về cháy nắng giúp phát triển công nghệ lưu trữ năng lượng",
-      "bullets": [
-        "Khám phá ra các phân tử có thể hấp thụ nhiệt",
-        "Công nghệ này có thể giúp giảm thiểu khí thải nhà kính",
-        "Mở ra hướng mới cho việc giảm thiểu khí thải trong lĩnh vực sưởi ấm",
-        "Có thể giúp giảm thiểu tác động của biến đổi khí hậu"
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện ra các phân tử có thể hấp thụ nhiệt từ ánh nắng mặt trời, điều này có thể giúp giảm thiểu khí thải nhà kính trong lĩnh vực sưởi ấm. Công nghệ này có thể giúp giảm thiểu tác động của biến đổi khí hậu và mở ra hướng mới cho việc giảm thiểu khí thải trong lĩnh vực này. Các nhà khoa học hy vọng rằng công nghệ này sẽ giúp giảm thiểu khí thải nhà kính và giảm thiểu tác động của biến đổi khí hậu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "386666cd7abf",
-      "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
-      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-12T08:30:54.492132+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta tắt công nghệ bảo mật tin nhắn Instagram",
-      "bullets": [
-        "Meta sẽ xóa mã hóa tin nhắn end-to-end trên Instagram",
-        "Tính năng này sẽ ảnh hưởng đến các tin nhắn riêng tư trên ứng dụng",
-        "Động thái này được coi là một u-turn lớn của công ty mẹ Meta",
-        "Việc xóa mã hóa có thể khiến thông tin người dùng dễ bị truy cập hơn"
-      ],
-      "full_summary": "Meta đã thông báo sẽ xóa mã hóa tin nhắn end-to-end trên Instagram, gây ra sự bất ngờ lớn trong cộng đồng người dùng. Điều này có nghĩa là các tin nhắn riêng tư trên ứng dụng sẽ không còn được mã hóa nữa, khiến thông tin người dùng dễ bị truy cập hơn. Động thái này được coi là một u-turn lớn của công ty mẹ Meta, sau khi công ty này đã cam kết bảo vệ quyền riêng tư của người dùng.",
       "comments": 0,
       "score": 0
     }
