@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-12T19:41:02.693720+00:00",
+  "updated_at": "2026-05-13T02:32:45.825968+00:00",
   "articles": [
+    {
+      "id": "523dc460f03d",
+      "title": "A decade on, Trump returns to a stronger and more assertive China",
+      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T02:32:30.593146+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Trung Quốc trở nên mạnh mẽ và kiên quyết hơn sau một thập kỷ",
+      "bullets": [
+        "Trung Quốc trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt",
+        "Analyst nói rằng Bắc Kinh đang trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt",
+        "Trung Quốc đang trở nên mạnh mẽ và kiên quyết hơn sau một thập kỷ",
+        "Mỹ đang đối mặt với một đối thủ cạnh tranh mạnh mẽ và phức tạp"
+      ],
+      "full_summary": "Sau một thập kỷ, Trung Quốc đã trở nên mạnh mẽ và kiên quyết hơn. Bắc Kinh đang trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt. Analyst nói rằng Trung Quốc đang trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt. Điều này đã khiến Mỹ phải đối mặt với một đối thủ cạnh tranh mạnh mẽ và phức tạp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bf4d68c18989",
+      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
+      "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T02:32:31.484466+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "Australia xóa ưu đãi thuế để giảm giá nhà",
+      "bullets": [
+        "Australia xóa ưu đãi thuế để giảm giá nhà đắt đỏ",
+        "Chính phủ hy vọng cải cách sẽ giúp người trẻ vào thị trường bất động sản",
+        "Nhà phê bình cho rằng chính sách sẽ làm giảm cung hàng hóa",
+        "Cải cách có thể ảnh hưởng đến người mua nhà và người bán"
+      ],
+      "full_summary": "Chính phủ Australia đang xem xét xóa ưu đãi thuế để giảm giá nhà đắt đỏ. Mục tiêu là giúp người trẻ vào thị trường bất động sản. Tuy nhiên, nhiều người cho rằng chính sách này sẽ làm giảm cung hàng hóa, khiến giá nhà tăng cao hơn. Cải cách này có thể ảnh hưởng đến người mua nhà và người bán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ed5352fe62a2",
+      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
+      "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T02:32:33.412038+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Vụ rơi máy bay Air India càng thêm nghiêm trọng",
+      "bullets": [
+        "Đứng trước tình huống khó khăn về lãnh đạo và thua lỗ tài chính",
+        "Sự cố rơi máy bay ở Ahmedabad khiến hãng hàng không gặp khó khăn",
+        "Air India đang cố gắng phục hồi sau sự cố",
+        "Hãng hàng không đang đối mặt với tình trạng thiếu lãnh đạo"
+      ],
+      "full_summary": "Vụ rơi máy bay Air India ở Ahmedabad đang gây ra nhiều khó khăn cho hãng hàng không. Sự cố này đã khiến Air India đứng trước tình huống khó khăn về lãnh đạo và thua lỗ tài chính. Hãng hàng không đang cố gắng phục hồi sau sự cố nhưng vẫn còn nhiều thách thức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a4bc2d5f4e51",
+      "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
+      "url": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T02:32:34.432415+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cầu thủ bóng rổ Jason Collins qua đời vì ung thư não",
+      "bullets": [
+        "Jason Collins, cầu thủ bóng rổ đầu tiên công khai đồng tính, qua đời ở tuổi 47",
+        "Anh đã được chẩn đoán mắc một loại ung thư não tiến triển",
+        "Collins chia sẻ thông tin về bệnh tật của mình vào cuối năm ngoái",
+        "Cầu thủ bóng rổ đã chơi cho nhiều đội bóng rổ hàng đầu"
+      ],
+      "full_summary": "Jason Collins, cầu thủ bóng rổ đầu tiên công khai đồng tính, đã qua đời ở tuổi 47. Anh đã được chẩn đoán mắc một loại ung thư não tiến triển và chia sẻ thông tin về bệnh tật của mình vào cuối năm ngoái. Collins đã chơi cho nhiều đội bóng rổ hàng đầu, bao gồm Boston Celtics và Washington Wizards.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5af439d1d8bd",
+      "title": "TikTok launches £3.99 subscription for no ads in UK",
+      "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T02:32:35.402723+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "TikTok ra gói đăng ký 3,99 bảng không quảng cáo",
+      "bullets": [
+        "TikTok giới thiệu gói đăng ký 3,99 bảng để tránh quảng cáo",
+        "Người dùng không đăng ký sẽ phải xem quảng cáo cá nhân hóa",
+        "Gói đăng ký cho phép sử dụng TikTok miễn phí mà không có quảng cáo",
+        "Người dùng có thể chọn đăng ký hoặc không"
+      ],
+      "full_summary": "TikTok vừa giới thiệu gói đăng ký 3,99 bảng cho người dùng ở Vương quốc Anh. Gói đăng ký này cho phép người dùng sử dụng TikTok miễn phí mà không có quảng cáo. Người dùng không đăng ký sẽ phải xem quảng cáo cá nhân hóa. Điều này cho phép người dùng có lựa chọn về cách sử dụng ứng dụng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ddf4b18b5c83",
+      "title": "Internal displacements caused by violence or conflict at record high in 2025",
+      "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T02:32:36.604900+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Số người bị di dời nội địa do xung đột hoặc bạo lực đạt mức kỷ lục",
+      "bullets": [
+        "Tăng 60% so với năm trước, đạt 32,3 triệu người",
+        "Lần đầu tiên vượt quá số người bị di dời do thiên tai, đạt 29,9 triệu",
+        "Tổng số người bị di dời trên toàn cầu đạt 82,2 triệu",
+        "Số người bị di dời nội địa do xung đột hoặc bạo lực đạt mức kỷ lục trong năm 2025"
+      ],
+      "full_summary": "Theo báo cáo của Trung tâm Giám sát Di dời Nội địa (IDMC), số người bị di dời nội địa do xung đột hoặc bạo lực trên toàn cầu đạt mức kỷ lục trong năm 2025, vượt quá số người bị di dời do thiên tai. Số người bị di dời nội địa do xung đột hoặc bạo lực đạt 32,3 triệu, tăng 60% so với năm trước. Tổng số người bị di dời trên toàn cầu đạt 82,2 triệu. Đây là mức kỷ lục mới trong lịch sử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d210984df6d7",
+      "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
+      "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-13T02:32:37.934297+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Botswana giành chiến thắng tại World Athletics Relays",
+      "bullets": [
+        "Gần đây, Botswana đã giành chiến thắng tại World Athletics Relays",
+        "Đội tuyển của Botswana đã giành chiến thắng trong cuộc đua 4x400m nam",
+        "Cơ hội của Botswana được cho là nhờ vào đầu tư vào các vận động viên trẻ",
+        "Tình hình này đang gặp nguy cơ khi tiến bộ của Botswana có thể bị đe dọa"
+      ],
+      "full_summary": "Botswana đã giành chiến thắng tại World Athletics Relays với đội tuyển nam 4x400m. Chiến thắng này là một giấc mơ trở thành hiện thực cho đội tuyển của Botswana. Letsile Tebogo, vận động viên 22 tuổi và nhà vô địch Olympic 200m, đã nói rằng chiến thắng này có ý nghĩa rất lớn đối với đội tuyển và người dân Botswana. Họ đã chứng kiến sự nỗ lực và áp lực mà đội tuyển đã phải trải qua để giành chiến thắng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b8681bffb326",
+      "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-13T02:32:43.016781+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Hai anh em bị sa thải đã xóa 96 cơ sở dữ liệu chính phủ trong 1 phút",
+      "bullets": [
+        "Xóa dữ liệu cơ sở dữ liệu chính phủ",
+        "Bị sa thải sau đó mới bị thu hồi quyền truy cập",
+        "Twin brothers gây ra sự cố nghiêm trọng",
+        "Cảnh báo về việc thu hồi quyền truy cập trước khi sa thải nhân viên"
+      ],
+      "full_summary": "Hai anh em bị sa thải đã xóa 96 cơ sở dữ liệu chính phủ trong 1 phút sau khi bị sa thải. Sự cố này xảy ra sau khi họ bị thu hồi quyền truy cập, nhưng quyền truy cập vẫn còn tồn tại trong thời gian ngắn. Điều này cho thấy tầm quan trọng của việc thu hồi quyền truy cập ngay lập tức khi nhân viên bị sa thải để tránh sự cố nghiêm trọng. Sự cố này đã gây ra sự chú ý về tầm quan trọng của việc quản lý quyền truy cập và bảo mật dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b45d5a2ae761",
       "title": "Lebanon says two paramedics among 10 killed in Israeli strikes",
@@ -635,166 +795,6 @@
         "TikTok chưa công bố lý do cụ thể về việc thu hẹp sử dụng mô hình AI này"
       ],
       "full_summary": "TikTok đã thu hẹp việc sử dụng mô hình AI tạo mô tả video sau khi những mô tả kỳ lạ và không liên quan được chia sẻ rộng rãi trên mạng xã hội. Mô hình AI này chỉ được triển khai cho một số người dùng, nhưng đã gây ra nhiều tranh cãi. TikTok chưa công bố lý do cụ thể về việc thu hẹp sử dụng mô hình AI này, nhưng có thể là do những lỗi kỳ lạ đã gây ra sự mất niềm tin của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "918854c0edbb",
-      "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
-      "url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-12T02:26:12.141380+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Audi sắp ra mắt SUV Q9 mới với nội thất sang trọng",
-      "bullets": [
-        "Audi đang chuẩn bị ra mắt SUV Q9 mới",
-        "SUV này được thiết kế theo ý thích của người Mỹ",
-        "Nội thất của Q9 sẽ mang đến trải nghiệm sang trọng",
-        "SUV Q9 sẽ là đối thủ cạnh tranh của các mẫu SUV lớn khác"
-      ],
-      "full_summary": "Audi đang chuẩn bị ra mắt SUV Q9 mới, một mẫu SUV lớn với 3 hàng ghế. Mẫu xe này được thiết kế theo ý thích của người Mỹ, với nội thất sang trọng và đầy đủ tiện nghi. Q9 sẽ là đối thủ cạnh tranh của các mẫu SUV lớn khác trên thị trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a8631e4927d2",
-      "title": "Griffin PowerMate driver for modern macOS",
-      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-12T02:26:17.190002+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nhà phát triển trình điều khiển mới cho PowerMate trên macOS hiện đại",
-      "bullets": [
-        "Tạo trình điều khiển mới cho Griffin PowerMate trên macOS",
-        "Trình điều khiển hỗ trợ các tính năng của PowerMate",
-        "Mã nguồn mở và miễn phí",
-        "Cung cấp cho người dùng trải nghiệm tốt hơn với PowerMate"
-      ],
-      "full_summary": "Một nhà phát triển đã tạo trình điều khiển mới cho Griffin PowerMate trên macOS hiện đại. Trình điều khiển này hỗ trợ các tính năng của PowerMate và được phát hành dưới dạng mã nguồn mở miễn phí. Điều này sẽ cung cấp cho người dùng trải nghiệm tốt hơn với PowerMate.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "87e8fe0bd041",
-      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:15.223658+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Hai người Việt đang được cách ly tại Nebraska vì hantavirus",
-      "bullets": [
-        "Đang có 16 người bị cách ly tại Nebraska",
-        "Hai người khác đang được theo dõi tại Atlanta",
-        "Số lượng người bị nhiễm hantavirus rất thấp",
-        "Các quan chức cho biết nguy cơ lây lan cho công chúng rất thấp"
-      ],
-      "full_summary": "Hai người Việt đang được cách ly tại Nebraska vì nghi ngờ nhiễm hantavirus. Họ đang được theo dõi tại quốc gia duy nhất có đơn vị cách ly quốc gia. Các quan chức cho biết số lượng người bị nhiễm hantavirus rất thấp và nguy cơ lây lan cho công chúng rất thấp. Việc cách ly này nhằm đảm bảo an toàn cho cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f25527fdab3",
-      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:17.714306+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Chủ tịch Trump dự thăm Trung Quốc với các CEO hàng đầu",
-      "bullets": [
-        "Sẽ có 17 CEO Mỹ tham gia chuyến đi",
-        "Chủ tịch Trump sẽ gặp Chủ tịch Trung Quốc Xi Jinping",
-        "Các CEO hàng đầu bao gồm Elon Musk và Tim Cook",
-        "Chuyến thăm nhằm tăng cường quan hệ kinh tế giữa hai nước"
-      ],
-      "full_summary": "Chủ tịch Donald Trump sắp tới dự thăm Trung Quốc, nơi ông sẽ gặp Chủ tịch Trung Quốc Xi Jinping. 17 CEO hàng đầu Mỹ sẽ tham gia chuyến đi, bao gồm Elon Musk và Tim Cook. Chuyến thăm này nhằm tăng cường quan hệ kinh tế giữa hai nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ef8b7d3f0f9",
-      "title": "Washington dinner shooting suspect pleads not guilty",
-      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:18.862995+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tân nghi phạm bắn súng tại bữa tiệc ở Washington xin không phạm tội",
-      "bullets": [
-        "Tân nghi phạm Cole Tomas Allen bị buộc tội ám sát Tổng thống Mỹ Donald Trump",
-        "Cole Tomas Allen, 31 tuổi, bị buộc tội ám sát Tổng thống Mỹ",
-        "Tân nghi phạm đã xin không phạm tội",
-        "Cáo trạng được đưa ra tại tòa án ở Washington"
-      ],
-      "full_summary": "Tân nghi phạm Cole Tomas Allen, 31 tuổi, đã xin không phạm tội sau khi bị buộc tội ám sát Tổng thống Mỹ Donald Trump. Cáo trạng được đưa ra tại tòa án ở Washington. Cole Tomas Allen bị cáo buộc đã cố gắng ám sát Tổng thống Trump tại bữa tiệc ở Washington. Ông đã bị bắt giữ và đang chờ xét xử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8b7eeeb9fd4c",
-      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
-      "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:19.928946+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Hạm đội tàu biển tránh khu vực Trung Đông có thể gây hại cho cá voi",
-      "bullets": [
-        "Cá voi có thể bị tổn thương do tàu biển tránh khu vực Trung Đông",
-        "Hạm đội tàu biển đã chuyển hướng qua mũi Hảo Vọng",
-        "Sự thay đổi này có thể gây ra tác động môi trường nghiêm trọng",
-        "Các nhà khoa học đang cảnh báo về nguy cơ này"
-      ],
-      "full_summary": "Các nhà khoa học cảnh báo rằng hạm đội tàu biển tránh khu vực Trung Đông có thể gây hại cho cá voi. Từ năm 2023, nhiều tàu biển đã chuyển hướng qua mũi Hảo Vọng để tránh các xung đột ở khu vực này. Sự thay đổi này có thể gây ra tác động môi trường nghiêm trọng và ảnh hưởng đến hệ sinh thái biển. Các nhà khoa học đang nghiên cứu về tác động của sự thay đổi này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a62ba20e1878",
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:21.099000+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hacker nhóm xâm nhập vào phần mềm Canvas của các trường đại học",
-      "bullets": [
-        "Xâm nhập vào phần mềm Canvas của nhiều trường đại học trên toàn cầu",
-        "Gây ra sự gián đoạn trong hoạt động học tập của hàng nghìn trường",
-        "Hacker nhóm chưa công bố lý do xâm nhập vào phần mềm Canvas",
-        "Các trường đang cố gắng khôi phục hoạt động học tập bình thường"
-      ],
-      "full_summary": "Một nhóm hacker xâm nhập vào phần mềm Canvas, được sử dụng bởi hàng nghìn trường đại học và trường học trên toàn cầu. Sự xâm nhập này đã gây ra sự gián đoạn trong hoạt động học tập của nhiều trường. Các trường đang cố gắng khôi phục hoạt động học tập bình thường và bảo vệ thông tin của học sinh và giáo viên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "586b2603b2a3",
-      "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
-      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-11T19:30:22.259337+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Súng đạn tấn công buộc hàng trăm gia đình bản địa phải di dời",
-      "bullets": [
-        "Tổ chức bản địa cáo buộc Los Ardillos tấn công bằng máy bay không người lái",
-        "Hàng trăm gia đình bản địa bị buộc phải di dời khỏi nhà cửa",
-        "Vụ tấn công kéo dài 8 giờ vào cuối tuần qua",
-        "Cộng đồng bản địa đang tìm kiếm sự giúp đỡ từ chính phủ"
-      ],
-      "full_summary": "Một tổ chức bản địa cáo buộc Los Ardillos, một băng đảng địa phương, đã tấn công các làng bản địa ở bang Guerrero, Mexico bằng máy bay không người lái và đạn súng. Vụ tấn công đã khiến hàng trăm gia đình bản địa phải di dời khỏi nhà cửa. Tổ chức bản địa cho biết các làng đã bị tấn công trong 8 giờ vào cuối tuần qua, buộc khoảng 800-1.000 gia đình phải di dời đến các thị trấn khác.",
       "comments": 0,
       "score": 0
     }
