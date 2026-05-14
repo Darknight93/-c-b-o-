@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-05-14T08:30:52.335853+00:00",
+  "updated_at": "2026-05-14T13:53:21.391623+00:00",
   "articles": [
+    {
+      "id": "5a781afb3add",
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T13:53:06.735772+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump đến Trung Quốc, gặp gỡ nồng nhiệt nhưng vấn đề khó giải quyết còn tồn đọng",
+      "bullets": [
+        "Trump được chào đón nồng nhiệt tại Trung Quốc",
+        "Cả hai siêu cường thế giới thể hiện sự thân thiện trong chuyến thăm",
+        "Tuy nhiên, các vấn đề khó giải quyết vẫn còn tồn đọng",
+        "Cả hai bên cần tìm kiếm giải pháp để giải quyết các vấn đề này"
+      ],
+      "full_summary": "Trong chuyến thăm Trung Quốc, Tổng thống Mỹ Donald Trump đã được chào đón nồng nhiệt. Cả hai siêu cường thế giới đã thể hiện sự thân thiện trong chuyến thăm, nhưng các vấn đề khó giải quyết vẫn còn tồn đọng. Các vấn đề này bao gồm các vấn đề kinh tế, chính trị và an ninh. Cả hai bên cần tìm kiếm giải pháp để giải quyết các vấn đề này và xây dựng mối quan hệ tốt đẹp hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "567346e184cb",
+      "title": "'Floating armoury' ship reportedly hijacked by Iran",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T13:53:07.690263+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran đã chiếm giữ tàu chứa vũ khí trên biển",
+      "bullets": [
+        "Iran đã chiếm giữ tàu chứa vũ khí trên biển",
+        "Tàu được cho là một 'tàu vũ khí nổi' ở vịnh Oman",
+        "Tình hình đang được theo dõi bởi các quốc gia khác",
+        "Nguyên nhân của vụ việc vẫn chưa được tiết lộ"
+      ],
+      "full_summary": "Theo BBC, một tàu được cho là 'tàu vũ khí nổi' ở vịnh Oman đã bị lực lượng quân sự Iran chiếm giữ. Tàu này được sử dụng để chứa và vận chuyển vũ khí. Hiện tại, tình hình đang được theo dõi bởi các quốc gia khác. Nguyên nhân của vụ việc vẫn chưa được tiết lộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c49c1b260244",
+      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+      "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T13:53:08.760101+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính phủ Nigeria xử phạt cựu Bộ trưởng 75 năm vì tham nhũng",
+      "bullets": [
+        "Xử phạt cựu Bộ trưởng Saleh Mamman 75 năm tù vì tham nhũng",
+        "Cơ quan chức năng không biết được nơi ở của cựu Bộ trưởng",
+        "Vụ án tham nhũng hiếm hoi ở Nigeria",
+        "Cựu Bộ trưởng bị kết tội tham nhũng trong thời gian nắm giữ chức vụ"
+      ],
+      "full_summary": "Cựu Bộ trưởng Năng lượng Nigeria Saleh Mamman đã bị kết án 75 năm tù vì tham nhũng. Tuy nhiên, cơ quan chức năng không biết được nơi ở của cựu Bộ trưởng. Vụ án tham nhũng này được coi là hiếm hoi ở Nigeria. Cựu Bộ trưởng bị kết tội tham nhũng trong thời gian nắm giữ chức vụ Bộ trưởng Năng lượng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d979ae1255b1",
+      "title": "Latvian PM resigns after row over stray Ukrainian drones",
+      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T13:53:10.280142+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Latvia từ chức sau vụ rơi máy bay không người lái Ukraine",
+      "bullets": [
+        "Tổng thống Latvia từ chức sau vụ rơi máy bay không người lái Ukraine",
+        "Máy bay không người lái Ukraine rơi xuống Latvia",
+        "Vụ rơi máy bay không người lái gây ra cuộc tranh cãi chính trị",
+        "Chủ tịch Latvia từ chức sau vụ rơi máy bay không người lái"
+      ],
+      "full_summary": "Chủ tịch Latvia, Krisjanis Karins, đã từ chức sau khi máy bay không người lái Ukraine rơi xuống đất nước. Vụ rơi máy bay không người lái đã gây ra cuộc tranh cãi chính trị lớn. Các quan chức Latvia cáo buộc Ukraine không cảnh báo về việc gửi máy bay không người lái qua lãnh thổ Latvia. Chủ tịch Karins đã từ chức sau khi bị chỉ trích vì cách xử lý vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b0ca955ff244",
+      "title": "Canvas hack: Company pays criminals to delete students' stolen data",
+      "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T13:53:11.184984+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty Canvas trả tiền cho hacker để xóa dữ liệu bị đánh cắp của sinh viên",
+      "bullets": [
+        "Hacker tấn công vào hệ thống của Canvas, lấy cắp dữ liệu của hàng nghìn trường đại học",
+        "Công ty đã đạt được thỏa thuận với hacker để xóa dữ liệu bị đánh cắp",
+        "Hacker sẽ xóa dữ liệu bị lấy cắp sau khi nhận được khoản tiền",
+        "Cơ quan chức năng đang điều tra vụ việc"
+      ],
+      "full_summary": "Công ty Canvas đã đạt được thỏa thuận với hacker sau khi hệ thống của họ bị tấn công, lấy cắp dữ liệu của hàng nghìn trường đại học. Công ty sẽ trả tiền cho hacker để họ xóa dữ liệu bị đánh cắp. Vụ việc đang được cơ quan chức năng điều tra để xác định nguyên nhân và trách nhiệm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c874151cd7e7",
+      "title": "Myths about /dev/urandom (2014)",
+      "url": "https://www.2uo.de/myths-about-urandom/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-14T13:53:20.891457+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Lý thuyết sai về /dev/urandom: Nguồn ngẫu nhiên không hoàn hảo",
+      "bullets": [
+        "Trả lời các thắc mắc về /dev/urandom",
+        "Xử lý các vấn đề về bảo mật và độ tin cậy",
+        "So sánh /dev/urandom với các nguồn ngẫu nhiên khác",
+        "Cung cấp giải pháp cho các vấn đề liên quan"
+      ],
+      "full_summary": "Bài viết này giải thích và phản bác các lý thuyết sai về /dev/urandom, một nguồn ngẫu nhiên trên Linux. Nó giải quyết các vấn đề về bảo mật và độ tin cậy, so sánh nó với các nguồn ngẫu nhiên khác và cung cấp giải pháp cho các vấn đề liên quan.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "fd46a53d23d0",
       "title": "Pomp and pageantry: Key moments from day one of Trump's visit to China",
@@ -675,124 +795,6 @@
         "Cơ quan ngân sách độc lập cho rằng chi phí này không đủ để ngăn chặn tấn công tên lửa toàn diện"
       ],
       "full_summary": "Một dự án phòng thủ tên lửa do cựu Tổng thống Mỹ Donald Trump đề xuất có thể sẽ tốn tới 1,2 nghìn tỷ USD, cao hơn ước tính ban đầu của ông. Cơ quan ngân sách độc lập cho rằng số tiền này không đủ để ngăn chặn tấn công tên lửa toàn diện. Dự án này được đề xuất để ngăn chặn các cuộc tấn công tên lửa từ các quốc gia như Iran và North Korea.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4eb30977bc43",
-      "title": "More than 70 million warnings sent to people seeking child abuse material",
-      "url": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T08:36:54.173621+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 70 triệu cảnh báo gửi đến những người tìm kiếm nội dung lạm dụng trẻ em",
-      "bullets": [
-        "Gửi cảnh báo cho những người tìm kiếm nội dung lạm dụng trẻ em",
-        "Đưa hướng dẫn và hỗ trợ cho những người tìm kiếm nội dung này",
-        "Cảnh báo về tính bất hợp pháp của nội dung lạm dụng trẻ em",
-        "Hỗ trợ những người tìm kiếm nội dung này để tránh hành vi phạm tội"
-      ],
-      "full_summary": "BBC Technology cho biết đã gửi hơn 70 triệu cảnh báo cho những người tìm kiếm nội dung lạm dụng trẻ em. Các tin nhắn này nhằm cảnh báo về tính bất hợp pháp của nội dung này và hướng dẫn người dùng đến các nguồn hỗ trợ. Mục đích của việc này là giúp những người tìm kiếm nội dung này nhận thức được hành vi của mình và tránh phạm tội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "da7945d8112e",
-      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T08:36:55.286855+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Công ty công nghệ lớn đang bán kính thông minh bất chấp lo ngại về quyền riêng tư",
-      "bullets": [
-        "Cung cấp hàng triệu kính thông minh",
-        "Lo ngại về quyền riêng tư đang tăng lên",
-        "Công ty Meta bán kính thông minh tốt hơn bao giờ hết",
-        "Chính phủ và người tiêu dùng quan ngại về vấn đề này"
-      ],
-      "full_summary": "Công ty công nghệ lớn đang bán hàng triệu kính thông minh bất chấp lo ngại về quyền riêng tư. Lo ngại về quyền riêng tư đang tăng lên khi công ty Meta bán kính thông minh tốt hơn bao giờ hết. Chính phủ và người tiêu dùng quan ngại về vấn đề này và lo ngại rằng công nghệ này có thể xâm phạm quyền riêng tư của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "197fb7a5a9ae",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T08:36:56.303951+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Gabon chặn mạng xã hội bất chấp quyền con người",
-      "bullets": [
-        "Chính quyền Gabon chặn mạng xã hội vì lý do an ninh",
-        "Sử dụng VPN để lách hạn chế tăng vọt sau khi chặn mạng xã hội",
-        "Hành động này bị chỉ trích là vi phạm quyền tự do internet"
-      ],
-      "full_summary": "Chính quyền Gabon đã vĩnh viễn chặn các nền tảng mạng xã hội lớn vào tháng 2, viện dẫn lý do an ninh trong bối cảnh biểu tình chống chính phủ. Điều này đã khiến các nhà hoạt động và thành viên đối lập bị cấm sử dụng các tài khoản mạng xã hội. Sử dụng VPN để lách hạn chế đã tăng vọt, nhưng các nhà chức trách đã bắt đầu kiểm soát và tịch thu điện thoại di động có cài đặt VPN.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c140507a8a8e",
-      "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
-      "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T08:36:57.499671+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mỹ và Mexico chuẩn bị đối mặt với cơn nóng kỷ lục, trong khi lũ lụt giết chết ở Nam Phi",
-      "bullets": [
-        "Nhiệt độ tăng cao ở California và Arizona",
-        "Lũ lụt tiếp tục xảy ra ở Western và Northern Cape",
-        "Nhiệt độ dự kiến tăng cao ở phía tây Mỹ và Mexico",
-        "Cảnh báo nhiệt độ cao được phát hành ở một số khu vực"
-      ],
-      "full_summary": "Mỹ và Mexico chuẩn bị đối mặt với cơn nóng kỷ lục do một đỉnh áp suất cao đẩy nhiệt độ lên cao hơn mức trung bình. Nhiệt độ cao nhất dự kiến ở một số khu vực có thể lên đến 40-43 độ C. Trong khi đó, Nam Phi đang đối mặt với lũ lụt nghiêm trọng ở các tỉnh Western và Northern Cape.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "586b2603b2a3",
-      "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
-      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T08:36:59.706017+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Băng tội phạm tấn công đẩy hàng trăm gia đình bản địa phải di dời",
-      "bullets": [
-        "Tấn công của băng tội phạm Los Ardillos khiến hàng trăm gia đình bản địa phải di dời khỏi nhà",
-        "Băng tội phạm sử dụng máy bay không người lái để ném bom các ngôi làng",
-        "Hàng trăm gia đình bản địa đã phải chạy trốn đến các thị trấn khác để tìm nơi an toàn"
-      ],
-      "full_summary": "Một băng tội phạm địa phương ở bang Guerrero, Mexico đã tấn công các ngôi làng bản địa bằng máy bay không người lái và súng, khiến hàng trăm gia đình phải di dời. Tổ chức Indigenous Congress cho biết, các làng đã bị tấn công trong 8 giờ vào ngày thứ 6, khiến 800-1.000 gia đình phải chạy trốn đến các thị trấn khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ecab58c1d07e",
-      "title": "The newest AI boom pitch: Host a mini data center at your home",
-      "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-13T08:37:01.286423+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cơ sở dữ liệu mini tại nhà: Mô hình mới cho AI",
-      "bullets": [
-        "Xây dựng cơ sở dữ liệu mini tại nhà để tăng tốc triển khai tính toán AI",
-        "Phát triển hệ thống này nhằm bù đắp cho cư dân",
-        "Giúp giảm tải cho các trung tâm dữ liệu lớn",
-        "Tăng cường tính linh hoạt và hiệu suất cho AI"
-      ],
-      "full_summary": "Một mô hình mới đang được đề xuất để xây dựng cơ sở dữ liệu mini tại nhà, giúp tăng tốc triển khai tính toán AI và bù đắp cho cư dân. Mô hình này sẽ giúp giảm tải cho các trung tâm dữ liệu lớn và tăng cường tính linh hoạt và hiệu suất cho AI. Mục tiêu của mô hình này là cung cấp một giải pháp hiệu quả hơn cho việc triển khai AI.",
       "comments": 0,
       "score": 0
     }
