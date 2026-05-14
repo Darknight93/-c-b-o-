@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-05-14T13:53:21.391623+00:00",
+  "updated_at": "2026-05-14T19:31:18.233265+00:00",
   "articles": [
+    {
+      "id": "951da3a5a233",
+      "title": "Giant new dinosaur identified from fossils in Thailand",
+      "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:02.785383+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một loài khủng long khổng lồ mới được xác định ở Thái Lan",
+      "bullets": [
+        "Xác định loài khủng long Nagatitan lớn nhất ở Đông Nam Á",
+        "Loài khủng long này nặng bằng chín con voi",
+        "Phát hiện ở Thái Lan, loài khủng long này có kích thước khổng lồ",
+        "Nghiên cứu về loài khủng long này đang tiếp tục"
+      ],
+      "full_summary": "Một loài khủng long mới được xác định ở Thái Lan, loài này được gọi là Nagatitan. Nagatitan là loài khủng long lớn nhất được tìm thấy ở Đông Nam Á và nặng bằng chín con voi. Phát hiện này đã thu hút sự chú ý của các nhà khoa học và người hâm mộ khủng long trên toàn thế giới. Nghiên cứu về loài khủng long này đang tiếp tục để tìm hiểu thêm về loài khủng long khổng lồ này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "70605a0bc4ab",
+      "title": "Cuba considers $100m US aid offer as energy crisis worsens",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:03.948604+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Mỹ đề nghị 100 triệu USD giúp đỡ Cuba trong khủng hoảng năng lượng",
+      "bullets": [
+        "Mỹ đề nghị Cuba 100 triệu USD giúp đỡ trong khủng hoảng năng lượng",
+        "Cuba đang đối mặt với những khó khăn về nguồn cung năng lượng",
+        "Cuba chưa rõ liệu viện trợ của Mỹ sẽ là tiền mặt hay hỗ trợ vật chất",
+        "Cuba đang tìm kiếm giải pháp để đối phó với khủng hoảng năng lượng"
+      ],
+      "full_summary": "Cuba đang đối mặt với khủng hoảng năng lượng nghiêm trọng, Mỹ đề nghị viện trợ 100 triệu USD giúp đỡ. Tuy nhiên, Cuba chưa rõ liệu viện trợ của Mỹ sẽ là tiền mặt hay hỗ trợ vật chất. Khủng hoảng năng lượng đã gây ra nhiều khó khăn cho người dân Cuba.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "099ce8697add",
+      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:05.163044+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Sự kiện El Niño có thể mạnh nhất lịch sử đang diễn ra",
+      "bullets": [
+        "Nghiên cứu cho thấy El Niño có thể mạnh nhất lịch sử đang phát triển",
+        "Sự kiện này có thể dẫn đến nhiệt độ toàn cầu kỷ lục",
+        "Các nhà khoa học đang theo dõi chặt chẽ tình hình El Niño",
+        "Sự kiện này có thể gây ra hậu quả toàn cầu nghiêm trọng"
+      ],
+      "full_summary": "Các nhà khoa học đang cảnh báo về sự kiện El Niño có thể mạnh nhất lịch sử đang diễn ra. Sự kiện này có thể dẫn đến nhiệt độ toàn cầu kỷ lục và gây ra hậu quả nghiêm trọng. Các nhà khoa học đang theo dõi chặt chẽ tình hình El Niño và dự đoán rằng nó có thể mạnh hơn nhiều so với những năm trước. Sự kiện này có thể gây ra hậu quả toàn cầu nghiêm trọng, bao gồm các cơn bão, lũ lụt và hạn hán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5371ed528d48",
+      "title": "War criminal Ratko Mladić's jail release request denied",
+      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:06.339716+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tòa án Liên Hợp Quốc từ chối yêu cầu thả Ratko Mladić",
+      "bullets": [
+        "Từ chối yêu cầu thả Ratko Mladić",
+        "Tòa án Liên Hợp Quốc cho rằng Mladić đang ở giai đoạn cuối đời",
+        "Mladić sẽ được chăm sóc tối đa trong nhà tù ở The Hague",
+        "Mladić bị kết án vì tội ác chiến tranh"
+      ],
+      "full_summary": "Tòa án Liên Hợp Quốc đã từ chối yêu cầu thả Ratko Mladić, một tội phạm chiến tranh 84 tuổi. Theo tòa án, Mladić đang ở giai đoạn cuối đời và sẽ được chăm sóc tối đa trong nhà tù ở The Hague. Mladić bị kết án vì tội ác chiến tranh và đã bị giam giữ trong nhiều năm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4eb30977bc43",
+      "title": "More than 70 million warnings sent to people seeking child abuse material",
+      "url": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:07.271224+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 70 triệu cảnh báo gửi đến người tìm kiếm nội dung lạm dụng trẻ em",
+      "bullets": [
+        "Gửi cảnh báo cho người tìm kiếm nội dung bất hợp pháp",
+        "Hướng dẫn người dùng tìm kiếm thông tin giúp đỡ",
+        "Tăng cường bảo vệ trẻ em khỏi nội dung độc hại",
+        "Cảnh báo về hậu quả pháp lý của hành vi này"
+      ],
+      "full_summary": "BBC Technology cho biết đã gửi hơn 70 triệu cảnh báo cho người tìm kiếm nội dung lạm dụng trẻ em. Những thông điệp này nhằm cảnh báo người dùng về hành vi bất hợp pháp và hướng dẫn họ tìm kiếm thông tin giúp đỡ. Mục đích là tăng cường bảo vệ trẻ em khỏi nội dung độc hại và cảnh báo về hậu quả pháp lý của hành vi này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "da7945d8112e",
+      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:08.183335+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Công ty công nghệ đang bán kính thông minh bất chấp lo ngại về quyền riêng tư",
+      "bullets": [
+        "Các công ty lớn đang bán hàng triệu chiếc kính thông minh",
+        "Lo ngại về quyền riêng tư đang gia tăng",
+        "Mặc dù vậy, kính thông minh vẫn bán chạy hơn bao giờ hết",
+        "Meta đang là một trong những công ty bán kính thông minh thành công nhất"
+      ],
+      "full_summary": "Các công ty công nghệ lớn đang chuẩn bị bán hàng triệu chiếc kính thông minh, bất chấp lo ngại về quyền riêng tư đang gia tăng. Mặc dù vậy, kính thông minh vẫn bán chạy hơn bao giờ hết. Meta là một trong những công ty bán kính thông minh thành công nhất. Các công ty này đang hy vọng rằng kính thông minh sẽ trở thành một phần không thể thiếu trong cuộc sống hàng ngày.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ce4bc1c9db14",
+      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:09.208305+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hộ chiếu của phụ nữ Colombia bị Trump đưa về Congo bị tuyên bố bất hợp pháp",
+      "bullets": [
+        "Một thẩm phán Mỹ tuyên bố việc đưa bà Adriana María Quiroz Zapata về Congo là bất hợp pháp",
+        "Bà được lệnh trở về Mỹ từ Congo",
+        "Thẩm phán Richard Leon cho rằng việc đưa bà về Congo là 'có khả năng bất hợp pháp'",
+        "Bà đã bị đưa về Congo vì nước này từ chối nhận bà"
+      ],
+      "full_summary": "Một thẩm phán Mỹ đã ra lệnh cho chính quyền Trump phải đưa bà Adriana María Quiroz Zapata, một phụ nữ Colombia, trở về Mỹ từ Congo. Thẩm phán Richard Leon cho rằng việc đưa bà về Congo là 'có khả năng bất hợp pháp'. Bà đã bị đưa về Congo vì nước này từ chối nhận bà. Điều này đã gây ra sự phẫn nộ trong cộng đồng người Colombia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ddf4b18b5c83",
+      "title": "Internal displacements caused by violence or conflict at record high in 2025",
+      "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T19:31:11.466971+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Sự di dời nội bộ do xung đột hoặc bạo lực đạt kỷ lục vào năm 2025",
+      "bullets": [
+        "Tổng số người di dời nội bộ do xung đột hoặc bạo lực đạt 32,3 triệu",
+        "Số liệu này tăng 60% so với năm trước và vượt quá số người di dời do thiên tai",
+        "Tổng số người di dời nội bộ toàn cầu đạt 82,2 triệu vào năm 2025",
+        "Sự di dời nội bộ do xung đột hoặc bạo lực đạt mức cao kỷ lục lần đầu tiên"
+      ],
+      "full_summary": "Theo báo cáo của Trung tâm Theo dõi Di dời Nội bộ, số người di dời nội bộ do xung đột hoặc bạo lực đạt mức cao kỷ lục vào năm 2025. Số liệu này vượt quá số người di dời do thiên tai và tăng 60% so với năm trước. Tổng số người di dời nội bộ toàn cầu đạt 82,2 triệu vào năm 2025.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d919e6eb5ba7",
+      "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+      "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-14T19:31:16.021954+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 4,
+      "headline": "Máy ghi chép AI của bác sĩ có thể ghi sai thông tin",
+      "bullets": [
+        "Ghi sai các chỉ định điều trị",
+        "Lập ra các đơn thuốc không chính xác",
+        "Lỗi trong việc ghi chép các thông tin y tế",
+        "Cần kiểm tra lại thông tin được ghi chép bởi AI"
+      ],
+      "full_summary": "Một cuộc kiểm toán tại Ontario đã phát hiện ra rằng máy ghi chép AI của bác sĩ có thể ghi sai thông tin. Các lỗi được phát hiện bao gồm ghi sai các chỉ định điều trị, lập ra các đơn thuốc không chính xác và lỗi trong việc ghi chép các thông tin y tế. Điều này cho thấy cần phải kiểm tra lại thông tin được ghi chép bởi AI để đảm bảo tính chính xác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "5a781afb3add",
       "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
@@ -616,185 +796,6 @@
         "Hội đồng lập pháp Mỹ lo ngại kế hoạch này sẽ làm trầm trọng thêm 'sự khổ đau hàng loạt'"
       ],
       "full_summary": "Hơn 30 thành viên Hội đồng lập pháp Mỹ đã gửi thư cho các quan chức hàng đầu của Tổng thống Donald Trump, kêu gọi họ ngưng sử dụng căn cứ hải quân Guantánamo Bay để giam giữ người nhập cư và ngăn chặn bất kỳ kế hoạch nào xâm lược Cuba. Họ cho rằng sự gia tăng di cư từ Cuba là kết quả của sự gia tăng căng thẳng từ Mỹ. Hội đồng lập pháp Mỹ lo ngại kế hoạch này sẽ làm trầm trọng thêm 'sự khổ đau hàng loạt' ở Cuba.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "819b883be50c",
-      "title": "Neanderthals drilled cavities to treat a toothache 59,000 years ago",
-      "url": "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-13T19:45:21.836220+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Người Neanderthal đã khoan lỗ để chữa răng nhức 59.000 năm trước",
-      "bullets": [
-        "Khoan lỗ để chữa răng nhức",
-        "Phát hiện ở xương hàm Neanderthal 59.000 năm trước",
-        "Bằng chứng cho thấy Neanderthal có khả năng điều trị răng",
-        "Khám phá mới về sự tiến hóa của loài người"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã phát hiện ra bằng chứng về việc người Neanderthal đã khoan lỗ để chữa răng nhức 59.000 năm trước. Bằng chứng này được tìm thấy trên xương hàm của một người Neanderthal ở châu Âu. Điều này cho thấy rằng người Neanderthal có khả năng điều trị răng và có thể đã có kiến thức về y học. Phát hiện này đã mở ra một số câu hỏi về sự tiến hóa của loài người và khả năng của chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a6095249d95",
-      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
-      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T14:13:27.255150+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trump đến Trung Quốc để gặp Xi Jinping trong cuộc họp quan trọng",
-      "bullets": [
-        "Trump dự kiến thảo luận về chiến tranh ở Iran",
-        "Hai nhà lãnh đạo sẽ bàn về thuế và trí tuệ nhân tạo",
-        "Căng thẳng giữa Mỹ và Trung Quốc sẽ được thảo luận",
-        "Sự kiện sẽ diễn ra trong 2 ngày"
-      ],
-      "full_summary": "Chủ tịch Mỹ Donald Trump đã đến Trung Quốc để gặp Tổng Bí thư và Chủ tịch Trung Quốc Tập Cận Bình. Trong cuộc họp hai ngày, hai nhà lãnh đạo sẽ thảo luận về nhiều vấn đề quan trọng, bao gồm chiến tranh ở Iran, thuế và trí tuệ nhân tạo. Căng thẳng giữa Mỹ và Trung Quốc đã trở thành một vấn đề lớn trong thời gian gần đây và cuộc họp này được kỳ vọng sẽ giúp giảm thiểu căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8b1dbfe329ad",
-      "title": "What to know as Trump visits Xi in China",
-      "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T14:13:28.214574+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump đến Bắc Kinh để gặp Tập Cận Bình",
-      "bullets": [
-        "Đầu tiên, Trump đã đáp máy bay tại Bắc Kinh",
-        "Thứ hai, ông gặp Tập Cận Bình để thảo luận về các vấn đề quan trọng",
-        "Thứ ba, chuyến thăm này đánh dấu lần đầu tiên một nhà lãnh đạo Mỹ đến Trung Quốc kể từ năm 2017",
-        "Thứ tư, cuộc gặp giữa Trump và Tập Cận Bình sẽ có ý nghĩa quan trọng đối với quan hệ Mỹ - Trung"
-      ],
-      "full_summary": "Chủ tịch Mỹ Donald Trump đã đến Bắc Kinh để gặp Tổng Bí thư Tập Cận Bình. Đây là chuyến thăm đầu tiên của một nhà lãnh đạo Mỹ đến Trung Quốc kể từ năm 2017. Chuyến thăm này được kỳ vọng sẽ giúp cải thiện quan hệ giữa hai nước. Cuộc gặp giữa Trump và Tập Cận Bình sẽ có ý nghĩa quan trọng đối với quan hệ Mỹ - Trung.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a4ecb4635d64",
-      "title": "Philippine Senate in lockdown after gunshots fired",
-      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T14:13:29.220628+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Báo chí Philippines bị phong tỏa sau tiếng súng nổ",
-      "bullets": [
-        "Cảnh sát đột kích vào tòa nhà nơi một thượng nghị sĩ đang bị Tòa án Hình sự Quốc tế truy nã",
-        "Thượng nghị sĩ này đang tìm kiếm nơi ẩn náu",
-        "Tình hình đang được kiểm soát",
-        "Không có thông tin về thương vong"
-      ],
-      "full_summary": "Thượng viện Philippines đã bị phong tỏa sau khi nghe thấy tiếng súng nổ. Cảnh sát đã đột kích vào tòa nhà nơi một thượng nghị sĩ đang bị Tòa án Hình sự Quốc tế truy nã. Thượng nghị sĩ này đang tìm kiếm nơi ẩn náu. Tình hình đang được kiểm soát và không có thông tin về thương vong.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c6f16fcccd56",
-      "title": "Israeli strikes on cars in southern Lebanon kill 12, health ministry says",
-      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T14:13:30.174099+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai đứa trẻ bị giết trong vụ tấn công xe ở miền Nam Liban",
-      "bullets": [
-        "Hai đứa trẻ bị giết trong vụ tấn công xe ở miền Nam Liban",
-        "Bảy xe đã bị tấn công ở khu vực phía nam Beirut",
-        "Số thương vong đã lên đến 12 người",
-        "Các quan chức Israel chưa bình luận về vụ tấn công"
-      ],
-      "full_summary": "Theo BBC, hai đứa trẻ đã bị giết trong vụ tấn công xe ở miền Nam Liban. Bảy xe đã bị tấn công ở khu vực phía nam Beirut, khiến 12 người thiệt mạng. Các quan chức Israel chưa bình luận về vụ tấn công. Vụ việc đã gây ra lo ngại về tình hình an ninh ở khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7a17b4f0d296",
-      "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
-      "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T14:13:31.119225+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Jeffrey Epstein đã bị cáo buộc lạm dụng một nạn nhân khi đang bị giam tại nhà",
-      "bullets": [
-        "Một nạn nhân đã kể lại về việc bị Jeffrey Epstein lạm dụng khi đang bị giam tại nhà",
-        "Nạn nhân đã trình bày với các nhà lập pháp Dân chủ tại Hoa Kỳ",
-        "Jeffrey Epstein đã bị cáo buộc lạm dụng nhiều nạn nhân",
-        "Các nạn nhân đã kể lại về những hành vi lạm dụng của Epstein"
-      ],
-      "full_summary": "Một nạn nhân đã kể lại về việc bị Jeffrey Epstein lạm dụng khi đang bị giam tại nhà. Nạn nhân này đã trình bày với các nhà lập pháp Dân chủ tại Hoa Kỳ. Các nạn nhân khác cũng đã kể lại về những hành vi lạm dụng của Epstein. Những cáo buộc này đã được đưa ra sau khi Epstein qua đời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "09c4edc614af",
-      "title": "Daredevil: Born Again S2 gives us a darker, grittier canvas",
-      "url": "https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-13T14:13:39.455081+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Daredevil: Born Again S2 mang đến một bức tranh tối tăm, gồ ghề hơn",
-      "bullets": [
-        "Tập đoàn sản xuất đã chọn hướng đi tối tăm hơn cho mùa thứ hai",
-        "Cinematographer Hillary Fyfe Spera đã sử dụng các kỹ thuật mới để giữ cho hình ảnh luôn tươi mới",
-        "Cốt truyện của mùa thứ hai đã được thiết kế để tạo ra một bầu không khí căng thẳng hơn",
-        "Dự án đã thu hút sự chú ý của khán giả nhờ vào sự kết hợp giữa hình ảnh và âm thanh"
-      ],
-      "full_summary": "Daredevil: Born Again S2 đã mang đến một hướng đi mới cho khán giả. Với sự giúp đỡ của cinematographer Hillary Fyfe Spera, mùa thứ hai đã được thiết kế để tạo ra một bầu không khí tối tăm và gồ ghề hơn. Cốt truyện đã được thiết kế để tạo ra một bầu không khí căng thẳng hơn, thu hút sự chú ý của khán giả nhờ vào sự kết hợp giữa hình ảnh và âm thanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bcee42153285",
-      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
-      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T08:36:51.713651+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ghana sắp sơ tán 300 công dân khỏi Nam Phi vì biểu tình chống người nhập cư",
-      "bullets": [
-        "Ghana sắp sơ tán 300 công dân khỏi Nam Phi",
-        "Bộ trưởng Ngoại giao Ghana cho biết các công dân này đã đăng ký tại Đại sứ quán ở Pretoria",
-        "Biểu tình chống người nhập cư đang diễn ra ở Nam Phi",
-        "Số lượng công dân Ghana cần sơ tán có thể tăng lên"
-      ],
-      "full_summary": "Ghana sắp sơ tán 300 công dân khỏi Nam Phi vì biểu tình chống người nhập cư đang diễn ra ở Nam Phi. Bộ trưởng Ngoại giao Ghana cho biết các công dân này đã đăng ký tại Đại sứ quán ở Pretoria. Biểu tình chống người nhập cư đang diễn ra ở nhiều thành phố ở Nam Phi. Ghana đang làm việc với chính phủ Nam Phi để đảm bảo an toàn cho công dân của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "596fcdc5079a",
-      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-      "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T08:36:53.268783+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chi phí xây dựng 'Golden Dome' của Trump lên tới 1,2 nghìn tỷ USD",
-      "bullets": [
-        "Xây dựng 'Golden Dome' sẽ tốn tới 1,2 nghìn tỷ USD",
-        "Số tiền này cao hơn ước tính ban đầu của Trump",
-        "Cơ quan ngân sách độc lập cho rằng chi phí này không đủ để ngăn chặn tấn công tên lửa toàn diện"
-      ],
-      "full_summary": "Một dự án phòng thủ tên lửa do cựu Tổng thống Mỹ Donald Trump đề xuất có thể sẽ tốn tới 1,2 nghìn tỷ USD, cao hơn ước tính ban đầu của ông. Cơ quan ngân sách độc lập cho rằng số tiền này không đủ để ngăn chặn tấn công tên lửa toàn diện. Dự án này được đề xuất để ngăn chặn các cuộc tấn công tên lửa từ các quốc gia như Iran và North Korea.",
       "comments": 0,
       "score": 0
     }
