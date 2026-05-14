@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-05-14T02:33:44.594141+00:00",
+  "updated_at": "2026-05-14T08:30:52.335853+00:00",
   "articles": [
+    {
+      "id": "fd46a53d23d0",
+      "title": "Pomp and pageantry: Key moments from day one of Trump's visit to China",
+      "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T08:30:36.419722+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trung Quốc chào đón Trump bằng nghi thức quân sự và trẻ em hát ca",
+      "bullets": [
+        "Trung Quốc tổ chức cuộc diễu hành quân sự chào đón Trump",
+        "Trump gặp gỡ Chủ tịch Trung Quốc Xi Jinping trong gần hai giờ",
+        "Trẻ em Trung Quốc hát ca chào đón Tổng thống Mỹ",
+        "Trung Quốc và Mỹ bắt đầu cuộc gặp chính thức"
+      ],
+      "full_summary": "Ngày thứ nhất của chuyến thăm Trung Quốc của Tổng thống Mỹ Donald Trump đã diễn ra với nghi thức quân sự và trẻ em hát ca chào đón. Sau đó, Trump đã gặp gỡ Chủ tịch Trung Quốc Xi Jinping trong gần hai giờ. Cuộc gặp này đánh dấu sự bắt đầu của cuộc gặp chính thức giữa hai lãnh đạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aff5a9c90ed8",
+      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
+      "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T08:30:37.439299+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cộng đồng Uvira bị sốc khi chứng kiến bạo lực",
+      "bullets": [
+        "Cầm quyền Uvira, phe nổi loạn và quân Rwanda bị cáo buộc phạm tội ác",
+        "Các chiến binh phe nổi loạn và quân Rwanda bị cáo buộc giết hại người vô tội",
+        "Thành phố Uvira đang phải đối mặt với hậu quả của chiến tranh",
+        "Nạn nhân và người dân địa phương đang phải chịu đựng sự đau khổ"
+      ],
+      "full_summary": "Thành phố Uvira ở Cộng hòa Dân chủ Congo đang phải đối mặt với hậu quả của chiến tranh sau khi phe nổi loạn và quân Rwanda chiếm quyền kiểm soát thành phố vào tháng 12. Các chiến binh phe nổi loạn và quân Rwanda bị cáo buộc phạm tội ác, bao gồm giết hại người vô tội. Người dân địa phương đang phải chịu đựng sự đau khổ và nạn nhân đang phải đối mặt với hậu quả của chiến tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9cb27f9cac3",
+      "title": "Rescuers search rubble of Kyiv flats after massive Russian strikes kill two",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T08:30:38.523764+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nga tấn công Ukraine bằng tên lửa và máy bay không người lái",
+      "bullets": [
+        "Nga đã phóng tên lửa và máy bay không người lái vào Ukraine",
+        "Hai người đã thiệt mạng trong vụ tấn công này",
+        "Trẻ em bị thương trong vụ tấn công",
+        "Cứu hộ đang tìm kiếm những người còn sống sót trong đống đổ nát"
+      ],
+      "full_summary": "Nga đã tấn công Ukraine bằng tên lửa và máy bay không người lái, khiến hai người thiệt mạng và nhiều người bị thương. Trẻ em cũng bị thương trong vụ tấn công. Cứu hộ đang tìm kiếm những người còn sống sót trong đống đổ nát của các tòa nhà ở Kyiv.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65f175c48821",
+      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T08:30:40.552113+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "HMRC sẽ sử dụng AI để phát hiện gian lận và lỗi trong tờ khai thuế",
+      "bullets": [
+        "Sẽ sử dụng công nghệ AI từ công ty Quantexa để phát hiện gian lận",
+        "Đoạn hợp đồng trị giá £175 triệu được ký kết",
+        "Mục tiêu là giảm số lượng lỗi trong tờ khai thuế",
+        "Sẽ giúp HMRC tăng cường hiệu quả trong việc quản lý thuế"
+      ],
+      "full_summary": "Hội đồng Thuế và Hải quan (HMRC) đã ký hợp đồng £175 triệu với công ty Quantexa để sử dụng công nghệ AI phát hiện gian lận và lỗi trong tờ khai thuế. Mục tiêu là giảm số lượng lỗi trong tờ khai thuế và tăng cường hiệu quả trong việc quản lý thuế. Công nghệ AI sẽ giúp HMRC phân tích dữ liệu lớn và phát hiện các trường hợp gian lận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e09f1261c9e9",
+      "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
+      "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-14T08:30:41.549637+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Elon Musk đòi quyền kiểm soát OpenAI cho con mình",
+      "bullets": [
+        "Elon Musk nhiều lần đòi quyền kiểm soát OpenAI",
+        "Sam Altman từ chối và Elon Musk đang kiện",
+        "Elon Musk muốn con mình có quyền kiểm soát công ty",
+        "Sam Altman cho biết Elon Musk muốn toàn quyền kiểm soát OpenAI"
+      ],
+      "full_summary": "Elon Musk đang kiện Sam Altman vì từ chối quyền kiểm soát OpenAI. Sam Altman cho biết Elon Musk đã nhiều lần đòi quyền kiểm soát công ty này. Elon Musk muốn con mình có quyền kiểm soát OpenAI, nhưng Sam Altman từ chối và đang kiện Elon Musk.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1a80d9259a99",
+      "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
+      "url": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-14T08:30:43.382658+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Đặc điểm protein răng Homo erectus cho thấy Denisovans đã truyền DNA cho chúng ta",
+      "bullets": [
+        "Khám phá protein răng đặc biệt trong Homo erectus xuất hiện trong Denisovans và con người",
+        "Nghiên cứu cho thấy Denisovans đã giao phối với tổ tiên của con người",
+        "Phát hiện này mở ra khả năng hiểu rõ hơn về lịch sử di truyền của loài người"
+      ],
+      "full_summary": "Một nghiên cứu mới đã phát hiện ra một loại protein răng đặc biệt trong Homo erectus, giống với loại protein răng trong Denisovans và con người. Điều này cho thấy Denisovans đã giao phối với tổ tiên của con người, mở ra khả năng hiểu rõ hơn về lịch sử di truyền của loài người. Phát hiện này có thể giúp các nhà khoa học hiểu rõ hơn về quá trình di truyền và sự đa dạng của loài người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6a83e0232aea",
+      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-14T08:30:49.920444+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Microsoft BitLocker có lỗ hổng bảo mật, cho phép mở ổ đĩa bảo vệ bằng USB đơn giản",
+      "bullets": [
+        "Chỉ cần một số tệp tin trên USB là có thể mở ổ đĩa BitLocker bảo vệ",
+        "YellowKey zero-day exploit cho thấy có thể có backdoor trong Microsoft BitLocker",
+        "Lỗ hổng bảo mật này có thể ảnh hưởng đến nhiều người dùng BitLocker",
+        "Microsoft chưa có thông tin về lỗ hổng bảo mật này"
+      ],
+      "full_summary": "Một lỗ hổng bảo mật mới được phát hiện trong Microsoft BitLocker, cho phép người dùng mở ổ đĩa bảo vệ bằng chỉ một số tệp tin trên USB. Lỗ hổng này được gọi là YellowKey zero-day exploit và cho thấy có thể có backdoor trong Microsoft BitLocker. Điều này có thể ảnh hưởng đến nhiều người dùng BitLocker, nhưng Microsoft chưa có thông tin về lỗ hổng bảo mật này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f0fca1d4476d",
       "title": "Why big tech is betting on cute mascots",
@@ -654,145 +793,6 @@
         "Tăng cường tính linh hoạt và hiệu suất cho AI"
       ],
       "full_summary": "Một mô hình mới đang được đề xuất để xây dựng cơ sở dữ liệu mini tại nhà, giúp tăng tốc triển khai tính toán AI và bù đắp cho cư dân. Mô hình này sẽ giúp giảm tải cho các trung tâm dữ liệu lớn và tăng cường tính linh hoạt và hiệu suất cho AI. Mục tiêu của mô hình này là cung cấp một giải pháp hiệu quả hơn cho việc triển khai AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4bef1eeb9759",
-      "title": "Starship V3",
-      "url": "https://www.spacex.com/updates#starship-v3",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-13T08:37:06.437521+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "SpaceX ra mắt Starship V3, tàu vũ trụ mới với thiết kế cải tiến",
-      "bullets": [
-        "Xây dựng lại thiết kế tàu vũ trụ Starship",
-        "Cải thiện hiệu suất và độ tin cậy",
-        "Được thiết kế để chở người và hàng hóa lên vũ trụ"
-      ],
-      "full_summary": "SpaceX vừa công bố Starship V3, phiên bản mới của tàu vũ trụ Starship. Tàu vũ trụ này được thiết kế lại để cải thiện hiệu suất và độ tin cậy. Starship V3 được thiết kế để chở người và hàng hóa lên vũ trụ và có thể trở thành một trong những tàu vũ trụ quan trọng nhất trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "523dc460f03d",
-      "title": "A decade on, Trump returns to a stronger and more assertive China",
-      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T02:32:30.593146+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trung Quốc trở nên mạnh mẽ và kiên quyết hơn sau một thập kỷ",
-      "bullets": [
-        "Trung Quốc trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt",
-        "Analyst nói rằng Bắc Kinh đang trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt",
-        "Trung Quốc đang trở nên mạnh mẽ và kiên quyết hơn sau một thập kỷ",
-        "Mỹ đang đối mặt với một đối thủ cạnh tranh mạnh mẽ và phức tạp"
-      ],
-      "full_summary": "Sau một thập kỷ, Trung Quốc đã trở nên mạnh mẽ và kiên quyết hơn. Bắc Kinh đang trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt. Analyst nói rằng Trung Quốc đang trở thành đối thủ cạnh tranh mạnh mẽ nhất mà Mỹ từng đối mặt. Điều này đã khiến Mỹ phải đối mặt với một đối thủ cạnh tranh mạnh mẽ và phức tạp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bf4d68c18989",
-      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
-      "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T02:32:31.484466+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "Australia xóa ưu đãi thuế để giảm giá nhà",
-      "bullets": [
-        "Australia xóa ưu đãi thuế để giảm giá nhà đắt đỏ",
-        "Chính phủ hy vọng cải cách sẽ giúp người trẻ vào thị trường bất động sản",
-        "Nhà phê bình cho rằng chính sách sẽ làm giảm cung hàng hóa",
-        "Cải cách có thể ảnh hưởng đến người mua nhà và người bán"
-      ],
-      "full_summary": "Chính phủ Australia đang xem xét xóa ưu đãi thuế để giảm giá nhà đắt đỏ. Mục tiêu là giúp người trẻ vào thị trường bất động sản. Tuy nhiên, nhiều người cho rằng chính sách này sẽ làm giảm cung hàng hóa, khiến giá nhà tăng cao hơn. Cải cách này có thể ảnh hưởng đến người mua nhà và người bán.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ed5352fe62a2",
-      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
-      "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T02:32:33.412038+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Vụ rơi máy bay Air India càng thêm nghiêm trọng",
-      "bullets": [
-        "Đứng trước tình huống khó khăn về lãnh đạo và thua lỗ tài chính",
-        "Sự cố rơi máy bay ở Ahmedabad khiến hãng hàng không gặp khó khăn",
-        "Air India đang cố gắng phục hồi sau sự cố",
-        "Hãng hàng không đang đối mặt với tình trạng thiếu lãnh đạo"
-      ],
-      "full_summary": "Vụ rơi máy bay Air India ở Ahmedabad đang gây ra nhiều khó khăn cho hãng hàng không. Sự cố này đã khiến Air India đứng trước tình huống khó khăn về lãnh đạo và thua lỗ tài chính. Hãng hàng không đang cố gắng phục hồi sau sự cố nhưng vẫn còn nhiều thách thức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a4bc2d5f4e51",
-      "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
-      "url": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T02:32:34.432415+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cầu thủ bóng rổ Jason Collins qua đời vì ung thư não",
-      "bullets": [
-        "Jason Collins, cầu thủ bóng rổ đầu tiên công khai đồng tính, qua đời ở tuổi 47",
-        "Anh đã được chẩn đoán mắc một loại ung thư não tiến triển",
-        "Collins chia sẻ thông tin về bệnh tật của mình vào cuối năm ngoái",
-        "Cầu thủ bóng rổ đã chơi cho nhiều đội bóng rổ hàng đầu"
-      ],
-      "full_summary": "Jason Collins, cầu thủ bóng rổ đầu tiên công khai đồng tính, đã qua đời ở tuổi 47. Anh đã được chẩn đoán mắc một loại ung thư não tiến triển và chia sẻ thông tin về bệnh tật của mình vào cuối năm ngoái. Collins đã chơi cho nhiều đội bóng rổ hàng đầu, bao gồm Boston Celtics và Washington Wizards.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5af439d1d8bd",
-      "title": "TikTok launches £3.99 subscription for no ads in UK",
-      "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T02:32:35.402723+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "TikTok ra gói đăng ký 3,99 bảng không quảng cáo",
-      "bullets": [
-        "TikTok giới thiệu gói đăng ký 3,99 bảng để tránh quảng cáo",
-        "Người dùng không đăng ký sẽ phải xem quảng cáo cá nhân hóa",
-        "Gói đăng ký cho phép sử dụng TikTok miễn phí mà không có quảng cáo",
-        "Người dùng có thể chọn đăng ký hoặc không"
-      ],
-      "full_summary": "TikTok vừa giới thiệu gói đăng ký 3,99 bảng cho người dùng ở Vương quốc Anh. Gói đăng ký này cho phép người dùng sử dụng TikTok miễn phí mà không có quảng cáo. Người dùng không đăng ký sẽ phải xem quảng cáo cá nhân hóa. Điều này cho phép người dùng có lựa chọn về cách sử dụng ứng dụng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ddf4b18b5c83",
-      "title": "Internal displacements caused by violence or conflict at record high in 2025",
-      "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T02:32:36.604900+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Số người bị di dời nội địa do xung đột hoặc bạo lực đạt mức kỷ lục",
-      "bullets": [
-        "Tăng 60% so với năm trước, đạt 32,3 triệu người",
-        "Lần đầu tiên vượt quá số người bị di dời do thiên tai, đạt 29,9 triệu",
-        "Tổng số người bị di dời trên toàn cầu đạt 82,2 triệu",
-        "Số người bị di dời nội địa do xung đột hoặc bạo lực đạt mức kỷ lục trong năm 2025"
-      ],
-      "full_summary": "Theo báo cáo của Trung tâm Giám sát Di dời Nội địa (IDMC), số người bị di dời nội địa do xung đột hoặc bạo lực trên toàn cầu đạt mức kỷ lục trong năm 2025, vượt quá số người bị di dời do thiên tai. Số người bị di dời nội địa do xung đột hoặc bạo lực đạt 32,3 triệu, tăng 60% so với năm trước. Tổng số người bị di dời trên toàn cầu đạt 82,2 triệu. Đây là mức kỷ lục mới trong lịch sử.",
       "comments": 0,
       "score": 0
     }
