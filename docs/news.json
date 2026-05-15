@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-15T02:33:12.873127+00:00",
+  "updated_at": "2026-05-15T08:42:13.017977+00:00",
   "articles": [
+    {
+      "id": "5c126f79ffb1",
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T08:41:57.887630+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Congo gặp dịch Ebola mới, 65 người tử vong",
+      "bullets": [
+        "Báo cáo 246 ca nhiễm Ebola",
+        "Hầu hết các ca tử vong xảy ra ở đông bắc Cộng hòa Dân chủ Congo",
+        "Cơ quan y tế quốc gia đang triển khai các biện pháp ngăn chặn",
+        "Các chuyên gia lo ngại về sự lan rộng của dịch bệnh"
+      ],
+      "full_summary": "Một đợt bùng phát Ebola mới đã xảy ra ở đông bắc Cộng hòa Dân chủ Congo, khiến 65 người tử vong. Theo báo cáo của cơ quan y tế quốc gia, khoảng 246 ca nhiễm Ebola đã được báo cáo. Hầu hết các ca tử vong xảy ra ở đông bắc Cộng hòa Dân chủ Congo. Cơ quan y tế quốc gia đang triển khai các biện pháp ngăn chặn để ngăn chặn sự lan rộng của dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4bdb892ec282",
+      "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
+      "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T08:41:58.889819+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Adanis đồng ý bồi thường 18 triệu USD trong vụ gian lận tài chính tại Mỹ",
+      "bullets": [
+        "Hệ thống Adanis đồng ý bồi thường 18 triệu USD",
+        "Vụ việc liên quan đến cáo buộc gian lận và lừa đảo nhà đầu tư",
+        "Adanis từ chối mọi cáo buộc và cho rằng hành động của họ là hợp pháp",
+        "Vụ việc được giải quyết thông qua một thỏa thuận ngoài tòa án"
+      ],
+      "full_summary": "Hệ thống Adanis đã đồng ý bồi thường 18 triệu USD để giải quyết vụ việc gian lận tài chính tại Mỹ. Vụ việc bắt đầu khi cơ quan quản lý thị trường chứng khoán Mỹ cáo buộc Adanis đã trả tiền hối lộ và lừa đảo nhà đầu tư. Adanis đã từ chối mọi cáo buộc và cho rằng hành động của họ là hợp pháp. Vụ việc được giải quyết thông qua một thỏa thuận ngoài tòa án.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dc6015d2b206",
+      "title": "US Supreme Court restores abortion pill access for now",
+      "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T08:41:59.846961+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tòa án Tối cao Mỹ khôi phục quyền tiếp cận thuốc phá thai",
+      "bullets": [
+        "Khôi phục quyền tiếp cận thuốc phá thai",
+        "Phá thai bằng thuốc là phương pháp phổ biến nhất ở Mỹ",
+        "Tòa án Tối cao Mỹ đưa ra phán quyết tạm thời",
+        "Giải quyết vụ kiện liên quan đến thuốc phá thai mifepristone"
+      ],
+      "full_summary": "Tòa án Tối cao Mỹ đã đưa ra phán quyết tạm thời khôi phục quyền tiếp cận thuốc phá thai ở Mỹ. Phá thai bằng thuốc là phương pháp phổ biến nhất ở Mỹ. Phán quyết này được đưa ra trong vụ kiện liên quan đến thuốc phá thai mifepristone. Vụ kiện được đưa ra sau khi một tòa án ở tiểu bang Texas cấm sử dụng thuốc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e6bf0594609d",
+      "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
+      "url": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T08:42:00.811610+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Máy bay rơi xuống Đại Tây Dương, 11 người được cứu sống",
+      "bullets": [
+        "Một phi công đã hạ cánh khẩn cấp máy bay xuống Đại Tây Dương",
+        "11 người trên máy bay đã được cứu sống sau khi chờ 5 giờ trên thuyền cứu sinh",
+        "Lực lượng không quân Mỹ đã đưa họ đến bờ biển Florida",
+        "Tất cả người trên máy bay đều an toàn"
+      ],
+      "full_summary": "Một máy bay đã hạ cánh khẩn cấp xuống Đại Tây Dương, khiến 11 người trên máy bay phải chờ 5 giờ trên thuyền cứu sinh trước khi được cứu sống. Lực lượng không quân Mỹ đã đưa họ đến bờ biển Florida. Tất cả người trên máy bay đều an toàn. Sự cố này đã được mô tả là 'thật kỳ diệu'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "93d853c630f3",
+      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T08:42:01.846535+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Musk và Altman đối mặt với cáo buộc trong vụ án công nghệ",
+      "bullets": [
+        "Bí mật về các giao dịch bí mật của X đã được tiết lộ",
+        "Altman đã cố gắng mua lại X nhưng bị từ chối",
+        "Musk đã sử dụng tài khoản Twitter để gây áp lực lên các nhà đầu tư",
+        "Các nhân chứng đã tiết lộ về các cuộc thảo luận nội bộ tại X"
+      ],
+      "full_summary": "Trong phiên tòa kéo dài nhiều tuần, hai nhân vật công nghệ hàng đầu Elon Musk và Sam Altman đã đối mặt với cáo buộc. Các nhân chứng đã tiết lộ về các giao dịch bí mật của X, cũng như các cuộc thảo luận nội bộ tại công ty. Altman đã cố gắng mua lại X nhưng bị từ chối, trong khi Musk đã sử dụng tài khoản Twitter để gây áp lực lên các nhà đầu tư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69508f26f007",
+      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T08:42:02.801234+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Waymo tự nguyện thu hồi hàng ngàn xe tự lái sau tai nạn",
+      "bullets": [
+        "Thu hồi xe tự lái Waymo",
+        "Xe tự lái rơi vào khe suối ở San Antonio, Texas",
+        "Vụ tai nạn xảy ra vào ngày 20 tháng 4",
+        "Xe tự lái không có người lái khi xảy ra tai nạn"
+      ],
+      "full_summary": "Waymo đã tự nguyện thu hồi hàng ngàn xe tự lái sau một vụ tai nạn xảy ra vào ngày 20 tháng 4 ở San Antonio, Texas. Vụ tai nạn xảy ra khi một chiếc xe tự lái Waymo trôi vào một con đường ngập nước. Không có người lái trên xe khi xảy ra tai nạn. Vụ việc đã được xác định là nguyên nhân dẫn đến việc thu hồi xe tự lái.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fdd28d946674",
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T08:42:03.941383+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp ra tính năng trò chuyện riêng tư với AI",
+      "bullets": [
+        "Ra mắt tính năng trò chuyện riêng tư với AI chatbot",
+        "Cơ chế xóa lịch sử trò chuyện có thể dẫn đến thiếu trách nhiệm",
+        "Tính năng mới giúp bảo vệ quyền riêng tư của người dùng",
+        "Cơ quan bảo mật mạng cảnh báo về rủi ro không kiểm soát được"
+      ],
+      "full_summary": "WhatsApp vừa ra mắt tính năng trò chuyện riêng tư với AI chatbot. Tính năng mới cho phép người dùng xóa lịch sử trò chuyện một cách dễ dàng. Tuy nhiên, một chuyên gia an ninh mạng cảnh báo rằng cơ chế xóa lịch sử trò chuyện có thể dẫn đến thiếu trách nhiệm nếu có vấn đề xảy ra. Tính năng mới được thiết kế để bảo vệ quyền riêng tư của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ab55e6dc7f7",
+      "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
+      "url": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-15T08:42:09.342134+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "AMD sẽ mang công nghệ FSR 4 mới lên các card đồ họa Radeon cũ",
+      "bullets": [
+        "AMD sẽ cập nhật công nghệ FSR 4 lên các card đồ họa Radeon cũ",
+        "Cập nhật sẽ mang lại hiệu suất tốt hơn cho các card đồ họa đời cũ",
+        "Tuy nhiên, hiệu suất của FSR 4.1 trên các card đồ họa RDNA3 hoặc RDNA2 sẽ bị giảm",
+        "AMD hy vọng sẽ cải thiện hiệu suất của công nghệ FSR 4 trong tương lai"
+      ],
+      "full_summary": "AMD đã công bố kế hoạch cập nhật công nghệ FSR 4 lên các card đồ họa Radeon cũ. Cập nhật này sẽ mang lại hiệu suất tốt hơn cho các card đồ họa đời cũ, nhưng hiệu suất của FSR 4.1 trên các card đồ họa RDNA3 hoặc RDNA2 sẽ bị giảm. AMD hy vọng sẽ cải thiện hiệu suất của công nghệ FSR 4 trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8f92fa7607ba",
       "title": "Five Italians die during cave dive in Maldives",
@@ -636,166 +796,6 @@
         "Lính Mỹ 19 tuổi thuộc quân đoàn Mỹ châu Âu và châu Phi"
       ],
       "full_summary": "Thi thể lính Mỹ Mariyah Symone Collington đã được tìm thấy sau nhiều ngày tìm kiếm. Cô là người thứ hai mất tích trong tập trận quân sự ở Maroc. Lính Mỹ 19 tuổi thuộc quân đoàn Mỹ châu Âu và châu Phi đã mất tích trong khi đi dạo ngoài giờ làm việc. Một cuộc tìm kiếm đa quốc gia đã được triển khai với sự tham gia của các phương tiện hàng không, hải quân và trí tuệ nhân tạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f6bbf934539",
-      "title": "Cartel corruption claims push US-Mexico relations to breaking point",
-      "url": "https://www.theguardian.com/world/2026/may/13/cartel-corruption-claims-push-us-mexico-relations-to-breaking-point",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T02:33:31.347016+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hoa Kỳ và Mexico đối mặt với căng thẳng quan hệ",
-      "bullets": [
-        "Washington cáo buộc các quan chức Mexico có liên kết với các băng đảng ma túy",
-        "CIA được cho là đang hoạt động tự do ở Mexico",
-        "Mexico phản ứng với cáo buộc và nhấn mạnh bảo vệ chủ quyền",
-        "Quan hệ giữa hai quốc gia đang ở mức căng thẳng nhất kể từ những năm 1980"
-      ],
-      "full_summary": "Hoa Kỳ và Mexico đang đối mặt với căng thẳng quan hệ nghiêm trọng do cáo buộc về sự tham gia của các quan chức Mexico với các băng đảng ma túy. Washington cáo buộc các quan chức Mexico có liên kết với các băng đảng ma túy, trong khi Mexico phản ứng với cáo buộc và nhấn mạnh bảo vệ chủ quyền. Sự căng thẳng này đã đẩy quan hệ giữa hai quốc gia đến mức độ nghiêm trọng nhất kể từ những năm 1980.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11781278abd3",
-      "title": "US man accused of killing rock singer in 1993 arrested after decades on the run",
-      "url": "https://www.theguardian.com/us-news/2026/may/13/man-arrested-rock-singer-death-1993",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T02:33:32.534042+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông Mỹ bị bắt sau 30 năm trốn tránh vì liên quan đến vụ giết người năm 1993",
-      "bullets": [
-        "Bị bắt tại Panama",
-        "Liên quan đến vụ giết Rodney Barger, ca sĩ của ban nhạc Cold as Life",
-        "Werstine đã trốn tránh hơn 30 năm",
-        "Bị bắt bởi US Marshals Service"
-      ],
-      "full_summary": "Một người đàn ông Mỹ tên Richard Werstine đã bị bắt tại Panama sau 30 năm trốn tránh vì liên quan đến vụ giết người năm 1993. Werstine bị buộc tội giết Rodney Barger, ca sĩ của ban nhạc Cold as Life. Bị bắt bởi US Marshals Service, Werstine đã trốn tránh quá lâu và cuối cùng đã bị bắt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3c04d0fbbcf8",
-      "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
-      "url": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-14T02:33:33.632003+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Máy bay mặt trời với cánh giống máy bayumbo bị rơi sau khi lập kỷ lục bay",
-      "bullets": [
-        "Lập kỷ lục bay dài 3 ngày 22 giờ",
-        "Sử dụng năng lượng mặt trời để bay",
-        "Có cánh giống máy bayumbo",
-        "Bị rơi trong chuyến bay cuối cùng"
-      ],
-      "full_summary": "Một máy bay mặt trời với cánh giống máy bayumbo đã lập kỷ lục bay dài 3 ngày 22 giờ trước khi bị rơi trong chuyến bay cuối cùng. Máy bay này sử dụng năng lượng mặt trời để bay và được thiết kế để bay liên tục trong nhiều ngày. Mặc dù đã đạt được thành công, nhưng máy bay này cũng để lại một di sản phức tạp. Các nhà khoa học đang cố gắng hiểu tại sao máy bay này bị rơi và làm thế nào để cải thiện thiết kế của nó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f8ccf5b91e4c",
-      "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
-      "url": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-14T02:33:34.533485+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "FCC giúp AT&T và Starlink mua phổ tần số EchoStar",
-      "bullets": [
-        "Cấp phép cho AT&T và Starlink mua phổ tần số EchoStar",
-        "FCC chủ tịch gây áp lực buộc EchoStar bán giấy phép",
-        "Các nhà mạng nhỏ tức giận vì bị bỏ lại phía sau",
-        "Sự kiện gây tranh cãi trong lĩnh vực công nghệ"
-      ],
-      "full_summary": "FCC đã cấp phép cho AT&T và Starlink mua phổ tần số EchoStar, gây ra sự phẫn nộ từ các nhà mạng nhỏ. Sự việc này không phải là bất ngờ sau khi FCC chủ tịch gây áp lực buộc EchoStar bán giấy phép. Các nhà mạng nhỏ cho rằng họ đã bị bỏ lại phía sau trong quá trình mua bán phổ tần số.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d66a868f253d",
-      "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
-      "url": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-14T02:33:35.997412+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nghi phạm cố gắng lẩn trốn 49 kg cocaine vào Úc qua máy in Xerox",
-      "bullets": [
-        "Cố gắng vận chuyển 49 kg cocaine vào Úc",
-        "Cocaine có giá trị hơn 200 tỷ đồng",
-        "Nghi phạm sử dụng máy in Xerox để lẩn trốn",
-        "Cơ quan chức năng đã ngăn chặn kế hoạch này"
-      ],
-      "full_summary": "Một nhóm nghi phạm đã cố gắng vận chuyển 49 kg cocaine vào Úc qua máy in Xerox. Cocaine có giá trị hơn 200 tỷ đồng. Cơ quan chức năng đã ngăn chặn kế hoạch này và nghi phạm đang được điều tra. Đây là một vụ việc nghiêm trọng về buôn bán ma túy.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7e3d455cdfb5",
-      "title": "NASA provides some details about Artemis III, but hard decisions remain",
-      "url": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-14T02:33:38.458884+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "NASA công bố chi tiết về Artemis III nhưng vẫn còn nhiều quyết định khó khăn",
-      "bullets": [
-        "Định nghĩa khái niệm hoạt động cho nhiệm vụ Artemis III",
-        "Xác định các bước thực hiện cho sứ mệnh",
-        "Chưa có quyết định cuối cùng về chi phí và thời gian thực hiện",
-        "Cần phải cân nhắc nhiều yếu tố để đảm bảo thành công"
-      ],
-      "full_summary": "NASA vừa công bố một số chi tiết về Artemis III, nhưng vẫn còn nhiều quyết định khó khăn. Nhiệm vụ này sẽ đưa người lên Mặt Trăng lần đầu tiên kể từ thế kỷ 20. NASA đang định nghĩa khái niệm hoạt động cho nhiệm vụ và xác định các bước thực hiện cho sứ mệnh. Tuy nhiên, vẫn chưa có quyết định cuối cùng về chi phí và thời gian thực hiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eed543b4bdb5",
-      "title": "Meta won't let you block its AI account on Threads",
-      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-14T02:33:42.354275+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta không cho phép người dùng chặn tài khoản AI trên Threads",
-      "bullets": [
-        "Meta đã thêm chức năng AI vào ứng dụng Threads",
-        "Người dùng không thể chặn tài khoản AI trên Threads",
-        "Chức năng này sẽ giúp tăng cường trải nghiệm người dùng",
-        "Tuy nhiên, nhiều người dùng lo ngại về quyền riêng tư"
-      ],
-      "full_summary": "Meta đã thêm chức năng AI vào ứng dụng Threads, cho phép AI tạo nội dung và tương tác với người dùng. Tuy nhiên, người dùng không thể chặn tài khoản AI trên Threads, điều này đã gây ra lo ngại về quyền riêng tư. Chức năng này sẽ giúp tăng cường trải nghiệm người dùng, nhưng cũng có thể gây ra những vấn đề về bảo mật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f2774d7dd6c5",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:09.120251+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tòa án đảo ngược kết tội Alex Murdaugh, yêu cầu xét xử lại",
-      "bullets": [
-        "Tòa án đã đảo ngược kết tội giết người của Alex Murdaugh",
-        "Tòa án đã yêu cầu xét xử lại vụ giết Paul và Maggie Murdaugh",
-        "Vụ án xảy ra vào tháng 6 năm 2021",
-        "Alex Murdaugh đã bị kết tội giết vợ và con trai"
-      ],
-      "full_summary": "Tòa án đã đảo ngược kết tội giết người của Alex Murdaugh, người đã bị kết tội giết vợ và con trai vào tháng 6 năm 2021. Tòa án đã yêu cầu xét xử lại vụ án. Vụ án đã gây ra sự quan tâm lớn trong cộng đồng. Alex Murdaugh đã bị kết tội giết Paul và Maggie Murdaugh.",
       "comments": 0,
       "score": 0
     }
