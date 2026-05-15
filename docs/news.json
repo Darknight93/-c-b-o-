@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-05-15T08:42:13.017977+00:00",
+  "updated_at": "2026-05-15T13:50:00.110921+00:00",
   "articles": [
+    {
+      "id": "3d78d628d76a",
+      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T13:49:45.122197+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Trump và Xi kết thúc cuộc họp 'rất thành công' nhưng không có thỏa thuận nào được xác nhận.",
+      "bullets": [
+        "Trump và Xi đã có cuộc họp hai ngày.",
+        "Không có thỏa thuận thương mại nào được đạt được.",
+        "Có nhiều nghi thức được sắp xếp trước.",
+        "Không có thông tin về các thỏa thuận cụ thể."
+      ],
+      "full_summary": "Cuộc họp giữa Tổng thống Mỹ Donald Trump và Tổng Bí thư Trung Quốc Tập Cận Bình đã kết thúc. Mặc dù có nhiều nghi thức được sắp xếp trước, nhưng không có thỏa thuận thương mại nào được đạt được. Cuộc họp hai ngày diễn ra tại Trung Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "18c2fd0007b7",
+      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
+      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T13:49:46.098239+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một chàng trai 15 tuổi bị bắn chết ở Pháp do chiến tranh ma túy",
+      "bullets": [
+        "Một chàng trai 15 tuổi bị bắn chết ở Nantes, Pháp",
+        "Các công tố viên cho rằng vụ bắn này liên quan đến chiến tranh ma túy",
+        "Chị dâu của nạn nhân phủ nhận anh ta tham gia vào hoạt động ma túy",
+        "Cơ quan chức năng đang điều tra vụ án"
+      ],
+      "full_summary": "Một chàng trai 15 tuổi đã bị bắn chết ở Nantes, Pháp. Các công tố viên cho rằng vụ bắn này liên quan đến chiến tranh ma túy nhưng chị dâu của nạn nhân phủ nhận anh ta tham gia vào hoạt động ma túy. Cơ quan chức năng đang điều tra vụ án để xác định nguyên nhân thực sự. Vụ việc đã gây ra sự chú ý lớn trong dư luận Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "055b34fed5a7",
+      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
+      "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T13:49:47.057190+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một ứng dụng đã bị kiện vì phân biệt đối xử với người chuyển giới",
+      "bullets": [
+        "Một tòa án ở Úc đã tăng gấp đôi số tiền bồi thường cho một người chuyển giới",
+        "Roxanne Tickle đã được bồi thường AU$40,000 vì bị xóa khỏi ứng dụng Giggle for Girls",
+        "Vụ việc được coi là một trường hợp phân biệt đối xử nghiêm trọng",
+        "Tòa án đã lên án hành động của ứng dụng"
+      ],
+      "full_summary": "Một tòa án ở Úc đã tăng gấp đôi số tiền bồi thường cho Roxanne Tickle, một người chuyển giới, sau khi cô bị xóa khỏi ứng dụng Giggle for Girls. Vụ việc được coi là một trường hợp phân biệt đối xử nghiêm trọng. Tòa án đã lên án hành động của ứng dụng và yêu cầu họ phải thay đổi chính sách. Roxanne Tickle đã được bồi thường AU$40,000.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "484494e05719",
+      "title": "X pledges quicker action on hate and terror content in the UK",
+      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T13:49:48.170416+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Xây dựng quy định mạnh tay hơn đối với nội dung khủng bố và bạo lực trên mạng ở Anh",
+      "bullets": [
+        "Xây dựng quy định mới để nhanh chóng xóa nội dung khủng bố và bạo lực trên mạng",
+        "Tăng cường hợp tác giữa các cơ quan chức năng để ngăn chặn các tội ác liên quan đến khủng bố",
+        "Đảm bảo an toàn cho các cộng đồng dễ bị tổn thương sau các vụ tấn công gần đây",
+        "Cải thiện quy trình báo cáo và xử lý các trường hợp vi phạm"
+      ],
+      "full_summary": "Ủy ban truyền thông Ofcom cho biết các cam kết này rất quan trọng sau các vụ tấn công mới nhắm vào cộng đồng Do Thái ở Anh. Xây dựng quy định mới để nhanh chóng xóa nội dung khủng bố và bạo lực trên mạng là một phần quan trọng của nỗ lực này. Các cơ quan chức năng sẽ tăng cường hợp tác để ngăn chặn các tội ác liên quan đến khủng bố và đảm bảo an toàn cho các cộng đồng dễ bị tổn thương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ad451acba2a",
+      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T13:49:49.197694+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người chết vì bùng phát Ebola ở Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Đã có 246 trường hợp nghi ngờ mắc bệnh sốt xuất huyết Ebola",
+        "Các quan chức y tế châu Phi đang nỗ lực phối hợp và kiểm soát sự lây lan",
+        "Tình trạng bùng phát có thể do một biến thể mới của virus gây ra",
+        "Số người chết đã lên đến 65"
+      ],
+      "full_summary": "Một vụ bùng phát Ebola đã khiến 65 người chết ở Cộng hòa Dân chủ Congo. Các quan chức y tế châu Phi đang nỗ lực phối hợp và kiểm soát sự lây lan của bệnh. Có 246 trường hợp nghi ngờ mắc bệnh sốt xuất huyết Ebola ở tỉnh Ituri, giáp với Uganda và Nam Sudan. Tình trạng bùng phát có thể do một biến thể mới của virus gây ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3362c0b8de9e",
+      "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
+      "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T13:49:50.240624+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiệt độ kỷ lục ở Bắc Mỹ và Trung Mỹ",
+      "bullets": [
+        "Nhiệt độ ở Honduras đạt 42,2°C, phá vỡ kỷ lục",
+        "Mưa tuyết phủ Siberia trong tuần có nhiều cực đoan",
+        "Hail có kích thước trứng ở miền đông Trung Quốc",
+        "Nhiệt độ ở Indonesia cũng đạt mức kỷ lục"
+      ],
+      "full_summary": "Trong tuần này, nhiều khu vực trên thế giới đã trải qua thời tiết cực đoan. Nhiệt độ ở Honduras đã đạt 42,2°C, phá vỡ kỷ lục. Mưa tuyết phủ Siberia trong khi ở miền đông Trung Quốc, mưa đá có kích thước trứng đã rơi xuống. Nhiệt độ ở Indonesia cũng đã đạt mức kỷ lục.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6619f414a92f",
+      "title": "The perfect commuter bike? Velotric's Discover 3 makes its case.",
+      "url": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-15T13:49:52.323532+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Velotric Discover 3 có thể là chiếc xe đạp di chuyển hoàn hảo",
+      "bullets": [
+        "Cung cấp động cơ giữa xe mạnh mẽ",
+        "Sử dụng bộ phận Shimano Cues mới",
+        "Tích hợp các tính năng hiện đại",
+        "Phù hợp cho mục đích di chuyển hàng ngày"
+      ],
+      "full_summary": "Velotric Discover 3 được đánh giá cao nhờ động cơ giữa xe mạnh mẽ và bộ phận Shimano Cues mới. Đây là một sự kết hợp hoàn hảo cho mục đích di chuyển hàng ngày. Xe đạp này được thiết kế để đáp ứng nhu cầu của người dùng, với tính năng hiện đại và hiệu suất cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "32931c4451ab",
+      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-15T13:49:53.319423+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Anthropic không có kế hoạch lớn về giới hạn sử dụng và minh bạch",
+      "bullets": [
+        "Cat Wu nóiAnthropic sẽ không giới hạn sử dụng AI",
+        "Anthropic cam kết minh bạch hơn trong sử dụng AI",
+        "Sản phẩm của Anthropic sẽ tập trung vào 'Lean Harness'",
+        "Anthropic không có kế hoạch lớn, nhưng vẫn có mục tiêu cụ thể"
+      ],
+      "full_summary": "Anthropic, công ty AI do Elon Musk thành lập, đang tập trung vào việc phát triển sản phẩm AI an toàn và minh bạch. Trong một cuộc phỏng vấn, Cat Wu, người đứng đầu sản phẩm của Anthropic, nói rằng công ty không có kế hoạch lớn về giới hạn sử dụng AI. Thay vào đó, Anthropic sẽ tập trung vào việc phát triển sản phẩm AI an toàn và minh bạch hơn. Sản phẩm của Anthropic sẽ tập trung vào 'Lean Harness', một khái niệm mới trong AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3a86fbee0244",
+      "title": "Cursing the government does not fix potholes. Spray-painting them does",
+      "url": "https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-15T13:49:57.232400+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Làm đẹp hố sụt không giải quyết vấn đề",
+      "bullets": [
+        "Làm đẹp hố sụt bằng sơn không thay thế việc sửa chữa",
+        "Chính phủ không giải quyết vấn đề hố sụt bằng cách trừng phạt",
+        "Thực hiện một dự án sơn hố sụt để thể hiện sự bất mãn",
+        "Dự án sơn hố sụt không mang lại kết quả như mong đợi"
+      ],
+      "full_summary": "Một nhóm người đã thực hiện một dự án sơn hố sụt để thể hiện sự bất mãn với chính phủ vì không giải quyết vấn đề hố sụt. Dự án này không mang lại kết quả như mong đợi và chỉ làm đẹp bề mặt. Điều này cho thấy rằng làm đẹp bề mặt không thể thay thế cho việc sửa chữa thực sự.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "5c126f79ffb1",
       "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
@@ -617,185 +797,6 @@
         "Cung cấp giải pháp cho các vấn đề liên quan"
       ],
       "full_summary": "Bài viết này giải thích và phản bác các lý thuyết sai về /dev/urandom, một nguồn ngẫu nhiên trên Linux. Nó giải quyết các vấn đề về bảo mật và độ tin cậy, so sánh nó với các nguồn ngẫu nhiên khác và cung cấp giải pháp cho các vấn đề liên quan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fd46a53d23d0",
-      "title": "Pomp and pageantry: Key moments from day one of Trump's visit to China",
-      "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T08:30:36.419722+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trung Quốc chào đón Trump bằng nghi thức quân sự và trẻ em hát ca",
-      "bullets": [
-        "Trung Quốc tổ chức cuộc diễu hành quân sự chào đón Trump",
-        "Trump gặp gỡ Chủ tịch Trung Quốc Xi Jinping trong gần hai giờ",
-        "Trẻ em Trung Quốc hát ca chào đón Tổng thống Mỹ",
-        "Trung Quốc và Mỹ bắt đầu cuộc gặp chính thức"
-      ],
-      "full_summary": "Ngày thứ nhất của chuyến thăm Trung Quốc của Tổng thống Mỹ Donald Trump đã diễn ra với nghi thức quân sự và trẻ em hát ca chào đón. Sau đó, Trump đã gặp gỡ Chủ tịch Trung Quốc Xi Jinping trong gần hai giờ. Cuộc gặp này đánh dấu sự bắt đầu của cuộc gặp chính thức giữa hai lãnh đạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aff5a9c90ed8",
-      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
-      "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T08:30:37.439299+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cộng đồng Uvira bị sốc khi chứng kiến bạo lực",
-      "bullets": [
-        "Cầm quyền Uvira, phe nổi loạn và quân Rwanda bị cáo buộc phạm tội ác",
-        "Các chiến binh phe nổi loạn và quân Rwanda bị cáo buộc giết hại người vô tội",
-        "Thành phố Uvira đang phải đối mặt với hậu quả của chiến tranh",
-        "Nạn nhân và người dân địa phương đang phải chịu đựng sự đau khổ"
-      ],
-      "full_summary": "Thành phố Uvira ở Cộng hòa Dân chủ Congo đang phải đối mặt với hậu quả của chiến tranh sau khi phe nổi loạn và quân Rwanda chiếm quyền kiểm soát thành phố vào tháng 12. Các chiến binh phe nổi loạn và quân Rwanda bị cáo buộc phạm tội ác, bao gồm giết hại người vô tội. Người dân địa phương đang phải chịu đựng sự đau khổ và nạn nhân đang phải đối mặt với hậu quả của chiến tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f9cb27f9cac3",
-      "title": "Rescuers search rubble of Kyiv flats after massive Russian strikes kill two",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T08:30:38.523764+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nga tấn công Ukraine bằng tên lửa và máy bay không người lái",
-      "bullets": [
-        "Nga đã phóng tên lửa và máy bay không người lái vào Ukraine",
-        "Hai người đã thiệt mạng trong vụ tấn công này",
-        "Trẻ em bị thương trong vụ tấn công",
-        "Cứu hộ đang tìm kiếm những người còn sống sót trong đống đổ nát"
-      ],
-      "full_summary": "Nga đã tấn công Ukraine bằng tên lửa và máy bay không người lái, khiến hai người thiệt mạng và nhiều người bị thương. Trẻ em cũng bị thương trong vụ tấn công. Cứu hộ đang tìm kiếm những người còn sống sót trong đống đổ nát của các tòa nhà ở Kyiv.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65f175c48821",
-      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T08:30:40.552113+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "HMRC sẽ sử dụng AI để phát hiện gian lận và lỗi trong tờ khai thuế",
-      "bullets": [
-        "Sẽ sử dụng công nghệ AI từ công ty Quantexa để phát hiện gian lận",
-        "Đoạn hợp đồng trị giá £175 triệu được ký kết",
-        "Mục tiêu là giảm số lượng lỗi trong tờ khai thuế",
-        "Sẽ giúp HMRC tăng cường hiệu quả trong việc quản lý thuế"
-      ],
-      "full_summary": "Hội đồng Thuế và Hải quan (HMRC) đã ký hợp đồng £175 triệu với công ty Quantexa để sử dụng công nghệ AI phát hiện gian lận và lỗi trong tờ khai thuế. Mục tiêu là giảm số lượng lỗi trong tờ khai thuế và tăng cường hiệu quả trong việc quản lý thuế. Công nghệ AI sẽ giúp HMRC phân tích dữ liệu lớn và phát hiện các trường hợp gian lận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e09f1261c9e9",
-      "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-      "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T08:30:41.549637+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Elon Musk đòi quyền kiểm soát OpenAI cho con mình",
-      "bullets": [
-        "Elon Musk nhiều lần đòi quyền kiểm soát OpenAI",
-        "Sam Altman từ chối và Elon Musk đang kiện",
-        "Elon Musk muốn con mình có quyền kiểm soát công ty",
-        "Sam Altman cho biết Elon Musk muốn toàn quyền kiểm soát OpenAI"
-      ],
-      "full_summary": "Elon Musk đang kiện Sam Altman vì từ chối quyền kiểm soát OpenAI. Sam Altman cho biết Elon Musk đã nhiều lần đòi quyền kiểm soát công ty này. Elon Musk muốn con mình có quyền kiểm soát OpenAI, nhưng Sam Altman từ chối và đang kiện Elon Musk.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1a80d9259a99",
-      "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
-      "url": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-14T08:30:43.382658+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Đặc điểm protein răng Homo erectus cho thấy Denisovans đã truyền DNA cho chúng ta",
-      "bullets": [
-        "Khám phá protein răng đặc biệt trong Homo erectus xuất hiện trong Denisovans và con người",
-        "Nghiên cứu cho thấy Denisovans đã giao phối với tổ tiên của con người",
-        "Phát hiện này mở ra khả năng hiểu rõ hơn về lịch sử di truyền của loài người"
-      ],
-      "full_summary": "Một nghiên cứu mới đã phát hiện ra một loại protein răng đặc biệt trong Homo erectus, giống với loại protein răng trong Denisovans và con người. Điều này cho thấy Denisovans đã giao phối với tổ tiên của con người, mở ra khả năng hiểu rõ hơn về lịch sử di truyền của loài người. Phát hiện này có thể giúp các nhà khoa học hiểu rõ hơn về quá trình di truyền và sự đa dạng của loài người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6a83e0232aea",
-      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-14T08:30:49.920444+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft BitLocker có lỗ hổng bảo mật, cho phép mở ổ đĩa bảo vệ bằng USB đơn giản",
-      "bullets": [
-        "Chỉ cần một số tệp tin trên USB là có thể mở ổ đĩa BitLocker bảo vệ",
-        "YellowKey zero-day exploit cho thấy có thể có backdoor trong Microsoft BitLocker",
-        "Lỗ hổng bảo mật này có thể ảnh hưởng đến nhiều người dùng BitLocker",
-        "Microsoft chưa có thông tin về lỗ hổng bảo mật này"
-      ],
-      "full_summary": "Một lỗ hổng bảo mật mới được phát hiện trong Microsoft BitLocker, cho phép người dùng mở ổ đĩa bảo vệ bằng chỉ một số tệp tin trên USB. Lỗ hổng này được gọi là YellowKey zero-day exploit và cho thấy có thể có backdoor trong Microsoft BitLocker. Điều này có thể ảnh hưởng đến nhiều người dùng BitLocker, nhưng Microsoft chưa có thông tin về lỗ hổng bảo mật này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0fca1d4476d",
-      "title": "Why big tech is betting on cute mascots",
-      "url": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T02:33:29.213572+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công nghệ lớn đang đặt các nhân vật hoạt hình vào vị trí trung tâm",
-      "bullets": [
-        "Đặt các nhân vật hoạt hình vào vị trí trung tâm",
-        "Tăng cường sự nhận biết và gắn kết với khách hàng",
-        "Sử dụng các nhân vật hoạt hình để quảng cáo và tiếp thị",
-        "Tạo ra một hình ảnh thân thiện và gần gũi"
-      ],
-      "full_summary": "Các công ty công nghệ lớn như Apple, Microsoft và Google đang sử dụng các nhân vật hoạt hình để thu hút khách hàng. Các nhân vật hoạt hình này được sử dụng để tăng cường sự nhận biết và gắn kết với khách hàng, cũng như để quảng cáo và tiếp thị sản phẩm. Mục tiêu của các công ty này là tạo ra một hình ảnh thân thiện và gần gũi với khách hàng, giúp họ trở thành một phần của thương hiệu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "218441359b2e",
-      "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
-      "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T02:33:30.408244+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nghi phạm mất tích trong tập trận quân sự ở Maroc đã được tìm thấy",
-      "bullets": [
-        "Tìm thấy thi thể lính Mỹ Mariyah Symone Collington",
-        "Cô là người thứ hai mất tích trong tập trận quân sự ở Maroc",
-        "Được tìm thấy sau nhiều ngày tìm kiếm bằng các phương tiện hàng không, hải quân và trí tuệ nhân tạo",
-        "Lính Mỹ 19 tuổi thuộc quân đoàn Mỹ châu Âu và châu Phi"
-      ],
-      "full_summary": "Thi thể lính Mỹ Mariyah Symone Collington đã được tìm thấy sau nhiều ngày tìm kiếm. Cô là người thứ hai mất tích trong tập trận quân sự ở Maroc. Lính Mỹ 19 tuổi thuộc quân đoàn Mỹ châu Âu và châu Phi đã mất tích trong khi đi dạo ngoài giờ làm việc. Một cuộc tìm kiếm đa quốc gia đã được triển khai với sự tham gia của các phương tiện hàng không, hải quân và trí tuệ nhân tạo.",
       "comments": 0,
       "score": 0
     }
