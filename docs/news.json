@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-05-14T19:31:18.233265+00:00",
+  "updated_at": "2026-05-15T02:33:12.873127+00:00",
   "articles": [
+    {
+      "id": "8f92fa7607ba",
+      "title": "Five Italians die during cave dive in Maldives",
+      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T02:32:56.912424+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Năm người Ý tử vong trong chuyến lặn hang ở Maldives",
+      "bullets": [
+        "Một nhóm lặn Ý gặp tai nạn ở độ sâu 50m",
+        "Cứu hộ Maldivian tìm thấy một thi thể",
+        "Tình huống đang được điều tra",
+        "Nguyên nhân của vụ tai nạn chưa được xác định"
+      ],
+      "full_summary": "Một nhóm lặn Ý đã gặp tai nạn ở Maldives, khiến năm người thiệt mạng. Theo thông tin ban đầu, vụ tai nạn xảy ra ở độ sâu 50m. Cứu hộ Maldivian đã tìm thấy một thi thể, nhưng vẫn còn nhiều người mất tích. Italy đang điều tra nguyên nhân của vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2390ad0532be",
+      "title": "Inside the secretive and lucrative world of orchid breeding",
+      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T02:32:57.906443+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Nghiên cứu lan hoa bí mật để tạo ra loài mới",
+      "bullets": [
+        "Tìm ra phương pháp lai tạo lan hoa hiệu quả",
+        "Sử dụng công nghệ hiện đại để tăng tốc quá trình lai tạo",
+        "Bảo mật thông tin để tránh bị sao chép",
+        "Chi phí cao, thời gian dài để tạo ra loài lan hoa mới"
+      ],
+      "full_summary": "Các nhà lai tạo lan hoa sử dụng công nghệ hiện đại để tăng tốc quá trình lai tạo, nhưng họ phải bảo mật thông tin để tránh bị sao chép. Quá trình lai tạo lan hoa có thể mất đến một thập kỷ để tạo ra loài mới. Chi phí cao và thời gian dài là những thách thức mà các nhà lai tạo phải đối mặt. Họ phải tìm ra phương pháp lai tạo hiệu quả để tạo ra loài lan hoa mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f0d7a3dae8e6",
+      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T02:32:59.542912+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chuyên gia Raspberry Pi cảnh báo AI không phải là mối đe dọa cho công việc công nghệ",
+      "bullets": [
+        "Cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng nghìn công việc liên quan đến máy tính",
+        "Trí tuệ nhân tạo có thể khiến nhiều người xa lánh công việc công nghệ và ảnh hưởng đến nền kinh tế",
+        "Eben Upton nhấn mạnh tầm quan trọng của việc đào tạo và phát triển kỹ năng công nghệ",
+        "Cần có chiến lược để tận dụng lợi thế của trí tuệ nhân tạo và giảm thiểu tác động tiêu cực"
+      ],
+      "full_summary": "Eben Upton, người sáng lập Raspberry Pi, đã cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng nghìn công việc liên quan đến máy tính. Ông cho rằng trí tuệ nhân tạo có thể khiến nhiều người xa lánh công việc công nghệ và ảnh hưởng đến nền kinh tế. Tuy nhiên, ông nhấn mạnh tầm quan trọng của việc đào tạo và phát triển kỹ năng công nghệ để tận dụng lợi thế của trí tuệ nhân tạo và giảm thiểu tác động tiêu cực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ae6fc8d2d637",
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T02:33:00.463172+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chính phủ tiết kiệm hàng triệu bảng bằng cách thay thế công nghệ Palantir",
+      "bullets": [
+        "Thay thế công nghệ Palantir bằng hệ thống IT nội bộ",
+        "Giảm chi phí bảo trì và nâng cấp",
+        "Hệ thống mới đáp ứng tiêu chuẩn an ninh cao",
+        "Cung cấp sự linh hoạt cho hệ thống"
+      ],
+      "full_summary": "Chính phủ đã tiết kiệm hàng triệu bảng bằng cách thay thế công nghệ Palantir trong hệ thống hỗ trợ người tị nạn. Hệ thống IT nội bộ mới được cho là linh hoạt hơn và đáp ứng tiêu chuẩn an ninh cao. Điều này giúp giảm chi phí bảo trì và nâng cấp. Hệ thống mới cũng cung cấp sự linh hoạt cho hệ thống.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5f9158ebff7b",
+      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
+      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T02:33:02.111040+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "UN kêu gọi Equatorial Guinea không trục xuất người tị nạn Mỹ về nước",
+      "bullets": [
+        "UN kêu gọi Equatorial Guinea dừng kế hoạch trục xuất người tị nạn Mỹ về nước",
+        "Người tị nạn Mỹ mô tả tình trạng bị giam giữ như 'nhà tù'",
+        "UN lo ngại họ sẽ gặp phải bạo lực chính trị, tra tấn và tử vong",
+        "Equatorial Guinea bị coi là một trong những chế độ độc tài nghiêm trọng nhất thế giới"
+      ],
+      "full_summary": "UN đã đưa ra một lời kêu gọi hiếm hoi công khai, yêu cầu Equatorial Guinea dừng kế hoạch trục xuất người tị nạn Mỹ về nước. Họ lo ngại những người này sẽ gặp phải bạo lực chính trị, tra tấn và tử vong. Người tị nạn Mỹ mô tả tình trạng bị giam giữ như 'nhà tù', và UN kêu gọi Equatorial Guinea tuân thủ các tiêu chuẩn nhân quyền quốc tế và tránh việc trục xuất người về nước nơi họ sẽ gặp phải sự迫害.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "197fb7a5a9ae",
+      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-15T02:33:03.070784+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Gabon tạm dừng các nền tảng mạng xã hội",
+      "bullets": [
+        "Tạm dừng các nền tảng mạng xã hội tại Gabon",
+        "Sử dụng VPN để lách các hạn chế tăng vọt",
+        "Cảnh sát bắt giữ người dùng VPN và tạm giữ điện thoại",
+        "Tài khoản của các nhà hoạt động và thành viên đối lập bị tạm dừng"
+      ],
+      "full_summary": "Gabon đã tạm dừng các nền tảng mạng xã hội lớn vào tháng 2, cáo buộc lo ngại về an ninh trong khi có các cuộc biểu tình chống chính phủ. Việc sử dụng VPN để lách các hạn chế đã tăng vọt. Cảnh sát bắt giữ người dùng VPN và tạm giữ điện thoại, trong khi các tài khoản của các nhà hoạt động và thành viên đối lập bị tạm dừng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aac770ce6fa8",
+      "title": "Cell phone users can't stop incriminating themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-15T02:33:07.324210+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Người dùng điện thoại không thể tránh tự làm chứng",
+      "bullets": [
+        "Lưu trữ thông tin nhạy cảm trên điện thoại",
+        "Tự làm chứng cho tội phạm thông qua tin nhắn và cuộc gọi",
+        "Sử dụng ứng dụng theo dõi vị trí",
+        "Chia sẻ thông tin cá nhân trên mạng xã hội"
+      ],
+      "full_summary": "Người dùng điện thoại ngày càng tin tưởng vào thiết bị của mình, lưu trữ thông tin nhạy cảm và chia sẻ với mọi người. Điều này đã dẫn đến việc tự làm chứng cho tội phạm thông qua tin nhắn và cuộc gọi. Nhiều người dùng điện thoại không nhận ra rằng họ đang tự làm chứng cho tội phạm thông qua việc sử dụng ứng dụng theo dõi vị trí và chia sẻ thông tin cá nhân trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cb14e00d4a49",
+      "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+      "url": "https://www.theembeddedrustacean.com/uferris",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-15T02:33:11.237682+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "UFerris giúp các nhà phát triển Rust Embedded học hỏi nhanh chóng",
+      "bullets": [
+        "Tạo ra một bảng học tập đa năng cho các nhà phát triển Rust Embedded",
+        "Giúp các nhà phát triển mới bắt đầu với Rust Embedded",
+        "Cung cấp một công cụ học tập linh hoạt và hiệu quả"
+      ],
+      "full_summary": "UFerris là một bảng học tập đa năng được thiết kế cho các nhà phát triển Rust Embedded mới bắt đầu. Nó cung cấp một công cụ học tập linh hoạt và hiệu quả để giúp các nhà phát triển nhanh chóng nắm bắt các kỹ năng cơ bản của Rust Embedded. UFerris được tạo ra bởi The Embedded Rustacean và có thể được tìm thấy trên trang web của họ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "951da3a5a233",
       "title": "Giant new dinosaur identified from fossils in Thailand",
@@ -637,165 +796,6 @@
         "Alex Murdaugh đã bị kết tội giết vợ và con trai"
       ],
       "full_summary": "Tòa án đã đảo ngược kết tội giết người của Alex Murdaugh, người đã bị kết tội giết vợ và con trai vào tháng 6 năm 2021. Tòa án đã yêu cầu xét xử lại vụ án. Vụ án đã gây ra sự quan tâm lớn trong cộng đồng. Alex Murdaugh đã bị kết tội giết Paul và Maggie Murdaugh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e0b151ffbd2a",
-      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
-      "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:10.450051+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bất động viên người dân bằng hình ảnh chó bị thương",
-      "bullets": [
-        "Vạch trần những kẻ lừa đảo sử dụng hình ảnh chó bị thương để lừa tiền",
-        "BBC điều tra và phát hiện ra những kẻ lừa đảo này",
-        "Đã có hàng chục con chó được cứu và nghi phạm bị bắt giữ",
-        "Nghi phạm bị bắt giữ sau khi BBC điều tra về hoạt động lừa đảo này"
-      ],
-      "full_summary": "Một cuộc điều tra của BBC đã phát hiện ra những kẻ lừa đảo sử dụng hình ảnh chó bị thương để lừa tiền từ người dân. Những kẻ lừa đảo này đã đăng tải hình ảnh chó bị thương lên mạng xã hội để thu hút sự chú ý và lừa tiền từ người dân. Sau khi BBC điều tra, hàng chục con chó đã được cứu và nghi phạm bị bắt giữ. Điều tra này đã giúp ngăn chặn hoạt động lừa đảo này và bảo vệ những con chó bị thương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "62296495310e",
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
-      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:11.422829+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người phụ nữ trên hòn đảo Pitcairn không có triệu chứng hạch hantavirus",
-      "bullets": [
-        "Được đưa đến hòn đảo Pitcairn sau khi tiếp xúc với hạch hantavirus trên tàu",
-        "Không có dấu hiệu mắc bệnh hạch hantavirus",
-        "Đang được cách ly trên hòn đảo",
-        "Hòn đảo Pitcairn là một lãnh thổ hải ngoại của Anh"
-      ],
-      "full_summary": "Người phụ nữ đã được đưa đến hòn đảo Pitcairn sau khi tiếp xúc với hạch hantavirus trên tàu. Theo chính phủ hòn đảo, người phụ nữ không có dấu hiệu mắc bệnh. Người phụ nữ đang được cách ly trên hòn đảo để đảm bảo an toàn. Hòn đảo Pitcairn là một lãnh thổ hải ngoại của Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69508f26f007",
-      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:12.415345+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Waymo tự nguyện thu hồi hàng nghìn xe tự lái sau tai nạn",
-      "bullets": [
-        "Thu hồi xe tự lái Waymo sau khi một chiếc xe tự lái rơi vào một con suối",
-        "Vụ tai nạn xảy ra vào ngày 20 tháng 4 tại San Antonio, Texas",
-        "Xe tự lái Waymo không có người lái khi xảy ra vụ tai nạn",
-        "Thu hồi xe tự lái là một biện pháp tự nguyện"
-      ],
-      "full_summary": "Waymo đã tự nguyện thu hồi hàng nghìn xe tự lái sau khi một chiếc xe tự lái rơi vào một con suối tại San Antonio, Texas. Vụ tai nạn xảy ra vào ngày 20 tháng 4 khi một chiếc xe tự lái Waymo không có người lái đi vào một con đường bị ngập nước. Điều này đã dẫn đến việc thu hồi xe tự lái Waymo để đảm bảo an toàn cho người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fdd28d946674",
-      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
-      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:13.536892+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp ra tính năng trò chuyện riêng tư với AI",
-      "bullets": [
-        "WhatsApp ra mắt tính năng trò chuyện riêng tư với AI",
-        "Tính năng này cho phép người dùng xóa lịch sử trò chuyện",
-        "Một chuyên gia an ninh mạng lo ngại việc xóa lịch sử có thể dẫn đến thiếu trách nhiệm",
-        "Tính năng này sẽ giúp người dùng giữ bí mật thông tin cá nhân"
-      ],
-      "full_summary": "WhatsApp vừa ra mắt tính năng trò chuyện riêng tư với AI. Tính năng này cho phép người dùng xóa lịch sử trò chuyện, giúp họ giữ bí mật thông tin cá nhân. Tuy nhiên, một chuyên gia an ninh mạng lo ngại việc xóa lịch sử có thể dẫn đến thiếu trách nhiệm nếu có vấn đề xảy ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7a0726b70204",
-      "title": "Suicide forum fined £950,000 for not blocking UK users",
-      "url": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:14.574901+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Điện tử Anh phạt £950,000 vì không chặn người dùng UK",
-      "bullets": [
-        "Phó chủ tịch Ofcom chỉ trích diễn đàn vì chậm chặn người dùng UK",
-        "Điện tử Anh phạt £950,000 vì không chặn người dùng UK",
-        "Diễn đàn không thực hiện đủ biện pháp bảo vệ người dùng UK"
-      ],
-      "full_summary": "Một diễn đàn điện tử đã bị phạt £950,000 vì không chặn người dùng UK. Theo cơ quan quản lý, diễn đàn này không thực hiện đủ biện pháp bảo vệ người dùng UK. Tuy nhiên, một số người chỉ trích cơ quan quản lý Ofcom vì chậm chặn diễn đàn này. Cả hai bên đều có lập luận của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "003c5de8dd48",
-      "title": "Body of missing US soldier recovered off coast of Morocco",
-      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:15.548892+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mỹ tìm thấy thi thể binh sĩ mất tích ở Morocco",
-      "bullets": [
-        "Tìm thấy thi thể binh sĩ Mỹ ở Morocco",
-        "Binh sĩ Mỹ mất tích trong cuộc tập trận ở Cap Draa",
-        "Thi thể được tìm thấy trong nước cách nơi mất tích 1,6 km",
-        "Lực lượng tìm kiếm bao gồm cả quân đội Morocco"
-      ],
-      "full_summary": "Một binh sĩ Mỹ tên Kendrick Lamont Key Jr đã mất tích trong một cuộc tập trận ở Cap Draa, Morocco. Lực lượng tìm kiếm đã tìm thấy thi thể của binh sĩ này vào ngày 9 tháng 5. Binh sĩ này mất tích vào ngày 2 tháng 5 trong khi đang tham gia một cuộc tập trận với các đồng minh NATO và các nước châu Phi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f6dcf02c3652",
-      "title": "Les Simpson: return of Québécois show spares viewers from ‘European French’",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:16.551346+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Les Simpson sẽ trở lại với mùa thứ 36",
-      "bullets": [
-        "Bell Media đã đạt được thỏa thuận với Disney để phát sóng và lồng tiếng Les Simpson",
-        "Serie được yêu thích sẽ trở lại vào mùa thu sau gần một năm bất ổn",
-        "Les Simpson là phiên bản tiếng Pháp của bộ phim hoạt hình được yêu thích ở tỉnh Quebec",
-        "Bộ phim sẽ được phát sóng với mùa thứ 36"
-      ],
-      "full_summary": "Bộ phim hoạt hình Les Simpson sẽ trở lại với mùa thứ 36 vào mùa thu sau. Sau gần một năm bất ổn, Bell Media đã đạt được thỏa thuận với Disney để phát sóng và lồng tiếng bộ phim. Les Simpson là phiên bản tiếng Pháp của bộ phim hoạt hình được yêu thích ở tỉnh Quebec. Bộ phim sẽ tiếp tục mang lại niềm vui cho người hâm mộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8813b9dc5ac5",
-      "title": "Trump urged to rule out ‘unlawful’ Cuba takeover and stop using Guantánamo Bay for migrant detention",
-      "url": "https://www.theguardian.com/us-news/2026/may/13/trump-cuba-takeover-guantanamo-bay-migrants",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-13T19:45:18.300613+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hội đồng lập pháp Mỹ ngăn chặn Trump xâm lược Cuba và sử dụng Guantánamo Bay",
-      "bullets": [
-        "Hội đồng lập pháp Mỹ gửi thư cảnh báo không xâm lược Cuba",
-        "Kêu gọi Trump ngưng sử dụng Guantánamo Bay để giam giữ người nhập cư",
-        "Liên kết sự gia tăng di cư từ Cuba với sự gia tăng căng thẳng từ Mỹ",
-        "Hội đồng lập pháp Mỹ lo ngại kế hoạch này sẽ làm trầm trọng thêm 'sự khổ đau hàng loạt'"
-      ],
-      "full_summary": "Hơn 30 thành viên Hội đồng lập pháp Mỹ đã gửi thư cho các quan chức hàng đầu của Tổng thống Donald Trump, kêu gọi họ ngưng sử dụng căn cứ hải quân Guantánamo Bay để giam giữ người nhập cư và ngăn chặn bất kỳ kế hoạch nào xâm lược Cuba. Họ cho rằng sự gia tăng di cư từ Cuba là kết quả của sự gia tăng căng thẳng từ Mỹ. Hội đồng lập pháp Mỹ lo ngại kế hoạch này sẽ làm trầm trọng thêm 'sự khổ đau hàng loạt' ở Cuba.",
       "comments": 0,
       "score": 0
     }
