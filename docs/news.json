@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-05-16T07:54:57.044345+00:00",
+  "updated_at": "2026-05-16T13:07:09.539623+00:00",
   "articles": [
+    {
+      "id": "a5b33e00f09f",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:06:54.884197+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hành động chung của Mỹ và Nigeria giết chỉ huy IS",
+      "bullets": [
+        "Giết Abu-Bilal al-Minuki, người được coi là kẻ khủng bố hoạt động mạnh nhất thế giới",
+        "Hành động chung giữa Mỹ và Nigeria nhằm chống lại tổ chức Nhà nước Hồi giáo",
+        "Chính quyền Mỹ tuyên bố chiến dịch này là thành công",
+        "Chính quyền Nigeria cũng xác nhận thông tin này"
+      ],
+      "full_summary": "Chính quyền Mỹ và Nigeria vừa công bố đã thực hiện một cuộc hành động chung nhằm chống lại tổ chức Nhà nước Hồi giáo (IS). Theo thông tin từ chính quyền Mỹ, người lãnh đạo IS được coi là kẻ khủng bố hoạt động mạnh nhất thế giới, Abu-Bilal al-Minuki, đã bị giết trong chiến dịch này. Chính quyền Mỹ tuyên bố chiến dịch này là thành công và đã giúp loại bỏ một kẻ khủng bố nguy hiểm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4fa97db0ac95",
+      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:06:55.786137+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người cứu hộ thiệt mạng trong quá trình tìm kiếm thi thể",
+      "bullets": [
+        "Một người cứu hộ đã thiệt mạng trong quá trình tìm kiếm thi thể",
+        "Đội cứu hộ đang tìm kiếm thi thể của 3 người Ý",
+        "Tổn thương xảy ra trong một hang động ở Maldives",
+        "Quốc hội Maldives đang điều tra nguyên nhân"
+      ],
+      "full_summary": "Một người cứu hộ đã thiệt mạng trong quá trình tìm kiếm thi thể của 3 người Ý ở Maldives. Họ đã bị chìm trong một hang động. Đội cứu hộ đang tìm kiếm thi thể và điều tra nguyên nhân. Quốc hội Maldives đang theo dõi tình hình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "93d853c630f3",
+      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:06:56.685588+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Musk và Altman đối mặt với cáo buộc liên quan đến công nghệ",
+      "bullets": [
+        "Bị cáo buộc gian lận và lừa đảo trong việc huy động vốn",
+        "Musk và Altman đưa ra lời biện minh và phản bác cáo buộc",
+        "Bị cáo buộc sử dụng công nghệ để thao túng thị trường",
+        "Hội đồng xét xử đang cân nhắc kết quả"
+      ],
+      "full_summary": "Musk và Altman là hai nhân vật nổi tiếng trong thế giới công nghệ. Họ đã đối mặt với cáo buộc gian lận và lừa đảo trong việc huy động vốn. Trong quá trình xét xử, Musk và Altman đã đưa ra lời biện minh và phản bác cáo buộc. Kết quả xét xử đang được chờ đợi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2390ad0532be",
+      "title": "Inside the secretive and lucrative world of orchid breeding",
+      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:06:57.591995+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Các nhà lai tạo orchid bí mật phát triển công nghệ cao",
+      "bullets": [
+        "Tìm kiếm các giống orchid mới",
+        "Sử dụng công nghệ cao để lai tạo",
+        "Giữ bí mật quá trình lai tạo",
+        "Cung cấp loại hoa quý hiếm cho thị trường"
+      ],
+      "full_summary": "Các nhà lai tạo orchid bí mật phát triển công nghệ cao để tìm kiếm các giống orchid mới. Quá trình lai tạo có thể mất đến một thập kỷ để đưa ra thị trường. Để giữ bí mật, họ sử dụng các công nghệ cao và giữ kín quá trình lai tạo. Kết quả là, các nhà lai tạo orchid cung cấp loại hoa quý hiếm cho thị trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f0d7a3dae8e6",
+      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:06:58.674705+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Tập đoàn Raspberry Pi cảnh báo AI có thể khiến người lao động mất việc",
+      "bullets": [
+        "Cảnh báo AI sẽ không phá hủy hàng loạt vị trí công nghệ trong tương lai",
+        "Eben Upton cho rằng AI sẽ thay đổi cách làm việc chứ không phải phá hủy",
+        "Tập đoàn Raspberry Pi lo ngại người lao động sẽ tránh các công việc công nghệ",
+        "Eben Upton cảnh báo AI có thể ảnh hưởng tiêu cực đến nền kinh tế"
+      ],
+      "full_summary": "Eben Upton, người sáng lập Tập đoàn Raspberry Pi, cảnh báo rằng AI có thể khiến người lao động mất việc và ảnh hưởng tiêu cực đến nền kinh tế. Ông cho rằng AI sẽ thay đổi cách làm việc chứ không phải phá hủy hàng loạt vị trí công nghệ. Tuy nhiên, ông lo ngại người lao động sẽ tránh các công việc công nghệ do lo sợ bị thay thế bởi AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ae6fc8d2d637",
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:06:59.564485+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chính phủ Anh tiết kiệm 'triệu bảng' bằng cách thay thế công nghệ Palantir",
+      "bullets": [
+        "Thay thế công nghệ Palantir bằng hệ thống IT nội bộ",
+        "Giảm chi phí lên 'triệu bảng'",
+        "Hệ thống mới đáp ứng tiêu chuẩn an ninh cao",
+        "Cung cấp sự linh hoạt cho hệ thống"
+      ],
+      "full_summary": "Chính phủ Anh đã tiết kiệm được 'triệu bảng' bằng cách thay thế công nghệ Palantir trong hệ thống hỗ trợ người tị nạn. Hệ thống IT nội bộ mới được cho là linh hoạt hơn và đáp ứng tiêu chuẩn an ninh cao. Điều này cho thấy sự thay đổi trong chiến lược công nghệ của chính phủ Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69508f26f007",
+      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:07:00.582970+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Waymo đã triệu hồi hàng ngàn xe tự lái sau khi một chiếc xe rơi vào khe suối.",
+      "bullets": [
+        "Các nhà sản xuất đã triệu hồi 1.400 xe Waymo tự lái.",
+        "Xe tự lái đã rơi vào khe suối vào ngày 20 tháng 4 tại San Antonio, Texas.",
+        "Vụ việc không gây thương vong nhưng đã làm dấy lên lo ngại về an toàn.",
+        "Các nhà sản xuất đang điều tra nguyên nhân của vụ việc."
+      ],
+      "full_summary": "Các nhà sản xuất xe tự lái Waymo đã triệu hồi 1.400 xe sau khi một chiếc xe tự lái rơi vào khe suối vào ngày 20 tháng 4 tại San Antonio, Texas. Vụ việc không gây thương vong nhưng đã làm dấy lên lo ngại về an toàn. Các nhà sản xuất đang điều tra nguyên nhân của vụ việc và sẽ tiến hành kiểm tra để đảm bảo an toàn cho khách hàng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fdd28d946674",
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T13:07:01.488510+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp ra tính năng trò chuyện riêng tư với AI",
+      "bullets": [
+        "Ra mắt tính năng trò chuyện 'incognito' với AI chatbot",
+        "Cơ chế này cho phép người dùng xóa lịch sử trò chuyện",
+        "Chuyên gia an ninh mạng lo ngại thiếu trách nhiệm nếu có vấn đề xảy ra",
+        "Tính năng này có thể giúp bảo vệ quyền riêng tư của người dùng"
+      ],
+      "full_summary": "WhatsApp vừa ra mắt tính năng trò chuyện riêng tư với AI chatbot. Tính năng này cho phép người dùng xóa lịch sử trò chuyện và có cuộc trò chuyện riêng tư hơn. Tuy nhiên, chuyên gia an ninh mạng lo ngại rằng việc xóa lịch sử trò chuyện có thể dẫn đến thiếu trách nhiệm nếu có vấn đề xảy ra. Tính năng này có thể giúp bảo vệ quyền riêng tư của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f2ae554d6d69",
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-16T13:07:05.543248+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tác giả Charlie Stross viết tiểu thuyết khoa học viễn tưởng về sự tăng tốc của công nghệ",
+      "bullets": [
+        "Tác giả Charlie Stross giới thiệu tiểu thuyết khoa học viễn tưởng Accelerando",
+        "Tiểu thuyết khám phá sự tăng tốc của công nghệ và tác động của nó lên xã hội",
+        "Sự tăng tốc công nghệ được miêu tả như một quá trình không thể kiểm soát",
+        "Tiểu thuyết là một tác phẩm khoa học viễn tưởng có ý nghĩa sâu sắc"
+      ],
+      "full_summary": "Accelerando là một tiểu thuyết khoa học viễn tưởng được viết bởi Charlie Stross, xuất bản năm 2005. Tiểu thuyết khám phá sự tăng tốc của công nghệ và tác động của nó lên xã hội. Tác giả miêu tả sự tăng tốc công nghệ như một quá trình không thể kiểm soát, dẫn đến sự thay đổi nhanh chóng và sâu sắc của xã hội. Tiểu thuyết là một tác phẩm khoa học viễn tưởng có ý nghĩa sâu sắc và đã nhận được nhiều đánh giá tích cực từ độc giả.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1210acbd99fd",
       "title": "Man killed by 13ft great white shark in Western Australia",
@@ -613,186 +793,6 @@
         "Tòa án đã lên án hành động của ứng dụng"
       ],
       "full_summary": "Một tòa án ở Úc đã tăng gấp đôi số tiền bồi thường cho Roxanne Tickle, một người chuyển giới, sau khi cô bị xóa khỏi ứng dụng Giggle for Girls. Vụ việc được coi là một trường hợp phân biệt đối xử nghiêm trọng. Tòa án đã lên án hành động của ứng dụng và yêu cầu họ phải thay đổi chính sách. Roxanne Tickle đã được bồi thường AU$40,000.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "484494e05719",
-      "title": "X pledges quicker action on hate and terror content in the UK",
-      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T13:49:48.170416+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Xây dựng quy định mạnh tay hơn đối với nội dung khủng bố và bạo lực trên mạng ở Anh",
-      "bullets": [
-        "Xây dựng quy định mới để nhanh chóng xóa nội dung khủng bố và bạo lực trên mạng",
-        "Tăng cường hợp tác giữa các cơ quan chức năng để ngăn chặn các tội ác liên quan đến khủng bố",
-        "Đảm bảo an toàn cho các cộng đồng dễ bị tổn thương sau các vụ tấn công gần đây",
-        "Cải thiện quy trình báo cáo và xử lý các trường hợp vi phạm"
-      ],
-      "full_summary": "Ủy ban truyền thông Ofcom cho biết các cam kết này rất quan trọng sau các vụ tấn công mới nhắm vào cộng đồng Do Thái ở Anh. Xây dựng quy định mới để nhanh chóng xóa nội dung khủng bố và bạo lực trên mạng là một phần quan trọng của nỗ lực này. Các cơ quan chức năng sẽ tăng cường hợp tác để ngăn chặn các tội ác liên quan đến khủng bố và đảm bảo an toàn cho các cộng đồng dễ bị tổn thương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ad451acba2a",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T13:49:49.197694+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người chết vì bùng phát Ebola ở Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "Đã có 246 trường hợp nghi ngờ mắc bệnh sốt xuất huyết Ebola",
-        "Các quan chức y tế châu Phi đang nỗ lực phối hợp và kiểm soát sự lây lan",
-        "Tình trạng bùng phát có thể do một biến thể mới của virus gây ra",
-        "Số người chết đã lên đến 65"
-      ],
-      "full_summary": "Một vụ bùng phát Ebola đã khiến 65 người chết ở Cộng hòa Dân chủ Congo. Các quan chức y tế châu Phi đang nỗ lực phối hợp và kiểm soát sự lây lan của bệnh. Có 246 trường hợp nghi ngờ mắc bệnh sốt xuất huyết Ebola ở tỉnh Ituri, giáp với Uganda và Nam Sudan. Tình trạng bùng phát có thể do một biến thể mới của virus gây ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3362c0b8de9e",
-      "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
-      "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T13:49:50.240624+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nhiệt độ kỷ lục ở Bắc Mỹ và Trung Mỹ",
-      "bullets": [
-        "Nhiệt độ ở Honduras đạt 42,2°C, phá vỡ kỷ lục",
-        "Mưa tuyết phủ Siberia trong tuần có nhiều cực đoan",
-        "Hail có kích thước trứng ở miền đông Trung Quốc",
-        "Nhiệt độ ở Indonesia cũng đạt mức kỷ lục"
-      ],
-      "full_summary": "Trong tuần này, nhiều khu vực trên thế giới đã trải qua thời tiết cực đoan. Nhiệt độ ở Honduras đã đạt 42,2°C, phá vỡ kỷ lục. Mưa tuyết phủ Siberia trong khi ở miền đông Trung Quốc, mưa đá có kích thước trứng đã rơi xuống. Nhiệt độ ở Indonesia cũng đã đạt mức kỷ lục.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6619f414a92f",
-      "title": "The perfect commuter bike? Velotric's Discover 3 makes its case.",
-      "url": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-15T13:49:52.323532+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Velotric Discover 3 có thể là chiếc xe đạp di chuyển hoàn hảo",
-      "bullets": [
-        "Cung cấp động cơ giữa xe mạnh mẽ",
-        "Sử dụng bộ phận Shimano Cues mới",
-        "Tích hợp các tính năng hiện đại",
-        "Phù hợp cho mục đích di chuyển hàng ngày"
-      ],
-      "full_summary": "Velotric Discover 3 được đánh giá cao nhờ động cơ giữa xe mạnh mẽ và bộ phận Shimano Cues mới. Đây là một sự kết hợp hoàn hảo cho mục đích di chuyển hàng ngày. Xe đạp này được thiết kế để đáp ứng nhu cầu của người dùng, với tính năng hiện đại và hiệu suất cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "32931c4451ab",
-      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
-      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-15T13:49:53.319423+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Anthropic không có kế hoạch lớn về giới hạn sử dụng và minh bạch",
-      "bullets": [
-        "Cat Wu nóiAnthropic sẽ không giới hạn sử dụng AI",
-        "Anthropic cam kết minh bạch hơn trong sử dụng AI",
-        "Sản phẩm của Anthropic sẽ tập trung vào 'Lean Harness'",
-        "Anthropic không có kế hoạch lớn, nhưng vẫn có mục tiêu cụ thể"
-      ],
-      "full_summary": "Anthropic, công ty AI do Elon Musk thành lập, đang tập trung vào việc phát triển sản phẩm AI an toàn và minh bạch. Trong một cuộc phỏng vấn, Cat Wu, người đứng đầu sản phẩm của Anthropic, nói rằng công ty không có kế hoạch lớn về giới hạn sử dụng AI. Thay vào đó, Anthropic sẽ tập trung vào việc phát triển sản phẩm AI an toàn và minh bạch hơn. Sản phẩm của Anthropic sẽ tập trung vào 'Lean Harness', một khái niệm mới trong AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3a86fbee0244",
-      "title": "Cursing the government does not fix potholes. Spray-painting them does",
-      "url": "https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-15T13:49:57.232400+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Làm đẹp hố sụt không giải quyết vấn đề",
-      "bullets": [
-        "Làm đẹp hố sụt bằng sơn không thay thế việc sửa chữa",
-        "Chính phủ không giải quyết vấn đề hố sụt bằng cách trừng phạt",
-        "Thực hiện một dự án sơn hố sụt để thể hiện sự bất mãn",
-        "Dự án sơn hố sụt không mang lại kết quả như mong đợi"
-      ],
-      "full_summary": "Một nhóm người đã thực hiện một dự án sơn hố sụt để thể hiện sự bất mãn với chính phủ vì không giải quyết vấn đề hố sụt. Dự án này không mang lại kết quả như mong đợi và chỉ làm đẹp bề mặt. Điều này cho thấy rằng làm đẹp bề mặt không thể thay thế cho việc sửa chữa thực sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5c126f79ffb1",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T08:41:57.887630+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Congo gặp dịch Ebola mới, 65 người tử vong",
-      "bullets": [
-        "Báo cáo 246 ca nhiễm Ebola",
-        "Hầu hết các ca tử vong xảy ra ở đông bắc Cộng hòa Dân chủ Congo",
-        "Cơ quan y tế quốc gia đang triển khai các biện pháp ngăn chặn",
-        "Các chuyên gia lo ngại về sự lan rộng của dịch bệnh"
-      ],
-      "full_summary": "Một đợt bùng phát Ebola mới đã xảy ra ở đông bắc Cộng hòa Dân chủ Congo, khiến 65 người tử vong. Theo báo cáo của cơ quan y tế quốc gia, khoảng 246 ca nhiễm Ebola đã được báo cáo. Hầu hết các ca tử vong xảy ra ở đông bắc Cộng hòa Dân chủ Congo. Cơ quan y tế quốc gia đang triển khai các biện pháp ngăn chặn để ngăn chặn sự lan rộng của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4bdb892ec282",
-      "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
-      "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T08:41:58.889819+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Adanis đồng ý bồi thường 18 triệu USD trong vụ gian lận tài chính tại Mỹ",
-      "bullets": [
-        "Hệ thống Adanis đồng ý bồi thường 18 triệu USD",
-        "Vụ việc liên quan đến cáo buộc gian lận và lừa đảo nhà đầu tư",
-        "Adanis từ chối mọi cáo buộc và cho rằng hành động của họ là hợp pháp",
-        "Vụ việc được giải quyết thông qua một thỏa thuận ngoài tòa án"
-      ],
-      "full_summary": "Hệ thống Adanis đã đồng ý bồi thường 18 triệu USD để giải quyết vụ việc gian lận tài chính tại Mỹ. Vụ việc bắt đầu khi cơ quan quản lý thị trường chứng khoán Mỹ cáo buộc Adanis đã trả tiền hối lộ và lừa đảo nhà đầu tư. Adanis đã từ chối mọi cáo buộc và cho rằng hành động của họ là hợp pháp. Vụ việc được giải quyết thông qua một thỏa thuận ngoài tòa án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dc6015d2b206",
-      "title": "US Supreme Court restores abortion pill access for now",
-      "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T08:41:59.846961+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tòa án Tối cao Mỹ khôi phục quyền tiếp cận thuốc phá thai",
-      "bullets": [
-        "Khôi phục quyền tiếp cận thuốc phá thai",
-        "Phá thai bằng thuốc là phương pháp phổ biến nhất ở Mỹ",
-        "Tòa án Tối cao Mỹ đưa ra phán quyết tạm thời",
-        "Giải quyết vụ kiện liên quan đến thuốc phá thai mifepristone"
-      ],
-      "full_summary": "Tòa án Tối cao Mỹ đã đưa ra phán quyết tạm thời khôi phục quyền tiếp cận thuốc phá thai ở Mỹ. Phá thai bằng thuốc là phương pháp phổ biến nhất ở Mỹ. Phán quyết này được đưa ra trong vụ kiện liên quan đến thuốc phá thai mifepristone. Vụ kiện được đưa ra sau khi một tòa án ở tiểu bang Texas cấm sử dụng thuốc này.",
       "comments": 0,
       "score": 0
     }
