@@ -1,6 +1,245 @@
 {
-  "updated_at": "2026-05-15T19:21:58.237311+00:00",
+  "updated_at": "2026-05-16T02:15:11.594823+00:00",
   "articles": [
+    {
+      "id": "f47bcc4ae2f3",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T02:14:52.361064+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump cảnh báo Đài Loan tránh độc lập",
+      "bullets": [
+        "Trump cảnh báo Đài Loan tránh tuyên bố độc lập",
+        "Trump yêu cầu Bắc Kinh và Đài Bắc 'giảm nhiệt' căng thẳng",
+        "Trump sau đó gặp gỡ Chủ tịch Trung Quốc Tập Cận Bình",
+        "Căng thẳng giữa Trung Quốc và Đài Loan đang gia tăng"
+      ],
+      "full_summary": "Chủ tịch Mỹ Donald Trump đã cảnh báo Đài Loan tránh tuyên bố độc lập, chỉ vài giờ sau khi ông gặp gỡ Chủ tịch Trung Quốc Tập Cận Bình. Trump muốn Bắc Kinh và Đài Bắc 'giảm nhiệt' căng thẳng đang gia tăng giữa hai bên. Căng thẳng này đã trở thành một vấn đề lớn trong quan hệ Trung-Mỹ. Trump đã cảnh báo Đài Loan tránh tuyên bố độc lập để tránh gây căng thẳng với Trung Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fab46df068d2",
+      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T02:14:53.979384+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Truyền thông Mỹ: Iran cần chứng minh cam kết dỡ bỏ chương trình hạt nhân",
+      "bullets": [
+        "Trump yêu cầu Iran dỡ bỏ chương trình hạt nhân",
+        "Tehran cần chứng minh cam kết bằng hành động",
+        "Iran cần dừng enrichment uranium để đạt được thỏa thuận",
+        "Chính quyền Mỹ muốn Iran chứng minh sự cam kết thực sự"
+      ],
+      "full_summary": "Thủ tướng Mỹ Donald Trump cho biết Iran cần chứng minh cam kết thực sự trong việc dỡ bỏ chương trình hạt nhân và dừng enrichment uranium. Ông Trump yêu cầu Tehran phải chứng minh sự cam kết bằng hành động. Điều này nhằm đạt được thỏa thuận với Iran. Chính quyền Mỹ muốn Iran chứng minh sự cam kết thực sự trong việc dỡ bỏ chương trình hạt nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "51321b056fc5",
+      "title": "Israel says it has killed Hamas commander in Gaza air strike",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T02:14:54.885805+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel giết chỉ huy Hamas trong cuộc không kích Gaza",
+      "bullets": [
+        "Israel tuyên bố đã giết chỉ huy Hamas Izz ad-Din al-Haddad",
+        "Chỉ huy này được mô tả là 'một trong những kiến trúc sư của thảm họa ngày 7 tháng 10'",
+        "Cuộc không kích diễn ra tại thành phố Gaza",
+        "Nguồn tin từ BBC"
+      ],
+      "full_summary": "Israel tuyên bố đã giết Izz ad-Din al-Haddad, được mô tả là 'một trong những kiến trúc sư của thảm họa ngày 7 tháng 10'. Cuộc không kích diễn ra tại thành phố Gaza. Nguồn tin từ BBC. Izz ad-Din al-Haddad được mô tả là một trong những người đứng đầu Hamas.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65f175c48821",
+      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T02:14:55.811076+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "HMRC sẽ sử dụng AI để phát hiện gian lận và lỗi trong tờ khai thuế",
+      "bullets": [
+        "HMRC đã ký hợp đồng £175 triệu với Quantexa để phát hiện gian lận và lỗi trong tờ khai thuế",
+        "Quantexa là một nền tảng dữ liệu tài chính cung cấp công nghệ AI để phân tích dữ liệu",
+        "Mục tiêu của hợp đồng là giảm số lượng tờ khai thuế bị lỗi và gian lận"
+      ],
+      "full_summary": "HMRC đã ký hợp đồng £175 triệu với công ty công nghệ Anh Quantexa để sử dụng công nghệ AI của họ để phát hiện gian lận và lỗi trong tờ khai thuế. Quantexa cung cấp nền tảng dữ liệu tài chính và công nghệ AI để phân tích dữ liệu. Mục tiêu của hợp đồng là giảm số lượng tờ khai thuế bị lỗi và gian lận, giúp HMRC cải thiện hiệu suất và giảm chi phí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "207c164f1bf0",
+      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
+      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T02:14:56.975000+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Lực lượng Mali tấn công liên minh phiến quân",
+      "bullets": [
+        "Tấn công liên minh phiến quân Hồi giáo và dân tộc Tuareg",
+        "Sử dụng máy bay không người lái do Nga hỗ trợ",
+        "Mục tiêu là thị trấn Kidal quan trọng ở phía bắc Mali",
+        "Mục tiêu ngăn chặn cuộc tấn công của phiến quân"
+      ],
+      "full_summary": "Lực lượng Mali đã tiến hành các cuộc không kích nhằm vào liên minh phiến quân Hồi giáo và dân tộc Tuareg. Các cuộc không kích được thực hiện sau khi liên minh này tiến hành một cuộc tấn công bất ngờ ở nhiều khu vực của Mali vào cuối tháng 4. Thị trấn Kidal, một điểm quan trọng ở phía bắc Mali, đã bị mất khi phiến quân tiến hành cuộc tấn công này. Lực lượng Mali đang cố gắng duy trì quyền lực của họ trong một quốc gia Tây Phi không ổn định.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "218441359b2e",
+      "title": "Remains of second US soldier who went missing in Morocco recovered",
+      "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T02:14:58.020681+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai binh sĩ Mỹ mất tích ở Maroc, hài cốt người thứ hai được tìm thấy",
+      "bullets": [
+        "Hài cốt binh sĩ Mỹ Mariyah Symone Collington được tìm thấy sau khi mất tích ở Maroc",
+        "Cô là binh sĩ thứ hai mất tích trong cuộc tập trận quân sự ở Maroc",
+        "Đội tìm kiếm đa quốc gia đã sử dụng hàng không, hải quân và trí tuệ nhân tạo để tìm kiếm",
+        "Cô là người 19 tuổi từ Florida, Mỹ"
+      ],
+      "full_summary": "Hài cốt binh sĩ Mỹ thứ hai mất tích trong cuộc tập trận quân sự ở Maroc đã được tìm thấy. Binh sĩ 19 tuổi Mariyah Symone Collington đã mất tích sau khi rơi khỏi một ngọn đồi trong một chuyến đi dã ngoại ngoài giờ. Đội tìm kiếm đa quốc gia đã sử dụng hàng không, hải quân và trí tuệ nhân tạo để tìm kiếm. Cuộc tìm kiếm đã kết thúc sau khi hài cốt cô được tìm thấy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1d17bc7a5be4",
+      "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T02:14:58.999944+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ xác định 13 người bị tàu chiến tấn công",
+      "bullets": [
+        "Xác định danh tính 13 người bị tấn công tàu chiến Mỹ",
+        "Tất cả nạn nhân đến từ cộng đồng nghèo cực độ",
+        "Mỹ chưa từng xác định nạn nhân trước khi tấn công",
+        "Nghi vấn về chính sách chống ma túy của Mỹ"
+      ],
+      "full_summary": "Một cuộc điều tra 5 tháng đã xác định danh tính 13 nạn nhân bị tấn công tàu chiến Mỹ trong chiến dịch chống ma túy ở Caribbean và Thái Bình Dương. Tất cả nạn nhân đến từ cộng đồng nghèo cực độ. Mặc dù số nạn nhân đã xác định được lên tới 194 người, nhưng Mỹ chưa từng xác định danh tính nạn nhân trước khi tấn công. Điều này đã gây ra nhiều tranh cãi về chính sách chống ma túy của Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "527f72156e0c",
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T02:15:00.158304+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": " Nga ép buộc sinh viên đại học trở thành phi công drone chiến đấu",
+      "bullets": [
+        "Nga đang áp dụng sức ép để tuyển sinh viên đại học trở thành phi công drone chiến đấu",
+        "Các trường đại học hứa hẹn không phải phục vụ trên mặt trận và có nhiều lợi ích nếu sinh viên tham gia quân đội",
+        "Mục tiêu của Nga là tăng cường khả năng sử dụng drone trong quân đội",
+        "Sự áp đặt của Nga đã gây ra lo ngại về việc sử dụng nhân viên đại học trong quân đội"
+      ],
+      "full_summary": "Nga đang áp dụng sức ép để tuyển sinh viên đại học trở thành phi công drone chiến đấu. Các trường đại học hứa hẹn không phải phục vụ trên mặt trận và có nhiều lợi ích nếu sinh viên tham gia quân đội. Mục tiêu của Nga là tăng cường khả năng sử dụng drone trong quân đội. Sự áp đặt của Nga đã gây ra lo ngại về việc sử dụng nhân viên đại học trong quân đội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "07770f0ac174",
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T02:15:02.394340+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Hội đồng xét xử hoãn phê chuẩn thỏa thuận bản quyền 1,5 tỷ USD của Anthropic",
+      "bullets": [
+        "Các luật sư bị cáo buộc đang cố gắng đẩy nhanh thỏa thuận để giành được 320 triệu USD trong thù lao",
+        "Các tác giả đang đấu tranh để nhận được khoản thanh toán cao hơn",
+        "Hội đồng xét xử đã hoãn phê chuẩn thỏa thuận để xem xét lại",
+        "Thỏa thuận bản quyền 1,5 tỷ USD của Anthropic đang trở nên phức tạp"
+      ],
+      "full_summary": "Hội đồng xét xử đã hoãn phê chuẩn thỏa thuận bản quyền 1,5 tỷ USD của Anthropic sau khi các luật sư bị cáo buộc đang cố gắng đẩy nhanh thỏa thuận để giành được 320 triệu USD trong thù lao. Các tác giả đang đấu tranh để nhận được khoản thanh toán cao hơn. Thỏa thuận bản quyền này là một trong những thỏa thuận bản quyền lớn nhất trong lịch sử, nhưng nó đang trở nên phức tạp do các vấn đề về thù lao và phân phối.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1d507444b5f5",
+      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T02:15:03.995387+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "WHO xác nhận trường hợp hantavirus tại Mỹ là sai",
+      "bullets": [
+        "WHO thông báo kết thúc việc di chuyển an toàn hành khách",
+        "Số ca mắc hantavirus giảm từ 11 xuống 10",
+        "WHO xác nhận trường hợp hantavirus tại Mỹ là sai",
+        "Các biện pháp phòng ngừa vẫn tiếp tục được thực hiện"
+      ],
+      "full_summary": "WHO vừa thông báo kết thúc việc di chuyển an toàn hành khách sau khi xác định trường hợp hantavirus tại Mỹ là sai. Số ca mắc hantavirus đã giảm từ 11 xuống 10. Các biện pháp phòng ngừa vẫn tiếp tục được thực hiện để đảm bảo an toàn cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5087ffe7dac1",
+      "title": "Review: Good Omens finale sticks the landing",
+      "url": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T02:15:04.971534+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tập cuối Good Omens kết thúc một câu chuyện tình yêu vĩ đại",
+      "bullets": [
+        "Kết thúc một câu chuyện tình yêu vĩ đại",
+        "Tập cuối Good Omens kết thúc một cách phù hợp",
+        "Mùa thứ ba cảm thấy gấp gáp",
+        "Cốt truyện cảm thấy không đều đặn"
+      ],
+      "full_summary": "Tập cuối Good Omens đã kết thúc một cách phù hợp, nhưng mùa thứ ba cảm thấy gấp gáp và không đều đặn. Mặc dù vậy, tập cuối vẫn mang lại cảm giác cũ của series. Câu chuyện tình yêu giữa hai nhân vật chính vẫn là điểm nhấn của tập cuối.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "acb0ac49f9c2",
+      "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
+      "url": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T02:15:07.685748+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Ba quốc gia lớn đang nhắm vào không gian địa tọa độ",
+      "bullets": [
+        "Mỹ, Trung Quốc và Nga đang tăng cường hoạt động trong không gian địa tọa độ",
+        "Các vệ tinh không gian dễ dàng phát hiện trong không gian đen",
+        "Không gian địa tọa độ đang trở thành một lĩnh vực cạnh tranh",
+        "Ba quốc gia lớn đang đầu tư mạnh mẽ vào công nghệ không gian"
+      ],
+      "full_summary": "Mỹ, Trung Quốc và Nga đang tăng cường hoạt động trong không gian địa tọa độ, khiến nó trở thành một lĩnh vực cạnh tranh. Các vệ tinh không gian dễ dàng phát hiện trong không gian đen, thay vì chạy lặng lẽ và sâu như trước đây. Điều này cho thấy ba quốc gia lớn đang đầu tư mạnh mẽ vào công nghệ không gian để giành ưu thế trong lĩnh vực này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "6b2e9a92e32f",
       "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
@@ -557,245 +796,6 @@
         "Cung cấp sự linh hoạt cho hệ thống"
       ],
       "full_summary": "Chính phủ đã tiết kiệm hàng triệu bảng bằng cách thay thế công nghệ Palantir trong hệ thống hỗ trợ người tị nạn. Hệ thống IT nội bộ mới được cho là linh hoạt hơn và đáp ứng tiêu chuẩn an ninh cao. Điều này giúp giảm chi phí bảo trì và nâng cấp. Hệ thống mới cũng cung cấp sự linh hoạt cho hệ thống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5f9158ebff7b",
-      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
-      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T02:33:02.111040+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "UN kêu gọi Equatorial Guinea không trục xuất người tị nạn Mỹ về nước",
-      "bullets": [
-        "UN kêu gọi Equatorial Guinea dừng kế hoạch trục xuất người tị nạn Mỹ về nước",
-        "Người tị nạn Mỹ mô tả tình trạng bị giam giữ như 'nhà tù'",
-        "UN lo ngại họ sẽ gặp phải bạo lực chính trị, tra tấn và tử vong",
-        "Equatorial Guinea bị coi là một trong những chế độ độc tài nghiêm trọng nhất thế giới"
-      ],
-      "full_summary": "UN đã đưa ra một lời kêu gọi hiếm hoi công khai, yêu cầu Equatorial Guinea dừng kế hoạch trục xuất người tị nạn Mỹ về nước. Họ lo ngại những người này sẽ gặp phải bạo lực chính trị, tra tấn và tử vong. Người tị nạn Mỹ mô tả tình trạng bị giam giữ như 'nhà tù', và UN kêu gọi Equatorial Guinea tuân thủ các tiêu chuẩn nhân quyền quốc tế và tránh việc trục xuất người về nước nơi họ sẽ gặp phải sự迫害.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "197fb7a5a9ae",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T02:33:03.070784+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Gabon tạm dừng các nền tảng mạng xã hội",
-      "bullets": [
-        "Tạm dừng các nền tảng mạng xã hội tại Gabon",
-        "Sử dụng VPN để lách các hạn chế tăng vọt",
-        "Cảnh sát bắt giữ người dùng VPN và tạm giữ điện thoại",
-        "Tài khoản của các nhà hoạt động và thành viên đối lập bị tạm dừng"
-      ],
-      "full_summary": "Gabon đã tạm dừng các nền tảng mạng xã hội lớn vào tháng 2, cáo buộc lo ngại về an ninh trong khi có các cuộc biểu tình chống chính phủ. Việc sử dụng VPN để lách các hạn chế đã tăng vọt. Cảnh sát bắt giữ người dùng VPN và tạm giữ điện thoại, trong khi các tài khoản của các nhà hoạt động và thành viên đối lập bị tạm dừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aac770ce6fa8",
-      "title": "Cell phone users can't stop incriminating themselves",
-      "url": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-15T02:33:07.324210+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Người dùng điện thoại không thể tránh tự làm chứng",
-      "bullets": [
-        "Lưu trữ thông tin nhạy cảm trên điện thoại",
-        "Tự làm chứng cho tội phạm thông qua tin nhắn và cuộc gọi",
-        "Sử dụng ứng dụng theo dõi vị trí",
-        "Chia sẻ thông tin cá nhân trên mạng xã hội"
-      ],
-      "full_summary": "Người dùng điện thoại ngày càng tin tưởng vào thiết bị của mình, lưu trữ thông tin nhạy cảm và chia sẻ với mọi người. Điều này đã dẫn đến việc tự làm chứng cho tội phạm thông qua tin nhắn và cuộc gọi. Nhiều người dùng điện thoại không nhận ra rằng họ đang tự làm chứng cho tội phạm thông qua việc sử dụng ứng dụng theo dõi vị trí và chia sẻ thông tin cá nhân trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cb14e00d4a49",
-      "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
-      "url": "https://www.theembeddedrustacean.com/uferris",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-15T02:33:11.237682+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "UFerris giúp các nhà phát triển Rust Embedded học hỏi nhanh chóng",
-      "bullets": [
-        "Tạo ra một bảng học tập đa năng cho các nhà phát triển Rust Embedded",
-        "Giúp các nhà phát triển mới bắt đầu với Rust Embedded",
-        "Cung cấp một công cụ học tập linh hoạt và hiệu quả"
-      ],
-      "full_summary": "UFerris là một bảng học tập đa năng được thiết kế cho các nhà phát triển Rust Embedded mới bắt đầu. Nó cung cấp một công cụ học tập linh hoạt và hiệu quả để giúp các nhà phát triển nhanh chóng nắm bắt các kỹ năng cơ bản của Rust Embedded. UFerris được tạo ra bởi The Embedded Rustacean và có thể được tìm thấy trên trang web của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "951da3a5a233",
-      "title": "Giant new dinosaur identified from fossils in Thailand",
-      "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:02.785383+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Một loài khủng long khổng lồ mới được xác định ở Thái Lan",
-      "bullets": [
-        "Xác định loài khủng long Nagatitan lớn nhất ở Đông Nam Á",
-        "Loài khủng long này nặng bằng chín con voi",
-        "Phát hiện ở Thái Lan, loài khủng long này có kích thước khổng lồ",
-        "Nghiên cứu về loài khủng long này đang tiếp tục"
-      ],
-      "full_summary": "Một loài khủng long mới được xác định ở Thái Lan, loài này được gọi là Nagatitan. Nagatitan là loài khủng long lớn nhất được tìm thấy ở Đông Nam Á và nặng bằng chín con voi. Phát hiện này đã thu hút sự chú ý của các nhà khoa học và người hâm mộ khủng long trên toàn thế giới. Nghiên cứu về loài khủng long này đang tiếp tục để tìm hiểu thêm về loài khủng long khổng lồ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "70605a0bc4ab",
-      "title": "Cuba considers $100m US aid offer as energy crisis worsens",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:03.948604+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Mỹ đề nghị 100 triệu USD giúp đỡ Cuba trong khủng hoảng năng lượng",
-      "bullets": [
-        "Mỹ đề nghị Cuba 100 triệu USD giúp đỡ trong khủng hoảng năng lượng",
-        "Cuba đang đối mặt với những khó khăn về nguồn cung năng lượng",
-        "Cuba chưa rõ liệu viện trợ của Mỹ sẽ là tiền mặt hay hỗ trợ vật chất",
-        "Cuba đang tìm kiếm giải pháp để đối phó với khủng hoảng năng lượng"
-      ],
-      "full_summary": "Cuba đang đối mặt với khủng hoảng năng lượng nghiêm trọng, Mỹ đề nghị viện trợ 100 triệu USD giúp đỡ. Tuy nhiên, Cuba chưa rõ liệu viện trợ của Mỹ sẽ là tiền mặt hay hỗ trợ vật chất. Khủng hoảng năng lượng đã gây ra nhiều khó khăn cho người dân Cuba.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "099ce8697add",
-      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
-      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:05.163044+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Sự kiện El Niño có thể mạnh nhất lịch sử đang diễn ra",
-      "bullets": [
-        "Nghiên cứu cho thấy El Niño có thể mạnh nhất lịch sử đang phát triển",
-        "Sự kiện này có thể dẫn đến nhiệt độ toàn cầu kỷ lục",
-        "Các nhà khoa học đang theo dõi chặt chẽ tình hình El Niño",
-        "Sự kiện này có thể gây ra hậu quả toàn cầu nghiêm trọng"
-      ],
-      "full_summary": "Các nhà khoa học đang cảnh báo về sự kiện El Niño có thể mạnh nhất lịch sử đang diễn ra. Sự kiện này có thể dẫn đến nhiệt độ toàn cầu kỷ lục và gây ra hậu quả nghiêm trọng. Các nhà khoa học đang theo dõi chặt chẽ tình hình El Niño và dự đoán rằng nó có thể mạnh hơn nhiều so với những năm trước. Sự kiện này có thể gây ra hậu quả toàn cầu nghiêm trọng, bao gồm các cơn bão, lũ lụt và hạn hán.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5371ed528d48",
-      "title": "War criminal Ratko Mladić's jail release request denied",
-      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:06.339716+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tòa án Liên Hợp Quốc từ chối yêu cầu thả Ratko Mladić",
-      "bullets": [
-        "Từ chối yêu cầu thả Ratko Mladić",
-        "Tòa án Liên Hợp Quốc cho rằng Mladić đang ở giai đoạn cuối đời",
-        "Mladić sẽ được chăm sóc tối đa trong nhà tù ở The Hague",
-        "Mladić bị kết án vì tội ác chiến tranh"
-      ],
-      "full_summary": "Tòa án Liên Hợp Quốc đã từ chối yêu cầu thả Ratko Mladić, một tội phạm chiến tranh 84 tuổi. Theo tòa án, Mladić đang ở giai đoạn cuối đời và sẽ được chăm sóc tối đa trong nhà tù ở The Hague. Mladić bị kết án vì tội ác chiến tranh và đã bị giam giữ trong nhiều năm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4eb30977bc43",
-      "title": "More than 70 million warnings sent to people seeking child abuse material",
-      "url": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:07.271224+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 70 triệu cảnh báo gửi đến người tìm kiếm nội dung lạm dụng trẻ em",
-      "bullets": [
-        "Gửi cảnh báo cho người tìm kiếm nội dung bất hợp pháp",
-        "Hướng dẫn người dùng tìm kiếm thông tin giúp đỡ",
-        "Tăng cường bảo vệ trẻ em khỏi nội dung độc hại",
-        "Cảnh báo về hậu quả pháp lý của hành vi này"
-      ],
-      "full_summary": "BBC Technology cho biết đã gửi hơn 70 triệu cảnh báo cho người tìm kiếm nội dung lạm dụng trẻ em. Những thông điệp này nhằm cảnh báo người dùng về hành vi bất hợp pháp và hướng dẫn họ tìm kiếm thông tin giúp đỡ. Mục đích là tăng cường bảo vệ trẻ em khỏi nội dung độc hại và cảnh báo về hậu quả pháp lý của hành vi này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "da7945d8112e",
-      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:08.183335+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Công ty công nghệ đang bán kính thông minh bất chấp lo ngại về quyền riêng tư",
-      "bullets": [
-        "Các công ty lớn đang bán hàng triệu chiếc kính thông minh",
-        "Lo ngại về quyền riêng tư đang gia tăng",
-        "Mặc dù vậy, kính thông minh vẫn bán chạy hơn bao giờ hết",
-        "Meta đang là một trong những công ty bán kính thông minh thành công nhất"
-      ],
-      "full_summary": "Các công ty công nghệ lớn đang chuẩn bị bán hàng triệu chiếc kính thông minh, bất chấp lo ngại về quyền riêng tư đang gia tăng. Mặc dù vậy, kính thông minh vẫn bán chạy hơn bao giờ hết. Meta là một trong những công ty bán kính thông minh thành công nhất. Các công ty này đang hy vọng rằng kính thông minh sẽ trở thành một phần không thể thiếu trong cuộc sống hàng ngày.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ce4bc1c9db14",
-      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:09.208305+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hộ chiếu của phụ nữ Colombia bị Trump đưa về Congo bị tuyên bố bất hợp pháp",
-      "bullets": [
-        "Một thẩm phán Mỹ tuyên bố việc đưa bà Adriana María Quiroz Zapata về Congo là bất hợp pháp",
-        "Bà được lệnh trở về Mỹ từ Congo",
-        "Thẩm phán Richard Leon cho rằng việc đưa bà về Congo là 'có khả năng bất hợp pháp'",
-        "Bà đã bị đưa về Congo vì nước này từ chối nhận bà"
-      ],
-      "full_summary": "Một thẩm phán Mỹ đã ra lệnh cho chính quyền Trump phải đưa bà Adriana María Quiroz Zapata, một phụ nữ Colombia, trở về Mỹ từ Congo. Thẩm phán Richard Leon cho rằng việc đưa bà về Congo là 'có khả năng bất hợp pháp'. Bà đã bị đưa về Congo vì nước này từ chối nhận bà. Điều này đã gây ra sự phẫn nộ trong cộng đồng người Colombia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ddf4b18b5c83",
-      "title": "Internal displacements caused by violence or conflict at record high in 2025",
-      "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-14T19:31:11.466971+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Sự di dời nội bộ do xung đột hoặc bạo lực đạt kỷ lục vào năm 2025",
-      "bullets": [
-        "Tổng số người di dời nội bộ do xung đột hoặc bạo lực đạt 32,3 triệu",
-        "Số liệu này tăng 60% so với năm trước và vượt quá số người di dời do thiên tai",
-        "Tổng số người di dời nội bộ toàn cầu đạt 82,2 triệu vào năm 2025",
-        "Sự di dời nội bộ do xung đột hoặc bạo lực đạt mức cao kỷ lục lần đầu tiên"
-      ],
-      "full_summary": "Theo báo cáo của Trung tâm Theo dõi Di dời Nội bộ, số người di dời nội bộ do xung đột hoặc bạo lực đạt mức cao kỷ lục vào năm 2025. Số liệu này vượt quá số người di dời do thiên tai và tăng 60% so với năm trước. Tổng số người di dời nội bộ toàn cầu đạt 82,2 triệu vào năm 2025.",
       "comments": 0,
       "score": 0
     }
