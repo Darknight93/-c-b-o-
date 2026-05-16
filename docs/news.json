@@ -1,6 +1,183 @@
 {
-  "updated_at": "2026-05-16T02:15:11.594823+00:00",
+  "updated_at": "2026-05-16T07:54:57.044345+00:00",
   "articles": [
+    {
+      "id": "1210acbd99fd",
+      "title": "Man killed by 13ft great white shark in Western Australia",
+      "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T07:54:42.623040+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông bị tấn công bởi cá mập trắng lớn ở Tây Úc",
+      "bullets": [
+        "Một người đàn ông bị cá mập trắng lớn tấn công tại Horseshoe Reef",
+        "Cá mập trắng lớn dài 13 feet tấn công người đàn ông",
+        "Vụ việc xảy ra trước 10:00 tại khu vực phía tây bắc của đảo Rottnest",
+        "Cảnh sát địa phương đang điều tra vụ việc"
+      ],
+      "full_summary": "Một người đàn ông đã bị một con cá mập trắng lớn tấn công và tử vong tại Horseshoe Reef, phía tây bắc của đảo Rottnest gần thành phố Perth, Tây Úc. Vụ việc xảy ra vào lúc 03:00 BST. Cảnh sát địa phương đang điều tra vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c89748dbfdc2",
+      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T07:54:43.569174+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Thụy Sĩ sắp mở hồ sơ bí mật về Mengele, 'Ángel của cái chết' ở Auschwitz",
+      "bullets": [
+        "Sẽ công bố hồ sơ bí mật về Josef Mengele",
+        "Mengele được cho là đã sống ở Thụy Sĩ sau chiến tranh",
+        "Nghi ngờ về thời gian Mengele ở Thụy Sĩ đã tồn tại nhiều năm",
+        "Thụy Sĩ sẽ công bố hồ sơ sau nhiều năm điều tra"
+      ],
+      "full_summary": "Thụy Sĩ sắp công bố hồ sơ bí mật về Josef Mengele, người được gọi là 'Ángel của cái chết' ở trại tập trung Auschwitz. Mengele đã trốn khỏi châu Âu sau chiến tranh và nhiều năm qua đã có nhiều tin đồn rằng ông đã sống ở Thụy Sĩ. Thụy Sĩ sẽ công bố hồ sơ sau nhiều năm điều tra và xác minh thông tin.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c9ab859cd2bb",
+      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T07:54:44.562764+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ có kế hoạch truy tố cựu lãnh đạo Cuba Raúl Castro",
+      "bullets": [
+        "Mỹ sắp đưa ra cáo buộc hình sự",
+        "Liên quan đến vụ Cuba bắn hạ máy bay năm 1996",
+        "Charges có thể được đưa ra sớm trong tuần tới",
+        "Báo cáo cho rằng vụ việc liên quan đến việc Cuba bắn hạ hai máy bay"
+      ],
+      "full_summary": "Theo BBC World, Mỹ đang lên kế hoạch truy tố cựu lãnh đạo Cuba Raúl Castro. Cáo buộc hình sự có thể được đưa ra sớm trong tuần tới và liên quan đến vụ Cuba bắn hạ hai máy bay năm 1996. Vụ việc này đã gây ra nhiều tranh cãi và ảnh hưởng đến quan hệ giữa Mỹ và Cuba. Details về cáo buộc vẫn chưa được tiết lộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d03a553d54ba",
+      "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
+      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T07:54:45.697101+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Mỹ tuyên bố hạ sát chỉ huy thứ hai của Nhà nước Hồi giáo",
+      "bullets": [
+        "Tổng thống Mỹ Donald Trump tuyên bố hạ sát Abu-Bilal al-Minuki",
+        "Abu-Bilal al-Minuki được Tổng thống Trump mô tả là 'hacker khủng bố hoạt động mạnh nhất thế giới'",
+        "Mục tiêu được hạ sát trong một nhiệm vụ phức tạp do lực lượng Mỹ và Nigeria thực hiện"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump tuyên bố lực lượng Mỹ và Nigeria đã hạ sát Abu-Bilal al-Minuki, người mà ông mô tả là 'hacker khủng bố hoạt động mạnh nhất thế giới'. Tổng thống Trump cho biết nhiệm vụ được thực hiện theo kế hoạch và rất phức tạp. Mục tiêu được hạ sát trong một nhiệm vụ phối hợp giữa lực lượng Mỹ và Nigeria.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ce4bc1c9db14",
+      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T07:54:47.131756+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hộ chiếu của phụ nữ Colombia bị Trump hành động trái luật",
+      "bullets": [
+        "Một thẩm phán Mỹ ra lệnh hồi hương phụ nữ Colombia",
+        "Phụ nữ này bị trục xuất đến Cộng hòa Dân chủ Congo trái ý muốn",
+        "Thẩm phán cho rằng hành động của chính quyền Trump là trái luật"
+      ],
+      "full_summary": "Một thẩm phán Mỹ đã ra lệnh hồi hương một phụ nữ Colombia tên Adriana María Quiroz Zapata từ Cộng hòa Dân chủ Congo. Thẩm phán Richard Leon cho rằng hành động trục xuất này có thể là trái luật. Phụ nữ này đã bị trục xuất đến Cộng hòa Dân chủ Congo mặc dù nước này đã từ chối nhận cô. Hành động này được thực hiện bởi chính quyền Trump.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5f9158ebff7b",
+      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
+      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T07:54:48.202940+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "UN kêu gọi Equatorial Guinea tránh trả người tị nạn Mỹ về nước",
+      "bullets": [
+        "UN kêu gọi Equatorial Guinea dừng kế hoạch trả người tị nạn Mỹ về nước",
+        "Người tị nạn Mỹ mô tả tình trạng giam giữ như 'nhà tù'",
+        "Báo cáo của UN chỉ ra nguy cơ bị ngược đãi, tra tấn và giết hại",
+        "Equatorial Guinea bị coi là một trong những chế độ độc tài nghiêm trọng nhất thế giới"
+      ],
+      "full_summary": "UN đã đưa ra một lời kêu gọi hiếm hoi công khai, yêu cầu Equatorial Guinea dừng kế hoạch trả người tị nạn Mỹ về nước. Những người tị nạn Mỹ mô tả tình trạng giam giữ như 'nhà tù', và báo cáo của UN chỉ ra nguy cơ bị ngược đãi, tra tấn và giết hại. Điều này đã thêm áp lực ngoại giao lên Equatorial Guinea, một trong những chế độ độc tài nghiêm trọng nhất thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3ab25432e7ec",
+      "title": "Solar power production undercut by coal pollution",
+      "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T07:54:49.102783+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Năng lượng mặt trời bị giảm hiệu suất do ô nhiễm than",
+      "bullets": [
+        "Từng năm, một số năng lượng mặt trời bị chặn bởi các aerosol",
+        "Ô nhiễm than làm giảm hiệu suất năng lượng mặt trời",
+        "Nghiên cứu cho thấy ô nhiễm than ảnh hưởng đến năng lượng mặt trời",
+        "Năng lượng mặt trời bị giảm hiệu suất do các yếu tố môi trường"
+      ],
+      "full_summary": "Một nghiên cứu mới cho thấy năng lượng mặt trời bị giảm hiệu suất do ô nhiễm than. Mỗi năm, một số năng lượng mặt trời bị chặn bởi các aerosol. Điều này làm giảm hiệu suất năng lượng mặt trời và ảnh hưởng đến môi trường. Nghiên cứu này cho thấy tầm quan trọng của việc giảm thiểu ô nhiễm than để tăng hiệu suất năng lượng mặt trời.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "214cefdec810",
+      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+      "url": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T07:54:50.027004+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty theo dõi thời tiết ép buộc khách hàng sử dụng ứng dụng mới",
+      "bullets": [
+        "Đưa ra ứng dụng mới AcuRite Now với một số tính năng bị thiếu",
+        "Ứng dụng mới có tùy chọn đăng ký trả phí",
+        "Khách hàng phản ứng không đồng tình với quyết định của công ty",
+        "Tính năng bị thiếu trong ứng dụng mới chưa được công bố rõ ràng"
+      ],
+      "full_summary": "Công ty theo dõi thời tiết AcuRite đã đưa ra ứng dụng mới AcuRite Now, nhưng nó lại thiếu một số tính năng so với ứng dụng cũ. Ứng dụng mới có tùy chọn đăng ký trả phí, điều này đã khiến nhiều khách hàng phản ứng không đồng tình. Hiện tại, công ty chưa công bố rõ ràng về tính năng bị thiếu trong ứng dụng mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3936258e89e8",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-16T07:54:53.755971+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nghi vấn về ma túy meth được sản xuất và phân phối qua mạng P2P",
+      "bullets": [
+        "Meth được sản xuất và phân phối rộng rãi trên mạng P2P",
+        "Số lượng meth trên mạng P2P rất lớn",
+        "Nghi vấn về sự an toàn của mạng P2P trong việc phân phối ma túy"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã tiết lộ về việc ma túy meth đang được sản xuất và phân phối rộng rãi trên mạng P2P. Số lượng meth trên mạng này rất lớn, gây lo ngại về sự an toàn của mạng P2P trong việc phân phối ma túy. Bài viết này đã thu hút sự chú ý của nhiều người dùng trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f47bcc4ae2f3",
       "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
@@ -616,186 +793,6 @@
         "Giải quyết vụ kiện liên quan đến thuốc phá thai mifepristone"
       ],
       "full_summary": "Tòa án Tối cao Mỹ đã đưa ra phán quyết tạm thời khôi phục quyền tiếp cận thuốc phá thai ở Mỹ. Phá thai bằng thuốc là phương pháp phổ biến nhất ở Mỹ. Phán quyết này được đưa ra trong vụ kiện liên quan đến thuốc phá thai mifepristone. Vụ kiện được đưa ra sau khi một tòa án ở tiểu bang Texas cấm sử dụng thuốc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e6bf0594609d",
-      "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
-      "url": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T08:42:00.811610+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Máy bay rơi xuống Đại Tây Dương, 11 người được cứu sống",
-      "bullets": [
-        "Một phi công đã hạ cánh khẩn cấp máy bay xuống Đại Tây Dương",
-        "11 người trên máy bay đã được cứu sống sau khi chờ 5 giờ trên thuyền cứu sinh",
-        "Lực lượng không quân Mỹ đã đưa họ đến bờ biển Florida",
-        "Tất cả người trên máy bay đều an toàn"
-      ],
-      "full_summary": "Một máy bay đã hạ cánh khẩn cấp xuống Đại Tây Dương, khiến 11 người trên máy bay phải chờ 5 giờ trên thuyền cứu sinh trước khi được cứu sống. Lực lượng không quân Mỹ đã đưa họ đến bờ biển Florida. Tất cả người trên máy bay đều an toàn. Sự cố này đã được mô tả là 'thật kỳ diệu'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "93d853c630f3",
-      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T08:42:01.846535+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Musk và Altman đối mặt với cáo buộc trong vụ án công nghệ",
-      "bullets": [
-        "Bí mật về các giao dịch bí mật của X đã được tiết lộ",
-        "Altman đã cố gắng mua lại X nhưng bị từ chối",
-        "Musk đã sử dụng tài khoản Twitter để gây áp lực lên các nhà đầu tư",
-        "Các nhân chứng đã tiết lộ về các cuộc thảo luận nội bộ tại X"
-      ],
-      "full_summary": "Trong phiên tòa kéo dài nhiều tuần, hai nhân vật công nghệ hàng đầu Elon Musk và Sam Altman đã đối mặt với cáo buộc. Các nhân chứng đã tiết lộ về các giao dịch bí mật của X, cũng như các cuộc thảo luận nội bộ tại công ty. Altman đã cố gắng mua lại X nhưng bị từ chối, trong khi Musk đã sử dụng tài khoản Twitter để gây áp lực lên các nhà đầu tư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69508f26f007",
-      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T08:42:02.801234+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Waymo tự nguyện thu hồi hàng ngàn xe tự lái sau tai nạn",
-      "bullets": [
-        "Thu hồi xe tự lái Waymo",
-        "Xe tự lái rơi vào khe suối ở San Antonio, Texas",
-        "Vụ tai nạn xảy ra vào ngày 20 tháng 4",
-        "Xe tự lái không có người lái khi xảy ra tai nạn"
-      ],
-      "full_summary": "Waymo đã tự nguyện thu hồi hàng ngàn xe tự lái sau một vụ tai nạn xảy ra vào ngày 20 tháng 4 ở San Antonio, Texas. Vụ tai nạn xảy ra khi một chiếc xe tự lái Waymo trôi vào một con đường ngập nước. Không có người lái trên xe khi xảy ra tai nạn. Vụ việc đã được xác định là nguyên nhân dẫn đến việc thu hồi xe tự lái.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fdd28d946674",
-      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
-      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T08:42:03.941383+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp ra tính năng trò chuyện riêng tư với AI",
-      "bullets": [
-        "Ra mắt tính năng trò chuyện riêng tư với AI chatbot",
-        "Cơ chế xóa lịch sử trò chuyện có thể dẫn đến thiếu trách nhiệm",
-        "Tính năng mới giúp bảo vệ quyền riêng tư của người dùng",
-        "Cơ quan bảo mật mạng cảnh báo về rủi ro không kiểm soát được"
-      ],
-      "full_summary": "WhatsApp vừa ra mắt tính năng trò chuyện riêng tư với AI chatbot. Tính năng mới cho phép người dùng xóa lịch sử trò chuyện một cách dễ dàng. Tuy nhiên, một chuyên gia an ninh mạng cảnh báo rằng cơ chế xóa lịch sử trò chuyện có thể dẫn đến thiếu trách nhiệm nếu có vấn đề xảy ra. Tính năng mới được thiết kế để bảo vệ quyền riêng tư của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ab55e6dc7f7",
-      "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
-      "url": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-15T08:42:09.342134+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "AMD sẽ mang công nghệ FSR 4 mới lên các card đồ họa Radeon cũ",
-      "bullets": [
-        "AMD sẽ cập nhật công nghệ FSR 4 lên các card đồ họa Radeon cũ",
-        "Cập nhật sẽ mang lại hiệu suất tốt hơn cho các card đồ họa đời cũ",
-        "Tuy nhiên, hiệu suất của FSR 4.1 trên các card đồ họa RDNA3 hoặc RDNA2 sẽ bị giảm",
-        "AMD hy vọng sẽ cải thiện hiệu suất của công nghệ FSR 4 trong tương lai"
-      ],
-      "full_summary": "AMD đã công bố kế hoạch cập nhật công nghệ FSR 4 lên các card đồ họa Radeon cũ. Cập nhật này sẽ mang lại hiệu suất tốt hơn cho các card đồ họa đời cũ, nhưng hiệu suất của FSR 4.1 trên các card đồ họa RDNA3 hoặc RDNA2 sẽ bị giảm. AMD hy vọng sẽ cải thiện hiệu suất của công nghệ FSR 4 trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f92fa7607ba",
-      "title": "Five Italians die during cave dive in Maldives",
-      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T02:32:56.912424+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Năm người Ý tử vong trong chuyến lặn hang ở Maldives",
-      "bullets": [
-        "Một nhóm lặn Ý gặp tai nạn ở độ sâu 50m",
-        "Cứu hộ Maldivian tìm thấy một thi thể",
-        "Tình huống đang được điều tra",
-        "Nguyên nhân của vụ tai nạn chưa được xác định"
-      ],
-      "full_summary": "Một nhóm lặn Ý đã gặp tai nạn ở Maldives, khiến năm người thiệt mạng. Theo thông tin ban đầu, vụ tai nạn xảy ra ở độ sâu 50m. Cứu hộ Maldivian đã tìm thấy một thi thể, nhưng vẫn còn nhiều người mất tích. Italy đang điều tra nguyên nhân của vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2390ad0532be",
-      "title": "Inside the secretive and lucrative world of orchid breeding",
-      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T02:32:57.906443+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Nghiên cứu lan hoa bí mật để tạo ra loài mới",
-      "bullets": [
-        "Tìm ra phương pháp lai tạo lan hoa hiệu quả",
-        "Sử dụng công nghệ hiện đại để tăng tốc quá trình lai tạo",
-        "Bảo mật thông tin để tránh bị sao chép",
-        "Chi phí cao, thời gian dài để tạo ra loài lan hoa mới"
-      ],
-      "full_summary": "Các nhà lai tạo lan hoa sử dụng công nghệ hiện đại để tăng tốc quá trình lai tạo, nhưng họ phải bảo mật thông tin để tránh bị sao chép. Quá trình lai tạo lan hoa có thể mất đến một thập kỷ để tạo ra loài mới. Chi phí cao và thời gian dài là những thách thức mà các nhà lai tạo phải đối mặt. Họ phải tìm ra phương pháp lai tạo hiệu quả để tạo ra loài lan hoa mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0d7a3dae8e6",
-      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T02:32:59.542912+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chuyên gia Raspberry Pi cảnh báo AI không phải là mối đe dọa cho công việc công nghệ",
-      "bullets": [
-        "Cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng nghìn công việc liên quan đến máy tính",
-        "Trí tuệ nhân tạo có thể khiến nhiều người xa lánh công việc công nghệ và ảnh hưởng đến nền kinh tế",
-        "Eben Upton nhấn mạnh tầm quan trọng của việc đào tạo và phát triển kỹ năng công nghệ",
-        "Cần có chiến lược để tận dụng lợi thế của trí tuệ nhân tạo và giảm thiểu tác động tiêu cực"
-      ],
-      "full_summary": "Eben Upton, người sáng lập Raspberry Pi, đã cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng nghìn công việc liên quan đến máy tính. Ông cho rằng trí tuệ nhân tạo có thể khiến nhiều người xa lánh công việc công nghệ và ảnh hưởng đến nền kinh tế. Tuy nhiên, ông nhấn mạnh tầm quan trọng của việc đào tạo và phát triển kỹ năng công nghệ để tận dụng lợi thế của trí tuệ nhân tạo và giảm thiểu tác động tiêu cực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ae6fc8d2d637",
-      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T02:33:00.463172+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chính phủ tiết kiệm hàng triệu bảng bằng cách thay thế công nghệ Palantir",
-      "bullets": [
-        "Thay thế công nghệ Palantir bằng hệ thống IT nội bộ",
-        "Giảm chi phí bảo trì và nâng cấp",
-        "Hệ thống mới đáp ứng tiêu chuẩn an ninh cao",
-        "Cung cấp sự linh hoạt cho hệ thống"
-      ],
-      "full_summary": "Chính phủ đã tiết kiệm hàng triệu bảng bằng cách thay thế công nghệ Palantir trong hệ thống hỗ trợ người tị nạn. Hệ thống IT nội bộ mới được cho là linh hoạt hơn và đáp ứng tiêu chuẩn an ninh cao. Điều này giúp giảm chi phí bảo trì và nâng cấp. Hệ thống mới cũng cung cấp sự linh hoạt cho hệ thống.",
       "comments": 0,
       "score": 0
     }
