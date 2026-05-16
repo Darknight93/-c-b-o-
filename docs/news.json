@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-16T13:07:09.539623+00:00",
+  "updated_at": "2026-05-16T18:55:30.356755+00:00",
   "articles": [
+    {
+      "id": "151db4081370",
+      "title": "Taiwan insists it is independent after Trump warning",
+      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T18:55:14.852441+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Đài Loan khẳng định độc lập sau cảnh báo của Trump",
+      "bullets": [
+        "Trump cảnh báo Đài Loan không nên tuyên bố độc lập chính thức",
+        "Tổng thống Mỹ vừa kết thúc hội nghị thượng đỉnh ở Bắc Kinh",
+        "Đài Loan phản ứng lại với tuyên bố độc lập mạnh mẽ",
+        "Hành động này gây lo ngại về sự ổn định ở khu vực"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump vừa cảnh báo Đài Loan không nên tuyên bố độc lập chính thức sau khi kết thúc hội nghị thượng đỉnh ở Bắc Kinh. Đài Loan đã phản ứng lại với tuyên bố độc lập mạnh mẽ, gây lo ngại về sự ổn định ở khu vực. Căng thẳng giữa Mỹ và Trung Quốc đang gia tăng sau khi Tổng thống Trump công khai ủng hộ Đài Loan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27c46ff40bea",
+      "title": "Whale found dead near Danish island after German rescue operation",
+      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T18:55:15.841870+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cá voi chết sau khi bị cứu bởi Đức gần đảo Đan Mạch",
+      "bullets": [
+        "Cá voi đã chết sau khi bị cứu bởi Đức gần đảo Đan Mạch",
+        "Các chuyên gia về động vật hoang dã đã chỉ trích chiến dịch cứu hộ trước đó",
+        "Chuyên gia cho rằng chiến dịch cứu hộ sẽ gây thêm đau đớn cho cá voi",
+        "Cá voi đã chết sau khi bị kéo lên bờ"
+      ],
+      "full_summary": "Một con cá voi đã chết sau khi bị kéo lên bờ bởi một đội cứu hộ của Đức gần đảo Đan Mạch. Các chuyên gia về động vật hoang dã đã chỉ trích chiến dịch cứu hộ trước đó, nói rằng nó sẽ gây thêm đau đớn cho cá voi. Chiến dịch cứu hộ đã được thực hiện sau khi người dân địa phương phát hiện cá voi bị mắc kẹt trong lưới đánh cá.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b75b7725e6b5",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T18:55:16.857779+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hơn 50 học sinh bị bắt cóc tại Nigeria",
+      "bullets": [
+        "Bị bắt cóc nhiều học sinh tại Mussa town",
+        "Không có nhóm nào tuyên bố trách nhiệm",
+        "Sự kiện gây ra sự tàn phá tại Borno state",
+        "Tình hình đang được điều tra"
+      ],
+      "full_summary": "Một vụ bắt cóc lớn đã xảy ra tại Nigeria, hơn 50 học sinh bị bắt cóc, trong đó có trẻ em nhỏ. Sự kiện này đã gây ra sự tàn phá lớn tại Mussa town ở bang Borno. Không có nhóm nào tuyên bố trách nhiệm cho vụ bắt cóc này. Các cơ quan chức năng đang điều tra để tìm hiểu nguyên nhân và giải cứu các học sinh bị bắt cóc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "484494e05719",
+      "title": "X pledges quicker action on hate and terror content in the UK",
+      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T18:55:17.804674+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Xây dựng quy định xử lý nội dung bạo lực và khủng bố nhanh chóng hơn",
+      "bullets": [
+        "X đã cam kết xử lý nội dung bạo lực và khủng bố nhanh chóng hơn",
+        "Ofcom cho rằng cam kết này đặc biệt quan trọng sau các vụ án liên quan đến cộng đồng Do Thái tại Anh",
+        "X sẽ tăng cường giám sát và xử lý nội dung bạo lực và khủng bố trên mạng",
+        "Mục tiêu là ngăn chặn và loại bỏ nội dung bạo lực và khủng bố trên mạng"
+      ],
+      "full_summary": "X đã cam kết xử lý nội dung bạo lực và khủng bố nhanh chóng hơn sau các vụ án liên quan đến cộng đồng Do Thái tại Anh. Ofcom cho rằng cam kết này đặc biệt quan trọng. X sẽ tăng cường giám sát và xử lý nội dung bạo lực và khủng bố trên mạng để ngăn chặn và loại bỏ chúng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ad451acba2a",
+      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T18:55:18.958061+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nạn dịch Ebola giết 65 người ở Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Đã có 246 trường hợp nghi ngờ mắc bệnh sốt xuất huyết",
+        "Nạn dịch được xác định là do chủng Bundibugyo của virus Ebola",
+        "Uganda cũng báo cáo một vụ bùng phát dịch Ebola",
+        "Số người chết ở Ituri tỉnh đã tăng lên 65"
+      ],
+      "full_summary": "Một vụ bùng phát dịch Ebola đã giết 65 người ở tỉnh Ituri, Cộng hòa Dân chủ Congo. Số trường hợp nghi ngờ mắc bệnh sốt xuất huyết đã tăng lên 246. Nạn dịch được xác định là do chủng Bundibugyo của virus Ebola. Uganda cũng báo cáo một vụ bùng phát dịch Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3362c0b8de9e",
+      "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
+      "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-16T18:55:20.256993+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiệt độ kỷ lục tại Trung Mỹ và Indonesia",
+      "bullets": [
+        "Nhiệt độ ở Honduras đạt 42,2°C, phá vỡ kỷ lục trước đó",
+        "Khí hậu khắc nghiệt ở Bắc Mỹ và Trung Mỹ",
+        "Tuyết rơi tại Siberia trong tuần có nhiều biến động khí hậu",
+        "Cơn bão lớn tại Trung Quốc với viên sỏi mưa lớn như quả trứng"
+      ],
+      "full_summary": "Tình hình thời tiết trên toàn thế giới đã có nhiều biến động trong tuần qua. Nhiệt độ kỷ lục đã được ghi nhận tại Honduras, Bắc Mỹ và Indonesia. Tại Honduras, nhiệt độ đã đạt 42,2°C, phá vỡ kỷ lục trước đó. Trong khi đó, tuyết đã rơi tại Siberia, một phần của châu Á. Cơn bão lớn cũng đã xảy ra tại Trung Quốc với viên sỏi mưa lớn như quả trứng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a8ec32ba955d",
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-16T18:55:21.247848+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Hệ thống AI sẽ giúp Mỹ ngăn chặn gian lận trong thị trường dự đoán",
+      "bullets": [
+        "CFTC đang sử dụng AI để theo dõi và phát hiện gian lận trong thị trường dự đoán",
+        "Hệ thống này sẽ giúp xác định những người có khả năng biết trước thông tin bí mật",
+        "Mục tiêu của CFTC là ngăn chặn gian lận và bảo vệ thị trường tài chính",
+        "Hệ thống AI sẽ được sử dụng để phân tích dữ liệu và phát hiện những dấu hiệu bất thường"
+      ],
+      "full_summary": "CFTC đang sử dụng công nghệ trí tuệ nhân tạo để ngăn chặn gian lận trong thị trường dự đoán. Hệ thống này sẽ giúp theo dõi và phát hiện những người có khả năng biết trước thông tin bí mật. Mục tiêu của CFTC là ngăn chặn gian lận và bảo vệ thị trường tài chính. Hệ thống AI sẽ được sử dụng để phân tích dữ liệu và phát hiện những dấu hiệu bất thường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "927aa10b0515",
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-16T18:55:23.327903+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Kioxia và Dell xây dựng máy chủ 2RU với dung lượng 10 PB",
+      "bullets": [
+        "Xây dựng máy chủ 2RU với dung lượng 10 PB",
+        "Sử dụng công nghệ của Kioxia để tăng cường lưu trữ",
+        "Được thiết kế để giảm thiểu không gian và tăng hiệu suất"
+      ],
+      "full_summary": "Kioxia và Dell đã hợp tác để xây dựng một máy chủ 2RU có thể lưu trữ 10 PB dữ liệu. Máy chủ này sử dụng công nghệ của Kioxia để tăng cường lưu trữ và được thiết kế để giảm thiểu không gian và tăng hiệu suất. Điều này sẽ giúp các doanh nghiệp có thể lưu trữ và xử lý dữ liệu một cách hiệu quả hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1e2a3622c1a3",
+      "title": "Briefing Chat: Hantavirus — what this outbreak reveals about the disease",
+      "url": "https://www.nature.com/articles/d41586-026-01575-9",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-16T18:55:28.154280+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hantavirus bùng phát: Một số điều cần biết về bệnh",
+      "bullets": [
+        "Xác định nguyên nhân gây bệnh hantavirus",
+        "Phát hiện các trường hợp mắc bệnh hantavirus trên toàn thế giới",
+        "Nghiên cứu về bệnh hantavirus và cách phòng ngừa",
+        "Tìm hiểu về quá trình lây truyền bệnh hantavirus"
+      ],
+      "full_summary": "Bệnh hantavirus đang bùng phát trên toàn thế giới. Các chuyên gia đã xác định nguyên nhân gây bệnh và phát hiện các trường hợp mắc bệnh ở nhiều quốc gia. Nghiên cứu về bệnh hantavirus đang được thực hiện để tìm hiểu về quá trình lây truyền và cách phòng ngừa. Điều này sẽ giúp các nước có biện pháp phòng ngừa hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "a5b33e00f09f",
       "title": "Senior IS leader killed in joint operation, US and Nigeria say",
@@ -614,185 +793,6 @@
         "Mỹ cho biết Israel và Lebanon đã đồng ý kéo dài thỏa thuận ngừng bắn"
       ],
       "full_summary": "Israel và Lebanon đã đồng ý kéo dài thỏa thuận ngừng bắn, theo Bộ Ngoại giao Mỹ. Thỏa thuận ngừng bắn được Tổng thống Trump công bố vào tháng trước nhưng Israel và Hezbollah vẫn tiếp tục bắn đạn vào nhau. Mặc dù vậy, Mỹ cho biết Israel và Lebanon đã đồng ý kéo dài thỏa thuận ngừng bắn. Điều này có thể giúp giảm căng thẳng ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "90878f958873",
-      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T19:21:44.594431+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nga thực hiện vụ trao đổi tù nhân, Ukraine đau thương",
-      "bullets": [
-        "Nga và Ukraine thực hiện vụ trao đổi tù nhân",
-        "Hơn 20 tù nhân Ukraine được trả về",
-        "Tổng cộng 24 người thiệt mạng trong vụ tấn công của Nga",
-        "Một bé gái 12 tuổi là một trong những nạn nhân"
-      ],
-      "full_summary": "Vụ tấn công của Nga vào các tòa nhà chung cư ở Kyiv đã khiến 24 người thiệt mạng, trong đó có một bé gái 12 tuổi tên Lyubava Yakovleva. Cô bé đã mất cha trong chiến tranh. Trong khi đó, Nga và Ukraine đã thực hiện vụ trao đổi tù nhân. Hơn 20 tù nhân Ukraine đã được trả về.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e75af4bffb23",
-      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-      "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T19:21:45.758397+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một giáo viên 66 tuổi bị bắt vì nghi ngờ lạm dụng tình dục trẻ em sau khi bị lừa bởi một người ảnh hưởng sử dụng AI",
-      "bullets": [
-        "Một người ảnh hưởng sử dụng AI để giả mạo một cô gái 14 tuổi và phát trực tuyến cuộc trò chuyện của họ",
-        "Giáo viên đã tự nguyện nộp mình sau khi bị phát hiện",
-        "Vụ việc gây ra sự quan tâm lớn về việc sử dụng AI trong việc phòng chống tội phạm"
-      ],
-      "full_summary": "Một giáo viên 66 tuổi ở Pháp đã bị bắt vì nghi ngờ lạm dụng tình dục trẻ em sau khi bị lừa bởi một người ảnh hưởng sử dụng AI. Người ảnh hưởng này đã sử dụng AI để giả mạo một cô gái 14 tuổi và phát trực tuyến cuộc trò chuyện của họ. Giáo viên đã tự nguyện nộp mình sau khi bị phát hiện. Vụ việc gây ra sự quan tâm lớn về việc sử dụng AI trong việc phòng chống tội phạm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c72fc74440c7",
-      "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-      "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T19:21:46.730057+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tòa án tuyên lại vụ án Harvey Weinstein",
-      "bullets": [
-        "Tòa án New York tuyên lại vụ án Harvey Weinstein lần thứ ba",
-        "Bị cáo 74 tuổi bị buộc tội hãm hiếp",
-        "Vụ án đã bị tuyên lại hai lần trước đó",
-        "Tòa án sẽ phải xét xử lại vụ án"
-      ],
-      "full_summary": "Tòa án New York đã tuyên lại vụ án Harvey Weinstein lần thứ ba. Bị cáo 74 tuổi bị buộc tội hãm hiếp và vụ án đã bị tuyên lại hai lần trước đó. Vụ án này đã gây ra nhiều tranh cãi và bất bình trong dư luận. Tòa án sẽ phải xét xử lại vụ án để tìm ra sự thật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb270843c4c8",
-      "title": "New York Times defends journalist after Israel threatens to sue",
-      "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T19:21:48.244185+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel đe dọa kiện báo New York Times về cáo buộc lạm dụng",
-      "bullets": [
-        "Israel yêu cầu New York Times phải xóa bài viết cáo buộc lạm dụng",
-        "Báo New York Times bác bỏ cáo buộc và cho rằng họ đã thực hiện công bằng",
-        "Chính phủ Israel nói rằng họ sẽ kiện báo New York Times vì cáo buộc không chính xác",
-        "Báo New York Times sẽ tiếp tục bảo vệ quyền của phóng viên"
-      ],
-      "full_summary": "Chính phủ Israel đã đe dọa kiện báo New York Times vì một bài viết cáo buộc các quan chức an ninh Israel đã lạm dụng các tù nhân Palestine. Tuy nhiên, báo New York Times đã bác bỏ cáo buộc và cho rằng họ đã thực hiện công bằng. Chính phủ Israel nói rằng họ sẽ kiện báo New York Times vì cáo buộc không chính xác. Báo New York Times sẽ tiếp tục bảo vệ quyền của phóng viên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94912762604b",
-      "title": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
-      "url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T19:21:51.544121+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hoa Kỳ đe dọa truy tố Raúl Castro",
-      "bullets": [
-        "Hoa Kỳ có thể truy tố Raúl Castro",
-        "Raúl Castro là người có quyền lực lớn nhất trong chính trị Cuba",
-        "Đe dọa này nhằm vào lãnh đạo Cuba",
-        "Tình hình căng thẳng giữa Cuba và Hoa Kỳ đang gia tăng"
-      ],
-      "full_summary": "Theo tin từ The Guardian, Hoa Kỳ có thể truy tố Raúl Castro, cựu tổng thống 94 tuổi của Cuba. Raúl Castro vẫn giữ vị trí quan trọng trong chính trị Cuba sau khi em trai Fidel qua đời vào năm 2016. Đe dọa này nhằm vào lãnh đạo Cuba và khiến tình hình căng thẳng giữa hai quốc gia gia tăng. Tình hình này diễn ra trong một tuần căng thẳng của Cuba.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "10cfa4a065dc",
-      "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
-      "url": "https://arstechnica.com/cars/2026/05/honda-shows-off-new-hybrids-for-america-as-it-absorbs-9-billion-ev-loss/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-15T19:21:56.034845+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Honda ghi nhận khoản lỗ 9 tỷ USD, giới thiệu xe lai mới",
-      "bullets": [
-        "Giới thiệu xe lai mới cho thị trường Mỹ",
-        "Thực hiện nỗ lực chuyển đổi sang xe điện",
-        "Ghi nhận khoản lỗ 9 tỷ USD trong năm tài chính đầu tiên",
-        "Thay đổi chiến lược kinh doanh để thích nghi với thị trường"
-      ],
-      "full_summary": "Honda vừa công bố khoản lỗ 9 tỷ USD trong năm tài chính đầu tiên, đánh dấu lần đầu tiên công ty này ghi nhận khoản lỗ trong hơn 70 năm. Để thích nghi với thị trường, Honda đã giới thiệu các mẫu xe lai mới cho thị trường Mỹ. Tuy nhiên, công ty vẫn đang thực hiện nỗ lực chuyển đổi sang xe điện để đáp ứng nhu cầu ngày càng tăng của khách hàng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3d78d628d76a",
-      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T13:49:45.122197+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Trump và Xi kết thúc cuộc họp 'rất thành công' nhưng không có thỏa thuận nào được xác nhận.",
-      "bullets": [
-        "Trump và Xi đã có cuộc họp hai ngày.",
-        "Không có thỏa thuận thương mại nào được đạt được.",
-        "Có nhiều nghi thức được sắp xếp trước.",
-        "Không có thông tin về các thỏa thuận cụ thể."
-      ],
-      "full_summary": "Cuộc họp giữa Tổng thống Mỹ Donald Trump và Tổng Bí thư Trung Quốc Tập Cận Bình đã kết thúc. Mặc dù có nhiều nghi thức được sắp xếp trước, nhưng không có thỏa thuận thương mại nào được đạt được. Cuộc họp hai ngày diễn ra tại Trung Quốc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "18c2fd0007b7",
-      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
-      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T13:49:46.098239+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một chàng trai 15 tuổi bị bắn chết ở Pháp do chiến tranh ma túy",
-      "bullets": [
-        "Một chàng trai 15 tuổi bị bắn chết ở Nantes, Pháp",
-        "Các công tố viên cho rằng vụ bắn này liên quan đến chiến tranh ma túy",
-        "Chị dâu của nạn nhân phủ nhận anh ta tham gia vào hoạt động ma túy",
-        "Cơ quan chức năng đang điều tra vụ án"
-      ],
-      "full_summary": "Một chàng trai 15 tuổi đã bị bắn chết ở Nantes, Pháp. Các công tố viên cho rằng vụ bắn này liên quan đến chiến tranh ma túy nhưng chị dâu của nạn nhân phủ nhận anh ta tham gia vào hoạt động ma túy. Cơ quan chức năng đang điều tra vụ án để xác định nguyên nhân thực sự. Vụ việc đã gây ra sự chú ý lớn trong dư luận Pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "055b34fed5a7",
-      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
-      "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-15T13:49:47.057190+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một ứng dụng đã bị kiện vì phân biệt đối xử với người chuyển giới",
-      "bullets": [
-        "Một tòa án ở Úc đã tăng gấp đôi số tiền bồi thường cho một người chuyển giới",
-        "Roxanne Tickle đã được bồi thường AU$40,000 vì bị xóa khỏi ứng dụng Giggle for Girls",
-        "Vụ việc được coi là một trường hợp phân biệt đối xử nghiêm trọng",
-        "Tòa án đã lên án hành động của ứng dụng"
-      ],
-      "full_summary": "Một tòa án ở Úc đã tăng gấp đôi số tiền bồi thường cho Roxanne Tickle, một người chuyển giới, sau khi cô bị xóa khỏi ứng dụng Giggle for Girls. Vụ việc được coi là một trường hợp phân biệt đối xử nghiêm trọng. Tòa án đã lên án hành động của ứng dụng và yêu cầu họ phải thay đổi chính sách. Roxanne Tickle đã được bồi thường AU$40,000.",
       "comments": 0,
       "score": 0
     }
