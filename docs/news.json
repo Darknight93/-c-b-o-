@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-17T08:13:27.019252+00:00",
+  "updated_at": "2026-05-17T13:04:29.042782+00:00",
   "articles": [
+    {
+      "id": "65f175c48821",
+      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T13:04:13.034169+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "HMRC sẽ sử dụng AI để phát hiện gian lận và lỗi trong tờ khai thuế",
+      "bullets": [
+        "HMRC sẽ sử dụng công nghệ AI từ công ty Quantexa để phát hiện gian lận",
+        "Quantexa đã giành được hợp đồng trị giá £175 triệu để cung cấp nền tảng dữ liệu tài chính",
+        "Công nghệ này sẽ giúp HMRC giảm thiểu sai sót trong tờ khai thuế",
+        "Mục tiêu cuối cùng là tăng hiệu suất và giảm chi phí cho HMRC"
+      ],
+      "full_summary": "HMRC đã giành được hợp đồng trị giá £175 triệu với công ty British Quantexa để sử dụng công nghệ AI phát hiện gian lận và lỗi trong tờ khai thuế. Công nghệ này sẽ giúp HMRC giảm thiểu sai sót và tăng hiệu suất. Mục tiêu cuối cùng là giảm chi phí cho HMRC. Công nghệ AI sẽ được sử dụng để phân tích dữ liệu tài chính và phát hiện bất thường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "207c164f1bf0",
+      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
+      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T13:04:14.437820+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Lực lượng Mali tấn công liên minh phiến quân",
+      "bullets": [
+        "Tấn công bằng máy bay không người lái nhằm vào phiến quân",
+        "Hỗ trợ từ lính đánh thuê Nga",
+        "Mục tiêu là liên minh khủng bố và phong trào ly khai Tuareg",
+        "Mục đích là giữ vững quyền lực của quân đội Mali"
+      ],
+      "full_summary": "Lực lượng Mali, được hỗ trợ bởi lính đánh thuê Nga, đã tấn công liên minh phiến quân bằng máy bay không người lái. Vụ tấn công nhằm vào thành phố Kidal, một thành phố quan trọng ở phía bắc Mali. Liên minh phiến quân này bao gồm các nhóm khủng bố và phong trào ly khai Tuareg. Mục đích của quân đội Mali là giữ vững quyền lực sau khi liên minh phiến quân tấn công bất ngờ vào cuối tháng 4.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "de25ff28a7ed",
+      "title": "A revolutionary cancer treatment could transform autoimmune disease",
+      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-17T13:04:15.468572+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Chế độ điều trị ung thư mới có thể thay đổi bệnh tự miễn",
+      "bullets": [
+        "Các nhà nghiên cứu đang thử nghiệm liệu pháp tế bào T CAR như một cách để reset hệ miễn dịch",
+        "Liệu pháp này có thể giúp điều trị các bệnh tự miễn như viêm khớp dạng thấp và bệnh lupus",
+        "CAR T cell có thể được sử dụng để loại bỏ tế bào miễn dịch gây hại",
+        "Kết quả ban đầu cho thấy liệu pháp này có hiệu quả trong điều trị ung thư và các bệnh tự miễn"
+      ],
+      "full_summary": "Các nhà nghiên cứu đang thử nghiệm liệu pháp tế bào T CAR như một cách để reset hệ miễn dịch. Liệu pháp này có thể giúp điều trị các bệnh tự miễn như viêm khớp dạng thấp và bệnh lupus. Các kết quả ban đầu cho thấy liệu pháp này có hiệu quả trong điều trị ung thư và các bệnh tự miễn. Nếu thành công, liệu pháp này có thể trở thành một phương pháp điều trị mới cho các bệnh tự miễn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3ab25432e7ec",
+      "title": "Solar power production undercut by coal pollution",
+      "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-17T13:04:16.452407+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Máy móc năng lượng mặt trời bị ảnh hưởng bởi ô nhiễm than",
+      "bullets": [
+        "Giảm sản lượng năng lượng mặt trời do ô nhiễm than hàng năm",
+        "Các hạt aerosol ngăn chặn năng lượng mặt trời",
+        "Sự cố này ảnh hưởng đến hiệu suất của các trang trại năng lượng mặt trời",
+        "Nghiên cứu chỉ ra rằng ô nhiễm than là nguyên nhân chính"
+      ],
+      "full_summary": "Một nghiên cứu mới chỉ ra rằng ô nhiễm than đã giảm sản lượng năng lượng mặt trời hàng năm. Các hạt aerosol do ô nhiễm than tạo ra đã ngăn chặn năng lượng mặt trời, ảnh hưởng đến hiệu suất của các trang trại năng lượng mặt trời. Điều này có thể ảnh hưởng đến sự phát triển của năng lượng mặt trời trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "214cefdec810",
+      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+      "url": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-17T13:04:17.390168+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty theo dõi thời tiết ép khách hàng tải ứng dụng mới",
+      "bullets": [
+        "Tải ứng dụng mới AcuRite Now bắt buộc",
+        "Ứng dụng mới thiếu một số tính năng",
+        "Có tùy chọn đăng ký trả phí",
+        "Khách hàng không hài lòng với quyết định này"
+      ],
+      "full_summary": "Công ty theo dõi thời tiết AcuRite đã yêu cầu khách hàng tải ứng dụng mới AcuRite Now. Ứng dụng mới này thiếu một số tính năng và có tùy chọn đăng ký trả phí. Điều này đã khiến nhiều khách hàng không hài lòng với quyết định này. Một số tính năng quan trọng đã bị loại bỏ khỏi ứng dụng mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "86722d9ad618",
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-17T13:04:18.493102+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "AI không chắc chắn sẽ làm tăng tốc quá trình",
+      "bullets": [
+        "Phản bác quan điểm AI sẽ làm tăng tốc quá trình",
+        "Nghi ngờ AI sẽ thay thế con người trong công việc",
+        "Tìm kiếm giải pháp thay đổi cách thức làm việc",
+        "Đánh giá lại hiệu quả của công nghệ AI"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã gây tranh cãi về vai trò của trí tuệ nhân tạo (AI) trong việc tăng tốc quá trình làm việc. Tác giả cho rằng AI không chắc chắn sẽ làm tăng tốc quá trình và nghi ngờ về khả năng của AI trong việc thay thế con người. Bài viết này khuyến khích người đọc tìm kiếm giải pháp thay đổi cách thức làm việc và đánh giá lại hiệu quả của công nghệ AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e7d2b4f73688",
+      "title": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-17T13:04:19.471069+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple Silicon tiêu tốn nhiều hơn OpenRouter",
+      "bullets": [
+        "So sánh chi phí giữa Apple Silicon và OpenRouter",
+        "Apple Silicon đắt hơn do các yếu tố công nghệ",
+        "OpenRouter tiết kiệm năng lượng và hiệu suất cao",
+        "Tìm hiểu lý do tại sao Apple Silicon đắt hơn"
+      ],
+      "full_summary": "Một bài viết trên Hacker News so sánh chi phí giữa Apple Silicon và OpenRouter, kết quả cho thấy Apple Silicon tiêu tốn nhiều hơn. Lý do là do các yếu tố công nghệ và thiết kế của Apple Silicon. Trong khi đó, OpenRouter lại tiết kiệm năng lượng và hiệu suất cao hơn. Bài viết này sẽ giúp chúng ta hiểu rõ hơn về lý do tại sao Apple Silicon đắt hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "490fccc479b0",
+      "title": "Native all the way, until you need text",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-17T13:04:20.466411+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chỉ sử dụng bản địa cho đến khi cần văn bản",
+      "bullets": [
+        "Khuyến khích sử dụng các tính năng bản địa của trình duyệt",
+        "Tối ưu hóa hiệu suất và bảo mật",
+        "Giảm sự phụ thuộc vào JavaScript"
+      ],
+      "full_summary": "Bài viết này khuyến khích việc sử dụng các tính năng bản địa của trình duyệt để tối ưu hóa hiệu suất và bảo mật. Việc sử dụng JavaScript có thể dẫn đến sự phụ thuộc và giảm hiệu suất. Chỉ nên sử dụng JavaScript khi cần thiết, chẳng hạn như khi cần hiển thị văn bản hoặc hình ảnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0f7cc7472e91",
+      "title": "Running a farm, pursuing a research career: what’s the difference?",
+      "url": "https://www.nature.com/articles/d41586-026-01391-1",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-17T13:04:25.345010+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Một nhà nghiên cứu tìm thấy sự tương đồng giữa việc nghiên cứu và trồng trọt",
+      "bullets": [
+        "Tìm thấy sự tương đồng giữa việc nghiên cứu và trồng trọt",
+        "Brandon Brown chuyển đến nông thôn và bắt đầu trồng vườn cam",
+        "Nghiên cứu và trồng trọt đều đòi hỏi sự kiên nhẫn và chăm sóc",
+        "Sự tương đồng này giúp Brandon hiểu rõ hơn về công việc nghiên cứu"
+      ],
+      "full_summary": "Brandon Brown, một nhà nghiên cứu, đã chuyển đến nông thôn và bắt đầu trồng vườn cam. Ông nhận thấy sự tương đồng giữa việc nghiên cứu và trồng trọt. Cả hai đều đòi hỏi sự kiên nhẫn và chăm sóc. Sự tương đồng này giúp Brandon hiểu rõ hơn về công việc nghiên cứu và cách quản lý thời gian hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "49a80916e58d",
       "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
@@ -616,184 +795,6 @@
         "Cung cấp sự linh hoạt cho hệ thống"
       ],
       "full_summary": "Chính phủ Anh đã tiết kiệm được 'triệu bảng' bằng cách thay thế công nghệ Palantir trong hệ thống hỗ trợ người tị nạn. Hệ thống IT nội bộ mới được cho là linh hoạt hơn và đáp ứng tiêu chuẩn an ninh cao. Điều này cho thấy sự thay đổi trong chiến lược công nghệ của chính phủ Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69508f26f007",
-      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:07:00.582970+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Waymo đã triệu hồi hàng ngàn xe tự lái sau khi một chiếc xe rơi vào khe suối.",
-      "bullets": [
-        "Các nhà sản xuất đã triệu hồi 1.400 xe Waymo tự lái.",
-        "Xe tự lái đã rơi vào khe suối vào ngày 20 tháng 4 tại San Antonio, Texas.",
-        "Vụ việc không gây thương vong nhưng đã làm dấy lên lo ngại về an toàn.",
-        "Các nhà sản xuất đang điều tra nguyên nhân của vụ việc."
-      ],
-      "full_summary": "Các nhà sản xuất xe tự lái Waymo đã triệu hồi 1.400 xe sau khi một chiếc xe tự lái rơi vào khe suối vào ngày 20 tháng 4 tại San Antonio, Texas. Vụ việc không gây thương vong nhưng đã làm dấy lên lo ngại về an toàn. Các nhà sản xuất đang điều tra nguyên nhân của vụ việc và sẽ tiến hành kiểm tra để đảm bảo an toàn cho khách hàng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fdd28d946674",
-      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
-      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:07:01.488510+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp ra tính năng trò chuyện riêng tư với AI",
-      "bullets": [
-        "Ra mắt tính năng trò chuyện 'incognito' với AI chatbot",
-        "Cơ chế này cho phép người dùng xóa lịch sử trò chuyện",
-        "Chuyên gia an ninh mạng lo ngại thiếu trách nhiệm nếu có vấn đề xảy ra",
-        "Tính năng này có thể giúp bảo vệ quyền riêng tư của người dùng"
-      ],
-      "full_summary": "WhatsApp vừa ra mắt tính năng trò chuyện riêng tư với AI chatbot. Tính năng này cho phép người dùng xóa lịch sử trò chuyện và có cuộc trò chuyện riêng tư hơn. Tuy nhiên, chuyên gia an ninh mạng lo ngại rằng việc xóa lịch sử trò chuyện có thể dẫn đến thiếu trách nhiệm nếu có vấn đề xảy ra. Tính năng này có thể giúp bảo vệ quyền riêng tư của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f2ae554d6d69",
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-16T13:07:05.543248+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tác giả Charlie Stross viết tiểu thuyết khoa học viễn tưởng về sự tăng tốc của công nghệ",
-      "bullets": [
-        "Tác giả Charlie Stross giới thiệu tiểu thuyết khoa học viễn tưởng Accelerando",
-        "Tiểu thuyết khám phá sự tăng tốc của công nghệ và tác động của nó lên xã hội",
-        "Sự tăng tốc công nghệ được miêu tả như một quá trình không thể kiểm soát",
-        "Tiểu thuyết là một tác phẩm khoa học viễn tưởng có ý nghĩa sâu sắc"
-      ],
-      "full_summary": "Accelerando là một tiểu thuyết khoa học viễn tưởng được viết bởi Charlie Stross, xuất bản năm 2005. Tiểu thuyết khám phá sự tăng tốc của công nghệ và tác động của nó lên xã hội. Tác giả miêu tả sự tăng tốc công nghệ như một quá trình không thể kiểm soát, dẫn đến sự thay đổi nhanh chóng và sâu sắc của xã hội. Tiểu thuyết là một tác phẩm khoa học viễn tưởng có ý nghĩa sâu sắc và đã nhận được nhiều đánh giá tích cực từ độc giả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1210acbd99fd",
-      "title": "Man killed by 13ft great white shark in Western Australia",
-      "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T07:54:42.623040+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông bị tấn công bởi cá mập trắng lớn ở Tây Úc",
-      "bullets": [
-        "Một người đàn ông bị cá mập trắng lớn tấn công tại Horseshoe Reef",
-        "Cá mập trắng lớn dài 13 feet tấn công người đàn ông",
-        "Vụ việc xảy ra trước 10:00 tại khu vực phía tây bắc của đảo Rottnest",
-        "Cảnh sát địa phương đang điều tra vụ việc"
-      ],
-      "full_summary": "Một người đàn ông đã bị một con cá mập trắng lớn tấn công và tử vong tại Horseshoe Reef, phía tây bắc của đảo Rottnest gần thành phố Perth, Tây Úc. Vụ việc xảy ra vào lúc 03:00 BST. Cảnh sát địa phương đang điều tra vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c89748dbfdc2",
-      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T07:54:43.569174+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Thụy Sĩ sắp mở hồ sơ bí mật về Mengele, 'Ángel của cái chết' ở Auschwitz",
-      "bullets": [
-        "Sẽ công bố hồ sơ bí mật về Josef Mengele",
-        "Mengele được cho là đã sống ở Thụy Sĩ sau chiến tranh",
-        "Nghi ngờ về thời gian Mengele ở Thụy Sĩ đã tồn tại nhiều năm",
-        "Thụy Sĩ sẽ công bố hồ sơ sau nhiều năm điều tra"
-      ],
-      "full_summary": "Thụy Sĩ sắp công bố hồ sơ bí mật về Josef Mengele, người được gọi là 'Ángel của cái chết' ở trại tập trung Auschwitz. Mengele đã trốn khỏi châu Âu sau chiến tranh và nhiều năm qua đã có nhiều tin đồn rằng ông đã sống ở Thụy Sĩ. Thụy Sĩ sẽ công bố hồ sơ sau nhiều năm điều tra và xác minh thông tin.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c9ab859cd2bb",
-      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
-      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T07:54:44.562764+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ có kế hoạch truy tố cựu lãnh đạo Cuba Raúl Castro",
-      "bullets": [
-        "Mỹ sắp đưa ra cáo buộc hình sự",
-        "Liên quan đến vụ Cuba bắn hạ máy bay năm 1996",
-        "Charges có thể được đưa ra sớm trong tuần tới",
-        "Báo cáo cho rằng vụ việc liên quan đến việc Cuba bắn hạ hai máy bay"
-      ],
-      "full_summary": "Theo BBC World, Mỹ đang lên kế hoạch truy tố cựu lãnh đạo Cuba Raúl Castro. Cáo buộc hình sự có thể được đưa ra sớm trong tuần tới và liên quan đến vụ Cuba bắn hạ hai máy bay năm 1996. Vụ việc này đã gây ra nhiều tranh cãi và ảnh hưởng đến quan hệ giữa Mỹ và Cuba. Details về cáo buộc vẫn chưa được tiết lộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d03a553d54ba",
-      "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
-      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T07:54:45.697101+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Mỹ tuyên bố hạ sát chỉ huy thứ hai của Nhà nước Hồi giáo",
-      "bullets": [
-        "Tổng thống Mỹ Donald Trump tuyên bố hạ sát Abu-Bilal al-Minuki",
-        "Abu-Bilal al-Minuki được Tổng thống Trump mô tả là 'hacker khủng bố hoạt động mạnh nhất thế giới'",
-        "Mục tiêu được hạ sát trong một nhiệm vụ phức tạp do lực lượng Mỹ và Nigeria thực hiện"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump tuyên bố lực lượng Mỹ và Nigeria đã hạ sát Abu-Bilal al-Minuki, người mà ông mô tả là 'hacker khủng bố hoạt động mạnh nhất thế giới'. Tổng thống Trump cho biết nhiệm vụ được thực hiện theo kế hoạch và rất phức tạp. Mục tiêu được hạ sát trong một nhiệm vụ phối hợp giữa lực lượng Mỹ và Nigeria.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ce4bc1c9db14",
-      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T07:54:47.131756+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hộ chiếu của phụ nữ Colombia bị Trump hành động trái luật",
-      "bullets": [
-        "Một thẩm phán Mỹ ra lệnh hồi hương phụ nữ Colombia",
-        "Phụ nữ này bị trục xuất đến Cộng hòa Dân chủ Congo trái ý muốn",
-        "Thẩm phán cho rằng hành động của chính quyền Trump là trái luật"
-      ],
-      "full_summary": "Một thẩm phán Mỹ đã ra lệnh hồi hương một phụ nữ Colombia tên Adriana María Quiroz Zapata từ Cộng hòa Dân chủ Congo. Thẩm phán Richard Leon cho rằng hành động trục xuất này có thể là trái luật. Phụ nữ này đã bị trục xuất đến Cộng hòa Dân chủ Congo mặc dù nước này đã từ chối nhận cô. Hành động này được thực hiện bởi chính quyền Trump.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5f9158ebff7b",
-      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
-      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T07:54:48.202940+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "UN kêu gọi Equatorial Guinea tránh trả người tị nạn Mỹ về nước",
-      "bullets": [
-        "UN kêu gọi Equatorial Guinea dừng kế hoạch trả người tị nạn Mỹ về nước",
-        "Người tị nạn Mỹ mô tả tình trạng giam giữ như 'nhà tù'",
-        "Báo cáo của UN chỉ ra nguy cơ bị ngược đãi, tra tấn và giết hại",
-        "Equatorial Guinea bị coi là một trong những chế độ độc tài nghiêm trọng nhất thế giới"
-      ],
-      "full_summary": "UN đã đưa ra một lời kêu gọi hiếm hoi công khai, yêu cầu Equatorial Guinea dừng kế hoạch trả người tị nạn Mỹ về nước. Những người tị nạn Mỹ mô tả tình trạng giam giữ như 'nhà tù', và báo cáo của UN chỉ ra nguy cơ bị ngược đãi, tra tấn và giết hại. Điều này đã thêm áp lực ngoại giao lên Equatorial Guinea, một trong những chế độ độc tài nghiêm trọng nhất thế giới.",
       "comments": 0,
       "score": 0
     }
