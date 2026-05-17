@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-17T02:30:44.042085+00:00",
+  "updated_at": "2026-05-17T08:13:27.019252+00:00",
   "articles": [
+    {
+      "id": "49a80916e58d",
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T08:13:10.259856+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "WHO xác định dịch Ebola tại Cộng hòa Dân chủ Congo là tình trạng khẩn cấp về sức khỏe toàn cầu",
+      "bullets": [
+        "WHO tuyên bố dịch Ebola tại Cộng hòa Dân chủ Congo là tình trạng khẩn cấp về sức khỏe toàn cầu",
+        "Tổng cộng 246 ca bệnh và 80 ca tử vong đã được báo cáo",
+        "WHO cho biết dịch bệnh không đáp ứng các tiêu chí của tình trạng khẩn cấp về đại dịch",
+        "Cộng hòa Dân chủ Congo đang thực hiện các biện pháp để kiểm soát dịch bệnh"
+      ],
+      "full_summary": "WHO đã tuyên bố dịch Ebola tại Cộng hòa Dân chủ Congo là tình trạng khẩn cấp về sức khỏe toàn cầu. Dịch bệnh đã gây ra 246 ca bệnh và 80 ca tử vong. Mặc dù vậy, WHO cho biết dịch bệnh không đáp ứng các tiêu chí của tình trạng khẩn cấp về đại dịch. Cộng hòa Dân chủ Congo đang thực hiện các biện pháp để kiểm soát dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f4730cb6b9c9",
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T08:13:11.203850+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Máy bay không người lái Ukraine tấn công Moscow, khiến 3 người chết",
+      "bullets": [
+        "Tấn công bằng máy bay không người lái của Ukraine gây thiệt hại nặng nề ở Moscow",
+        "8 người bị thương trong các cuộc tấn công bằng tên lửa và pháo binh của Nga",
+        "Tình hình ở Ukraine tiếp tục căng thẳng sau các cuộc tấn công",
+        "Nga và Ukraine tiếp tục xung đột"
+      ],
+      "full_summary": "Nga cho biết một cuộc tấn công bằng máy bay không người lái của Ukraine đã khiến 3 người chết ở Moscow. Trong khi đó, các quan chức địa phương ở Ukraine báo cáo 8 người bị thương trong các cuộc tấn công bằng tên lửa và pháo binh của Nga. Các cuộc tấn công này là một phần của cuộc xung đột đang diễn ra giữa Nga và Ukraine. Tình hình ở Ukraine tiếp tục căng thẳng sau các cuộc tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5cf450ae6f80",
+      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+      "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T08:13:12.244287+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu Tổng thống Mỹ Trump ủng hộ Julia Letlow đánh bại Thượng nghị sĩ Louisiana",
+      "bullets": [
+        "Trump ủng hộ Julia Letlow trong cuộc bầu cử Louisiana",
+        "Thượng nghị sĩ bị đánh bại bỏ phiếu chống lại Tổng thống Trump",
+        "Julia Letlow thắng cử với sự ủng hộ của Trump",
+        "Cựu Tổng thống Mỹ chỉ trích Thượng nghị sĩ 'bất trung thành'"
+      ],
+      "full_summary": "Cựu Tổng thống Mỹ Donald Trump đã ủng hộ Julia Letlow trong cuộc bầu cử Thượng nghị sĩ Louisiana. Julia Letlow đã đánh bại Thượng nghị sĩ Bill Cassidy, người đã bỏ phiếu chống lại Tổng thống Trump trong vụ luận tội. Trump đã chỉ trích Thượng nghị sĩ Cassidy là 'bất trung thành'. Sự ủng hộ của Trump đã giúp Julia Letlow thắng cử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "147cafaf00c3",
+      "title": "‘Feels like an illusion’: how Trump seizing Maduro has changed little in Venezuela",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T08:13:14.417870+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Căng thẳng Venezuela vẫn không thay đổi dù Trump lật đổ Maduro",
+      "bullets": [
+        "Căng thẳng chính trị Venezuela vẫn tiếp tục",
+        "Sự kiện lật đổ Maduro không mang lại thay đổi đáng kể",
+        "Nhiều người vẫn tiếp tục ủng hộ phong trào của Hugo Chávez",
+        "Tình hình kinh tế và xã hội Venezuela vẫn còn nhiều thách thức"
+      ],
+      "full_summary": "Khi Ángel Linares nghe thấy tiếng nổ lớn, ban đầu anh nghĩ đó là tiếng pháo hoa chào năm mới. Nhưng sau đó, cửa sổ của anh bị vỡ, tường nhà rung lắc và mặt tiền bị bắn tung toé, khiến anh bị văng xuống sàn. Mẹ anh, Jesucita, 85 tuổi, sợ rằng bờ biển phía bắc Venezuela đã bị tàn phá bởi một trận động đất, giống như trận động đất năm 1967 mà bà nhớ. Sự kiện lật đổ Maduro của Trump không mang lại thay đổi đáng kể cho tình hình Venezuela, nhiều người vẫn tiếp tục ủng hộ phong trào của Hugo Chávez.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "527f72156e0c",
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-17T08:13:15.515257+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nga ép buộc sinh viên đại học trở thành phi công drone chiến đấu",
+      "bullets": [
+        "Nga đang áp dụng sức ép để tuyển sinh viên đại học trở thành phi công drone chiến đấu",
+        "Các trường đại học hứa hẹn không phải phục vụ trên mặt trận và các lợi ích nếu sinh viên tham gia quân đội",
+        "Sinh viên được hứa hẹn sẽ không phải tham gia chiến đấu trực tiếp",
+        "Cơ quan quân sự Nga đang tuyển dụng sinh viên đại học để trở thành phi công drone"
+      ],
+      "full_summary": "Nga đang áp dụng sức ép để tuyển sinh viên đại học trở thành phi công drone chiến đấu. Các trường đại học hứa hẹn không phải phục vụ trên mặt trận và các lợi ích nếu sinh viên tham gia quân đội. Cơ quan quân sự Nga đang tuyển dụng sinh viên đại học để trở thành phi công drone. Mục tiêu của Nga là tăng cường khả năng chiến đấu bằng cách sử dụng các phi công drone.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "07770f0ac174",
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-17T08:13:16.980167+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Hội đồng thẩm phán hoãn phê duyệt thỏa thuận bản quyền 1,5 tỷ USD của Anthropic",
+      "bullets": [
+        "Các luật sư bị cáo buộc đang cố gắng đẩy nhanh quá trình giải quyết để thu được 320 triệu USD tiền phí.",
+        "Các tác giả đang đấu tranh để nhận được khoản thanh toán cao hơn từ thỏa thuận bản quyền.",
+        "Thỏa thuận bản quyền 1,5 tỷ USD của Anthropic đang trở nên phức tạp hơn."
+      ],
+      "full_summary": "Một thỏa thuận bản quyền lịch sử trị giá 1,5 tỷ USD của Anthropic đang trở nên phức tạp hơn. Các luật sư bị cáo buộc đang cố gắng đẩy nhanh quá trình giải quyết để thu được 320 triệu USD tiền phí. Các tác giả đang đấu tranh để nhận được khoản thanh toán cao hơn từ thỏa thuận bản quyền. Hội đồng thẩm phán đã hoãn phê duyệt thỏa thuận này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1d507444b5f5",
+      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-17T08:13:17.887720+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "WHO xác nhận trường hợp hantavirus tại Mỹ là sai",
+      "bullets": [
+        "WHO công bố kết quả chuyển khách an toàn thành công",
+        "Trường hợp hantavirus tại Mỹ được xác định là sai",
+        "Số ca bệnh hantavirus giảm còn 10",
+        "WHO tiếp tục theo dõi tình hình"
+      ],
+      "full_summary": "WHO vừa công bố kết quả chuyển khách an toàn thành công. Tuy nhiên, WHO cũng xác nhận trường hợp hantavirus tại Mỹ là sai. Số ca bệnh hantavirus tại Mỹ đã giảm còn 10. WHO tiếp tục theo dõi tình hình để đảm bảo an toàn cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5087ffe7dac1",
+      "title": "Review: Good Omens finale (mostly) sticks the landing",
+      "url": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-17T08:13:19.208552+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Kết thúc Good Omens: Một hồi kết phù hợp nhưng hơi vội vàng",
+      "bullets": [
+        "Cốt truyện được kết thúc một cách phù hợp",
+        "Hai nhân vật chính vẫn giữ được sự gắn kết",
+        "Độ dài của mùa thứ ba hơi vội vàng",
+        "Cốt truyện bị gián đoạn một chút"
+      ],
+      "full_summary": "Kết thúc Good Omens đã được công bố và nhận được nhiều đánh giá khác nhau. Mặc dù mùa thứ ba có độ dài hơi vội vàng, nhưng vẫn mang lại một kết thúc phù hợp cho câu chuyện tình yêu vĩ đại. Cốt truyện được kết thúc một cách phù hợp và hai nhân vật chính vẫn giữ được sự gắn kết. Tuy nhiên, một số phần của mùa thứ ba bị gián đoạn một chút, khiến cho người xem cảm thấy hơi bất ngờ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "399dd093a10b",
+      "title": "Grafana Labs internal source code accessed",
+      "url": "https://twitter.com/grafana/status/2055827123236171827",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-17T08:13:21.786903+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mã nguồn nội bộ của Grafana Labs bị truy cập",
+      "bullets": [
+        "Mã nguồn nội bộ của Grafana Labs bị hacker truy cập",
+        "Grafana Labs đã xác nhận sự cố",
+        "Sự cố đang được điều tra",
+        "Cơ quan này chưa công bố thông tin chi tiết"
+      ],
+      "full_summary": "Grafana Labs vừa xác nhận rằng mã nguồn nội bộ của công ty đã bị truy cập bởi một hacker. Sự cố này đang được điều tra và công ty chưa công bố thông tin chi tiết. Grafana Labs là một công ty nổi tiếng trong lĩnh vực quản lý dữ liệu và phân tích.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "70fc12c64811",
       "title": "Hezbollah drone strike videos show evolving tactics against Israel",
@@ -615,184 +794,6 @@
         "Equatorial Guinea bị coi là một trong những chế độ độc tài nghiêm trọng nhất thế giới"
       ],
       "full_summary": "UN đã đưa ra một lời kêu gọi hiếm hoi công khai, yêu cầu Equatorial Guinea dừng kế hoạch trả người tị nạn Mỹ về nước. Những người tị nạn Mỹ mô tả tình trạng giam giữ như 'nhà tù', và báo cáo của UN chỉ ra nguy cơ bị ngược đãi, tra tấn và giết hại. Điều này đã thêm áp lực ngoại giao lên Equatorial Guinea, một trong những chế độ độc tài nghiêm trọng nhất thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3ab25432e7ec",
-      "title": "Solar power production undercut by coal pollution",
-      "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-16T07:54:49.102783+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Năng lượng mặt trời bị giảm hiệu suất do ô nhiễm than",
-      "bullets": [
-        "Từng năm, một số năng lượng mặt trời bị chặn bởi các aerosol",
-        "Ô nhiễm than làm giảm hiệu suất năng lượng mặt trời",
-        "Nghiên cứu cho thấy ô nhiễm than ảnh hưởng đến năng lượng mặt trời",
-        "Năng lượng mặt trời bị giảm hiệu suất do các yếu tố môi trường"
-      ],
-      "full_summary": "Một nghiên cứu mới cho thấy năng lượng mặt trời bị giảm hiệu suất do ô nhiễm than. Mỗi năm, một số năng lượng mặt trời bị chặn bởi các aerosol. Điều này làm giảm hiệu suất năng lượng mặt trời và ảnh hưởng đến môi trường. Nghiên cứu này cho thấy tầm quan trọng của việc giảm thiểu ô nhiễm than để tăng hiệu suất năng lượng mặt trời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "214cefdec810",
-      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
-      "url": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-16T07:54:50.027004+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công ty theo dõi thời tiết ép buộc khách hàng sử dụng ứng dụng mới",
-      "bullets": [
-        "Đưa ra ứng dụng mới AcuRite Now với một số tính năng bị thiếu",
-        "Ứng dụng mới có tùy chọn đăng ký trả phí",
-        "Khách hàng phản ứng không đồng tình với quyết định của công ty",
-        "Tính năng bị thiếu trong ứng dụng mới chưa được công bố rõ ràng"
-      ],
-      "full_summary": "Công ty theo dõi thời tiết AcuRite đã đưa ra ứng dụng mới AcuRite Now, nhưng nó lại thiếu một số tính năng so với ứng dụng cũ. Ứng dụng mới có tùy chọn đăng ký trả phí, điều này đã khiến nhiều khách hàng phản ứng không đồng tình. Hiện tại, công ty chưa công bố rõ ràng về tính năng bị thiếu trong ứng dụng mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3936258e89e8",
-      "title": "The main thing about P2P meth is that there's so much of it (2021)",
-      "url": "https://dynomight.net/p2p-meth/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-16T07:54:53.755971+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nghi vấn về ma túy meth được sản xuất và phân phối qua mạng P2P",
-      "bullets": [
-        "Meth được sản xuất và phân phối rộng rãi trên mạng P2P",
-        "Số lượng meth trên mạng P2P rất lớn",
-        "Nghi vấn về sự an toàn của mạng P2P trong việc phân phối ma túy"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã tiết lộ về việc ma túy meth đang được sản xuất và phân phối rộng rãi trên mạng P2P. Số lượng meth trên mạng này rất lớn, gây lo ngại về sự an toàn của mạng P2P trong việc phân phối ma túy. Bài viết này đã thu hút sự chú ý của nhiều người dùng trên Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f47bcc4ae2f3",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T02:14:52.361064+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump cảnh báo Đài Loan tránh độc lập",
-      "bullets": [
-        "Trump cảnh báo Đài Loan tránh tuyên bố độc lập",
-        "Trump yêu cầu Bắc Kinh và Đài Bắc 'giảm nhiệt' căng thẳng",
-        "Trump sau đó gặp gỡ Chủ tịch Trung Quốc Tập Cận Bình",
-        "Căng thẳng giữa Trung Quốc và Đài Loan đang gia tăng"
-      ],
-      "full_summary": "Chủ tịch Mỹ Donald Trump đã cảnh báo Đài Loan tránh tuyên bố độc lập, chỉ vài giờ sau khi ông gặp gỡ Chủ tịch Trung Quốc Tập Cận Bình. Trump muốn Bắc Kinh và Đài Bắc 'giảm nhiệt' căng thẳng đang gia tăng giữa hai bên. Căng thẳng này đã trở thành một vấn đề lớn trong quan hệ Trung-Mỹ. Trump đã cảnh báo Đài Loan tránh tuyên bố độc lập để tránh gây căng thẳng với Trung Quốc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fab46df068d2",
-      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T02:14:53.979384+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Truyền thông Mỹ: Iran cần chứng minh cam kết dỡ bỏ chương trình hạt nhân",
-      "bullets": [
-        "Trump yêu cầu Iran dỡ bỏ chương trình hạt nhân",
-        "Tehran cần chứng minh cam kết bằng hành động",
-        "Iran cần dừng enrichment uranium để đạt được thỏa thuận",
-        "Chính quyền Mỹ muốn Iran chứng minh sự cam kết thực sự"
-      ],
-      "full_summary": "Thủ tướng Mỹ Donald Trump cho biết Iran cần chứng minh cam kết thực sự trong việc dỡ bỏ chương trình hạt nhân và dừng enrichment uranium. Ông Trump yêu cầu Tehran phải chứng minh sự cam kết bằng hành động. Điều này nhằm đạt được thỏa thuận với Iran. Chính quyền Mỹ muốn Iran chứng minh sự cam kết thực sự trong việc dỡ bỏ chương trình hạt nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51321b056fc5",
-      "title": "Israel says it has killed Hamas commander in Gaza air strike",
-      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T02:14:54.885805+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel giết chỉ huy Hamas trong cuộc không kích Gaza",
-      "bullets": [
-        "Israel tuyên bố đã giết chỉ huy Hamas Izz ad-Din al-Haddad",
-        "Chỉ huy này được mô tả là 'một trong những kiến trúc sư của thảm họa ngày 7 tháng 10'",
-        "Cuộc không kích diễn ra tại thành phố Gaza",
-        "Nguồn tin từ BBC"
-      ],
-      "full_summary": "Israel tuyên bố đã giết Izz ad-Din al-Haddad, được mô tả là 'một trong những kiến trúc sư của thảm họa ngày 7 tháng 10'. Cuộc không kích diễn ra tại thành phố Gaza. Nguồn tin từ BBC. Izz ad-Din al-Haddad được mô tả là một trong những người đứng đầu Hamas.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65f175c48821",
-      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T02:14:55.811076+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "HMRC sẽ sử dụng AI để phát hiện gian lận và lỗi trong tờ khai thuế",
-      "bullets": [
-        "HMRC đã ký hợp đồng £175 triệu với Quantexa để phát hiện gian lận và lỗi trong tờ khai thuế",
-        "Quantexa là một nền tảng dữ liệu tài chính cung cấp công nghệ AI để phân tích dữ liệu",
-        "Mục tiêu của hợp đồng là giảm số lượng tờ khai thuế bị lỗi và gian lận"
-      ],
-      "full_summary": "HMRC đã ký hợp đồng £175 triệu với công ty công nghệ Anh Quantexa để sử dụng công nghệ AI của họ để phát hiện gian lận và lỗi trong tờ khai thuế. Quantexa cung cấp nền tảng dữ liệu tài chính và công nghệ AI để phân tích dữ liệu. Mục tiêu của hợp đồng là giảm số lượng tờ khai thuế bị lỗi và gian lận, giúp HMRC cải thiện hiệu suất và giảm chi phí.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "207c164f1bf0",
-      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
-      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T02:14:56.975000+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Lực lượng Mali tấn công liên minh phiến quân",
-      "bullets": [
-        "Tấn công liên minh phiến quân Hồi giáo và dân tộc Tuareg",
-        "Sử dụng máy bay không người lái do Nga hỗ trợ",
-        "Mục tiêu là thị trấn Kidal quan trọng ở phía bắc Mali",
-        "Mục tiêu ngăn chặn cuộc tấn công của phiến quân"
-      ],
-      "full_summary": "Lực lượng Mali đã tiến hành các cuộc không kích nhằm vào liên minh phiến quân Hồi giáo và dân tộc Tuareg. Các cuộc không kích được thực hiện sau khi liên minh này tiến hành một cuộc tấn công bất ngờ ở nhiều khu vực của Mali vào cuối tháng 4. Thị trấn Kidal, một điểm quan trọng ở phía bắc Mali, đã bị mất khi phiến quân tiến hành cuộc tấn công này. Lực lượng Mali đang cố gắng duy trì quyền lực của họ trong một quốc gia Tây Phi không ổn định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "218441359b2e",
-      "title": "Remains of second US soldier who went missing in Morocco recovered",
-      "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T02:14:58.020681+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai binh sĩ Mỹ mất tích ở Maroc, hài cốt người thứ hai được tìm thấy",
-      "bullets": [
-        "Hài cốt binh sĩ Mỹ Mariyah Symone Collington được tìm thấy sau khi mất tích ở Maroc",
-        "Cô là binh sĩ thứ hai mất tích trong cuộc tập trận quân sự ở Maroc",
-        "Đội tìm kiếm đa quốc gia đã sử dụng hàng không, hải quân và trí tuệ nhân tạo để tìm kiếm",
-        "Cô là người 19 tuổi từ Florida, Mỹ"
-      ],
-      "full_summary": "Hài cốt binh sĩ Mỹ thứ hai mất tích trong cuộc tập trận quân sự ở Maroc đã được tìm thấy. Binh sĩ 19 tuổi Mariyah Symone Collington đã mất tích sau khi rơi khỏi một ngọn đồi trong một chuyến đi dã ngoại ngoài giờ. Đội tìm kiếm đa quốc gia đã sử dụng hàng không, hải quân và trí tuệ nhân tạo để tìm kiếm. Cuộc tìm kiếm đã kết thúc sau khi hài cốt cô được tìm thấy.",
       "comments": 0,
       "score": 0
     }
