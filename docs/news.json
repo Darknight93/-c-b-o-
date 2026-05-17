@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-05-17T13:04:29.042782+00:00",
+  "updated_at": "2026-05-17T18:58:56.083927+00:00",
   "articles": [
+    {
+      "id": "69c9d133b5b1",
+      "title": "How worrying is the Ebola outbreak in DR Congo?",
+      "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T18:58:36.194987+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Congo đã công bố tình trạng khẩn cấp về dịch Ebola",
+      "bullets": [
+        "Đã có gần 250 trường hợp nghi ngờ mắc bệnh Ebola",
+        "Dịch bệnh được công bố là tình trạng khẩn cấp về sức khỏe",
+        "Số ca mắc bệnh đang gia tăng ở Cộng hòa Dân chủ Congo"
+      ],
+      "full_summary": "Dịch Ebola ở Cộng hòa Dân chủ Congo đã được công bố là tình trạng khẩn cấp về sức khỏe. Số ca mắc bệnh đang gia tăng, với gần 250 trường hợp nghi ngờ mắc bệnh. Dịch bệnh đã lan rộng ra nhiều khu vực, khiến các chuyên gia lo ngại về khả năng lây lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2b0d9a9713cd",
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T18:58:37.730015+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Liên bang Ả Rập Xê Út báo cáo vụ tấn công gần nhà máy điện hạt nhân Abu Dhabi",
+      "bullets": [
+        "Liên bang Ả Rập Xê Út đang điều tra vụ tấn công",
+        "Nước này gọi vụ tấn công này là 'một sự leo thang nguy hiểm'",
+        "Cơ quan điều tra đang cố gắng xác định nguồn gốc của vụ tấn công",
+        "Liên bang Ả Rập Xê Út đang cố gắng đảm bảo an ninh cho các cơ sở quan trọng"
+      ],
+      "full_summary": "Liên bang Ả Rập Xê Út đang điều tra vụ tấn công gần nhà máy điện hạt nhân Abu Dhabi. Nước này gọi vụ tấn công này là 'một sự leo thang nguy hiểm'. Cơ quan điều tra đang cố gắng xác định nguồn gốc của vụ tấn công. Liên bang Ả Rập Xê Út đang cố gắng đảm bảo an ninh cho các cơ sở quan trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69508f26f007",
+      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T18:58:38.737096+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Waymo tự nguyện thu hồi hàng nghìn xe tự lái sau tai nạn",
+      "bullets": [
+        "Thu hồi xe tự lái Waymo",
+        "Xe tự lái Waymo rơi vào khe suối",
+        "Vụ tai nạn xảy ra tại San Antonio, Texas",
+        "Xe tự lái Waymo không có người lái"
+      ],
+      "full_summary": "Waymo đã tự nguyện thu hồi hàng nghìn xe tự lái sau một vụ tai nạn xảy ra vào ngày 20 tháng 4. Vụ tai nạn xảy ra khi một chiếc xe tự lái Waymo rơi vào một con khe suối ở San Antonio, Texas. Xe tự lái này không có người lái và đã bị thu hồi để kiểm tra và sửa chữa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fdd28d946674",
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T18:58:39.854848+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp giới thiệu cuộc trò chuyện riêng tư với AI",
+      "bullets": [
+        "WhatsApp phát hành tính năng cuộc trò chuyện riêng tư với AI chatbot",
+        "Tính năng này cho phép người dùng xóa lịch sử trò chuyện",
+        "Chuyên gia an ninh mạng lo ngại việc xóa lịch sử có thể dẫn đến thiếu trách nhiệm",
+        "Tính năng mới này được thiết kế để bảo vệ quyền riêng tư của người dùng"
+      ],
+      "full_summary": "WhatsApp đã giới thiệu tính năng cuộc trò chuyện riêng tư với AI chatbot mới. Tính năng này cho phép người dùng xóa lịch sử trò chuyện và bảo vệ quyền riêng tư của họ. Tuy nhiên, một chuyên gia an ninh mạng lo ngại rằng việc xóa lịch sử có thể dẫn đến thiếu trách nhiệm nếu có vấn đề xảy ra. Tính năng mới này được thiết kế để bảo vệ quyền riêng tư của người dùng và cung cấp trải nghiệm trò chuyện riêng tư hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ce4bc1c9db14",
+      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T18:58:42.468959+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tòa án Mỹ yêu cầu trả về phụ nữ Colombia bị trục xuất đến Congo",
+      "bullets": [
+        "Tòa án Mỹ xác định việc trục xuất Adriana María Quiroz Zapata có thể bất hợp pháp",
+        "Tòa án yêu cầu chính quyền Trump trả về phụ nữ Colombia từ Cộng hòa Dân chủ Congo",
+        "Phụ nữ Colombia bị trục xuất đến Congo mà nước này đã từ chối nhận",
+        "Tòa án xác định việc trục xuất có thể vi phạm luật di trú Mỹ"
+      ],
+      "full_summary": "Tòa án Mỹ đã ra lệnh cho chính quyền Trump phải trả về phụ nữ Colombia Adriana María Quiroz Zapata từ Cộng hòa Dân chủ Congo. Tòa án xác định việc trục xuất có thể bất hợp pháp vì Congo đã từ chối nhận phụ nữ này. Phụ nữ Colombia bị trục xuất đến Congo mà nước này đã từ chối nhận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5f9158ebff7b",
+      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
+      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-17T18:58:44.687557+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "UN kêu gọi Equatorial Guinea không trục xuất người tị nạn Mỹ về nước",
+      "bullets": [
+        "UN kêu gọi Equatorial Guinea dừng kế hoạch trục xuất người tị nạn Mỹ",
+        "Người tị nạn Mỹ mô tả tình trạng giam giữ như một 'trại giam'",
+        "Equatorial Guinea là một trong những chế độ độc tài khốc liệt nhất thế giới",
+        "UN lo ngại người tị nạn sẽ bị ngược đãi, tra tấn và giết chết"
+      ],
+      "full_summary": "UN đã đưa ra một lời kêu gọi hiếm hoi công khai để Equatorial Guinea dừng kế hoạch trục xuất người tị nạn Mỹ về nước. Người tị nạn Mỹ mô tả tình trạng giam giữ như một 'trại giam', trong khi Equatorial Guinea được coi là một trong những chế độ độc tài khốc liệt nhất thế giới. UN lo ngại người tị nạn sẽ bị ngược đãi, tra tấn và giết chết nếu được trục xuất về nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40710d171917",
+      "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
+      "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-17T18:58:45.687062+00:00",
+      "category": "politics|technology",
+      "importance": 4,
+      "headline": "EU cân nhắc hạn chế sử dụng nền tảng đám mây Mỹ để xử lý dữ liệu chính phủ nhạy cảm",
+      "bullets": [
+        "Cơ quan lập pháp châu Âu đang xem xét hạn chế sử dụng các nền tảng đám mây của Mỹ để xử lý dữ liệu chính phủ nhạy cảm",
+        "Nhiều quốc gia châu Âu đang tìm kiếm các giải pháp thay thế để đảm bảo an ninh dữ liệu",
+        "Sự lo ngại về an ninh dữ liệu đã trở thành một vấn đề lớn trong quan hệ giữa Mỹ và châu Âu"
+      ],
+      "full_summary": "Cơ quan lập pháp châu Âu đang cân nhắc hạn chế sử dụng các nền tảng đám mây của Mỹ để xử lý dữ liệu chính phủ nhạy cảm. Sự lo ngại về an ninh dữ liệu đã trở thành một vấn đề lớn trong quan hệ giữa Mỹ và châu Âu. Nhiều quốc gia châu Âu đang tìm kiếm các giải pháp thay thế để đảm bảo an ninh dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db3cb4417fc9",
+      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+      "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-17T18:58:46.627012+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta xóa tài khoản có 1 triệu người theo dõi sau yêu cầu của Kuwait",
+      "bullets": [
+        "Meta xóa tài khoản trên nền tảng của mình",
+        "Tài khoản có 1 triệu người theo dõi",
+        "Yêu cầu xóa tài khoản đến từ Kuwait",
+        "Tài khoản bị xóa sau khi nhận được yêu cầu"
+      ],
+      "full_summary": "Meta đã xóa một tài khoản có 1 triệu người theo dõi sau khi nhận được yêu cầu từ Kuwait. Tài khoản này đã bị xóa vì lý do chưa rõ ràng. Yêu cầu xóa tài khoản đến từ chính phủ Kuwait. Điều này đã gây ra sự quan tâm của cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "571e9cfbadf0",
+      "title": "Dontsurveil.me",
+      "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-17T18:58:50.047389+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ứng dụng 'Dontsurveil.me' giúp người dùng kiểm soát dữ liệu cá nhân",
+      "bullets": [
+        "Giúp người dùng theo dõi và quản lý dữ liệu cá nhân",
+        "Cung cấp thông tin về các công ty thu thập dữ liệu",
+        "Cho phép người dùng xóa dữ liệu cá nhân khỏi các công ty",
+        "Cung cấp công cụ để người dùng kiểm soát quyền riêng tư"
+      ],
+      "full_summary": "Ứng dụng 'Dontsurveil.me' được phát triển bởi OpenCivics Labs để giúp người dùng kiểm soát dữ liệu cá nhân của họ. Ứng dụng cung cấp thông tin về các công ty thu thập dữ liệu và cho phép người dùng xóa dữ liệu cá nhân khỏi các công ty. Mục tiêu của ứng dụng là giúp người dùng bảo vệ quyền riêng tư và kiểm soát dữ liệu cá nhân của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ece01d2be31b",
+      "title": "Mouse eyes photosynthesize after plant-to-animal transplant",
+      "url": "https://www.nature.com/articles/d41586-026-01559-9",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-17T18:58:53.668062+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Rất có thể lá spinach sẽ chữa khô mắt",
+      "bullets": [
+        "Nghiên cứu mới cho thấy lá spinach có thể được sử dụng để chữa khô mắt",
+        "Chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của chuột có khả năng quang hợp",
+        "Nghiên cứu này có thể mở ra một hướng mới trong việc điều trị khô mắt",
+        "Chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của con người có khả năng quang hợp"
+      ],
+      "full_summary": "Một nhóm nghiên cứu mới đã tìm thấy rằng chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của chuột có khả năng quang hợp. Điều này có thể mở ra một hướng mới trong việc điều trị khô mắt. Nghiên cứu này cho thấy rằng chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của con người có khả năng quang hợp. Tuy nhiên, nghiên cứu này vẫn còn ở giai đoạn ban đầu và cần được tiếp tục nghiên cứu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "65f175c48821",
       "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
@@ -596,205 +794,6 @@
         "Số người chết ở Ituri tỉnh đã tăng lên 65"
       ],
       "full_summary": "Một vụ bùng phát dịch Ebola đã giết 65 người ở tỉnh Ituri, Cộng hòa Dân chủ Congo. Số trường hợp nghi ngờ mắc bệnh sốt xuất huyết đã tăng lên 246. Nạn dịch được xác định là do chủng Bundibugyo của virus Ebola. Uganda cũng báo cáo một vụ bùng phát dịch Ebola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3362c0b8de9e",
-      "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
-      "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T18:55:20.256993+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nhiệt độ kỷ lục tại Trung Mỹ và Indonesia",
-      "bullets": [
-        "Nhiệt độ ở Honduras đạt 42,2°C, phá vỡ kỷ lục trước đó",
-        "Khí hậu khắc nghiệt ở Bắc Mỹ và Trung Mỹ",
-        "Tuyết rơi tại Siberia trong tuần có nhiều biến động khí hậu",
-        "Cơn bão lớn tại Trung Quốc với viên sỏi mưa lớn như quả trứng"
-      ],
-      "full_summary": "Tình hình thời tiết trên toàn thế giới đã có nhiều biến động trong tuần qua. Nhiệt độ kỷ lục đã được ghi nhận tại Honduras, Bắc Mỹ và Indonesia. Tại Honduras, nhiệt độ đã đạt 42,2°C, phá vỡ kỷ lục trước đó. Trong khi đó, tuyết đã rơi tại Siberia, một phần của châu Á. Cơn bão lớn cũng đã xảy ra tại Trung Quốc với viên sỏi mưa lớn như quả trứng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a8ec32ba955d",
-      "title": "The US is betting on AI to catch insider trading in prediction markets",
-      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-16T18:55:21.247848+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Hệ thống AI sẽ giúp Mỹ ngăn chặn gian lận trong thị trường dự đoán",
-      "bullets": [
-        "CFTC đang sử dụng AI để theo dõi và phát hiện gian lận trong thị trường dự đoán",
-        "Hệ thống này sẽ giúp xác định những người có khả năng biết trước thông tin bí mật",
-        "Mục tiêu của CFTC là ngăn chặn gian lận và bảo vệ thị trường tài chính",
-        "Hệ thống AI sẽ được sử dụng để phân tích dữ liệu và phát hiện những dấu hiệu bất thường"
-      ],
-      "full_summary": "CFTC đang sử dụng công nghệ trí tuệ nhân tạo để ngăn chặn gian lận trong thị trường dự đoán. Hệ thống này sẽ giúp theo dõi và phát hiện những người có khả năng biết trước thông tin bí mật. Mục tiêu của CFTC là ngăn chặn gian lận và bảo vệ thị trường tài chính. Hệ thống AI sẽ được sử dụng để phân tích dữ liệu và phát hiện những dấu hiệu bất thường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "927aa10b0515",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-16T18:55:23.327903+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Kioxia và Dell xây dựng máy chủ 2RU với dung lượng 10 PB",
-      "bullets": [
-        "Xây dựng máy chủ 2RU với dung lượng 10 PB",
-        "Sử dụng công nghệ của Kioxia để tăng cường lưu trữ",
-        "Được thiết kế để giảm thiểu không gian và tăng hiệu suất"
-      ],
-      "full_summary": "Kioxia và Dell đã hợp tác để xây dựng một máy chủ 2RU có thể lưu trữ 10 PB dữ liệu. Máy chủ này sử dụng công nghệ của Kioxia để tăng cường lưu trữ và được thiết kế để giảm thiểu không gian và tăng hiệu suất. Điều này sẽ giúp các doanh nghiệp có thể lưu trữ và xử lý dữ liệu một cách hiệu quả hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1e2a3622c1a3",
-      "title": "Briefing Chat: Hantavirus — what this outbreak reveals about the disease",
-      "url": "https://www.nature.com/articles/d41586-026-01575-9",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-16T18:55:28.154280+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Hantavirus bùng phát: Một số điều cần biết về bệnh",
-      "bullets": [
-        "Xác định nguyên nhân gây bệnh hantavirus",
-        "Phát hiện các trường hợp mắc bệnh hantavirus trên toàn thế giới",
-        "Nghiên cứu về bệnh hantavirus và cách phòng ngừa",
-        "Tìm hiểu về quá trình lây truyền bệnh hantavirus"
-      ],
-      "full_summary": "Bệnh hantavirus đang bùng phát trên toàn thế giới. Các chuyên gia đã xác định nguyên nhân gây bệnh và phát hiện các trường hợp mắc bệnh ở nhiều quốc gia. Nghiên cứu về bệnh hantavirus đang được thực hiện để tìm hiểu về quá trình lây truyền và cách phòng ngừa. Điều này sẽ giúp các nước có biện pháp phòng ngừa hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a5b33e00f09f",
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:06:54.884197+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hành động chung của Mỹ và Nigeria giết chỉ huy IS",
-      "bullets": [
-        "Giết Abu-Bilal al-Minuki, người được coi là kẻ khủng bố hoạt động mạnh nhất thế giới",
-        "Hành động chung giữa Mỹ và Nigeria nhằm chống lại tổ chức Nhà nước Hồi giáo",
-        "Chính quyền Mỹ tuyên bố chiến dịch này là thành công",
-        "Chính quyền Nigeria cũng xác nhận thông tin này"
-      ],
-      "full_summary": "Chính quyền Mỹ và Nigeria vừa công bố đã thực hiện một cuộc hành động chung nhằm chống lại tổ chức Nhà nước Hồi giáo (IS). Theo thông tin từ chính quyền Mỹ, người lãnh đạo IS được coi là kẻ khủng bố hoạt động mạnh nhất thế giới, Abu-Bilal al-Minuki, đã bị giết trong chiến dịch này. Chính quyền Mỹ tuyên bố chiến dịch này là thành công và đã giúp loại bỏ một kẻ khủng bố nguy hiểm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4fa97db0ac95",
-      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:06:55.786137+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người cứu hộ thiệt mạng trong quá trình tìm kiếm thi thể",
-      "bullets": [
-        "Một người cứu hộ đã thiệt mạng trong quá trình tìm kiếm thi thể",
-        "Đội cứu hộ đang tìm kiếm thi thể của 3 người Ý",
-        "Tổn thương xảy ra trong một hang động ở Maldives",
-        "Quốc hội Maldives đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Một người cứu hộ đã thiệt mạng trong quá trình tìm kiếm thi thể của 3 người Ý ở Maldives. Họ đã bị chìm trong một hang động. Đội cứu hộ đang tìm kiếm thi thể và điều tra nguyên nhân. Quốc hội Maldives đang theo dõi tình hình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "93d853c630f3",
-      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:06:56.685588+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Musk và Altman đối mặt với cáo buộc liên quan đến công nghệ",
-      "bullets": [
-        "Bị cáo buộc gian lận và lừa đảo trong việc huy động vốn",
-        "Musk và Altman đưa ra lời biện minh và phản bác cáo buộc",
-        "Bị cáo buộc sử dụng công nghệ để thao túng thị trường",
-        "Hội đồng xét xử đang cân nhắc kết quả"
-      ],
-      "full_summary": "Musk và Altman là hai nhân vật nổi tiếng trong thế giới công nghệ. Họ đã đối mặt với cáo buộc gian lận và lừa đảo trong việc huy động vốn. Trong quá trình xét xử, Musk và Altman đã đưa ra lời biện minh và phản bác cáo buộc. Kết quả xét xử đang được chờ đợi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2390ad0532be",
-      "title": "Inside the secretive and lucrative world of orchid breeding",
-      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:06:57.591995+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các nhà lai tạo orchid bí mật phát triển công nghệ cao",
-      "bullets": [
-        "Tìm kiếm các giống orchid mới",
-        "Sử dụng công nghệ cao để lai tạo",
-        "Giữ bí mật quá trình lai tạo",
-        "Cung cấp loại hoa quý hiếm cho thị trường"
-      ],
-      "full_summary": "Các nhà lai tạo orchid bí mật phát triển công nghệ cao để tìm kiếm các giống orchid mới. Quá trình lai tạo có thể mất đến một thập kỷ để đưa ra thị trường. Để giữ bí mật, họ sử dụng các công nghệ cao và giữ kín quá trình lai tạo. Kết quả là, các nhà lai tạo orchid cung cấp loại hoa quý hiếm cho thị trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0d7a3dae8e6",
-      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:06:58.674705+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Tập đoàn Raspberry Pi cảnh báo AI có thể khiến người lao động mất việc",
-      "bullets": [
-        "Cảnh báo AI sẽ không phá hủy hàng loạt vị trí công nghệ trong tương lai",
-        "Eben Upton cho rằng AI sẽ thay đổi cách làm việc chứ không phải phá hủy",
-        "Tập đoàn Raspberry Pi lo ngại người lao động sẽ tránh các công việc công nghệ",
-        "Eben Upton cảnh báo AI có thể ảnh hưởng tiêu cực đến nền kinh tế"
-      ],
-      "full_summary": "Eben Upton, người sáng lập Tập đoàn Raspberry Pi, cảnh báo rằng AI có thể khiến người lao động mất việc và ảnh hưởng tiêu cực đến nền kinh tế. Ông cho rằng AI sẽ thay đổi cách làm việc chứ không phải phá hủy hàng loạt vị trí công nghệ. Tuy nhiên, ông lo ngại người lao động sẽ tránh các công việc công nghệ do lo sợ bị thay thế bởi AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ae6fc8d2d637",
-      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T13:06:59.564485+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chính phủ Anh tiết kiệm 'triệu bảng' bằng cách thay thế công nghệ Palantir",
-      "bullets": [
-        "Thay thế công nghệ Palantir bằng hệ thống IT nội bộ",
-        "Giảm chi phí lên 'triệu bảng'",
-        "Hệ thống mới đáp ứng tiêu chuẩn an ninh cao",
-        "Cung cấp sự linh hoạt cho hệ thống"
-      ],
-      "full_summary": "Chính phủ Anh đã tiết kiệm được 'triệu bảng' bằng cách thay thế công nghệ Palantir trong hệ thống hỗ trợ người tị nạn. Hệ thống IT nội bộ mới được cho là linh hoạt hơn và đáp ứng tiêu chuẩn an ninh cao. Điều này cho thấy sự thay đổi trong chiến lược công nghệ của chính phủ Anh.",
       "comments": 0,
       "score": 0
     }
