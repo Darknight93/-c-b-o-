@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-05-18T09:46:40.550906+00:00",
+  "updated_at": "2026-05-18T14:59:05.294185+00:00",
   "articles": [
+    {
+      "id": "0aa0b5110dd7",
+      "title": "What is Ebola and why is stopping this outbreak so difficult?",
+      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T14:58:51.008104+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Cúm Ebola lan rộng ở Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Đợt bùng phát Ebola ở Cộng hòa Dân chủ Congo liên quan đến một chủng hiếm",
+        "Sự bùng phát xảy ra ở khu vực chịu ảnh hưởng của xung đột",
+        "Ngăn chặn sự bùng phát Ebola rất khó khăn",
+        "Sự bùng phát Ebola ở Cộng hòa Dân chủ Congo gây lo ngại"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đang phải đối mặt với một đợt bùng phát Ebola nghiêm trọng. Sự bùng phát liên quan đến một chủng hiếm của virus Ebola và xảy ra ở khu vực chịu ảnh hưởng của xung đột. Điều này làm cho việc ngăn chặn sự bùng phát trở nên rất khó khăn. Các nỗ lực phòng chống dịch bệnh đang được thực hiện để ngăn chặn sự lan rộng của virus Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e0ae7e41950a",
+      "title": "At least 100 dead in Ebola outbreak in DR Congo as six Americans exposed",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T14:58:51.915445+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Congo gặp dịch Ebola, ít nhất 100 người chết",
+      "bullets": [
+        "Mười lăm trường hợp tử vong được ghi nhận tại Cộng hòa Dân chủ Congo",
+        "Sáu người Mỹ bị phơi nhiễm virus Ebola",
+        "Một tỉnh ở Congo báo cáo 390 trường hợp nhiễm bệnh",
+        "Một người Mỹ đang trải qua triệu chứng"
+      ],
+      "full_summary": "Một đợt bùng phát dịch Ebola đã xảy ra tại Cộng hòa Dân chủ Congo, khiến ít nhất 100 người chết. Theo báo cáo, sáu người Mỹ đã bị phơi nhiễm virus Ebola, trong đó một người đang trải qua triệu chứng. Một tỉnh ở Congo đã báo cáo 390 trường hợp nhiễm bệnh. Các quan chức đang cố gắng kiểm soát sự bùng phát của dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8eab4ef7a6da",
+      "title": "Bodies of missing Italian divers found in Maldives",
+      "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T14:58:53.700790+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai người lặn Ý đã chết ở Maldives",
+      "bullets": [
+        "Các cơ quan chức năng đã tìm thấy thi thể 5 người lặn Ý",
+        "Các nạn nhân đã chết trong một vụ tai nạn ở Maldives",
+        "Các cơ quan chức năng đang điều tra nguyên nhân của vụ tai nạn"
+      ],
+      "full_summary": "Các cơ quan chức năng Maldives đã tìm thấy thi thể 5 người lặn Ý, sau khi họ mất tích trong một vụ tai nạn ở Maldives. Các nạn nhân đã chết trong một vụ tai nạn dưới nước. Các cơ quan chức năng đang điều tra nguyên nhân của vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ceda0d805f73",
+      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T14:58:54.638607+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Lực lượng Israel xâm nhập tàu thuyền hướng đến Gaza",
+      "bullets": [
+        "Xâm nhập tàu thuyền Global Sumud",
+        "Thử nghiệm ngăn chặn hải quân Gaza",
+        "Tàu thuyền hướng đến Gaza bị phong tỏa",
+        "Lực lượng Israel thực hiện nhiệm vụ"
+      ],
+      "full_summary": "Lực lượng Israel đã xâm nhập vào tàu thuyền Global Sumud hướng đến Gaza. Theo các nhà hoạt động, lực lượng này đã thực hiện nhiệm vụ ngăn chặn hải quân Gaza. Các tàu thuyền này đang cố gắng vượt qua phong tỏa Gaza. Các nhà hoạt động đã phát sóng trực tiếp từ tàu thuyền.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f1ddc9f901d",
+      "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts",
+      "url": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T14:58:55.864526+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Bệnh tật lây lan ngày càng thường xuyên và nghiêm trọng hơn",
+      "bullets": [
+        "Các chuyên gia cảnh báo thế giới ngày càng trở nên kém linh hoạt trước các đợt bùng phát bệnh tật",
+        "Số lượng các đợt bùng phát bệnh tật như hantavirus và Ebola ngày càng tăng",
+        "Các nhóm phòng chống dịch bệnh trên thế giới đang phải đối mặt với nguy cơ bùng phát dịch bệnh",
+        "Tình hình dịch bệnh đang vượt quá khả năng chuẩn bị và đầu tư của thế giới"
+      ],
+      "full_summary": "Theo báo cáo của Global Preparedness Monitoring Board (GPMB), thế giới ngày càng trở nên kém linh hoạt trước các đợt bùng phát bệnh tật. Các chuyên gia cảnh báo rằng số lượng các đợt bùng phát bệnh tật như hantavirus và Ebola ngày càng tăng, gây ra thiệt hại nghiêm trọng. Các nhóm phòng chống dịch bệnh trên thế giới đang phải đối mặt với nguy cơ bùng phát dịch bệnh, vượt quá khả năng chuẩn bị và đầu tư của thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "392bc5e00531",
+      "title": "Bug bounty businesses bombarded with AI slop",
+      "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-18T14:58:59.190264+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các công ty trả thưởng cho lỗi phải chịu đựng lượng thông tin AI vô dụng không ngừng",
+      "bullets": [
+        "Được tấn công bởi lượng thông tin AI vô dụng không ngừng",
+        "Làm khó cho các công ty trả thưởng cho lỗi",
+        "Tăng chi phí cho các công ty bảo mật",
+        "Cần có biện pháp kiểm soát lượng thông tin AI vô dụng"
+      ],
+      "full_summary": "Các công ty trả thưởng cho lỗi đang phải chịu đựng lượng thông tin AI vô dụng không ngừng. Điều này làm khó cho họ trong việc xác định và trả thưởng cho các lỗi thực sự. Lượng thông tin AI vô dụng này cũng làm tăng chi phí cho các công ty bảo mật. Để giải quyết vấn đề này, các công ty cần có biện pháp kiểm soát lượng thông tin AI vô dụng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "adec4ae5403c",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-18T14:59:03.038895+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tìm kiếm giải pháp mở cho Obsidian với Files.md",
+      "bullets": [
+        "Tạo một thư mục lưu trữ thông tin mở",
+        "Thay thế Obsidian với Files.md",
+        "Tích hợp các tính năng mạnh mẽ",
+        "Mở nguồn với GitHub"
+      ],
+      "full_summary": "Files.md là một giải pháp mở cho Obsidian, cho phép người dùng tạo một thư mục lưu trữ thông tin mở. Điều này cho phép người dùng tích hợp các tính năng mạnh mẽ và mở nguồn với GitHub. Files.md đang được phát triển trên GitHub và đã thu hút sự chú ý của cộng đồng Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b7c114623ce6",
       "title": "Strike over high fuel prices paralyses transport in Kenya",
@@ -653,145 +792,6 @@
         "Mục đích là giữ vững quyền lực của quân đội Mali"
       ],
       "full_summary": "Lực lượng Mali, được hỗ trợ bởi lính đánh thuê Nga, đã tấn công liên minh phiến quân bằng máy bay không người lái. Vụ tấn công nhằm vào thành phố Kidal, một thành phố quan trọng ở phía bắc Mali. Liên minh phiến quân này bao gồm các nhóm khủng bố và phong trào ly khai Tuareg. Mục đích của quân đội Mali là giữ vững quyền lực sau khi liên minh phiến quân tấn công bất ngờ vào cuối tháng 4.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de25ff28a7ed",
-      "title": "A revolutionary cancer treatment could transform autoimmune disease",
-      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-17T13:04:15.468572+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Chế độ điều trị ung thư mới có thể thay đổi bệnh tự miễn",
-      "bullets": [
-        "Các nhà nghiên cứu đang thử nghiệm liệu pháp tế bào T CAR như một cách để reset hệ miễn dịch",
-        "Liệu pháp này có thể giúp điều trị các bệnh tự miễn như viêm khớp dạng thấp và bệnh lupus",
-        "CAR T cell có thể được sử dụng để loại bỏ tế bào miễn dịch gây hại",
-        "Kết quả ban đầu cho thấy liệu pháp này có hiệu quả trong điều trị ung thư và các bệnh tự miễn"
-      ],
-      "full_summary": "Các nhà nghiên cứu đang thử nghiệm liệu pháp tế bào T CAR như một cách để reset hệ miễn dịch. Liệu pháp này có thể giúp điều trị các bệnh tự miễn như viêm khớp dạng thấp và bệnh lupus. Các kết quả ban đầu cho thấy liệu pháp này có hiệu quả trong điều trị ung thư và các bệnh tự miễn. Nếu thành công, liệu pháp này có thể trở thành một phương pháp điều trị mới cho các bệnh tự miễn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3ab25432e7ec",
-      "title": "Solar power production undercut by coal pollution",
-      "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-17T13:04:16.452407+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Máy móc năng lượng mặt trời bị ảnh hưởng bởi ô nhiễm than",
-      "bullets": [
-        "Giảm sản lượng năng lượng mặt trời do ô nhiễm than hàng năm",
-        "Các hạt aerosol ngăn chặn năng lượng mặt trời",
-        "Sự cố này ảnh hưởng đến hiệu suất của các trang trại năng lượng mặt trời",
-        "Nghiên cứu chỉ ra rằng ô nhiễm than là nguyên nhân chính"
-      ],
-      "full_summary": "Một nghiên cứu mới chỉ ra rằng ô nhiễm than đã giảm sản lượng năng lượng mặt trời hàng năm. Các hạt aerosol do ô nhiễm than tạo ra đã ngăn chặn năng lượng mặt trời, ảnh hưởng đến hiệu suất của các trang trại năng lượng mặt trời. Điều này có thể ảnh hưởng đến sự phát triển của năng lượng mặt trời trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "214cefdec810",
-      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
-      "url": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-17T13:04:17.390168+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công ty theo dõi thời tiết ép khách hàng tải ứng dụng mới",
-      "bullets": [
-        "Tải ứng dụng mới AcuRite Now bắt buộc",
-        "Ứng dụng mới thiếu một số tính năng",
-        "Có tùy chọn đăng ký trả phí",
-        "Khách hàng không hài lòng với quyết định này"
-      ],
-      "full_summary": "Công ty theo dõi thời tiết AcuRite đã yêu cầu khách hàng tải ứng dụng mới AcuRite Now. Ứng dụng mới này thiếu một số tính năng và có tùy chọn đăng ký trả phí. Điều này đã khiến nhiều khách hàng không hài lòng với quyết định này. Một số tính năng quan trọng đã bị loại bỏ khỏi ứng dụng mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "86722d9ad618",
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-17T13:04:18.493102+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "AI không chắc chắn sẽ làm tăng tốc quá trình",
-      "bullets": [
-        "Phản bác quan điểm AI sẽ làm tăng tốc quá trình",
-        "Nghi ngờ AI sẽ thay thế con người trong công việc",
-        "Tìm kiếm giải pháp thay đổi cách thức làm việc",
-        "Đánh giá lại hiệu quả của công nghệ AI"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã gây tranh cãi về vai trò của trí tuệ nhân tạo (AI) trong việc tăng tốc quá trình làm việc. Tác giả cho rằng AI không chắc chắn sẽ làm tăng tốc quá trình và nghi ngờ về khả năng của AI trong việc thay thế con người. Bài viết này khuyến khích người đọc tìm kiếm giải pháp thay đổi cách thức làm việc và đánh giá lại hiệu quả của công nghệ AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e7d2b4f73688",
-      "title": "Apple Silicon costs more than OpenRouter",
-      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-17T13:04:19.471069+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple Silicon tiêu tốn nhiều hơn OpenRouter",
-      "bullets": [
-        "So sánh chi phí giữa Apple Silicon và OpenRouter",
-        "Apple Silicon đắt hơn do các yếu tố công nghệ",
-        "OpenRouter tiết kiệm năng lượng và hiệu suất cao",
-        "Tìm hiểu lý do tại sao Apple Silicon đắt hơn"
-      ],
-      "full_summary": "Một bài viết trên Hacker News so sánh chi phí giữa Apple Silicon và OpenRouter, kết quả cho thấy Apple Silicon tiêu tốn nhiều hơn. Lý do là do các yếu tố công nghệ và thiết kế của Apple Silicon. Trong khi đó, OpenRouter lại tiết kiệm năng lượng và hiệu suất cao hơn. Bài viết này sẽ giúp chúng ta hiểu rõ hơn về lý do tại sao Apple Silicon đắt hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "490fccc479b0",
-      "title": "Native all the way, until you need text",
-      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-17T13:04:20.466411+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chỉ sử dụng bản địa cho đến khi cần văn bản",
-      "bullets": [
-        "Khuyến khích sử dụng các tính năng bản địa của trình duyệt",
-        "Tối ưu hóa hiệu suất và bảo mật",
-        "Giảm sự phụ thuộc vào JavaScript"
-      ],
-      "full_summary": "Bài viết này khuyến khích việc sử dụng các tính năng bản địa của trình duyệt để tối ưu hóa hiệu suất và bảo mật. Việc sử dụng JavaScript có thể dẫn đến sự phụ thuộc và giảm hiệu suất. Chỉ nên sử dụng JavaScript khi cần thiết, chẳng hạn như khi cần hiển thị văn bản hoặc hình ảnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0f7cc7472e91",
-      "title": "Running a farm, pursuing a research career: what’s the difference?",
-      "url": "https://www.nature.com/articles/d41586-026-01391-1",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-17T13:04:25.345010+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Một nhà nghiên cứu tìm thấy sự tương đồng giữa việc nghiên cứu và trồng trọt",
-      "bullets": [
-        "Tìm thấy sự tương đồng giữa việc nghiên cứu và trồng trọt",
-        "Brandon Brown chuyển đến nông thôn và bắt đầu trồng vườn cam",
-        "Nghiên cứu và trồng trọt đều đòi hỏi sự kiên nhẫn và chăm sóc",
-        "Sự tương đồng này giúp Brandon hiểu rõ hơn về công việc nghiên cứu"
-      ],
-      "full_summary": "Brandon Brown, một nhà nghiên cứu, đã chuyển đến nông thôn và bắt đầu trồng vườn cam. Ông nhận thấy sự tương đồng giữa việc nghiên cứu và trồng trọt. Cả hai đều đòi hỏi sự kiên nhẫn và chăm sóc. Sự tương đồng này giúp Brandon hiểu rõ hơn về công việc nghiên cứu và cách quản lý thời gian hiệu quả.",
       "comments": 0,
       "score": 0
     }
