@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-05-17T18:58:56.083927+00:00",
+  "updated_at": "2026-05-18T02:40:57.012523+00:00",
   "articles": [
+    {
+      "id": "100e0fe16939",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T02:40:40.629625+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu Tổng thống Mỹ cảnh báo Iran thời gian còn ít",
+      "bullets": [
+        "Hôm nay, cựu Tổng thống Mỹ Donald Trump cảnh báo Iran về thời gian còn ít.",
+        "Tehran cho biết Mỹ chưa đưa ra các biện pháp cụ thể để đáp lại các đề xuất mới.",
+        "Tình hình hòa bình giữa Mỹ và Iran đang bị đình trệ.",
+        "Cựu Tổng thống Mỹ cảnh báo Iran về hậu quả nếu không đạt được thỏa thuận."
+      ],
+      "full_summary": "Cựu Tổng thống Mỹ Donald Trump cảnh báo Iran về thời gian còn ít để đạt được thỏa thuận hòa bình. Theo Iranian media, Mỹ chưa đưa ra các biện pháp cụ thể để đáp lại các đề xuất mới của Tehran. Tình hình hòa bình giữa Mỹ và Iran đang bị đình trệ. Cựu Tổng thống Mỹ cảnh báo Iran về hậu quả nếu không đạt được thỏa thuận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e4dbd7f7fbab",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T02:40:41.889397+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Iran tăng cường thực hiện án tử hình sau cuộc tấn công của Mỹ và Israel",
+      "bullets": [
+        "Thực hiện án tử hình tăng vọt kể từ khi Mỹ và Israel tấn công Iran vào ngày 28 tháng 2.",
+        "UN xác nhận ít nhất 32 tù nhân chính trị đã bị hành quyết.",
+        "Số lượng người bị hành quyết tăng mạnh trong thời gian chiến tranh.",
+        "Tình hình này gây lo ngại về tình trạng nhân quyền ở Iran."
+      ],
+      "full_summary": "Kể từ khi Mỹ và Israel tấn công Iran vào ngày 28 tháng 2, số lượng người bị hành quyết đã tăng mạnh. Theo UN, ít nhất 32 tù nhân chính trị đã bị hành quyết. Điều này gây lo ngại về tình trạng nhân quyền ở Iran. Các vụ hành quyết đã tăng vọt kể từ khi chiến tranh bắt đầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e1dbeb1ff90e",
+      "title": "Moment two fighter jets collide mid-air at US air show",
+      "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T02:40:42.851034+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai máy bay chiến đấu va chạm không trung tại buổi diễn bay Mỹ",
+      "bullets": [
+        "Bốn thành viên phi hành đoàn an toàn thoát khỏi máy bay",
+        "Hai máy bay chiến đấu va chạm trong buổi diễn bay ở Mỹ",
+        "Tất cả phi hành đoàn đều được đưa đến bệnh viện và đang trong tình trạng ổn định",
+        "Cơ quan chức năng đang điều tra nguyên nhân vụ việc"
+      ],
+      "full_summary": "Hai máy bay chiến đấu của Hải quân Mỹ đã va chạm không trung trong buổi diễn bay ở Mỹ. Bốn thành viên phi hành đoàn đã an toàn thoát khỏi máy bay và đang được đưa đến bệnh viện. Cơ quan chức năng đang điều tra nguyên nhân vụ việc. Tất cả phi hành đoàn đều đang trong tình trạng ổn định.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "93d853c630f3",
+      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T02:40:43.871449+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Musk và Altman đối mặt cáo buộc trong phiên tòa công nghệ đầy rắc rối",
+      "bullets": [
+        "Mở đầu phiên tòa, Elon Musk và Sam Altman bị cáo buộc vi phạm quy định về bảo mật thông tin",
+        "Các luật sư của Musk và Altman đưa ra nhiều bằng chứng để chứng minh sự vô tội của họ",
+        "Phiên tòa tiết lộ nhiều thông tin về thế giới công nghệ đầy rắc rối và sự cạnh tranh giữa các công ty công nghệ lớn",
+        "Hội đồng xét xử đang cân nhắc kết quả cuối cùng sau nhiều tuần xét xử"
+      ],
+      "full_summary": "Phiên tòa Musk-Altman là một sự kiện công nghệ đầy rắc rối, nơi hai tỷ phú công nghệ lớn nhất thế giới đối mặt cáo buộc vi phạm quy định về bảo mật thông tin. Trong suốt phiên tòa kéo dài nhiều tuần, các luật sư của Musk và Altman đã đưa ra nhiều bằng chứng để chứng minh sự vô tội của họ. Tuy nhiên, phiên tòa cũng tiết lộ nhiều thông tin về thế giới công nghệ đầy rắc rối và sự cạnh tranh giữa các công ty công nghệ lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2390ad0532be",
+      "title": "Inside the secretive and lucrative world of orchid breeding",
+      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T02:40:44.906250+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Nghiên cứu mới về giống lan quý hiếm",
+      "bullets": [
+        "Tìm kiếm và lai tạo giống lan mới mất đến 10 năm",
+        "Các nhà lai tạo giữ bí mật về quy trình công nghệ tiên tiến",
+        "Sản phẩm lan quý hiếm có giá trị kinh tế cao",
+        "Nghiên cứu về lan có tiềm năng ứng dụng trong y tế"
+      ],
+      "full_summary": "Các nhà lai tạo lan quý hiếm sử dụng công nghệ tiên tiến để tạo ra các giống lan mới. Quá trình lai tạo này mất đến 10 năm và các nhà lai tạo giữ bí mật về quy trình công nghệ của mình. Các sản phẩm lan quý hiếm có giá trị kinh tế cao và có tiềm năng ứng dụng trong y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f0d7a3dae8e6",
+      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T02:40:46.075193+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 3,
+      "headline": "Trí tuệ nhân tạo có thể khiến nhiều người mất việc trong lĩnh vực công nghệ",
+      "bullets": [
+        "Cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng loạt vị trí công việc trong lĩnh vực công nghệ",
+        "Eben Upton cho rằng trí tuệ nhân tạo sẽ không thay thế hoàn toàn công việc của con người",
+        "Trí tuệ nhân tạo có thể thay đổi cách thức làm việc nhưng không phải là nguyên nhân khiến nhiều người mất việc",
+        "Eben Upton cảnh báo về những tác động tiêu cực của trí tuệ nhân tạo đối với nền kinh tế"
+      ],
+      "full_summary": "Eben Upton, người sáng lập Raspberry Pi, đã cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng loạt vị trí công việc trong lĩnh vực công nghệ. Ông cho rằng trí tuệ nhân tạo sẽ không thay thế hoàn toàn công việc của con người, mà thay vào đó sẽ thay đổi cách thức làm việc. Tuy nhiên, ông cũng cảnh báo về những tác động tiêu cực của trí tuệ nhân tạo đối với nền kinh tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d03a553d54ba",
+      "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
+      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T02:40:48.353154+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Mỹ tuyên bố hạ sát chỉ huy thứ hai của Nhà nước Hồi giáo",
+      "bullets": [
+        "Tổng thống Mỹ Donald Trump tuyên bố hạ sát Abu-Bilal al-Minuki",
+        "Abu-Bilal al-Minuki được Tổng thống Trump mô tả là 'terrorist hoạt động mạnh nhất thế giới'",
+        "Mỹ và Nigeria hợp tác thực hiện một nhiệm vụ phức tạp để hạ sát chỉ huy Hồi giáo"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump tuyên bố Mỹ và Nigeria hợp tác hạ sát Abu-Bilal al-Minuki, người mà Tổng thống Trump mô tả là 'terrorist hoạt động mạnh nhất thế giới'. Tổng thống Trump cho biết nhiệm vụ này là 'một nhiệm vụ phức tạp và được lên kế hoạch kỹ lưỡng' và được thực hiện bởi 'những lực lượng dũng cảm của Mỹ và Nigeria'. Đây là một bước tiến quan trọng trong cuộc chiến chống lại Nhà nước Hồi giáo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a8ec32ba955d",
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-18T02:40:49.475208+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Hệ thống AI giúp Mỹ phát hiện gian lận trong thị trường dự đoán",
+      "bullets": [
+        "Mỹ đang sử dụng AI để phát hiện gian lận trong thị trường dự đoán",
+        "Ủy ban Thương mại Hàng hóa Liên bang muốn ngăn chặn gian lận",
+        "Hệ thống AI sẽ giúp xác định các giao dịch bất thường",
+        "Mục tiêu là ngăn chặn gian lận trong thị trường tài chính"
+      ],
+      "full_summary": "Ủy ban Thương mại Hàng hóa Liên bang (CFTC) đang sử dụng công nghệ trí tuệ nhân tạo (AI) để phát hiện gian lận trong thị trường dự đoán. Mục tiêu của CFTC là ngăn chặn gian lận trong thị trường tài chính, đặc biệt là gian lận do thông tin nội bộ. Hệ thống AI sẽ giúp xác định các giao dịch bất thường và ngăn chặn các hoạt động bất hợp pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27ffa690abb4",
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-18T02:40:52.599280+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai máy bay chiến đấu EA-18 va chạm tại buổi biểu diễn không quân Mountain Home",
+      "bullets": [
+        "Hai máy bay chiến đấu EA-18 đã va chạm trong buổi biểu diễn không quân tại Mountain Home.",
+        "Hai phi công đã được phóng khỏi máy bay an toàn.",
+        "Không có thông tin về thương vong hoặc thiệt hại.",
+        "Vụ tai nạn đang được điều tra."
+      ],
+      "full_summary": "Hai máy bay chiến đấu EA-18 đã va chạm trong buổi biểu diễn không quân tại Mountain Home, Idaho. Hai phi công đã được phóng khỏi máy bay an toàn. Không có thông tin về thương vong hoặc thiệt hại. Vụ tai nạn đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a99e0860259c",
+      "title": "Serebral",
+      "url": "https://www.nature.com/articles/d41586-026-01083-w",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-18T02:40:56.512364+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu mới về não bộ mở ra cánh cửa cho các kết nối thần kinh",
+      "bullets": [
+        "Khám phá ra các liên kết não bộ mới giúp cải thiện khả năng học hỏi",
+        "Các nhà khoa học đã tạo ra các mô hình não bộ để hiểu rõ hơn về quá trình học hỏi",
+        "Nghiên cứu này có thể giúp điều trị các bệnh liên quan đến não bộ"
+      ],
+      "full_summary": "Các nhà khoa học gần đây đã công bố nghiên cứu mới về não bộ, mở ra cánh cửa cho các kết nối thần kinh mới. Họ đã khám phá ra các liên kết não bộ mới giúp cải thiện khả năng học hỏi và tạo ra các mô hình não bộ để hiểu rõ hơn về quá trình học hỏi. Nghiên cứu này có thể giúp điều trị các bệnh liên quan đến não bộ và mở ra các cơ hội mới cho lĩnh vực y học.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "69c9d133b5b1",
       "title": "How worrying is the Ebola outbreak in DR Congo?",
@@ -594,206 +792,6 @@
         "8 người bị thương được đưa đến bệnh viện"
       ],
       "full_summary": "Một người đàn ông đã đâm ôtô vào người đi đường ở Ý, gây thương tích cho 8 người, trong đó 4 người bị thương nặng. Người dân đã truy bắt và ngăn chặn người đàn ông, giúp ngăn chặn tình hình trở nên tồi tệ hơn. 8 người bị thương đã được đưa đến bệnh viện để điều trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "db6a31db1ef8",
-      "title": "Canada confirms first hantavirus case in isolation in British Columbia",
-      "url": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T02:30:32.112719+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Canada xác nhận ca bệnh hantavirus đầu tiên tại British Columbia",
-      "bullets": [
-        "Xác nhận ca bệnh hantavirus đầu tiên tại Canada",
-        "Người bệnh có triệu chứng nhẹ, được chuyển đến bệnh viện tại Victoria",
-        "Bốn người Canada đang được cách ly tại British Columbia",
-        "Tất cả đã tiếp xúc với hantavirus trên tàu du lịch MV Hondius"
-      ],
-      "full_summary": "Canada xác nhận ca bệnh hantavirus đầu tiên tại British Columbia. Người bệnh đang được cách ly tại bệnh viện tại Victoria sau khi phát triển triệu chứng nhẹ. Bốn người Canada đang được cách ly tại British Columbia sau khi tiếp xúc với hantavirus trên tàu du lịch MV Hondius. Sự cố đã khiến ba người thiệt mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94912762604b",
-      "title": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
-      "url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T02:30:33.306924+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ đe dọa truy tố Raúl Castro, Cuba đối mặt với áp lực",
-      "bullets": [
-        "Mỹ có thể truy tố Raúl Castro vì liên quan đến chính quyền Cuba",
-        "Raúl Castro vẫn là người có quyền lực lớn trong chính trị Cuba",
-        "Mỹ nhắm vào Raúl Castro để gây sức ép lên Cuba",
-        "Cuba đang đối mặt với khủng hoảng năng lượng nghiêm trọng"
-      ],
-      "full_summary": "Theo tin từ The Guardian, Mỹ có thể truy tố Raúl Castro, cựu tổng thống Cuba, vì liên quan đến chính quyền Cuba. Điều này sẽ là một đòn giáng mạnh vào Cuba, khi nước này đang đối mặt với khủng hoảng năng lượng nghiêm trọng. Raúl Castro vẫn là người có quyền lực lớn trong chính trị Cuba, mặc dù ông đã nghỉ hưu. Mỹ nhắm vào Raúl Castro để gây sức ép lên Cuba và làm tăng áp lực lên chính quyền Cuba.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "367c1a61a16b",
-      "title": "Even mild blows to the head disrupt the microbiome",
-      "url": "https://www.nature.com/articles/d41586-026-01504-w",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-17T02:30:34.466599+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các trận đấu bóng đá làm thay đổi hệ vi khuẩn trong ruột",
-      "bullets": [
-        "Tăng cường các đòn đánh vào đầu làm thay đổi hệ vi khuẩn trong ruột",
-        "Các loài vi khuẩn trong ruột của cầu thủ bóng đá Mỹ giảm dần trong suốt mùa giải",
-        "Nghiên cứu chỉ ra rằng ngay cả những cú đấm nhẹ cũng có thể ảnh hưởng đến hệ vi khuẩn",
-        "Hệ vi khuẩn trong ruột đóng vai trò quan trọng trong sức khỏe tổng thể"
-      ],
-      "full_summary": "Một nghiên cứu mới trên tạp chí Nature cho thấy rằng các trận đấu bóng đá có thể làm thay đổi hệ vi khuẩn trong ruột của cầu thủ. Các loài vi khuẩn trong ruột của cầu thủ bóng đá Mỹ giảm dần trong suốt mùa giải. Nghiên cứu chỉ ra rằng ngay cả những cú đấm nhẹ cũng có thể ảnh hưởng đến hệ vi khuẩn. Hệ vi khuẩn trong ruột đóng vai trò quan trọng trong sức khỏe tổng thể.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a1376b277b99",
-      "title": "Bespoke DNA vaccine offers hope for treatment of notorious brain cancer",
-      "url": "https://www.nature.com/articles/d41586-026-01503-x",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-17T02:30:35.482177+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Vaccine DNA được cá nhân hóa giúp điều trị ung thư não nghiêm trọng",
-      "bullets": [
-        "Khuyến khích hệ miễn dịch tấn công các khối u gọi là glioblastomas",
-        "Là một phương pháp điều trị mới cho bệnh ung thư não nghiêm trọng",
-        "Cung cấp hy vọng cho những người mắc bệnh ung thư não khó điều trị",
-        "Được phát triển dựa trên công nghệ vaccine DNA"
-      ],
-      "full_summary": "Một nghiên cứu mới đã phát triển một loại vaccine DNA được cá nhân hóa để điều trị ung thư não nghiêm trọng gọi là glioblastomas. Phương pháp này khuyến khích hệ miễn dịch tấn công các khối u. Điều này mang lại hy vọng cho những người mắc bệnh ung thư não khó điều trị. Vaccine DNA được phát triển dựa trên công nghệ vaccine DNA và có thể giúp giảm thiểu tác dụng phụ của các phương pháp điều trị khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0fd0a504a476",
-      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-05-17T02:30:39.502622+00:00",
-      "category": "khoa học",
-      "importance": 5,
-      "headline": "Các nhà thiên văn học chụp ảnh đầu tiên về mạng lưới vũ trụ",
-      "bullets": [
-        "Khám phá được sợi filament trong mạng lưới vũ trụ với độ phân giải cao nhất",
-        "Sợi filament này dài 3 triệu năm ánh sáng và kết nối hai thiên hà từ 12 tỷ năm trước",
-        "Các nhà khoa học quan sát được khí gas giữa các thiên hà trực tiếp lần đầu tiên",
-        "Khám phá này cung cấp hiểu biết mới về cách các thiên hà được cung cấp nhiên liệu và hình thành"
-      ],
-      "full_summary": "Các nhà thiên văn học đã chụp ảnh mạng lưới vũ trụ với độ phân giải cao nhất. Mạng lưới này bao gồm các sợi filament nối các thiên hà trên toàn vũ trụ. Sợi filament này dài 3 triệu năm ánh sáng và kết nối hai thiên hà từ 12 tỷ năm trước. Các nhà khoa học đã quan sát được khí gas giữa các thiên hà trực tiếp lần đầu tiên, cung cấp hiểu biết mới về cách các thiên hà được cung cấp nhiên liệu và hình thành.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "151db4081370",
-      "title": "Taiwan insists it is independent after Trump warning",
-      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T18:55:14.852441+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Đài Loan khẳng định độc lập sau cảnh báo của Trump",
-      "bullets": [
-        "Trump cảnh báo Đài Loan không nên tuyên bố độc lập chính thức",
-        "Tổng thống Mỹ vừa kết thúc hội nghị thượng đỉnh ở Bắc Kinh",
-        "Đài Loan phản ứng lại với tuyên bố độc lập mạnh mẽ",
-        "Hành động này gây lo ngại về sự ổn định ở khu vực"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump vừa cảnh báo Đài Loan không nên tuyên bố độc lập chính thức sau khi kết thúc hội nghị thượng đỉnh ở Bắc Kinh. Đài Loan đã phản ứng lại với tuyên bố độc lập mạnh mẽ, gây lo ngại về sự ổn định ở khu vực. Căng thẳng giữa Mỹ và Trung Quốc đang gia tăng sau khi Tổng thống Trump công khai ủng hộ Đài Loan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27c46ff40bea",
-      "title": "Whale found dead near Danish island after German rescue operation",
-      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T18:55:15.841870+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cá voi chết sau khi bị cứu bởi Đức gần đảo Đan Mạch",
-      "bullets": [
-        "Cá voi đã chết sau khi bị cứu bởi Đức gần đảo Đan Mạch",
-        "Các chuyên gia về động vật hoang dã đã chỉ trích chiến dịch cứu hộ trước đó",
-        "Chuyên gia cho rằng chiến dịch cứu hộ sẽ gây thêm đau đớn cho cá voi",
-        "Cá voi đã chết sau khi bị kéo lên bờ"
-      ],
-      "full_summary": "Một con cá voi đã chết sau khi bị kéo lên bờ bởi một đội cứu hộ của Đức gần đảo Đan Mạch. Các chuyên gia về động vật hoang dã đã chỉ trích chiến dịch cứu hộ trước đó, nói rằng nó sẽ gây thêm đau đớn cho cá voi. Chiến dịch cứu hộ đã được thực hiện sau khi người dân địa phương phát hiện cá voi bị mắc kẹt trong lưới đánh cá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b75b7725e6b5",
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T18:55:16.857779+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hơn 50 học sinh bị bắt cóc tại Nigeria",
-      "bullets": [
-        "Bị bắt cóc nhiều học sinh tại Mussa town",
-        "Không có nhóm nào tuyên bố trách nhiệm",
-        "Sự kiện gây ra sự tàn phá tại Borno state",
-        "Tình hình đang được điều tra"
-      ],
-      "full_summary": "Một vụ bắt cóc lớn đã xảy ra tại Nigeria, hơn 50 học sinh bị bắt cóc, trong đó có trẻ em nhỏ. Sự kiện này đã gây ra sự tàn phá lớn tại Mussa town ở bang Borno. Không có nhóm nào tuyên bố trách nhiệm cho vụ bắt cóc này. Các cơ quan chức năng đang điều tra để tìm hiểu nguyên nhân và giải cứu các học sinh bị bắt cóc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "484494e05719",
-      "title": "X pledges quicker action on hate and terror content in the UK",
-      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T18:55:17.804674+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Xây dựng quy định xử lý nội dung bạo lực và khủng bố nhanh chóng hơn",
-      "bullets": [
-        "X đã cam kết xử lý nội dung bạo lực và khủng bố nhanh chóng hơn",
-        "Ofcom cho rằng cam kết này đặc biệt quan trọng sau các vụ án liên quan đến cộng đồng Do Thái tại Anh",
-        "X sẽ tăng cường giám sát và xử lý nội dung bạo lực và khủng bố trên mạng",
-        "Mục tiêu là ngăn chặn và loại bỏ nội dung bạo lực và khủng bố trên mạng"
-      ],
-      "full_summary": "X đã cam kết xử lý nội dung bạo lực và khủng bố nhanh chóng hơn sau các vụ án liên quan đến cộng đồng Do Thái tại Anh. Ofcom cho rằng cam kết này đặc biệt quan trọng. X sẽ tăng cường giám sát và xử lý nội dung bạo lực và khủng bố trên mạng để ngăn chặn và loại bỏ chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ad451acba2a",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-16T18:55:18.958061+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nạn dịch Ebola giết 65 người ở Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "Đã có 246 trường hợp nghi ngờ mắc bệnh sốt xuất huyết",
-        "Nạn dịch được xác định là do chủng Bundibugyo của virus Ebola",
-        "Uganda cũng báo cáo một vụ bùng phát dịch Ebola",
-        "Số người chết ở Ituri tỉnh đã tăng lên 65"
-      ],
-      "full_summary": "Một vụ bùng phát dịch Ebola đã giết 65 người ở tỉnh Ituri, Cộng hòa Dân chủ Congo. Số trường hợp nghi ngờ mắc bệnh sốt xuất huyết đã tăng lên 246. Nạn dịch được xác định là do chủng Bundibugyo của virus Ebola. Uganda cũng báo cáo một vụ bùng phát dịch Ebola.",
       "comments": 0,
       "score": 0
     }
