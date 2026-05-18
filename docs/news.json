@@ -1,6 +1,225 @@
 {
-  "updated_at": "2026-05-18T02:40:57.012523+00:00",
+  "updated_at": "2026-05-18T09:46:40.550906+00:00",
   "articles": [
+    {
+      "id": "b7c114623ce6",
+      "title": "Strike over high fuel prices paralyses transport in Kenya",
+      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:24.579014+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hàng hóa bị tắc nghẽn vì cuộc đình công vì giá xăng dầu tăng cao ở Kenya",
+      "bullets": [
+        "Hàng trăm người biểu tình đã phong tỏa các tuyến đường chính ở Kenya",
+        "Các trường học đã yêu cầu học sinh ở nhà vì tình hình an ninh không ổn định",
+        "Nhiều phương tiện giao thông đã bị đình chỉ hoạt động",
+        "Sự cố này đã gây ra sự bất mãn trong cộng đồng người dân Kenya"
+      ],
+      "full_summary": "Cuộc đình công vì giá xăng dầu tăng cao ở Kenya đã gây ra tình trạng tắc nghẽn giao thông nghiêm trọng. Hàng trăm người biểu tình đã phong tỏa các tuyến đường chính, khiến nhiều phương tiện giao thông phải đình chỉ hoạt động. Các trường học cũng đã yêu cầu học sinh ở nhà vì tình hình an ninh không ổn định. Sự cố này đã gây ra sự bất mãn trong cộng đồng người dân Kenya.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d6f212e431b7",
+      "title": "Driver of crashed train tested positive for drugs, Thai police say",
+      "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:25.523148+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Tàu hỏa va ôtô, lái xe dương tính với ma túy",
+      "bullets": [
+        "Va chạm giữa tàu hỏa và xe buýt ở Bangkok",
+        "8 người chết, hàng chục người bị thương",
+        "Lái xe tàu hỏa dương tính với chất kích thích",
+        "Cảnh sát Thái Lan đang điều tra vụ tai nạn"
+      ],
+      "full_summary": "Một vụ tai nạn giao thông nghiêm trọng đã xảy ra ở Bangkok khi một tàu hỏa va vào một xe buýt, khiến 8 người chết và hàng chục người bị thương. Lái xe tàu hỏa đã được kiểm tra và dương tính với chất kích thích. Cảnh sát Thái Lan đang điều tra vụ tai nạn để xác định nguyên nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69aff1cde078",
+      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+      "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:26.539128+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Trí thông minh con người có thể bị giảm thiểu bởi câu trả lời AI tức thời",
+      "bullets": [
+        "Lừa dối người dùng bằng khả năng trả lời nhanh chóng của AI",
+        "Tăng cường sự phụ thuộc vào công nghệ trí tuệ nhân tạo",
+        "Threat đến giá trị của trí thông minh con người",
+        "Cần cân nhắc cẩn thận việc sử dụng AI"
+      ],
+      "full_summary": "Paddy Rodgers, một nhà khoa học, đã cảnh báo rằng việc sử dụng AI trả lời tức thời có thể làm giảm giá trị của trí thông minh con người. Ông cho rằng lịch sử lâu đời của Đài quan sát Hoàng gia đã chứng minh sức mạnh của kiến thức con người và sự cần thiết phải tránh sự phụ thuộc vào AI. Rodgers tin rằng người dùng cần cân nhắc cẩn thận việc sử dụng AI để tránh bị lừa dối bởi khả năng trả lời nhanh chóng của nó.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "484494e05719",
+      "title": "X pledges quicker action on hate and terror content in the UK",
+      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:27.531274+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Xây dựng quy định mới để xóa nội dung khủng bố và bạo lực trên mạng",
+      "bullets": [
+        "Xây dựng các quy định mới để xóa nội dung khủng bố và bạo lực trên mạng xã hội",
+        "Cải thiện tốc độ xử lý các nội dung vi phạm trên mạng",
+        "Đảm bảo an toàn cho các cộng đồng bị tấn công",
+        "Thực hiện các biện pháp mạnh mẽ để ngăn chặn tội phạm mạng"
+      ],
+      "full_summary": "Ủy ban truyền thông Ofcom cho biết các cam kết này rất quan trọng sau những vụ tấn công gần đây nhắm vào cộng đồng Do Thái tại Vương quốc Anh. Xây dựng quy định mới để xóa nội dung khủng bố và bạo lực trên mạng xã hội là một phần quan trọng của nỗ lực này. Các quy định mới sẽ giúp cải thiện tốc độ xử lý các nội dung vi phạm trên mạng và đảm bảo an toàn cho các cộng đồng bị tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ae6fc8d2d637",
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:28.452592+00:00",
+      "category": "politics|economy|technology",
+      "importance": 3,
+      "headline": "Chính phủ tiết kiệm 'triệu bảng' bằng cách thay thế công nghệ Palantir",
+      "bullets": [
+        "Thay thế công nghệ Palantir bằng hệ thống IT nội bộ",
+        "Giảm chi phí cho chính phủ",
+        "Hệ thống mới đáp ứng tiêu chuẩn an ninh cao",
+        "Cung cấp khả năng linh hoạt cao hơn"
+      ],
+      "full_summary": "Chính phủ đã tiết kiệm được 'triệu bảng' bằng cách thay thế công nghệ Palantir trong hệ thống hỗ trợ người tị nạn. Hệ thống IT nội bộ mới được cho là linh hoạt hơn và đáp ứng tiêu chuẩn an ninh cao. Điều này đã giúp chính phủ giảm chi phí và cải thiện hiệu suất hệ thống.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ad451acba2a",
+      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:29.409733+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiễm Ebola ở Cộng hòa Dân chủ Congo khiến 65 người tử vong",
+      "bullets": [
+        "Xuất hiện 246 trường hợp nghi ngờ nhiễm Ebola ở tỉnh Ituri",
+        "Số người tử vong do bệnh tăng lên 65",
+        "Các trường hợp nhiễm bệnh được xác định là do chủng Bundibugyo của virus Ebola",
+        "Uganda cũng báo cáo một số trường hợp nhiễm Ebola"
+      ],
+      "full_summary": "Một đợt bùng phát Ebola đã khiến 65 người tử vong ở Cộng hòa Dân chủ Congo. Số trường hợp nghi ngờ nhiễm bệnh đã tăng lên 246 ở tỉnh Ituri, một khu vực đang chịu ảnh hưởng của xung đột. Các trường hợp nhiễm bệnh được xác định là do chủng Bundibugyo của virus Ebola. Ngoài ra, Uganda cũng đã báo cáo một số trường hợp nhiễm Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f068345b3bce",
+      "title": "Drones reshape war in Colombia as deaths and injuries mount",
+      "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:30.548732+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Máy bay không người lái gây ra thương vong ở Colombia",
+      "bullets": [
+        "Gây ra thương vong cho thường dân ở Colombia",
+        "Máy bay không người lái đầu tiên gây ra thương vong ở Colombia",
+        "Tình hình ở Colombia trở nên nguy hiểm hơn",
+        "Civilians bị ảnh hưởng bởi cuộc xung đột ở Colombia"
+      ],
+      "full_summary": "Máy bay không người lái đã trở thành một công cụ nguy hiểm mới trong cuộc xung đột ở Colombia. Vào năm 2024, một chiếc máy bay không người lái đã ném một quả lựu đạn vào một nhóm trẻ em đang chơi bóng đá, gây ra thương vong cho một chàng trai 10 tuổi và 12 người khác. Đây là lần đầu tiên một người dân Colombia bị giết bởi một cuộc tấn công bằng máy bay không người lái. Cuộc xung đột ở Colombia đã kéo dài nhiều thập kỷ và tình hình đang trở nên nguy hiểm hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db6a31db1ef8",
+      "title": "Canada confirms first hantavirus case in isolation in British Columbia",
+      "url": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T09:46:31.759986+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Canada xác nhận ca mắc hantavirus đầu tiên tại British Columbia",
+      "bullets": [
+        "Xác nhận ca mắc hantavirus đầu tiên tại Canada",
+        "Bệnh nhân có triệu chứng nhẹ như sốt và đau đầu",
+        "Bệnh nhân và người bạn cùng đi trên tàu đã được chuyển đến bệnh viện tại Victoria",
+        "Tình trạng của bệnh nhân đang được theo dõi"
+      ],
+      "full_summary": "Canada đã xác nhận ca mắc hantavirus đầu tiên tại tỉnh British Columbia. Bệnh nhân đã được phát hiện trên tàu MV Hondius, nơi xảy ra vụ bùng phát hantavirus đã khiến 3 người thiệt mạng. Bệnh nhân đang được theo dõi tại bệnh viện tại Victoria và tình trạng của họ đang được cập nhật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "441451dfc69c",
+      "title": "Colombian singer Shakira acquitted of tax fraud in Spain",
+      "url": "https://www.reuters.com/world/americas/colombian-singer-shakira-acquitted-tax-fraud-spain-2026-05-18/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-18T09:46:32.743458+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ca sĩ Shakira được tuyên bố vô tội trong vụ gian lận thuế tại Tây Ban Nha",
+      "bullets": [
+        "Shakira bị cáo buộc gian lận thuế tại Tây Ban Nha",
+        "Tòa án tuyên bố Shakira vô tội",
+        "Shakira không phải chịu phạt",
+        "..."
+      ],
+      "full_summary": "Ca sĩ Colombian Shakira vừa được tuyên bố vô tội trong vụ gian lận thuế tại Tây Ban Nha. Theo Reuters, tòa án đã kết luận Shakira không có hành vi gian lận thuế. Điều này giúp Shakira tránh được việc phải chịu phạt. Kết quả này được công bố vào ngày 18/5/2026.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "61ee3009e31d",
+      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-18T09:46:36.215929+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một đoạn mã 16 byte x86 biến mưa ma trận thành âm thanh",
+      "bullets": [
+        "Tạo ra âm thanh từ mưa ma trận bằng mã x86",
+        "Đoạn mã chỉ dài 16 byte",
+        "Mã được chia sẻ trên Hacker News"
+      ],
+      "full_summary": "Một tác giả đã tạo ra đoạn mã x86 ngắn gọn chỉ 16 byte để biến mưa ma trận thành âm thanh. Đoạn mã này được chia sẻ trên Hacker News và thu hút sự chú ý của cộng đồng lập trình viên. Đoạn mã này sử dụng các kỹ thuật lập trình tinh vi để tạo ra âm thanh từ mưa ma trận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0034ef231718",
+      "title": "US biology lab locked down for more than a week amid smuggling inquiry",
+      "url": "https://www.nature.com/articles/d41586-026-01590-w",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-18T09:46:40.050735+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một phòng thí nghiệm sinh học ở Mỹ bị phong tỏa hơn một tuần",
+      "bullets": [
+        "Bắt đầu từ tháng trước, phòng thí nghiệm bị phong tỏa để điều tra về việc buôn lậu sinh vật",
+        "Một nghiên cứu sinh Trung Quốc bị buộc tội buôn lậu vật liệu sinh học vào nước Mỹ",
+        "Phòng thí nghiệm bị phong tỏa vì nghi ngờ có hoạt động buôn lậu sinh vật",
+        "Đoàn điều tra liên bang đang điều tra vụ việc"
+      ],
+      "full_summary": "Một phòng thí nghiệm sinh học ở Mỹ bị phong tỏa hơn một tuần để điều tra về việc buôn lậu sinh vật. Vụ việc bắt đầu từ tháng trước khi một nghiên cứu sinh Trung Quốc bị buộc tội buôn lậu vật liệu sinh học vào nước Mỹ. Đoàn điều tra liên bang đang điều tra vụ việc và phong tỏa phòng thí nghiệm để ngăn chặn hoạt động buôn lậu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "100e0fe16939",
       "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
@@ -573,225 +792,6 @@
         "Sự tương đồng này giúp Brandon hiểu rõ hơn về công việc nghiên cứu"
       ],
       "full_summary": "Brandon Brown, một nhà nghiên cứu, đã chuyển đến nông thôn và bắt đầu trồng vườn cam. Ông nhận thấy sự tương đồng giữa việc nghiên cứu và trồng trọt. Cả hai đều đòi hỏi sự kiên nhẫn và chăm sóc. Sự tương đồng này giúp Brandon hiểu rõ hơn về công việc nghiên cứu và cách quản lý thời gian hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49a80916e58d",
-      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T08:13:10.259856+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "WHO xác định dịch Ebola tại Cộng hòa Dân chủ Congo là tình trạng khẩn cấp về sức khỏe toàn cầu",
-      "bullets": [
-        "WHO tuyên bố dịch Ebola tại Cộng hòa Dân chủ Congo là tình trạng khẩn cấp về sức khỏe toàn cầu",
-        "Tổng cộng 246 ca bệnh và 80 ca tử vong đã được báo cáo",
-        "WHO cho biết dịch bệnh không đáp ứng các tiêu chí của tình trạng khẩn cấp về đại dịch",
-        "Cộng hòa Dân chủ Congo đang thực hiện các biện pháp để kiểm soát dịch bệnh"
-      ],
-      "full_summary": "WHO đã tuyên bố dịch Ebola tại Cộng hòa Dân chủ Congo là tình trạng khẩn cấp về sức khỏe toàn cầu. Dịch bệnh đã gây ra 246 ca bệnh và 80 ca tử vong. Mặc dù vậy, WHO cho biết dịch bệnh không đáp ứng các tiêu chí của tình trạng khẩn cấp về đại dịch. Cộng hòa Dân chủ Congo đang thực hiện các biện pháp để kiểm soát dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f4730cb6b9c9",
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T08:13:11.203850+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Máy bay không người lái Ukraine tấn công Moscow, khiến 3 người chết",
-      "bullets": [
-        "Tấn công bằng máy bay không người lái của Ukraine gây thiệt hại nặng nề ở Moscow",
-        "8 người bị thương trong các cuộc tấn công bằng tên lửa và pháo binh của Nga",
-        "Tình hình ở Ukraine tiếp tục căng thẳng sau các cuộc tấn công",
-        "Nga và Ukraine tiếp tục xung đột"
-      ],
-      "full_summary": "Nga cho biết một cuộc tấn công bằng máy bay không người lái của Ukraine đã khiến 3 người chết ở Moscow. Trong khi đó, các quan chức địa phương ở Ukraine báo cáo 8 người bị thương trong các cuộc tấn công bằng tên lửa và pháo binh của Nga. Các cuộc tấn công này là một phần của cuộc xung đột đang diễn ra giữa Nga và Ukraine. Tình hình ở Ukraine tiếp tục căng thẳng sau các cuộc tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5cf450ae6f80",
-      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
-      "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T08:13:12.244287+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cựu Tổng thống Mỹ Trump ủng hộ Julia Letlow đánh bại Thượng nghị sĩ Louisiana",
-      "bullets": [
-        "Trump ủng hộ Julia Letlow trong cuộc bầu cử Louisiana",
-        "Thượng nghị sĩ bị đánh bại bỏ phiếu chống lại Tổng thống Trump",
-        "Julia Letlow thắng cử với sự ủng hộ của Trump",
-        "Cựu Tổng thống Mỹ chỉ trích Thượng nghị sĩ 'bất trung thành'"
-      ],
-      "full_summary": "Cựu Tổng thống Mỹ Donald Trump đã ủng hộ Julia Letlow trong cuộc bầu cử Thượng nghị sĩ Louisiana. Julia Letlow đã đánh bại Thượng nghị sĩ Bill Cassidy, người đã bỏ phiếu chống lại Tổng thống Trump trong vụ luận tội. Trump đã chỉ trích Thượng nghị sĩ Cassidy là 'bất trung thành'. Sự ủng hộ của Trump đã giúp Julia Letlow thắng cử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "147cafaf00c3",
-      "title": "‘Feels like an illusion’: how Trump seizing Maduro has changed little in Venezuela",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T08:13:14.417870+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Căng thẳng Venezuela vẫn không thay đổi dù Trump lật đổ Maduro",
-      "bullets": [
-        "Căng thẳng chính trị Venezuela vẫn tiếp tục",
-        "Sự kiện lật đổ Maduro không mang lại thay đổi đáng kể",
-        "Nhiều người vẫn tiếp tục ủng hộ phong trào của Hugo Chávez",
-        "Tình hình kinh tế và xã hội Venezuela vẫn còn nhiều thách thức"
-      ],
-      "full_summary": "Khi Ángel Linares nghe thấy tiếng nổ lớn, ban đầu anh nghĩ đó là tiếng pháo hoa chào năm mới. Nhưng sau đó, cửa sổ của anh bị vỡ, tường nhà rung lắc và mặt tiền bị bắn tung toé, khiến anh bị văng xuống sàn. Mẹ anh, Jesucita, 85 tuổi, sợ rằng bờ biển phía bắc Venezuela đã bị tàn phá bởi một trận động đất, giống như trận động đất năm 1967 mà bà nhớ. Sự kiện lật đổ Maduro của Trump không mang lại thay đổi đáng kể cho tình hình Venezuela, nhiều người vẫn tiếp tục ủng hộ phong trào của Hugo Chávez.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "527f72156e0c",
-      "title": "Russia pressures university students to become wartime drone pilots",
-      "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-17T08:13:15.515257+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nga ép buộc sinh viên đại học trở thành phi công drone chiến đấu",
-      "bullets": [
-        "Nga đang áp dụng sức ép để tuyển sinh viên đại học trở thành phi công drone chiến đấu",
-        "Các trường đại học hứa hẹn không phải phục vụ trên mặt trận và các lợi ích nếu sinh viên tham gia quân đội",
-        "Sinh viên được hứa hẹn sẽ không phải tham gia chiến đấu trực tiếp",
-        "Cơ quan quân sự Nga đang tuyển dụng sinh viên đại học để trở thành phi công drone"
-      ],
-      "full_summary": "Nga đang áp dụng sức ép để tuyển sinh viên đại học trở thành phi công drone chiến đấu. Các trường đại học hứa hẹn không phải phục vụ trên mặt trận và các lợi ích nếu sinh viên tham gia quân đội. Cơ quan quân sự Nga đang tuyển dụng sinh viên đại học để trở thành phi công drone. Mục tiêu của Nga là tăng cường khả năng chiến đấu bằng cách sử dụng các phi công drone.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "07770f0ac174",
-      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-17T08:13:16.980167+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Hội đồng thẩm phán hoãn phê duyệt thỏa thuận bản quyền 1,5 tỷ USD của Anthropic",
-      "bullets": [
-        "Các luật sư bị cáo buộc đang cố gắng đẩy nhanh quá trình giải quyết để thu được 320 triệu USD tiền phí.",
-        "Các tác giả đang đấu tranh để nhận được khoản thanh toán cao hơn từ thỏa thuận bản quyền.",
-        "Thỏa thuận bản quyền 1,5 tỷ USD của Anthropic đang trở nên phức tạp hơn."
-      ],
-      "full_summary": "Một thỏa thuận bản quyền lịch sử trị giá 1,5 tỷ USD của Anthropic đang trở nên phức tạp hơn. Các luật sư bị cáo buộc đang cố gắng đẩy nhanh quá trình giải quyết để thu được 320 triệu USD tiền phí. Các tác giả đang đấu tranh để nhận được khoản thanh toán cao hơn từ thỏa thuận bản quyền. Hội đồng thẩm phán đã hoãn phê duyệt thỏa thuận này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1d507444b5f5",
-      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
-      "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-17T08:13:17.887720+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "WHO xác nhận trường hợp hantavirus tại Mỹ là sai",
-      "bullets": [
-        "WHO công bố kết quả chuyển khách an toàn thành công",
-        "Trường hợp hantavirus tại Mỹ được xác định là sai",
-        "Số ca bệnh hantavirus giảm còn 10",
-        "WHO tiếp tục theo dõi tình hình"
-      ],
-      "full_summary": "WHO vừa công bố kết quả chuyển khách an toàn thành công. Tuy nhiên, WHO cũng xác nhận trường hợp hantavirus tại Mỹ là sai. Số ca bệnh hantavirus tại Mỹ đã giảm còn 10. WHO tiếp tục theo dõi tình hình để đảm bảo an toàn cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5087ffe7dac1",
-      "title": "Review: Good Omens finale (mostly) sticks the landing",
-      "url": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-17T08:13:19.208552+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Kết thúc Good Omens: Một hồi kết phù hợp nhưng hơi vội vàng",
-      "bullets": [
-        "Cốt truyện được kết thúc một cách phù hợp",
-        "Hai nhân vật chính vẫn giữ được sự gắn kết",
-        "Độ dài của mùa thứ ba hơi vội vàng",
-        "Cốt truyện bị gián đoạn một chút"
-      ],
-      "full_summary": "Kết thúc Good Omens đã được công bố và nhận được nhiều đánh giá khác nhau. Mặc dù mùa thứ ba có độ dài hơi vội vàng, nhưng vẫn mang lại một kết thúc phù hợp cho câu chuyện tình yêu vĩ đại. Cốt truyện được kết thúc một cách phù hợp và hai nhân vật chính vẫn giữ được sự gắn kết. Tuy nhiên, một số phần của mùa thứ ba bị gián đoạn một chút, khiến cho người xem cảm thấy hơi bất ngờ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "399dd093a10b",
-      "title": "Grafana Labs internal source code accessed",
-      "url": "https://twitter.com/grafana/status/2055827123236171827",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-17T08:13:21.786903+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mã nguồn nội bộ của Grafana Labs bị truy cập",
-      "bullets": [
-        "Mã nguồn nội bộ của Grafana Labs bị hacker truy cập",
-        "Grafana Labs đã xác nhận sự cố",
-        "Sự cố đang được điều tra",
-        "Cơ quan này chưa công bố thông tin chi tiết"
-      ],
-      "full_summary": "Grafana Labs vừa xác nhận rằng mã nguồn nội bộ của công ty đã bị truy cập bởi một hacker. Sự cố này đang được điều tra và công ty chưa công bố thông tin chi tiết. Grafana Labs là một công ty nổi tiếng trong lĩnh vực quản lý dữ liệu và phân tích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "70fc12c64811",
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T02:30:29.742479+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hezbollah sử dụng drone để tấn công Israel với chiến thuật mới",
-      "bullets": [
-        "Hezbollah đã thực hiện nhiều cuộc tấn công bằng drone vào Israel",
-        "Các video về cuộc tấn công này cho thấy chiến thuật của Hezbollah đang tiến hóa",
-        "BBC Verify đã kiểm tra hàng chục video về các cuộc tấn công bằng drone của Hezbollah",
-        "Các cuộc tấn công này sử dụng công nghệ drone tiên tiến"
-      ],
-      "full_summary": "Hezbollah đã thực hiện nhiều cuộc tấn công bằng drone vào Israel, theo các video được kiểm tra bởi BBC Verify. Các cuộc tấn công này sử dụng công nghệ drone tiên tiến và cho thấy chiến thuật của Hezbollah đang tiến hóa. Các video về cuộc tấn công này cho thấy Hezbollah sử dụng các drone có khả năng mang theo các thiết bị tấn công tiên tiến. Chiến thuật mới này của Hezbollah đang gây ra sự lo ngại cho Israel.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "284459c4645a",
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T02:30:30.803593+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông đâm ôtô vào người đi đường ở Ý, gây thương tích cho 8 người",
-      "bullets": [
-        "Đâm ôtô vào người đi đường",
-        "Gây thương tích cho 8 người, 4 người bị thương nặng",
-        "Người dân truy bắt và ngăn chặn người đàn ông",
-        "8 người bị thương được đưa đến bệnh viện"
-      ],
-      "full_summary": "Một người đàn ông đã đâm ôtô vào người đi đường ở Ý, gây thương tích cho 8 người, trong đó 4 người bị thương nặng. Người dân đã truy bắt và ngăn chặn người đàn ông, giúp ngăn chặn tình hình trở nên tồi tệ hơn. 8 người bị thương đã được đưa đến bệnh viện để điều trị.",
       "comments": 0,
       "score": 0
     }
