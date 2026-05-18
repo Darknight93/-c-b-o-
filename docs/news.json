@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-05-18T14:59:05.294185+00:00",
+  "updated_at": "2026-05-18T19:29:10.431583+00:00",
   "articles": [
+    {
+      "id": "3576d4e6bd57",
+      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T19:28:53.318335+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Số người chết từ các vụ tấn công của Israel tại Lebanon đạt mốc 3.000",
+      "bullets": [
+        "Tấn công của Israel đã gây ra thương vong nặng nề cho người dân Lebanon",
+        "Số người chết đã đạt mốc 3.000 kể từ tháng 3",
+        "Mặc dù có trật tự ngừng bắn nhưng xung đột vẫn tiếp diễn",
+        "Hamas và Hezbollah vẫn tiếp tục chiến đấu"
+      ],
+      "full_summary": "Số người chết từ các vụ tấn công của Israel tại Lebanon đã đạt mốc 3.000, theo các quan chức. Điều này đánh dấu một mốc quan trọng trong cuộc xung đột giữa Israel và nhóm vũ trang Hezbollah kể từ tháng 3. Mặc dù có trật tự ngừng bắn nhưng xung đột vẫn tiếp diễn. Các quan chức cho biết số người chết đã tăng lên đáng kể kể từ khi xung đột bắt đầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "873cdf1c8cc9",
+      "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
+      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T19:28:54.364172+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai người Mỹ bị bắt vì vụ nhảy vào khu vực của khỉ Punch nổi tiếng",
+      "bullets": [
+        "Bị bắt hai người Mỹ",
+        "Một người nhảy qua rào bảo vệ khỉ Punch",
+        "Khỉ Punch nổi tiếng trên mạng xã hội",
+        "Cảnh sát điều tra vụ việc"
+      ],
+      "full_summary": "Hai công dân Mỹ bị bắt vì một người nhảy qua rào bảo vệ khu vực của khỉ Punch nổi tiếng. Khỉ Punch đã trở nên nổi tiếng trên mạng xã hội. Cảnh sát đang điều tra vụ việc. Thông tin chi tiết vẫn chưa được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cf473a67a01",
+      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T19:28:58.252110+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Elon Musk thua vụ kiện mới, liệu ông sẽ tiếp tục chiến đấu?",
+      "bullets": [
+        "Thua kiện của OpenAI là một trong những thất bại của Musk trong tòa án.",
+        "Musk đã phải đối mặt với nhiều vụ kiện khác nhau trong thời gian gần đây.",
+        "Sự thua của Musk có thể ảnh hưởng đến uy tín và danh tiếng của ông."
+      ],
+      "full_summary": "Elon Musk vừa thua một vụ kiện mới của công ty OpenAI. Đây là một trong những thất bại của Musk trong tòa án. Musk đã phải đối mặt với nhiều vụ kiện khác nhau trong thời gian gần đây, bao gồm cả vụ kiện của các cổ đông Tesla. Sự thua của Musk có thể ảnh hưởng đến uy tín và danh tiếng của ông.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3acb227aa20d",
+      "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T19:28:59.408600+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hội đồng xét xử bác bỏ vụ kiện của Elon Musk chống lại OpenAI và Sam Altman",
+      "bullets": [
+        "Bác bỏ cáo buộc của Elon Musk về việc Sam Altman 'chặt cắp từ thiện'",
+        "Hội đồng xét xử đã dành gần một tháng để xem xét và xem xét bằng chứng trong vụ án",
+        "Elon Musk đã kiện Sam Altman và OpenAI vì 'chặt cắp từ thiện'",
+        "Hội đồng xét xử đã đưa ra phán quyết cuối cùng sau khi xem xét bằng chứng"
+      ],
+      "full_summary": "Hội đồng xét xử đã bác bỏ vụ kiện của Elon Musk chống lại Sam Altman và OpenAI. Vụ án đã kéo dài gần một tháng, trong đó hội đồng xét xử đã xem xét và xem xét bằng chứng. Elon Musk đã cáo buộc Sam Altman 'chặt cắp từ thiện', nhưng hội đồng xét xử đã đưa ra phán quyết cuối cùng bác bỏ cáo buộc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d102caaf580b",
+      "title": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
+      "url": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-18T19:29:02.418478+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Cuba cảnh báo Mỹ về 'tàn sát' nếu hành động quân sự",
+      "bullets": [
+        "Cuba cảnh báo Mỹ về 'tàn sát' nếu hành động quân sự",
+        "Miguel Díaz-Canel nói Cuba không gây ra mối đe dọa",
+        "Cuba cảnh báo về hậu quả nghiêm trọng cho hòa bình và ổn định khu vực",
+        "Mỹ cáo buộc Cuba sử dụng hơn 300 máy bay không người lái"
+      ],
+      "full_summary": "Tổng thống Cuba Miguel Díaz-Canel cảnh báo Mỹ về hậu quả nghiêm trọng nếu Mỹ tiến hành hành động quân sự chống lại Cuba. Ông Díaz-Canel nói Cuba không gây ra mối đe dọa và cảnh báo về hậu quả 'tàn sát' nếu Mỹ tiến hành hành động quân sự. Mỹ cáo buộc Cuba sử dụng hơn 300 máy bay không người lái, nhưng Cuba chưa xác nhận thông tin này. Hậu quả của tình hình này vẫn chưa rõ ràng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "80dbf72130d8",
+      "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
+      "url": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-18T19:29:09.357743+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Artemis II thúc đẩy sự phát triển của chương trình du hành vũ trụ",
+      "bullets": [
+        "Hội nghị Space Camp ghi nhận sự gia tăng gấp đôi sau Artemis II",
+        "Đóng góp 25 triệu USD của Isaacman dẫn đến các cơ sở mới ấn tượng",
+        "Artemis II tạo ra sự quan tâm lớn hơn đối với du hành vũ trụ",
+        "Chương trình du hành vũ trụ của NASA nhận được sự hỗ trợ mạnh mẽ"
+      ],
+      "full_summary": "Artemis II, một sứ mệnh không gian của NASA, đã tạo ra sự quan tâm lớn hơn đối với du hành vũ trụ. Sau sứ mệnh này, các đăng ký tại Hội nghị Space Camp đã tăng gấp đôi. Đóng góp 25 triệu USD của Jared Isaacman đã giúp xây dựng các cơ sở mới và hiện đại cho chương trình du hành vũ trụ. Điều này cho thấy sự quan tâm lớn hơn của công chúng đối với du hành vũ trụ và sự hỗ trợ mạnh mẽ cho chương trình của NASA.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0aa0b5110dd7",
       "title": "What is Ebola and why is stopping this outbreak so difficult?",
@@ -673,125 +792,6 @@
         "UN lo ngại người tị nạn sẽ bị ngược đãi, tra tấn và giết chết"
       ],
       "full_summary": "UN đã đưa ra một lời kêu gọi hiếm hoi công khai để Equatorial Guinea dừng kế hoạch trục xuất người tị nạn Mỹ về nước. Người tị nạn Mỹ mô tả tình trạng giam giữ như một 'trại giam', trong khi Equatorial Guinea được coi là một trong những chế độ độc tài khốc liệt nhất thế giới. UN lo ngại người tị nạn sẽ bị ngược đãi, tra tấn và giết chết nếu được trục xuất về nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "40710d171917",
-      "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
-      "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-17T18:58:45.687062+00:00",
-      "category": "politics|technology",
-      "importance": 4,
-      "headline": "EU cân nhắc hạn chế sử dụng nền tảng đám mây Mỹ để xử lý dữ liệu chính phủ nhạy cảm",
-      "bullets": [
-        "Cơ quan lập pháp châu Âu đang xem xét hạn chế sử dụng các nền tảng đám mây của Mỹ để xử lý dữ liệu chính phủ nhạy cảm",
-        "Nhiều quốc gia châu Âu đang tìm kiếm các giải pháp thay thế để đảm bảo an ninh dữ liệu",
-        "Sự lo ngại về an ninh dữ liệu đã trở thành một vấn đề lớn trong quan hệ giữa Mỹ và châu Âu"
-      ],
-      "full_summary": "Cơ quan lập pháp châu Âu đang cân nhắc hạn chế sử dụng các nền tảng đám mây của Mỹ để xử lý dữ liệu chính phủ nhạy cảm. Sự lo ngại về an ninh dữ liệu đã trở thành một vấn đề lớn trong quan hệ giữa Mỹ và châu Âu. Nhiều quốc gia châu Âu đang tìm kiếm các giải pháp thay thế để đảm bảo an ninh dữ liệu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "db3cb4417fc9",
-      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
-      "url": "https://twitter.com/ryangrim/status/2055992439031185782",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-17T18:58:46.627012+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta xóa tài khoản có 1 triệu người theo dõi sau yêu cầu của Kuwait",
-      "bullets": [
-        "Meta xóa tài khoản trên nền tảng của mình",
-        "Tài khoản có 1 triệu người theo dõi",
-        "Yêu cầu xóa tài khoản đến từ Kuwait",
-        "Tài khoản bị xóa sau khi nhận được yêu cầu"
-      ],
-      "full_summary": "Meta đã xóa một tài khoản có 1 triệu người theo dõi sau khi nhận được yêu cầu từ Kuwait. Tài khoản này đã bị xóa vì lý do chưa rõ ràng. Yêu cầu xóa tài khoản đến từ chính phủ Kuwait. Điều này đã gây ra sự quan tâm của cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "571e9cfbadf0",
-      "title": "Dontsurveil.me",
-      "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-17T18:58:50.047389+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ứng dụng 'Dontsurveil.me' giúp người dùng kiểm soát dữ liệu cá nhân",
-      "bullets": [
-        "Giúp người dùng theo dõi và quản lý dữ liệu cá nhân",
-        "Cung cấp thông tin về các công ty thu thập dữ liệu",
-        "Cho phép người dùng xóa dữ liệu cá nhân khỏi các công ty",
-        "Cung cấp công cụ để người dùng kiểm soát quyền riêng tư"
-      ],
-      "full_summary": "Ứng dụng 'Dontsurveil.me' được phát triển bởi OpenCivics Labs để giúp người dùng kiểm soát dữ liệu cá nhân của họ. Ứng dụng cung cấp thông tin về các công ty thu thập dữ liệu và cho phép người dùng xóa dữ liệu cá nhân khỏi các công ty. Mục tiêu của ứng dụng là giúp người dùng bảo vệ quyền riêng tư và kiểm soát dữ liệu cá nhân của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ece01d2be31b",
-      "title": "Mouse eyes photosynthesize after plant-to-animal transplant",
-      "url": "https://www.nature.com/articles/d41586-026-01559-9",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-17T18:58:53.668062+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Rất có thể lá spinach sẽ chữa khô mắt",
-      "bullets": [
-        "Nghiên cứu mới cho thấy lá spinach có thể được sử dụng để chữa khô mắt",
-        "Chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của chuột có khả năng quang hợp",
-        "Nghiên cứu này có thể mở ra một hướng mới trong việc điều trị khô mắt",
-        "Chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của con người có khả năng quang hợp"
-      ],
-      "full_summary": "Một nhóm nghiên cứu mới đã tìm thấy rằng chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của chuột có khả năng quang hợp. Điều này có thể mở ra một hướng mới trong việc điều trị khô mắt. Nghiên cứu này cho thấy rằng chất chiết xuất từ lá spinach có thể được sử dụng để tạo ra mắt của con người có khả năng quang hợp. Tuy nhiên, nghiên cứu này vẫn còn ở giai đoạn ban đầu và cần được tiếp tục nghiên cứu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65f175c48821",
-      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T13:04:13.034169+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "HMRC sẽ sử dụng AI để phát hiện gian lận và lỗi trong tờ khai thuế",
-      "bullets": [
-        "HMRC sẽ sử dụng công nghệ AI từ công ty Quantexa để phát hiện gian lận",
-        "Quantexa đã giành được hợp đồng trị giá £175 triệu để cung cấp nền tảng dữ liệu tài chính",
-        "Công nghệ này sẽ giúp HMRC giảm thiểu sai sót trong tờ khai thuế",
-        "Mục tiêu cuối cùng là tăng hiệu suất và giảm chi phí cho HMRC"
-      ],
-      "full_summary": "HMRC đã giành được hợp đồng trị giá £175 triệu với công ty British Quantexa để sử dụng công nghệ AI phát hiện gian lận và lỗi trong tờ khai thuế. Công nghệ này sẽ giúp HMRC giảm thiểu sai sót và tăng hiệu suất. Mục tiêu cuối cùng là giảm chi phí cho HMRC. Công nghệ AI sẽ được sử dụng để phân tích dữ liệu tài chính và phát hiện bất thường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "207c164f1bf0",
-      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
-      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-17T13:04:14.437820+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Lực lượng Mali tấn công liên minh phiến quân",
-      "bullets": [
-        "Tấn công bằng máy bay không người lái nhằm vào phiến quân",
-        "Hỗ trợ từ lính đánh thuê Nga",
-        "Mục tiêu là liên minh khủng bố và phong trào ly khai Tuareg",
-        "Mục đích là giữ vững quyền lực của quân đội Mali"
-      ],
-      "full_summary": "Lực lượng Mali, được hỗ trợ bởi lính đánh thuê Nga, đã tấn công liên minh phiến quân bằng máy bay không người lái. Vụ tấn công nhằm vào thành phố Kidal, một thành phố quan trọng ở phía bắc Mali. Liên minh phiến quân này bao gồm các nhóm khủng bố và phong trào ly khai Tuareg. Mục đích của quân đội Mali là giữ vững quyền lực sau khi liên minh phiến quân tấn công bất ngờ vào cuối tháng 4.",
       "comments": 0,
       "score": 0
     }
