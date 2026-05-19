@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-19T02:38:48.836664+00:00",
+  "updated_at": "2026-05-19T09:31:44.032549+00:00",
   "articles": [
+    {
+      "id": "b0b1380f1fd2",
+      "title": "Two dead in Spain shooting, with babies reportedly among injured",
+      "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-19T09:31:28.401469+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông 25 tuổi bị nghi giết cha mẹ và làm bị thương 4 người khác ở Tây Ban Nha",
+      "bullets": [
+        "Bị can bị bắt vì giết cha mẹ",
+        "4 người bị thương trong vụ tấn công",
+        "Vụ việc xảy ra ở miền Nam Tây Ban Nha",
+        "Cảnh sát đang điều tra nguyên nhân vụ tấn công"
+      ],
+      "full_summary": "Một vụ tấn công xảy ra ở miền Nam Tây Ban Nha, khiến hai người chết và bốn người bị thương. Bị can là một người đàn ông 25 tuổi, bị nghi giết cha mẹ. Cảnh sát đang điều tra nguyên nhân vụ tấn công. Vụ việc đang được điều tra và chưa có thông tin chi tiết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e291de8f31b3",
+      "title": "What really holds China and Russia together",
+      "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-19T09:31:29.425228+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hợp tác Trung - Nga vẫn tiếp tục bất chấp sự bất cân xứng quyền lực",
+      "bullets": [
+        "Cả hai bên đều nhận ra quan hệ này quá quan trọng để thất bại",
+        "Họ đã xây dựng một nền tảng hợp tác mạnh mẽ trong nhiều lĩnh vực",
+        "Quan hệ này giúp họ đối phó với những thách thức chung từ phương Tây",
+        "Cả hai bên đều có lợi ích kinh tế và an ninh từ hợp tác này"
+      ],
+      "full_summary": "Mặc dù có sự bất cân xứng quyền lực, quan hệ giữa Trung Quốc và Nga vẫn tiếp tục phát triển. Cả hai bên đều nhận ra quan hệ này quá quan trọng để thất bại và đã xây dựng một nền tảng hợp tác mạnh mẽ trong nhiều lĩnh vực. Quan hệ này giúp họ đối phó với những thách thức chung từ phương Tây và cả hai bên đều có lợi ích kinh tế và an ninh từ hợp tác này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "77ce9ec55aa2",
+      "title": "Tasmanian government apologises over stolen body parts scandal",
+      "url": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-19T09:31:30.461713+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tasmania xin lỗi vì scandal lấy bộ phận cơ thể người",
+      "bullets": [
+        "Một cuộc điều tra phát hiện 177 mẫu mô người bị một bảo tàng giấu kín.",
+        "Các mẫu mô người bị lấy từ hàng chục cơ thể mà không có sự cho phép.",
+        "Tasmanian chính phủ xin lỗi vì scandal lấy bộ phận cơ thể người.",
+        "Một cuộc điều tra đang được tiến hành để xác định trách nhiệm của các cá nhân liên quan."
+      ],
+      "full_summary": "Tasmanian chính phủ đã xin lỗi vì scandal lấy bộ phận cơ thể người. Một cuộc điều tra đã phát hiện 177 mẫu mô người bị một bảo tàng giấu kín. Các mẫu mô người bị lấy từ hàng chục cơ thể mà không có sự cho phép. Một cuộc điều tra đang được tiến hành để xác định trách nhiệm của các cá nhân liên quan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "68d4d672cf1d",
+      "title": "WHO head ‘deeply concerned’ by Ebola outbreak as cases and deaths surge in DRC",
+      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-19T09:31:31.540954+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "WHO lo ngại về dịch Ebola ở Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "WHO cảnh báo về dịch Ebola đang bùng phát nhanh chóng",
+        "Có ít nhất 130 người nghi ngờ bị nhiễm Ebola đã qua đời",
+        "Hơn 500 trường hợp nghi ngờ nhiễm Ebola đã được báo cáo",
+        "Một công dân Mỹ đã được xác nhận nhiễm Ebola và được chuyển đến Đức"
+      ],
+      "full_summary": "Giám đốc WHO Tedros Adhanom Ghebreyesus đã bày tỏ lo ngại về dịch Ebola đang bùng phát nhanh chóng ở Cộng hòa Dân chủ Congo. Theo ông, đã có ít nhất 130 người nghi ngờ bị nhiễm Ebola đã qua đời và hơn 500 trường hợp nghi ngờ nhiễm Ebola đã được báo cáo. Ông cũng cho biết đã có 30 trường hợp nhiễm Ebola được xác nhận ở tỉnh Ituri, và một trường hợp nhiễm Ebola đã được xác nhận ở Uganda.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50385fecf356",
+      "title": "US government plans to increase number of white South Africans it admits as refugees",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-19T09:31:32.728958+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hợp đồng Hoa Kỳ tăng số người Nam Phi da trắng nhập cư",
+      "bullets": [
+        "Hoa Kỳ sẽ tăng số người Nam Phi da trắng nhập cư từ 7.500 lên 17.500",
+        "Nước này cho rằng tình hình Nam Phi tạo ra tình huống khẩn cấp",
+        "Tuyên bố này đã bị phủ nhận bởi chính phủ Nam Phi",
+        "Hoa Kỳ trước đó đã đưa ra các tuyên bố sai về tình hình Nam Phi"
+      ],
+      "full_summary": "Hoa Kỳ đã tuyên bố sẽ tăng số người Nam Phi da trắng nhập cư từ 7.500 lên 17.500. Tuyên bố này dựa trên việc cho rằng tình hình Nam Phi tạo ra tình huống khẩn cấp. Tuy nhiên, chính phủ Nam Phi đã phủ nhận tuyên bố này. Điều này là một phần của những tuyên bố sai về tình hình Nam Phi mà chính quyền Hoa Kỳ đã đưa ra trong thời gian qua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cc1b3db994e5",
+      "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
+      "url": "https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-19T09:31:33.829144+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sierra Leone bắt giữ ca sĩ Zainab Sheriff vì 'phá hoại tự do ngôn luận'",
+      "bullets": [
+        "Gọi phải thả ca sĩ Zainab Sheriff vì bị kết án không công bằng",
+        "Bà được kết án 4 năm 2 tháng tù vì kích động và sử dụng ngôn ngữ đe dọa",
+        "Các luật sư, chính trị gia và hoạt động gia kêu gọi thả Zainab Sheriff",
+        "Tuyên bố bà bị bắt trong một cuộc đàn áp tự do ngôn luận và bất đồng chính trị"
+      ],
+      "full_summary": "Các luật sư, chính trị gia và hoạt động gia ở Sierra Leone đã kêu gọi thả ca sĩ Zainab Sheriff vì họ cho rằng bà bị kết án không công bằng. Zainab Sheriff, một trong những ngôi sao nổi tiếng nhất của Sierra Leone, đã bị kết án 4 năm 2 tháng tù vì kích động và sử dụng ngôn ngữ đe dọa. Bà từng là một nhân vật chính trị đối lập và đã trở thành một biểu tượng của sự bất đồng chính trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "293e828999e6",
+      "title": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
+      "url": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-19T09:31:35.336041+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Một chỉ huy Libya bị cáo buộc tra tấn sẽ xuất hiện tại Tòa án Hình sự Quốc tế",
+      "bullets": [
+        "Sẽ có phiên tòa đầu tiên liên quan đến vụ tra tấn tù nhân ở Libya",
+        "Chỉ huy Khaled Mohamed Ali El Hishri bị cáo buộc tội ác chiến tranh và tội ác chống loài người",
+        "Phiên tòa này được coi là bước tiến quan trọng trong việc tìm kiếm công lý cho người tị nạn",
+        "Tòa án Hình sự Quốc tế đang điều tra các tội ác ở Libya sau khi Muammar Gaddafi bị lật đổ"
+      ],
+      "full_summary": "Một chỉ huy Libya bị cáo buộc tội ác chiến tranh và tội ác chống loài người sẽ xuất hiện tại Tòa án Hình sự Quốc tế vào thứ Hai. Đây là bước tiến quan trọng trong việc tìm kiếm công lý cho người tị nạn. Chỉ huy Khaled Mohamed Ali El Hishri bị cáo buộc đã tham gia vào việc tra tấn và bạo hành người tị nạn ở Libya. Phiên tòa này được coi là bước tiến quan trọng trong việc tìm kiếm công lý cho người tị nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5cafa03014b6",
+      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-19T09:31:39.949993+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Elon Musk thua vụ kiện OpenAI vì chậm khởi kiện",
+      "bullets": [
+        "Hội đồng xét xử nhất trí Elon Musk chậm khởi kiện OpenAI",
+        "Tòa án xác nhận quyết định của hội đồng xét xử",
+        "Elon Musk tuyên bố sẽ kháng cáo quyết định",
+        "Vụ kiện liên quan đến cáo buộc Sam Altman và OpenAI đánh cắp từ thiện"
+      ],
+      "full_summary": "Elon Musk đã thua vụ kiện chống lại OpenAI do chậm khởi kiện. Hội đồng xét xử đã nhất trí rằng Musk đã chậm trễ trong việc kiện OpenAI. Judge đã xác nhận quyết định của hội đồng xét xử. Musk tuyên bố sẽ kháng cáo quyết định này. Vụ kiện liên quan đến cáo buộc Sam Altman và OpenAI đã đánh cắp từ thiện.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f83614fa0482",
       "title": "Trump says he called off new Iran attack at request of Gulf states",
@@ -635,165 +795,6 @@
         "Đoàn điều tra liên bang đang điều tra vụ việc"
       ],
       "full_summary": "Một phòng thí nghiệm sinh học ở Mỹ bị phong tỏa hơn một tuần để điều tra về việc buôn lậu sinh vật. Vụ việc bắt đầu từ tháng trước khi một nghiên cứu sinh Trung Quốc bị buộc tội buôn lậu vật liệu sinh học vào nước Mỹ. Đoàn điều tra liên bang đang điều tra vụ việc và phong tỏa phòng thí nghiệm để ngăn chặn hoạt động buôn lậu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "100e0fe16939",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T02:40:40.629625+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cựu Tổng thống Mỹ cảnh báo Iran thời gian còn ít",
-      "bullets": [
-        "Hôm nay, cựu Tổng thống Mỹ Donald Trump cảnh báo Iran về thời gian còn ít.",
-        "Tehran cho biết Mỹ chưa đưa ra các biện pháp cụ thể để đáp lại các đề xuất mới.",
-        "Tình hình hòa bình giữa Mỹ và Iran đang bị đình trệ.",
-        "Cựu Tổng thống Mỹ cảnh báo Iran về hậu quả nếu không đạt được thỏa thuận."
-      ],
-      "full_summary": "Cựu Tổng thống Mỹ Donald Trump cảnh báo Iran về thời gian còn ít để đạt được thỏa thuận hòa bình. Theo Iranian media, Mỹ chưa đưa ra các biện pháp cụ thể để đáp lại các đề xuất mới của Tehran. Tình hình hòa bình giữa Mỹ và Iran đang bị đình trệ. Cựu Tổng thống Mỹ cảnh báo Iran về hậu quả nếu không đạt được thỏa thuận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e4dbd7f7fbab",
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T02:40:41.889397+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Iran tăng cường thực hiện án tử hình sau cuộc tấn công của Mỹ và Israel",
-      "bullets": [
-        "Thực hiện án tử hình tăng vọt kể từ khi Mỹ và Israel tấn công Iran vào ngày 28 tháng 2.",
-        "UN xác nhận ít nhất 32 tù nhân chính trị đã bị hành quyết.",
-        "Số lượng người bị hành quyết tăng mạnh trong thời gian chiến tranh.",
-        "Tình hình này gây lo ngại về tình trạng nhân quyền ở Iran."
-      ],
-      "full_summary": "Kể từ khi Mỹ và Israel tấn công Iran vào ngày 28 tháng 2, số lượng người bị hành quyết đã tăng mạnh. Theo UN, ít nhất 32 tù nhân chính trị đã bị hành quyết. Điều này gây lo ngại về tình trạng nhân quyền ở Iran. Các vụ hành quyết đã tăng vọt kể từ khi chiến tranh bắt đầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e1dbeb1ff90e",
-      "title": "Moment two fighter jets collide mid-air at US air show",
-      "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T02:40:42.851034+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai máy bay chiến đấu va chạm không trung tại buổi diễn bay Mỹ",
-      "bullets": [
-        "Bốn thành viên phi hành đoàn an toàn thoát khỏi máy bay",
-        "Hai máy bay chiến đấu va chạm trong buổi diễn bay ở Mỹ",
-        "Tất cả phi hành đoàn đều được đưa đến bệnh viện và đang trong tình trạng ổn định",
-        "Cơ quan chức năng đang điều tra nguyên nhân vụ việc"
-      ],
-      "full_summary": "Hai máy bay chiến đấu của Hải quân Mỹ đã va chạm không trung trong buổi diễn bay ở Mỹ. Bốn thành viên phi hành đoàn đã an toàn thoát khỏi máy bay và đang được đưa đến bệnh viện. Cơ quan chức năng đang điều tra nguyên nhân vụ việc. Tất cả phi hành đoàn đều đang trong tình trạng ổn định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "93d853c630f3",
-      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T02:40:43.871449+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Musk và Altman đối mặt cáo buộc trong phiên tòa công nghệ đầy rắc rối",
-      "bullets": [
-        "Mở đầu phiên tòa, Elon Musk và Sam Altman bị cáo buộc vi phạm quy định về bảo mật thông tin",
-        "Các luật sư của Musk và Altman đưa ra nhiều bằng chứng để chứng minh sự vô tội của họ",
-        "Phiên tòa tiết lộ nhiều thông tin về thế giới công nghệ đầy rắc rối và sự cạnh tranh giữa các công ty công nghệ lớn",
-        "Hội đồng xét xử đang cân nhắc kết quả cuối cùng sau nhiều tuần xét xử"
-      ],
-      "full_summary": "Phiên tòa Musk-Altman là một sự kiện công nghệ đầy rắc rối, nơi hai tỷ phú công nghệ lớn nhất thế giới đối mặt cáo buộc vi phạm quy định về bảo mật thông tin. Trong suốt phiên tòa kéo dài nhiều tuần, các luật sư của Musk và Altman đã đưa ra nhiều bằng chứng để chứng minh sự vô tội của họ. Tuy nhiên, phiên tòa cũng tiết lộ nhiều thông tin về thế giới công nghệ đầy rắc rối và sự cạnh tranh giữa các công ty công nghệ lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2390ad0532be",
-      "title": "Inside the secretive and lucrative world of orchid breeding",
-      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T02:40:44.906250+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Nghiên cứu mới về giống lan quý hiếm",
-      "bullets": [
-        "Tìm kiếm và lai tạo giống lan mới mất đến 10 năm",
-        "Các nhà lai tạo giữ bí mật về quy trình công nghệ tiên tiến",
-        "Sản phẩm lan quý hiếm có giá trị kinh tế cao",
-        "Nghiên cứu về lan có tiềm năng ứng dụng trong y tế"
-      ],
-      "full_summary": "Các nhà lai tạo lan quý hiếm sử dụng công nghệ tiên tiến để tạo ra các giống lan mới. Quá trình lai tạo này mất đến 10 năm và các nhà lai tạo giữ bí mật về quy trình công nghệ của mình. Các sản phẩm lan quý hiếm có giá trị kinh tế cao và có tiềm năng ứng dụng trong y tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0d7a3dae8e6",
-      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T02:40:46.075193+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 3,
-      "headline": "Trí tuệ nhân tạo có thể khiến nhiều người mất việc trong lĩnh vực công nghệ",
-      "bullets": [
-        "Cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng loạt vị trí công việc trong lĩnh vực công nghệ",
-        "Eben Upton cho rằng trí tuệ nhân tạo sẽ không thay thế hoàn toàn công việc của con người",
-        "Trí tuệ nhân tạo có thể thay đổi cách thức làm việc nhưng không phải là nguyên nhân khiến nhiều người mất việc",
-        "Eben Upton cảnh báo về những tác động tiêu cực của trí tuệ nhân tạo đối với nền kinh tế"
-      ],
-      "full_summary": "Eben Upton, người sáng lập Raspberry Pi, đã cảnh báo về những tuyên bố rằng trí tuệ nhân tạo sẽ phá hủy hàng loạt vị trí công việc trong lĩnh vực công nghệ. Ông cho rằng trí tuệ nhân tạo sẽ không thay thế hoàn toàn công việc của con người, mà thay vào đó sẽ thay đổi cách thức làm việc. Tuy nhiên, ông cũng cảnh báo về những tác động tiêu cực của trí tuệ nhân tạo đối với nền kinh tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d03a553d54ba",
-      "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
-      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T02:40:48.353154+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Mỹ tuyên bố hạ sát chỉ huy thứ hai của Nhà nước Hồi giáo",
-      "bullets": [
-        "Tổng thống Mỹ Donald Trump tuyên bố hạ sát Abu-Bilal al-Minuki",
-        "Abu-Bilal al-Minuki được Tổng thống Trump mô tả là 'terrorist hoạt động mạnh nhất thế giới'",
-        "Mỹ và Nigeria hợp tác thực hiện một nhiệm vụ phức tạp để hạ sát chỉ huy Hồi giáo"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump tuyên bố Mỹ và Nigeria hợp tác hạ sát Abu-Bilal al-Minuki, người mà Tổng thống Trump mô tả là 'terrorist hoạt động mạnh nhất thế giới'. Tổng thống Trump cho biết nhiệm vụ này là 'một nhiệm vụ phức tạp và được lên kế hoạch kỹ lưỡng' và được thực hiện bởi 'những lực lượng dũng cảm của Mỹ và Nigeria'. Đây là một bước tiến quan trọng trong cuộc chiến chống lại Nhà nước Hồi giáo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a8ec32ba955d",
-      "title": "The US is betting on AI to catch insider trading in prediction markets",
-      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-18T02:40:49.475208+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Hệ thống AI giúp Mỹ phát hiện gian lận trong thị trường dự đoán",
-      "bullets": [
-        "Mỹ đang sử dụng AI để phát hiện gian lận trong thị trường dự đoán",
-        "Ủy ban Thương mại Hàng hóa Liên bang muốn ngăn chặn gian lận",
-        "Hệ thống AI sẽ giúp xác định các giao dịch bất thường",
-        "Mục tiêu là ngăn chặn gian lận trong thị trường tài chính"
-      ],
-      "full_summary": "Ủy ban Thương mại Hàng hóa Liên bang (CFTC) đang sử dụng công nghệ trí tuệ nhân tạo (AI) để phát hiện gian lận trong thị trường dự đoán. Mục tiêu của CFTC là ngăn chặn gian lận trong thị trường tài chính, đặc biệt là gian lận do thông tin nội bộ. Hệ thống AI sẽ giúp xác định các giao dịch bất thường và ngăn chặn các hoạt động bất hợp pháp.",
       "comments": 0,
       "score": 0
     }
