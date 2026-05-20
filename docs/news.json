@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-20T08:57:43.664589+00:00",
+  "updated_at": "2026-05-20T14:46:14.747063+00:00",
   "articles": [
+    {
+      "id": "cfebf6b07a69",
+      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
+      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T14:45:59.228636+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Xi Jinping thu hút sự chú ý bằng cách tiếp đón Putin sau chuyến thăm của Trump",
+      "bullets": [
+        "Xi Jinping tiếp đón Tổng thống Putin trong chuyến thăm gần đây",
+        "Hai chuyến thăm tổng thống trong vòng hai ngày giúp Xi Jinping thể hiện vị thế toàn cầu",
+        "Chuyến thăm của Putin giúp Xi Jinping thể hiện sự độc lập trong chính sách đối ngoại",
+        "Chuyến thăm của Trump và Putin giúp Xi Jinping chứng minh khả năng ngoại giao"
+      ],
+      "full_summary": "Xi Jinping đang cố gắng thể hiện vị thế toàn cầu bằng cách tiếp đón Tổng thống Putin trong chuyến thăm gần đây. Đây là lần thứ hai trong vòng hai ngày mà Xi Jinping tiếp đón tổng thống nước ngoài, sau chuyến thăm của Tổng thống Trump. Chuyến thăm của Putin giúp Xi Jinping thể hiện sự độc lập trong chính sách đối ngoại và khả năng ngoại giao. Điều này giúp Xi Jinping chứng minh rằng Trung Quốc không bị ràng buộc bởi bất kỳ liên minh nào.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "483c5806a8f4",
+      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+      "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T14:46:00.130661+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Trump thắng lớn trong cuộc bầu cử ở Kentucky",
+      "bullets": [
+        "Thắng cử ông Massie, Trump thể hiện sức mạnh trong Đảng Cộng hòa",
+        "Thắng cử này giúp Trump chuẩn bị cho cuộc bầu cử giữa kỳ",
+        "Tuy nhiên, quyền lực của Trump cũng mang lại rủi ro cho Đảng Cộng hòa"
+      ],
+      "full_summary": "Ngoại trưởng Mỹ Mike Pompeo đã ủng hộ ông Trump trong cuộc bầu cử ở Kentucky. Ông Massie, một người phản đối của Trump, đã bị đánh bại. Chiến thắng này cho thấy sức mạnh của Trump trong Đảng Cộng hòa. Tuy nhiên, quyền lực của ông cũng mang lại rủi ro cho Đảng Cộng hòa trong cuộc bầu cử giữa kỳ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "722fd937d7e6",
+      "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
+      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T14:46:01.051174+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "WHO cảnh báo số ca nhiễm Ebola có thể tăng thêm",
+      "bullets": [
+        "WHO công bố 139 trường hợp tử vong nghi nhiễm Ebola",
+        "Tổng số ca nhiễm Ebola đã lên đến 600",
+        "WHO cảnh báo số ca nhiễm Ebola có thể tiếp tục tăng",
+        "WHO đang theo dõi tình hình nghiêm túc"
+      ],
+      "full_summary": "WHO vừa công bố số liệu mới về bệnh Ebola, cho biết đã có 139 trường hợp tử vong nghi nhiễm Ebola và tổng số ca nhiễm đã lên đến 600. WHO cảnh báo số ca nhiễm Ebola có thể tiếp tục tăng và đang theo dõi tình hình nghiêm túc. Điều này cho thấy sự phức tạp của bệnh và cần có các biện pháp phòng ngừa và điều trị hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a7b51e7e09db",
+      "title": "Lithuania's leaders take shelter during drone air alert",
+      "url": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T14:46:02.288871+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Lithuania phát hiện drone gần biên giới Belarus",
+      "bullets": [
+        "Cảnh báo không lưu được kích hoạt",
+        "Hành khách được yêu cầu tìm nơi an toàn",
+        "Các chuyến bay bị đình chỉ",
+        "Lãnh đạo Lithuania tìm nơi trú ẩn"
+      ],
+      "full_summary": "Lithuania đã kích hoạt cảnh báo không lưu và yêu cầu người dân tìm nơi an toàn sau khi phát hiện một chiếc drone nghi ngờ gần biên giới Belarus. Các chuyến bay đã bị đình chỉ và lãnh đạo Lithuania đã tìm nơi trú ẩn. Sự cố này đã gây ra sự lo lắng về an ninh quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89a758ae1732",
+      "title": "Barney Frank: One of the first openly gay US congressmen dies aged 86",
+      "url": "https://www.bbc.com/news/articles/ckgpy2ze3q1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T14:46:03.316769+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hạ nghị sĩ Barney Frank qua đời ở tuổi 86",
+      "bullets": [
+        "Là một trong những hạ nghị sĩ đồng tính công khai đầu tiên của Mỹ",
+        "Đã qua đời sau nhiều tuần ở nhà dưỡng lão ở Maine",
+        "Có hơn 30 năm kinh nghiệm làm việc trong Quốc hội Mỹ",
+        "Là một nhà lãnh đạo quan trọng trong các vấn đề tài chính"
+      ],
+      "full_summary": "Hạ nghị sĩ Barney Frank, một trong những hạ nghị sĩ đồng tính công khai đầu tiên của Mỹ, đã qua đời ở tuổi 86. Ông đã dành hơn 30 năm để làm việc trong Quốc hội Mỹ và là một nhà lãnh đạo quan trọng trong các vấn đề tài chính. Trong những tuần cuối cùng của cuộc đời, ông đã sống ở nhà dưỡng lão ở Maine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db319e6de7b9",
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T14:46:04.367097+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nhóm Mỹ kêu gọi điều tra an toàn trẻ em và chi tiêu trên Roblox",
+      "bullets": [
+        "Kêu gọi điều tra chi tiêu và an toàn trẻ em trên Roblox",
+        "Roblox khẳng định có chính sách rõ ràng cấm đánh bạc thực tế và ảo",
+        "Tổ chức Mỹ lên án Roblox vì không kiểm soát tốt các mặt hàng trả tiền ngẫu nhiên",
+        "Roblox cho biết có các quy tắc điều chỉnh mặt hàng trả tiền ngẫu nhiên"
+      ],
+      "full_summary": "Một nhóm tổ chức Mỹ kêu gọi điều tra chi tiêu và an toàn trẻ em trên nền tảng chơi game trực tuyến Roblox. Họ lên án Roblox vì không kiểm soát tốt các mặt hàng trả tiền ngẫu nhiên. Roblox cho biết đã có các chính sách rõ ràng cấm đánh bạc thực tế và ảo, cũng như các quy tắc điều chỉnh mặt hàng trả tiền ngẫu nhiên. Tuy nhiên, các tổ chức Mỹ vẫn cho rằng cần phải có một cuộc điều tra để đảm bảo an toàn cho trẻ em.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6c2591e62e22",
+      "title": "Robo-top: The machines that could make your next t-shirt",
+      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T14:46:05.670493+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy móc có thể mang công việc dệt may trở lại Tây phương",
+      "bullets": [
+        "Tạo ra các trang phục chất lượng cao",
+        "Giảm chi phí sản xuất",
+        "Tăng cường khả năng tự động hóa",
+        "Cung cấp các lựa chọn đa dạng cho người tiêu dùng"
+      ],
+      "full_summary": "Các máy móc mới có thể mang công việc dệt may trở lại Tây phương, thay vì chỉ tập trung ở châu Á. Các máy móc này có thể tạo ra các trang phục chất lượng cao với chi phí sản xuất thấp hơn. Điều này sẽ giúp tăng cường khả năng tự động hóa và cung cấp các lựa chọn đa dạng cho người tiêu dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "73397afa83f1",
+      "title": "Spider-Noir final trailer gives us a classic villain",
+      "url": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-20T14:46:10.315744+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trailer Spider-Noir: Một kẻ ác cuối cùng lộ diện",
+      "bullets": [
+        "Bí mật về Spider-Noir dần được tiết lộ",
+        "Trailer mới tập trung vào hài hước",
+        "Cốt truyện phim sẽ có nhiều bất ngờ",
+        "Phim sẽ được phát hành sớm"
+      ],
+      "full_summary": "Trailer cuối cùng của Spider-Noir đã được phát hành, tiết lộ hình ảnh của kẻ ác cuối cùng. Trailer tập trung vào hài hước, thể hiện phong cách độc đáo của phim. Cốt truyện phim sẽ có nhiều bất ngờ, thu hút khán giả. Phim dự kiến sẽ được phát hành sớm, tạo nên sự tò mò trong cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "181c60838c18",
+      "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-20T14:46:13.655790+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Meta chặn tài khoản nhân quyền khỏi tiếp cận khán giả ở Ả Rập Xê Út và UAE",
+      "bullets": [
+        "Meta chặn tài khoản nhân quyền khỏi tiếp cận khán giả ở Ả Rập Xê Út và UAE",
+        "Các tài khoản nhân quyền bị chặn vì vi phạm chính sách của Meta",
+        "Chính sách của Meta gây tranh cãi vì hạn chế tự do ngôn luận",
+        "Tác động của chính sách này đối với cộng đồng nhân quyền vẫn chưa rõ ràng"
+      ],
+      "full_summary": "Meta đã chặn các tài khoản nhân quyền khỏi tiếp cận khán giả ở Ả Rập Xê Út và UAE. Các tài khoản này bị chặn vì vi phạm chính sách của Meta. Chính sách này gây tranh cãi vì hạn chế tự do ngôn luận. Mục đích của chính sách này là gì và tác động của nó đối với cộng đồng nhân quyền vẫn chưa rõ ràng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "130ae5db3f53",
       "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
@@ -617,186 +796,6 @@
         "Bốn người lặn bị mất tích trong hang động Maldives"
       ],
       "full_summary": "Hai cơ thể người Ý bị mất tích đã được tìm thấy trong hang động Maldives. Họ là hai trong số bốn người lặn bị mất tích trong hang động. Các chuyên gia lặn đã tìm thấy cơ thể trong phòng sâu nhất của hang động và đưa chúng lên mặt nước. Sự việc đã thu hút sự chú ý của nhiều người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b2dd4eaeefa9",
-      "title": "How two new California wildfires look from space",
-      "url": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T14:44:33.066750+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai đám cháy rừng lớn nổ ra ở California",
-      "bullets": [
-        "Cảnh báo cháy rừng được phát hiện ở khu vực Santa Barbara",
-        "Hai đám cháy rừng lớn đang lan rộng ở California",
-        "Các vệ tinh quan sát để theo dõi tình hình",
-        "Cảnh báo cháy rừng được phát đi cho người dân địa phương"
-      ],
-      "full_summary": "Hai đám cháy rừng lớn đã nổ ra ở khu vực Santa Barbara, California. Các vệ tinh quan sát đã chụp ảnh vệ tinh để theo dõi tình hình. Cảnh báo cháy rừng đã được phát đi cho người dân địa phương. Các lực lượng cứu hỏa đang làm việc để dập tắt đám cháy rừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f3178c80da4d",
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T14:44:34.507794+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tác phẩm tranh của Jackson Pollock bán với giá kỷ lục 181 triệu USD",
-      "bullets": [
-        "Bán đấu giá tác phẩm tranh Number 7A, 1948 của Jackson Pollock",
-        "Tác phẩm được định giá kỷ lục 181 triệu USD",
-        "Tác phẩm này là tác phẩm đắt nhất của Jackson Pollock được bán đấu giá",
-        "Tác phẩm thuộc thể loại Abstract Expressionist"
-      ],
-      "full_summary": "Tác phẩm tranh Number 7A, 1948 của Jackson Pollock đã được bán đấu giá với giá kỷ lục 181 triệu USD. Đây là tác phẩm đắt nhất của Jackson Pollock được bán đấu giá. Tác phẩm thuộc thể loại Abstract Expressionist và được đánh giá cao về giá trị nghệ thuật. Bán đấu giá này đã tạo ra một kỷ lục mới trong lĩnh vực nghệ thuật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "05c72e92a60c",
-      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-19T14:44:39.771191+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "WHO tuyên bố khẩn cấp, Mỹ hạn chế đi lại vì dịch Ebola",
-      "bullets": [
-        "WHO tuyên bố tình trạng khẩn cấp toàn cầu",
-        "Mỹ hạn chế đi lại với các quốc gia có dịch Ebola",
-        "CDC đang chuyển người Mỹ nhiễm Ebola và 6 người khác đến Đức",
-        "Tình hình dịch Ebola đang được theo dõi chặt chẽ"
-      ],
-      "full_summary": "WHO đã tuyên bố tình trạng khẩn cấp toàn cầu vì dịch Ebola. Mỹ cũng đã hạn chế đi lại với các quốc gia có dịch Ebola. CDC đang làm việc để chuyển người Mỹ nhiễm Ebola và 6 người khác đến Đức để được điều trị. Tình hình dịch Ebola đang được theo dõi chặt chẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f9d555104762",
-      "title": "Pompeii victim ID'd as a likely doctor",
-      "url": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-19T14:44:41.977093+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Phát hiện hài cốt Pompeii có thể là bác sĩ",
-      "bullets": [
-        "Khám phá hài cốt Pompeii bằng X-quang và CT",
-        "Tìm thấy hộp nhỏ có cơ chế khóa và dụng cụ kim loại",
-        "Giả định hài cốt Pompeii có thể là bác sĩ",
-        "Phát hiện mới về Pompeii thu hút sự chú ý"
-      ],
-      "full_summary": "Các nhà khoa học đã sử dụng X-quang và CT để khám phá hài cốt Pompeii. Họ đã tìm thấy hộp nhỏ có cơ chế khóa và dụng cụ kim loại, cho thấy đây có thể là bác sĩ. Phát hiện mới này đã thu hút sự chú ý của các nhà khoa học và người hâm mộ Pompeii. Pompeii là một thành phố cổ đại bị phá hủy bởi núi lửa Vesuvius vào năm 79 SCN.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b0b1380f1fd2",
-      "title": "Two dead in Spain shooting, with babies reportedly among injured",
-      "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T09:31:28.401469+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông 25 tuổi bị nghi giết cha mẹ và làm bị thương 4 người khác ở Tây Ban Nha",
-      "bullets": [
-        "Bị can bị bắt vì giết cha mẹ",
-        "4 người bị thương trong vụ tấn công",
-        "Vụ việc xảy ra ở miền Nam Tây Ban Nha",
-        "Cảnh sát đang điều tra nguyên nhân vụ tấn công"
-      ],
-      "full_summary": "Một vụ tấn công xảy ra ở miền Nam Tây Ban Nha, khiến hai người chết và bốn người bị thương. Bị can là một người đàn ông 25 tuổi, bị nghi giết cha mẹ. Cảnh sát đang điều tra nguyên nhân vụ tấn công. Vụ việc đang được điều tra và chưa có thông tin chi tiết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e291de8f31b3",
-      "title": "What really holds China and Russia together",
-      "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T09:31:29.425228+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hợp tác Trung - Nga vẫn tiếp tục bất chấp sự bất cân xứng quyền lực",
-      "bullets": [
-        "Cả hai bên đều nhận ra quan hệ này quá quan trọng để thất bại",
-        "Họ đã xây dựng một nền tảng hợp tác mạnh mẽ trong nhiều lĩnh vực",
-        "Quan hệ này giúp họ đối phó với những thách thức chung từ phương Tây",
-        "Cả hai bên đều có lợi ích kinh tế và an ninh từ hợp tác này"
-      ],
-      "full_summary": "Mặc dù có sự bất cân xứng quyền lực, quan hệ giữa Trung Quốc và Nga vẫn tiếp tục phát triển. Cả hai bên đều nhận ra quan hệ này quá quan trọng để thất bại và đã xây dựng một nền tảng hợp tác mạnh mẽ trong nhiều lĩnh vực. Quan hệ này giúp họ đối phó với những thách thức chung từ phương Tây và cả hai bên đều có lợi ích kinh tế và an ninh từ hợp tác này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "77ce9ec55aa2",
-      "title": "Tasmanian government apologises over stolen body parts scandal",
-      "url": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T09:31:30.461713+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tasmania xin lỗi vì scandal lấy bộ phận cơ thể người",
-      "bullets": [
-        "Một cuộc điều tra phát hiện 177 mẫu mô người bị một bảo tàng giấu kín.",
-        "Các mẫu mô người bị lấy từ hàng chục cơ thể mà không có sự cho phép.",
-        "Tasmanian chính phủ xin lỗi vì scandal lấy bộ phận cơ thể người.",
-        "Một cuộc điều tra đang được tiến hành để xác định trách nhiệm của các cá nhân liên quan."
-      ],
-      "full_summary": "Tasmanian chính phủ đã xin lỗi vì scandal lấy bộ phận cơ thể người. Một cuộc điều tra đã phát hiện 177 mẫu mô người bị một bảo tàng giấu kín. Các mẫu mô người bị lấy từ hàng chục cơ thể mà không có sự cho phép. Một cuộc điều tra đang được tiến hành để xác định trách nhiệm của các cá nhân liên quan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68d4d672cf1d",
-      "title": "WHO head ‘deeply concerned’ by Ebola outbreak as cases and deaths surge in DRC",
-      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T09:31:31.540954+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "WHO lo ngại về dịch Ebola ở Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "WHO cảnh báo về dịch Ebola đang bùng phát nhanh chóng",
-        "Có ít nhất 130 người nghi ngờ bị nhiễm Ebola đã qua đời",
-        "Hơn 500 trường hợp nghi ngờ nhiễm Ebola đã được báo cáo",
-        "Một công dân Mỹ đã được xác nhận nhiễm Ebola và được chuyển đến Đức"
-      ],
-      "full_summary": "Giám đốc WHO Tedros Adhanom Ghebreyesus đã bày tỏ lo ngại về dịch Ebola đang bùng phát nhanh chóng ở Cộng hòa Dân chủ Congo. Theo ông, đã có ít nhất 130 người nghi ngờ bị nhiễm Ebola đã qua đời và hơn 500 trường hợp nghi ngờ nhiễm Ebola đã được báo cáo. Ông cũng cho biết đã có 30 trường hợp nhiễm Ebola được xác nhận ở tỉnh Ituri, và một trường hợp nhiễm Ebola đã được xác nhận ở Uganda.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50385fecf356",
-      "title": "US government plans to increase number of white South Africans it admits as refugees",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T09:31:32.728958+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hợp đồng Hoa Kỳ tăng số người Nam Phi da trắng nhập cư",
-      "bullets": [
-        "Hoa Kỳ sẽ tăng số người Nam Phi da trắng nhập cư từ 7.500 lên 17.500",
-        "Nước này cho rằng tình hình Nam Phi tạo ra tình huống khẩn cấp",
-        "Tuyên bố này đã bị phủ nhận bởi chính phủ Nam Phi",
-        "Hoa Kỳ trước đó đã đưa ra các tuyên bố sai về tình hình Nam Phi"
-      ],
-      "full_summary": "Hoa Kỳ đã tuyên bố sẽ tăng số người Nam Phi da trắng nhập cư từ 7.500 lên 17.500. Tuyên bố này dựa trên việc cho rằng tình hình Nam Phi tạo ra tình huống khẩn cấp. Tuy nhiên, chính phủ Nam Phi đã phủ nhận tuyên bố này. Điều này là một phần của những tuyên bố sai về tình hình Nam Phi mà chính quyền Hoa Kỳ đã đưa ra trong thời gian qua.",
       "comments": 0,
       "score": 0
     }
