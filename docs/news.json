@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-20T14:46:14.747063+00:00",
+  "updated_at": "2026-05-20T20:05:32.415312+00:00",
   "articles": [
+    {
+      "id": "08564bccc910",
+      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T20:05:17.442496+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Putin trở về mà không đạt được thỏa thuận về đường ống dẫn khí",
+      "bullets": [
+        "Putin được Xi chào đón nồng nhiệt tại Trung Quốc",
+        "Hai nước đã thể hiện sự đoàn kết trên trường quốc tế",
+        "Tuy nhiên, rõ ràng là có giới hạn trong hợp tác kinh tế",
+        "Không đạt được thỏa thuận về đường ống dẫn khí"
+      ],
+      "full_summary": "Tổng thống Putin đã đến thăm Trung Quốc và được lãnh đạo Trung Quốc Xi Jinping chào đón nồng nhiệt. Mặc dù hai nước đã thể hiện sự đoàn kết trên trường quốc tế, nhưng rõ ràng là có giới hạn trong hợp tác kinh tế. Không đạt được thỏa thuận về đường ống dẫn khí là một trong những điểm đáng chú ý trong chuyến thăm này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f7ba9efb2747",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T20:05:18.517112+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bộ trưởng Israel cực hữu bị chỉ trích vì đùa cợt những người tham gia đoàn thuyền Gaza đang bị giam",
+      "bullets": [
+        "Pháp và Ý chỉ trích video cho thấy Itamar Ben-Gvir đùa cợt những người tham gia đoàn thuyền Gaza",
+        "Các quốc gia này kêu gọi Israel phải tôn trọng nhân quyền của những người tham gia đoàn thuyền",
+        "Video được đăng tải trên mạng xã hội và gây ra sự phẫn nộ trên toàn thế giới",
+        "Itamar Ben-Gvir là bộ trưởng an ninh của Israel và được biết đến với quan điểm cực hữu"
+      ],
+      "full_summary": "Bộ trưởng an ninh Israel Itamar Ben-Gvir đã bị chỉ trích vì video cho thấy ông ta đùa cợt những người tham gia đoàn thuyền Gaza đang bị giam. Pháp và Ý đã chỉ trích hành động này và kêu gọi Israel phải tôn trọng nhân quyền của những người tham gia đoàn thuyền. Video được đăng tải trên mạng xã hội và gây ra sự phẫn nộ trên toàn thế giới. Itamar Ben-Gvir được biết đến với quan điểm cực hữu và đã trở thành tâm điểm của sự chỉ trích.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "765b8cc49b50",
+      "title": "Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest",
+      "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T20:05:19.530135+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chủ tịch Mango bị rơi xuống núi, con trai phủ nhận liên quan",
+      "bullets": [
+        "Bị cáo Isak Andic rơi xuống núi trong một chuyến đi dã ngoại",
+        "Con trai Jonathan phủ nhận liên quan đến cái chết của cha",
+        "Cơ quan chức năng đang điều tra nguyên nhân của vụ việc",
+        "Isak Andic là người sáng lập đế chế quần áo lớn nhất châu Âu"
+      ],
+      "full_summary": "Chủ tịch Mango Isak Andic đã qua đời sau khi rơi xuống núi trong một chuyến đi dã ngoại. Con trai Jonathan của ông phủ nhận liên quan đến cái chết của cha. Cơ quan chức năng đang điều tra nguyên nhân của vụ việc. Isak Andic là người sáng lập đế chế quần áo lớn nhất châu Âu, Mango.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9b2f4f21c76",
+      "title": "Austrian ex-intelligence officer found guilty of Russia spying charges",
+      "url": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T20:05:20.551972+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cựu quan chức tình báo Áo bị kết tội gián điệp cho Nga",
+      "bullets": [
+        "Bị kết tội gián điệp cho Nga",
+        "Cáo buộc làm dấy lên lo ngại Áo vẫn là nơi hoạt động gián điệp của Nga",
+        "Vụ việc gây ra sự phẫn nộ trong cộng đồng",
+        "Cáo buộc liên quan đến hoạt động tình báo của Nga tại Áo"
+      ],
+      "full_summary": "Một cựu quan chức tình báo Áo vừa bị kết tội gián điệp cho Nga. Vụ việc này đã gây ra sự phẫn nộ trong cộng đồng và làm dấy lên lo ngại Áo vẫn là nơi hoạt động gián điệp của Nga. Cáo buộc liên quan đến hoạt động tình báo của Nga tại Áo đã được đưa ra và đang được điều tra. Vụ việc này đã gây ra sự chú ý lớn trong cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8c8d6f08a820",
+      "title": "US military jets and drones tracked near Cuba as tensions rise",
+      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T20:05:21.539167+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Máy bay quân sự Mỹ theo dõi gần Cuba trong lúc căng thẳng tăng cao",
+      "bullets": [
+        "Theo dõi dữ liệu cho thấy máy bay trinh sát Hải quân Mỹ và máy bay không người lái hoạt động gần Cuba",
+        "Các máy bay và drone được theo dõi trong tuần qua",
+        "Căng thẳng giữa Mỹ và Cuba tăng cao",
+        "Mỹ và Cuba chưa đưa ra bình luận chính thức về tình hình"
+      ],
+      "full_summary": "Theo dõi dữ liệu cho thấy máy bay trinh sát Hải quân Mỹ và máy bay không người lái hoạt động gần Cuba trong tuần qua. Căng thẳng giữa Mỹ và Cuba tăng cao sau khi máy bay quân sự Mỹ được theo dõi gần đảo quốc này. Mặc dù Mỹ và Cuba chưa đưa ra bình luận chính thức về tình hình, nhưng nhiều người tin rằng tình hình có thể trở nên tồi tệ hơn. Các quan chức Mỹ cho biết họ đang theo dõi tình hình chặt chẽ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b0f267fa19e9",
+      "title": "Whale to be removed from Danish island after failed German rescue",
+      "url": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T20:05:22.489553+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Vòng vây xung quanh cá voi bị mắc kẹt trên đảo Đan Mạch",
+      "bullets": [
+        "Cá voi sẽ được kiểm tra sau khi chết",
+        "Cá voi được thả ra biển sau hơn hai tuần",
+        "Đan Mạch sẽ tiến hành kiểm tra sau khi chết",
+        "Cá voi bị mắc kẹt trên đảo Đan Mạch"
+      ],
+      "full_summary": "Cá voi bị mắc kẹt trên đảo Đan Mạch sau khi một nỗ lực cứu hộ của Đức thất bại. Đan Mạch sẽ tiến hành kiểm tra sau khi chết để xác định nguyên nhân. Cá voi được thả ra biển sau hơn hai tuần. Vụ việc đang gây sự chú ý trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2e4dbbeba9e2",
+      "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
+      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T20:05:24.628618+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Bác sĩ Mỹ nhiễm Ebola được đưa sang Đức điều trị",
+      "bullets": [
+        "Được đưa sang Đức vì nhiễm Ebola",
+        "Bác sĩ và gia đình đang được theo dõi",
+        "WHO cảnh báo về sự bùng phát nhanh chóng của dịch",
+        "Dịch đã lan rộng vào các khu vực thành thị"
+      ],
+      "full_summary": "Một bác sĩ Mỹ nhiễm Ebola đã được đưa sang Đức điều trị. Ông đã nhiễm bệnh trong một đợt bùng phát ở Cộng hòa Dân chủ Congo. Tổ chức Y tế Thế giới đã cảnh báo về sự bùng phát nhanh chóng của dịch, với ít nhất 134 trường hợp tử vong và hơn 500 ca nhiễm. Dịch đã lan rộng vào các khu vực thành thị và đã được tuyên bố là một tình huống khẩn cấp về sức khỏe công cộng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f7b0324d248",
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-20T20:05:29.082635+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Google công bố mã khai thác, đe dọa hàng triệu người dùng Chromium",
+      "bullets": [
+        "Google công bố mã khai thác trước khi sửa lỗi",
+        "Mã khai thác đe dọa hàng triệu người dùng Chromium",
+        "Lỗi đã được báo cáo 29 tháng trước",
+        "Google đã công bố mã khai thác để giúp người dùng bảo vệ mình"
+      ],
+      "full_summary": "Google đã công bố mã khai thác cho lỗi trong Chromium, mặc dù lỗi này đã được báo cáo 29 tháng trước. Điều này có thể giúp người dùng bảo vệ mình trước khi Google phát hành bản vá lỗi. Tuy nhiên, việc công bố mã khai thác trước khi sửa lỗi có thể gây ra những rủi ro cho người dùng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "cfebf6b07a69",
       "title": "Xi basks in spotlight as he hosts Putin days after Trump",
@@ -636,166 +796,6 @@
         "Hoa Kỳ tiếp tục cắt giảm mạnh mẽ các chương trình y tế công cộng"
       ],
       "full_summary": "Thứ trưởng Ngoại giao Hoa Kỳ Marco Rubio đã chỉ trích Tổ chức Y tế Thế giới (WHO) vì chậm xác định dịch Ebola ở Cộng hòa Dân chủ Congo và Uganda. Rubio cho biết WHO đã chậm trong việc xác định dịch Ebola. Trong khi đó, Hoa Kỳ tiếp tục cắt giảm mạnh mẽ các chương trình y tế công cộng, bao gồm cả CDC, cơ quan dẫn đầu nỗ lực chống dịch Ebola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "37137710a1db",
-      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
-      "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:37.400054+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "WHO cảnh báo về dịch Ebola tại DRC: Bài học từ các vụ bùng phát trước đây",
-      "bullets": [
-        "Cảnh báo về dịch Ebola tại DRC",
-        "Khả năng xung đột và thiếu tin tưởng có thể làm phức tạp quá trình ứng phó",
-        "Chẩn đoán muộn có thể làm tăng nguy cơ lây lan",
-        "Hệ thống giám sát và truy vết bệnh nhân đang được triển khai"
-      ],
-      "full_summary": "WHO đã cảnh báo về dịch Ebola tại Cộng hòa Dân chủ Congo (DRC) do biến thể Bundibugyo gây ra. Các vụ bùng phát trước đây đã cho thấy sự phức tạp của dịch bệnh, bao gồm xung đột, thiếu tin tưởng và chẩn đoán muộn. Hệ thống giám sát và truy vết bệnh nhân đang được triển khai để ngăn chặn sự lây lan của dịch bệnh. Các biện pháp phòng ngừa như sử dụng dung dịch khử trùng và đo nhiệt độ cũng đang được thực hiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9c093f9eb559",
-      "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
-      "url": "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-19T19:45:42.152458+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Màn hình chơi game 1.000 Hz đã xuất hiện nhưng tại sao cần?",
-      "bullets": [
-        "LG đã ra mắt màn hình chơi game mới với tốc độ 1 khung hình mỗi miliseconds",
-        "Màn hình này hoạt động ở độ phân giải đầy đủ 1080p",
-        "Tốc độ khung hình cao hơn không nhất thiết phải cải thiện trải nghiệm chơi game",
-        "Nhiều yếu tố khác ảnh hưởng đến chất lượng hình ảnh và tốc độ phản hồi"
-      ],
-      "full_summary": "LG đã ra mắt màn hình chơi game mới với tốc độ 1.000 Hz, một kỷ lục mới trong lĩnh vực công nghệ. Màn hình này hoạt động ở độ phân giải đầy đủ 1080p, nhưng tốc độ khung hình cao hơn không nhất thiết phải cải thiện trải nghiệm chơi game. Các yếu tố khác như chất lượng hình ảnh, tốc độ phản hồi và độ trễ cũng đóng vai trò quan trọng trong việc tạo ra trải nghiệm chơi game mượt mà.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4ece01d666c4",
-      "title": "Disney Erased FiveThirtyEight",
-      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-19T19:45:46.390748+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Disney xóa bỏ FiveThirtyEight",
-      "bullets": [
-        "Disney đã xóa bỏ trang web FiveThirtyEight",
-        "Trang web này từng được biết đến với các bài viết về thống kê và phân tích",
-        "Sự xóa bỏ này gây ra sự phản ứng từ cộng đồng",
-        "Nguyên nhân của sự xóa bỏ vẫn chưa được tiết lộ"
-      ],
-      "full_summary": "Disney đã xóa bỏ trang web FiveThirtyEight mà không có lý do rõ ràng. Trang web này từng được biết đến với các bài viết về thống kê và phân tích, và sự xóa bỏ này đã gây ra sự phản ứng từ cộng đồng. Các chuyên gia đang cố gắng tìm hiểu nguyên nhân của sự xóa bỏ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe5feda410e8",
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T14:44:27.621240+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Cúm Ebola có thể lây lan nhanh hơn dự đoán",
-      "bullets": [
-        "Đại diện WHO cảnh báo số ca nhiễm Ebola có thể cao hơn dự kiến",
-        "Nhiều trường hợp nghi ngờ ở Trung Phi nhưng chưa được xác nhận",
-        "Số liệu thực tế có thể cao hơn số liệu báo cáo",
-        "Các chuyên gia lo ngại dịch bệnh có thể lan rộng nhanh chóng"
-      ],
-      "full_summary": "Đại diện Tổ chức Y tế Thế giới (WHO) cảnh báo cúm Ebola có thể lây lan nhanh hơn dự đoán. Hundreds của trường hợp nghi ngờ đã được báo cáo ở Trung Phi, nhưng các chuyên gia lo ngại số liệu thực tế có thể cao hơn số liệu báo cáo. Điều này có thể khiến dịch bệnh lan rộng nhanh chóng. Các chuyên gia đang nỗ lực xác định số liệu chính xác và ngăn chặn sự lây lan của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94512825157c",
-      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
-      "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T14:44:28.765766+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông có 8 người con bị giết trong vụ tấn công nhà thờ ở San Diego",
-      "bullets": [
-        "Bị tấn công bởi kẻ xâm phạm",
-        "Một người bảo vệ bị giết trong vụ tấn công",
-        "Ba người chết, nhiều người bị thương",
-        "Kẻ tấn công bị bắt giữ"
-      ],
-      "full_summary": "Một vụ tấn công xảy ra tại một nhà thờ ở San Diego, Mỹ, khiến ba người thiệt mạng, bao gồm một người đàn ông có 8 người con. Người đàn ông này được mô tả là 'một ánh sáng rực rỡ'. Ông đã cố gắng bảo vệ người khác trong vụ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe450638c165",
-      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T14:44:29.751510+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cô gái bạn gái Epstein có thể phải trả lời trước Quốc hội Mỹ",
-      "bullets": [
-        "Sẽ được triệu tập trước Quốc hội Mỹ",
-        "Cô gái này là Nadia Marcinko",
-        "Cô có thể phải trả lời về vai trò của mình",
-        "Cô đã nhận được một thỏa thuận giảm nhẹ"
-      ],
-      "full_summary": "Nadia Marcinko, người bạn gái của Jeffrey Epstein, có thể sẽ phải trả lời trước Quốc hội Mỹ. Cô là một người không mấy nổi tiếng nhưng có thể sẽ phải chịu trách nhiệm về vai trò của mình trong vụ việc. Theo BBC, cô đã nhận được một thỏa thuận giảm nhẹ và có thể sẽ phải trả lời về hành động của mình. Việc triệu tập cô trước Quốc hội Mỹ có thể sẽ giúp làm sáng tỏ thêm về vụ việc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ed1ecd891646",
-      "title": "Son of Mango boss arrested over father's fatal fall from cliff",
-      "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T14:44:31.075984+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cháu trai chủ tịch Mango bị bắt vì cái chết của cha",
-      "bullets": [
-        "Bị bắt giữ vì liên quan đến cái chết của cha",
-        "Cha bị rơi từ vực thẳm khi đi dạo ở Montserrat",
-        "Tình huống xảy ra vào tháng 12 năm 2024 gần Barcelona",
-        "Cháu trai 71 tuổi bị bắt vì nghi ngờ liên quan"
-      ],
-      "full_summary": "Cháu trai của chủ tịch Mango đã bị bắt giữ vì liên quan đến cái chết của cha. Sự việc xảy ra vào tháng 12 năm 2024 khi cha bị rơi từ vực thẳm ở Montserrat gần Barcelona. Cái chết của ông Isak đã gây ra sự quan tâm lớn và hiện đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6aa2625f4a1d",
-      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
-      "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T14:44:32.092519+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai cơ thể người Ý mất tích được tìm thấy trong hang động Maldives",
-      "bullets": [
-        "Tìm thấy hai cơ thể người Ý trong hang động",
-        "Cơ thể được chuyên gia lặn tìm thấy trong phòng sâu nhất",
-        "Cơ thể được đưa lên mặt nước bằng lặn chuyên nghiệp",
-        "Bốn người lặn bị mất tích trong hang động Maldives"
-      ],
-      "full_summary": "Hai cơ thể người Ý bị mất tích đã được tìm thấy trong hang động Maldives. Họ là hai trong số bốn người lặn bị mất tích trong hang động. Các chuyên gia lặn đã tìm thấy cơ thể trong phòng sâu nhất của hang động và đưa chúng lên mặt nước. Sự việc đã thu hút sự chú ý của nhiều người.",
       "comments": 0,
       "score": 0
     }
