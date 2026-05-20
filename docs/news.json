@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-05-19T19:45:46.890917+00:00",
+  "updated_at": "2026-05-20T02:39:16.413073+00:00",
   "articles": [
+    {
+      "id": "2e5576729343",
+      "title": "Estonia says Nato jet shot down drone over its territory",
+      "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T02:39:01.676051+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "NATO đánh chặn máy bay không người lái trên lãnh thổ Estonia",
+      "bullets": [
+        "Estonia nghi ngờ máy bay không người lái bị rơi do bị nhiễu điện tử của Nga",
+        "Máy bay không người lái được cho là một vật thể do Ukraine phóng nhưng bị lệch hướng",
+        "NATO xác nhận đã bắn hạ máy bay không người lái trên lãnh thổ Estonia",
+        "Estonia yêu cầu Nga giải thích về việc sử dụng nhiễu điện tử"
+      ],
+      "full_summary": "Estonia vừa thông báo rằng một máy bay không người lái đã bị bắn hạ trên lãnh thổ nước này. Theo Estonia, máy bay không người lái này được cho là một vật thể do Ukraine phóng nhưng bị lệch hướng do bị nhiễu điện tử của Nga. NATO cũng xác nhận đã bắn hạ máy bay không người lái này. Estonia đã yêu cầu Nga giải thích về việc sử dụng nhiễu điện tử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11ca1a0a8851",
+      "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
+      "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T02:39:02.728608+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Thái Lan giảm thời gian lưu trú miễn thị thực cho nhiều quốc gia",
+      "bullets": [
+        "Thái Lan sẽ áp dụng thời gian lưu trú miễn thị thực 30 ngày thay vì 60 ngày trước đây",
+        "Các du khách từ hơn 90 quốc gia, bao gồm Anh, sẽ phải xin thị thực sau 30 ngày",
+        "Thay đổi này sẽ có hiệu lực vào thời điểm không được công bố",
+        "Nhiều quốc gia đã phản ứng tiêu cực trước quyết định này"
+      ],
+      "full_summary": "Thái Lan đã quyết định giảm thời gian lưu trú miễn thị thực cho nhiều quốc gia, bao gồm Anh, từ 60 ngày xuống còn 30 ngày. Điều này có nghĩa là các du khách từ hơn 90 quốc gia sẽ phải xin thị thực sau 30 ngày. Quyết định này đã nhận được phản ứng tiêu cực từ nhiều quốc gia. Thái Lan chưa công bố thời điểm áp dụng thay đổi này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42d622403c26",
+      "title": "Google to release first smart glasses since Google Glass flop",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T02:39:04.101748+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Google sắp ra mắt kính thông minh mới sau thất bại của Google Glass",
+      "bullets": [
+        "Google sẽ bán kính thông minh vào mùa thu này",
+        "Kính sẽ cho phép AI của Google tương tác với người dùng",
+        "Đây là lần đầu tiên Google ra mắt kính thông minh kể từ thất bại của Google Glass",
+        "Kính sẽ được bán ra thị trường vào mùa thu này"
+      ],
+      "full_summary": "Google sắp ra mắt kính thông minh mới sau thất bại của Google Glass vào năm 2014. Kính mới sẽ cho phép AI của Google tương tác với người dùng. Đây là lần đầu tiên Google ra mắt kính thông minh kể từ thất bại của Google Glass. Kính sẽ được bán ra thị trường vào mùa thu này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5526769c54ee",
+      "title": "Did Trump really rescue Venezuela? – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T02:39:05.115680+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump không cứu Venezuela, thay vào đó là cuộc 'lật đổ'",
+      "bullets": [
+        "Cựu Tổng thống Venezuela Nicolás Maduro bị bắt giữ bởi Mỹ",
+        "Sự kiện gây ra sự hỗn loạn và đàn áp ở Venezuela",
+        "Nhiều người bị giam giữ và báo chí phải rời khỏi đất nước"
+      ],
+      "full_summary": "Cựu Tổng thống Venezuela Nicolás Maduro bị bắt giữ bởi Mỹ vào tháng 8/2024. Sự kiện này gây ra sự hỗn loạn và đàn áp ở Venezuela. Nhiều người bị giam giữ và báo chí phải rời khỏi đất nước. Một podcast mới của The Guardian đã khám phá cuộc sống ở Venezuela bốn tháng sau sự kiện này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "493194b9a8f2",
+      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
+      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T02:39:06.214641+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh sát Toronto bị bắt vì hành hung ở Barcelona",
+      "bullets": [
+        "Bị bắt 3 cảnh sát Toronto vì hành hung",
+        "Hành hung xảy ra trong một chuyến đi du lịch ở Barcelona",
+        "Cảnh sát bị bắt vì liên quan đến vụ tấn công một người bán dâm",
+        "Vụ việc đang gây tranh cãi và làm tăng áp lực lên lực lượng cảnh sát Toronto"
+      ],
+      "full_summary": "Ba cảnh sát Toronto đã bị bắt vì liên quan đến vụ tấn công một người bán dâm ở Barcelona. Vụ việc xảy ra vào ngày 13 tháng 5 khi 3 cảnh sát đang đi taxi cùng một người bán dâm ở khu vực Ciutat Vella. Lực lượng cảnh sát Barcelona đã tiến hành điều tra và bắt giữ 3 cảnh sát này. Vụ việc đang gây tranh cãi và làm tăng áp lực lên lực lượng cảnh sát Toronto.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65024723e537",
+      "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
+      "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-20T02:39:07.208251+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh sát Jamaica bắn chết phụ nữ trong cuộc biểu tình",
+      "bullets": [
+        "Bắt đầu điều tra vụ bắn chết phụ nữ",
+        "Video cho thấy cảnh sát bắn vào xe và kéo thi thể",
+        "Phụ nữ 45 tuổi bị bắn chết trong khi đang lái xe",
+        "Cảnh sát Jamaica đang điều tra vụ việc"
+      ],
+      "full_summary": "Một video cho thấy cảnh sát Jamaica bắn vào xe của phụ nữ 45 tuổi trong một cuộc biểu tình ở Granville, Jamaica. Phụ nữ này đã bị bắn chết và cảnh sát kéo thi thể đi. Cảnh sát Jamaica đã bắt đầu điều tra vụ việc. Video này đã gây sốc cho người dân Jamaica và đang lan truyền trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6d33a8da35ee",
+      "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
+      "url": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-20T02:39:12.433400+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "RFK Jr. phải rút lại đề xuất mở hội đồng CDC cho các bác sĩ chống vaccine",
+      "bullets": [
+        "Đề xuất mở hội đồng CDC cho các bác sĩ chống vaccine bị rút lại",
+        "RFK Jr. không thể mở rộng tiêu chuẩn thành viên hội đồng CDC",
+        "Hội đồng CDC sẽ tiếp tục tập trung vào các vấn đề về an toàn vaccine",
+        "Đề xuất của RFK Jr. bị phản đối bởi các chuyên gia y tế"
+      ],
+      "full_summary": "Đại diện của RFK Jr. đã phải rút lại đề xuất mở hội đồng CDC cho các bác sĩ chống vaccine. Đề xuất này đã gây ra sự phản đối mạnh mẽ từ các chuyên gia y tế. Hội đồng CDC sẽ tiếp tục tập trung vào các vấn đề về an toàn vaccine và sẽ không mở rộng tiêu chuẩn thành viên. Điều này sẽ giúp ngăn chặn sự lan truyền của thông tin sai lệch về vaccine.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "969845a20e53",
       "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
@@ -658,145 +797,6 @@
         "Công nghệ này có thể mang lại cơ hội mới cho các nhà sản xuất quần áo ở phương Tây"
       ],
       "full_summary": "Các máy móc tự động mới đang được phát triển để sản xuất quần áo, có thể mang công việc dệt may trở lại phương Tây. Những máy móc này có thể sản xuất quần áo nhanh chóng và hiệu quả, đáp ứng nhu cầu đa dạng của người tiêu dùng. Công nghệ này có thể giúp giảm chi phí sản xuất và tăng cường cạnh tranh cho các nhà sản xuất quần áo. Điều này có thể mang lại cơ hội mới cho các nhà sản xuất quần áo ở phương Tây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "344c1d248383",
-      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
-      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T02:38:40.394810+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi lửng ở Anh",
-      "bullets": [
-        "Sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi số lượng lửng ở Anh",
-        "Nghiên cứu giúp xác định rào cản ngăn lửng tìm kiếm thức ăn và bạn tình",
-        "Hy vọng dự án sẽ giúp giảm tốc độ suy giảm số lượng lửng ở Anh",
-        "Dự án sử dụng trí tuệ nhân tạo để phân tích dữ liệu từ vệ tinh"
-      ],
-      "full_summary": "Các nhà nghiên cứu tại Anh đang sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi số lượng lửng ở Anh. Mục tiêu của dự án là giúp xác định rào cản ngăn lửng tìm kiếm thức ăn và bạn tình, từ đó giảm tốc độ suy giảm số lượng lửng ở Anh. Dự án sử dụng trí tuệ nhân tạo để phân tích dữ liệu từ vệ tinh và theo dõi số lượng lửng ở các khu vực khác nhau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c119955f35c5",
-      "title": "Australian Aboriginals cared for a dingo's grave for decades",
-      "url": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-19T02:38:45.450965+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người Aboriginal Australia chăm sóc mộ chó sói trong hàng thập kỷ",
-      "bullets": [
-        "Chăm sóc mộ chó sói là một phần quan trọng của văn hóa người Aboriginal",
-        "Các cộng đồng Aboriginal coi chó sói như một phần của gia đình",
-        "Nghiên cứu cho thấy mối quan hệ gần gũi giữa người Aboriginal và chó sói",
-        "Mộ chó sói có thể là bằng chứng về mối quan hệ này"
-      ],
-      "full_summary": "Một nghiên cứu gần đây đã phát hiện ra rằng một số cộng đồng người Aboriginal Australia đã chăm sóc mộ chó sói trong hàng thập kỷ. Điều này cho thấy mối quan hệ gần gũi giữa người Aboriginal và chó sói. Các nghiên cứu cho thấy rằng chó sói đã được coi như một phần của gia đình và được chăm sóc như vậy. Điều này có thể là bằng chứng về mối quan hệ gần gũi giữa người Aboriginal và chó sói trong quá khứ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3576d4e6bd57",
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T19:28:53.318335+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Số người chết từ các vụ tấn công của Israel tại Lebanon đạt mốc 3.000",
-      "bullets": [
-        "Tấn công của Israel đã gây ra thương vong nặng nề cho người dân Lebanon",
-        "Số người chết đã đạt mốc 3.000 kể từ tháng 3",
-        "Mặc dù có trật tự ngừng bắn nhưng xung đột vẫn tiếp diễn",
-        "Hamas và Hezbollah vẫn tiếp tục chiến đấu"
-      ],
-      "full_summary": "Số người chết từ các vụ tấn công của Israel tại Lebanon đã đạt mốc 3.000, theo các quan chức. Điều này đánh dấu một mốc quan trọng trong cuộc xung đột giữa Israel và nhóm vũ trang Hezbollah kể từ tháng 3. Mặc dù có trật tự ngừng bắn nhưng xung đột vẫn tiếp diễn. Các quan chức cho biết số người chết đã tăng lên đáng kể kể từ khi xung đột bắt đầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "873cdf1c8cc9",
-      "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
-      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T19:28:54.364172+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai người Mỹ bị bắt vì vụ nhảy vào khu vực của khỉ Punch nổi tiếng",
-      "bullets": [
-        "Bị bắt hai người Mỹ",
-        "Một người nhảy qua rào bảo vệ khỉ Punch",
-        "Khỉ Punch nổi tiếng trên mạng xã hội",
-        "Cảnh sát điều tra vụ việc"
-      ],
-      "full_summary": "Hai công dân Mỹ bị bắt vì một người nhảy qua rào bảo vệ khu vực của khỉ Punch nổi tiếng. Khỉ Punch đã trở nên nổi tiếng trên mạng xã hội. Cảnh sát đang điều tra vụ việc. Thông tin chi tiết vẫn chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cf473a67a01",
-      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T19:28:58.252110+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Elon Musk thua vụ kiện mới, liệu ông sẽ tiếp tục chiến đấu?",
-      "bullets": [
-        "Thua kiện của OpenAI là một trong những thất bại của Musk trong tòa án.",
-        "Musk đã phải đối mặt với nhiều vụ kiện khác nhau trong thời gian gần đây.",
-        "Sự thua của Musk có thể ảnh hưởng đến uy tín và danh tiếng của ông."
-      ],
-      "full_summary": "Elon Musk vừa thua một vụ kiện mới của công ty OpenAI. Đây là một trong những thất bại của Musk trong tòa án. Musk đã phải đối mặt với nhiều vụ kiện khác nhau trong thời gian gần đây, bao gồm cả vụ kiện của các cổ đông Tesla. Sự thua của Musk có thể ảnh hưởng đến uy tín và danh tiếng của ông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3acb227aa20d",
-      "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
-      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T19:28:59.408600+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hội đồng xét xử bác bỏ vụ kiện của Elon Musk chống lại OpenAI và Sam Altman",
-      "bullets": [
-        "Bác bỏ cáo buộc của Elon Musk về việc Sam Altman 'chặt cắp từ thiện'",
-        "Hội đồng xét xử đã dành gần một tháng để xem xét và xem xét bằng chứng trong vụ án",
-        "Elon Musk đã kiện Sam Altman và OpenAI vì 'chặt cắp từ thiện'",
-        "Hội đồng xét xử đã đưa ra phán quyết cuối cùng sau khi xem xét bằng chứng"
-      ],
-      "full_summary": "Hội đồng xét xử đã bác bỏ vụ kiện của Elon Musk chống lại Sam Altman và OpenAI. Vụ án đã kéo dài gần một tháng, trong đó hội đồng xét xử đã xem xét và xem xét bằng chứng. Elon Musk đã cáo buộc Sam Altman 'chặt cắp từ thiện', nhưng hội đồng xét xử đã đưa ra phán quyết cuối cùng bác bỏ cáo buộc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d102caaf580b",
-      "title": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
-      "url": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-18T19:29:02.418478+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Cuba cảnh báo Mỹ về 'tàn sát' nếu hành động quân sự",
-      "bullets": [
-        "Cuba cảnh báo Mỹ về 'tàn sát' nếu hành động quân sự",
-        "Miguel Díaz-Canel nói Cuba không gây ra mối đe dọa",
-        "Cuba cảnh báo về hậu quả nghiêm trọng cho hòa bình và ổn định khu vực",
-        "Mỹ cáo buộc Cuba sử dụng hơn 300 máy bay không người lái"
-      ],
-      "full_summary": "Tổng thống Cuba Miguel Díaz-Canel cảnh báo Mỹ về hậu quả nghiêm trọng nếu Mỹ tiến hành hành động quân sự chống lại Cuba. Ông Díaz-Canel nói Cuba không gây ra mối đe dọa và cảnh báo về hậu quả 'tàn sát' nếu Mỹ tiến hành hành động quân sự. Mỹ cáo buộc Cuba sử dụng hơn 300 máy bay không người lái, nhưng Cuba chưa xác nhận thông tin này. Hậu quả của tình hình này vẫn chưa rõ ràng.",
       "comments": 0,
       "score": 0
     }
