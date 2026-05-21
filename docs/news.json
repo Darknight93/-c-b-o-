@@ -1,6 +1,206 @@
 {
-  "updated_at": "2026-05-21T14:49:53.455508+00:00",
+  "updated_at": "2026-05-21T19:46:25.276354+00:00",
   "articles": [
+    {
+      "id": "b921bbbafafc",
+      "title": "Pair arrested after boys abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:07.912657+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai người bị bắt vì bỏ rơi hai cậu bé ở Bồ Đào Nha",
+      "bullets": [
+        "Bị bắt hai người vì bỏ rơi hai cậu bé",
+        "Cậu bé bị bỏ rơi mang theo ba lô có thức ăn và nước uống",
+        "Cậu bé không có giấy tờ tùy thân khi bị bỏ rơi",
+        "Cậu bé được một người lái xe phát hiện"
+      ],
+      "full_summary": "Hai người bị bắt vì bỏ rơi hai cậu bé ở Bồ Đào Nha. Cậu bé bị bỏ rơi mang theo ba lô có thức ăn và nước uống nhưng không có giấy tờ tùy thân. Cậu bé được một người lái xe phát hiện và đưa đến cơ quan chức năng. Hiện tại, hai người bị bắt đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cd6e1ffabb9e",
+      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:09.900271+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Walmart cảnh báo người Mỹ cắt giảm chi tiêu do giá xăng tăng",
+      "bullets": [
+        "Walmart dự đoán người tiêu dùng Mỹ sẽ cắt giảm chi tiêu",
+        "Giá xăng tăng cao ảnh hưởng đến chi tiêu của người Mỹ",
+        "Người tiêu dùng Mỹ có thể sẽ cắt giảm chi tiêu trong các tháng tới",
+        "Walmart dự đoán doanh số sẽ giảm do giá xăng tăng cao"
+      ],
+      "full_summary": "Walmart, một trong những công ty bán lẻ lớn nhất thế giới, đã cảnh báo rằng người tiêu dùng Mỹ sẽ cắt giảm chi tiêu do giá xăng tăng cao. Công ty này dự đoán rằng người tiêu dùng sẽ cắt giảm chi tiêu trong các tháng tới. Giá xăng tăng cao đã ảnh hưởng đến chi tiêu của người Mỹ, và Walmart dự đoán rằng doanh số sẽ giảm do giá xăng tăng cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cf473a67a01",
+      "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:11.256911+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Elon Musk thua vụ kiện với OpenAI",
+      "bullets": [
+        "Musk thua vụ kiện chống lại OpenAI",
+        "Musk sẽ tiếp tục chiến đấu với phong cách quyết liệt",
+        "Sự thua lỗ không ảnh hưởng đến kế hoạch của Musk",
+        "Musk sẽ tiếp tục tìm kiếm cơ hội để thắng"
+      ],
+      "full_summary": "Elon Musk vừa thua một vụ kiện quan trọng chống lại OpenAI. Mặc dù thua, Musk vẫn không thay đổi phong cách quyết liệt của mình. Sự thua lỗ không ảnh hưởng đến kế hoạch của Musk, và ông sẽ tiếp tục tìm kiếm cơ hội để thắng. Musk đã mất một trận đấu quan trọng, nhưng ông vẫn không từ bỏ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6c2591e62e22",
+      "title": "Robo-top: The machines that could make your next t-shirt",
+      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:12.180942+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy móc mới có thể mang công việc dệt may trở lại phương Tây",
+      "bullets": [
+        "Tạo ra những chiếc áo mới bằng cách sử dụng máy móc",
+        "Cung cấp công việc cho người lao động ở phương Tây",
+        "Sử dụng công nghệ để sản xuất quần áo",
+        "Có thể thay thế một phần lao động ở châu Á"
+      ],
+      "full_summary": "Một loại máy móc mới có thể giúp sản xuất quần áo tại phương Tây, thay vì chỉ sản xuất ở châu Á. Máy móc này có thể tạo ra những chiếc áo mới bằng cách sử dụng công nghệ tiên tiến. Điều này có thể mang lại công việc cho người lao động ở phương Tây và thay thế một phần lao động ở châu Á.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "344c1d248383",
+      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:13.252745+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Nghiên cứu sử dụng vệ tinh và AI để theo dõi loài gấu mèo ở Anh",
+      "bullets": [
+        "Sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi loài gấu mèo ở Anh",
+        "Hi vọng dự án này sẽ giúp xác định rào cản ngăn cản gấu mèo tìm kiếm thức ăn và bạn tình",
+        "Dự án nhằm giảm thiểu sự suy giảm số lượng gấu mèo ở Anh",
+        "Nghiên cứu này sẽ giúp hiểu rõ hơn về hành vi của loài gấu mèo"
+      ],
+      "full_summary": "Các nhà nghiên cứu đang sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi loài gấu mèo ở Anh trong nỗ lực giảm thiểu sự suy giảm số lượng của chúng. Dự án này nhằm xác định rào cản ngăn cản gấu mèo tìm kiếm thức ăn và bạn tình. Các nhà nghiên cứu hy vọng rằng thông tin thu thập được sẽ giúp hiểu rõ hơn về hành vi của loài gấu mèo và từ đó đưa ra các biện pháp bảo vệ hiệu quả hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27308f527197",
+      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
+      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:14.589289+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hoa Kỳ cấm du khách từ DRC, Uganda và Nam Sudan không phải giải pháp cho dịch Ebola",
+      "bullets": [
+        "Cấm du khách từ DRC, Uganda và Nam Sudan có thể làm tình hình dịch Ebola trở nên tồi tệ hơn",
+        "Africa CDC cho rằng hạn chế này có thể tăng nguy cơ rủi ro về sức khỏe công cộng",
+        "Dịch Ebola được tuyên bố là tình trạng khẩn cấp về sức khỏe công cộng toàn cầu vào Chủ nhật",
+        "Một trường hợp mới được báo cáo ở tỉnh Nam Kivu của DRC, một khu vực nằm dưới sự kiểm soát của các nhóm phiến quân vũ trang"
+      ],
+      "full_summary": "Hoa Kỳ đã cấm du khách từ DRC, Uganda và Nam Sudan sau khi dịch Ebola được tuyên bố là tình trạng khẩn cấp về sức khỏe công cộng toàn cầu. Tuy nhiên, các chuyên gia cho rằng hạn chế này có thể làm tình hình dịch Ebola trở nên tồi tệ hơn. Africa CDC cho rằng hạn chế này có thể tăng nguy cơ rủi ro về sức khỏe công cộng. Dịch Ebola tiếp tục lây lan, với một trường hợp mới được báo cáo ở tỉnh Nam Kivu của DRC.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca2fc67d80cb",
+      "title": "Macron under pressure over reparatory justice for France’s role in slave trade",
+      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:15.611553+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Pháp Macron đối mặt áp lực về công lý cho người châu Phi bị nô lệ",
+      "bullets": [
+        "Đáp ứng đòi hỏi tăng cao về công lý cho nạn nô lệ",
+        "Khởi xướng quá trình thảo luận về cách giải quyết di sản nô lệ",
+        "Chủ tịch Macron chuẩn bị phát biểu về di sản nô lệ",
+        "Pháp công nhận nô lệ là tội ác chống loài người từ năm 2001"
+      ],
+      "full_summary": "Chủ tịch Pháp Emmanuel Macron đang đối mặt áp lực để mở ra quá trình thảo luận về công lý cho nạn nô lệ sau khi chuẩn bị phát biểu về di sản nô lệ. Pháp đã công nhận nô lệ là tội ác chống loài người từ năm 2001. Ngày mai, Macron sẽ kỷ niệm 25 năm Pháp trở thành quốc gia đầu tiên công nhận nô lệ là tội ác chống loài người. Các nhà hoạt động đang đòi hỏi phải có một quá trình thảo luận chính thức về cách giải quyết di sản nô lệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3efcd2a1805c",
+      "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
+      "url": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:17.081436+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mỹ bỏ qua nỗ lực ngăn chặn dịch Ebola",
+      "bullets": [
+        "Báo cáo hàng trăm trường hợp nhiễm Ebola tại DRC",
+        "USAID bị giải thể và nghiên cứu khoa học quan trọng bị hủy bỏ",
+        "Không có thuốc chữa và vắc-xin cho biến thể Ebola hiếm gặp Bundibugyo",
+        "Các nhà lãnh đạo y tế và nhà khoa học đang nỗ lực ngăn chặn dịch bệnh"
+      ],
+      "full_summary": "Một đợt bùng phát Ebola mới chưa được phát hiện trước đây đang lan rộng ở các phần của Trung Phi. Mỹ dường như không làm gì để ngăn chặn dịch bệnh sau khi cắt giảm mạnh mẽ các nỗ lực y tế toàn cầu và trong nước. Không có thuốc chữa và vắc-xin cho biến thể Ebola hiếm gặp Bundibugyo, các nhà lãnh đạo y tế và nhà khoa học đang nỗ lực ngăn chặn dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "14eda66f122f",
+      "title": "Cubans outraged at US charges against Raúl Castro as fears of military strikes grow",
+      "url": "https://www.theguardian.com/world/2026/may/21/cuba-us-attack-raul-castro-indictment",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T19:46:18.205861+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ truy tố Raúl Castro, Cuba lo ngại tấn công quân sự",
+      "bullets": [
+        "Mỹ đưa ra cáo buộc hình sự chống lại Raúl Castro, cựu tổng thống Cuba",
+        "Cuba lo ngại Mỹ có thể tấn công đảo này",
+        "Người dân Havana lo lắng về khả năng xảy ra chiến tranh",
+        "Cộng đồng quốc tế đang theo dõi tình hình chặt chẽ"
+      ],
+      "full_summary": "Mỹ đã đưa ra cáo buộc hình sự chống lại Raúl Castro, cựu tổng thống Cuba. Điều này đã khiến người dân Havana lo lắng về khả năng xảy ra chiến tranh. Fears của người dân Cuba đang tăng cao khi Mỹ có thể tấn công đảo này. Cộng đồng quốc tế đang theo dõi tình hình chặt chẽ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3ba59fe833bd",
+      "title": "Plug-in hybrids get plugged in more than you might think",
+      "url": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-21T19:46:21.941135+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Toyota báo cáo số liệu sạc xe lai điện",
+      "bullets": [
+        "Toyota công bố số liệu sạc xe lai điện cao",
+        "Số lượng xe được sạc tăng đáng kể so với dự kiến",
+        "Toyota khuyến khích người tiêu dùng sử dụng xe lai điện",
+        "Số liệu này cho thấy tiềm năng của xe lai điện trong tương lai"
+      ],
+      "full_summary": "Toyota vừa công bố số liệu sạc xe lai điện của họ, cho thấy số lượng xe được sạc tăng đáng kể so với dự kiến. Điều này cho thấy tiềm năng của xe lai điện trong tương lai. Toyota khuyến khích người tiêu dùng sử dụng xe lai điện để giảm thiểu tác động môi trường.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1436d96685bf",
       "title": "Iran steps up claim to control Strait of Hormuz",
@@ -595,205 +795,6 @@
         "Cáo buộc liên quan đến hoạt động tình báo của Nga tại Áo"
       ],
       "full_summary": "Một cựu quan chức tình báo Áo vừa bị kết tội gián điệp cho Nga. Vụ việc này đã gây ra sự phẫn nộ trong cộng đồng và làm dấy lên lo ngại Áo vẫn là nơi hoạt động gián điệp của Nga. Cáo buộc liên quan đến hoạt động tình báo của Nga tại Áo đã được đưa ra và đang được điều tra. Vụ việc này đã gây ra sự chú ý lớn trong cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8c8d6f08a820",
-      "title": "US military jets and drones tracked near Cuba as tensions rise",
-      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T20:05:21.539167+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Máy bay quân sự Mỹ theo dõi gần Cuba trong lúc căng thẳng tăng cao",
-      "bullets": [
-        "Theo dõi dữ liệu cho thấy máy bay trinh sát Hải quân Mỹ và máy bay không người lái hoạt động gần Cuba",
-        "Các máy bay và drone được theo dõi trong tuần qua",
-        "Căng thẳng giữa Mỹ và Cuba tăng cao",
-        "Mỹ và Cuba chưa đưa ra bình luận chính thức về tình hình"
-      ],
-      "full_summary": "Theo dõi dữ liệu cho thấy máy bay trinh sát Hải quân Mỹ và máy bay không người lái hoạt động gần Cuba trong tuần qua. Căng thẳng giữa Mỹ và Cuba tăng cao sau khi máy bay quân sự Mỹ được theo dõi gần đảo quốc này. Mặc dù Mỹ và Cuba chưa đưa ra bình luận chính thức về tình hình, nhưng nhiều người tin rằng tình hình có thể trở nên tồi tệ hơn. Các quan chức Mỹ cho biết họ đang theo dõi tình hình chặt chẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b0f267fa19e9",
-      "title": "Whale to be removed from Danish island after failed German rescue",
-      "url": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T20:05:22.489553+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Vòng vây xung quanh cá voi bị mắc kẹt trên đảo Đan Mạch",
-      "bullets": [
-        "Cá voi sẽ được kiểm tra sau khi chết",
-        "Cá voi được thả ra biển sau hơn hai tuần",
-        "Đan Mạch sẽ tiến hành kiểm tra sau khi chết",
-        "Cá voi bị mắc kẹt trên đảo Đan Mạch"
-      ],
-      "full_summary": "Cá voi bị mắc kẹt trên đảo Đan Mạch sau khi một nỗ lực cứu hộ của Đức thất bại. Đan Mạch sẽ tiến hành kiểm tra sau khi chết để xác định nguyên nhân. Cá voi được thả ra biển sau hơn hai tuần. Vụ việc đang gây sự chú ý trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e4dbbeba9e2",
-      "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
-      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T20:05:24.628618+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Bác sĩ Mỹ nhiễm Ebola được đưa sang Đức điều trị",
-      "bullets": [
-        "Được đưa sang Đức vì nhiễm Ebola",
-        "Bác sĩ và gia đình đang được theo dõi",
-        "WHO cảnh báo về sự bùng phát nhanh chóng của dịch",
-        "Dịch đã lan rộng vào các khu vực thành thị"
-      ],
-      "full_summary": "Một bác sĩ Mỹ nhiễm Ebola đã được đưa sang Đức điều trị. Ông đã nhiễm bệnh trong một đợt bùng phát ở Cộng hòa Dân chủ Congo. Tổ chức Y tế Thế giới đã cảnh báo về sự bùng phát nhanh chóng của dịch, với ít nhất 134 trường hợp tử vong và hơn 500 ca nhiễm. Dịch đã lan rộng vào các khu vực thành thị và đã được tuyên bố là một tình huống khẩn cấp về sức khỏe công cộng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f7b0324d248",
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-20T20:05:29.082635+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Google công bố mã khai thác, đe dọa hàng triệu người dùng Chromium",
-      "bullets": [
-        "Google công bố mã khai thác trước khi sửa lỗi",
-        "Mã khai thác đe dọa hàng triệu người dùng Chromium",
-        "Lỗi đã được báo cáo 29 tháng trước",
-        "Google đã công bố mã khai thác để giúp người dùng bảo vệ mình"
-      ],
-      "full_summary": "Google đã công bố mã khai thác cho lỗi trong Chromium, mặc dù lỗi này đã được báo cáo 29 tháng trước. Điều này có thể giúp người dùng bảo vệ mình trước khi Google phát hành bản vá lỗi. Tuy nhiên, việc công bố mã khai thác trước khi sửa lỗi có thể gây ra những rủi ro cho người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cfebf6b07a69",
-      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
-      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T14:45:59.228636+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Xi Jinping thu hút sự chú ý bằng cách tiếp đón Putin sau chuyến thăm của Trump",
-      "bullets": [
-        "Xi Jinping tiếp đón Tổng thống Putin trong chuyến thăm gần đây",
-        "Hai chuyến thăm tổng thống trong vòng hai ngày giúp Xi Jinping thể hiện vị thế toàn cầu",
-        "Chuyến thăm của Putin giúp Xi Jinping thể hiện sự độc lập trong chính sách đối ngoại",
-        "Chuyến thăm của Trump và Putin giúp Xi Jinping chứng minh khả năng ngoại giao"
-      ],
-      "full_summary": "Xi Jinping đang cố gắng thể hiện vị thế toàn cầu bằng cách tiếp đón Tổng thống Putin trong chuyến thăm gần đây. Đây là lần thứ hai trong vòng hai ngày mà Xi Jinping tiếp đón tổng thống nước ngoài, sau chuyến thăm của Tổng thống Trump. Chuyến thăm của Putin giúp Xi Jinping thể hiện sự độc lập trong chính sách đối ngoại và khả năng ngoại giao. Điều này giúp Xi Jinping chứng minh rằng Trung Quốc không bị ràng buộc bởi bất kỳ liên minh nào.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "483c5806a8f4",
-      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
-      "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T14:46:00.130661+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Trump thắng lớn trong cuộc bầu cử ở Kentucky",
-      "bullets": [
-        "Thắng cử ông Massie, Trump thể hiện sức mạnh trong Đảng Cộng hòa",
-        "Thắng cử này giúp Trump chuẩn bị cho cuộc bầu cử giữa kỳ",
-        "Tuy nhiên, quyền lực của Trump cũng mang lại rủi ro cho Đảng Cộng hòa"
-      ],
-      "full_summary": "Ngoại trưởng Mỹ Mike Pompeo đã ủng hộ ông Trump trong cuộc bầu cử ở Kentucky. Ông Massie, một người phản đối của Trump, đã bị đánh bại. Chiến thắng này cho thấy sức mạnh của Trump trong Đảng Cộng hòa. Tuy nhiên, quyền lực của ông cũng mang lại rủi ro cho Đảng Cộng hòa trong cuộc bầu cử giữa kỳ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "722fd937d7e6",
-      "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
-      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T14:46:01.051174+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "WHO cảnh báo số ca nhiễm Ebola có thể tăng thêm",
-      "bullets": [
-        "WHO công bố 139 trường hợp tử vong nghi nhiễm Ebola",
-        "Tổng số ca nhiễm Ebola đã lên đến 600",
-        "WHO cảnh báo số ca nhiễm Ebola có thể tiếp tục tăng",
-        "WHO đang theo dõi tình hình nghiêm túc"
-      ],
-      "full_summary": "WHO vừa công bố số liệu mới về bệnh Ebola, cho biết đã có 139 trường hợp tử vong nghi nhiễm Ebola và tổng số ca nhiễm đã lên đến 600. WHO cảnh báo số ca nhiễm Ebola có thể tiếp tục tăng và đang theo dõi tình hình nghiêm túc. Điều này cho thấy sự phức tạp của bệnh và cần có các biện pháp phòng ngừa và điều trị hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a7b51e7e09db",
-      "title": "Lithuania's leaders take shelter during drone air alert",
-      "url": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T14:46:02.288871+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Lithuania phát hiện drone gần biên giới Belarus",
-      "bullets": [
-        "Cảnh báo không lưu được kích hoạt",
-        "Hành khách được yêu cầu tìm nơi an toàn",
-        "Các chuyến bay bị đình chỉ",
-        "Lãnh đạo Lithuania tìm nơi trú ẩn"
-      ],
-      "full_summary": "Lithuania đã kích hoạt cảnh báo không lưu và yêu cầu người dân tìm nơi an toàn sau khi phát hiện một chiếc drone nghi ngờ gần biên giới Belarus. Các chuyến bay đã bị đình chỉ và lãnh đạo Lithuania đã tìm nơi trú ẩn. Sự cố này đã gây ra sự lo lắng về an ninh quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89a758ae1732",
-      "title": "Barney Frank: One of the first openly gay US congressmen dies aged 86",
-      "url": "https://www.bbc.com/news/articles/ckgpy2ze3q1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T14:46:03.316769+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hạ nghị sĩ Barney Frank qua đời ở tuổi 86",
-      "bullets": [
-        "Là một trong những hạ nghị sĩ đồng tính công khai đầu tiên của Mỹ",
-        "Đã qua đời sau nhiều tuần ở nhà dưỡng lão ở Maine",
-        "Có hơn 30 năm kinh nghiệm làm việc trong Quốc hội Mỹ",
-        "Là một nhà lãnh đạo quan trọng trong các vấn đề tài chính"
-      ],
-      "full_summary": "Hạ nghị sĩ Barney Frank, một trong những hạ nghị sĩ đồng tính công khai đầu tiên của Mỹ, đã qua đời ở tuổi 86. Ông đã dành hơn 30 năm để làm việc trong Quốc hội Mỹ và là một nhà lãnh đạo quan trọng trong các vấn đề tài chính. Trong những tuần cuối cùng của cuộc đời, ông đã sống ở nhà dưỡng lão ở Maine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "db319e6de7b9",
-      "title": "US groups urge investigation into child safety and spending on Roblox",
-      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T14:46:04.367097+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nhóm Mỹ kêu gọi điều tra an toàn trẻ em và chi tiêu trên Roblox",
-      "bullets": [
-        "Kêu gọi điều tra chi tiêu và an toàn trẻ em trên Roblox",
-        "Roblox khẳng định có chính sách rõ ràng cấm đánh bạc thực tế và ảo",
-        "Tổ chức Mỹ lên án Roblox vì không kiểm soát tốt các mặt hàng trả tiền ngẫu nhiên",
-        "Roblox cho biết có các quy tắc điều chỉnh mặt hàng trả tiền ngẫu nhiên"
-      ],
-      "full_summary": "Một nhóm tổ chức Mỹ kêu gọi điều tra chi tiêu và an toàn trẻ em trên nền tảng chơi game trực tuyến Roblox. Họ lên án Roblox vì không kiểm soát tốt các mặt hàng trả tiền ngẫu nhiên. Roblox cho biết đã có các chính sách rõ ràng cấm đánh bạc thực tế và ảo, cũng như các quy tắc điều chỉnh mặt hàng trả tiền ngẫu nhiên. Tuy nhiên, các tổ chức Mỹ vẫn cho rằng cần phải có một cuộc điều tra để đảm bảo an toàn cho trẻ em.",
       "comments": 0,
       "score": 0
     }
