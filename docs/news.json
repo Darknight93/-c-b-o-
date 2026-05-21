@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-20T20:05:32.415312+00:00",
+  "updated_at": "2026-05-21T02:41:19.869869+00:00",
   "articles": [
+    {
+      "id": "711b05aecc2c",
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T02:41:04.384204+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ truy tố Raúl Castro về tội giết người sau vụ rơi máy bay năm 1996",
+      "bullets": [
+        "Mỹ truy tố Raúl Castro và 5 người khác về tội đồng phạm giết người",
+        "Các bị cáo bị buộc tội giết người và phá hủy máy bay",
+        "Vụ việc liên quan đến vụ rơi máy bay hai chiếc năm 1996",
+        "Các bị cáo có thể đối mặt với hình phạt nghiêm trọng"
+      ],
+      "full_summary": "Mỹ đã truy tố Raúl Castro, cựu lãnh đạo Cuba, và 5 người khác về tội giết người, phá hủy máy bay và đồng phạm giết người. Vụ việc liên quan đến vụ rơi máy bay hai chiếc năm 1996, khiến 4 người Mỹ thiệt mạng. Các bị cáo có thể đối mặt với hình phạt nghiêm trọng nếu bị kết tội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b5102ca2336",
+      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T02:41:05.602989+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "TikTok và YouTube không an toàn cho trẻ em, theo Ofcom",
+      "bullets": [
+        "Ofcom cảnh báo TikTok và YouTube không đủ an toàn cho trẻ em",
+        "YouTube hợp tác với chuyên gia để cung cấp trải nghiệm phù hợp",
+        "TikTok thất vọng vì Ofcom không công nhận các tính năng an toàn của mình",
+        "Các nền tảng này cần cải thiện để bảo vệ trẻ em"
+      ],
+      "full_summary": "Tổ chức quản lý truyền thông Ofcom ở Anh đã cảnh báo rằng TikTok và YouTube không đủ an toàn cho trẻ em. Các nền tảng này cần cải thiện để bảo vệ trẻ em khỏi nội dung không phù hợp. YouTube cho biết đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp, trong khi TikTok cho biết thất vọng vì Ofcom không công nhận các tính năng an toàn của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a9e461a370f2",
+      "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T02:41:06.506177+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "SpaceX nộp đơn IPO, có thể làm Elon Musk trở thành tỷ phú",
+      "bullets": [
+        "SpaceX nộp đơn IPO để huy động vốn",
+        "Công ty sẽ được giao dịch dưới mã cổ phiếu SPCX",
+        "Musk có thể trở thành tỷ phú nếu IPO thành công",
+        "SpaceX đang mở rộng hoạt động trong lĩnh vực vệ tinh và internet"
+      ],
+      "full_summary": "SpaceX, công ty do Elon Musk sáng lập, đã nộp đơn IPO để huy động vốn. Nếu IPO thành công, Musk có thể trở thành tỷ phú. Công ty sẽ được giao dịch dưới mã cổ phiếu SPCX và sẽ mở rộng hoạt động trong lĩnh vực vệ tinh và internet.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "68d4d672cf1d",
+      "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
+      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T02:41:07.578394+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "WHO cân nhắc sử dụng vaccine thử nghiệm để chống Ebola tại DRC",
+      "bullets": [
+        "WHO đang xem xét sử dụng vaccine hoặc thuốc đang phát triển để chống Ebola",
+        "Tổng thống WHO bày tỏ lo ngại sâu sắc về tốc độ và quy mô của dịch bệnh",
+        "Số ca nhiễm Ebola tại DRC đã tăng lên 500, số ca tử vong là 130",
+        "Sự trở lại của Ebola đã gây ra sự hoảng loạn ở đông bắc DRC"
+      ],
+      "full_summary": "WHO đang cân nhắc sử dụng vaccine hoặc thuốc đang phát triển để chống Ebola tại Cộng hòa Dân chủ Congo. Tổng thống WHO bày tỏ lo ngại sâu sắc về tốc độ và quy mô của dịch bệnh. Số ca nhiễm Ebola đã tăng lên 500, số ca tử vong là 130. Sự trở lại của Ebola đã gây ra sự hoảng loạn ở đông bắc DRC.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "37137710a1db",
+      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
+      "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T02:41:08.638996+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "WHO cảnh báo về Ebola ở DRC: Bài học từ các đợt bùng phát trước",
+      "bullets": [
+        "Cảnh báo về sự phức tạp trong phản ứng với đợt bùng phát Ebola do biến thể Bundibugyo",
+        "Mistrust và chậm phát hiện có thể làm phức tạp quá trình ứng phó",
+        "Các biện pháp phòng ngừa như khử khuẩn và theo dõi nhiệt độ đang được thực hiện",
+        "Đội ngũ theo dõi tiếp xúc đang hoạt động khắp cả nước"
+      ],
+      "full_summary": "WHO đã cảnh báo về đợt bùng phát Ebola ở Cộng hòa Dân chủ Congo (DRC). Các chuyên gia lo ngại rằng sự phức tạp trong phản ứng với đợt bùng phát này có thể do sự thiếu tin tưởng và chậm phát hiện. Các biện pháp phòng ngừa như khử khuẩn và theo dõi nhiệt độ đang được thực hiện để ngăn chặn sự lây lan của virus. Đội ngũ theo dõi tiếp xúc đang hoạt động khắp cả nước để tìm kiếm những người có thể đã tiếp xúc với virus.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50385fecf356",
+      "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T02:41:09.995718+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hoa Kỳ tăng nhập cư trắng Nam Phi vì 'tình huống khẩn cấp'",
+      "bullets": [
+        "Tăng nhập cư trắng Nam Phi lên 17.500 người",
+        "Hoa Kỳ tuyên bố tình huống khẩn cấp tại Nam Phi",
+        "Trump từng nói trắng Nam Phi đang bị diệt chủng",
+        "Tình huống tại Nam Phi đã thay đổi bất ngờ"
+      ],
+      "full_summary": "Hoa Kỳ vừa tuyên bố sẽ tăng nhập cư trắng Nam Phi lên 17.500 người trong năm nay, sau khi cho rằng tình huống tại Nam Phi đã thay đổi bất ngờ. Điều này diễn ra sau khi Tổng thống Donald Trump nhiều lần tuyên bố trắng Nam Phi đang bị diệt chủng, nhưng chính phủ Nam Phi đã bác bỏ những tuyên bố này. Trump cho rằng việc nhập cư trắng Nam Phi sẽ tốn khoảng 100 triệu USD.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52694742b088",
+      "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+      "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T02:41:11.702334+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Bolivia chìm trong cuộc biểu tình dữ dội",
+      "bullets": [
+        "Hàng chục nghìn người biểu tình trên đường phố La Paz",
+        "Cảnh sát và biểu tình xung đột dữ dội trong tuần thứ hai",
+        "Tổng thống Rodrigo Paz Pereira gặp khó khăn trong nhiệm kỳ mới",
+        "Biểu tình chặn nhiều con đường ở Bolivia"
+      ],
+      "full_summary": "Bolivia đang chìm trong cuộc biểu tình dữ dội sau khi tổng thống Rodrigo Paz Pereira lên nắm quyền chỉ 6 tháng. Hàng chục nghìn người biểu tình trên đường phố La Paz, xung đột với cảnh sát. Cuộc biểu tình đã chặn nhiều con đường ở Bolivia và biến trung tâm thủ đô La Paz thành một chiến trường. Hoa Kỳ đã cảnh báo về khả năng đảo chính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6dff552ea304",
+      "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
+      "url": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-21T02:41:14.341701+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "NASA Psyche tàu vũ trụ chụp ảnh Trái Đất từ góc nhìn mới",
+      "bullets": [
+        "Chụp ảnh Trái Đất từ góc nhìn chưa từng thấy",
+        "Cung cấp hình ảnh Trái Đất từ một góc nhìn hiếm hoi",
+        "Tàu vũ trụ Psyche chụp ảnh sao Hỏa từ góc nhìn độc đáo",
+        "Cung cấp thông tin mới về hành tinh đỏ"
+      ],
+      "full_summary": "Tàu vũ trụ Psyche của NASA vừa chụp ảnh Trái Đất từ một góc nhìn chưa từng thấy. Hình ảnh này được chụp khi tàu vũ trụ đang trên đường đến sao Hỏa. Ngoài ra, tàu vũ trụ còn chụp ảnh sao Hỏa từ một góc nhìn độc đáo, cung cấp thông tin mới về hành tinh đỏ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2539f8450934",
+      "title": "The Letter S, by Donald Knuth [pdf]",
+      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-21T02:41:18.812585+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Donald Knuth trình bày về chữ S trong typography",
+      "bullets": [
+        "Donald Knuth giới thiệu về chữ S trong typography của mình",
+        "Chữ S được thiết kế để tối ưu hóa trong các font chữ",
+        "Chữ S có nhiều biến thể khác nhau trong typography"
+      ],
+      "full_summary": "Donald Knuth đã trình bày về chữ S trong typography của mình trong một bài viết năm 1980. Ông đã giới thiệu về các đặc điểm và biến thể của chữ S trong các font chữ. Bài viết này đã trở thành một tài liệu quan trọng trong lĩnh vực typography.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "08564bccc910",
       "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
@@ -616,186 +795,6 @@
         "Vụ việc đang gây tranh cãi và làm tăng áp lực lên lực lượng cảnh sát Toronto"
       ],
       "full_summary": "Ba cảnh sát Toronto đã bị bắt vì liên quan đến vụ tấn công một người bán dâm ở Barcelona. Vụ việc xảy ra vào ngày 13 tháng 5 khi 3 cảnh sát đang đi taxi cùng một người bán dâm ở khu vực Ciutat Vella. Lực lượng cảnh sát Barcelona đã tiến hành điều tra và bắt giữ 3 cảnh sát này. Vụ việc đang gây tranh cãi và làm tăng áp lực lên lực lượng cảnh sát Toronto.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65024723e537",
-      "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
-      "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T02:39:07.208251+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh sát Jamaica bắn chết phụ nữ trong cuộc biểu tình",
-      "bullets": [
-        "Bắt đầu điều tra vụ bắn chết phụ nữ",
-        "Video cho thấy cảnh sát bắn vào xe và kéo thi thể",
-        "Phụ nữ 45 tuổi bị bắn chết trong khi đang lái xe",
-        "Cảnh sát Jamaica đang điều tra vụ việc"
-      ],
-      "full_summary": "Một video cho thấy cảnh sát Jamaica bắn vào xe của phụ nữ 45 tuổi trong một cuộc biểu tình ở Granville, Jamaica. Phụ nữ này đã bị bắn chết và cảnh sát kéo thi thể đi. Cảnh sát Jamaica đã bắt đầu điều tra vụ việc. Video này đã gây sốc cho người dân Jamaica và đang lan truyền trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6d33a8da35ee",
-      "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
-      "url": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-20T02:39:12.433400+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "RFK Jr. phải rút lại đề xuất mở hội đồng CDC cho các bác sĩ chống vaccine",
-      "bullets": [
-        "Đề xuất mở hội đồng CDC cho các bác sĩ chống vaccine bị rút lại",
-        "RFK Jr. không thể mở rộng tiêu chuẩn thành viên hội đồng CDC",
-        "Hội đồng CDC sẽ tiếp tục tập trung vào các vấn đề về an toàn vaccine",
-        "Đề xuất của RFK Jr. bị phản đối bởi các chuyên gia y tế"
-      ],
-      "full_summary": "Đại diện của RFK Jr. đã phải rút lại đề xuất mở hội đồng CDC cho các bác sĩ chống vaccine. Đề xuất này đã gây ra sự phản đối mạnh mẽ từ các chuyên gia y tế. Hội đồng CDC sẽ tiếp tục tập trung vào các vấn đề về an toàn vaccine và sẽ không mở rộng tiêu chuẩn thành viên. Điều này sẽ giúp ngăn chặn sự lan truyền của thông tin sai lệch về vaccine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "969845a20e53",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:28.904321+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Sốt xuất huyết Ebola lan rộng ở Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "Lây lan nhanh chóng",
-        "Chẩn đoán chậm trễ",
-        "Y tế đang đuổi kịp",
-        "Sốt xuất huyết gây sợ hãi"
-      ],
-      "full_summary": "Sốt xuất huyết Ebola đã lan rộng ở Cộng hòa Dân chủ Congo, khiến người dân sợ hãi. Bộ trưởng Y tế đã thừa nhận rằng y tế đang chơi theo cách bắt kịp với virus sau khi chậm trễ trong việc phát hiện. Virus này đã gây ra nhiều ca tử vong và đang lan rộng nhanh chóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4e4c9af7793c",
-      "title": "Key people smuggler arrested after BBC uncovered identity",
-      "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:29.930384+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người vận chuyển bất hợp pháp bị bắt giữ",
-      "bullets": [
-        "Bị bắt giữ một người vận chuyển bất hợp pháp",
-        "Mạng lưới của người này được cho là đã vận chuyển hàng nghìn người nhập cư bất hợp pháp vào Anh",
-        "BBC đã phát hiện danh tính của người này",
-        "Người này bị bắt giữ sau khi BBC phát hiện danh tính"
-      ],
-      "full_summary": "BBC vừa thông báo đã bắt giữ một người vận chuyển bất hợp pháp 28 tuổi. Mạng lưới của người này được cho là đã vận chuyển hàng nghìn người nhập cư bất hợp pháp vào Anh. Người này bị bắt giữ sau khi BBC phát hiện danh tính. Thông tin này được tiết lộ sau khi BBC thực hiện một cuộc điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb2e51938525",
-      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:31.487412+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Musk-Altman bị phán quyết, AI trở thành người chiến thắng thực sự",
-      "bullets": [
-        "Phán quyết tại Oakland, California đã giúp bóc mẽ ngành công nghệ trí tuệ nhân tạo",
-        "Cùng với đó, những người đàn ông ở trung tâm ngành công nghệ này đã cho thấy sự tự phụ",
-        "Sự kiện đã giúp nâng cao nhận thức về ngành công nghệ trí tuệ nhân tạo",
-        "Cũng như những thách thức và cơ hội mà nó mang lại"
-      ],
-      "full_summary": "Phán quyết tại Oakland, California đã giúp bóc mẽ ngành công nghệ trí tuệ nhân tạo và những người đàn ông ở trung tâm ngành công nghệ này. Sự kiện đã giúp nâng cao nhận thức về ngành công nghệ trí tuệ nhân tạo, cùng với đó là những thách thức và cơ hội mà nó mang lại. Điều này cho thấy rằng AI đã trở thành người chiến thắng thực sự trong vụ Musk-Altman.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69aff1cde078",
-      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-      "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:32.914155+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Cảnh báo về sự phụ thuộc vào trí tuệ nhân tạo",
-      "bullets": [
-        "Cảnh báo về sự phụ thuộc vào trí tuệ nhân tạo",
-        "Trí tuệ nhân tạo có thể làm giảm giá trị của trí tuệ con người",
-        "Văn hóa của Đài thiên văn Hoàng gia thể hiện sức mạnh của kiến thức con người",
-        "Phải tránh sự phụ thuộc vào trí tuệ nhân tạo"
-      ],
-      "full_summary": "Paddy Rodgers cảnh báo rằng sự phụ thuộc vào trí tuệ nhân tạo có thể làm giảm giá trị của trí tuệ con người. Ông nói rằng lịch sử của Đài thiên văn Hoàng gia thể hiện sức mạnh của kiến thức con người. Rodgers muốn tránh sự phụ thuộc vào trí tuệ nhân tạo để duy trì giá trị của trí tuệ con người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "484494e05719",
-      "title": "X pledges quicker action on hate and terror content in the UK",
-      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:33.981890+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Xây dựng quy định nghiêm ngặt hơn về nội dung khủng bố và bạo lực trên mạng",
-      "bullets": [
-        "Thành lập nhóm làm việc để xem xét lại quy định hiện hành",
-        "Tăng cường hợp tác giữa các cơ quan chức năng để xử lý nội dung khủng bố",
-        "Đảm bảo quy định mới có hiệu lực sớm hơn",
-        "Tập trung vào các vụ tấn công nhắm vào cộng đồng Do Thái"
-      ],
-      "full_summary": "Ủy ban truyền thông Ofcom cho biết các cam kết này rất quan trọng sau các vụ tấn công nhắm vào cộng đồng Do Thái tại Anh. X đã cam kết xây dựng quy định nghiêm ngặt hơn về nội dung khủng bố và bạo lực trên mạng. Thành lập nhóm làm việc để xem xét lại quy định hiện hành và tăng cường hợp tác giữa các cơ quan chức năng để xử lý nội dung khủng bố là hai trong số các bước quan trọng được X cam kết thực hiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "93d853c630f3",
-      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:35.180810+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Musk và Altman đối mặt với cáo buộc sau tuần lễ xét xử",
-      "bullets": [
-        "Xác định Musk và Altman có liên quan đến vụ việc hay không",
-        "Phát hiện ra những khía cạnh tối tăm trong ngành công nghệ",
-        "Xác minh liệu Musk và Altman có phải là những người đứng đầu hay không",
-        "Cáo buộc và phản bác cáo buộc trong suốt quá trình xét xử"
-      ],
-      "full_summary": "Trong quá trình xét xử kéo dài nhiều tuần, đã có nhiều thông tin được tiết lộ về vụ việc liên quan đến Elon Musk và Sam Altman. Các cáo buộc và phản bác cáo buộc đã được đưa ra, và đã có những phát hiện mới về những khía cạnh tối tăm trong ngành công nghệ. Hiện tại, bồi thẩm đoàn đang cân nhắc phán quyết cuối cùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8b9e62b4e65c",
-      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-19T19:45:36.340010+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "WHO chậm phản ứng với dịch Ebola ở Congo và Uganda",
-      "bullets": [
-        "Rubio chỉ trích WHO vì chậm xác định dịch Ebola",
-        "WHO được cho là chậm trong việc xác định dịch Ebola ở Congo và Uganda",
-        "CDC và WHO sẽ dẫn đầu nỗ lực chống dịch Ebola",
-        "Hoa Kỳ tiếp tục cắt giảm mạnh mẽ các chương trình y tế công cộng"
-      ],
-      "full_summary": "Thứ trưởng Ngoại giao Hoa Kỳ Marco Rubio đã chỉ trích Tổ chức Y tế Thế giới (WHO) vì chậm xác định dịch Ebola ở Cộng hòa Dân chủ Congo và Uganda. Rubio cho biết WHO đã chậm trong việc xác định dịch Ebola. Trong khi đó, Hoa Kỳ tiếp tục cắt giảm mạnh mẽ các chương trình y tế công cộng, bao gồm cả CDC, cơ quan dẫn đầu nỗ lực chống dịch Ebola.",
       "comments": 0,
       "score": 0
     }
