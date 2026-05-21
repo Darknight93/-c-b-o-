@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-05-21T02:41:19.869869+00:00",
+  "updated_at": "2026-05-21T09:26:44.340026+00:00",
   "articles": [
+    {
+      "id": "9b6f59071b32",
+      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T09:26:28.432407+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cộng hòa Dân chủ Congo hủy tập huấn World Cup do dịch Ebola",
+      "bullets": [
+        "Hủy tập huấn World Cup vì dịch Ebola bùng phát tại Cộng hòa Dân chủ Congo",
+        "Tính đến nay, dịch Ebola đã khiến 139 người tử vong",
+        "Loại virus Ebola gây ra dịch bệnh này hiếm gặp",
+        "Cộng hòa Dân chủ Congo đang nỗ lực kiểm soát dịch bệnh"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đã hủy kế hoạch tập huấn World Cup do dịch Ebola bùng phát tại quốc gia này. Dịch bệnh được gây ra bởi một loại virus Ebola hiếm gặp và đã khiến 139 người tử vong. Chính phủ Cộng hòa Dân chủ Congo đang nỗ lực kiểm soát dịch bệnh và ngăn chặn sự lây lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4401eaa1f11d",
+      "title": "Sierra Leone becomes latest African country to receive deportees from US",
+      "url": "https://www.bbc.com/news/articles/cn9pzjvly53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T09:26:29.748924+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hai Mươi Mốt nước Phi nhận lại người nhập cư bất hợp pháp từ Mỹ",
+      "bullets": [
+        "Nhiều người nhập cư bất hợp pháp từ Mỹ đã bị trục xuất sang Sierra Leone",
+        "Sierra Leone trở thành nước Phi thứ 21 nhận lại người nhập cư bất hợp pháp từ Mỹ",
+        "Động thái này là kết quả của chính sách của cựu Tổng thống Mỹ Donald Trump",
+        "Chính sách này nhằm ngăn chặn nhập cư bất hợp pháp vào Mỹ"
+      ],
+      "full_summary": "Sierra Leone trở thành nước Phi thứ 21 nhận lại người nhập cư bất hợp pháp từ Mỹ. Nhiều người nhập cư bất hợp pháp từ Mỹ đã bị trục xuất sang Sierra Leone. Động thái này là kết quả của chính sách của cựu Tổng thống Mỹ Donald Trump nhằm ngăn chặn nhập cư bất hợp pháp vào Mỹ. Chính sách này đã gây ra nhiều tranh cãi và phản ứng trái chiều từ cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bb2e51938525",
+      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T09:26:30.741486+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Triển lãm Musk-Altman giúp nâng lên sự thật về ngành công nghệ AI",
+      "bullets": [
+        "Giải thích về sự khác biệt giữa Musk và Altman",
+        "Lật lại các sự kiện dẫn đến vụ kiện",
+        "Phát hiện ra sự thật về ngành công nghệ AI",
+        "Đánh giá về những người đứng đằng sau ngành công nghệ AI"
+      ],
+      "full_summary": "Vụ kiện Musk-Altman đã giúp nâng lên sự thật về ngành công nghệ AI. Vụ kiện đã giúp người ta hiểu rõ hơn về sự khác biệt giữa Musk và Altman. Ngành công nghệ AI đã được giải thích rõ hơn sau vụ kiện. Những người đứng đằng sau ngành công nghệ AI đã được đánh giá cao hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8b9e62b4e65c",
+      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T09:26:32.220704+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "WHO bị chỉ trích vì chậm phản ứng với dịch Ebola",
+      "bullets": [
+        "Rubio chỉ trích WHO vì chậm xác định dịch Ebola ở Cộng hòa Dân chủ Congo và Uganda",
+        "WHO bị chỉ trích vì chậm trễ trong việc xác định dịch Ebola",
+        "CDC và WHO sẽ dẫn đầu trong việc đối phó với dịch Ebola",
+        "Dịch Ebola đã gây ra nhiều thiệt hại ở Cộng hòa Dân chủ Congo và Uganda"
+      ],
+      "full_summary": "Thứ trưởng Ngoại giao Mỹ Marco Rubio đã chỉ trích Tổ chức Y tế Thế giới (WHO) vì chậm xác định dịch Ebola ở Cộng hòa Dân chủ Congo và Uganda. Rubio cho biết WHO đã chậm trễ trong việc xác định dịch Ebola. CDC và WHO sẽ dẫn đầu trong việc đối phó với dịch Ebola. Dịch Ebola đã gây ra nhiều thiệt hại ở Cộng hòa Dân chủ Congo và Uganda.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d8d9f21fcbcb",
+      "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
+      "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T09:26:33.284491+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "HĐND Mỹ truy tố cựu Tổng thống Cuba Raúl Castro",
+      "bullets": [
+        "Mỹ truy tố cựu Tổng thống Cuba Raúl Castro vì âm mưu sát hại công dân Mỹ",
+        "Raúl Castro bị cáo buộc liên quan đến vụ bắn hạ máy bay của tị nạn năm 1996",
+        "Bốn người khác cũng bị truy tố vì liên quan đến vụ án",
+        "Tội danh bao gồm âm mưu sát hại công dân Mỹ, giết người và phá hủy máy bay"
+      ],
+      "full_summary": "Hôm 20/5, Mỹ đã đưa ra cáo buộc liên quan đến cựu Tổng thống Cuba Raúl Castro và 5 người khác. Raúl Castro, 94 tuổi, bị cáo buộc liên quan đến vụ bắn hạ máy bay của tị nạn năm 1996. Các cáo buộc bao gồm âm mưu sát hại công dân Mỹ, giết người và phá hủy máy bay. Đây là một bước ngoặt quan trọng trong chiến dịch của chính quyền Trump nhằm lật đổ chế độ cộng sản Cuba.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "03b44c343b6f",
+      "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
+      "url": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-21T09:26:37.432589+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mercedes-AMG GT 4-Door chuyển sang điện hoàn toàn",
+      "bullets": [
+        "Đạt tốc độ 0-60 mph ấn tượng",
+        "Số dặm/kWh đạt được thậm chí còn ấn tượng hơn",
+        "Mercedes-AMG GT 4-Door sử dụng động cơ điện hoàn toàn",
+        "Động cơ điện mang lại hiệu suất và tiết kiệm năng lượng"
+      ],
+      "full_summary": "Mercedes-AMG GT 4-Door là một trong những mẫu xe điện cao cấp mới nhất của Mercedes-Benz. Mẫu xe này sử dụng động cơ điện hoàn toàn, mang lại hiệu suất và tiết kiệm năng lượng. Theo Ars Technica, mẫu xe này đạt tốc độ 0-60 mph ấn tượng và số dặm/kWh đạt được thậm chí còn ấn tượng hơn. Điều này cho thấy rằng Mercedes-AMG GT 4-Door là một lựa chọn tuyệt vời cho những người muốn sở hữu một chiếc xe điện cao cấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f3487ee3f246",
+      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-21T09:26:39.072900+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump yêu cầu 1 tỷ USD để bảo vệ phòng vũ trường tại Nhà Trắng",
+      "bullets": [
+        "Trump đề xuất chi 1 tỷ USD từ ngân sách để bảo vệ phòng vũ trường",
+        "Phòng vũ trường trị giá 400 triệu USD được tài trợ riêng tư",
+        "Nhiệm vụ bảo vệ phòng vũ trường chống lại các mối đe dọa từ máy bay không người lái",
+        "Tổng thống Trump yêu cầu ngân sách này từ người dân"
+      ],
+      "full_summary": "Tổng thống Trump đã đề xuất một khoản chi 1 tỷ USD từ ngân sách để bảo vệ phòng vũ trường trị giá 400 triệu USD tại Nhà Trắng. Phòng vũ trường này được tài trợ riêng tư và Tổng thống Trump muốn chi thêm 1 tỷ USD để bảo vệ nó chống lại các mối đe dọa từ máy bay không người lái và các mối đe dọa khác. Điều này đã gây ra sự phẫn nộ trong dư luận vì nó yêu cầu người dân chi thêm tiền cho một dự án riêng tư của Tổng thống.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "711b05aecc2c",
       "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
@@ -656,145 +796,6 @@
         "Đảm bảo an toàn cho người lái với tính năng chống va chạm"
       ],
       "full_summary": "Volvo vừa ra mắt EX60, một chiếc xe hơi mới với công nghệ sản xuất tiên tiến. Công ty sử dụng kỹ thuật megacasting để giảm chi phí sản xuất và cải thiện hiệu suất. Điều này giúp Volvo cạnh tranh với các đối thủ trong ngành. Volvo cũng đảm bảo an toàn cho người lái với tính năng chống va chạm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b1224e3f24ec",
-      "title": "\"I'll buy 10 of those\"—NASA science chief yearns for mass-produced satellites",
-      "url": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-20T08:57:37.320830+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "NASA muốn tăng cường khoa học trong không gian bằng vệ tinh sản xuất hàng loạt",
-      "bullets": [
-        "NASA muốn sản xuất vệ tinh hàng loạt để thực hiện nhiều nhiệm vụ khoa học",
-        "NASA muốn tăng cường nghiên cứu khoa học trong không gian để hiểu biết sâu hơn về vũ trụ",
-        "NASA muốn sử dụng vệ tinh sản xuất hàng loạt để theo dõi và nghiên cứu các hiện tượng tự nhiên",
-        "NASA muốn hợp tác với các công ty để sản xuất vệ tinh hàng loạt"
-      ],
-      "full_summary": "Giám đốc khoa học NASA đã bày tỏ mong muốn tăng cường khoa học trong không gian bằng cách sản xuất vệ tinh hàng loạt. Ông muốn biết cách để có nhiều vệ tinh hơn để thực hiện nhiều nhiệm vụ khoa học. Điều này sẽ giúp NASA hiểu biết sâu hơn về vũ trụ và theo dõi các hiện tượng tự nhiên. NASA đang tìm kiếm các công ty để hợp tác sản xuất vệ tinh hàng loạt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4a830b1572ad",
-      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
-      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-20T08:57:43.164424+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nhật Bản bị ảnh hưởng bởi dị ứng hàng loạt do dự án năm 1950",
-      "bullets": [
-        "Dự án năm 1950 đã gây ra dị ứng hàng loạt ở Nhật Bản",
-        "Dị ứng được gây ra bởi cây cỏ được trồng để ngăn chặn lũ lụt",
-        "Cây cỏ này đã phát triển thành một nguồn gây dị ứng lớn",
-        "Sự cố này đã ảnh hưởng đến hàng triệu người Nhật Bản"
-      ],
-      "full_summary": "Một dự án được thực hiện vào năm 1950 đã gây ra một tình trạng dị ứng hàng loạt ở Nhật Bản. Dự án này nhằm mục đích ngăn chặn lũ lụt bằng cách trồng cây cỏ. Tuy nhiên, cây cỏ này đã phát triển thành một nguồn gây dị ứng lớn, ảnh hưởng đến hàng triệu người Nhật Bản. Sự cố này đã trở thành một vấn đề lớn ở Nhật Bản và đang được nghiên cứu để tìm ra giải pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e5576729343",
-      "title": "Estonia says Nato jet shot down drone over its territory",
-      "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T02:39:01.676051+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "NATO đánh chặn máy bay không người lái trên lãnh thổ Estonia",
-      "bullets": [
-        "Estonia nghi ngờ máy bay không người lái bị rơi do bị nhiễu điện tử của Nga",
-        "Máy bay không người lái được cho là một vật thể do Ukraine phóng nhưng bị lệch hướng",
-        "NATO xác nhận đã bắn hạ máy bay không người lái trên lãnh thổ Estonia",
-        "Estonia yêu cầu Nga giải thích về việc sử dụng nhiễu điện tử"
-      ],
-      "full_summary": "Estonia vừa thông báo rằng một máy bay không người lái đã bị bắn hạ trên lãnh thổ nước này. Theo Estonia, máy bay không người lái này được cho là một vật thể do Ukraine phóng nhưng bị lệch hướng do bị nhiễu điện tử của Nga. NATO cũng xác nhận đã bắn hạ máy bay không người lái này. Estonia đã yêu cầu Nga giải thích về việc sử dụng nhiễu điện tử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11ca1a0a8851",
-      "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
-      "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T02:39:02.728608+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Thái Lan giảm thời gian lưu trú miễn thị thực cho nhiều quốc gia",
-      "bullets": [
-        "Thái Lan sẽ áp dụng thời gian lưu trú miễn thị thực 30 ngày thay vì 60 ngày trước đây",
-        "Các du khách từ hơn 90 quốc gia, bao gồm Anh, sẽ phải xin thị thực sau 30 ngày",
-        "Thay đổi này sẽ có hiệu lực vào thời điểm không được công bố",
-        "Nhiều quốc gia đã phản ứng tiêu cực trước quyết định này"
-      ],
-      "full_summary": "Thái Lan đã quyết định giảm thời gian lưu trú miễn thị thực cho nhiều quốc gia, bao gồm Anh, từ 60 ngày xuống còn 30 ngày. Điều này có nghĩa là các du khách từ hơn 90 quốc gia sẽ phải xin thị thực sau 30 ngày. Quyết định này đã nhận được phản ứng tiêu cực từ nhiều quốc gia. Thái Lan chưa công bố thời điểm áp dụng thay đổi này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "42d622403c26",
-      "title": "Google to release first smart glasses since Google Glass flop",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T02:39:04.101748+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Google sắp ra mắt kính thông minh mới sau thất bại của Google Glass",
-      "bullets": [
-        "Google sẽ bán kính thông minh vào mùa thu này",
-        "Kính sẽ cho phép AI của Google tương tác với người dùng",
-        "Đây là lần đầu tiên Google ra mắt kính thông minh kể từ thất bại của Google Glass",
-        "Kính sẽ được bán ra thị trường vào mùa thu này"
-      ],
-      "full_summary": "Google sắp ra mắt kính thông minh mới sau thất bại của Google Glass vào năm 2014. Kính mới sẽ cho phép AI của Google tương tác với người dùng. Đây là lần đầu tiên Google ra mắt kính thông minh kể từ thất bại của Google Glass. Kính sẽ được bán ra thị trường vào mùa thu này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5526769c54ee",
-      "title": "Did Trump really rescue Venezuela? – podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T02:39:05.115680+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump không cứu Venezuela, thay vào đó là cuộc 'lật đổ'",
-      "bullets": [
-        "Cựu Tổng thống Venezuela Nicolás Maduro bị bắt giữ bởi Mỹ",
-        "Sự kiện gây ra sự hỗn loạn và đàn áp ở Venezuela",
-        "Nhiều người bị giam giữ và báo chí phải rời khỏi đất nước"
-      ],
-      "full_summary": "Cựu Tổng thống Venezuela Nicolás Maduro bị bắt giữ bởi Mỹ vào tháng 8/2024. Sự kiện này gây ra sự hỗn loạn và đàn áp ở Venezuela. Nhiều người bị giam giữ và báo chí phải rời khỏi đất nước. Một podcast mới của The Guardian đã khám phá cuộc sống ở Venezuela bốn tháng sau sự kiện này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "493194b9a8f2",
-      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T02:39:06.214641+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh sát Toronto bị bắt vì hành hung ở Barcelona",
-      "bullets": [
-        "Bị bắt 3 cảnh sát Toronto vì hành hung",
-        "Hành hung xảy ra trong một chuyến đi du lịch ở Barcelona",
-        "Cảnh sát bị bắt vì liên quan đến vụ tấn công một người bán dâm",
-        "Vụ việc đang gây tranh cãi và làm tăng áp lực lên lực lượng cảnh sát Toronto"
-      ],
-      "full_summary": "Ba cảnh sát Toronto đã bị bắt vì liên quan đến vụ tấn công một người bán dâm ở Barcelona. Vụ việc xảy ra vào ngày 13 tháng 5 khi 3 cảnh sát đang đi taxi cùng một người bán dâm ở khu vực Ciutat Vella. Lực lượng cảnh sát Barcelona đã tiến hành điều tra và bắt giữ 3 cảnh sát này. Vụ việc đang gây tranh cãi và làm tăng áp lực lên lực lượng cảnh sát Toronto.",
       "comments": 0,
       "score": 0
     }
