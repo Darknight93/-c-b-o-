@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-05-21T09:26:44.340026+00:00",
+  "updated_at": "2026-05-21T14:49:53.455508+00:00",
   "articles": [
+    {
+      "id": "1436d96685bf",
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:35.441257+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran tuyên bố kiểm soát eo biển Hormuz",
+      "bullets": [
+        "Iran công bố bản đồ thể hiện sự giám sát của lực lượng vũ trang trên hơn 22.000 km2 của eo biển",
+        "Bản đồ này cho thấy Iran muốn thể hiện sự kiểm soát đối với eo biển Hormuz",
+        "Eo biển Hormuz là một trong những tuyến đường biển quan trọng nhất trên thế giới",
+        "Tuyên bố này đã gây ra lo ngại về sự ổn định của khu vực"
+      ],
+      "full_summary": "Iran đã công bố bản đồ thể hiện sự giám sát của lực lượng vũ trang trên hơn 22.000 km2 của eo biển Hormuz. Bản đồ này cho thấy Iran muốn thể hiện sự kiểm soát đối với eo biển Hormuz, một trong những tuyến đường biển quan trọng nhất trên thế giới. Tuyên bố này đã gây ra lo ngại về sự ổn định của khu vực và có thể ảnh hưởng đến các quốc gia khác trong khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0c41340990b8",
+      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
+      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:37.134132+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ bị chỉ trích vì đe dọa Cuba sau khi truy tố cựu lãnh đạo",
+      "bullets": [
+        "Mỹ vừa truy tố cựu lãnh đạo Cuba vì tội giết người",
+        "Đây là bước đi mới nhằm tăng áp lực lên chế độ Cuba",
+        "Trung Quốc yêu cầu Mỹ chấm dứt các đe dọa đối với Cuba",
+        "Cuba và Mỹ có quan hệ phức tạp từ lâu"
+      ],
+      "full_summary": "Mỹ vừa truy tố cựu lãnh đạo Cuba vì tội giết người, một bước đi mới nhằm tăng áp lực lên chế độ Cuba. Trung Quốc đã lên tiếng chỉ trích Mỹ, yêu cầu chấm dứt các đe dọa đối với Cuba. Quan hệ giữa Cuba và Mỹ đã phức tạp từ lâu, và bước đi mới của Mỹ có thể làm cho tình hình trở nên tồi tệ hơn. Trung Quốc đã thể hiện sự ủng hộ đối với Cuba trong vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2295d7a75be5",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:38.215975+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Air France và Airbus bị kết tội giết người qua hành động cố ý",
+      "bullets": [
+        "Một tòa án Pháp kết tội Air France và Airbus về tội giết người qua hành động cố ý",
+        "Vụ tai nạn máy bay năm 2009 đã khiến 228 người thiệt mạng",
+        "Các công ty phải chịu trách nhiệm về vụ tai nạn máy bay",
+        "Phán quyết này được đưa ra sau khi điều tra về vụ tai nạn"
+      ],
+      "full_summary": "Một tòa án Pháp đã kết tội Air France và Airbus về tội giết người qua hành động cố ý liên quan đến vụ tai nạn máy bay năm 2009. Vụ tai nạn đã khiến 228 người thiệt mạng. Các công ty phải chịu trách nhiệm về vụ tai nạn máy bay. Phán quyết này được đưa ra sau khi điều tra về vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d0e17a1b1833",
+      "title": "Gaza flotilla activists set for deportation from Israel as backlash over treatment grows",
+      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:39.644989+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hàng trăm người hoạt động vì Gaza chuẩn bị bị trục xuất khỏi Israel",
+      "bullets": [
+        "Bắt đầu từ ngày 19/5, hàng trăm người hoạt động vì Gaza đã rời khỏi Israel",
+        "Họ bị giam giữ và đối xử không công bằng, gây ra sự phẫn nộ trên toàn thế giới",
+        "Nhiều quốc gia đã lên án Israel về cách đối xử với những người này",
+        "Trục xuất có thể làm tăng căng thẳng trong khu vực"
+      ],
+      "full_summary": "Hàng trăm người hoạt động vì Gaza đã bắt đầu rời khỏi Israel sau khi bị giam giữ và đối xử không công bằng. Sự việc đã gây ra sự phẫn nộ trên toàn thế giới và nhiều quốc gia đã lên án Israel về cách đối xử với những người này. Trục xuất có thể làm tăng căng thẳng trong khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a00d983ee2a4",
+      "title": "Gonorrhoea and syphilis hit record levels in Europe",
+      "url": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:40.836767+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bệnh lây truyền qua đường tình dục ở châu Âu đạt mức kỷ lục",
+      "bullets": [
+        "Tăng đột biến các trường hợp bệnh lây truyền qua đường tình dục",
+        "Gặp khó khăn trong việc kiểm tra và ngăn chặn",
+        "Sự thiếu sót trong hệ thống y tế dẫn đến tình trạng này",
+        "Bệnh lây truyền qua đường tình dục đang trở thành mối lo ngại lớn"
+      ],
+      "full_summary": "Một cơ quan y tế vừa công bố rằng các bệnh lây truyền qua đường tình dục như bệnh gan lây truyền qua đường tình dục và bệnh lây truyền qua đường tình dục đang đạt mức kỷ lục ở châu Âu. Nguyên nhân được cho là do sự thiếu sót trong hệ thống y tế, bao gồm cả việc kiểm tra và ngăn chặn. Điều này đã dẫn đến tình trạng bệnh lây truyền qua đường tình dục trở thành mối lo ngại lớn ở châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bbcb6857d743",
+      "title": "Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday",
+      "url": "https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:42.147522+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hồi giáo Mali phong tỏa đường sá, hàng chục xe bị đốt",
+      "bullets": [
+        "Phong tỏa đường sá khiến nhiên liệu và thực phẩm cạn kiệt",
+        "Hàng chục xe bị đốt cháy trong cuộc phong tỏa",
+        "Căng thẳng leo thang trước dịp lễ Eid",
+        "Khủng hoảng dẫn đến thiếu hụt nhiên liệu và lương thực"
+      ],
+      "full_summary": "Hồi giáo Mali đang phong tỏa đường sá, dẫn đến thiếu hụt nhiên liệu và lương thực trước dịp lễ Eid. Cuộc phong tỏa đã khiến hàng chục xe bị đốt cháy. Điều này đã gây ra căng thẳng leo thang và ảnh hưởng đến cuộc sống hàng ngày của người dân. Các tổ chức nhân đạo đang nỗ lực cung cấp hỗ trợ cho những người bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c87a18393a33",
+      "title": "Nvidia's latest record earnings fail to impress investors",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:43.196062+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nvidia không thể duy trì tốc độ tăng trưởng",
+      "bullets": [
+        "Nvidia báo cáo kết quả kinh doanh ấn tượng",
+        "Số cổ phiếu của công ty giảm sau khi công bố",
+        "Nhà đầu tư lo ngại về sự cạnh tranh ngày càng tăng",
+        "Nvidia phải tìm cách duy trì tốc độ tăng trưởng"
+      ],
+      "full_summary": "Nvidia vừa công bố kết quả kinh doanh ấn tượng, nhưng số cổ phiếu của công ty đã giảm sau khi công bố. Điều này khiến nhà đầu tư lo ngại về khả năng duy trì tốc độ tăng trưởng của công ty. Trong bối cảnh cạnh tranh ngày càng tăng, Nvidia phải tìm cách duy trì tốc độ tăng trưởng và duy trì vị thế của mình trong ngành công nghiệp bán dẫn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42d622403c26",
+      "title": "Google to release first smart glasses since Google Glass flop",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:44.590995+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Google sắp ra mắt kính thông minh sau thất bại của Google Glass",
+      "bullets": [
+        "Sẽ bán ra vào mùa thu này",
+        "Cho phép AI của Google tương tác với người dùng",
+        "Sẽ là sản phẩm kính thông minh đầu tiên của Google sau Google Glass",
+        "Sẽ cạnh tranh với các sản phẩm tương tự trên thị trường"
+      ],
+      "full_summary": "Google sắp ra mắt kính thông minh mới sau thất bại của Google Glass vào năm 2014. Sản phẩm này sẽ cho phép AI của Google tương tác với người dùng và sẽ bán ra vào mùa thu này. Kính thông minh mới này sẽ cạnh tranh với các sản phẩm tương tự trên thị trường. Google đã không công bố nhiều thông tin về sản phẩm này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3509bc04cacd",
+      "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
+      "url": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-21T14:49:47.019652+00:00",
+      "category": "politics|science",
+      "importance": 4,
+      "headline": "Tình hình khí hậu Colombia đứng trước thử thách",
+      "bullets": [
+        "Căng thẳng chính trị ở Colombia đang ảnh hưởng đến nỗ lực bảo vệ môi trường",
+        "Thị trường khí hậu toàn cầu đang bị đe dọa bởi sự ảnh hưởng của chủ nghĩa Trump",
+        "Các nhà hoạt động môi trường lo ngại Colombia sẽ trở thành một quốc gia khai thác và bơm khí đốt"
+      ],
+      "full_summary": "Colombia đang đứng trước một thử thách lớn về vấn đề khí hậu. Quốc gia này từng được coi là một trong những quốc gia hàng đầu về hoạt động bảo vệ môi trường. Tuy nhiên, sự ảnh hưởng của chủ nghĩa Trump và các chính sách kinh tế có thể khiến Colombia trở thành một quốc gia khai thác và bơm khí đốt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1fa14ad91e4d",
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-21T14:49:51.757499+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "AI được coi là một hình thức sao chép không được phép ở quy mô lớn hơn",
+      "bullets": [
+        "Trích dẫn bài viết: AI chỉ là sao chép không được phép ở quy mô lớn hơn",
+        "Báo cáo cho rằng AI không tạo ra ý tưởng mới",
+        "AI chỉ lặp lại và sắp xếp lại thông tin đã có"
+      ],
+      "full_summary": "Một bài viết trên Hacker News cho rằng AI không phải là một công nghệ sáng tạo mà chỉ là một hình thức sao chép không được phép ở quy mô lớn hơn. Bài viết trích dẫn rằng AI không tạo ra ý tưởng mới mà chỉ lặp lại và sắp xếp lại thông tin đã có. Điều này cho thấy rằng AI không phải là một công nghệ đột phá mà chỉ là một công cụ hỗ trợ cho con người.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "9b6f59071b32",
       "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
@@ -596,206 +794,6 @@
         "Roblox cho biết có các quy tắc điều chỉnh mặt hàng trả tiền ngẫu nhiên"
       ],
       "full_summary": "Một nhóm tổ chức Mỹ kêu gọi điều tra chi tiêu và an toàn trẻ em trên nền tảng chơi game trực tuyến Roblox. Họ lên án Roblox vì không kiểm soát tốt các mặt hàng trả tiền ngẫu nhiên. Roblox cho biết đã có các chính sách rõ ràng cấm đánh bạc thực tế và ảo, cũng như các quy tắc điều chỉnh mặt hàng trả tiền ngẫu nhiên. Tuy nhiên, các tổ chức Mỹ vẫn cho rằng cần phải có một cuộc điều tra để đảm bảo an toàn cho trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6c2591e62e22",
-      "title": "Robo-top: The machines that could make your next t-shirt",
-      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T14:46:05.670493+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy móc có thể mang công việc dệt may trở lại Tây phương",
-      "bullets": [
-        "Tạo ra các trang phục chất lượng cao",
-        "Giảm chi phí sản xuất",
-        "Tăng cường khả năng tự động hóa",
-        "Cung cấp các lựa chọn đa dạng cho người tiêu dùng"
-      ],
-      "full_summary": "Các máy móc mới có thể mang công việc dệt may trở lại Tây phương, thay vì chỉ tập trung ở châu Á. Các máy móc này có thể tạo ra các trang phục chất lượng cao với chi phí sản xuất thấp hơn. Điều này sẽ giúp tăng cường khả năng tự động hóa và cung cấp các lựa chọn đa dạng cho người tiêu dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "73397afa83f1",
-      "title": "Spider-Noir final trailer gives us a classic villain",
-      "url": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-20T14:46:10.315744+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trailer Spider-Noir: Một kẻ ác cuối cùng lộ diện",
-      "bullets": [
-        "Bí mật về Spider-Noir dần được tiết lộ",
-        "Trailer mới tập trung vào hài hước",
-        "Cốt truyện phim sẽ có nhiều bất ngờ",
-        "Phim sẽ được phát hành sớm"
-      ],
-      "full_summary": "Trailer cuối cùng của Spider-Noir đã được phát hành, tiết lộ hình ảnh của kẻ ác cuối cùng. Trailer tập trung vào hài hước, thể hiện phong cách độc đáo của phim. Cốt truyện phim sẽ có nhiều bất ngờ, thu hút khán giả. Phim dự kiến sẽ được phát hành sớm, tạo nên sự tò mò trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "181c60838c18",
-      "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
-      "url": "https://www.alqst.org/ar/posts/1190",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-20T14:46:13.655790+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Meta chặn tài khoản nhân quyền khỏi tiếp cận khán giả ở Ả Rập Xê Út và UAE",
-      "bullets": [
-        "Meta chặn tài khoản nhân quyền khỏi tiếp cận khán giả ở Ả Rập Xê Út và UAE",
-        "Các tài khoản nhân quyền bị chặn vì vi phạm chính sách của Meta",
-        "Chính sách của Meta gây tranh cãi vì hạn chế tự do ngôn luận",
-        "Tác động của chính sách này đối với cộng đồng nhân quyền vẫn chưa rõ ràng"
-      ],
-      "full_summary": "Meta đã chặn các tài khoản nhân quyền khỏi tiếp cận khán giả ở Ả Rập Xê Út và UAE. Các tài khoản này bị chặn vì vi phạm chính sách của Meta. Chính sách này gây tranh cãi vì hạn chế tự do ngôn luận. Mục đích của chính sách này là gì và tác động của nó đối với cộng đồng nhân quyền vẫn chưa rõ ràng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "130ae5db3f53",
-      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T08:57:27.450656+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cố vấn Greenland của Trump gặp khó khăn trong sứ mệnh làm quen",
-      "bullets": [
-        "Đại sứ Jeff Landry đến Greenland gây phản ứng dữ dội",
-        "Một số người Greenland phản đối việc Mỹ muốn mua bán đảo quốc",
-        "Cơ quan quản lý Greenland cảnh báo về những hậu quả của việc bán đảo quốc",
-        "Mỹ muốn mua Greenland từ Đan Mạch nhưng gặp nhiều khó khăn"
-      ],
-      "full_summary": "Cố vấn Greenland của Tổng thống Mỹ Donald Trump, Jeff Landry, đã đến thăm Greenland nhưng gặp phải sự phản đối từ một số người Greenland. Họ phản đối việc Mỹ muốn mua bán đảo quốc này từ Đan Mạch. Cơ quan quản lý Greenland cũng cảnh báo về những hậu quả có thể xảy ra nếu bán đảo quốc. Mục tiêu của Mỹ là mua Greenland từ Đan Mạch nhưng gặp phải nhiều khó khăn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c88ed2be9fe2",
-      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
-      "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T08:57:28.574751+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một kẻ giết hại cô gái TikTok ở Pakistan bị tử hình",
-      "bullets": [
-        "Bị cáo bị kết án tử hình vì giết hại Sana Yousaf",
-        "Sự việc làm nổi bật về bạo lực đối với phụ nữ ở Pakistan",
-        "Các tổ chức hoạt động cho nữ quyền lên án hành động bạo lực",
-        "Sana Yousaf là một ngôi sao TikTok nổi tiếng ở Pakistan"
-      ],
-      "full_summary": "Một kẻ giết hại Sana Yousaf, một ngôi sao TikTok nổi tiếng ở Pakistan, đã bị kết án tử hình. Sự việc này làm nổi bật về bạo lực đối với phụ nữ ở Pakistan. Các tổ chức hoạt động cho nữ quyền lên án hành động bạo lực và kêu gọi cải thiện an toàn cho phụ nữ. Sana Yousaf là một biểu tượng của giới trẻ Pakistan và sự việc này đã gây ra sự phẫn nộ trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7d63bc8200b5",
-      "title": "Woman dies after falling into uncovered New York City manhole",
-      "url": "https://www.bbc.com/news/articles/cy02pzxejyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T08:57:29.603007+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ giới tử vong sau khi ngã xuống hố ga New York chưa đậy nắp",
-      "bullets": [
-        "Một chiếc nắp hố ga bị lật đổ bởi xe tải vài phút trước khi vụ việc xảy ra",
-        "Nạn nhân đã rơi xuống hố ga và tử vong",
-        "Vụ việc xảy ra trên đường Fifth Avenue ở thành phố New York",
-        "Cơ quan chức năng đang điều tra nguyên nhân vụ việc"
-      ],
-      "full_summary": "Một nữ giới đã tử vong sau khi ngã xuống hố ga chưa đậy nắp ở đường Fifth Avenue, thành phố New York. Vụ việc xảy ra sau khi một chiếc xe tải lật đổ nắp hố ga. Nạn nhân đã rơi xuống hố ga và không thể sống sót. Cơ quan chức năng đang điều tra nguyên nhân vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c3cfa7cb9edd",
-      "title": "Nigeria arrests former minister in hiding after corruption conviction",
-      "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T08:57:30.665089+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nigeria bắt giữ cựu bộ trưởng sau khi bị kết án tham nhũng",
-      "bullets": [
-        "Bị kết án 75 năm tù trong trường hợp vắng mặt",
-        "Cựu bộ trưởng bị bắt giữ sau khi bị kết án tham nhũng",
-        "Sự việc gây ra sự chú ý trong cộng đồng quốc tế",
-        "Nigeria tiếp tục đấu tranh chống tham nhũng"
-      ],
-      "full_summary": "Cựu bộ trưởng năng lượng của Nigeria đã bị bắt giữ sau khi bị kết án 75 năm tù trong trường hợp vắng mặt. Ông ta bị kết án tham nhũng và đã bị truy nã. Sự việc gây ra sự chú ý trong cộng đồng quốc tế và cho thấy Nigeria tiếp tục đấu tranh chống tham nhũng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cf473a67a01",
-      "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T08:57:31.681396+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Elon Musk thua vụ kiện với OpenAI",
-      "bullets": [
-        "Musk thua vụ kiện cao cấp chống lại OpenAI",
-        "Musk không có kế hoạch thay đổi phong cách tấn công của mình",
-        "Musk sẽ tiếp tục chiến đấu trong các vụ kiện khác",
-        "Musk vẫn muốn kiểm soát công nghệ AI"
-      ],
-      "full_summary": "Elon Musk đã thua vụ kiện cao cấp chống lại OpenAI, nhưng không có dấu hiệu cho thấy ông sẽ thay đổi phong cách tấn công của mình. Mặc dù đã thua, Musk vẫn muốn tiếp tục chiến đấu trong các vụ kiện khác để kiểm soát công nghệ AI. Điều này cho thấy Musk vẫn tin rằng ông có thể giành được chiến thắng trong các vụ kiện khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "344c1d248383",
-      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
-      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T08:57:32.726950+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Hệ thống vệ tinh và AI theo dõi gấu mèo Anh để giảm thiểu suy giảm",
-      "bullets": [
-        "Sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi gấu mèo Anh",
-        "Tìm hiểu rào cản ngăn gấu mèo tìm kiếm thức ăn và bạn tình",
-        "Xác định nguyên nhân suy giảm số lượng gấu mèo Anh",
-        "Phát triển chiến lược bảo vệ gấu mèo Anh"
-      ],
-      "full_summary": "Các nhà nghiên cứu đang sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi số lượng gấu mèo Anh và xác định nguyên nhân suy giảm. Mục tiêu của dự án là giúp gấu mèo tìm kiếm thức ăn và bạn tình một cách dễ dàng hơn. Các nhà nghiên cứu hy vọng rằng dự án này sẽ giúp xác định rào cản ngăn gấu mèo tìm kiếm thức ăn và bạn tình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d6b840cc5003",
-      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
-      "url": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-20T08:57:35.020273+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Volvo tung ra EX60 với công nghệ sản xuất tiên tiến",
-      "bullets": [
-        "Khẳng định vị thế với công nghệ sản xuất tiên tiến",
-        "Sử dụng kỹ thuật megacasting để giảm chi phí",
-        "Cải thiện hiệu suất sản xuất để cạnh tranh với đối thủ",
-        "Đảm bảo an toàn cho người lái với tính năng chống va chạm"
-      ],
-      "full_summary": "Volvo vừa ra mắt EX60, một chiếc xe hơi mới với công nghệ sản xuất tiên tiến. Công ty sử dụng kỹ thuật megacasting để giảm chi phí sản xuất và cải thiện hiệu suất. Điều này giúp Volvo cạnh tranh với các đối thủ trong ngành. Volvo cũng đảm bảo an toàn cho người lái với tính năng chống va chạm.",
       "comments": 0,
       "score": 0
     }
