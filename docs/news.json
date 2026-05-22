@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-22T08:52:33.590117+00:00",
+  "updated_at": "2026-05-22T14:24:38.579105+00:00",
   "articles": [
+    {
+      "id": "74ced55ec6ef",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T14:24:23.882667+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Mỹ muốn tăng quân đội tại Ba Lan",
+      "bullets": [
+        "Tổng thống Mỹ Donald Trump muốn tăng quân đội tại Ba Lan",
+        "Mỹ hủy kế hoạch tăng quân đội tại Ba Lan một tuần trước",
+        "Tổng thống Trump muốn tăng quân đội để đối phó với Nga",
+        "NATO lo ngại về tăng quân đội của Mỹ tại châu Âu"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump muốn tăng quân đội tại Ba Lan, một tuần sau khi các quan chức Mỹ hủy kế hoạch tăng quân đội. Tổng thống Trump muốn tăng quân đội để đối phó với Nga. Tuy nhiên, NATO lo ngại về tăng quân đội của Mỹ tại châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7bf9c3467f7f",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T14:24:25.017544+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Các nhà khoa học Anh đang phát triển vắc-xin Ebola mới",
+      "bullets": [
+        "Đang phát triển vắc-xin Ebola chống lại chủng Bundibugyo",
+        "Chủng này gây tử vong khoảng 1/3 người nhiễm",
+        "Vắc-xin đang được thử nghiệm trong vài tháng tới",
+        "Chưa có vắc-xin hiệu quả nào chống lại chủng này"
+      ],
+      "full_summary": "Các nhà khoa học Anh đang phát triển vắc-xin mới chống lại chủng Ebola Bundibugyo, một trong những chủng hiếm gặp nhất của virus này. Chủng này gây tử vong khoảng 1/3 người nhiễm và chưa có vắc-xin hiệu quả nào chống lại nó. Vắc-xin đang được thử nghiệm trong vài tháng tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1f9113752c7",
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T14:24:25.947972+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ tăng áp lực, Cuba đối mặt với thiếu xăng và mất điện",
+      "bullets": [
+        "Cuba đang đối mặt với thiếu xăng và mất điện nghiêm trọng",
+        "Hàng hóa và thực phẩm trở nên khan hiếm do thiếu năng lượng",
+        "Sự cố này diễn ra sau khi Mỹ truy tố cựu lãnh đạo Raúl Castro về tội ác chiến tranh",
+        "Havana đang phải đối mặt với nhiều khó khăn trong cuộc sống hàng ngày"
+      ],
+      "full_summary": "Mỹ vừa truy tố cựu lãnh đạo Cuba Raúl Castro về tội ác chiến tranh. Sự cố này diễn ra trong bối cảnh Cuba đang đối mặt với thiếu xăng và mất điện nghiêm trọng. Hàng hóa và thực phẩm trở nên khan hiếm do thiếu năng lượng. Người dân Havana đang phải đối mặt với nhiều khó khăn trong cuộc sống hàng ngày.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "901d6d120ad9",
+      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
+      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T14:24:26.851891+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ủy ban kháng cáo tuyên bố vô hiệu hóa chiến thắng lãnh đạo của Özgür Özel",
+      "bullets": [
+        "Tuyên bố vô hiệu hóa chiến thắng lãnh đạo của Özgür Özel",
+        "Cementing quyền lực của Tổng thống Erdoğan",
+        "Ủy ban kháng cáo tiếp tục củng cố quyền lực của Tổng thống",
+        "Bất ổn chính trị ở Thổ Nhĩ Kỳ tiếp tục gia tăng"
+      ],
+      "full_summary": "Ủy ban kháng cáo đã tuyên bố vô hiệu hóa chiến thắng lãnh đạo của Özgür Özel, một nhà lãnh đạo đối lập Thổ Nhĩ Kỳ. Điều này đã củng cố quyền lực của Tổng thống Recep Tayyip Erdoğan. Quyết định này đã gây ra bất ổn chính trị ở Thổ Nhĩ Kỳ và tiếp tục gia tăng căng thẳng giữa phe đối lập và chính phủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b909dfaf4df0",
+      "title": "AI used to fake evidence that ended Korean actor's career, say police",
+      "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T14:24:28.078007+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát truy bắt YouTuber tạo giả bằng chứng bôi nhọ diễn viên Kim Soo-hyun",
+      "bullets": [
+        "Cảnh sát đang tìm kiếm lệnh bắt giữ YouTuber bị cáo buộc tạo giả bằng chứng để bôi nhọ diễn viên Kim Soo-hyun.",
+        "Bằng chứng giả được tạo ra bằng công nghệ trí tuệ nhân tạo.",
+        "Diễn viên Kim Soo-hyun đã bị ảnh hưởng nghiêm trọng bởi các cáo buộc.",
+        "Cảnh sát đang điều tra vụ việc để tìm ra người thực sự tạo giả bằng chứng."
+      ],
+      "full_summary": "Cảnh sát đang tìm kiếm lệnh bắt giữ một YouTuber bị cáo buộc tạo giả bằng chứng để bôi nhọ diễn viên Kim Soo-hyun. Bằng chứng giả được tạo ra bằng công nghệ trí tuệ nhân tạo và đã ảnh hưởng nghiêm trọng đến sự nghiệp của diễn viên. Cảnh sát đang điều tra vụ việc để tìm ra người thực sự tạo giả bằng chứng và đảm bảo rằng công lý được thực hiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bd9f0f72d47c",
+      "title": "Slow Food founder Carlo Petrini dies aged 76",
+      "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T14:24:28.966529+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhà sáng lập Slow Food Carlo Petrini qua đời ở tuổi 76",
+      "bullets": [
+        "Tạo ra phong trào Slow Food nhằm chống lại thực phẩm nhanh",
+        "Kêu gọi sản xuất bền vững và nấu ăn truyền thống",
+        "Là người sáng lập tạp chí Slow Food",
+        "Đã nhận nhiều giải thưởng vì đóng góp cho nền ẩm thực thế giới"
+      ],
+      "full_summary": "Carlo Petrini, người sáng lập phong trào Slow Food, đã qua đời ở tuổi 76. Ông đã tạo ra phong trào này để chống lại thực phẩm nhanh và kêu gọi sản xuất bền vững, nấu ăn truyền thống. Petrini cũng là người sáng lập tạp chí Slow Food và đã nhận nhiều giải thưởng vì đóng góp cho nền ẩm thực thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0442f48338ac",
+      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T14:24:30.254794+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Đế chế Destiny 2 sắp kết thúc hỗ trợ",
+      "bullets": [
+        "Bungie sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6.",
+        "Chương trình sẽ vẫn tiếp tục chơi được sau khi kết thúc hỗ trợ.",
+        "Người hâm mộ đang phản ứng với tin tức này.",
+        "Bungie chưa công bố kế hoạch cụ thể sau khi kết thúc hỗ trợ."
+      ],
+      "full_summary": "Bungie vừa tuyên bố sẽ kết thúc hỗ trợ cho trò chơi bắn súng trực tuyến Destiny 2 vào ngày 9 tháng 6. Chương trình sẽ vẫn tiếp tục chơi được sau khi kết thúc hỗ trợ. Người hâm mộ đang phản ứng với tin tức này và lo lắng về tương lai của trò chơi. Bungie chưa công bố kế hoạch cụ thể sau khi kết thúc hỗ trợ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ce4975da3ec5",
+      "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+      "url": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-22T14:24:35.210529+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "RFK Jr. đã sa thải lãnh đạo nhóm nghiên cứu về phòng ngừa bệnh tật",
+      "bullets": [
+        "Sa thải lãnh đạo nhóm nghiên cứu về phòng ngừa bệnh tật đã khiến các bác sĩ phẫn nộ",
+        "Các bác sĩ lo ngại rằng chăm sóc dự phòng có thể sẽ bị ảnh hưởng",
+        "RFK Jr. đã sa thải các lãnh đạo của nhóm nghiên cứu về phòng ngừa bệnh tật",
+        "Các bác sĩ đang lên án các hành động của RFK Jr."
+      ],
+      "full_summary": "Các bác sĩ đang phẫn nộ sau khi Robert F. Kennedy Jr. (RFK Jr.) đã sa thải các lãnh đạo của nhóm nghiên cứu về phòng ngừa bệnh tật. Các bác sĩ lo ngại rằng chăm sóc dự phòng có thể sẽ bị ảnh hưởng. Điều này đã khiến các bác sĩ lên án các hành động của RFK Jr.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d4191a5b76f2",
       "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
@@ -637,164 +797,6 @@
         "Bệnh lây truyền qua đường tình dục đang trở thành mối lo ngại lớn"
       ],
       "full_summary": "Một cơ quan y tế vừa công bố rằng các bệnh lây truyền qua đường tình dục như bệnh gan lây truyền qua đường tình dục và bệnh lây truyền qua đường tình dục đang đạt mức kỷ lục ở châu Âu. Nguyên nhân được cho là do sự thiếu sót trong hệ thống y tế, bao gồm cả việc kiểm tra và ngăn chặn. Điều này đã dẫn đến tình trạng bệnh lây truyền qua đường tình dục trở thành mối lo ngại lớn ở châu Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bbcb6857d743",
-      "title": "Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday",
-      "url": "https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T14:49:42.147522+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hồi giáo Mali phong tỏa đường sá, hàng chục xe bị đốt",
-      "bullets": [
-        "Phong tỏa đường sá khiến nhiên liệu và thực phẩm cạn kiệt",
-        "Hàng chục xe bị đốt cháy trong cuộc phong tỏa",
-        "Căng thẳng leo thang trước dịp lễ Eid",
-        "Khủng hoảng dẫn đến thiếu hụt nhiên liệu và lương thực"
-      ],
-      "full_summary": "Hồi giáo Mali đang phong tỏa đường sá, dẫn đến thiếu hụt nhiên liệu và lương thực trước dịp lễ Eid. Cuộc phong tỏa đã khiến hàng chục xe bị đốt cháy. Điều này đã gây ra căng thẳng leo thang và ảnh hưởng đến cuộc sống hàng ngày của người dân. Các tổ chức nhân đạo đang nỗ lực cung cấp hỗ trợ cho những người bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c87a18393a33",
-      "title": "Nvidia's latest record earnings fail to impress investors",
-      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T14:49:43.196062+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nvidia không thể duy trì tốc độ tăng trưởng",
-      "bullets": [
-        "Nvidia báo cáo kết quả kinh doanh ấn tượng",
-        "Số cổ phiếu của công ty giảm sau khi công bố",
-        "Nhà đầu tư lo ngại về sự cạnh tranh ngày càng tăng",
-        "Nvidia phải tìm cách duy trì tốc độ tăng trưởng"
-      ],
-      "full_summary": "Nvidia vừa công bố kết quả kinh doanh ấn tượng, nhưng số cổ phiếu của công ty đã giảm sau khi công bố. Điều này khiến nhà đầu tư lo ngại về khả năng duy trì tốc độ tăng trưởng của công ty. Trong bối cảnh cạnh tranh ngày càng tăng, Nvidia phải tìm cách duy trì tốc độ tăng trưởng và duy trì vị thế của mình trong ngành công nghiệp bán dẫn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "42d622403c26",
-      "title": "Google to release first smart glasses since Google Glass flop",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T14:49:44.590995+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Google sắp ra mắt kính thông minh sau thất bại của Google Glass",
-      "bullets": [
-        "Sẽ bán ra vào mùa thu này",
-        "Cho phép AI của Google tương tác với người dùng",
-        "Sẽ là sản phẩm kính thông minh đầu tiên của Google sau Google Glass",
-        "Sẽ cạnh tranh với các sản phẩm tương tự trên thị trường"
-      ],
-      "full_summary": "Google sắp ra mắt kính thông minh mới sau thất bại của Google Glass vào năm 2014. Sản phẩm này sẽ cho phép AI của Google tương tác với người dùng và sẽ bán ra vào mùa thu này. Kính thông minh mới này sẽ cạnh tranh với các sản phẩm tương tự trên thị trường. Google đã không công bố nhiều thông tin về sản phẩm này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3509bc04cacd",
-      "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
-      "url": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T14:49:47.019652+00:00",
-      "category": "politics|science",
-      "importance": 4,
-      "headline": "Tình hình khí hậu Colombia đứng trước thử thách",
-      "bullets": [
-        "Căng thẳng chính trị ở Colombia đang ảnh hưởng đến nỗ lực bảo vệ môi trường",
-        "Thị trường khí hậu toàn cầu đang bị đe dọa bởi sự ảnh hưởng của chủ nghĩa Trump",
-        "Các nhà hoạt động môi trường lo ngại Colombia sẽ trở thành một quốc gia khai thác và bơm khí đốt"
-      ],
-      "full_summary": "Colombia đang đứng trước một thử thách lớn về vấn đề khí hậu. Quốc gia này từng được coi là một trong những quốc gia hàng đầu về hoạt động bảo vệ môi trường. Tuy nhiên, sự ảnh hưởng của chủ nghĩa Trump và các chính sách kinh tế có thể khiến Colombia trở thành một quốc gia khai thác và bơm khí đốt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1fa14ad91e4d",
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-21T14:49:51.757499+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "AI được coi là một hình thức sao chép không được phép ở quy mô lớn hơn",
-      "bullets": [
-        "Trích dẫn bài viết: AI chỉ là sao chép không được phép ở quy mô lớn hơn",
-        "Báo cáo cho rằng AI không tạo ra ý tưởng mới",
-        "AI chỉ lặp lại và sắp xếp lại thông tin đã có"
-      ],
-      "full_summary": "Một bài viết trên Hacker News cho rằng AI không phải là một công nghệ sáng tạo mà chỉ là một hình thức sao chép không được phép ở quy mô lớn hơn. Bài viết trích dẫn rằng AI không tạo ra ý tưởng mới mà chỉ lặp lại và sắp xếp lại thông tin đã có. Điều này cho thấy rằng AI không phải là một công nghệ đột phá mà chỉ là một công cụ hỗ trợ cho con người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9b6f59071b32",
-      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
-      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T09:26:28.432407+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cộng hòa Dân chủ Congo hủy tập huấn World Cup do dịch Ebola",
-      "bullets": [
-        "Hủy tập huấn World Cup vì dịch Ebola bùng phát tại Cộng hòa Dân chủ Congo",
-        "Tính đến nay, dịch Ebola đã khiến 139 người tử vong",
-        "Loại virus Ebola gây ra dịch bệnh này hiếm gặp",
-        "Cộng hòa Dân chủ Congo đang nỗ lực kiểm soát dịch bệnh"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo đã hủy kế hoạch tập huấn World Cup do dịch Ebola bùng phát tại quốc gia này. Dịch bệnh được gây ra bởi một loại virus Ebola hiếm gặp và đã khiến 139 người tử vong. Chính phủ Cộng hòa Dân chủ Congo đang nỗ lực kiểm soát dịch bệnh và ngăn chặn sự lây lan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4401eaa1f11d",
-      "title": "Sierra Leone becomes latest African country to receive deportees from US",
-      "url": "https://www.bbc.com/news/articles/cn9pzjvly53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T09:26:29.748924+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hai Mươi Mốt nước Phi nhận lại người nhập cư bất hợp pháp từ Mỹ",
-      "bullets": [
-        "Nhiều người nhập cư bất hợp pháp từ Mỹ đã bị trục xuất sang Sierra Leone",
-        "Sierra Leone trở thành nước Phi thứ 21 nhận lại người nhập cư bất hợp pháp từ Mỹ",
-        "Động thái này là kết quả của chính sách của cựu Tổng thống Mỹ Donald Trump",
-        "Chính sách này nhằm ngăn chặn nhập cư bất hợp pháp vào Mỹ"
-      ],
-      "full_summary": "Sierra Leone trở thành nước Phi thứ 21 nhận lại người nhập cư bất hợp pháp từ Mỹ. Nhiều người nhập cư bất hợp pháp từ Mỹ đã bị trục xuất sang Sierra Leone. Động thái này là kết quả của chính sách của cựu Tổng thống Mỹ Donald Trump nhằm ngăn chặn nhập cư bất hợp pháp vào Mỹ. Chính sách này đã gây ra nhiều tranh cãi và phản ứng trái chiều từ cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb2e51938525",
-      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T09:26:30.741486+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Triển lãm Musk-Altman giúp nâng lên sự thật về ngành công nghệ AI",
-      "bullets": [
-        "Giải thích về sự khác biệt giữa Musk và Altman",
-        "Lật lại các sự kiện dẫn đến vụ kiện",
-        "Phát hiện ra sự thật về ngành công nghệ AI",
-        "Đánh giá về những người đứng đằng sau ngành công nghệ AI"
-      ],
-      "full_summary": "Vụ kiện Musk-Altman đã giúp nâng lên sự thật về ngành công nghệ AI. Vụ kiện đã giúp người ta hiểu rõ hơn về sự khác biệt giữa Musk và Altman. Ngành công nghệ AI đã được giải thích rõ hơn sau vụ kiện. Những người đứng đằng sau ngành công nghệ AI đã được đánh giá cao hơn.",
       "comments": 0,
       "score": 0
     }
