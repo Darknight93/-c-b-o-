@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-21T19:46:25.276354+00:00",
+  "updated_at": "2026-05-22T02:42:38.664374+00:00",
   "articles": [
+    {
+      "id": "3555f7e25f00",
+      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T02:42:24.170525+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mối quan hệ giữa dân và bệnh viện Ebola leo thang khi người dân đốt nhà tạm",
+      "bullets": [
+        "Người dân đốt nhà tạm của bệnh viện Ebola ở Cộng hòa Dân chủ Congo",
+        "Bệnh viện Ebola bị người dân tấn công vì không cho phép chôn cất người bệnh",
+        "Người dân phản ứng dữ dội khi không được phép chôn cất người thân",
+        "Bệnh viện Ebola phải tìm cách giải quyết mâu thuẫn với người dân"
+      ],
+      "full_summary": "Một nhóm người dân ở Cộng hòa Dân chủ Congo đã đốt nhà tạm của bệnh viện Ebola sau khi không được phép chôn cất người thân. Sự việc xảy ra khi bệnh viện không cho phép người dân chôn cất một người bệnh nghi ngờ mắc Ebola. Người dân đã phản ứng dữ dội và đốt nhà tạm của bệnh viện. Sự việc đã gây ra mâu thuẫn giữa bệnh viện và người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9ae9c81e990a",
+      "title": "Love factually: Dating start-ups promise to cut the cheats",
+      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T02:42:25.270071+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Dịch vụ hẹn hò mới hứa hẹn giảm số người lừa đảo",
+      "bullets": [
+        "Tạo ra các hồ sơ hẹn hò giả đã khiến nhiều người thất vọng",
+        "Các công ty mới đang sử dụng các phương pháp khác nhau để giảm số người lừa đảo",
+        "Các dịch vụ hẹn hò mới hứa hẹn sẽ giúp người dùng tìm được người yêu chân thật",
+        "Mục tiêu của các công ty này là tạo ra một môi trường hẹn hò an toàn hơn"
+      ],
+      "full_summary": "Các dịch vụ hẹn hò mới đang hứa hẹn sẽ giảm số người lừa đảo. Các công ty này đã tạo ra các phương pháp khác nhau để giảm số người lừa đảo. Mục tiêu của các công ty này là tạo ra một môi trường hẹn hò an toàn hơn cho người dùng. Các dịch vụ hẹn hò mới này đang trở nên phổ biến hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d689050cb468",
+      "title": "UK police bosses urge unsafe platforms to be blocked for under-16s",
+      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T02:42:26.301570+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cảnh sát Anh yêu cầu chặn các nền tảng không an toàn cho người dưới 16 tuổi",
+      "bullets": [
+        "Cảnh sát yêu cầu chặn các nền tảng không an toàn cho người dưới 16 tuổi",
+        "Các nền tảng không ngăn chặn trẻ em xem ảnh khỏa thân hoặc liên hệ với người lạ",
+        "NCA và NPCC muốn bảo vệ trẻ em khỏi các mối đe dọa trực tuyến",
+        "Cảnh sát muốn chặn các nền tảng không tuân thủ các quy định về an toàn trực tuyến"
+      ],
+      "full_summary": "Cảnh sát Anh đang yêu cầu chặn các nền tảng không an toàn cho người dưới 16 tuổi. NCA và NPCC cho rằng trẻ em cần được bảo vệ khỏi các mối đe dọa trực tuyến, bao gồm việc xem ảnh khỏa thân hoặc liên hệ với người lạ. Các cảnh sát muốn chặn các nền tảng không tuân thủ các quy định về an toàn trực tuyến để bảo vệ trẻ em khỏi các mối nguy hiểm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "51177b14210f",
+      "title": "Meta settles social media addiction case with US school district",
+      "url": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T02:42:27.615962+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta đã đạt thỏa thuận trong vụ kiện liên quan đến nghiện mạng xã hội",
+      "bullets": [
+        "Meta đã đồng ý giải quyết vụ kiện liên quan đến nghiện mạng xã hội của một khu vực học tập ở Mỹ",
+        "Vụ kiện này được coi là một thử nghiệm cho 1200 khu vực học tập khác có yêu cầu tương tự",
+        "Meta sẽ phải thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội trong các trường học",
+        "Thỏa thuận này sẽ giúp giảm thiểu tác động tiêu cực của mạng xã hội đối với học sinh"
+      ],
+      "full_summary": "Meta đã đạt thỏa thuận trong vụ kiện liên quan đến nghiện mạng xã hội của một khu vực học tập ở Mỹ. Vụ kiện này được coi là một thử nghiệm cho 1200 khu vực học tập khác có yêu cầu tương tự. Theo thỏa thuận, Meta sẽ phải thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội trong các trường học. Điều này sẽ giúp giảm thiểu tác động tiêu cực của mạng xã hội đối với học sinh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db319e6de7b9",
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T02:42:28.927496+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hội nhóm Mỹ kêu gọi điều tra an toàn trẻ em và chi tiêu trên Roblox",
+      "bullets": [
+        "Kêu gọi điều tra chi tiêu và an toàn trẻ em trên Roblox",
+        "Roblox cho biết có chính sách rõ ràng cấm đánh bạc thực tế và ảo",
+        "Cung cấp các quy tắc quản lý vật phẩm ngẫu nhiên có tính phí",
+        "Đảm bảo an toàn cho trẻ em trên nền tảng trực tuyến"
+      ],
+      "full_summary": "Các nhóm ở Mỹ đang kêu gọi điều tra chi tiêu và an toàn trẻ em trên nền tảng trực tuyến Roblox. Họ lo ngại rằng nền tảng này cho phép trẻ em tham gia các hoạt động có tính phí mà không được kiểm soát. Roblox đã phản hồi rằng họ có chính sách rõ ràng cấm đánh bạc thực tế và ảo, cũng như cung cấp các quy tắc quản lý vật phẩm ngẫu nhiên có tính phí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2e4dbbeba9e2",
+      "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
+      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T02:42:29.909125+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bác sĩ Mỹ nhiễm Ebola được đưa sang Đức điều trị",
+      "bullets": [
+        "Được đưa sang Đức điều trị",
+        "Bác sĩ cùng vợ và 4 con đang được theo dõi",
+        "WHO cảnh báo về tốc độ và quy mô của dịch",
+        "Dịch đã lan sang các khu vực thành thị"
+      ],
+      "full_summary": "Một bác sĩ Mỹ bị nhiễm Ebola đã được đưa sang Đức điều trị. Bác sĩ cùng vợ và 4 con đang được theo dõi vì có thể nhiễm bệnh. Tổ chức Y tế Thế giới (WHO) cảnh báo về tốc độ và quy mô của dịch, với ít nhất 134 trường hợp tử vong và hơn 500 trường hợp nhiễm bệnh. Dịch đã lan sang các khu vực thành thị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f3d9d99eea72",
+      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-22T02:42:31.426933+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "AcuRite ngưng hỗ trợ ứng dụng yêu thích của khách hàng",
+      "bullets": [
+        "AcuRite ngừng hỗ trợ ứng dụng cũ",
+        "Khách hàng phản ứng không hài lòng với chuyển đổi sang AcuRite NOW",
+        "AcuRite giải thích lý do ngừng hỗ trợ ứng dụng cũ",
+        "Chuyển đổi sang AcuRite NOW gặp nhiều khó khăn"
+      ],
+      "full_summary": "AcuRite, một nhà sản xuất thiết bị IoT, đã ngưng hỗ trợ ứng dụng yêu thích của khách hàng. Theo Ars Technica, chuyển đổi sang AcuRite NOW không được khách hàng mong đợi. AcuRite giải thích rằng họ muốn tập trung vào ứng dụng mới hơn và hiện đại hơn. Tuy nhiên, nhiều khách hàng đã phản ứng không hài lòng với quyết định này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "90dbdd6e7b88",
+      "title": "Uh-oh, the International Space Station is leaking again",
+      "url": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-22T02:42:35.261583+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Trạm vũ trụ quốc tế gặp sự cố rò rỉ lần nữa",
+      "bullets": [
+        "Trạm vũ trụ quốc tế đang gặp vấn đề rò rỉ",
+        "Sự cố này làm dấy lên lo ngại về an toàn của các phi hành gia",
+        "Nghiên cứu đang được tiến hành để xác định nguyên nhân của sự cố",
+        "Trạm vũ trụ quốc tế dự kiến sẽ ngừng hoạt động vào năm 2030"
+      ],
+      "full_summary": "Trạm vũ trụ quốc tế đang gặp vấn đề rò rỉ lần nữa, gây lo ngại về an toàn của các phi hành gia. Sự cố này đã được xác định và các nhà khoa học đang nghiên cứu để tìm hiểu nguyên nhân. Trạm vũ trụ quốc tế dự kiến sẽ ngừng hoạt động vào năm 2030, theo kế hoạch hiện tại.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b921bbbafafc",
       "title": "Pair arrested after boys abandoned by road in Portugal",
@@ -636,165 +796,6 @@
         "Đội ngũ theo dõi tiếp xúc đang hoạt động khắp cả nước"
       ],
       "full_summary": "WHO đã cảnh báo về đợt bùng phát Ebola ở Cộng hòa Dân chủ Congo (DRC). Các chuyên gia lo ngại rằng sự phức tạp trong phản ứng với đợt bùng phát này có thể do sự thiếu tin tưởng và chậm phát hiện. Các biện pháp phòng ngừa như khử khuẩn và theo dõi nhiệt độ đang được thực hiện để ngăn chặn sự lây lan của virus. Đội ngũ theo dõi tiếp xúc đang hoạt động khắp cả nước để tìm kiếm những người có thể đã tiếp xúc với virus.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50385fecf356",
-      "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T02:41:09.995718+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hoa Kỳ tăng nhập cư trắng Nam Phi vì 'tình huống khẩn cấp'",
-      "bullets": [
-        "Tăng nhập cư trắng Nam Phi lên 17.500 người",
-        "Hoa Kỳ tuyên bố tình huống khẩn cấp tại Nam Phi",
-        "Trump từng nói trắng Nam Phi đang bị diệt chủng",
-        "Tình huống tại Nam Phi đã thay đổi bất ngờ"
-      ],
-      "full_summary": "Hoa Kỳ vừa tuyên bố sẽ tăng nhập cư trắng Nam Phi lên 17.500 người trong năm nay, sau khi cho rằng tình huống tại Nam Phi đã thay đổi bất ngờ. Điều này diễn ra sau khi Tổng thống Donald Trump nhiều lần tuyên bố trắng Nam Phi đang bị diệt chủng, nhưng chính phủ Nam Phi đã bác bỏ những tuyên bố này. Trump cho rằng việc nhập cư trắng Nam Phi sẽ tốn khoảng 100 triệu USD.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "52694742b088",
-      "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
-      "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T02:41:11.702334+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Bolivia chìm trong cuộc biểu tình dữ dội",
-      "bullets": [
-        "Hàng chục nghìn người biểu tình trên đường phố La Paz",
-        "Cảnh sát và biểu tình xung đột dữ dội trong tuần thứ hai",
-        "Tổng thống Rodrigo Paz Pereira gặp khó khăn trong nhiệm kỳ mới",
-        "Biểu tình chặn nhiều con đường ở Bolivia"
-      ],
-      "full_summary": "Bolivia đang chìm trong cuộc biểu tình dữ dội sau khi tổng thống Rodrigo Paz Pereira lên nắm quyền chỉ 6 tháng. Hàng chục nghìn người biểu tình trên đường phố La Paz, xung đột với cảnh sát. Cuộc biểu tình đã chặn nhiều con đường ở Bolivia và biến trung tâm thủ đô La Paz thành một chiến trường. Hoa Kỳ đã cảnh báo về khả năng đảo chính.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6dff552ea304",
-      "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
-      "url": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-21T02:41:14.341701+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "NASA Psyche tàu vũ trụ chụp ảnh Trái Đất từ góc nhìn mới",
-      "bullets": [
-        "Chụp ảnh Trái Đất từ góc nhìn chưa từng thấy",
-        "Cung cấp hình ảnh Trái Đất từ một góc nhìn hiếm hoi",
-        "Tàu vũ trụ Psyche chụp ảnh sao Hỏa từ góc nhìn độc đáo",
-        "Cung cấp thông tin mới về hành tinh đỏ"
-      ],
-      "full_summary": "Tàu vũ trụ Psyche của NASA vừa chụp ảnh Trái Đất từ một góc nhìn chưa từng thấy. Hình ảnh này được chụp khi tàu vũ trụ đang trên đường đến sao Hỏa. Ngoài ra, tàu vũ trụ còn chụp ảnh sao Hỏa từ một góc nhìn độc đáo, cung cấp thông tin mới về hành tinh đỏ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2539f8450934",
-      "title": "The Letter S, by Donald Knuth [pdf]",
-      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-21T02:41:18.812585+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Donald Knuth trình bày về chữ S trong typography",
-      "bullets": [
-        "Donald Knuth giới thiệu về chữ S trong typography của mình",
-        "Chữ S được thiết kế để tối ưu hóa trong các font chữ",
-        "Chữ S có nhiều biến thể khác nhau trong typography"
-      ],
-      "full_summary": "Donald Knuth đã trình bày về chữ S trong typography của mình trong một bài viết năm 1980. Ông đã giới thiệu về các đặc điểm và biến thể của chữ S trong các font chữ. Bài viết này đã trở thành một tài liệu quan trọng trong lĩnh vực typography.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "08564bccc910",
-      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T20:05:17.442496+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Putin trở về mà không đạt được thỏa thuận về đường ống dẫn khí",
-      "bullets": [
-        "Putin được Xi chào đón nồng nhiệt tại Trung Quốc",
-        "Hai nước đã thể hiện sự đoàn kết trên trường quốc tế",
-        "Tuy nhiên, rõ ràng là có giới hạn trong hợp tác kinh tế",
-        "Không đạt được thỏa thuận về đường ống dẫn khí"
-      ],
-      "full_summary": "Tổng thống Putin đã đến thăm Trung Quốc và được lãnh đạo Trung Quốc Xi Jinping chào đón nồng nhiệt. Mặc dù hai nước đã thể hiện sự đoàn kết trên trường quốc tế, nhưng rõ ràng là có giới hạn trong hợp tác kinh tế. Không đạt được thỏa thuận về đường ống dẫn khí là một trong những điểm đáng chú ý trong chuyến thăm này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f7ba9efb2747",
-      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T20:05:18.517112+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bộ trưởng Israel cực hữu bị chỉ trích vì đùa cợt những người tham gia đoàn thuyền Gaza đang bị giam",
-      "bullets": [
-        "Pháp và Ý chỉ trích video cho thấy Itamar Ben-Gvir đùa cợt những người tham gia đoàn thuyền Gaza",
-        "Các quốc gia này kêu gọi Israel phải tôn trọng nhân quyền của những người tham gia đoàn thuyền",
-        "Video được đăng tải trên mạng xã hội và gây ra sự phẫn nộ trên toàn thế giới",
-        "Itamar Ben-Gvir là bộ trưởng an ninh của Israel và được biết đến với quan điểm cực hữu"
-      ],
-      "full_summary": "Bộ trưởng an ninh Israel Itamar Ben-Gvir đã bị chỉ trích vì video cho thấy ông ta đùa cợt những người tham gia đoàn thuyền Gaza đang bị giam. Pháp và Ý đã chỉ trích hành động này và kêu gọi Israel phải tôn trọng nhân quyền của những người tham gia đoàn thuyền. Video được đăng tải trên mạng xã hội và gây ra sự phẫn nộ trên toàn thế giới. Itamar Ben-Gvir được biết đến với quan điểm cực hữu và đã trở thành tâm điểm của sự chỉ trích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "765b8cc49b50",
-      "title": "Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest",
-      "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T20:05:19.530135+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chủ tịch Mango bị rơi xuống núi, con trai phủ nhận liên quan",
-      "bullets": [
-        "Bị cáo Isak Andic rơi xuống núi trong một chuyến đi dã ngoại",
-        "Con trai Jonathan phủ nhận liên quan đến cái chết của cha",
-        "Cơ quan chức năng đang điều tra nguyên nhân của vụ việc",
-        "Isak Andic là người sáng lập đế chế quần áo lớn nhất châu Âu"
-      ],
-      "full_summary": "Chủ tịch Mango Isak Andic đã qua đời sau khi rơi xuống núi trong một chuyến đi dã ngoại. Con trai Jonathan của ông phủ nhận liên quan đến cái chết của cha. Cơ quan chức năng đang điều tra nguyên nhân của vụ việc. Isak Andic là người sáng lập đế chế quần áo lớn nhất châu Âu, Mango.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f9b2f4f21c76",
-      "title": "Austrian ex-intelligence officer found guilty of Russia spying charges",
-      "url": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-20T20:05:20.551972+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cựu quan chức tình báo Áo bị kết tội gián điệp cho Nga",
-      "bullets": [
-        "Bị kết tội gián điệp cho Nga",
-        "Cáo buộc làm dấy lên lo ngại Áo vẫn là nơi hoạt động gián điệp của Nga",
-        "Vụ việc gây ra sự phẫn nộ trong cộng đồng",
-        "Cáo buộc liên quan đến hoạt động tình báo của Nga tại Áo"
-      ],
-      "full_summary": "Một cựu quan chức tình báo Áo vừa bị kết tội gián điệp cho Nga. Vụ việc này đã gây ra sự phẫn nộ trong cộng đồng và làm dấy lên lo ngại Áo vẫn là nơi hoạt động gián điệp của Nga. Cáo buộc liên quan đến hoạt động tình báo của Nga tại Áo đã được đưa ra và đang được điều tra. Vụ việc này đã gây ra sự chú ý lớn trong cộng đồng quốc tế.",
       "comments": 0,
       "score": 0
     }
