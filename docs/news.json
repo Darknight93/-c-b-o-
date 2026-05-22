@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-22T02:42:38.664374+00:00",
+  "updated_at": "2026-05-22T08:52:33.590117+00:00",
   "articles": [
+    {
+      "id": "d4191a5b76f2",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T08:52:17.518333+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạm đội Mỹ tạm dừng bán vũ khí cho Đài Loan do chiến tranh Iran",
+      "bullets": [
+        "Bán vũ khí trị giá 14 tỷ USD của Mỹ cho Đài Loan bị tạm dừng",
+        "Hạm đội Mỹ cần vũ khí cho chiến tranh Iran",
+        "Tình hình tại Đài Loan đang trở nên phức tạp",
+        "Mỹ cần cân nhắc lại chiến lược đối ngoại"
+      ],
+      "full_summary": "Hạm đội Mỹ đã tạm dừng bán vũ khí trị giá 14 tỷ USD cho Đài Loan do chiến tranh Iran. Theo Hung Cao, người đứng đầu hạm đội Mỹ, họ cần đảm bảo có đủ vũ khí cho chiến tranh Iran. Điều này cho thấy rằng Mỹ đang phải cân nhắc lại chiến lược đối ngoại của mình. Việc bán vũ khí cho Đài Loan đang trở nên phức tạp hơn do tình hình tại Trung Đông đang trở nên bất ổn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5de499ae1d0a",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T08:52:18.479870+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Rubio tuyên bố Cuba là mối đe dọa đối với Mỹ",
+      "bullets": [
+        "Rubio cáo buộc Cuba đang xây dựng vũ khí hạt nhân",
+        "Ngoại trưởng Cuba lên án Rubio với những lời nói dối",
+        "Cuba phản bác cáo buộc của Rubio là nhằm kích động xung đột quân sự",
+        "Mỹ và Cuba có quan hệ căng thẳng từ lâu"
+      ],
+      "full_summary": "Thượng nghị sĩ Mỹ Marco Rubio tuyên bố Cuba là mối đe dọa đối với quốc gia này. Ông cáo buộc Cuba đang xây dựng vũ khí hạt nhân. Tuy nhiên, Ngoại trưởng Cuba lên án Rubio với những lời nói dối. Cuba phản bác cáo buộc của Rubio là nhằm kích động xung đột quân sự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "04ee2c9aa00c",
+      "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
+      "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T08:52:19.588382+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ cáo buộc Raúl Castro: 3 kịch bản có thể xảy ra",
+      "bullets": [
+        "Mỹ cáo buộc Raúl Castro về các tội danh liên quan đến gian lận",
+        "Cuba có thể đối mặt với các biện pháp trừng phạt kinh tế nghiêm trọng",
+        "Tình hình có thể leo thang thành một cuộc khủng hoảng mới",
+        "Hành động của Mỹ có thể ảnh hưởng đến quan hệ giữa Cuba và các quốc gia khác"
+      ],
+      "full_summary": "Mỹ đã cáo buộc Raúl Castro, cựu lãnh đạo Cuba, về các tội danh liên quan đến gian lận. Hành động này có thể dẫn đến các biện pháp trừng phạt kinh tế nghiêm trọng đối với Cuba. Tình hình có thể leo thang thành một cuộc khủng hoảng mới giữa Mỹ và Cuba. Hành động của Mỹ cũng có thể ảnh hưởng đến quan hệ giữa Cuba và các quốc gia khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "99b49a4bdf60",
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T08:52:20.541226+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tỉnh Alberta sẽ tổ chức trưng cầu dân ý về việc rời khỏi Canada",
+      "bullets": [
+        "Sẽ diễn ra trưng cầu dân ý vào tháng 10 năm sau",
+        "Người dân sẽ quyết định liệu họ muốn Alberta trở thành một quốc gia độc lập",
+        "Quy trình độc lập sẽ được tiến hành nếu đa số người dân ủng hộ",
+        "Việc này có thể dẫn đến việc Alberta rời khỏi Canada"
+      ],
+      "full_summary": "Tỉnh Alberta ở Canada sẽ tổ chức trưng cầu dân ý vào tháng 10 năm sau về việc rời khỏi Canada. Người dân sẽ quyết định liệu họ muốn Alberta trở thành một quốc gia độc lập. Nếu đa số người dân ủng hộ, quy trình độc lập sẽ được tiến hành. Điều này có thể dẫn đến việc Alberta rời khỏi Canada.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "39d3cb77907e",
+      "title": "Africa summit in India postponed over Ebola outbreak fears",
+      "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T08:52:21.495924+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hội nghị Ấn Độ - Phi Châu hoãn do lo ngại dịch Ebola",
+      "bullets": [
+        "Hoãn hội nghị Ấn Độ - Phi Châu vì lo ngại dịch Ebola",
+        "Hội nghị được lên kế hoạch tổ chức tại Delhi",
+        "Sự kiện này chưa từng được tổ chức sau hơn 10 năm"
+      ],
+      "full_summary": "Hội nghị Ấn Độ - Phi Châu được lên kế hoạch tổ chức tại Delhi từ tuần tới sau hơn 10 năm. Tuy nhiên, do lo ngại dịch Ebola, hội nghị đã bị hoãn. Hội nghị này được kỳ vọng sẽ tăng cường hợp tác giữa Ấn Độ và các quốc gia Phi Châu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a70bf8e5b067",
+      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+      "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T08:52:22.458136+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Người dân Greenland phản đối Trump tại cơ sở lãnh sự mới của Mỹ",
+      "bullets": [
+        "Phản đối kế hoạch của Tổng thống Trump muốn kiểm soát Greenland",
+        "Người dân Greenland biểu tình trước cơ sở lãnh sự mới của Mỹ",
+        "Bất bình trước động thái của Tổng thống Trump",
+        "Cơ sở lãnh sự mới của Mỹ được khánh thành tại Greenland"
+      ],
+      "full_summary": "Người dân Greenland đã tổ chức biểu tình trước cơ sở lãnh sự mới của Mỹ tại Greenland. Họ phản đối kế hoạch của Tổng thống Trump muốn kiểm soát đảo quốc này. Điều này đã gây ra sự bất bình trong cộng đồng người dân Greenland. Cơ sở lãnh sự mới của Mỹ được khánh thành trong bối cảnh Tổng thống Trump muốn tăng cường kiểm soát đối với đảo quốc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "09040bc5d7a9",
+      "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
+      "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-22T08:52:24.017142+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hoa Kỳ trừng phạt quan chức cảnh sát Tanzania vì hành hạ hoạt động gia đình",
+      "bullets": [
+        "Hoa Kỳ trừng phạt quan chức cảnh sát Tanzania",
+        "Tanzania đang đối mặt với sự giám sát chặt chẽ về vấn đề nhân quyền",
+        "Quan chức cảnh sát Tanzania bị cáo buộc hành hạ các hoạt động gia đình",
+        "Sự trừng phạt này nhằm tăng cường giám sát nhân quyền tại Tanzania"
+      ],
+      "full_summary": "Hoa Kỳ đã trừng phạt một quan chức cảnh sát Tanzania vì bị cáo buộc hành hạ các hoạt động gia đình. Sự trừng phạt này diễn ra trong bối cảnh Tanzania đang đối mặt với sự giám sát chặt chẽ về vấn đề nhân quyền. Trong những năm gần đây, Tanzania đã bị chỉ trích về các vấn đề nhân quyền. Sự trừng phạt này nhằm tăng cường giám sát nhân quyền tại Tanzania.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c15c32ec3b9f",
+      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-22T08:52:28.039332+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "SpaceX đặt cược tương lai vào việc vượt qua Big Tech trong lĩnh vực trí tuệ nhân tạo",
+      "bullets": [
+        "SpaceX đang tập trung vào việc xây dựng trạm dữ liệu trên quỹ đạo",
+        "Nỗ lực này nhằm cạnh tranh với các công ty công nghệ lớn trong lĩnh vực trí tuệ nhân tạo",
+        "SpaceX đang chuẩn bị cho IPO và trình bày kế hoạch này trong hồ sơ đăng ký",
+        "Tuy nhiên, dự án Grok của SpaceX đang gặp khó khăn khi đối đầu với các dịch vụ trí tuệ nhân tạo khác"
+      ],
+      "full_summary": "SpaceX đang đặt cược tương lai vào việc vượt qua Big Tech trong lĩnh vực trí tuệ nhân tạo bằng cách xây dựng trạm dữ liệu trên quỹ đạo. Trong hồ sơ đăng ký IPO, SpaceX đã trình bày kế hoạch này, nhưng dự án Grok của họ đang gặp khó khăn khi đối đầu với các dịch vụ trí tuệ nhân tạo khác. SpaceX hy vọng rằng trạm dữ liệu trên quỹ đạo sẽ giúp họ cạnh tranh với các công ty công nghệ lớn trong lĩnh vực trí tuệ nhân tạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "733e39e77b43",
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "url": "https://arxiv.org/abs/2605.19269",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-22T08:52:33.089935+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nghiên cứu mới viết lại khối biến đổi mã hóa thành chương trình GEMM-Epilogue",
+      "bullets": [
+        "Viết lại khối biến đổi mã hóa thành chương trình GEMM-Epilogue",
+        "Cải thiện hiệu suất của mô hình transformer",
+        "Giải quyết vấn đề tính toán phức tạp trong học máy",
+        "Đưa ra hướng mới cho nghiên cứu mô hình transformer"
+      ],
+      "full_summary": "Một nhóm nghiên cứu mới đã viết lại khối biến đổi mã hóa thành chương trình GEMM-Epilogue, cải thiện hiệu suất của mô hình transformer. Điều này có thể giải quyết vấn đề tính toán phức tạp trong học máy và đưa ra hướng mới cho nghiên cứu mô hình transformer. Nghiên cứu này đã được công bố trên arXiv và đã thu hút sự chú ý của cộng đồng Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3555f7e25f00",
       "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
@@ -616,186 +795,6 @@
         "Đánh giá về những người đứng đằng sau ngành công nghệ AI"
       ],
       "full_summary": "Vụ kiện Musk-Altman đã giúp nâng lên sự thật về ngành công nghệ AI. Vụ kiện đã giúp người ta hiểu rõ hơn về sự khác biệt giữa Musk và Altman. Ngành công nghệ AI đã được giải thích rõ hơn sau vụ kiện. Những người đứng đằng sau ngành công nghệ AI đã được đánh giá cao hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8b9e62b4e65c",
-      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T09:26:32.220704+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "WHO bị chỉ trích vì chậm phản ứng với dịch Ebola",
-      "bullets": [
-        "Rubio chỉ trích WHO vì chậm xác định dịch Ebola ở Cộng hòa Dân chủ Congo và Uganda",
-        "WHO bị chỉ trích vì chậm trễ trong việc xác định dịch Ebola",
-        "CDC và WHO sẽ dẫn đầu trong việc đối phó với dịch Ebola",
-        "Dịch Ebola đã gây ra nhiều thiệt hại ở Cộng hòa Dân chủ Congo và Uganda"
-      ],
-      "full_summary": "Thứ trưởng Ngoại giao Mỹ Marco Rubio đã chỉ trích Tổ chức Y tế Thế giới (WHO) vì chậm xác định dịch Ebola ở Cộng hòa Dân chủ Congo và Uganda. Rubio cho biết WHO đã chậm trễ trong việc xác định dịch Ebola. CDC và WHO sẽ dẫn đầu trong việc đối phó với dịch Ebola. Dịch Ebola đã gây ra nhiều thiệt hại ở Cộng hòa Dân chủ Congo và Uganda.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8d9f21fcbcb",
-      "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
-      "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T09:26:33.284491+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "HĐND Mỹ truy tố cựu Tổng thống Cuba Raúl Castro",
-      "bullets": [
-        "Mỹ truy tố cựu Tổng thống Cuba Raúl Castro vì âm mưu sát hại công dân Mỹ",
-        "Raúl Castro bị cáo buộc liên quan đến vụ bắn hạ máy bay của tị nạn năm 1996",
-        "Bốn người khác cũng bị truy tố vì liên quan đến vụ án",
-        "Tội danh bao gồm âm mưu sát hại công dân Mỹ, giết người và phá hủy máy bay"
-      ],
-      "full_summary": "Hôm 20/5, Mỹ đã đưa ra cáo buộc liên quan đến cựu Tổng thống Cuba Raúl Castro và 5 người khác. Raúl Castro, 94 tuổi, bị cáo buộc liên quan đến vụ bắn hạ máy bay của tị nạn năm 1996. Các cáo buộc bao gồm âm mưu sát hại công dân Mỹ, giết người và phá hủy máy bay. Đây là một bước ngoặt quan trọng trong chiến dịch của chính quyền Trump nhằm lật đổ chế độ cộng sản Cuba.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "03b44c343b6f",
-      "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
-      "url": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-21T09:26:37.432589+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mercedes-AMG GT 4-Door chuyển sang điện hoàn toàn",
-      "bullets": [
-        "Đạt tốc độ 0-60 mph ấn tượng",
-        "Số dặm/kWh đạt được thậm chí còn ấn tượng hơn",
-        "Mercedes-AMG GT 4-Door sử dụng động cơ điện hoàn toàn",
-        "Động cơ điện mang lại hiệu suất và tiết kiệm năng lượng"
-      ],
-      "full_summary": "Mercedes-AMG GT 4-Door là một trong những mẫu xe điện cao cấp mới nhất của Mercedes-Benz. Mẫu xe này sử dụng động cơ điện hoàn toàn, mang lại hiệu suất và tiết kiệm năng lượng. Theo Ars Technica, mẫu xe này đạt tốc độ 0-60 mph ấn tượng và số dặm/kWh đạt được thậm chí còn ấn tượng hơn. Điều này cho thấy rằng Mercedes-AMG GT 4-Door là một lựa chọn tuyệt vời cho những người muốn sở hữu một chiếc xe điện cao cấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f3487ee3f246",
-      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-21T09:26:39.072900+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump yêu cầu 1 tỷ USD để bảo vệ phòng vũ trường tại Nhà Trắng",
-      "bullets": [
-        "Trump đề xuất chi 1 tỷ USD từ ngân sách để bảo vệ phòng vũ trường",
-        "Phòng vũ trường trị giá 400 triệu USD được tài trợ riêng tư",
-        "Nhiệm vụ bảo vệ phòng vũ trường chống lại các mối đe dọa từ máy bay không người lái",
-        "Tổng thống Trump yêu cầu ngân sách này từ người dân"
-      ],
-      "full_summary": "Tổng thống Trump đã đề xuất một khoản chi 1 tỷ USD từ ngân sách để bảo vệ phòng vũ trường trị giá 400 triệu USD tại Nhà Trắng. Phòng vũ trường này được tài trợ riêng tư và Tổng thống Trump muốn chi thêm 1 tỷ USD để bảo vệ nó chống lại các mối đe dọa từ máy bay không người lái và các mối đe dọa khác. Điều này đã gây ra sự phẫn nộ trong dư luận vì nó yêu cầu người dân chi thêm tiền cho một dự án riêng tư của Tổng thống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "711b05aecc2c",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T02:41:04.384204+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ truy tố Raúl Castro về tội giết người sau vụ rơi máy bay năm 1996",
-      "bullets": [
-        "Mỹ truy tố Raúl Castro và 5 người khác về tội đồng phạm giết người",
-        "Các bị cáo bị buộc tội giết người và phá hủy máy bay",
-        "Vụ việc liên quan đến vụ rơi máy bay hai chiếc năm 1996",
-        "Các bị cáo có thể đối mặt với hình phạt nghiêm trọng"
-      ],
-      "full_summary": "Mỹ đã truy tố Raúl Castro, cựu lãnh đạo Cuba, và 5 người khác về tội giết người, phá hủy máy bay và đồng phạm giết người. Vụ việc liên quan đến vụ rơi máy bay hai chiếc năm 1996, khiến 4 người Mỹ thiệt mạng. Các bị cáo có thể đối mặt với hình phạt nghiêm trọng nếu bị kết tội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b5102ca2336",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T02:41:05.602989+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "TikTok và YouTube không an toàn cho trẻ em, theo Ofcom",
-      "bullets": [
-        "Ofcom cảnh báo TikTok và YouTube không đủ an toàn cho trẻ em",
-        "YouTube hợp tác với chuyên gia để cung cấp trải nghiệm phù hợp",
-        "TikTok thất vọng vì Ofcom không công nhận các tính năng an toàn của mình",
-        "Các nền tảng này cần cải thiện để bảo vệ trẻ em"
-      ],
-      "full_summary": "Tổ chức quản lý truyền thông Ofcom ở Anh đã cảnh báo rằng TikTok và YouTube không đủ an toàn cho trẻ em. Các nền tảng này cần cải thiện để bảo vệ trẻ em khỏi nội dung không phù hợp. YouTube cho biết đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp, trong khi TikTok cho biết thất vọng vì Ofcom không công nhận các tính năng an toàn của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a9e461a370f2",
-      "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
-      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T02:41:06.506177+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "SpaceX nộp đơn IPO, có thể làm Elon Musk trở thành tỷ phú",
-      "bullets": [
-        "SpaceX nộp đơn IPO để huy động vốn",
-        "Công ty sẽ được giao dịch dưới mã cổ phiếu SPCX",
-        "Musk có thể trở thành tỷ phú nếu IPO thành công",
-        "SpaceX đang mở rộng hoạt động trong lĩnh vực vệ tinh và internet"
-      ],
-      "full_summary": "SpaceX, công ty do Elon Musk sáng lập, đã nộp đơn IPO để huy động vốn. Nếu IPO thành công, Musk có thể trở thành tỷ phú. Công ty sẽ được giao dịch dưới mã cổ phiếu SPCX và sẽ mở rộng hoạt động trong lĩnh vực vệ tinh và internet.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68d4d672cf1d",
-      "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
-      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T02:41:07.578394+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "WHO cân nhắc sử dụng vaccine thử nghiệm để chống Ebola tại DRC",
-      "bullets": [
-        "WHO đang xem xét sử dụng vaccine hoặc thuốc đang phát triển để chống Ebola",
-        "Tổng thống WHO bày tỏ lo ngại sâu sắc về tốc độ và quy mô của dịch bệnh",
-        "Số ca nhiễm Ebola tại DRC đã tăng lên 500, số ca tử vong là 130",
-        "Sự trở lại của Ebola đã gây ra sự hoảng loạn ở đông bắc DRC"
-      ],
-      "full_summary": "WHO đang cân nhắc sử dụng vaccine hoặc thuốc đang phát triển để chống Ebola tại Cộng hòa Dân chủ Congo. Tổng thống WHO bày tỏ lo ngại sâu sắc về tốc độ và quy mô của dịch bệnh. Số ca nhiễm Ebola đã tăng lên 500, số ca tử vong là 130. Sự trở lại của Ebola đã gây ra sự hoảng loạn ở đông bắc DRC.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "37137710a1db",
-      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
-      "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T02:41:08.638996+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "WHO cảnh báo về Ebola ở DRC: Bài học từ các đợt bùng phát trước",
-      "bullets": [
-        "Cảnh báo về sự phức tạp trong phản ứng với đợt bùng phát Ebola do biến thể Bundibugyo",
-        "Mistrust và chậm phát hiện có thể làm phức tạp quá trình ứng phó",
-        "Các biện pháp phòng ngừa như khử khuẩn và theo dõi nhiệt độ đang được thực hiện",
-        "Đội ngũ theo dõi tiếp xúc đang hoạt động khắp cả nước"
-      ],
-      "full_summary": "WHO đã cảnh báo về đợt bùng phát Ebola ở Cộng hòa Dân chủ Congo (DRC). Các chuyên gia lo ngại rằng sự phức tạp trong phản ứng với đợt bùng phát này có thể do sự thiếu tin tưởng và chậm phát hiện. Các biện pháp phòng ngừa như khử khuẩn và theo dõi nhiệt độ đang được thực hiện để ngăn chặn sự lây lan của virus. Đội ngũ theo dõi tiếp xúc đang hoạt động khắp cả nước để tìm kiếm những người có thể đã tiếp xúc với virus.",
       "comments": 0,
       "score": 0
     }
