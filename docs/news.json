@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-05-23T08:09:59.633171+00:00",
+  "updated_at": "2026-05-23T13:09:11.601404+00:00",
   "articles": [
+    {
+      "id": "2f149d0e9293",
+      "title": "French pair held until trial after boys abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T13:08:53.576713+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hôn nhân Pháp bị giam giữ chờ xét xử",
+      "bullets": [
+        "Một cặp vợ chồng Pháp bị giam giữ vì bỏ rơi hai cháu bé trên đường ở Bồ Đào Nha.",
+        "Họ sẽ phải chờ xét xử sau khi bị bắt giữ.",
+        "Vụ việc đã gây ra sự phẫn nộ trong dư luận.",
+        "Cặp vợ chồng này sẽ phải đối mặt với các cáo buộc nghiêm trọng."
+      ],
+      "full_summary": "Một cặp vợ chồng Pháp bị giam giữ chờ xét xử sau khi bị bắt giữ vì bỏ rơi hai cháu bé trên đường ở Bồ Đào Nha. Vụ việc đã gây ra sự phẫn nộ trong dư luận và họ sẽ phải đối mặt với các cáo buộc nghiêm trọng. Cặp vợ chồng này sẽ phải chờ xét xử sau khi bị bắt giữ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3adf3afaa16",
+      "title": "Rubio meets Modi during India visit with energy high on agenda",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T13:08:55.256092+00:00",
+      "category": "politics|economy",
+      "importance": 3,
+      "headline": "Cố vấn Biden tìm cách bán năng lượng Mỹ cho Ấn Độ",
+      "bullets": [
+        "Cố vấn Biden gặp gỡ Thủ tướng Modi để thảo luận về năng lượng",
+        "Mỹ muốn bán năng lượng cho Ấn Độ để bù đắp thiếu hụt do chiến tranh Iran",
+        "Năng lượng sẽ là ưu tiên trong chuyến thăm Ấn Độ của cố vấn Biden",
+        "Mục tiêu của Mỹ là tăng cường quan hệ kinh tế với Ấn Độ"
+      ],
+      "full_summary": "Cố vấn Ngoại giao Mỹ, Marco Rubio, đã đến thăm Ấn Độ và gặp gỡ Thủ tướng Narendra Modi. Trong cuộc họp, họ đã thảo luận về vấn đề năng lượng, với Mỹ muốn bán năng lượng cho Ấn Độ để bù đắp thiếu hụt do chiến tranh Iran. Năng lượng sẽ là ưu tiên trong chuyến thăm Ấn Độ của cố vấn Biden, nhằm tăng cường quan hệ kinh tế với Ấn Độ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9fc1ed904b0d",
+      "title": "Senegal's president sacks PM and former ally after months-long feud",
+      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T13:08:56.418313+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Senegal sa thải Thủ tướng và đồng minh cũ",
+      "bullets": [
+        "Sa thải Thủ tướng Bassirou Diomaye Faye",
+        "Dissolve chính phủ tạo ra sự không chắc chắn",
+        "Senegal đang đối mặt với khủng hoảng nợ nần",
+        "Sự kiện gây ra sự bất ổn trong chính trị nước này"
+      ],
+      "full_summary": "Chủ tịch Senegal, Abdoulaye Wade, đã sa thải Thủ tướng Bassirou Diomaye Faye và đồng minh cũ sau nhiều tháng tranh cãi. Ông Wade cũng đã giải thể chính phủ, tạo ra sự không chắc chắn trong nước. Senegal đang đối mặt với khủng hoảng nợ nần và sự kiện này gây ra sự bất ổn trong chính trị nước này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9ae9c81e990a",
+      "title": "Love factually: Dating start-ups promise to cut the cheats",
+      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T13:08:57.527405+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các ứng dụng hẹn hò mới hứa hẹn loại bỏ những người giả mạo",
+      "bullets": [
+        "Khám phá các ứng dụng hẹn hò mới với cách tiếp cận khác biệt",
+        "Giảm thiểu số lượng hồ sơ giả mạo trên các ứng dụng hẹn hò",
+        "Cung cấp trải nghiệm hẹn hò an toàn và đáng tin cậy hơn",
+        "Hỗ trợ người dùng tìm kiếm mối quan hệ thực sự"
+      ],
+      "full_summary": "Các ứng dụng hẹn hò mới đang hứa hẹn loại bỏ những người giả mạo trên các ứng dụng hẹn hò. Những ứng dụng này sử dụng các cách tiếp cận khác biệt để giảm thiểu số lượng hồ sơ giả mạo và cung cấp trải nghiệm hẹn hò an toàn và đáng tin cậy hơn. Điều này đã được thúc đẩy bởi sự thất vọng của người dùng với các hồ sơ giả mạo trên các ứng dụng hẹn hò.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d689050cb468",
+      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
+      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T13:08:58.527872+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cảnh sát Anh đề xuất chặn các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi",
+      "bullets": [
+        "Cảnh sát Anh đề xuất chặn các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi",
+        "Các nền tảng không ngăn chặn trẻ em xem ảnh khiêu dâm sẽ bị chặn",
+        "Trẻ em sẽ không thể tiếp xúc với người lạ trên các nền tảng không an toàn",
+        "NCA và NPCC đề xuất các biện pháp bảo vệ trẻ em trên mạng xã hội"
+      ],
+      "full_summary": "Cảnh sát Anh đề xuất chặn các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi. NCA và NPCC cho rằng các nền tảng mạng xã hội không ngăn chặn trẻ em xem ảnh khiêu dâm hoặc tiếp xúc với người lạ sẽ gây hại cho trẻ em. Họ đề xuất các biện pháp bảo vệ trẻ em trên mạng xã hội, bao gồm việc chặn các nền tảng không an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4c7c9220ad14",
+      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T13:08:59.718051+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Canada chuyển người tị nạn sang ICE, bị giam giữ nhiều tháng",
+      "bullets": [
+        "Canada tăng cường quy định tị nạn, nhiều người bị từ chối",
+        "Người tị nạn bị chuyển sang ICE, giam giữ nhiều tháng",
+        "Nhiều người phải chờ đợi lâu trước khi được xét xử",
+        "Tình hình giam giữ người tị nạn ở Mỹ đang trở nên nghiêm trọng"
+      ],
+      "full_summary": "Canada đang tăng cường quy định tị nạn, dẫn đến nhiều người bị từ chối. Những người tị nạn bị từ chối này sau đó bị chuyển sang Cơ quan Hải quan và Bảo vệ Biên giới Hoa Kỳ (ICE) và bị giam giữ nhiều tháng. Nhiều người phải chờ đợi lâu trước khi được xét xử. Tình hình giam giữ người tị nạn ở Mỹ đang trở nên nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e7e8b467803f",
+      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-23T13:09:01.045700+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Hai phi hành gia không gian kỷ nguyên tàu con thuyền được vinh danh",
+      "bullets": [
+        "Vinh danh hai phi hành gia có sự nghiệp thể hiện sự xuất sắc, lãnh đạo và phục vụ",
+        "Họ đã thực hiện nhiều chuyến đi không gian và hoạt động ngoài không gian",
+        "Cả hai đều là những nhân vật nổi bật trong lịch sử không gian của NASA"
+      ],
+      "full_summary": "Hai phi hành gia không gian kỷ nguyên tàu con thuyền, Gregory Harbaugh và Steven Nagel, đã được vinh danh vào Sảnh Khánh Hoà Astronaut. Họ đã có sự nghiệp xuất sắc với nhiều chuyến đi không gian và hoạt động ngoài không gian. Họ đã đóng góp đáng kể vào sự phát triển của không gian và được coi là những nhân vật nổi bật trong lịch sử không gian của NASA.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1679b76015a0",
+      "title": "China’s shark finning could lead to US seafood sanctions",
+      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-23T13:09:02.100069+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Hoa Kỳ cân nhắc trừng phạt hải sản Trung Quốc vì đánh bắt cá mập",
+      "bullets": [
+        "Gửi đơn kiến nghị lên chính phủ Hoa Kỳ",
+        "Khuyến nghị trừng phạt hải sản Trung Quốc do đánh bắt cá mập",
+        "Cá mập đang bị đe dọa nghiêm trọng do đánh bắt quá mức",
+        "Hoa Kỳ có thể áp dụng các biện pháp trừng phạt nếu Trung Quốc không cải thiện"
+      ],
+      "full_summary": "Một đơn kiến nghị chính thức đã được gửi lên chính phủ Hoa Kỳ, yêu cầu trừng phạt hải sản Trung Quốc do đánh bắt cá mập. Điều này là do Trung Quốc vẫn tiếp tục đánh bắt cá mập bất hợp pháp, khiến loài này đang bị đe dọa nghiêm trọng. Nếu Hoa Kỳ áp dụng trừng phạt, nó sẽ là một bước quan trọng trong việc bảo vệ cá mập và môi trường biển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d86cad5121bf",
+      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-23T13:09:05.507121+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mỹ cố gắng ngăn chặn người dùng internet tái tạo giọng nói phi công đã khuất",
+      "bullets": [
+        "Tạo ra các bản sao giọng nói phi công từ các tài liệu điều tra vụ tai nạn",
+        "Sử dụng công nghệ AI để tái tạo âm thanh từ các bản ghi âm",
+        "Vi phạm luật cấm NTSB tiết lộ các bản ghi âm âm thanh trong cabin",
+        "Cơ quan NTSB đang cố gắng ngăn chặn việc tái tạo giọng nói phi công"
+      ],
+      "full_summary": "Các nhà phát triển đã tìm ra cách để tái tạo giọng nói của các phi công đã khuất bằng cách sử dụng công nghệ AI và các tài liệu điều tra vụ tai nạn. Điều này vi phạm luật cấm Cơ quan An toàn Giao thông Quốc gia (NTSB) tiết lộ các bản ghi âm âm thanh trong cabin. Cơ quan NTSB đang cố gắng ngăn chặn việc tái tạo giọng nói phi công, nhưng các nhà phát triển vẫn tiếp tục tìm cách để thực hiện điều này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0dbe18152a15",
+      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-23T13:09:11.101222+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một cặp vợ chồng phát hiện một bé trai trên tàu điện và hiện anh ta đã 26 tuổi",
+      "bullets": [
+        "Phát hiện một bé trai trên tàu điện",
+        "Chở bé về nhà chăm sóc",
+        "Cặp vợ chồng đã trở thành cha mẹ nuôi cho bé",
+        "Bé trai đã lớn lên và hiện là 26 tuổi"
+      ],
+      "full_summary": "Một cặp vợ chồng đã phát hiện một bé trai trên tàu điện và đã trở thành cha mẹ nuôi cho bé. Họ đã chăm sóc và nuôi dưỡng bé từ nhỏ. Bé đã lớn lên và hiện đã 26 tuổi. Cặp vợ chồng đã chia sẻ câu chuyện của mình để thể hiện tình yêu và sự quan tâm của họ đối với bé.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "6cc413d8d8cf",
       "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
@@ -595,205 +794,6 @@
         "Havana đang phải đối mặt với nhiều khó khăn trong cuộc sống hàng ngày"
       ],
       "full_summary": "Mỹ vừa truy tố cựu lãnh đạo Cuba Raúl Castro về tội ác chiến tranh. Sự cố này diễn ra trong bối cảnh Cuba đang đối mặt với thiếu xăng và mất điện nghiêm trọng. Hàng hóa và thực phẩm trở nên khan hiếm do thiếu năng lượng. Người dân Havana đang phải đối mặt với nhiều khó khăn trong cuộc sống hàng ngày.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "901d6d120ad9",
-      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
-      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T14:24:26.851891+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ủy ban kháng cáo tuyên bố vô hiệu hóa chiến thắng lãnh đạo của Özgür Özel",
-      "bullets": [
-        "Tuyên bố vô hiệu hóa chiến thắng lãnh đạo của Özgür Özel",
-        "Cementing quyền lực của Tổng thống Erdoğan",
-        "Ủy ban kháng cáo tiếp tục củng cố quyền lực của Tổng thống",
-        "Bất ổn chính trị ở Thổ Nhĩ Kỳ tiếp tục gia tăng"
-      ],
-      "full_summary": "Ủy ban kháng cáo đã tuyên bố vô hiệu hóa chiến thắng lãnh đạo của Özgür Özel, một nhà lãnh đạo đối lập Thổ Nhĩ Kỳ. Điều này đã củng cố quyền lực của Tổng thống Recep Tayyip Erdoğan. Quyết định này đã gây ra bất ổn chính trị ở Thổ Nhĩ Kỳ và tiếp tục gia tăng căng thẳng giữa phe đối lập và chính phủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b909dfaf4df0",
-      "title": "AI used to fake evidence that ended Korean actor's career, say police",
-      "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T14:24:28.078007+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát truy bắt YouTuber tạo giả bằng chứng bôi nhọ diễn viên Kim Soo-hyun",
-      "bullets": [
-        "Cảnh sát đang tìm kiếm lệnh bắt giữ YouTuber bị cáo buộc tạo giả bằng chứng để bôi nhọ diễn viên Kim Soo-hyun.",
-        "Bằng chứng giả được tạo ra bằng công nghệ trí tuệ nhân tạo.",
-        "Diễn viên Kim Soo-hyun đã bị ảnh hưởng nghiêm trọng bởi các cáo buộc.",
-        "Cảnh sát đang điều tra vụ việc để tìm ra người thực sự tạo giả bằng chứng."
-      ],
-      "full_summary": "Cảnh sát đang tìm kiếm lệnh bắt giữ một YouTuber bị cáo buộc tạo giả bằng chứng để bôi nhọ diễn viên Kim Soo-hyun. Bằng chứng giả được tạo ra bằng công nghệ trí tuệ nhân tạo và đã ảnh hưởng nghiêm trọng đến sự nghiệp của diễn viên. Cảnh sát đang điều tra vụ việc để tìm ra người thực sự tạo giả bằng chứng và đảm bảo rằng công lý được thực hiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bd9f0f72d47c",
-      "title": "Slow Food founder Carlo Petrini dies aged 76",
-      "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T14:24:28.966529+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhà sáng lập Slow Food Carlo Petrini qua đời ở tuổi 76",
-      "bullets": [
-        "Tạo ra phong trào Slow Food nhằm chống lại thực phẩm nhanh",
-        "Kêu gọi sản xuất bền vững và nấu ăn truyền thống",
-        "Là người sáng lập tạp chí Slow Food",
-        "Đã nhận nhiều giải thưởng vì đóng góp cho nền ẩm thực thế giới"
-      ],
-      "full_summary": "Carlo Petrini, người sáng lập phong trào Slow Food, đã qua đời ở tuổi 76. Ông đã tạo ra phong trào này để chống lại thực phẩm nhanh và kêu gọi sản xuất bền vững, nấu ăn truyền thống. Petrini cũng là người sáng lập tạp chí Slow Food và đã nhận nhiều giải thưởng vì đóng góp cho nền ẩm thực thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0442f48338ac",
-      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
-      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T14:24:30.254794+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Đế chế Destiny 2 sắp kết thúc hỗ trợ",
-      "bullets": [
-        "Bungie sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6.",
-        "Chương trình sẽ vẫn tiếp tục chơi được sau khi kết thúc hỗ trợ.",
-        "Người hâm mộ đang phản ứng với tin tức này.",
-        "Bungie chưa công bố kế hoạch cụ thể sau khi kết thúc hỗ trợ."
-      ],
-      "full_summary": "Bungie vừa tuyên bố sẽ kết thúc hỗ trợ cho trò chơi bắn súng trực tuyến Destiny 2 vào ngày 9 tháng 6. Chương trình sẽ vẫn tiếp tục chơi được sau khi kết thúc hỗ trợ. Người hâm mộ đang phản ứng với tin tức này và lo lắng về tương lai của trò chơi. Bungie chưa công bố kế hoạch cụ thể sau khi kết thúc hỗ trợ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ce4975da3ec5",
-      "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
-      "url": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-22T14:24:35.210529+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "RFK Jr. đã sa thải lãnh đạo nhóm nghiên cứu về phòng ngừa bệnh tật",
-      "bullets": [
-        "Sa thải lãnh đạo nhóm nghiên cứu về phòng ngừa bệnh tật đã khiến các bác sĩ phẫn nộ",
-        "Các bác sĩ lo ngại rằng chăm sóc dự phòng có thể sẽ bị ảnh hưởng",
-        "RFK Jr. đã sa thải các lãnh đạo của nhóm nghiên cứu về phòng ngừa bệnh tật",
-        "Các bác sĩ đang lên án các hành động của RFK Jr."
-      ],
-      "full_summary": "Các bác sĩ đang phẫn nộ sau khi Robert F. Kennedy Jr. (RFK Jr.) đã sa thải các lãnh đạo của nhóm nghiên cứu về phòng ngừa bệnh tật. Các bác sĩ lo ngại rằng chăm sóc dự phòng có thể sẽ bị ảnh hưởng. Điều này đã khiến các bác sĩ lên án các hành động của RFK Jr.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d4191a5b76f2",
-      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T08:52:17.518333+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạm đội Mỹ tạm dừng bán vũ khí cho Đài Loan do chiến tranh Iran",
-      "bullets": [
-        "Bán vũ khí trị giá 14 tỷ USD của Mỹ cho Đài Loan bị tạm dừng",
-        "Hạm đội Mỹ cần vũ khí cho chiến tranh Iran",
-        "Tình hình tại Đài Loan đang trở nên phức tạp",
-        "Mỹ cần cân nhắc lại chiến lược đối ngoại"
-      ],
-      "full_summary": "Hạm đội Mỹ đã tạm dừng bán vũ khí trị giá 14 tỷ USD cho Đài Loan do chiến tranh Iran. Theo Hung Cao, người đứng đầu hạm đội Mỹ, họ cần đảm bảo có đủ vũ khí cho chiến tranh Iran. Điều này cho thấy rằng Mỹ đang phải cân nhắc lại chiến lược đối ngoại của mình. Việc bán vũ khí cho Đài Loan đang trở nên phức tạp hơn do tình hình tại Trung Đông đang trở nên bất ổn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5de499ae1d0a",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T08:52:18.479870+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Rubio tuyên bố Cuba là mối đe dọa đối với Mỹ",
-      "bullets": [
-        "Rubio cáo buộc Cuba đang xây dựng vũ khí hạt nhân",
-        "Ngoại trưởng Cuba lên án Rubio với những lời nói dối",
-        "Cuba phản bác cáo buộc của Rubio là nhằm kích động xung đột quân sự",
-        "Mỹ và Cuba có quan hệ căng thẳng từ lâu"
-      ],
-      "full_summary": "Thượng nghị sĩ Mỹ Marco Rubio tuyên bố Cuba là mối đe dọa đối với quốc gia này. Ông cáo buộc Cuba đang xây dựng vũ khí hạt nhân. Tuy nhiên, Ngoại trưởng Cuba lên án Rubio với những lời nói dối. Cuba phản bác cáo buộc của Rubio là nhằm kích động xung đột quân sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "04ee2c9aa00c",
-      "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
-      "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T08:52:19.588382+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ cáo buộc Raúl Castro: 3 kịch bản có thể xảy ra",
-      "bullets": [
-        "Mỹ cáo buộc Raúl Castro về các tội danh liên quan đến gian lận",
-        "Cuba có thể đối mặt với các biện pháp trừng phạt kinh tế nghiêm trọng",
-        "Tình hình có thể leo thang thành một cuộc khủng hoảng mới",
-        "Hành động của Mỹ có thể ảnh hưởng đến quan hệ giữa Cuba và các quốc gia khác"
-      ],
-      "full_summary": "Mỹ đã cáo buộc Raúl Castro, cựu lãnh đạo Cuba, về các tội danh liên quan đến gian lận. Hành động này có thể dẫn đến các biện pháp trừng phạt kinh tế nghiêm trọng đối với Cuba. Tình hình có thể leo thang thành một cuộc khủng hoảng mới giữa Mỹ và Cuba. Hành động của Mỹ cũng có thể ảnh hưởng đến quan hệ giữa Cuba và các quốc gia khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "99b49a4bdf60",
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T08:52:20.541226+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tỉnh Alberta sẽ tổ chức trưng cầu dân ý về việc rời khỏi Canada",
-      "bullets": [
-        "Sẽ diễn ra trưng cầu dân ý vào tháng 10 năm sau",
-        "Người dân sẽ quyết định liệu họ muốn Alberta trở thành một quốc gia độc lập",
-        "Quy trình độc lập sẽ được tiến hành nếu đa số người dân ủng hộ",
-        "Việc này có thể dẫn đến việc Alberta rời khỏi Canada"
-      ],
-      "full_summary": "Tỉnh Alberta ở Canada sẽ tổ chức trưng cầu dân ý vào tháng 10 năm sau về việc rời khỏi Canada. Người dân sẽ quyết định liệu họ muốn Alberta trở thành một quốc gia độc lập. Nếu đa số người dân ủng hộ, quy trình độc lập sẽ được tiến hành. Điều này có thể dẫn đến việc Alberta rời khỏi Canada.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "39d3cb77907e",
-      "title": "Africa summit in India postponed over Ebola outbreak fears",
-      "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T08:52:21.495924+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hội nghị Ấn Độ - Phi Châu hoãn do lo ngại dịch Ebola",
-      "bullets": [
-        "Hoãn hội nghị Ấn Độ - Phi Châu vì lo ngại dịch Ebola",
-        "Hội nghị được lên kế hoạch tổ chức tại Delhi",
-        "Sự kiện này chưa từng được tổ chức sau hơn 10 năm"
-      ],
-      "full_summary": "Hội nghị Ấn Độ - Phi Châu được lên kế hoạch tổ chức tại Delhi từ tuần tới sau hơn 10 năm. Tuy nhiên, do lo ngại dịch Ebola, hội nghị đã bị hoãn. Hội nghị này được kỳ vọng sẽ tăng cường hợp tác giữa Ấn Độ và các quốc gia Phi Châu.",
       "comments": 0,
       "score": 0
     }
