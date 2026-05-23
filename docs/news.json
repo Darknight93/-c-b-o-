@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-05-23T13:09:11.601404+00:00",
+  "updated_at": "2026-05-23T19:04:20.473635+00:00",
   "articles": [
+    {
+      "id": "7d47c7f13bce",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T19:04:04.145885+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bà Lan bị nghi nhiễm Ebola qua tình nguyện viên đỏ thắm",
+      "bullets": [
+        "Bị nghi nhiễm Ebola, 2 tình nguyện viên đỏ thắm vừa qua đời tại Cộng hòa Dân chủ Congo",
+        "Bà Lan nghi ngờ đã nhiễm Ebola trước khi bùng phát dịch",
+        "Red Cross cho biết tình nguyện viên đã tiếp xúc với bệnh nhân trước khi xác định được dịch",
+        "Cộng hòa Dân chủ Congo đang đối mặt với nguy cơ bùng phát dịch Ebola"
+      ],
+      "full_summary": "Bà Lan vừa thông báo 2 tình nguyện viên của họ đã qua đời vì nghi ngờ nhiễm Ebola tại Cộng hòa Dân chủ Congo. Theo Red Cross, 2 tình nguyện viên này đã bị nhiễm bệnh trước khi dịch được xác định. Điều này cho thấy nguy cơ bùng phát dịch Ebola tại Cộng hòa Dân chủ Congo đang gia tăng. Red Cross cho biết tình nguyện viên đã tiếp xúc với bệnh nhân trước khi xác định được dịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0442f48338ac",
+      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T19:04:05.225520+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hệ thống hỗ trợ của Destiny 2 sẽ kết thúc vào tháng 6",
+      "bullets": [
+        "Bungie sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6",
+        "Người chơi vẫn có thể chơi trò chơi sau khi hỗ trợ kết thúc",
+        "Destiny 2 sẽ không còn nhận được bản vá lỗi hoặc bản cập nhật mới",
+        "Người hâm mộ đang phản ứng với tin tức này"
+      ],
+      "full_summary": "Bungie đã thông báo rằng hệ thống hỗ trợ của trò chơi bắn súng trực tuyến Destiny 2 sẽ kết thúc vào ngày 9 tháng 6. Mặc dù trò chơi vẫn sẽ có thể chơi được, nhưng nó sẽ không còn nhận được bản vá lỗi hoặc bản cập nhật mới. Người hâm mộ đang phản ứng với tin tức này, một số người cảm thấy thất vọng và không biết phải làm gì.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "56cf6f4e3a16",
+      "title": "White House pauses removal of detainees to the DRC as Ebola outbreak widens",
+      "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T19:04:07.207539+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chính phủ Mỹ tạm dừng đưa tù nhân sang DRC do dịch Ebola",
+      "bullets": [
+        "Chính phủ Mỹ tạm dừng việc đưa tù nhân sang Cộng hòa Dân chủ Congo",
+        "Bất chấp lệnh của tòa án, một phụ nữ vẫn bị mắc kẹt ở Kinshasa",
+        "Cơ quan này cho rằng lệnh cấm di chuyển vì Ebola không ngăn chặn lây lan dịch bệnh",
+        "Các chuyên gia nói rằng biện pháp này không hiệu quả trong việc ngăn chặn dịch Ebola"
+      ],
+      "full_summary": "Chính phủ Mỹ đã quyết định tạm dừng việc đưa tù nhân sang Cộng hòa Dân chủ Congo (DRC) trong bối cảnh dịch Ebola đang lan rộng. Mặc dù vậy, các chuyên gia cho rằng biện pháp này không giúp ngăn chặn sự lây lan của dịch bệnh. Một phụ nữ đã bị mắc kẹt ở Kinshasa sau khi bị đưa đến đây và không được phép trở về do lệnh cấm di chuyển vì Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "30b9c52a1c17",
+      "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
+      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T19:04:08.176249+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nỗi lo Ebola lan rộng nhanh chóng ở Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Căng thẳng gia tăng khi các cơ sở y tế đầy người",
+        "Các nhóm cứu trợ và nhân viên y tế kêu gọi hành động quốc tế đồng bộ",
+        "Cơn bùng phát Ebola vượt quá số ca được xác nhận",
+        "Hệ thống y tế dễ vỡ của DRC đối mặt với thách thức"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đang đối mặt với cơn bùng phát Ebola nghiêm trọng. Các cơ sở y tế đầy người, các nhóm cứu trợ và nhân viên y tế kêu gọi hành động quốc tế đồng bộ. Cơn bùng phát Ebola vượt quá số ca được xác nhận, khiến hệ thống y tế dễ vỡ của DRC đối mặt với thách thức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "205764ca9b96",
+      "title": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
+      "url": "https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T19:04:09.710615+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Côte d'Ivoire lo ngại mối đe dọa khủng bố Hồi giáo tại bắc nước",
+      "bullets": [
+        "Côte d'Ivoire lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso",
+        "Nạn nhân của cuộc tấn công năm 2016 vẫn còn nhớ rõ ngày 13 tháng 3",
+        "Nhiều người dân Côte d'Ivoire đang tìm kiếm sự an toàn và ổn định",
+        "Côte d'Ivoire đang tăng cường biện pháp an ninh tại khu vực biên giới"
+      ],
+      "full_summary": "Côte d'Ivoire đang lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso, 10 năm sau cuộc tấn công lớn vào năm 2016. Nạn nhân của cuộc tấn công vẫn còn nhớ rõ ngày 13 tháng 3, khi họ chứng kiến người khác chết. Để tìm kiếm sự an toàn và ổn định, nhiều người dân Côte d'Ivoire đang tìm kiếm sự an toàn và ổn định. Côte d'Ivoire đang tăng cường biện pháp an ninh tại khu vực biên giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "55e14c9a2ed5",
+      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+      "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-23T19:04:10.840744+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "SpaceX Starship V3 đạt kết quả đáng khích lệ trong chuyến bay đầu tiên",
+      "bullets": [
+        "Thử nghiệm thành công với hệ thống động lực và điều khiển",
+        "Hệ thống hạ cánh tự động hoạt động ổn định",
+        "Cần nhiều thử nghiệm trước khi đạt được quỹ đạo Trái Đất thấp",
+        "SpaceX vẫn tiếp tục hoàn thiện Starship V3"
+      ],
+      "full_summary": "Chuyến bay đầu tiên của Starship V3 do SpaceX thực hiện đã đạt được kết quả đáng khích lệ. Mặc dù vẫn còn nhiều thử nghiệm cần được thực hiện, nhưng hệ thống động lực và điều khiển của Starship đã hoạt động ổn định. Tuy nhiên, hệ thống hạ cánh tự động vẫn cần được cải thiện. SpaceX sẽ tiếp tục hoàn thiện Starship V3 trước khi đạt được quỹ đạo Trái Đất thấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "95214c72365a",
+      "title": "First-generation Chromecast users stressed by devices suddenly failing",
+      "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-23T19:04:12.344352+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chromecast đầu tiên ngừng hoạt động bí ẩn, Google đã sửa lỗi",
+      "bullets": [
+        "Google đã xác nhận đã sửa lỗi gây ra Chromecast đầu tiên ngừng hoạt động",
+        "Nhiều người dùng đã gặp vấn đề với thiết bị của mình",
+        "Google đã không cung cấp thông tin chi tiết về nguyên nhân gây ra lỗi",
+        "Người dùng đã có thể sử dụng lại Chromecast của mình sau khi cập nhật"
+      ],
+      "full_summary": "Google đã xác nhận đã sửa lỗi gây ra Chromecast đầu tiên ngừng hoạt động bí ẩn. Nhiều người dùng đã gặp vấn đề với thiết bị của mình, nhưng sau khi cập nhật, người dùng đã có thể sử dụng lại Chromecast của mình. Google đã không cung cấp thông tin chi tiết về nguyên nhân gây ra lỗi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c7e88b1bb8a",
+      "title": "Vanishing tongues and life on Mars: Books in brief",
+      "url": "https://www.nature.com/articles/d41586-026-01655-w",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-23T19:04:13.845161+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Tìm hiểu về các ngôn ngữ đang biến mất và cuộc sống trên sao Hỏa",
+      "bullets": [
+        "Tìm hiểu về 5 cuốn sách khoa học hay nhất",
+        "Đọc về ngôn ngữ đang biến mất trên Trái Đất",
+        "Tìm hiểu về cuộc sống trên sao Hỏa",
+        "Đọc về các cuốn sách khoa học được Nature giới thiệu"
+      ],
+      "full_summary": "Tạp chí Nature vừa công bố 5 cuốn sách khoa học hay nhất. Các cuốn sách này bao gồm những thông tin thú vị về ngôn ngữ đang biến mất trên Trái Đất và cuộc sống trên sao Hỏa. Andrew Robinson đã đánh giá và giới thiệu các cuốn sách này. Đây là những cuốn sách mà bạn không nên bỏ qua nếu bạn yêu thích khoa học.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d81c41a09f04",
+      "title": "Did a boy’s life-saving gene therapy cause his brain tumour?",
+      "url": "https://www.nature.com/articles/d41586-026-01593-7",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-23T19:04:18.262448+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một liệu pháp gene cứu sống gây ra khối u não ở một cậu bé",
+      "bullets": [
+        "Khám phá một trường hợp hiếm bệnh ung thư do virus gây ra trong quá trình điều trị",
+        "Liệu pháp gene được sử dụng để điều trị một rối loạn di truyền",
+        "Các nhà khoa học đã xác định được virus gây ra khối u não",
+        "Trường hợp này đã được báo cáo trong một nghiên cứu gần đây"
+      ],
+      "full_summary": "Một nghiên cứu gần đây đã phát hiện ra một trường hợp hiếm bệnh ung thư do virus gây ra trong quá trình điều trị liệu pháp gene cho một cậu bé. Liệu pháp gene được sử dụng để điều trị một rối loạn di truyền của cậu bé. Các nhà khoa học đã xác định được virus gây ra khối u não. Trường hợp này đã được báo cáo trong một nghiên cứu gần đây trên tạp chí Nature.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2f149d0e9293",
       "title": "French pair held until trial after boys abandoned by road in Portugal",
@@ -615,185 +795,6 @@
         "Bà sẽ rời chức vụ này ngay lập tức"
       ],
       "full_summary": "Tulsi Gabbard, người đã ít xuất hiện trước công chúng trong các hoạt động quân sự gần đây, đã từ chức Giám đốc An ninh Quốc gia Mỹ. Bà cho biết lý do từ chức là chồng mắc bệnh nghiêm trọng. Gabbard đã giữ chức vụ này trong thời gian ngắn và sẽ rời chức vụ ngay lập tức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b3f035f6490",
-      "title": "Sabalenka cuts media short as French Open players protest",
-      "url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:24.693964+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Họat động của các vận động viên Pháp mở rộng vì tiền thưởng",
-      "bullets": [
-        "Các vận động viên nổi tiếng hạn chế thời gian trả lời báo chí",
-        "Aryna Sabalenka, Coco Gauff và Jannik Sinner dẫn đầu phong trào",
-        "Vận động viên phản đối mức tiền thưởng tại Pháp mở rộng"
-      ],
-      "full_summary": "Các vận động viên hàng đầu, bao gồm Aryna Sabalenka, Coco Gauff và Jannik Sinner, đã hạn chế thời gian trả lời báo chí tại Pháp mở rộng. Họ muốn phản đối mức tiền thưởng thấp tại giải đấu. Các vận động viên đã quyết định trả lời câu hỏi trong 15 phút liên tục. Họ muốn thể hiện sự bất mãn với mức tiền thưởng tại Pháp mở rộng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ccfde19f9a9d",
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:25.742667+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Waymo tạm dừng dịch vụ xe tự lái tại 5 thành phố Mỹ",
-      "bullets": [
-        "Tạm dừng dịch vụ xe tự lái vì xe tự lái đâm vào đường ngập nước",
-        "Waymo tăng cường cảnh giác về an toàn",
-        "Động thái này nhằm đảm bảo an toàn cho khách hàng",
-        "Xe tự lái sẽ được kiểm tra và sửa chữa trước khi hoạt động trở lại"
-      ],
-      "full_summary": "Waymo đã tạm dừng dịch vụ xe tự lái tại 5 thành phố Mỹ, bao gồm San Francisco, Los Angeles, Phoenix, San Diego và Austin. Điều này diễn ra sau khi xe tự lái của công ty đâm vào đường ngập nước. Waymo cho biết đã tăng cường cảnh giác về an toàn và sẽ kiểm tra, sửa chữa xe tự lái trước khi hoạt động trở lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af0d52007dbe",
-      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:26.974030+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "SpaceX hoãn phóng Starship trước khi niêm yết cổ phiếu lớn nhất lịch sử",
-      "bullets": [
-        "SpaceX hoãn phóng Starship do lo ngại về thời tiết",
-        "Công ty này sắp thực hiện niêm yết cổ phiếu lớn nhất lịch sử",
-        "Mục tiêu của SpaceX là đưa người lên Mặt trăng và Mars",
-        "Starship được thiết kế để trở thành phương tiện chở người và hàng hóa"
-      ],
-      "full_summary": "SpaceX đã hoãn phóng Starship, một trong những dự án quan trọng nhất của công ty, do lo ngại về thời tiết. Điều này diễn ra chỉ một ngày sau khi công ty này công bố kế hoạch niêm yết cổ phiếu lớn nhất lịch sử. Mục tiêu của SpaceX là đưa người lên Mặt trăng và Mars, và Starship được thiết kế để trở thành phương tiện chở người và hàng hóa. Đây là một bước tiến quan trọng trong việc mở rộng hoạt động của SpaceX.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b5102ca2336",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:27.943034+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "TikTok và YouTube không an toàn cho trẻ em, theo Ofcom",
-      "bullets": [
-        "Ofcom cho rằng TikTok và YouTube không đủ an toàn cho trẻ em.",
-        "TikTok nói rằng họ thất vọng vì Ofcom không công nhận các tính năng bảo mật của họ.",
-        "YouTube cho biết họ đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp cho trẻ em.",
-        "TikTok và YouTube đang phải đối mặt với các vấn đề về an toàn cho trẻ em."
-      ],
-      "full_summary": "Tổ chức truyền thông Ofcom đã tuyên bố rằng TikTok và YouTube không đủ an toàn cho trẻ em. Cả hai nền tảng này đều phản hồi lại thông báo này. TikTok cho biết họ thất vọng vì Ofcom không công nhận các tính năng bảo mật của họ, trong khi YouTube cho biết họ đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp cho trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a9e461a370f2",
-      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:29.117567+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "SpaceX đăng ký niêm yết trên sàn chứng khoán",
-      "bullets": [
-        "SpaceX đăng ký niêm yết trên sàn chứng khoán",
-        "Công ty sẽ được giao dịch dưới mã chứng khoán SPCX",
-        "Động thái này có thể giúp Elon Musk trở thành tỷ phú đầu tiên",
-        "SpaceX là nhà sản xuất tên lửa và nhà cung cấp internet vệ tinh"
-      ],
-      "full_summary": "SpaceX đã nộp đơn đăng ký niêm yết trên sàn chứng khoán, một động thái có thể giúp tỷ phú Elon Musk trở thành tỷ phú đầu tiên. Công ty sẽ được giao dịch dưới mã chứng khoán SPCX. Động thái này cho thấy sự phát triển mạnh mẽ của SpaceX trong lĩnh vực tên lửa và internet vệ tinh. Việc niêm yết trên sàn chứng khoán sẽ giúp công ty huy động vốn để phát triển các dự án mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5fdd9861d296",
-      "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
-      "url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-22T19:26:32.309731+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cảnh sát đột phá VPN giúp tội phạm nghĩ họ an toàn",
-      "bullets": [
-        "Cảnh sát bắt được người điều hành VPN",
-        "Chặn lưu lượng truy cập VPN và thu giữ các tên miền",
-        "Tội phạm nghĩ mình an toàn nhưng bị cảnh sát phát hiện",
-        "Cảnh sát tuyên bố đã phá vỡ mạng lưới hoạt động bất hợp pháp"
-      ],
-      "full_summary": "Cảnh sát đã thành công trong việc đột phá một mạng lưới VPN được tội phạm sử dụng để che giấu hoạt động bất hợp pháp. Họ đã bắt được người điều hành VPN, chặn lưu lượng truy cập và thu giữ các tên miền. Điều này cho thấy cảnh sát đã có thể phát hiện và ngăn chặn các hoạt động bất hợp pháp ngay cả khi tội phạm sử dụng các công nghệ bảo mật cao cấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "74ced55ec6ef",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T14:24:23.882667+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Mỹ muốn tăng quân đội tại Ba Lan",
-      "bullets": [
-        "Tổng thống Mỹ Donald Trump muốn tăng quân đội tại Ba Lan",
-        "Mỹ hủy kế hoạch tăng quân đội tại Ba Lan một tuần trước",
-        "Tổng thống Trump muốn tăng quân đội để đối phó với Nga",
-        "NATO lo ngại về tăng quân đội của Mỹ tại châu Âu"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump muốn tăng quân đội tại Ba Lan, một tuần sau khi các quan chức Mỹ hủy kế hoạch tăng quân đội. Tổng thống Trump muốn tăng quân đội để đối phó với Nga. Tuy nhiên, NATO lo ngại về tăng quân đội của Mỹ tại châu Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7bf9c3467f7f",
-      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
-      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T14:24:25.017544+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Các nhà khoa học Anh đang phát triển vắc-xin Ebola mới",
-      "bullets": [
-        "Đang phát triển vắc-xin Ebola chống lại chủng Bundibugyo",
-        "Chủng này gây tử vong khoảng 1/3 người nhiễm",
-        "Vắc-xin đang được thử nghiệm trong vài tháng tới",
-        "Chưa có vắc-xin hiệu quả nào chống lại chủng này"
-      ],
-      "full_summary": "Các nhà khoa học Anh đang phát triển vắc-xin mới chống lại chủng Ebola Bundibugyo, một trong những chủng hiếm gặp nhất của virus này. Chủng này gây tử vong khoảng 1/3 người nhiễm và chưa có vắc-xin hiệu quả nào chống lại nó. Vắc-xin đang được thử nghiệm trong vài tháng tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1f9113752c7",
-      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T14:24:25.947972+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ tăng áp lực, Cuba đối mặt với thiếu xăng và mất điện",
-      "bullets": [
-        "Cuba đang đối mặt với thiếu xăng và mất điện nghiêm trọng",
-        "Hàng hóa và thực phẩm trở nên khan hiếm do thiếu năng lượng",
-        "Sự cố này diễn ra sau khi Mỹ truy tố cựu lãnh đạo Raúl Castro về tội ác chiến tranh",
-        "Havana đang phải đối mặt với nhiều khó khăn trong cuộc sống hàng ngày"
-      ],
-      "full_summary": "Mỹ vừa truy tố cựu lãnh đạo Cuba Raúl Castro về tội ác chiến tranh. Sự cố này diễn ra trong bối cảnh Cuba đang đối mặt với thiếu xăng và mất điện nghiêm trọng. Hàng hóa và thực phẩm trở nên khan hiếm do thiếu năng lượng. Người dân Havana đang phải đối mặt với nhiều khó khăn trong cuộc sống hàng ngày.",
       "comments": 0,
       "score": 0
     }
