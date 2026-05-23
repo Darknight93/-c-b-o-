@@ -1,6 +1,206 @@
 {
-  "updated_at": "2026-05-22T19:26:35.647852+00:00",
+  "updated_at": "2026-05-23T02:27:55.814666+00:00",
   "articles": [
+    {
+      "id": "60f7d2c3093f",
+      "title": "SpaceX launches massive Starship V3 rocket on test flight",
+      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:39.571953+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "SpaceX thử nghiệm tên lửa Starship V3",
+      "bullets": [
+        "SpaceX đã thử nghiệm tên lửa Starship V3",
+        "Tên lửa bị hoãn lần đầu tiên do lỗi pin thủy lực trong đài phóng",
+        "Lỗi được sửa chữa và thử nghiệm thành công",
+        "Tên lửa Starship V3 được thiết kế để đưa người lên Mặt Trăng"
+      ],
+      "full_summary": "SpaceX đã thử nghiệm tên lửa Starship V3, một trong những tên lửa lớn nhất thế giới. Tên lửa bị hoãn lần đầu tiên do lỗi pin thủy lực trong đài phóng. Lỗi được sửa chữa và thử nghiệm thành công. Tên lửa Starship V3 được thiết kế để đưa người lên Mặt Trăng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a209fb4171b",
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:40.870148+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hàng trăm người tham gia tàu chở hàng đến Gaza cáo buộc bị bạo hành",
+      "bullets": [
+        "Bị bắt, họ bị đánh, bị đấm",
+        "Bị tra tấn thể chất và tinh thần",
+        "Bị ngược đãi và bị xâm hại tình dục",
+        "Israel phủ nhận mọi cáo buộc"
+      ],
+      "full_summary": "Hàng trăm người tham gia tàu chở hàng đến Gaza cáo buộc bị bạo hành bởi lực lượng an ninh Israel khi bị bắt giữ. Họ cho biết đã bị đánh, bị đấm, bị ngược đãi và bị xâm hại tình dục. Tuy nhiên, dịch vụ tù của Israel đã phủ nhận mọi cáo buộc. Các vụ việc này đã gây ra sự tranh cãi về việc Israel đối xử với người dân Palestine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e15b5bf4aa7d",
+      "title": "More than 40,000 Californians evacuated due to chemical tank leak",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:41.794957+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hơn 40.000 người California phải di dời vì rò rỉ bình hóa chất",
+      "bullets": [
+        "Cảnh sát cảnh báo có nguy cơ nổ tại bình chứa hóa chất",
+        "Hơn 40.000 người đã được sơ tán khỏi khu vực xung quanh",
+        "Hóa chất trong bình được coi là chất dễ cháy cao",
+        "Các quan chức đang cố gắng kiểm soát tình hình"
+      ],
+      "full_summary": "Một bình chứa hóa chất ở California đã rò rỉ, khiến hơn 40.000 người phải di dời. Các quan chức cảnh báo có nguy cơ nổ tại bình chứa hóa chất. Họ đang cố gắng kiểm soát tình hình và ngăn chặn sự cố nghiêm trọng hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b269aafacb7d",
+      "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:42.788001+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "AI có thể giúp tìm ra thuốc điều trị bệnh não hiệu quả và giá cả phải chăng",
+      "bullets": [
+        "Các nhà nghiên cứu hy vọng công việc này sẽ giúp xác định thuốc điều trị hiệu quả và giá cả phải chăng cho các bệnh như MND.",
+        "AI có thể tăng tốc quá trình tìm kiếm thuốc điều trị bệnh não bằng cách phân tích dữ liệu lớn.",
+        "Các nhà nghiên cứu đang sử dụng AI để phân tích dữ liệu về các thuốc đã được sử dụng trong nhiều thập kỷ.",
+        "Mục tiêu của họ là tìm ra các thuốc có thể được sử dụng để điều trị các bệnh não hiệu quả và giá cả phải chăng."
+      ],
+      "full_summary": "Các nhà nghiên cứu đang sử dụng AI để tăng tốc quá trình tìm kiếm thuốc điều trị bệnh não. Họ hy vọng công việc này sẽ giúp xác định thuốc điều trị hiệu quả và giá cả phải chăng cho các bệnh như MND. Các nhà nghiên cứu đang phân tích dữ liệu về các thuốc đã được sử dụng trong nhiều thập kỷ để tìm ra các thuốc có thể được sử dụng để điều trị các bệnh não hiệu quả và giá cả phải chăng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2b9e0bd7b3a8",
+      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
+      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:43.785842+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Cộng hòa Congo đối mặt với nguy cơ bùng phát Ebola cao",
+      "bullets": [
+        "Tăng gấp ba số ca nghi ngờ Ebola trong một tuần",
+        "WHO cảnh báo về sự lây lan nhanh chóng của bệnh",
+        "Sự cắt giảm viện trợ và sự bất tin của cộng đồng cản trở nỗ lực ứng phó",
+        "Số ca tử vong nghi ngờ tăng lên 177"
+      ],
+      "full_summary": "Cộng hòa Congo đang đối mặt với nguy cơ bùng phát Ebola cao. Theo Tổ chức Y tế Thế giới (WHO), số ca nghi ngờ Ebola đã tăng gấp ba lần trong một tuần, lên gần 750 ca và 177 ca tử vong nghi ngờ. Sự lây lan nhanh chóng của bệnh và sự cắt giảm viện trợ, cùng với sự bất tin của cộng đồng, đã cản trở nỗ lực ứng phó của các chuyên gia y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27308f527197",
+      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
+      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:44.936621+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hoa Kỳ cấm du khách từ DRC, Uganda và Nam Sudan không phải giải pháp cho dịch Ebola",
+      "bullets": [
+        "Cấm du khách từ DRC, Uganda và Nam Sudan có thể làm tình hình dịch Ebola tồi tệ hơn",
+        "Africa CDC cho rằng các hạn chế có thể tăng nguy cơ về sức khỏe công cộng",
+        "Dịch Ebola được công bố là tình trạng khẩn cấp về sức khỏe công cộng quốc tế",
+        "Một trường hợp mới được báo cáo ở tỉnh South Kivu của DRC"
+      ],
+      "full_summary": "Hoa Kỳ đã cấm du khách từ DRC, Uganda và Nam Sudan để đối phó với dịch Ebola. Tuy nhiên, các chuyên gia cho rằng biện pháp này có thể làm tình hình tồi tệ hơn. Africa CDC cho rằng các hạn chế có thể tăng nguy cơ về sức khỏe công cộng và làm nổi bật 'sự bất công sâu sắc' trong lĩnh vực sức khỏe toàn cầu. Dịch Ebola đã được công bố là tình trạng khẩn cấp về sức khỏe công cộng quốc tế và tiếp tục lan rộng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca2fc67d80cb",
+      "title": "Macron says France must address issue of reparations for its role in slave trade",
+      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:45.884784+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Macron đề xuất Pháp phải giải quyết vấn đề bồi thường cho lịch sử nô lệ",
+      "bullets": [
+        "Macron nói Pháp phải thừa nhận và xin lỗi về lịch sử nô lệ",
+        "Pháp cần tìm cách bồi thường cho những người bị nô lệ",
+        "Tổng thống Pháp không đề xuất phương án cụ thể",
+        "Lập trường của Macron gây tranh cãi trong dư luận"
+      ],
+      "full_summary": "Tổng thống Pháp Emmanuel Macron đã đề xuất rằng Pháp cần phải giải quyết vấn đề bồi thường cho lịch sử nô lệ. Trong bài phát biểu tại Élysée Palace, Macron nói rằng vấn đề này không thể bị từ chối và Pháp cần phải tìm cách bồi thường cho những người bị nô lệ. Tuy nhiên, ông không đề xuất phương án cụ thể. Lập trường của Macron gây tranh cãi trong dư luận và được coi là một bước tiến trong việc thừa nhận lịch sử nô lệ của Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3efcd2a1805c",
+      "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
+      "url": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:46.935119+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mỹ bỏ qua dịch Ebola ở Trung Phi",
+      "bullets": [
+        "Báo cáo hàng trăm trường hợp nhiễm Ebola ở Cộng hòa Dân chủ Congo",
+        "USAID bị giải thể, nghiên cứu khoa học quan trọng bị hủy bỏ",
+        "Không có thuốc chữa và vắc-xin cho biến thể Bundibugyo hiếm gặp của Ebola",
+        "Các nhà lãnh đạo y tế và nhà khoa học đang cố gắng ngăn chặn sự lây lan của virus"
+      ],
+      "full_summary": "Một đợt bùng phát Ebola mới đã lan rộng ở một số khu vực ở Trung Phi, nhưng Mỹ dường như không làm gì để ngăn chặn nó. Các nhà lãnh đạo y tế và nhà khoa học đang cố gắng hiểu nơi virus đang lây lan và ngăn chặn nó, nhưng Mỹ không tham gia vào những nỗ lực này. Các cắt giảm lớn đối với các nỗ lực y tế công cộng toàn cầu và trong nước của Mỹ đã khiến tình hình trở nên tồi tệ hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5ca15923f304",
+      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-23T02:27:47.910272+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hộ chiếu của Kilmar Ábrego bị hủy bỏ",
+      "bullets": [
+        "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự đối với Kilmar Ábrego",
+        "Ábrego bị gửi đến trại giam Cecot ở El Salvador vào tháng 3 năm 2025",
+        "Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu không có vụ kháng cáo",
+        "Ábrego đã nhập cảnh Mỹ mà không có giấy phép"
+      ],
+      "full_summary": "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự đối với Kilmar Ábrego García. Ábrego đã trở thành biểu tượng của chính sách trục xuất hàng loạt dưới thời chính phủ Trump khi ông ta bị gửi đến trại giam Cecot ở El Salvador vào tháng 3 năm 2025. Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu không có vụ kháng cáo của ông ta.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "281c6e436956",
+      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-23T02:27:50.286748+00:00",
+      "category": "politics|other",
+      "importance": 4,
+      "headline": "Hệ thống vệ tinh Nga đang nhắm vào công ty vệ tinh hỗ trợ Ukraine",
+      "bullets": [
+        "Nhiều vệ tinh Nga đang được định vị để tấn công công ty vệ tinh ICEYE",
+        "Công ty vệ tinh hỗ trợ Ukraine đang bị đe dọa bởi khả năng tấn công từ không gian",
+        "Khả năng này không phổ biến đối với các vệ tinh thực hiện nhiệm vụ thông thường",
+        "ICEYE đang hỗ trợ Ukraine bằng cách cung cấp hình ảnh vệ tinh"
+      ],
+      "full_summary": "Công ty vệ tinh ICEYE, hỗ trợ Ukraine bằng cách cung cấp hình ảnh vệ tinh, đang bị đe dọa bởi khả năng tấn công từ hệ thống vệ tinh Nga. Theo thông tin mới nhất, bốn vệ tinh Nga đang được định vị để tấn công công ty vệ tinh này. Khả năng này không phổ biến đối với các vệ tinh thực hiện nhiệm vụ thông thường. ICEYE đang hỗ trợ Ukraine bằng cách cung cấp hình ảnh vệ tinh để giúp họ trong cuộc xung đột.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "e05b099e391c",
       "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
@@ -595,206 +795,6 @@
         "Cảnh sát muốn chặn các nền tảng không tuân thủ các quy định về an toàn trực tuyến"
       ],
       "full_summary": "Cảnh sát Anh đang yêu cầu chặn các nền tảng không an toàn cho người dưới 16 tuổi. NCA và NPCC cho rằng trẻ em cần được bảo vệ khỏi các mối đe dọa trực tuyến, bao gồm việc xem ảnh khỏa thân hoặc liên hệ với người lạ. Các cảnh sát muốn chặn các nền tảng không tuân thủ các quy định về an toàn trực tuyến để bảo vệ trẻ em khỏi các mối nguy hiểm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51177b14210f",
-      "title": "Meta settles social media addiction case with US school district",
-      "url": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T02:42:27.615962+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta đã đạt thỏa thuận trong vụ kiện liên quan đến nghiện mạng xã hội",
-      "bullets": [
-        "Meta đã đồng ý giải quyết vụ kiện liên quan đến nghiện mạng xã hội của một khu vực học tập ở Mỹ",
-        "Vụ kiện này được coi là một thử nghiệm cho 1200 khu vực học tập khác có yêu cầu tương tự",
-        "Meta sẽ phải thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội trong các trường học",
-        "Thỏa thuận này sẽ giúp giảm thiểu tác động tiêu cực của mạng xã hội đối với học sinh"
-      ],
-      "full_summary": "Meta đã đạt thỏa thuận trong vụ kiện liên quan đến nghiện mạng xã hội của một khu vực học tập ở Mỹ. Vụ kiện này được coi là một thử nghiệm cho 1200 khu vực học tập khác có yêu cầu tương tự. Theo thỏa thuận, Meta sẽ phải thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội trong các trường học. Điều này sẽ giúp giảm thiểu tác động tiêu cực của mạng xã hội đối với học sinh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "db319e6de7b9",
-      "title": "US groups urge investigation into child safety and spending on Roblox",
-      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T02:42:28.927496+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hội nhóm Mỹ kêu gọi điều tra an toàn trẻ em và chi tiêu trên Roblox",
-      "bullets": [
-        "Kêu gọi điều tra chi tiêu và an toàn trẻ em trên Roblox",
-        "Roblox cho biết có chính sách rõ ràng cấm đánh bạc thực tế và ảo",
-        "Cung cấp các quy tắc quản lý vật phẩm ngẫu nhiên có tính phí",
-        "Đảm bảo an toàn cho trẻ em trên nền tảng trực tuyến"
-      ],
-      "full_summary": "Các nhóm ở Mỹ đang kêu gọi điều tra chi tiêu và an toàn trẻ em trên nền tảng trực tuyến Roblox. Họ lo ngại rằng nền tảng này cho phép trẻ em tham gia các hoạt động có tính phí mà không được kiểm soát. Roblox đã phản hồi rằng họ có chính sách rõ ràng cấm đánh bạc thực tế và ảo, cũng như cung cấp các quy tắc quản lý vật phẩm ngẫu nhiên có tính phí.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e4dbbeba9e2",
-      "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
-      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T02:42:29.909125+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bác sĩ Mỹ nhiễm Ebola được đưa sang Đức điều trị",
-      "bullets": [
-        "Được đưa sang Đức điều trị",
-        "Bác sĩ cùng vợ và 4 con đang được theo dõi",
-        "WHO cảnh báo về tốc độ và quy mô của dịch",
-        "Dịch đã lan sang các khu vực thành thị"
-      ],
-      "full_summary": "Một bác sĩ Mỹ bị nhiễm Ebola đã được đưa sang Đức điều trị. Bác sĩ cùng vợ và 4 con đang được theo dõi vì có thể nhiễm bệnh. Tổ chức Y tế Thế giới (WHO) cảnh báo về tốc độ và quy mô của dịch, với ít nhất 134 trường hợp tử vong và hơn 500 trường hợp nhiễm bệnh. Dịch đã lan sang các khu vực thành thị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f3d9d99eea72",
-      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
-      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-22T02:42:31.426933+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "AcuRite ngưng hỗ trợ ứng dụng yêu thích của khách hàng",
-      "bullets": [
-        "AcuRite ngừng hỗ trợ ứng dụng cũ",
-        "Khách hàng phản ứng không hài lòng với chuyển đổi sang AcuRite NOW",
-        "AcuRite giải thích lý do ngừng hỗ trợ ứng dụng cũ",
-        "Chuyển đổi sang AcuRite NOW gặp nhiều khó khăn"
-      ],
-      "full_summary": "AcuRite, một nhà sản xuất thiết bị IoT, đã ngưng hỗ trợ ứng dụng yêu thích của khách hàng. Theo Ars Technica, chuyển đổi sang AcuRite NOW không được khách hàng mong đợi. AcuRite giải thích rằng họ muốn tập trung vào ứng dụng mới hơn và hiện đại hơn. Tuy nhiên, nhiều khách hàng đã phản ứng không hài lòng với quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "90dbdd6e7b88",
-      "title": "Uh-oh, the International Space Station is leaking again",
-      "url": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-22T02:42:35.261583+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Trạm vũ trụ quốc tế gặp sự cố rò rỉ lần nữa",
-      "bullets": [
-        "Trạm vũ trụ quốc tế đang gặp vấn đề rò rỉ",
-        "Sự cố này làm dấy lên lo ngại về an toàn của các phi hành gia",
-        "Nghiên cứu đang được tiến hành để xác định nguyên nhân của sự cố",
-        "Trạm vũ trụ quốc tế dự kiến sẽ ngừng hoạt động vào năm 2030"
-      ],
-      "full_summary": "Trạm vũ trụ quốc tế đang gặp vấn đề rò rỉ lần nữa, gây lo ngại về an toàn của các phi hành gia. Sự cố này đã được xác định và các nhà khoa học đang nghiên cứu để tìm hiểu nguyên nhân. Trạm vũ trụ quốc tế dự kiến sẽ ngừng hoạt động vào năm 2030, theo kế hoạch hiện tại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b921bbbafafc",
-      "title": "Pair arrested after boys abandoned by road in Portugal",
-      "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T19:46:07.912657+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai người bị bắt vì bỏ rơi hai cậu bé ở Bồ Đào Nha",
-      "bullets": [
-        "Bị bắt hai người vì bỏ rơi hai cậu bé",
-        "Cậu bé bị bỏ rơi mang theo ba lô có thức ăn và nước uống",
-        "Cậu bé không có giấy tờ tùy thân khi bị bỏ rơi",
-        "Cậu bé được một người lái xe phát hiện"
-      ],
-      "full_summary": "Hai người bị bắt vì bỏ rơi hai cậu bé ở Bồ Đào Nha. Cậu bé bị bỏ rơi mang theo ba lô có thức ăn và nước uống nhưng không có giấy tờ tùy thân. Cậu bé được một người lái xe phát hiện và đưa đến cơ quan chức năng. Hiện tại, hai người bị bắt đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd6e1ffabb9e",
-      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
-      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T19:46:09.900271+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Walmart cảnh báo người Mỹ cắt giảm chi tiêu do giá xăng tăng",
-      "bullets": [
-        "Walmart dự đoán người tiêu dùng Mỹ sẽ cắt giảm chi tiêu",
-        "Giá xăng tăng cao ảnh hưởng đến chi tiêu của người Mỹ",
-        "Người tiêu dùng Mỹ có thể sẽ cắt giảm chi tiêu trong các tháng tới",
-        "Walmart dự đoán doanh số sẽ giảm do giá xăng tăng cao"
-      ],
-      "full_summary": "Walmart, một trong những công ty bán lẻ lớn nhất thế giới, đã cảnh báo rằng người tiêu dùng Mỹ sẽ cắt giảm chi tiêu do giá xăng tăng cao. Công ty này dự đoán rằng người tiêu dùng sẽ cắt giảm chi tiêu trong các tháng tới. Giá xăng tăng cao đã ảnh hưởng đến chi tiêu của người Mỹ, và Walmart dự đoán rằng doanh số sẽ giảm do giá xăng tăng cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cf473a67a01",
-      "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T19:46:11.256911+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Elon Musk thua vụ kiện với OpenAI",
-      "bullets": [
-        "Musk thua vụ kiện chống lại OpenAI",
-        "Musk sẽ tiếp tục chiến đấu với phong cách quyết liệt",
-        "Sự thua lỗ không ảnh hưởng đến kế hoạch của Musk",
-        "Musk sẽ tiếp tục tìm kiếm cơ hội để thắng"
-      ],
-      "full_summary": "Elon Musk vừa thua một vụ kiện quan trọng chống lại OpenAI. Mặc dù thua, Musk vẫn không thay đổi phong cách quyết liệt của mình. Sự thua lỗ không ảnh hưởng đến kế hoạch của Musk, và ông sẽ tiếp tục tìm kiếm cơ hội để thắng. Musk đã mất một trận đấu quan trọng, nhưng ông vẫn không từ bỏ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6c2591e62e22",
-      "title": "Robo-top: The machines that could make your next t-shirt",
-      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T19:46:12.180942+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy móc mới có thể mang công việc dệt may trở lại phương Tây",
-      "bullets": [
-        "Tạo ra những chiếc áo mới bằng cách sử dụng máy móc",
-        "Cung cấp công việc cho người lao động ở phương Tây",
-        "Sử dụng công nghệ để sản xuất quần áo",
-        "Có thể thay thế một phần lao động ở châu Á"
-      ],
-      "full_summary": "Một loại máy móc mới có thể giúp sản xuất quần áo tại phương Tây, thay vì chỉ sản xuất ở châu Á. Máy móc này có thể tạo ra những chiếc áo mới bằng cách sử dụng công nghệ tiên tiến. Điều này có thể mang lại công việc cho người lao động ở phương Tây và thay thế một phần lao động ở châu Á.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "344c1d248383",
-      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
-      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-21T19:46:13.252745+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Nghiên cứu sử dụng vệ tinh và AI để theo dõi loài gấu mèo ở Anh",
-      "bullets": [
-        "Sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi loài gấu mèo ở Anh",
-        "Hi vọng dự án này sẽ giúp xác định rào cản ngăn cản gấu mèo tìm kiếm thức ăn và bạn tình",
-        "Dự án nhằm giảm thiểu sự suy giảm số lượng gấu mèo ở Anh",
-        "Nghiên cứu này sẽ giúp hiểu rõ hơn về hành vi của loài gấu mèo"
-      ],
-      "full_summary": "Các nhà nghiên cứu đang sử dụng vệ tinh và trí tuệ nhân tạo để theo dõi loài gấu mèo ở Anh trong nỗ lực giảm thiểu sự suy giảm số lượng của chúng. Dự án này nhằm xác định rào cản ngăn cản gấu mèo tìm kiếm thức ăn và bạn tình. Các nhà nghiên cứu hy vọng rằng thông tin thu thập được sẽ giúp hiểu rõ hơn về hành vi của loài gấu mèo và từ đó đưa ra các biện pháp bảo vệ hiệu quả hơn.",
       "comments": 0,
       "score": 0
     }
