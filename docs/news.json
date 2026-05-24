@@ -1,6 +1,222 @@
 {
-  "updated_at": "2026-05-24T13:08:44.682662+00:00",
+  "updated_at": "2026-05-24T19:07:24.843906+00:00",
   "articles": [
+    {
+      "id": "f606738dd68d",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T19:07:08.837469+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cảnh sát Thổ Nhĩ Kỳ xông vào văn phòng của đối lập sau khi lãnh đạo bị bãi nhiệm",
+      "bullets": [
+        "Cảnh sát Thổ Nhĩ Kỳ xông vào văn phòng của đảng đối lập",
+        "Đảng đối lập đã cam kết sẽ chống lại phán quyết của tòa án",
+        "Cảnh sát đã xông vào văn phòng sau khi đảng đối lập từ chối rời khỏi cơ quan",
+        "Căng thẳng giữa chính phủ và đối lập tiếp tục leo thang"
+      ],
+      "full_summary": "Cảnh sát Thổ Nhĩ Kỳ đã xông vào văn phòng của đảng đối lập sau khi lãnh đạo của đảng bị tòa án bãi nhiệm. Đảng đối lập đã cam kết sẽ chống lại phán quyết của tòa án và từ chối rời khỏi văn phòng. Căng thẳng giữa chính phủ và đối lập tiếp tục leo thang. Sự kiện này đã gây ra lo ngại về tình hình chính trị ở Thổ Nhĩ Kỳ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "51177b14210f",
+      "title": "Meta settles social media addiction case with US school district",
+      "url": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T19:07:09.768128+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực trường học Mỹ",
+      "bullets": [
+        "Meta đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực trường học Mỹ",
+        "Vụ kiện được xem như một thử nghiệm cho 1200 khu vực trường học khác",
+        "Khu vực trường học Mỹ sẽ nhận được khoản tiền bồi thường",
+        "Meta sẽ thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội ở trường học"
+      ],
+      "full_summary": "Meta đã đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực trường học Mỹ. Vụ kiện này được xem như một thử nghiệm cho 1200 khu vực trường học khác. Meta sẽ thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội ở trường học và bồi thường cho khu vực trường học Mỹ. Điều này sẽ giúp ngăn chặn nghiện mạng xã hội ở các trường học khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "401652208505",
+      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T19:07:10.742007+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Canada khẳng định Alberta là 'điều cần thiết' cho tương lai",
+      "bullets": [
+        "Chủ tịch Mark Carney tuyên bố Alberta là 'điều cần thiết' cho tương lai của Canada",
+        "Đồng minh ly khai ở Alberta đã thu thập chữ ký để tổ chức trưng cầu dân ý",
+        "Tòa án đã bác bỏ sáng kiến trưng cầu dân ý có tính ràng buộc"
+      ],
+      "full_summary": "Chủ tịch Canada Mark Carney đã tuyên bố rằng Alberta là 'điều cần thiết' cho tương lai của Canada. Điều này diễn ra sau khi lãnh đạo tỉnh Alberta kêu gọi trưng cầu dân ý về việc ly khai khỏi Canada. Các đồng minh ly khai ở tỉnh Alberta đã thu thập chữ ký để tổ chức trưng cầu dân ý, nhưng tòa án đã bác bỏ sáng kiến trưng cầu dân ý có tính ràng buộc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2c0eddaa1300",
+      "title": "Whatever the mirror test tells us, beluga whales pass it",
+      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-24T19:07:11.714457+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Sư tử biển trắng có thể nhận diện chính mình",
+      "bullets": [
+        "Thử nghiệm gương phản chiếu cho thấy sư tử biển trắng có khả năng nhận diện hình ảnh của mình",
+        "Sư tử biển trắng là một trong số ít loài động vật có thể vượt qua thử nghiệm này",
+        "Nghiên cứu cho thấy khả năng nhận diện hình ảnh của sư tử biển trắng có thể liên quan đến khả năng tự nhận thức",
+        "Thử nghiệm gương phản chiếu vẫn còn gây tranh cãi về tính xác thực"
+      ],
+      "full_summary": "Một nghiên cứu mới đây cho thấy sư tử biển trắng có khả năng nhận diện hình ảnh của mình, một khả năng hiếm gặp trong thế giới động vật. Thử nghiệm gương phản chiếu là một cách để đánh giá khả năng tự nhận thức của động vật. Kết quả nghiên cứu cho thấy sư tử biển trắng có thể vượt qua thử nghiệm này, nhưng vẫn còn nhiều tranh cãi về tính xác thực của kết quả này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e7e8b467803f",
+      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-24T19:07:12.655302+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Hai phi hành gia không gian kỷ nguyên tàu con thoi được vinh danh",
+      "bullets": [
+        "Được vinh danh vào Sảnh Sáng tác Astronaut",
+        "Có sự xuất sắc, lãnh đạo và phục vụ trong sự nghiệp",
+        "Đóng góp cho sự phát triển không gian",
+        "Là biểu tượng của tinh thần phi hành gia"
+      ],
+      "full_summary": "Hai phi hành gia không gian kỷ nguyên tàu con thoi, Michael Barratt và Clayton Anderson, đã được vinh danh vào Sảnh Sáng tác Astronaut. Họ được công nhận vì sự xuất sắc, lãnh đạo và phục vụ trong sự nghiệp. Hai phi hành gia này đã thực hiện nhiều nhiệm vụ không gian quan trọng và đóng góp cho sự phát triển không gian.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1679b76015a0",
+      "title": "China’s shark finning could lead to US seafood sanctions",
+      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-24T19:07:14.154846+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Hà Lan đề nghị trừng phạt hải sản Trung Quốc vì đánh bắt cá mập",
+      "bullets": [
+        "Đề nghị trừng phạt hải sản Trung Quốc do đánh bắt cá mập bất hợp pháp",
+        "Hải sản Trung Quốc có thể bị cấm nhập khẩu vào Mỹ",
+        "Đề xuất này nhằm ngăn chặn đánh bắt cá mập bất hợp pháp",
+        "Hà Lan muốn thúc đẩy việc bảo vệ cá mập và hệ sinh thái biển"
+      ],
+      "full_summary": "Một bản kiến nghị chính thức đã được gửi đến chính phủ Mỹ, đề nghị trừng phạt hải sản Trung Quốc do đánh bắt cá mập bất hợp pháp. Việc này nhằm ngăn chặn tình trạng đánh bắt cá mập không kiểm soát, gây tổn hại cho hệ sinh thái biển. Hải sản Trung Quốc có thể bị cấm nhập khẩu vào Mỹ nếu đề nghị này được chấp thuận. Điều này sẽ giúp thúc đẩy việc bảo vệ cá mập và hệ sinh thái biển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "281c6e436956",
+      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-24T19:07:15.066181+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Russian vệ tinh đang nhắm vào công ty hỗ trợ Ukraine",
+      "bullets": [
+        "Đang có 4 vệ tinh Nga đang ở tầm bắn của radar vệ tinh ICEYE",
+        "Công nghệ này không phổ biến đối với vệ tinh thực hiện nhiệm vụ thông thường",
+        "Công ty hỗ trợ Ukraine đang bị Nga nhắm vào"
+      ],
+      "full_summary": "Một công ty vệ tinh hỗ trợ Ukraine đang bị Nga nhắm vào. Theo thông tin mới, 4 vệ tinh Nga đã vào tầm bắn của radar vệ tinh ICEYE. Công nghệ này không phổ biến đối với vệ tinh thực hiện nhiệm vụ thông thường. Điều này cho thấy Nga đang có kế hoạch tấn công công ty vệ tinh này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6e4606abd7b0",
+      "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
+      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-24T19:07:15.964663+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Sốt xuất huyết Ebola lan rộng nhanh chóng",
+      "bullets": [
+        "Cộng đồng thế giới tăng nguy cơ lây nhiễm",
+        "Số ca mắc gần 750, tử vong 177",
+        "Sốt xuất huyết Ebola trở thành vụ bùng phát lớn thứ ba",
+        "Số ca mắc và tử vong tiếp tục tăng"
+      ],
+      "full_summary": "Sốt xuất huyết Ebola đang lan rộng nhanh chóng trên thế giới, với gần 750 ca mắc và 177 tử vong. Đây là vụ bùng phát lớn thứ ba trong lịch sử. Cộng đồng thế giới đang tăng nguy cơ lây nhiễm và số ca mắc và tử vong tiếp tục tăng. Các chuyên gia y tế đang cố gắng ngăn chặn sự lây lan của bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "920cac1d7fc1",
+      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-24T19:07:17.228692+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Phát hiện vị trí dữ liệu không rõ nguồn gốc bằng mô hình Bayesian",
+      "bullets": [
+        "Sử dụng mô hình Bayesian để xác định vị trí dữ liệu không rõ nguồn gốc",
+        "Phát triển phương pháp mới để ước tính vị trí dữ liệu dựa trên dữ liệu có sẵn",
+        "Ứng dụng mô hình này trong các lĩnh vực như địa lý thông tin và phân tích dữ liệu",
+        "Cải thiện độ chính xác và hiệu suất của các phương pháp hiện có"
+      ],
+      "full_summary": "Một nghiên cứu mới sử dụng mô hình Bayesian để phát hiện và xác định vị trí dữ liệu không rõ nguồn gốc. Phương pháp này dựa trên dữ liệu có sẵn và có thể được ứng dụng trong các lĩnh vực như địa lý thông tin và phân tích dữ liệu. Mô hình này có thể cải thiện độ chính xác và hiệu suất của các phương pháp hiện có.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d5bff955d6f9",
+      "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+      "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-24T19:07:18.749812+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chuyên viên điều hành của FreeBSD thử chạy hệ điều hành này trên laptop hàng ngày",
+      "bullets": [
+        "Chuyên viên điều hành của FreeBSD thử nghiệm chạy FreeBSD trên laptop",
+        "Mục tiêu là để sử dụng FreeBSD như một hệ điều hành hàng ngày",
+        "Báo cáo về trải nghiệm của chuyên viên điều hành với FreeBSD trên laptop"
+      ],
+      "full_summary": "Chuyên viên điều hành của FreeBSD đã thử nghiệm chạy hệ điều hành này trên laptop hàng ngày. Mục tiêu của họ là để sử dụng FreeBSD như một hệ điều hành hàng ngày và đánh giá về trải nghiệm của mình. Báo cáo về kết quả thử nghiệm này đã được công bố và thu hút sự quan tâm của cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "51dc31f27b43",
+      "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
+      "source": "Science Daily",
+      "icon": "🔭",
+      "fetched_at": "2026-05-24T19:07:23.214195+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Các nhà khoa học tìm ra nguyên nhân mới của lão hóa",
+      "bullets": [
+        "Xác định protein Menin trong não đóng vai trò quan trọng trong quá trình lão hóa",
+        "Khôi phục Menin giúp đảo ngược một số tác động của lão hóa",
+        "Tăng cường D-serine giúp cải thiện trí nhớ"
+      ],
+      "full_summary": "Các nhà khoa học đã phát hiện ra một protein mới trong não có thể đóng vai trò quan trọng trong quá trình lão hóa. Họ đã tìm thấy rằng mức độ giảm của Menin trong vùng dưới đồi dẫn đến viêm, vấn đề trí nhớ, mất xương và các thay đổi khác liên quan đến lão hóa. Khôi phục Menin đã đảo ngược một số tác động này, trong khi bổ sung amino axit D-serine đã giúp cải thiện trí nhớ. Khám phá này đã mở ra một con đường mới bất ngờ để chống lại sự suy giảm liên quan đến tuổi tác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "9a73dee85ad3",
       "title": "BBC at the site of China's worst mining disaster in more than a decade",
@@ -570,226 +786,6 @@
         "Hệ thống y tế dễ vỡ của DRC đối mặt với thách thức"
       ],
       "full_summary": "Cộng hòa Dân chủ Congo đang đối mặt với cơn bùng phát Ebola nghiêm trọng. Các cơ sở y tế đầy người, các nhóm cứu trợ và nhân viên y tế kêu gọi hành động quốc tế đồng bộ. Cơn bùng phát Ebola vượt quá số ca được xác nhận, khiến hệ thống y tế dễ vỡ của DRC đối mặt với thách thức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "205764ca9b96",
-      "title": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
-      "url": "https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T19:04:09.710615+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Côte d'Ivoire lo ngại mối đe dọa khủng bố Hồi giáo tại bắc nước",
-      "bullets": [
-        "Côte d'Ivoire lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso",
-        "Nạn nhân của cuộc tấn công năm 2016 vẫn còn nhớ rõ ngày 13 tháng 3",
-        "Nhiều người dân Côte d'Ivoire đang tìm kiếm sự an toàn và ổn định",
-        "Côte d'Ivoire đang tăng cường biện pháp an ninh tại khu vực biên giới"
-      ],
-      "full_summary": "Côte d'Ivoire đang lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso, 10 năm sau cuộc tấn công lớn vào năm 2016. Nạn nhân của cuộc tấn công vẫn còn nhớ rõ ngày 13 tháng 3, khi họ chứng kiến người khác chết. Để tìm kiếm sự an toàn và ổn định, nhiều người dân Côte d'Ivoire đang tìm kiếm sự an toàn và ổn định. Côte d'Ivoire đang tăng cường biện pháp an ninh tại khu vực biên giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "55e14c9a2ed5",
-      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-      "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-23T19:04:10.840744+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "SpaceX Starship V3 đạt kết quả đáng khích lệ trong chuyến bay đầu tiên",
-      "bullets": [
-        "Thử nghiệm thành công với hệ thống động lực và điều khiển",
-        "Hệ thống hạ cánh tự động hoạt động ổn định",
-        "Cần nhiều thử nghiệm trước khi đạt được quỹ đạo Trái Đất thấp",
-        "SpaceX vẫn tiếp tục hoàn thiện Starship V3"
-      ],
-      "full_summary": "Chuyến bay đầu tiên của Starship V3 do SpaceX thực hiện đã đạt được kết quả đáng khích lệ. Mặc dù vẫn còn nhiều thử nghiệm cần được thực hiện, nhưng hệ thống động lực và điều khiển của Starship đã hoạt động ổn định. Tuy nhiên, hệ thống hạ cánh tự động vẫn cần được cải thiện. SpaceX sẽ tiếp tục hoàn thiện Starship V3 trước khi đạt được quỹ đạo Trái Đất thấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "95214c72365a",
-      "title": "First-generation Chromecast users stressed by devices suddenly failing",
-      "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-23T19:04:12.344352+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chromecast đầu tiên ngừng hoạt động bí ẩn, Google đã sửa lỗi",
-      "bullets": [
-        "Google đã xác nhận đã sửa lỗi gây ra Chromecast đầu tiên ngừng hoạt động",
-        "Nhiều người dùng đã gặp vấn đề với thiết bị của mình",
-        "Google đã không cung cấp thông tin chi tiết về nguyên nhân gây ra lỗi",
-        "Người dùng đã có thể sử dụng lại Chromecast của mình sau khi cập nhật"
-      ],
-      "full_summary": "Google đã xác nhận đã sửa lỗi gây ra Chromecast đầu tiên ngừng hoạt động bí ẩn. Nhiều người dùng đã gặp vấn đề với thiết bị của mình, nhưng sau khi cập nhật, người dùng đã có thể sử dụng lại Chromecast của mình. Google đã không cung cấp thông tin chi tiết về nguyên nhân gây ra lỗi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c7e88b1bb8a",
-      "title": "Vanishing tongues and life on Mars: Books in brief",
-      "url": "https://www.nature.com/articles/d41586-026-01655-w",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-23T19:04:13.845161+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Tìm hiểu về các ngôn ngữ đang biến mất và cuộc sống trên sao Hỏa",
-      "bullets": [
-        "Tìm hiểu về 5 cuốn sách khoa học hay nhất",
-        "Đọc về ngôn ngữ đang biến mất trên Trái Đất",
-        "Tìm hiểu về cuộc sống trên sao Hỏa",
-        "Đọc về các cuốn sách khoa học được Nature giới thiệu"
-      ],
-      "full_summary": "Tạp chí Nature vừa công bố 5 cuốn sách khoa học hay nhất. Các cuốn sách này bao gồm những thông tin thú vị về ngôn ngữ đang biến mất trên Trái Đất và cuộc sống trên sao Hỏa. Andrew Robinson đã đánh giá và giới thiệu các cuốn sách này. Đây là những cuốn sách mà bạn không nên bỏ qua nếu bạn yêu thích khoa học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d81c41a09f04",
-      "title": "Did a boy’s life-saving gene therapy cause his brain tumour?",
-      "url": "https://www.nature.com/articles/d41586-026-01593-7",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-23T19:04:18.262448+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Một liệu pháp gene cứu sống gây ra khối u não ở một cậu bé",
-      "bullets": [
-        "Khám phá một trường hợp hiếm bệnh ung thư do virus gây ra trong quá trình điều trị",
-        "Liệu pháp gene được sử dụng để điều trị một rối loạn di truyền",
-        "Các nhà khoa học đã xác định được virus gây ra khối u não",
-        "Trường hợp này đã được báo cáo trong một nghiên cứu gần đây"
-      ],
-      "full_summary": "Một nghiên cứu gần đây đã phát hiện ra một trường hợp hiếm bệnh ung thư do virus gây ra trong quá trình điều trị liệu pháp gene cho một cậu bé. Liệu pháp gene được sử dụng để điều trị một rối loạn di truyền của cậu bé. Các nhà khoa học đã xác định được virus gây ra khối u não. Trường hợp này đã được báo cáo trong một nghiên cứu gần đây trên tạp chí Nature.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f149d0e9293",
-      "title": "French pair held until trial after boys abandoned by road in Portugal",
-      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T13:08:53.576713+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hôn nhân Pháp bị giam giữ chờ xét xử",
-      "bullets": [
-        "Một cặp vợ chồng Pháp bị giam giữ vì bỏ rơi hai cháu bé trên đường ở Bồ Đào Nha.",
-        "Họ sẽ phải chờ xét xử sau khi bị bắt giữ.",
-        "Vụ việc đã gây ra sự phẫn nộ trong dư luận.",
-        "Cặp vợ chồng này sẽ phải đối mặt với các cáo buộc nghiêm trọng."
-      ],
-      "full_summary": "Một cặp vợ chồng Pháp bị giam giữ chờ xét xử sau khi bị bắt giữ vì bỏ rơi hai cháu bé trên đường ở Bồ Đào Nha. Vụ việc đã gây ra sự phẫn nộ trong dư luận và họ sẽ phải đối mặt với các cáo buộc nghiêm trọng. Cặp vợ chồng này sẽ phải chờ xét xử sau khi bị bắt giữ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3adf3afaa16",
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T13:08:55.256092+00:00",
-      "category": "politics|economy",
-      "importance": 3,
-      "headline": "Cố vấn Biden tìm cách bán năng lượng Mỹ cho Ấn Độ",
-      "bullets": [
-        "Cố vấn Biden gặp gỡ Thủ tướng Modi để thảo luận về năng lượng",
-        "Mỹ muốn bán năng lượng cho Ấn Độ để bù đắp thiếu hụt do chiến tranh Iran",
-        "Năng lượng sẽ là ưu tiên trong chuyến thăm Ấn Độ của cố vấn Biden",
-        "Mục tiêu của Mỹ là tăng cường quan hệ kinh tế với Ấn Độ"
-      ],
-      "full_summary": "Cố vấn Ngoại giao Mỹ, Marco Rubio, đã đến thăm Ấn Độ và gặp gỡ Thủ tướng Narendra Modi. Trong cuộc họp, họ đã thảo luận về vấn đề năng lượng, với Mỹ muốn bán năng lượng cho Ấn Độ để bù đắp thiếu hụt do chiến tranh Iran. Năng lượng sẽ là ưu tiên trong chuyến thăm Ấn Độ của cố vấn Biden, nhằm tăng cường quan hệ kinh tế với Ấn Độ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9fc1ed904b0d",
-      "title": "Senegal's president sacks PM and former ally after months-long feud",
-      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T13:08:56.418313+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Senegal sa thải Thủ tướng và đồng minh cũ",
-      "bullets": [
-        "Sa thải Thủ tướng Bassirou Diomaye Faye",
-        "Dissolve chính phủ tạo ra sự không chắc chắn",
-        "Senegal đang đối mặt với khủng hoảng nợ nần",
-        "Sự kiện gây ra sự bất ổn trong chính trị nước này"
-      ],
-      "full_summary": "Chủ tịch Senegal, Abdoulaye Wade, đã sa thải Thủ tướng Bassirou Diomaye Faye và đồng minh cũ sau nhiều tháng tranh cãi. Ông Wade cũng đã giải thể chính phủ, tạo ra sự không chắc chắn trong nước. Senegal đang đối mặt với khủng hoảng nợ nần và sự kiện này gây ra sự bất ổn trong chính trị nước này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9ae9c81e990a",
-      "title": "Love factually: Dating start-ups promise to cut the cheats",
-      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T13:08:57.527405+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các ứng dụng hẹn hò mới hứa hẹn loại bỏ những người giả mạo",
-      "bullets": [
-        "Khám phá các ứng dụng hẹn hò mới với cách tiếp cận khác biệt",
-        "Giảm thiểu số lượng hồ sơ giả mạo trên các ứng dụng hẹn hò",
-        "Cung cấp trải nghiệm hẹn hò an toàn và đáng tin cậy hơn",
-        "Hỗ trợ người dùng tìm kiếm mối quan hệ thực sự"
-      ],
-      "full_summary": "Các ứng dụng hẹn hò mới đang hứa hẹn loại bỏ những người giả mạo trên các ứng dụng hẹn hò. Những ứng dụng này sử dụng các cách tiếp cận khác biệt để giảm thiểu số lượng hồ sơ giả mạo và cung cấp trải nghiệm hẹn hò an toàn và đáng tin cậy hơn. Điều này đã được thúc đẩy bởi sự thất vọng của người dùng với các hồ sơ giả mạo trên các ứng dụng hẹn hò.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d689050cb468",
-      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T13:08:58.527872+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cảnh sát Anh đề xuất chặn các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi",
-      "bullets": [
-        "Cảnh sát Anh đề xuất chặn các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi",
-        "Các nền tảng không ngăn chặn trẻ em xem ảnh khiêu dâm sẽ bị chặn",
-        "Trẻ em sẽ không thể tiếp xúc với người lạ trên các nền tảng không an toàn",
-        "NCA và NPCC đề xuất các biện pháp bảo vệ trẻ em trên mạng xã hội"
-      ],
-      "full_summary": "Cảnh sát Anh đề xuất chặn các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi. NCA và NPCC cho rằng các nền tảng mạng xã hội không ngăn chặn trẻ em xem ảnh khiêu dâm hoặc tiếp xúc với người lạ sẽ gây hại cho trẻ em. Họ đề xuất các biện pháp bảo vệ trẻ em trên mạng xã hội, bao gồm việc chặn các nền tảng không an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4c7c9220ad14",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T13:08:59.718051+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Canada chuyển người tị nạn sang ICE, bị giam giữ nhiều tháng",
-      "bullets": [
-        "Canada tăng cường quy định tị nạn, nhiều người bị từ chối",
-        "Người tị nạn bị chuyển sang ICE, giam giữ nhiều tháng",
-        "Nhiều người phải chờ đợi lâu trước khi được xét xử",
-        "Tình hình giam giữ người tị nạn ở Mỹ đang trở nên nghiêm trọng"
-      ],
-      "full_summary": "Canada đang tăng cường quy định tị nạn, dẫn đến nhiều người bị từ chối. Những người tị nạn bị từ chối này sau đó bị chuyển sang Cơ quan Hải quan và Bảo vệ Biên giới Hoa Kỳ (ICE) và bị giam giữ nhiều tháng. Nhiều người phải chờ đợi lâu trước khi được xét xử. Tình hình giam giữ người tị nạn ở Mỹ đang trở nên nghiêm trọng.",
       "comments": 0,
       "score": 0
     }
