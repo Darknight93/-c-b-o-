@@ -1,6 +1,202 @@
 {
-  "updated_at": "2026-05-23T19:04:20.473635+00:00",
+  "updated_at": "2026-05-24T02:37:50.092033+00:00",
   "articles": [
+    {
+      "id": "bb0263dd4e64",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T02:37:35.294570+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump tuyên bố thỏa thuận Iran đã được thảo luận gần như hoàn thành",
+      "bullets": [
+        "Trump tuyên bố thỏa thuận Iran đã được thảo luận gần như hoàn thành",
+        "Tehran cho biết tiến triển trong đàm phán nhưng vấn đề hạt nhân không phải là phần chính của khung thỏa thuận",
+        "Hạm đội Iran cảnh báo sẽ đóng Strait of Hormuz nếu Mỹ áp đặt lệnh cấm vận",
+        "Thỏa thuận Iran vẫn chưa được công bố chính thức"
+      ],
+      "full_summary": "Trung tâm ngoại giao của Iran cho biết tiến triển trong đàm phán với Mỹ nhưng nhấn mạnh vấn đề hạt nhân không phải là phần chính của khung thỏa thuận hiện tại. Trong khi đó, Tổng thống Trump tuyên bố thỏa thuận Iran đã được thảo luận gần như hoàn thành, bao gồm việc mở lại eo biển Hormuz. Tuy nhiên, vẫn chưa có thông tin chính thức về thỏa thuận này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "94ff1461b375",
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T02:37:36.196578+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nổ súng ở Luhansk khiến 18 người thiệt mạng",
+      "bullets": [
+        "18 người chết và 42 người bị thương trong vụ tấn công",
+        "Tấn công xảy ra ở thị trấn bị Nga chiếm ở đông Ukraine",
+        "Nga cáo buộc Ukraine tấn công và cam kết sẽ đáp trả",
+        "Tình hình ở Ukraine đang trở nên căng thẳng hơn"
+      ],
+      "full_summary": "Một vụ tấn công đã xảy ra ở thị trấn Luhansk ở đông Ukraine, khiến 18 người chết và 42 người bị thương. Nga cáo buộc Ukraine là thủ phạm và cam kết sẽ đáp trả. Tình hình ở Ukraine đang trở nên căng thẳng hơn, với nhiều người dân lo ngại về sự an toàn của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6fcef1e969da",
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T02:37:37.143440+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tôi sống sót sau vụ tấn công tên lửa tại eo biển Hormuz",
+      "bullets": [
+        "Tôi được cứu sống sau khi tàu Skylight bị tấn công tên lửa",
+        "Tôi đang làm việc trên tàu Skylight trong chuyến công tác đầu tiên",
+        "Bạn tôi vẫn chưa được tìm thấy sau vụ tấn công",
+        "Vụ tấn công xảy ra vào đầu chiến tranh Iran"
+      ],
+      "full_summary": "Sunil Puniya là một thủy thủ trên tàu Skylight khi nó bị tấn công tên lửa tại eo biển Hormuz vào đầu chiến tranh Iran. Anh đã sống sót sau vụ tấn công nhưng bạn của anh vẫn chưa được tìm thấy. Sunil đang làm việc trên tàu Skylight trong chuyến công tác đầu tiên. Vụ tấn công đã gây ra nhiều thiệt hại cho tàu và thủy thủ đoàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6e3dbdf0d8e2",
+      "title": "F1 great Prost 'injured as masked gang raid home'",
+      "url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T02:37:38.055075+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cựu vận động viên F1 Alain Prost bị thương trong vụ cướp",
+      "bullets": [
+        "Cướp bóc nhà của Alain Prost",
+        "Cựu tay đua F1 bị thương",
+        "Vụ việc xảy ra gần Geneva, Thụy Sĩ"
+      ],
+      "full_summary": "Cựu tay đua F1 bốn lần vô địch thế giới Alain Prost bị thương trong một vụ cướp bóc tại nhà của mình gần Geneva, Thụy Sĩ. Theo báo chí Thụy Sĩ, một nhóm trộm cắp mặt nạ đã xông vào nhà của Prost. Vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ccfde19f9a9d",
+      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T02:37:39.232406+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Waymo tạm dừng dịch vụ taxi tự lái do xe lội qua đường ngập",
+      "bullets": [
+        "Tạm dừng dịch vụ taxi tự lái ở 5 thành phố Mỹ",
+        "Lý do: xe tự lái lội qua đường ngập",
+        "Waymo tăng cường cảnh giác để đảm bảo an toàn",
+        "Động thái này nhằm tránh tai nạn đáng tiếc"
+      ],
+      "full_summary": "Waymo, công ty dẫn đầu trong lĩnh vực xe tự lái, đã tạm dừng dịch vụ taxi tự lái ở 5 thành phố Mỹ sau khi xe tự lái của họ lội qua đường ngập. Theo một người đại diện của Waymo, công ty đã tăng cường cảnh giác để đảm bảo an toàn. Động thái này nhằm tránh tai nạn đáng tiếc. Việc tạm dừng dịch vụ này có thể ảnh hưởng đến khách hàng đang sử dụng dịch vụ taxi tự lái của Waymo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "af0d52007dbe",
+      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T02:37:40.149151+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "SpaceX hoãn phóng Starship trước khi niêm yết cổ phiếu",
+      "bullets": [
+        "SpaceX hoãn phóng Starship",
+        "Firm chuẩn bị niêm yết cổ phiếu trên thị trường",
+        "Niêm yết cổ phiếu sẽ là lần đầu tiên trong lịch sử",
+        "Lần niêm yết này có thể trở thành kỷ lục"
+      ],
+      "full_summary": "SpaceX đã hoãn phóng Starship chỉ một ngày sau khi công bố kế hoạch niêm yết cổ phiếu trên thị trường. Đây có thể trở thành lần niêm yết cổ phiếu lớn nhất trong lịch sử. Việc hoãn phóng Starship sẽ ảnh hưởng đến kế hoạch của SpaceX.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b5102ca2336",
+      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T02:37:41.117280+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "TikTok và YouTube không an toàn cho trẻ em, theo Ofcom",
+      "bullets": [
+        "Ofcom cho rằng TikTok và YouTube không đủ an toàn cho trẻ em.",
+        "TikTok cho biết họ thất vọng vì Ofcom không công nhận các tính năng an toàn của họ.",
+        "YouTube cho biết họ đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp cho trẻ em.",
+        "Các nền tảng này đang bị chỉ trích vì không bảo vệ trẻ em khỏi nội dung không phù hợp."
+      ],
+      "full_summary": "Tổ chức truyền thông Ofcom đã phát biểu rằng TikTok và YouTube không an toàn cho trẻ em. Các nền tảng này đã phản ứng bằng cách cho biết họ đã thực hiện các biện pháp để bảo vệ trẻ em. Tuy nhiên, Ofcom cho rằng các biện pháp này không đủ để bảo vệ trẻ em khỏi nội dung không phù hợp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1c7074fa99b",
+      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-24T02:37:42.605411+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "FCC yêu cầu công chúng bình luận về tính chất tin tức của chương trình The View",
+      "bullets": [
+        "FCC đề nghị công chúng đánh giá chương trình The View dựa trên tính mới mẻ của nội dung",
+        "Chương trình này được coi là chương trình tin tức hay chương trình giải trí",
+        "FCC đang tìm kiếm ý kiến của công chúng về tính chất tin tức của chương trình"
+      ],
+      "full_summary": "FCC Mỹ đang yêu cầu công chúng bình luận về tính chất tin tức của chương trình The View trên kênh ABC. Chương trình này thường được coi là chương trình giải trí nhưng cũng có nội dung liên quan đến tin tức. FCC đang tìm kiếm ý kiến của công chúng để đánh giá tính chất tin tức của chương trình này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "316215f7caae",
+      "title": "Wake up! 16b",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-24T02:37:45.251016+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một cuộc tấn công mạng lớn đã xảy ra",
+      "bullets": [
+        "Một trang web bị xâm phạm và chứa mã độc",
+        "Mục tiêu của cuộc tấn công vẫn chưa được xác định rõ",
+        "Các chuyên gia đang cố gắng phân tích và ngăn chặn cuộc tấn công"
+      ],
+      "full_summary": "Một cuộc tấn công mạng lớn đã xảy ra trên một trang web, khiến trang web bị xâm phạm và chứa mã độc. Mục tiêu của cuộc tấn công vẫn chưa được xác định rõ, nhưng các chuyên gia đang cố gắng phân tích và ngăn chặn cuộc tấn công. Cuộc tấn công này đã thu hút sự chú ý của cộng đồng Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5054d004ae19",
+      "title": "Major Ebola outbreak is escalating: what happens next",
+      "url": "https://www.nature.com/articles/d41586-026-01660-z",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-24T02:37:48.457743+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Bùng phát Ebola nghiêm trọng đang gia tăng",
+      "bullets": [
+        "Cơ quan y tế đang nỗ lực để kiểm soát sự bùng phát của virus Bundibugyo",
+        "Các chuyên gia đang nghiên cứu để tìm ra phương pháp điều trị hiệu quả",
+        "Hành động khẩn cấp đang được thực hiện để ngăn chặn sự lây lan của virus"
+      ],
+      "full_summary": "Một bùng phát Ebola nghiêm trọng đang gia tăng trên toàn cầu. Các cơ quan y tế đang nỗ lực để kiểm soát sự bùng phát của virus Bundibugyo. Các chuyên gia đang nghiên cứu để tìm ra phương pháp điều trị hiệu quả và ngăn chặn sự lây lan của virus. Hành động khẩn cấp đang được thực hiện để ngăn chặn sự lây lan của virus và bảo vệ sức khỏe cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7d47c7f13bce",
       "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
@@ -596,205 +792,6 @@
         "Mục tiêu của họ là tìm ra các thuốc có thể được sử dụng để điều trị các bệnh não hiệu quả và giá cả phải chăng."
       ],
       "full_summary": "Các nhà nghiên cứu đang sử dụng AI để tăng tốc quá trình tìm kiếm thuốc điều trị bệnh não. Họ hy vọng công việc này sẽ giúp xác định thuốc điều trị hiệu quả và giá cả phải chăng cho các bệnh như MND. Các nhà nghiên cứu đang phân tích dữ liệu về các thuốc đã được sử dụng trong nhiều thập kỷ để tìm ra các thuốc có thể được sử dụng để điều trị các bệnh não hiệu quả và giá cả phải chăng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2b9e0bd7b3a8",
-      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
-      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T02:27:43.785842+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Cộng hòa Congo đối mặt với nguy cơ bùng phát Ebola cao",
-      "bullets": [
-        "Tăng gấp ba số ca nghi ngờ Ebola trong một tuần",
-        "WHO cảnh báo về sự lây lan nhanh chóng của bệnh",
-        "Sự cắt giảm viện trợ và sự bất tin của cộng đồng cản trở nỗ lực ứng phó",
-        "Số ca tử vong nghi ngờ tăng lên 177"
-      ],
-      "full_summary": "Cộng hòa Congo đang đối mặt với nguy cơ bùng phát Ebola cao. Theo Tổ chức Y tế Thế giới (WHO), số ca nghi ngờ Ebola đã tăng gấp ba lần trong một tuần, lên gần 750 ca và 177 ca tử vong nghi ngờ. Sự lây lan nhanh chóng của bệnh và sự cắt giảm viện trợ, cùng với sự bất tin của cộng đồng, đã cản trở nỗ lực ứng phó của các chuyên gia y tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27308f527197",
-      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
-      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T02:27:44.936621+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hoa Kỳ cấm du khách từ DRC, Uganda và Nam Sudan không phải giải pháp cho dịch Ebola",
-      "bullets": [
-        "Cấm du khách từ DRC, Uganda và Nam Sudan có thể làm tình hình dịch Ebola tồi tệ hơn",
-        "Africa CDC cho rằng các hạn chế có thể tăng nguy cơ về sức khỏe công cộng",
-        "Dịch Ebola được công bố là tình trạng khẩn cấp về sức khỏe công cộng quốc tế",
-        "Một trường hợp mới được báo cáo ở tỉnh South Kivu của DRC"
-      ],
-      "full_summary": "Hoa Kỳ đã cấm du khách từ DRC, Uganda và Nam Sudan để đối phó với dịch Ebola. Tuy nhiên, các chuyên gia cho rằng biện pháp này có thể làm tình hình tồi tệ hơn. Africa CDC cho rằng các hạn chế có thể tăng nguy cơ về sức khỏe công cộng và làm nổi bật 'sự bất công sâu sắc' trong lĩnh vực sức khỏe toàn cầu. Dịch Ebola đã được công bố là tình trạng khẩn cấp về sức khỏe công cộng quốc tế và tiếp tục lan rộng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ca2fc67d80cb",
-      "title": "Macron says France must address issue of reparations for its role in slave trade",
-      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T02:27:45.884784+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Macron đề xuất Pháp phải giải quyết vấn đề bồi thường cho lịch sử nô lệ",
-      "bullets": [
-        "Macron nói Pháp phải thừa nhận và xin lỗi về lịch sử nô lệ",
-        "Pháp cần tìm cách bồi thường cho những người bị nô lệ",
-        "Tổng thống Pháp không đề xuất phương án cụ thể",
-        "Lập trường của Macron gây tranh cãi trong dư luận"
-      ],
-      "full_summary": "Tổng thống Pháp Emmanuel Macron đã đề xuất rằng Pháp cần phải giải quyết vấn đề bồi thường cho lịch sử nô lệ. Trong bài phát biểu tại Élysée Palace, Macron nói rằng vấn đề này không thể bị từ chối và Pháp cần phải tìm cách bồi thường cho những người bị nô lệ. Tuy nhiên, ông không đề xuất phương án cụ thể. Lập trường của Macron gây tranh cãi trong dư luận và được coi là một bước tiến trong việc thừa nhận lịch sử nô lệ của Pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3efcd2a1805c",
-      "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
-      "url": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T02:27:46.935119+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mỹ bỏ qua dịch Ebola ở Trung Phi",
-      "bullets": [
-        "Báo cáo hàng trăm trường hợp nhiễm Ebola ở Cộng hòa Dân chủ Congo",
-        "USAID bị giải thể, nghiên cứu khoa học quan trọng bị hủy bỏ",
-        "Không có thuốc chữa và vắc-xin cho biến thể Bundibugyo hiếm gặp của Ebola",
-        "Các nhà lãnh đạo y tế và nhà khoa học đang cố gắng ngăn chặn sự lây lan của virus"
-      ],
-      "full_summary": "Một đợt bùng phát Ebola mới đã lan rộng ở một số khu vực ở Trung Phi, nhưng Mỹ dường như không làm gì để ngăn chặn nó. Các nhà lãnh đạo y tế và nhà khoa học đang cố gắng hiểu nơi virus đang lây lan và ngăn chặn nó, nhưng Mỹ không tham gia vào những nỗ lực này. Các cắt giảm lớn đối với các nỗ lực y tế công cộng toàn cầu và trong nước của Mỹ đã khiến tình hình trở nên tồi tệ hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ca15923f304",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T02:27:47.910272+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hộ chiếu của Kilmar Ábrego bị hủy bỏ",
-      "bullets": [
-        "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự đối với Kilmar Ábrego",
-        "Ábrego bị gửi đến trại giam Cecot ở El Salvador vào tháng 3 năm 2025",
-        "Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu không có vụ kháng cáo",
-        "Ábrego đã nhập cảnh Mỹ mà không có giấy phép"
-      ],
-      "full_summary": "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự đối với Kilmar Ábrego García. Ábrego đã trở thành biểu tượng của chính sách trục xuất hàng loạt dưới thời chính phủ Trump khi ông ta bị gửi đến trại giam Cecot ở El Salvador vào tháng 3 năm 2025. Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu không có vụ kháng cáo của ông ta.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "281c6e436956",
-      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-23T02:27:50.286748+00:00",
-      "category": "politics|other",
-      "importance": 4,
-      "headline": "Hệ thống vệ tinh Nga đang nhắm vào công ty vệ tinh hỗ trợ Ukraine",
-      "bullets": [
-        "Nhiều vệ tinh Nga đang được định vị để tấn công công ty vệ tinh ICEYE",
-        "Công ty vệ tinh hỗ trợ Ukraine đang bị đe dọa bởi khả năng tấn công từ không gian",
-        "Khả năng này không phổ biến đối với các vệ tinh thực hiện nhiệm vụ thông thường",
-        "ICEYE đang hỗ trợ Ukraine bằng cách cung cấp hình ảnh vệ tinh"
-      ],
-      "full_summary": "Công ty vệ tinh ICEYE, hỗ trợ Ukraine bằng cách cung cấp hình ảnh vệ tinh, đang bị đe dọa bởi khả năng tấn công từ hệ thống vệ tinh Nga. Theo thông tin mới nhất, bốn vệ tinh Nga đang được định vị để tấn công công ty vệ tinh này. Khả năng này không phổ biến đối với các vệ tinh thực hiện nhiệm vụ thông thường. ICEYE đang hỗ trợ Ukraine bằng cách cung cấp hình ảnh vệ tinh để giúp họ trong cuộc xung đột.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e05b099e391c",
-      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:19.023339+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Putin cảnh báo trả đũa sau cáo buộc Ukraine tấn công ký túc xá sinh viên",
-      "bullets": [
-        "Ukraine tuyên bố tấn công đơn vị Rubicon drone quân sự của Nga ở một phần phía đông Ukraine bị Nga chiếm",
-        "Putin cáo buộc Ukraine tấn công ký túc xá sinh viên ở Moscow",
-        "Nga lên tiếng cảnh báo sẽ trả đũa sau cáo buộc của Ukraine"
-      ],
-      "full_summary": "Chủ tịch Nga Vladimir Putin cảnh báo sẽ trả đũa sau khi cáo buộc Ukraine tấn công ký túc xá sinh viên ở Moscow. Ukraine cho biết đã tấn công đơn vị Rubicon drone quân sự của Nga ở một phần phía đông Ukraine bị Nga chiếm. Cáo buộc của Putin được đưa ra sau khi Ukraine tuyên bố tấn công đơn vị quân sự của Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6fe2b06767bd",
-      "title": "Ebola risk raised to 'very high' in DR Congo",
-      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:20.115068+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cộng hòa Dân chủ Congo nâng mức nguy cơ Ebola lên 'rất cao'",
-      "bullets": [
-        "Cộng hòa Dân chủ Congo nâng mức nguy cơ Ebola lên 'rất cao'",
-        "UN cảnh báo nguy cơ lây lan ở khu vực rộng lớn",
-        "Nguy cơ toàn cầu vẫn ở mức thấp",
-        "Đại diện UN kêu gọi tăng cường biện pháp phòng ngừa"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo đã nâng mức nguy cơ Ebola lên 'rất cao'. Đại diện UN cho biết nguy cơ lây lan ở khu vực rộng lớn cũng được coi là 'cao'. Mặc dù vậy, nguy cơ toàn cầu vẫn ở mức thấp. Đại diện UN kêu gọi tăng cường biện pháp phòng ngừa để ngăn chặn sự lây lan của bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1bf559c069ad",
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-      "url": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:21.819152+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Diving thiết bị không đủ tốt khiến 4 người Ý gặp nạn",
-      "bullets": [
-        "Cứu hộ phát hiện thiết bị không đủ tốt",
-        "Hình ảnh từ hang động cho thấy độ khó trong việc lấy xác",
-        "Cứu hộ phải đối mặt với nhiều thách thức",
-        "Tìm hiểu nguyên nhân khiến thiết bị không đủ tốt"
-      ],
-      "full_summary": "Bốn người Ý bị mắc kẹt trong một hang động dưới nước đã được tìm thấy, nhưng thiết bị của họ không đủ tốt khiến cho việc cứu hộ gặp nhiều khó khăn. Hình ảnh từ hang động cho thấy độ khó trong việc lấy xác. Cứu hộ phải đối mặt với nhiều thách thức để đưa xác về.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9dfb4f94611f",
-      "title": "Tulsi Gabbard to resign as US director of national intelligence",
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-22T19:26:23.717256+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tân Giám đốc An ninh Quốc gia Mỹ từ chức vì bệnh chồng",
-      "bullets": [
-        "Tulsi Gabbard từ chức Giám đốc An ninh Quốc gia Mỹ",
-        "Bà từ chức vì chồng mắc bệnh nghiêm trọng",
-        "Gabbard đã ít xuất hiện trước công chúng trong các hoạt động quân sự gần đây",
-        "Bà sẽ rời chức vụ này ngay lập tức"
-      ],
-      "full_summary": "Tulsi Gabbard, người đã ít xuất hiện trước công chúng trong các hoạt động quân sự gần đây, đã từ chức Giám đốc An ninh Quốc gia Mỹ. Bà cho biết lý do từ chức là chồng mắc bệnh nghiêm trọng. Gabbard đã giữ chức vụ này trong thời gian ngắn và sẽ rời chức vụ ngay lập tức.",
       "comments": 0,
       "score": 0
     }
