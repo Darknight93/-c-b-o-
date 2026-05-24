@@ -1,6 +1,163 @@
 {
-  "updated_at": "2026-05-24T08:21:38.502694+00:00",
+  "updated_at": "2026-05-24T13:08:44.682662+00:00",
   "articles": [
+    {
+      "id": "9a73dee85ad3",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T13:08:27.102853+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nổ khí tại mỏ Liushenyu, Trung Quốc: 82 người thiệt mạng",
+      "bullets": [
+        "Nổ khí xảy ra tại mỏ Liushenyu ở Trung Quốc",
+        "Ít nhất 82 người thiệt mạng trong vụ nổ khí",
+        "Vụ nổ khí là thảm họa khai thác nghiêm trọng nhất Trung Quốc trong hơn một thập kỷ"
+      ],
+      "full_summary": "Một vụ nổ khí nghiêm trọng đã xảy ra tại mỏ Liushenyu ở tỉnh Vân Nam, Trung Quốc. Vụ nổ khí đã khiến ít nhất 82 người thiệt mạng và nhiều người khác bị thương. Vụ nổ khí được cho là do khí gas bốc cháy trong quá trình khai thác. Đây là thảm họa khai thác nghiêm trọng nhất Trung Quốc trong hơn một thập kỷ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ffdd4d462303",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T13:08:28.217734+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tàu hỏa bị tấn công ở Pakistan, ít nhất 20 người chết",
+      "bullets": [
+        "Tàu hỏa chở quân nhân về nhà trong dịp Eid bị tấn công bởi các phiến quân",
+        "Số người chết và bị thương được cho là ít nhất 20",
+        "Các quan chức đang điều tra nguyên nhân vụ tấn công"
+      ],
+      "full_summary": "Một vụ tấn công đã xảy ra ở Pakistan, khiến ít nhất 20 người chết. Tàu hỏa chở quân nhân về nhà trong dịp Eid bị tấn công bởi các phiến quân. Các quan chức đang điều tra nguyên nhân vụ tấn công. Vụ việc đang gây ra sự lo lắng và bất an ở Pakistan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e15b5bf4aa7d",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T13:08:30.035630+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "California tuyên bố tình trạng khẩn cấp trước nguy cơ nổ bình chứa hóa chất độc hại",
+      "bullets": [
+        "Cảnh sát khẩn cấp đã di dời hàng nghìn người khỏi khu vực nguy hiểm",
+        "Hóa chất độc hại methyl methacrylate có thể gây ra hậu quả nghiêm trọng",
+        "Lực lượng cứu hỏa đang nỗ lực ngăn chặn sự cố hóa chất",
+        "Bình chứa 7.000 gallon hóa chất có nguy cơ nổ bất cứ lúc nào"
+      ],
+      "full_summary": "California đã tuyên bố tình trạng khẩn cấp sau khi phát hiện nguy cơ nổ bình chứa hóa chất độc hại. Hàng nghìn người đã được di dời khỏi khu vực nguy hiểm. Lực lượng cứu hỏa đang nỗ lực ngăn chặn sự cố hóa chất để tránh hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "20012083a3cd",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T13:08:31.153441+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Bộ trưởng Bolivia bị tấn công khi dỡ bỏ rào chắn đường cao tốc",
+      "bullets": [
+        "Cảnh sát đối mặt với sự kháng cự khi cố gắng dỡ bỏ rào chắn đường cao tốc",
+        "Hành động này diễn ra trong bối cảnh bất ổn xã hội do chính sách kinh tế của chính phủ",
+        "Bộ trưởng Bolivia bị tấn công trong khi đang giám sát việc dỡ bỏ rào chắn",
+        "Sự cố này diễn ra tại Bolivia trong thời gian gần đây"
+      ],
+      "full_summary": "Bộ trưởng Bolivia bị tấn công khi dỡ bỏ rào chắn đường cao tốc. Sự cố này diễn ra trong bối cảnh bất ổn xã hội do chính sách kinh tế của chính phủ. Cảnh sát đối mặt với sự kháng cự khi cố gắng dỡ bỏ rào chắn đường cao tốc. Bộ trưởng Bolivia bị tấn công trong khi đang giám sát việc dỡ bỏ rào chắn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d304d33b8dfb",
+      "title": "People trapped under collapsed building in Philippines",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T13:08:32.562288+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một tòa nhà sụp đổ ở Philippines, 24 người được cứu",
+      "bullets": [
+        "Cứu 24 người khỏi tòa nhà sụp đổ",
+        "Không có thương vong được báo cáo",
+        "Tìm kiếm cứu hộ đang tiếp tục",
+        "Không có thông tin về nguyên nhân sụp đổ"
+      ],
+      "full_summary": "Một tòa nhà đã sụp đổ ở Philippines, khiến nhiều người bị mắc kẹt. Đội cứu hộ đã tìm thấy 24 người sống sót và đưa họ ra khỏi tòa nhà. Không có thương vong được báo cáo. Tìm kiếm cứu hộ đang tiếp tục để đảm bảo không có người nào còn mắc kẹt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b269aafacb7d",
+      "title": "AI may speed up search for drugs to treat brain conditions",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-24T13:08:33.612727+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Tìm kiếm thuốc điều trị bệnh não có thể nhanh hơn nhờ AI",
+      "bullets": [
+        "Tìm kiếm thuốc điều trị bệnh não đang được đẩy nhanh nhờ công nghệ trí tuệ nhân tạo",
+        "Nghiên cứu hy vọng sẽ giúp xác định thuốc hiệu quả và giá cả phải chăng",
+        "Mục tiêu cuối cùng là tìm ra thuốc điều trị bệnh MND",
+        "Công nghệ AI sẽ giúp giảm thời gian và chi phí trong quá trình phát triển thuốc"
+      ],
+      "full_summary": "Nghiên cứu mới sử dụng trí tuệ nhân tạo để đẩy nhanh quá trình tìm kiếm thuốc điều trị bệnh não. Mục tiêu của nghiên cứu này là tìm ra thuốc hiệu quả và giá cả phải chăng để điều trị các bệnh não như bệnh MND. Công nghệ AI sẽ giúp giảm thời gian và chi phí trong quá trình phát triển thuốc, hy vọng sẽ mang lại kết quả tốt hơn cho bệnh nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dca58a563f0e",
+      "title": "The Worlds Left to Conquer",
+      "url": "https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-24T13:08:39.300514+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Các khu vực còn lại trên thế giới đang chờ được khám phá",
+      "bullets": [
+        "Khảo sát các khu vực chưa được khám phá trên thế giới",
+        "Tìm hiểu về các nền văn hóa chưa được khám phá",
+        "Xây dựng kế hoạch cho các cuộc thám hiểm tương lai"
+      ],
+      "full_summary": "Bài viết này thảo luận về các khu vực còn lại trên thế giới chưa được khám phá. Các khu vực này bao gồm cả địa lý và văn hóa. Bài viết đề xuất các kế hoạch cho các cuộc thám hiểm tương lai để khám phá và hiểu biết thêm về các khu vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0c9f8d24c41a",
+      "title": "The C64 Dead Test Font",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-24T13:08:42.886001+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một phông chữ thử nghiệm cho Commodore 64 đã bị phát hiện",
+      "bullets": [
+        "Bị phát hiện một phông chữ thử nghiệm cho Commodore 64",
+        "Phông chữ này được tạo ra để kiểm tra khả năng hoạt động của máy tính",
+        "Nó có thể giúp hiểu rõ hơn về lịch sử của Commodore 64",
+        "Phông chữ được phát hiện trên một trang web của một nhà phát triển"
+      ],
+      "full_summary": "Một nhóm phát triển đã phát hiện ra một phông chữ thử nghiệm cho Commodore 64, một máy tính cổ điển được phát hành vào năm 1982. Phông chữ này được tạo ra để kiểm tra khả năng hoạt động của máy tính và có thể giúp hiểu rõ hơn về lịch sử của Commodore 64. Nó được phát hiện trên một trang web của một nhà phát triển và đã thu hút sự chú ý của cộng đồng Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2729a50c5f5a",
       "title": "Suspect killed after opening fire on Secret Service near White House",
@@ -633,165 +790,6 @@
         "Tình hình giam giữ người tị nạn ở Mỹ đang trở nên nghiêm trọng"
       ],
       "full_summary": "Canada đang tăng cường quy định tị nạn, dẫn đến nhiều người bị từ chối. Những người tị nạn bị từ chối này sau đó bị chuyển sang Cơ quan Hải quan và Bảo vệ Biên giới Hoa Kỳ (ICE) và bị giam giữ nhiều tháng. Nhiều người phải chờ đợi lâu trước khi được xét xử. Tình hình giam giữ người tị nạn ở Mỹ đang trở nên nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e7e8b467803f",
-      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-23T13:09:01.045700+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Hai phi hành gia không gian kỷ nguyên tàu con thuyền được vinh danh",
-      "bullets": [
-        "Vinh danh hai phi hành gia có sự nghiệp thể hiện sự xuất sắc, lãnh đạo và phục vụ",
-        "Họ đã thực hiện nhiều chuyến đi không gian và hoạt động ngoài không gian",
-        "Cả hai đều là những nhân vật nổi bật trong lịch sử không gian của NASA"
-      ],
-      "full_summary": "Hai phi hành gia không gian kỷ nguyên tàu con thuyền, Gregory Harbaugh và Steven Nagel, đã được vinh danh vào Sảnh Khánh Hoà Astronaut. Họ đã có sự nghiệp xuất sắc với nhiều chuyến đi không gian và hoạt động ngoài không gian. Họ đã đóng góp đáng kể vào sự phát triển của không gian và được coi là những nhân vật nổi bật trong lịch sử không gian của NASA.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1679b76015a0",
-      "title": "China’s shark finning could lead to US seafood sanctions",
-      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-23T13:09:02.100069+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Hoa Kỳ cân nhắc trừng phạt hải sản Trung Quốc vì đánh bắt cá mập",
-      "bullets": [
-        "Gửi đơn kiến nghị lên chính phủ Hoa Kỳ",
-        "Khuyến nghị trừng phạt hải sản Trung Quốc do đánh bắt cá mập",
-        "Cá mập đang bị đe dọa nghiêm trọng do đánh bắt quá mức",
-        "Hoa Kỳ có thể áp dụng các biện pháp trừng phạt nếu Trung Quốc không cải thiện"
-      ],
-      "full_summary": "Một đơn kiến nghị chính thức đã được gửi lên chính phủ Hoa Kỳ, yêu cầu trừng phạt hải sản Trung Quốc do đánh bắt cá mập. Điều này là do Trung Quốc vẫn tiếp tục đánh bắt cá mập bất hợp pháp, khiến loài này đang bị đe dọa nghiêm trọng. Nếu Hoa Kỳ áp dụng trừng phạt, nó sẽ là một bước quan trọng trong việc bảo vệ cá mập và môi trường biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d86cad5121bf",
-      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-23T13:09:05.507121+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mỹ cố gắng ngăn chặn người dùng internet tái tạo giọng nói phi công đã khuất",
-      "bullets": [
-        "Tạo ra các bản sao giọng nói phi công từ các tài liệu điều tra vụ tai nạn",
-        "Sử dụng công nghệ AI để tái tạo âm thanh từ các bản ghi âm",
-        "Vi phạm luật cấm NTSB tiết lộ các bản ghi âm âm thanh trong cabin",
-        "Cơ quan NTSB đang cố gắng ngăn chặn việc tái tạo giọng nói phi công"
-      ],
-      "full_summary": "Các nhà phát triển đã tìm ra cách để tái tạo giọng nói của các phi công đã khuất bằng cách sử dụng công nghệ AI và các tài liệu điều tra vụ tai nạn. Điều này vi phạm luật cấm Cơ quan An toàn Giao thông Quốc gia (NTSB) tiết lộ các bản ghi âm âm thanh trong cabin. Cơ quan NTSB đang cố gắng ngăn chặn việc tái tạo giọng nói phi công, nhưng các nhà phát triển vẫn tiếp tục tìm cách để thực hiện điều này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0dbe18152a15",
-      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-23T13:09:11.101222+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một cặp vợ chồng phát hiện một bé trai trên tàu điện và hiện anh ta đã 26 tuổi",
-      "bullets": [
-        "Phát hiện một bé trai trên tàu điện",
-        "Chở bé về nhà chăm sóc",
-        "Cặp vợ chồng đã trở thành cha mẹ nuôi cho bé",
-        "Bé trai đã lớn lên và hiện là 26 tuổi"
-      ],
-      "full_summary": "Một cặp vợ chồng đã phát hiện một bé trai trên tàu điện và đã trở thành cha mẹ nuôi cho bé. Họ đã chăm sóc và nuôi dưỡng bé từ nhỏ. Bé đã lớn lên và hiện đã 26 tuổi. Cặp vợ chồng đã chia sẻ câu chuyện của mình để thể hiện tình yêu và sự quan tâm của họ đối với bé.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6cc413d8d8cf",
-      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T08:09:43.323436+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ mìn tại mỏ than ở Bắc Trung Quốc khiến ít nhất 90 người chết",
-      "bullets": [
-        "Nổ mìn xảy ra vào lúc 19:29 giờ địa phương vào thứ Sáu tại một mỏ than ở Bắc Trung Quốc",
-        "Số người chết ít nhất 90",
-        "Nguyên nhân vụ nổ mìn chưa được xác định",
-        "Các cơ quan chức năng đang điều tra vụ việc"
-      ],
-      "full_summary": "Một vụ nổ mìn xảy ra tại một mỏ than ở Bắc Trung Quốc vào thứ Sáu đã khiến ít nhất 90 người chết. Vụ nổ mìn xảy ra vào lúc 19:29 giờ địa phương. Nguyên nhân vụ nổ mìn chưa được xác định và các cơ quan chức năng đang điều tra vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b584ec027c3b",
-      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-      "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T08:09:44.375928+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Philippe được dự đoán là ứng cử viên khả quan nhất trong cuộc bầu cử tổng thống Pháp",
-      "bullets": [
-        "Đã có những cuộc thăm dò cho thấy Philippe có khả năng đánh bại Marine Le Pen và Jean-Luc Mélenchon",
-        "Philippe được coi là ứng cử viên duy nhất có thể đánh bại các ứng cử viên dân túy",
-        "Các ứng cử viên khác đang cố gắng lôi kéo cử tri",
-        "Cuộc bầu cử tổng thống Pháp đang trở nên ngày càng gay gắt"
-      ],
-      "full_summary": "Theo các cuộc thăm dò gần đây, cựu Thủ tướng Pháp Edouard Philippe đang trở thành ứng cử viên khả quan nhất để đánh bại các ứng cử viên dân túy Marine Le Pen và Jean-Luc Mélenchon. Các cuộc thăm dò cho thấy Philippe là ứng cử viên duy nhất có thể đánh bại họ. Cuộc bầu cử tổng thống Pháp đang trở nên ngày càng gay gắt với nhiều ứng cử viên đang cố gắng lôi kéo cử tri.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51177b14210f",
-      "title": "Meta settles social media addiction case with US school district",
-      "url": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T08:09:45.354536+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực học đường Mỹ",
-      "bullets": [
-        "Meta đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực học đường Mỹ",
-        "Vụ kiện được xem xét như một vụ thử nghiệm cho 1200 khu vực học đường khác",
-        "Khu vực học đường Mỹ đòi Meta phải chịu trách nhiệm về các vấn đề nghiện mạng xã hội",
-        "Meta phải thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội trong các khu vực học đường"
-      ],
-      "full_summary": "Meta đã đồng ý giải quyết vụ kiện về nghiện mạng xã hội với một khu vực học đường ở Mỹ. Vụ kiện này được xem xét như một vụ thử nghiệm cho 1200 khu vực học đường khác. Meta sẽ phải chịu trách nhiệm về các vấn đề nghiện mạng xã hội và thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội trong các khu vực học đường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e4dbbeba9e2",
-      "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
-      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T08:09:46.725941+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bác sĩ Mỹ nhiễm Ebola được chuyển đến Đức điều trị",
-      "bullets": [
-        "Chuyển bác sĩ Mỹ nhiễm Ebola đến Đức",
-        "Căng thẳng nổ ra do số ca nhiễm Ebola tăng nhanh",
-        "WHO cảnh báo về sự bùng phát của dịch bệnh",
-        "Số ca nhiễm và tử vong liên tục tăng"
-      ],
-      "full_summary": "Một bác sĩ Mỹ đã bị nhiễm Ebola tại Cộng hòa Dân chủ Congo và được chuyển đến Đức để điều trị. Ông cùng vợ và bốn đứa con đang được theo dõi vì có các triệu chứng nghi ngờ nhiễm Ebola. Tổ chức Y tế Thế giới đã cảnh báo về sự bùng phát nhanh chóng của dịch bệnh và số ca nhiễm và tử vong liên tục tăng. Dịch bệnh đã lan rộng vào các khu vực thành thị và được coi là một tình huống khẩn cấp về sức khỏe công cộng đòi hỏi sự phản ứng quốc tế.",
       "comments": 0,
       "score": 0
     }
