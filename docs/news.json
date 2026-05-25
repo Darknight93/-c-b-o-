@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-05-25T02:46:22.074494+00:00",
+  "updated_at": "2026-05-25T09:54:45.795052+00:00",
   "articles": [
+    {
+      "id": "812b68136a35",
+      "title": "Deal with US not imminent, Iran says",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T09:54:30.087363+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hoa Kỳ chưa sẵn sàng ký thỏa thuận với Iran",
+      "bullets": [
+        "Iran bác bỏ thông tin về một thỏa thuận sắp được công bố",
+        "Bộ trưởng Ngoại giao Iran nói rằng không có thỏa thuận nào được đàm phán",
+        "Cựu Bộ trưởng Ngoại giao Mỹ Antony Blinken dự đoán có thể có thỏa thuận vào thứ Hai",
+        "Thỏa thuận này sẽ giúp Iran giảm dần hoạt động hạt nhân"
+      ],
+      "full_summary": "Bộ trưởng Ngoại giao Iran đã bác bỏ thông tin về một thỏa thuận sắp được công bố giữa Iran và Hoa Kỳ. Ông nói rằng không có thỏa thuận nào được đàm phán và Hoa Kỳ chưa sẵn sàng ký kết. Cựu Bộ trưởng Ngoại giao Mỹ Antony Blinken dự đoán có thể có thỏa thuận vào thứ Hai. Thỏa thuận này sẽ giúp Iran giảm dần hoạt động hạt nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5721ff9d0137",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T09:54:31.127862+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Giá dầu giảm do kỳ vọng về thỏa thuận hòa bình Mỹ - Iran",
+      "bullets": [
+        "Giá dầu giảm mạnh trên thị trường toàn cầu",
+        "Thỏa thuận hòa bình Mỹ - Iran được kỳ vọng sẽ giúp ổn định tình hình",
+        "Đường biển Hormuz sẽ được mở lại nếu thỏa thuận đạt được",
+        "Chính sách của Mỹ đối với Iran đang có nhiều thay đổi"
+      ],
+      "full_summary": "Giá dầu thế giới đã giảm mạnh do kỳ vọng về một thỏa thuận hòa bình giữa Mỹ và Iran. Tổng thống Mỹ Donald Trump đã tuyên bố rằng thỏa thuận sẽ bao gồm việc mở lại đường biển Hormuz. Điều này đã giúp giảm căng thẳng trên thị trường dầu mỏ. Tuy nhiên, vẫn chưa rõ ràng về chi tiết của thỏa thuận này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53aac785cada",
+      "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
+      "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T09:54:32.105659+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Máy bay RAF bị chặn tín hiệu gần biên giới Nga",
+      "bullets": [
+        "Bị chặn tín hiệu GPS, phi công phải sử dụng hệ thống định vị khác",
+        "Máy bay đang chở Bộ trưởng Quốc phòng Anh",
+        "Tín hiệu bị chặn gần biên giới Nga",
+        "Phi công đã sử dụng hệ thống định vị dự phòng"
+      ],
+      "full_summary": "Một máy bay RAF đang chở Bộ trưởng Quốc phòng Anh đã bị chặn tín hiệu GPS gần biên giới Nga. Điều này khiến phi công phải sử dụng hệ thống định vị dự phòng. Hiện chưa rõ nguyên nhân dẫn đến việc chặn tín hiệu. Sự việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0442f48338ac",
+      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T09:54:34.115427+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hệ thống hỗ trợ của Destiny 2 sắp kết thúc",
+      "bullets": [
+        "Bungie sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6",
+        "Hệ thống sẽ vẫn còn hoạt động sau khi cập nhật cuối cùng",
+        "Người dùng đang phản ứng với tin tức này",
+        "Destiny 2 sẽ không còn hỗ trợ sau khi cập nhật cuối cùng"
+      ],
+      "full_summary": "Hệ thống hỗ trợ của trò chơi điện tử Destiny 2 sắp kết thúc. Bungie, nhà phát triển trò chơi, đã thông báo rằng sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6. Mặc dù trò chơi sẽ vẫn còn hoạt động, nhưng người dùng sẽ không còn nhận được hỗ trợ từ nhà phát triển. Người dùng đang phản ứng với tin tức này và lo ngại về tương lai của trò chơi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "af0d52007dbe",
+      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T09:54:35.081465+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "SpaceX hoãn phóng Starship trước đợt phát hành cổ phiếu lớn",
+      "bullets": [
+        "SpaceX hoãn phóng Starship",
+        "Công ty tiết lộ kế hoạch IPO lớn nhất lịch sử",
+        "Đợt phát hành cổ phiếu sẽ giúp SpaceX tăng vốn",
+        "Kế hoạch phóng Starship sẽ được công bố sau"
+      ],
+      "full_summary": "SpaceX đã hoãn phóng Starship, chỉ một ngày sau khi công bố kế hoạch IPO lớn nhất lịch sử. Đợt phát hành cổ phiếu này sẽ giúp SpaceX tăng vốn và hỗ trợ cho các dự án tương lai. Kế hoạch phóng Starship sẽ được công bố sau khi đợt phát hành cổ phiếu hoàn thành.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b5102ca2336",
+      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T09:54:36.106708+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "TikTok và YouTube không an toàn cho trẻ em, theo Ofcom",
+      "bullets": [
+        "TikTok và YouTube không đáp ứng đủ tiêu chuẩn an toàn cho trẻ em",
+        "Ofcom chỉ trích hai nền tảng này vì thiếu sự bảo vệ",
+        "TikTok và YouTube phản hồi với các biện pháp an toàn riêng",
+        "Các chuyên gia cho rằng cần có biện pháp mạnh mẽ hơn"
+      ],
+      "full_summary": "Tổ chức truyền thông Ofcom đã tuyên bố rằng TikTok và YouTube không an toàn cho trẻ em. Cả hai nền tảng này đều phản hồi rằng họ đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp. Tuy nhiên, Ofcom cho rằng các biện pháp an toàn của họ không đủ mạnh mẽ. Các chuyên gia cũng đồng ý rằng cần có biện pháp mạnh mẽ hơn để bảo vệ trẻ em.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "682c1693ed3c",
+      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T09:54:37.273430+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cặp đôi Botswana kiện để hợp pháp hóa hôn nhân đồng tính",
+      "bullets": [
+        "Cặp đôi Bonolo Selelo và Tsholofelo Kumile kiện tòa án để được phép kết hôn",
+        "Họ gặp nhau tại sự kiện Gaborone Pride năm 2023 và bắt đầu sống chung",
+        "Selelo đề nghị Kumile kết hôn vào năm 2024, nhưng bị từ chối bởi cơ quan chính phủ",
+        "Cặp đôi đang đối mặt với sự phản đối mạnh mẽ từ các tổ chức tôn giáo"
+      ],
+      "full_summary": "Cặp đôi Bonolo Selelo và Tsholofelo Kumile đang kiện tòa án để được phép kết hôn ở Botswana. Họ gặp nhau tại sự kiện Gaborone Pride năm 2023 và bắt đầu sống chung. Sau đó, Selelo đề nghị Kumile kết hôn vào năm 2024, nhưng bị từ chối bởi cơ quan chính phủ. Cặp đôi đang đối mặt với sự phản đối mạnh mẽ từ các tổ chức tôn giáo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fd521ef07a6e",
+      "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
+      "url": "https://www.atlasobscura.com/articles/blankets-summer-hot",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-25T09:54:41.477880+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Chúng ta ngủ dưới chăn dù đêm hè nóng bức",
+      "bullets": [
+        "Nghiên cứu cho thấy, nhiệt độ cơ thể không giảm khi ngủ dưới chăn",
+        "Chăn giúp ngăn chặn sự mất nhiệt qua da",
+        "Nhiệt độ môi trường không ảnh hưởng đến việc sử dụng chăn"
+      ],
+      "full_summary": "Nghiên cứu cho thấy, chúng ta vẫn ngủ dưới chăn dù đêm hè nóng bức vì nhiệt độ cơ thể không giảm khi ngủ dưới chăn. Chăn giúp ngăn chặn sự mất nhiệt qua da, dù nhiệt độ môi trường có cao đến đâu. Điều này cho thấy, chăn không chỉ giúp giữ ấm vào mùa đông mà còn giúp duy trì nhiệt độ cơ thể vào mùa hè.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b11e8066d1ed",
       "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
@@ -629,165 +788,6 @@
         "Vụ việc đang được điều tra"
       ],
       "full_summary": "Một người đàn ông đã mở lửa tại một trạm kiểm soát gần Nhà Trắng và bắn vào lực lượng an ninh. Một người dân bị thương trong vụ bắn. Lực lượng an ninh đã bắn hạ nghi phạm và vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4c35b87fd956",
-      "title": "Four dead and dozens injured in wave of Russian strikes on Kyiv",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T08:21:25.459684+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nhiều người thương vong sau loạt tấn công của Nga tại Kiev",
-      "bullets": [
-        "Hơn 50 người bị thương, bao gồm 3 trẻ em",
-        "Nguy cơ thương vong cao ở Kiev và khu vực lân cận",
-        "Tấn công của Nga gây thiệt hại lớn",
-        "Cảnh báo về tình hình an ninh tại Ukraine"
-      ],
-      "full_summary": "Một loạt tấn công của Nga đã khiến 4 người chết và hơn 50 người bị thương, bao gồm 3 trẻ em. Tấn công đã gây thiệt hại lớn ở Kiev và khu vực lân cận. Cảnh báo về tình hình an ninh tại Ukraine đang được đưa ra. Các quan chức đã lên án các hành động của Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1998b4ccecdf",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T08:21:26.517155+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông 39 tuổi bị tấn công bởi cá mập ở bờ biển phía đông bắc Úc",
-      "bullets": [
-        "Một người đàn ông 39 tuổi bị thương nặng khi bơi ở một bãi đá ngoài khơi bờ biển Cassowary ở Queensland.",
-        "Cá mập tấn công người đàn ông khi anh ta đang bơi ở khu vực này.",
-        "Người đàn ông đã tử vong sau vụ tấn công.",
-        "Vụ việc đang được điều tra."
-      ],
-      "full_summary": "Một người đàn ông 39 tuổi đã tử vong sau khi bị tấn công bởi cá mập ở bờ biển phía đông bắc Úc. Vụ việc xảy ra khi người đàn ông đang bơi ở một bãi đá ngoài khơi bờ biển Cassowary ở Queensland. Cá mập tấn công người đàn ông và gây thương tích nặng. Người đàn ông đã tử vong sau đó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a97ef32fe876",
-      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
-      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T08:21:27.524334+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nạn đói được sử dụng như một công cụ chiến tranh",
-      "bullets": [
-        "Có hơn 20.000 vụ tấn công vào chợ, ruộng đất và hệ thống phân phối thực phẩm kể từ năm 2018",
-        "Hơn 1.261 vụ tấn công vào chợ nơi gia đình mua thực phẩm hàng ngày",
-        "863 vụ tấn công vào hệ thống phân phối thực phẩm và làm chết người lao động"
-      ],
-      "full_summary": "Theo phân tích mới, nạn đói đang được sử dụng ngày càng nhiều như một công cụ chiến tranh. Trong 8 năm qua, có hơn 20.000 vụ tấn công vào chợ, ruộng đất và hệ thống phân phối thực phẩm. Những vụ tấn công này đã gây ra thiệt hại nghiêm trọng cho người dân và nền kinh tế. Nạn đói đang trở thành một vấn đề nghiêm trọng trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2b9e0bd7b3a8",
-      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
-      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T08:21:28.587813+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Sự bùng phát Ebola ở DRC tăng nhanh, nguy cơ rất cao",
-      "bullets": [
-        "Tăng gấp ba số trường hợp nghi ngờ Ebola trong một tuần",
-        "WHO cảnh báo về sự lan rộng nhanh chóng của bệnh",
-        "Số trường hợp nghi ngờ và tử vong do Ebola tăng lên 750 và 177",
-        "Cơ quan y tế gặp khó khăn do cắt giảm viện trợ và sự không tin tưởng của cộng đồng"
-      ],
-      "full_summary": "WHO đã nâng cấp nguy cơ bùng phát Ebola ở Cộng hòa Dân chủ Congo lên 'rất cao'. Số trường hợp nghi ngờ và tử vong do Ebola tăng lên 750 và 177, lần lượt tăng gấp ba và hai lần so với tuần trước. Các nhà lãnh đạo WHO cho biết sự bùng phát đang lan rộng nhanh chóng và gặp khó khăn do cắt giảm viện trợ và sự không tin tưởng của cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ca15923f304",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T08:21:29.700916+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hộ chiếu của Kilmar Ábrego bị hủy bỏ",
-      "bullets": [
-        "Hộ chiếu của Kilmar Ábrego bị hủy bỏ",
-        "Tòa án Mỹ đã hủy bỏ cáo trạng hình sự",
-        "Ábrego bị giam giữ tại Cecot, một nhà tù nổi tiếng ở El Salvador",
-        "Trump không truy tố Ábrego nếu ông ta không kháng cáo"
-      ],
-      "full_summary": "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự đối với Kilmar Ábrego García vào ngày 22 tháng 5. Ábrego đã trở thành biểu tượng của chính sách trục xuất hàng loạt của chính quyền Trump khi ông ta bị giam giữ tại nhà tù Cecot ở El Salvador vào tháng 3 năm 2025. Ông ta đã bị giam giữ vì đã nhập cảnh vào Mỹ mà không có giấy phép. Thẩm phán cho rằng chính quyền Trump không sẽ truy tố Ábrego nếu ông ta không kháng cáo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "722666ff1f7f",
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-24T08:21:34.586558+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft mở mã nguồn sớm nhất của DOS từng được phát hiện",
-      "bullets": [
-        "Microsoft đã mở mã nguồn sớm nhất của DOS từng được phát hiện",
-        "Mã nguồn này được phát hiện vào tháng 4",
-        "Mã nguồn sẽ giúp các nhà phát triển hiểu rõ hơn về lịch sử của DOS",
-        "Mã nguồn có thể được sử dụng để phát triển các ứng dụng cũ"
-      ],
-      "full_summary": "Microsoft đã mở mã nguồn sớm nhất của DOS từng được phát hiện, giúp các nhà phát triển hiểu rõ hơn về lịch sử của hệ điều hành này. Mã nguồn này được phát hiện vào tháng 4 và sẽ được sử dụng để phát triển các ứng dụng cũ. Đây là một bước tiến quan trọng trong việc bảo tồn lịch sử công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb0263dd4e64",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T02:37:35.294570+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump tuyên bố thỏa thuận Iran đã được thảo luận gần như hoàn thành",
-      "bullets": [
-        "Trump tuyên bố thỏa thuận Iran đã được thảo luận gần như hoàn thành",
-        "Tehran cho biết tiến triển trong đàm phán nhưng vấn đề hạt nhân không phải là phần chính của khung thỏa thuận",
-        "Hạm đội Iran cảnh báo sẽ đóng Strait of Hormuz nếu Mỹ áp đặt lệnh cấm vận",
-        "Thỏa thuận Iran vẫn chưa được công bố chính thức"
-      ],
-      "full_summary": "Trung tâm ngoại giao của Iran cho biết tiến triển trong đàm phán với Mỹ nhưng nhấn mạnh vấn đề hạt nhân không phải là phần chính của khung thỏa thuận hiện tại. Trong khi đó, Tổng thống Trump tuyên bố thỏa thuận Iran đã được thảo luận gần như hoàn thành, bao gồm việc mở lại eo biển Hormuz. Tuy nhiên, vẫn chưa có thông tin chính thức về thỏa thuận này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94ff1461b375",
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T02:37:36.196578+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nổ súng ở Luhansk khiến 18 người thiệt mạng",
-      "bullets": [
-        "18 người chết và 42 người bị thương trong vụ tấn công",
-        "Tấn công xảy ra ở thị trấn bị Nga chiếm ở đông Ukraine",
-        "Nga cáo buộc Ukraine tấn công và cam kết sẽ đáp trả",
-        "Tình hình ở Ukraine đang trở nên căng thẳng hơn"
-      ],
-      "full_summary": "Một vụ tấn công đã xảy ra ở thị trấn Luhansk ở đông Ukraine, khiến 18 người chết và 42 người bị thương. Nga cáo buộc Ukraine là thủ phạm và cam kết sẽ đáp trả. Tình hình ở Ukraine đang trở nên căng thẳng hơn, với nhiều người dân lo ngại về sự an toàn của mình.",
       "comments": 0,
       "score": 0
     }
