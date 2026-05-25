@@ -1,6 +1,244 @@
 {
-  "updated_at": "2026-05-24T19:07:24.843906+00:00",
+  "updated_at": "2026-05-25T02:46:22.074494+00:00",
   "articles": [
+    {
+      "id": "b11e8066d1ed",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:05.421341+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump ngăn chặn Mỹ đàm phán nhanh chóng với Iran",
+      "bullets": [
+        "Trump cảnh báo các đại diện Mỹ không nên đàm phán nhanh chóng với Iran",
+        "Hai bên đang thảo luận về một thỏa thuận ngừng bắn 60 ngày",
+        "Thỏa thuận này sẽ mở lại eo biển Hormuz",
+        "Mục tiêu là ngăn chặn xung đột giữa Iran và Mỹ"
+      ],
+      "full_summary": "Theo BBC, Tổng thống Mỹ Donald Trump đã cảnh báo các đại diện Mỹ không nên đàm phán nhanh chóng với Iran. Hai bên đang thảo luận về một thỏa thuận ngừng bắn 60 ngày, trong đó sẽ mở lại eo biển Hormuz. Mục tiêu của thỏa thuận này là ngăn chặn xung đột giữa Iran và Mỹ. Tuy nhiên, chi tiết cụ thể của thỏa thuận vẫn chưa được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "82a6f228ed1a",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:06.507080+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ sinh bị cấm học bị buộc kết hôn ở đất nước cấm giáo dục nữ",
+      "bullets": [
+        "Bị ép buộc kết hôn, một nữ sinh đã trốn thoát khỏi đất nước",
+        "Hơn 5 năm sau khi cấm học, phụ nữ trẻ nói họ đã nói lời tạm biệt với giấc mơ",
+        "Nhiều phụ nữ trẻ ở Afghanistan đã bị cấm tham gia giáo dục",
+        "Cấm học đã khiến phụ nữ trẻ mất cơ hội phát triển và tự do"
+      ],
+      "full_summary": "Hơn 5 năm sau khi cấm học, phụ nữ trẻ ở Afghanistan nói họ đã nói lời tạm biệt với giấc mơ. Nhiều nữ sinh đã bị ép buộc kết hôn và bị cấm tham gia giáo dục. Một nữ sinh đã trốn thoát khỏi đất nước để tránh cuộc hôn nhân không mong muốn. Cấm học đã khiến phụ nữ trẻ mất cơ hội phát triển và tự do.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0cc59dd39daf",
+      "title": "Ebola outbreak poses massive challenges, warns nurse",
+      "url": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:07.466669+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Cúm Ebola ở Cộng hòa Dân chủ Congo gây ra nhiều thách thức",
+      "bullets": [
+        "Căng thẳng về nguồn lực để đối phó với dịch cúm Ebola đang gia tăng",
+        "Nhiều nhân viên y tế đang gặp khó khăn trong việc tiếp cận các thiết bị bảo hộ",
+        "Số ca nhiễm và tử vong liên tục tăng ở Cộng hòa Dân chủ Congo"
+      ],
+      "full_summary": "Một bác sĩ tại Cộng hòa Dân chủ Congo cảnh báo về tình trạng thiếu nguồn lực để đối phó với dịch cúm Ebola. Bác sĩ Kate White cho biết cô đang rất lo lắng về khả năng không thể tiếp cận được các nguồn lực cần thiết. Số ca nhiễm và tử vong liên tục tăng ở Cộng hòa Dân chủ Congo, gây ra nhiều thách thức cho các nhân viên y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9ae9c81e990a",
+      "title": "Love factually: Dating start-ups promise to cut the cheats",
+      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:08.413052+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các ứng dụng hẹn hò mới hứa hẹn loại bỏ những người giả mạo",
+      "bullets": [
+        "Giới thiệu các ứng dụng hẹn hò mới với các phương pháp khác nhau",
+        "Mục tiêu giảm thiểu số lượng hồ sơ giả mạo trên các ứng dụng hẹn hò",
+        "Sử dụng các công nghệ mới để xác minh danh tính người dùng",
+        "Tạo môi trường hẹn hò an toàn hơn cho người dùng"
+      ],
+      "full_summary": "Frustration với hồ sơ giả mạo trên các ứng dụng hẹn hò đã thúc đẩy sự ra đời của các dịch vụ hẹn hò mới với các phương pháp khác nhau. Các ứng dụng này hứa hẹn sẽ loại bỏ những người giả mạo và tạo môi trường hẹn hò an toàn hơn cho người dùng. Các công nghệ mới được sử dụng để xác minh danh tính người dùng và giảm thiểu số lượng hồ sơ giả mạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d689050cb468",
+      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
+      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:09.550605+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cảnh sát Anh đề nghị chặn mạng xã hội không an toàn cho trẻ em dưới 16 tuổi",
+      "bullets": [
+        "Cảnh sát Anh đề nghị chặn trẻ em dưới 16 tuổi truy cập mạng xã hội không an toàn",
+        "Các nền tảng mạng xã hội không ngăn chặn trẻ em xem ảnh nhạy cảm",
+        "Trẻ em dưới 16 tuổi có nguy cơ bị liên hệ bởi người lạ",
+        "Cảnh sát Anh đề nghị các nền tảng mạng xã hội phải tăng cường an toàn cho trẻ em"
+      ],
+      "full_summary": "Cảnh sát Anh đề nghị chặn trẻ em dưới 16 tuổi truy cập mạng xã hội không an toàn. Theo cảnh sát, các nền tảng mạng xã hội không ngăn chặn trẻ em xem ảnh nhạy cảm và có nguy cơ bị liên hệ bởi người lạ. Cảnh sát Anh đề nghị các nền tảng mạng xã hội phải tăng cường an toàn cho trẻ em. Điều này nhằm ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7dff07b63555",
+      "title": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
+      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:10.630458+00:00",
+      "category": "khác",
+      "importance": 4,
+      "headline": "Số trường hợp nghi ngờ Ebola ở Cộng hòa Dân chủ Congo vượt qua 900",
+      "bullets": [
+        "Cộng hòa Dân chủ Congo báo cáo 904 trường hợp nghi ngờ Ebola và 119 trường hợp tử vong",
+        "Các nhân viên y tế đối mặt với các cuộc tấn công và thiếu hụt thiết bị",
+        "WHO đánh giá nguy cơ bùng phát dịch bệnh ở Congo là 'rất cao'"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đã báo cáo 904 trường hợp nghi ngờ Ebola và 119 trường hợp tử vong trong đợt bùng phát dịch bệnh ở phía đông nước này. Các nhân viên y tế đang đối mặt với các cuộc tấn công và thiếu hụt thiết bị. Tổ chức Y tế Thế giới (WHO) đánh giá nguy cơ bùng phát dịch bệnh ở Congo là 'rất cao', nhưng nguy cơ dịch bệnh lan rộng ra toàn cầu vẫn còn thấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "205764ca9b96",
+      "title": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
+      "url": "https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:11.629950+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Côte d'Ivoire lo ngại về mối đe dọa khủng bố Hồi giáo",
+      "bullets": [
+        "Côte d'Ivoire lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso",
+        "Mối đe dọa này vẫn còn hiện hữu sau 10 năm kể từ cuộc tấn công lớn vào năm 2016",
+        "Nạn nhân của cuộc tấn công đã nhớ lại những ký ức đau đớn và tìm kiếm sự hỗ trợ",
+        "Nhiều người dân Côte d'Ivoire đang tìm kiếm sự ổn định và an ninh"
+      ],
+      "full_summary": "Côte d'Ivoire đang lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso. Mối đe dọa này vẫn còn hiện hữu sau 10 năm kể từ cuộc tấn công lớn vào năm 2016. Nạn nhân của cuộc tấn công đã nhớ lại những ký ức đau đớn và tìm kiếm sự hỗ trợ. Nhiều người dân Côte d'Ivoire đang tìm kiếm sự ổn định và an ninh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4c7c9220ad14",
+      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T02:46:12.891603+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Canada chuyển người tị nạn sang ICE, bị giam giữ",
+      "bullets": [
+        "Căng thẳng quy định tị nạn Canada khiến người tị nạn bị từ chối",
+        "Bị chuyển sang ICE, bị giam giữ nhiều tháng",
+        "Nhiều người tị nạn bị từ chối xin tị nạn ở biên giới",
+        "Cơ quan quản lý nhập cư Mỹ (ICE) giam giữ những người này"
+      ],
+      "full_summary": "Canada đang tăng cường quy định tị nạn, khiến nhiều người tị nạn bị từ chối. Những người này sau đó bị chuyển sang cơ quan quản lý nhập cư Mỹ (ICE) và bị giam giữ nhiều tháng. Một số người tị nạn đã bị từ chối xin tị nạn ở biên giới và bị chuyển sang ICE. Họ đang hy vọng sẽ được thả ra và được đoàn tụ với gia đình ở Montreal.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "55e14c9a2ed5",
+      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+      "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-25T02:46:13.794379+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "SpaceX Starship V3 có thành công đáng kể trong chuyến bay đầu tiên",
+      "bullets": [
+        "Thử nghiệm thành công với hệ thống động lực và điều khiển",
+        "Cần cải thiện hệ thống hạ cánh và hệ thống nhiên liệu",
+        "Đã đạt được mục tiêu bay cao hơn 10 km",
+        "Còn nhiều thử nghiệm để hoàn thiện Starship"
+      ],
+      "full_summary": "Chuyến bay đầu tiên của Starship V3 của SpaceX đã đạt được thành công đáng kể, nhưng vẫn còn nhiều thử nghiệm để hoàn thiện hệ thống. Mặc dù đã đạt được mục tiêu bay cao hơn 10 km, hệ thống hạ cánh và hệ thống nhiên liệu vẫn cần cải thiện. SpaceX sẽ tiếp tục thử nghiệm để hoàn thiện Starship trước khi đưa nó vào sử dụng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "95214c72365a",
+      "title": "First-generation Chromecast users stressed by devices suddenly failing",
+      "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-25T02:46:14.889247+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chromecast đầu tiên gặp vấn đề, Google đã sửa lỗi",
+      "bullets": [
+        "Google xác nhận đã sửa lỗi Chromecast đầu tiên",
+        "Chromecast đầu tiên gặp vấn đề sau nhiều năm hoạt động",
+        "Người dùng lo lắng khi thiết bị của họ đột ngột bị lỗi",
+        "Google đảm bảo rằng vấn đề đã được giải quyết"
+      ],
+      "full_summary": "Google đã xác nhận rằng họ đã sửa lỗi Chromecast đầu tiên sau khi nhiều người dùng báo cáo rằng thiết bị của họ đột ngột bị lỗi. Lỗi này đã ảnh hưởng đến những người dùng Chromecast đầu tiên sau nhiều năm hoạt động. Google đã đảm bảo rằng vấn đề đã được giải quyết và người dùng có thể sử dụng thiết bị của mình một cách bình thường. Người dùng lo lắng khi thiết bị của họ bị lỗi, nhưng giờ đây họ có thể yên tâm sử dụng Chromecast của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "26e7c487f9f9",
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-25T02:46:17.015396+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Chuyển đổi từ Go sang Rust: Hướng dẫn toàn diện",
+      "bullets": [
+        "Xác định các phần của mã nguồn và chuyển đổi chúng sang Rust",
+        "Thay thế các thư viện và framework Go bằng các phiên bản tương ứng của Rust",
+        "Kiểm tra và sửa lỗi các vấn đề về hiệu suất và bảo mật",
+        "Tối ưu hóa mã nguồn Rust để đạt được hiệu suất tối đa"
+      ],
+      "full_summary": "Một hướng dẫn toàn diện về việc chuyển đổi từ Go sang Rust, bao gồm việc xác định các phần của mã nguồn, thay thế các thư viện và framework, kiểm tra và sửa lỗi, cũng như tối ưu hóa mã nguồn để đạt được hiệu suất tối đa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c7e88b1bb8a",
+      "title": "Vanishing tongues and life on Mars: Books in brief",
+      "url": "https://www.nature.com/articles/d41586-026-01655-w",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-25T02:46:21.010277+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Tìm hiểu về các ngôn ngữ đang biến mất và cuộc sống trên sao Hỏa",
+      "bullets": [
+        "Tìm hiểu về 5 cuốn sách khoa học hàng đầu",
+        "Xây dựng một bức tranh về cuộc sống trên sao Hỏa",
+        "Khám phá các ngôn ngữ đang biến mất trên Trái Đất",
+        "Tìm hiểu về các phát hiện khoa học mới nhất"
+      ],
+      "full_summary": "Andrew Robinson đã đánh giá 5 cuốn sách khoa học hàng đầu, bao gồm các cuốn sách về ngôn ngữ đang biến mất và cuộc sống trên sao Hỏa. Các cuốn sách này cung cấp thông tin sâu sắc về các chủ đề này và giúp người đọc hiểu rõ hơn về thế giới xung quanh chúng ta. Cuốn sách này là một nguồn tài liệu quý giá cho những ai quan tâm đến khoa học và công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f606738dd68d",
       "title": "Turkish riot police storm opposition offices after leaders ousted",
@@ -550,242 +788,6 @@
         "Tình hình ở Ukraine đang trở nên căng thẳng hơn"
       ],
       "full_summary": "Một vụ tấn công đã xảy ra ở thị trấn Luhansk ở đông Ukraine, khiến 18 người chết và 42 người bị thương. Nga cáo buộc Ukraine là thủ phạm và cam kết sẽ đáp trả. Tình hình ở Ukraine đang trở nên căng thẳng hơn, với nhiều người dân lo ngại về sự an toàn của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6fcef1e969da",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T02:37:37.143440+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tôi sống sót sau vụ tấn công tên lửa tại eo biển Hormuz",
-      "bullets": [
-        "Tôi được cứu sống sau khi tàu Skylight bị tấn công tên lửa",
-        "Tôi đang làm việc trên tàu Skylight trong chuyến công tác đầu tiên",
-        "Bạn tôi vẫn chưa được tìm thấy sau vụ tấn công",
-        "Vụ tấn công xảy ra vào đầu chiến tranh Iran"
-      ],
-      "full_summary": "Sunil Puniya là một thủy thủ trên tàu Skylight khi nó bị tấn công tên lửa tại eo biển Hormuz vào đầu chiến tranh Iran. Anh đã sống sót sau vụ tấn công nhưng bạn của anh vẫn chưa được tìm thấy. Sunil đang làm việc trên tàu Skylight trong chuyến công tác đầu tiên. Vụ tấn công đã gây ra nhiều thiệt hại cho tàu và thủy thủ đoàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6e3dbdf0d8e2",
-      "title": "F1 great Prost 'injured as masked gang raid home'",
-      "url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T02:37:38.055075+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cựu vận động viên F1 Alain Prost bị thương trong vụ cướp",
-      "bullets": [
-        "Cướp bóc nhà của Alain Prost",
-        "Cựu tay đua F1 bị thương",
-        "Vụ việc xảy ra gần Geneva, Thụy Sĩ"
-      ],
-      "full_summary": "Cựu tay đua F1 bốn lần vô địch thế giới Alain Prost bị thương trong một vụ cướp bóc tại nhà của mình gần Geneva, Thụy Sĩ. Theo báo chí Thụy Sĩ, một nhóm trộm cắp mặt nạ đã xông vào nhà của Prost. Vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ccfde19f9a9d",
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T02:37:39.232406+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Waymo tạm dừng dịch vụ taxi tự lái do xe lội qua đường ngập",
-      "bullets": [
-        "Tạm dừng dịch vụ taxi tự lái ở 5 thành phố Mỹ",
-        "Lý do: xe tự lái lội qua đường ngập",
-        "Waymo tăng cường cảnh giác để đảm bảo an toàn",
-        "Động thái này nhằm tránh tai nạn đáng tiếc"
-      ],
-      "full_summary": "Waymo, công ty dẫn đầu trong lĩnh vực xe tự lái, đã tạm dừng dịch vụ taxi tự lái ở 5 thành phố Mỹ sau khi xe tự lái của họ lội qua đường ngập. Theo một người đại diện của Waymo, công ty đã tăng cường cảnh giác để đảm bảo an toàn. Động thái này nhằm tránh tai nạn đáng tiếc. Việc tạm dừng dịch vụ này có thể ảnh hưởng đến khách hàng đang sử dụng dịch vụ taxi tự lái của Waymo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af0d52007dbe",
-      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T02:37:40.149151+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "SpaceX hoãn phóng Starship trước khi niêm yết cổ phiếu",
-      "bullets": [
-        "SpaceX hoãn phóng Starship",
-        "Firm chuẩn bị niêm yết cổ phiếu trên thị trường",
-        "Niêm yết cổ phiếu sẽ là lần đầu tiên trong lịch sử",
-        "Lần niêm yết này có thể trở thành kỷ lục"
-      ],
-      "full_summary": "SpaceX đã hoãn phóng Starship chỉ một ngày sau khi công bố kế hoạch niêm yết cổ phiếu trên thị trường. Đây có thể trở thành lần niêm yết cổ phiếu lớn nhất trong lịch sử. Việc hoãn phóng Starship sẽ ảnh hưởng đến kế hoạch của SpaceX.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b5102ca2336",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T02:37:41.117280+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "TikTok và YouTube không an toàn cho trẻ em, theo Ofcom",
-      "bullets": [
-        "Ofcom cho rằng TikTok và YouTube không đủ an toàn cho trẻ em.",
-        "TikTok cho biết họ thất vọng vì Ofcom không công nhận các tính năng an toàn của họ.",
-        "YouTube cho biết họ đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp cho trẻ em.",
-        "Các nền tảng này đang bị chỉ trích vì không bảo vệ trẻ em khỏi nội dung không phù hợp."
-      ],
-      "full_summary": "Tổ chức truyền thông Ofcom đã phát biểu rằng TikTok và YouTube không an toàn cho trẻ em. Các nền tảng này đã phản ứng bằng cách cho biết họ đã thực hiện các biện pháp để bảo vệ trẻ em. Tuy nhiên, Ofcom cho rằng các biện pháp này không đủ để bảo vệ trẻ em khỏi nội dung không phù hợp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1c7074fa99b",
-      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-24T02:37:42.605411+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "FCC yêu cầu công chúng bình luận về tính chất tin tức của chương trình The View",
-      "bullets": [
-        "FCC đề nghị công chúng đánh giá chương trình The View dựa trên tính mới mẻ của nội dung",
-        "Chương trình này được coi là chương trình tin tức hay chương trình giải trí",
-        "FCC đang tìm kiếm ý kiến của công chúng về tính chất tin tức của chương trình"
-      ],
-      "full_summary": "FCC Mỹ đang yêu cầu công chúng bình luận về tính chất tin tức của chương trình The View trên kênh ABC. Chương trình này thường được coi là chương trình giải trí nhưng cũng có nội dung liên quan đến tin tức. FCC đang tìm kiếm ý kiến của công chúng để đánh giá tính chất tin tức của chương trình này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "316215f7caae",
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-24T02:37:45.251016+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một cuộc tấn công mạng lớn đã xảy ra",
-      "bullets": [
-        "Một trang web bị xâm phạm và chứa mã độc",
-        "Mục tiêu của cuộc tấn công vẫn chưa được xác định rõ",
-        "Các chuyên gia đang cố gắng phân tích và ngăn chặn cuộc tấn công"
-      ],
-      "full_summary": "Một cuộc tấn công mạng lớn đã xảy ra trên một trang web, khiến trang web bị xâm phạm và chứa mã độc. Mục tiêu của cuộc tấn công vẫn chưa được xác định rõ, nhưng các chuyên gia đang cố gắng phân tích và ngăn chặn cuộc tấn công. Cuộc tấn công này đã thu hút sự chú ý của cộng đồng Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5054d004ae19",
-      "title": "Major Ebola outbreak is escalating: what happens next",
-      "url": "https://www.nature.com/articles/d41586-026-01660-z",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-24T02:37:48.457743+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Bùng phát Ebola nghiêm trọng đang gia tăng",
-      "bullets": [
-        "Cơ quan y tế đang nỗ lực để kiểm soát sự bùng phát của virus Bundibugyo",
-        "Các chuyên gia đang nghiên cứu để tìm ra phương pháp điều trị hiệu quả",
-        "Hành động khẩn cấp đang được thực hiện để ngăn chặn sự lây lan của virus"
-      ],
-      "full_summary": "Một bùng phát Ebola nghiêm trọng đang gia tăng trên toàn cầu. Các cơ quan y tế đang nỗ lực để kiểm soát sự bùng phát của virus Bundibugyo. Các chuyên gia đang nghiên cứu để tìm ra phương pháp điều trị hiệu quả và ngăn chặn sự lây lan của virus. Hành động khẩn cấp đang được thực hiện để ngăn chặn sự lây lan của virus và bảo vệ sức khỏe cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7d47c7f13bce",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T19:04:04.145885+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bà Lan bị nghi nhiễm Ebola qua tình nguyện viên đỏ thắm",
-      "bullets": [
-        "Bị nghi nhiễm Ebola, 2 tình nguyện viên đỏ thắm vừa qua đời tại Cộng hòa Dân chủ Congo",
-        "Bà Lan nghi ngờ đã nhiễm Ebola trước khi bùng phát dịch",
-        "Red Cross cho biết tình nguyện viên đã tiếp xúc với bệnh nhân trước khi xác định được dịch",
-        "Cộng hòa Dân chủ Congo đang đối mặt với nguy cơ bùng phát dịch Ebola"
-      ],
-      "full_summary": "Bà Lan vừa thông báo 2 tình nguyện viên của họ đã qua đời vì nghi ngờ nhiễm Ebola tại Cộng hòa Dân chủ Congo. Theo Red Cross, 2 tình nguyện viên này đã bị nhiễm bệnh trước khi dịch được xác định. Điều này cho thấy nguy cơ bùng phát dịch Ebola tại Cộng hòa Dân chủ Congo đang gia tăng. Red Cross cho biết tình nguyện viên đã tiếp xúc với bệnh nhân trước khi xác định được dịch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0442f48338ac",
-      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
-      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T19:04:05.225520+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hệ thống hỗ trợ của Destiny 2 sẽ kết thúc vào tháng 6",
-      "bullets": [
-        "Bungie sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6",
-        "Người chơi vẫn có thể chơi trò chơi sau khi hỗ trợ kết thúc",
-        "Destiny 2 sẽ không còn nhận được bản vá lỗi hoặc bản cập nhật mới",
-        "Người hâm mộ đang phản ứng với tin tức này"
-      ],
-      "full_summary": "Bungie đã thông báo rằng hệ thống hỗ trợ của trò chơi bắn súng trực tuyến Destiny 2 sẽ kết thúc vào ngày 9 tháng 6. Mặc dù trò chơi vẫn sẽ có thể chơi được, nhưng nó sẽ không còn nhận được bản vá lỗi hoặc bản cập nhật mới. Người hâm mộ đang phản ứng với tin tức này, một số người cảm thấy thất vọng và không biết phải làm gì.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "56cf6f4e3a16",
-      "title": "White House pauses removal of detainees to the DRC as Ebola outbreak widens",
-      "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T19:04:07.207539+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Chính phủ Mỹ tạm dừng đưa tù nhân sang DRC do dịch Ebola",
-      "bullets": [
-        "Chính phủ Mỹ tạm dừng việc đưa tù nhân sang Cộng hòa Dân chủ Congo",
-        "Bất chấp lệnh của tòa án, một phụ nữ vẫn bị mắc kẹt ở Kinshasa",
-        "Cơ quan này cho rằng lệnh cấm di chuyển vì Ebola không ngăn chặn lây lan dịch bệnh",
-        "Các chuyên gia nói rằng biện pháp này không hiệu quả trong việc ngăn chặn dịch Ebola"
-      ],
-      "full_summary": "Chính phủ Mỹ đã quyết định tạm dừng việc đưa tù nhân sang Cộng hòa Dân chủ Congo (DRC) trong bối cảnh dịch Ebola đang lan rộng. Mặc dù vậy, các chuyên gia cho rằng biện pháp này không giúp ngăn chặn sự lây lan của dịch bệnh. Một phụ nữ đã bị mắc kẹt ở Kinshasa sau khi bị đưa đến đây và không được phép trở về do lệnh cấm di chuyển vì Ebola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "30b9c52a1c17",
-      "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
-      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-23T19:04:08.176249+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nỗi lo Ebola lan rộng nhanh chóng ở Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "Căng thẳng gia tăng khi các cơ sở y tế đầy người",
-        "Các nhóm cứu trợ và nhân viên y tế kêu gọi hành động quốc tế đồng bộ",
-        "Cơn bùng phát Ebola vượt quá số ca được xác nhận",
-        "Hệ thống y tế dễ vỡ của DRC đối mặt với thách thức"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo đang đối mặt với cơn bùng phát Ebola nghiêm trọng. Các cơ sở y tế đầy người, các nhóm cứu trợ và nhân viên y tế kêu gọi hành động quốc tế đồng bộ. Cơn bùng phát Ebola vượt quá số ca được xác nhận, khiến hệ thống y tế dễ vỡ của DRC đối mặt với thách thức.",
       "comments": 0,
       "score": 0
     }
