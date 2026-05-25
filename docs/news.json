@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-05-25T14:41:14.714940+00:00",
+  "updated_at": "2026-05-25T19:20:06.008240+00:00",
   "articles": [
+    {
+      "id": "af6e7b64aaf5",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T19:19:50.189032+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nga đe dọa tấn công Kyiv thêm và yêu cầu công dân nước ngoài rời khỏi",
+      "bullets": [
+        "Nga cảnh báo sẽ tấn công Kyiv nhiều hơn",
+        "Nga yêu cầu công dân nước ngoài rời khỏi Ukraine",
+        "Kyiv chịu đựng đợt tấn công không gian lớn nhất trong chiến tranh",
+        "Nga không công bố lý do tấn công Kyiv"
+      ],
+      "full_summary": "Nga cảnh báo sẽ tấn công Kyiv nhiều hơn sau khi thủ đô Ukraine chịu đựng đợt tấn công không gian lớn nhất trong chiến tranh. Nga yêu cầu công dân nước ngoài rời khỏi Ukraine. Lý do tấn công Kyiv vẫn chưa được công bố. Đây là một bước đi mới trong chiến tranh giữa Ukraine và Nga.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9cc22b21f6f",
+      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
+      "url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T19:19:51.196564+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tội phạm xâm nhập Lãnh sự quán Trắng từng chặn lối vào",
+      "bullets": [
+        "Tội phạm chặn lối vào Lãnh sự quán Trắng vào tháng 6 năm 2025",
+        "Tội phạm tuyên bố là Jesus Christ với các nhân viên An ninh Lãnh sự",
+        "Tội phạm có tiền sử vi phạm quy định An ninh Lãnh sự",
+        "Tội phạm bị bắt giữ sau vụ tấn công vào Lãnh sự quán Trắng"
+      ],
+      "full_summary": "Một tội phạm đã xâm nhập vào Lãnh sự quán Trắng và bị bắt giữ. Theo hồ sơ tòa án, tội phạm đã từng chặn lối vào Lãnh sự quán Trắng vào tháng 6 năm 2025 và tuyên bố là Jesus Christ với các nhân viên An ninh Lãnh sự. Điều này cho thấy tội phạm có tiền sử vi phạm quy định An ninh Lãnh sự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b51199df7333",
+      "title": "Three killed in Uganda after crashing into elephant",
+      "url": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T19:19:52.813213+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bốn người chết sau khi đâm vào voi trong công viên quốc gia Uganda",
+      "bullets": [
+        "Ba người chết và bốn người bị thương trong vụ tai nạn",
+        "Vụ việc xảy ra bên trong Công viên quốc gia Murchison Falls",
+        "Các quan chức cho biết vụ tai nạn nghiêm trọng",
+        "Công viên quốc gia là nơi bảo tồn động vật hoang dã"
+      ],
+      "full_summary": "Bốn người đã chết và bốn người bị thương sau khi chiếc xe đâm vào voi trong Công viên quốc gia Murchison Falls ở Uganda. Vụ tai nạn xảy ra vào ngày 24 tháng 5. Các quan chức cho biết vụ tai nạn nghiêm trọng và đang điều tra nguyên nhân. Công viên quốc gia là nơi bảo tồn động vật hoang dã và là một điểm du lịch nổi tiếng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6e9beefa1f75",
+      "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
+      "url": "https://www.bbc.com/news/articles/cm2ppv1r3xzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T19:19:54.403503+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Kem Sokha được ân xá sau 27 năm tù",
+      "bullets": [
+        "Kem Sokha được vua Campuchia ân xá sau 27 năm ngồi tù",
+        "Kem Sokha bị kết án vì tội phản quốc, nhưng nhiều người cho rằng là bị định tội chính trị",
+        "Kem Sokha từng là lãnh đạo đối lập của Campuchia",
+        "Kem Sokha được thả ra sau khi nhận được ân xá"
+      ],
+      "full_summary": "Kem Sokha, cựu lãnh đạo đối lập của Campuchia, đã được vua Campuchia ân xá sau 27 năm ngồi tù vì tội phản quốc. Kem Sokha từng bị kết án vì tội phản quốc, nhưng nhiều người cho rằng là bị định tội chính trị. Kem Sokha đã bị bắt giữ vào năm 2017 và bị kết án 27 năm tù. Việc ân xá của Kem Sokha được cho là một bước tiến quan trọng trong việc cải thiện tình hình chính trị của Campuchia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2db1282155c6",
+      "title": "'Blistering heat': Indians warned to stay indoors as temperatures soar",
+      "url": "https://www.bbc.com/news/videos/ckgppxw9239o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T19:19:55.414874+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiệt độ cao kỷ lục ở Ấn Độ, người dân được khuyên ở nhà",
+      "bullets": [
+        "Nhiệt độ ở Delhi đạt 45 độ C",
+        "Người dân Ấn Độ được khuyên ở nhà để tránh cái nóng",
+        "Nhiệt độ cao kỷ lục gây khó khăn cho cuộc sống hàng ngày",
+        "Các biện pháp phòng ngừa được đưa ra để giảm thiểu tác động của cái nóng"
+      ],
+      "full_summary": "Nhiệt độ cao kỷ lục đang ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày ở Ấn Độ. Nhiệt độ ở Delhi đã đạt 45 độ C, khiến cho việc ra ngoài trở nên khó khăn. Người dân Ấn Độ đang được khuyên ở nhà để tránh cái nóng và các biện pháp phòng ngừa được đưa ra để giảm thiểu tác động của cái nóng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b269aafacb7d",
+      "title": "AI may speed up search for drugs to treat brain conditions",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T19:19:56.348112+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Máy học có thể giúp tìm ra thuốc điều trị các tình trạng não hiệu quả",
+      "bullets": [
+        "Tìm kiếm thuốc điều trị bệnh MND có thể trở nên nhanh chóng hơn",
+        "Máy học sẽ giúp xác định thuốc hiệu quả và giá cả phải chăng",
+        "Nghiên cứu này hy vọng sẽ giúp tìm ra thuốc điều trị các tình trạng não khác",
+        "Máy học có thể giúp giảm chi phí và thời gian phát triển thuốc"
+      ],
+      "full_summary": "Các nhà nghiên cứu đang sử dụng máy học để tìm kiếm thuốc điều trị các tình trạng não như bệnh MND. Họ hy vọng rằng công việc này sẽ giúp xác định thuốc hiệu quả và giá cả phải chăng. Máy học có thể giúp giảm chi phí và thời gian phát triển thuốc, từ đó giúp nhiều người bệnh hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f34fe1af7ebc",
+      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
+      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T19:19:59.718759+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tù nhân Venezuela chiếm lĩnh mái nhà tù và đốt lò để phản đối bạo hành",
+      "bullets": [
+        "Tù nhân ở tù Barinas nổi loạn trên mái nhà tù",
+        "Tù nhân cáo buộc nhân viên tù bắn vào họ khi đang biểu tình",
+        "Tù nhân yêu cầu thay thế giám đốc tù",
+        "Tù nhân bị bắn và bị thương"
+      ],
+      "full_summary": "Tù nhân ở tù Barinas, Venezuela đã chiếm lĩnh mái nhà tù và đốt lò để phản đối bạo hành của nhân viên tù. Họ cáo buộc giám đốc tù đã cho phép nhân viên tù bắn vào họ khi đang biểu tình. Một số tù nhân bị bắn và bị thương. Họ yêu cầu thay thế giám đốc tù và đòi công lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e11991beabe7",
+      "title": "RentFlow (YC S24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-25T19:20:05.508072+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "RentFlow đang tuyển dụng chuyên gia AI/ML",
+      "bullets": [
+        "Tìm kiếm người có kinh nghiệm về AI và ML để dẫn dắt dự án",
+        "Dự án RentFlow thuộc Y Combinator, một chương trình hỗ trợ khởi nghiệp",
+        "Cơ hội làm việc với nhóm phát triển và đóng góp cho sự phát triển của công ty"
+      ],
+      "full_summary": "RentFlow, một công ty khởi nghiệp thuộc Y Combinator, đang tuyển dụng một chuyên gia AI/ML để dẫn dắt dự án. Dự án này nhằm phát triển các giải pháp công nghệ cho lĩnh vực cho thuê. Người được tuyển dụng sẽ có cơ hội làm việc với nhóm phát triển và đóng góp cho sự phát triển của công ty.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "4c35b87fd956",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
@@ -632,162 +791,6 @@
         "Công ty hỗ trợ Ukraine đang bị Nga nhắm vào"
       ],
       "full_summary": "Một công ty vệ tinh hỗ trợ Ukraine đang bị Nga nhắm vào. Theo thông tin mới, 4 vệ tinh Nga đã vào tầm bắn của radar vệ tinh ICEYE. Công nghệ này không phổ biến đối với vệ tinh thực hiện nhiệm vụ thông thường. Điều này cho thấy Nga đang có kế hoạch tấn công công ty vệ tinh này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6e4606abd7b0",
-      "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
-      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-24T19:07:15.964663+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Sốt xuất huyết Ebola lan rộng nhanh chóng",
-      "bullets": [
-        "Cộng đồng thế giới tăng nguy cơ lây nhiễm",
-        "Số ca mắc gần 750, tử vong 177",
-        "Sốt xuất huyết Ebola trở thành vụ bùng phát lớn thứ ba",
-        "Số ca mắc và tử vong tiếp tục tăng"
-      ],
-      "full_summary": "Sốt xuất huyết Ebola đang lan rộng nhanh chóng trên thế giới, với gần 750 ca mắc và 177 tử vong. Đây là vụ bùng phát lớn thứ ba trong lịch sử. Cộng đồng thế giới đang tăng nguy cơ lây nhiễm và số ca mắc và tử vong tiếp tục tăng. Các chuyên gia y tế đang cố gắng ngăn chặn sự lây lan của bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "920cac1d7fc1",
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-24T19:07:17.228692+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Phát hiện vị trí dữ liệu không rõ nguồn gốc bằng mô hình Bayesian",
-      "bullets": [
-        "Sử dụng mô hình Bayesian để xác định vị trí dữ liệu không rõ nguồn gốc",
-        "Phát triển phương pháp mới để ước tính vị trí dữ liệu dựa trên dữ liệu có sẵn",
-        "Ứng dụng mô hình này trong các lĩnh vực như địa lý thông tin và phân tích dữ liệu",
-        "Cải thiện độ chính xác và hiệu suất của các phương pháp hiện có"
-      ],
-      "full_summary": "Một nghiên cứu mới sử dụng mô hình Bayesian để phát hiện và xác định vị trí dữ liệu không rõ nguồn gốc. Phương pháp này dựa trên dữ liệu có sẵn và có thể được ứng dụng trong các lĩnh vực như địa lý thông tin và phân tích dữ liệu. Mô hình này có thể cải thiện độ chính xác và hiệu suất của các phương pháp hiện có.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d5bff955d6f9",
-      "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
-      "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-24T19:07:18.749812+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chuyên viên điều hành của FreeBSD thử chạy hệ điều hành này trên laptop hàng ngày",
-      "bullets": [
-        "Chuyên viên điều hành của FreeBSD thử nghiệm chạy FreeBSD trên laptop",
-        "Mục tiêu là để sử dụng FreeBSD như một hệ điều hành hàng ngày",
-        "Báo cáo về trải nghiệm của chuyên viên điều hành với FreeBSD trên laptop"
-      ],
-      "full_summary": "Chuyên viên điều hành của FreeBSD đã thử nghiệm chạy hệ điều hành này trên laptop hàng ngày. Mục tiêu của họ là để sử dụng FreeBSD như một hệ điều hành hàng ngày và đánh giá về trải nghiệm của mình. Báo cáo về kết quả thử nghiệm này đã được công bố và thu hút sự quan tâm của cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51dc31f27b43",
-      "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-05-24T19:07:23.214195+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các nhà khoa học tìm ra nguyên nhân mới của lão hóa",
-      "bullets": [
-        "Xác định protein Menin trong não đóng vai trò quan trọng trong quá trình lão hóa",
-        "Khôi phục Menin giúp đảo ngược một số tác động của lão hóa",
-        "Tăng cường D-serine giúp cải thiện trí nhớ"
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện ra một protein mới trong não có thể đóng vai trò quan trọng trong quá trình lão hóa. Họ đã tìm thấy rằng mức độ giảm của Menin trong vùng dưới đồi dẫn đến viêm, vấn đề trí nhớ, mất xương và các thay đổi khác liên quan đến lão hóa. Khôi phục Menin đã đảo ngược một số tác động này, trong khi bổ sung amino axit D-serine đã giúp cải thiện trí nhớ. Khám phá này đã mở ra một con đường mới bất ngờ để chống lại sự suy giảm liên quan đến tuổi tác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a73dee85ad3",
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T13:08:27.102853+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ khí tại mỏ Liushenyu, Trung Quốc: 82 người thiệt mạng",
-      "bullets": [
-        "Nổ khí xảy ra tại mỏ Liushenyu ở Trung Quốc",
-        "Ít nhất 82 người thiệt mạng trong vụ nổ khí",
-        "Vụ nổ khí là thảm họa khai thác nghiêm trọng nhất Trung Quốc trong hơn một thập kỷ"
-      ],
-      "full_summary": "Một vụ nổ khí nghiêm trọng đã xảy ra tại mỏ Liushenyu ở tỉnh Vân Nam, Trung Quốc. Vụ nổ khí đã khiến ít nhất 82 người thiệt mạng và nhiều người khác bị thương. Vụ nổ khí được cho là do khí gas bốc cháy trong quá trình khai thác. Đây là thảm họa khai thác nghiêm trọng nhất Trung Quốc trong hơn một thập kỷ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ffdd4d462303",
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T13:08:28.217734+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tàu hỏa bị tấn công ở Pakistan, ít nhất 20 người chết",
-      "bullets": [
-        "Tàu hỏa chở quân nhân về nhà trong dịp Eid bị tấn công bởi các phiến quân",
-        "Số người chết và bị thương được cho là ít nhất 20",
-        "Các quan chức đang điều tra nguyên nhân vụ tấn công"
-      ],
-      "full_summary": "Một vụ tấn công đã xảy ra ở Pakistan, khiến ít nhất 20 người chết. Tàu hỏa chở quân nhân về nhà trong dịp Eid bị tấn công bởi các phiến quân. Các quan chức đang điều tra nguyên nhân vụ tấn công. Vụ việc đang gây ra sự lo lắng và bất an ở Pakistan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e15b5bf4aa7d",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T13:08:30.035630+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "California tuyên bố tình trạng khẩn cấp trước nguy cơ nổ bình chứa hóa chất độc hại",
-      "bullets": [
-        "Cảnh sát khẩn cấp đã di dời hàng nghìn người khỏi khu vực nguy hiểm",
-        "Hóa chất độc hại methyl methacrylate có thể gây ra hậu quả nghiêm trọng",
-        "Lực lượng cứu hỏa đang nỗ lực ngăn chặn sự cố hóa chất",
-        "Bình chứa 7.000 gallon hóa chất có nguy cơ nổ bất cứ lúc nào"
-      ],
-      "full_summary": "California đã tuyên bố tình trạng khẩn cấp sau khi phát hiện nguy cơ nổ bình chứa hóa chất độc hại. Hàng nghìn người đã được di dời khỏi khu vực nguy hiểm. Lực lượng cứu hỏa đang nỗ lực ngăn chặn sự cố hóa chất để tránh hậu quả nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "20012083a3cd",
-      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
-      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T13:08:31.153441+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Bộ trưởng Bolivia bị tấn công khi dỡ bỏ rào chắn đường cao tốc",
-      "bullets": [
-        "Cảnh sát đối mặt với sự kháng cự khi cố gắng dỡ bỏ rào chắn đường cao tốc",
-        "Hành động này diễn ra trong bối cảnh bất ổn xã hội do chính sách kinh tế của chính phủ",
-        "Bộ trưởng Bolivia bị tấn công trong khi đang giám sát việc dỡ bỏ rào chắn",
-        "Sự cố này diễn ra tại Bolivia trong thời gian gần đây"
-      ],
-      "full_summary": "Bộ trưởng Bolivia bị tấn công khi dỡ bỏ rào chắn đường cao tốc. Sự cố này diễn ra trong bối cảnh bất ổn xã hội do chính sách kinh tế của chính phủ. Cảnh sát đối mặt với sự kháng cự khi cố gắng dỡ bỏ rào chắn đường cao tốc. Bộ trưởng Bolivia bị tấn công trong khi đang giám sát việc dỡ bỏ rào chắn.",
       "comments": 0,
       "score": 0
     }
