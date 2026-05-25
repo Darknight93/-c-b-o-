@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-05-25T09:54:45.795052+00:00",
+  "updated_at": "2026-05-25T14:41:14.714940+00:00",
   "articles": [
+    {
+      "id": "4c35b87fd956",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T14:40:58.507891+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nổ súng lớn của Nga ở Ukraine khiến 4 người chết, hàng chục bị thương",
+      "bullets": [
+        "Nga xác nhận sử dụng tên lửa siêu thanh",
+        "Tên lửa có tốc độ hơn 10 lần tốc độ âm thanh",
+        "Hàng chục người bị thương trong vụ tấn công",
+        "Tổng thống Ukraine kêu gọi quốc tế lên án hành động này"
+      ],
+      "full_summary": "Một tên lửa siêu thanh do Nga sử dụng đã gây ra vụ tấn công lớn ở Ukraine, khiến 4 người chết và hàng chục người bị thương. Nga đã xác nhận việc sử dụng tên lửa siêu thanh, có tốc độ hơn 10 lần tốc độ âm thanh. Tổng thống Ukraine đã kêu gọi quốc tế lên án hành động này. Vụ tấn công đã gây ra sự lo lắng và căng thẳng ở khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "906dd004ec22",
+      "title": "Anger grows after China's deadliest coal mining disaster in years",
+      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T14:40:59.842388+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Tử vong ở vụ nổ mỏ than ở Trung Quốc lên tới 21 người",
+      "bullets": [
+        "Cư dân mạng Trung Quốc lên án và đòi công lý",
+        "Nạn nhân vụ tai nạn mỏ than tăng lên 21 người",
+        "Tình trạng an toàn lao động ở Trung Quốc đang bị đặt ra câu hỏi",
+        "Sự cố mỏ than nghiêm trọng nhất trong nhiều năm qua tại Trung Quốc"
+      ],
+      "full_summary": "Một vụ nổ mỏ than nghiêm trọng đã xảy ra tại Trung Quốc, khiến 21 người thiệt mạng. Sự cố này đã gây ra sự phẫn nộ và đòi hỏi công lý từ cư dân mạng Trung Quốc. Nạn nhân vụ tai nạn mỏ than đang tăng lên, đặt ra câu hỏi về tình trạng an toàn lao động ở Trung Quốc. Sự cố mỏ than này được coi là nghiêm trọng nhất trong nhiều năm qua tại Trung Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ef102e53dd8",
+      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
+      "url": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T14:41:00.930450+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông đã phun chất độc vào máy ATM tại trung tâm mua sắm Ginza 6",
+      "bullets": [
+        "Cảnh sát đã được báo cáo về một mùi khó chịu mạnh tại trung tâm mua sắm Ginza 6",
+        "Một người đàn ông đã phun một chất vào máy ATM",
+        "Ít nhất 19 người đã được đưa đến bệnh viện",
+        "Cảnh sát đang điều tra vụ việc"
+      ],
+      "full_summary": "Một người đàn ông đã phun một chất vào máy ATM tại trung tâm mua sắm Ginza 6 ở Tokyo, khiến ít nhất 19 người phải được đưa đến bệnh viện. Cảnh sát đang điều tra vụ việc. Mùi khó chịu mạnh đã được báo cáo tại trung tâm mua sắm, và cảnh sát đã nhanh chóng phản ứng. Vụ việc đang được điều tra để xác định nguyên nhân và người chịu trách nhiệm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cba04f2b83f3",
+      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
+      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-25T14:41:02.250892+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Cô gái Hong Kong đầu tiên lên không gian trong sứ mệnh Trung Quốc",
+      "bullets": [
+        "Lên không gian trên tàu vũ trụ của Trung Quốc",
+        "Là nhà khoa học hàng hóa của sứ mệnh",
+        "Là một sĩ quan cảnh sát 43 tuổi và mẹ ba",
+        "Sứ mệnh được thực hiện bởi Trung Quốc"
+      ],
+      "full_summary": "Cô gái Hong Kong đầu tiên lên không gian trong sứ mệnh của Trung Quốc. Cô là một sĩ quan cảnh sát 43 tuổi và mẹ ba, và đóng vai trò là nhà khoa học hàng hóa của sứ mệnh. Sứ mệnh được thực hiện bởi Trung Quốc và có mục đích gì đó. Cô gái Hong Kong đã trở thành một phần của sứ mệnh này và sẽ đóng góp vào việc khám phá vũ trụ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e5e810d71133",
+      "title": "C extensions, portability, and alternative compilers",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-25T14:41:10.617112+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "C mở rộng và các bộ biên dịch thay thế giúp tăng tính di động",
+      "bullets": [
+        "Mở rộng C giúp tăng tính di động của mã nguồn",
+        "Các bộ biên dịch thay thế như Clang và GCC giúp cải thiện hiệu suất",
+        "Cải thiện tính di động và hiệu suất giúp tăng cường khả năng tương thích"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã thảo luận về việc sử dụng mở rộng C và các bộ biên dịch thay thế để tăng tính di động và hiệu suất của mã nguồn. Mở rộng C giúp tăng tính di động của mã nguồn, trong khi các bộ biên dịch thay thế như Clang và GCC giúp cải thiện hiệu suất. Điều này giúp tăng cường khả năng tương thích và hiệu suất của mã nguồn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "812b68136a35",
       "title": "Deal with US not imminent, Iran says",
@@ -689,105 +788,6 @@
         "Sự cố này diễn ra tại Bolivia trong thời gian gần đây"
       ],
       "full_summary": "Bộ trưởng Bolivia bị tấn công khi dỡ bỏ rào chắn đường cao tốc. Sự cố này diễn ra trong bối cảnh bất ổn xã hội do chính sách kinh tế của chính phủ. Cảnh sát đối mặt với sự kháng cự khi cố gắng dỡ bỏ rào chắn đường cao tốc. Bộ trưởng Bolivia bị tấn công trong khi đang giám sát việc dỡ bỏ rào chắn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d304d33b8dfb",
-      "title": "People trapped under collapsed building in Philippines",
-      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T13:08:32.562288+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một tòa nhà sụp đổ ở Philippines, 24 người được cứu",
-      "bullets": [
-        "Cứu 24 người khỏi tòa nhà sụp đổ",
-        "Không có thương vong được báo cáo",
-        "Tìm kiếm cứu hộ đang tiếp tục",
-        "Không có thông tin về nguyên nhân sụp đổ"
-      ],
-      "full_summary": "Một tòa nhà đã sụp đổ ở Philippines, khiến nhiều người bị mắc kẹt. Đội cứu hộ đã tìm thấy 24 người sống sót và đưa họ ra khỏi tòa nhà. Không có thương vong được báo cáo. Tìm kiếm cứu hộ đang tiếp tục để đảm bảo không có người nào còn mắc kẹt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b269aafacb7d",
-      "title": "AI may speed up search for drugs to treat brain conditions",
-      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T13:08:33.612727+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Tìm kiếm thuốc điều trị bệnh não có thể nhanh hơn nhờ AI",
-      "bullets": [
-        "Tìm kiếm thuốc điều trị bệnh não đang được đẩy nhanh nhờ công nghệ trí tuệ nhân tạo",
-        "Nghiên cứu hy vọng sẽ giúp xác định thuốc hiệu quả và giá cả phải chăng",
-        "Mục tiêu cuối cùng là tìm ra thuốc điều trị bệnh MND",
-        "Công nghệ AI sẽ giúp giảm thời gian và chi phí trong quá trình phát triển thuốc"
-      ],
-      "full_summary": "Nghiên cứu mới sử dụng trí tuệ nhân tạo để đẩy nhanh quá trình tìm kiếm thuốc điều trị bệnh não. Mục tiêu của nghiên cứu này là tìm ra thuốc hiệu quả và giá cả phải chăng để điều trị các bệnh não như bệnh MND. Công nghệ AI sẽ giúp giảm thời gian và chi phí trong quá trình phát triển thuốc, hy vọng sẽ mang lại kết quả tốt hơn cho bệnh nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dca58a563f0e",
-      "title": "The Worlds Left to Conquer",
-      "url": "https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-24T13:08:39.300514+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Các khu vực còn lại trên thế giới đang chờ được khám phá",
-      "bullets": [
-        "Khảo sát các khu vực chưa được khám phá trên thế giới",
-        "Tìm hiểu về các nền văn hóa chưa được khám phá",
-        "Xây dựng kế hoạch cho các cuộc thám hiểm tương lai"
-      ],
-      "full_summary": "Bài viết này thảo luận về các khu vực còn lại trên thế giới chưa được khám phá. Các khu vực này bao gồm cả địa lý và văn hóa. Bài viết đề xuất các kế hoạch cho các cuộc thám hiểm tương lai để khám phá và hiểu biết thêm về các khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0c9f8d24c41a",
-      "title": "The C64 Dead Test Font",
-      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-24T13:08:42.886001+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một phông chữ thử nghiệm cho Commodore 64 đã bị phát hiện",
-      "bullets": [
-        "Bị phát hiện một phông chữ thử nghiệm cho Commodore 64",
-        "Phông chữ này được tạo ra để kiểm tra khả năng hoạt động của máy tính",
-        "Nó có thể giúp hiểu rõ hơn về lịch sử của Commodore 64",
-        "Phông chữ được phát hiện trên một trang web của một nhà phát triển"
-      ],
-      "full_summary": "Một nhóm phát triển đã phát hiện ra một phông chữ thử nghiệm cho Commodore 64, một máy tính cổ điển được phát hành vào năm 1982. Phông chữ này được tạo ra để kiểm tra khả năng hoạt động của máy tính và có thể giúp hiểu rõ hơn về lịch sử của Commodore 64. Nó được phát hiện trên một trang web của một nhà phát triển và đã thu hút sự chú ý của cộng đồng Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2729a50c5f5a",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T08:21:24.508541+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một người đàn ông bắn vào lực lượng an ninh gần Nhà Trắng",
-      "bullets": [
-        "Một người đàn ông mở lửa tại một trạm kiểm soát gần Nhà Trắng",
-        "Một người dân bị thương trong vụ bắn",
-        "Lực lượng an ninh đã bắn hạ nghi phạm",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một người đàn ông đã mở lửa tại một trạm kiểm soát gần Nhà Trắng và bắn vào lực lượng an ninh. Một người dân bị thương trong vụ bắn. Lực lượng an ninh đã bắn hạ nghi phạm và vụ việc đang được điều tra.",
       "comments": 0,
       "score": 0
     }
