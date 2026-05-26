@@ -1,6 +1,224 @@
 {
-  "updated_at": "2026-05-25T19:20:06.008240+00:00",
+  "updated_at": "2026-05-26T02:35:45.273800+00:00",
   "articles": [
+    {
+      "id": "c9ad45b6d706",
+      "title": "US military says it has launched new strikes on southern Iran",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:26.860038+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ thực hiện các cuộc tấn công mới ở miền nam Iran",
+      "bullets": [
+        "Mỹ tiến hành các cuộc tấn công vào các địa điểm phóng tên lửa và tàu của Iran",
+        "Hành động này được thực hiện để tự vệ, theo tuyên bố của Bộ chỉ huy Trung tâm Mỹ",
+        "Các cuộc tấn công nhằm vào các mục tiêu ở Iran",
+        "Mỹ không cung cấp thêm thông tin về các mục tiêu cụ thể"
+      ],
+      "full_summary": "Mỹ đã thực hiện các cuộc tấn công mới vào các địa điểm phóng tên lửa và tàu của Iran. Theo Bộ chỉ huy Trung tâm Mỹ, các cuộc tấn công này được thực hiện để tự vệ. Các cuộc tấn công nhằm vào các mục tiêu ở Iran nhưng Mỹ không cung cấp thêm thông tin về các mục tiêu cụ thể. Điều này đã gây ra lo ngại về sự leo thang căng thẳng giữa Mỹ và Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ef1be1619a3c",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:27.987709+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel tăng cường tấn công Hezbollah",
+      "bullets": [
+        "Israel tấn công các mục tiêu ở phía đông Liban",
+        "Chính phủ Israel tuyên bố sẽ tiếp tục tấn công Hezbollah",
+        "Các vụ tấn công diễn ra sau khi thủ tướng Israel phát biểu",
+        "Mục tiêu của Israel là ngăn chặn các hoạt động của Hezbollah"
+      ],
+      "full_summary": "Thủ tướng Israel Benjamin Netanyahu tuyên bố sẽ tăng cường tấn công Hezbollah sau khi các vụ tấn công của quân đội Israel nhắm vào các mục tiêu ở phía đông Liban. Các vụ tấn công diễn ra sau khi thủ tướng Israel phát biểu về kế hoạch của mình. Mục tiêu của Israel là ngăn chặn các hoạt động của Hezbollah và bảo vệ an ninh quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "661e6827ad35",
+      "title": "Social media as bad for young people as smoking, top doctors say",
+      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:29.275559+00:00",
+      "category": "sức khỏe",
+      "importance": 4,
+      "headline": "Bác sĩ khuyên cha mẹ kiểm tra thời gian sử dụng mạng xã hội của con",
+      "bullets": [
+        "Bác sĩ nên kiểm tra thời gian sử dụng màn hình và mạng xã hội của trẻ khi thăm khám",
+        "Academy of Medical Royal Colleges cảnh báo về tác hại của mạng xã hội đối với trẻ em",
+        "Bác sĩ nên tư vấn cho phụ huynh về cách quản lý thời gian sử dụng mạng xã hội cho con",
+        "Tác hại của mạng xã hội đối với trẻ em tương tự như tác hại của thuốc lá"
+      ],
+      "full_summary": "Academy of Medical Royal Colleges vừa đưa ra cảnh báo về tác hại của mạng xã hội đối với trẻ em. Bác sĩ nên kiểm tra thời gian sử dụng màn hình và mạng xã hội của trẻ khi thăm khám. Họ cũng nên tư vấn cho phụ huynh về cách quản lý thời gian sử dụng mạng xã hội cho con. Tác hại của mạng xã hội đối với trẻ em tương tự như tác hại của thuốc lá.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f7ad76c1237d",
+      "title": "The rise of the fruit that tastes like custard",
+      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:30.689561+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Custard apple được yêu thích vì sự cứng rắn nhưng khó xuất khẩu",
+      "bullets": [
+        "Cây cam sành được yêu thích vì sự cứng rắn",
+        "Hạt cam sành khó xuất khẩu vì tính dễ vỡ",
+        "Nghiên cứu mới giúp bảo quản hạt cam sành",
+        "Sự phát triển của cây cam sành đang tăng lên"
+      ],
+      "full_summary": "Custard apple (cam sành) là loại cây được yêu thích vì sự cứng rắn và khả năng chịu đựng tốt. Tuy nhiên, hạt cam sành lại rất dễ vỡ và khó bảo quản, khiến việc xuất khẩu trở nên khó khăn. Các nhà nghiên cứu đang tìm cách bảo quản hạt cam sành để tăng cường khả năng xuất khẩu. Sự phát triển của cây cam sành đang tăng lên, tạo điều kiện thuận lợi cho việc nghiên cứu và phát triển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ccfde19f9a9d",
+      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:31.630192+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Waymo tạm dừng dịch vụ xe tự lái ở 5 thành phố Mỹ do lũ lụt",
+      "bullets": [
+        "Tạm dừng dịch vụ xe tự lái ở 5 thành phố",
+        "Lý do là do xe tự lái chạy vào đường ngập nước",
+        "Waymo tăng cường cảnh giác để đảm bảo an toàn",
+        "Dịch vụ sẽ được khôi phục khi an toàn được đảm bảo"
+      ],
+      "full_summary": "Waymo đã tạm dừng dịch vụ xe tự lái ở 5 thành phố Mỹ bao gồm San Francisco, Phoenix, Atlanta, Dallas và Washington DC. Lý do là do xe tự lái của công ty chạy vào đường ngập nước. Một đại diện của Waymo cho biết đã tăng cường cảnh giác để đảm bảo an toàn. Dịch vụ sẽ được khôi phục khi an toàn được đảm bảo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0554ab616637",
+      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:33.009053+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng ứng phó.",
+      "bullets": [
+        "WHO đang tăng cường các biện pháp ứng phó",
+        "Dịch bệnh đang lan rộng nhanh chóng",
+        "Các nước láng giềng của DRC đang ở mức độ rủi ro cao",
+        "WHO kêu gọi các nước láng giềng hành động ngay lập tức"
+      ],
+      "full_summary": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng ứng phó. Giám đốc WHO, Dr. Tedros Adhanom Ghebreyesus, cho biết dịch bệnh đang lan rộng nhanh chóng và các nước láng giềng của DRC đang ở mức độ rủi ro cao. Ông kêu gọi các nước láng giềng hành động ngay lập tức để ngăn chặn sự lây lan của dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a97ef32fe876",
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:34.090760+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Thời gian chiến tranh, đói nghèo trở thành vũ khí",
+      "bullets": [
+        "Tấn công vào các chợ, ruộng đất và hệ thống phân phối lương thực",
+        "Hơn 20.000 vụ tấn công liên quan đến lương thực đã được ghi nhận",
+        "Các hệ thống phân phối lương thực bị tấn công khiến nhiều người chết"
+      ],
+      "full_summary": "Theo phân tích mới, hơn 20.000 vụ tấn công liên quan đến lương thực đã xảy ra trong 8 năm qua. Các vụ tấn công bao gồm 1.261 vụ tấn công vào các chợ và 863 vụ tấn công vào các hệ thống phân phối lương thực, khiến nhiều người chết. Điều này cho thấy đói nghèo đang được sử dụng như một vũ khí trong chiến tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "56cf6f4e3a16",
+      "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
+      "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:35.731518+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính phủ Mỹ tạm dừng đưa tù nhân đến Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Chính phủ Mỹ tạm dừng việc đưa người tị nạn đến Cộng hòa Dân chủ Congo",
+        "Bùng phát dịch Ebola khiến Mỹ tạm dừng việc đưa tù nhân đến khu vực này",
+        "Một phụ nữ bị mắc kẹt ở Kinshasa vì lệnh cấm di chuyển do dịch Ebola",
+        "Tòa án đã ra lệnh trả lại phụ nữ này nhưng chính phủ Mỹ không thực hiện"
+      ],
+      "full_summary": "Chính phủ Mỹ đã quyết định tạm dừng việc đưa tù nhân đến Cộng hòa Dân chủ Congo do bùng phát dịch Ebola. Mặc dù lệnh cấm di chuyển do dịch Ebola đã được áp dụng, chính phủ Mỹ vẫn sẽ không trả lại những người đã bị đưa đến Kinshasa. Một phụ nữ đã bị mắc kẹt ở Kinshasa vì lệnh cấm di chuyển do dịch Ebola và tòa án đã ra lệnh trả lại cô ta nhưng chính phủ Mỹ không thực hiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5ca15923f304",
+      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T02:35:36.960054+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hộ chiếu của Kilmar Ábrego bị hủy án",
+      "bullets": [
+        "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự chống lại Kilmar Ábrego.",
+        "Ábrego bị buộc tội vì đã thách thức quyết định trục xuất của chính phủ Trump.",
+        "Chính phủ Trump đã gửi Ábrego đến một nhà tù nổi tiếng ở El Salvador vào tháng 3 năm 2025.",
+        "Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu ông ta không thách thức quyết định trục xuất."
+      ],
+      "full_summary": "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự chống lại Kilmar Ábrego vì ông ta đã thách thức quyết định trục xuất của chính phủ Trump. Ábrego đã bị trục xuất đến El Salvador vào tháng 3 năm 2025 và trở thành biểu tượng của chính sách trục xuất hàng loạt của chính phủ Trump. Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu ông ta không thách thức quyết định trục xuất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "489a77ac15ef",
+      "title": "Does Anybody Actually Like React?",
+      "url": "https://jsx.lol",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-26T02:35:40.077864+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nhiều người dùng ủng hộ thư viện React",
+      "bullets": [
+        "Phát triển ứng dụng nhanh chóng với React",
+        "Là một trong những thư viện JavaScript phổ biến nhất",
+        "Cung cấp các thành phần UI linh hoạt và dễ sử dụng"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã hỏi liệu có ai thích thư viện React hay không. Kết quả cho thấy nhiều người dùng ủng hộ thư viện này vì khả năng phát triển ứng dụng nhanh chóng và cung cấp các thành phần UI linh hoạt và dễ sử dụng. Tuy nhiên, vẫn có một số ý kiến trái chiều về thư viện này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa282796bd3c",
+      "title": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-26T02:35:44.203693+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Máy học giúp lập trình viên viết mã tốt hơn nhưng chậm hơn",
+      "bullets": [
+        "Máy học được sử dụng để tạo ra mã lập trình tốt hơn",
+        "Tuy nhiên, quá trình này diễn ra chậm hơn so với việc lập trình thủ công",
+        "Máy học có thể giúp giảm thiểu lỗi lập trình",
+        "Nhưng vẫn còn nhiều thách thức cần được giải quyết"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã thảo luận về việc sử dụng máy học để viết mã lập trình tốt hơn. Máy học có thể giúp tạo ra mã lập trình tốt hơn, giảm thiểu lỗi lập trình và tăng cường hiệu suất. Tuy nhiên, quá trình này diễn ra chậm hơn so với việc lập trình thủ công và vẫn còn nhiều thách thức cần được giải quyết.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "af6e7b64aaf5",
       "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
@@ -573,224 +791,6 @@
         "Cơ quan quản lý nhập cư Mỹ (ICE) giam giữ những người này"
       ],
       "full_summary": "Canada đang tăng cường quy định tị nạn, khiến nhiều người tị nạn bị từ chối. Những người này sau đó bị chuyển sang cơ quan quản lý nhập cư Mỹ (ICE) và bị giam giữ nhiều tháng. Một số người tị nạn đã bị từ chối xin tị nạn ở biên giới và bị chuyển sang ICE. Họ đang hy vọng sẽ được thả ra và được đoàn tụ với gia đình ở Montreal.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "55e14c9a2ed5",
-      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-      "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-25T02:46:13.794379+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "SpaceX Starship V3 có thành công đáng kể trong chuyến bay đầu tiên",
-      "bullets": [
-        "Thử nghiệm thành công với hệ thống động lực và điều khiển",
-        "Cần cải thiện hệ thống hạ cánh và hệ thống nhiên liệu",
-        "Đã đạt được mục tiêu bay cao hơn 10 km",
-        "Còn nhiều thử nghiệm để hoàn thiện Starship"
-      ],
-      "full_summary": "Chuyến bay đầu tiên của Starship V3 của SpaceX đã đạt được thành công đáng kể, nhưng vẫn còn nhiều thử nghiệm để hoàn thiện hệ thống. Mặc dù đã đạt được mục tiêu bay cao hơn 10 km, hệ thống hạ cánh và hệ thống nhiên liệu vẫn cần cải thiện. SpaceX sẽ tiếp tục thử nghiệm để hoàn thiện Starship trước khi đưa nó vào sử dụng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "95214c72365a",
-      "title": "First-generation Chromecast users stressed by devices suddenly failing",
-      "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-25T02:46:14.889247+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chromecast đầu tiên gặp vấn đề, Google đã sửa lỗi",
-      "bullets": [
-        "Google xác nhận đã sửa lỗi Chromecast đầu tiên",
-        "Chromecast đầu tiên gặp vấn đề sau nhiều năm hoạt động",
-        "Người dùng lo lắng khi thiết bị của họ đột ngột bị lỗi",
-        "Google đảm bảo rằng vấn đề đã được giải quyết"
-      ],
-      "full_summary": "Google đã xác nhận rằng họ đã sửa lỗi Chromecast đầu tiên sau khi nhiều người dùng báo cáo rằng thiết bị của họ đột ngột bị lỗi. Lỗi này đã ảnh hưởng đến những người dùng Chromecast đầu tiên sau nhiều năm hoạt động. Google đã đảm bảo rằng vấn đề đã được giải quyết và người dùng có thể sử dụng thiết bị của mình một cách bình thường. Người dùng lo lắng khi thiết bị của họ bị lỗi, nhưng giờ đây họ có thể yên tâm sử dụng Chromecast của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "26e7c487f9f9",
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-25T02:46:17.015396+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Chuyển đổi từ Go sang Rust: Hướng dẫn toàn diện",
-      "bullets": [
-        "Xác định các phần của mã nguồn và chuyển đổi chúng sang Rust",
-        "Thay thế các thư viện và framework Go bằng các phiên bản tương ứng của Rust",
-        "Kiểm tra và sửa lỗi các vấn đề về hiệu suất và bảo mật",
-        "Tối ưu hóa mã nguồn Rust để đạt được hiệu suất tối đa"
-      ],
-      "full_summary": "Một hướng dẫn toàn diện về việc chuyển đổi từ Go sang Rust, bao gồm việc xác định các phần của mã nguồn, thay thế các thư viện và framework, kiểm tra và sửa lỗi, cũng như tối ưu hóa mã nguồn để đạt được hiệu suất tối đa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c7e88b1bb8a",
-      "title": "Vanishing tongues and life on Mars: Books in brief",
-      "url": "https://www.nature.com/articles/d41586-026-01655-w",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-25T02:46:21.010277+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tìm hiểu về các ngôn ngữ đang biến mất và cuộc sống trên sao Hỏa",
-      "bullets": [
-        "Tìm hiểu về 5 cuốn sách khoa học hàng đầu",
-        "Xây dựng một bức tranh về cuộc sống trên sao Hỏa",
-        "Khám phá các ngôn ngữ đang biến mất trên Trái Đất",
-        "Tìm hiểu về các phát hiện khoa học mới nhất"
-      ],
-      "full_summary": "Andrew Robinson đã đánh giá 5 cuốn sách khoa học hàng đầu, bao gồm các cuốn sách về ngôn ngữ đang biến mất và cuộc sống trên sao Hỏa. Các cuốn sách này cung cấp thông tin sâu sắc về các chủ đề này và giúp người đọc hiểu rõ hơn về thế giới xung quanh chúng ta. Cuốn sách này là một nguồn tài liệu quý giá cho những ai quan tâm đến khoa học và công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f606738dd68d",
-      "title": "Turkish riot police storm opposition offices after leaders ousted",
-      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T19:07:08.837469+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cảnh sát Thổ Nhĩ Kỳ xông vào văn phòng của đối lập sau khi lãnh đạo bị bãi nhiệm",
-      "bullets": [
-        "Cảnh sát Thổ Nhĩ Kỳ xông vào văn phòng của đảng đối lập",
-        "Đảng đối lập đã cam kết sẽ chống lại phán quyết của tòa án",
-        "Cảnh sát đã xông vào văn phòng sau khi đảng đối lập từ chối rời khỏi cơ quan",
-        "Căng thẳng giữa chính phủ và đối lập tiếp tục leo thang"
-      ],
-      "full_summary": "Cảnh sát Thổ Nhĩ Kỳ đã xông vào văn phòng của đảng đối lập sau khi lãnh đạo của đảng bị tòa án bãi nhiệm. Đảng đối lập đã cam kết sẽ chống lại phán quyết của tòa án và từ chối rời khỏi văn phòng. Căng thẳng giữa chính phủ và đối lập tiếp tục leo thang. Sự kiện này đã gây ra lo ngại về tình hình chính trị ở Thổ Nhĩ Kỳ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51177b14210f",
-      "title": "Meta settles social media addiction case with US school district",
-      "url": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T19:07:09.768128+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực trường học Mỹ",
-      "bullets": [
-        "Meta đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực trường học Mỹ",
-        "Vụ kiện được xem như một thử nghiệm cho 1200 khu vực trường học khác",
-        "Khu vực trường học Mỹ sẽ nhận được khoản tiền bồi thường",
-        "Meta sẽ thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội ở trường học"
-      ],
-      "full_summary": "Meta đã đồng ý giải quyết vụ kiện về nghiện mạng xã hội với khu vực trường học Mỹ. Vụ kiện này được xem như một thử nghiệm cho 1200 khu vực trường học khác. Meta sẽ thực hiện các biện pháp để ngăn chặn nghiện mạng xã hội ở trường học và bồi thường cho khu vực trường học Mỹ. Điều này sẽ giúp ngăn chặn nghiện mạng xã hội ở các trường học khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "401652208505",
-      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-24T19:07:10.742007+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Canada khẳng định Alberta là 'điều cần thiết' cho tương lai",
-      "bullets": [
-        "Chủ tịch Mark Carney tuyên bố Alberta là 'điều cần thiết' cho tương lai của Canada",
-        "Đồng minh ly khai ở Alberta đã thu thập chữ ký để tổ chức trưng cầu dân ý",
-        "Tòa án đã bác bỏ sáng kiến trưng cầu dân ý có tính ràng buộc"
-      ],
-      "full_summary": "Chủ tịch Canada Mark Carney đã tuyên bố rằng Alberta là 'điều cần thiết' cho tương lai của Canada. Điều này diễn ra sau khi lãnh đạo tỉnh Alberta kêu gọi trưng cầu dân ý về việc ly khai khỏi Canada. Các đồng minh ly khai ở tỉnh Alberta đã thu thập chữ ký để tổ chức trưng cầu dân ý, nhưng tòa án đã bác bỏ sáng kiến trưng cầu dân ý có tính ràng buộc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2c0eddaa1300",
-      "title": "Whatever the mirror test tells us, beluga whales pass it",
-      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-24T19:07:11.714457+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Sư tử biển trắng có thể nhận diện chính mình",
-      "bullets": [
-        "Thử nghiệm gương phản chiếu cho thấy sư tử biển trắng có khả năng nhận diện hình ảnh của mình",
-        "Sư tử biển trắng là một trong số ít loài động vật có thể vượt qua thử nghiệm này",
-        "Nghiên cứu cho thấy khả năng nhận diện hình ảnh của sư tử biển trắng có thể liên quan đến khả năng tự nhận thức",
-        "Thử nghiệm gương phản chiếu vẫn còn gây tranh cãi về tính xác thực"
-      ],
-      "full_summary": "Một nghiên cứu mới đây cho thấy sư tử biển trắng có khả năng nhận diện hình ảnh của mình, một khả năng hiếm gặp trong thế giới động vật. Thử nghiệm gương phản chiếu là một cách để đánh giá khả năng tự nhận thức của động vật. Kết quả nghiên cứu cho thấy sư tử biển trắng có thể vượt qua thử nghiệm này, nhưng vẫn còn nhiều tranh cãi về tính xác thực của kết quả này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e7e8b467803f",
-      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-24T19:07:12.655302+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Hai phi hành gia không gian kỷ nguyên tàu con thoi được vinh danh",
-      "bullets": [
-        "Được vinh danh vào Sảnh Sáng tác Astronaut",
-        "Có sự xuất sắc, lãnh đạo và phục vụ trong sự nghiệp",
-        "Đóng góp cho sự phát triển không gian",
-        "Là biểu tượng của tinh thần phi hành gia"
-      ],
-      "full_summary": "Hai phi hành gia không gian kỷ nguyên tàu con thoi, Michael Barratt và Clayton Anderson, đã được vinh danh vào Sảnh Sáng tác Astronaut. Họ được công nhận vì sự xuất sắc, lãnh đạo và phục vụ trong sự nghiệp. Hai phi hành gia này đã thực hiện nhiều nhiệm vụ không gian quan trọng và đóng góp cho sự phát triển không gian.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1679b76015a0",
-      "title": "China’s shark finning could lead to US seafood sanctions",
-      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-24T19:07:14.154846+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Hà Lan đề nghị trừng phạt hải sản Trung Quốc vì đánh bắt cá mập",
-      "bullets": [
-        "Đề nghị trừng phạt hải sản Trung Quốc do đánh bắt cá mập bất hợp pháp",
-        "Hải sản Trung Quốc có thể bị cấm nhập khẩu vào Mỹ",
-        "Đề xuất này nhằm ngăn chặn đánh bắt cá mập bất hợp pháp",
-        "Hà Lan muốn thúc đẩy việc bảo vệ cá mập và hệ sinh thái biển"
-      ],
-      "full_summary": "Một bản kiến nghị chính thức đã được gửi đến chính phủ Mỹ, đề nghị trừng phạt hải sản Trung Quốc do đánh bắt cá mập bất hợp pháp. Việc này nhằm ngăn chặn tình trạng đánh bắt cá mập không kiểm soát, gây tổn hại cho hệ sinh thái biển. Hải sản Trung Quốc có thể bị cấm nhập khẩu vào Mỹ nếu đề nghị này được chấp thuận. Điều này sẽ giúp thúc đẩy việc bảo vệ cá mập và hệ sinh thái biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "281c6e436956",
-      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-24T19:07:15.066181+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Russian vệ tinh đang nhắm vào công ty hỗ trợ Ukraine",
-      "bullets": [
-        "Đang có 4 vệ tinh Nga đang ở tầm bắn của radar vệ tinh ICEYE",
-        "Công nghệ này không phổ biến đối với vệ tinh thực hiện nhiệm vụ thông thường",
-        "Công ty hỗ trợ Ukraine đang bị Nga nhắm vào"
-      ],
-      "full_summary": "Một công ty vệ tinh hỗ trợ Ukraine đang bị Nga nhắm vào. Theo thông tin mới, 4 vệ tinh Nga đã vào tầm bắn của radar vệ tinh ICEYE. Công nghệ này không phổ biến đối với vệ tinh thực hiện nhiệm vụ thông thường. Điều này cho thấy Nga đang có kế hoạch tấn công công ty vệ tinh này.",
       "comments": 0,
       "score": 0
     }
