@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-05-26T14:52:50.973843+00:00",
+  "updated_at": "2026-05-26T20:01:20.445821+00:00",
   "articles": [
+    {
+      "id": "641275e8decc",
+      "title": "Why temperature records are being not only broken but smashed",
+      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T20:01:03.588623+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Áp cao và biến đổi khí hậu gây ra nhiệt độ kỷ lục ở Tây Âu",
+      "bullets": [
+        "Gây ra một 'đỉnh nhiệt' cực kỳ nóng ở Tây Âu",
+        "Thời tiết khắc nghiệt do kết hợp của áp cao và biến đổi khí hậu",
+        "Nhiệt độ kỷ lục được phá vỡ ở nhiều quốc gia",
+        "Sự nóng bức này có thể gây ra hậu quả nghiêm trọng"
+      ],
+      "full_summary": "Áp cao và biến đổi khí hậu đã gây ra một 'đỉnh nhiệt' cực kỳ nóng ở Tây Âu. Nhiệt độ kỷ lục đã được phá vỡ ở nhiều quốc gia, gây ra thời tiết khắc nghiệt. Sự nóng bức này có thể gây ra hậu quả nghiêm trọng cho môi trường và sức khỏe con người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b77d8a2257a9",
+      "title": "Internet starts coming back in Iran after months-long blackout",
+      "url": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T20:01:05.218273+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mạng internet bắt đầu phục hồi sau thời gian dài bị cắt đứt",
+      "bullets": [
+        "Mạng internet đã được khôi phục ở Iran sau nhiều tháng bị cắt đứt",
+        "Cắt internet bắt đầu từ cuối tháng 2 khi chiến tranh bùng nổ",
+        "Sự cố này ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Iran",
+        "Mạng internet đã được khôi phục một phần nhưng vẫn còn nhiều vấn đề"
+      ],
+      "full_summary": "Mạng internet ở Iran đã bị cắt đứt từ cuối tháng 2 khi chiến tranh bùng nổ. Sự cố này ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Iran, khiến họ không thể truy cập thông tin và liên lạc với bạn bè, gia đình. Mạng internet đã được khôi phục một phần nhưng vẫn còn nhiều vấn đề. Hiện tại, tình hình vẫn đang được theo dõi và cập nhật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0442f48338ac",
+      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T20:01:06.395490+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hệ thống hỗ trợ Destiny 2 sắp kết thúc",
+      "bullets": [
+        "Bungie sẽ ngừng hỗ trợ Destiny 2",
+        "Trò chơi sẽ nhận được bản cập nhật cuối cùng vào ngày 9 tháng 6",
+        "Người chơi vẫn có thể chơi trò chơi sau khi hỗ trợ kết thúc",
+        "Bungie chưa công bố kế hoạch tương lai cho trò chơi"
+      ],
+      "full_summary": "Bungie đã thông báo rằng họ sẽ ngừng hỗ trợ trò chơi bắn súng trực tuyến Destiny 2 vào ngày 9 tháng 6. Mặc dù trò chơi sẽ không còn nhận được bản cập nhật mới, người chơi vẫn có thể chơi trò chơi sau khi hỗ trợ kết thúc. Bungie chưa công bố kế hoạch tương lai cho trò chơi, khiến nhiều người hâm mộ cảm thấy thất vọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "af0d52007dbe",
+      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T20:01:07.485793+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "SpaceX hoãn phóng Starship trước khi niêm yết cổ phiếu",
+      "bullets": [
+        "SpaceX hoãn phóng Starship do một số lý do kỹ thuật",
+        "Công ty này sắp thực hiện niêm yết cổ phiếu với quy mô kỷ lục",
+        "Động thái này diễn ra chỉ một ngày sau khi SpaceX công bố kế hoạch niêm yết",
+        "Không có thông tin cụ thể về lý do hoãn phóng"
+      ],
+      "full_summary": "SpaceX đã hoãn phóng Starship, một trong những dự án quan trọng của công ty, trước khi thực hiện niêm yết cổ phiếu với quy mô kỷ lục. Động thái này diễn ra chỉ một ngày sau khi SpaceX công bố kế hoạch niêm yết. Không có thông tin cụ thể về lý do hoãn phóng. Việc niêm yết cổ phiếu của SpaceX dự kiến sẽ tạo ra một trong những đợt chào bán lớn nhất trong lịch sử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "682c1693ed3c",
+      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T20:01:08.643754+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cặp đôi đòi hợp pháp hóa hôn nhân đồng tính ở Botswana",
+      "bullets": [
+        "Cặp đôi Bonolo Selelo và Tsholofelo Kumile sẽ đi đến tòa án để đòi quyền kết hôn",
+        "Họ phải đối mặt với sự phản đối mạnh mẽ từ các nhóm giáo hội",
+        "Cặp đôi đã sống chung từ tháng 12/2023 và đã xin đăng ký kết hôn",
+        "Tuy nhiên, họ được thông báo rằng hôn nhân đồng tính không được pháp luật công nhận"
+      ],
+      "full_summary": "Bonolo Selelo và Tsholofelo Kumile, một cặp đôi đồng tính ở Botswana, đã quyết định đi đến tòa án để đòi quyền kết hôn. Họ đã sống chung từ tháng 12/2023 và đã xin đăng ký kết hôn, nhưng đã được thông báo rằng hôn nhân đồng tính không được pháp luật công nhận. Cặp đôi này đã phải đối mặt với sự phản đối mạnh mẽ từ các nhóm giáo hội, nhưng họ vẫn quyết tâm đấu tranh cho quyền của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "87e0d3026047",
+      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
+      "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T20:01:09.808199+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
+      "bullets": [
+        "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
+        "Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ nhưng đặt căn cứ tại Tijuana, Mexico",
+        "Mexico cho phép Iran ở lại sau khi Mỹ từ chối",
+        "Fifa đã xác nhận Iran sẽ đặt căn cứ tại Tijuana"
+      ],
+      "full_summary": "Chủ tịch Mexico Claudia Sheinbaum cho biết chính phủ Mexico đã đồng ý cho đội bóng Iran ở lại trong World Cup. Điều này diễn ra sau khi Mỹ từ chối cho Iran ở lại. Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ nhưng đặt căn cứ tại Tijuana, Mexico. Fifa đã xác nhận Iran sẽ đặt căn cứ tại Tijuana.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1e7e44f32687",
+      "title": "A global brand but local cars is Audi's future, says CEO",
+      "url": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-26T20:01:14.458813+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Audi tập trung vào sản xuất xe tại địa phương",
+      "bullets": [
+        "Xây dựng thương hiệu toàn cầu nhưng sản xuất xe tại địa phương là tương lai của Audi",
+        "CEO Audi cho biết công ty đang xem xét sản xuất xe mới tại các nước",
+        "Audi có kế hoạch sản xuất xe điện và xe hybrid tại các nhà máy địa phương"
+      ],
+      "full_summary": "Gernot Döllner, CEO của Audi AG, đã chia sẻ về tương lai của công ty trong một cuộc phỏng vấn. Ông cho biết Audi sẽ tập trung vào sản xuất xe tại địa phương, thay vì chỉ tập trung vào sản xuất xe toàn cầu. Điều này sẽ giúp công ty giảm chi phí và tăng cường sự cạnh tranh. Ngoài ra, Audi cũng đang xem xét sản xuất xe điện và xe hybrid tại các nhà máy địa phương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f2c478136166",
+      "title": "The real cost of owning a home",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-26T20:01:18.026161+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Chi phí sở hữu nhà cao hơn bạn tưởng tượng",
+      "bullets": [
+        "Giá mua nhà không phải là chi phí duy nhất khi sở hữu nhà",
+        "Phí bảo trì và sửa chữa nhà cũng chiếm một phần đáng kể",
+        "Chi phí lãi suất và bảo hiểm nhà cũng không thể bỏ qua",
+        "Tính toán kỹ lưỡng trước khi quyết định mua nhà"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã chỉ ra rằng chi phí sở hữu nhà không chỉ dừng lại ở giá mua. Phí bảo trì và sửa chữa nhà, chi phí lãi suất và bảo hiểm nhà cũng chiếm một phần đáng kể. Để sở hữu nhà một cách thông minh, bạn cần tính toán kỹ lưỡng trước khi quyết định mua nhà.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "bfa53879016f",
       "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
@@ -633,164 +792,6 @@
         "Máy học có thể giúp giảm chi phí và thời gian phát triển thuốc"
       ],
       "full_summary": "Các nhà nghiên cứu đang sử dụng máy học để tìm kiếm thuốc điều trị các tình trạng não như bệnh MND. Họ hy vọng rằng công việc này sẽ giúp xác định thuốc hiệu quả và giá cả phải chăng. Máy học có thể giúp giảm chi phí và thời gian phát triển thuốc, từ đó giúp nhiều người bệnh hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f34fe1af7ebc",
-      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
-      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T19:19:59.718759+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tù nhân Venezuela chiếm lĩnh mái nhà tù và đốt lò để phản đối bạo hành",
-      "bullets": [
-        "Tù nhân ở tù Barinas nổi loạn trên mái nhà tù",
-        "Tù nhân cáo buộc nhân viên tù bắn vào họ khi đang biểu tình",
-        "Tù nhân yêu cầu thay thế giám đốc tù",
-        "Tù nhân bị bắn và bị thương"
-      ],
-      "full_summary": "Tù nhân ở tù Barinas, Venezuela đã chiếm lĩnh mái nhà tù và đốt lò để phản đối bạo hành của nhân viên tù. Họ cáo buộc giám đốc tù đã cho phép nhân viên tù bắn vào họ khi đang biểu tình. Một số tù nhân bị bắn và bị thương. Họ yêu cầu thay thế giám đốc tù và đòi công lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e11991beabe7",
-      "title": "RentFlow (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-25T19:20:05.508072+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "RentFlow đang tuyển dụng chuyên gia AI/ML",
-      "bullets": [
-        "Tìm kiếm người có kinh nghiệm về AI và ML để dẫn dắt dự án",
-        "Dự án RentFlow thuộc Y Combinator, một chương trình hỗ trợ khởi nghiệp",
-        "Cơ hội làm việc với nhóm phát triển và đóng góp cho sự phát triển của công ty"
-      ],
-      "full_summary": "RentFlow, một công ty khởi nghiệp thuộc Y Combinator, đang tuyển dụng một chuyên gia AI/ML để dẫn dắt dự án. Dự án này nhằm phát triển các giải pháp công nghệ cho lĩnh vực cho thuê. Người được tuyển dụng sẽ có cơ hội làm việc với nhóm phát triển và đóng góp cho sự phát triển của công ty.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4c35b87fd956",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T14:40:58.507891+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nổ súng lớn của Nga ở Ukraine khiến 4 người chết, hàng chục bị thương",
-      "bullets": [
-        "Nga xác nhận sử dụng tên lửa siêu thanh",
-        "Tên lửa có tốc độ hơn 10 lần tốc độ âm thanh",
-        "Hàng chục người bị thương trong vụ tấn công",
-        "Tổng thống Ukraine kêu gọi quốc tế lên án hành động này"
-      ],
-      "full_summary": "Một tên lửa siêu thanh do Nga sử dụng đã gây ra vụ tấn công lớn ở Ukraine, khiến 4 người chết và hàng chục người bị thương. Nga đã xác nhận việc sử dụng tên lửa siêu thanh, có tốc độ hơn 10 lần tốc độ âm thanh. Tổng thống Ukraine đã kêu gọi quốc tế lên án hành động này. Vụ tấn công đã gây ra sự lo lắng và căng thẳng ở khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "906dd004ec22",
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
-      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T14:40:59.842388+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Tử vong ở vụ nổ mỏ than ở Trung Quốc lên tới 21 người",
-      "bullets": [
-        "Cư dân mạng Trung Quốc lên án và đòi công lý",
-        "Nạn nhân vụ tai nạn mỏ than tăng lên 21 người",
-        "Tình trạng an toàn lao động ở Trung Quốc đang bị đặt ra câu hỏi",
-        "Sự cố mỏ than nghiêm trọng nhất trong nhiều năm qua tại Trung Quốc"
-      ],
-      "full_summary": "Một vụ nổ mỏ than nghiêm trọng đã xảy ra tại Trung Quốc, khiến 21 người thiệt mạng. Sự cố này đã gây ra sự phẫn nộ và đòi hỏi công lý từ cư dân mạng Trung Quốc. Nạn nhân vụ tai nạn mỏ than đang tăng lên, đặt ra câu hỏi về tình trạng an toàn lao động ở Trung Quốc. Sự cố mỏ than này được coi là nghiêm trọng nhất trong nhiều năm qua tại Trung Quốc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ef102e53dd8",
-      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-      "url": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T14:41:00.930450+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông đã phun chất độc vào máy ATM tại trung tâm mua sắm Ginza 6",
-      "bullets": [
-        "Cảnh sát đã được báo cáo về một mùi khó chịu mạnh tại trung tâm mua sắm Ginza 6",
-        "Một người đàn ông đã phun một chất vào máy ATM",
-        "Ít nhất 19 người đã được đưa đến bệnh viện",
-        "Cảnh sát đang điều tra vụ việc"
-      ],
-      "full_summary": "Một người đàn ông đã phun một chất vào máy ATM tại trung tâm mua sắm Ginza 6 ở Tokyo, khiến ít nhất 19 người phải được đưa đến bệnh viện. Cảnh sát đang điều tra vụ việc. Mùi khó chịu mạnh đã được báo cáo tại trung tâm mua sắm, và cảnh sát đã nhanh chóng phản ứng. Vụ việc đang được điều tra để xác định nguyên nhân và người chịu trách nhiệm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cba04f2b83f3",
-      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
-      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T14:41:02.250892+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Cô gái Hong Kong đầu tiên lên không gian trong sứ mệnh Trung Quốc",
-      "bullets": [
-        "Lên không gian trên tàu vũ trụ của Trung Quốc",
-        "Là nhà khoa học hàng hóa của sứ mệnh",
-        "Là một sĩ quan cảnh sát 43 tuổi và mẹ ba",
-        "Sứ mệnh được thực hiện bởi Trung Quốc"
-      ],
-      "full_summary": "Cô gái Hong Kong đầu tiên lên không gian trong sứ mệnh của Trung Quốc. Cô là một sĩ quan cảnh sát 43 tuổi và mẹ ba, và đóng vai trò là nhà khoa học hàng hóa của sứ mệnh. Sứ mệnh được thực hiện bởi Trung Quốc và có mục đích gì đó. Cô gái Hong Kong đã trở thành một phần của sứ mệnh này và sẽ đóng góp vào việc khám phá vũ trụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e5e810d71133",
-      "title": "C extensions, portability, and alternative compilers",
-      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-25T14:41:10.617112+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "C mở rộng và các bộ biên dịch thay thế giúp tăng tính di động",
-      "bullets": [
-        "Mở rộng C giúp tăng tính di động của mã nguồn",
-        "Các bộ biên dịch thay thế như Clang và GCC giúp cải thiện hiệu suất",
-        "Cải thiện tính di động và hiệu suất giúp tăng cường khả năng tương thích"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã thảo luận về việc sử dụng mở rộng C và các bộ biên dịch thay thế để tăng tính di động và hiệu suất của mã nguồn. Mở rộng C giúp tăng tính di động của mã nguồn, trong khi các bộ biên dịch thay thế như Clang và GCC giúp cải thiện hiệu suất. Điều này giúp tăng cường khả năng tương thích và hiệu suất của mã nguồn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "812b68136a35",
-      "title": "Deal with US not imminent, Iran says",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T09:54:30.087363+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hoa Kỳ chưa sẵn sàng ký thỏa thuận với Iran",
-      "bullets": [
-        "Iran bác bỏ thông tin về một thỏa thuận sắp được công bố",
-        "Bộ trưởng Ngoại giao Iran nói rằng không có thỏa thuận nào được đàm phán",
-        "Cựu Bộ trưởng Ngoại giao Mỹ Antony Blinken dự đoán có thể có thỏa thuận vào thứ Hai",
-        "Thỏa thuận này sẽ giúp Iran giảm dần hoạt động hạt nhân"
-      ],
-      "full_summary": "Bộ trưởng Ngoại giao Iran đã bác bỏ thông tin về một thỏa thuận sắp được công bố giữa Iran và Hoa Kỳ. Ông nói rằng không có thỏa thuận nào được đàm phán và Hoa Kỳ chưa sẵn sàng ký kết. Cựu Bộ trưởng Ngoại giao Mỹ Antony Blinken dự đoán có thể có thỏa thuận vào thứ Hai. Thỏa thuận này sẽ giúp Iran giảm dần hoạt động hạt nhân.",
       "comments": 0,
       "score": 0
     }
