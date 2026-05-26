@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-05-26T02:35:45.273800+00:00",
+  "updated_at": "2026-05-26T09:40:43.677437+00:00",
   "articles": [
+    {
+      "id": "4d43d635f99d",
+      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
+      "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T09:40:29.148993+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Úc xác nhận cái chết đầu tiên do cúm bạch hầu",
+      "bullets": [
+        "Xảy ra ca tử vong do cúm bạch hầu đầu tiên ở Úc",
+        "Hầu hết các trường hợp ở khu vực Bắc Úc",
+        "Cũng có một số trường hợp ở Tây Úc, Nam Úc và Queensland",
+        "Úc đang trải qua dịch cúm bạch hầu tồi tệ nhất trong nhiều thập kỷ"
+      ],
+      "full_summary": "Úc vừa xác nhận cái chết đầu tiên do cúm bạch hầu, một bệnh truyền nhiễm nghiêm trọng. Hầu hết các trường hợp được báo cáo ở khu vực Bắc Úc, nhưng cũng có một số trường hợp ở Tây Úc, Nam Úc và Queensland. Dịch cúm bạch hầu đang diễn ra tồi tệ nhất trong nhiều thập kỷ ở Úc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "095317cbc28c",
+      "title": "China executes man for murdering prominent gaming tycoon",
+      "url": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T09:40:30.107419+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông bị xử tử vì giết người nổi tiếng trong ngành game",
+      "bullets": [
+        "Bị cáo đã bị xử tử vì tội giết người",
+        "Người đàn ông bị giết là một doanh nhân nổi tiếng trong ngành game",
+        "Bị cáo đã bị kết án vì đã dùng thuốc độc để giết người",
+        "Bị cáo đã được kết án vì đã giúp doanh nhân này ký hợp đồng với Netflix"
+      ],
+      "full_summary": "Một người đàn ông đã bị xử tử vì tội giết người nổi tiếng trong ngành game ở Trung Quốc. Người đàn ông bị giết là một doanh nhân nổi tiếng đã ký hợp đồng với Netflix cho bộ phim 3 Body Problem. Bị cáo đã bị kết án vì đã dùng thuốc độc để giết người sau khi doanh nhân này đã loại bỏ ông khỏi công ty.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2e363f81459a",
+      "title": "Wave of child abuse cases shakes schools in Paris",
+      "url": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T09:40:31.084637+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một giáo viên bị cáo buộc lạm dụng tình dục trẻ em tại Paris",
+      "bullets": [
+        "Bị cáo bị đưa ra xét xử vì lạm dụng tình dục trẻ em trong sự chăm sóc của mình",
+        "Đây là một trong những vụ việc gây sốc trong hệ thống giáo dục Paris",
+        "Bị cáo bị cáo buộc có hành vi lạm dụng tình dục với nhiều trẻ em",
+        "Vụ việc đã gây ra sự lo lắng và bất an trong cộng đồng giáo dục"
+      ],
+      "full_summary": "Một giáo viên tại Paris đã bị đưa ra xét xử vì bị cáo buộc lạm dụng tình dục trẻ em trong sự chăm sóc của mình. Đây là một trong những vụ việc gây sốc trong hệ thống giáo dục Paris. Bị cáo bị cáo buộc có hành vi lạm dụng tình dục với nhiều trẻ em, gây ra sự lo lắng và bất an trong cộng đồng giáo dục.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9b1c6508cf64",
+      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
+      "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T09:40:32.091982+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cứu hộ đang nỗ lực giải cứu 7 người bị mắc kẹt trong hang động ngập lụt ở Lào",
+      "bullets": [
+        "Đội chuyên gia từng giúp giải cứu đội bóng đá Thái Lan năm 2018 đang tham gia cứu hộ",
+        "7 người bị mắc kẹt trong hang động ngập lụt ở tỉnh Houaphan, Lào",
+        "Cứu hộ đang nỗ lực tìm kiếm và giải cứu những người bị mắc kẹt",
+        "Đội chuyên gia được kỳ vọng sẽ giúp giải cứu thành công"
+      ],
+      "full_summary": "Một đội chuyên gia đã được điều động đến để giúp giải cứu 7 người bị mắc kẹt trong hang động ngập lụt ở tỉnh Houaphan, Lào. Đội chuyên gia này đã từng giúp giải cứu đội bóng đá Thái Lan năm 2018. Họ đang nỗ lực tìm kiếm và giải cứu những người bị mắc kẹt. Cứu hộ đang diễn ra trong điều kiện khó khăn do nước ngập sâu trong hang động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e7e8b467803f",
+      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-26T09:40:37.605769+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Hai phi hành gia không gian kỷ nguyên tàu con thoi được vinh danh",
+      "bullets": [
+        "Vinh danh hai phi hành gia có sự nghiệp thể hiện sự xuất sắc, lãnh đạo và phục vụ",
+        "Cả hai đều có kinh nghiệm thực hiện các chuyến đi không gian dài hạn",
+        "Họ đã đóng góp vào nhiều dự án quan trọng của NASA"
+      ],
+      "full_summary": "Hai phi hành gia không gian kỷ nguyên tàu con thoi, Michael Barratt và Clayton Anderson, đã được vinh danh vào Astronaut Hall of Fame. Họ đã có sự nghiệp xuất sắc với nhiều chuyến đi không gian dài hạn và đóng góp quan trọng vào các dự án của NASA. Sự vinh danh này là sự ghi nhận cho sự phục vụ và lãnh đạo của họ trong ngành không gian.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cc01285d758d",
+      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+      "url": "https://earthiongame.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-26T09:40:42.598347+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Một trò chơi bắn súng mới có phong cách Mega Drive",
+      "bullets": [
+        "Bí mật về trò chơi Earthion đã được tiết lộ",
+        "Trò chơi có phong cách Mega Drive-style shoot-em-up",
+        "Được phát triển bởi một nhóm lập trình viên",
+        "Có sẵn để tải về trên trang web chính thức"
+      ],
+      "full_summary": "Trò chơi Earthion là một trò chơi bắn súng mới có phong cách Mega Drive-style shoot-em-up. Trò chơi được phát triển bởi một nhóm lập trình viên và có sẵn để tải về trên trang web chính thức. Thông tin về trò chơi đã được tiết lộ trên trang web chính thức và trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "c9ad45b6d706",
       "title": "US military says it has launched new strikes on southern Iran",
@@ -673,124 +792,6 @@
         "Cấm học đã khiến phụ nữ trẻ mất cơ hội phát triển và tự do"
       ],
       "full_summary": "Hơn 5 năm sau khi cấm học, phụ nữ trẻ ở Afghanistan nói họ đã nói lời tạm biệt với giấc mơ. Nhiều nữ sinh đã bị ép buộc kết hôn và bị cấm tham gia giáo dục. Một nữ sinh đã trốn thoát khỏi đất nước để tránh cuộc hôn nhân không mong muốn. Cấm học đã khiến phụ nữ trẻ mất cơ hội phát triển và tự do.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0cc59dd39daf",
-      "title": "Ebola outbreak poses massive challenges, warns nurse",
-      "url": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:07.466669+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Cúm Ebola ở Cộng hòa Dân chủ Congo gây ra nhiều thách thức",
-      "bullets": [
-        "Căng thẳng về nguồn lực để đối phó với dịch cúm Ebola đang gia tăng",
-        "Nhiều nhân viên y tế đang gặp khó khăn trong việc tiếp cận các thiết bị bảo hộ",
-        "Số ca nhiễm và tử vong liên tục tăng ở Cộng hòa Dân chủ Congo"
-      ],
-      "full_summary": "Một bác sĩ tại Cộng hòa Dân chủ Congo cảnh báo về tình trạng thiếu nguồn lực để đối phó với dịch cúm Ebola. Bác sĩ Kate White cho biết cô đang rất lo lắng về khả năng không thể tiếp cận được các nguồn lực cần thiết. Số ca nhiễm và tử vong liên tục tăng ở Cộng hòa Dân chủ Congo, gây ra nhiều thách thức cho các nhân viên y tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9ae9c81e990a",
-      "title": "Love factually: Dating start-ups promise to cut the cheats",
-      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:08.413052+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các ứng dụng hẹn hò mới hứa hẹn loại bỏ những người giả mạo",
-      "bullets": [
-        "Giới thiệu các ứng dụng hẹn hò mới với các phương pháp khác nhau",
-        "Mục tiêu giảm thiểu số lượng hồ sơ giả mạo trên các ứng dụng hẹn hò",
-        "Sử dụng các công nghệ mới để xác minh danh tính người dùng",
-        "Tạo môi trường hẹn hò an toàn hơn cho người dùng"
-      ],
-      "full_summary": "Frustration với hồ sơ giả mạo trên các ứng dụng hẹn hò đã thúc đẩy sự ra đời của các dịch vụ hẹn hò mới với các phương pháp khác nhau. Các ứng dụng này hứa hẹn sẽ loại bỏ những người giả mạo và tạo môi trường hẹn hò an toàn hơn cho người dùng. Các công nghệ mới được sử dụng để xác minh danh tính người dùng và giảm thiểu số lượng hồ sơ giả mạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d689050cb468",
-      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:09.550605+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cảnh sát Anh đề nghị chặn mạng xã hội không an toàn cho trẻ em dưới 16 tuổi",
-      "bullets": [
-        "Cảnh sát Anh đề nghị chặn trẻ em dưới 16 tuổi truy cập mạng xã hội không an toàn",
-        "Các nền tảng mạng xã hội không ngăn chặn trẻ em xem ảnh nhạy cảm",
-        "Trẻ em dưới 16 tuổi có nguy cơ bị liên hệ bởi người lạ",
-        "Cảnh sát Anh đề nghị các nền tảng mạng xã hội phải tăng cường an toàn cho trẻ em"
-      ],
-      "full_summary": "Cảnh sát Anh đề nghị chặn trẻ em dưới 16 tuổi truy cập mạng xã hội không an toàn. Theo cảnh sát, các nền tảng mạng xã hội không ngăn chặn trẻ em xem ảnh nhạy cảm và có nguy cơ bị liên hệ bởi người lạ. Cảnh sát Anh đề nghị các nền tảng mạng xã hội phải tăng cường an toàn cho trẻ em. Điều này nhằm ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7dff07b63555",
-      "title": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
-      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:10.630458+00:00",
-      "category": "khác",
-      "importance": 4,
-      "headline": "Số trường hợp nghi ngờ Ebola ở Cộng hòa Dân chủ Congo vượt qua 900",
-      "bullets": [
-        "Cộng hòa Dân chủ Congo báo cáo 904 trường hợp nghi ngờ Ebola và 119 trường hợp tử vong",
-        "Các nhân viên y tế đối mặt với các cuộc tấn công và thiếu hụt thiết bị",
-        "WHO đánh giá nguy cơ bùng phát dịch bệnh ở Congo là 'rất cao'"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo đã báo cáo 904 trường hợp nghi ngờ Ebola và 119 trường hợp tử vong trong đợt bùng phát dịch bệnh ở phía đông nước này. Các nhân viên y tế đang đối mặt với các cuộc tấn công và thiếu hụt thiết bị. Tổ chức Y tế Thế giới (WHO) đánh giá nguy cơ bùng phát dịch bệnh ở Congo là 'rất cao', nhưng nguy cơ dịch bệnh lan rộng ra toàn cầu vẫn còn thấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "205764ca9b96",
-      "title": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
-      "url": "https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:11.629950+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Côte d'Ivoire lo ngại về mối đe dọa khủng bố Hồi giáo",
-      "bullets": [
-        "Côte d'Ivoire lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso",
-        "Mối đe dọa này vẫn còn hiện hữu sau 10 năm kể từ cuộc tấn công lớn vào năm 2016",
-        "Nạn nhân của cuộc tấn công đã nhớ lại những ký ức đau đớn và tìm kiếm sự hỗ trợ",
-        "Nhiều người dân Côte d'Ivoire đang tìm kiếm sự ổn định và an ninh"
-      ],
-      "full_summary": "Côte d'Ivoire đang lo ngại về mối đe dọa khủng bố Hồi giáo từ Mali và Burkina Faso. Mối đe dọa này vẫn còn hiện hữu sau 10 năm kể từ cuộc tấn công lớn vào năm 2016. Nạn nhân của cuộc tấn công đã nhớ lại những ký ức đau đớn và tìm kiếm sự hỗ trợ. Nhiều người dân Côte d'Ivoire đang tìm kiếm sự ổn định và an ninh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4c7c9220ad14",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:12.891603+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Canada chuyển người tị nạn sang ICE, bị giam giữ",
-      "bullets": [
-        "Căng thẳng quy định tị nạn Canada khiến người tị nạn bị từ chối",
-        "Bị chuyển sang ICE, bị giam giữ nhiều tháng",
-        "Nhiều người tị nạn bị từ chối xin tị nạn ở biên giới",
-        "Cơ quan quản lý nhập cư Mỹ (ICE) giam giữ những người này"
-      ],
-      "full_summary": "Canada đang tăng cường quy định tị nạn, khiến nhiều người tị nạn bị từ chối. Những người này sau đó bị chuyển sang cơ quan quản lý nhập cư Mỹ (ICE) và bị giam giữ nhiều tháng. Một số người tị nạn đã bị từ chối xin tị nạn ở biên giới và bị chuyển sang ICE. Họ đang hy vọng sẽ được thả ra và được đoàn tụ với gia đình ở Montreal.",
       "comments": 0,
       "score": 0
     }
