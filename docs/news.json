@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-05-26T09:40:43.677437+00:00",
+  "updated_at": "2026-05-26T14:52:50.973843+00:00",
   "articles": [
+    {
+      "id": "bfa53879016f",
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:34.515013+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ tấn công Iran trong thời gian đàm phán hòa bình",
+      "bullets": [
+        "Mỹ tiến hành các cuộc tấn công vào Iran",
+        "Các đàm phán hòa bình giữa Iran và Qatar đang diễn ra tại Doha",
+        "Iran lên án các cuộc tấn công là 'vi phạm nghiêm trọng' hiệp định ngừng bắn",
+        "Các cuộc đàm phán hòa bình vẫn tiếp tục diễn ra"
+      ],
+      "full_summary": "Mỹ đã tiến hành các cuộc tấn công vào Iran trong khi các đàm phán hòa bình giữa Iran và Qatar đang diễn ra tại Doha. Iran lên án các cuộc tấn công là 'vi phạm nghiêm trọng' hiệp định ngừng bắn. Các cuộc đàm phán hòa bình vẫn tiếp tục diễn ra để tìm kiếm giải pháp hòa bình cho khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d3ba4f213b98",
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:35.613641+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bốn người chết trong tai nạn xe buýt học sinh va chạm với tàu hỏa ở Bỉ",
+      "bullets": [
+        "Va chạm giữa xe buýt học sinh và tàu hỏa ở Bỉ gây tử vong cho bốn người",
+        "Hai học sinh và người chaperone cùng tài xế xe buýt đều thiệt mạng",
+        "Bộ trưởng Bỉ xác nhận thông tin về vụ tai nạn nghiêm trọng"
+      ],
+      "full_summary": "Một vụ tai nạn nghiêm trọng đã xảy ra ở Bỉ khi xe buýt chở học sinh va chạm với tàu hỏa. Theo Bộ trưởng Bỉ, hai học sinh, người chaperone và tài xế xe buýt đều thiệt mạng. Vụ tai nạn đã gây ra sự chú ý lớn ở Bỉ và quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7de43f886f6e",
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:37.415736+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Israel tấn công mạnh Hezbollah, khiến 11 người chết ở Lebanon",
+      "bullets": [
+        "Israel tấn công 100 địa điểm của Hezbollah ở Lebanon",
+        "Chính phủ Israel cam kết tiêu diệt Hezbollah",
+        "Số người chết trong vụ tấn công ở làng Lebanon tăng lên 11",
+        "Tình hình ở khu vực này đang trở nên căng thẳng"
+      ],
+      "full_summary": "Israel đã tiến hành một loạt các cuộc tấn công mạnh mẽ vào Hezbollah ở Lebanon, sau khi Thủ tướng Benjamin Netanyahu cam kết tiêu diệt tổ chức này. Theo Israel, họ đã tấn công 100 địa điểm của Hezbollah, khiến 11 người chết ở một làng ở Lebanon. Thủ tướng Netanyahu đã tuyên bố rằng Israel sẽ không ngừng tấn công Hezbollah cho đến khi họ bị tiêu diệt. Tình hình ở khu vực này đang trở nên căng thẳng và có thể dẫn đến một cuộc xung đột lớn hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "41ece54e1f03",
+      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
+      "url": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:38.448702+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Congo cần phản ứng nhanh chóng để ngăn chặn thảm họa Ebola",
+      "bullets": [
+        "Cập nhật tình hình: Ebola đang lan rộng ở tỉnh Ituri",
+        "Thống đốc tỉnh Ituri cảnh báo thời gian trôi qua càng lâu, nguy cơ thảm họa càng cao",
+        "Tình hình y tế đang trở nên tồi tệ hơn",
+        "Cần có phản ứng nhanh chóng để ngăn chặn sự lan rộng của bệnh"
+      ],
+      "full_summary": "Thống đốc tỉnh Ituri, tỉnh thuộc Cộng hòa Dân chủ Congo, đã cảnh báo rằng thời gian trôi qua càng lâu, nguy cơ thảm họa Ebola càng cao. Ông cho biết tình hình y tế đang trở nên tồi tệ hơn và cần có phản ứng nhanh chóng để ngăn chặn sự lan rộng của bệnh. Ebola đã lan rộng ở tỉnh Ituri và cần có các biện pháp khẩn cấp để ngăn chặn thảm họa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9ae9c81e990a",
+      "title": "Love factually: Dating start-ups promise to cut the cheats",
+      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:39.561333+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Dịch vụ hẹn hò mới hứa hẹn giảm thiểu lừa đảo",
+      "bullets": [
+        "Xây dựng các ứng dụng hẹn hò mới nhằm giảm thiểu lừa đảo",
+        "Sử dụng các phương pháp xác minh tính xác thực của hồ sơ",
+        "Tạo ra môi trường hẹn hò an toàn và đáng tin cậy",
+        "Hỗ trợ người dùng trong việc tìm kiếm đối tác hẹn hò phù hợp"
+      ],
+      "full_summary": "Frustration với hồ sơ giả mạo trên các ứng dụng hẹn hò đã thúc đẩy sự ra đời của các dịch vụ hẹn hò mới với các phương pháp khác nhau. Các dịch vụ này hứa hẹn sẽ giảm thiểu lừa đảo và tạo ra môi trường hẹn hò an toàn và đáng tin cậy. Các ứng dụng mới này sử dụng các phương pháp xác minh tính xác thực của hồ sơ, giúp người dùng tránh được các hồ sơ giả mạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d689050cb468",
+      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
+      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:40.705261+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cảnh sát Anh đề nghị chặn các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi",
+      "bullets": [
+        "Khuyến cáo các nền tảng mạng xã hội phải ngăn chặn trẻ em xem ảnh không phù hợp",
+        "Cảnh báo trẻ em không được phép liên hệ với người lạ trên mạng xã hội",
+        "NCA và NPCC đề xuất chặn truy cập các nền tảng không đảm bảo an toàn cho trẻ em dưới 16 tuổi",
+        "Mục tiêu là ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp trên mạng xã hội"
+      ],
+      "full_summary": "Cảnh sát Anh đang đề nghị chặn truy cập các nền tảng mạng xã hội không an toàn cho trẻ em dưới 16 tuổi. NCA và NPCC cho rằng các nền tảng này không ngăn chặn trẻ em xem ảnh không phù hợp hoặc liên hệ với người lạ. Mục tiêu là ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp trên mạng xã hội. Điều này sẽ giúp bảo vệ trẻ em khỏi các mối đe dọa trực tuyến.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7dff07b63555",
+      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:41.824236+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Số trường hợp nghi ngờ Ebola ở DRC vượt 900",
+      "bullets": [
+        "Cộng hòa Dân chủ Congo báo cáo 904 trường hợp nghi ngờ Ebola và 119 trường hợp tử vong",
+        "Các nhân viên y tế đang đối mặt với các cuộc tấn công và thiếu hụt thiết bị",
+        "WHO đánh giá mức độ nguy cơ cao cho nước này, nhưng rủi ro lây lan toàn cầu vẫn thấp"
+      ],
+      "full_summary": "Số trường hợp nghi ngờ Ebola ở Cộng hòa Dân chủ Congo đã vượt qua 900. Theo Bộ Thông tin của DRC, có 904 trường hợp nghi ngờ và 119 trường hợp tử vong. Các nhân viên y tế đang đối mặt với các cuộc tấn công và thiếu hụt thiết bị, khiến công tác phòng chống dịch trở nên khó khăn hơn. Tổ chức Y tế Thế giới đánh giá mức độ nguy cơ cao cho nước này, nhưng rủi ro lây lan toàn cầu vẫn thấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4c7c9220ad14",
+      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-26T14:52:42.888750+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Canada chuyển người tị nạn cho ICE, họ bị giam giữ",
+      "bullets": [
+        "Canada tăng cường quy định tị nạn, nhiều người tị nạn bị từ chối",
+        "Người tị nạn bị chuyển giao cho ICE và bị giam giữ trong nhiều tháng",
+        "Họ bị giam giữ trong khi chờ xử lý yêu cầu tị nạn",
+        "Nhiều người tị nạn phải đối mặt với nguy cơ bị trục xuất"
+      ],
+      "full_summary": "Canada đang tăng cường quy định tị nạn, dẫn đến nhiều người tị nạn bị từ chối. Những người này sau đó bị chuyển giao cho Cơ quan Quản lý và Nhập cư (ICE) và bị giam giữ trong nhiều tháng. Họ bị giam giữ trong khi chờ xử lý yêu cầu tị nạn, điều này đã khiến nhiều người phải đối mặt với nguy cơ bị trục xuất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2c0eddaa1300",
+      "title": "Whatever the mirror test tells us, beluga whales pass it",
+      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-26T14:52:47.505149+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Cá voi trắng vượt qua thử nghiệm gương",
+      "bullets": [
+        "Thử nghiệm gương cho thấy cá voi trắng có khả năng nhận diện bản thân",
+        "Cá voi trắng trở thành một trong số ít loài động vật vượt qua thử nghiệm này",
+        "Nghiên cứu cho thấy cá voi trắng có khả năng tự nhận diện hình ảnh phản chiếu",
+        "Thử nghiệm gương vẫn còn gây tranh cãi về tính xác thực"
+      ],
+      "full_summary": "Một nghiên cứu mới đây cho thấy cá voi trắng có khả năng vượt qua thử nghiệm gương, một thử nghiệm được sử dụng để đánh giá khả năng nhận diện bản thân của động vật. Thử nghiệm gương cho thấy cá voi trắng có khả năng nhận diện hình ảnh phản chiếu của mình. Tuy nhiên, thử nghiệm gương vẫn còn gây tranh cãi về tính xác thực và liệu nó có thể được sử dụng để đánh giá khả năng nhận diện bản thân của động vật hay không.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "4d43d635f99d",
       "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
@@ -613,185 +791,6 @@
         "Thỏa thuận này sẽ giúp Iran giảm dần hoạt động hạt nhân"
       ],
       "full_summary": "Bộ trưởng Ngoại giao Iran đã bác bỏ thông tin về một thỏa thuận sắp được công bố giữa Iran và Hoa Kỳ. Ông nói rằng không có thỏa thuận nào được đàm phán và Hoa Kỳ chưa sẵn sàng ký kết. Cựu Bộ trưởng Ngoại giao Mỹ Antony Blinken dự đoán có thể có thỏa thuận vào thứ Hai. Thỏa thuận này sẽ giúp Iran giảm dần hoạt động hạt nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5721ff9d0137",
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T09:54:31.127862+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Giá dầu giảm do kỳ vọng về thỏa thuận hòa bình Mỹ - Iran",
-      "bullets": [
-        "Giá dầu giảm mạnh trên thị trường toàn cầu",
-        "Thỏa thuận hòa bình Mỹ - Iran được kỳ vọng sẽ giúp ổn định tình hình",
-        "Đường biển Hormuz sẽ được mở lại nếu thỏa thuận đạt được",
-        "Chính sách của Mỹ đối với Iran đang có nhiều thay đổi"
-      ],
-      "full_summary": "Giá dầu thế giới đã giảm mạnh do kỳ vọng về một thỏa thuận hòa bình giữa Mỹ và Iran. Tổng thống Mỹ Donald Trump đã tuyên bố rằng thỏa thuận sẽ bao gồm việc mở lại đường biển Hormuz. Điều này đã giúp giảm căng thẳng trên thị trường dầu mỏ. Tuy nhiên, vẫn chưa rõ ràng về chi tiết của thỏa thuận này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53aac785cada",
-      "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
-      "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T09:54:32.105659+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Máy bay RAF bị chặn tín hiệu gần biên giới Nga",
-      "bullets": [
-        "Bị chặn tín hiệu GPS, phi công phải sử dụng hệ thống định vị khác",
-        "Máy bay đang chở Bộ trưởng Quốc phòng Anh",
-        "Tín hiệu bị chặn gần biên giới Nga",
-        "Phi công đã sử dụng hệ thống định vị dự phòng"
-      ],
-      "full_summary": "Một máy bay RAF đang chở Bộ trưởng Quốc phòng Anh đã bị chặn tín hiệu GPS gần biên giới Nga. Điều này khiến phi công phải sử dụng hệ thống định vị dự phòng. Hiện chưa rõ nguyên nhân dẫn đến việc chặn tín hiệu. Sự việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0442f48338ac",
-      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
-      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T09:54:34.115427+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hệ thống hỗ trợ của Destiny 2 sắp kết thúc",
-      "bullets": [
-        "Bungie sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6",
-        "Hệ thống sẽ vẫn còn hoạt động sau khi cập nhật cuối cùng",
-        "Người dùng đang phản ứng với tin tức này",
-        "Destiny 2 sẽ không còn hỗ trợ sau khi cập nhật cuối cùng"
-      ],
-      "full_summary": "Hệ thống hỗ trợ của trò chơi điện tử Destiny 2 sắp kết thúc. Bungie, nhà phát triển trò chơi, đã thông báo rằng sẽ phát hành bản cập nhật cuối cùng vào ngày 9 tháng 6. Mặc dù trò chơi sẽ vẫn còn hoạt động, nhưng người dùng sẽ không còn nhận được hỗ trợ từ nhà phát triển. Người dùng đang phản ứng với tin tức này và lo ngại về tương lai của trò chơi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af0d52007dbe",
-      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T09:54:35.081465+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "SpaceX hoãn phóng Starship trước đợt phát hành cổ phiếu lớn",
-      "bullets": [
-        "SpaceX hoãn phóng Starship",
-        "Công ty tiết lộ kế hoạch IPO lớn nhất lịch sử",
-        "Đợt phát hành cổ phiếu sẽ giúp SpaceX tăng vốn",
-        "Kế hoạch phóng Starship sẽ được công bố sau"
-      ],
-      "full_summary": "SpaceX đã hoãn phóng Starship, chỉ một ngày sau khi công bố kế hoạch IPO lớn nhất lịch sử. Đợt phát hành cổ phiếu này sẽ giúp SpaceX tăng vốn và hỗ trợ cho các dự án tương lai. Kế hoạch phóng Starship sẽ được công bố sau khi đợt phát hành cổ phiếu hoàn thành.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b5102ca2336",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T09:54:36.106708+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "TikTok và YouTube không an toàn cho trẻ em, theo Ofcom",
-      "bullets": [
-        "TikTok và YouTube không đáp ứng đủ tiêu chuẩn an toàn cho trẻ em",
-        "Ofcom chỉ trích hai nền tảng này vì thiếu sự bảo vệ",
-        "TikTok và YouTube phản hồi với các biện pháp an toàn riêng",
-        "Các chuyên gia cho rằng cần có biện pháp mạnh mẽ hơn"
-      ],
-      "full_summary": "Tổ chức truyền thông Ofcom đã tuyên bố rằng TikTok và YouTube không an toàn cho trẻ em. Cả hai nền tảng này đều phản hồi rằng họ đã hợp tác với các chuyên gia để cung cấp trải nghiệm phù hợp. Tuy nhiên, Ofcom cho rằng các biện pháp an toàn của họ không đủ mạnh mẽ. Các chuyên gia cũng đồng ý rằng cần có biện pháp mạnh mẽ hơn để bảo vệ trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "682c1693ed3c",
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T09:54:37.273430+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cặp đôi Botswana kiện để hợp pháp hóa hôn nhân đồng tính",
-      "bullets": [
-        "Cặp đôi Bonolo Selelo và Tsholofelo Kumile kiện tòa án để được phép kết hôn",
-        "Họ gặp nhau tại sự kiện Gaborone Pride năm 2023 và bắt đầu sống chung",
-        "Selelo đề nghị Kumile kết hôn vào năm 2024, nhưng bị từ chối bởi cơ quan chính phủ",
-        "Cặp đôi đang đối mặt với sự phản đối mạnh mẽ từ các tổ chức tôn giáo"
-      ],
-      "full_summary": "Cặp đôi Bonolo Selelo và Tsholofelo Kumile đang kiện tòa án để được phép kết hôn ở Botswana. Họ gặp nhau tại sự kiện Gaborone Pride năm 2023 và bắt đầu sống chung. Sau đó, Selelo đề nghị Kumile kết hôn vào năm 2024, nhưng bị từ chối bởi cơ quan chính phủ. Cặp đôi đang đối mặt với sự phản đối mạnh mẽ từ các tổ chức tôn giáo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fd521ef07a6e",
-      "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
-      "url": "https://www.atlasobscura.com/articles/blankets-summer-hot",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-25T09:54:41.477880+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Chúng ta ngủ dưới chăn dù đêm hè nóng bức",
-      "bullets": [
-        "Nghiên cứu cho thấy, nhiệt độ cơ thể không giảm khi ngủ dưới chăn",
-        "Chăn giúp ngăn chặn sự mất nhiệt qua da",
-        "Nhiệt độ môi trường không ảnh hưởng đến việc sử dụng chăn"
-      ],
-      "full_summary": "Nghiên cứu cho thấy, chúng ta vẫn ngủ dưới chăn dù đêm hè nóng bức vì nhiệt độ cơ thể không giảm khi ngủ dưới chăn. Chăn giúp ngăn chặn sự mất nhiệt qua da, dù nhiệt độ môi trường có cao đến đâu. Điều này cho thấy, chăn không chỉ giúp giữ ấm vào mùa đông mà còn giúp duy trì nhiệt độ cơ thể vào mùa hè.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b11e8066d1ed",
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:05.421341+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump ngăn chặn Mỹ đàm phán nhanh chóng với Iran",
-      "bullets": [
-        "Trump cảnh báo các đại diện Mỹ không nên đàm phán nhanh chóng với Iran",
-        "Hai bên đang thảo luận về một thỏa thuận ngừng bắn 60 ngày",
-        "Thỏa thuận này sẽ mở lại eo biển Hormuz",
-        "Mục tiêu là ngăn chặn xung đột giữa Iran và Mỹ"
-      ],
-      "full_summary": "Theo BBC, Tổng thống Mỹ Donald Trump đã cảnh báo các đại diện Mỹ không nên đàm phán nhanh chóng với Iran. Hai bên đang thảo luận về một thỏa thuận ngừng bắn 60 ngày, trong đó sẽ mở lại eo biển Hormuz. Mục tiêu của thỏa thuận này là ngăn chặn xung đột giữa Iran và Mỹ. Tuy nhiên, chi tiết cụ thể của thỏa thuận vẫn chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "82a6f228ed1a",
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T02:46:06.507080+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ sinh bị cấm học bị buộc kết hôn ở đất nước cấm giáo dục nữ",
-      "bullets": [
-        "Bị ép buộc kết hôn, một nữ sinh đã trốn thoát khỏi đất nước",
-        "Hơn 5 năm sau khi cấm học, phụ nữ trẻ nói họ đã nói lời tạm biệt với giấc mơ",
-        "Nhiều phụ nữ trẻ ở Afghanistan đã bị cấm tham gia giáo dục",
-        "Cấm học đã khiến phụ nữ trẻ mất cơ hội phát triển và tự do"
-      ],
-      "full_summary": "Hơn 5 năm sau khi cấm học, phụ nữ trẻ ở Afghanistan nói họ đã nói lời tạm biệt với giấc mơ. Nhiều nữ sinh đã bị ép buộc kết hôn và bị cấm tham gia giáo dục. Một nữ sinh đã trốn thoát khỏi đất nước để tránh cuộc hôn nhân không mong muốn. Cấm học đã khiến phụ nữ trẻ mất cơ hội phát triển và tự do.",
       "comments": 0,
       "score": 0
     }
