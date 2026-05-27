@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-26T20:01:20.445821+00:00",
+  "updated_at": "2026-05-27T02:45:40.487468+00:00",
   "articles": [
+    {
+      "id": "1b9d78daaf17",
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:24.558567+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "NATO và EU tìm kiếm người trung gian để kết thúc chiến tranh ở Ukraine",
+      "bullets": [
+        "NATO và EU tìm kiếm người trung gian để đàm phán với Nga",
+        "Hoa Kỳ rút khỏi các cuộc đàm phán ba bên với Nga và Ukraine",
+        "Nga tiếp tục tiến hành chiến dịch quân sự ở Ukraine",
+        "EU hy vọng tìm được người trung gian để kết thúc chiến tranh"
+      ],
+      "full_summary": "NATO và EU đang tìm kiếm người trung gian để đàm phán với Nga nhằm kết thúc chiến tranh ở Ukraine. Hoa Kỳ đã rút khỏi các cuộc đàm phán ba bên với Nga và Ukraine. Nga tiếp tục tiến hành chiến dịch quân sự ở Ukraine. EU hy vọng tìm được người trung gian để kết thúc chiến tranh và chấm dứt sự tàn phá ở Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "808feef87dda",
+      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:25.710064+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nga nhắm vào cơ sở hạ tầng và dân chủ của Anh",
+      "bullets": [
+        "Nga liên tục tấn công cơ sở hạ tầng quan trọng",
+        "GCHQ cảnh báo về những mối đe dọa đối với an ninh quốc gia",
+        "Chủ tịch GCHQ sẽ đưa ra các biện pháp cần thiết để đối phó",
+        "Anh cần tăng cường hợp tác quốc tế để đối mặt với Nga"
+      ],
+      "full_summary": "Chủ tịch GCHQ sẽ đưa ra báo cáo về các mối đe dọa đối với an ninh quốc gia của Anh. Bà cảnh báo rằng Nga đang nhắm vào cơ sở hạ tầng quan trọng và dân chủ của Anh. Điều này bao gồm các cuộc tấn công mạng và các hoạt động khác nhằm vào các tổ chức quan trọng. Để đối mặt với những mối đe dọa này, Anh cần tăng cường hợp tác quốc tế và triển khai các biện pháp an ninh mạnh mẽ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cc2d4353ad97",
+      "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:26.638530+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel tấn công Gaza, ít nhất 3 người chết",
+      "bullets": [
+        "Israel tiến hành vụ tấn công ở Gaza City",
+        "Hamas cho biết mục tiêu là một chỉ huy của họ",
+        "Ít nhất 3 người chết và hàng chục người bị thương",
+        "Vụ tấn công được thực hiện sau khi Israel tuyên bố nhắm vào một chỉ huy Hamas"
+      ],
+      "full_summary": "Israel đã tiến hành vụ tấn công ở Gaza City, gây ra ít nhất 3 cái chết và hàng chục người bị thương. Theo Israel, mục tiêu của vụ tấn công là một chỉ huy Hamas. Vụ tấn công được thực hiện sau khi Israel tuyên bố nhắm vào một chỉ huy Hamas. Sự kiện này diễn ra sau khi một chỉ huy Hamas trước đó bị giết trong một vụ tấn công tương tự vào tháng 5.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a4e08e8b8f8",
+      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
+      "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:27.736977+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nhiều trẻ em tử vong vì sốt xuất huyết tăng vọt ở Bangladesh",
+      "bullets": [
+        "Tính đến nay, Bangladesh đã ghi nhận hơn 60.000 trường hợp nghi ngờ sốt xuất huyết.",
+        "Hàng trăm trẻ em đã tử vong trong vòng vài tháng qua.",
+        "Số ca sốt xuất huyết đang tăng vọt ở cả trẻ em và người lớn.",
+        "Các quan chức y tế đang nỗ lực tăng cường tiêm chủng để ngăn chặn sự lây lan."
+      ],
+      "full_summary": "Bangladesh đang đối mặt với một trong những vụ bùng phát sốt xuất huyết nghiêm trọng nhất trong nhiều năm. Trong hơn 2 tháng, nước này đã ghi nhận hơn 60.000 trường hợp nghi ngờ sốt xuất huyết. Hàng trăm trẻ em đã tử vong, và các quan chức y tế đang lo ngại về sự lây lan của bệnh. Để ngăn chặn sự lây lan, các quan chức đang nỗ lực tăng cường tiêm chủng và triển khai các biện pháp y tế khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2dbf9f940465",
+      "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:28.902143+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nổ hóa chất tại xí nghiệp giấy ở Mỹ khiến nhiều người thương vong",
+      "bullets": [
+        "Nổ hóa chất xảy ra tại xí nghiệp giấy ở Longview, bang Washington.",
+        "10 người bị thương, số người mất tích vẫn chưa rõ.",
+        "Lý do nguyên nhân vụ nổ hóa chất chưa được công bố."
+      ],
+      "full_summary": "Một vụ nổ hóa chất nghiêm trọng đã xảy ra tại xí nghiệp giấy ở Longview, bang Washington, Mỹ. Theo BBC, 10 người bị thương và số người mất tích vẫn chưa rõ. Vụ nổ xảy ra khi một tank bị rò rỉ hóa chất. Lý do nguyên nhân vụ nổ hóa chất chưa được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "580234923488",
+      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:29.927436+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chuyên gia hack an đạo đức cảnh báo công cụ AI có thể khiến nghề nghiệp của mình khó tồn tại",
+      "bullets": [
+        "Cảnh báo về sự cạnh tranh từ công cụ AI Mythos",
+        "Chuyên gia hack an đạo đức nói công cụ AI sẽ khiến nghề nghiệp của họ khó tồn tại",
+        "Sự phát triển của AI có thể làm thay đổi ngành công nghiệp hack an đạo đức",
+        "Chuyên gia hack an đạo đức hy vọng sẽ tìm được cách thích nghi với sự thay đổi"
+      ],
+      "full_summary": "Chompie, một trong những chuyên gia hack an đạo đức hàng đầu thế giới, đã cảnh báo rằng công cụ AI như Mythos có thể khiến nghề nghiệp của mình khó tồn tại. Theo bà, công cụ AI sẽ làm tăng sự cạnh tranh và khiến cho việc tìm kiếm việc làm trở nên khó khăn hơn. Bà hy vọng sẽ tìm được cách thích nghi với sự thay đổi và tiếp tục đóng góp cho ngành công nghiệp hack an đạo đức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a5a703715be0",
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:30.995272+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Instagram cấm quảng cáo đánh bạc sử dụng hình ảnh Kane và Haaland",
+      "bullets": [
+        "Cục quản lý quảng cáo cho biết quảng cáo có sức hấp dẫn mạnh đối với người dưới 18 tuổi.",
+        "Instagram bị yêu cầu xóa quảng cáo.",
+        "Quảng cáo sử dụng hình ảnh hai cầu thủ bóng đá nổi tiếng.",
+        "Tác động của quảng cáo đối với người trẻ tuổi là mối quan tâm lớn."
+      ],
+      "full_summary": "Cục quản lý quảng cáo đã yêu cầu Instagram xóa quảng cáo đánh bạc sử dụng hình ảnh hai cầu thủ bóng đá nổi tiếng, Harry Kane và Erling Haaland. Các quảng cáo này có sức hấp dẫn mạnh đối với người dưới 18 tuổi. Điều này đã gây ra mối quan tâm lớn về tác động của quảng cáo đối với người trẻ tuổi. Instagram đã bị yêu cầu xóa quảng cáo để đảm bảo an toàn cho người dùng dưới 18 tuổi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f34fe1af7ebc",
+      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
+      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T02:45:32.600561+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tù nhân Venezuela chiếm giữ mái nhà tù, đốt lò đúc để phản đối lạm dụng",
+      "bullets": [
+        "Cư dân tù Barinas nổi loạn trên mái nhà tù",
+        "Tù nhân cáo buộc nhân viên tù bắn vào họ",
+        "Tù nhân yêu cầu thay thế giám đốc tù",
+        "Tù nhân Venezuela kêu gọi công lý"
+      ],
+      "full_summary": "Tù nhân tại tù Barinas ở Venezuela đã chiếm giữ mái nhà tù và đốt lò đúc để phản đối lạm dụng. Họ cáo buộc nhân viên tù đã bắn vào họ, gây thương tích cho một số người. Tù nhân yêu cầu thay thế giám đốc tù và kêu gọi công lý. Sự việc đã được ghi lại bằng video và được chia sẻ trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "336256f5c435",
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-27T02:45:35.845393+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Chương trình nguồn mở Starlette gặp lỗ hổng nghiêm trọng ảnh hưởng đến 325 triệu AI",
+      "bullets": [
+        "Khám phá lỗ hổng nghiêm trọng 'BadHost' trong Starlette",
+        "Lỗ hổng ảnh hưởng đến 325 triệu tải xuống mỗi tuần",
+        "Có thể gây thiệt hại lớn cho các hệ thống AI",
+        "Đội ngũ phát triển đang tìm kiếm giải pháp khắc phục"
+      ],
+      "full_summary": "Một lỗ hổng nghiêm trọng được phát hiện trong chương trình nguồn mở Starlette, có hơn 325 triệu tải xuống mỗi tuần. Lỗ hổng này, được gọi là 'BadHost', có thể gây thiệt hại lớn cho các hệ thống AI. Đội ngũ phát triển đang tìm kiếm giải pháp khắc phục để ngăn chặn lỗ hổng này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "641275e8decc",
       "title": "Why temperature records are being not only broken but smashed",
@@ -613,185 +792,6 @@
         "Tòa án đã ra lệnh trả lại phụ nữ này nhưng chính phủ Mỹ không thực hiện"
       ],
       "full_summary": "Chính phủ Mỹ đã quyết định tạm dừng việc đưa tù nhân đến Cộng hòa Dân chủ Congo do bùng phát dịch Ebola. Mặc dù lệnh cấm di chuyển do dịch Ebola đã được áp dụng, chính phủ Mỹ vẫn sẽ không trả lại những người đã bị đưa đến Kinshasa. Một phụ nữ đã bị mắc kẹt ở Kinshasa vì lệnh cấm di chuyển do dịch Ebola và tòa án đã ra lệnh trả lại cô ta nhưng chính phủ Mỹ không thực hiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ca15923f304",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:36.960054+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hộ chiếu của Kilmar Ábrego bị hủy án",
-      "bullets": [
-        "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự chống lại Kilmar Ábrego.",
-        "Ábrego bị buộc tội vì đã thách thức quyết định trục xuất của chính phủ Trump.",
-        "Chính phủ Trump đã gửi Ábrego đến một nhà tù nổi tiếng ở El Salvador vào tháng 3 năm 2025.",
-        "Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu ông ta không thách thức quyết định trục xuất."
-      ],
-      "full_summary": "Một thẩm phán Mỹ đã hủy bỏ cáo trạng hình sự chống lại Kilmar Ábrego vì ông ta đã thách thức quyết định trục xuất của chính phủ Trump. Ábrego đã bị trục xuất đến El Salvador vào tháng 3 năm 2025 và trở thành biểu tượng của chính sách trục xuất hàng loạt của chính phủ Trump. Thẩm phán cho rằng chính phủ Trump không sẽ truy tố Ábrego nếu ông ta không thách thức quyết định trục xuất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "489a77ac15ef",
-      "title": "Does Anybody Actually Like React?",
-      "url": "https://jsx.lol",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-26T02:35:40.077864+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nhiều người dùng ủng hộ thư viện React",
-      "bullets": [
-        "Phát triển ứng dụng nhanh chóng với React",
-        "Là một trong những thư viện JavaScript phổ biến nhất",
-        "Cung cấp các thành phần UI linh hoạt và dễ sử dụng"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã hỏi liệu có ai thích thư viện React hay không. Kết quả cho thấy nhiều người dùng ủng hộ thư viện này vì khả năng phát triển ứng dụng nhanh chóng và cung cấp các thành phần UI linh hoạt và dễ sử dụng. Tuy nhiên, vẫn có một số ý kiến trái chiều về thư viện này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa282796bd3c",
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-26T02:35:44.203693+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Máy học giúp lập trình viên viết mã tốt hơn nhưng chậm hơn",
-      "bullets": [
-        "Máy học được sử dụng để tạo ra mã lập trình tốt hơn",
-        "Tuy nhiên, quá trình này diễn ra chậm hơn so với việc lập trình thủ công",
-        "Máy học có thể giúp giảm thiểu lỗi lập trình",
-        "Nhưng vẫn còn nhiều thách thức cần được giải quyết"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã thảo luận về việc sử dụng máy học để viết mã lập trình tốt hơn. Máy học có thể giúp tạo ra mã lập trình tốt hơn, giảm thiểu lỗi lập trình và tăng cường hiệu suất. Tuy nhiên, quá trình này diễn ra chậm hơn so với việc lập trình thủ công và vẫn còn nhiều thách thức cần được giải quyết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af6e7b64aaf5",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T19:19:50.189032+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nga đe dọa tấn công Kyiv thêm và yêu cầu công dân nước ngoài rời khỏi",
-      "bullets": [
-        "Nga cảnh báo sẽ tấn công Kyiv nhiều hơn",
-        "Nga yêu cầu công dân nước ngoài rời khỏi Ukraine",
-        "Kyiv chịu đựng đợt tấn công không gian lớn nhất trong chiến tranh",
-        "Nga không công bố lý do tấn công Kyiv"
-      ],
-      "full_summary": "Nga cảnh báo sẽ tấn công Kyiv nhiều hơn sau khi thủ đô Ukraine chịu đựng đợt tấn công không gian lớn nhất trong chiến tranh. Nga yêu cầu công dân nước ngoài rời khỏi Ukraine. Lý do tấn công Kyiv vẫn chưa được công bố. Đây là một bước đi mới trong chiến tranh giữa Ukraine và Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f9cc22b21f6f",
-      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
-      "url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T19:19:51.196564+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tội phạm xâm nhập Lãnh sự quán Trắng từng chặn lối vào",
-      "bullets": [
-        "Tội phạm chặn lối vào Lãnh sự quán Trắng vào tháng 6 năm 2025",
-        "Tội phạm tuyên bố là Jesus Christ với các nhân viên An ninh Lãnh sự",
-        "Tội phạm có tiền sử vi phạm quy định An ninh Lãnh sự",
-        "Tội phạm bị bắt giữ sau vụ tấn công vào Lãnh sự quán Trắng"
-      ],
-      "full_summary": "Một tội phạm đã xâm nhập vào Lãnh sự quán Trắng và bị bắt giữ. Theo hồ sơ tòa án, tội phạm đã từng chặn lối vào Lãnh sự quán Trắng vào tháng 6 năm 2025 và tuyên bố là Jesus Christ với các nhân viên An ninh Lãnh sự. Điều này cho thấy tội phạm có tiền sử vi phạm quy định An ninh Lãnh sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b51199df7333",
-      "title": "Three killed in Uganda after crashing into elephant",
-      "url": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T19:19:52.813213+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bốn người chết sau khi đâm vào voi trong công viên quốc gia Uganda",
-      "bullets": [
-        "Ba người chết và bốn người bị thương trong vụ tai nạn",
-        "Vụ việc xảy ra bên trong Công viên quốc gia Murchison Falls",
-        "Các quan chức cho biết vụ tai nạn nghiêm trọng",
-        "Công viên quốc gia là nơi bảo tồn động vật hoang dã"
-      ],
-      "full_summary": "Bốn người đã chết và bốn người bị thương sau khi chiếc xe đâm vào voi trong Công viên quốc gia Murchison Falls ở Uganda. Vụ tai nạn xảy ra vào ngày 24 tháng 5. Các quan chức cho biết vụ tai nạn nghiêm trọng và đang điều tra nguyên nhân. Công viên quốc gia là nơi bảo tồn động vật hoang dã và là một điểm du lịch nổi tiếng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6e9beefa1f75",
-      "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
-      "url": "https://www.bbc.com/news/articles/cm2ppv1r3xzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T19:19:54.403503+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Kem Sokha được ân xá sau 27 năm tù",
-      "bullets": [
-        "Kem Sokha được vua Campuchia ân xá sau 27 năm ngồi tù",
-        "Kem Sokha bị kết án vì tội phản quốc, nhưng nhiều người cho rằng là bị định tội chính trị",
-        "Kem Sokha từng là lãnh đạo đối lập của Campuchia",
-        "Kem Sokha được thả ra sau khi nhận được ân xá"
-      ],
-      "full_summary": "Kem Sokha, cựu lãnh đạo đối lập của Campuchia, đã được vua Campuchia ân xá sau 27 năm ngồi tù vì tội phản quốc. Kem Sokha từng bị kết án vì tội phản quốc, nhưng nhiều người cho rằng là bị định tội chính trị. Kem Sokha đã bị bắt giữ vào năm 2017 và bị kết án 27 năm tù. Việc ân xá của Kem Sokha được cho là một bước tiến quan trọng trong việc cải thiện tình hình chính trị của Campuchia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2db1282155c6",
-      "title": "'Blistering heat': Indians warned to stay indoors as temperatures soar",
-      "url": "https://www.bbc.com/news/videos/ckgppxw9239o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T19:19:55.414874+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiệt độ cao kỷ lục ở Ấn Độ, người dân được khuyên ở nhà",
-      "bullets": [
-        "Nhiệt độ ở Delhi đạt 45 độ C",
-        "Người dân Ấn Độ được khuyên ở nhà để tránh cái nóng",
-        "Nhiệt độ cao kỷ lục gây khó khăn cho cuộc sống hàng ngày",
-        "Các biện pháp phòng ngừa được đưa ra để giảm thiểu tác động của cái nóng"
-      ],
-      "full_summary": "Nhiệt độ cao kỷ lục đang ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày ở Ấn Độ. Nhiệt độ ở Delhi đã đạt 45 độ C, khiến cho việc ra ngoài trở nên khó khăn. Người dân Ấn Độ đang được khuyên ở nhà để tránh cái nóng và các biện pháp phòng ngừa được đưa ra để giảm thiểu tác động của cái nóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b269aafacb7d",
-      "title": "AI may speed up search for drugs to treat brain conditions",
-      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-25T19:19:56.348112+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Máy học có thể giúp tìm ra thuốc điều trị các tình trạng não hiệu quả",
-      "bullets": [
-        "Tìm kiếm thuốc điều trị bệnh MND có thể trở nên nhanh chóng hơn",
-        "Máy học sẽ giúp xác định thuốc hiệu quả và giá cả phải chăng",
-        "Nghiên cứu này hy vọng sẽ giúp tìm ra thuốc điều trị các tình trạng não khác",
-        "Máy học có thể giúp giảm chi phí và thời gian phát triển thuốc"
-      ],
-      "full_summary": "Các nhà nghiên cứu đang sử dụng máy học để tìm kiếm thuốc điều trị các tình trạng não như bệnh MND. Họ hy vọng rằng công việc này sẽ giúp xác định thuốc hiệu quả và giá cả phải chăng. Máy học có thể giúp giảm chi phí và thời gian phát triển thuốc, từ đó giúp nhiều người bệnh hơn.",
       "comments": 0,
       "score": 0
     }
