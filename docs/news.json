@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-05-27T02:45:40.487468+00:00",
+  "updated_at": "2026-05-27T09:34:44.575575+00:00",
   "articles": [
+    {
+      "id": "6f7c098d090e",
+      "title": "Nasa unveils next steps to build permanent Moon base",
+      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T09:34:29.034303+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "NASA chuẩn bị xây dựng trạm vũ trụ vĩnh viễn trên Mặt Trăng",
+      "bullets": [
+        "Sẽ gửi các drone nhảy múa và xe tự hành đến Mặt Trăng",
+        "Phát triển hệ thống hỗ trợ sinh hoạt cho các phi hành gia",
+        "Tìm kiếm nguồn tài nguyên thiên nhiên trên Mặt Trăng",
+        "Xây dựng cơ sở hạ tầng cho trạm vũ trụ vĩnh viễn"
+      ],
+      "full_summary": "NASA đã công bố kế hoạch xây dựng trạm vũ trụ vĩnh viễn trên Mặt Trăng. Để đạt được mục tiêu này, NASA sẽ gửi các drone nhảy múa và xe tự hành đến Mặt Trăng để thu thập dữ liệu và thử nghiệm công nghệ. Các phi hành gia sẽ được hỗ trợ bởi hệ thống sinh hoạt hiện đại và có thể tìm kiếm nguồn tài nguyên thiên nhiên trên Mặt Trăng. Mục tiêu cuối cùng là xây dựng cơ sở hạ tầng cho trạm vũ trụ vĩnh viễn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1ca167dd77cd",
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T09:34:30.038816+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tòa án Ý xác định khách sạn không vi phạm quyền của du khách",
+      "bullets": [
+        "Từ chối cho du khách nước uống miễn phí",
+        "Khách sạn chỉ cung cấp nước đóng chai giá 7 euro",
+        "Tòa án Ý bác bỏ yêu cầu của du khách",
+        "Khách sạn được xác định đã tuân thủ pháp luật"
+      ],
+      "full_summary": "Tòa án Tối cao Ý đã bác bỏ yêu cầu của một du khách, cho rằng khách sạn đã vi phạm quyền của cô ấy khi chỉ cung cấp nước đóng chai giá 7 euro. Theo tòa án, khách sạn đã tuân thủ pháp luật khi từ chối cung cấp nước miễn phí. Yêu cầu của du khách được đưa ra sau khi cô ấy không được khách sạn cung cấp nước uống miễn phí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a6db56c7c86a",
+      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T09:34:31.232581+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cử tri Texas ủng hộ ứng cử viên mới đánh bại thượng nghị sĩ kỳ cựu",
+      "bullets": [
+        "Đã có kết quả bầu cử sơ bộ ở Texas",
+        "Ứng cử viên mới của Đảng Cộng hòa thắng cử",
+        "Thượng nghị sĩ kỳ cựu sẽ đối đầu với đối thủ Dân chủ trong cuộc bầu cử tháng 11",
+        "Kết quả sẽ tạo ra cuộc đua được chú ý trong cuộc bầu cử tổng thống"
+      ],
+      "full_summary": "Ứng cử viên mới của Đảng Cộng hòa, được hậu thuẫn bởi cựu Tổng thống Trump, đã thắng cử trong cuộc bầu cử sơ bộ ở Texas. Kết quả này sẽ tạo ra một cuộc đua được chú ý trong cuộc bầu cử tháng 11, khi ứng cử viên này sẽ đối đầu với đối thủ Dân chủ. Thượng nghị sĩ kỳ cựu đã bị đánh bại trong cuộc bầu cử sơ bộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b269aafacb7d",
+      "title": "AI may speed up search for drugs to treat brain conditions",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T09:34:32.257717+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Công nghệ AI giúp tìm kiếm thuốc điều trị bệnh não hiệu quả hơn",
+      "bullets": [
+        "Tìm kiếm thuốc điều trị bệnh não bằng AI đang được nghiên cứu",
+        "Hy vọng tìm ra thuốc hiệu quả và giá cả phải chăng",
+        "Mục tiêu là điều trị bệnh MND và các bệnh khác",
+        "Cải thiện chất lượng cuộc sống cho người bệnh"
+      ],
+      "full_summary": "Các nhà nghiên cứu đang sử dụng công nghệ AI để tìm kiếm thuốc điều trị bệnh não hiệu quả hơn. Họ hy vọng sẽ tìm ra thuốc có thể điều trị bệnh MND và các bệnh khác một cách hiệu quả và giá cả phải chăng. Điều này sẽ giúp cải thiện chất lượng cuộc sống cho người bệnh. Các nghiên cứu đang được tiến hành để xác định liệu công nghệ AI có thể giúp tìm kiếm thuốc mới hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6ff4055a2781",
+      "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-27T09:34:33.374922+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Pope Leo có thể đang nhắm vào tỷ phú Peter Thiel với câu trích dẫn Gandalf",
+      "bullets": [
+        "Phát biểu của Giáo hoàng Leo gây tranh cãi về tỷ phú Peter Thiel",
+        "Câu trích dẫn từ Gandalf trong Lord of the Rings có thể ám chỉ Thiel",
+        "Nghiên cứu cho thấy Thiel có liên quan đến nhiều vấn đề xã hội",
+        "Tỷ phú này đã không phản hồi về câu trích dẫn của Giáo hoàng"
+      ],
+      "full_summary": "Giáo hoàng Leo đã gây tranh cãi khi phát biểu về tỷ phú Peter Thiel, người được cho là đã sử dụng quyền lực của mình để thao túng xã hội. Câu trích dẫn từ Gandalf trong Lord of the Rings có thể ám chỉ Thiel, người đã không phản hồi về phát biểu của Giáo hoàng. Nghiên cứu cho thấy Thiel có liên quan đến nhiều vấn đề xã hội, bao gồm việc sử dụng tiền bạc để ảnh hưởng đến chính trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "99105d43bf32",
+      "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
+      "url": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-27T09:34:34.403948+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Musk tố cáo quân đội Mỹ vi phạm quy định sử dụng Starlink",
+      "bullets": [
+        "Musk cáo buộc quân đội Mỹ sử dụng Starlink trong các drone tự sát",
+        "Drones tự sát này vi phạm quy định của SpaceX",
+        "Musk đổ lỗi cho nhà thầu quân sự đã sử dụng Starlink",
+        "Nguồn cung cấp Starlink cho quân đội Mỹ là Starshield"
+      ],
+      "full_summary": "Elon Musk cáo buộc quân đội Mỹ đã sử dụng Starlink trong các drone tự sát, vi phạm quy định của SpaceX. Theo Musk, quân đội Mỹ đã sử dụng Starlink thay vì Starshield, nguồn cung cấp Starlink chính thức cho quân đội. Musk đổ lỗi cho nhà thầu quân sự đã sử dụng Starlink mà không có sự cho phép của SpaceX.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2a51b96e93c1",
+      "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
+      "url": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-27T09:34:36.743340+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Làm giàu oxy trong khí quyển bằng cách đưa các chất khác vào lõi Trái Đất",
+      "bullets": [
+        "Cần đưa cacbon và lưu huỳnh vào lõi Trái Đất",
+        "Quá trình tạo oxy có thể liên quan đến hoạt động kiến tạo mảng",
+        "Vai trò của các chất khác trong quá trình oxy hóa khí quyển chưa được hiểu rõ",
+        "Nghiên cứu đang được tiến hành để hiểu rõ hơn về quá trình này"
+      ],
+      "full_summary": "Một nghiên cứu mới cho thấy quá trình tạo oxy trong khí quyển có thể liên quan đến việc đưa cacbon và lưu huỳnh vào lõi Trái Đất. Quá trình này có thể xảy ra do hoạt động kiến tạo mảng, làm giàu oxy trong khí quyển. Mặc dù vẫn còn nhiều điều chưa được hiểu rõ, nghiên cứu đang được tiến hành để tìm hiểu thêm về quá trình này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ad121e677b8",
+      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+      "url": "https://tsduck.io/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-27T09:34:41.530171+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công cụ mã nguồn mở TSDuck hỗ trợ phân tích và chỉnh sửa MPEG-TS",
+      "bullets": [
+        "Tạo ra một công cụ mã nguồn mở để phân tích và chỉnh sửa MPEG-TS",
+        "Cung cấp các tính năng mạnh mẽ để xử lý và phân tích dữ liệu",
+        "Hỗ trợ các định dạng dữ liệu khác nhau"
+      ],
+      "full_summary": "TSDuck là một công cụ mã nguồn mở được thiết kế để phân tích và chỉnh sửa dữ liệu MPEG-TS. Công cụ này cung cấp các tính năng mạnh mẽ để xử lý và phân tích dữ liệu, bao gồm hỗ trợ các định dạng dữ liệu khác nhau. TSDuck được thiết kế để giúp người dùng dễ dàng phân tích và chỉnh sửa dữ liệu MPEG-TS.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1b9d78daaf17",
       "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
@@ -633,165 +792,6 @@
         "Có sẵn để tải về trên trang web chính thức"
       ],
       "full_summary": "Trò chơi Earthion là một trò chơi bắn súng mới có phong cách Mega Drive-style shoot-em-up. Trò chơi được phát triển bởi một nhóm lập trình viên và có sẵn để tải về trên trang web chính thức. Thông tin về trò chơi đã được tiết lộ trên trang web chính thức và trên Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c9ad45b6d706",
-      "title": "US military says it has launched new strikes on southern Iran",
-      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:26.860038+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ thực hiện các cuộc tấn công mới ở miền nam Iran",
-      "bullets": [
-        "Mỹ tiến hành các cuộc tấn công vào các địa điểm phóng tên lửa và tàu của Iran",
-        "Hành động này được thực hiện để tự vệ, theo tuyên bố của Bộ chỉ huy Trung tâm Mỹ",
-        "Các cuộc tấn công nhằm vào các mục tiêu ở Iran",
-        "Mỹ không cung cấp thêm thông tin về các mục tiêu cụ thể"
-      ],
-      "full_summary": "Mỹ đã thực hiện các cuộc tấn công mới vào các địa điểm phóng tên lửa và tàu của Iran. Theo Bộ chỉ huy Trung tâm Mỹ, các cuộc tấn công này được thực hiện để tự vệ. Các cuộc tấn công nhằm vào các mục tiêu ở Iran nhưng Mỹ không cung cấp thêm thông tin về các mục tiêu cụ thể. Điều này đã gây ra lo ngại về sự leo thang căng thẳng giữa Mỹ và Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ef1be1619a3c",
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:27.987709+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel tăng cường tấn công Hezbollah",
-      "bullets": [
-        "Israel tấn công các mục tiêu ở phía đông Liban",
-        "Chính phủ Israel tuyên bố sẽ tiếp tục tấn công Hezbollah",
-        "Các vụ tấn công diễn ra sau khi thủ tướng Israel phát biểu",
-        "Mục tiêu của Israel là ngăn chặn các hoạt động của Hezbollah"
-      ],
-      "full_summary": "Thủ tướng Israel Benjamin Netanyahu tuyên bố sẽ tăng cường tấn công Hezbollah sau khi các vụ tấn công của quân đội Israel nhắm vào các mục tiêu ở phía đông Liban. Các vụ tấn công diễn ra sau khi thủ tướng Israel phát biểu về kế hoạch của mình. Mục tiêu của Israel là ngăn chặn các hoạt động của Hezbollah và bảo vệ an ninh quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "661e6827ad35",
-      "title": "Social media as bad for young people as smoking, top doctors say",
-      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:29.275559+00:00",
-      "category": "sức khỏe",
-      "importance": 4,
-      "headline": "Bác sĩ khuyên cha mẹ kiểm tra thời gian sử dụng mạng xã hội của con",
-      "bullets": [
-        "Bác sĩ nên kiểm tra thời gian sử dụng màn hình và mạng xã hội của trẻ khi thăm khám",
-        "Academy of Medical Royal Colleges cảnh báo về tác hại của mạng xã hội đối với trẻ em",
-        "Bác sĩ nên tư vấn cho phụ huynh về cách quản lý thời gian sử dụng mạng xã hội cho con",
-        "Tác hại của mạng xã hội đối với trẻ em tương tự như tác hại của thuốc lá"
-      ],
-      "full_summary": "Academy of Medical Royal Colleges vừa đưa ra cảnh báo về tác hại của mạng xã hội đối với trẻ em. Bác sĩ nên kiểm tra thời gian sử dụng màn hình và mạng xã hội của trẻ khi thăm khám. Họ cũng nên tư vấn cho phụ huynh về cách quản lý thời gian sử dụng mạng xã hội cho con. Tác hại của mạng xã hội đối với trẻ em tương tự như tác hại của thuốc lá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f7ad76c1237d",
-      "title": "The rise of the fruit that tastes like custard",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:30.689561+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Custard apple được yêu thích vì sự cứng rắn nhưng khó xuất khẩu",
-      "bullets": [
-        "Cây cam sành được yêu thích vì sự cứng rắn",
-        "Hạt cam sành khó xuất khẩu vì tính dễ vỡ",
-        "Nghiên cứu mới giúp bảo quản hạt cam sành",
-        "Sự phát triển của cây cam sành đang tăng lên"
-      ],
-      "full_summary": "Custard apple (cam sành) là loại cây được yêu thích vì sự cứng rắn và khả năng chịu đựng tốt. Tuy nhiên, hạt cam sành lại rất dễ vỡ và khó bảo quản, khiến việc xuất khẩu trở nên khó khăn. Các nhà nghiên cứu đang tìm cách bảo quản hạt cam sành để tăng cường khả năng xuất khẩu. Sự phát triển của cây cam sành đang tăng lên, tạo điều kiện thuận lợi cho việc nghiên cứu và phát triển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ccfde19f9a9d",
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:31.630192+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Waymo tạm dừng dịch vụ xe tự lái ở 5 thành phố Mỹ do lũ lụt",
-      "bullets": [
-        "Tạm dừng dịch vụ xe tự lái ở 5 thành phố",
-        "Lý do là do xe tự lái chạy vào đường ngập nước",
-        "Waymo tăng cường cảnh giác để đảm bảo an toàn",
-        "Dịch vụ sẽ được khôi phục khi an toàn được đảm bảo"
-      ],
-      "full_summary": "Waymo đã tạm dừng dịch vụ xe tự lái ở 5 thành phố Mỹ bao gồm San Francisco, Phoenix, Atlanta, Dallas và Washington DC. Lý do là do xe tự lái của công ty chạy vào đường ngập nước. Một đại diện của Waymo cho biết đã tăng cường cảnh giác để đảm bảo an toàn. Dịch vụ sẽ được khôi phục khi an toàn được đảm bảo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0554ab616637",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:33.009053+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng ứng phó.",
-      "bullets": [
-        "WHO đang tăng cường các biện pháp ứng phó",
-        "Dịch bệnh đang lan rộng nhanh chóng",
-        "Các nước láng giềng của DRC đang ở mức độ rủi ro cao",
-        "WHO kêu gọi các nước láng giềng hành động ngay lập tức"
-      ],
-      "full_summary": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng ứng phó. Giám đốc WHO, Dr. Tedros Adhanom Ghebreyesus, cho biết dịch bệnh đang lan rộng nhanh chóng và các nước láng giềng của DRC đang ở mức độ rủi ro cao. Ông kêu gọi các nước láng giềng hành động ngay lập tức để ngăn chặn sự lây lan của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a97ef32fe876",
-      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
-      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:34.090760+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Thời gian chiến tranh, đói nghèo trở thành vũ khí",
-      "bullets": [
-        "Tấn công vào các chợ, ruộng đất và hệ thống phân phối lương thực",
-        "Hơn 20.000 vụ tấn công liên quan đến lương thực đã được ghi nhận",
-        "Các hệ thống phân phối lương thực bị tấn công khiến nhiều người chết"
-      ],
-      "full_summary": "Theo phân tích mới, hơn 20.000 vụ tấn công liên quan đến lương thực đã xảy ra trong 8 năm qua. Các vụ tấn công bao gồm 1.261 vụ tấn công vào các chợ và 863 vụ tấn công vào các hệ thống phân phối lương thực, khiến nhiều người chết. Điều này cho thấy đói nghèo đang được sử dụng như một vũ khí trong chiến tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "56cf6f4e3a16",
-      "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
-      "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T02:35:35.731518+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chính phủ Mỹ tạm dừng đưa tù nhân đến Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "Chính phủ Mỹ tạm dừng việc đưa người tị nạn đến Cộng hòa Dân chủ Congo",
-        "Bùng phát dịch Ebola khiến Mỹ tạm dừng việc đưa tù nhân đến khu vực này",
-        "Một phụ nữ bị mắc kẹt ở Kinshasa vì lệnh cấm di chuyển do dịch Ebola",
-        "Tòa án đã ra lệnh trả lại phụ nữ này nhưng chính phủ Mỹ không thực hiện"
-      ],
-      "full_summary": "Chính phủ Mỹ đã quyết định tạm dừng việc đưa tù nhân đến Cộng hòa Dân chủ Congo do bùng phát dịch Ebola. Mặc dù lệnh cấm di chuyển do dịch Ebola đã được áp dụng, chính phủ Mỹ vẫn sẽ không trả lại những người đã bị đưa đến Kinshasa. Một phụ nữ đã bị mắc kẹt ở Kinshasa vì lệnh cấm di chuyển do dịch Ebola và tòa án đã ra lệnh trả lại cô ta nhưng chính phủ Mỹ không thực hiện.",
       "comments": 0,
       "score": 0
     }
