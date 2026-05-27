@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-05-27T15:00:58.715574+00:00",
+  "updated_at": "2026-05-27T20:05:39.712351+00:00",
   "articles": [
+    {
+      "id": "45ff2cf6401b",
+      "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T20:05:24.520740+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel tấn công Tyre sau khi yêu cầu người dân di dời khỏi thành phố phía nam Liban",
+      "bullets": [
+        "Israel tấn công mục tiêu Hezbollah tại Tyre",
+        "Israel cảnh báo người dân sẽ hành động mạnh mẽ",
+        "Người dân được yêu cầu di dời khỏi thành phố",
+        "Israel tuyên bố tấn công nhằm vào Hezbollah"
+      ],
+      "full_summary": "Israel đã tấn công các mục tiêu của Hezbollah tại thành phố Tyre sau khi cảnh báo người dân sẽ hành động mạnh mẽ. Người dân đã được yêu cầu di dời khỏi thành phố. Israel tuyên bố tấn công nhằm vào Hezbollah. Điều này đã dẫn đến những lo ngại về xung đột ở khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff630b0bc95f",
+      "title": "Trump says US 'not satisfied' with Iran deal yet",
+      "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T20:05:25.400521+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu Tổng thống Mỹ chưa đồng ý với thỏa thuận Iran",
+      "bullets": [
+        "Cựu Tổng thống Mỹ Donald Trump nói Mỹ chưa hài lòng với thỏa thuận Iran",
+        "Mỹ và Iran vẫn chưa đạt được thỏa thuận về các điều khoản",
+        "Cựu Tổng thống Trump tin rằng Iran muốn đạt được thỏa thuận",
+        "Mỹ và Iran vẫn đang đàm phán để đạt được thỏa thuận"
+      ],
+      "full_summary": "Cựu Tổng thống Mỹ Donald Trump cho biết Mỹ chưa hài lòng với thỏa thuận Iran. Ông Trump tin rằng Iran muốn đạt được thỏa thuận nhưng vẫn chưa đạt được thỏa thuận về các điều khoản. Mặc dù vậy, Mỹ và Iran vẫn đang đàm phán để đạt được thỏa thuận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "02490b8b688c",
+      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T20:05:26.806253+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hoa Kỳ xây trạm cách ly Ebola ở Kenya cho công dân",
+      "bullets": [
+        "Hoa Kỳ đang xây dựng một trạm cách ly và điều trị Ebola ở Kenya",
+        "Trạm này sẽ dành cho công dân Mỹ bị phơi nhiễm Ebola tại Cộng hòa Dân chủ Congo",
+        "Chính phủ Mỹ không cho phép công dân quay về nước",
+        "Một số chuyên gia chỉ trích cách tiếp cận của Nhà Trắng"
+      ],
+      "full_summary": "Hoa Kỳ đang xây dựng một trạm cách ly và điều trị Ebola ở Kenya cho công dân Mỹ bị phơi nhiễm bệnh. Theo The Guardian, trạm này sẽ được xây dựng tại Kenya để cách ly và điều trị những người bị phơi nhiễm Ebola. Một số chuyên gia chỉ trích cách tiếp cận của Nhà Trắng vì cho rằng không cho phép công dân quay về nước sẽ ảnh hưởng đến nỗ lực điều trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6a0192329dee",
+      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T20:05:28.094494+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "WHO yêu cầu ngừng bắn tại DRC để đối phó với dịch Ebola",
+      "bullets": [
+        "WHO yêu cầu ngừng bắn ngay lập tức tại DRC để hỗ trợ đối phó với dịch Ebola",
+        "Uganda đóng cửa biên giới với DRC để ngăn chặn sự lây lan của dịch bệnh",
+        "Tedros Adhanom Ghebreyesus sẽ đến DRC trong tuần này để đánh giá tình hình",
+        "Dịch Ebola đang lan rộng nhanh chóng tại tỉnh Ituri"
+      ],
+      "full_summary": "Tedros Adhanom Ghebreyesus, Tổng giám đốc Tổ chức Y tế Thế giới (WHO), đã yêu cầu ngừng bắn ngay lập tức tại Cộng hòa Dân chủ Congo (DRC) để hỗ trợ đối phó với dịch Ebola đang bùng phát. Theo WHO, dịch Ebola đang lan rộng nhanh chóng tại tỉnh Ituri và đang gặp phải sự kháng cự từ các nhóm vũ trang địa phương. Uganda đã đóng cửa biên giới với DRC để ngăn chặn sự lây lan của dịch bệnh. Tedros sẽ đến DRC trong tuần này để đánh giá tình hình và hỗ trợ nỗ lực chống dịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7dff07b63555",
+      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T20:05:29.461849+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Số ca nghi ngờ Ebola tại DRC vượt 900, sức khỏe nhân viên bị đe dọa",
+      "bullets": [
+        "Đã xác định 904 ca nghi ngờ Ebola và 119 ca tử vong tại DRC",
+        "Các nhân viên y tế gặp phải các cuộc tấn công và thiếu hụt thiết bị",
+        "WHO đánh giá mức độ rủi ro cao cho nước này",
+        "Rủi ro lây lan toàn cầu vẫn còn thấp"
+      ],
+      "full_summary": "Số ca nghi ngờ Ebola tại Cộng hòa Dân chủ Congo (DRC) đã vượt qua 900 trong đợt bùng phát ở phía đông nước này. Theo Bộ Thông tin của DRC, đã có 904 ca nghi ngờ và 119 ca tử vong. Tổ chức Y tế Thế giới (WHO) đánh giá mức độ rủi ro cao cho nước này, nhưng rủi ro lây lan toàn cầu vẫn còn thấp. Các nhân viên y tế đang gặp phải các cuộc tấn công và thiếu hụt thiết bị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c78f7ab8a3a2",
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-27T20:05:30.760485+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Canada chọn máy bay cảnh báo từ Thụy Điển thay Mỹ",
+      "bullets": [
+        "Canada sẽ mua máy bay cảnh báo GlobalEye từ Thụy Điển",
+        "Sản phẩm này được sử dụng để giám sát lãnh thổ Bắc Cực",
+        "Canada giảm sự phụ thuộc vào các công ty quốc phòng Mỹ",
+        "Bộ trưởng Mark Carney công bố quyết định này"
+      ],
+      "full_summary": "Canada sẽ mua một đội máy bay cảnh báo GlobalEye từ Thụy Điển thay vì máy bay E-7 Wedgetail của Boeing. Đây là một phần trong nỗ lực giảm sự phụ thuộc vào các công ty quốc phòng Mỹ. Bộ trưởng Mark Carney cho biết Canada sẽ chọn máy bay GlobalEye do Saab sản xuất, dựa trên máy bay Global 6500 của Bombardier. Máy bay GlobalEye sẽ được sử dụng để giám sát lãnh thổ Bắc Cực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "95b5661e53ac",
+      "title": "YouTube to begin automatically labeling AI videos",
+      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-27T20:05:35.208507+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "YouTube sắp tự động dán nhãn video AI",
+      "bullets": [
+        "YouTube sẽ bắt đầu tự động dán nhãn video AI",
+        "Video AI sẽ được nhận diện dựa trên các yếu tố như hoạt hình, không thực tế",
+        "Một số video AI vẫn có thể che giấu nguồn gốc của chúng"
+      ],
+      "full_summary": "YouTube sắp triển khai tính năng tự động dán nhãn video AI. Tính năng này sẽ giúp người dùng nhận diện video AI dựa trên các yếu tố như hoạt hình, không thực tế. Tuy nhiên, một số video AI vẫn có thể che giấu nguồn gốc của chúng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b73af2effaeb",
       "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
@@ -656,144 +795,6 @@
         "Fifa đã xác nhận Iran sẽ đặt căn cứ tại Tijuana"
       ],
       "full_summary": "Chủ tịch Mexico Claudia Sheinbaum cho biết chính phủ Mexico đã đồng ý cho đội bóng Iran ở lại trong World Cup. Điều này diễn ra sau khi Mỹ từ chối cho Iran ở lại. Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ nhưng đặt căn cứ tại Tijuana, Mexico. Fifa đã xác nhận Iran sẽ đặt căn cứ tại Tijuana.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1e7e44f32687",
-      "title": "A global brand but local cars is Audi's future, says CEO",
-      "url": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-26T20:01:14.458813+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Audi tập trung vào sản xuất xe tại địa phương",
-      "bullets": [
-        "Xây dựng thương hiệu toàn cầu nhưng sản xuất xe tại địa phương là tương lai của Audi",
-        "CEO Audi cho biết công ty đang xem xét sản xuất xe mới tại các nước",
-        "Audi có kế hoạch sản xuất xe điện và xe hybrid tại các nhà máy địa phương"
-      ],
-      "full_summary": "Gernot Döllner, CEO của Audi AG, đã chia sẻ về tương lai của công ty trong một cuộc phỏng vấn. Ông cho biết Audi sẽ tập trung vào sản xuất xe tại địa phương, thay vì chỉ tập trung vào sản xuất xe toàn cầu. Điều này sẽ giúp công ty giảm chi phí và tăng cường sự cạnh tranh. Ngoài ra, Audi cũng đang xem xét sản xuất xe điện và xe hybrid tại các nhà máy địa phương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f2c478136166",
-      "title": "The real cost of owning a home",
-      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-26T20:01:18.026161+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Chi phí sở hữu nhà cao hơn bạn tưởng tượng",
-      "bullets": [
-        "Giá mua nhà không phải là chi phí duy nhất khi sở hữu nhà",
-        "Phí bảo trì và sửa chữa nhà cũng chiếm một phần đáng kể",
-        "Chi phí lãi suất và bảo hiểm nhà cũng không thể bỏ qua",
-        "Tính toán kỹ lưỡng trước khi quyết định mua nhà"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã chỉ ra rằng chi phí sở hữu nhà không chỉ dừng lại ở giá mua. Phí bảo trì và sửa chữa nhà, chi phí lãi suất và bảo hiểm nhà cũng chiếm một phần đáng kể. Để sở hữu nhà một cách thông minh, bạn cần tính toán kỹ lưỡng trước khi quyết định mua nhà.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bfa53879016f",
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T14:52:34.515013+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ tấn công Iran trong thời gian đàm phán hòa bình",
-      "bullets": [
-        "Mỹ tiến hành các cuộc tấn công vào Iran",
-        "Các đàm phán hòa bình giữa Iran và Qatar đang diễn ra tại Doha",
-        "Iran lên án các cuộc tấn công là 'vi phạm nghiêm trọng' hiệp định ngừng bắn",
-        "Các cuộc đàm phán hòa bình vẫn tiếp tục diễn ra"
-      ],
-      "full_summary": "Mỹ đã tiến hành các cuộc tấn công vào Iran trong khi các đàm phán hòa bình giữa Iran và Qatar đang diễn ra tại Doha. Iran lên án các cuộc tấn công là 'vi phạm nghiêm trọng' hiệp định ngừng bắn. Các cuộc đàm phán hòa bình vẫn tiếp tục diễn ra để tìm kiếm giải pháp hòa bình cho khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d3ba4f213b98",
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T14:52:35.613641+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bốn người chết trong tai nạn xe buýt học sinh va chạm với tàu hỏa ở Bỉ",
-      "bullets": [
-        "Va chạm giữa xe buýt học sinh và tàu hỏa ở Bỉ gây tử vong cho bốn người",
-        "Hai học sinh và người chaperone cùng tài xế xe buýt đều thiệt mạng",
-        "Bộ trưởng Bỉ xác nhận thông tin về vụ tai nạn nghiêm trọng"
-      ],
-      "full_summary": "Một vụ tai nạn nghiêm trọng đã xảy ra ở Bỉ khi xe buýt chở học sinh va chạm với tàu hỏa. Theo Bộ trưởng Bỉ, hai học sinh, người chaperone và tài xế xe buýt đều thiệt mạng. Vụ tai nạn đã gây ra sự chú ý lớn ở Bỉ và quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7de43f886f6e",
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T14:52:37.415736+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Israel tấn công mạnh Hezbollah, khiến 11 người chết ở Lebanon",
-      "bullets": [
-        "Israel tấn công 100 địa điểm của Hezbollah ở Lebanon",
-        "Chính phủ Israel cam kết tiêu diệt Hezbollah",
-        "Số người chết trong vụ tấn công ở làng Lebanon tăng lên 11",
-        "Tình hình ở khu vực này đang trở nên căng thẳng"
-      ],
-      "full_summary": "Israel đã tiến hành một loạt các cuộc tấn công mạnh mẽ vào Hezbollah ở Lebanon, sau khi Thủ tướng Benjamin Netanyahu cam kết tiêu diệt tổ chức này. Theo Israel, họ đã tấn công 100 địa điểm của Hezbollah, khiến 11 người chết ở một làng ở Lebanon. Thủ tướng Netanyahu đã tuyên bố rằng Israel sẽ không ngừng tấn công Hezbollah cho đến khi họ bị tiêu diệt. Tình hình ở khu vực này đang trở nên căng thẳng và có thể dẫn đến một cuộc xung đột lớn hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "41ece54e1f03",
-      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
-      "url": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T14:52:38.448702+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Congo cần phản ứng nhanh chóng để ngăn chặn thảm họa Ebola",
-      "bullets": [
-        "Cập nhật tình hình: Ebola đang lan rộng ở tỉnh Ituri",
-        "Thống đốc tỉnh Ituri cảnh báo thời gian trôi qua càng lâu, nguy cơ thảm họa càng cao",
-        "Tình hình y tế đang trở nên tồi tệ hơn",
-        "Cần có phản ứng nhanh chóng để ngăn chặn sự lan rộng của bệnh"
-      ],
-      "full_summary": "Thống đốc tỉnh Ituri, tỉnh thuộc Cộng hòa Dân chủ Congo, đã cảnh báo rằng thời gian trôi qua càng lâu, nguy cơ thảm họa Ebola càng cao. Ông cho biết tình hình y tế đang trở nên tồi tệ hơn và cần có phản ứng nhanh chóng để ngăn chặn sự lan rộng của bệnh. Ebola đã lan rộng ở tỉnh Ituri và cần có các biện pháp khẩn cấp để ngăn chặn thảm họa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9ae9c81e990a",
-      "title": "Love factually: Dating start-ups promise to cut the cheats",
-      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T14:52:39.561333+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Dịch vụ hẹn hò mới hứa hẹn giảm thiểu lừa đảo",
-      "bullets": [
-        "Xây dựng các ứng dụng hẹn hò mới nhằm giảm thiểu lừa đảo",
-        "Sử dụng các phương pháp xác minh tính xác thực của hồ sơ",
-        "Tạo ra môi trường hẹn hò an toàn và đáng tin cậy",
-        "Hỗ trợ người dùng trong việc tìm kiếm đối tác hẹn hò phù hợp"
-      ],
-      "full_summary": "Frustration với hồ sơ giả mạo trên các ứng dụng hẹn hò đã thúc đẩy sự ra đời của các dịch vụ hẹn hò mới với các phương pháp khác nhau. Các dịch vụ này hứa hẹn sẽ giảm thiểu lừa đảo và tạo ra môi trường hẹn hò an toàn và đáng tin cậy. Các ứng dụng mới này sử dụng các phương pháp xác minh tính xác thực của hồ sơ, giúp người dùng tránh được các hồ sơ giả mạo.",
       "comments": 0,
       "score": 0
     }
