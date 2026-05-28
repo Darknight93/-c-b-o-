@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-05-28T15:35:08.826683+00:00",
+  "updated_at": "2026-05-28T20:10:38.112338+00:00",
   "articles": [
+    {
+      "id": "ab99d2f628a5",
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T20:10:22.856080+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hàng chục người thiệt mạng trong vụ tấn công Gaza",
+      "bullets": [
+        "Báo cáo cho biết ít nhất năm trẻ em đã bị giết trong vụ tấn công",
+        "Vụ tấn công được cho là nhắm vào chỉ huy Hamas",
+        "Các bệnh viện ở Gaza City đang đối mặt với tình trạng quá tải",
+        "Tình hình ở Gaza tiếp tục căng thẳng"
+      ],
+      "full_summary": "Các bệnh viện ở Gaza City cho biết ít nhất năm trẻ em đã thiệt mạng trong vụ tấn công, được cho là nhắm vào một chỉ huy Hamas. Vụ tấn công đã khiến tình hình ở Gaza tiếp tục căng thẳng. Các bệnh viện đang đối mặt với tình trạng quá tải do số lượng người bị thương tăng cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "93e697b89416",
+      "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+      "url": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T20:10:23.761191+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông 21 tuổi bị giam 15 năm vì âm mưu tấn công buổi hòa nhạc của Taylor Swift tại Vienna",
+      "bullets": [
+        "Bị cáo thừa nhận âm mưu tấn công buổi hòa nhạc và các tội danh liên quan đến khủng bố khác",
+        "Người đàn ông này đã bị bắt và bị truy tố vì các tội danh nghiêm trọng",
+        "Bị cáo đã thừa nhận mọi hành động của mình",
+        "Bị cáo sẽ phải giam 15 năm vì các tội danh nghiêm trọng"
+      ],
+      "full_summary": "Một người đàn ông 21 tuổi đã bị giam 15 năm vì âm mưu tấn công buổi hòa nhạc của ca sĩ Taylor Swift tại Vienna. Người đàn ông này đã thừa nhận mọi hành động của mình và bị truy tố vì các tội danh liên quan đến khủng bố. Bị cáo đã bị bắt và bị truy tố vì các tội danh nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3f41827139c0",
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T20:10:24.732126+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiệt độ cao kỷ lục ở Bồ Đào Nha, châu Âu bị ảnh hưởng bởi cơn nóng",
+      "bullets": [
+        "Cập nhật nhiệt độ kỷ lục ở Bồ Đào Nha trong tháng 5",
+        "Học sinh Pháp phải thi cử trong môi trường nóng bức",
+        "Cảnh báo đỏ được phát hành ở Ý",
+        "Nhiệt độ cao ảnh hưởng đến nhiều quốc gia châu Âu"
+      ],
+      "full_summary": "Bồ Đào Nha đã phá vỡ kỷ lục nhiệt độ cao nhất trong tháng 5. Nhiệt độ cao cũng ảnh hưởng đến nhiều quốc gia châu Âu, bao gồm Pháp và Ý. Học sinh Pháp đang phải thi cử trong môi trường nóng bức, trong khi cảnh báo đỏ đã được phát hành ở Ý. Nhiệt độ cao đang gây ra nhiều vấn đề cho nhiều quốc gia châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "066fdcaf4226",
+      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T20:10:25.687957+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "California kiện công ty di truyền vì rò rỉ dữ liệu năm 2023",
+      "bullets": [
+        "California kiện công ty di truyền vì rò rỉ dữ liệu",
+        "Công ty bị cáo buộc đã nói dối về mức độ nghiêm trọng của vụ rò rỉ",
+        "Tổng chưởng lý Rob Bonta yêu cầu công ty phải chịu trách nhiệm",
+        "Vụ rò rỉ dữ liệu xảy ra vào năm 2023"
+      ],
+      "full_summary": "Tổng chưởng lý California, Rob Bonta, đã kiện một công ty di truyền vì rò rỉ dữ liệu vào năm 2023. Công ty bị cáo buộc đã nói dối về mức độ nghiêm trọng của vụ rò rỉ. Tổng chưởng lý yêu cầu công ty phải chịu trách nhiệm và phải thực hiện các biện pháp để ngăn chặn các vụ rò rỉ tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "61f9627fa054",
+      "title": "Porn company fined £600,000 by Ofcom over age check failings",
+      "url": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T20:10:26.662471+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty phát sóng porn bị phạt 600.000 bảng vì thiếu kiểm tra độ tuổi",
+      "bullets": [
+        "Bị phạt £600.000 vì không kiểm tra độ tuổi từ tháng 7 đến tháng 9 năm 2025",
+        "Đã thực hiện kiểm tra xác thực sau khi bị phát hiện",
+        "Ofcom yêu cầu công ty thực hiện kiểm tra độ tuổi nghiêm ngặt",
+        "Công ty phải tuân thủ các quy định về kiểm tra độ tuổi"
+      ],
+      "full_summary": "Ofcom cho biết công ty Youngtek Solutions Ltd không thực hiện kiểm tra độ tuổi từ tháng 7 đến tháng 9 năm 2025. Điều này đã dẫn đến việc công ty bị phạt £600.000. Tuy nhiên, công ty đã thực hiện kiểm tra xác thực sau khi bị phát hiện và tuân thủ các quy định về kiểm tra độ tuổi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0554ab616637",
+      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T20:10:28.256982+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng đáp ứng",
+      "bullets": [
+        "WHO đang tăng cường hoạt động để đối phó với dịch bệnh",
+        "Dịch bệnh đang lan rộng nhanh hơn khả năng đáp ứng của WHO",
+        "Các quốc gia láng giềng của DRC đang ở mức độ rủi ro cao",
+        "WHO kêu gọi các quốc gia láng giềng phải hành động ngay lập tức"
+      ],
+      "full_summary": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng đáp ứng. Giám đốc WHO, Dr Tedros Adhanom Ghebreyesus, đã kêu gọi các quốc gia láng giềng phải hành động ngay lập tức để đối phó với dịch bệnh. Dịch bệnh đang lan rộng nhanh hơn khả năng đáp ứng của WHO, khiến các quốc gia láng giềng ở mức độ rủi ro cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "682c1693ed3c",
+      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T20:10:29.270550+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cặp đôi Botswana kiện để hợp pháp hóa hôn nhân đồng tính",
+      "bullets": [
+        "Cặp đôi Bonolo Selelo và Tsholofelo Kumile kiện để được kết hôn",
+        "Họ đối mặt với sự phản đối mạnh mẽ từ các nhóm giáo hội",
+        "Cặp đôi đã sống chung từ tháng 12/2023 và đề xuất kết hôn vào năm 2024",
+        "Họ sẽ đưa vụ việc lên tòa án để đòi quyền kết hôn"
+      ],
+      "full_summary": "Bonolo Selelo và Tsholofelo Kumile, một cặp đôi đồng tính từ Botswana, đã quyết định kiện để được kết hôn. Họ đã sống chung từ tháng 12/2023 và đề xuất kết hôn vào năm 2024. Tuy nhiên, họ đã bị từ chối bởi cơ quan chính quyền địa phương. Bây giờ, họ sẽ đưa vụ việc lên tòa án để đòi quyền kết hôn và chống lại sự phản đối mạnh mẽ từ các nhóm giáo hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5535b18e4050",
+      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-28T20:10:32.061360+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Illinois thông qua luật quan trọng về kiểm soát AI",
+      "bullets": [
+        "Thống đốc Illinois ký ban hành luật kiểm soát AI",
+        "Cơ quan quản lý an toàn AI sẽ được thành lập",
+        "Anthropic và OpenAI ủng hộ luật này",
+        "Mục tiêu là đảm bảo an toàn và minh bạch cho AI"
+      ],
+      "full_summary": "Illinois đã thông qua một luật quan trọng về kiểm soát AI, khiến Tổng thống Trump mất thêm quyền kiểm soát. Luật này nhằm mục đích thành lập cơ quan quản lý an toàn AI và đảm bảo an toàn và minh bạch cho các công nghệ AI. Các công ty như Anthropic và OpenAI đã ủng hộ luật này. Luật này được kỳ vọng sẽ giúp kiểm soát việc phát triển và sử dụng AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "761a1c72e18b",
+      "title": "Just Use Postgres for Durable Workflows",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-28T20:10:35.878804+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "PostgreSQL có thể đáp ứng mọi yêu cầu về lưu trữ dữ liệu",
+      "bullets": [
+        "Giải thích tại sao PostgreSQL có thể đáp ứng mọi yêu cầu về lưu trữ dữ liệu",
+        "So sánh PostgreSQL với các giải pháp lưu trữ dữ liệu khác",
+        "Mô tả các tính năng của PostgreSQL giúp nó trở thành lựa chọn tốt nhất",
+        "Nêu bật các trường hợp sử dụng của PostgreSQL trong các ứng dụng"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã đề xuất rằng PostgreSQL có thể đáp ứng mọi yêu cầu về lưu trữ dữ liệu. Bài viết này giải thích tại sao PostgreSQL có thể đáp ứng mọi yêu cầu và so sánh nó với các giải pháp lưu trữ dữ liệu khác. PostgreSQL sở hữu các tính năng như khả năng lưu trữ dữ liệu lớn, hiệu suất cao và tính bảo mật tốt. Điều này khiến nó trở thành lựa chọn tốt nhất cho các ứng dụng cần lưu trữ dữ liệu lớn và phức tạp.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d8e512939ac1",
       "title": "Are US and Iran close to peace or sliding back to war?",
@@ -615,185 +795,6 @@
         "Một số chuyên gia chỉ trích cách tiếp cận của Nhà Trắng"
       ],
       "full_summary": "Hoa Kỳ đang xây dựng một trạm cách ly và điều trị Ebola ở Kenya cho công dân Mỹ bị phơi nhiễm bệnh. Theo The Guardian, trạm này sẽ được xây dựng tại Kenya để cách ly và điều trị những người bị phơi nhiễm Ebola. Một số chuyên gia chỉ trích cách tiếp cận của Nhà Trắng vì cho rằng không cho phép công dân quay về nước sẽ ảnh hưởng đến nỗ lực điều trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6a0192329dee",
-      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
-      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T20:05:28.094494+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "WHO yêu cầu ngừng bắn tại DRC để đối phó với dịch Ebola",
-      "bullets": [
-        "WHO yêu cầu ngừng bắn ngay lập tức tại DRC để hỗ trợ đối phó với dịch Ebola",
-        "Uganda đóng cửa biên giới với DRC để ngăn chặn sự lây lan của dịch bệnh",
-        "Tedros Adhanom Ghebreyesus sẽ đến DRC trong tuần này để đánh giá tình hình",
-        "Dịch Ebola đang lan rộng nhanh chóng tại tỉnh Ituri"
-      ],
-      "full_summary": "Tedros Adhanom Ghebreyesus, Tổng giám đốc Tổ chức Y tế Thế giới (WHO), đã yêu cầu ngừng bắn ngay lập tức tại Cộng hòa Dân chủ Congo (DRC) để hỗ trợ đối phó với dịch Ebola đang bùng phát. Theo WHO, dịch Ebola đang lan rộng nhanh chóng tại tỉnh Ituri và đang gặp phải sự kháng cự từ các nhóm vũ trang địa phương. Uganda đã đóng cửa biên giới với DRC để ngăn chặn sự lây lan của dịch bệnh. Tedros sẽ đến DRC trong tuần này để đánh giá tình hình và hỗ trợ nỗ lực chống dịch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7dff07b63555",
-      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
-      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T20:05:29.461849+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Số ca nghi ngờ Ebola tại DRC vượt 900, sức khỏe nhân viên bị đe dọa",
-      "bullets": [
-        "Đã xác định 904 ca nghi ngờ Ebola và 119 ca tử vong tại DRC",
-        "Các nhân viên y tế gặp phải các cuộc tấn công và thiếu hụt thiết bị",
-        "WHO đánh giá mức độ rủi ro cao cho nước này",
-        "Rủi ro lây lan toàn cầu vẫn còn thấp"
-      ],
-      "full_summary": "Số ca nghi ngờ Ebola tại Cộng hòa Dân chủ Congo (DRC) đã vượt qua 900 trong đợt bùng phát ở phía đông nước này. Theo Bộ Thông tin của DRC, đã có 904 ca nghi ngờ và 119 ca tử vong. Tổ chức Y tế Thế giới (WHO) đánh giá mức độ rủi ro cao cho nước này, nhưng rủi ro lây lan toàn cầu vẫn còn thấp. Các nhân viên y tế đang gặp phải các cuộc tấn công và thiếu hụt thiết bị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c78f7ab8a3a2",
-      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T20:05:30.760485+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Canada chọn máy bay cảnh báo từ Thụy Điển thay Mỹ",
-      "bullets": [
-        "Canada sẽ mua máy bay cảnh báo GlobalEye từ Thụy Điển",
-        "Sản phẩm này được sử dụng để giám sát lãnh thổ Bắc Cực",
-        "Canada giảm sự phụ thuộc vào các công ty quốc phòng Mỹ",
-        "Bộ trưởng Mark Carney công bố quyết định này"
-      ],
-      "full_summary": "Canada sẽ mua một đội máy bay cảnh báo GlobalEye từ Thụy Điển thay vì máy bay E-7 Wedgetail của Boeing. Đây là một phần trong nỗ lực giảm sự phụ thuộc vào các công ty quốc phòng Mỹ. Bộ trưởng Mark Carney cho biết Canada sẽ chọn máy bay GlobalEye do Saab sản xuất, dựa trên máy bay Global 6500 của Bombardier. Máy bay GlobalEye sẽ được sử dụng để giám sát lãnh thổ Bắc Cực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "95b5661e53ac",
-      "title": "YouTube to begin automatically labeling AI videos",
-      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-27T20:05:35.208507+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "YouTube sắp tự động dán nhãn video AI",
-      "bullets": [
-        "YouTube sẽ bắt đầu tự động dán nhãn video AI",
-        "Video AI sẽ được nhận diện dựa trên các yếu tố như hoạt hình, không thực tế",
-        "Một số video AI vẫn có thể che giấu nguồn gốc của chúng"
-      ],
-      "full_summary": "YouTube sắp triển khai tính năng tự động dán nhãn video AI. Tính năng này sẽ giúp người dùng nhận diện video AI dựa trên các yếu tố như hoạt hình, không thực tế. Tuy nhiên, một số video AI vẫn có thể che giấu nguồn gốc của chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b73af2effaeb",
-      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-      "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T15:00:41.608870+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "WHO cảnh báo Cộng hòa Dân chủ Congo đối mặt với 'tổn thương khủng khiếp' vì dịch bệnh và xung đột",
-      "bullets": [
-        "WHO cảnh báo Cộng hòa Dân chủ Congo đối mặt với 'tổn thương khủng khiếp' vì dịch bệnh và xung đột",
-        "Chính phủ Congo gặp khó khăn trong việc kiểm soát dịch Ebola do xung đột",
-        "Fighting ở Congo làm cản trở nỗ lực ngăn chặn sự lây lan của bệnh",
-        "WHO kêu gọi sự hỗ trợ quốc tế để kiểm soát dịch bệnh"
-      ],
-      "full_summary": "WHO cảnh báo Cộng hòa Dân chủ Congo đối mặt với 'tổn thương khủng khiếp' vì dịch bệnh và xung đột. Theo WHO, xung đột ở Congo đã làm cản trở nỗ lực ngăn chặn sự lây lan của bệnh Ebola. WHO kêu gọi sự hỗ trợ quốc tế để kiểm soát dịch bệnh. Tedros Adhanom Ghebreyesus, Tổng giám đốc WHO, cho biết chính phủ Congo gặp khó khăn trong việc kiểm soát dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23373d999e32",
-      "title": "Five people found alive after week trapped in flooded Laos cave",
-      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T15:00:43.307311+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Năm người được cứu sống sau một tuần bị mắc kẹt trong hang động ngập lụt ở Lào",
-      "bullets": [
-        "Cứu hộ tiếp tục tìm kiếm hai người dân địa phương còn mất tích",
-        "Năm người được cứu sống sau một tuần bị mắc kẹt trong hang động ngập lụt ở Lào",
-        "Tìm kiếm vẫn đang tiếp tục tại khu vực bị ảnh hưởng bởi lũ lụt",
-        "Cứu hộ đã tìm thấy năm người sống sót sau khi bị mắc kẹt trong hang động"
-      ],
-      "full_summary": "Cứu hộ tại Lào đã tìm thấy năm người sống sót sau khi bị mắc kẹt trong hang động ngập lụt. Năm người bị mắc kẹt trong hang động ở Lào đã bị ngập lụt sau một trận mưa lớn. Cứu hộ đã tìm thấy họ sau một tuần tìm kiếm. Tuy nhiên, vẫn còn hai người dân địa phương mất tích và cứu hộ tiếp tục tìm kiếm họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3a3207ebd846",
-      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
-      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T15:00:44.231764+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ phạm nhân trốn 30 năm bị bắt và bị kết án",
-      "bullets": [
-        "Bị bắt tại một căn hộ ở Berlin vào năm 2024",
-        "Được đưa ra xét xử vào năm trước đó",
-        "Bị kết án vì các vụ trộm cướp vũ khí",
-        "Đã bị giam giữ"
-      ],
-      "full_summary": "Một nữ phạm nhân đã trốn 30 năm đã bị bắt và bị kết án vì các vụ trộm cướp vũ khí. Cô đã bị bắt tại một căn hộ ở Berlin vào năm 2024 và được đưa ra xét xử vào năm trước đó. Sau khi xét xử, cô đã bị kết án và hiện đang bị giam giữ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1795046f683b",
-      "title": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
-      "url": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T15:00:45.652356+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Pope xin lỗi vì vai trò của Giáo hội Công giáo trong nạn nô lệ",
-      "bullets": [
-        "Pope Francis xin lỗi vì vai trò của Giáo hội Công giáo trong nạn nô lệ",
-        "Ghana là một trong những cửa ngõ chính cho thương mại nô lệ xuyên Đại Tây Dương",
-        "Pope Francis đã đến thăm Ghana vào tháng 3",
-        "Xin lỗi của Pope Francis được coi là một bước tiến quan trọng trong việc làm rõ lịch sử"
-      ],
-      "full_summary": "Pope Francis đã xin lỗi vì vai trò của Giáo hội Công giáo trong nạn nô lệ, đặc biệt là trong thương mại nô lệ xuyên Đại Tây Dương. Ghana là một trong những quốc gia bị ảnh hưởng nặng nề nhất bởi nạn nô lệ. Pope Francis đã đến thăm Ghana vào tháng 3 và đã gặp gỡ các nhà lãnh đạo và người dân địa phương. Xin lỗi của Pope Francis được coi là một bước tiến quan trọng trong việc làm rõ lịch sử và thể hiện sự đồng cảm với những người đã bị ảnh hưởng bởi nạn nô lệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f7ad76c1237d",
-      "title": "The rise of the fruit that tastes like custard",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T15:00:47.124776+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cà chua kem được ưa chuộng vì độ bền nhưng khó xuất khẩu",
-      "bullets": [
-        "Cà chua kem được trồng trên khắp thế giới vì độ bền cao",
-        "Nhưng việc xuất khẩu loại quả này gặp nhiều khó khăn",
-        "Cà chua kem có hương vị đặc trưng giống kem",
-        "Loại quả này được yêu thích vì hương vị độc đáo"
-      ],
-      "full_summary": "Cà chua kem là loại quả được ưa chuộng vì độ bền cao và hương vị đặc trưng giống kem. Loại quả này được trồng trên khắp thế giới nhưng việc xuất khẩu gặp nhiều khó khăn. Theo BBC, cây cà chua kem có độ bền cao và dễ trồng nhưng quả lại rất dễ bị hư hỏng khi vận chuyển. Điều này khiến cho việc xuất khẩu cà chua kem trở nên khó khăn.",
       "comments": 0,
       "score": 0
     }
