@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-05-28T02:32:44.108340+00:00",
+  "updated_at": "2026-05-28T09:55:39.979996+00:00",
   "articles": [
+    {
+      "id": "3f8d1d1fc1c2",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T09:55:24.176450+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hai mươi lăm học sinh bị thiệt mạng trong vụ hỏa hoạn tại trường Kenya",
+      "bullets": [
+        "Hai mươi lăm học sinh đã thiệt mạng",
+        "Nhiều người bị thương trong vụ hỏa hoạn",
+        "Nguyên nhân của vụ hỏa hoạn vẫn chưa được xác định",
+        "Cơ quan chức năng đang điều tra"
+      ],
+      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một trường học ở Kenya, khiến 16 học sinh thiệt mạng và nhiều người bị thương. Nguyên nhân của vụ hỏa hoạn vẫn chưa được xác định. Cơ quan chức năng đang điều tra vụ việc để tìm hiểu nguyên nhân và đưa ra biện pháp ngăn chặn tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c31c9ff44df1",
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "url": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T09:55:25.164304+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Úy tín Australia truy tố phụ nữ trở về từ Syria",
+      "bullets": [
+        "Truy tố phụ nữ vì tham gia Nhà nước Hồi giáo",
+        "Phụ nữ và trẻ em trở về từ trại tị nạn Syria",
+        "Các nhóm phụ nữ và trẻ em đã ở trại tị nạn Syria nhiều năm",
+        "Úy tín Australia đưa ra cáo buộc"
+      ],
+      "full_summary": "Úy tín Australia đã truy tố một phụ nữ vì tham gia Nhà nước Hồi giáo. Phụ nữ và trẻ em đã trở về từ trại tị nạn ở Syria sau nhiều năm. Các nhóm phụ nữ và trẻ em đã ở trại tị nạn Syria nhiều năm. Điều này đã gây ra sự quan tâm của cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f84ce04dac8",
+      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "url": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T09:55:26.165452+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Úc kiện 3M vì chất độc 'trong suốt đời' trong dung dịch chữa cháy",
+      "bullets": [
+        "Úc kiện 3M vì chất độc 'trong suốt đời' trong dung dịch chữa cháy",
+        "Tình trạng ô nhiễm xảy ra tại các cơ sở quốc phòng",
+        "Hành động này là vụ kiện lớn nhất từ trước đến nay của chính phủ Úc",
+        "Số tiền kiện lên tới 2 tỷ đô la Úc"
+      ],
+      "full_summary": "Úc đã kiện công ty 3M vì sử dụng chất độc 'trong suốt đời' trong dung dịch chữa cháy. Tình trạng ô nhiễm đã xảy ra tại các cơ sở quốc phòng và chính phủ Úc đã kiện công ty này vì hành động này. Đây là vụ kiện lớn nhất từ trước đến nay của chính phủ Úc và số tiền kiện lên tới 2 tỷ đô la Úc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e65377b8b76",
+      "title": "King's College team wins access to cutting-edge Google quantum chip",
+      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T09:55:27.223514+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Đội ngũ nghiên cứu King's College London được truy cập vào chip lượng tử Google tiên tiến",
+      "bullets": [
+        "Xây dựng một máy tính lượng tử mạnh mẽ để giải quyết vấn đề chưa từng có lời giải",
+        "Sử dụng chip lượng tử Google để nghiên cứu các quá trình tự nhiên quan trọng",
+        "Hy vọng sẽ tìm ra lời giải cho các câu hỏi chưa từng có lời đáp",
+        "Tăng cường khả năng tính toán của máy tính lượng tử"
+      ],
+      "full_summary": "Đội ngũ nghiên cứu King's College London đã được trao quyền truy cập vào chip lượng tử Google tiên tiến. Họ hy vọng rằng chip này sẽ giúp họ giải quyết các vấn đề chưa từng có lời giải về các quá trình tự nhiên quan trọng. Các nhà nghiên cứu sẽ sử dụng chip lượng tử để tăng cường khả năng tính toán của máy tính lượng tử và tìm ra lời giải cho các câu hỏi chưa từng có lời đáp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69369e9105e5",
+      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T09:55:28.266984+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta bị chỉ trích vì cấm người dùng Facebook và Instagram một cách không công bằng",
+      "bullets": [
+        "Meta đã từ chối nhiều yêu cầu giải thích từ Cơ quan Thanh tra của EU",
+        "Hàng trăm người dùng đã liên hệ với BBC, tố cáo bị cấm sử dụng Facebook và Instagram không đúng lý do",
+        "Cơ quan Thanh tra của EU đã yêu cầu Meta giải thích về các quy trình cấm người dùng",
+        "Meta đã không cung cấp thông tin chi tiết về các quy trình này"
+      ],
+      "full_summary": "Meta đã bị chỉ trích vì cấm người dùng Facebook và Instagram một cách không công bằng. Hàng trăm người dùng đã liên hệ với BBC, tố cáo bị cấm sử dụng các nền tảng này không đúng lý do. Cơ quan Thanh tra của EU đã yêu cầu Meta giải thích về các quy trình cấm người dùng, nhưng Meta đã không cung cấp thông tin chi tiết. Điều này đã gây ra sự bất bình trong cộng đồng người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "580234923488",
+      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
+      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T09:55:29.406597+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chuyên gia hack an đạo đức cảnh báo AI sẽ làm cạnh tranh khó khăn hơn",
+      "bullets": [
+        "Cảnh báo AI sẽ làm cạnh tranh khó khăn hơn cho những người như Chompie",
+        "Chompie là một trong những hacker đạo đức hàng đầu thế giới",
+        "AI như Claude Mythos đang trở nên phổ biến và mạnh mẽ hơn",
+        "Sẽ có nhiều người sử dụng AI để cạnh tranh với những hacker đạo đức"
+      ],
+      "full_summary": "Chompie, một trong những hacker đạo đức hàng đầu thế giới, đã cảnh báo rằng AI như Claude Mythos sẽ làm cạnh tranh khó khăn hơn cho những người như cô. Cô cho biết AI đang trở nên phổ biến và mạnh mẽ hơn, và sẽ có nhiều người sử dụng AI để cạnh tranh với những hacker đạo đức. Điều này có thể làm cho công việc của những hacker đạo đức trở nên khó khăn hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "87e0d3026047",
+      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
+      "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T09:55:32.767140+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
+      "bullets": [
+        "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
+        "Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ",
+        "Đội bóng Iran sẽ đặt chân đến Tijuana, Mexico",
+        "Fifa đã xác nhận quyết định của Mexico"
+      ],
+      "full_summary": "Chủ tịch Mexico, Claudia Sheinbaum, đã đồng ý cho đội bóng Iran ở lại trong World Cup sau khi Mỹ từ chối tiếp nhận đội bóng này. Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ nhưng sẽ đặt chân đến Tijuana, Mexico, để ở lại. Quyết định này được Fifa xác nhận sau khi Mỹ từ chối tiếp nhận đội bóng Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5fa3e965fd76",
+      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-28T09:55:36.962781+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mạng xã hội mới Hallucinate cho phép người dùng tổ chức raves trực tuyến",
+      "bullets": [
+        "Cho phép người dùng tham gia các raves trực tuyến với hàng nghìn người khác",
+        "Tạo môi trường ảo để người dùng thể hiện bản thân và tận hưởng âm nhạc",
+        "Cung cấp các tính năng tương tác như chat và âm thanh 3D",
+        "Cho phép người dùng tạo và tham gia các sự kiện raves độc lập"
+      ],
+      "full_summary": "Hallucinate là một mạng xã hội mới cho phép người dùng tổ chức và tham gia các raves trực tuyến. Mạng xã hội này cho phép người dùng tạo môi trường ảo để thể hiện bản thân và tận hưởng âm nhạc. Người dùng có thể tham gia các raves trực tuyến với hàng nghìn người khác và tương tác với họ thông qua các tính năng như chat và âm thanh 3D.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b891ea328b31",
       "title": "US carries out new strikes on Iran military site",
@@ -635,164 +795,6 @@
         "Tỷ phú này đã không phản hồi về câu trích dẫn của Giáo hoàng"
       ],
       "full_summary": "Giáo hoàng Leo đã gây tranh cãi khi phát biểu về tỷ phú Peter Thiel, người được cho là đã sử dụng quyền lực của mình để thao túng xã hội. Câu trích dẫn từ Gandalf trong Lord of the Rings có thể ám chỉ Thiel, người đã không phản hồi về phát biểu của Giáo hoàng. Nghiên cứu cho thấy Thiel có liên quan đến nhiều vấn đề xã hội, bao gồm việc sử dụng tiền bạc để ảnh hưởng đến chính trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "99105d43bf32",
-      "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
-      "url": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-27T09:34:34.403948+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Musk tố cáo quân đội Mỹ vi phạm quy định sử dụng Starlink",
-      "bullets": [
-        "Musk cáo buộc quân đội Mỹ sử dụng Starlink trong các drone tự sát",
-        "Drones tự sát này vi phạm quy định của SpaceX",
-        "Musk đổ lỗi cho nhà thầu quân sự đã sử dụng Starlink",
-        "Nguồn cung cấp Starlink cho quân đội Mỹ là Starshield"
-      ],
-      "full_summary": "Elon Musk cáo buộc quân đội Mỹ đã sử dụng Starlink trong các drone tự sát, vi phạm quy định của SpaceX. Theo Musk, quân đội Mỹ đã sử dụng Starlink thay vì Starshield, nguồn cung cấp Starlink chính thức cho quân đội. Musk đổ lỗi cho nhà thầu quân sự đã sử dụng Starlink mà không có sự cho phép của SpaceX.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2a51b96e93c1",
-      "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
-      "url": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-27T09:34:36.743340+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Làm giàu oxy trong khí quyển bằng cách đưa các chất khác vào lõi Trái Đất",
-      "bullets": [
-        "Cần đưa cacbon và lưu huỳnh vào lõi Trái Đất",
-        "Quá trình tạo oxy có thể liên quan đến hoạt động kiến tạo mảng",
-        "Vai trò của các chất khác trong quá trình oxy hóa khí quyển chưa được hiểu rõ",
-        "Nghiên cứu đang được tiến hành để hiểu rõ hơn về quá trình này"
-      ],
-      "full_summary": "Một nghiên cứu mới cho thấy quá trình tạo oxy trong khí quyển có thể liên quan đến việc đưa cacbon và lưu huỳnh vào lõi Trái Đất. Quá trình này có thể xảy ra do hoạt động kiến tạo mảng, làm giàu oxy trong khí quyển. Mặc dù vẫn còn nhiều điều chưa được hiểu rõ, nghiên cứu đang được tiến hành để tìm hiểu thêm về quá trình này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ad121e677b8",
-      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-      "url": "https://tsduck.io/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-27T09:34:41.530171+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công cụ mã nguồn mở TSDuck hỗ trợ phân tích và chỉnh sửa MPEG-TS",
-      "bullets": [
-        "Tạo ra một công cụ mã nguồn mở để phân tích và chỉnh sửa MPEG-TS",
-        "Cung cấp các tính năng mạnh mẽ để xử lý và phân tích dữ liệu",
-        "Hỗ trợ các định dạng dữ liệu khác nhau"
-      ],
-      "full_summary": "TSDuck là một công cụ mã nguồn mở được thiết kế để phân tích và chỉnh sửa dữ liệu MPEG-TS. Công cụ này cung cấp các tính năng mạnh mẽ để xử lý và phân tích dữ liệu, bao gồm hỗ trợ các định dạng dữ liệu khác nhau. TSDuck được thiết kế để giúp người dùng dễ dàng phân tích và chỉnh sửa dữ liệu MPEG-TS.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1b9d78daaf17",
-      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:24.558567+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "NATO và EU tìm kiếm người trung gian để kết thúc chiến tranh ở Ukraine",
-      "bullets": [
-        "NATO và EU tìm kiếm người trung gian để đàm phán với Nga",
-        "Hoa Kỳ rút khỏi các cuộc đàm phán ba bên với Nga và Ukraine",
-        "Nga tiếp tục tiến hành chiến dịch quân sự ở Ukraine",
-        "EU hy vọng tìm được người trung gian để kết thúc chiến tranh"
-      ],
-      "full_summary": "NATO và EU đang tìm kiếm người trung gian để đàm phán với Nga nhằm kết thúc chiến tranh ở Ukraine. Hoa Kỳ đã rút khỏi các cuộc đàm phán ba bên với Nga và Ukraine. Nga tiếp tục tiến hành chiến dịch quân sự ở Ukraine. EU hy vọng tìm được người trung gian để kết thúc chiến tranh và chấm dứt sự tàn phá ở Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "808feef87dda",
-      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
-      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:25.710064+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nga nhắm vào cơ sở hạ tầng và dân chủ của Anh",
-      "bullets": [
-        "Nga liên tục tấn công cơ sở hạ tầng quan trọng",
-        "GCHQ cảnh báo về những mối đe dọa đối với an ninh quốc gia",
-        "Chủ tịch GCHQ sẽ đưa ra các biện pháp cần thiết để đối phó",
-        "Anh cần tăng cường hợp tác quốc tế để đối mặt với Nga"
-      ],
-      "full_summary": "Chủ tịch GCHQ sẽ đưa ra báo cáo về các mối đe dọa đối với an ninh quốc gia của Anh. Bà cảnh báo rằng Nga đang nhắm vào cơ sở hạ tầng quan trọng và dân chủ của Anh. Điều này bao gồm các cuộc tấn công mạng và các hoạt động khác nhằm vào các tổ chức quan trọng. Để đối mặt với những mối đe dọa này, Anh cần tăng cường hợp tác quốc tế và triển khai các biện pháp an ninh mạnh mẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cc2d4353ad97",
-      "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:26.638530+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel tấn công Gaza, ít nhất 3 người chết",
-      "bullets": [
-        "Israel tiến hành vụ tấn công ở Gaza City",
-        "Hamas cho biết mục tiêu là một chỉ huy của họ",
-        "Ít nhất 3 người chết và hàng chục người bị thương",
-        "Vụ tấn công được thực hiện sau khi Israel tuyên bố nhắm vào một chỉ huy Hamas"
-      ],
-      "full_summary": "Israel đã tiến hành vụ tấn công ở Gaza City, gây ra ít nhất 3 cái chết và hàng chục người bị thương. Theo Israel, mục tiêu của vụ tấn công là một chỉ huy Hamas. Vụ tấn công được thực hiện sau khi Israel tuyên bố nhắm vào một chỉ huy Hamas. Sự kiện này diễn ra sau khi một chỉ huy Hamas trước đó bị giết trong một vụ tấn công tương tự vào tháng 5.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8a4e08e8b8f8",
-      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
-      "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:27.736977+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nhiều trẻ em tử vong vì sốt xuất huyết tăng vọt ở Bangladesh",
-      "bullets": [
-        "Tính đến nay, Bangladesh đã ghi nhận hơn 60.000 trường hợp nghi ngờ sốt xuất huyết.",
-        "Hàng trăm trẻ em đã tử vong trong vòng vài tháng qua.",
-        "Số ca sốt xuất huyết đang tăng vọt ở cả trẻ em và người lớn.",
-        "Các quan chức y tế đang nỗ lực tăng cường tiêm chủng để ngăn chặn sự lây lan."
-      ],
-      "full_summary": "Bangladesh đang đối mặt với một trong những vụ bùng phát sốt xuất huyết nghiêm trọng nhất trong nhiều năm. Trong hơn 2 tháng, nước này đã ghi nhận hơn 60.000 trường hợp nghi ngờ sốt xuất huyết. Hàng trăm trẻ em đã tử vong, và các quan chức y tế đang lo ngại về sự lây lan của bệnh. Để ngăn chặn sự lây lan, các quan chức đang nỗ lực tăng cường tiêm chủng và triển khai các biện pháp y tế khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2dbf9f940465",
-      "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
-      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:28.902143+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nổ hóa chất tại xí nghiệp giấy ở Mỹ khiến nhiều người thương vong",
-      "bullets": [
-        "Nổ hóa chất xảy ra tại xí nghiệp giấy ở Longview, bang Washington.",
-        "10 người bị thương, số người mất tích vẫn chưa rõ.",
-        "Lý do nguyên nhân vụ nổ hóa chất chưa được công bố."
-      ],
-      "full_summary": "Một vụ nổ hóa chất nghiêm trọng đã xảy ra tại xí nghiệp giấy ở Longview, bang Washington, Mỹ. Theo BBC, 10 người bị thương và số người mất tích vẫn chưa rõ. Vụ nổ xảy ra khi một tank bị rò rỉ hóa chất. Lý do nguyên nhân vụ nổ hóa chất chưa được công bố.",
       "comments": 0,
       "score": 0
     }
