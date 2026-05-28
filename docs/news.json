@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-05-27T20:05:39.712351+00:00",
+  "updated_at": "2026-05-28T02:32:44.108340+00:00",
   "articles": [
+    {
+      "id": "b891ea328b31",
+      "title": "US carries out new strikes on Iran military site",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T02:32:28.416898+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ thực hiện thêm vụ tấn công vào cơ sở quân sự Iran",
+      "bullets": [
+        "Mỹ tấn công cơ sở quân sự Iran lần thứ hai trong ba ngày",
+        "Hành động này được Mỹ lý giải là tự vệ",
+        "Mỹ không tiết lộ chi tiết về mục tiêu và phương tiện tấn công",
+        "Tình hình giữa Mỹ và Iran tiếp tục căng thẳng"
+      ],
+      "full_summary": "Mỹ đã thực hiện thêm một vụ tấn công vào cơ sở quân sự Iran, đây là lần thứ hai trong ba ngày. Mỹ cho biết hành động này là để tự vệ. Tuy nhiên, Mỹ không tiết lộ chi tiết về mục tiêu và phương tiện tấn công. Tình hình giữa Mỹ và Iran tiếp tục căng thẳng sau vụ tấn công mới này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9283b219c2a7",
+      "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+      "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T02:32:29.831844+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Bà Jill Biden lo lắng về màn trình diễn của chồng tại cuộc tranh luận 2024",
+      "bullets": [
+        "Bà Jill Biden cho biết bà sợ Joe Biden đang gặp vấn đề về sức khỏe",
+        "Cô nói Joe Biden đã có màn trình diễn không tốt trong cuộc tranh luận với Donald Trump",
+        "Bà Jill Biden cho biết bà đã lo lắng về tình hình sức khỏe của chồng",
+        "Cô hy vọng Joe Biden sẽ có màn trình diễn tốt hơn trong tương lai"
+      ],
+      "full_summary": "Bà Jill Biden đã chia sẻ rằng bà lo lắng về màn trình diễn của chồng Joe Biden trong cuộc tranh luận 2024 với Donald Trump. Bà cho biết bà sợ Joe Biden đang gặp vấn đề về sức khỏe và đã có màn trình diễn không tốt. Bà hy vọng Joe Biden sẽ có màn trình diễn tốt hơn trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "54a543b8eb37",
+      "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
+      "url": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T02:32:30.800378+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hộ tống viên của Matthew Perry bị giam 41 tháng vì liên quan đến cái chết do ketamin",
+      "bullets": [
+        "Bị cáo Kenneth Iwamasa thú nhận tội danh",
+        "Đã nhận án tù 41 tháng vì liên quan đến cái chết do ketamin",
+        "Iwamasa nói sẽ mãi hối hận vì hành động của mình"
+      ],
+      "full_summary": "Hộ tống viên của diễn viên Matthew Perry, Kenneth Iwamasa, đã bị kết án 41 tháng tù vì liên quan đến cái chết của diễn viên này do sử dụng ketamin. Iwamasa đã thú nhận tội danh và nói rằng sẽ mãi hối hận vì hành động của mình. Đây là một vụ án nghiêm trọng liên quan đến việc buôn bán và sử dụng chất kích thích.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e2a5dbbd7552",
+      "title": "Google worker charged for using internal data to make $1.2m on Polymarket",
+      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-28T02:32:31.819756+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cán bộ Google bị buộc tội sử dụng dữ liệu nội bộ để lợi dụng Polymarket",
+      "bullets": [
+        "Bị cáo là một nhân viên Google lâu năm",
+        "Bị buộc tội vi phạm luật giao dịch nội bộ",
+        "Sử dụng dữ liệu nội bộ để kiếm lợi nhuận 1,2 triệu USD",
+        "Bị cáo sẽ phải đối mặt với hình phạt nghiêm khắc"
+      ],
+      "full_summary": "Một nhân viên Google lâu năm vừa bị buộc tội sử dụng dữ liệu nội bộ để lợi dụng Polymarket và kiếm được 1,2 triệu USD. Bị cáo đã sử dụng thông tin nội bộ để đặt cược và kiếm lợi nhuận trên nền tảng Polymarket. Vụ việc đã được đưa ra tòa án ở New York và bị cáo sẽ phải đối mặt với hình phạt nghiêm khắc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff25bc92e112",
+      "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+      "url": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-28T02:32:32.804972+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tesla bị California bác bỏ kháng cáo trong vụ kiện phân biệt chủng tộc",
+      "bullets": [
+        "California bác bỏ kháng cáo của Tesla trong vụ kiện phân biệt chủng tộc",
+        "Cơ quan quyền dân sự của California hân hoan với chiến thắng này",
+        "Sự kiện này sẽ dẫn đến một phiên tòa vào tháng 7",
+        "Tesla sẽ phải đối mặt với cáo buộc phân biệt chủng tộc"
+      ],
+      "full_summary": "Cơ quan quyền dân sự của California vừa thắng một vụ kiện quan trọng chống lại Tesla. Cơ quan này đã bác bỏ kháng cáo của Tesla trong vụ kiện phân biệt chủng tộc. Chiến thắng này cho thấy cơ quan này sẽ không bỏ qua các cáo buộc phân biệt chủng tộc. Phiên tòa sẽ diễn ra vào tháng 7, và Tesla sẽ phải đối mặt với cáo buộc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "657abec023ff",
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-28T02:32:33.842392+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các trang web có thể theo dõi hoạt động SSD của người dùng qua JavaScript",
+      "bullets": [
+        "Các trang web có thể đo lường hoạt động SSD của người dùng bằng JavaScript đơn giản",
+        "Kỹ thuật này cho phép theo dõi hoạt động của SSD mà không cần quyền truy cập vào hệ thống",
+        "Sự phát hiện này có thể ảnh hưởng đến quyền riêng tư của người dùng trên internet"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã phát hiện ra một kỹ thuật mới cho phép các trang web theo dõi hoạt động SSD của người dùng qua JavaScript. Kỹ thuật này cho phép đo lường hoạt động của SSD mà không cần quyền truy cập vào hệ thống, tạo ra rủi ro về quyền riêng tư của người dùng. Điều này có thể ảnh hưởng đến cách người dùng sử dụng internet và bảo vệ thông tin cá nhân của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "68fce15c6e47",
+      "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
+      "url": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-28T02:32:34.868432+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "NASA xác định nguồn gây nhiễu GPS ở Iran",
+      "bullets": [
+        "Xác định nguồn gây nhiễu GPS ở Iran",
+        "Hiểu rõ khả năng của vệ tinh NASA",
+        "Đánh giá hiệu quả của vệ tinh trong việc theo dõi nhiễu GPS",
+        "Tìm kiếm giải pháp ngăn chặn nhiễu GPS"
+      ],
+      "full_summary": "NASA đã sử dụng vệ tinh khoa học để xác định nguồn gây nhiễu GPS ở Iran. Sự cố này đã trở thành một thử nghiệm cho khả năng của vệ tinh NASA. Kết quả cho thấy vệ tinh có thể phát hiện và theo dõi nguồn gây nhiễu GPS một cách hiệu quả. Điều này sẽ giúp NASA hiểu rõ hơn về khả năng của vệ tinh và tìm kiếm giải pháp ngăn chặn nhiễu GPS trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "00f755e90417",
+      "title": "Mina the Hollower is the best old-school action adventure I've played in a while",
+      "url": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-28T02:32:36.007632+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mina the Hollower là trò chơi hành động phiêu lưu cũ tuyệt vời nhất tôi đã chơi trong thời gian dài.",
+      "bullets": [
+        "Chơi Mina the Hollower mang lại cảm giác di chuyển mượt mà và thú vị.",
+        "Combat trong trò chơi đầy hấp dẫn và đòi hỏi sự sáng tạo.",
+        "Có rất nhiều bí mật để khám phá trong trò chơi này.",
+        "Trò chơi này là một sự kết hợp tuyệt vời giữa các yếu tố cũ và mới."
+      ],
+      "full_summary": "Mina the Hollower là một trò chơi hành động phiêu lưu cũ được đánh giá cao bởi Ars Technica. Trò chơi này mang lại cảm giác di chuyển mượt mà và thú vị, cùng với combat đầy hấp dẫn và đòi hỏi sự sáng tạo. Ngoài ra, có rất nhiều bí mật để khám phá trong trò chơi này, tạo nên một trải nghiệm thú vị và đầy thử thách.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ea1195211e7f",
+      "title": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
+      "url": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-28T02:32:38.649456+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hành động mới ngăn chặn người Mỹ bị tiếp xúc Ebola nhập cảnh",
+      "bullets": [
+        "Chính quyền Trump ngăn chặn người Mỹ bị tiếp xúc Ebola nhập cảnh",
+        "Người nhiễm Ebola sẽ được chuyển đến Kenya",
+        "CDC yêu cầu nhân viên tình nguyện tại sân bay",
+        "Cấm nhập cảnh mới được tăng cường"
+      ],
+      "full_summary": "Chính quyền Trump đã quyết định ngăn chặn người Mỹ bị tiếp xúc Ebola nhập cảnh vào nước Mỹ. Thay vào đó, họ sẽ được chuyển đến Kenya. Một quan chức của chính quyền Trump đã yêu cầu nhân viên CDC tình nguyện tại các sân bay để kiểm tra hành khách. Hành động này được thực hiện nhằm tăng cường biện pháp ngăn chặn Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "16b0cdbcc363",
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-28T02:32:43.608198+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "YouTube sẽ tự động dán nhãn video được tạo bằng AI",
+      "bullets": [
+        "YouTube sẽ tự động dán nhãn video được tạo bằng AI để giúp người xem hiểu rõ hơn về nội dung",
+        "Các video được tạo bằng AI sẽ được đánh dấu với biểu tượng đặc biệt để phân biệt với nội dung được tạo thủ công",
+        "Mục tiêu của YouTube là giảm thiểu sự nhầm lẫn và tăng cường sự minh bạch cho người xem",
+        "Các nhà tạo nội dung sẽ có thể chọn không dán nhãn video của mình nếu không muốn"
+      ],
+      "full_summary": "YouTube đã công bố kế hoạch tự động dán nhãn video được tạo bằng AI để giúp người xem hiểu rõ hơn về nội dung. Mục tiêu của YouTube là giảm thiểu sự nhầm lẫn và tăng cường sự minh bạch cho người xem. Các video được tạo bằng AI sẽ được đánh dấu với biểu tượng đặc biệt để phân biệt với nội dung được tạo thủ công. Các nhà tạo nội dung sẽ có thể chọn không dán nhãn video của mình nếu không muốn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "45ff2cf6401b",
       "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
@@ -595,206 +793,6 @@
         "Lý do nguyên nhân vụ nổ hóa chất chưa được công bố."
       ],
       "full_summary": "Một vụ nổ hóa chất nghiêm trọng đã xảy ra tại xí nghiệp giấy ở Longview, bang Washington, Mỹ. Theo BBC, 10 người bị thương và số người mất tích vẫn chưa rõ. Vụ nổ xảy ra khi một tank bị rò rỉ hóa chất. Lý do nguyên nhân vụ nổ hóa chất chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "580234923488",
-      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
-      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:29.927436+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chuyên gia hack an đạo đức cảnh báo công cụ AI có thể khiến nghề nghiệp của mình khó tồn tại",
-      "bullets": [
-        "Cảnh báo về sự cạnh tranh từ công cụ AI Mythos",
-        "Chuyên gia hack an đạo đức nói công cụ AI sẽ khiến nghề nghiệp của họ khó tồn tại",
-        "Sự phát triển của AI có thể làm thay đổi ngành công nghiệp hack an đạo đức",
-        "Chuyên gia hack an đạo đức hy vọng sẽ tìm được cách thích nghi với sự thay đổi"
-      ],
-      "full_summary": "Chompie, một trong những chuyên gia hack an đạo đức hàng đầu thế giới, đã cảnh báo rằng công cụ AI như Mythos có thể khiến nghề nghiệp của mình khó tồn tại. Theo bà, công cụ AI sẽ làm tăng sự cạnh tranh và khiến cho việc tìm kiếm việc làm trở nên khó khăn hơn. Bà hy vọng sẽ tìm được cách thích nghi với sự thay đổi và tiếp tục đóng góp cho ngành công nghiệp hack an đạo đức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a5a703715be0",
-      "title": "Instagram betting ads featuring Kane and Haaland banned",
-      "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:30.995272+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Instagram cấm quảng cáo đánh bạc sử dụng hình ảnh Kane và Haaland",
-      "bullets": [
-        "Cục quản lý quảng cáo cho biết quảng cáo có sức hấp dẫn mạnh đối với người dưới 18 tuổi.",
-        "Instagram bị yêu cầu xóa quảng cáo.",
-        "Quảng cáo sử dụng hình ảnh hai cầu thủ bóng đá nổi tiếng.",
-        "Tác động của quảng cáo đối với người trẻ tuổi là mối quan tâm lớn."
-      ],
-      "full_summary": "Cục quản lý quảng cáo đã yêu cầu Instagram xóa quảng cáo đánh bạc sử dụng hình ảnh hai cầu thủ bóng đá nổi tiếng, Harry Kane và Erling Haaland. Các quảng cáo này có sức hấp dẫn mạnh đối với người dưới 18 tuổi. Điều này đã gây ra mối quan tâm lớn về tác động của quảng cáo đối với người trẻ tuổi. Instagram đã bị yêu cầu xóa quảng cáo để đảm bảo an toàn cho người dùng dưới 18 tuổi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f34fe1af7ebc",
-      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
-      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T02:45:32.600561+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tù nhân Venezuela chiếm giữ mái nhà tù, đốt lò đúc để phản đối lạm dụng",
-      "bullets": [
-        "Cư dân tù Barinas nổi loạn trên mái nhà tù",
-        "Tù nhân cáo buộc nhân viên tù bắn vào họ",
-        "Tù nhân yêu cầu thay thế giám đốc tù",
-        "Tù nhân Venezuela kêu gọi công lý"
-      ],
-      "full_summary": "Tù nhân tại tù Barinas ở Venezuela đã chiếm giữ mái nhà tù và đốt lò đúc để phản đối lạm dụng. Họ cáo buộc nhân viên tù đã bắn vào họ, gây thương tích cho một số người. Tù nhân yêu cầu thay thế giám đốc tù và kêu gọi công lý. Sự việc đã được ghi lại bằng video và được chia sẻ trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "336256f5c435",
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-27T02:45:35.845393+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Chương trình nguồn mở Starlette gặp lỗ hổng nghiêm trọng ảnh hưởng đến 325 triệu AI",
-      "bullets": [
-        "Khám phá lỗ hổng nghiêm trọng 'BadHost' trong Starlette",
-        "Lỗ hổng ảnh hưởng đến 325 triệu tải xuống mỗi tuần",
-        "Có thể gây thiệt hại lớn cho các hệ thống AI",
-        "Đội ngũ phát triển đang tìm kiếm giải pháp khắc phục"
-      ],
-      "full_summary": "Một lỗ hổng nghiêm trọng được phát hiện trong chương trình nguồn mở Starlette, có hơn 325 triệu tải xuống mỗi tuần. Lỗ hổng này, được gọi là 'BadHost', có thể gây thiệt hại lớn cho các hệ thống AI. Đội ngũ phát triển đang tìm kiếm giải pháp khắc phục để ngăn chặn lỗ hổng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "641275e8decc",
-      "title": "Why temperature records are being not only broken but smashed",
-      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T20:01:03.588623+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Áp cao và biến đổi khí hậu gây ra nhiệt độ kỷ lục ở Tây Âu",
-      "bullets": [
-        "Gây ra một 'đỉnh nhiệt' cực kỳ nóng ở Tây Âu",
-        "Thời tiết khắc nghiệt do kết hợp của áp cao và biến đổi khí hậu",
-        "Nhiệt độ kỷ lục được phá vỡ ở nhiều quốc gia",
-        "Sự nóng bức này có thể gây ra hậu quả nghiêm trọng"
-      ],
-      "full_summary": "Áp cao và biến đổi khí hậu đã gây ra một 'đỉnh nhiệt' cực kỳ nóng ở Tây Âu. Nhiệt độ kỷ lục đã được phá vỡ ở nhiều quốc gia, gây ra thời tiết khắc nghiệt. Sự nóng bức này có thể gây ra hậu quả nghiêm trọng cho môi trường và sức khỏe con người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b77d8a2257a9",
-      "title": "Internet starts coming back in Iran after months-long blackout",
-      "url": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T20:01:05.218273+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mạng internet bắt đầu phục hồi sau thời gian dài bị cắt đứt",
-      "bullets": [
-        "Mạng internet đã được khôi phục ở Iran sau nhiều tháng bị cắt đứt",
-        "Cắt internet bắt đầu từ cuối tháng 2 khi chiến tranh bùng nổ",
-        "Sự cố này ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Iran",
-        "Mạng internet đã được khôi phục một phần nhưng vẫn còn nhiều vấn đề"
-      ],
-      "full_summary": "Mạng internet ở Iran đã bị cắt đứt từ cuối tháng 2 khi chiến tranh bùng nổ. Sự cố này ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Iran, khiến họ không thể truy cập thông tin và liên lạc với bạn bè, gia đình. Mạng internet đã được khôi phục một phần nhưng vẫn còn nhiều vấn đề. Hiện tại, tình hình vẫn đang được theo dõi và cập nhật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0442f48338ac",
-      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
-      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T20:01:06.395490+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hệ thống hỗ trợ Destiny 2 sắp kết thúc",
-      "bullets": [
-        "Bungie sẽ ngừng hỗ trợ Destiny 2",
-        "Trò chơi sẽ nhận được bản cập nhật cuối cùng vào ngày 9 tháng 6",
-        "Người chơi vẫn có thể chơi trò chơi sau khi hỗ trợ kết thúc",
-        "Bungie chưa công bố kế hoạch tương lai cho trò chơi"
-      ],
-      "full_summary": "Bungie đã thông báo rằng họ sẽ ngừng hỗ trợ trò chơi bắn súng trực tuyến Destiny 2 vào ngày 9 tháng 6. Mặc dù trò chơi sẽ không còn nhận được bản cập nhật mới, người chơi vẫn có thể chơi trò chơi sau khi hỗ trợ kết thúc. Bungie chưa công bố kế hoạch tương lai cho trò chơi, khiến nhiều người hâm mộ cảm thấy thất vọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af0d52007dbe",
-      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T20:01:07.485793+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "SpaceX hoãn phóng Starship trước khi niêm yết cổ phiếu",
-      "bullets": [
-        "SpaceX hoãn phóng Starship do một số lý do kỹ thuật",
-        "Công ty này sắp thực hiện niêm yết cổ phiếu với quy mô kỷ lục",
-        "Động thái này diễn ra chỉ một ngày sau khi SpaceX công bố kế hoạch niêm yết",
-        "Không có thông tin cụ thể về lý do hoãn phóng"
-      ],
-      "full_summary": "SpaceX đã hoãn phóng Starship, một trong những dự án quan trọng của công ty, trước khi thực hiện niêm yết cổ phiếu với quy mô kỷ lục. Động thái này diễn ra chỉ một ngày sau khi SpaceX công bố kế hoạch niêm yết. Không có thông tin cụ thể về lý do hoãn phóng. Việc niêm yết cổ phiếu của SpaceX dự kiến sẽ tạo ra một trong những đợt chào bán lớn nhất trong lịch sử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "682c1693ed3c",
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T20:01:08.643754+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cặp đôi đòi hợp pháp hóa hôn nhân đồng tính ở Botswana",
-      "bullets": [
-        "Cặp đôi Bonolo Selelo và Tsholofelo Kumile sẽ đi đến tòa án để đòi quyền kết hôn",
-        "Họ phải đối mặt với sự phản đối mạnh mẽ từ các nhóm giáo hội",
-        "Cặp đôi đã sống chung từ tháng 12/2023 và đã xin đăng ký kết hôn",
-        "Tuy nhiên, họ được thông báo rằng hôn nhân đồng tính không được pháp luật công nhận"
-      ],
-      "full_summary": "Bonolo Selelo và Tsholofelo Kumile, một cặp đôi đồng tính ở Botswana, đã quyết định đi đến tòa án để đòi quyền kết hôn. Họ đã sống chung từ tháng 12/2023 và đã xin đăng ký kết hôn, nhưng đã được thông báo rằng hôn nhân đồng tính không được pháp luật công nhận. Cặp đôi này đã phải đối mặt với sự phản đối mạnh mẽ từ các nhóm giáo hội, nhưng họ vẫn quyết tâm đấu tranh cho quyền của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "87e0d3026047",
-      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
-      "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-26T20:01:09.808199+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
-      "bullets": [
-        "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
-        "Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ nhưng đặt căn cứ tại Tijuana, Mexico",
-        "Mexico cho phép Iran ở lại sau khi Mỹ từ chối",
-        "Fifa đã xác nhận Iran sẽ đặt căn cứ tại Tijuana"
-      ],
-      "full_summary": "Chủ tịch Mexico Claudia Sheinbaum cho biết chính phủ Mexico đã đồng ý cho đội bóng Iran ở lại trong World Cup. Điều này diễn ra sau khi Mỹ từ chối cho Iran ở lại. Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ nhưng đặt căn cứ tại Tijuana, Mexico. Fifa đã xác nhận Iran sẽ đặt căn cứ tại Tijuana.",
       "comments": 0,
       "score": 0
     }
