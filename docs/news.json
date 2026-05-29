@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-05-28T20:10:38.112338+00:00",
+  "updated_at": "2026-05-29T02:36:55.170015+00:00",
   "articles": [
+    {
+      "id": "1d20b29eb6eb",
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:40.455154+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hoa Kỳ và Iran gần đạt thỏa thuận nhưng vẫn chưa có kết quả",
+      "bullets": [
+        "Hai bên đã đạt được khung thỏa thuận ngừng bắn tạm thời",
+        "Chưa có sự đồng ý từ Tổng thống Trump và lãnh đạo Iran",
+        "Hai bên vẫn đang đàm phán để đạt được thỏa thuận",
+        "Thỏa thuận này sẽ giúp ngăn chặn xung đột ở khu vực"
+      ],
+      "full_summary": "Hoa Kỳ và Iran gần đạt được thỏa thuận ngừng bắn tạm thời nhưng vẫn chưa có kết quả. Hai bên đã đạt được khung thỏa thuận ngừng bắn tạm thời nhưng chưa có sự đồng ý từ Tổng thống Trump và lãnh đạo Iran. Thỏa thuận này sẽ giúp ngăn chặn xung đột ở khu vực và tạo điều kiện cho việc đàm phán tiếp tục.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "467c661f43cf",
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:41.395888+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hezbollah sử dụng máy bay không người lái bằng sợi quang để tấn công Israel",
+      "bullets": [
+        "Hezbollah đang sử dụng máy bay không người lái bằng sợi quang làm vũ khí chính",
+        "Máy bay không người lái này được sử dụng để tấn công quân sự và dân thường của Israel",
+        "Hezbollah học hỏi từ chiến tranh Ukraine để phát triển công nghệ này",
+        "Máy bay không người lái bằng sợi quang có thể mang lại lợi thế cho Hezbollah trong các cuộc xung đột"
+      ],
+      "full_summary": "Hezbollah đang sử dụng máy bay không người lái bằng sợi quang để tấn công quân sự và dân thường của Israel. Điều này được cho là do Hezbollah học hỏi từ chiến tranh Ukraine và phát triển công nghệ này. Máy bay không người lái bằng sợi quang có thể mang lại lợi thế cho Hezbollah trong các cuộc xung đột. Điều này đang gây ra lo ngại cho Israel và các quốc gia khác trong khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "00fb154ab55e",
+      "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
+      "url": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:42.542684+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Italy phục hồi bức tranh tượng trưng may mắn bị mòn do du khách",
+      "bullets": [
+        "Italy phục hồi bức tranh tượng trưng may mắn",
+        "Bức tranh là trung tâm của một truyền thống du khách quay ba vòng",
+        "Truyền thống này được cho mang lại may mắn cho du khách",
+        "Bức tranh được phục hồi sau khi bị mòn do du khách quá đông"
+      ],
+      "full_summary": "Italy đã phục hồi một bức tranh tượng trưng may mắn trên một bức tượng bò ở thành phố Piazza del Duomo. Bức tranh này là trung tâm của một truyền thống du khách quay ba vòng để được may mắn. Truyền thống này được cho mang lại may mắn cho du khách. Bức tranh được phục hồi sau khi bị mòn do du khách quá đông.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f4f2751e208",
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:43.610768+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "BMW sử dụng robot humanoid trong nhà máy sản xuất xe",
+      "bullets": [
+        "BMW giới thiệu robot humanoid vào nhà máy sản xuất xe tại châu Âu",
+        "Các dự án tương tự đã được thực hiện tại Mỹ",
+        "Robot humanoid sẽ thay thế công nhân trong quá trình sản xuất",
+        "BMW hy vọng sẽ tăng cường hiệu suất và giảm chi phí sản xuất"
+      ],
+      "full_summary": "BMW đang giới thiệu robot humanoid vào nhà máy sản xuất xe tại châu Âu, tiếp tục các dự án tương tự tại Mỹ. Các robot này sẽ thay thế công nhân trong quá trình sản xuất, giúp tăng cường hiệu suất và giảm chi phí sản xuất. BMW hy vọng sẽ áp dụng công nghệ này trên toàn cầu trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f7ad76c1237d",
+      "title": "The rise of the fruit that tastes like custard",
+      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:44.596101+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Custard apple trở nên phổ biến vì hương vị giống kem",
+      "bullets": [
+        "Cây cam bơ được đánh giá cao về độ bền",
+        "Nhược điểm là khó xuất khẩu trái cây dễ vỡ",
+        "Nghiên cứu đang được thực hiện để cải thiện kỹ thuật bảo quản",
+        "Mục tiêu là tăng sản lượng và giảm chi phí"
+      ],
+      "full_summary": "Custard apple là loại cây được đánh giá cao về độ bền và khả năng thích nghi. Tuy nhiên, trái cây của chúng rất dễ vỡ và khó bảo quản, khiến việc xuất khẩu trở nên khó khăn. Để giải quyết vấn đề này, các nhà nghiên cứu đang tìm cách cải thiện kỹ thuật bảo quản. Mục tiêu là tăng sản lượng và giảm chi phí để trái cây này có thể được xuất khẩu rộng rãi hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e2e3d9e02578",
+      "title": "WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’",
+      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:45.551795+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "WHO đứng đầu khẳng định dịch Ebola ở DRC có thể ngăn chặn",
+      "bullets": [
+        "Tedros Adhanom Ghebreyesus đến DRC để hỗ trợ chống dịch Ebola",
+        "Ông kêu gọi ngừng chiến để đảm bảo an toàn cho nhân viên y tế",
+        "Tedros khẳng định dịch Ebola có thể được ngăn chặn nếu được hỗ trợ kịp thời"
+      ],
+      "full_summary": "Tedros Adhanom Ghebreyesus, Tổng giám đốc Tổ chức Y tế Thế giới (WHO), đã đến Kinshasa, DRC để hỗ trợ chống dịch Ebola. Ông sẽ đến Ituri, tỉnh ở phía bắc, nơi dịch bệnh đang bùng phát. Tedros kêu gọi ngừng chiến để đảm bảo an toàn cho nhân viên y tế và khẳng định dịch Ebola có thể được ngăn chặn nếu được hỗ trợ kịp thời.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8f0c62a15369",
+      "title": "Guatemala requests US military cooperation against drug trafficking",
+      "url": "https://www.theguardian.com/world/2026/may/28/guatemala-us-military-drug-trafficking",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:47.087951+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Guatemala cầu cứu Mỹ hỗ trợ chống buôn bán ma túy",
+      "bullets": [
+        "Guatemala yêu cầu Mỹ hỗ trợ quân sự chống buôn bán ma túy",
+        "Hai nước sẽ hợp tác về trang thiết bị, huấn luyện và chuyên gia",
+        "Hợp tác không bao gồm quân đội Mỹ hoạt động trên đất Guatemala"
+      ],
+      "full_summary": "Guatemala đã yêu cầu Mỹ hỗ trợ quân sự chống buôn bán ma túy, bao gồm truy cập trang thiết bị, huấn luyện và chuyên gia. Tổng thống Guatemala, Bernardo Arévalo, cho biết đã thảo luận với Pete Hegseth về các điều khoản hợp tác. Hợp tác này không bao gồm quân đội Mỹ hoạt động trên đất Guatemala và nằm trong các thỏa thuận song phương hiện có.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a699c27f8fee",
+      "title": "Carney calls for new US-Canada partnership to ‘help make America great again’",
+      "url": "https://www.theguardian.com/world/2026/may/28/mark-carney-trade-partnership-canada-america",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T02:36:48.573901+00:00",
+      "category": "politics|economy",
+      "importance": 3,
+      "headline": "Chủ tịch Canada kêu gọi hợp tác kinh tế mạnh mẽ hơn giữa hai nước",
+      "bullets": [
+        "Kêu gọi hợp tác kinh tế mạnh mẽ hơn",
+        "Xây dựng mối quan hệ đối tác thực sự",
+        "Tìm kiếm cơ hội hợp tác trong các lĩnh vực bị ảnh hưởng bởi cạnh tranh toàn cầu",
+        "Hỗ trợ mục tiêu 'làm cho Mỹ trở nên vĩ đại hơn'"
+      ],
+      "full_summary": "Chủ tịch Canada Mark Carney đã kêu gọi hợp tác kinh tế mạnh mẽ hơn giữa Canada và Mỹ trong một bài phát biểu tại New York. Ông cho rằng hai nước cần xây dựng mối quan hệ đối tác thực sự, tập trung vào các lĩnh vực bị ảnh hưởng bởi cạnh tranh toàn cầu. Mục tiêu của ông là hỗ trợ mục tiêu 'làm cho Mỹ trở nên vĩ đại hơn' và tìm kiếm cơ hội hợp tác trong các lĩnh vực quan trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "30bdfc94e469",
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-29T02:36:53.533682+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Apple đang cố gắng tích hợp mô hình Gemini khổng lồ vào iPhone để chạy Siri mới",
+      "bullets": [
+        "Apple đang cố gắng thu nhỏ mô hình Gemini để chạy trên iPhone",
+        "Một thành phần đám mây có thể là điều không thể tránh khỏi",
+        "Mục tiêu của Apple là chạy mô hình Gemini trên iPhone mà không cần kết nối internet",
+        "Apple đang cố gắng giảm kích thước mô hình Gemini để tiết kiệm năng lượng"
+      ],
+      "full_summary": "Apple đang cố gắng tích hợp mô hình Gemini khổng lồ vào iPhone để chạy Siri mới. Mô hình Gemini có hơn 1 tỷ tham số và được sử dụng trong các ứng dụng của Google. Apple đang cố gắng thu nhỏ mô hình này để chạy trên iPhone mà không cần kết nối internet. Một thành phần đám mây có thể là điều không thể tránh khỏi để đạt được mục tiêu này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ab99d2f628a5",
       "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
@@ -616,185 +794,6 @@
         "Bị cáo sẽ phải đối mặt với hình phạt nghiêm khắc"
       ],
       "full_summary": "Một nhân viên Google lâu năm vừa bị buộc tội sử dụng dữ liệu nội bộ để lợi dụng Polymarket và kiếm được 1,2 triệu USD. Bị cáo đã sử dụng thông tin nội bộ để đặt cược và kiếm lợi nhuận trên nền tảng Polymarket. Vụ việc đã được đưa ra tòa án ở New York và bị cáo sẽ phải đối mặt với hình phạt nghiêm khắc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff25bc92e112",
-      "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
-      "url": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-28T02:32:32.804972+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tesla bị California bác bỏ kháng cáo trong vụ kiện phân biệt chủng tộc",
-      "bullets": [
-        "California bác bỏ kháng cáo của Tesla trong vụ kiện phân biệt chủng tộc",
-        "Cơ quan quyền dân sự của California hân hoan với chiến thắng này",
-        "Sự kiện này sẽ dẫn đến một phiên tòa vào tháng 7",
-        "Tesla sẽ phải đối mặt với cáo buộc phân biệt chủng tộc"
-      ],
-      "full_summary": "Cơ quan quyền dân sự của California vừa thắng một vụ kiện quan trọng chống lại Tesla. Cơ quan này đã bác bỏ kháng cáo của Tesla trong vụ kiện phân biệt chủng tộc. Chiến thắng này cho thấy cơ quan này sẽ không bỏ qua các cáo buộc phân biệt chủng tộc. Phiên tòa sẽ diễn ra vào tháng 7, và Tesla sẽ phải đối mặt với cáo buộc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "657abec023ff",
-      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-28T02:32:33.842392+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các trang web có thể theo dõi hoạt động SSD của người dùng qua JavaScript",
-      "bullets": [
-        "Các trang web có thể đo lường hoạt động SSD của người dùng bằng JavaScript đơn giản",
-        "Kỹ thuật này cho phép theo dõi hoạt động của SSD mà không cần quyền truy cập vào hệ thống",
-        "Sự phát hiện này có thể ảnh hưởng đến quyền riêng tư của người dùng trên internet"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã phát hiện ra một kỹ thuật mới cho phép các trang web theo dõi hoạt động SSD của người dùng qua JavaScript. Kỹ thuật này cho phép đo lường hoạt động của SSD mà không cần quyền truy cập vào hệ thống, tạo ra rủi ro về quyền riêng tư của người dùng. Điều này có thể ảnh hưởng đến cách người dùng sử dụng internet và bảo vệ thông tin cá nhân của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68fce15c6e47",
-      "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
-      "url": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-28T02:32:34.868432+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "NASA xác định nguồn gây nhiễu GPS ở Iran",
-      "bullets": [
-        "Xác định nguồn gây nhiễu GPS ở Iran",
-        "Hiểu rõ khả năng của vệ tinh NASA",
-        "Đánh giá hiệu quả của vệ tinh trong việc theo dõi nhiễu GPS",
-        "Tìm kiếm giải pháp ngăn chặn nhiễu GPS"
-      ],
-      "full_summary": "NASA đã sử dụng vệ tinh khoa học để xác định nguồn gây nhiễu GPS ở Iran. Sự cố này đã trở thành một thử nghiệm cho khả năng của vệ tinh NASA. Kết quả cho thấy vệ tinh có thể phát hiện và theo dõi nguồn gây nhiễu GPS một cách hiệu quả. Điều này sẽ giúp NASA hiểu rõ hơn về khả năng của vệ tinh và tìm kiếm giải pháp ngăn chặn nhiễu GPS trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "00f755e90417",
-      "title": "Mina the Hollower is the best old-school action adventure I've played in a while",
-      "url": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-28T02:32:36.007632+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mina the Hollower là trò chơi hành động phiêu lưu cũ tuyệt vời nhất tôi đã chơi trong thời gian dài.",
-      "bullets": [
-        "Chơi Mina the Hollower mang lại cảm giác di chuyển mượt mà và thú vị.",
-        "Combat trong trò chơi đầy hấp dẫn và đòi hỏi sự sáng tạo.",
-        "Có rất nhiều bí mật để khám phá trong trò chơi này.",
-        "Trò chơi này là một sự kết hợp tuyệt vời giữa các yếu tố cũ và mới."
-      ],
-      "full_summary": "Mina the Hollower là một trò chơi hành động phiêu lưu cũ được đánh giá cao bởi Ars Technica. Trò chơi này mang lại cảm giác di chuyển mượt mà và thú vị, cùng với combat đầy hấp dẫn và đòi hỏi sự sáng tạo. Ngoài ra, có rất nhiều bí mật để khám phá trong trò chơi này, tạo nên một trải nghiệm thú vị và đầy thử thách.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ea1195211e7f",
-      "title": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
-      "url": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-28T02:32:38.649456+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hành động mới ngăn chặn người Mỹ bị tiếp xúc Ebola nhập cảnh",
-      "bullets": [
-        "Chính quyền Trump ngăn chặn người Mỹ bị tiếp xúc Ebola nhập cảnh",
-        "Người nhiễm Ebola sẽ được chuyển đến Kenya",
-        "CDC yêu cầu nhân viên tình nguyện tại sân bay",
-        "Cấm nhập cảnh mới được tăng cường"
-      ],
-      "full_summary": "Chính quyền Trump đã quyết định ngăn chặn người Mỹ bị tiếp xúc Ebola nhập cảnh vào nước Mỹ. Thay vào đó, họ sẽ được chuyển đến Kenya. Một quan chức của chính quyền Trump đã yêu cầu nhân viên CDC tình nguyện tại các sân bay để kiểm tra hành khách. Hành động này được thực hiện nhằm tăng cường biện pháp ngăn chặn Ebola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "16b0cdbcc363",
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-28T02:32:43.608198+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "YouTube sẽ tự động dán nhãn video được tạo bằng AI",
-      "bullets": [
-        "YouTube sẽ tự động dán nhãn video được tạo bằng AI để giúp người xem hiểu rõ hơn về nội dung",
-        "Các video được tạo bằng AI sẽ được đánh dấu với biểu tượng đặc biệt để phân biệt với nội dung được tạo thủ công",
-        "Mục tiêu của YouTube là giảm thiểu sự nhầm lẫn và tăng cường sự minh bạch cho người xem",
-        "Các nhà tạo nội dung sẽ có thể chọn không dán nhãn video của mình nếu không muốn"
-      ],
-      "full_summary": "YouTube đã công bố kế hoạch tự động dán nhãn video được tạo bằng AI để giúp người xem hiểu rõ hơn về nội dung. Mục tiêu của YouTube là giảm thiểu sự nhầm lẫn và tăng cường sự minh bạch cho người xem. Các video được tạo bằng AI sẽ được đánh dấu với biểu tượng đặc biệt để phân biệt với nội dung được tạo thủ công. Các nhà tạo nội dung sẽ có thể chọn không dán nhãn video của mình nếu không muốn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "45ff2cf6401b",
-      "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T20:05:24.520740+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel tấn công Tyre sau khi yêu cầu người dân di dời khỏi thành phố phía nam Liban",
-      "bullets": [
-        "Israel tấn công mục tiêu Hezbollah tại Tyre",
-        "Israel cảnh báo người dân sẽ hành động mạnh mẽ",
-        "Người dân được yêu cầu di dời khỏi thành phố",
-        "Israel tuyên bố tấn công nhằm vào Hezbollah"
-      ],
-      "full_summary": "Israel đã tấn công các mục tiêu của Hezbollah tại thành phố Tyre sau khi cảnh báo người dân sẽ hành động mạnh mẽ. Người dân đã được yêu cầu di dời khỏi thành phố. Israel tuyên bố tấn công nhằm vào Hezbollah. Điều này đã dẫn đến những lo ngại về xung đột ở khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff630b0bc95f",
-      "title": "Trump says US 'not satisfied' with Iran deal yet",
-      "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T20:05:25.400521+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cựu Tổng thống Mỹ chưa đồng ý với thỏa thuận Iran",
-      "bullets": [
-        "Cựu Tổng thống Mỹ Donald Trump nói Mỹ chưa hài lòng với thỏa thuận Iran",
-        "Mỹ và Iran vẫn chưa đạt được thỏa thuận về các điều khoản",
-        "Cựu Tổng thống Trump tin rằng Iran muốn đạt được thỏa thuận",
-        "Mỹ và Iran vẫn đang đàm phán để đạt được thỏa thuận"
-      ],
-      "full_summary": "Cựu Tổng thống Mỹ Donald Trump cho biết Mỹ chưa hài lòng với thỏa thuận Iran. Ông Trump tin rằng Iran muốn đạt được thỏa thuận nhưng vẫn chưa đạt được thỏa thuận về các điều khoản. Mặc dù vậy, Mỹ và Iran vẫn đang đàm phán để đạt được thỏa thuận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "02490b8b688c",
-      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-27T20:05:26.806253+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hoa Kỳ xây trạm cách ly Ebola ở Kenya cho công dân",
-      "bullets": [
-        "Hoa Kỳ đang xây dựng một trạm cách ly và điều trị Ebola ở Kenya",
-        "Trạm này sẽ dành cho công dân Mỹ bị phơi nhiễm Ebola tại Cộng hòa Dân chủ Congo",
-        "Chính phủ Mỹ không cho phép công dân quay về nước",
-        "Một số chuyên gia chỉ trích cách tiếp cận của Nhà Trắng"
-      ],
-      "full_summary": "Hoa Kỳ đang xây dựng một trạm cách ly và điều trị Ebola ở Kenya cho công dân Mỹ bị phơi nhiễm bệnh. Theo The Guardian, trạm này sẽ được xây dựng tại Kenya để cách ly và điều trị những người bị phơi nhiễm Ebola. Một số chuyên gia chỉ trích cách tiếp cận của Nhà Trắng vì cho rằng không cho phép công dân quay về nước sẽ ảnh hưởng đến nỗ lực điều trị.",
       "comments": 0,
       "score": 0
     }
