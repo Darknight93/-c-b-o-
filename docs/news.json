@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-05-29T02:36:55.170015+00:00",
+  "updated_at": "2026-05-29T09:41:47.920857+00:00",
   "articles": [
+    {
+      "id": "d8c5ee8df58f",
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:29.545021+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hai mươi học sinh thiệt mạng trong vụ cháy trường học ở Kenya",
+      "bullets": [
+        "Bốn mươi tám học sinh bị mắc kẹt trong vụ cháy",
+        "Hai mươi học sinh thiệt mạng trong vụ cháy",
+        "Cảnh sát Kenya bắt giữ tám học sinh nghi ngờ",
+        "Sự việc đang được điều tra"
+      ],
+      "full_summary": "Một vụ cháy lớn đã xảy ra tại một trường học ở Kenya, khiến 16 học sinh thiệt mạng. Cảnh sát đã bắt giữ 8 học sinh nghi ngờ liên quan đến vụ cháy. Sự việc đang được điều tra. Vụ cháy xảy ra vào ban đêm khi các học sinh đang ngủ trong ký túc xá.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0fbf541035cd",
+      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:31.070700+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Netanyahu chỉ đạo IDF tăng kiểm soát Gaza lên 70%",
+      "bullets": [
+        "Netanyahu chỉ đạo IDF tăng cường kiểm soát Gaza",
+        "Sự mở rộng kiểm soát của Israel vi phạm thỏa thuận ngừng bắn tháng 10/2025",
+        "Israel và Hamas đã đạt được thỏa thuận ngừng bắn vào tháng 10/2025",
+        "Netanyahu cho biết IDF sẽ tăng cường kiểm soát Gaza lên 70%"
+      ],
+      "full_summary": "Chủ tịch Israel Benjamin Netanyahu đã chỉ đạo quân đội Israel (IDF) tăng cường kiểm soát Gaza lên 70%. Điều này sẽ vi phạm thỏa thuận ngừng bắn mà Israel và Hamas đã đạt được vào tháng 10/2025. Sự mở rộng kiểm soát của Israel đã gây ra lo ngại về tình hình ở khu vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40e16860c2bb",
+      "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+      "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:32.129744+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều công nhân nghèo Delhi tiếp tục làm việc bất chấp nguy cơ sức khỏe",
+      "bullets": [
+        "Tiếp tục làm việc bất chấp nhiệt độ cao",
+        "Thiếu biện pháp bảo vệ sức khỏe",
+        "Sức khỏe của công nhân bị ảnh hưởng nghiêm trọng",
+        "Tình trạng này diễn ra phổ biến ở Delhi"
+      ],
+      "full_summary": "Nhiệt độ tại Delhi đã đạt mức 45 độ C, gây ra nhiều nguy cơ sức khỏe cho các công nhân nghèo. Mặc dù vậy, họ vẫn tiếp tục làm việc để có thể kiếm sống. Không có biện pháp bảo vệ sức khỏe, các công nhân dễ bị ảnh hưởng nghiêm trọng. Tình trạng này diễn ra phổ biến ở Delhi, nơi mà nhiều người sống trong tình trạng nghèo khổ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40889248db2e",
+      "title": "Moment Blue Origin rocket explodes during test in Florida",
+      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:34.030817+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Một tên lửa Blue Origin nổ tại Cape Canaveral, Florida",
+      "bullets": [
+        "Nổ xảy ra vào tối thứ năm tại Cape Canaveral, Florida",
+        "Tên lửa New Glenn của Blue Origin đang được thử nghiệm",
+        "Không có thông tin về thương vong hoặc thiệt hại",
+        "Blue Origin đang điều tra nguyên nhân của vụ nổ"
+      ],
+      "full_summary": "Một tên lửa Blue Origin New Glenn đã nổ tại Cape Canaveral, Florida vào tối thứ năm. Tên lửa đang được thử nghiệm và không có thông tin về thương vong hoặc thiệt hại. Blue Origin đang điều tra nguyên nhân của vụ nổ. Đây là một sự cố nghiêm trọng đối với công ty không gian của Jeff Bezos.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "af2b6ae8a2ca",
+      "title": "Mother-in-law of Indian bride whose death set off media frenzy arrested",
+      "url": "https://www.bbc.com/news/articles/c2e2lw0pv7zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:35.112246+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Vợ chồng Ấn Độ bị bắt vì cái chết của con dâu",
+      "bullets": [
+        "Bắt giữ mẹ chồng của Twisha Sharma",
+        "Cái chết của Twisha Sharma gây tranh cãi giữa tội ác và tự tử",
+        "Cáo buộc tội ác và tự tử gây xôn xao các phương tiện truyền thông",
+        "Cái chết của Twisha Sharma xảy ra vào ngày 12 tháng 5"
+      ],
+      "full_summary": "Cái chết của Twisha Sharma, một cô gái Ấn Độ, đã gây ra một cơn bão truyền thông lớn. Cô đã qua đời vào ngày 12 tháng 5 và các cáo buộc tội ác và tự tử đã gây xôn xao các phương tiện truyền thông. Mẹ chồng của cô đã bị bắt giữ. Cái chết của Twisha Sharma đã gây ra một cuộc tranh cãi lớn và các phương tiện truyền thông đã đưa tin về vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c2220c9bbe73",
+      "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
+      "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:36.264568+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiễm Ebola lan rộng ở Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Sốt xuất huyết đang lan rộng ở các khu vực phía đông châu Phi",
+        "Các nhà điều trị y tế cảnh báo rằng sự hỗ trợ toàn cầu yếu đi đang làm cho cuộc khủng hoảng kéo dài hơn",
+        "Tính đến nay, ít nhất 240 người đã tử vong vì bệnh này",
+        "Các cơ sở y tế ở khu vực Ituri tỉnh bị hạn chế"
+      ],
+      "full_summary": "Sốt xuất huyết đang lan rộng ở Cộng hòa Dân chủ Congo, gây ra ít nhất 240 cái chết kể từ khi bùng phát vào đầu tháng này. Khu vực Ituri tỉnh, nơi có nhiều mỏ và xung đột giữa các nhóm nổi dậy, đang trở thành tâm điểm của cuộc khủng hoảng. Các nhà điều trị y tế lo ngại rằng sự hỗ trợ toàn cầu yếu đi sẽ khiến cuộc khủng hoảng kéo dài hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "02490b8b688c",
+      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:37.522231+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hoa Kỳ xây trung tâm cách ly Ebola tại Kenya cho công dân",
+      "bullets": [
+        "Xây dựng trung tâm cách ly và điều trị Ebola tại Kenya cho công dân Hoa Kỳ",
+        "Không cho phép người dân Hoa Kỳ trở về nước ảnh hưởng đến nỗ lực điều trị",
+        "Chính quyền Trump xác nhận xây dựng cơ sở cách ly tại Kenya",
+        "Đề xuất xây dựng trung tâm cách ly tại Kenya gây tranh cãi"
+      ],
+      "full_summary": "Chính quyền Trump đang xây dựng trung tâm cách ly và điều trị Ebola tại Kenya cho công dân Hoa Kỳ bị ảnh hưởng bởi dịch bệnh. Thay vì đưa họ về nước, chính quyền này cho rằng xây dựng trung tâm cách ly tại Kenya sẽ giúp ngăn chặn sự lây lan của dịch bệnh. Tuy nhiên, một số chuyên gia đã chỉ trích quyết định này, cho rằng không cho phép người dân Hoa Kỳ trở về nước sẽ ảnh hưởng đến nỗ lực điều trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "994d0ed5ed43",
+      "title": "Clashes between armed groups in Colombia kill at least 52",
+      "url": "https://www.theguardian.com/world/2026/may/28/clashes-between-armed-groups-in-colombia-kill-at-least-52",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T09:41:39.694992+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ủy ban Colombia bất ổn do xung đột giữa các nhóm vũ trang",
+      "bullets": [
+        "Căng thẳng leo thang giữa hai nhóm vũ trang ở Colombia",
+        "Ít nhất 52 chiến binh đã thiệt mạng trong các cuộc giao tranh",
+        "Cái cớ là tranh chấp quyền kiểm soát vùng sản xuất và buôn bán cocaine",
+        "Vùng chiến sự nằm ở khu rừng của tỉnh Guaviare"
+      ],
+      "full_summary": "Ủy ban Colombia bất ổn do xung đột giữa hai nhóm vũ trang. Các cuộc giao tranh diễn ra ở khu rừng của tỉnh Guaviare, gần ngôi làng Barranco Colorado. Các nhóm vũ trang đang tranh chấp quyền kiểm soát vùng sản xuất và buôn bán cocaine. Ít nhất 52 chiến binh đã thiệt mạng trong các cuộc giao tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c6777660e7ff",
+      "title": "Researchers develop a new process to get lithium out of rocks",
+      "url": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-29T09:41:44.225232+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Các nhà khoa học phát triển quy trình mới để chiết xuất lithium từ đá",
+      "bullets": [
+        "Phát triển quy trình mới để chiết xuất lithium từ đá",
+        "Quy trình này có thể giúp đa dạng hóa nguồn cung lithium",
+        "Có thể giúp giảm phụ thuộc vào các nguồn lithium hiện tại",
+        "Quy trình này đang được thử nghiệm và có thể mở rộng quy mô"
+      ],
+      "full_summary": "Các nhà khoa học đã phát triển một quy trình mới để chiết xuất lithium từ đá. Quy trình này có thể giúp đa dạng hóa nguồn cung lithium, giảm phụ thuộc vào các nguồn lithium hiện tại. Nếu quy trình này được mở rộng quy mô, nó có thể giúp đáp ứng nhu cầu lithium trong tương lai. Các nhà khoa học đang thử nghiệm quy trình này và hy vọng nó sẽ được áp dụng rộng rãi.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1d20b29eb6eb",
       "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
@@ -615,185 +795,6 @@
         "Số tiền kiện lên tới 2 tỷ đô la Úc"
       ],
       "full_summary": "Úc đã kiện công ty 3M vì sử dụng chất độc 'trong suốt đời' trong dung dịch chữa cháy. Tình trạng ô nhiễm đã xảy ra tại các cơ sở quốc phòng và chính phủ Úc đã kiện công ty này vì hành động này. Đây là vụ kiện lớn nhất từ trước đến nay của chính phủ Úc và số tiền kiện lên tới 2 tỷ đô la Úc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e65377b8b76",
-      "title": "King's College team wins access to cutting-edge Google quantum chip",
-      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T09:55:27.223514+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Đội ngũ nghiên cứu King's College London được truy cập vào chip lượng tử Google tiên tiến",
-      "bullets": [
-        "Xây dựng một máy tính lượng tử mạnh mẽ để giải quyết vấn đề chưa từng có lời giải",
-        "Sử dụng chip lượng tử Google để nghiên cứu các quá trình tự nhiên quan trọng",
-        "Hy vọng sẽ tìm ra lời giải cho các câu hỏi chưa từng có lời đáp",
-        "Tăng cường khả năng tính toán của máy tính lượng tử"
-      ],
-      "full_summary": "Đội ngũ nghiên cứu King's College London đã được trao quyền truy cập vào chip lượng tử Google tiên tiến. Họ hy vọng rằng chip này sẽ giúp họ giải quyết các vấn đề chưa từng có lời giải về các quá trình tự nhiên quan trọng. Các nhà nghiên cứu sẽ sử dụng chip lượng tử để tăng cường khả năng tính toán của máy tính lượng tử và tìm ra lời giải cho các câu hỏi chưa từng có lời đáp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69369e9105e5",
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T09:55:28.266984+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta bị chỉ trích vì cấm người dùng Facebook và Instagram một cách không công bằng",
-      "bullets": [
-        "Meta đã từ chối nhiều yêu cầu giải thích từ Cơ quan Thanh tra của EU",
-        "Hàng trăm người dùng đã liên hệ với BBC, tố cáo bị cấm sử dụng Facebook và Instagram không đúng lý do",
-        "Cơ quan Thanh tra của EU đã yêu cầu Meta giải thích về các quy trình cấm người dùng",
-        "Meta đã không cung cấp thông tin chi tiết về các quy trình này"
-      ],
-      "full_summary": "Meta đã bị chỉ trích vì cấm người dùng Facebook và Instagram một cách không công bằng. Hàng trăm người dùng đã liên hệ với BBC, tố cáo bị cấm sử dụng các nền tảng này không đúng lý do. Cơ quan Thanh tra của EU đã yêu cầu Meta giải thích về các quy trình cấm người dùng, nhưng Meta đã không cung cấp thông tin chi tiết. Điều này đã gây ra sự bất bình trong cộng đồng người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "580234923488",
-      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
-      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T09:55:29.406597+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chuyên gia hack an đạo đức cảnh báo AI sẽ làm cạnh tranh khó khăn hơn",
-      "bullets": [
-        "Cảnh báo AI sẽ làm cạnh tranh khó khăn hơn cho những người như Chompie",
-        "Chompie là một trong những hacker đạo đức hàng đầu thế giới",
-        "AI như Claude Mythos đang trở nên phổ biến và mạnh mẽ hơn",
-        "Sẽ có nhiều người sử dụng AI để cạnh tranh với những hacker đạo đức"
-      ],
-      "full_summary": "Chompie, một trong những hacker đạo đức hàng đầu thế giới, đã cảnh báo rằng AI như Claude Mythos sẽ làm cạnh tranh khó khăn hơn cho những người như cô. Cô cho biết AI đang trở nên phổ biến và mạnh mẽ hơn, và sẽ có nhiều người sử dụng AI để cạnh tranh với những hacker đạo đức. Điều này có thể làm cho công việc của những hacker đạo đức trở nên khó khăn hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "87e0d3026047",
-      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
-      "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T09:55:32.767140+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
-      "bullets": [
-        "Mexico đồng ý cho đội bóng Iran ở lại trong World Cup",
-        "Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ",
-        "Đội bóng Iran sẽ đặt chân đến Tijuana, Mexico",
-        "Fifa đã xác nhận quyết định của Mexico"
-      ],
-      "full_summary": "Chủ tịch Mexico, Claudia Sheinbaum, đã đồng ý cho đội bóng Iran ở lại trong World Cup sau khi Mỹ từ chối tiếp nhận đội bóng này. Iran sẽ vẫn thi đấu các trận vòng bảng tại Mỹ nhưng sẽ đặt chân đến Tijuana, Mexico, để ở lại. Quyết định này được Fifa xác nhận sau khi Mỹ từ chối tiếp nhận đội bóng Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5fa3e965fd76",
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-28T09:55:36.962781+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mạng xã hội mới Hallucinate cho phép người dùng tổ chức raves trực tuyến",
-      "bullets": [
-        "Cho phép người dùng tham gia các raves trực tuyến với hàng nghìn người khác",
-        "Tạo môi trường ảo để người dùng thể hiện bản thân và tận hưởng âm nhạc",
-        "Cung cấp các tính năng tương tác như chat và âm thanh 3D",
-        "Cho phép người dùng tạo và tham gia các sự kiện raves độc lập"
-      ],
-      "full_summary": "Hallucinate là một mạng xã hội mới cho phép người dùng tổ chức và tham gia các raves trực tuyến. Mạng xã hội này cho phép người dùng tạo môi trường ảo để thể hiện bản thân và tận hưởng âm nhạc. Người dùng có thể tham gia các raves trực tuyến với hàng nghìn người khác và tương tác với họ thông qua các tính năng như chat và âm thanh 3D.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b891ea328b31",
-      "title": "US carries out new strikes on Iran military site",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T02:32:28.416898+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ thực hiện thêm vụ tấn công vào cơ sở quân sự Iran",
-      "bullets": [
-        "Mỹ tấn công cơ sở quân sự Iran lần thứ hai trong ba ngày",
-        "Hành động này được Mỹ lý giải là tự vệ",
-        "Mỹ không tiết lộ chi tiết về mục tiêu và phương tiện tấn công",
-        "Tình hình giữa Mỹ và Iran tiếp tục căng thẳng"
-      ],
-      "full_summary": "Mỹ đã thực hiện thêm một vụ tấn công vào cơ sở quân sự Iran, đây là lần thứ hai trong ba ngày. Mỹ cho biết hành động này là để tự vệ. Tuy nhiên, Mỹ không tiết lộ chi tiết về mục tiêu và phương tiện tấn công. Tình hình giữa Mỹ và Iran tiếp tục căng thẳng sau vụ tấn công mới này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9283b219c2a7",
-      "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
-      "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T02:32:29.831844+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Bà Jill Biden lo lắng về màn trình diễn của chồng tại cuộc tranh luận 2024",
-      "bullets": [
-        "Bà Jill Biden cho biết bà sợ Joe Biden đang gặp vấn đề về sức khỏe",
-        "Cô nói Joe Biden đã có màn trình diễn không tốt trong cuộc tranh luận với Donald Trump",
-        "Bà Jill Biden cho biết bà đã lo lắng về tình hình sức khỏe của chồng",
-        "Cô hy vọng Joe Biden sẽ có màn trình diễn tốt hơn trong tương lai"
-      ],
-      "full_summary": "Bà Jill Biden đã chia sẻ rằng bà lo lắng về màn trình diễn của chồng Joe Biden trong cuộc tranh luận 2024 với Donald Trump. Bà cho biết bà sợ Joe Biden đang gặp vấn đề về sức khỏe và đã có màn trình diễn không tốt. Bà hy vọng Joe Biden sẽ có màn trình diễn tốt hơn trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "54a543b8eb37",
-      "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
-      "url": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T02:32:30.800378+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hộ tống viên của Matthew Perry bị giam 41 tháng vì liên quan đến cái chết do ketamin",
-      "bullets": [
-        "Bị cáo Kenneth Iwamasa thú nhận tội danh",
-        "Đã nhận án tù 41 tháng vì liên quan đến cái chết do ketamin",
-        "Iwamasa nói sẽ mãi hối hận vì hành động của mình"
-      ],
-      "full_summary": "Hộ tống viên của diễn viên Matthew Perry, Kenneth Iwamasa, đã bị kết án 41 tháng tù vì liên quan đến cái chết của diễn viên này do sử dụng ketamin. Iwamasa đã thú nhận tội danh và nói rằng sẽ mãi hối hận vì hành động của mình. Đây là một vụ án nghiêm trọng liên quan đến việc buôn bán và sử dụng chất kích thích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2a5dbbd7552",
-      "title": "Google worker charged for using internal data to make $1.2m on Polymarket",
-      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T02:32:31.819756+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cán bộ Google bị buộc tội sử dụng dữ liệu nội bộ để lợi dụng Polymarket",
-      "bullets": [
-        "Bị cáo là một nhân viên Google lâu năm",
-        "Bị buộc tội vi phạm luật giao dịch nội bộ",
-        "Sử dụng dữ liệu nội bộ để kiếm lợi nhuận 1,2 triệu USD",
-        "Bị cáo sẽ phải đối mặt với hình phạt nghiêm khắc"
-      ],
-      "full_summary": "Một nhân viên Google lâu năm vừa bị buộc tội sử dụng dữ liệu nội bộ để lợi dụng Polymarket và kiếm được 1,2 triệu USD. Bị cáo đã sử dụng thông tin nội bộ để đặt cược và kiếm lợi nhuận trên nền tảng Polymarket. Vụ việc đã được đưa ra tòa án ở New York và bị cáo sẽ phải đối mặt với hình phạt nghiêm khắc.",
       "comments": 0,
       "score": 0
     }
