@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-05-29T14:47:46.886471+00:00",
+  "updated_at": "2026-05-29T20:11:53.452214+00:00",
   "articles": [
+    {
+      "id": "65590084e624",
+      "title": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
+      "url": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T20:11:37.369005+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Giám đốc cựu chùa kung fu Trung Quốc bị kết án 24 năm vì tham nhũng",
+      "bullets": [
+        "Bị kết án 24 năm tù vì tham nhũng và nhận hối lộ",
+        "Shi Yongxin từng là người đứng đầu chùa Shaolin",
+        "Chùa Shaolin nổi tiếng với các môn võ thuật",
+        "Sự việc gây sốc trong cộng đồng Phật giáo Trung Quốc"
+      ],
+      "full_summary": "Shi Yongxin, cựu giám đốc chùa Shaolin, đã bị kết án 24 năm tù vì tham nhũng và nhận hối lộ. Chùa Shaolin là một trong những ngôi chùa nổi tiếng nhất Trung Quốc, được biết đến với các môn võ thuật. Sự việc này gây sốc trong cộng đồng Phật giáo Trung Quốc và làm dấy lên nhiều tranh cãi. Shi Yongxin đã bị bắt giữ vào năm 2020 và sau đó bị kết án.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27d1849865a6",
+      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
+      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T20:11:38.227941+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Valve tăng giá Steam Deck hơn 40% do chi phí tăng cao",
+      "bullets": [
+        "Valve tăng giá Steam Deck hơn 40%",
+        "Chi phí linh kiện tăng cao là nguyên nhân chính",
+        "Steam Deck không có thay đổi về thiết kế",
+        "Valve giải thích tình trạng chi phí linh kiện hiện tại"
+      ],
+      "full_summary": "Valve đã tăng giá Steam Deck lên hơn 40% do chi phí linh kiện tăng cao. Mặc dù thiết kế của Steam Deck không có thay đổi, nhưng chi phí sản xuất đã tăng lên đáng kể. Valve giải thích rằng tình trạng chi phí linh kiện hiện tại là nguyên nhân chính dẫn đến việc tăng giá. Điều này có thể ảnh hưởng đến người dùng đang xem xét mua Steam Deck.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69369e9105e5",
+      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T20:11:39.300770+00:00",
+      "category": "công nghệ",
+      "importance": 3,
+      "headline": "Meta bị chỉ trích vì cấm người dùng Facebook và Instagram không đúng lý do",
+      "bullets": [
+        "Meta nhiều lần từ chối trả lời các yêu cầu của Cơ quan Liên minh châu Âu",
+        "Hàng trăm người dùng báo cáo bị cấm không đúng lý do",
+        "BBC tiếp nhận nhiều phản ánh về việc cấm người dùng Facebook và Instagram",
+        "Cơ quan Liên minh châu Âu yêu cầu Meta giải thích lý do cấm người dùng"
+      ],
+      "full_summary": "Meta đã bị chỉ trích vì nhiều lần từ chối trả lời các yêu cầu của Cơ quan Liên minh châu Âu về việc cấm người dùng Facebook và Instagram. Hàng trăm người dùng đã báo cáo bị cấm không đúng lý do. BBC đã tiếp nhận nhiều phản ánh về việc cấm người dùng Facebook và Instagram. Cơ quan Liên minh châu Âu đã yêu cầu Meta giải thích lý do cấm người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e2a5dbbd7552",
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T20:11:40.378614+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cán bộ Google bị buộc tội sử dụng dữ liệu nội bộ để đặt cược",
+      "bullets": [
+        "Bị cáo bị buộc tội vi phạm luật giao dịch nội bộ",
+        "Cán bộ Google bị cáo buộc sử dụng dữ liệu nội bộ để đặt cược",
+        "Lợi nhuận từ các khoản đặt cược lên đến 1,2 triệu USD",
+        "Bị cáo sẽ phải đối mặt với các cáo buộc tại New York"
+      ],
+      "full_summary": "Một nhân viên Google lâu năm đã bị buộc tội vi phạm luật giao dịch nội bộ tại New York. Bị cáo bị cáo buộc sử dụng dữ liệu nội bộ để đặt cược và kiếm được 1,2 triệu USD. Các cáo buộc này đã được đưa ra sau khi điều tra về việc sử dụng dữ liệu nội bộ để đặt cược.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c21db9e404f8",
+      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T20:11:41.537203+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hỏa hoạn tại trường nữ sinh ở Kenya khiến ít nhất 16 học sinh thiệt mạng",
+      "bullets": [
+        "Một vụ hỏa hoạn bùng phát vào lúc nửa đêm tại trường nữ sinh Utumishi ở Gilgil, Kenya",
+        "Ít nhất 16 học sinh đã thiệt mạng trong vụ hỏa hoạn",
+        "Cảnh sát đang điều tra nguyên nhân của vụ hỏa hoạn",
+        "Hàng trăm học sinh khác đã được sơ tán an toàn"
+      ],
+      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại trường nữ sinh Utumishi ở Gilgil, Kenya vào lúc nửa đêm. Ít nhất 16 học sinh đã thiệt mạng trong vụ hỏa hoạn. Cảnh sát đang điều tra nguyên nhân của vụ hỏa hoạn. Hàng trăm học sinh khác đã được sơ tán an toàn. Các phụ huynh đang chờ đợi thông tin cập nhật về vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "210bf283a1be",
+      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T20:11:43.548969+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mexico phê duyệt sửa đổi hiến pháp để hủy bỏ kết quả bầu cử do can thiệp nước ngoài",
+      "bullets": [
+        "Mexico đã thông qua sửa đổi hiến pháp để hủy bỏ kết quả bầu cử do can thiệp nước ngoài",
+        "Sửa đổi định nghĩa can thiệp nước ngoài bao gồm tài trợ bất hợp pháp, truyền thông, lan truyền thông tin sai lệch và can thiệp của chính phủ nước ngoài",
+        "Đảng đối lập chỉ trích sửa đổi cho phép đảng cầm quyền hủy bỏ ý chí của cử tri"
+      ],
+      "full_summary": "Thượng viện Mexico đã thông qua sửa đổi hiến pháp để cho phép hủy bỏ kết quả bầu cử do can thiệp nước ngoài. Sửa đổi này được đề xuất bởi Tổng thống Claudia Sheinbaum và định nghĩa can thiệp nước ngoài bao gồm nhiều yếu tố như tài trợ bất hợp pháp, truyền thông và lan truyền thông tin sai lệch. Đảng đối lập chỉ trích sửa đổi này cho phép đảng cầm quyền hủy bỏ ý chí của cử tri.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c18418b56332",
+      "title": "Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists",
+      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-29T20:11:44.710808+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Lula phản ứng với Mỹ xếp hai băng nhóm Brazil là tổ chức khủng bố",
+      "bullets": [
+        "Mỹ xếp hai băng nhóm Brazil là tổ chức khủng bố",
+        "Lula phản ứng với quyết định của Mỹ",
+        "Flávio Bolsonaro được hưởng lợi từ quyết định này",
+        "Tình hình chính trị Brazil trở nên phức tạp hơn"
+      ],
+      "full_summary": "Chủ tịch Brazil Luiz Inácio da Silva đã phản ứng với quyết định của Mỹ về việc xếp hai băng nhóm lớn nhất Brazil là tổ chức khủng bố. Quyết định này được công bố bởi Thứ trưởng Ngoại giao Mỹ Marco Rubio. Chủ tịch Lula đã phản ứng mạnh mẽ với quyết định này, coi đó là một sự đối xử không công bằng với Brazil. Trong khi đó, ứng cử viên tổng thống far-right Flávio Bolsonaro được hưởng lợi từ quyết định này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e18728a0594d",
+      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+      "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-29T20:11:47.865195+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Trailer mới của House of the Dragon đầy lửa và máu",
+      "bullets": [
+        "Bí mật về mùa thứ ba được hé lộ",
+        "Tác phẩm sẽ tiếp tục xoay quanh vương quyền",
+        "Khách hàng mong đợi nhiều cảnh chiến đấu và máu me",
+        "Trailer gây ấn tượng mạnh với người hâm mộ"
+      ],
+      "full_summary": "Trailer mới của House of the Dragon đã được phát hành, tiết lộ nhiều bí mật về mùa thứ ba của bộ phim. Trong đó, người hâm mộ sẽ thấy nhiều cảnh chiến đấu và máu me. Trailer gây ấn tượng mạnh với người hâm mộ và tạo ra nhiều sự tò mò về nội dung của mùa thứ ba. Bộ phim sẽ tiếp tục xoay quanh vương quyền và bí mật của gia đình Targaryen.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c3707c4135d8",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-29T20:11:52.381618+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mô hình LLM nhỏ gọn với hiệu suất cao được phát triển bằng C++ và CUDA",
+      "bullets": [
+        "Phát triển mô hình LLM nhỏ gọn",
+        "Sử dụng C++ và CUDA để tăng hiệu suất",
+        "Mô hình có thể được sử dụng cho các ứng dụng khác nhau"
+      ],
+      "full_summary": "Một nhà phát triển đã tạo ra mô hình LLM nhỏ gọn có hiệu suất cao bằng cách sử dụng C++ và CUDA. Mô hình này có thể được sử dụng cho các ứng dụng khác nhau và có thể giúp giảm thiểu thời gian và tài nguyên cần thiết để thực hiện các nhiệm vụ liên quan đến LLM. Mô hình này đã được công bố trên GitHub và đang chờ đợi phản hồi từ cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "455f1fc7b020",
       "title": "Canadian 'poison seller' pleads guilty to aiding suicides by selling toxic chemical online",
@@ -616,185 +794,6 @@
         "Vụ rò rỉ dữ liệu xảy ra vào năm 2023"
       ],
       "full_summary": "Tổng chưởng lý California, Rob Bonta, đã kiện một công ty di truyền vì rò rỉ dữ liệu vào năm 2023. Công ty bị cáo buộc đã nói dối về mức độ nghiêm trọng của vụ rò rỉ. Tổng chưởng lý yêu cầu công ty phải chịu trách nhiệm và phải thực hiện các biện pháp để ngăn chặn các vụ rò rỉ tương tự trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "61f9627fa054",
-      "title": "Porn company fined £600,000 by Ofcom over age check failings",
-      "url": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T20:10:26.662471+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công ty phát sóng porn bị phạt 600.000 bảng vì thiếu kiểm tra độ tuổi",
-      "bullets": [
-        "Bị phạt £600.000 vì không kiểm tra độ tuổi từ tháng 7 đến tháng 9 năm 2025",
-        "Đã thực hiện kiểm tra xác thực sau khi bị phát hiện",
-        "Ofcom yêu cầu công ty thực hiện kiểm tra độ tuổi nghiêm ngặt",
-        "Công ty phải tuân thủ các quy định về kiểm tra độ tuổi"
-      ],
-      "full_summary": "Ofcom cho biết công ty Youngtek Solutions Ltd không thực hiện kiểm tra độ tuổi từ tháng 7 đến tháng 9 năm 2025. Điều này đã dẫn đến việc công ty bị phạt £600.000. Tuy nhiên, công ty đã thực hiện kiểm tra xác thực sau khi bị phát hiện và tuân thủ các quy định về kiểm tra độ tuổi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0554ab616637",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T20:10:28.256982+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng đáp ứng",
-      "bullets": [
-        "WHO đang tăng cường hoạt động để đối phó với dịch bệnh",
-        "Dịch bệnh đang lan rộng nhanh hơn khả năng đáp ứng của WHO",
-        "Các quốc gia láng giềng của DRC đang ở mức độ rủi ro cao",
-        "WHO kêu gọi các quốc gia láng giềng phải hành động ngay lập tức"
-      ],
-      "full_summary": "WHO cảnh báo dịch Ebola ở DRC đang vượt quá khả năng đáp ứng. Giám đốc WHO, Dr Tedros Adhanom Ghebreyesus, đã kêu gọi các quốc gia láng giềng phải hành động ngay lập tức để đối phó với dịch bệnh. Dịch bệnh đang lan rộng nhanh hơn khả năng đáp ứng của WHO, khiến các quốc gia láng giềng ở mức độ rủi ro cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "682c1693ed3c",
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T20:10:29.270550+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cặp đôi Botswana kiện để hợp pháp hóa hôn nhân đồng tính",
-      "bullets": [
-        "Cặp đôi Bonolo Selelo và Tsholofelo Kumile kiện để được kết hôn",
-        "Họ đối mặt với sự phản đối mạnh mẽ từ các nhóm giáo hội",
-        "Cặp đôi đã sống chung từ tháng 12/2023 và đề xuất kết hôn vào năm 2024",
-        "Họ sẽ đưa vụ việc lên tòa án để đòi quyền kết hôn"
-      ],
-      "full_summary": "Bonolo Selelo và Tsholofelo Kumile, một cặp đôi đồng tính từ Botswana, đã quyết định kiện để được kết hôn. Họ đã sống chung từ tháng 12/2023 và đề xuất kết hôn vào năm 2024. Tuy nhiên, họ đã bị từ chối bởi cơ quan chính quyền địa phương. Bây giờ, họ sẽ đưa vụ việc lên tòa án để đòi quyền kết hôn và chống lại sự phản đối mạnh mẽ từ các nhóm giáo hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5535b18e4050",
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-28T20:10:32.061360+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Illinois thông qua luật quan trọng về kiểm soát AI",
-      "bullets": [
-        "Thống đốc Illinois ký ban hành luật kiểm soát AI",
-        "Cơ quan quản lý an toàn AI sẽ được thành lập",
-        "Anthropic và OpenAI ủng hộ luật này",
-        "Mục tiêu là đảm bảo an toàn và minh bạch cho AI"
-      ],
-      "full_summary": "Illinois đã thông qua một luật quan trọng về kiểm soát AI, khiến Tổng thống Trump mất thêm quyền kiểm soát. Luật này nhằm mục đích thành lập cơ quan quản lý an toàn AI và đảm bảo an toàn và minh bạch cho các công nghệ AI. Các công ty như Anthropic và OpenAI đã ủng hộ luật này. Luật này được kỳ vọng sẽ giúp kiểm soát việc phát triển và sử dụng AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "761a1c72e18b",
-      "title": "Just Use Postgres for Durable Workflows",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-28T20:10:35.878804+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "PostgreSQL có thể đáp ứng mọi yêu cầu về lưu trữ dữ liệu",
-      "bullets": [
-        "Giải thích tại sao PostgreSQL có thể đáp ứng mọi yêu cầu về lưu trữ dữ liệu",
-        "So sánh PostgreSQL với các giải pháp lưu trữ dữ liệu khác",
-        "Mô tả các tính năng của PostgreSQL giúp nó trở thành lựa chọn tốt nhất",
-        "Nêu bật các trường hợp sử dụng của PostgreSQL trong các ứng dụng"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã đề xuất rằng PostgreSQL có thể đáp ứng mọi yêu cầu về lưu trữ dữ liệu. Bài viết này giải thích tại sao PostgreSQL có thể đáp ứng mọi yêu cầu và so sánh nó với các giải pháp lưu trữ dữ liệu khác. PostgreSQL sở hữu các tính năng như khả năng lưu trữ dữ liệu lớn, hiệu suất cao và tính bảo mật tốt. Điều này khiến nó trở thành lựa chọn tốt nhất cho các ứng dụng cần lưu trữ dữ liệu lớn và phức tạp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8e512939ac1",
-      "title": "Are US and Iran close to peace or sliding back to war?",
-      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T15:34:51.467337+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hai nước Mỹ và Iran không muốn quay lại chiến tranh toàn diện",
-      "bullets": [
-        "Mỹ và Iran không muốn quay lại chiến tranh toàn diện",
-        "Cả hai bên đều không muốn xung đột bùng phát trở lại",
-        "Mỹ và Iran đang tìm kiếm một giải pháp hòa bình"
-      ],
-      "full_summary": "Mỹ và Iran đã có một số vụ tấn công lẫn nhau, nhưng cả hai bên đều không muốn quay lại chiến tranh toàn diện. Cả hai nước đang tìm kiếm một giải pháp hòa bình và không muốn xung đột bùng phát trở lại. Điều này cho thấy rằng cả hai bên đều muốn duy trì hòa bình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "75551da7d675",
-      "title": "Israel hits Lebanese capital in 'targeted strike'",
-      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T15:34:52.499783+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel tấn công thủ đô Beirut của Liban",
-      "bullets": [
-        "Israel đã thực hiện một cuộc tấn công vào thủ đô Beirut",
-        "Hamas và Hezbollah cáo buộc Israel vi phạm thỏa thuận ngừng bắn",
-        "Beirut đã được bảo vệ khỏi các cuộc tấn công trong nhiều tháng",
-        "Tình hình ở Trung Đông tiếp tục căng thẳng"
-      ],
-      "full_summary": "Israel đã thực hiện một cuộc tấn công vào thủ đô Beirut của Liban, chấm dứt sự im lặng của thành phố trong nhiều tháng. Cuộc tấn công này diễn ra trong bối cảnh Israel và Hezbollah cáo buộc nhau vi phạm thỏa thuận ngừng bắn tháng trước. Beirut đã được bảo vệ khỏi các cuộc tấn công trong nhiều tháng, nhưng tình hình ở Trung Đông tiếp tục căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c6659ad042f7",
-      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
-      "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T15:34:53.772436+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát Ý tịch thu tài sản trị giá triệu đô từ Mafia",
-      "bullets": [
-        "Tịch thu nhiều căn biệt thự và xe hơi",
-        "Khám xét tài khoản ngân hàng của Mafia",
-        "Bắt giữ nhiều nghi phạm liên quan",
-        "Tổ chức tội phạm của Mafia bị phá vỡ"
-      ],
-      "full_summary": "Cảnh sát Ý đã thực hiện một cuộc đột kích nhằm vào mạng lưới của Mafia do Matteo Messina Denaro lãnh đạo. Họ đã tịch thu nhiều căn biệt thự, xe hơi và tiền mặt trị giá triệu đô. Cuộc đột kích được thực hiện sau khi Mafia qua đời. Cảnh sát tin rằng cuộc đột kích này sẽ giúp phá vỡ tổ chức tội phạm của Mafia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "432b614a10e7",
-      "title": "Man arrested after three injured in stabbing at Swiss train station",
-      "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T15:34:54.758957+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông 31 tuổi bị bắt sau khi gây thương tích cho ba người tại ga tàu hỏa Thụy Sĩ",
-      "bullets": [
-        "Cảnh sát bắt giữ nghi phạm",
-        "Khu vực xung quanh ga tàu hỏa bị phong tỏa",
-        "Ba người bị thương trong vụ xâm hại",
-        "Nghi phạm là công dân Thụy Sĩ"
-      ],
-      "full_summary": "Một vụ xâm hại nghiêm trọng đã xảy ra tại ga tàu hỏa ở Thụy Sĩ, khiến ba người bị thương. Cảnh sát đã nhanh chóng bắt giữ nghi phạm, một người đàn ông 31 tuổi. Khu vực xung quanh ga tàu hỏa đã bị phong tỏa để đảm bảo an toàn cho công chúng.",
       "comments": 0,
       "score": 0
     }
