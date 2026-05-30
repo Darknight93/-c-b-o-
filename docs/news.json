@@ -1,6 +1,225 @@
 {
-  "updated_at": "2026-05-29T20:11:53.452214+00:00",
+  "updated_at": "2026-05-30T02:30:37.817203+00:00",
   "articles": [
+    {
+      "id": "26dd16016ef0",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T02:30:21.310909+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Trả lời cuối cùng về thỏa thuận Iran chưa được công bố",
+      "bullets": [
+        "Đại diện Mỹ và Iran đã thống nhất khung thỏa thuận",
+        "Cựu Tổng thống Trump gặp cố vấn sau khi thông tin được xác nhận",
+        "Thỏa thuận chưa được công bố sau cuộc họp",
+        "Cơ quan tình báo Mỹ đang xem xét thông tin"
+      ],
+      "full_summary": "Tổng thống Mỹ đã gặp cố vấn sau khi thông tin về thỏa thuận giữa Mỹ và Iran được xác nhận. Tuy nhiên, thỏa thuận này vẫn chưa được công bố. Cơ quan tình báo Mỹ đang xem xét thông tin trước khi đưa ra quyết định cuối cùng. Cuộc họp giữa Tổng thống Trump và cố vấn diễn ra sau thông tin được xác nhận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9a6d27c0947a",
+      "title": "First of five men found alive in flooded Laos cave rescued",
+      "url": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T02:30:22.359489+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông bị mắc kẹt trong hang động ở Lào được cứu sống sau 9 ngày",
+      "bullets": [
+        "Người đàn ông bị mắc kẹt trong hang động được dẫn ra an toàn",
+        "Cứu hộ đã tìm thấy 5 người đàn ông bị mắc kẹt trong hang động",
+        "Người đàn ông bị mắc kẹt đã sống sót 9 ngày trong hang động",
+        "Cứu hộ đang tìm kiếm các người đàn ông bị mắc kẹt khác"
+      ],
+      "full_summary": "Một người đàn ông bị mắc kẹt trong hang động ở Lào đã được cứu sống sau 9 ngày. Người đàn ông này đã bị mắc kẹt trong hang động cùng với 4 người đàn ông khác. Cứu hộ đã tìm thấy 5 người đàn ông bị mắc kẹt và đang tìm kiếm các người đàn ông bị mắc kẹt khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "94cf064ef26e",
+      "title": "Ghana parliament passes anti-LGBTQ+ bill",
+      "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T02:30:23.300490+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hạ viện Ghana thông qua dự luật chống LGBTQ+",
+      "bullets": [
+        "Thông qua dự luật cấm quan hệ đồng tính",
+        "Cấm các hoạt động LGBTQ+, phạt tù",
+        "Dự luật gây tranh cãi trong cộng đồng quốc tế",
+        "Ghana trở thành quốc gia châu Phi thứ hai thông qua luật này"
+      ],
+      "full_summary": "Hạ viện Ghana đã thông qua dự luật chống LGBTQ+, dự luật này quy định các hành vi đồng tính, song tính, chuyển giới sẽ bị phạt tù. Dự luật gây tranh cãi trong cộng đồng quốc tế, nhiều tổ chức nhân quyền đã lên tiếng phản đối. Ghana trở thành quốc gia châu Phi thứ hai thông qua luật này, sau Uganda.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "039ed623c7ad",
+      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
+      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T02:30:24.545371+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel bị đưa vào danh sách đen về bạo lực tình dục trong chiến tranh của Liên Hợp Quốc",
+      "bullets": [
+        "Liên Hợp Quốc đưa Israel vào danh sách đen về bạo lực tình dục trong chiến tranh lần đầu tiên",
+        "Israel bác bỏ cáo buộc trong báo cáo mới của Văn phòng Tổng thư ký Liên Hợp Quốc",
+        "Báo cáo cáo buộc Israel vi phạm quyền của phụ nữ và trẻ em gái trong cuộc xung đột",
+        "Israel cho biết sẽ phản hồi báo cáo một cách cẩn thận"
+      ],
+      "full_summary": "Liên Hợp Quốc đã đưa Israel vào danh sách đen về bạo lực tình dục trong chiến tranh lần đầu tiên. Báo cáo của Văn phòng Tổng thư ký Liên Hợp Quốc cáo buộc Israel vi phạm quyền của phụ nữ và trẻ em gái trong cuộc xung đột. Israel đã bác bỏ cáo buộc và cho biết sẽ phản hồi báo cáo một cách cẩn thận. Đây là một bước đi quan trọng trong nỗ lực của Liên Hợp Quốc nhằm ngăn chặn bạo lực tình dục trong chiến tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7267ecbad3c0",
+      "title": "Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival",
+      "url": "https://www.bbc.com/news/articles/c1w21gn340xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T02:30:25.740174+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Chủ tịch Sanchez đối mặt nguy cơ mất chức vì scandal",
+      "bullets": [
+        "Cơ quan điều tra đang điều tra các quan chức và thân nhân của Sanchez",
+        "Các cuộc điều tra này đã gây ra những scandal lớn cho chính phủ Sanchez",
+        "Sự tồn tại của Sanchez đang bị đe dọa",
+        "Chính phủ Sanchez đang đối mặt với nguy cơ sụp đổ"
+      ],
+      "full_summary": "Chủ tịch Sanchez đang đối mặt nguy cơ mất chức vì scandal liên quan đến các quan chức và thân nhân của ông. Các cuộc điều tra đang được tiến hành và đã gây ra những scandal lớn cho chính phủ Sanchez. Sự tồn tại của Sanchez đang bị đe dọa và chính phủ Sanchez đang đối mặt với nguy cơ sụp đổ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6a0192329dee",
+      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T02:30:26.840793+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "WHO kêu gọi ngừng bắn tại DRC để kiểm soát dịch Ebola",
+      "bullets": [
+        "WHO kêu gọi ngừng bắn tại DRC để kiểm soát dịch Ebola",
+        "Uganda đóng cửa biên giới với DRC để ngăn chặn lây lan dịch bệnh",
+        "Tedros Adhanom Ghebreyesus sẽ đến thăm DRC trong tuần này",
+        "Dịch Ebola đang lan rộng nhanh chóng tại tỉnh Ituri"
+      ],
+      "full_summary": "Tedros Adhanom Ghebreyesus, trưởng cơ quan Y tế Thế giới, đã kêu gọi ngừng bắn tại Cộng hòa Dân chủ Congo (DRC) để kiểm soát dịch Ebola đang lan rộng. Ông cảnh báo về 'sự va chạm khủng khiếp giữa bệnh tật và xung đột' tại khu vực này. Uganda đã đóng cửa biên giới với DRC để ngăn chặn lây lan dịch bệnh. Tedros sẽ đến thăm DRC trong tuần này để hỗ trợ nỗ lực kiểm soát dịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7dc144f4aa33",
+      "title": "Canadian man admits sending ‘suicide packets’ to hundreds of people around world",
+      "url": "https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T02:30:27.899849+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một người Canada thừa nhận gửi hàng trăm gói thuốc tự tử",
+      "bullets": [
+        "Thừa nhận gửi hàng trăm gói thuốc tự tử đến nhiều quốc gia",
+        "Xử lý 14 tội danh giúp người khác tự tử",
+        "Tạm thời miễn 14 tội danh giết người",
+        "Sẽ phải xét xử vào tháng 9"
+      ],
+      "full_summary": "Một người đàn ông Canada tên Kenneth Law đã thừa nhận gửi hàng trăm gói thuốc tự tử đến nhiều quốc gia trên thế giới, bao gồm Canada, Anh, Mỹ, Italy, Úc và New Zealand. Ông đã bị bắt và thừa nhận 14 tội danh giúp người khác tự tử. Trong khi đó, 14 tội danh giết người sẽ được miễn xử lý. Sẽ có xét xử vào tháng 9.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4d4a15e0d6c5",
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-30T02:30:29.110724+00:00",
+      "category": "khoa học|chính trị",
+      "importance": 4,
+      "headline": "Hợp đồng nghiên cứu Mỹ có thể bị hủy bất cứ lúc nào",
+      "bullets": [
+        "Bỏ qua đánh giá ngang hàng trong quá trình cấp vốn",
+        "Cán bộ chính trị sẽ kiểm tra các đề xuất để loại bỏ chủ đề bị cấm",
+        "Sẽ ảnh hưởng đến các dự án nghiên cứu khoa học tại Mỹ"
+      ],
+      "full_summary": "Chính phủ Mỹ vừa đề xuất các quy định mới liên quan đến cấp vốn cho các dự án nghiên cứu. Theo đó, quy trình đánh giá ngang hàng (peer review) sẽ không còn bắt buộc, thay vào đó là các cán bộ chính trị sẽ kiểm tra các đề xuất để loại bỏ các chủ đề bị cấm. Điều này sẽ ảnh hưởng đến các dự án nghiên cứu khoa học tại Mỹ, khiến nhiều nhà khoa học lo ngại về sự độc lập và tự do nghiên cứu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c08b40fd4893",
+      "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
+      "url": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-30T02:30:30.232631+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tòa án Kenya ngăn chặn Mỹ đưa người nhiễm Ebola",
+      "bullets": [
+        "Ngăn chặn kế hoạch của chính quyền Trump",
+        "Khuyến cáo Mỹ xây dựng cơ sở riêng",
+        "Cơ sở chuyên dụng đã được xây dựng trước đó",
+        "Tòa án Kenya yêu cầu Mỹ tìm giải pháp khác"
+      ],
+      "full_summary": "Một tòa án ở Kenya đã ra lệnh cấm chính quyền Trump của Mỹ từ bỏ người nhiễm Ebola tại Kenya. Đây là một phần của kế hoạch của chính quyền Trump nhằm đối phó với dịch bệnh. Tuy nhiên, tòa án đã ngăn chặn kế hoạch này và yêu cầu chính quyền Mỹ tìm giải pháp khác. Mỹ đã xây dựng cơ sở chuyên dụng để đối phó với dịch bệnh trước đó.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "880689fd0d1d",
+      "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-30T02:30:32.298736+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "FCC cảnh báo các đài truyền hình tuân thủ lệnh mới",
+      "bullets": [
+        "Cảnh báo từ FCC đối với các đài truyền hình",
+        "ABC cho rằng việc gia hạn sớm vô căn cứ",
+        "FCC cảnh báo các đài truyền hình tuân thủ lệnh mới",
+        "ABC sẽ bị trừng phạt nếu không tuân thủ"
+      ],
+      "full_summary": "FCC đã gửi thông báo cảnh báo cho các đài truyền hình, yêu cầu họ tuân thủ các lệnh mới. Theo ABC, việc gia hạn sớm cho tất cả các trạm truyền hình là không có căn cứ và không có mục đích hợp lý. ABC cũng cho biết họ sẽ bị trừng phạt nếu không tuân thủ lệnh mới của FCC.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a9d2d7c98471",
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-30T02:30:36.177615+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "MCP đã ngừng hoạt động",
+      "bullets": [
+        "MCP đã bị ngừng hoạt động",
+        "MCP đã không còn hoạt động",
+        "MCP đã bị loại bỏ",
+        "MCP đã không còn được sử dụng"
+      ],
+      "full_summary": "Một bài viết trên Hacker News cho biết MCP đã ngừng hoạt động. MCP là một công nghệ được sử dụng rộng rãi trong nhiều lĩnh vực. Tuy nhiên, nó đã không còn được sử dụng và đã bị loại bỏ. Điều này có thể gây ra nhiều vấn đề cho các doanh nghiệp và tổ chức đang sử dụng công nghệ này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "65590084e624",
       "title": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
@@ -576,224 +795,6 @@
         "Máy bay không người lái bằng sợi quang có thể mang lại lợi thế cho Hezbollah trong các cuộc xung đột"
       ],
       "full_summary": "Hezbollah đang sử dụng máy bay không người lái bằng sợi quang để tấn công quân sự và dân thường của Israel. Điều này được cho là do Hezbollah học hỏi từ chiến tranh Ukraine và phát triển công nghệ này. Máy bay không người lái bằng sợi quang có thể mang lại lợi thế cho Hezbollah trong các cuộc xung đột. Điều này đang gây ra lo ngại cho Israel và các quốc gia khác trong khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "00fb154ab55e",
-      "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
-      "url": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:42.542684+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Italy phục hồi bức tranh tượng trưng may mắn bị mòn do du khách",
-      "bullets": [
-        "Italy phục hồi bức tranh tượng trưng may mắn",
-        "Bức tranh là trung tâm của một truyền thống du khách quay ba vòng",
-        "Truyền thống này được cho mang lại may mắn cho du khách",
-        "Bức tranh được phục hồi sau khi bị mòn do du khách quá đông"
-      ],
-      "full_summary": "Italy đã phục hồi một bức tranh tượng trưng may mắn trên một bức tượng bò ở thành phố Piazza del Duomo. Bức tranh này là trung tâm của một truyền thống du khách quay ba vòng để được may mắn. Truyền thống này được cho mang lại may mắn cho du khách. Bức tranh được phục hồi sau khi bị mòn do du khách quá đông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f4f2751e208",
-      "title": "Humanoid robots 'the future' of car making, says BMW",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:43.610768+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "BMW sử dụng robot humanoid trong nhà máy sản xuất xe",
-      "bullets": [
-        "BMW giới thiệu robot humanoid vào nhà máy sản xuất xe tại châu Âu",
-        "Các dự án tương tự đã được thực hiện tại Mỹ",
-        "Robot humanoid sẽ thay thế công nhân trong quá trình sản xuất",
-        "BMW hy vọng sẽ tăng cường hiệu suất và giảm chi phí sản xuất"
-      ],
-      "full_summary": "BMW đang giới thiệu robot humanoid vào nhà máy sản xuất xe tại châu Âu, tiếp tục các dự án tương tự tại Mỹ. Các robot này sẽ thay thế công nhân trong quá trình sản xuất, giúp tăng cường hiệu suất và giảm chi phí sản xuất. BMW hy vọng sẽ áp dụng công nghệ này trên toàn cầu trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f7ad76c1237d",
-      "title": "The rise of the fruit that tastes like custard",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:44.596101+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Custard apple trở nên phổ biến vì hương vị giống kem",
-      "bullets": [
-        "Cây cam bơ được đánh giá cao về độ bền",
-        "Nhược điểm là khó xuất khẩu trái cây dễ vỡ",
-        "Nghiên cứu đang được thực hiện để cải thiện kỹ thuật bảo quản",
-        "Mục tiêu là tăng sản lượng và giảm chi phí"
-      ],
-      "full_summary": "Custard apple là loại cây được đánh giá cao về độ bền và khả năng thích nghi. Tuy nhiên, trái cây của chúng rất dễ vỡ và khó bảo quản, khiến việc xuất khẩu trở nên khó khăn. Để giải quyết vấn đề này, các nhà nghiên cứu đang tìm cách cải thiện kỹ thuật bảo quản. Mục tiêu là tăng sản lượng và giảm chi phí để trái cây này có thể được xuất khẩu rộng rãi hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2e3d9e02578",
-      "title": "WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’",
-      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:45.551795+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "WHO đứng đầu khẳng định dịch Ebola ở DRC có thể ngăn chặn",
-      "bullets": [
-        "Tedros Adhanom Ghebreyesus đến DRC để hỗ trợ chống dịch Ebola",
-        "Ông kêu gọi ngừng chiến để đảm bảo an toàn cho nhân viên y tế",
-        "Tedros khẳng định dịch Ebola có thể được ngăn chặn nếu được hỗ trợ kịp thời"
-      ],
-      "full_summary": "Tedros Adhanom Ghebreyesus, Tổng giám đốc Tổ chức Y tế Thế giới (WHO), đã đến Kinshasa, DRC để hỗ trợ chống dịch Ebola. Ông sẽ đến Ituri, tỉnh ở phía bắc, nơi dịch bệnh đang bùng phát. Tedros kêu gọi ngừng chiến để đảm bảo an toàn cho nhân viên y tế và khẳng định dịch Ebola có thể được ngăn chặn nếu được hỗ trợ kịp thời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f0c62a15369",
-      "title": "Guatemala requests US military cooperation against drug trafficking",
-      "url": "https://www.theguardian.com/world/2026/may/28/guatemala-us-military-drug-trafficking",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:47.087951+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Guatemala cầu cứu Mỹ hỗ trợ chống buôn bán ma túy",
-      "bullets": [
-        "Guatemala yêu cầu Mỹ hỗ trợ quân sự chống buôn bán ma túy",
-        "Hai nước sẽ hợp tác về trang thiết bị, huấn luyện và chuyên gia",
-        "Hợp tác không bao gồm quân đội Mỹ hoạt động trên đất Guatemala"
-      ],
-      "full_summary": "Guatemala đã yêu cầu Mỹ hỗ trợ quân sự chống buôn bán ma túy, bao gồm truy cập trang thiết bị, huấn luyện và chuyên gia. Tổng thống Guatemala, Bernardo Arévalo, cho biết đã thảo luận với Pete Hegseth về các điều khoản hợp tác. Hợp tác này không bao gồm quân đội Mỹ hoạt động trên đất Guatemala và nằm trong các thỏa thuận song phương hiện có.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a699c27f8fee",
-      "title": "Carney calls for new US-Canada partnership to ‘help make America great again’",
-      "url": "https://www.theguardian.com/world/2026/may/28/mark-carney-trade-partnership-canada-america",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:48.573901+00:00",
-      "category": "politics|economy",
-      "importance": 3,
-      "headline": "Chủ tịch Canada kêu gọi hợp tác kinh tế mạnh mẽ hơn giữa hai nước",
-      "bullets": [
-        "Kêu gọi hợp tác kinh tế mạnh mẽ hơn",
-        "Xây dựng mối quan hệ đối tác thực sự",
-        "Tìm kiếm cơ hội hợp tác trong các lĩnh vực bị ảnh hưởng bởi cạnh tranh toàn cầu",
-        "Hỗ trợ mục tiêu 'làm cho Mỹ trở nên vĩ đại hơn'"
-      ],
-      "full_summary": "Chủ tịch Canada Mark Carney đã kêu gọi hợp tác kinh tế mạnh mẽ hơn giữa Canada và Mỹ trong một bài phát biểu tại New York. Ông cho rằng hai nước cần xây dựng mối quan hệ đối tác thực sự, tập trung vào các lĩnh vực bị ảnh hưởng bởi cạnh tranh toàn cầu. Mục tiêu của ông là hỗ trợ mục tiêu 'làm cho Mỹ trở nên vĩ đại hơn' và tìm kiếm cơ hội hợp tác trong các lĩnh vực quan trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "30bdfc94e469",
-      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-29T02:36:53.533682+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Apple đang cố gắng tích hợp mô hình Gemini khổng lồ vào iPhone để chạy Siri mới",
-      "bullets": [
-        "Apple đang cố gắng thu nhỏ mô hình Gemini để chạy trên iPhone",
-        "Một thành phần đám mây có thể là điều không thể tránh khỏi",
-        "Mục tiêu của Apple là chạy mô hình Gemini trên iPhone mà không cần kết nối internet",
-        "Apple đang cố gắng giảm kích thước mô hình Gemini để tiết kiệm năng lượng"
-      ],
-      "full_summary": "Apple đang cố gắng tích hợp mô hình Gemini khổng lồ vào iPhone để chạy Siri mới. Mô hình Gemini có hơn 1 tỷ tham số và được sử dụng trong các ứng dụng của Google. Apple đang cố gắng thu nhỏ mô hình này để chạy trên iPhone mà không cần kết nối internet. Một thành phần đám mây có thể là điều không thể tránh khỏi để đạt được mục tiêu này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ab99d2f628a5",
-      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T20:10:22.856080+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hàng chục người thiệt mạng trong vụ tấn công Gaza",
-      "bullets": [
-        "Báo cáo cho biết ít nhất năm trẻ em đã bị giết trong vụ tấn công",
-        "Vụ tấn công được cho là nhắm vào chỉ huy Hamas",
-        "Các bệnh viện ở Gaza City đang đối mặt với tình trạng quá tải",
-        "Tình hình ở Gaza tiếp tục căng thẳng"
-      ],
-      "full_summary": "Các bệnh viện ở Gaza City cho biết ít nhất năm trẻ em đã thiệt mạng trong vụ tấn công, được cho là nhắm vào một chỉ huy Hamas. Vụ tấn công đã khiến tình hình ở Gaza tiếp tục căng thẳng. Các bệnh viện đang đối mặt với tình trạng quá tải do số lượng người bị thương tăng cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "93e697b89416",
-      "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
-      "url": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T20:10:23.761191+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông 21 tuổi bị giam 15 năm vì âm mưu tấn công buổi hòa nhạc của Taylor Swift tại Vienna",
-      "bullets": [
-        "Bị cáo thừa nhận âm mưu tấn công buổi hòa nhạc và các tội danh liên quan đến khủng bố khác",
-        "Người đàn ông này đã bị bắt và bị truy tố vì các tội danh nghiêm trọng",
-        "Bị cáo đã thừa nhận mọi hành động của mình",
-        "Bị cáo sẽ phải giam 15 năm vì các tội danh nghiêm trọng"
-      ],
-      "full_summary": "Một người đàn ông 21 tuổi đã bị giam 15 năm vì âm mưu tấn công buổi hòa nhạc của ca sĩ Taylor Swift tại Vienna. Người đàn ông này đã thừa nhận mọi hành động của mình và bị truy tố vì các tội danh liên quan đến khủng bố. Bị cáo đã bị bắt và bị truy tố vì các tội danh nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3f41827139c0",
-      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-      "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T20:10:24.732126+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiệt độ cao kỷ lục ở Bồ Đào Nha, châu Âu bị ảnh hưởng bởi cơn nóng",
-      "bullets": [
-        "Cập nhật nhiệt độ kỷ lục ở Bồ Đào Nha trong tháng 5",
-        "Học sinh Pháp phải thi cử trong môi trường nóng bức",
-        "Cảnh báo đỏ được phát hành ở Ý",
-        "Nhiệt độ cao ảnh hưởng đến nhiều quốc gia châu Âu"
-      ],
-      "full_summary": "Bồ Đào Nha đã phá vỡ kỷ lục nhiệt độ cao nhất trong tháng 5. Nhiệt độ cao cũng ảnh hưởng đến nhiều quốc gia châu Âu, bao gồm Pháp và Ý. Học sinh Pháp đang phải thi cử trong môi trường nóng bức, trong khi cảnh báo đỏ đã được phát hành ở Ý. Nhiệt độ cao đang gây ra nhiều vấn đề cho nhiều quốc gia châu Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "066fdcaf4226",
-      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
-      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-28T20:10:25.687957+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "California kiện công ty di truyền vì rò rỉ dữ liệu năm 2023",
-      "bullets": [
-        "California kiện công ty di truyền vì rò rỉ dữ liệu",
-        "Công ty bị cáo buộc đã nói dối về mức độ nghiêm trọng của vụ rò rỉ",
-        "Tổng chưởng lý Rob Bonta yêu cầu công ty phải chịu trách nhiệm",
-        "Vụ rò rỉ dữ liệu xảy ra vào năm 2023"
-      ],
-      "full_summary": "Tổng chưởng lý California, Rob Bonta, đã kiện một công ty di truyền vì rò rỉ dữ liệu vào năm 2023. Công ty bị cáo buộc đã nói dối về mức độ nghiêm trọng của vụ rò rỉ. Tổng chưởng lý yêu cầu công ty phải chịu trách nhiệm và phải thực hiện các biện pháp để ngăn chặn các vụ rò rỉ tương tự trong tương lai.",
       "comments": 0,
       "score": 0
     }
