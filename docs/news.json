@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-05-30T02:30:37.817203+00:00",
+  "updated_at": "2026-05-30T08:20:55.391890+00:00",
   "articles": [
+    {
+      "id": "bab192154b4b",
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T08:20:40.521283+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ không bỏ rơi đồng minh châu Á, nhưng yêu cầu họ tăng cường quốc phòng",
+      "bullets": [
+        "Mỹ cam kết tiếp tục hỗ trợ đồng minh châu Á",
+        "Bộ trưởng Quốc phòng Mỹ yêu cầu các đồng minh tăng cường quốc phòng",
+        "Hội nghị an ninh châu Á tại Singapore thảo luận về hợp tác quốc phòng",
+        "Mỹ hy vọng sẽ ký thêm các thỏa thuận vũ khí với các đồng minh"
+      ],
+      "full_summary": "Bộ trưởng Quốc phòng Mỹ, Hegseth, đã khẳng định rằng Mỹ không bỏ rơi đồng minh châu Á, nhưng yêu cầu họ tăng cường quốc phòng. Tại hội nghị an ninh châu Á tại Singapore, Hegseth đã thảo luận về hợp tác quốc phòng và hy vọng ký thêm các thỏa thuận vũ khí với các đồng minh. Điều này nhằm đáp ứng những thách thức ngày càng tăng từ Trung Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f4f2751e208",
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T08:20:41.873104+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "BMW giới thiệu robot humanoid trong nhà máy sản xuất ô tô",
+      "bullets": [
+        "Sẽ giới thiệu robot humanoid tại nhà máy sản xuất ô tô ở châu Âu",
+        "Phát triển dựa trên các dự án tương tự ở Mỹ",
+        "Sử dụng robot humanoid để tăng hiệu suất sản xuất",
+        "Tăng cường khả năng tự động hóa trong nhà máy sản xuất"
+      ],
+      "full_summary": "BMW đang giới thiệu robot humanoid tại nhà máy sản xuất ô tô ở châu Âu, mở rộng các dự án tương tự ở Mỹ. Việc sử dụng robot humanoid sẽ giúp tăng hiệu suất sản xuất và tăng cường khả năng tự động hóa. Điều này sẽ giúp BMW giảm chi phí và tăng cường chất lượng sản phẩm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "066fdcaf4226",
+      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T08:20:42.853571+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tổng chưởng lý California kiện công ty 23andMe về vụ xâm phạm dữ liệu năm 2023",
+      "bullets": [
+        "Tổng chưởng lý Rob Bonta cáo buộc công ty đã nói dối về mức độ nghiêm trọng của vụ xâm phạm",
+        "Công ty bị cáo buộc đã không thông báo cho khách hàng về vụ xâm phạm",
+        "Tổng chưởng lý yêu cầu công ty phải bồi thường cho những người bị ảnh hưởng",
+        "Vụ xâm phạm dữ liệu xảy ra vào năm 2023 và ảnh hưởng đến hàng triệu người dùng"
+      ],
+      "full_summary": "Tổng chưởng lý Rob Bonta của California đã kiện công ty kế thừa của 23andMe vì vụ xâm phạm dữ liệu vào năm 2023. Ông cáo buộc công ty đã nói dối về mức độ nghiêm trọng của vụ xâm phạm và không thông báo cho khách hàng. Tổng chưởng lý yêu cầu công ty phải bồi thường cho những người bị ảnh hưởng. Vụ xâm phạm dữ liệu ảnh hưởng đến hàng triệu người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f7ad76c1237d",
+      "title": "The rise of the fruit that tastes like custard",
+      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T08:20:43.925902+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Custard apple được ưa chuộng vì độ bền nhưng khó xuất khẩu",
+      "bullets": [
+        "Cây cam sành được trồng ở nhiều nơi vì độ bền cao",
+        "Cây cam sành khó trồng ở những vùng khí hậu khắc nghiệt",
+        "Hạt cam sành khó bảo quản và vận chuyển",
+        "Custard apple được ưa chuộng vì hương vị đặc trưng"
+      ],
+      "full_summary": "Custard apple (Annona retusa) là loại cây được ưa chuộng vì độ bền cao và hương vị đặc trưng. Cây cam sành được trồng ở nhiều nơi trên thế giới, nhưng khó trồng ở những vùng khí hậu khắc nghiệt. Hạt cam sành khó bảo quản và vận chuyển, khiến việc xuất khẩu trở nên khó khăn. Vì vậy, nhiều người đang tìm kiếm các giải pháp để bảo quản và vận chuyển hạt cam sành một cách hiệu quả hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e2e3d9e02578",
+      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T08:20:44.948157+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "WHO ước tính tỷ lệ tử vong Ebola ở DRC lên tới 30-50%",
+      "bullets": [
+        "WHO ước tính tỷ lệ tử vong Ebola ở DRC lên tới 30-50%",
+        "Tedros Adhanom Ghebreyesus yêu cầu ngừng bắn giữa các nhóm vũ trang để ngăn chặn dịch bệnh",
+        "WHO trưởng Tedros đến DRC để hỗ trợ nỗ lực kiểm soát dịch bệnh",
+        "Tỷ lệ tử vong cao có thể lên tới 5 người trong 10 người mắc bệnh"
+      ],
+      "full_summary": "WHO ước tính tỷ lệ tử vong Ebola ở DRC lên tới 30-50%. Ông Tedros Adhanom Ghebreyesus, trưởng WHO, đã đến DRC để hỗ trợ nỗ lực kiểm soát dịch bệnh. Ông yêu cầu ngừng bắn giữa các nhóm vũ trang để ngăn chặn dịch bệnh. Tỷ lệ tử vong cao có thể lên tới 5 người trong 10 người mắc bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "010519bf14ce",
+      "title": "Botnet of more than 17 million devices dismantled",
+      "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-30T08:20:46.197088+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Một botnet lớn hơn 17 triệu thiết bị bị phá hủy",
+      "bullets": [
+        "Bị phá hủy một botnet lớn có hơn 17 triệu thiết bị",
+        "Botnet được cho là liên quan đến một mạng proxy nhà ở của Nga",
+        "Các chuyên gia an ninh mạng đã thực hiện các biện pháp để ngăn chặn hoạt động của botnet"
+      ],
+      "full_summary": "Một botnet lớn có hơn 17 triệu thiết bị đã bị phá hủy. Botnet này được cho là liên quan đến một mạng proxy nhà ở của Nga. Các chuyên gia an ninh mạng đã thực hiện các biện pháp để ngăn chặn hoạt động của botnet, giúp bảo vệ các thiết bị và dữ liệu khỏi các cuộc tấn công mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2a64b5796418",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-30T08:20:49.370810+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Perry tạo mã thực thi từ TypeScript trực tiếp bằng SWC và LLVM",
+      "bullets": [
+        "Perry sử dụng SWC để biên dịch TypeScript thành mã trung gian",
+        "LLVM được sử dụng để biên dịch mã trung gian thành mã thực thi",
+        "Mã thực thi có thể được tạo mà không cần tạo mã trung gian",
+        "Phương pháp này giúp tăng tốc độ biên dịch và giảm kích thước mã"
+      ],
+      "full_summary": "Perry đã phát triển một phương pháp biên dịch TypeScript trực tiếp thành mã thực thi bằng cách sử dụng SWC và LLVM. Phương pháp này giúp tăng tốc độ biên dịch và giảm kích thước mã. Perry cho biết phương pháp này có thể được sử dụng để tạo mã thực thi cho các ứng dụng và thư viện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bcdec393f3de",
+      "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+      "url": "https://www.nature.com/articles/s41586-026-10605-5",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-30T08:20:53.757987+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Mỹ công bố sai sót trong đo lường khí thải dầu khí",
+      "bullets": [
+        "Cập nhật dữ liệu khí thải dầu khí của Mỹ",
+        "Sử dụng gần một triệu điểm đo từ không gian",
+        "Xác định sai số trong đo lường khí thải",
+        "Cải thiện tính chính xác của dữ liệu khí thải"
+      ],
+      "full_summary": "Tạp chí Nature vừa công bố một bản sửa lỗi về dữ liệu khí thải dầu khí của Mỹ. Theo đó, gần một triệu điểm đo từ không gian đã được sử dụng để xác định khí thải dầu khí của Mỹ. Tuy nhiên, sau khi kiểm tra lại, các nhà khoa học phát hiện ra sai số trong đo lường khí thải. Để cải thiện tính chính xác của dữ liệu khí thải, các nhà khoa học đã cập nhật dữ liệu mới.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "26dd16016ef0",
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -635,166 +794,6 @@
         "Tình trạng này diễn ra phổ biến ở Delhi"
       ],
       "full_summary": "Nhiệt độ tại Delhi đã đạt mức 45 độ C, gây ra nhiều nguy cơ sức khỏe cho các công nhân nghèo. Mặc dù vậy, họ vẫn tiếp tục làm việc để có thể kiếm sống. Không có biện pháp bảo vệ sức khỏe, các công nhân dễ bị ảnh hưởng nghiêm trọng. Tình trạng này diễn ra phổ biến ở Delhi, nơi mà nhiều người sống trong tình trạng nghèo khổ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "40889248db2e",
-      "title": "Moment Blue Origin rocket explodes during test in Florida",
-      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:34.030817+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Một tên lửa Blue Origin nổ tại Cape Canaveral, Florida",
-      "bullets": [
-        "Nổ xảy ra vào tối thứ năm tại Cape Canaveral, Florida",
-        "Tên lửa New Glenn của Blue Origin đang được thử nghiệm",
-        "Không có thông tin về thương vong hoặc thiệt hại",
-        "Blue Origin đang điều tra nguyên nhân của vụ nổ"
-      ],
-      "full_summary": "Một tên lửa Blue Origin New Glenn đã nổ tại Cape Canaveral, Florida vào tối thứ năm. Tên lửa đang được thử nghiệm và không có thông tin về thương vong hoặc thiệt hại. Blue Origin đang điều tra nguyên nhân của vụ nổ. Đây là một sự cố nghiêm trọng đối với công ty không gian của Jeff Bezos.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af2b6ae8a2ca",
-      "title": "Mother-in-law of Indian bride whose death set off media frenzy arrested",
-      "url": "https://www.bbc.com/news/articles/c2e2lw0pv7zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:35.112246+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Vợ chồng Ấn Độ bị bắt vì cái chết của con dâu",
-      "bullets": [
-        "Bắt giữ mẹ chồng của Twisha Sharma",
-        "Cái chết của Twisha Sharma gây tranh cãi giữa tội ác và tự tử",
-        "Cáo buộc tội ác và tự tử gây xôn xao các phương tiện truyền thông",
-        "Cái chết của Twisha Sharma xảy ra vào ngày 12 tháng 5"
-      ],
-      "full_summary": "Cái chết của Twisha Sharma, một cô gái Ấn Độ, đã gây ra một cơn bão truyền thông lớn. Cô đã qua đời vào ngày 12 tháng 5 và các cáo buộc tội ác và tự tử đã gây xôn xao các phương tiện truyền thông. Mẹ chồng của cô đã bị bắt giữ. Cái chết của Twisha Sharma đã gây ra một cuộc tranh cãi lớn và các phương tiện truyền thông đã đưa tin về vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c2220c9bbe73",
-      "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
-      "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:36.264568+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiễm Ebola lan rộng ở Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "Sốt xuất huyết đang lan rộng ở các khu vực phía đông châu Phi",
-        "Các nhà điều trị y tế cảnh báo rằng sự hỗ trợ toàn cầu yếu đi đang làm cho cuộc khủng hoảng kéo dài hơn",
-        "Tính đến nay, ít nhất 240 người đã tử vong vì bệnh này",
-        "Các cơ sở y tế ở khu vực Ituri tỉnh bị hạn chế"
-      ],
-      "full_summary": "Sốt xuất huyết đang lan rộng ở Cộng hòa Dân chủ Congo, gây ra ít nhất 240 cái chết kể từ khi bùng phát vào đầu tháng này. Khu vực Ituri tỉnh, nơi có nhiều mỏ và xung đột giữa các nhóm nổi dậy, đang trở thành tâm điểm của cuộc khủng hoảng. Các nhà điều trị y tế lo ngại rằng sự hỗ trợ toàn cầu yếu đi sẽ khiến cuộc khủng hoảng kéo dài hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "02490b8b688c",
-      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:37.522231+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hoa Kỳ xây trung tâm cách ly Ebola tại Kenya cho công dân",
-      "bullets": [
-        "Xây dựng trung tâm cách ly và điều trị Ebola tại Kenya cho công dân Hoa Kỳ",
-        "Không cho phép người dân Hoa Kỳ trở về nước ảnh hưởng đến nỗ lực điều trị",
-        "Chính quyền Trump xác nhận xây dựng cơ sở cách ly tại Kenya",
-        "Đề xuất xây dựng trung tâm cách ly tại Kenya gây tranh cãi"
-      ],
-      "full_summary": "Chính quyền Trump đang xây dựng trung tâm cách ly và điều trị Ebola tại Kenya cho công dân Hoa Kỳ bị ảnh hưởng bởi dịch bệnh. Thay vì đưa họ về nước, chính quyền này cho rằng xây dựng trung tâm cách ly tại Kenya sẽ giúp ngăn chặn sự lây lan của dịch bệnh. Tuy nhiên, một số chuyên gia đã chỉ trích quyết định này, cho rằng không cho phép người dân Hoa Kỳ trở về nước sẽ ảnh hưởng đến nỗ lực điều trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "994d0ed5ed43",
-      "title": "Clashes between armed groups in Colombia kill at least 52",
-      "url": "https://www.theguardian.com/world/2026/may/28/clashes-between-armed-groups-in-colombia-kill-at-least-52",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:39.694992+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ủy ban Colombia bất ổn do xung đột giữa các nhóm vũ trang",
-      "bullets": [
-        "Căng thẳng leo thang giữa hai nhóm vũ trang ở Colombia",
-        "Ít nhất 52 chiến binh đã thiệt mạng trong các cuộc giao tranh",
-        "Cái cớ là tranh chấp quyền kiểm soát vùng sản xuất và buôn bán cocaine",
-        "Vùng chiến sự nằm ở khu rừng của tỉnh Guaviare"
-      ],
-      "full_summary": "Ủy ban Colombia bất ổn do xung đột giữa hai nhóm vũ trang. Các cuộc giao tranh diễn ra ở khu rừng của tỉnh Guaviare, gần ngôi làng Barranco Colorado. Các nhóm vũ trang đang tranh chấp quyền kiểm soát vùng sản xuất và buôn bán cocaine. Ít nhất 52 chiến binh đã thiệt mạng trong các cuộc giao tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c6777660e7ff",
-      "title": "Researchers develop a new process to get lithium out of rocks",
-      "url": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-29T09:41:44.225232+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Các nhà khoa học phát triển quy trình mới để chiết xuất lithium từ đá",
-      "bullets": [
-        "Phát triển quy trình mới để chiết xuất lithium từ đá",
-        "Quy trình này có thể giúp đa dạng hóa nguồn cung lithium",
-        "Có thể giúp giảm phụ thuộc vào các nguồn lithium hiện tại",
-        "Quy trình này đang được thử nghiệm và có thể mở rộng quy mô"
-      ],
-      "full_summary": "Các nhà khoa học đã phát triển một quy trình mới để chiết xuất lithium từ đá. Quy trình này có thể giúp đa dạng hóa nguồn cung lithium, giảm phụ thuộc vào các nguồn lithium hiện tại. Nếu quy trình này được mở rộng quy mô, nó có thể giúp đáp ứng nhu cầu lithium trong tương lai. Các nhà khoa học đang thử nghiệm quy trình này và hy vọng nó sẽ được áp dụng rộng rãi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1d20b29eb6eb",
-      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:40.455154+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hoa Kỳ và Iran gần đạt thỏa thuận nhưng vẫn chưa có kết quả",
-      "bullets": [
-        "Hai bên đã đạt được khung thỏa thuận ngừng bắn tạm thời",
-        "Chưa có sự đồng ý từ Tổng thống Trump và lãnh đạo Iran",
-        "Hai bên vẫn đang đàm phán để đạt được thỏa thuận",
-        "Thỏa thuận này sẽ giúp ngăn chặn xung đột ở khu vực"
-      ],
-      "full_summary": "Hoa Kỳ và Iran gần đạt được thỏa thuận ngừng bắn tạm thời nhưng vẫn chưa có kết quả. Hai bên đã đạt được khung thỏa thuận ngừng bắn tạm thời nhưng chưa có sự đồng ý từ Tổng thống Trump và lãnh đạo Iran. Thỏa thuận này sẽ giúp ngăn chặn xung đột ở khu vực và tạo điều kiện cho việc đàm phán tiếp tục.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "467c661f43cf",
-      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
-      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T02:36:41.395888+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hezbollah sử dụng máy bay không người lái bằng sợi quang để tấn công Israel",
-      "bullets": [
-        "Hezbollah đang sử dụng máy bay không người lái bằng sợi quang làm vũ khí chính",
-        "Máy bay không người lái này được sử dụng để tấn công quân sự và dân thường của Israel",
-        "Hezbollah học hỏi từ chiến tranh Ukraine để phát triển công nghệ này",
-        "Máy bay không người lái bằng sợi quang có thể mang lại lợi thế cho Hezbollah trong các cuộc xung đột"
-      ],
-      "full_summary": "Hezbollah đang sử dụng máy bay không người lái bằng sợi quang để tấn công quân sự và dân thường của Israel. Điều này được cho là do Hezbollah học hỏi từ chiến tranh Ukraine và phát triển công nghệ này. Máy bay không người lái bằng sợi quang có thể mang lại lợi thế cho Hezbollah trong các cuộc xung đột. Điều này đang gây ra lo ngại cho Israel và các quốc gia khác trong khu vực.",
       "comments": 0,
       "score": 0
     }
