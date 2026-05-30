@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-05-30T08:20:55.391890+00:00",
+  "updated_at": "2026-05-30T13:11:37.520891+00:00",
   "articles": [
+    {
+      "id": "75b092369457",
+      "title": "Four more men freed from flooded Laos cave after 10 days",
+      "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T13:11:20.398933+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bốn người đàn ông còn lại được giải cứu sau 10 ngày bị mắc kẹt trong hang động",
+      "bullets": [
+        "Bốn người đàn ông bị mắc kẹt trong hang động ở Lào đã được giải cứu",
+        "Hai người đàn ông còn lại vẫn chưa được tìm thấy sau 10 ngày",
+        "Bảy người đàn ông đã vào hang động tìm vàng vào ngày 20 tháng 5",
+        "Cả nhóm đã bị mắc kẹt do nước lũ tràn vào hang động"
+      ],
+      "full_summary": "Bốn người đàn ông bị mắc kẹt trong hang động ở Lào sau khi nước lũ tràn vào đã được giải cứu sau 10 ngày. Họ đã vào hang động cùng với ba người đàn ông khác và một người phụ nữ để tìm vàng vào ngày 20 tháng 5. Tuy nhiên, nước lũ đã tràn vào khiến họ bị mắc kẹt. Hai người đàn ông còn lại vẫn chưa được tìm thấy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ce40867128e7",
+      "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
+      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T13:11:21.554961+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Phim mới tập trung vào truyền thống ma thuật obeah bị cấm ở Jamaica",
+      "bullets": [
+        "Giới thiệu về phim Stew Peas của đạo diễn Sosiessia Nixon",
+        "Phim tập trung vào truyền thống ma thuật và chữa bệnh của người da đen ở Jamaica",
+        "Câu chuyện xoay quanh cuộc điều tra của nữ cảnh sát Tessa",
+        "Phim khám phá về hệ thống ma thuật obeah bị cấm ở Jamaica"
+      ],
+      "full_summary": "Phim Stew Peas của đạo diễn Sosiessia Nixon đã tập trung vào truyền thống ma thuật obeah bị cấm ở Jamaica. Phim kể về câu chuyện của nữ cảnh sát Tessa, người bị ám ảnh bởi một vụ án mạng cũ. Câu chuyện khám phá về hệ thống ma thuật obeah, một truyền thống được thừa hưởng từ châu Phi, đã bị cấm bởi các nhà thực dân vào thế kỷ 18. Phim này đã mang đến ánh sáng về một phần quan trọng của văn hóa Jamaica.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c2220c9bbe73",
+      "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
+      "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T13:11:23.794728+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Sự hỗ trợ toàn cầu đối với Ebola ở DRC đang suy yếu",
+      "bullets": [
+        "Sự lây lan của Ebola đang diễn ra nhanh chóng ở một số khu vực của châu Phi",
+        "Số người chết do Ebola đã đạt ít nhất 240 người kể từ khi dịch bệnh bùng phát ở tỉnh Ituri",
+        "Các nhà chức trách y tế đang cố gắng kiểm soát virus trong một môi trường khó khăn",
+        "Sự hỗ trợ toàn cầu đối với nỗ lực chống Ebola đang suy yếu"
+      ],
+      "full_summary": "Dịch bệnh Ebola đang lan rộng nhanh chóng ở một số khu vực của châu Phi, khiến ít nhất 240 người chết kể từ khi dịch bệnh bùng phát ở tỉnh Ituri. Các nhà chức trách y tế đang cố gắng kiểm soát virus trong một môi trường khó khăn, nơi có nhiều người di cư và xung đột. Sự hỗ trợ toàn cầu đối với nỗ lực chống Ebola đang suy yếu, khiến tình hình trở nên tồi tệ hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "02490b8b688c",
+      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T13:11:25.153914+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hoa Kỳ xây trung tâm cách ly Ebola ở Kenya cho công dân",
+      "bullets": [
+        "Hoa Kỳ đang xây dựng một trung tâm cách ly và điều trị Ebola ở Kenya",
+        "Trung tâm này sẽ dành cho công dân Mỹ bị ảnh hưởng bởi dịch Ebola",
+        "Một số chuyên gia chỉ trích phương pháp của Nhà Trắng",
+        "Chuyên gia cho rằng không cho phép công dân Mỹ trở về nước ảnh hưởng đến nỗ lực điều trị"
+      ],
+      "full_summary": "Hoa Kỳ đang xây dựng một trung tâm cách ly và điều trị Ebola ở Kenya cho công dân Mỹ bị ảnh hưởng bởi dịch Ebola. Phương pháp này đã bị chỉ trích bởi một số chuyên gia. Họ cho rằng không cho phép công dân Mỹ trở về nước sẽ ảnh hưởng đến nỗ lực điều trị. Trung tâm cách ly và điều trị Ebola ở Kenya sẽ dành cho công dân Mỹ bị ảnh hưởng bởi dịch Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7b9c460ca792",
+      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-30T13:11:26.643416+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Colombia chuẩn bị cho cuộc bầu cử tổng thống trong bóng tối của sự gia tăng bạo lực chính trị",
+      "bullets": [
+        "Colombia chuẩn bị tổ chức cuộc bầu cử tổng thống vào ngày Chủ nhật",
+        "Cuộc bầu cử giữa cánh tả và cánh hữu, cũng như giữa các giải pháp đối phó với cuộc xung đột vũ trang kéo dài hàng thập kỷ",
+        "Sự gia tăng bạo lực chính trị đã ảnh hưởng đến cuộc bầu cử",
+        "Một phóng viên trẻ đã bị giết trong khi đang báo cáo về cuộc xung đột"
+      ],
+      "full_summary": "Colombia chuẩn bị tổ chức cuộc bầu cử tổng thống vào ngày Chủ nhật. Cuộc bầu cử giữa cánh tả và cánh hữu, cũng như giữa các giải pháp đối phó với cuộc xung đột vũ trang kéo dài hàng thập kỷ. Sự gia tăng bạo lực chính trị đã ảnh hưởng đến cuộc bầu cử, khiến nhiều người lo ngại về tương lai của đất nước. Một phóng viên trẻ đã bị giết trong khi đang báo cáo về cuộc xung đột.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "59f5dbba77ae",
+      "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
+      "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-30T13:11:27.719319+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Sự phản đối vắc-xin có lịch sử lâu dài và phức tạp",
+      "bullets": [
+        "Xây dựng một cây gia phả về những người phản đối vắc-xin",
+        "Phân tích các nhóm người phản đối vắc-xin, từ những kẻ lừa đảo đến những người tin tưởng",
+        "Khám phá lịch sử lâu dài của sự phản đối vắc-xin",
+        "Hiểu rõ nguyên nhân và động lực đằng sau sự phản đối vắc-xin"
+      ],
+      "full_summary": "Một cuốn sách mới đã nghiên cứu lịch sử lâu dài của những người phản đối vắc-xin. Các nhà nghiên cứu đã xây dựng một cây gia phả về những người phản đối vắc-xin và phân tích các nhóm người này, từ những kẻ lừa đảo đến những người tin tưởng. Lịch sử của sự phản đối vắc-xin có thể được truy ngược lại hàng thế kỷ, và các nguyên nhân và động lực đằng sau sự phản đối này rất phức tạp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dd53509ebec9",
+      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-30T13:11:33.272473+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một lý thuyết lịch sử cho rằng người lãnh đạo thường là người trung bình",
+      "bullets": [
+        "Giải thích lý thuyết 'người trung bình' trong lịch sử",
+        "Ví dụ về Kaiser Wilhelm II và sự sụp đổ của Đế quốc Đức",
+        "Thuyết này cho rằng người lãnh đạo thường không phải là người giỏi nhất",
+        "Lý thuyết này có thể giúp hiểu được các sự kiện lịch sử"
+      ],
+      "full_summary": "Một bài viết trên Dead Carl đã đề xuất một lý thuyết lịch sử mới, theo đó người lãnh đạo thường là người trung bình. Bài viết đã sử dụng ví dụ về Kaiser Wilhelm II và sự sụp đổ của Đế quốc Đức để minh họa cho lý thuyết này. Lý thuyết cho rằng người lãnh đạo thường không phải là người giỏi nhất, mà là người có thể tận dụng được tình hình và cơ hội để đạt được thành công. Bài viết cũng cho rằng lý thuyết này có thể giúp hiểu được các sự kiện lịch sử và dự đoán được tương lai.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "bab192154b4b",
       "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
@@ -654,146 +794,6 @@
         "Nasa và Blue Origin đang điều tra nguyên nhân của vụ nổ."
       ],
       "full_summary": "Một tên lửa Blue Origin đã phát nổ trong quá trình phóng thử nghiệm, gây thiệt hại nặng nề cho công ty và kế hoạch Mặt Trăng của Nasa. Tên lửa Blue Origin bị phá hủy hoàn toàn trong vụ nổ. Vụ nổ đặt ra nhiều câu hỏi về khả năng thực hiện kế hoạch Mặt Trăng của Nasa. Nasa và Blue Origin đang điều tra nguyên nhân của vụ nổ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49fb0af91f07",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T14:47:34.868061+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Call of Duty sắp có bản đồ chiến trường Bắc Triều Tiên",
-      "bullets": [
-        "Infinity Ward sẽ phát triển game với độ chính xác quân sự cao",
-        "Bản đồ chiến trường sẽ được xây dựng dựa trên sự thật quân sự",
-        "Game sẽ tập trung vào tính chân thực và quân sự",
-        "Infinity Ward chưa công bố ngày phát hành chính thức"
-      ],
-      "full_summary": "Infinity Ward, nhà phát triển game Call of Duty, vừa công bố rằng bản mới nhất sẽ có bản đồ chiến trường Bắc Triều Tiên. Game sẽ được xây dựng dựa trên sự thật quân sự và tập trung vào tính chân thực và quân sự. Điều này sẽ giúp game trở nên chân thực hơn và thu hút người chơi hơn. Infinity Ward chưa công bố ngày phát hành chính thức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e65377b8b76",
-      "title": "King's College team wins access to cutting-edge Google quantum chip",
-      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T14:47:36.314463+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Đội ngũ nghiên cứu của Đại học King's London giành quyền truy cập chip lượng tử Google tiên tiến",
-      "bullets": [
-        "Đoán đoán các quá trình tự nhiên quan trọng bằng cách sử dụng chip lượng tử",
-        "Hỗ trợ nghiên cứu của Đại học King's London về các quá trình tự nhiên",
-        "Mở ra khả năng giải quyết các câu hỏi chưa từng được trả lời trước đây",
-        "Sử dụng công nghệ lượng tử để khám phá các quá trình tự nhiên phức tạp"
-      ],
-      "full_summary": "Đội ngũ nghiên cứu của Đại học King's London đã giành quyền truy cập vào chip lượng tử tiên tiến của Google. Họ hy vọng chip này sẽ giúp họ trả lời các câu hỏi chưa từng được trả lời trước đây về các quá trình tự nhiên quan trọng. Điều này sẽ mở ra khả năng giải quyết các vấn đề phức tạp trong lĩnh vực khoa học tự nhiên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "16b20c401c43",
-      "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
-      "url": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T14:47:39.853225+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Canada từ chối extradite người bán kit tự tử cho Anh",
-      "bullets": [
-        "Canada từ chối extradite Kenneth Law cho Anh để đối mặt với tội danh",
-        "Kenneth Law bị cáo buộc bán 1.200 kit tự tử cho 40 quốc gia, bao gồm Anh",
-        "Nhiều gia đình bị ảnh hưởng cảm thấy bị xúc phạm bởi quyết định này",
-        "Law được cho là đã biết rằng sản phẩm của mình sẽ được sử dụng để kết thúc cuộc sống"
-      ],
-      "full_summary": "Một quyết định không extradite Kenneth Law, người bị cáo buộc bán 1.200 kit tự tử cho 40 quốc gia, bao gồm Anh, đã gây ra sự phẫn nộ ở Anh. Law được cho là đã biết rằng sản phẩm của mình sẽ được sử dụng để kết thúc cuộc sống. Nhiều gia đình bị ảnh hưởng cảm thấy bị xúc phạm bởi quyết định này. Law đã được triệu tập đến tòa án ở Ontario, Canada, vào thứ Sáu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de4f4196e194",
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-29T14:47:45.776853+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Kẻ lập trình bí mật thêm lệnh xóa dữ liệu vào mã nguồn",
-      "bullets": [
-        "Thiết kế viên bí mật thêm lệnh xóa dữ liệu vào mã nguồn của dự án",
-        "Lệnh này được thực hiện bởi AI coding agent thông qua lệnh jqwik",
-        "Mục đích của lệnh này không được tiết lộ, nhưng có thể liên quan đến sự bất mãn với các lập trình viên khác",
-        "Dự án bị ảnh hưởng chưa được công bố"
-      ],
-      "full_summary": "Một thiết kế viên bí mật thêm lệnh xóa dữ liệu vào mã nguồn của dự án bằng cách sử dụng lệnh jqwik. Lệnh này được thực hiện bởi AI coding agent và có thể liên quan đến sự bất mãn với các lập trình viên khác. Mục đích của lệnh này không được tiết lộ, nhưng nó đã gây ra sự lo lắng cho các đồng nghiệp. Dự án bị ảnh hưởng chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8c5ee8df58f",
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:29.545021+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hai mươi học sinh thiệt mạng trong vụ cháy trường học ở Kenya",
-      "bullets": [
-        "Bốn mươi tám học sinh bị mắc kẹt trong vụ cháy",
-        "Hai mươi học sinh thiệt mạng trong vụ cháy",
-        "Cảnh sát Kenya bắt giữ tám học sinh nghi ngờ",
-        "Sự việc đang được điều tra"
-      ],
-      "full_summary": "Một vụ cháy lớn đã xảy ra tại một trường học ở Kenya, khiến 16 học sinh thiệt mạng. Cảnh sát đã bắt giữ 8 học sinh nghi ngờ liên quan đến vụ cháy. Sự việc đang được điều tra. Vụ cháy xảy ra vào ban đêm khi các học sinh đang ngủ trong ký túc xá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0fbf541035cd",
-      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
-      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:31.070700+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Netanyahu chỉ đạo IDF tăng kiểm soát Gaza lên 70%",
-      "bullets": [
-        "Netanyahu chỉ đạo IDF tăng cường kiểm soát Gaza",
-        "Sự mở rộng kiểm soát của Israel vi phạm thỏa thuận ngừng bắn tháng 10/2025",
-        "Israel và Hamas đã đạt được thỏa thuận ngừng bắn vào tháng 10/2025",
-        "Netanyahu cho biết IDF sẽ tăng cường kiểm soát Gaza lên 70%"
-      ],
-      "full_summary": "Chủ tịch Israel Benjamin Netanyahu đã chỉ đạo quân đội Israel (IDF) tăng cường kiểm soát Gaza lên 70%. Điều này sẽ vi phạm thỏa thuận ngừng bắn mà Israel và Hamas đã đạt được vào tháng 10/2025. Sự mở rộng kiểm soát của Israel đã gây ra lo ngại về tình hình ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "40e16860c2bb",
-      "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
-      "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T09:41:32.129744+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều công nhân nghèo Delhi tiếp tục làm việc bất chấp nguy cơ sức khỏe",
-      "bullets": [
-        "Tiếp tục làm việc bất chấp nhiệt độ cao",
-        "Thiếu biện pháp bảo vệ sức khỏe",
-        "Sức khỏe của công nhân bị ảnh hưởng nghiêm trọng",
-        "Tình trạng này diễn ra phổ biến ở Delhi"
-      ],
-      "full_summary": "Nhiệt độ tại Delhi đã đạt mức 45 độ C, gây ra nhiều nguy cơ sức khỏe cho các công nhân nghèo. Mặc dù vậy, họ vẫn tiếp tục làm việc để có thể kiếm sống. Không có biện pháp bảo vệ sức khỏe, các công nhân dễ bị ảnh hưởng nghiêm trọng. Tình trạng này diễn ra phổ biến ở Delhi, nơi mà nhiều người sống trong tình trạng nghèo khổ.",
       "comments": 0,
       "score": 0
     }
