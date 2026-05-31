@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-05-30T19:03:45.354797+00:00",
+  "updated_at": "2026-05-31T02:47:18.077987+00:00",
   "articles": [
+    {
+      "id": "5f5ec0d2730b",
+      "title": "Hundreds arrested in France after wild Champions League celebrations",
+      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T02:47:01.245794+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hàng trăm người bị bắt giữ ở Pháp sau khi tán tỉnh quá khích",
+      "bullets": [
+        "Hàng trăm người bị bắt giữ vì tham gia các cuộc biểu tình quá khích",
+        "Cảnh sát đã cố gắng khống chế đám đông người hâm mộ",
+        "Một số người hâm mộ đã bắn pháo hoa trong khi tán tỉnh",
+        "PSG đã giành chiến thắng trước Arsenal trong trận đấu Champions League"
+      ],
+      "full_summary": "Hàng trăm người bị bắt giữ ở Pháp sau khi tán tỉnh quá khích sau chiến thắng của PSG trước Arsenal trong trận đấu Champions League. Cảnh sát đã cố gắng khống chế đám đông người hâm mộ, nhưng một số người hâm mộ đã bắn pháo hoa và gây ra tình trạng hỗn loạn. Sự cố đã xảy ra ở nhiều nơi trên khắp thành phố Paris.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "04d57ff7b689",
+      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+      "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T02:47:02.353437+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Ecuador hứa xóa thuế sau cuộc điện thoại với ứng cử viên Colombia",
+      "bullets": [
+        "Ecuador đề nghị xóa thuế với Colombia",
+        "Daniel Noboa nói chuyện với ứng cử viên cánh hữu trước cuộc bầu cử",
+        "Cuộc bầu cử Colombia diễn ra vào Chủ nhật",
+        "Ecuador muốn cải thiện quan hệ với Colombia"
+      ],
+      "full_summary": "Ecuador đã bị cáo buộc can thiệp vào cuộc bầu cử Colombia sau khi lãnh đạo Daniel Noboa hứa xóa thuế với Colombia. Ông Noboa đã nói chuyện với ứng cử viên cánh hữu trước cuộc bầu cử diễn ra vào Chủ nhật. Điều này đã gây ra sự quan ngại về việc Ecuador đang cố gắng ảnh hưởng đến kết quả bầu cử. Ecuador và Colombia đã có quan hệ phức tạp trong nhiều năm và việc này có thể làm phức tạp thêm mối quan hệ giữa hai quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0742cf973a57",
+      "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+      "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T02:47:03.317536+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ferrari bị chỉ trích vì EV Luce",
+      "bullets": [
+        "Ferrari bị chỉ trích vì EV Luce có thiết kế không giống với xe đua",
+        "Một số người nói Ferrari đã bỏ rơi truyền thống của mình",
+        "Ferrari muốn cạnh tranh với xe điện Trung Quốc",
+        "EV Luce gặp phải phản ứng tiêu cực từ công chúng"
+      ],
+      "full_summary": "Ferrari đã công bố EV Luce, nhưng nó đã gặp phải phản ứng tiêu cực từ công chúng. Một số người cho rằng thiết kế của EV Luce không giống với xe đua truyền thống của Ferrari. Điều này đã khiến Ferrari bị chỉ trích vì đã bỏ rơi truyền thống của mình. Ferrari muốn cạnh tranh với xe điện Trung Quốc, nhưng có vẻ như họ đã không đạt được mục tiêu này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49fb0af91f07",
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T02:47:04.364394+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Call of Duty sắp có bản mới với bối cảnh xâm lược Triều Tiên",
+      "bullets": [
+        "Infinity Ward sẽ phát triển game với độ chính xác quân sự cao",
+        "Bản game sẽ tập trung vào tính chân thực quân sự",
+        "Triều Tiên sẽ là bối cảnh chính của game",
+        "Infinity Ward cam kết giữ nguyên chất lượng game"
+      ],
+      "full_summary": "Infinity Ward, nhà phát triển của game Call of Duty, vừa công bố thông tin về bản game mới sắp ra mắt. Bản game này sẽ có bối cảnh xâm lược Triều Tiên và sẽ tập trung vào tính chân thực quân sự. Infinity Ward cam kết giữ nguyên chất lượng game và sẽ phát triển game với độ chính xác quân sự cao. Thông tin này đã gây ra nhiều tranh cãi trong cộng đồng game thủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c21db9e404f8",
+      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T02:47:05.350406+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hỏa hoạn tại trường nữ sinh ở Kenya khiến 16 học sinh tử vong",
+      "bullets": [
+        "Bùng phát hỏa hoạn vào nửa đêm tại trường Utumishi girls academy ở Gilgil, Nakuru",
+        "Đã có ít nhất 16 học sinh tử vong trong vụ hỏa hoạn",
+        "Cảnh sát đang điều tra nguyên nhân của vụ hỏa hoạn"
+      ],
+      "full_summary": "Hỏa hoạn đã xảy ra vào nửa đêm tại một ngôi nhà ở trường nữ sinh Utumishi girls academy ở Gilgil, Nakuru, Kenya. Theo cảnh sát, ít nhất 16 học sinh đã tử vong trong vụ hỏa hoạn. Các phụ huynh đang chờ đợi thông tin cập nhật về vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "210bf283a1be",
+      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T02:47:06.519665+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mexico thông qua sửa đổi hiến pháp cho phép hủy bỏ kết quả bầu cử vì 'can thiệp nước ngoài'",
+      "bullets": [
+        "Mexico Thượng viện thông qua sửa đổi hiến pháp",
+        "Sửa đổi cho phép hủy bỏ kết quả bầu cử vì 'can thiệp nước ngoài'",
+        "Đảng đối lập chỉ trích sửa đổi cho phép đảng cầm quyền lạm dụng quyền lực",
+        "Sửa đổi định nghĩa 'can thiệp nước ngoài' bao gồm tài trợ bất hợp pháp, truyền thông sai lệch"
+      ],
+      "full_summary": "Thượng viện Mexico đã thông qua sửa đổi hiến pháp cho phép hủy bỏ kết quả bầu cử vì 'can thiệp nước ngoài'. Sửa đổi này được đưa ra bởi Tổng thống Claudia Sheinbaum và cho phép hủy bỏ kết quả bầu cử nếu có tài trợ bất hợp pháp, truyền thông sai lệch hoặc can thiệp của chính phủ nước ngoài. Đảng đối lập chỉ trích sửa đổi này cho phép đảng cầm quyền lạm dụng quyền lực và vi phạm quyền của cử tri.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c18418b56332",
+      "title": "Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists",
+      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T02:47:07.724084+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hoa Kỳ công bố hai băng đảng Brazil là tổ chức khủng bố",
+      "bullets": [
+        "Hoa Kỳ công bố hai băng đảng PCC và Red Command là tổ chức khủng bố",
+        "Luiz Inácio Lula da Silva phản đối quyết định này",
+        "Flávio Bolsonaro được hưởng lợi từ quyết định này",
+        "Lula cam kết Brazil không bị đối xử như một quốc gia yếu đuối"
+      ],
+      "full_summary": "Hoa Kỳ đã công bố hai băng đảng Brazil là tổ chức khủng bố. Quyết định này được đưa ra sau khi Marco Rubio, Bộ trưởng Ngoại giao, gặp gỡ Flávio Bolsonaro, đối thủ chính của Tổng thống Luiz Inácio Lula da Silva. Lula đã phản đối quyết định này và cam kết Brazil không bị đối xử như một quốc gia yếu đuối. Flávio Bolsonaro được hưởng lợi từ quyết định này và có thể sẽ được hưởng lợi trong cuộc bầu cử tổng thống tháng 10.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e18728a0594d",
+      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+      "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-05-31T02:47:09.164045+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Trailer mới của House of the Dragon gây ấn tượng với lửa và máu",
+      "bullets": [
+        "Bí ẩn về mùa thứ 3 của loạt phim được tiết lộ",
+        "Cảnh chiến đấu và lửa hoành tráng trong trailer mới",
+        "Cốt truyện sẽ trở nên căng thẳng và đầy biến động",
+        "Đoạn trailer dài 1 phút 45 giây gây ấn tượng mạnh"
+      ],
+      "full_summary": "Trailer mới của House of the Dragon đã được phát hành, tiết lộ một số bí ẩn về mùa thứ 3 của loạt phim. Đoạn trailer dài 1 phút 45 giây gây ấn tượng mạnh với cảnh chiến đấu và lửa hoành tráng. Cốt truyện sẽ trở nên căng thẳng và đầy biến động, khiến khán giả mong chờ xem tiếp. Đoạn trailer cũng tiết lộ một số chi tiết về nhân vật và cốt truyện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c9362cfd1286",
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-31T02:47:10.210514+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Microsoft giảm khả năng sử dụng sản phẩm Office ngoại tuyến vĩnh viễn",
+      "bullets": [
+        "Microsoft đã giảm khả năng sử dụng sản phẩm Office ngoại tuyến vĩnh viễn",
+        "Sản phẩm Office 2019 và 2021 cho Mac chỉ còn khả năng xem tài liệu",
+        "Người dùng phải chuyển sang phiên bản trực tuyến để sử dụng đầy đủ",
+        "Tình huống này đã gây ra sự phẫn nộ trong cộng đồng người dùng"
+      ],
+      "full_summary": "Microsoft đã giảm khả năng sử dụng sản phẩm Office ngoại tuyến vĩnh viễn, khiến người dùng không thể chỉnh sửa tài liệu mà chỉ có thể xem. Điều này đã gây ra sự phẫn nộ trong cộng đồng người dùng. Người dùng phải chuyển sang phiên bản trực tuyến để sử dụng đầy đủ các tính năng của Office. Tình huống này đã gây ra sự tranh cãi về quyền lợi của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "41a2883fee98",
+      "title": "Surgeons in imperial China used anaesthetics — in careful doses",
+      "url": "https://www.nature.com/articles/d41586-026-01669-4",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-05-31T02:47:16.372949+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Bác sĩ Trung Quốc cổ đại đã sử dụng thuốc gây mê một cách cẩn thận",
+      "bullets": [
+        "Khám phá các dấu vết trên kẹp và kéo phẫu thuật cho thấy thuốc được bôi lên da của bệnh nhân",
+        "Các bác sĩ đã sử dụng thuốc gây mê một cách cẩn thận để giảm đau cho bệnh nhân",
+        "Các nghiên cứu cho thấy sự tồn tại của thuốc gây mê trong thời kỳ cổ đại",
+        "Phát hiện này đã mở ra một số câu hỏi về lịch sử của thuốc gây mê"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã tìm thấy các dấu vết trên kẹp và kéo phẫu thuật trong thời kỳ cổ đại Trung Quốc, cho thấy rằng các bác sĩ đã sử dụng thuốc gây mê để giảm đau cho bệnh nhân. Các nghiên cứu cho thấy rằng thuốc gây mê đã được sử dụng một cách cẩn thận, với liều lượng được điều chỉnh để tránh gây hại cho bệnh nhân. Phát hiện này đã mở ra một số câu hỏi về lịch sử của thuốc gây mê và cách nó đã được sử dụng trong thời kỳ cổ đại.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0a88c7d85e8b",
       "title": "US, UK and Australia to develop underwater drone technology",
@@ -597,205 +796,6 @@
         "Chính phủ Sanchez đang đối mặt với nguy cơ sụp đổ"
       ],
       "full_summary": "Chủ tịch Sanchez đang đối mặt nguy cơ mất chức vì scandal liên quan đến các quan chức và thân nhân của ông. Các cuộc điều tra đang được tiến hành và đã gây ra những scandal lớn cho chính phủ Sanchez. Sự tồn tại của Sanchez đang bị đe dọa và chính phủ Sanchez đang đối mặt với nguy cơ sụp đổ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6a0192329dee",
-      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
-      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T02:30:26.840793+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "WHO kêu gọi ngừng bắn tại DRC để kiểm soát dịch Ebola",
-      "bullets": [
-        "WHO kêu gọi ngừng bắn tại DRC để kiểm soát dịch Ebola",
-        "Uganda đóng cửa biên giới với DRC để ngăn chặn lây lan dịch bệnh",
-        "Tedros Adhanom Ghebreyesus sẽ đến thăm DRC trong tuần này",
-        "Dịch Ebola đang lan rộng nhanh chóng tại tỉnh Ituri"
-      ],
-      "full_summary": "Tedros Adhanom Ghebreyesus, trưởng cơ quan Y tế Thế giới, đã kêu gọi ngừng bắn tại Cộng hòa Dân chủ Congo (DRC) để kiểm soát dịch Ebola đang lan rộng. Ông cảnh báo về 'sự va chạm khủng khiếp giữa bệnh tật và xung đột' tại khu vực này. Uganda đã đóng cửa biên giới với DRC để ngăn chặn lây lan dịch bệnh. Tedros sẽ đến thăm DRC trong tuần này để hỗ trợ nỗ lực kiểm soát dịch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7dc144f4aa33",
-      "title": "Canadian man admits sending ‘suicide packets’ to hundreds of people around world",
-      "url": "https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T02:30:27.899849+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một người Canada thừa nhận gửi hàng trăm gói thuốc tự tử",
-      "bullets": [
-        "Thừa nhận gửi hàng trăm gói thuốc tự tử đến nhiều quốc gia",
-        "Xử lý 14 tội danh giúp người khác tự tử",
-        "Tạm thời miễn 14 tội danh giết người",
-        "Sẽ phải xét xử vào tháng 9"
-      ],
-      "full_summary": "Một người đàn ông Canada tên Kenneth Law đã thừa nhận gửi hàng trăm gói thuốc tự tử đến nhiều quốc gia trên thế giới, bao gồm Canada, Anh, Mỹ, Italy, Úc và New Zealand. Ông đã bị bắt và thừa nhận 14 tội danh giúp người khác tự tử. Trong khi đó, 14 tội danh giết người sẽ được miễn xử lý. Sẽ có xét xử vào tháng 9.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4d4a15e0d6c5",
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-30T02:30:29.110724+00:00",
-      "category": "khoa học|chính trị",
-      "importance": 4,
-      "headline": "Hợp đồng nghiên cứu Mỹ có thể bị hủy bất cứ lúc nào",
-      "bullets": [
-        "Bỏ qua đánh giá ngang hàng trong quá trình cấp vốn",
-        "Cán bộ chính trị sẽ kiểm tra các đề xuất để loại bỏ chủ đề bị cấm",
-        "Sẽ ảnh hưởng đến các dự án nghiên cứu khoa học tại Mỹ"
-      ],
-      "full_summary": "Chính phủ Mỹ vừa đề xuất các quy định mới liên quan đến cấp vốn cho các dự án nghiên cứu. Theo đó, quy trình đánh giá ngang hàng (peer review) sẽ không còn bắt buộc, thay vào đó là các cán bộ chính trị sẽ kiểm tra các đề xuất để loại bỏ các chủ đề bị cấm. Điều này sẽ ảnh hưởng đến các dự án nghiên cứu khoa học tại Mỹ, khiến nhiều nhà khoa học lo ngại về sự độc lập và tự do nghiên cứu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c08b40fd4893",
-      "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
-      "url": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-30T02:30:30.232631+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tòa án Kenya ngăn chặn Mỹ đưa người nhiễm Ebola",
-      "bullets": [
-        "Ngăn chặn kế hoạch của chính quyền Trump",
-        "Khuyến cáo Mỹ xây dựng cơ sở riêng",
-        "Cơ sở chuyên dụng đã được xây dựng trước đó",
-        "Tòa án Kenya yêu cầu Mỹ tìm giải pháp khác"
-      ],
-      "full_summary": "Một tòa án ở Kenya đã ra lệnh cấm chính quyền Trump của Mỹ từ bỏ người nhiễm Ebola tại Kenya. Đây là một phần của kế hoạch của chính quyền Trump nhằm đối phó với dịch bệnh. Tuy nhiên, tòa án đã ngăn chặn kế hoạch này và yêu cầu chính quyền Mỹ tìm giải pháp khác. Mỹ đã xây dựng cơ sở chuyên dụng để đối phó với dịch bệnh trước đó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "880689fd0d1d",
-      "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-30T02:30:32.298736+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "FCC cảnh báo các đài truyền hình tuân thủ lệnh mới",
-      "bullets": [
-        "Cảnh báo từ FCC đối với các đài truyền hình",
-        "ABC cho rằng việc gia hạn sớm vô căn cứ",
-        "FCC cảnh báo các đài truyền hình tuân thủ lệnh mới",
-        "ABC sẽ bị trừng phạt nếu không tuân thủ"
-      ],
-      "full_summary": "FCC đã gửi thông báo cảnh báo cho các đài truyền hình, yêu cầu họ tuân thủ các lệnh mới. Theo ABC, việc gia hạn sớm cho tất cả các trạm truyền hình là không có căn cứ và không có mục đích hợp lý. ABC cũng cho biết họ sẽ bị trừng phạt nếu không tuân thủ lệnh mới của FCC.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a9d2d7c98471",
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-30T02:30:36.177615+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "MCP đã ngừng hoạt động",
-      "bullets": [
-        "MCP đã bị ngừng hoạt động",
-        "MCP đã không còn hoạt động",
-        "MCP đã bị loại bỏ",
-        "MCP đã không còn được sử dụng"
-      ],
-      "full_summary": "Một bài viết trên Hacker News cho biết MCP đã ngừng hoạt động. MCP là một công nghệ được sử dụng rộng rãi trong nhiều lĩnh vực. Tuy nhiên, nó đã không còn được sử dụng và đã bị loại bỏ. Điều này có thể gây ra nhiều vấn đề cho các doanh nghiệp và tổ chức đang sử dụng công nghệ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65590084e624",
-      "title": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
-      "url": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T20:11:37.369005+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Giám đốc cựu chùa kung fu Trung Quốc bị kết án 24 năm vì tham nhũng",
-      "bullets": [
-        "Bị kết án 24 năm tù vì tham nhũng và nhận hối lộ",
-        "Shi Yongxin từng là người đứng đầu chùa Shaolin",
-        "Chùa Shaolin nổi tiếng với các môn võ thuật",
-        "Sự việc gây sốc trong cộng đồng Phật giáo Trung Quốc"
-      ],
-      "full_summary": "Shi Yongxin, cựu giám đốc chùa Shaolin, đã bị kết án 24 năm tù vì tham nhũng và nhận hối lộ. Chùa Shaolin là một trong những ngôi chùa nổi tiếng nhất Trung Quốc, được biết đến với các môn võ thuật. Sự việc này gây sốc trong cộng đồng Phật giáo Trung Quốc và làm dấy lên nhiều tranh cãi. Shi Yongxin đã bị bắt giữ vào năm 2020 và sau đó bị kết án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27d1849865a6",
-      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
-      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T20:11:38.227941+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Valve tăng giá Steam Deck hơn 40% do chi phí tăng cao",
-      "bullets": [
-        "Valve tăng giá Steam Deck hơn 40%",
-        "Chi phí linh kiện tăng cao là nguyên nhân chính",
-        "Steam Deck không có thay đổi về thiết kế",
-        "Valve giải thích tình trạng chi phí linh kiện hiện tại"
-      ],
-      "full_summary": "Valve đã tăng giá Steam Deck lên hơn 40% do chi phí linh kiện tăng cao. Mặc dù thiết kế của Steam Deck không có thay đổi, nhưng chi phí sản xuất đã tăng lên đáng kể. Valve giải thích rằng tình trạng chi phí linh kiện hiện tại là nguyên nhân chính dẫn đến việc tăng giá. Điều này có thể ảnh hưởng đến người dùng đang xem xét mua Steam Deck.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69369e9105e5",
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T20:11:39.300770+00:00",
-      "category": "công nghệ",
-      "importance": 3,
-      "headline": "Meta bị chỉ trích vì cấm người dùng Facebook và Instagram không đúng lý do",
-      "bullets": [
-        "Meta nhiều lần từ chối trả lời các yêu cầu của Cơ quan Liên minh châu Âu",
-        "Hàng trăm người dùng báo cáo bị cấm không đúng lý do",
-        "BBC tiếp nhận nhiều phản ánh về việc cấm người dùng Facebook và Instagram",
-        "Cơ quan Liên minh châu Âu yêu cầu Meta giải thích lý do cấm người dùng"
-      ],
-      "full_summary": "Meta đã bị chỉ trích vì nhiều lần từ chối trả lời các yêu cầu của Cơ quan Liên minh châu Âu về việc cấm người dùng Facebook và Instagram. Hàng trăm người dùng đã báo cáo bị cấm không đúng lý do. BBC đã tiếp nhận nhiều phản ánh về việc cấm người dùng Facebook và Instagram. Cơ quan Liên minh châu Âu đã yêu cầu Meta giải thích lý do cấm người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2a5dbbd7552",
-      "title": "Google worker charged with using internal data to make $1.2m on bets",
-      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-29T20:11:40.378614+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cán bộ Google bị buộc tội sử dụng dữ liệu nội bộ để đặt cược",
-      "bullets": [
-        "Bị cáo bị buộc tội vi phạm luật giao dịch nội bộ",
-        "Cán bộ Google bị cáo buộc sử dụng dữ liệu nội bộ để đặt cược",
-        "Lợi nhuận từ các khoản đặt cược lên đến 1,2 triệu USD",
-        "Bị cáo sẽ phải đối mặt với các cáo buộc tại New York"
-      ],
-      "full_summary": "Một nhân viên Google lâu năm đã bị buộc tội vi phạm luật giao dịch nội bộ tại New York. Bị cáo bị cáo buộc sử dụng dữ liệu nội bộ để đặt cược và kiếm được 1,2 triệu USD. Các cáo buộc này đã được đưa ra sau khi điều tra về việc sử dụng dữ liệu nội bộ để đặt cược.",
       "comments": 0,
       "score": 0
     }
