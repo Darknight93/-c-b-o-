@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-05-31T13:22:30.360705+00:00",
+  "updated_at": "2026-05-31T19:06:51.483667+00:00",
   "articles": [
+    {
+      "id": "38126ab08f36",
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:35.231097+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nổ lớn giết hàng chục người ở làng do nổi loạn ở Myanmar",
+      "bullets": [
+        "Một vụ nổ lớn đã xảy ra ở làng do nổi loạn ở Myanmar",
+        "Nổ được cho là do vật nổ được sử dụng trong khai thác mỏ gần biên giới Trung Quốc",
+        "Số thương vong vẫn chưa được xác định rõ ràng",
+        "Các cuộc tấn công thường xuyên xảy ra ở khu vực này"
+      ],
+      "full_summary": "Một vụ nổ lớn đã xảy ra ở làng do nổi loạn ở Myanmar, giết hàng chục người. Các cuộc tấn công thường xuyên xảy ra ở khu vực này. Các nhà lãnh đạo nổi loạn cho biết vụ nổ được gây ra bởi vật nổ được sử dụng trong khai thác mỏ gần biên giới Trung Quốc. Số thương vong vẫn chưa được xác định rõ ràng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e6eec681890d",
+      "title": "Brazil monitors two patients for possible Ebola infection",
+      "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:36.159458+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Brazil đang theo dõi 2 bệnh nhân nghi nhiễm Ebola",
+      "bullets": [
+        "Brazil đang theo dõi 2 bệnh nhân nghi nhiễm Ebola",
+        "Nếu xác nhận, đây sẽ là trường hợp nhiễm Ebola đầu tiên ngoài châu Phi",
+        "Bệnh nhân được đưa đến bệnh viện ở Rio de Janeiro",
+        "Các cơ quan y tế đang thực hiện các xét nghiệm để xác định nhiễm trùng"
+      ],
+      "full_summary": "Brazil đang theo dõi 2 bệnh nhân nghi nhiễm Ebola, nếu xác nhận, đây sẽ là trường hợp nhiễm Ebola đầu tiên ngoài châu Phi. Bệnh nhân được đưa đến bệnh viện ở Rio de Janeiro và các cơ quan y tế đang thực hiện các xét nghiệm để xác định nhiễm trùng. Đây là một tình huống nghiêm trọng và các cơ quan y tế đang làm việc để xác định nguyên nhân và cách điều trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f4f2751e208",
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:37.379608+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "BMW sử dụng robot humanoid trong nhà máy sản xuất ô tô",
+      "bullets": [
+        "BMW giới thiệu robot humanoid vào nhà máy sản xuất ô tô tại châu Âu",
+        "Công ty này đã thử nghiệm dự án tương tự tại Mỹ",
+        "Robot humanoid sẽ giúp tăng năng suất và giảm chi phí sản xuất",
+        "BMW hy vọng công nghệ này sẽ trở thành tương lai của ngành công nghiệp ô tô"
+      ],
+      "full_summary": "BMW đang giới thiệu robot humanoid vào nhà máy sản xuất ô tô tại châu Âu, tiếp tục dự án tương tự tại Mỹ. Công ty hy vọng công nghệ này sẽ giúp tăng năng suất và giảm chi phí sản xuất. Robot humanoid sẽ được sử dụng để thực hiện các công việc phức tạp và đòi hỏi sự chính xác cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "066fdcaf4226",
+      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:38.383475+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chủ tịch California kiện công ty di truyền vì vụ xâm nhập dữ liệu năm 2023",
+      "bullets": [
+        "Kết luận rằng công ty đã nói dối về mức độ nghiêm trọng của vụ xâm nhập",
+        "Tố cáo công ty không thông báo cho khách hàng về vụ xâm nhập",
+        "Kết luận rằng công ty đã vi phạm luật bảo vệ thông tin cá nhân",
+        "Kêu gọi công ty phải bồi thường cho những người bị ảnh hưởng"
+      ],
+      "full_summary": "Chủ tịch California Rob Bonta đã kiện công ty di truyền 23andMe kế thừa vì vụ xâm nhập dữ liệu năm 2023. Ông kết luận rằng công ty đã nói dối về mức độ nghiêm trọng của vụ xâm nhập và không thông báo cho khách hàng. Điều này là một vi phạm luật bảo vệ thông tin cá nhân. Bonta kêu gọi công ty phải bồi thường cho những người bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d3a3ce7acc4e",
+      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
+      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:40.537696+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một người Congo tử vong sau bị cảnh sát bảo vệ bắt giữ",
+      "bullets": [
+        "Cảnh sát Ireland đang điều tra vụ việc một người Congo tử vong sau bị cảnh sát bảo vệ bắt giữ",
+        "Một cuộc khám nghiệm tử thi độc lập sẽ được tiến hành bởi một bác sĩ pháp y từ Anh",
+        "Vụ việc đã gây ra sự phẫn nộ và so sánh với vụ việc George Floyd",
+        "Cơ quan chức năng Ireland đã đồng ý tiến hành một cuộc khám nghiệm tử thi thứ hai"
+      ],
+      "full_summary": "Một người Congo tên Yves Sakila đã tử vong sau khi bị cảnh sát bảo vệ bắt giữ trên đường phố Dublin. Vụ việc đã gây ra sự phẫn nộ và so sánh với vụ việc George Floyd. Cơ quan chức năng Ireland đang điều tra vụ việc và đã đồng ý tiến hành một cuộc khám nghiệm tử thi thứ hai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ce40867128e7",
+      "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
+      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:41.710558+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Phim mới khám phá truyền thống ma thuật obeah bị cấm ở Jamaica",
+      "bullets": [
+        "Giới thiệu về truyền thống ma thuật obeah của người châu Phi ở Jamaica",
+        "Phim Stew Peas kể về cuộc điều tra của một nữ cảnh sát Jamaica",
+        "Truyền thống obeah bị cấm bởi người định cư vào thế kỷ 18",
+        "Phim này được đạo diễn bởi Sosiessia Nixon, một nữ đạo diễn Jamaica"
+      ],
+      "full_summary": "Một bộ phim mới từ Jamaica, Stew Peas, đã tập trung vào truyền thống ma thuật và chữa bệnh tâm linh của người châu Phi ở Jamaica, gọi là obeah. Bộ phim này kể về câu chuyện của một nữ cảnh sát Jamaica tên Tessa, người bị ám ảnh bởi một vụ án giết người cũ. Truyền thống obeah đã bị cấm bởi người định cư vào thế kỷ 18, nhưng nó vẫn còn tồn tại ở Jamaica. Bộ phim này được đạo diễn bởi Sosiessia Nixon, một nữ đạo diễn Jamaica.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e2e3d9e02578",
+      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:43.118274+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "WHO xác định tỷ lệ tử vong Ebola ở DRC lên đến 30-50%",
+      "bullets": [
+        "WHO xác định tỷ lệ tử vong Ebola ở DRC lên đến 30-50%",
+        "Giám đốc WHO đến DRC để hỗ trợ kiểm soát dịch bệnh",
+        "Tedros kêu gọi ngừng bắn giữa các nhóm vũ trang để tránh tử vong do bệnh tật",
+        "Tỷ lệ tử vong cao có thể lên đến 5 người trong 10 người nhiễm bệnh"
+      ],
+      "full_summary": "WHO vừa xác định tỷ lệ tử vong Ebola ở DRC lên đến 30-50%. Giám đốc WHO, Tedros Adhanom Ghebreyesus, đã đến DRC để hỗ trợ kiểm soát dịch bệnh. Ông kêu gọi ngừng bắn giữa các nhóm vũ trang để tránh tử vong do bệnh tật. Tỷ lệ tử vong cao có thể lên đến 5 người trong 10 người nhiễm bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7b9c460ca792",
+      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-05-31T19:06:45.251976+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Colombia chuẩn bị cho cuộc bầu cử tổng thống trong bóng tối của sự gia tăng bạo lực chính trị",
+      "bullets": [
+        "Colombia chuẩn bị cho cuộc bầu cử tổng thống vào ngày Chủ nhật",
+        "Cuộc bầu cử giữa cánh tả và cánh hữu, và giữa các đề xuất trái ngược nhau đối với việc giải quyết xung đột vũ trang kéo dài nhiều thập kỷ",
+        "Sự gia tăng bạo lực chính trị đã ảnh hưởng đến cuộc bầu cử",
+        "Các ứng cử viên đang tranh luận về cách giải quyết xung đột vũ trang"
+      ],
+      "full_summary": "Colombia chuẩn bị cho cuộc bầu cử tổng thống vào ngày Chủ nhật, trong bóng tối của sự gia tăng bạo lực chính trị. Cuộc bầu cử giữa cánh tả và cánh hữu, và giữa các đề xuất trái ngược nhau đối với việc giải quyết xung đột vũ trang kéo dài nhiều thập kỷ. Sự gia tăng bạo lực chính trị đã ảnh hưởng đến cuộc bầu cử, khiến nhiều người lo ngại về tương lai của đất nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "084e0657e9c0",
+      "title": "Chibil: A C compiler targeting .NET IL",
+      "url": "https://github.com/MichalStrehovsky/chibil",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-05-31T19:06:50.983459+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mới ra mắt: Chibil, bộ biên dịch C cho IL .NET",
+      "bullets": [
+        "Tạo ra bộ biên dịch C cho IL .NET",
+        "Giúp lập trình viên viết mã C cho các ứng dụng .NET",
+        "Cung cấp khả năng biên dịch mã C thành mã IL .NET"
+      ],
+      "full_summary": "Chibil là một bộ biên dịch C mới được tạo ra nhằm mục đích biên dịch mã C thành mã IL .NET. Điều này cho phép lập trình viên viết mã C cho các ứng dụng .NET mà không cần phải chuyển đổi mã sang ngôn ngữ khác. Bộ biên dịch này được phát triển bởi Michal Strehovsky và được công bố trên GitHub.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "a6c6d3b928b3",
       "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
@@ -614,186 +793,6 @@
         "Các quan chức địa phương cho biết họ đang ưu tiên an toàn cho khán giả"
       ],
       "full_summary": "Italy đã hủy diễn biến của Kanye West và Travis Scott do lo ngại an ninh. Các buổi biểu diễn khác của West đã bị hủy trước đó đã góp phần vào quyết định này. Các quan chức địa phương cho biết họ đang ưu tiên an toàn cho khán giả. Họ muốn đảm bảo rằng các sự kiện diễn ra một cách an toàn và không gây ra bất kỳ rủi ro nào cho người tham dự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aebbdf682c0c",
-      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T19:03:31.552092+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một chiếc drone tấn công thành phố Romania khiến người dân lo lắng.",
-      "bullets": [
-        "Người dân bắt đầu trở lại kiểm tra nhà cửa sau khi bị tấn công.",
-        "Chiếc drone được cho là đã bắn đạn vào một tòa nhà.",
-        "Nhiều người dân cảm thấy không an toàn sau sự việc này.",
-        "Chính phủ đang điều tra nguyên nhân vụ tấn công."
-      ],
-      "full_summary": "Một chiếc drone đã tấn công thành phố Romania vào sáng thứ Sáu, khiến nhiều người dân cảm thấy lo lắng. Người dân bắt đầu trở lại kiểm tra nhà cửa sau khi bị tấn công. Chiếc drone được cho là đã bắn đạn vào một tòa nhà. Chính phủ đang điều tra nguyên nhân vụ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5dd42de52472",
-      "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
-      "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T19:03:32.663760+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ biên tập viên Oscar Marcia Lucas qua đời ở tuổi 80",
-      "bullets": [
-        "Là một trong những người tạo nên thành công của bộ phim Star Wars",
-        "Cô từng là vợ của đạo diễn George Lucas",
-        "Cô được công nhận là một trong những người có ảnh hưởng lớn trong ngành công nghiệp điện ảnh",
-        "Cô đã giành được giải Oscar cho bộ phim Star Wars"
-      ],
-      "full_summary": "Marcia Lucas, một biên tập viên Oscar và cựu vợ của đạo diễn George Lucas, đã qua đời ở tuổi 80. Cô được công nhận là một trong những người tạo nên thành công của bộ phim Star Wars. Cô đã giành được giải Oscar cho bộ phim này và được công nhận là một trong những người có ảnh hưởng lớn trong ngành công nghiệp điện ảnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "995eb8c8a9c2",
-      "title": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
-      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T19:03:33.742593+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn bùng phát Ebola ở Cộng hòa Dân chủ Congo gây lo ngại",
-      "bullets": [
-        "Cộng đồng y tế lo ngại về sự lây lan nhanh chóng của Ebola",
-        "Médicins Sans Frontières cho biết đây là vụ bùng phát Ebola tồi tệ nhất từ trước đến nay",
-        "WHO đang giám sát tình hình và tìm cách ngăn chặn sự lây lan",
-        "Số ca mắc Ebola tăng nhanh chóng sau khi được công bố"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo đang đối mặt với một vụ bùng phát Ebola nghiêm trọng. Số ca mắc Ebola tăng nhanh chóng sau khi được công bố, khiến cộng đồng y tế lo ngại về sự lây lan nhanh chóng. Tổ chức Y tế Thế giới (WHO) đang giám sát tình hình và tìm cách ngăn chặn sự lây lan. Đây là vụ bùng phát Ebola tồi tệ nhất từ trước đến nay, theo tổ chức y tế phi chính phủ Médicins Sans Frontières.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e65377b8b76",
-      "title": "King's College team wins access to cutting-edge Google quantum chip",
-      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T19:03:34.759971+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Đội nghiên cứu King's College giành quyền truy cập vào chip lượng tử Google tiên tiến",
-      "bullets": [
-        "Đoán đoán các quá trình tự nhiên quan trọng",
-        "Trả lời các câu hỏi chưa từng có lời giải trước đây",
-        "Sử dụng chip lượng tử để nghiên cứu các quá trình tự nhiên",
-        "Hy vọng sẽ tìm ra những hiểu biết mới"
-      ],
-      "full_summary": "Đội nghiên cứu từ Đại học King's College London đã giành quyền truy cập vào chip lượng tử tiên tiến của Google. Họ hy vọng chip này sẽ giúp trả lời các câu hỏi chưa từng có lời giải trước đây về các quá trình tự nhiên quan trọng. Các nhà nghiên cứu sẽ sử dụng chip lượng tử để nghiên cứu các quá trình tự nhiên và tìm ra những hiểu biết mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bf03a94600d8",
-      "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
-      "url": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-30T19:03:36.132576+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Hội đồng bảo vệ môi trường phản đối việc lùi lại các quy định về tro than",
-      "bullets": [
-        "Phản đối việc để các bang tự giám sát và thực thi các quy định về tro than",
-        "Bypass các tiêu chuẩn quốc gia về quản lý tro than",
-        "Đe dọa đến môi trường và sức khỏe cộng đồng",
-        "Hội đồng bảo vệ môi trường yêu cầu phải duy trì các tiêu chuẩn quốc gia"
-      ],
-      "full_summary": "Hội đồng bảo vệ môi trường đã tập trung để phản đối việc lùi lại các quy định về tro than của chính quyền Trump. Họ cho rằng việc để các bang tự giám sát và thực thi các quy định về tro than sẽ khiến các bang bỏ qua các tiêu chuẩn quốc gia về quản lý tro than. Điều này sẽ đe dọa đến môi trường và sức khỏe cộng đồng. Hội đồng bảo vệ môi trường yêu cầu phải duy trì các tiêu chuẩn quốc gia để đảm bảo an toàn cho môi trường và sức khỏe cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "63daf6cc44e4",
-      "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
-      "url": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-30T19:03:37.122657+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Bệnh sởi ở Texas cho thấy virus cực kỳ nguy hiểm",
-      "bullets": [
-        "Hơn 1 trong 5 trường hợp bị nhập viện",
-        "Nhiều người phát triển biến chứng",
-        "Virus sởi gây ra nhiều vấn đề sức khỏe nghiêm trọng",
-        "Tình hình sức khỏe của người bệnh rất đáng lo ngại"
-      ],
-      "full_summary": "Một nghiên cứu về dịch sởi ở Texas cho thấy virus này cực kỳ nguy hiểm. Hơn 1 trong 5 trường hợp bị nhập viện và nhiều người phát triển biến chứng. Virus sởi gây ra nhiều vấn đề sức khỏe nghiêm trọng, bao gồm cả biến chứng. Tình hình sức khỏe của người bệnh rất đáng lo ngại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5841b67981eb",
-      "title": "Let's talk about EU Sovereignty (2025)",
-      "url": "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-30T19:03:39.169575+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Nước châu Âu đang tranh luận về chủ quyền",
-      "bullets": [
-        "Đang thảo luận về các vấn đề liên quan đến chủ quyền",
-        "Đề cập đến vấn đề kiểm soát và tự chủ",
-        "Nghiên cứu về ảnh hưởng của chủ quyền đến kinh tế",
-        "Đang tìm kiếm giải pháp cân bằng giữa chủ quyền và hợp tác"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã thảo luận về chủ quyền của Liên minh châu Âu. Bài viết đề cập đến các vấn đề liên quan đến chủ quyền, bao gồm kiểm soát và tự chủ. Các chuyên gia đang nghiên cứu về ảnh hưởng của chủ quyền đến kinh tế và tìm kiếm giải pháp cân bằng giữa chủ quyền và hợp tác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e1f7e038904",
-      "title": "Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant",
-      "url": "https://www.nature.com/articles/s41586-026-10665-7",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-30T19:03:43.718686+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Variant Omicron giảm khả năng lây lan và gây hại",
-      "bullets": [
-        "Xác nhận giảm fusogenicity của biến thể Omicron",
-        "Giảm khả năng gây bệnh của biến thể Omicron",
-        "Nghiên cứu chỉ ra đặc điểm mới của biến thể Omicron",
-        "Tìm hiểu thêm về biến thể Omicron trong nghiên cứu"
-      ],
-      "full_summary": "Một nghiên cứu mới được công bố trên tạp chí Nature đã xác nhận giảm fusogenicity và khả năng gây bệnh của biến thể Omicron của virus SARS-CoV-2. Theo nghiên cứu, biến thể Omicron có khả năng lây lan thấp hơn và gây bệnh nhẹ hơn so với các biến thể trước đó. Điều này có thể giúp giảm thiểu tác động của biến thể Omicron và cho phép các nhà nghiên cứu tìm hiểu thêm về đặc điểm của nó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "75b092369457",
-      "title": "Four more men freed from flooded Laos cave after 10 days",
-      "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T13:11:20.398933+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bốn người đàn ông còn lại được giải cứu sau 10 ngày bị mắc kẹt trong hang động",
-      "bullets": [
-        "Bốn người đàn ông bị mắc kẹt trong hang động ở Lào đã được giải cứu",
-        "Hai người đàn ông còn lại vẫn chưa được tìm thấy sau 10 ngày",
-        "Bảy người đàn ông đã vào hang động tìm vàng vào ngày 20 tháng 5",
-        "Cả nhóm đã bị mắc kẹt do nước lũ tràn vào hang động"
-      ],
-      "full_summary": "Bốn người đàn ông bị mắc kẹt trong hang động ở Lào sau khi nước lũ tràn vào đã được giải cứu sau 10 ngày. Họ đã vào hang động cùng với ba người đàn ông khác và một người phụ nữ để tìm vàng vào ngày 20 tháng 5. Tuy nhiên, nước lũ đã tràn vào khiến họ bị mắc kẹt. Hai người đàn ông còn lại vẫn chưa được tìm thấy.",
       "comments": 0,
       "score": 0
     }
