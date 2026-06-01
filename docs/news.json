@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-05-31T19:06:51.483667+00:00",
+  "updated_at": "2026-06-01T02:56:11.985501+00:00",
   "articles": [
+    {
+      "id": "d07f76ac5cb0",
+      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T02:55:55.226315+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Colombia sắp được bầu: Cepeda và de la Espriella đua tới cuối",
+      "bullets": [
+        "Sẽ diễn ra vòng bầu cử cuối cùng vào ngày 21 tháng 6",
+        "Iván Cepeda sẽ đối đầu với Abelardo de la Espriella",
+        "Cepeda là một nhà lập pháp cánh tả, de la Espriella là người hâm mộ của Trump",
+        "Vòng bầu cử cuối cùng sẽ quyết định người kế nhiệm Tổng thống Colombia"
+      ],
+      "full_summary": "Vòng bầu cử cuối cùng của cuộc bầu cử tổng thống Colombia sắp diễn ra vào ngày 21 tháng 6. Đứng trước vòng cuối cùng là hai ứng cử viên: Iván Cepeda, một nhà lập pháp cánh tả, và Abelardo de la Espriella, người hâm mộ của Tổng thống Mỹ Donald Trump. Cepeda và de la Espriella sẽ phải cạnh tranh để giành chiến thắng và trở thành người kế nhiệm Tổng thống Colombia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3dbca98614ff",
+      "title": "Trump seeking edits to US-Iran deal, US media report",
+      "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T02:55:56.217946+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Trump tìm cách sửa đổi thỏa thuận với Iran",
+      "bullets": [
+        "Trump yêu cầu sửa đổi thỏa thuận về eo biển Hormuz",
+        "Nuclear Iran sẽ phải loại bỏ uranium giàu phóng xạ",
+        "Thỏa thuận mới sẽ ảnh hưởng đến quan hệ Mỹ - Iran",
+        "Mỹ và Iran đang đàm phán về các điều khoản mới"
+      ],
+      "full_summary": "Theo báo chí Mỹ, Tổng thống Trump đang tìm cách sửa đổi thỏa thuận hạt nhân với Iran. Các yêu cầu sửa đổi liên quan đến eo biển Hormuz và việc loại bỏ uranium giàu phóng xạ. Điều này có thể ảnh hưởng đến quan hệ giữa Mỹ và Iran. Hai bên đang đàm phán về các điều khoản mới của thỏa thuận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "99ac0486c82e",
+      "title": "Dead whale towed ashore in Denmark ahead of autopsy",
+      "url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T02:55:57.198290+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cá voi chết được kéo lên bờ ở Đan Mạch",
+      "bullets": [
+        "Cá voi Timmy được tìm thấy chết ở ngoài khơi Anholt",
+        "Đội cứu hộ nhiều lần cố gắng cứu nhưng không thành công",
+        "Cơ quan chức năng sẽ tiến hành kiểm tra sau khi kéo lên bờ",
+        "Kết quả sẽ giúp hiểu rõ nguyên nhân cái chết của cá voi"
+      ],
+      "full_summary": "Một con cá voi tên Timmy đã được tìm thấy chết ở ngoài khơi đảo Anholt, Đan Mạch. Mặc dù đội cứu hộ đã nhiều lần cố gắng cứu, nhưng không thành công. Sau khi kéo lên bờ, cơ quan chức năng sẽ tiến hành kiểm tra để hiểu rõ nguyên nhân cái chết của con cá voi. Kết quả sẽ giúp hiểu rõ nguyên nhân cái chết của con cá voi và ngăn chặn những trường hợp tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e65377b8b76",
+      "title": "King's College team wins access to cutting-edge Google quantum chip",
+      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T02:55:58.283706+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Đội ngũ nghiên cứu của Đại học King's London được truy cập vào chip lượng tử Google tiên tiến",
+      "bullets": [
+        "Được cấp quyền truy cập vào chip lượng tử Google tiên tiến",
+        "Hy vọng sẽ giúp trả lời các câu hỏi chưa từng được trả lời trước đây về các quá trình tự nhiên quan trọng",
+        "Sẽ giúp mở rộng hiểu biết về các quá trình tự nhiên",
+        "Sẽ giúp các nhà nghiên cứu giải quyết các vấn đề chưa được giải quyết trước đây"
+      ],
+      "full_summary": "Đội ngũ nghiên cứu của Đại học King's London đã được cấp quyền truy cập vào chip lượng tử Google tiên tiến. Họ hy vọng rằng chip này sẽ giúp trả lời các câu hỏi chưa từng được trả lời trước đây về các quá trình tự nhiên quan trọng. Điều này sẽ giúp mở rộng hiểu biết về các quá trình tự nhiên và giúp các nhà nghiên cứu giải quyết các vấn đề chưa được giải quyết trước đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c2220c9bbe73",
+      "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
+      "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T02:56:01.107547+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sự sụt giảm hỗ trợ toàn cầu khiến khủng hoảng Ebola kéo dài hơn",
+      "bullets": [
+        "Sự lây lan nhanh chóng của virus Ebola",
+        "Số người chết tăng lên ít nhất 240",
+        "Sự yếu kém của hỗ trợ toàn cầu khiến khủng hoảng kéo dài",
+        "Sự cần thiết phải tăng cường hỗ trợ y tế"
+      ],
+      "full_summary": "Virus Ebola đang lây lan nhanh chóng ở một số khu vực ở châu Phi. Số người chết do virus này đã tăng lên ít nhất 240 kể từ khi dịch bệnh bắt đầu ở tỉnh Ituri ở Cộng hòa Dân chủ Congo vào đầu tháng này. Các nhà công nghệ y tế đang cố gắng kiểm soát virus trong một môi trường khó khăn, nơi có nhiều người làm việc gần nhau trong các mỏ và có sự xung đột giữa các nhóm phiến quân. Các cơ sở y tế ở khu vực này còn hạn chế và nhiều người bị buộc phải di dời.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "63daf6cc44e4",
+      "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
+      "url": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-01T02:56:07.374416+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Dịch cúm hoại tử Texas cho thấy virus rất nguy hiểm",
+      "bullets": [
+        "Có hơn 1/5 trường hợp phải nhập viện",
+        "Hầu hết những người nhập viện đều phát triển các biến chứng",
+        "Virus cúm hoại tử gây ra nhiều biến chứng nghiêm trọng",
+        "Báo cáo cho thấy virus rất nguy hiểm đối với người lớn và trẻ em"
+      ],
+      "full_summary": "Một nghiên cứu về dịch cúm hoại tử ở Texas cho thấy virus rất nguy hiểm. Theo báo cáo, hơn 1/5 trường hợp phải nhập viện và hầu hết những người nhập viện đều phát triển các biến chứng. Virus cúm hoại tử gây ra nhiều biến chứng nghiêm trọng, bao gồm viêm màng não, viêm phổi và suy thận. Báo cáo này cho thấy virus rất nguy hiểm đối với người lớn và trẻ em, đặc biệt là những người chưa được tiêm chủng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d9afe0803a8d",
+      "title": "The History of \"Prisencolinensinainciusol\"",
+      "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-01T02:56:10.857822+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Bài hát vô nghĩa 'Prisencolinensinainciusol' trở thành hit toàn cầu",
+      "bullets": [
+        "Được sáng tác bởi Adriano Celentano vào năm 1972",
+        "Bài hát được tạo ra để thử nghiệm khả năng nhận diện âm thanh",
+        "Nó đã trở thành một hit toàn cầu và được nhiều người biết đến",
+        "Bài hát vẫn còn được yêu thích và được chơi trên các nền tảng âm nhạc"
+      ],
+      "full_summary": "Prisencolinensinainciusol là một bài hát vô nghĩa được sáng tác bởi Adriano Celentano vào năm 1972. Bài hát được tạo ra để thử nghiệm khả năng nhận diện âm thanh, nhưng nó đã trở thành một hit toàn cầu và được nhiều người biết đến. Bài hát vẫn còn được yêu thích và được chơi trên các nền tảng âm nhạc. Mặc dù không có ý nghĩa, bài hát vẫn có thể được hiểu và được yêu thích bởi nhiều người.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "38126ab08f36",
       "title": "Huge blast kills dozens in rebel-held village in Myanmar",
@@ -653,146 +793,6 @@
         "Cảnh sát đang điều tra nguyên nhân của vụ hỏa hoạn"
       ],
       "full_summary": "Hỏa hoạn đã xảy ra vào nửa đêm tại một ngôi nhà ở trường nữ sinh Utumishi girls academy ở Gilgil, Nakuru, Kenya. Theo cảnh sát, ít nhất 16 học sinh đã tử vong trong vụ hỏa hoạn. Các phụ huynh đang chờ đợi thông tin cập nhật về vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "210bf283a1be",
-      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
-      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T02:47:06.519665+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mexico thông qua sửa đổi hiến pháp cho phép hủy bỏ kết quả bầu cử vì 'can thiệp nước ngoài'",
-      "bullets": [
-        "Mexico Thượng viện thông qua sửa đổi hiến pháp",
-        "Sửa đổi cho phép hủy bỏ kết quả bầu cử vì 'can thiệp nước ngoài'",
-        "Đảng đối lập chỉ trích sửa đổi cho phép đảng cầm quyền lạm dụng quyền lực",
-        "Sửa đổi định nghĩa 'can thiệp nước ngoài' bao gồm tài trợ bất hợp pháp, truyền thông sai lệch"
-      ],
-      "full_summary": "Thượng viện Mexico đã thông qua sửa đổi hiến pháp cho phép hủy bỏ kết quả bầu cử vì 'can thiệp nước ngoài'. Sửa đổi này được đưa ra bởi Tổng thống Claudia Sheinbaum và cho phép hủy bỏ kết quả bầu cử nếu có tài trợ bất hợp pháp, truyền thông sai lệch hoặc can thiệp của chính phủ nước ngoài. Đảng đối lập chỉ trích sửa đổi này cho phép đảng cầm quyền lạm dụng quyền lực và vi phạm quyền của cử tri.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c18418b56332",
-      "title": "Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists",
-      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T02:47:07.724084+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hoa Kỳ công bố hai băng đảng Brazil là tổ chức khủng bố",
-      "bullets": [
-        "Hoa Kỳ công bố hai băng đảng PCC và Red Command là tổ chức khủng bố",
-        "Luiz Inácio Lula da Silva phản đối quyết định này",
-        "Flávio Bolsonaro được hưởng lợi từ quyết định này",
-        "Lula cam kết Brazil không bị đối xử như một quốc gia yếu đuối"
-      ],
-      "full_summary": "Hoa Kỳ đã công bố hai băng đảng Brazil là tổ chức khủng bố. Quyết định này được đưa ra sau khi Marco Rubio, Bộ trưởng Ngoại giao, gặp gỡ Flávio Bolsonaro, đối thủ chính của Tổng thống Luiz Inácio Lula da Silva. Lula đã phản đối quyết định này và cam kết Brazil không bị đối xử như một quốc gia yếu đuối. Flávio Bolsonaro được hưởng lợi từ quyết định này và có thể sẽ được hưởng lợi trong cuộc bầu cử tổng thống tháng 10.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e18728a0594d",
-      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
-      "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-05-31T02:47:09.164045+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Trailer mới của House of the Dragon gây ấn tượng với lửa và máu",
-      "bullets": [
-        "Bí ẩn về mùa thứ 3 của loạt phim được tiết lộ",
-        "Cảnh chiến đấu và lửa hoành tráng trong trailer mới",
-        "Cốt truyện sẽ trở nên căng thẳng và đầy biến động",
-        "Đoạn trailer dài 1 phút 45 giây gây ấn tượng mạnh"
-      ],
-      "full_summary": "Trailer mới của House of the Dragon đã được phát hành, tiết lộ một số bí ẩn về mùa thứ 3 của loạt phim. Đoạn trailer dài 1 phút 45 giây gây ấn tượng mạnh với cảnh chiến đấu và lửa hoành tráng. Cốt truyện sẽ trở nên căng thẳng và đầy biến động, khiến khán giả mong chờ xem tiếp. Đoạn trailer cũng tiết lộ một số chi tiết về nhân vật và cốt truyện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c9362cfd1286",
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-31T02:47:10.210514+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft giảm khả năng sử dụng sản phẩm Office ngoại tuyến vĩnh viễn",
-      "bullets": [
-        "Microsoft đã giảm khả năng sử dụng sản phẩm Office ngoại tuyến vĩnh viễn",
-        "Sản phẩm Office 2019 và 2021 cho Mac chỉ còn khả năng xem tài liệu",
-        "Người dùng phải chuyển sang phiên bản trực tuyến để sử dụng đầy đủ",
-        "Tình huống này đã gây ra sự phẫn nộ trong cộng đồng người dùng"
-      ],
-      "full_summary": "Microsoft đã giảm khả năng sử dụng sản phẩm Office ngoại tuyến vĩnh viễn, khiến người dùng không thể chỉnh sửa tài liệu mà chỉ có thể xem. Điều này đã gây ra sự phẫn nộ trong cộng đồng người dùng. Người dùng phải chuyển sang phiên bản trực tuyến để sử dụng đầy đủ các tính năng của Office. Tình huống này đã gây ra sự tranh cãi về quyền lợi của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "41a2883fee98",
-      "title": "Surgeons in imperial China used anaesthetics — in careful doses",
-      "url": "https://www.nature.com/articles/d41586-026-01669-4",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-31T02:47:16.372949+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Bác sĩ Trung Quốc cổ đại đã sử dụng thuốc gây mê một cách cẩn thận",
-      "bullets": [
-        "Khám phá các dấu vết trên kẹp và kéo phẫu thuật cho thấy thuốc được bôi lên da của bệnh nhân",
-        "Các bác sĩ đã sử dụng thuốc gây mê một cách cẩn thận để giảm đau cho bệnh nhân",
-        "Các nghiên cứu cho thấy sự tồn tại của thuốc gây mê trong thời kỳ cổ đại",
-        "Phát hiện này đã mở ra một số câu hỏi về lịch sử của thuốc gây mê"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã tìm thấy các dấu vết trên kẹp và kéo phẫu thuật trong thời kỳ cổ đại Trung Quốc, cho thấy rằng các bác sĩ đã sử dụng thuốc gây mê để giảm đau cho bệnh nhân. Các nghiên cứu cho thấy rằng thuốc gây mê đã được sử dụng một cách cẩn thận, với liều lượng được điều chỉnh để tránh gây hại cho bệnh nhân. Phát hiện này đã mở ra một số câu hỏi về lịch sử của thuốc gây mê và cách nó đã được sử dụng trong thời kỳ cổ đại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a88c7d85e8b",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T19:03:29.276537+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mỹ, Anh và Úc hợp tác phát triển công nghệ máy bay không người lái dưới nước",
-      "bullets": [
-        "Sẽ giúp bảo vệ cáp dưới biển và tăng cường khả năng phòng thủ hải quân",
-        "Công nghệ này được phát triển dưới thỏa thuận quân sự Aukus",
-        "Mục tiêu là tăng cường khả năng phòng thủ và bảo vệ tài sản dưới biển",
-        "Hai nước này sẽ hợp tác nghiên cứu và phát triển công nghệ mới"
-      ],
-      "full_summary": "Mỹ, Anh và Úc đã quyết định hợp tác phát triển công nghệ máy bay không người lái dưới nước. Công nghệ này sẽ giúp bảo vệ cáp dưới biển và tăng cường khả năng phòng thủ hải quân. Thỏa thuận này được ký kết dưới thỏa thuận quân sự Aukus. Mục tiêu của thỏa thuận này là tăng cường khả năng phòng thủ và bảo vệ tài sản dưới biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "40621033cb7b",
-      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-30T19:03:30.348019+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Italy hủy diễn biến của Kanye West và Travis Scott do lo ngại an ninh",
-      "bullets": [
-        "Italy hủy diễn biến của Kanye West và Travis Scott",
-        "Động thái này được đưa ra do lo ngại an ninh",
-        "Các buổi biểu diễn khác của West đã bị hủy trước đó đã góp phần vào quyết định này",
-        "Các quan chức địa phương cho biết họ đang ưu tiên an toàn cho khán giả"
-      ],
-      "full_summary": "Italy đã hủy diễn biến của Kanye West và Travis Scott do lo ngại an ninh. Các buổi biểu diễn khác của West đã bị hủy trước đó đã góp phần vào quyết định này. Các quan chức địa phương cho biết họ đang ưu tiên an toàn cho khán giả. Họ muốn đảm bảo rằng các sự kiện diễn ra một cách an toàn và không gây ra bất kỳ rủi ro nào cho người tham dự.",
       "comments": 0,
       "score": 0
     }
