@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-06-01T11:15:14.863164+00:00",
+  "updated_at": "2026-06-01T17:23:54.925344+00:00",
   "articles": [
+    {
+      "id": "828a08b1d0f6",
+      "title": "Nigeria police warn against reprisal attacks against South Africans",
+      "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T17:23:38.158352+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát Nigeria cảnh báo chống trả lại người Nam Phi",
+      "bullets": [
+        "Cảnh báo chống trả lại người Nam Phi",
+        "Tình hình căng thẳng ở Nam Phi trong những tuần gần đây",
+        "Cảnh sát Nigeria kêu gọi bình tĩnh",
+        "Tránh trả đũa người Nam Phi"
+      ],
+      "full_summary": "Cảnh sát Nigeria cảnh báo chống trả lại người Nam Phi sau những cuộc biểu tình chống người nhập cư ở Nam Phi. Tình hình căng thẳng ở Nam Phi trong những tuần gần đây. Cảnh sát Nigeria kêu gọi bình tĩnh và tránh trả đũa người Nam Phi. Những cuộc biểu tình chống người nhập cư ở Nam Phi đã gây ra nhiều thương vong.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b3ff73d36f0e",
+      "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+      "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T17:23:39.680137+00:00",
+      "category": "công nghệ",
+      "importance": 3,
+      "headline": "Chín ngân hàng Anh được truy cập công cụ Mythos sau khi bị chặn",
+      "bullets": [
+        "Bị chặn truy cập công cụ Mythos",
+        "Rival OpenAI đưa ra đề nghị thay thế",
+        "GPT 5.5 Cyber được mở cửa cho chín ngân hàng",
+        "Anthropic chặn công cụ Mythos"
+      ],
+      "full_summary": "Năm ngân hàng Anh đã bị chặn truy cập công cụ Mythos, một công cụ AI chống lại các cuộc tấn công mạng. Rival OpenAI đã đưa ra đề nghị thay thế, cung cấp cho chín ngân hàng quyền truy cập vào GPT 5.5 Cyber. Điều này diễn ra sau khi Anthropic chặn công cụ Mythos.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49fb0af91f07",
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T17:23:40.664711+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Infinity Ward chuẩn bị ra mắt Call of Duty với bối cảnh xâm lược Bắc Triều Tiên",
+      "bullets": [
+        "Infinity Ward đang phát triển Call of Duty mới với bối cảnh xâm lược Bắc Triều Tiên",
+        "Trò chơi sẽ tập trung vào tính xác thực quân sự",
+        "Infinity Ward cam kết sẽ mang lại trải nghiệm chân thực",
+        "Trò chơi sẽ được phát hành vào năm sau"
+      ],
+      "full_summary": "Infinity Ward đang chuẩn bị ra mắt Call of Duty mới với bối cảnh xâm lược Bắc Triều Tiên. Theo BBC Technology, trò chơi sẽ tập trung vào tính xác thực quân sự và mang lại trải nghiệm chân thực. Infinity Ward cam kết sẽ mang lại trải nghiệm chân thực và sẽ phát hành trò chơi vào năm sau.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84c6a108929c",
+      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T17:23:41.701018+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Ghana thông qua luật cấm hoạt động LGBTQ+",
+      "bullets": [
+        "Chính phủ Ghana thông qua luật cấm hoạt động LGBTQ+",
+        "Sự việc khiến cộng đồng LGBTQ+ hoảng loạn",
+        "Pháp luật quy định hình phạt tù từ 3 đến 10 năm",
+        "Cộng đồng LGBTQ+ lo sợ mất nhà, việc làm và tiếp cận y tế"
+      ],
+      "full_summary": "Ghana vừa thông qua một đạo luật cấm hoạt động LGBTQ+, khiến cộng đồng LGBTQ+ hoảng loạn. Luật này quy định hình phạt tù từ 3 đến 10 năm đối với những người tham gia vào hoạt động LGBTQ+. Cộng đồng LGBTQ+ lo sợ mất nhà, việc làm và tiếp cận y tế. Luật này vẫn cần được Tổng thống John Dramani Mahama phê chuẩn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "34592f50e59d",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-01T17:23:51.382043+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mô hình AI CLAUDE được giới thiệu tại Đại học Stanford",
+      "bullets": [
+        "Giới thiệu hướng dẫn sử dụng AI Agent CLAUDE",
+        "CLAUDE được sử dụng trong khóa học CS336 tại Đại học Stanford",
+        "Mô hình AI này được phát triển để giải quyết các bài toán cơ bản"
+      ],
+      "full_summary": "Mô hình AI CLAUDE được giới thiệu tại Đại học Stanford trong khóa học CS336. Hướng dẫn sử dụng AI Agent CLAUDE được công bố trên GitHub. Mô hình AI này được phát triển để giải quyết các bài toán cơ bản và được sử dụng trong khóa học.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "26b866f0ab0b",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-01T17:23:53.153000+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một lỗ hổng mới trên Instagram khiến người dùng gặp rắc rối",
+      "bullets": [
+        "Một lỗ hổng mới đã được phát hiện trên Instagram",
+        "Lỗ hổng này cho phép người dùng khác chiếm quyền kiểm soát tài khoản",
+        "Meta đang cố gắng sửa lỗi và ngăn chặn sự cố tương tự",
+        "Bên cạnh đó, người dùng cũng cần phải cẩn thận khi sử dụng tài khoản của mình"
+      ],
+      "full_summary": "Một lỗ hổng mới đã được phát hiện trên Instagram, cho phép người dùng khác chiếm quyền kiểm soát tài khoản. Lỗ hổng này đã gây ra sự cố lớn và ảnh hưởng đến nhiều người dùng. Meta đang cố gắng sửa lỗi và ngăn chặn sự cố tương tự. Người dùng cũng cần phải cẩn thận khi sử dụng tài khoản của mình để tránh bị chiếm quyền kiểm soát.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "958309acffe9",
       "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
@@ -676,125 +795,6 @@
         "Nghiên cứu đang được thực hiện để bảo vệ cây trồng"
       ],
       "full_summary": "Custard apple đang trở nên phổ biến vì hương vị đặc biệt của chúng. Cây cam bơ được ưa chuộng vì sự cứng rắn, nhưng hạt cam bơ lại khó xuất khẩu do tính dễ vỡ. Để giải quyết vấn đề này, các nhà nghiên cứu đang tìm cách bảo vệ cây trồng và phát triển phương pháp xuất khẩu an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb557f3f5112",
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-31T13:22:25.603849+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Dav2d: Một công nghệ mới cho video",
-      "bullets": [
-        "Tìm hiểu về Dav2d, một công nghệ mới cho video",
-        "Dav2d được phát triển để cải thiện hiệu suất video",
-        "Công nghệ này có thể giúp giảm thiểu tiêu thụ tài nguyên hệ thống"
-      ],
-      "full_summary": "Dav2d là một công nghệ mới cho video được phát triển để cải thiện hiệu suất video. Công nghệ này có thể giúp giảm thiểu tiêu thụ tài nguyên hệ thống, từ đó cải thiện trải nghiệm người dùng. Dav2d được giới thiệu trên blog của J.B. Kempf và đã thu hút sự chú ý của cộng đồng Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3438c0296c71",
-      "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
-      "url": "https://www.nature.com/articles/s41586-026-10717-y",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-05-31T13:22:29.860535+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu mới về MoTe2: Khám phá các trạng thái và động lực của các lớp kép xoắn",
-      "bullets": [
-        "Khám phá được các trạng thái ẩn và động lực của các lớp kép xoắn MoTe2",
-        "Nghiên cứu này giúp hiểu rõ hơn về tính chất vật lý của các lớp kép xoắn",
-        "Kết quả nghiên cứu có thể ứng dụng trong các lĩnh vực công nghệ mới",
-        "Nghiên cứu được công bố trên tạp chí Nature"
-      ],
-      "full_summary": "Một nhóm nghiên cứu mới đã phát hiện ra các trạng thái ẩn và động lực của các lớp kép xoắn MoTe2. Kết quả nghiên cứu này giúp hiểu rõ hơn về tính chất vật lý của các lớp kép xoắn và có thể ứng dụng trong các lĩnh vực công nghệ mới. Nghiên cứu được công bố trên tạp chí Nature ngày 29 tháng 5 năm 2026.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e6701af4d638",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T08:37:11.464432+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Bộ trưởng Quốc phòng Nhật Bản bác bỏ chủ nghĩa quân phiệt và chỉ trích vũ khí khổng lồ của Trung Quốc",
-      "bullets": [
-        "Bộ trưởng Quốc phòng Nhật Bản Shinjiro Koizumi bác bỏ cáo buộc chủ nghĩa quân phiệt",
-        "Koizumi chỉ trích Trung Quốc về vũ khí khổng lồ và ảnh hưởng trên Biển Đông",
-        "Tensions giữa Nhật Bản và Trung Quốc tăng cao do vấn đề quân sự và kinh tế",
-        "Koizumi khẳng định Nhật Bản chỉ muốn đảm bảo an ninh quốc gia"
-      ],
-      "full_summary": "Bộ trưởng Quốc phòng Nhật Bản Shinjiro Koizumi đã đưa ra những bình luận sắc sảo nhất về cuộc tranh chấp liên quan đến việc xây dựng quân sự của Nhật Bản. Ông bác bỏ cáo buộc chủ nghĩa quân phiệt và chỉ trích Trung Quốc về vũ khí khổng lồ và ảnh hưởng trên Biển Đông. Tensions giữa Nhật Bản và Trung Quốc đã tăng cao do vấn đề quân sự và kinh tế. Koizumi khẳng định Nhật Bản chỉ muốn đảm bảo an ninh quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27d1849865a6",
-      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
-      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T08:37:12.341407+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Valve tăng giá Steam Deck hơn 40% do chi phí tăng cao",
-      "bullets": [
-        "Valve tăng giá Steam Deck",
-        "Gia tăng do chi phí nguyên liệu tăng cao",
-        "Steam Deck không có thay đổi về thiết kế",
-        "Valve giải thích chi phí tăng cao là tình trạng chung"
-      ],
-      "full_summary": "Valve, công ty game lớn, đã tăng giá Steam Deck lên hơn 40% do chi phí nguyên liệu tăng cao. Mặc dù thiết kế của Steam Deck không có thay đổi, nhưng giá tăng phản ánh tình trạng chung của chi phí nguyên liệu. Valve cho biết họ không có lựa chọn khác ngoài việc tăng giá để bù đắp cho chi phí tăng cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69369e9105e5",
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T08:37:13.244530+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta từ chối nhiều lần yêu cầu của cơ quan EU về việc cấm người dùng Facebook và Instagram",
-      "bullets": [
-        "Meta từ chối nhiều lần yêu cầu của cơ quan EU về việc cấm người dùng Facebook và Instagram",
-        "Nhiều người dùng đã bị cấm không đúng lý do",
-        "BBC đã tiếp nhận hàng trăm yêu cầu từ người dùng",
-        "Người dùng yêu cầu Meta giải thích lý do cấm"
-      ],
-      "full_summary": "Meta đã từ chối nhiều lần yêu cầu của cơ quan EU về việc cấm người dùng Facebook và Instagram. Nhiều người dùng đã bị cấm không đúng lý do và yêu cầu Meta giải thích lý do cấm. BBC đã tiếp nhận hàng trăm yêu cầu từ người dùng về việc bị cấm không đúng lý do.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2a5dbbd7552",
-      "title": "Google worker charged with using internal data to make $1.2m on bets",
-      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T08:37:14.366046+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cán bộ Google bị buộc tội sử dụng dữ liệu nội bộ để đặt cược 1,2 triệu USD",
-      "bullets": [
-        "Bị cáo bị buộc tội vi phạm luật giao dịch nội bộ",
-        "Cán bộ Google đã sử dụng dữ liệu nội bộ để đặt cược",
-        "Tổng số tiền đặt cược lên tới 1,2 triệu USD",
-        "Bị cáo sẽ phải đối mặt với các cáo buộc tại New York"
-      ],
-      "full_summary": "Một cán bộ Google đã bị buộc tội sử dụng dữ liệu nội bộ để đặt cược 1,2 triệu USD. Bị cáo đã sử dụng thông tin nội bộ để đặt cược và kiếm được lợi nhuận. Nếu bị kết tội, bị cáo sẽ phải đối mặt với các cáo buộc tại New York. Sự việc này đã gây ra sự chú ý trong ngành công nghệ.",
       "comments": 0,
       "score": 0
     }
