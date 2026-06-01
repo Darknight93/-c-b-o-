@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-06-01T17:23:54.925344+00:00",
+  "updated_at": "2026-06-01T21:24:06.671011+00:00",
   "articles": [
+    {
+      "id": "dc262b82c4ba",
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:47.409590+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Israel tấn công Lebanon, đe dọa thỏa thuận hòa bình với Mỹ",
+      "bullets": [
+        "Israel đã tiến hành các cuộc tấn công ở ngoại ô phía nam Beirut",
+        "Hành động này nhằm đáp trả các cuộc tấn công bằng tên lửa và máy bay không người lái của Hezbollah",
+        "Iran cảnh báo rằng các cuộc tấn công này có thể đe dọa thỏa thuận hòa bình với Mỹ",
+        "Tình hình ở khu vực Trung Đông vẫn đang rất căng thẳng"
+      ],
+      "full_summary": "Israel đã tiến hành các cuộc tấn công ở ngoại ô phía nam Beirut sau khi Hezbollah tiến hành các cuộc tấn công bằng tên lửa và máy bay không người lái vào khu vực phía bắc Israel. Hành động này được Israel thực hiện để đáp trả các cuộc tấn công của Hezbollah. Iran đã cảnh báo rằng các cuộc tấn công này có thể đe dọa thỏa thuận hòa bình với Mỹ. Tình hình ở khu vực Trung Đông vẫn đang rất căng thẳng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b3b8c84c8a24",
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:48.927375+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trung Quốc thúc đẩy đàm phán hòa bình nhưng Iran không chịu khuất phục",
+      "bullets": [
+        "Trung Quốc đang nỗ lực đàm phán hòa bình với Iran",
+        "Iran đòi có những nhượng bộ từ phía Mỹ",
+        "Lực lượng quân sự ở Vịnh đang gây sức ép lên Nhà Trắng",
+        "Chính quyền Mỹ đang đối mặt với áp lực từ các cuộc thăm dò dư luận"
+      ],
+      "full_summary": "Trung Quốc đang nỗ lực đàm phán hòa bình với Iran nhưng Tehran không chịu khuất phục. Iran đòi có những nhượng bộ từ phía Mỹ. Lực lượng quân sự ở Vịnh đang gây sức ép lên Nhà Trắng. Chính quyền Mỹ đang đối mặt với áp lực từ các cuộc thăm dò dư luận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff209b9c5bd5",
+      "title": "Three Ebola vaccines in development amid growing outbreak fears",
+      "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:49.924811+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Ba loại vaccine Ebola đang được phát triển",
+      "bullets": [
+        "Các nhà khoa học đang phát triển vaccine Ebola mới",
+        "IAVI đang nghiên cứu vaccine Ebola",
+        "Moderna đang thử nghiệm vaccine Ebola",
+        "Đại học Oxford đang phát triển vaccine Ebola"
+      ],
+      "full_summary": "Trong bối cảnh lo ngại về sự bùng phát của bệnh Ebola, ba tổ chức đang phát triển vaccine mới. IAVI, Moderna và Đại học Oxford đang nghiên cứu và thử nghiệm vaccine Ebola. Các vaccine này được kỳ vọng sẽ giúp ngăn chặn sự lây lan của bệnh. Việc phát triển vaccine Ebola đang trở thành một ưu tiên hàng đầu trong lĩnh vực y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f310434a4a9b",
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:50.999968+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Florida cáo buộc OpenAI hỗ trợ kẻ sát nhân",
+      "bullets": [
+        "Florida cáo buộc OpenAI và Sam Altman tạo ra 'mạng lưới gian lận'",
+        "ChatGPT bị cáo buộc giúp đỡ kẻ sát nhân",
+        "Florida đặt OpenAI dưới sự giám sát",
+        "Nạn nhân và gia đình đòi bồi thường"
+      ],
+      "full_summary": "Florida Attorney General James Uthmeier cáo buộc OpenAI và CEO Sam Altman tạo ra 'mạng lưới gian lận' khi cho phép ChatGPT hỗ trợ kẻ sát nhân. Florida đã đặt OpenAI dưới sự giám sát và nạn nhân và gia đình đòi bồi thường. Điều này là một phần của vụ kiện chống lại OpenAI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "59816906bc98",
+      "title": "Hungarian PM threatens to oust Orbán-era president",
+      "url": "https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:51.955926+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Hungary từ chối rời nhiệm sở",
+      "bullets": [
+        "Chủ tịch Hungary từ chối rời nhiệm sở theo yêu cầu của Thủ tướng Péter Magyar",
+        "Thủ tướng Magyar đe dọa sẽ xóa bỏ vị trí của Chủ tịch Hungary",
+        "Vấn đề đang dẫn đến một cuộc xung đột hiến pháp",
+        "Chủ tịch Hungary sẽ tiếp tục giữ chức vụ"
+      ],
+      "full_summary": "Chủ tịch Hungary đã từ chối rời nhiệm sở theo yêu cầu của Thủ tướng Péter Magyar. Thủ tướng Magyar đã đe dọa sẽ xóa bỏ vị trí của Chủ tịch Hungary nếu ông không rời nhiệm sở. Vấn đề đang dẫn đến một cuộc xung đột hiến pháp giữa chính phủ và Tổng thống Hungary. Chủ tịch Hungary sẽ tiếp tục giữ chức vụ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1ec4e3725a02",
+      "title": "Williams, 44, to return to action in Queen's doubles",
+      "url": "https://www.bbc.com/sport/tennis/articles/cx21k06ddvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:53.754063+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Serena Williams trở lại quần vợt sau 4 năm",
+      "bullets": [
+        "Cựu tay vợt số 1 thế giới sẽ chơi đôi nữ tại Queen's",
+        "Đây là lần đầu tiên Serena Williams trở lại quần vợt sau 4 năm",
+        "Cô sẽ chơi cùng một đối thủ chưa được tiết lộ",
+        "Tournament này sẽ diễn ra vào tháng 6"
+      ],
+      "full_summary": "Cựu tay vợt số 1 thế giới Serena Williams sẽ trở lại quần vợt sau 4 năm khi chơi đôi nữ tại Queen's. Đây là một bước đầu tiên quan trọng trong sự trở lại của cô sau thời gian dài vắng bóng. Serena Williams sẽ chơi cùng một đối thủ chưa được tiết lộ. Tournament này sẽ diễn ra vào tháng 6.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d1cc62380be7",
+      "title": "Italians bemused by Milan bull mosaic restoration",
+      "url": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:55.675941+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mosaic bò ở Milan bị trùng tu, người Ý bối rối về 'may mắn' của nó",
+      "bullets": [
+        "Người dân Ý ngạc nhiên khi thấy hình ảnh bò ở Milan bị trùng tu",
+        "Bò được trùng tu lại với hình ảnh mới, thiếu đi 'đặc điểm' may mắn",
+        "Người dân cho rằng 'đặc điểm' may mắn của bò là bộ phận sinh dục",
+        "Bò ở Milan được trùng tu lại sau nhiều năm"
+      ],
+      "full_summary": "Một bức tranh bò ở Milan đã được trùng tu lại, nhưng người dân Ý đã ngạc nhiên khi thấy hình ảnh mới thiếu đi 'đặc điểm' may mắn của nó. Người dân cho rằng 'đặc điểm' may mắn của bò là bộ phận sinh dục, nhưng không rõ tại sao nó lại bị bỏ qua trong quá trình trùng tu. Bức tranh bò này đã được trùng tu lại sau nhiều năm và hiện đang được trưng bày lại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "15b86dfd5ce3",
+      "title": "AI giant Anthropic says it plans to list on US stock market",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:56.941359+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "Công ty AI Anthropic lên sàn chứng khoán Mỹ",
+      "bullets": [
+        "Đang lên kế hoạch phát hành cổ phiếu cho công chúng",
+        "Công ty sau này sẽ niêm yết trên sàn chứng khoán Mỹ",
+        "Cổ phiếu của Anthropic sẽ được bán cho công chúng vào cuối năm nay",
+        "Anthropic là công ty đứng sau AI Claude"
+      ],
+      "full_summary": "Công ty AI Anthropic đang lên kế hoạch lên sàn chứng khoán Mỹ. Công ty này sau này sẽ niêm yết trên sàn chứng khoán Mỹ và bán cổ phiếu cho công chúng vào cuối năm nay. Anthropic là công ty đứng sau AI Claude và đang phát triển các công nghệ AI tiên tiến.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f310434a4a9b",
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-01T21:23:57.941767+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Florida cáo buộc OpenAI hỗ trợ kẻ giết người hàng loạt thông qua ChatGPT",
+      "bullets": [
+        "Florida cáo buộc OpenAI đã tạo ra một 'mạng lưới lừa đảo'",
+        "ChatGPT của OpenAI bị cáo buộc đã hỗ trợ kẻ giết người hàng loạt",
+        "Tòa án Florida yêu cầu OpenAI và CEO Sam Altman phải chịu trách nhiệm",
+        "Florida cáo buộc OpenAI đã vi phạm luật liên quan đến an ninh mạng"
+      ],
+      "full_summary": "Florida đã nộp đơn kiện OpenAI và CEO Sam Altman vì cáo buộc họ đã hỗ trợ kẻ giết người hàng loạt thông qua ChatGPT. Theo cáo buộc, OpenAI đã tạo ra một 'mạng lưới lừa đảo' để hỗ trợ kẻ giết người hàng loạt. Florida yêu cầu OpenAI phải chịu trách nhiệm và phải tuân thủ luật liên quan đến an ninh mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "06d8b37c21ec",
+      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+      "url": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-01T21:24:02.711066+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump tiếp tục ủng hộ chính sách vaccine lấy cảm hứng từ Đan Mạch",
+      "bullets": [
+        "Trung tâm Y tế quốc gia lên án chính sách vaccine của Trump",
+        "Các nhà nghiên cứu Đan Mạch cho rằng chính sách này thật kỳ lạ",
+        "Chính sách vaccine của Trump gây tranh cãi trên toàn thế giới",
+        "Các chuyên gia y tế cảnh báo về tác động tiêu cực của chính sách này"
+      ],
+      "full_summary": "Trung tâm Y tế quốc gia đã lên án mạnh mẽ chính sách vaccine của cựu Tổng thống Trump, mô phỏng theo mô hình của Đan Mạch. Các nhà nghiên cứu Đan Mạch cũng cho rằng chính sách này thật kỳ lạ và không phù hợp. Chính sách vaccine của Trump gây tranh cãi trên toàn thế giới và các chuyên gia y tế cảnh báo về tác động tiêu cực của chính sách này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c7afa1f33f30",
+      "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
+      "url": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-01T21:24:05.598475+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "AMD mở rộng hỗ trợ Socket AM5 cho đến ít nhất năm 2029",
+      "bullets": [
+        "AMD tiếp tục hỗ trợ Socket AM5",
+        "Socket AM4 vẫn được hỗ trợ",
+        "Bản 5800X3D được đưa trở lại với giá 349 USD",
+        "Bản 7700X3D ra mắt với giá 329 USD"
+      ],
+      "full_summary": "AMD vừa thông báo mở rộng hỗ trợ Socket AM5 cho đến ít nhất năm 2029. Điều này cho thấy sự tin tưởng của AMD vào kiến trúc AM5. Trong khi đó, Socket AM4 vẫn được hỗ trợ, và hai bản 5800X3D và 7700X3D cũng được ra mắt với giá cạnh tranh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "828a08b1d0f6",
       "title": "Nigeria police warn against reprisal attacks against South Africans",
@@ -576,225 +796,6 @@
         "Cơ quan chức năng Ireland đã đồng ý tiến hành một cuộc khám nghiệm tử thi thứ hai"
       ],
       "full_summary": "Một người Congo tên Yves Sakila đã tử vong sau khi bị cảnh sát bảo vệ bắt giữ trên đường phố Dublin. Vụ việc đã gây ra sự phẫn nộ và so sánh với vụ việc George Floyd. Cơ quan chức năng Ireland đang điều tra vụ việc và đã đồng ý tiến hành một cuộc khám nghiệm tử thi thứ hai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ce40867128e7",
-      "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
-      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:41.710558+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Phim mới khám phá truyền thống ma thuật obeah bị cấm ở Jamaica",
-      "bullets": [
-        "Giới thiệu về truyền thống ma thuật obeah của người châu Phi ở Jamaica",
-        "Phim Stew Peas kể về cuộc điều tra của một nữ cảnh sát Jamaica",
-        "Truyền thống obeah bị cấm bởi người định cư vào thế kỷ 18",
-        "Phim này được đạo diễn bởi Sosiessia Nixon, một nữ đạo diễn Jamaica"
-      ],
-      "full_summary": "Một bộ phim mới từ Jamaica, Stew Peas, đã tập trung vào truyền thống ma thuật và chữa bệnh tâm linh của người châu Phi ở Jamaica, gọi là obeah. Bộ phim này kể về câu chuyện của một nữ cảnh sát Jamaica tên Tessa, người bị ám ảnh bởi một vụ án giết người cũ. Truyền thống obeah đã bị cấm bởi người định cư vào thế kỷ 18, nhưng nó vẫn còn tồn tại ở Jamaica. Bộ phim này được đạo diễn bởi Sosiessia Nixon, một nữ đạo diễn Jamaica.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2e3d9e02578",
-      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
-      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:43.118274+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "WHO xác định tỷ lệ tử vong Ebola ở DRC lên đến 30-50%",
-      "bullets": [
-        "WHO xác định tỷ lệ tử vong Ebola ở DRC lên đến 30-50%",
-        "Giám đốc WHO đến DRC để hỗ trợ kiểm soát dịch bệnh",
-        "Tedros kêu gọi ngừng bắn giữa các nhóm vũ trang để tránh tử vong do bệnh tật",
-        "Tỷ lệ tử vong cao có thể lên đến 5 người trong 10 người nhiễm bệnh"
-      ],
-      "full_summary": "WHO vừa xác định tỷ lệ tử vong Ebola ở DRC lên đến 30-50%. Giám đốc WHO, Tedros Adhanom Ghebreyesus, đã đến DRC để hỗ trợ kiểm soát dịch bệnh. Ông kêu gọi ngừng bắn giữa các nhóm vũ trang để tránh tử vong do bệnh tật. Tỷ lệ tử vong cao có thể lên đến 5 người trong 10 người nhiễm bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7b9c460ca792",
-      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
-      "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:45.251976+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Colombia chuẩn bị cho cuộc bầu cử tổng thống trong bóng tối của sự gia tăng bạo lực chính trị",
-      "bullets": [
-        "Colombia chuẩn bị cho cuộc bầu cử tổng thống vào ngày Chủ nhật",
-        "Cuộc bầu cử giữa cánh tả và cánh hữu, và giữa các đề xuất trái ngược nhau đối với việc giải quyết xung đột vũ trang kéo dài nhiều thập kỷ",
-        "Sự gia tăng bạo lực chính trị đã ảnh hưởng đến cuộc bầu cử",
-        "Các ứng cử viên đang tranh luận về cách giải quyết xung đột vũ trang"
-      ],
-      "full_summary": "Colombia chuẩn bị cho cuộc bầu cử tổng thống vào ngày Chủ nhật, trong bóng tối của sự gia tăng bạo lực chính trị. Cuộc bầu cử giữa cánh tả và cánh hữu, và giữa các đề xuất trái ngược nhau đối với việc giải quyết xung đột vũ trang kéo dài nhiều thập kỷ. Sự gia tăng bạo lực chính trị đã ảnh hưởng đến cuộc bầu cử, khiến nhiều người lo ngại về tương lai của đất nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "084e0657e9c0",
-      "title": "Chibil: A C compiler targeting .NET IL",
-      "url": "https://github.com/MichalStrehovsky/chibil",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-05-31T19:06:50.983459+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mới ra mắt: Chibil, bộ biên dịch C cho IL .NET",
-      "bullets": [
-        "Tạo ra bộ biên dịch C cho IL .NET",
-        "Giúp lập trình viên viết mã C cho các ứng dụng .NET",
-        "Cung cấp khả năng biên dịch mã C thành mã IL .NET"
-      ],
-      "full_summary": "Chibil là một bộ biên dịch C mới được tạo ra nhằm mục đích biên dịch mã C thành mã IL .NET. Điều này cho phép lập trình viên viết mã C cho các ứng dụng .NET mà không cần phải chuyển đổi mã sang ngôn ngữ khác. Bộ biên dịch này được phát triển bởi Michal Strehovsky và được công bố trên GitHub.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a6c6d3b928b3",
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T13:22:14.505471+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người bị bắt giữ sau vụ ẩu đả ở Pháp",
-      "bullets": [
-        "Hàng trăm người bị bắt giữ",
-        "219 người bị thương, trong đó 57 là cảnh sát",
-        "Cảnh sát bị tấn công trong trận đấu Champions League",
-        "Tình hình trở nên căng thẳng tại Pháp"
-      ],
-      "full_summary": "Một vụ ẩu đả lớn đã xảy ra tại Pháp sau trận đấu Champions League. Hàng trăm người đã bị bắt giữ và 219 người bị thương, trong đó 57 là cảnh sát. Cảnh sát đã phải đối mặt với sự tấn công dữ dội trong trận đấu. Tình hình trở nên căng thẳng tại Pháp và đã gây ra nhiều vấn đề.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "64a7a4a4757e",
-      "title": "Laos cave survivors help with plan to find last two missing men",
-      "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T13:22:15.567269+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai người đàn ông còn lại bị mắc kẹt trong hang động",
-      "bullets": [
-        "Cứu hộ tìm kiếm hai người đàn ông còn lại",
-        "Năm người đàn ông đã được giải cứu khỏi hang động hẹp",
-        "Nỗ lực tìm kiếm đang tiếp tục",
-        "Hai người đàn ông còn lại bị mắc kẹt trong hang động bị ngập nước"
-      ],
-      "full_summary": "Cứu hộ đang tìm kiếm hai người đàn ông còn lại sau khi năm người đàn ông đã được giải cứu khỏi hang động hẹp bị ngập nước ở Lào. Nỗ lực tìm kiếm đang tiếp tục để đảm bảo an toàn cho hai người đàn ông còn lại. Các chuyên gia cứu hộ đã học hỏi từ những người đàn ông đã được giải cứu để giúp tìm kiếm hai người đàn ông còn lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2c02132352fb",
-      "title": "Colombia votes in presidential election that could redefine relations with US",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T13:22:16.629558+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Colombia bầu cử tổng thống, định hình lại quan hệ với Mỹ",
-      "bullets": [
-        "Colombia tổ chức bầu cử tổng thống sau nhiều tháng chỉ trích công khai giữa Tổng thống Gustavo Petro và Tổng thống Mỹ Donald Trump",
-        "Bầu cử có thể định hình lại quan hệ giữa Colombia và Mỹ",
-        "Tổng thống Petro đã chỉ trích chính sách của Mỹ và coi đó là mối đe dọa đối với hòa bình",
-        "Bầu cử có thể ảnh hưởng đến quan hệ kinh tế và chính trị giữa hai quốc gia"
-      ],
-      "full_summary": "Colombia đang tổ chức bầu cử tổng thống sau nhiều tháng chỉ trích công khai giữa Tổng thống Gustavo Petro và Tổng thống Mỹ Donald Trump. Bầu cử có thể định hình lại quan hệ giữa Colombia và Mỹ. Tổng thống Petro đã chỉ trích chính sách của Mỹ và coi đó là mối đe dọa đối với hòa bình. Kết quả bầu cử sẽ ảnh hưởng đến quan hệ kinh tế và chính trị giữa hai quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "776b326c9e6d",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T13:22:17.673004+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel bắt giữ lâu đài Beaufort ở Lebanon",
-      "bullets": [
-        "Israel chiếm lâu đài Beaufort ở Lebanon",
-        "Lực lượng Israel yêu cầu người dân ở phía nam sông Zahrani rời đi",
-        "Lâu đài Beaufort có vị trí chiến lược quan trọng",
-        "Chiến dịch của Israel đang mở rộng"
-      ],
-      "full_summary": "Lực lượng quân sự Israel cho biết mọi người ở phía nam sông Zahrani nên rời đi sau khi họ chiếm được lâu đài Beaufort, một vị trí chiến lược quan trọng ở Lebanon. Điều này diễn ra trong bối cảnh chiến dịch của Israel đang mở rộng. Lâu đài Beaufort có vị trí chiến lược quan trọng và đã được chiếm giữ bởi Israel. Người dân ở phía nam sông Zahrani đang được yêu cầu rời đi để tránh bị ảnh hưởng bởi chiến dịch quân sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ce490d49ba9",
-      "title": "South Africa made to look like fools after World Cup visa issues, says minister",
-      "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T13:22:18.669220+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nam Phi gặp rắc rối với thị thực World Cup",
-      "bullets": [
-        "Hủy hoãn chuyến đi của đội bóng Nam Phi đến Mexico",
-        "Hiệp hội bóng đá Nam Phi đang tìm cách giải quyết vấn đề",
-        "Vấn đề thị thực gây khó khăn cho đội bóng",
-        "Đội bóng Nam Phi phải chờ đợi giải quyết vấn đề"
-      ],
-      "full_summary": "Hiệp hội bóng đá Nam Phi đang gặp khó khăn với vấn đề thị thực World Cup. Vấn đề này đã gây khó khăn cho đội bóng Nam Phi, khiến họ phải hủy hoãn chuyến đi đến Mexico. Hiệp hội bóng đá Nam Phi đang tìm cách giải quyết vấn đề này để đội bóng có thể đến Mexico đúng lịch trình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa0218fa0394",
-      "title": "Nigerian retired general abducted with his wife in the north-west",
-      "url": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T13:22:19.698457+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một cựu tướng quân Nigeria bị bắt cóc cùng vợ",
-      "bullets": [
-        "Bị bắt cóc tại khu vực phía Bắc Tây",
-        "Cựu tướng Rabe Abubakar bị bắt cóc cùng vợ",
-        "Bị bắt cóc gây lo ngại về tình hình an ninh tại Nigeria",
-        "Bị bắt cóc diễn ra trong bối cảnh Nigeria đang đối mặt với nhiều thách thức an ninh"
-      ],
-      "full_summary": "Một cựu tướng quân Nigeria, Maj Gen Rabe Abubakar, đã bị bắt cóc cùng vợ tại khu vực phía Bắc Tây. Sự kiện này đã gây lo ngại về tình hình an ninh tại Nigeria. Bị bắt cóc diễn ra trong bối cảnh Nigeria đang đối mặt với nhiều thách thức an ninh. Các quan chức Nigeria đang điều tra vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f7ad76c1237d",
-      "title": "The rise of the fruit that tastes like custard",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T13:22:20.767258+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Custard apple trở nên phổ biến vì hương vị đặc biệt",
-      "bullets": [
-        "Cây cam bơ được ưa chuộng vì sự cứng rắn",
-        "Hạt cam bơ khó xuất khẩu do tính dễ vỡ",
-        "Custard apple được đánh giá cao vì hương vị đặc biệt",
-        "Nghiên cứu đang được thực hiện để bảo vệ cây trồng"
-      ],
-      "full_summary": "Custard apple đang trở nên phổ biến vì hương vị đặc biệt của chúng. Cây cam bơ được ưa chuộng vì sự cứng rắn, nhưng hạt cam bơ lại khó xuất khẩu do tính dễ vỡ. Để giải quyết vấn đề này, các nhà nghiên cứu đang tìm cách bảo vệ cây trồng và phát triển phương pháp xuất khẩu an toàn.",
       "comments": 0,
       "score": 0
     }
