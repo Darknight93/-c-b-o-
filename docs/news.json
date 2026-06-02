@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-06-01T21:24:06.671011+00:00",
+  "updated_at": "2026-06-02T02:53:15.044869+00:00",
   "articles": [
+    {
+      "id": "240a0a0a0dba",
+      "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T02:52:58.702617+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người Kiev chạy ẩn sau đòn tấn công tên lửa của Nga",
+      "bullets": [
+        "Nga đã thực hiện nhiều đòn tấn công tên lửa vào trung tâm Kiev",
+        "Ít nhất năm người đã thiệt mạng và nhiều người bị thương",
+        "Cư dân Kiev đã chạy ẩn vào các nơi an toàn",
+        "Các quan chức Ukraine đang điều tra nguyên nhân vụ tấn công"
+      ],
+      "full_summary": "Nga đã thực hiện nhiều đòn tấn công tên lửa vào trung tâm Kiev trong đêm qua, khiến ít nhất năm người thiệt mạng và nhiều người bị thương. Thousands cư dân Kiev đã chạy ẩn vào các nơi an toàn sau khi nghe thấy tiếng nổ lớn. Các quan chức Ukraine đang điều tra nguyên nhân vụ tấn công và cảnh báo người dân Kiev cần cẩn thận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7525a6e106de",
+      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+      "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T02:52:59.581320+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Mette Frederiksen thành lập chính phủ thiểu số sau nhiều tháng đàm phán",
+      "bullets": [
+        "Thủ tướng Mette Frederiksen thành lập chính phủ thiểu số",
+        "Chính phủ mới sẽ là liên minh giữa Đảng Dân chủ Xã hội",
+        "Mette Frederiksen sẽ giữ chức vụ Thủ tướng lần thứ ba",
+        "Chính phủ sẽ phải dựa vào sự ủng hộ của các đảng khác"
+      ],
+      "full_summary": "Thủ tướng Mette Frederiksen của Đảng Dân chủ Xã hội đã thành lập chính phủ thiểu số sau nhiều tháng đàm phán. Chính phủ mới sẽ là liên minh giữa Đảng Dân chủ Xã hội và các đảng khác. Thủ tướng Mette Frederiksen sẽ giữ chức vụ Thủ tướng lần thứ ba. Chính phủ sẽ phải dựa vào sự ủng hộ của các đảng khác để hoạt động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eff841eba014",
+      "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+      "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T02:53:00.840203+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump tham gia vào lễ kỷ niệm 250 năm độc lập của Mỹ",
+      "bullets": [
+        "Trump tự xưng mình là trung tâm của lễ kỷ niệm 250 năm độc lập của Mỹ",
+        "Lễ kỷ niệm ngày càng trở thành một đấu trường chính trị",
+        "Mỹ đang chuẩn bị kỷ niệm 250 năm ngày tuyên bố độc lập",
+        "Trump cố gắng thu hút sự chú ý vào lễ kỷ niệm"
+      ],
+      "full_summary": "Thay vì trở thành một sự kiện đoàn kết, lễ kỷ niệm 250 năm độc lập của Mỹ đang trở thành một đấu trường chính trị. Tổng thống Trump đã tự xưng mình là trung tâm của lễ kỷ niệm, gây ra sự tranh cãi và chia rẽ. Lễ kỷ niệm này được tổ chức để kỷ niệm 250 năm ngày tuyên bố độc lập của Mỹ, nhưng nó đã trở thành một sự kiện chính trị. Trump cố gắng thu hút sự chú ý vào lễ kỷ niệm bằng cách tự xưng mình là trung tâm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e871e52fff2a",
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T02:53:02.041440+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty ép nhân viên dùng AI mà không chuẩn bị kỹ",
+      "bullets": [
+        "Đưa ra áp lực cho nhân viên sử dụng AI mà không có kế hoạch rõ ràng",
+        "Không chuẩn bị đào tạo hoặc hỗ trợ cho nhân viên khi sử dụng AI",
+        "Gây ra sự nhầm lẫn và khó khăn cho nhân viên khi sử dụng AI",
+        "Có thể ảnh hưởng đến hiệu suất và chất lượng công việc"
+      ],
+      "full_summary": "Một số công ty đang ép nhân viên sử dụng trí tuệ nhân tạo (AI) mà không có kế hoạch rõ ràng. Điều này gây ra sự nhầm lẫn và khó khăn cho nhân viên khi sử dụng AI. Không có kế hoạch đào tạo hoặc hỗ trợ, nhân viên có thể gặp khó khăn khi sử dụng AI. Điều này có thể ảnh hưởng đến hiệu suất và chất lượng công việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27d1849865a6",
+      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
+      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T02:53:02.906977+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Valve tăng giá Steam Deck hơn 40% do chi phí tăng cao",
+      "bullets": [
+        "Valve tăng giá Steam Deck",
+        "Chi phí sản xuất tăng cao",
+        "Không có thay đổi về thiết kế của Steam Deck",
+        "Valve giải thích chi phí tăng cao do tình hình thị trường"
+      ],
+      "full_summary": "Valve đã tăng giá Steam Deck lên hơn 40% do chi phí sản xuất tăng cao. Mặc dù thiết kế của Steam Deck không có thay đổi, nhưng chi phí sản xuất đã tăng lên do tình hình thị trường. Valve cho biết họ không thể tránh khỏi việc tăng giá do chi phí tăng cao. Điều này có thể ảnh hưởng đến người dùng đang chờ đợi mua Steam Deck.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ee5fccd4c619",
+      "title": "Mexico City police teargas teachers’ protest 10 days before World Cup",
+      "url": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T02:53:05.746714+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cảnh sát Mexico City dùng hơi cay đối với giáo viên biểu tình",
+      "bullets": [
+        "Cảnh sát Mexico City dùng hơi cay đối với giáo viên biểu tình",
+        "Giáo viên biểu tình đòi tăng lương và thay đổi luật hưu trí",
+        "Sự cố xảy ra 10 ngày trước khi Mexico City tổ chức World Cup 2026",
+        "Cảnh sát và giáo viên đã xung đột hai lần trong tuần qua"
+      ],
+      "full_summary": "Cảnh sát Mexico City đã dùng hơi cay đối với các giáo viên thuộc Công đoàn CNTE đang biểu tình đòi tăng lương và thay đổi luật hưu trí. Sự cố xảy ra 10 ngày trước khi Mexico City tổ chức World Cup 2026. Giáo viên cho biết họ sẽ tiếp tục biểu tình cho đến khi đòi hỏi của họ được đáp ứng. Sự cố này là lần thứ hai trong tuần qua cảnh sát và giáo viên xung đột.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4e02f586f031",
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-02T02:53:11.717800+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Red Hat có nhiều gói phần mềm bị xâm nhập qua NPM chính thức",
+      "bullets": [
+        "Cập nhật ngay lập tức nếu đã tải xuống các gói phần mềm bị ảnh hưởng",
+        "Các gói phần mềm bị xâm nhập được phát hành thông qua NPM chính thức của Red Hat",
+        "Người dùng cần kiểm tra và cập nhật các gói phần mềm để tránh bị ảnh hưởng",
+        "Red Hat đang điều tra và cố gắng khắc phục sự cố"
+      ],
+      "full_summary": "Red Hat đã thông báo rằng nhiều gói phần mềm của họ đã bị xâm nhập thông qua NPM chính thức. Các gói phần mềm bị ảnh hưởng được phát hành trên NPM chính thức của Red Hat và có thể đã được tải xuống bởi người dùng. Red Hat đang điều tra và cố gắng khắc phục sự cố. Người dùng được khuyến cáo cập nhật ngay lập tức nếu đã tải xuống các gói phần mềm bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "dc262b82c4ba",
       "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
@@ -656,146 +796,6 @@
         "Sự cần thiết phải tăng cường hỗ trợ y tế"
       ],
       "full_summary": "Virus Ebola đang lây lan nhanh chóng ở một số khu vực ở châu Phi. Số người chết do virus này đã tăng lên ít nhất 240 kể từ khi dịch bệnh bắt đầu ở tỉnh Ituri ở Cộng hòa Dân chủ Congo vào đầu tháng này. Các nhà công nghệ y tế đang cố gắng kiểm soát virus trong một môi trường khó khăn, nơi có nhiều người làm việc gần nhau trong các mỏ và có sự xung đột giữa các nhóm phiến quân. Các cơ sở y tế ở khu vực này còn hạn chế và nhiều người bị buộc phải di dời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "63daf6cc44e4",
-      "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
-      "url": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-01T02:56:07.374416+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Dịch cúm hoại tử Texas cho thấy virus rất nguy hiểm",
-      "bullets": [
-        "Có hơn 1/5 trường hợp phải nhập viện",
-        "Hầu hết những người nhập viện đều phát triển các biến chứng",
-        "Virus cúm hoại tử gây ra nhiều biến chứng nghiêm trọng",
-        "Báo cáo cho thấy virus rất nguy hiểm đối với người lớn và trẻ em"
-      ],
-      "full_summary": "Một nghiên cứu về dịch cúm hoại tử ở Texas cho thấy virus rất nguy hiểm. Theo báo cáo, hơn 1/5 trường hợp phải nhập viện và hầu hết những người nhập viện đều phát triển các biến chứng. Virus cúm hoại tử gây ra nhiều biến chứng nghiêm trọng, bao gồm viêm màng não, viêm phổi và suy thận. Báo cáo này cho thấy virus rất nguy hiểm đối với người lớn và trẻ em, đặc biệt là những người chưa được tiêm chủng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d9afe0803a8d",
-      "title": "The History of \"Prisencolinensinainciusol\"",
-      "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-01T02:56:10.857822+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Bài hát vô nghĩa 'Prisencolinensinainciusol' trở thành hit toàn cầu",
-      "bullets": [
-        "Được sáng tác bởi Adriano Celentano vào năm 1972",
-        "Bài hát được tạo ra để thử nghiệm khả năng nhận diện âm thanh",
-        "Nó đã trở thành một hit toàn cầu và được nhiều người biết đến",
-        "Bài hát vẫn còn được yêu thích và được chơi trên các nền tảng âm nhạc"
-      ],
-      "full_summary": "Prisencolinensinainciusol là một bài hát vô nghĩa được sáng tác bởi Adriano Celentano vào năm 1972. Bài hát được tạo ra để thử nghiệm khả năng nhận diện âm thanh, nhưng nó đã trở thành một hit toàn cầu và được nhiều người biết đến. Bài hát vẫn còn được yêu thích và được chơi trên các nền tảng âm nhạc. Mặc dù không có ý nghĩa, bài hát vẫn có thể được hiểu và được yêu thích bởi nhiều người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "38126ab08f36",
-      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:35.231097+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nổ lớn giết hàng chục người ở làng do nổi loạn ở Myanmar",
-      "bullets": [
-        "Một vụ nổ lớn đã xảy ra ở làng do nổi loạn ở Myanmar",
-        "Nổ được cho là do vật nổ được sử dụng trong khai thác mỏ gần biên giới Trung Quốc",
-        "Số thương vong vẫn chưa được xác định rõ ràng",
-        "Các cuộc tấn công thường xuyên xảy ra ở khu vực này"
-      ],
-      "full_summary": "Một vụ nổ lớn đã xảy ra ở làng do nổi loạn ở Myanmar, giết hàng chục người. Các cuộc tấn công thường xuyên xảy ra ở khu vực này. Các nhà lãnh đạo nổi loạn cho biết vụ nổ được gây ra bởi vật nổ được sử dụng trong khai thác mỏ gần biên giới Trung Quốc. Số thương vong vẫn chưa được xác định rõ ràng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e6eec681890d",
-      "title": "Brazil monitors two patients for possible Ebola infection",
-      "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:36.159458+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Brazil đang theo dõi 2 bệnh nhân nghi nhiễm Ebola",
-      "bullets": [
-        "Brazil đang theo dõi 2 bệnh nhân nghi nhiễm Ebola",
-        "Nếu xác nhận, đây sẽ là trường hợp nhiễm Ebola đầu tiên ngoài châu Phi",
-        "Bệnh nhân được đưa đến bệnh viện ở Rio de Janeiro",
-        "Các cơ quan y tế đang thực hiện các xét nghiệm để xác định nhiễm trùng"
-      ],
-      "full_summary": "Brazil đang theo dõi 2 bệnh nhân nghi nhiễm Ebola, nếu xác nhận, đây sẽ là trường hợp nhiễm Ebola đầu tiên ngoài châu Phi. Bệnh nhân được đưa đến bệnh viện ở Rio de Janeiro và các cơ quan y tế đang thực hiện các xét nghiệm để xác định nhiễm trùng. Đây là một tình huống nghiêm trọng và các cơ quan y tế đang làm việc để xác định nguyên nhân và cách điều trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f4f2751e208",
-      "title": "Humanoid robots 'the future' of car making, says BMW",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:37.379608+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "BMW sử dụng robot humanoid trong nhà máy sản xuất ô tô",
-      "bullets": [
-        "BMW giới thiệu robot humanoid vào nhà máy sản xuất ô tô tại châu Âu",
-        "Công ty này đã thử nghiệm dự án tương tự tại Mỹ",
-        "Robot humanoid sẽ giúp tăng năng suất và giảm chi phí sản xuất",
-        "BMW hy vọng công nghệ này sẽ trở thành tương lai của ngành công nghiệp ô tô"
-      ],
-      "full_summary": "BMW đang giới thiệu robot humanoid vào nhà máy sản xuất ô tô tại châu Âu, tiếp tục dự án tương tự tại Mỹ. Công ty hy vọng công nghệ này sẽ giúp tăng năng suất và giảm chi phí sản xuất. Robot humanoid sẽ được sử dụng để thực hiện các công việc phức tạp và đòi hỏi sự chính xác cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "066fdcaf4226",
-      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
-      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:38.383475+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chủ tịch California kiện công ty di truyền vì vụ xâm nhập dữ liệu năm 2023",
-      "bullets": [
-        "Kết luận rằng công ty đã nói dối về mức độ nghiêm trọng của vụ xâm nhập",
-        "Tố cáo công ty không thông báo cho khách hàng về vụ xâm nhập",
-        "Kết luận rằng công ty đã vi phạm luật bảo vệ thông tin cá nhân",
-        "Kêu gọi công ty phải bồi thường cho những người bị ảnh hưởng"
-      ],
-      "full_summary": "Chủ tịch California Rob Bonta đã kiện công ty di truyền 23andMe kế thừa vì vụ xâm nhập dữ liệu năm 2023. Ông kết luận rằng công ty đã nói dối về mức độ nghiêm trọng của vụ xâm nhập và không thông báo cho khách hàng. Điều này là một vi phạm luật bảo vệ thông tin cá nhân. Bonta kêu gọi công ty phải bồi thường cho những người bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d3a3ce7acc4e",
-      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
-      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-05-31T19:06:40.537696+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một người Congo tử vong sau bị cảnh sát bảo vệ bắt giữ",
-      "bullets": [
-        "Cảnh sát Ireland đang điều tra vụ việc một người Congo tử vong sau bị cảnh sát bảo vệ bắt giữ",
-        "Một cuộc khám nghiệm tử thi độc lập sẽ được tiến hành bởi một bác sĩ pháp y từ Anh",
-        "Vụ việc đã gây ra sự phẫn nộ và so sánh với vụ việc George Floyd",
-        "Cơ quan chức năng Ireland đã đồng ý tiến hành một cuộc khám nghiệm tử thi thứ hai"
-      ],
-      "full_summary": "Một người Congo tên Yves Sakila đã tử vong sau khi bị cảnh sát bảo vệ bắt giữ trên đường phố Dublin. Vụ việc đã gây ra sự phẫn nộ và so sánh với vụ việc George Floyd. Cơ quan chức năng Ireland đang điều tra vụ việc và đã đồng ý tiến hành một cuộc khám nghiệm tử thi thứ hai.",
       "comments": 0,
       "score": 0
     }
