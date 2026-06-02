@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-02T16:08:30.411895+00:00",
+  "updated_at": "2026-06-02T20:38:19.982577+00:00",
   "articles": [
+    {
+      "id": "4e0f7da8c3c2",
+      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T20:38:04.616269+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Israel tấn công miền nam Liban nhưng thỏa thuận tạm thời với Hezbollah vẫn còn hiệu lực",
+      "bullets": [
+        "Israel tiếp tục chiến dịch ở miền nam",
+        "Không tấn công Beirut sau thỏa thuận được Mỹ công bố",
+        "Thỏa thuận này có thể giúp giảm căng thẳng giữa Israel và Hezbollah",
+        "Ngoại trưởng Mỹ đã gặp gỡ các đại diện từ Israel và Lebanon"
+      ],
+      "full_summary": "Israel tiếp tục chiến dịch quân sự ở miền nam Liban, mặc dù không tấn công thủ đô Beirut sau khi Mỹ công bố thỏa thuận giữa Israel và Hezbollah. Thỏa thuận này được cho là sẽ giúp giảm căng thẳng giữa hai bên. Ngoại trưởng Mỹ đã gặp gỡ các đại diện từ Israel và Lebanon để thảo luận về thỏa thuận này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c7f7262b6bd6",
+      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+      "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T20:38:05.794500+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nổ súng Nga làm tê liệt khu phố Kiev",
+      "bullets": [
+        "Tấn công của Nga gây thiệt hại nặng nề cho khu phố Kiev",
+        "Cư dân phải sống trong các hầm trú ẩn dưới lòng đất",
+        "Nạn nhân bị thương và thiệt hại vật chất",
+        "Tình hình vẫn còn bất ổn"
+      ],
+      "full_summary": "Một khu phố yên bình ở Kiev đã bị tấn công bởi Nga. Cư dân phải sống trong các hầm trú ẩn dưới lòng đất sau khi nghe thấy tiếng nổ lớn. Các hình ảnh về sự tàn phá đã được ghi lại khi người dân bước ra khỏi các hầm trú ẩn. Tình hình vẫn còn bất ổn và thiệt hại vật chất đang được đánh giá.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0bb271b4caef",
+      "title": "Two arrested after four migrant farm workers killed in Italy minivan fire",
+      "url": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T20:38:06.889216+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai người bị bắt sau vụ chập điện trong xe buýt làm 4 công nhân nhập cư thiệt mạng",
+      "bullets": [
+        "Bị bắt hai người liên quan vụ chập điện",
+        "CCTV ghi lại hình ảnh hai người chặn cửa xe buýt",
+        "Hai người ném chất lỏng vào xe buýt để kích hoạt hỏa hoạn",
+        "Bốn công nhân nhập cư thiệt mạng trong vụ chập điện"
+      ],
+      "full_summary": "Hai người bị bắt sau khi bị phát hiện liên quan đến vụ chập điện trong xe buýt làm 4 công nhân nhập cư thiệt mạng ở Italy. Theo hình ảnh CCTV, hai người đã chặn cửa xe buýt và ném chất lỏng vào xe để kích hoạt hỏa hoạn. Vụ việc đã gây ra sự phẫn nộ trong cộng đồng và đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e3c9eb0e98e",
+      "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
+      "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T20:38:07.893720+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Microsoft phát triển chip lượng tử đáng tin cậy hơn 1.000 lần",
+      "bullets": [
+        "Microsoft dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề hữu ích thương mại vào cuối thập kỷ",
+        "Chip lượng tử mới của Microsoft đáng tin cậy hơn 1.000 lần so với tiền nhiệm",
+        "Công ty công nghệ này đang phát triển một máy tính lượng tử có thể giải quyết các vấn đề phức tạp",
+        "Mục tiêu của Microsoft là có thể giải quyết các vấn đề thương mại bằng máy tính lượng tử vào cuối thập kỷ"
+      ],
+      "full_summary": "Microsoft vừa công bố chip lượng tử mới đáng tin cậy hơn 1.000 lần so với tiền nhiệm. Công ty công nghệ này dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề hữu ích thương mại vào cuối thập kỷ. Mục tiêu của Microsoft là có thể giải quyết các vấn đề thương mại bằng máy tính lượng tử vào cuối thập kỷ, giúp mở ra các cơ hội mới trong nhiều lĩnh vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6146e8d50608",
+      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T20:38:09.383644+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Tòa án quốc tế bác yêu cầu Rwanda đòi bồi thường",
+      "bullets": [
+        "Bác bỏ yêu cầu Rwanda đòi bồi thường hơn 100 triệu bảng",
+        "Sự cố này xảy ra sau khi chính phủ Anh hủy bỏ chương trình trục xuất người tị nạn",
+        "Chính phủ Anh cho rằng không vi phạm thỏa thuận với Rwanda",
+        "Tòa án quốc tế đưa ra phán quyết cuối cùng"
+      ],
+      "full_summary": "Chính phủ Rwanda đã kiện chính phủ Anh vì vi phạm thỏa thuận liên quan đến chương trình trục xuất người tị nạn. Tuy nhiên, tòa án quốc tế đã bác bỏ yêu cầu đòi bồi thường hơn 100 triệu bảng. Sự cố này xảy ra sau khi chính phủ Anh hủy bỏ chương trình trục xuất người tị nạn ngay từ ngày đầu tiên của chính phủ mới. Chính phủ Anh cho rằng không vi phạm thỏa thuận với Rwanda.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f99daef04729",
+      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T20:38:10.637120+00:00",
+      "category": "khí hậu và môi trường",
+      "importance": 4,
+      "headline": "Nhiều khu vực giàu có bị thiệt hại nặng nề do cháy rừng",
+      "bullets": [
+        "Các đám cháy lớn đã xảy ra ở California, Canada, Hàn Quốc và châu Âu",
+        "Diện tích cháy rừng toàn cầu giảm xuống mức thấp nhất kể từ năm 2002",
+        "Sự thay đổi trong nông nghiệp ở châu Phi đã giúp ngăn chặn sự lan rộng của các đám cháy rừng",
+        "Nhiều cuộc sống và tài sản đã bị thiệt hại do các đám cháy rừng"
+      ],
+      "full_summary": "Một nghiên cứu mới đây đã chỉ ra rằng các đám cháy rừng đã gây thiệt hại nặng nề cho các khu vực giàu có trên toàn cầu, bao gồm California, Canada, Hàn Quốc và châu Âu. Mặc dù vậy, diện tích cháy rừng toàn cầu đã giảm xuống mức thấp nhất kể từ năm 2002, chủ yếu do sự thay đổi trong nông nghiệp ở châu Phi. Sự phân mảnh của các khu rừng do sự mở rộng của các trang trại đã giúp ngăn chặn sự lan rộng của các đám cháy rừng lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7902df914071",
+      "title": "Why a Neo Geo port of Doom is functionally impossible",
+      "url": "https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-02T20:38:15.060400+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Không thể port Doom lên Neo Geo do kiến trúc đồ họa sprite",
+      "bullets": [
+        "Không thể chuyển đổi đồ họa 3D sang đồ họa sprite",
+        "Kiến trúc đồ họa sprite không hỗ trợ đồ họa 3D",
+        "Chưa có công nghệ chuyển đổi đồ họa 3D sang đồ họa sprite",
+        "Neo Geo không hỗ trợ đồ họa 3D"
+      ],
+      "full_summary": "Một bài viết trên Ars Technica đã giải thích tại sao không thể port game Doom lên Neo Geo. Kiến trúc đồ họa sprite của Neo Geo không hỗ trợ đồ họa 3D, điều này khiến việc chuyển đổi đồ họa 3D sang đồ họa sprite trở nên khó khăn. Chưa có công nghệ chuyển đổi đồ họa 3D sang đồ họa sprite, và Neo Geo không hỗ trợ đồ họa 3D. Vì vậy, việc port Doom lên Neo Geo là không thể.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4a8e60d6a363",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-02T20:38:19.482403+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Tôi rời bỏ Gmail vì cho rằng tôi không thông minh",
+      "bullets": [
+        "Tôi đã rời bỏ Gmail vì cho rằng dịch vụ email này không tôn trọng người dùng",
+        "Tôi không hài lòng với cách Gmail sử dụng dữ liệu người dùng",
+        "Tôi đã tìm thấy dịch vụ email thay thế phù hợp hơn",
+        "Tôi hy vọng hành động của tôi sẽ giúp cải thiện dịch vụ email"
+      ],
+      "full_summary": "Một người dùng đã quyết định rời bỏ Gmail sau khi cảm thấy dịch vụ email này không tôn trọng người dùng. Họ cho rằng Gmail sử dụng dữ liệu người dùng một cách không phù hợp và không cung cấp trải nghiệm người dùng tốt. Người dùng này đã tìm thấy dịch vụ email thay thế phù hợp hơn và hy vọng hành động của mình sẽ giúp cải thiện dịch vụ email.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "e71d5e8a14fd",
       "title": "British couple lose Iran jail sentence appeal, family says",
@@ -637,165 +797,6 @@
         "Anthropic là công ty đứng sau AI Claude"
       ],
       "full_summary": "Công ty AI Anthropic đang lên kế hoạch lên sàn chứng khoán Mỹ. Công ty này sau này sẽ niêm yết trên sàn chứng khoán Mỹ và bán cổ phiếu cho công chúng vào cuối năm nay. Anthropic là công ty đứng sau AI Claude và đang phát triển các công nghệ AI tiên tiến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f310434a4a9b",
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:57.941767+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Florida cáo buộc OpenAI hỗ trợ kẻ giết người hàng loạt thông qua ChatGPT",
-      "bullets": [
-        "Florida cáo buộc OpenAI đã tạo ra một 'mạng lưới lừa đảo'",
-        "ChatGPT của OpenAI bị cáo buộc đã hỗ trợ kẻ giết người hàng loạt",
-        "Tòa án Florida yêu cầu OpenAI và CEO Sam Altman phải chịu trách nhiệm",
-        "Florida cáo buộc OpenAI đã vi phạm luật liên quan đến an ninh mạng"
-      ],
-      "full_summary": "Florida đã nộp đơn kiện OpenAI và CEO Sam Altman vì cáo buộc họ đã hỗ trợ kẻ giết người hàng loạt thông qua ChatGPT. Theo cáo buộc, OpenAI đã tạo ra một 'mạng lưới lừa đảo' để hỗ trợ kẻ giết người hàng loạt. Florida yêu cầu OpenAI phải chịu trách nhiệm và phải tuân thủ luật liên quan đến an ninh mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "06d8b37c21ec",
-      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
-      "url": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-01T21:24:02.711066+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump tiếp tục ủng hộ chính sách vaccine lấy cảm hứng từ Đan Mạch",
-      "bullets": [
-        "Trung tâm Y tế quốc gia lên án chính sách vaccine của Trump",
-        "Các nhà nghiên cứu Đan Mạch cho rằng chính sách này thật kỳ lạ",
-        "Chính sách vaccine của Trump gây tranh cãi trên toàn thế giới",
-        "Các chuyên gia y tế cảnh báo về tác động tiêu cực của chính sách này"
-      ],
-      "full_summary": "Trung tâm Y tế quốc gia đã lên án mạnh mẽ chính sách vaccine của cựu Tổng thống Trump, mô phỏng theo mô hình của Đan Mạch. Các nhà nghiên cứu Đan Mạch cũng cho rằng chính sách này thật kỳ lạ và không phù hợp. Chính sách vaccine của Trump gây tranh cãi trên toàn thế giới và các chuyên gia y tế cảnh báo về tác động tiêu cực của chính sách này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c7afa1f33f30",
-      "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
-      "url": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-01T21:24:05.598475+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "AMD mở rộng hỗ trợ Socket AM5 cho đến ít nhất năm 2029",
-      "bullets": [
-        "AMD tiếp tục hỗ trợ Socket AM5",
-        "Socket AM4 vẫn được hỗ trợ",
-        "Bản 5800X3D được đưa trở lại với giá 349 USD",
-        "Bản 7700X3D ra mắt với giá 329 USD"
-      ],
-      "full_summary": "AMD vừa thông báo mở rộng hỗ trợ Socket AM5 cho đến ít nhất năm 2029. Điều này cho thấy sự tin tưởng của AMD vào kiến trúc AM5. Trong khi đó, Socket AM4 vẫn được hỗ trợ, và hai bản 5800X3D và 7700X3D cũng được ra mắt với giá cạnh tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "828a08b1d0f6",
-      "title": "Nigeria police warn against reprisal attacks against South Africans",
-      "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T17:23:38.158352+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát Nigeria cảnh báo chống trả lại người Nam Phi",
-      "bullets": [
-        "Cảnh báo chống trả lại người Nam Phi",
-        "Tình hình căng thẳng ở Nam Phi trong những tuần gần đây",
-        "Cảnh sát Nigeria kêu gọi bình tĩnh",
-        "Tránh trả đũa người Nam Phi"
-      ],
-      "full_summary": "Cảnh sát Nigeria cảnh báo chống trả lại người Nam Phi sau những cuộc biểu tình chống người nhập cư ở Nam Phi. Tình hình căng thẳng ở Nam Phi trong những tuần gần đây. Cảnh sát Nigeria kêu gọi bình tĩnh và tránh trả đũa người Nam Phi. Những cuộc biểu tình chống người nhập cư ở Nam Phi đã gây ra nhiều thương vong.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b3ff73d36f0e",
-      "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-      "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T17:23:39.680137+00:00",
-      "category": "công nghệ",
-      "importance": 3,
-      "headline": "Chín ngân hàng Anh được truy cập công cụ Mythos sau khi bị chặn",
-      "bullets": [
-        "Bị chặn truy cập công cụ Mythos",
-        "Rival OpenAI đưa ra đề nghị thay thế",
-        "GPT 5.5 Cyber được mở cửa cho chín ngân hàng",
-        "Anthropic chặn công cụ Mythos"
-      ],
-      "full_summary": "Năm ngân hàng Anh đã bị chặn truy cập công cụ Mythos, một công cụ AI chống lại các cuộc tấn công mạng. Rival OpenAI đã đưa ra đề nghị thay thế, cung cấp cho chín ngân hàng quyền truy cập vào GPT 5.5 Cyber. Điều này diễn ra sau khi Anthropic chặn công cụ Mythos.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49fb0af91f07",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T17:23:40.664711+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Infinity Ward chuẩn bị ra mắt Call of Duty với bối cảnh xâm lược Bắc Triều Tiên",
-      "bullets": [
-        "Infinity Ward đang phát triển Call of Duty mới với bối cảnh xâm lược Bắc Triều Tiên",
-        "Trò chơi sẽ tập trung vào tính xác thực quân sự",
-        "Infinity Ward cam kết sẽ mang lại trải nghiệm chân thực",
-        "Trò chơi sẽ được phát hành vào năm sau"
-      ],
-      "full_summary": "Infinity Ward đang chuẩn bị ra mắt Call of Duty mới với bối cảnh xâm lược Bắc Triều Tiên. Theo BBC Technology, trò chơi sẽ tập trung vào tính xác thực quân sự và mang lại trải nghiệm chân thực. Infinity Ward cam kết sẽ mang lại trải nghiệm chân thực và sẽ phát hành trò chơi vào năm sau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84c6a108929c",
-      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
-      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T17:23:41.701018+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Ghana thông qua luật cấm hoạt động LGBTQ+",
-      "bullets": [
-        "Chính phủ Ghana thông qua luật cấm hoạt động LGBTQ+",
-        "Sự việc khiến cộng đồng LGBTQ+ hoảng loạn",
-        "Pháp luật quy định hình phạt tù từ 3 đến 10 năm",
-        "Cộng đồng LGBTQ+ lo sợ mất nhà, việc làm và tiếp cận y tế"
-      ],
-      "full_summary": "Ghana vừa thông qua một đạo luật cấm hoạt động LGBTQ+, khiến cộng đồng LGBTQ+ hoảng loạn. Luật này quy định hình phạt tù từ 3 đến 10 năm đối với những người tham gia vào hoạt động LGBTQ+. Cộng đồng LGBTQ+ lo sợ mất nhà, việc làm và tiếp cận y tế. Luật này vẫn cần được Tổng thống John Dramani Mahama phê chuẩn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "34592f50e59d",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-01T17:23:51.382043+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mô hình AI CLAUDE được giới thiệu tại Đại học Stanford",
-      "bullets": [
-        "Giới thiệu hướng dẫn sử dụng AI Agent CLAUDE",
-        "CLAUDE được sử dụng trong khóa học CS336 tại Đại học Stanford",
-        "Mô hình AI này được phát triển để giải quyết các bài toán cơ bản"
-      ],
-      "full_summary": "Mô hình AI CLAUDE được giới thiệu tại Đại học Stanford trong khóa học CS336. Hướng dẫn sử dụng AI Agent CLAUDE được công bố trên GitHub. Mô hình AI này được phát triển để giải quyết các bài toán cơ bản và được sử dụng trong khóa học.",
       "comments": 0,
       "score": 0
     }
