@@ -1,6 +1,206 @@
 {
-  "updated_at": "2026-06-02T02:53:15.044869+00:00",
+  "updated_at": "2026-06-02T10:10:41.593170+00:00",
   "articles": [
+    {
+      "id": "ceb7779102fe",
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:25.646821+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai người bị bắn chết trong cuộc biểu tình ở Kenya phản đối trung tâm cách ly Ebola",
+      "bullets": [
+        "Phát hiện 2 người bị bắn chết trong cuộc biểu tình ở Kenya",
+        "Người dân phản đối kế hoạch xây dựng trung tâm cách ly Ebola do Mỹ đề xuất",
+        "Kế hoạch của Mỹ đã gây ra sự phẫn nộ và dẫn đến các cuộc biểu tình gần khu vực dự định xây dựng cơ sở vật chất",
+        "Các cuộc biểu tình đã diễn ra gần khu vực dự định xây dựng trung tâm cách ly Ebola"
+      ],
+      "full_summary": "Các cuộc biểu tình đã diễn ra ở Kenya sau khi kế hoạch của Mỹ về trung tâm cách ly Ebola được công bố. Kế hoạch này đã gây ra sự phẫn nộ và dẫn đến các cuộc biểu tình gần khu vực dự định xây dựng cơ sở vật chất. Hai người đã bị bắn chết trong các cuộc biểu tình. Các cuộc biểu tình đã diễn ra để phản đối kế hoạch xây dựng trung tâm cách ly Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "91d07329a9a7",
+      "title": "Why Myanmar president's India visit is being closely watched",
+      "url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:26.699011+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Myanmar tăng cường quan hệ ngoại giao sau nhiều năm bị cô lập quốc tế",
+      "bullets": [
+        "Myanmar đang tìm kiếm cơ hội mở rộng quan hệ ngoại giao",
+        "Bà Aung San Suu Kyi sẽ thăm Ấn Độ để tăng cường hợp tác kinh tế",
+        "Quốc gia này đang cố gắng thoát khỏi tình trạng cô lập quốc tế",
+        "Động thái này được xem là bước đầu tiên trong nỗ lực tái hòa nhập quốc tế"
+      ],
+      "full_summary": "Myanmar đang tìm kiếm cơ hội mở rộng quan hệ ngoại giao sau nhiều năm bị cô lập quốc tế. Tổng thống bà Aung San Suu Kyi sắp tới thăm Ấn Độ để tăng cường hợp tác kinh tế. Đây là bước đầu tiên trong nỗ lực tái hòa nhập quốc tế của Myanmar. Các chuyên gia cho rằng chuyến thăm này sẽ giúp Myanmar mở rộng quan hệ với các quốc gia khác và thoát khỏi tình trạng cô lập.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d43d9aaaa39d",
+      "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:27.625670+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chính phủ Trump đồng ý tuân thủ phán quyết tạm dừng quỹ 1,8 tỷ USD",
+      "bullets": [
+        "Tạm dừng quỹ chống vũ khí hóa 1,8 tỷ USD",
+        "Bộ Tư pháp Mỹ phản đối phán quyết của tòa án",
+        "Chính phủ Mỹ sẽ tuân thủ phán quyết của tòa án",
+        "Quỹ chống vũ khí hóa được thiết lập để ngăn chặn việc sử dụng vũ khí hóa học"
+      ],
+      "full_summary": "Chính phủ Trump đã tuyên bố sẽ tuân thủ phán quyết của tòa án tạm dừng quỹ 1,8 tỷ USD chống vũ khí hóa. Bộ Tư pháp Mỹ đã phản đối phán quyết này, nhưng chính phủ Mỹ sẽ tuân thủ quyết định của tòa án. Quỹ chống vũ khí hóa được thiết lập để ngăn chặn việc sử dụng vũ khí hóa học.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c4a1d4215d98",
+      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:28.677021+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Trung Quốc tấn công 'kitchen ma' để kiểm soát các ứng dụng giao hàng cạnh tranh",
+      "bullets": [
+        "Trung Quốc đang cracking down các 'kitchen ma' không tồn tại",
+        "Các ứng dụng giao hàng cạnh tranh đang gây lo ngại cho người tiêu dùng",
+        "Bắc Kinh muốn kiểm soát thị trường giao hàng",
+        "Các công ty giao hàng đang phải đối mặt với những thách thức mới"
+      ],
+      "full_summary": "Trung Quốc đang tiến hành một chiến dịch để cracking down các 'kitchen ma' không tồn tại. Các 'kitchen ma' này là các nhà hàng trực tuyến không có mặt bằng thực sự, nhưng vẫn cung cấp dịch vụ giao hàng. Các ứng dụng giao hàng cạnh tranh đang gây lo ngại cho người tiêu dùng Trung Quốc. Bắc Kinh muốn kiểm soát thị trường giao hàng để ngăn chặn sự cạnh tranh không lành mạnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "38a55329cf26",
+      "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
+      "url": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:29.765720+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu bộ trưởng Úc khởi xướng điều tra về thỏa thuận tàu ngầm Aukus",
+      "bullets": [
+        "Khởi xướng điều tra về thỏa thuận tàu ngầm Aukus",
+        "Điều tra xem Australia có nhận được tàu ngầm hay không",
+        "Kiểm tra liệu thỏa thuận này có làm cho Australia an toàn hơn hay không",
+        "Điều tra được tài trợ thông qua đợt gây quỹ của dân"
+      ],
+      "full_summary": "Cựu bộ trưởng Úc đã khởi xướng một điều tra về thỏa thuận tàu ngầm Aukus giữa Úc, Mỹ và Anh. Điều tra này sẽ xem xét liệu Australia có nhận được tàu ngầm theo thỏa thuận hay không và liệu thỏa thuận này có làm cho Australia an toàn hơn hay không. Điều tra được tài trợ thông qua đợt gây quỹ của dân. Điều tra này sẽ giúp người dân Úc hiểu rõ hơn về thỏa thuận tàu ngầm Aukus.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f4f2751e208",
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:30.688812+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "BMW sử dụng robot người mẫu trong nhà máy sản xuất ô tô",
+      "bullets": [
+        "BMW giới thiệu robot người mẫu vào nhà máy sản xuất ô tô ở châu Âu",
+        "Sự ra mắt này dựa trên các dự án tương tự ở Mỹ",
+        "Robot sẽ giúp tăng năng suất và giảm chi phí sản xuất",
+        "Công nghệ này được coi là tương lai của ngành công nghiệp ô tô"
+      ],
+      "full_summary": "BMW đang giới thiệu robot người mẫu vào một nhà máy sản xuất ô tô ở châu Âu. Sự ra mắt này dựa trên các dự án tương tự ở Mỹ. Công ty hy vọng rằng công nghệ này sẽ giúp tăng năng suất và giảm chi phí sản xuất. BMW coi robot người mẫu là tương lai của ngành công nghiệp ô tô.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "066fdcaf4226",
+      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:32.246977+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "California cáo buộc công ty di truyền 23andMe bị xâm phạm dữ liệu",
+      "bullets": [
+        "California cáo buộc công ty di truyền 23andMe bị xâm phạm dữ liệu",
+        "Công ty này đã bị xâm phạm dữ liệu vào năm 2023",
+        "Thống đốc Rob Bonta cáo buộc công ty này đã nói dối về mức độ nghiêm trọng của vụ xâm phạm",
+        "Công ty này là một phần của công ty mới sau khi 23andMe được mua lại"
+      ],
+      "full_summary": "Thống đốc California Rob Bonta đã kiện công ty di truyền kế thừa của 23andMe vì vụ xâm phạm dữ liệu vào năm 2023. Ông cáo buộc công ty này đã nói dối về mức độ nghiêm trọng của vụ xâm phạm. Vụ kiện này là một phần của nỗ lực của chính phủ để bảo vệ người dân khỏi các vụ xâm phạm dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4e2f2a3098df",
+      "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
+      "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:33.488792+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "5 công dân Mozambique thiệt mạng trong vụ tấn công phân biệt chủng tộc ở Nam Phi",
+      "bullets": [
+        "Hàng trăm người Mozambique bị bắt giữ trong vụ bạo động tại Mossel Bay",
+        "Vụ tấn công phân biệt chủng tộc ở Nam Phi khiến 5 công dân Mozambique thiệt mạng",
+        "Tình trạng bạo động ở Nam Phi đang lan rộng và ảnh hưởng đến nhiều người nhập cư",
+        "Chính phủ Mozambique lên án vụ tấn công và kêu gọi Nam Phi tăng cường bảo vệ người nhập cư"
+      ],
+      "full_summary": "Chính phủ Mozambique vừa thông báo 5 công dân của họ đã thiệt mạng trong vụ tấn công phân biệt chủng tộc ở Nam Phi. Vụ tấn công xảy ra tại thành phố Mossel Bay, nơi khoảng 800 công dân Mozambique đã bị bắt giữ. Tình trạng bạo động đang lan rộng ở Nam Phi và ảnh hưởng đến nhiều người nhập cư. Chính phủ Mozambique lên án vụ tấn công và kêu gọi Nam Phi tăng cường bảo vệ người nhập cư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3d6b0742843a",
+      "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
+      "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-02T10:10:34.514042+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "WHO kêu gọi cộng đồng hợp tác để kiểm soát dịch Ebola tại DRC",
+      "bullets": [
+        "WHO kêu gọi cộng đồng hợp tác để kiểm soát dịch Ebola tại DRC",
+        "Tedros Adhanom Ghebreyesus thăm đông Congo để kêu gọi hợp tác",
+        "Cộng đồng phản đối quy trình xử lý thi thể nạn nhân",
+        "WHO nhấn mạnh dịch Ebola là 'mọi người đều có trách nhiệm'"
+      ],
+      "full_summary": "WHO kêu gọi cộng đồng hợp tác để kiểm soát dịch Ebola tại Cộng hòa Dân chủ Congo. Theo World Health Organization, dịch Ebola cần sự hợp tác của cộng đồng và là 'mọi người đều có trách nhiệm'. Trong chuyến thăm đông Congo, Giám đốc Điều hành Tedros Adhanom Ghebreyesus đã kêu gọi cộng đồng hợp tác để kiểm soát dịch bệnh. Tuy nhiên, một số cư dân đã phản đối quy trình xử lý thi thể nạn nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11748ef68e7b",
+      "title": "Why cats prefer silver vine to catnip and other May highlights",
+      "url": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-02T10:10:37.141963+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Cóc và mèo thích bạc thảo hơn lá catnip",
+      "bullets": [
+        "Khám phá mỏ vàng cổ đại ở Pyrenees",
+        "Tìm thấy loài octopus nhỏ màu xanh mới",
+        "Nghiên cứu về âm thanh hài hước",
+        "Cây bạc thảo có tác dụng kích thích mèo"
+      ],
+      "full_summary": "Một nghiên cứu mới chỉ ra rằng mèo thích bạc thảo hơn lá catnip. Các nhà khoa học đã tìm thấy một số loài động vật mới, bao gồm một loài octopus nhỏ màu xanh. Họ cũng nghiên cứu về âm thanh hài hước và khám phá mỏ vàng cổ đại ở Pyrenees.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "240a0a0a0dba",
       "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
@@ -597,205 +797,6 @@
         "Tuyến xe buýt sẽ hoạt động trở lại sau nhiều năm bị dừng hoạt động"
       ],
       "full_summary": "Đường sắt 666 đến Hel sẽ hoạt động trở lại sau nhiều năm bị dừng hoạt động. Tuyến xe buýt này từng bị phản đối từ các nhóm Kitô giáo vì số 666 được coi là số của quỷ. Tuy nhiên, chính quyền địa phương đã quyết định phục vụ du khách đến khu du lịch Hel. Đường sắt 666 sẽ phục vụ du khách đến khu du lịch Hel.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4209c4be6e26",
-      "title": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
-      "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T11:15:03.855483+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Các tội phạm rác ở Shibuya sẽ bị phạt ngay lập tức",
-      "bullets": [
-        "Đại diện chính phủ sẽ tuần tra Shibuya để ngăn chặn rác thải",
-        "Số lượng lớn người dân bị ảnh hưởng bởi du lịch quá mức",
-        "Chính phủ Nhật Bản phản ứng trước tác động của du lịch quá mức",
-        "Các tội phạm rác sẽ bị phạt ngay lập tức tại Shibuya"
-      ],
-      "full_summary": "Chính phủ Nhật Bản đã quyết định tăng cường tuần tra tại Shibuya để ngăn chặn tội phạm rác. Dozens của các quan chức sẽ tuần tra khu vực này để phạt các tội phạm rác ngay lập tức. Điều này là một phần của nỗ lực ngăn chặn tác động của du lịch quá mức. Các tội phạm rác ở Shibuya sẽ bị phạt ngay lập tức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6146e8d50608",
-      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T11:15:04.831082+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Anh không phải trả Rwanda 100 triệu bảng",
-      "bullets": [
-        "Rwanda kiện Anh vì vi phạm thỏa thuận",
-        "Chính phủ Anh không phải trả 100 triệu bảng",
-        "Tòa án quốc tế bác yêu cầu của Rwanda",
-        "Chương trình di dời người tị nạn bị đình chỉ"
-      ],
-      "full_summary": "Rwanda đã kiện chính phủ Anh vì vi phạm thỏa thuận liên quan đến chương trình di dời người tị nạn. Chương trình này đã bị đình chỉ ngay từ ngày đầu tiên khi chính phủ Labour lên cầm quyền. Tòa án quốc tế đã bác yêu cầu của Rwanda, cho rằng Anh không phải trả 100 triệu bảng. Đây là một quyết định quan trọng trong lĩnh vực chính trị và pháp lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f99daef04729",
-      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
-      "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T11:15:06.699664+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều khu vực giàu có bị thiệt hại nặng nề do cháy rừng",
-      "bullets": [
-        "Các đám cháy rừng khổng lồ đã xảy ra ở California, Canada, Hàn Quốc và châu Âu",
-        "Số diện tích bị cháy rừng toàn cầu giảm xuống còn 335 triệu ha, thấp nhất kể từ năm 2002",
-        "Sự mở rộng của các trang trại ở châu Phi đã giúp ngăn chặn sự lan rộng của các đám cháy rừng",
-        "Các đám cháy rừng đã gây thiệt hại về người, nhà và việc làm ở nhiều khu vực"
-      ],
-      "full_summary": "Một nghiên cứu mới đây đã chỉ ra rằng các đám cháy rừng đã xảy ra ở nhiều khu vực giàu có trên thế giới, bao gồm California, Canada, Hàn Quốc và châu Âu. Mặc dù vậy, diện tích bị cháy rừng toàn cầu đã giảm xuống còn 335 triệu ha, thấp nhất kể từ năm 2002. Sự mở rộng của các trang trại ở châu Phi đã giúp ngăn chặn sự lan rộng của các đám cháy rừng, nhưng các đám cháy rừng vẫn gây thiệt hại về người, nhà và việc làm ở nhiều khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d69aea5dcbfb",
-      "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
-      "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T11:15:09.225989+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Colombia bầu cử tổng thống với ứng cử viên có quan điểm khác biệt",
-      "bullets": [
-        "Colombia tổ chức bầu cử tổng thống",
-        "Ứng cử viên tranh cử có quan điểm khác biệt về hòa bình",
-        "Bầu cử được coi là một cuộc trưng cầu ý kiến về chính sách của Tổng thống Gustavo Petro",
-        "Colombia đã ký hiệp ước hòa bình với FARC 10 năm trước"
-      ],
-      "full_summary": "Colombia đang tổ chức bầu cử tổng thống với ứng cử viên có quan điểm khác biệt về hòa bình. Bầu cử được coi là một cuộc trưng cầu ý kiến về chính sách của Tổng thống Gustavo Petro. 10 năm trước, Colombia đã ký hiệp ước hòa bình với FARC sau nhiều thập kỷ xung đột. Ứng cử viên tranh cử có quan điểm khác biệt về hòa bình và chính sách của Tổng thống Gustavo Petro.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ccb2a7cfa0ac",
-      "title": "Why are large language models so terrible at video games?",
-      "url": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-01T11:15:13.785897+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mô hình ngôn ngữ lớn yếu kém trong trò chơi video",
-      "bullets": [
-        "Làm việc kém hiệu quả trong trò chơi video",
-        "Không thể học hỏi và thích nghi",
-        "Yếu kém trong xử lý tình huống phức tạp"
-      ],
-      "full_summary": "Mô hình ngôn ngữ lớn (LLM) được thiết kế để xử lý ngôn ngữ tự nhiên, nhưng chúng lại yếu kém trong trò chơi video. Lý do là vì LLM không thể học hỏi và thích nghi như con người, và chúng cũng yếu kém trong xử lý tình huống phức tạp. Điều này đã được chứng minh trong một số nghiên cứu gần đây, trong đó LLM không thể vượt qua các trò chơi video đơn giản.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d07f76ac5cb0",
-      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T02:55:55.226315+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch Colombia sắp được bầu: Cepeda và de la Espriella đua tới cuối",
-      "bullets": [
-        "Sẽ diễn ra vòng bầu cử cuối cùng vào ngày 21 tháng 6",
-        "Iván Cepeda sẽ đối đầu với Abelardo de la Espriella",
-        "Cepeda là một nhà lập pháp cánh tả, de la Espriella là người hâm mộ của Trump",
-        "Vòng bầu cử cuối cùng sẽ quyết định người kế nhiệm Tổng thống Colombia"
-      ],
-      "full_summary": "Vòng bầu cử cuối cùng của cuộc bầu cử tổng thống Colombia sắp diễn ra vào ngày 21 tháng 6. Đứng trước vòng cuối cùng là hai ứng cử viên: Iván Cepeda, một nhà lập pháp cánh tả, và Abelardo de la Espriella, người hâm mộ của Tổng thống Mỹ Donald Trump. Cepeda và de la Espriella sẽ phải cạnh tranh để giành chiến thắng và trở thành người kế nhiệm Tổng thống Colombia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3dbca98614ff",
-      "title": "Trump seeking edits to US-Iran deal, US media report",
-      "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T02:55:56.217946+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Trump tìm cách sửa đổi thỏa thuận với Iran",
-      "bullets": [
-        "Trump yêu cầu sửa đổi thỏa thuận về eo biển Hormuz",
-        "Nuclear Iran sẽ phải loại bỏ uranium giàu phóng xạ",
-        "Thỏa thuận mới sẽ ảnh hưởng đến quan hệ Mỹ - Iran",
-        "Mỹ và Iran đang đàm phán về các điều khoản mới"
-      ],
-      "full_summary": "Theo báo chí Mỹ, Tổng thống Trump đang tìm cách sửa đổi thỏa thuận hạt nhân với Iran. Các yêu cầu sửa đổi liên quan đến eo biển Hormuz và việc loại bỏ uranium giàu phóng xạ. Điều này có thể ảnh hưởng đến quan hệ giữa Mỹ và Iran. Hai bên đang đàm phán về các điều khoản mới của thỏa thuận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "99ac0486c82e",
-      "title": "Dead whale towed ashore in Denmark ahead of autopsy",
-      "url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T02:55:57.198290+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cá voi chết được kéo lên bờ ở Đan Mạch",
-      "bullets": [
-        "Cá voi Timmy được tìm thấy chết ở ngoài khơi Anholt",
-        "Đội cứu hộ nhiều lần cố gắng cứu nhưng không thành công",
-        "Cơ quan chức năng sẽ tiến hành kiểm tra sau khi kéo lên bờ",
-        "Kết quả sẽ giúp hiểu rõ nguyên nhân cái chết của cá voi"
-      ],
-      "full_summary": "Một con cá voi tên Timmy đã được tìm thấy chết ở ngoài khơi đảo Anholt, Đan Mạch. Mặc dù đội cứu hộ đã nhiều lần cố gắng cứu, nhưng không thành công. Sau khi kéo lên bờ, cơ quan chức năng sẽ tiến hành kiểm tra để hiểu rõ nguyên nhân cái chết của con cá voi. Kết quả sẽ giúp hiểu rõ nguyên nhân cái chết của con cá voi và ngăn chặn những trường hợp tương tự trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e65377b8b76",
-      "title": "King's College team wins access to cutting-edge Google quantum chip",
-      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T02:55:58.283706+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Đội ngũ nghiên cứu của Đại học King's London được truy cập vào chip lượng tử Google tiên tiến",
-      "bullets": [
-        "Được cấp quyền truy cập vào chip lượng tử Google tiên tiến",
-        "Hy vọng sẽ giúp trả lời các câu hỏi chưa từng được trả lời trước đây về các quá trình tự nhiên quan trọng",
-        "Sẽ giúp mở rộng hiểu biết về các quá trình tự nhiên",
-        "Sẽ giúp các nhà nghiên cứu giải quyết các vấn đề chưa được giải quyết trước đây"
-      ],
-      "full_summary": "Đội ngũ nghiên cứu của Đại học King's London đã được cấp quyền truy cập vào chip lượng tử Google tiên tiến. Họ hy vọng rằng chip này sẽ giúp trả lời các câu hỏi chưa từng được trả lời trước đây về các quá trình tự nhiên quan trọng. Điều này sẽ giúp mở rộng hiểu biết về các quá trình tự nhiên và giúp các nhà nghiên cứu giải quyết các vấn đề chưa được giải quyết trước đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c2220c9bbe73",
-      "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
-      "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T02:56:01.107547+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Sự sụt giảm hỗ trợ toàn cầu khiến khủng hoảng Ebola kéo dài hơn",
-      "bullets": [
-        "Sự lây lan nhanh chóng của virus Ebola",
-        "Số người chết tăng lên ít nhất 240",
-        "Sự yếu kém của hỗ trợ toàn cầu khiến khủng hoảng kéo dài",
-        "Sự cần thiết phải tăng cường hỗ trợ y tế"
-      ],
-      "full_summary": "Virus Ebola đang lây lan nhanh chóng ở một số khu vực ở châu Phi. Số người chết do virus này đã tăng lên ít nhất 240 kể từ khi dịch bệnh bắt đầu ở tỉnh Ituri ở Cộng hòa Dân chủ Congo vào đầu tháng này. Các nhà công nghệ y tế đang cố gắng kiểm soát virus trong một môi trường khó khăn, nơi có nhiều người làm việc gần nhau trong các mỏ và có sự xung đột giữa các nhóm phiến quân. Các cơ sở y tế ở khu vực này còn hạn chế và nhiều người bị buộc phải di dời.",
       "comments": 0,
       "score": 0
     }
