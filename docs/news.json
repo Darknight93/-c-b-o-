@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-03T16:23:53.654436+00:00",
+  "updated_at": "2026-06-03T20:50:01.953643+00:00",
   "articles": [
+    {
+      "id": "3fa029023446",
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T20:49:46.483604+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel tấn công Lebanon, khiến chín người thiệt mạng",
+      "bullets": [
+        "Israel tiến hành các cuộc tấn công vào Lebanon",
+        "Hamas bắn rocket qua biên giới",
+        "Các sự kiện gây căng thẳng cho thỏa thuận ngừng bắn tạm thời",
+        "Thỏa thuận ngừng bắn được Israel và nhóm vũ trang Lebanon đồng ý vào thứ Ba"
+      ],
+      "full_summary": "Israel tiến hành các cuộc tấn công vào Lebanon, khiến chín người thiệt mạng, trong khi Hezbollah bắn rocket qua biên giới. Các sự kiện này gây căng thẳng cho thỏa thuận ngừng bắn tạm thời được Israel và nhóm vũ trang Lebanon đồng ý vào thứ Ba. Thỏa thuận ngừng bắn được ký kết nhằm giảm căng thẳng giữa hai bên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f584d5459832",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T20:49:47.870342+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump và Netanyahu có cuộc gọi 'điên rồ' làm phức tạp đàm phán Iran",
+      "bullets": [
+        "Trump và Netanyahu có cuộc gọi gây tranh cãi",
+        "Netanyahu đã thử nghiệm sự kiên nhẫn của các tổng thống Mỹ trước đó",
+        "Cuộc gọi gây khó khăn cho đàm phán Iran",
+        "Netanyahu bác bỏ báo cáo về căng thẳng"
+      ],
+      "full_summary": "Cuộc gọi giữa Tổng thống Trump và Thủ tướng Israel Benjamin Netanyahu đã gây ra sự tranh cãi và phức tạp hóa đàm phán Iran. Theo báo cáo, cuộc gọi này đã thử nghiệm sự kiên nhẫn của các tổng thống Mỹ trước đó. Thủ tướng Netanyahu đã bác bỏ báo cáo về căng thẳng và cho rằng cuộc gọi này chỉ là một cuộc gọi bình thường. Tuy nhiên, cuộc gọi này đã gây khó khăn cho đàm phán Iran và có thể ảnh hưởng đến quá trình đàm phán này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "41c35387ea88",
+      "title": "Director Wim Wenders withdraws 1975 film over actress's teen topless scene",
+      "url": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T20:49:48.827732+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Đạo diễn Wim Wenders rút phim năm 1975 do cảnh khỏa thân của nữ diễn viên",
+      "bullets": [
+        "Wim Wenders rút phim năm 1975 vì cảnh khỏa thân của Nastassja Kinski",
+        "Nastassja Kinski nói đạo diễn không bảo vệ cô khi cô 13 tuổi",
+        "Cảnh khỏa thân được quay khi Nastassja Kinski mới 13 tuổi",
+        "Đạo diễn Wim Wenders rút phim khỏi các rạp chiếu"
+      ],
+      "full_summary": "Đạo diễn Wim Wenders đã rút phim năm 1975 của mình khỏi các rạp chiếu vì cảnh khỏa thân của nữ diễn viên Nastassja Kinski. Nastassja Kinski, người đã xuất hiện trong phim khi cô 13 tuổi, nói đạo diễn không bảo vệ cô. Cảnh khỏa thân được quay khi Nastassja Kinski mới 13 tuổi và đã gây tranh cãi từ lâu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "298da28f3eae",
+      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T20:49:49.864125+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Hacker lừa AI chatbot Instagram để truy cập tài khoản người dùng",
+      "bullets": [
+        "Lừa đảo AI chatbot của Instagram",
+        "Tài khoản người dùng bị truy cập trái phép",
+        "Sự cố liên quan đến các vụ tấn công tài khoản Instagram nổi tiếng",
+        "Câu hỏi về bảo mật của Instagram được đặt ra"
+      ],
+      "full_summary": "Một số báo cáo cho rằng sự cố này liên quan đến các vụ tấn công tài khoản Instagram nổi tiếng gần đây. Hacker đã lừa AI chatbot của Instagram để truy cập trái phép vào tài khoản người dùng. Sự cố này đặt câu hỏi về bảo mật của Instagram và khả năng chống lại các cuộc tấn công mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0c2d74260959",
+      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
+      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T20:49:50.975205+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "WHO cho rằng dịch Ebola ở DRC có thể bắt đầu từ tháng 1",
+      "bullets": [
+        "WHO cho rằng dịch Ebola ở DRC có thể bắt đầu từ tháng 1",
+        "Tedros Adhanom Ghebreyesus chỉ trích các hạn chế di chuyển toàn diện",
+        "Cộng đồng nghi ngờ và thiếu sót trong việc theo dõi liên hệ là mối quan ngại chính",
+        "Cứu hộ đang bắt kịp nhưng vẫn còn nhiều thách thức"
+      ],
+      "full_summary": "Tedros Adhanom Ghebreyesus, người đứng đầu Tổ chức Y tế Thế giới, cho biết dịch Ebola ở Cộng hòa Dân chủ Congo có thể bắt đầu từ tháng 1. Điều này cho thấy virus đã có lợi thế lớn. Ông cũng chỉ trích các hạn chế di chuyển toàn diện và nhấn mạnh rằng cộng đồng nghi ngờ và thiếu sót trong việc theo dõi liên hệ là mối quan ngại chính. Cứu hộ đang bắt kịp nhưng vẫn còn nhiều thách thức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d47579b58361",
+      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
+      "url": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T20:49:52.230965+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hoa Kỳ muốn lập trại cách ly Ebola tại Kenya, dân địa phương lo sợ",
+      "bullets": [
+        "Lo ngại bị lây nhiễm virus Ebola",
+        "Khẳng định Hoa Kỳ áp dụng tiêu chuẩn khác biệt",
+        "Yêu cầu người nước ngoài cách ly tại quê hương",
+        "Critic đánh giá kế hoạch này là không hợp lý"
+      ],
+      "full_summary": "Hoa Kỳ đang có kế hoạch lập trại cách ly Ebola tại Nanyuki, Kenya. Người dân địa phương phản đối mạnh mẽ, lo sợ bị lây nhiễm virus Ebola. Họ cho rằng Hoa Kỳ đang áp dụng tiêu chuẩn khác biệt và yêu cầu người nước ngoài cách ly tại quê hương. Kế hoạch này đã gây ra nhiều tranh cãi và người dân Kenya đang kêu gọi phải xem xét lại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "550e8db84d9f",
+      "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
+      "url": "https://brume.aftertone.co/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-03T20:49:57.926909+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Máy tạo âm thanh Brume ra mắt với 24 giọng nói đa chức năng",
+      "bullets": [
+        "Ra mắt máy tạo âm thanh Brume cho CM5",
+        "Cung cấp 24 giọng nói đa chức năng",
+        "Cho phép tạo âm thanh phong phú và đa dạng"
+      ],
+      "full_summary": "Máy tạo âm thanh Brume là một sản phẩm mới của Aftertone, cho phép tạo âm thanh phong phú và đa dạng với 24 giọng nói đa chức năng. Brume được thiết kế cho CM5 và cung cấp nhiều tính năng mới để giúp người dùng tạo âm thanh chuyên nghiệp. Máy tạo âm thanh Brume đang nhận được sự quan tâm của cộng đồng Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0074385c2ad6",
+      "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
+      "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-03T20:50:01.453440+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Trí gen giúp phôi thai định hình chi",
+      "bullets": [
+        "Phôi thai sử dụng 'phanh gen' để định hình chi",
+        "Khám phá này giúp hiểu rõ hơn về sự phát triển của phôi thai",
+        "Các nhà khoa học tại Đại học Montreal đã thực hiện nghiên cứu này",
+        "Nghiên cứu này có thể giúp cải thiện kỹ thuật phẫu thuật và sinh sản"
+      ],
+      "full_summary": "Các nhà khoa học tại Đại học Montreal đã thực hiện một nghiên cứu quan trọng về sự phát triển của phôi thai. Họ đã phát hiện ra rằng phôi thai sử dụng 'phanh gen' để định hình chi. Khám phá này giúp hiểu rõ hơn về quá trình phát triển của phôi thai và có thể giúp cải thiện kỹ thuật phẫu thuật và sinh sản. Nghiên cứu này sẽ giúp mở đường cho các nghiên cứu tiếp theo về sự phát triển của phôi thai.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f8797851074e",
       "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
@@ -635,165 +794,6 @@
         "Bốn công nhân nhập cư thiệt mạng trong vụ chập điện"
       ],
       "full_summary": "Hai người bị bắt sau khi bị phát hiện liên quan đến vụ chập điện trong xe buýt làm 4 công nhân nhập cư thiệt mạng ở Italy. Theo hình ảnh CCTV, hai người đã chặn cửa xe buýt và ném chất lỏng vào xe để kích hoạt hỏa hoạn. Vụ việc đã gây ra sự phẫn nộ trong cộng đồng và đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7e3c9eb0e98e",
-      "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-      "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T20:38:07.893720+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft phát triển chip lượng tử đáng tin cậy hơn 1.000 lần",
-      "bullets": [
-        "Microsoft dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề hữu ích thương mại vào cuối thập kỷ",
-        "Chip lượng tử mới của Microsoft đáng tin cậy hơn 1.000 lần so với tiền nhiệm",
-        "Công ty công nghệ này đang phát triển một máy tính lượng tử có thể giải quyết các vấn đề phức tạp",
-        "Mục tiêu của Microsoft là có thể giải quyết các vấn đề thương mại bằng máy tính lượng tử vào cuối thập kỷ"
-      ],
-      "full_summary": "Microsoft vừa công bố chip lượng tử mới đáng tin cậy hơn 1.000 lần so với tiền nhiệm. Công ty công nghệ này dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề hữu ích thương mại vào cuối thập kỷ. Mục tiêu của Microsoft là có thể giải quyết các vấn đề thương mại bằng máy tính lượng tử vào cuối thập kỷ, giúp mở ra các cơ hội mới trong nhiều lĩnh vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6146e8d50608",
-      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T20:38:09.383644+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tòa án quốc tế bác yêu cầu Rwanda đòi bồi thường",
-      "bullets": [
-        "Bác bỏ yêu cầu Rwanda đòi bồi thường hơn 100 triệu bảng",
-        "Sự cố này xảy ra sau khi chính phủ Anh hủy bỏ chương trình trục xuất người tị nạn",
-        "Chính phủ Anh cho rằng không vi phạm thỏa thuận với Rwanda",
-        "Tòa án quốc tế đưa ra phán quyết cuối cùng"
-      ],
-      "full_summary": "Chính phủ Rwanda đã kiện chính phủ Anh vì vi phạm thỏa thuận liên quan đến chương trình trục xuất người tị nạn. Tuy nhiên, tòa án quốc tế đã bác bỏ yêu cầu đòi bồi thường hơn 100 triệu bảng. Sự cố này xảy ra sau khi chính phủ Anh hủy bỏ chương trình trục xuất người tị nạn ngay từ ngày đầu tiên của chính phủ mới. Chính phủ Anh cho rằng không vi phạm thỏa thuận với Rwanda.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f99daef04729",
-      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
-      "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T20:38:10.637120+00:00",
-      "category": "khí hậu và môi trường",
-      "importance": 4,
-      "headline": "Nhiều khu vực giàu có bị thiệt hại nặng nề do cháy rừng",
-      "bullets": [
-        "Các đám cháy lớn đã xảy ra ở California, Canada, Hàn Quốc và châu Âu",
-        "Diện tích cháy rừng toàn cầu giảm xuống mức thấp nhất kể từ năm 2002",
-        "Sự thay đổi trong nông nghiệp ở châu Phi đã giúp ngăn chặn sự lan rộng của các đám cháy rừng",
-        "Nhiều cuộc sống và tài sản đã bị thiệt hại do các đám cháy rừng"
-      ],
-      "full_summary": "Một nghiên cứu mới đây đã chỉ ra rằng các đám cháy rừng đã gây thiệt hại nặng nề cho các khu vực giàu có trên toàn cầu, bao gồm California, Canada, Hàn Quốc và châu Âu. Mặc dù vậy, diện tích cháy rừng toàn cầu đã giảm xuống mức thấp nhất kể từ năm 2002, chủ yếu do sự thay đổi trong nông nghiệp ở châu Phi. Sự phân mảnh của các khu rừng do sự mở rộng của các trang trại đã giúp ngăn chặn sự lan rộng của các đám cháy rừng lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7902df914071",
-      "title": "Why a Neo Geo port of Doom is functionally impossible",
-      "url": "https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-02T20:38:15.060400+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Không thể port Doom lên Neo Geo do kiến trúc đồ họa sprite",
-      "bullets": [
-        "Không thể chuyển đổi đồ họa 3D sang đồ họa sprite",
-        "Kiến trúc đồ họa sprite không hỗ trợ đồ họa 3D",
-        "Chưa có công nghệ chuyển đổi đồ họa 3D sang đồ họa sprite",
-        "Neo Geo không hỗ trợ đồ họa 3D"
-      ],
-      "full_summary": "Một bài viết trên Ars Technica đã giải thích tại sao không thể port game Doom lên Neo Geo. Kiến trúc đồ họa sprite của Neo Geo không hỗ trợ đồ họa 3D, điều này khiến việc chuyển đổi đồ họa 3D sang đồ họa sprite trở nên khó khăn. Chưa có công nghệ chuyển đổi đồ họa 3D sang đồ họa sprite, và Neo Geo không hỗ trợ đồ họa 3D. Vì vậy, việc port Doom lên Neo Geo là không thể.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4a8e60d6a363",
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-02T20:38:19.482403+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Tôi rời bỏ Gmail vì cho rằng tôi không thông minh",
-      "bullets": [
-        "Tôi đã rời bỏ Gmail vì cho rằng dịch vụ email này không tôn trọng người dùng",
-        "Tôi không hài lòng với cách Gmail sử dụng dữ liệu người dùng",
-        "Tôi đã tìm thấy dịch vụ email thay thế phù hợp hơn",
-        "Tôi hy vọng hành động của tôi sẽ giúp cải thiện dịch vụ email"
-      ],
-      "full_summary": "Một người dùng đã quyết định rời bỏ Gmail sau khi cảm thấy dịch vụ email này không tôn trọng người dùng. Họ cho rằng Gmail sử dụng dữ liệu người dùng một cách không phù hợp và không cung cấp trải nghiệm người dùng tốt. Người dùng này đã tìm thấy dịch vụ email thay thế phù hợp hơn và hy vọng hành động của mình sẽ giúp cải thiện dịch vụ email.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e71d5e8a14fd",
-      "title": "British couple lose Iran jail sentence appeal, family says",
-      "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T16:08:15.146356+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cặp đôi Anh bị tù ở Iran sau khi kháng cáo thất bại",
-      "bullets": [
-        "Bị bắt giữ tháng 1 năm 2025 trong chuyến đi xe máy toàn cầu",
-        "Đã bị kết án tù nhưng kháng cáo thất bại",
-        "Cặp đôi Anh đang cố gắng tìm cách được thả sớm"
-      ],
-      "full_summary": "Cặp đôi Anh Lindsay và Craig Foreman đã bị bắt giữ ở Iran vào tháng 1 năm 2025 trong chuyến đi xe máy toàn cầu. Họ đã bị kết án tù sau đó nhưng đã kháng cáo. Tuy nhiên, kháng cáo của họ đã thất bại và họ vẫn đang bị giam giữ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ec1ef8d0c4de",
-      "title": "Canada formally requests renewal of North American free trade pact",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T16:08:16.196958+00:00",
-      "category": "politics|economy",
-      "importance": 3,
-      "headline": "Canada đề nghị gia hạn hiệp định thương mại Bắc Mỹ",
-      "bullets": [
-        "Canada đề xuất gia hạn hiệp định thương mại Bắc Mỹ",
-        "Ba quốc gia nên duy trì thỏa thuận USMCA",
-        "Lý do gia hạn để duy trì sự ổn định kinh tế",
-        "Canada muốn duy trì mối quan hệ thương mại tốt đẹp"
-      ],
-      "full_summary": "Canada đã gửi một bức thư đến các đối tác Bắc Mỹ đề nghị gia hạn hiệp định thương mại Bắc Mỹ (USMCA). Lãnh đạo Thương mại Canada, Dominic LeBlanc, cho rằng ba quốc gia nên duy trì thỏa thuận này để duy trì sự ổn định kinh tế. Việc gia hạn sẽ giúp duy trì mối quan hệ thương mại tốt đẹp giữa Canada, Mỹ và Mexico.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49102fc989ca",
-      "title": "Maga influencer admits London Tube station assault",
-      "url": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T16:08:17.142664+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người nổi tiếng Maga thừa nhận tấn công trạm tàu điện ngầm London",
-      "bullets": [
-        "Thừa nhận tấn công trạm tàu điện ngầm London",
-        "Được cho là đã đánh người",
-        "Chấp nhận một cảnh cáo",
-        "Tội danh tấn công bằng đánh bị rút"
-      ],
-      "full_summary": "Melissa Rein Lively, một người nổi tiếng Maga, đã thừa nhận tấn công trạm tàu điện ngầm London và chấp nhận một cảnh cáo. Tội danh tấn công bằng đánh được rút khỏi vụ án. Vụ tấn công này đã gây ra sự chú ý lớn trên mạng xã hội.",
       "comments": 0,
       "score": 0
     }
