@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-02T20:38:19.982577+00:00",
+  "updated_at": "2026-06-03T03:28:25.657492+00:00",
   "articles": [
+    {
+      "id": "ac70bc065a1c",
+      "title": "US and Iran launch new strikes as ceasefire negotiations stall",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T03:28:09.906336+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ và Iran tiếp tục tấn công sau khi đàm phán ngừng bắn trượt dốc",
+      "bullets": [
+        "Mỹ đã thực hiện các cuộc tấn công mới vào Iran và một tàu dầu",
+        "Tehran cho biết đã tấn công các căn cứ không quân Mỹ ở Vịnh",
+        "Đàm phán ngừng bắn giữa Mỹ và Iran đang gặp khó khăn",
+        "Tình hình ở khu vực Vịnh đang trở nên căng thẳng"
+      ],
+      "full_summary": "Mỹ và Iran đã tiếp tục tấn công lẫn nhau sau khi đàm phán ngừng bắn giữa hai bên trượt dốc. Mỹ đã thực hiện các cuộc tấn công mới vào Iran và một tàu dầu, trong khi Tehran cho biết đã tấn công các căn cứ không quân Mỹ ở Vịnh. Tình hình ở khu vực Vịnh đang trở nên căng thẳng, khiến nhiều người lo ngại về khả năng xảy ra xung đột lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8d10943b3155",
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T03:28:11.186040+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Putin vẫn kiên quyết không nhượng bộ trong cuộc chiến Ukraine",
+      "bullets": [
+        "Nga đang gia tăng tấn công ở Ukraine",
+        "Tình hình chiến tranh gây lo ngại cho cả những người ủng hộ Putin",
+        "Đạo đức chiến tranh đang được thảo luận công khai ở Nga",
+        "Tình hình kinh tế Nga đang bị ảnh hưởng bởi cuộc chiến"
+      ],
+      "full_summary": "Nga đang đẩy mạnh tấn công ở Ukraine, nhưng sau bốn năm chiến tranh, cả những người ủng hộ Putin cũng bắt đầu lo ngại. Đạo đức chiến tranh đang được thảo luận công khai ở Nga, và tình hình kinh tế cũng đang bị ảnh hưởng. Mặc dù vậy, Putin vẫn kiên quyết không nhượng bộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2c3460415749",
+      "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
+      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T03:28:12.232011+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "DR Congo hủy trận giao hữu với Chile vì lo ngại Ebola",
+      "bullets": [
+        "Hủy trận giao hữu giữa DR Congo và Chile",
+        "Do lo ngại về dịch Ebola ở Cộng hòa Dân chủ Congo",
+        "Tổ chức trận đấu tại Tây Ban Nha",
+        "Cộng hòa Dân chủ Congo đang đối mặt với dịch Ebola"
+      ],
+      "full_summary": "DR Congo đã hủy trận giao hữu với Chile vào tuần tới tại Tây Ban Nha do lo ngại về dịch Ebola đang diễn ra tại Cộng hòa Dân chủ Congo. Đây là một quyết định được đưa ra sau khi các cơ quan chức năng tại Tây Ban Nha đề nghị hủy trận đấu để đảm bảo an toàn cho các cầu thủ và nhân viên. Dịch Ebola đang gây ra nhiều lo ngại ở Cộng hòa Dân chủ Congo, và việc hủy trận đấu này là một phần của nỗ lực ngăn chặn sự lây lan của dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27ee2b073498",
+      "title": "Mysteriously missing congressman wins primary after Trump endorsement",
+      "url": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T03:28:13.289695+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Đại diện Cộng hòa Tom Kean Jr mất tích, vẫn thắng cử nhờ ủng hộ của Trump",
+      "bullets": [
+        "Tom Kean Jr bị mất tích ở Washington và khu vực New Jersey trong nhiều tháng",
+        "Ông vẫn thắng cử nhờ ủng hộ của Tổng thống Trump",
+        "Cơ quan điều tra đang tìm kiếm thông tin về việc mất tích của ông",
+        "Nhiều người đặt câu hỏi về tình trạng mất tích của đại diện Cộng hòa"
+      ],
+      "full_summary": "Đại diện Cộng hòa Tom Kean Jr đã mất tích ở Washington và khu vực New Jersey trong nhiều tháng. Mặc dù vậy, ông vẫn thắng cử nhờ ủng hộ của Tổng thống Trump. Cơ quan điều tra đang tìm kiếm thông tin về việc mất tích của ông. Nhiều người đặt câu hỏi về tình trạng mất tích của đại diện Cộng hòa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbee8e3a0397",
+      "title": "Do you find yourself aimlessly scrolling? You're not alone",
+      "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T03:28:14.204087+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nhiều người dùng điện thoại vô tình lướt web",
+      "bullets": [
+        "Một báo cáo của Virgin Media O2 cho thấy 36% thời gian sử dụng điện thoại không có mục đích rõ ràng",
+        "Người dùng thường xuyên lướt web vô tình trong khi chờ đợi hoặc làm việc khác",
+        "Báo cáo này cho thấy thói quen này phổ biến ở nhiều quốc gia"
+      ],
+      "full_summary": "Một báo cáo của Virgin Media O2 vừa công bố cho thấy 36% thời gian sử dụng điện thoại không có mục đích rõ ràng. Điều này cho thấy nhiều người dùng thường xuyên lướt web vô tình trong khi chờ đợi hoặc làm việc khác. Báo cáo này cho thấy thói quen này phổ biến ở nhiều quốc gia và có thể ảnh hưởng đến sức khỏe tinh thần của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b3ff73d36f0e",
+      "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+      "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T03:28:16.226283+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chín ngân hàng Anh được truy cập công cụ Mythos sau khi bị chặn",
+      "bullets": [
+        "Anthropic chặn truy cập công cụ Mythos của mình",
+        "OpenAI đưa ra đề nghị cho chín ngân hàng Anh",
+        "GPT 5.5 Cyber là công cụ trí tuệ nhân tạo mới của OpenAI",
+        "Anthropic và OpenAI là hai đối thủ cạnh tranh trong lĩnh vực trí tuệ nhân tạo"
+      ],
+      "full_summary": "Anthropic đã chặn truy cập công cụ Mythos của mình đối với chín ngân hàng Anh. Trong khi đó, OpenAI đã đưa ra đề nghị cho các ngân hàng này để truy cập công cụ GPT 5.5 Cyber. GPT 5.5 Cyber là công cụ trí tuệ nhân tạo mới của OpenAI, cạnh tranh với Mythos của Anthropic. Đây là một bước tiến mới trong lĩnh vực trí tuệ nhân tạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49fb0af91f07",
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T03:28:17.287281+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Sự kiện Call of Duty sắp tới sẽ lấy bối cảnh cuộc xâm lược Bắc Triều Tiên",
+      "bullets": [
+        "Infinity Ward sẽ mang lại quân sự chân thực cho trò chơi",
+        "Game sẽ lấy bối cảnh cuộc xâm lược Bắc Triều Tiên",
+        "Sự kiện này đã gây ra nhiều tranh cãi trong cộng đồng game thủ",
+        "Infinity Ward cam kết mang lại trải nghiệm chân thực cho người chơi"
+      ],
+      "full_summary": "Infinity Ward, nhà phát triển trò chơi Call of Duty, đã công bố rằng trò chơi sắp tới sẽ lấy bối cảnh cuộc xâm lược Bắc Triều Tiên. Sự kiện này đã gây ra nhiều tranh cãi trong cộng đồng game thủ. Infinity Ward cam kết mang lại trải nghiệm chân thực cho người chơi, với sự tham gia của các chuyên gia quân sự. Trò chơi sẽ được phát hành vào năm sau.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65383442b461",
+      "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+      "url": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-03T03:28:20.585165+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Mèo chim bạo sĩ thích trang trí tổ bằng vật phẩm màu sắc của con người",
+      "bullets": [
+        "Sử dụng vật phẩm màu sắc của con người để trang trí tổ",
+        "Hoping để thu hút những con mái đẹp",
+        "Gợi nhớ cho chúng ta cách hoạt động của con người đang thay đổi thế giới tự nhiên theo những cách không lường trước được",
+        "Bộc lộ sự thích thú của mèo chim bạo sĩ với vật phẩm màu sắc của con người"
+      ],
+      "full_summary": "Các mèo chim bạo sĩ đang sử dụng vật phẩm màu sắc của con người để trang trí tổ của mình. Điều này cho thấy sự thích thú của chúng với vật phẩm màu sắc của con người và cách hoạt động của con người đang thay đổi thế giới tự nhiên. Các nhà khoa học đang theo dõi hiện tượng này để hiểu rõ hơn về hành vi của mèo chim bạo sĩ và tác động của hoạt động của con người lên môi trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e471778f8995",
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-03T03:28:25.157295+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google sắp phát hành tính năng phát hiện cuộc gọi giả mạo trên điện thoại Android",
+      "bullets": [
+        "Google sẽ cập nhật tính năng phát hiện cuộc gọi giả mạo và lừa đảo trên điện thoại Android",
+        "Tính năng mới sẽ giúp ngăn chặn các cuộc gọi giả mạo và lừa đảo",
+        "Google cũng sẽ hỗ trợ thêm cho tính năng AirDrop trên Android",
+        "Tính năng mới sẽ sử dụng trí tuệ nhân tạo để phát hiện và ngăn chặn các cuộc gọi giả mạo"
+      ],
+      "full_summary": "Google vừa công bố tính năng mới cho điện thoại Android, bao gồm khả năng phát hiện và ngăn chặn các cuộc gọi giả mạo và lừa đảo. Tính năng mới này sẽ sử dụng trí tuệ nhân tạo để phân tích và phát hiện các cuộc gọi giả mạo. Ngoài ra, Google cũng sẽ hỗ trợ thêm cho tính năng AirDrop trên Android, cho phép người dùng dễ dàng chia sẻ tệp tin và dữ liệu giữa các thiết bị.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "4e0f7da8c3c2",
       "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
@@ -617,186 +796,6 @@
         "Cảnh sát và giáo viên đã xung đột hai lần trong tuần qua"
       ],
       "full_summary": "Cảnh sát Mexico City đã dùng hơi cay đối với các giáo viên thuộc Công đoàn CNTE đang biểu tình đòi tăng lương và thay đổi luật hưu trí. Sự cố xảy ra 10 ngày trước khi Mexico City tổ chức World Cup 2026. Giáo viên cho biết họ sẽ tiếp tục biểu tình cho đến khi đòi hỏi của họ được đáp ứng. Sự cố này là lần thứ hai trong tuần qua cảnh sát và giáo viên xung đột.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4e02f586f031",
-      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-      "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-02T02:53:11.717800+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Red Hat có nhiều gói phần mềm bị xâm nhập qua NPM chính thức",
-      "bullets": [
-        "Cập nhật ngay lập tức nếu đã tải xuống các gói phần mềm bị ảnh hưởng",
-        "Các gói phần mềm bị xâm nhập được phát hành thông qua NPM chính thức của Red Hat",
-        "Người dùng cần kiểm tra và cập nhật các gói phần mềm để tránh bị ảnh hưởng",
-        "Red Hat đang điều tra và cố gắng khắc phục sự cố"
-      ],
-      "full_summary": "Red Hat đã thông báo rằng nhiều gói phần mềm của họ đã bị xâm nhập thông qua NPM chính thức. Các gói phần mềm bị ảnh hưởng được phát hành trên NPM chính thức của Red Hat và có thể đã được tải xuống bởi người dùng. Red Hat đang điều tra và cố gắng khắc phục sự cố. Người dùng được khuyến cáo cập nhật ngay lập tức nếu đã tải xuống các gói phần mềm bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dc262b82c4ba",
-      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:47.409590+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Israel tấn công Lebanon, đe dọa thỏa thuận hòa bình với Mỹ",
-      "bullets": [
-        "Israel đã tiến hành các cuộc tấn công ở ngoại ô phía nam Beirut",
-        "Hành động này nhằm đáp trả các cuộc tấn công bằng tên lửa và máy bay không người lái của Hezbollah",
-        "Iran cảnh báo rằng các cuộc tấn công này có thể đe dọa thỏa thuận hòa bình với Mỹ",
-        "Tình hình ở khu vực Trung Đông vẫn đang rất căng thẳng"
-      ],
-      "full_summary": "Israel đã tiến hành các cuộc tấn công ở ngoại ô phía nam Beirut sau khi Hezbollah tiến hành các cuộc tấn công bằng tên lửa và máy bay không người lái vào khu vực phía bắc Israel. Hành động này được Israel thực hiện để đáp trả các cuộc tấn công của Hezbollah. Iran đã cảnh báo rằng các cuộc tấn công này có thể đe dọa thỏa thuận hòa bình với Mỹ. Tình hình ở khu vực Trung Đông vẫn đang rất căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b3b8c84c8a24",
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:48.927375+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trung Quốc thúc đẩy đàm phán hòa bình nhưng Iran không chịu khuất phục",
-      "bullets": [
-        "Trung Quốc đang nỗ lực đàm phán hòa bình với Iran",
-        "Iran đòi có những nhượng bộ từ phía Mỹ",
-        "Lực lượng quân sự ở Vịnh đang gây sức ép lên Nhà Trắng",
-        "Chính quyền Mỹ đang đối mặt với áp lực từ các cuộc thăm dò dư luận"
-      ],
-      "full_summary": "Trung Quốc đang nỗ lực đàm phán hòa bình với Iran nhưng Tehran không chịu khuất phục. Iran đòi có những nhượng bộ từ phía Mỹ. Lực lượng quân sự ở Vịnh đang gây sức ép lên Nhà Trắng. Chính quyền Mỹ đang đối mặt với áp lực từ các cuộc thăm dò dư luận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff209b9c5bd5",
-      "title": "Three Ebola vaccines in development amid growing outbreak fears",
-      "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:49.924811+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Ba loại vaccine Ebola đang được phát triển",
-      "bullets": [
-        "Các nhà khoa học đang phát triển vaccine Ebola mới",
-        "IAVI đang nghiên cứu vaccine Ebola",
-        "Moderna đang thử nghiệm vaccine Ebola",
-        "Đại học Oxford đang phát triển vaccine Ebola"
-      ],
-      "full_summary": "Trong bối cảnh lo ngại về sự bùng phát của bệnh Ebola, ba tổ chức đang phát triển vaccine mới. IAVI, Moderna và Đại học Oxford đang nghiên cứu và thử nghiệm vaccine Ebola. Các vaccine này được kỳ vọng sẽ giúp ngăn chặn sự lây lan của bệnh. Việc phát triển vaccine Ebola đang trở thành một ưu tiên hàng đầu trong lĩnh vực y tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f310434a4a9b",
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:50.999968+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Florida cáo buộc OpenAI hỗ trợ kẻ sát nhân",
-      "bullets": [
-        "Florida cáo buộc OpenAI và Sam Altman tạo ra 'mạng lưới gian lận'",
-        "ChatGPT bị cáo buộc giúp đỡ kẻ sát nhân",
-        "Florida đặt OpenAI dưới sự giám sát",
-        "Nạn nhân và gia đình đòi bồi thường"
-      ],
-      "full_summary": "Florida Attorney General James Uthmeier cáo buộc OpenAI và CEO Sam Altman tạo ra 'mạng lưới gian lận' khi cho phép ChatGPT hỗ trợ kẻ sát nhân. Florida đã đặt OpenAI dưới sự giám sát và nạn nhân và gia đình đòi bồi thường. Điều này là một phần của vụ kiện chống lại OpenAI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "59816906bc98",
-      "title": "Hungarian PM threatens to oust Orbán-era president",
-      "url": "https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:51.955926+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Hungary từ chối rời nhiệm sở",
-      "bullets": [
-        "Chủ tịch Hungary từ chối rời nhiệm sở theo yêu cầu của Thủ tướng Péter Magyar",
-        "Thủ tướng Magyar đe dọa sẽ xóa bỏ vị trí của Chủ tịch Hungary",
-        "Vấn đề đang dẫn đến một cuộc xung đột hiến pháp",
-        "Chủ tịch Hungary sẽ tiếp tục giữ chức vụ"
-      ],
-      "full_summary": "Chủ tịch Hungary đã từ chối rời nhiệm sở theo yêu cầu của Thủ tướng Péter Magyar. Thủ tướng Magyar đã đe dọa sẽ xóa bỏ vị trí của Chủ tịch Hungary nếu ông không rời nhiệm sở. Vấn đề đang dẫn đến một cuộc xung đột hiến pháp giữa chính phủ và Tổng thống Hungary. Chủ tịch Hungary sẽ tiếp tục giữ chức vụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1ec4e3725a02",
-      "title": "Williams, 44, to return to action in Queen's doubles",
-      "url": "https://www.bbc.com/sport/tennis/articles/cx21k06ddvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:53.754063+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Serena Williams trở lại quần vợt sau 4 năm",
-      "bullets": [
-        "Cựu tay vợt số 1 thế giới sẽ chơi đôi nữ tại Queen's",
-        "Đây là lần đầu tiên Serena Williams trở lại quần vợt sau 4 năm",
-        "Cô sẽ chơi cùng một đối thủ chưa được tiết lộ",
-        "Tournament này sẽ diễn ra vào tháng 6"
-      ],
-      "full_summary": "Cựu tay vợt số 1 thế giới Serena Williams sẽ trở lại quần vợt sau 4 năm khi chơi đôi nữ tại Queen's. Đây là một bước đầu tiên quan trọng trong sự trở lại của cô sau thời gian dài vắng bóng. Serena Williams sẽ chơi cùng một đối thủ chưa được tiết lộ. Tournament này sẽ diễn ra vào tháng 6.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d1cc62380be7",
-      "title": "Italians bemused by Milan bull mosaic restoration",
-      "url": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:55.675941+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mosaic bò ở Milan bị trùng tu, người Ý bối rối về 'may mắn' của nó",
-      "bullets": [
-        "Người dân Ý ngạc nhiên khi thấy hình ảnh bò ở Milan bị trùng tu",
-        "Bò được trùng tu lại với hình ảnh mới, thiếu đi 'đặc điểm' may mắn",
-        "Người dân cho rằng 'đặc điểm' may mắn của bò là bộ phận sinh dục",
-        "Bò ở Milan được trùng tu lại sau nhiều năm"
-      ],
-      "full_summary": "Một bức tranh bò ở Milan đã được trùng tu lại, nhưng người dân Ý đã ngạc nhiên khi thấy hình ảnh mới thiếu đi 'đặc điểm' may mắn của nó. Người dân cho rằng 'đặc điểm' may mắn của bò là bộ phận sinh dục, nhưng không rõ tại sao nó lại bị bỏ qua trong quá trình trùng tu. Bức tranh bò này đã được trùng tu lại sau nhiều năm và hiện đang được trưng bày lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "15b86dfd5ce3",
-      "title": "AI giant Anthropic says it plans to list on US stock market",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-01T21:23:56.941359+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "Công ty AI Anthropic lên sàn chứng khoán Mỹ",
-      "bullets": [
-        "Đang lên kế hoạch phát hành cổ phiếu cho công chúng",
-        "Công ty sau này sẽ niêm yết trên sàn chứng khoán Mỹ",
-        "Cổ phiếu của Anthropic sẽ được bán cho công chúng vào cuối năm nay",
-        "Anthropic là công ty đứng sau AI Claude"
-      ],
-      "full_summary": "Công ty AI Anthropic đang lên kế hoạch lên sàn chứng khoán Mỹ. Công ty này sau này sẽ niêm yết trên sàn chứng khoán Mỹ và bán cổ phiếu cho công chúng vào cuối năm nay. Anthropic là công ty đứng sau AI Claude và đang phát triển các công nghệ AI tiên tiến.",
       "comments": 0,
       "score": 0
     }
