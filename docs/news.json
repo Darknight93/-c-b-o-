@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-06-03T10:47:30.594535+00:00",
+  "updated_at": "2026-06-03T16:23:53.654436+00:00",
   "articles": [
+    {
+      "id": "f8797851074e",
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:37.214334+00:00",
+      "category": "politics|economy",
+      "importance": 5,
+      "headline": "Máy bay không người lái Ukraine tấn công St Petersburg",
+      "bullets": [
+        "Tấn công vào kho chứa dầu gần thành phố St Petersburg",
+        "Các máy bay không người lái có tầm xa dài đã gây thiệt hại",
+        "Sự kiện diễn ra trước khi Putin dự diễn sự kiện kinh tế quan trọng",
+        "Sự cố này đã gây ra lo ngại về an ninh"
+      ],
+      "full_summary": "Các máy bay không người lái Ukraine đã tấn công vào kho chứa dầu gần thành phố St Petersburg, gây thiệt hại cho các cơ sở dầu mỏ. Sự kiện này diễn ra trước khi Tổng thống Putin dự diễn diễn đàn kinh tế quan trọng. Các máy bay không người lái có tầm xa dài đã gây ra thiệt hại cho các cơ sở dầu mỏ. Sự cố này đã gây ra lo ngại về an ninh và ảnh hưởng đến sự kiện kinh tế quan trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5bc366ac7e58",
+      "title": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
+      "url": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:38.227582+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu cố vấn chính trị Anh và Bộ trưởng Nội các Biden dẫn đầu cuộc bầu cử Thống đốc California",
+      "bullets": [
+        "Đứng đầu cuộc bầu cử Thống đốc California là cựu cố vấn chính trị Anh và Bộ trưởng Nội các Biden",
+        "Billionaire Tom Steyer đứng thứ ba trong cuộc bầu cử",
+        "Cuộc bầu cử Thống đốc California đang tiếp tục",
+        "Tình hình đang thay đổi từng giờ"
+      ],
+      "full_summary": "Cựu cố vấn chính trị Anh và Bộ trưởng Nội các Biden đang dẫn đầu cuộc bầu cử Thống đốc California. Billionaire Tom Steyer đứng thứ ba trong cuộc bầu cử. Cuộc bầu cử đang tiếp tục và tình hình đang thay đổi từng giờ. Điều này cho thấy cuộc bầu cử Thống đốc California đang trở nên gay cấn hơn bao giờ hết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c29dc2e25ada",
+      "title": "US announces new tariffs over forced labour concerns",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:39.285093+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Mỹ áp thuế mới vì lo ngại lao động bóc lột",
+      "bullets": [
+        "Mỹ áp thuế mới lên hàng hóa từ các quốc gia bị nghi ngờ sử dụng lao động bóc lột",
+        "Động thái này diễn ra sau khi Tòa án Tối cao Mỹ bãi bỏ nhiều biện pháp thuế của Tổng thống Donald Trump",
+        "Mỹ muốn đảm bảo rằng hàng hóa nhập khẩu không liên quan đến lao động bóc lột",
+        "Các quốc gia bị ảnh hưởng có thể phải đối mặt với các biện pháp trừng phạt"
+      ],
+      "full_summary": "Mỹ vừa công bố quyết định áp thuế mới lên hàng hóa từ các quốc gia bị nghi ngờ sử dụng lao động bóc lột. Động thái này diễn ra sau khi Tòa án Tối cao Mỹ bãi bỏ nhiều biện pháp thuế của Tổng thống Donald Trump. Mỹ muốn đảm bảo rằng hàng hóa nhập khẩu không liên quan đến lao động bóc lột. Các quốc gia bị ảnh hưởng có thể phải đối mặt với các biện pháp trừng phạt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "564f523e2e56",
+      "title": "CBS News fires correspondent Scott Pelley from 60 Minutes",
+      "url": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:40.383979+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "CBS News đã sa thải phóng viên Scott Pelley khỏi chương trình 60 Minutes",
+      "bullets": [
+        "CBS News đã sa thải phóng viên Scott Pelley",
+        "Pelley đã cáo buộc lãnh đạo 'giết chết' chương trình tin tức",
+        "Pelley đã có cuộc đối đầu với lãnh đạo tại cuộc họp nhân viên",
+        "Pelley đã làm việc cho CBS News trong nhiều năm"
+      ],
+      "full_summary": "CBS News đã sa thải phóng viên Scott Pelley khỏi chương trình tin tức 60 Minutes. Pelley đã cáo buộc lãnh đạo 'giết chết' chương trình tin tức trong cuộc đối đầu tại cuộc họp nhân viên. Cuộc đối đầu này đã diễn ra trong tuần này. Pelley đã làm việc cho CBS News trong nhiều năm và đã từng là chủ chương trình của chương trình tin tức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f63d898f12e1",
+      "title": "Phone signal on trains not good enough most of the time, research says",
+      "url": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:41.423579+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Tín hiệu điện thoại trên tàu không tốt",
+      "bullets": [
+        "Nghiên cứu cho thấy tín hiệu điện thoại trên tàu không ổn định",
+        "Tín hiệu trên tàu thường xuyên bị gián đoạn",
+        "Các mạng di động không cung cấp tín hiệu tốt trên tàu",
+        "Công ty tàu chậm triển khai Wi-Fi"
+      ],
+      "full_summary": "Nghiên cứu của Ofcom cho thấy các mạng di động lớn không cung cấp tín hiệu điện thoại tốt trên tàu. Thêm vào đó, các công ty tàu đang chậm triển khai Wi-Fi trên tàu. Điều này gây khó khăn cho hành khách muốn sử dụng điện thoại hoặc truy cập internet trên tàu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f28628cffde4",
+      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:42.424132+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Lloyds, Halifax và Bank of Scotland gặp sự cố trực tuyến",
+      "bullets": [
+        "Lloyds Bank gặp sự cố với ứng dụng và dịch vụ trực tuyến",
+        "Cơ quan này xin lỗi vì sự cố này",
+        "Sự cố đã ảnh hưởng đến nhiều khách hàng",
+        "Lloyds Bank đang cố gắng khắc phục sự cố"
+      ],
+      "full_summary": "Lloyds Bank, Halifax và Bank of Scotland đã gặp sự cố trực tuyến, khiến nhiều khách hàng gặp khó khăn khi sử dụng dịch vụ trực tuyến. Cơ quan này đã đăng thông báo trên mạng xã hội, xin lỗi vì sự cố và cho biết đang cố gắng khắc phục. Sự cố này đã ảnh hưởng đến nhiều khách hàng và gây ra sự bất tiện cho họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f7626c0b3a4a",
+      "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:43.478108+00:00",
+      "category": "công nghệ",
+      "importance": 3,
+      "headline": "Meta cho nhân viên lựa chọn dừng theo dõi dữ liệu trong 30 phút",
+      "bullets": [
+        "Meta cho phép nhân viên tạm dừng thu thập dữ liệu",
+        "Lựa chọn này chỉ có hiệu lực trong 30 phút",
+        "Mục đích là để nhân viên có thể tạm thời dừng theo dõi",
+        "Tuy nhiên, dữ liệu vẫn sẽ được thu thập sau khi hết thời gian"
+      ],
+      "full_summary": "Meta đã công bố các biện pháp mới để cho phép nhân viên của mình tạm dừng việc thu thập dữ liệu. Theo một bản ghi nhớ nội bộ, nhân viên sẽ có thể tạm dừng việc thu thập dữ liệu trong tối đa 30 phút. Mục đích của biện pháp này là để nhân viên có thể tạm thời dừng việc theo dõi dữ liệu trong quá trình làm việc. Tuy nhiên, dữ liệu vẫn sẽ được thu thập sau khi hết thời gian.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4e2f2a3098df",
+      "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
+      "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-03T16:23:44.602530+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hàng trăm người Mozambique bị đe dọa, 5 người chết trong các vụ tấn công",
+      "bullets": [
+        "Mozambique báo cáo 5 công dân bị giết trong các vụ tấn công phân biệt chủng tộc ở Nam Phi",
+        "Cảnh sát Nam Phi xác nhận 2 người Mozambique bị giết trong vụ bạo loạn ở Mossel Bay",
+        "Nhiều người Mozambique đang bị đe dọa và bị buộc phải rời khỏi Nam Phi",
+        "Sự cố đang gây ra sự lo lắng ở Mozambique và các nước láng giềng"
+      ],
+      "full_summary": "Mozambique cho biết 5 công dân bị giết trong các vụ tấn công phân biệt chủng tộc ở Nam Phi. Cảnh sát Nam Phi xác nhận 2 người Mozambique bị giết trong vụ bạo loạn ở Mossel Bay. Sự cố đang gây ra sự lo lắng ở Mozambique và các nước láng giềng. Nhiều người Mozambique đang bị đe dọa và bị buộc phải rời khỏi Nam Phi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2c2daa4760da",
+      "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
+      "url": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-03T16:23:46.967354+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Rau đậu kích hoạt đợt tấn công của ong để chống lại sâu bướm",
+      "bullets": [
+        "Rau đậu giải phóng hóa chất để gọi đến ong parasit",
+        "Ong parasit tấn công sâu bướm ăn rau đậu",
+        "Rau đậu sử dụng thụ thể miễn dịch để kích hoạt phản ứng này",
+        "Phản ứng giúp bảo vệ rau đậu khỏi sâu bướm"
+      ],
+      "full_summary": "Khi bị sâu bướm ăn, cây đậu giải phóng hóa chất để gọi đến ong parasit. Ong parasit tấn công sâu bướm và tiêu diệt chúng, giúp bảo vệ cây đậu. Điều này xảy ra do cây đậu sử dụng thụ thể miễn dịch để kích hoạt phản ứng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4d9e50a88f04",
+      "title": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-03T16:23:51.927870+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Blackmagic Design cập nhật DaVinci Resolve 21 với nhiều tính năng mới",
+      "bullets": [
+        "Cập nhật giao diện người dùng mới",
+        "Tăng cường khả năng chỉnh sửa video và âm thanh",
+        "Hỗ trợ thêm các định dạng file mới"
+      ],
+      "full_summary": "Blackmagic Design vừa cập nhật phiên bản mới của phần mềm chỉnh sửa video DaVinci Resolve 21. Phiên bản mới này mang lại giao diện người dùng mới mẻ và hiện đại hơn, cùng với đó là khả năng chỉnh sửa video và âm thanh được tăng cường. Người dùng cũng có thể sử dụng thêm các định dạng file mới như HDR và 8K.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "571cd5371576",
       "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
@@ -595,206 +794,6 @@
         "Tội danh tấn công bằng đánh bị rút"
       ],
       "full_summary": "Melissa Rein Lively, một người nổi tiếng Maga, đã thừa nhận tấn công trạm tàu điện ngầm London và chấp nhận một cảnh cáo. Tội danh tấn công bằng đánh được rút khỏi vụ án. Vụ tấn công này đã gây ra sự chú ý lớn trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "66cda2f2c511",
-      "title": "South Africa police investigate killing of two Mozambican men",
-      "url": "https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T16:08:18.213800+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát Nam Phi điều tra vụ giết hai công dân Mozambique",
-      "bullets": [
-        "Điều tra vụ giết hai công dân Mozambique",
-        "Cảnh sát Nam Phi đang điều tra vụ việc",
-        "Các cuộc biểu tình bạo lực chống lại việc nhập cư bất hợp pháp",
-        "Các cuộc biểu tình diễn ra tại thị trấn Mossel Bay"
-      ],
-      "full_summary": "Cảnh sát Nam Phi đang điều tra vụ giết hai công dân Mozambique sau một ngày các cuộc biểu tình bạo lực chống lại việc nhập cư bất hợp pháp tại thị trấn Mossel Bay. Các cuộc biểu tình đã diễn ra sau khi một số người Nam Phi phản đối việc nhập cư bất hợp pháp. Cảnh sát đã phải can thiệp để khống chế tình hình. Vụ việc đang được điều tra và các chi tiết sẽ được công bố sau này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "298da28f3eae",
-      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T16:08:19.503090+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hacker lừa AI chatbot Instagram để truy cập tài khoản người dùng",
-      "bullets": [
-        "Lừa đảo AI chatbot Instagram để truy cập tài khoản người dùng",
-        "Liên quan đến các trường hợp tài khoản Instagram nổi tiếng bị xâm phạm",
-        "Hacker đã lợi dụng lỗ hổng bảo mật của AI chatbot",
-        "Cần phải cải thiện bảo mật cho các ứng dụng sử dụng AI"
-      ],
-      "full_summary": "Một số báo cáo cho rằng sự cố này liên quan đến các trường hợp tài khoản Instagram nổi tiếng bị xâm phạm. Hacker đã lừa đảo AI chatbot Instagram để truy cập tài khoản người dùng. Điều này cho thấy lỗ hổng bảo mật của AI chatbot và cần phải cải thiện bảo mật cho các ứng dụng sử dụng AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d47579b58361",
-      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
-      "url": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T16:08:20.670841+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hoa Kỳ muốn xây dựng trại cách ly Ebola tại Kenya, người dân lo ngại",
-      "bullets": [
-        "Người dân ở Nanyuki phản đối kế hoạch của Hoa Kỳ",
-        "Lo ngại sẽ bị nhiễm virus Ebola",
-        "Khẳng định Kenya không nên để người nước ngoài mang bệnh vào",
-        "Yêu cầu người mắc bệnh Ebola được cách ly tại quốc gia của họ"
-      ],
-      "full_summary": "Hoa Kỳ đang muốn xây dựng một trại cách ly Ebola tại Nanyuki, Kenya, để cách ly công dân của họ mắc bệnh Ebola. Người dân địa phương đã phản đối mạnh mẽ kế hoạch này, lo ngại sẽ bị nhiễm virus Ebola. Họ cho rằng Kenya không nên để người nước ngoài mang bệnh vào và yêu cầu người mắc bệnh Ebola được cách ly tại quốc gia của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "471d9c7abb88",
-      "title": "Americans don't know how to fight AI. So they're fighting data centers",
-      "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-02T16:08:28.777704+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Người Mỹ không biết cách đối phó AI, nên họ chống lại các trung tâm dữ liệu",
-      "bullets": [
-        "Họ đang áp dụng các biện pháp hạn chế xây dựng các trung tâm dữ liệu",
-        "Mục tiêu là hạn chế sự phát triển của trí tuệ nhân tạo",
-        "Các công ty công nghệ đang phải đối mặt với sự phản đối từ cộng đồng",
-        "Sự bất ổn này có thể ảnh hưởng đến sự phát triển của công nghệ"
-      ],
-      "full_summary": "Người Mỹ đang tìm cách đối phó với sự phát triển nhanh chóng của trí tuệ nhân tạo bằng cách hạn chế xây dựng các trung tâm dữ liệu. Họ tin rằng các trung tâm dữ liệu là nơi tập trung dữ liệu và năng lượng để đào tạo các mô hình trí tuệ nhân tạo. Các công ty công nghệ đang phải đối mặt với sự phản đối từ cộng đồng, và sự bất ổn này có thể ảnh hưởng đến sự phát triển của công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ceb7779102fe",
-      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-      "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T10:10:25.646821+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai người bị bắn chết trong cuộc biểu tình ở Kenya phản đối trung tâm cách ly Ebola",
-      "bullets": [
-        "Phát hiện 2 người bị bắn chết trong cuộc biểu tình ở Kenya",
-        "Người dân phản đối kế hoạch xây dựng trung tâm cách ly Ebola do Mỹ đề xuất",
-        "Kế hoạch của Mỹ đã gây ra sự phẫn nộ và dẫn đến các cuộc biểu tình gần khu vực dự định xây dựng cơ sở vật chất",
-        "Các cuộc biểu tình đã diễn ra gần khu vực dự định xây dựng trung tâm cách ly Ebola"
-      ],
-      "full_summary": "Các cuộc biểu tình đã diễn ra ở Kenya sau khi kế hoạch của Mỹ về trung tâm cách ly Ebola được công bố. Kế hoạch này đã gây ra sự phẫn nộ và dẫn đến các cuộc biểu tình gần khu vực dự định xây dựng cơ sở vật chất. Hai người đã bị bắn chết trong các cuộc biểu tình. Các cuộc biểu tình đã diễn ra để phản đối kế hoạch xây dựng trung tâm cách ly Ebola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "91d07329a9a7",
-      "title": "Why Myanmar president's India visit is being closely watched",
-      "url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T10:10:26.699011+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Myanmar tăng cường quan hệ ngoại giao sau nhiều năm bị cô lập quốc tế",
-      "bullets": [
-        "Myanmar đang tìm kiếm cơ hội mở rộng quan hệ ngoại giao",
-        "Bà Aung San Suu Kyi sẽ thăm Ấn Độ để tăng cường hợp tác kinh tế",
-        "Quốc gia này đang cố gắng thoát khỏi tình trạng cô lập quốc tế",
-        "Động thái này được xem là bước đầu tiên trong nỗ lực tái hòa nhập quốc tế"
-      ],
-      "full_summary": "Myanmar đang tìm kiếm cơ hội mở rộng quan hệ ngoại giao sau nhiều năm bị cô lập quốc tế. Tổng thống bà Aung San Suu Kyi sắp tới thăm Ấn Độ để tăng cường hợp tác kinh tế. Đây là bước đầu tiên trong nỗ lực tái hòa nhập quốc tế của Myanmar. Các chuyên gia cho rằng chuyến thăm này sẽ giúp Myanmar mở rộng quan hệ với các quốc gia khác và thoát khỏi tình trạng cô lập.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d43d9aaaa39d",
-      "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
-      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T10:10:27.625670+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chính phủ Trump đồng ý tuân thủ phán quyết tạm dừng quỹ 1,8 tỷ USD",
-      "bullets": [
-        "Tạm dừng quỹ chống vũ khí hóa 1,8 tỷ USD",
-        "Bộ Tư pháp Mỹ phản đối phán quyết của tòa án",
-        "Chính phủ Mỹ sẽ tuân thủ phán quyết của tòa án",
-        "Quỹ chống vũ khí hóa được thiết lập để ngăn chặn việc sử dụng vũ khí hóa học"
-      ],
-      "full_summary": "Chính phủ Trump đã tuyên bố sẽ tuân thủ phán quyết của tòa án tạm dừng quỹ 1,8 tỷ USD chống vũ khí hóa. Bộ Tư pháp Mỹ đã phản đối phán quyết này, nhưng chính phủ Mỹ sẽ tuân thủ quyết định của tòa án. Quỹ chống vũ khí hóa được thiết lập để ngăn chặn việc sử dụng vũ khí hóa học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c4a1d4215d98",
-      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
-      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T10:10:28.677021+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Trung Quốc tấn công 'kitchen ma' để kiểm soát các ứng dụng giao hàng cạnh tranh",
-      "bullets": [
-        "Trung Quốc đang cracking down các 'kitchen ma' không tồn tại",
-        "Các ứng dụng giao hàng cạnh tranh đang gây lo ngại cho người tiêu dùng",
-        "Bắc Kinh muốn kiểm soát thị trường giao hàng",
-        "Các công ty giao hàng đang phải đối mặt với những thách thức mới"
-      ],
-      "full_summary": "Trung Quốc đang tiến hành một chiến dịch để cracking down các 'kitchen ma' không tồn tại. Các 'kitchen ma' này là các nhà hàng trực tuyến không có mặt bằng thực sự, nhưng vẫn cung cấp dịch vụ giao hàng. Các ứng dụng giao hàng cạnh tranh đang gây lo ngại cho người tiêu dùng Trung Quốc. Bắc Kinh muốn kiểm soát thị trường giao hàng để ngăn chặn sự cạnh tranh không lành mạnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "38a55329cf26",
-      "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
-      "url": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T10:10:29.765720+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cựu bộ trưởng Úc khởi xướng điều tra về thỏa thuận tàu ngầm Aukus",
-      "bullets": [
-        "Khởi xướng điều tra về thỏa thuận tàu ngầm Aukus",
-        "Điều tra xem Australia có nhận được tàu ngầm hay không",
-        "Kiểm tra liệu thỏa thuận này có làm cho Australia an toàn hơn hay không",
-        "Điều tra được tài trợ thông qua đợt gây quỹ của dân"
-      ],
-      "full_summary": "Cựu bộ trưởng Úc đã khởi xướng một điều tra về thỏa thuận tàu ngầm Aukus giữa Úc, Mỹ và Anh. Điều tra này sẽ xem xét liệu Australia có nhận được tàu ngầm theo thỏa thuận hay không và liệu thỏa thuận này có làm cho Australia an toàn hơn hay không. Điều tra được tài trợ thông qua đợt gây quỹ của dân. Điều tra này sẽ giúp người dân Úc hiểu rõ hơn về thỏa thuận tàu ngầm Aukus.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f4f2751e208",
-      "title": "Humanoid robots 'the future' of car making, says BMW",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T10:10:30.688812+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "BMW sử dụng robot người mẫu trong nhà máy sản xuất ô tô",
-      "bullets": [
-        "BMW giới thiệu robot người mẫu vào nhà máy sản xuất ô tô ở châu Âu",
-        "Sự ra mắt này dựa trên các dự án tương tự ở Mỹ",
-        "Robot sẽ giúp tăng năng suất và giảm chi phí sản xuất",
-        "Công nghệ này được coi là tương lai của ngành công nghiệp ô tô"
-      ],
-      "full_summary": "BMW đang giới thiệu robot người mẫu vào một nhà máy sản xuất ô tô ở châu Âu. Sự ra mắt này dựa trên các dự án tương tự ở Mỹ. Công ty hy vọng rằng công nghệ này sẽ giúp tăng năng suất và giảm chi phí sản xuất. BMW coi robot người mẫu là tương lai của ngành công nghiệp ô tô.",
       "comments": 0,
       "score": 0
     }
