@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-06-04T02:57:29.716475+00:00",
+  "updated_at": "2026-06-04T09:47:03.827532+00:00",
   "articles": [
+    {
+      "id": "26b890b18255",
+      "title": "Ukraine accused of killing four in occupied Crimea",
+      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T09:46:48.496124+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ukraine bị cáo buộc giết 4 người ở Crimea",
+      "bullets": [
+        "Tối 30/5, Nga cáo buộc Ukraine tấn công Crimea",
+        "Nhiều người bị thương, ít nhất 10 người bị thương",
+        "Nga cáo buộc Ukraine giết 4 người ở Crimea",
+        "Tình hình ở Crimea vẫn còn phức tạp"
+      ],
+      "full_summary": "Nga cáo buộc Ukraine tấn công Crimea, gây thương vong cho ít nhất 10 người. Theo các quan chức do Nga hậu thuẫn, Ukraine đã tấn công Crimea vào tối 30/5. Các quan chức Nga cáo buộc Ukraine giết 4 người ở Crimea. Tình hình ở Crimea vẫn còn phức tạp và đang được theo dõi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dbabbcaf17a7",
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T09:46:49.438343+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Pháo kích dữ dội ở Mogadishu sau khi tranh cãi về việc hoãn bầu cử",
+      "bullets": [
+        "Hội nghị đối lập kêu gọi biểu tình",
+        "Nhiệm kỳ của tổng thống được kéo dài thêm một năm",
+        "Pháo kích xảy ra ở thủ đô Somali",
+        "Tình hình ở Somali trở nên căng thẳng"
+      ],
+      "full_summary": "Hội nghị đối lập ở Somalia đã kêu gọi biểu tình sau khi tổng thống nước này quyết định kéo dài nhiệm kỳ một năm. Điều này đã dẫn đến pháo kích dữ dội ở thủ đô Mogadishu. Tình hình ở Somalia đang trở nên căng thẳng. Các bên liên quan đang cố gắng tìm kiếm giải pháp hòa bình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "44c20054373f",
+      "title": "Trump to nominate Blanche for attorney general on permanent basis",
+      "url": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T09:46:50.387627+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump sắp đề cử Blanche làm Tổng chưởng lý vĩnh viễn",
+      "bullets": [
+        "Cựu luật sư của Trump sẽ trở thành nhà điều tra hàng đầu của chính phủ nếu được Thượng viện xác nhận",
+        "Nếu được xác nhận, Blanche sẽ trở thành Tổng chưởng lý đầu tiên của chính phủ Trump",
+        "Cựu luật sư của Trump từng đại diện cho ông trong nhiều vụ kiện",
+        "Thượng viện sẽ phải bỏ phiếu để xác nhận ứng cử viên mới"
+      ],
+      "full_summary": "Cựu luật sư của Trump, Blanche, sắp được đề cử làm Tổng chưởng lý vĩnh viễn. Nếu được Thượng viện xác nhận, ông sẽ trở thành nhà điều tra hàng đầu của chính phủ. Cựu luật sư của Trump từng đại diện cho ông trong nhiều vụ kiện và có kinh nghiệm trong lĩnh vực pháp lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cc422ef7704",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T09:46:51.471674+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Elon Musk là người giàu nhất thế giới với khối tài sản khổng lồ",
+      "bullets": [
+        "Là người sáng lập và CEO của X, Tesla và SpaceX",
+        "Sử dụng nền tảng của mình để thể hiện quan điểm về nhiều chủ đề",
+        "Đứng đầu danh sách người giàu nhất thế giới",
+        "Có khối tài sản khổng lồ"
+      ],
+      "full_summary": "Elon Musk là người sáng lập và CEO của X, Tesla và SpaceX. Ông sử dụng nền tảng của mình để thể hiện quan điểm về nhiều chủ đề. Với khối tài sản khổng lồ, ông đứng đầu danh sách người giàu nhất thế giới. Ông được biết đến với những ý tưởng và dự án đột phá trong lĩnh vực công nghệ và không gian.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbee8e3a0397",
+      "title": "Do you find yourself aimlessly scrolling? You're not alone",
+      "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T09:46:52.391542+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Người dùng điện thoại thường xuyên lãng phí thời gian",
+      "bullets": [
+        "Thời gian sử dụng điện thoại không có mục đích cụ thể chiếm 36% tổng thời gian",
+        "Báo cáo của Virgin Media O2 chỉ ra thói quen này phổ biến",
+        "Người dùng có thể dễ dàng bị cuốn vào các ứng dụng và không thể thoát khỏi chúng"
+      ],
+      "full_summary": "Một báo cáo của Virgin Media O2 chỉ ra rằng người dùng điện thoại thường xuyên lãng phí thời gian. Theo báo cáo, thời gian sử dụng điện thoại không có mục đích cụ thể chiếm 36% tổng thời gian. Điều này cho thấy thói quen này phổ biến và người dùng có thể dễ dàng bị cuốn vào các ứng dụng và không thể thoát khỏi chúng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "75bfbcb14fef",
+      "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
+      "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T09:46:53.885461+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tổn thương lớn ở Bắc Kivu do các cuộc tấn công của ADF",
+      "bullets": [
+        "Các cuộc tấn công của ADF đã giết hại 30 người ở Bắc Kivu.",
+        "Hơn 10 người đã bị giết trong các cuộc tấn công vào ba làng gần thành phố Beni.",
+        "Các cuộc tấn công đã làm phức tạp thêm việc đối phó với dịch Ebola.",
+        "Ba bệnh nhân nhiễm Ebola đã trốn khỏi bệnh viện."
+      ],
+      "full_summary": "Các cuộc tấn công của ADF đã gây ra thương vong lớn ở Bắc Kivu, làm phức tạp thêm việc đối phó với dịch Ebola. Theo báo cáo, hơn 10 người đã bị giết trong các cuộc tấn công vào ba làng gần thành phố Beni. Các cuộc tấn công này đã khiến ba bệnh nhân nhiễm Ebola trốn khỏi bệnh viện, làm tăng nguy cơ lây lan của dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9bef2cb1b75c",
+      "title": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T09:46:55.501324+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hộ chiếu bị hủy khi nạn nhân đã chết",
+      "bullets": [
+        "Một thẩm phán Mỹ đã ký lệnh trục xuất một thanh niên bị giết",
+        "Thẩm phán Amy Lee cho rằng nạn nhân không xuất hiện tại tòa án",
+        "Nạn nhân đã qua đời vào năm 2024 nhưng tòa án vẫn yêu cầu xuất hiện",
+        "Nạn nhân là một người Honduras đến Mỹ khi còn nhỏ"
+      ],
+      "full_summary": "Một thẩm phán ở Bắc Carolina, Mỹ, đã ký lệnh trục xuất một thanh niên tên Levi Mendez-Maldonado. Tuy nhiên, nạn nhân đã qua đời vào năm 2024. Thẩm phán Amy Lee cho rằng nạn nhân không xuất hiện tại tòa án, nhưng thực tế là nạn nhân đã chết. Nạn nhân là một người Honduras đến Mỹ khi còn nhỏ và được coi là một người tị nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d5c7b2f75116",
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-04T09:47:01.061587+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Truyền thông Anh thường xuyên không tiết lộ liên kết với ngành công nghiệp quốc phòng",
+      "bullets": [
+        "Phần lớn các chuyên gia quân sự và nhân viên ngành quốc phòng không tiết lộ thông tin liên quan",
+        "Truyền thông Anh không tuân thủ quy định tiết lộ thông tin liên quan",
+        "Nghiên cứu chỉ ra 58% trường hợp không tiết lộ thông tin liên quan"
+      ],
+      "full_summary": "Một nghiên cứu mới chỉ ra rằng gần 60% trường hợp, truyền thông Anh không tiết lộ thông tin liên quan đến các chuyên gia quân sự và nhân viên ngành quốc phòng. Điều này vi phạm quy định về tiết lộ thông tin liên quan. Nghiên cứu này cho thấy sự thiếu minh bạch trong truyền thông Anh và có thể ảnh hưởng đến quyết định của công chúng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "55b02b377b03",
       "title": "US House votes to halt Iran war, in rebuke to Trump",
@@ -634,166 +792,6 @@
         "Florida yêu cầu OpenAI phải chịu trách nhiệm"
       ],
       "full_summary": "Florida Attorney General James Uthmeier cáo buộc OpenAI và CEO Sam Altman đã xây dựng 'mạng lưới gian lận' khi cho phép ChatGPT hỗ trợ kẻ sát nhân. Ông Uthmeier cáo buộc OpenAI đã không kiểm soát được ChatGPT và cho phép nó hỗ trợ kẻ sát nhân. Điều này đã dẫn đến vụ kiện của Florida yêu cầu OpenAI phải chịu trách nhiệm. Vụ việc đang gây tranh cãi và có thể sẽ ảnh hưởng đến tương lai của ChatGPT.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84c6a108929c",
-      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
-      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:19.918152+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Ghana phạt tù những người ủng hộ LGBTQ+",
-      "bullets": [
-        "Chính phủ Ghana đã thông qua luật cấm hoạt động LGBTQ+",
-        "Người dân lo sợ mất nhà, việc làm và tiếp cận y tế",
-        "Luật quy định hình phạt tù từ 3 đến 10 năm",
-        "Hội đồng nhân quyền cảnh báo về hậu quả nghiêm trọng"
-      ],
-      "full_summary": "Chính phủ Ghana đã thông qua một đạo luật cấm hoạt động LGBTQ+, khiến cộng đồng LGBTQ+ ở Ghana sống trong sợ hãi. Luật này quy định hình phạt tù từ 3 đến 10 năm đối với những người ủng hộ LGBTQ+. Người dân lo sợ mất nhà, việc làm và tiếp cận y tế. Hội đồng nhân quyền cảnh báo về hậu quả nghiêm trọng nếu luật này được Tổng thống John Dramani Mahama ký ban hành.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23d7d6d09ebe",
-      "title": "Trump administration proposes 25% tariffs on Brazil despite US trade surplus",
-      "url": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:21.010515+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Hành động của Mỹ áp thuế 25% với Brazil",
-      "bullets": [
-        "Mỹ đề xuất áp thuế 25% với hàng nhập khẩu từ Brazil",
-        "Luiz Inácio Lula da Silva lên án quyết định của Mỹ",
-        "Brazils bị cáo buộc thực hiện các hành vi thương mại không hợp lý",
-        "Flávio Bolsonaro bị đổ lỗi cho quyết định của Mỹ"
-      ],
-      "full_summary": "Mỹ đề xuất áp thuế 25% với hàng nhập khẩu từ Brazil, cáo buộc Brazil thực hiện các hành vi thương mại không hợp lý. Tổng thống Brazil Luiz Inácio Lula da Silva lên án quyết định của Mỹ. Ông da Silva cho rằng quyết định này là do người kế nhiệm của Jair Bolsonaro, Flávio Bolsonaro, gây ra. Flávio Bolsonaro là con trai của cựu tổng thống Brazil Jair Bolsonaro.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "28287dad8147",
-      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-      "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-03T10:47:23.871359+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Blue Origin sẽ mất bao lâu để xây dựng lại cơ sở phóng?",
-      "bullets": [
-        "Xây dựng lại cơ sở phóng Blue Origin sẽ mất khoảng 2-3 năm",
-        "Các kỹ sư SpaceX dự đoán thời gian xây dựng sẽ dài hơn dự kiến",
-        "Cơ sở phóng sẽ được xây dựng lại sau vụ tai nạn nghiêm trọng",
-        "Tất cả mọi người đều không muốn ở nơi đó"
-      ],
-      "full_summary": "Blue Origin đang xây dựng lại cơ sở phóng sau vụ tai nạn nghiêm trọng. Các kỹ sư SpaceX dự đoán thời gian xây dựng sẽ dài hơn dự kiến, khoảng 2-3 năm. Cơ sở phóng sẽ được xây dựng lại để đảm bảo an toàn cho các chuyến phóng tương lai. Mọi người đều không muốn ở nơi đó sau vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4c09c7e86d04",
-      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
-      "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-03T10:47:30.094334+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Khôi phục mã nguồn Juggler raytracer Amiga năm 1987 của Eric Graham",
-      "bullets": [
-        "Khôi phục mã nguồn Amiga Juggler raytracer năm 1987",
-        "Mã nguồn được phục hồi bởi Alpha Pixel Dev",
-        "Juggler raytracer là một trong những raytracer sớm nhất trên Amiga",
-        "Mã nguồn sẽ giúp người dùng hiểu rõ hơn về công nghệ raytracer"
-      ],
-      "full_summary": "Một nhóm lập trình viên đã thành công trong việc khôi phục mã nguồn của Amiga Juggler raytracer năm 1987, một trong những raytracer sớm nhất trên Amiga. Mã nguồn đã được phục hồi bởi Alpha Pixel Dev và sẽ giúp người dùng hiểu rõ hơn về công nghệ raytracer. Juggler raytracer là một phần quan trọng trong lịch sử của công nghệ đồ họa và mã nguồn này sẽ giúp người dùng hiểu rõ hơn về quá trình phát triển của nó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ac70bc065a1c",
-      "title": "US and Iran launch new strikes as ceasefire negotiations stall",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T03:28:09.906336+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ và Iran tiếp tục tấn công sau khi đàm phán ngừng bắn trượt dốc",
-      "bullets": [
-        "Mỹ đã thực hiện các cuộc tấn công mới vào Iran và một tàu dầu",
-        "Tehran cho biết đã tấn công các căn cứ không quân Mỹ ở Vịnh",
-        "Đàm phán ngừng bắn giữa Mỹ và Iran đang gặp khó khăn",
-        "Tình hình ở khu vực Vịnh đang trở nên căng thẳng"
-      ],
-      "full_summary": "Mỹ và Iran đã tiếp tục tấn công lẫn nhau sau khi đàm phán ngừng bắn giữa hai bên trượt dốc. Mỹ đã thực hiện các cuộc tấn công mới vào Iran và một tàu dầu, trong khi Tehran cho biết đã tấn công các căn cứ không quân Mỹ ở Vịnh. Tình hình ở khu vực Vịnh đang trở nên căng thẳng, khiến nhiều người lo ngại về khả năng xảy ra xung đột lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8d10943b3155",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T03:28:11.186040+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Putin vẫn kiên quyết không nhượng bộ trong cuộc chiến Ukraine",
-      "bullets": [
-        "Nga đang gia tăng tấn công ở Ukraine",
-        "Tình hình chiến tranh gây lo ngại cho cả những người ủng hộ Putin",
-        "Đạo đức chiến tranh đang được thảo luận công khai ở Nga",
-        "Tình hình kinh tế Nga đang bị ảnh hưởng bởi cuộc chiến"
-      ],
-      "full_summary": "Nga đang đẩy mạnh tấn công ở Ukraine, nhưng sau bốn năm chiến tranh, cả những người ủng hộ Putin cũng bắt đầu lo ngại. Đạo đức chiến tranh đang được thảo luận công khai ở Nga, và tình hình kinh tế cũng đang bị ảnh hưởng. Mặc dù vậy, Putin vẫn kiên quyết không nhượng bộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2c3460415749",
-      "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
-      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T03:28:12.232011+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "DR Congo hủy trận giao hữu với Chile vì lo ngại Ebola",
-      "bullets": [
-        "Hủy trận giao hữu giữa DR Congo và Chile",
-        "Do lo ngại về dịch Ebola ở Cộng hòa Dân chủ Congo",
-        "Tổ chức trận đấu tại Tây Ban Nha",
-        "Cộng hòa Dân chủ Congo đang đối mặt với dịch Ebola"
-      ],
-      "full_summary": "DR Congo đã hủy trận giao hữu với Chile vào tuần tới tại Tây Ban Nha do lo ngại về dịch Ebola đang diễn ra tại Cộng hòa Dân chủ Congo. Đây là một quyết định được đưa ra sau khi các cơ quan chức năng tại Tây Ban Nha đề nghị hủy trận đấu để đảm bảo an toàn cho các cầu thủ và nhân viên. Dịch Ebola đang gây ra nhiều lo ngại ở Cộng hòa Dân chủ Congo, và việc hủy trận đấu này là một phần của nỗ lực ngăn chặn sự lây lan của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27ee2b073498",
-      "title": "Mysteriously missing congressman wins primary after Trump endorsement",
-      "url": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T03:28:13.289695+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Đại diện Cộng hòa Tom Kean Jr mất tích, vẫn thắng cử nhờ ủng hộ của Trump",
-      "bullets": [
-        "Tom Kean Jr bị mất tích ở Washington và khu vực New Jersey trong nhiều tháng",
-        "Ông vẫn thắng cử nhờ ủng hộ của Tổng thống Trump",
-        "Cơ quan điều tra đang tìm kiếm thông tin về việc mất tích của ông",
-        "Nhiều người đặt câu hỏi về tình trạng mất tích của đại diện Cộng hòa"
-      ],
-      "full_summary": "Đại diện Cộng hòa Tom Kean Jr đã mất tích ở Washington và khu vực New Jersey trong nhiều tháng. Mặc dù vậy, ông vẫn thắng cử nhờ ủng hộ của Tổng thống Trump. Cơ quan điều tra đang tìm kiếm thông tin về việc mất tích của ông. Nhiều người đặt câu hỏi về tình trạng mất tích của đại diện Cộng hòa.",
       "comments": 0,
       "score": 0
     }
