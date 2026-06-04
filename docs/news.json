@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-03T20:50:01.953643+00:00",
+  "updated_at": "2026-06-04T02:57:29.716475+00:00",
   "articles": [
+    {
+      "id": "55b02b377b03",
+      "title": "US House votes to halt Iran war, in rebuke to Trump",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T02:57:14.177329+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hạ viện Mỹ bỏ phiếu cấm chiến tranh với Iran",
+      "bullets": [
+        "Hạ viện Mỹ đã bỏ phiếu thông qua dự luật cấm Tổng thống Mỹ Donald Trump tham gia chiến tranh với Iran",
+        "Dự luật đã nhận được sự ủng hộ của 4 đảng viên Cộng hòa và đa số đảng viên Dân chủ",
+        "Đây là lần đầu tiên dự luật này được thông qua sau 3 lần thất bại trước đó"
+      ],
+      "full_summary": "Hạ viện Mỹ đã bỏ phiếu thông qua dự luật cấm Tổng thống Mỹ Donald Trump tham gia chiến tranh với Iran. Dự luật này đã nhận được sự ủng hộ của 4 đảng viên Cộng hòa và đa số đảng viên Dân chủ. Đây là lần đầu tiên dự luật này được thông qua sau 3 lần thất bại trước đó. Dự luật này sẽ phải được Thượng viện Mỹ xem xét và thông qua trước khi được ký thành luật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f48db6fc164",
+      "title": "Grab what you can while you can: The new reality in the South China Sea",
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T02:57:15.998088+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trung Quốc đang tạo ra thực tế mới ở Biển Đông",
+      "bullets": [
+        "Tạo ra đất để khẳng định chủ quyền",
+        "Các quốc gia khác đang làm theo",
+        "Thay đổi thực trạng ở Biển Đông",
+        "Tăng cường cạnh tranh quyền lực"
+      ],
+      "full_summary": "Sau nhiều năm theo dõi Trung Quốc tạo ra đất để khẳng định chủ quyền ở Biển Đông, các quốc gia khác đang bắt đầu làm theo. Điều này đang thay đổi thực trạng ở khu vực này và tăng cường cạnh tranh quyền lực. Các quốc gia đang tìm cách tạo ra đất để khẳng định chủ quyền của mình, trong khi Trung Quốc tiếp tục mở rộng ảnh hưởng của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "044785a5cfe4",
+      "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+      "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T02:57:16.971994+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Đức chỉ trích Nga vì thất bại trong ứng cử Hội đồng Bảo an Liên Hợp Quốc",
+      "bullets": [
+        "Nga bị Đức chỉ trích vì gây ra tâm lý chống Đức",
+        "Đức cho rằng Nga đã gây ra thất bại trong ứng cử Hội đồng Bảo an Liên Hợp Quốc",
+        "Nga đã gây ra sự bất đồng giữa Đức và các quốc gia khác",
+        "Đức sẽ tiếp tục ủng hộ Ukraine"
+      ],
+      "full_summary": "Đức đã thất bại trong ứng cử Hội đồng Bảo an Liên Hợp Quốc. Johann Wadephul cho rằng Nga đã gây ra tâm lý chống Đức vì ủng hộ Ukraine. Nga đã gây ra sự bất đồng giữa Đức và các quốc gia khác. Đức sẽ tiếp tục ủng hộ Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a9e2b32ac0b4",
+      "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
+      "url": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T02:57:18.011354+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Đảng Cộng hòa Mỹ bãi bỏ 1 tỷ USD cho phòng tiệc mới của Nhà Trắng",
+      "bullets": [
+        "Bãi bỏ khoản 1 tỷ USD cho phòng tiệc mới của Nhà Trắng",
+        "Trợ cấp nhập cư bị chậm lại do phản đối 'hỗ trợ chống vũ khí hóa'",
+        "Đề xuất ngân sách bị trì hoãn",
+        "Cơ quan nhập cư Mỹ bị ảnh hưởng"
+      ],
+      "full_summary": "Đảng Cộng hòa Mỹ đã bãi bỏ khoản 1 tỷ USD cho phòng tiệc mới của Nhà Trắng trong dự thảo ngân sách. Điều này đã dẫn đến việc chậm lại việc cấp trợ cấp cho cơ quan nhập cư. Phản đối 'hỗ trợ chống vũ khí hóa' đã trở thành một vấn đề lớn trong cuộc tranh luận. Dự thảo ngân sách đã bị trì hoãn do sự bất đồng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e3c9eb0e98e",
+      "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
+      "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T02:57:18.993366+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Microsoft phát triển chip lượng tử đáng tin cậy hơn 1.000 lần",
+      "bullets": [
+        "Microsoft đã tạo ra chip lượng tử mới đáng tin cậy hơn 1.000 lần so với tiền nhiệm",
+        "Công ty dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề có giá trị thương mại trước cuối thập kỷ",
+        "Máy tính lượng tử có thể giải quyết các vấn đề phức tạp mà các máy tính truyền thống không thể làm được",
+        "Công nghệ lượng tử có tiềm năng lớn trong nhiều lĩnh vực, bao gồm y tế, tài chính và môi trường"
+      ],
+      "full_summary": "Microsoft vừa công bố phát triển chip lượng tử mới đáng tin cậy hơn 1.000 lần so với tiền nhiệm. Công ty dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề có giá trị thương mại trước cuối thập kỷ. Máy tính lượng tử có thể giải quyết các vấn đề phức tạp mà các máy tính truyền thống không thể làm được, bao gồm tìm kiếm các phương pháp chữa bệnh mới và tối ưu hóa các quy trình kinh doanh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6146e8d50608",
+      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T02:57:20.036869+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Anh không phải trả Rwanda 100 triệu bảng",
+      "bullets": [
+        "Anh không phải trả Rwanda 100 triệu bảng",
+        "Tòa án quốc tế bác yêu cầu của Rwanda",
+        "Chương trình di dời người tị nạn bị đình chỉ",
+        "Đảng Lao động đã hủy bỏ chương trình này ngay từ ngày đầu"
+      ],
+      "full_summary": "Tòa án quốc tế đã bác yêu cầu của Rwanda, yêu cầu Anh phải trả 100 triệu bảng vì đã vi phạm thỏa thuận. Chương trình di dời người tị nạn được thiết lập bởi chính phủ Anh dưới thời Boris Johnson đã bị đình chỉ bởi Đảng Lao động ngay từ ngày đầu tiên nhậm chức. Rwanda đã kiện chính phủ Anh vì cho rằng họ đã vi phạm thỏa thuận và nên phải trả tiền.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "68d6bd6ae93d",
+      "title": "Possible flesh-eating screwworm infection detected in South Texas, USDA says",
+      "url": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-04T02:57:23.394274+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mối lo về côn trùng gây nhiễm trùng thịt ở Texas",
+      "bullets": [
+        "Xác định nhiễm trùng côn trùng gây hại ở Texas",
+        "Nếu xác nhận, đây sẽ là lần đầu tiên loài côn trùng này xâm nhập qua biên giới Mỹ-Mexico",
+        "USDA đang điều tra và xác minh tình hình",
+        "Nhiễm trùng có thể gây hại nghiêm trọng cho động vật và con người"
+      ],
+      "full_summary": "Theo Ars Technica, USDA đã xác định có thể có nhiễm trùng côn trùng gây hại ở Texas. Nếu xác nhận, đây sẽ là lần đầu tiên loài côn trùng này xâm nhập qua biên giới Mỹ-Mexico. Nhiễm trùng này có thể gây hại nghiêm trọng cho động vật và con người. USDA đang điều tra và xác minh tình hình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d9c535a423fd",
+      "title": "New social features further Plex’s evolution from media server business",
+      "url": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-04T02:57:26.836506+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Plex tăng cường tính năng xã hội để khám phá nội dung và thuê phim trực tuyến",
+      "bullets": [
+        "Tăng cường khả năng khám phá nội dung",
+        "Cung cấp các tính năng thuê phim trực tuyến",
+        "Phát triển từ một dịch vụ máy chủ phương tiện đa phương tiện",
+        "Tập trung vào việc khám phá nội dung và thuê phim trực tuyến"
+      ],
+      "full_summary": "Plex đang tập trung vào việc khám phá nội dung và thuê phim trực tuyến. Công ty đã tăng cường các tính năng xã hội để giúp người dùng khám phá nội dung mới. Điều này cho thấy sự chuyển đổi từ một dịch vụ máy chủ phương tiện đa phương tiện sang một nền tảng streaming toàn diện.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3fa029023446",
       "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
@@ -635,165 +794,6 @@
         "Nhiều người đặt câu hỏi về tình trạng mất tích của đại diện Cộng hòa"
       ],
       "full_summary": "Đại diện Cộng hòa Tom Kean Jr đã mất tích ở Washington và khu vực New Jersey trong nhiều tháng. Mặc dù vậy, ông vẫn thắng cử nhờ ủng hộ của Tổng thống Trump. Cơ quan điều tra đang tìm kiếm thông tin về việc mất tích của ông. Nhiều người đặt câu hỏi về tình trạng mất tích của đại diện Cộng hòa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cbee8e3a0397",
-      "title": "Do you find yourself aimlessly scrolling? You're not alone",
-      "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T03:28:14.204087+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nhiều người dùng điện thoại vô tình lướt web",
-      "bullets": [
-        "Một báo cáo của Virgin Media O2 cho thấy 36% thời gian sử dụng điện thoại không có mục đích rõ ràng",
-        "Người dùng thường xuyên lướt web vô tình trong khi chờ đợi hoặc làm việc khác",
-        "Báo cáo này cho thấy thói quen này phổ biến ở nhiều quốc gia"
-      ],
-      "full_summary": "Một báo cáo của Virgin Media O2 vừa công bố cho thấy 36% thời gian sử dụng điện thoại không có mục đích rõ ràng. Điều này cho thấy nhiều người dùng thường xuyên lướt web vô tình trong khi chờ đợi hoặc làm việc khác. Báo cáo này cho thấy thói quen này phổ biến ở nhiều quốc gia và có thể ảnh hưởng đến sức khỏe tinh thần của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b3ff73d36f0e",
-      "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-      "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T03:28:16.226283+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chín ngân hàng Anh được truy cập công cụ Mythos sau khi bị chặn",
-      "bullets": [
-        "Anthropic chặn truy cập công cụ Mythos của mình",
-        "OpenAI đưa ra đề nghị cho chín ngân hàng Anh",
-        "GPT 5.5 Cyber là công cụ trí tuệ nhân tạo mới của OpenAI",
-        "Anthropic và OpenAI là hai đối thủ cạnh tranh trong lĩnh vực trí tuệ nhân tạo"
-      ],
-      "full_summary": "Anthropic đã chặn truy cập công cụ Mythos của mình đối với chín ngân hàng Anh. Trong khi đó, OpenAI đã đưa ra đề nghị cho các ngân hàng này để truy cập công cụ GPT 5.5 Cyber. GPT 5.5 Cyber là công cụ trí tuệ nhân tạo mới của OpenAI, cạnh tranh với Mythos của Anthropic. Đây là một bước tiến mới trong lĩnh vực trí tuệ nhân tạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49fb0af91f07",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T03:28:17.287281+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Sự kiện Call of Duty sắp tới sẽ lấy bối cảnh cuộc xâm lược Bắc Triều Tiên",
-      "bullets": [
-        "Infinity Ward sẽ mang lại quân sự chân thực cho trò chơi",
-        "Game sẽ lấy bối cảnh cuộc xâm lược Bắc Triều Tiên",
-        "Sự kiện này đã gây ra nhiều tranh cãi trong cộng đồng game thủ",
-        "Infinity Ward cam kết mang lại trải nghiệm chân thực cho người chơi"
-      ],
-      "full_summary": "Infinity Ward, nhà phát triển trò chơi Call of Duty, đã công bố rằng trò chơi sắp tới sẽ lấy bối cảnh cuộc xâm lược Bắc Triều Tiên. Sự kiện này đã gây ra nhiều tranh cãi trong cộng đồng game thủ. Infinity Ward cam kết mang lại trải nghiệm chân thực cho người chơi, với sự tham gia của các chuyên gia quân sự. Trò chơi sẽ được phát hành vào năm sau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65383442b461",
-      "title": "Male bowerbirds hope to dazzle females with bright human-made items",
-      "url": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-03T03:28:20.585165+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Mèo chim bạo sĩ thích trang trí tổ bằng vật phẩm màu sắc của con người",
-      "bullets": [
-        "Sử dụng vật phẩm màu sắc của con người để trang trí tổ",
-        "Hoping để thu hút những con mái đẹp",
-        "Gợi nhớ cho chúng ta cách hoạt động của con người đang thay đổi thế giới tự nhiên theo những cách không lường trước được",
-        "Bộc lộ sự thích thú của mèo chim bạo sĩ với vật phẩm màu sắc của con người"
-      ],
-      "full_summary": "Các mèo chim bạo sĩ đang sử dụng vật phẩm màu sắc của con người để trang trí tổ của mình. Điều này cho thấy sự thích thú của chúng với vật phẩm màu sắc của con người và cách hoạt động của con người đang thay đổi thế giới tự nhiên. Các nhà khoa học đang theo dõi hiện tượng này để hiểu rõ hơn về hành vi của mèo chim bạo sĩ và tác động của hoạt động của con người lên môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e471778f8995",
-      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-03T03:28:25.157295+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google sắp phát hành tính năng phát hiện cuộc gọi giả mạo trên điện thoại Android",
-      "bullets": [
-        "Google sẽ cập nhật tính năng phát hiện cuộc gọi giả mạo và lừa đảo trên điện thoại Android",
-        "Tính năng mới sẽ giúp ngăn chặn các cuộc gọi giả mạo và lừa đảo",
-        "Google cũng sẽ hỗ trợ thêm cho tính năng AirDrop trên Android",
-        "Tính năng mới sẽ sử dụng trí tuệ nhân tạo để phát hiện và ngăn chặn các cuộc gọi giả mạo"
-      ],
-      "full_summary": "Google vừa công bố tính năng mới cho điện thoại Android, bao gồm khả năng phát hiện và ngăn chặn các cuộc gọi giả mạo và lừa đảo. Tính năng mới này sẽ sử dụng trí tuệ nhân tạo để phân tích và phát hiện các cuộc gọi giả mạo. Ngoài ra, Google cũng sẽ hỗ trợ thêm cho tính năng AirDrop trên Android, cho phép người dùng dễ dàng chia sẻ tệp tin và dữ liệu giữa các thiết bị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4e0f7da8c3c2",
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T20:38:04.616269+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Israel tấn công miền nam Liban nhưng thỏa thuận tạm thời với Hezbollah vẫn còn hiệu lực",
-      "bullets": [
-        "Israel tiếp tục chiến dịch ở miền nam",
-        "Không tấn công Beirut sau thỏa thuận được Mỹ công bố",
-        "Thỏa thuận này có thể giúp giảm căng thẳng giữa Israel và Hezbollah",
-        "Ngoại trưởng Mỹ đã gặp gỡ các đại diện từ Israel và Lebanon"
-      ],
-      "full_summary": "Israel tiếp tục chiến dịch quân sự ở miền nam Liban, mặc dù không tấn công thủ đô Beirut sau khi Mỹ công bố thỏa thuận giữa Israel và Hezbollah. Thỏa thuận này được cho là sẽ giúp giảm căng thẳng giữa hai bên. Ngoại trưởng Mỹ đã gặp gỡ các đại diện từ Israel và Lebanon để thảo luận về thỏa thuận này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c7f7262b6bd6",
-      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-      "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T20:38:05.794500+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ súng Nga làm tê liệt khu phố Kiev",
-      "bullets": [
-        "Tấn công của Nga gây thiệt hại nặng nề cho khu phố Kiev",
-        "Cư dân phải sống trong các hầm trú ẩn dưới lòng đất",
-        "Nạn nhân bị thương và thiệt hại vật chất",
-        "Tình hình vẫn còn bất ổn"
-      ],
-      "full_summary": "Một khu phố yên bình ở Kiev đã bị tấn công bởi Nga. Cư dân phải sống trong các hầm trú ẩn dưới lòng đất sau khi nghe thấy tiếng nổ lớn. Các hình ảnh về sự tàn phá đã được ghi lại khi người dân bước ra khỏi các hầm trú ẩn. Tình hình vẫn còn bất ổn và thiệt hại vật chất đang được đánh giá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0bb271b4caef",
-      "title": "Two arrested after four migrant farm workers killed in Italy minivan fire",
-      "url": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-02T20:38:06.889216+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai người bị bắt sau vụ chập điện trong xe buýt làm 4 công nhân nhập cư thiệt mạng",
-      "bullets": [
-        "Bị bắt hai người liên quan vụ chập điện",
-        "CCTV ghi lại hình ảnh hai người chặn cửa xe buýt",
-        "Hai người ném chất lỏng vào xe buýt để kích hoạt hỏa hoạn",
-        "Bốn công nhân nhập cư thiệt mạng trong vụ chập điện"
-      ],
-      "full_summary": "Hai người bị bắt sau khi bị phát hiện liên quan đến vụ chập điện trong xe buýt làm 4 công nhân nhập cư thiệt mạng ở Italy. Theo hình ảnh CCTV, hai người đã chặn cửa xe buýt và ném chất lỏng vào xe để kích hoạt hỏa hoạn. Vụ việc đã gây ra sự phẫn nộ trong cộng đồng và đang được điều tra.",
       "comments": 0,
       "score": 0
     }
