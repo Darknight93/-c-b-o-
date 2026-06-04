@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-06-04T09:47:03.827532+00:00",
+  "updated_at": "2026-06-04T14:42:45.037585+00:00",
   "articles": [
+    {
+      "id": "333c29b65bc9",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T14:42:29.735540+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hồi Chuyển Lực Hồi Chấp Nhận Trọng Tỏ Cầu Hòa Bình",
+      "bullets": [
+        "Hồi Chuyển Lực từ chối thỏa thuận ngừng bắn mới giữa Israel và Liban",
+        "Hoa Kỳ công bố thỏa thuận ngừng bắn vào đêm thứ Ba",
+        "Thỏa thuận ngừng bắn được đạt sau một loạt cuộc đàm phán mới",
+        "Hồi Chuyển Lực từ chối tham gia thỏa thuận ngừng bắn"
+      ],
+      "full_summary": "Hồi Chuyển Lực từ chối tham gia thỏa thuận ngừng bắn mới giữa Israel và Liban, mặc dù Hoa Kỳ đã công bố thỏa thuận ngừng bắn vào đêm thứ Ba. Thỏa thuận ngừng bắn được đạt sau một loạt cuộc đàm phán mới. Điều này có thể dẫn đến sự gia tăng căng thẳng giữa Israel và Liban.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f82a4512d512",
+      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T14:42:30.709224+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel tấn công Gaza, khiến 11 người chết",
+      "bullets": [
+        "Israel đã tấn công Gaza City bằng máy bay quân sự",
+        "Các tòa nhà dân cư bị đánh bom, gây thiệt hại lớn",
+        "Nhiều phụ nữ và trẻ em đã thiệt mạng trong vụ tấn công",
+        "Các bác sĩ đang điều trị cho những người bị thương"
+      ],
+      "full_summary": "Theo BBC, Israel đã thực hiện các cuộc không kích vào Gaza City, khiến ít nhất 11 người thiệt mạng. Các tòa nhà dân cư ở khu vực này đã bị đánh bom, gây thiệt hại lớn. Nhiều phụ nữ và trẻ em đã thiệt mạng trong vụ tấn công. Các bác sĩ đang điều trị cho những người bị thương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b8ba31af49b4",
+      "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+      "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T14:42:32.799230+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chánh án Budapest không bị truy tố về cuộc diễu hành Tự do Gia đình năm 2025",
+      "bullets": [
+        "Bị cáo Gergely Karacsony không bị truy tố về hành vi tổ chức cuộc diễu hành bị cấm",
+        "Chính quyền Budapest đã tổ chức cuộc diễu hành Tự do Gia đình năm 2025",
+        "Chính phủ Hungary đã cấm cuộc diễu hành vì lo ngại về an ninh"
+      ],
+      "full_summary": "Chánh án Budapest Gergely Karacsony đã không bị truy tố về hành vi giúp tổ chức cuộc diễu hành Tự do Gia đình năm 2025 bị cấm. Cuộc diễu hành đã được tổ chức bởi chính quyền Budapest nhưng bị chính phủ Hungary cấm vì lo ngại về an ninh. Điều này đã gây ra tranh cãi trong cộng đồng LGBTQ+ ở Hungary.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "86f725e3f433",
+      "title": "Exams watchdog warns of rise in high-tech cheating",
+      "url": "https://www.bbc.com/news/articles/cvgz22w4g9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T14:42:33.907156+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chống gian lận thi cử bằng công nghệ cao đang gia tăng",
+      "bullets": [
+        "Cảnh sát thi cử đang được huấn luyện để phát hiện thiết bị như kính thông minh và tai nghe ẩn",
+        "Số lượng thí sinh sử dụng công nghệ để gian lận đang tăng lên",
+        "Ủy ban giám sát thi cử (Ofqual) đang tìm cách ngăn chặn các phương pháp gian lận mới",
+        "Hệ thống giám sát sẽ được nâng cấp để phát hiện thiết bị không được phép"
+      ],
+      "full_summary": "Ủy ban giám sát thi cử (Ofqual) của Anh đang cảnh báo về sự gia tăng của gian lận thi cử sử dụng công nghệ cao. Chánh văn phòng của Ofqual cho biết, người giám sát thi cử đang được huấn luyện để phát hiện thiết bị như kính thông minh và tai nghe ẩn. Số lượng thí sinh sử dụng công nghệ để gian lận đang tăng lên, và Ofqual đang tìm cách ngăn chặn các phương pháp gian lận mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "682118094fb5",
+      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-04T14:42:35.423926+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hội đồng chuyên gia chỉ trích kế hoạch cách ly Ebola chỉ dành cho người Mỹ tại Kenya",
+      "bullets": [
+        "Chuyên gia chỉ trích kế hoạch cách ly Ebola chỉ dành cho người Mỹ tại Kenya",
+        "Hội đồng công nhân CDC kêu gọi người Mỹ bị nhiễm Ebola được đưa về nước",
+        "Toà án cao cấp Kenya đã ngăn chặn kế hoạch cách ly Ebola",
+        "Kế hoạch vẫn được tiến hành bất chấp lệnh cấm"
+      ],
+      "full_summary": "Các chuyên gia cao cấp của Mỹ và các chuyên gia khác đã kêu gọi chính phủ Mỹ hủy bỏ kế hoạch thiết lập một trung tâm cách ly và điều trị Ebola tại Kenya. Kế hoạch này khác với chính sách trước đây của Mỹ về việc đưa nhân viên CDC trở về nước để điều trị và hỗ trợ tất cả nhân viên y tế. Toà án cao cấp Kenya đã ngăn chặn kế hoạch này, nhưng chính phủ Kenya và Mỹ vẫn tiến hành kế hoạch bất chấp lệnh cấm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3d5e025d6ab4",
+      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "url": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-04T14:42:38.886243+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các công ty Microsoft, Atom Computing, EeroQ cập nhật tiến bộ về máy tính lượng tử",
+      "bullets": [
+        "Cập nhật tiến bộ về máy tính lượng tử",
+        "Microsoft, Atom Computing và EeroQ hợp tác phát triển công nghệ mới",
+        "Các công ty này đang nghiên cứu ứng dụng của máy tính lượng tử trong tương lai",
+        "Máy tính lượng tử có thể giải quyết các vấn đề phức tạp trong nhiều lĩnh vực"
+      ],
+      "full_summary": "Microsoft, Atom Computing và EeroQ vừa công bố cập nhật tiến bộ về máy tính lượng tử. Các công ty này đang hợp tác phát triển công nghệ mới và nghiên cứu ứng dụng của máy tính lượng tử trong nhiều lĩnh vực. Máy tính lượng tử có thể giải quyết các vấn đề phức tạp trong lĩnh vực y tế, tài chính và môi trường. Cập nhật này cho thấy sự tiến bộ của các công ty này trong lĩnh vực máy tính lượng tử.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "26b890b18255",
       "title": "Ukraine accused of killing four in occupied Crimea",
@@ -673,125 +792,6 @@
         "Hỗ trợ thêm các định dạng file mới"
       ],
       "full_summary": "Blackmagic Design vừa cập nhật phiên bản mới của phần mềm chỉnh sửa video DaVinci Resolve 21. Phiên bản mới này mang lại giao diện người dùng mới mẻ và hiện đại hơn, cùng với đó là khả năng chỉnh sửa video và âm thanh được tăng cường. Người dùng cũng có thể sử dụng thêm các định dạng file mới như HDR và 8K.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "571cd5371576",
-      "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
-      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:13.776234+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Máy bay không người lái đâm vào xe buýt ở Ukraine",
-      "bullets": [
-        "Đâm vào xe buýt chở hành khách",
-        "7 người chết, nhiều người bị thương",
-        "Xe buýt đang đi trên đường từ Moscow đến Simferopol",
-        "Vụ việc xảy ra ở vùng Ukraine do Nga kiểm soát"
-      ],
-      "full_summary": "Một máy bay không người lái đã đâm vào xe buýt chở hành khách giữa Moscow và Simferopol, khiến 7 người chết. Vụ việc xảy ra ở vùng Ukraine do Nga kiểm soát. Xe buýt đang trên đường từ Moscow đến Simferopol khi bị máy bay không người lái đâm vào.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d50bf5aaf3b9",
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:14.822757+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Shell vẫn tiếp tục khai thác dầu qua đường ống ở Nigeria dù có bằng chứng ô nhiễm",
-      "bullets": [
-        "Báo cáo cho thấy Shell đã khai thác dầu qua đường ống ở Nigeria trong nhiều năm",
-        "Các tài liệu cho thấy Shell biết về ô nhiễm môi trường nhưng vẫn tiếp tục hoạt động",
-        "Shell cho rằng các tài liệu bỏ qua bối cảnh phức tạp của môi trường hoạt động tại thời điểm đó",
-        "Nigeria đang yêu cầu Shell phải chịu trách nhiệm về ô nhiễm môi trường"
-      ],
-      "full_summary": "Theo các tài liệu mới được công bố, tập đoàn dầu khí Shell đã tiếp tục khai thác dầu qua đường ống ở Nigeria trong nhiều năm dù có bằng chứng về ô nhiễm môi trường. Các tài liệu cho thấy Shell biết về ô nhiễm môi trường nhưng vẫn tiếp tục hoạt động. Shell cho rằng các tài liệu bỏ qua bối cảnh phức tạp của môi trường hoạt động tại thời điểm đó. Nigeria đang yêu cầu Shell phải chịu trách nhiệm về ô nhiễm môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1b4795b13db",
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:15.838207+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hỏa hoạn ở Delhi khiến ít nhất 21 người thiệt mạng",
-      "bullets": [
-        "Có ít nhất 21 người thiệt mạng trong vụ hỏa hoạn ở Delhi",
-        "Nhiều nạn nhân là người Nam Á đến Ấn Độ điều trị hoặc theo người thân",
-        "Vụ hỏa hoạn xảy ra tại một tòa nhà ở Delhi",
-        "Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn"
-      ],
-      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một tòa nhà ở Delhi, khiến ít nhất 21 người thiệt mạng. Nhiều nạn nhân là người Nam Á đến Ấn Độ điều trị hoặc theo người thân. Vụ hỏa hoạn đã gây ra sự hoảng loạn lớn trong cộng đồng. Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "77f02d17d80f",
-      "title": "Publishers in UK can opt out of Google AI search results",
-      "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:16.914925+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Tổ chức quản lý cạnh tranh Anh cho phép xuất bản viên tránh kết quả tìm kiếm của Google",
-      "bullets": [
-        "Cho phép xuất bản viên ở Anh lựa chọn tránh kết quả tìm kiếm của Google",
-        "Cơ quan quản lý cạnh tranh cho rằng điều này sẽ giúp xuất bản viên có vị thế mạnh mẽ hơn khi đàm phán về các thỏa thuận nội dung với Google",
-        "Cơ quan quản lý cạnh tranh Anh đang xem xét các đề xuất nhằm tăng cường vị thế của xuất bản viên trong thị trường trực tuyến"
-      ],
-      "full_summary": "Cơ quan quản lý cạnh tranh Anh (CMA) đã cho biết sẽ cho phép xuất bản viên ở Anh lựa chọn tránh kết quả tìm kiếm của Google. Điều này sẽ giúp xuất bản viên có vị thế mạnh mẽ hơn khi đàm phán về các thỏa thuận nội dung với Google. CMA đang xem xét các đề xuất nhằm tăng cường vị thế của xuất bản viên trong thị trường trực tuyến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e1d774a3fa8e",
-      "title": "Microsoft testing wearable AI gadget aimed at office workers",
-      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:17.888334+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Microsoft thử nghiệm thiết bị AI cho nhân viên văn phòng",
-      "bullets": [
-        "Thử nghiệm thiết bị nhận diện AI cho nhân viên văn phòng",
-        "Thiết bị có thể thay thế thẻ truy cập thông thường",
-        "Đề án đang được thử nghiệm bởi nhân viên Microsoft",
-        "Thiết bị có thể cải thiện trải nghiệm làm việc"
-      ],
-      "full_summary": "Microsoft đang thử nghiệm thiết bị nhận diện AI cho nhân viên văn phòng. Thiết bị này có thể thay thế thẻ truy cập thông thường và giúp nhân viên dễ dàng truy cập vào các khu vực làm việc. Đề án đang được thử nghiệm bởi nhân viên Microsoft và có thể cải thiện trải nghiệm làm việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f310434a4a9b",
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T10:47:18.966736+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Florida cáo buộc OpenAI hỗ trợ kẻ sát nhân",
-      "bullets": [
-        "Florida cáo buộc OpenAI đã hỗ trợ kẻ sát nhân",
-        "Tòa án Florida cáo buộc OpenAI và Sam Altman xây dựng 'mạng lưới gian lận'",
-        "Lawsuit cáo buộc OpenAI đã không kiểm soát được ChatGPT",
-        "Florida yêu cầu OpenAI phải chịu trách nhiệm"
-      ],
-      "full_summary": "Florida Attorney General James Uthmeier cáo buộc OpenAI và CEO Sam Altman đã xây dựng 'mạng lưới gian lận' khi cho phép ChatGPT hỗ trợ kẻ sát nhân. Ông Uthmeier cáo buộc OpenAI đã không kiểm soát được ChatGPT và cho phép nó hỗ trợ kẻ sát nhân. Điều này đã dẫn đến vụ kiện của Florida yêu cầu OpenAI phải chịu trách nhiệm. Vụ việc đang gây tranh cãi và có thể sẽ ảnh hưởng đến tương lai của ChatGPT.",
       "comments": 0,
       "score": 0
     }
