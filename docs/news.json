@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-06-04T19:57:01.948080+00:00",
+  "updated_at": "2026-06-05T02:45:16.780829+00:00",
   "articles": [
+    {
+      "id": "bd80ae5c1b4e",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:00.582290+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Zelensky mời Putin gặp mặt trực tiếp để kết thúc chiến tranh",
+      "bullets": [
+        "Zelensky đề nghị Putin gặp mặt trực tiếp để kết thúc chiến tranh",
+        "Chỉ có sự tham gia trực tiếp mới có thể chấm dứt chiến tranh",
+        "Mỹ đang tập trung vào vấn đề Iran",
+        "Zelensky viết thư mở cho Putin để đề xuất cuộc gặp mặt"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky đã viết một bức thư mở cho Tổng thống Nga Vladimir Putin, đề nghị cuộc gặp mặt trực tiếp để kết thúc chiến tranh. Zelensky cho rằng chỉ có sự tham gia trực tiếp mới có thể chấm dứt chiến tranh. Trong khi đó, Mỹ đang tập trung vào vấn đề Iran. Zelensky hy vọng rằng cuộc gặp mặt trực tiếp sẽ giúp hai bên tìm được giải pháp hòa bình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "12c692f88708",
+      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:01.605773+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Vợ cũ của cháu rể vua Dubai bị bắt giữ",
+      "bullets": [
+        "Bị bắt giữ bởi các quan chức",
+        "Không liên lạc với bạn bè kể từ thứ Ba",
+        "Không có thông tin về lý do bị bắt giữ"
+      ],
+      "full_summary": "Một phụ nữ tên Zeynab Javadli, vợ cũ của cháu rể vua Dubai, đã bị bắt giữ bởi các quan chức. Cô không liên lạc với bất kỳ người bạn nào kể từ thứ Ba. Các quan chức chưa công bố lý do cho việc bắt giữ này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4804c33c0c78",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:02.552736+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Mangrove rừng phục hồi sau nhiều thập kỷ bị phá hủy",
+      "bullets": [
+        "Phục hồi sau nhiều thập kỷ bị phá hủy",
+        "Cung cấp nơi ẩn náu cho các loài động vật",
+        "Giảm thiểu tác động của bão và lũ lụt",
+        "Hỗ trợ sức khỏe của hệ sinh thái biển"
+      ],
+      "full_summary": "Mangrove rừng đang phục hồi sau nhiều thập kỷ bị phá hủy. Điều này mang lại lợi ích cho các cộng đồng ven biển và môi trường. Các nghiên cứu cho thấy rằng mangrove rừng đang phục hồi ở nhiều khu vực trên thế giới. Sự phục hồi này sẽ giúp giảm thiểu tác động của bão và lũ lụt, cũng như hỗ trợ sức khỏe của hệ sinh thái biển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "68ef47e0894c",
+      "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
+      "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:03.584639+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chi phí và quy mô phòng tiệc trong Nhà Trắng đã tăng gấp đôi trong một năm",
+      "bullets": [
+        "Tăng lên gấp đôi chi phí xây dựng phòng tiệc trong Nhà Trắng",
+        "Quy mô phòng tiệc đã được mở rộng đáng kể",
+        "Đổi mới lớn nhất trong nhiều thập kỷ đối với Nhà Trắng",
+        "BBC Verify kiểm tra sự thay đổi trong một năm qua"
+      ],
+      "full_summary": "BBC Verify đã kiểm tra sự thay đổi lớn nhất trong nhiều thập kỷ đối với Nhà Trắng. Chi phí và quy mô phòng tiệc trong Nhà Trắng đã tăng gấp đôi trong một năm. Điều này là kết quả của kế hoạch xây dựng lại phòng tiệc của cựu Tổng thống Donald Trump. Các thay đổi này đã gây ra sự tranh cãi và quan ngại về chi phí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "61ab687595d0",
+      "title": "Here's why election results in the second largest US city are so slow",
+      "url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:04.982479+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Kết quả bầu cử ở Los Angeles có thể chậm hơn dự kiến",
+      "bullets": [
+        "Có thể mất nhiều tuần để biết kết quả bầu cử ở California và Los Angeles",
+        "Quy trình kiểm phiếu và đếm phiếu bầu rất phức tạp",
+        "Số lượng cử tri tham gia bầu cử cao, khiến quá trình kiểm phiếu tốn thời gian",
+        "Các quan chức bầu cử đang làm việc để đảm bảo tính chính xác và công bằng"
+      ],
+      "full_summary": "Kết quả bầu cử ở Los Angeles có thể chậm hơn dự kiến do quy trình kiểm phiếu và đếm phiếu bầu phức tạp. Số lượng cử tri tham gia bầu cử cao, khiến quá trình kiểm phiếu tốn thời gian. Các quan chức bầu cử đang làm việc để đảm bảo tính chính xác và công bằng. Kết quả cuối cùng có thể được công bố sau nhiều tuần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65667e1ebf93",
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:06.171361+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mỹ chuẩn bị chống lại côn trùng ăn thịt bằng ruồi và chó",
+      "bullets": [
+        "Mỹ phát hiện côn trùng ăn thịt lần đầu tiên kể từ năm 1966",
+        "Côn trùng này đang gây lo ngại ở miền Nam Mỹ",
+        "Các chuyên gia sử dụng ruồi và chó để chống lại côn trùng này",
+        "Mục tiêu là ngăn chặn sự lây lan của côn trùng ăn thịt"
+      ],
+      "full_summary": "Mỹ đang đối mặt với một vấn đề nghiêm trọng về côn trùng ăn thịt. Côn trùng này đã được phát hiện lần đầu tiên kể từ năm 1966 và đang gây lo ngại ở miền Nam Mỹ. Các chuyên gia đang sử dụng ruồi và chó để chống lại côn trùng này và ngăn chặn sự lây lan. Mục tiêu là bảo vệ động vật và ngăn chặn sự lan truyền của bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4adb8614e630",
+      "title": "The ancient trick making food waste useful and tasty",
+      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:07.224639+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Fermentation biến chất thải thực phẩm thành nguyên liệu có giá trị",
+      "bullets": [
+        "Sử dụng quá trình lên men biến chất thải thực phẩm thành thực phẩm có giá trị",
+        "Làm giảm lượng chất thải thực phẩm và giảm chi phí sản xuất",
+        "Tạo ra các sản phẩm thực phẩm mới và đa dạng",
+        "Phát triển công nghệ lên men để sản xuất thực phẩm an toàn và chất lượng cao"
+      ],
+      "full_summary": "Fermentation đang trở thành một công nghệ quan trọng để biến chất thải thực phẩm thành nguyên liệu có giá trị. Quá trình lên men giúp giảm lượng chất thải thực phẩm và giảm chi phí sản xuất. Các công ty đang phát triển công nghệ lên men để sản xuất thực phẩm an toàn và chất lượng cao. Điều này không chỉ giúp giảm lãng phí thực phẩm mà còn tạo ra các sản phẩm thực phẩm mới và đa dạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cdc8e8397924",
+      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:08.150246+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Naomi Gleit vẫn ở trong công việc mơ ước dù Meta gặp nhiều tranh cãi",
+      "bullets": [
+        "Cô là nhân viên lâu năm nhất của Mark Zuckerberg",
+        "Cô chia sẻ về quan điểm của mình về AI và việc làm",
+        "Cô vẫn tiếp tục làm việc tại Meta sau nhiều cuộc tranh cãi",
+        "Cô nói công việc của mình là 'mơ ước' của mình"
+      ],
+      "full_summary": "Naomi Gleit là nhân viên lâu năm nhất của Meta, công ty do Mark Zuckerberg sáng lập. Cô đã trải qua nhiều cuộc tranh cãi tại công ty nhưng vẫn tiếp tục làm việc tại đây. Cô chia sẻ về quan điểm của mình về AI và việc làm. Cô nói công việc của mình là 'mơ ước' của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f28628cffde4",
+      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T02:45:10.306350+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Lloyds, Halifax và Bank of Scotland gặp sự cố trực tuyến",
+      "bullets": [
+        "Lloyds Bank thông báo gặp vấn đề với ứng dụng và ngân hàng trực tuyến",
+        "Hàng trăm khách hàng gặp khó khăn khi truy cập vào tài khoản",
+        "Các ngân hàng đang cố gắng sửa chữa sự cố",
+        "Lloyds Bank xin lỗi vì sự bất tiện"
+      ],
+      "full_summary": "Lloyds Bank, Halifax và Bank of Scotland đã gặp sự cố trực tuyến, khiến hàng trăm khách hàng gặp khó khăn khi truy cập vào tài khoản. Các ngân hàng đang cố gắng sửa chữa sự cố và xin lỗi vì sự bất tiện. Sự cố này đã gây ra sự khó chịu cho nhiều khách hàng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6b27826b636c",
+      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+      "url": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-05T02:45:14.571285+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cục FCC không vi phạm quyền xét xử của nhà mạng",
+      "bullets": [
+        "Cục FCC không vi phạm quyền xét xử của nhà mạng trong vụ bán dữ liệu vị trí",
+        "Tòa án Tối cao phán quyết 8-1 về vụ án này",
+        "AT&T và Verizon bị phạt vì bán dữ liệu vị trí mà không được sự đồng ý của khách hàng",
+        "Phán quyết này có thể ảnh hưởng đến ngành công nghệ và bảo vệ dữ liệu cá nhân"
+      ],
+      "full_summary": "Tòa án Tối cao Hoa Kỳ vừa đưa ra phán quyết 8-1 về vụ án giữa Cục Quản lý Truyền thông Liên bang (FCC) và các nhà mạng AT&T và Verizon. Phán quyết này cho rằng FCC không vi phạm quyền xét xử của nhà mạng trong vụ bán dữ liệu vị trí của khách hàng mà không được sự đồng ý. Điều này có thể ảnh hưởng đến ngành công nghệ và bảo vệ dữ liệu cá nhân.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f6740dc18e45",
       "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
@@ -588,205 +787,6 @@
         "Đảng Lao động đã hủy bỏ chương trình này ngay từ ngày đầu"
       ],
       "full_summary": "Tòa án quốc tế đã bác yêu cầu của Rwanda, yêu cầu Anh phải trả 100 triệu bảng vì đã vi phạm thỏa thuận. Chương trình di dời người tị nạn được thiết lập bởi chính phủ Anh dưới thời Boris Johnson đã bị đình chỉ bởi Đảng Lao động ngay từ ngày đầu tiên nhậm chức. Rwanda đã kiện chính phủ Anh vì cho rằng họ đã vi phạm thỏa thuận và nên phải trả tiền.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68d6bd6ae93d",
-      "title": "Possible flesh-eating screwworm infection detected in South Texas, USDA says",
-      "url": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-04T02:57:23.394274+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mối lo về côn trùng gây nhiễm trùng thịt ở Texas",
-      "bullets": [
-        "Xác định nhiễm trùng côn trùng gây hại ở Texas",
-        "Nếu xác nhận, đây sẽ là lần đầu tiên loài côn trùng này xâm nhập qua biên giới Mỹ-Mexico",
-        "USDA đang điều tra và xác minh tình hình",
-        "Nhiễm trùng có thể gây hại nghiêm trọng cho động vật và con người"
-      ],
-      "full_summary": "Theo Ars Technica, USDA đã xác định có thể có nhiễm trùng côn trùng gây hại ở Texas. Nếu xác nhận, đây sẽ là lần đầu tiên loài côn trùng này xâm nhập qua biên giới Mỹ-Mexico. Nhiễm trùng này có thể gây hại nghiêm trọng cho động vật và con người. USDA đang điều tra và xác minh tình hình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d9c535a423fd",
-      "title": "New social features further Plex’s evolution from media server business",
-      "url": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-04T02:57:26.836506+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Plex tăng cường tính năng xã hội để khám phá nội dung và thuê phim trực tuyến",
-      "bullets": [
-        "Tăng cường khả năng khám phá nội dung",
-        "Cung cấp các tính năng thuê phim trực tuyến",
-        "Phát triển từ một dịch vụ máy chủ phương tiện đa phương tiện",
-        "Tập trung vào việc khám phá nội dung và thuê phim trực tuyến"
-      ],
-      "full_summary": "Plex đang tập trung vào việc khám phá nội dung và thuê phim trực tuyến. Công ty đã tăng cường các tính năng xã hội để giúp người dùng khám phá nội dung mới. Điều này cho thấy sự chuyển đổi từ một dịch vụ máy chủ phương tiện đa phương tiện sang một nền tảng streaming toàn diện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3fa029023446",
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T20:49:46.483604+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Israel tấn công Lebanon, khiến chín người thiệt mạng",
-      "bullets": [
-        "Israel tiến hành các cuộc tấn công vào Lebanon",
-        "Hamas bắn rocket qua biên giới",
-        "Các sự kiện gây căng thẳng cho thỏa thuận ngừng bắn tạm thời",
-        "Thỏa thuận ngừng bắn được Israel và nhóm vũ trang Lebanon đồng ý vào thứ Ba"
-      ],
-      "full_summary": "Israel tiến hành các cuộc tấn công vào Lebanon, khiến chín người thiệt mạng, trong khi Hezbollah bắn rocket qua biên giới. Các sự kiện này gây căng thẳng cho thỏa thuận ngừng bắn tạm thời được Israel và nhóm vũ trang Lebanon đồng ý vào thứ Ba. Thỏa thuận ngừng bắn được ký kết nhằm giảm căng thẳng giữa hai bên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f584d5459832",
-      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T20:49:47.870342+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump và Netanyahu có cuộc gọi 'điên rồ' làm phức tạp đàm phán Iran",
-      "bullets": [
-        "Trump và Netanyahu có cuộc gọi gây tranh cãi",
-        "Netanyahu đã thử nghiệm sự kiên nhẫn của các tổng thống Mỹ trước đó",
-        "Cuộc gọi gây khó khăn cho đàm phán Iran",
-        "Netanyahu bác bỏ báo cáo về căng thẳng"
-      ],
-      "full_summary": "Cuộc gọi giữa Tổng thống Trump và Thủ tướng Israel Benjamin Netanyahu đã gây ra sự tranh cãi và phức tạp hóa đàm phán Iran. Theo báo cáo, cuộc gọi này đã thử nghiệm sự kiên nhẫn của các tổng thống Mỹ trước đó. Thủ tướng Netanyahu đã bác bỏ báo cáo về căng thẳng và cho rằng cuộc gọi này chỉ là một cuộc gọi bình thường. Tuy nhiên, cuộc gọi này đã gây khó khăn cho đàm phán Iran và có thể ảnh hưởng đến quá trình đàm phán này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "41c35387ea88",
-      "title": "Director Wim Wenders withdraws 1975 film over actress's teen topless scene",
-      "url": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T20:49:48.827732+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Đạo diễn Wim Wenders rút phim năm 1975 do cảnh khỏa thân của nữ diễn viên",
-      "bullets": [
-        "Wim Wenders rút phim năm 1975 vì cảnh khỏa thân của Nastassja Kinski",
-        "Nastassja Kinski nói đạo diễn không bảo vệ cô khi cô 13 tuổi",
-        "Cảnh khỏa thân được quay khi Nastassja Kinski mới 13 tuổi",
-        "Đạo diễn Wim Wenders rút phim khỏi các rạp chiếu"
-      ],
-      "full_summary": "Đạo diễn Wim Wenders đã rút phim năm 1975 của mình khỏi các rạp chiếu vì cảnh khỏa thân của nữ diễn viên Nastassja Kinski. Nastassja Kinski, người đã xuất hiện trong phim khi cô 13 tuổi, nói đạo diễn không bảo vệ cô. Cảnh khỏa thân được quay khi Nastassja Kinski mới 13 tuổi và đã gây tranh cãi từ lâu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "298da28f3eae",
-      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T20:49:49.864125+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hacker lừa AI chatbot Instagram để truy cập tài khoản người dùng",
-      "bullets": [
-        "Lừa đảo AI chatbot của Instagram",
-        "Tài khoản người dùng bị truy cập trái phép",
-        "Sự cố liên quan đến các vụ tấn công tài khoản Instagram nổi tiếng",
-        "Câu hỏi về bảo mật của Instagram được đặt ra"
-      ],
-      "full_summary": "Một số báo cáo cho rằng sự cố này liên quan đến các vụ tấn công tài khoản Instagram nổi tiếng gần đây. Hacker đã lừa AI chatbot của Instagram để truy cập trái phép vào tài khoản người dùng. Sự cố này đặt câu hỏi về bảo mật của Instagram và khả năng chống lại các cuộc tấn công mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0c2d74260959",
-      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T20:49:50.975205+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "WHO cho rằng dịch Ebola ở DRC có thể bắt đầu từ tháng 1",
-      "bullets": [
-        "WHO cho rằng dịch Ebola ở DRC có thể bắt đầu từ tháng 1",
-        "Tedros Adhanom Ghebreyesus chỉ trích các hạn chế di chuyển toàn diện",
-        "Cộng đồng nghi ngờ và thiếu sót trong việc theo dõi liên hệ là mối quan ngại chính",
-        "Cứu hộ đang bắt kịp nhưng vẫn còn nhiều thách thức"
-      ],
-      "full_summary": "Tedros Adhanom Ghebreyesus, người đứng đầu Tổ chức Y tế Thế giới, cho biết dịch Ebola ở Cộng hòa Dân chủ Congo có thể bắt đầu từ tháng 1. Điều này cho thấy virus đã có lợi thế lớn. Ông cũng chỉ trích các hạn chế di chuyển toàn diện và nhấn mạnh rằng cộng đồng nghi ngờ và thiếu sót trong việc theo dõi liên hệ là mối quan ngại chính. Cứu hộ đang bắt kịp nhưng vẫn còn nhiều thách thức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d47579b58361",
-      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
-      "url": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-03T20:49:52.230965+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hoa Kỳ muốn lập trại cách ly Ebola tại Kenya, dân địa phương lo sợ",
-      "bullets": [
-        "Lo ngại bị lây nhiễm virus Ebola",
-        "Khẳng định Hoa Kỳ áp dụng tiêu chuẩn khác biệt",
-        "Yêu cầu người nước ngoài cách ly tại quê hương",
-        "Critic đánh giá kế hoạch này là không hợp lý"
-      ],
-      "full_summary": "Hoa Kỳ đang có kế hoạch lập trại cách ly Ebola tại Nanyuki, Kenya. Người dân địa phương phản đối mạnh mẽ, lo sợ bị lây nhiễm virus Ebola. Họ cho rằng Hoa Kỳ đang áp dụng tiêu chuẩn khác biệt và yêu cầu người nước ngoài cách ly tại quê hương. Kế hoạch này đã gây ra nhiều tranh cãi và người dân Kenya đang kêu gọi phải xem xét lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "550e8db84d9f",
-      "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
-      "url": "https://brume.aftertone.co/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-03T20:49:57.926909+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Máy tạo âm thanh Brume ra mắt với 24 giọng nói đa chức năng",
-      "bullets": [
-        "Ra mắt máy tạo âm thanh Brume cho CM5",
-        "Cung cấp 24 giọng nói đa chức năng",
-        "Cho phép tạo âm thanh phong phú và đa dạng"
-      ],
-      "full_summary": "Máy tạo âm thanh Brume là một sản phẩm mới của Aftertone, cho phép tạo âm thanh phong phú và đa dạng với 24 giọng nói đa chức năng. Brume được thiết kế cho CM5 và cung cấp nhiều tính năng mới để giúp người dùng tạo âm thanh chuyên nghiệp. Máy tạo âm thanh Brume đang nhận được sự quan tâm của cộng đồng Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0074385c2ad6",
-      "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-      "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-03T20:50:01.453440+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Trí gen giúp phôi thai định hình chi",
-      "bullets": [
-        "Phôi thai sử dụng 'phanh gen' để định hình chi",
-        "Khám phá này giúp hiểu rõ hơn về sự phát triển của phôi thai",
-        "Các nhà khoa học tại Đại học Montreal đã thực hiện nghiên cứu này",
-        "Nghiên cứu này có thể giúp cải thiện kỹ thuật phẫu thuật và sinh sản"
-      ],
-      "full_summary": "Các nhà khoa học tại Đại học Montreal đã thực hiện một nghiên cứu quan trọng về sự phát triển của phôi thai. Họ đã phát hiện ra rằng phôi thai sử dụng 'phanh gen' để định hình chi. Khám phá này giúp hiểu rõ hơn về quá trình phát triển của phôi thai và có thể giúp cải thiện kỹ thuật phẫu thuật và sinh sản. Nghiên cứu này sẽ giúp mở đường cho các nghiên cứu tiếp theo về sự phát triển của phôi thai.",
       "comments": 0,
       "score": 0
     }
