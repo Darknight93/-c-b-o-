@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-05T02:45:16.780829+00:00",
+  "updated_at": "2026-06-05T09:35:57.333852+00:00",
   "articles": [
+    {
+      "id": "b7905dc6aa7e",
+      "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
+      "url": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T09:35:40.482830+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Trung Quốc đến thăm Bắc Triều Tiên",
+      "bullets": [
+        "Tổng thống Xi Jinping đến thăm Bắc Triều Tiên",
+        "Tổng thống Xi Jinping gặp lãnh đạo Kim Jong Un",
+        "Tổng thống Xi Jinping đến thăm sau khi gặp lãnh đạo Mỹ và Nga",
+        "Tổng thống Xi Jinping sẽ thảo luận về chính sách đối ngoại"
+      ],
+      "full_summary": "Tổng thống Trung Quốc Xi Jinping đã đến thăm Bắc Triều Tiên trong một chuyến thăm hiếm hoi. Chuyến thăm này diễn ra sau khi ông gặp lãnh đạo Mỹ và Nga, hai quốc gia có ảnh hưởng lớn đối với chính sách đối ngoại của Bắc Triều Tiên. Tổng thống Xi Jinping sẽ gặp lãnh đạo Kim Jong Un và thảo luận về các vấn đề quan trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c280615f9673",
+      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T09:35:41.556213+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Các nhà khoa học lo ngại AI phát triển tự chủ",
+      "bullets": [
+        "Khẳng định AI có thể tự phát triển mà không cần sự can thiệp của con người",
+        "Đe dọa đến sự kiểm soát và an toàn của AI",
+        "Cần có quy định và quản lý chặt chẽ để ngăn chặn tình trạng này"
+      ],
+      "full_summary": "Jack Clark, đồng sáng lập Anthropic, đã cảnh báo rằng AI có thể phát triển đến mức tự động mà không cần sự can thiệp của con người. Điều này có thể dẫn đến sự mất kiểm soát và an toàn của AI. Clark cho rằng cần có quy định và quản lý chặt chẽ để ngăn chặn tình trạng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f63d898f12e1",
+      "title": "Phone signal on trains not good enough most of the time, research says",
+      "url": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T09:35:42.646647+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 3,
+      "headline": "Tín hiệu điện thoại trên tàu thường không tốt",
+      "bullets": [
+        "Tìm thấy tín hiệu điện thoại trên tàu thường yếu",
+        "Các công ty viễn thông lớn không cung cấp tín hiệu tốt",
+        "Các công ty tàu xe chậm lại tốc độ Wi-Fi",
+        "Nghiên cứu của Ofcom chỉ ra vấn đề này"
+      ],
+      "full_summary": "Một nghiên cứu của Ofcom cho thấy tín hiệu điện thoại trên tàu thường không tốt. Các công ty viễn thông lớn không cung cấp tín hiệu tốt, trong khi các công ty tàu xe chậm lại tốc độ Wi-Fi. Điều này gây khó khăn cho hành khách trên tàu muốn sử dụng điện thoại hoặc truy cập internet.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f7626c0b3a4a",
+      "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T09:35:44.086793+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta cho phép nhân viên tạm dừng theo dõi dữ liệu trong 30 phút",
+      "bullets": [
+        "Meta cho phép nhân viên tạm dừng theo dõi dữ liệu trong 30 phút",
+        "Các nhân viên có thể tạm dừng dữ liệu được thu thập trong thời gian làm việc",
+        "Mục đích của tính năng này là cho phép nhân viên kiểm soát dữ liệu của mình",
+        "Tính năng mới sẽ được triển khai tại Meta"
+      ],
+      "full_summary": "Meta đã công bố tính năng mới cho phép nhân viên tạm dừng dữ liệu được thu thập trong thời gian làm việc. Theo một bản ghi nhớ nội bộ, các nhân viên có thể tạm dừng dữ liệu được thu thập trong 30 phút. Mục đích của tính năng này là cho phép nhân viên kiểm soát dữ liệu của mình. Tính năng mới sẽ được triển khai tại Meta để cho phép nhân viên kiểm soát dữ liệu của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9bf79b4bb049",
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T09:35:45.250570+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hiệp ước châu Phi phản đối quyền sinh sản và quyền của phụ nữ",
+      "bullets": [
+        "Xóa bỏ các quyền con người quốc tế",
+        "Hủy bỏ các thỏa thuận không phù hợp với các nguyên tắc của hiệp ước",
+        "Bảo vệ các giá trị và văn hóa châu Phi khỏi các ý thức hệ nước ngoài",
+        "Phản đối quyền bình đẳng giới và quyền sinh sản của phụ nữ"
+      ],
+      "full_summary": "Một hiệp ước châu Phi mới đang được thảo luận, cho rằng các quyền sinh sản và quyền của phụ nữ là mối đe dọa đối với gia đình châu Phi. Hiệp ước này đòi hỏi các quốc gia phải rút khỏi các thỏa thuận không phù hợp với các nguyên tắc của hiệp ước, bao gồm cả hiệp ước Maputo năm 2003. Các tổ chức nhân quyền đã lên án hiệp ước này là phản động và nguy hiểm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0c2d74260959",
+      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
+      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T09:35:46.443666+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "WHO cho biết đợt bùng phát Ebola ở Cộng hòa Dân chủ Congo có thể bắt đầu từ tháng 1",
+      "bullets": [
+        "Cơ quan Y tế Thế giới cho biết virus Ebola đã có lợi thế lớn",
+        "Cơ quan Y tế Thế giới lo ngại về các hạn chế du lịch toàn diện",
+        "Cơ quan Y tế Thế giới gặp khó khăn trong việc xây dựng lòng tin với cộng đồng",
+        "Cơ quan Y tế Thế giới chưa thể thực hiện đầy đủ các biện pháp theo dõi liên hệ"
+      ],
+      "full_summary": "Đại diện Cơ quan Y tế Thế giới cho biết đợt bùng phát Ebola ở Cộng hòa Dân chủ Congo có thể bắt đầu từ tháng 1. Điều này cho virus Ebola có lợi thế lớn. Tuy nhiên, cơ quan này cho biết họ đang bắt đầu có thể kiểm soát đợt bùng phát này. Các hạn chế du lịch toàn diện và mức độ thấp của các biện pháp theo dõi liên hệ là những thách thức lớn mà cơ quan này đang gặp phải.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "246a74a23f0a",
+      "title": "US imposes new sanctions on Cuban president and Castro family members",
+      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-05T09:35:47.662102+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ áp đặt trừng phạt mới lên Tổng thống Cuba và thành viên gia đình Castro",
+      "bullets": [
+        "Mỹ áp đặt trừng phạt mới lên Tổng thống Cuba và thành viên gia đình Castro",
+        "Tổng thống Mỹ xác định bất kỳ ai cung cấp dịch vụ cho các tổ chức bị liệt kê đều có nguy cơ bị trừng phạt",
+        "Các thành viên gia đình Castro bị trừng phạt bao gồm con trai và cháu trai của cựu Tổng thống Raúl Castro",
+        "Mỹ tiếp tục tăng cường áp lực lên Cuba"
+      ],
+      "full_summary": "Mỹ đã công bố các biện pháp trừng phạt mới đối với Tổng thống Cuba và một số thành viên gia đình ông, bao gồm con trai và cháu trai của cựu Tổng thống Raúl Castro. Tổng thống Mỹ Marco Rubio cho biết bất kỳ ai cung cấp dịch vụ cho các tổ chức bị liệt kê đều có nguy cơ bị trừng phạt. Các biện pháp trừng phạt này là một phần của chiến dịch áp lực của Mỹ đối với Cuba.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a8592df2ede",
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+      "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-05T09:35:50.080715+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Robot demo gây hiểu lầm về khả năng của robot",
+      "bullets": [
+        "Làm cho công chúng đánh giá thấp khả năng của robot",
+        "Đảo ngược sự thật về khả năng của robot",
+        "Gây hiểu lầm về tiến bộ công nghệ",
+        "Tạo ra kỳ vọng không thực tế về robot"
+      ],
+      "full_summary": "Các demo robot có thể gây hiểu lầm về khả năng của robot, làm cho công chúng đánh giá thấp khả năng của robot. Điều này có thể xảy ra khi các nhà phát triển robot tập trung vào việc tạo ra các demo ấn tượng hơn là các sản phẩm thực tế. Các demo robot thường được thiết kế để thể hiện khả năng của robot trong các tình huống cụ thể, nhưng chúng không thể đại diện cho khả năng thực tế của robot. Vì vậy, công chúng nên cẩn thận khi đánh giá khả năng của robot dựa trên các demo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5f8774bee48b",
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-05T09:35:54.968328+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hợp lực lượng lượng tử tạo ra không gian - thời gian, rồi 'tinh thần' cho nó trọng lực",
+      "bullets": [
+        "Tạo ra không gian - thời gian thông qua hợp lực lượng lượng tử",
+        "Hợp lực lượng lượng tử tạo ra trọng lực",
+        "Khám phá mới về bản chất của không gian và trọng lực",
+        "Cụ thể hóa lý thuyết lượng tử về không gian và trọng lực"
+      ],
+      "full_summary": "Các nhà khoa học đã khám phá ra cách hợp lực lượng lượng tử tạo ra không gian - thời gian và sau đó cho nó trọng lực. Điều này giúp cụ thể hóa lý thuyết lượng tử về không gian và trọng lực. Khám phá này có thể mở ra một thế giới mới về hiểu biết về bản chất của không gian và trọng lực.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "bd80ae5c1b4e",
       "title": "Zelensky proposes face-to-face talks in open letter to Putin",
@@ -609,184 +788,6 @@
         "Người dùng có thể dễ dàng bị cuốn vào các ứng dụng và không thể thoát khỏi chúng"
       ],
       "full_summary": "Một báo cáo của Virgin Media O2 chỉ ra rằng người dùng điện thoại thường xuyên lãng phí thời gian. Theo báo cáo, thời gian sử dụng điện thoại không có mục đích cụ thể chiếm 36% tổng thời gian. Điều này cho thấy thói quen này phổ biến và người dùng có thể dễ dàng bị cuốn vào các ứng dụng và không thể thoát khỏi chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "75bfbcb14fef",
-      "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
-      "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T09:46:53.885461+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tổn thương lớn ở Bắc Kivu do các cuộc tấn công của ADF",
-      "bullets": [
-        "Các cuộc tấn công của ADF đã giết hại 30 người ở Bắc Kivu.",
-        "Hơn 10 người đã bị giết trong các cuộc tấn công vào ba làng gần thành phố Beni.",
-        "Các cuộc tấn công đã làm phức tạp thêm việc đối phó với dịch Ebola.",
-        "Ba bệnh nhân nhiễm Ebola đã trốn khỏi bệnh viện."
-      ],
-      "full_summary": "Các cuộc tấn công của ADF đã gây ra thương vong lớn ở Bắc Kivu, làm phức tạp thêm việc đối phó với dịch Ebola. Theo báo cáo, hơn 10 người đã bị giết trong các cuộc tấn công vào ba làng gần thành phố Beni. Các cuộc tấn công này đã khiến ba bệnh nhân nhiễm Ebola trốn khỏi bệnh viện, làm tăng nguy cơ lây lan của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9bef2cb1b75c",
-      "title": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
-      "url": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T09:46:55.501324+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hộ chiếu bị hủy khi nạn nhân đã chết",
-      "bullets": [
-        "Một thẩm phán Mỹ đã ký lệnh trục xuất một thanh niên bị giết",
-        "Thẩm phán Amy Lee cho rằng nạn nhân không xuất hiện tại tòa án",
-        "Nạn nhân đã qua đời vào năm 2024 nhưng tòa án vẫn yêu cầu xuất hiện",
-        "Nạn nhân là một người Honduras đến Mỹ khi còn nhỏ"
-      ],
-      "full_summary": "Một thẩm phán ở Bắc Carolina, Mỹ, đã ký lệnh trục xuất một thanh niên tên Levi Mendez-Maldonado. Tuy nhiên, nạn nhân đã qua đời vào năm 2024. Thẩm phán Amy Lee cho rằng nạn nhân không xuất hiện tại tòa án, nhưng thực tế là nạn nhân đã chết. Nạn nhân là một người Honduras đến Mỹ khi còn nhỏ và được coi là một người tị nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d5c7b2f75116",
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-04T09:47:01.061587+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Truyền thông Anh thường xuyên không tiết lộ liên kết với ngành công nghiệp quốc phòng",
-      "bullets": [
-        "Phần lớn các chuyên gia quân sự và nhân viên ngành quốc phòng không tiết lộ thông tin liên quan",
-        "Truyền thông Anh không tuân thủ quy định tiết lộ thông tin liên quan",
-        "Nghiên cứu chỉ ra 58% trường hợp không tiết lộ thông tin liên quan"
-      ],
-      "full_summary": "Một nghiên cứu mới chỉ ra rằng gần 60% trường hợp, truyền thông Anh không tiết lộ thông tin liên quan đến các chuyên gia quân sự và nhân viên ngành quốc phòng. Điều này vi phạm quy định về tiết lộ thông tin liên quan. Nghiên cứu này cho thấy sự thiếu minh bạch trong truyền thông Anh và có thể ảnh hưởng đến quyết định của công chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "55b02b377b03",
-      "title": "US House votes to halt Iran war, in rebuke to Trump",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T02:57:14.177329+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hạ viện Mỹ bỏ phiếu cấm chiến tranh với Iran",
-      "bullets": [
-        "Hạ viện Mỹ đã bỏ phiếu thông qua dự luật cấm Tổng thống Mỹ Donald Trump tham gia chiến tranh với Iran",
-        "Dự luật đã nhận được sự ủng hộ của 4 đảng viên Cộng hòa và đa số đảng viên Dân chủ",
-        "Đây là lần đầu tiên dự luật này được thông qua sau 3 lần thất bại trước đó"
-      ],
-      "full_summary": "Hạ viện Mỹ đã bỏ phiếu thông qua dự luật cấm Tổng thống Mỹ Donald Trump tham gia chiến tranh với Iran. Dự luật này đã nhận được sự ủng hộ của 4 đảng viên Cộng hòa và đa số đảng viên Dân chủ. Đây là lần đầu tiên dự luật này được thông qua sau 3 lần thất bại trước đó. Dự luật này sẽ phải được Thượng viện Mỹ xem xét và thông qua trước khi được ký thành luật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f48db6fc164",
-      "title": "Grab what you can while you can: The new reality in the South China Sea",
-      "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T02:57:15.998088+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trung Quốc đang tạo ra thực tế mới ở Biển Đông",
-      "bullets": [
-        "Tạo ra đất để khẳng định chủ quyền",
-        "Các quốc gia khác đang làm theo",
-        "Thay đổi thực trạng ở Biển Đông",
-        "Tăng cường cạnh tranh quyền lực"
-      ],
-      "full_summary": "Sau nhiều năm theo dõi Trung Quốc tạo ra đất để khẳng định chủ quyền ở Biển Đông, các quốc gia khác đang bắt đầu làm theo. Điều này đang thay đổi thực trạng ở khu vực này và tăng cường cạnh tranh quyền lực. Các quốc gia đang tìm cách tạo ra đất để khẳng định chủ quyền của mình, trong khi Trung Quốc tiếp tục mở rộng ảnh hưởng của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "044785a5cfe4",
-      "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
-      "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T02:57:16.971994+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Đức chỉ trích Nga vì thất bại trong ứng cử Hội đồng Bảo an Liên Hợp Quốc",
-      "bullets": [
-        "Nga bị Đức chỉ trích vì gây ra tâm lý chống Đức",
-        "Đức cho rằng Nga đã gây ra thất bại trong ứng cử Hội đồng Bảo an Liên Hợp Quốc",
-        "Nga đã gây ra sự bất đồng giữa Đức và các quốc gia khác",
-        "Đức sẽ tiếp tục ủng hộ Ukraine"
-      ],
-      "full_summary": "Đức đã thất bại trong ứng cử Hội đồng Bảo an Liên Hợp Quốc. Johann Wadephul cho rằng Nga đã gây ra tâm lý chống Đức vì ủng hộ Ukraine. Nga đã gây ra sự bất đồng giữa Đức và các quốc gia khác. Đức sẽ tiếp tục ủng hộ Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a9e2b32ac0b4",
-      "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
-      "url": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T02:57:18.011354+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Đảng Cộng hòa Mỹ bãi bỏ 1 tỷ USD cho phòng tiệc mới của Nhà Trắng",
-      "bullets": [
-        "Bãi bỏ khoản 1 tỷ USD cho phòng tiệc mới của Nhà Trắng",
-        "Trợ cấp nhập cư bị chậm lại do phản đối 'hỗ trợ chống vũ khí hóa'",
-        "Đề xuất ngân sách bị trì hoãn",
-        "Cơ quan nhập cư Mỹ bị ảnh hưởng"
-      ],
-      "full_summary": "Đảng Cộng hòa Mỹ đã bãi bỏ khoản 1 tỷ USD cho phòng tiệc mới của Nhà Trắng trong dự thảo ngân sách. Điều này đã dẫn đến việc chậm lại việc cấp trợ cấp cho cơ quan nhập cư. Phản đối 'hỗ trợ chống vũ khí hóa' đã trở thành một vấn đề lớn trong cuộc tranh luận. Dự thảo ngân sách đã bị trì hoãn do sự bất đồng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7e3c9eb0e98e",
-      "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-      "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T02:57:18.993366+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Microsoft phát triển chip lượng tử đáng tin cậy hơn 1.000 lần",
-      "bullets": [
-        "Microsoft đã tạo ra chip lượng tử mới đáng tin cậy hơn 1.000 lần so với tiền nhiệm",
-        "Công ty dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề có giá trị thương mại trước cuối thập kỷ",
-        "Máy tính lượng tử có thể giải quyết các vấn đề phức tạp mà các máy tính truyền thống không thể làm được",
-        "Công nghệ lượng tử có tiềm năng lớn trong nhiều lĩnh vực, bao gồm y tế, tài chính và môi trường"
-      ],
-      "full_summary": "Microsoft vừa công bố phát triển chip lượng tử mới đáng tin cậy hơn 1.000 lần so với tiền nhiệm. Công ty dự đoán sẽ có máy tính lượng tử có thể giải quyết các vấn đề có giá trị thương mại trước cuối thập kỷ. Máy tính lượng tử có thể giải quyết các vấn đề phức tạp mà các máy tính truyền thống không thể làm được, bao gồm tìm kiếm các phương pháp chữa bệnh mới và tối ưu hóa các quy trình kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6146e8d50608",
-      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-04T02:57:20.036869+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Anh không phải trả Rwanda 100 triệu bảng",
-      "bullets": [
-        "Anh không phải trả Rwanda 100 triệu bảng",
-        "Tòa án quốc tế bác yêu cầu của Rwanda",
-        "Chương trình di dời người tị nạn bị đình chỉ",
-        "Đảng Lao động đã hủy bỏ chương trình này ngay từ ngày đầu"
-      ],
-      "full_summary": "Tòa án quốc tế đã bác yêu cầu của Rwanda, yêu cầu Anh phải trả 100 triệu bảng vì đã vi phạm thỏa thuận. Chương trình di dời người tị nạn được thiết lập bởi chính phủ Anh dưới thời Boris Johnson đã bị đình chỉ bởi Đảng Lao động ngay từ ngày đầu tiên nhậm chức. Rwanda đã kiện chính phủ Anh vì cho rằng họ đã vi phạm thỏa thuận và nên phải trả tiền.",
       "comments": 0,
       "score": 0
     }
