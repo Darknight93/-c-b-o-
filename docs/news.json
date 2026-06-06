@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-06-05T19:45:43.820597+00:00",
+  "updated_at": "2026-06-06T02:32:34.633010+00:00",
   "articles": [
+    {
+      "id": "8e8d3bce086d",
+      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T02:32:17.581310+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cư dân Mogadishu trốn chạy trước các vụ bắn súng",
+      "bullets": [
+        "Căng thẳng bùng phát ở Mogadishu",
+        "Cư dân phải trốn chạy khỏi các khu vực xung đột",
+        "Militia và quân đội Somalia đối đầu",
+        "Tổn hại tài sản và thiệt hại con người"
+      ],
+      "full_summary": "Căng thẳng bùng phát ở Mogadishu, Somalia, khi các lực lượng đối lập và quân đội Somalia đối đầu. Sự cố này diễn ra trước khi các cuộc biểu tình dự kiến diễn ra vào thứ Năm. Các cuộc đụng độ đã gây ra thiệt hại cho tài sản và khiến một số cư dân phải trốn chạy khỏi các khu vực xung đột.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d848b73dc3e2",
+      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
+      "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T02:32:18.636255+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Canada đồng ý di chuyển 30 cá voi trắng khỏi công viên biển Marineland",
+      "bullets": [
+        "Canada đồng ý di chuyển 30 cá voi trắng khỏi công viên biển Marineland",
+        "Cá voi trắng sẽ được chuyển đến các khu bảo tồn ở Tây Ban Nha hoặc Mỹ",
+        "Hợp đồng này sẽ kết thúc việc giữ cá voi trắng trong giam ở Canada",
+        "Động thái này được các tổ chức bảo vệ động vật hoang dã hoan nghênh"
+      ],
+      "full_summary": "Canada và công viên biển Marineland đã đạt được một thỏa thuận tạm thời về tương lai của 30 cá voi trắng. Theo thỏa thuận này, tất cả cá voi trắng của Marineland sẽ được chuyển đến Tây Ban Nha hoặc một trong bốn địa điểm ở Mỹ. Điều này sẽ kết thúc việc giữ cá voi trắng trong giam ở Canada. Các tổ chức bảo vệ động vật hoang dã đã hoan nghênh động thái này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "43e2dd5480e0",
+      "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
+      "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T02:32:19.753492+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai nàng thiếu nữ 14 và 17 tuổi bị sát hại ở Argentina",
+      "bullets": [
+        "Bị sát hại một cách tàn bạo",
+        "Đã có nhiều vụ giết hại phụ nữ trẻ ở Argentina",
+        "Chính quyền Javier Milei cắt giảm hỗ trợ cho nạn nhân bạo lực giới tính",
+        "Cộng đồng Argentina nổi giận và lo ngại về tình trạng bạo lực giới tính"
+      ],
+      "full_summary": "Argentina đang chìm trong cuộc khủng hoảng bạo lực giới tính khi hai nàng thiếu nữ 14 và 17 tuổi bị sát hại. Cơ quan cảnh sát đã tìm thấy thi thể Agostina Vega, 14 tuổi, bị ngạt thở và bị cắt thành nhiều mảnh. Những vụ giết hại này đã gây ra sự phẫn nộ và lo ngại về quyết định cắt giảm hỗ trợ cho nạn nhân bạo lực giới tính của chính quyền Javier Milei. Đây là một trong nhiều vụ giết hại phụ nữ trẻ ở Argentina.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ebe6f86647b3",
+      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+      "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-06T02:32:21.152156+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Cơ quan Dược phẩm Mỹ vẫn chưa xác định nguyên nhân và cách ngăn chặn bệnh botulism ở trẻ",
+      "bullets": [
+        "FDA đang điều tra nguyên nhân của bệnh botulism ở trẻ",
+        "Ba công ty liên quan đều đổ lỗi cho nhau",
+        "Cơ quan này vẫn chưa tìm ra cách ngăn chặn bệnh",
+        "Sự cố đang gây lo ngại cho phụ huynh và chuyên gia y tế"
+      ],
+      "full_summary": "Cơ quan Dược phẩm Mỹ (FDA) đang điều tra một vụ bùng phát bệnh botulism ở trẻ. Ba công ty liên quan đều đổ lỗi cho nhau, khiến FDA vẫn chưa tìm ra nguyên nhân và cách ngăn chặn bệnh. Sự cố này đang gây lo ngại cho phụ huynh và chuyên gia y tế. Cơ quan này đang cố gắng tìm ra giải pháp để ngăn chặn bệnh này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "06dd206e0d4b",
+      "title": "How a USB-connected speaker can infect a PC without ever being touched",
+      "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-06T02:32:22.089768+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Đầu phát Bluetooth Sound Blaster Katana V2X có thể bị xâm nhập qua không trung",
+      "bullets": [
+        "Có thể bị xâm nhập mà không cần chạm vào",
+        "Seller không coi đó là một lỗ hổng bảo mật",
+        "Có thể ảnh hưởng đến các thiết bị kết nối",
+        "Đã có nhiều đánh giá cao về sản phẩm"
+      ],
+      "full_summary": "Một sản phẩm đầu phát Bluetooth Sound Blaster Katana V2X đã được phát hiện có thể bị xâm nhập qua không trung mà không cần chạm vào. Seller của sản phẩm này không coi đó là một lỗ hổng bảo mật. Điều này có thể ảnh hưởng đến các thiết bị kết nối. Sản phẩm đã nhận được nhiều đánh giá cao từ người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "801db74048f7",
+      "title": "Small modular nuclear reactor reaches criticality in first test",
+      "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-06T02:32:23.202737+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Máy phản ứng hạt nhân nhỏ đạt được trạng thái hoạt động",
+      "bullets": [
+        "Đạt được trạng thái hoạt động trong thử nghiệm đầu tiên",
+        "Không sẵn sàng để tạo ra năng lượng điện",
+        "Startup Antares đang phát triển công nghệ này",
+        "Cơ quan kiểm soát hạt nhân đang theo dõi tiến độ"
+      ],
+      "full_summary": "Máy phản ứng hạt nhân nhỏ của startup Antares đã đạt được trạng thái hoạt động trong thử nghiệm đầu tiên. Tuy nhiên, nó vẫn chưa sẵn sàng để tạo ra năng lượng điện. Cơ quan kiểm soát hạt nhân đang theo dõi tiến độ của dự án này. Máy phản ứng hạt nhân nhỏ có thể là một giải pháp thay thế cho các nhà máy điện hạt nhân truyền thống.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "817102efcf60",
+      "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+      "url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-06T02:32:24.134489+00:00",
+      "category": "khoa học",
+      "importance": 5,
+      "headline": "Kính viễn vọng vũ trụ gặp rò rỉ không khí",
+      "bullets": [
+        "Tìm kiếm nguyên nhân rò rỉ trên module của Nga",
+        "Hành khách vũ trụ phải ẩn náu vì không an toàn",
+        "Nỗ lực sửa chữa đang được tiến hành",
+        "Roscosmos và NASA hợp tác giải quyết vấn đề"
+      ],
+      "full_summary": "Kính viễn vọng vũ trụ quốc tế đang gặp vấn đề nghiêm trọng khi có rò rỉ không khí. Điều này khiến các hành khách vũ trụ phải ẩn náu vì không an toàn. Nỗ lực sửa chữa đang được tiến hành và Roscosmos và NASA đang hợp tác giải quyết vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ce98e9fb336b",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-06T02:32:25.101476+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "S&P 500 chặn SpaceX khỏi quỹ đầu tư",
+      "bullets": [
+        "Chính sách S&P 500 ngăn chặn SpaceX tiếp cận vốn từ các nhà đầu tư thụ động",
+        "Cơ quan này cũng từ chối cho phép OpenAI và Anthropic vào quỹ",
+        "Các công ty không sinh lời sẽ không được miễn trừ khỏi quy định",
+        "Nhiều công ty công nghệ lớn bị ảnh hưởng bởi quyết định này"
+      ],
+      "full_summary": "S&P 500 đã từ chối cho phép SpaceX, OpenAI và Anthropic vào quỹ đầu tư của mình. Theo Ars Technica, chính sách này ngăn chặn SpaceX tiếp cận vốn từ các nhà đầu tư thụ động. Các công ty không sinh lời sẽ không được miễn trừ khỏi quy định. Quyết định này ảnh hưởng đến nhiều công ty công nghệ lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "baaee9bab9e5",
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "url": "https://classic100.gotski.workers.dev/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-06T02:32:27.368178+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một ứng dụng trực tuyến hiển thị xếp hạng ABC Classic 100",
+      "bullets": [
+        "Ứng dụng trực tuyến hiển thị xếp hạng ABC Classic 100 từ các năm trước",
+        "Ứng dụng chưa có chức năng tìm kiếm",
+        "Mã nguồn có thể được tối ưu hóa",
+        "Ứng dụng chưa được kiểm tra trên nhiều thiết bị"
+      ],
+      "full_summary": "Ứng dụng trực tuyến hiển thị xếp hạng ABC Classic 100 từ các năm trước đã được phát triển và được công bố trên Hacker News. Ứng dụng cho phép người dùng xem xếp hạng từ các năm trước nhưng chưa có chức năng tìm kiếm. Người phát triển cho biết mã nguồn có thể được tối ưu hóa và ứng dụng chưa được kiểm tra trên nhiều thiết bị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "733c13312c9a",
+      "title": "Alzheimer's patient gets back speech, bladder control and memory in drug trial",
+      "url": "https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-06T02:32:28.440027+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Bệnh nhân Alzheimer hồi phục ngôn ngữ, kiểm soát tiểu tiện và trí nhớ",
+      "bullets": [
+        "Hồi phục ngôn ngữ sau thử nghiệm thuốc",
+        "Kiểm soát tiểu tiện trở lại sau nhiều năm",
+        "Trí nhớ và khả năng học hỏi cải thiện đáng kể",
+        "Kết quả thử nghiệm thuốc đầy hứa hẹn"
+      ],
+      "full_summary": "Một bệnh nhân Alzheimer đã trải qua thử nghiệm thuốc mới và đạt được kết quả đầy hứa hẹn. Bệnh nhân đã hồi phục ngôn ngữ, kiểm soát tiểu tiện và trí nhớ sau nhiều năm. Kết quả này được coi là bước tiến quan trọng trong việc tìm kiếm phương pháp điều trị cho bệnh Alzheimer. Điều này có thể mở ra cánh cửa mới cho việc nghiên cứu và phát triển thuốc điều trị cho bệnh này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "02ead6a71b23",
+      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
+      "source": "Science Daily",
+      "icon": "🔭",
+      "fetched_at": "2026-06-06T02:32:33.002239+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Lửa xoáy có thể làm sạch dầu tràn nhanh hơn và ít ô nhiễm hơn",
+      "bullets": [
+        "Làm sạch dầu tràn nhanh hơn 95%",
+        "Giảm khí thải khói bụi 40%",
+        "Bảo vệ môi trường biển nhạy cảm",
+        "Tăng hiệu suất làm sạch dầu tràn"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã chứng minh rằng lửa xoáy kiểm soát có thể làm sạch dầu tràn nhanh hơn và ít ô nhiễm hơn so với phương pháp đốt truyền thống. Lửa xoáy có thể tiêu thụ đến 95% dầu và giảm khí thải khói bụi 40%. Điều này có thể giúp ngăn dầu tràn đến các khu vực biển nhạy cảm.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d88261d2c805",
       "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
@@ -573,225 +793,6 @@
         "Tạo ra kỳ vọng không thực tế về robot"
       ],
       "full_summary": "Các demo robot có thể gây hiểu lầm về khả năng của robot, làm cho công chúng đánh giá thấp khả năng của robot. Điều này có thể xảy ra khi các nhà phát triển robot tập trung vào việc tạo ra các demo ấn tượng hơn là các sản phẩm thực tế. Các demo robot thường được thiết kế để thể hiện khả năng của robot trong các tình huống cụ thể, nhưng chúng không thể đại diện cho khả năng thực tế của robot. Vì vậy, công chúng nên cẩn thận khi đánh giá khả năng của robot dựa trên các demo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5f8774bee48b",
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-05T09:35:54.968328+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Hợp lực lượng lượng tử tạo ra không gian - thời gian, rồi 'tinh thần' cho nó trọng lực",
-      "bullets": [
-        "Tạo ra không gian - thời gian thông qua hợp lực lượng lượng tử",
-        "Hợp lực lượng lượng tử tạo ra trọng lực",
-        "Khám phá mới về bản chất của không gian và trọng lực",
-        "Cụ thể hóa lý thuyết lượng tử về không gian và trọng lực"
-      ],
-      "full_summary": "Các nhà khoa học đã khám phá ra cách hợp lực lượng lượng tử tạo ra không gian - thời gian và sau đó cho nó trọng lực. Điều này giúp cụ thể hóa lý thuyết lượng tử về không gian và trọng lực. Khám phá này có thể mở ra một thế giới mới về hiểu biết về bản chất của không gian và trọng lực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bd80ae5c1b4e",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:00.582290+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Zelensky mời Putin gặp mặt trực tiếp để kết thúc chiến tranh",
-      "bullets": [
-        "Zelensky đề nghị Putin gặp mặt trực tiếp để kết thúc chiến tranh",
-        "Chỉ có sự tham gia trực tiếp mới có thể chấm dứt chiến tranh",
-        "Mỹ đang tập trung vào vấn đề Iran",
-        "Zelensky viết thư mở cho Putin để đề xuất cuộc gặp mặt"
-      ],
-      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky đã viết một bức thư mở cho Tổng thống Nga Vladimir Putin, đề nghị cuộc gặp mặt trực tiếp để kết thúc chiến tranh. Zelensky cho rằng chỉ có sự tham gia trực tiếp mới có thể chấm dứt chiến tranh. Trong khi đó, Mỹ đang tập trung vào vấn đề Iran. Zelensky hy vọng rằng cuộc gặp mặt trực tiếp sẽ giúp hai bên tìm được giải pháp hòa bình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "12c692f88708",
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:01.605773+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Vợ cũ của cháu rể vua Dubai bị bắt giữ",
-      "bullets": [
-        "Bị bắt giữ bởi các quan chức",
-        "Không liên lạc với bạn bè kể từ thứ Ba",
-        "Không có thông tin về lý do bị bắt giữ"
-      ],
-      "full_summary": "Một phụ nữ tên Zeynab Javadli, vợ cũ của cháu rể vua Dubai, đã bị bắt giữ bởi các quan chức. Cô không liên lạc với bất kỳ người bạn nào kể từ thứ Ba. Các quan chức chưa công bố lý do cho việc bắt giữ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4804c33c0c78",
-      "title": "Mangrove forests are healing after decades of human destruction",
-      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:02.552736+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mangrove rừng phục hồi sau nhiều thập kỷ bị phá hủy",
-      "bullets": [
-        "Phục hồi sau nhiều thập kỷ bị phá hủy",
-        "Cung cấp nơi ẩn náu cho các loài động vật",
-        "Giảm thiểu tác động của bão và lũ lụt",
-        "Hỗ trợ sức khỏe của hệ sinh thái biển"
-      ],
-      "full_summary": "Mangrove rừng đang phục hồi sau nhiều thập kỷ bị phá hủy. Điều này mang lại lợi ích cho các cộng đồng ven biển và môi trường. Các nghiên cứu cho thấy rằng mangrove rừng đang phục hồi ở nhiều khu vực trên thế giới. Sự phục hồi này sẽ giúp giảm thiểu tác động của bão và lũ lụt, cũng như hỗ trợ sức khỏe của hệ sinh thái biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68ef47e0894c",
-      "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
-      "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:03.584639+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chi phí và quy mô phòng tiệc trong Nhà Trắng đã tăng gấp đôi trong một năm",
-      "bullets": [
-        "Tăng lên gấp đôi chi phí xây dựng phòng tiệc trong Nhà Trắng",
-        "Quy mô phòng tiệc đã được mở rộng đáng kể",
-        "Đổi mới lớn nhất trong nhiều thập kỷ đối với Nhà Trắng",
-        "BBC Verify kiểm tra sự thay đổi trong một năm qua"
-      ],
-      "full_summary": "BBC Verify đã kiểm tra sự thay đổi lớn nhất trong nhiều thập kỷ đối với Nhà Trắng. Chi phí và quy mô phòng tiệc trong Nhà Trắng đã tăng gấp đôi trong một năm. Điều này là kết quả của kế hoạch xây dựng lại phòng tiệc của cựu Tổng thống Donald Trump. Các thay đổi này đã gây ra sự tranh cãi và quan ngại về chi phí.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "61ab687595d0",
-      "title": "Here's why election results in the second largest US city are so slow",
-      "url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:04.982479+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Kết quả bầu cử ở Los Angeles có thể chậm hơn dự kiến",
-      "bullets": [
-        "Có thể mất nhiều tuần để biết kết quả bầu cử ở California và Los Angeles",
-        "Quy trình kiểm phiếu và đếm phiếu bầu rất phức tạp",
-        "Số lượng cử tri tham gia bầu cử cao, khiến quá trình kiểm phiếu tốn thời gian",
-        "Các quan chức bầu cử đang làm việc để đảm bảo tính chính xác và công bằng"
-      ],
-      "full_summary": "Kết quả bầu cử ở Los Angeles có thể chậm hơn dự kiến do quy trình kiểm phiếu và đếm phiếu bầu phức tạp. Số lượng cử tri tham gia bầu cử cao, khiến quá trình kiểm phiếu tốn thời gian. Các quan chức bầu cử đang làm việc để đảm bảo tính chính xác và công bằng. Kết quả cuối cùng có thể được công bố sau nhiều tuần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65667e1ebf93",
-      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
-      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:06.171361+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mỹ chuẩn bị chống lại côn trùng ăn thịt bằng ruồi và chó",
-      "bullets": [
-        "Mỹ phát hiện côn trùng ăn thịt lần đầu tiên kể từ năm 1966",
-        "Côn trùng này đang gây lo ngại ở miền Nam Mỹ",
-        "Các chuyên gia sử dụng ruồi và chó để chống lại côn trùng này",
-        "Mục tiêu là ngăn chặn sự lây lan của côn trùng ăn thịt"
-      ],
-      "full_summary": "Mỹ đang đối mặt với một vấn đề nghiêm trọng về côn trùng ăn thịt. Côn trùng này đã được phát hiện lần đầu tiên kể từ năm 1966 và đang gây lo ngại ở miền Nam Mỹ. Các chuyên gia đang sử dụng ruồi và chó để chống lại côn trùng này và ngăn chặn sự lây lan. Mục tiêu là bảo vệ động vật và ngăn chặn sự lan truyền của bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4adb8614e630",
-      "title": "The ancient trick making food waste useful and tasty",
-      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:07.224639+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Fermentation biến chất thải thực phẩm thành nguyên liệu có giá trị",
-      "bullets": [
-        "Sử dụng quá trình lên men biến chất thải thực phẩm thành thực phẩm có giá trị",
-        "Làm giảm lượng chất thải thực phẩm và giảm chi phí sản xuất",
-        "Tạo ra các sản phẩm thực phẩm mới và đa dạng",
-        "Phát triển công nghệ lên men để sản xuất thực phẩm an toàn và chất lượng cao"
-      ],
-      "full_summary": "Fermentation đang trở thành một công nghệ quan trọng để biến chất thải thực phẩm thành nguyên liệu có giá trị. Quá trình lên men giúp giảm lượng chất thải thực phẩm và giảm chi phí sản xuất. Các công ty đang phát triển công nghệ lên men để sản xuất thực phẩm an toàn và chất lượng cao. Điều này không chỉ giúp giảm lãng phí thực phẩm mà còn tạo ra các sản phẩm thực phẩm mới và đa dạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cdc8e8397924",
-      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:08.150246+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Naomi Gleit vẫn ở trong công việc mơ ước dù Meta gặp nhiều tranh cãi",
-      "bullets": [
-        "Cô là nhân viên lâu năm nhất của Mark Zuckerberg",
-        "Cô chia sẻ về quan điểm của mình về AI và việc làm",
-        "Cô vẫn tiếp tục làm việc tại Meta sau nhiều cuộc tranh cãi",
-        "Cô nói công việc của mình là 'mơ ước' của mình"
-      ],
-      "full_summary": "Naomi Gleit là nhân viên lâu năm nhất của Meta, công ty do Mark Zuckerberg sáng lập. Cô đã trải qua nhiều cuộc tranh cãi tại công ty nhưng vẫn tiếp tục làm việc tại đây. Cô chia sẻ về quan điểm của mình về AI và việc làm. Cô nói công việc của mình là 'mơ ước' của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f28628cffde4",
-      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
-      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T02:45:10.306350+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Lloyds, Halifax và Bank of Scotland gặp sự cố trực tuyến",
-      "bullets": [
-        "Lloyds Bank thông báo gặp vấn đề với ứng dụng và ngân hàng trực tuyến",
-        "Hàng trăm khách hàng gặp khó khăn khi truy cập vào tài khoản",
-        "Các ngân hàng đang cố gắng sửa chữa sự cố",
-        "Lloyds Bank xin lỗi vì sự bất tiện"
-      ],
-      "full_summary": "Lloyds Bank, Halifax và Bank of Scotland đã gặp sự cố trực tuyến, khiến hàng trăm khách hàng gặp khó khăn khi truy cập vào tài khoản. Các ngân hàng đang cố gắng sửa chữa sự cố và xin lỗi vì sự bất tiện. Sự cố này đã gây ra sự khó chịu cho nhiều khách hàng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6b27826b636c",
-      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
-      "url": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-05T02:45:14.571285+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cục FCC không vi phạm quyền xét xử của nhà mạng",
-      "bullets": [
-        "Cục FCC không vi phạm quyền xét xử của nhà mạng trong vụ bán dữ liệu vị trí",
-        "Tòa án Tối cao phán quyết 8-1 về vụ án này",
-        "AT&T và Verizon bị phạt vì bán dữ liệu vị trí mà không được sự đồng ý của khách hàng",
-        "Phán quyết này có thể ảnh hưởng đến ngành công nghệ và bảo vệ dữ liệu cá nhân"
-      ],
-      "full_summary": "Tòa án Tối cao Hoa Kỳ vừa đưa ra phán quyết 8-1 về vụ án giữa Cục Quản lý Truyền thông Liên bang (FCC) và các nhà mạng AT&T và Verizon. Phán quyết này cho rằng FCC không vi phạm quyền xét xử của nhà mạng trong vụ bán dữ liệu vị trí của khách hàng mà không được sự đồng ý. Điều này có thể ảnh hưởng đến ngành công nghệ và bảo vệ dữ liệu cá nhân.",
       "comments": 0,
       "score": 0
     }
