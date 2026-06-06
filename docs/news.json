@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-06T08:26:57.776148+00:00",
+  "updated_at": "2026-06-06T13:16:41.449000+00:00",
   "articles": [
+    {
+      "id": "29d48895e8f6",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:25.794226+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Máy bay không người lái Ukraine tấn công St Petersburg",
+      "bullets": [
+        "Tấn công nhằm vào St Petersburg",
+        "Thống đốc yêu cầu dân cư ở trong nhà",
+        "Lần đầu tiên kể từ khi chiến tranh nổ ra",
+        "Nga gọi đây là 'sự kiện chưa từng có'"
+      ],
+      "full_summary": "Máy bay không người lái Ukraine đã tấn công thành phố St Petersburg của Nga. Đây là lần đầu tiên kể từ khi chiến tranh nổ ra, thống đốc thành phố đã yêu cầu dân cư ở trong nhà. Nga gọi đây là 'sự kiện chưa từng có'. Sự kiện này đã gây ra sự lo ngại về an ninh ở khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c0422089e9e9",
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:26.799328+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Israel tấn công Lebanon, 3 binh sĩ thiệt mạng",
+      "bullets": [
+        "Israel đang điều tra vụ tấn công",
+        "Vụ tấn công xảy ra tại miền nam Lebanon",
+        "Israel đang chiến đấu với Hezbollah",
+        "3 binh sĩ Lebanon thiệt mạng trong vụ tấn công"
+      ],
+      "full_summary": "Israel đang điều tra vụ tấn công một chiếc xe ở miền nam Lebanon, nơi Israel đang chiến đấu với Hezbollah. Vụ tấn công đã khiến 3 binh sĩ Lebanon thiệt mạng. Israel đang điều tra vụ việc và chưa có thông tin chi tiết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6874206ffa96",
+      "title": "Man dies after bitten by shark in Western Australia, police say",
+      "url": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:27.784895+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông bị nhảy múa bởi cá mập khi lặn ở Tây Úc",
+      "bullets": [
+        "Bị cá mập tấn công khi lặn ở đảo Michaelmas",
+        "Người đàn ông này đang đi lặn với gia đình",
+        "Cá mập tấn công khi người đàn ông đang đi lặn",
+        "Người đàn ông đã tử vong sau khi bị cá mập tấn công"
+      ],
+      "full_summary": "Một người đàn ông đã tử vong sau khi bị cá mập tấn công khi lặn ở đảo Michaelmas, Tây Úc. Người đàn ông này đang đi lặn với gia đình. Cá mập tấn công khi người đàn ông đang đi lặn. Người đàn ông đã tử vong sau khi bị cá mập tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c280615f9673",
+      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:28.696589+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nghiên cứu viên cảnh báo AI có thể phát triển độc lập",
+      "bullets": [
+        "Cảnh báo AI có thể phát triển mà không cần sự tham gia của con người",
+        "Jack Clark, đồng sáng lập Anthropic, cho rằng AI có thể trở nên quá mạnh",
+        "Tác giả lo ngại AI có thể trở thành mối đe dọa đối với xã hội",
+        "Nghiên cứu viên kêu gọi cần phải kiểm soát sự phát triển của AI"
+      ],
+      "full_summary": "Jack Clark, đồng sáng lập Anthropic, đã cảnh báo rằng AI có thể phát triển độc lập mà không cần sự tham gia của con người. Ông cho rằng AI có thể trở nên quá mạnh và trở thành mối đe dọa đối với xã hội. Nghiên cứu viên kêu gọi cần phải kiểm soát sự phát triển của AI để tránh những hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a21e6b742d48",
+      "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:30.738945+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Dịch Ebola ở Trung Phi có thể lan rộng như năm 2014",
+      "bullets": [
+        "CDC Mỹ dự đoán dịch Ebola có thể lan rộng trên 'con đường nguy hiểm'",
+        "Mô hình tính toán cho thấy số ca nhiễm Ebola có thể lên đến 20.000",
+        "Dịch bệnh khó dự đoán và có thể lan rộng nhanh chóng"
+      ],
+      "full_summary": "Theo CDC Mỹ, dịch Ebola ở Trung Phi có thể lan rộng như năm 2014, khi có hơn 28.000 ca nhiễm và hơn 11.000 người chết. Các mô hình tính toán cho thấy số ca nhiễm Ebola có thể lên đến 20.000. Dịch bệnh khó dự đoán và có thể lan rộng nhanh chóng, nhưng các chuyên gia cảnh báo rằng các biện pháp phòng ngừa và điều trị vẫn cần được thực hiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9bf79b4bb049",
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:31.969935+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hiệp ước châu Phi phản đối quyền sinh sản và nhân quyền",
+      "bullets": [
+        "Xóa bỏ các cam kết nhân quyền quốc tế",
+        "Đánh giá quyền sinh sản và nhân quyền là mối đe dọa đối với gia đình châu Phi",
+        "Khuyến khích các quốc gia rút khỏi các thỏa thuận không phù hợp với nguyên tắc hiệp ước",
+        "Phản đối các giá trị và văn hóa châu Phi bị tấn công bởi 'ideologies nước ngoài'"
+      ],
+      "full_summary": "Một hiệp ước châu Phi mới đang được xem xét, cho rằng các giá trị và văn hóa châu Phi đang bị tấn công bởi 'ideologies nước ngoài'. Hiệp ước này kêu gọi các quốc gia rút khỏi các thỏa thuận không phù hợp với nguyên tắc hiệp ước, bao gồm cả hiệp ước Maputo năm 2003, bảo vệ quyền sinh sản và nhân quyền của phụ nữ và trẻ em gái.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "75bfbcb14fef",
+      "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
+      "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:33.247956+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Các nhóm phiến quân tấn công ở DRC khiến 30 người thiệt mạng",
+      "bullets": [
+        "Tấn công của các nhóm phiến quân liên quan đến Nhà nước Hồi giáo khiến 30 người thiệt mạng ở Bắc Kivu",
+        "Các nhóm phiến quân đã tấn công ba ngôi làng ở khu vực xung quanh thành phố Beni",
+        "Các bệnh nhân mắc bệnh Ebola đã bỏ trốn khỏi các bệnh viện ở khu vực bị ảnh hưởng",
+        "Các nỗ lực chống lại dịch bệnh Ebola bị ảnh hưởng nghiêm trọng"
+      ],
+      "full_summary": "Các nhóm phiến quân liên quan đến Nhà nước Hồi giáo đã tấn công ba ngôi làng ở khu vực xung quanh thành phố Beni ở Bắc Kivu, khiến 30 người thiệt mạng. Các nhóm phiến quân đã tấn công vào ban đêm và gây ra nhiều thương vong. Các bệnh nhân mắc bệnh Ebola đã bỏ trốn khỏi các bệnh viện ở khu vực bị ảnh hưởng, khiến nỗ lực chống lại dịch bệnh Ebola bị ảnh hưởng nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "05139bee7b92",
+      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-06T13:16:34.345682+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Cán bộ Walmart Canada đầu tiên ký thỏa thuận hợp tác với công đoàn",
+      "bullets": [
+        "Ký thỏa thuận hợp tác đầu tiên với Walmart Canada",
+        "Thỏa thuận này đánh dấu bước ngoặt trong cuộc đấu tranh của công đoàn",
+        "Công đoàn tuyên bố thỏa thuận này chỉ là bước đầu tiên trong cuộc chiến để tổ chức lao động lớn hơn",
+        "Thỏa thuận này được coi là một bước tiến quan trọng trong lịch sử công đoàn"
+      ],
+      "full_summary": "Cán bộ Walmart Canada đã ký thỏa thuận hợp tác đầu tiên với công đoàn. Thỏa thuận này đánh dấu bước ngoặt trong cuộc đấu tranh của công đoàn. Công đoàn tuyên bố thỏa thuận này chỉ là bước đầu tiên trong cuộc chiến để tổ chức lao động lớn hơn. Thỏa thuận này được coi là một bước tiến quan trọng trong lịch sử công đoàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a80813a45dd",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-06T13:16:38.687672+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Google chi 920 triệu USD mỗi tháng cho dịch vụ tính toán của SpaceX",
+      "bullets": [
+        "Google ký hợp đồng với SpaceX",
+        "Dịch vụ tính toán của SpaceX sẽ được sử dụng bởi Google",
+        "Mức phí 920 triệu USD mỗi tháng",
+        "Hợp đồng có thể mang lại lợi ích cho cả hai công ty"
+      ],
+      "full_summary": "Google vừa ký hợp đồng với SpaceX để sử dụng dịch vụ tính toán của họ. Mức phí cho dịch vụ này là 920 triệu USD mỗi tháng. Hợp đồng này có thể mang lại lợi ích cho cả hai công ty, giúp họ mở rộng khả năng tính toán và tăng cường cạnh tranh trên thị trường. Dịch vụ tính toán của SpaceX sẽ được sử dụng bởi Google để hỗ trợ các hoạt động của họ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0c2d38434c38",
       "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
@@ -616,185 +795,6 @@
         "Tuy nhiên, nhiều chuyên gia cho rằng ngành than không thể hồi sinh"
       ],
       "full_summary": "Cơ quan Trump đã đề xuất một kế hoạch mới để cứu ngành than đang suy tàn. Theo kế hoạch, các nhà máy than đang hoạt động sẽ được tài trợ để tiếp tục sản xuất. Đồng thời, sẽ xây dựng các nhà máy than mới đầu tiên trong hơn một thập kỷ. Tuy nhiên, nhiều chuyên gia cho rằng ngành than không thể hồi sinh do sự thay đổi nhanh chóng của thị trường năng lượng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eae5b7782c2f",
-      "title": "Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.",
-      "url": "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-05T19:45:40.377338+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Audi công bố xe thể thao mới, Nuvolari, với động cơ V8 và điện",
-      "bullets": [
-        "Xuất hiện một chiếc xe thể thao mới của Audi, Nuvolari",
-        "Động cơ V8 kết hợp với pin điện, mang lại hiệu suất cao",
-        "Nuvolari không phải là phiên bản kế nhiệm của R8",
-        "Chiếc xe thể thao mới của Audi được thiết kế để cạnh tranh với các đối thủ khác"
-      ],
-      "full_summary": "Audi vừa công bố một chiếc xe thể thao mới, Nuvolari, với động cơ V8 và điện. Chiếc xe này được thiết kế để cạnh tranh với các đối thủ khác trong phân khúc xe thể thao. Mặc dù không phải là phiên bản kế nhiệm của R8, Nuvolari vẫn mang lại hiệu suất cao nhờ động cơ V8 kết hợp với pin điện. Chiếc xe thể thao mới của Audi được kỳ vọng sẽ mang lại trải nghiệm lái thú vị cho người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "004963613492",
-      "title": "Three of our worst VC stories",
-      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-05T19:45:43.320371+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ba câu chuyện tồi tệ nhất về VC Việt Nam",
-      "bullets": [
-        "Trả lời các câu chuyện tồi tệ về VC Việt Nam",
-        "Đánh giá các sai lầm trong các dự án VC",
-        "Khuyến khích các ý tưởng mới cho VC Việt Nam"
-      ],
-      "full_summary": "Câu chuyện này trên Hacker News đã đề cập đến 3 câu chuyện tồi tệ nhất về VC Việt Nam. Các câu chuyện này bao gồm các sai lầm trong các dự án VC và các ý tưởng không hiệu quả. Bài đăng này hy vọng sẽ giúp các nhà đầu tư và doanh nhân có thể học hỏi từ những sai lầm này và tạo ra các ý tưởng mới cho VC Việt Nam.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "72ea2c74262b",
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
-      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T14:32:24.045891+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ukraine tấn công tàu chở hàng bất hợp pháp ở Biển Azov",
-      "bullets": [
-        "Ukraine tấn công 5 tàu chở hàng bất hợp pháp",
-        "Ukraine thừa nhận vụ nổ drone ở Romania",
-        "Chủ tịch Putin chuẩn bị phát biểu quan trọng",
-        "Tình hình Ukraine tiếp tục căng thẳng"
-      ],
-      "full_summary": "Ukraine vừa tuyên bố tấn công 5 tàu chở hàng bất hợp pháp ở Biển Azov và vùng biển ven bờ của lãnh thổ do Nga chiếm đóng. Trong khi đó, Ukraine cũng thừa nhận vụ nổ drone ở Romania. Chủ tịch Putin đang chuẩn bị phát biểu quan trọng, trong bối cảnh tình hình Ukraine tiếp tục căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ab5e3b18db8b",
-      "title": "Fury in France after child murder suspect's criminal record released",
-      "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T14:32:25.192970+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một nghi phạm sát hại trẻ em có tiền sử bị nghi ngờ lạm dụng tình dục trẻ em",
-      "bullets": [
-        "Bị nghi ngờ sát hại một cô bé 11 tuổi",
-        "Có tiền sử bị nghi ngờ lạm dụng tình dục trẻ em",
-        "Cơ quan chức năng đang điều tra vụ án",
-        "Nghi phạm bị bắt giữ và đang được thẩm vấn"
-      ],
-      "full_summary": "Một nghi phạm đang bị điều tra vì tội sát hại một cô bé 11 tuổi ở Pháp. Theo hồ sơ, nghi phạm này đã từng bị nghi ngờ lạm dụng tình dục trẻ em. Cơ quan chức năng đang điều tra vụ án và nghi phạm đã bị bắt giữ. Nghi phạm đang được thẩm vấn để xác định tội danh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "07ff0959af39",
-      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T14:32:26.210536+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hơn 50 người chết khát trong sa mạc Sahara sau khi xe tải bị hỏng",
-      "bullets": [
-        "Hàng trăm người bị mắc kẹt trong sa mạc Sahara sau khi xe tải bị hỏng",
-        "Chỉ có hai người sống sót sau khi đi bộ hơn 50km để báo cáo với cơ quan chức năng",
-        "Nhiều người đã chết vì khát nước trong điều kiện thời tiết khắc nghiệt",
-        "Tình huống này đã gây ra sự chú ý lớn về an toàn giao thông và cứu hộ"
-      ],
-      "full_summary": "Một vụ tai nạn nghiêm trọng đã xảy ra trong sa mạc Sahara khi một xe tải bị hỏng, khiến hàng trăm người bị mắc kẹt. Chỉ có hai người sống sót sau khi đi bộ hơn 50km để báo cáo với cơ quan chức năng. Nhiều người đã chết vì khát nước trong điều kiện thời tiết khắc nghiệt. Vụ việc này đã gây ra sự chú ý lớn về an toàn giao thông và cứu hộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6604110495e6",
-      "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
-      "url": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T14:32:27.361908+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Diễn viên Mỹ James Handy bị đâm tử vong",
-      "bullets": [
-        "Một người đàn ông bị bắt giữ vì liên quan đến vụ giết người",
-        "Chàng trai này là con trai của người bạn gái của diễn viên James Handy",
-        "James Handy, 81 tuổi, nổi tiếng với các vai diễn trong các bộ phim như Jumanji và Top Gun: Maverick",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Diễn viên Mỹ James Handy đã qua đời ở tuổi 81 sau khi bị đâm. Người đàn ông bị bắt giữ là con trai của người bạn gái của Handy. Vụ việc đang được điều tra và chưa có thông tin chi tiết. Handy nổi tiếng với các vai diễn trong các bộ phim như Jumanji và Top Gun: Maverick.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ecb5f9d97f25",
-      "title": "Hospitality jobs boom as US prepares for World Cup",
-      "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T14:32:28.590923+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "Sự bùng nổ việc làm trong ngành du lịch Mỹ chuẩn bị cho World Cup",
-      "bullets": [
-        "Mỹ đã có 3 tháng liên tiếp công bố số liệu việc làm vượt dự kiến.",
-        "Sự bùng nổ việc làm trong ngành du lịch Mỹ đang trở thành xu hướng mới.",
-        "Mỹ chuẩn bị cho World Cup 2026, tạo cơ hội việc làm mới cho hàng triệu người.",
-        "Sự tăng trưởng việc làm trong ngành du lịch Mỹ đang mang lại nhiều cơ hội cho người lao động."
-      ],
-      "full_summary": "Mỹ đã có 3 tháng liên tiếp công bố số liệu việc làm vượt dự kiến. Sự bùng nổ việc làm trong ngành du lịch Mỹ đang trở thành xu hướng mới. Mỹ chuẩn bị cho World Cup 2026, tạo cơ hội việc làm mới cho hàng triệu người. Sự tăng trưởng việc làm trong ngành du lịch Mỹ đang mang lại nhiều cơ hội cho người lao động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "531e9fe57928",
-      "title": "Raspberry Pi raises profit forecast as AI demand grows",
-      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T14:32:29.509984+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Raspberry Pi tăng dự báo lợi nhuận nhờ nhu cầu AI tăng cao",
-      "bullets": [
-        "Tăng dự báo lợi nhuận lên ít nhất 38 triệu USD cho nửa đầu năm 2026",
-        "Nhu cầu về trí tuệ nhân tạo đang tăng cao",
-        "Raspberry Pi dự kiến tăng lợi nhuận nhờ vào nhu cầu này",
-        "Dự báo lợi nhuận được công bố sau khi công ty công bố kết quả kinh doanh"
-      ],
-      "full_summary": "Raspberry Pi đã tăng dự báo lợi nhuận lên ít nhất 38 triệu USD cho nửa đầu năm 2026. Điều này được công bố sau khi nhu cầu về trí tuệ nhân tạo đang tăng cao. Công ty dự kiến tăng lợi nhuận nhờ vào nhu cầu này. Dự báo lợi nhuận được công bố sau khi công ty công bố kết quả kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69b2683cc7ec",
-      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
-      "url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T14:32:30.388507+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Giới thiệu các thuật ngữ tiền điện tử khó hiểu",
-      "bullets": [
-        "Giải thích về Bitcoin và sự sụt giảm giá trị",
-        "Khái quát về blockchain và ứng dụng của nó",
-        "Định nghĩa về cryptocurrency và sự khác biệt",
-        "Giới thiệu về các loại tiền điện tử khác nhau"
-      ],
-      "full_summary": "Giá trị của Bitcoin một lần nữa sụt giảm, dẫn đến sự nhầm lẫn về các thuật ngữ tiền điện tử. Bài viết này sẽ giải thích về Bitcoin, blockchain, cryptocurrency và các loại tiền điện tử khác nhau. Blockchain là một công nghệ lưu trữ dữ liệu an toàn và minh bạch, được sử dụng trong nhiều ứng dụng khác nhau. Cryptocurrency là một loại tiền điện tử được tạo ra bằng cách sử dụng công nghệ blockchain.",
       "comments": 0,
       "score": 0
     }
