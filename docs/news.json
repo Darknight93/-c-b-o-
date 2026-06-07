@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-06T19:09:59.310407+00:00",
+  "updated_at": "2026-06-07T02:51:26.764264+00:00",
   "articles": [
+    {
+      "id": "11bf0aef931b",
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T02:51:12.053669+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Bộ trưởng Quốc phòng Mỹ chỉ trích châu Âu vì vấn đề di cư",
+      "bullets": [
+        "Bộ trưởng Quốc phòng Mỹ chỉ trích châu Âu vì cho phép di cư quá mức",
+        "Hegseth so sánh di cư với cuộc xâm lược Normandy trong Thế chiến II",
+        "Nhiều quốc gia châu Âu đang đối mặt với thách thức lớn về di cư",
+        "Hegseth lên án châu Âu vì không có biện pháp hiệu quả để kiểm soát di cư"
+      ],
+      "full_summary": "Bộ trưởng Quốc phòng Mỹ, Hegseth, đã lên án châu Âu vì cho phép di cư quá mức trong một bài phát biểu tại Normandy, 82 năm sau khi lực lượng đồng minh phát động cuộc xâm lược vùng Bắc Tây Âu để giải phóng khỏi sự chiếm đóng của Đức Quốc xã. Ông Hegseth đã so sánh di cư với cuộc xâm lược Normandy, gây ra sự phẫn nộ trong dư luận. Nhiều quốc gia châu Âu đang đối mặt với thách thức lớn về di cư, và Hegseth đã lên án châu Âu vì không có biện pháp hiệu quả để kiểm soát di cư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3317090311f6",
+      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T02:51:13.058924+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Trẻ sơ sinh bị bắn chết bởi lính Israel tại khu vực chiếm đóng",
+      "bullets": [
+        "Bà mẹ của trẻ bị thương trong vụ bắn",
+        "Lính Israel cho rằng trẻ bị bắn nhầm",
+        "Trẻ được chôn cất trong nghi thức quốc tang",
+        "Tình hình khu vực chiếm đóng tiếp tục căng thẳng"
+      ],
+      "full_summary": "Một bé trai 7 tháng tuổi đã bị bắn chết bởi lính Israel tại khu vực chiếm đóng ở Tây Tạng. Vụ việc đã gây ra sự phẫn nộ trong cộng đồng Palestine. Lính Israel cho rằng trẻ bị bắn nhầm, nhưng gia đình của trẻ phản đối. Trẻ được chôn cất trong nghi thức quốc tang.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "57bd8982f16a",
+      "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "url": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T02:51:14.272836+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Pope ca ngợi nỗ lực của Tây Ban Nha trong việc phản đối chiến tranh và ủng hộ người tị nạn",
+      "bullets": [
+        "Pope chúc mừng Tây Ban Nha vì cam kết mạnh mẽ cho hòa bình và sự đoàn kết",
+        "Tây Ban Nha được đánh giá cao vì phản đối chiến tranh và ủng hộ người tị nạn",
+        "Pope bắt đầu chuyến thăm 7 ngày tới Tây Ban Nha",
+        "Chuyến thăm của Pope nhằm tăng cường quan hệ giữa Vatican và Tây Ban Nha"
+      ],
+      "full_summary": "Pope Francis bắt đầu chuyến thăm 7 ngày tới Tây Ban Nha bằng lời khen ngợi nỗ lực của quốc gia này trong việc phản đối chiến tranh và ủng hộ người tị nạn. Trong bài phát biểu đầu tiên, Pope chúc mừng Tây Ban Nha vì cam kết mạnh mẽ cho hòa bình và sự đoàn kết. Chuyến thăm của Pope nhằm tăng cường quan hệ giữa Vatican và Tây Ban Nha.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff2b4320b774",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T02:51:15.430917+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các game thủ phản đối việc nhà xuất bản tắt game mà không đảm bảo chơi được",
+      "bullets": [
+        "Phản đối việc nhà xuất bản tắt game mà không có sự đồng ý của người chơi",
+        "Yêu cầu nhà xuất bản phải đảm bảo game vẫn có thể chơi được trước khi tắt",
+        "Thách thức tư duy của ngành công nghiệp game về quyền sở hữu và kiểm soát",
+        "Hỗ trợ các game thủ có thể tiếp tục chơi game mà không bị ảnh hưởng"
+      ],
+      "full_summary": "Một nhóm game thủ đã thành lập tổ chức Stop Killing Games để phản đối việc nhà xuất bản tắt game mà không đảm bảo người chơi có thể tiếp tục chơi. Họ cho rằng việc tắt game mà không có sự đồng ý của người chơi là không công bằng và vi phạm quyền sở hữu của người chơi. Tổ chức này đang thách thức tư duy của ngành công nghiệp game về quyền sở hữu và kiểm soát, đồng thời hỗ trợ các game thủ có thể tiếp tục chơi game mà không bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "21969b6e6a7e",
+      "title": "Trump to meet AI leaders to discuss US investment in their companies",
+      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T02:51:16.570713+00:00",
+      "category": "politics|economy|technology",
+      "importance": 3,
+      "headline": "Trump dự kiến gặp lãnh đạo các công ty AI hàng đầu",
+      "bullets": [
+        "Giới thiệu kế hoạch đầu tư của Mỹ vào các công ty AI",
+        "Chủ tịch Trump sẽ gặp lãnh đạo các công ty AI hàng đầu",
+        "Mục tiêu của cuộc gặp là tăng cường hợp tác trong lĩnh vực AI",
+        "Mỹ muốn đầu tư vào các công ty AI hàng đầu trên thế giới"
+      ],
+      "full_summary": "Chủ tịch Trump đã tuyên bố rằng ông sẽ gặp lãnh đạo các công ty AI hàng đầu trong tuần tới. Mục tiêu của cuộc gặp là tăng cường hợp tác trong lĩnh vực trí tuệ nhân tạo (AI) và thu hút đầu tư của Mỹ vào các công ty AI hàng đầu trên thế giới. Điều này có thể sẽ giúp Mỹ tăng cường vị thế trong lĩnh vực công nghệ và cạnh tranh với các cường quốc khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cdc8e8397924",
+      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T02:51:17.503300+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Naomi Gleit giữ chức vụ lâu nhất của Mark Zuckerberg tại Meta",
+      "bullets": [
+        "Là nhân viên lâu nhất của Mark Zuckerberg tại Meta",
+        "Giữ chức vụ trong nhiều cuộc tranh cãi tại công ty",
+        "Tells BBC rằng đây là công việc mơ ước của cô",
+        "Chia sẻ quan điểm về AI và việc làm tại Meta"
+      ],
+      "full_summary": "Naomi Gleit, nhân viên lâu nhất của Mark Zuckerberg tại Meta, đã giữ chức vụ trong nhiều năm và trải qua nhiều cuộc tranh cãi. Cô cho biết đây là công việc mơ ước của mình và chia sẻ quan điểm về AI và việc làm tại Meta. Mặc dù có nhiều thách thức, Naomi Gleit vẫn kiên định với công việc của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cc422ef7704",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T02:51:18.411564+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Elon Musk là người giàu nhất thế giới với khối tài sản khổng lồ",
+      "bullets": [
+        "Là người sáng lập và CEO của X, Tesla và SpaceX",
+        "Sử dụng nền tảng để thể hiện quan điểm về nhiều chủ đề",
+        "Đứng đầu danh sách người giàu nhất thế giới",
+        "Có khối tài sản trị giá hàng tỷ USD"
+      ],
+      "full_summary": "Elon Musk là người sáng lập và CEO của X, Tesla và SpaceX. Ông đã trở thành người giàu nhất thế giới với khối tài sản khổng lồ. Musk sử dụng nền tảng để thể hiện quan điểm về nhiều chủ đề, bao gồm công nghệ, khoa học và chính trị. Ông đứng đầu danh sách người giàu nhất thế giới và có khối tài sản trị giá hàng tỷ USD.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "73c7a91e2473",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-07T02:51:25.121614+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Computex 2026: Tìm kiếm hướng đi cho PC tự động hóa",
+      "bullets": [
+        "Khẳng định sự hiện diện của PC tự động hóa tại Computex 2026",
+        "Hiện thực hóa các ứng dụng AI và tự động hóa trong thiết bị",
+        "Cung cấp trải nghiệm người dùng mới mẻ và hiệu quả",
+        "Đánh giá khả năng áp dụng rộng rãi của PC tự động hóa"
+      ],
+      "full_summary": "Tại Computex 2026, các nhà sản xuất đã giới thiệu các thiết bị PC mới với khả năng tự động hóa cao. Các ứng dụng AI và tự động hóa đã được tích hợp vào các sản phẩm, mang lại trải nghiệm người dùng mới mẻ và hiệu quả. Tuy nhiên, vẫn còn nhiều câu hỏi về khả năng áp dụng rộng rãi của PC tự động hóa.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "957cd4c87837",
       "title": "Andreeva wins French Open as Chwalinska fairytale ends",
@@ -636,166 +796,6 @@
         "Cơ quan kiểm soát hạt nhân đang theo dõi tiến độ"
       ],
       "full_summary": "Máy phản ứng hạt nhân nhỏ của startup Antares đã đạt được trạng thái hoạt động trong thử nghiệm đầu tiên. Tuy nhiên, nó vẫn chưa sẵn sàng để tạo ra năng lượng điện. Cơ quan kiểm soát hạt nhân đang theo dõi tiến độ của dự án này. Máy phản ứng hạt nhân nhỏ có thể là một giải pháp thay thế cho các nhà máy điện hạt nhân truyền thống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "817102efcf60",
-      "title": "The saga of the International Space Station air leak took a worrying turn Friday",
-      "url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-06T02:32:24.134489+00:00",
-      "category": "khoa học",
-      "importance": 5,
-      "headline": "Kính viễn vọng vũ trụ gặp rò rỉ không khí",
-      "bullets": [
-        "Tìm kiếm nguyên nhân rò rỉ trên module của Nga",
-        "Hành khách vũ trụ phải ẩn náu vì không an toàn",
-        "Nỗ lực sửa chữa đang được tiến hành",
-        "Roscosmos và NASA hợp tác giải quyết vấn đề"
-      ],
-      "full_summary": "Kính viễn vọng vũ trụ quốc tế đang gặp vấn đề nghiêm trọng khi có rò rỉ không khí. Điều này khiến các hành khách vũ trụ phải ẩn náu vì không an toàn. Nỗ lực sửa chữa đang được tiến hành và Roscosmos và NASA đang hợp tác giải quyết vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ce98e9fb336b",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-06T02:32:25.101476+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "S&P 500 chặn SpaceX khỏi quỹ đầu tư",
-      "bullets": [
-        "Chính sách S&P 500 ngăn chặn SpaceX tiếp cận vốn từ các nhà đầu tư thụ động",
-        "Cơ quan này cũng từ chối cho phép OpenAI và Anthropic vào quỹ",
-        "Các công ty không sinh lời sẽ không được miễn trừ khỏi quy định",
-        "Nhiều công ty công nghệ lớn bị ảnh hưởng bởi quyết định này"
-      ],
-      "full_summary": "S&P 500 đã từ chối cho phép SpaceX, OpenAI và Anthropic vào quỹ đầu tư của mình. Theo Ars Technica, chính sách này ngăn chặn SpaceX tiếp cận vốn từ các nhà đầu tư thụ động. Các công ty không sinh lời sẽ không được miễn trừ khỏi quy định. Quyết định này ảnh hưởng đến nhiều công ty công nghệ lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "baaee9bab9e5",
-      "title": "Show HN: ABC Classic 100 Rankings visualised",
-      "url": "https://classic100.gotski.workers.dev/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-06T02:32:27.368178+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một ứng dụng trực tuyến hiển thị xếp hạng ABC Classic 100",
-      "bullets": [
-        "Ứng dụng trực tuyến hiển thị xếp hạng ABC Classic 100 từ các năm trước",
-        "Ứng dụng chưa có chức năng tìm kiếm",
-        "Mã nguồn có thể được tối ưu hóa",
-        "Ứng dụng chưa được kiểm tra trên nhiều thiết bị"
-      ],
-      "full_summary": "Ứng dụng trực tuyến hiển thị xếp hạng ABC Classic 100 từ các năm trước đã được phát triển và được công bố trên Hacker News. Ứng dụng cho phép người dùng xem xếp hạng từ các năm trước nhưng chưa có chức năng tìm kiếm. Người phát triển cho biết mã nguồn có thể được tối ưu hóa và ứng dụng chưa được kiểm tra trên nhiều thiết bị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "733c13312c9a",
-      "title": "Alzheimer's patient gets back speech, bladder control and memory in drug trial",
-      "url": "https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-06T02:32:28.440027+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Bệnh nhân Alzheimer hồi phục ngôn ngữ, kiểm soát tiểu tiện và trí nhớ",
-      "bullets": [
-        "Hồi phục ngôn ngữ sau thử nghiệm thuốc",
-        "Kiểm soát tiểu tiện trở lại sau nhiều năm",
-        "Trí nhớ và khả năng học hỏi cải thiện đáng kể",
-        "Kết quả thử nghiệm thuốc đầy hứa hẹn"
-      ],
-      "full_summary": "Một bệnh nhân Alzheimer đã trải qua thử nghiệm thuốc mới và đạt được kết quả đầy hứa hẹn. Bệnh nhân đã hồi phục ngôn ngữ, kiểm soát tiểu tiện và trí nhớ sau nhiều năm. Kết quả này được coi là bước tiến quan trọng trong việc tìm kiếm phương pháp điều trị cho bệnh Alzheimer. Điều này có thể mở ra cánh cửa mới cho việc nghiên cứu và phát triển thuốc điều trị cho bệnh này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "02ead6a71b23",
-      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-06-06T02:32:33.002239+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Lửa xoáy có thể làm sạch dầu tràn nhanh hơn và ít ô nhiễm hơn",
-      "bullets": [
-        "Làm sạch dầu tràn nhanh hơn 95%",
-        "Giảm khí thải khói bụi 40%",
-        "Bảo vệ môi trường biển nhạy cảm",
-        "Tăng hiệu suất làm sạch dầu tràn"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã chứng minh rằng lửa xoáy kiểm soát có thể làm sạch dầu tràn nhanh hơn và ít ô nhiễm hơn so với phương pháp đốt truyền thống. Lửa xoáy có thể tiêu thụ đến 95% dầu và giảm khí thải khói bụi 40%. Điều này có thể giúp ngăn dầu tràn đến các khu vực biển nhạy cảm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d88261d2c805",
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T19:45:23.268732+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Putin từ chối gặp Zelensky để kết thúc chiến tranh Ukraine",
-      "bullets": [
-        "Putin từ chối gặp Zelensky về việc kết thúc chiến tranh Ukraine",
-        "Zelensky viết thư mở kêu gọi cuộc họp trực tiếp",
-        "Putin cho rằng không có lý do để gặp Zelensky",
-        "Chiến tranh Ukraine vẫn tiếp tục diễn ra"
-      ],
-      "full_summary": "Chủ tịch Putin từ chối gặp Chủ tịch Ukraine Zelensky về việc kết thúc chiến tranh Ukraine. Điều này diễn ra sau khi Zelensky viết một bức thư mở kêu gọi cuộc họp trực tiếp. Putin cho rằng không có lý do để gặp Zelensky. Chiến tranh Ukraine vẫn tiếp tục diễn ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fea6dd70c5de",
-      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-      "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T19:45:24.390806+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Hành khách vũ trụ trở lại ISS sau khi tìm nơi an toàn",
-      "bullets": [
-        "Bị động viên tìm nơi an toàn",
-        "Làm việc trong không gian để sửa chữa",
-        "Đảm bảo an toàn cho các hành khách vũ trụ khác",
-        "Thực hiện sửa chữa đường ống"
-      ],
-      "full_summary": "Hai hành khách vũ trụ đã trở lại Trạm Vũ trụ Quốc tế (ISS) sau khi tìm nơi an toàn trong một tình huống khẩn cấp. Một nhóm khác gồm 5 người đã bị động viên tìm nơi an toàn khi một nhóm làm việc trong không gian để sửa chữa một đường ống bị rò rỉ. Các hành khách vũ trụ đã được đảm bảo an toàn trong suốt quá trình sửa chữa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "22222b468a9a",
-      "title": "Three jailed over heist of ancient golden helmet from Dutch museum",
-      "url": "https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-05T19:45:26.867210+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ba người bị giam vì trộm mũ vàng cổ đại khỏi bảo tàng Hà Lan",
-      "bullets": [
-        "Bị kết án 47 tháng tù mỗi người vì trộm mũ Coțofenești 2.500 năm tuổi",
-        "Mũ vàng được cướp khỏi bảo tàng ở Hà Lan vào năm 2020",
-        "Ba người bị kết tội trộm cắp và bị phạt tù",
-        "Mũ vàng cổ đại có giá trị lịch sử và nghệ thuật lớn"
-      ],
-      "full_summary": "Ba người bị kết án vì trộm mũ vàng cổ đại khỏi bảo tàng ở Hà Lan. Mũ vàng Coțofenești 2.500 năm tuổi được cướp vào năm 2020. Ba người bị kết tội trộm cắp và bị phạt tù 47 tháng. Mũ vàng cổ đại có giá trị lịch sử và nghệ thuật lớn.",
       "comments": 0,
       "score": 0
     }
