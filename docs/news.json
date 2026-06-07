@@ -1,6 +1,163 @@
 {
-  "updated_at": "2026-06-07T08:48:04.109497+00:00",
+  "updated_at": "2026-06-07T13:27:03.141440+00:00",
   "articles": [
+    {
+      "id": "d275ee644e02",
+      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T13:26:48.879763+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Máy bay không người Nga tấn công kho chất thải hạt nhân gần nhà máy điện hạt nhân Chornobyl",
+      "bullets": [
+        "Tấn công bằng máy bay không người Nga khiến kho chất thải hạt nhân gần nhà máy điện hạt nhân Chornobyl bị hư hại",
+        "Chính quyền Ukraine cáo buộc Nga đã thực hiện vụ tấn công này",
+        "Ngoại trưởng Ukraine sẽ tham gia các cuộc đàm phán tại London"
+      ],
+      "full_summary": "Chính quyền Ukraine cáo buộc Nga đã tấn công một kho chứa chất thải hạt nhân gần nhà máy điện hạt nhân Chornobyl bằng máy bay không người. Vụ tấn công này diễn ra trước khi Ngoại trưởng Ukraine tham gia các cuộc đàm phán tại London. Nhà lãnh đạo Ukraine đã chỉ trích vụ tấn công này là 'có tính chất tàn bạo'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "85514ac04645",
+      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
+      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T13:26:49.981573+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Pope tổ chức lễ chào mừng đông đảo tại Madrid",
+      "bullets": [
+        "Pope Francis đến Plaza de Cibeles bằng xe popemobile",
+        "Ông chào hỏi đông đảo người dân tại Madrid",
+        "Lễ chào mừng được tổ chức trên đường phố Madrid",
+        "Pope Francis sẽ tổ chức lễ thánh tại Madrid"
+      ],
+      "full_summary": "Pope Francis đã tổ chức lễ chào mừng đông đảo tại Madrid, nơi mà ông đã đến bằng xe popemobile và chào hỏi người dân. Lễ chào mừng được tổ chức trên đường phố Madrid và sẽ tiếp tục với lễ thánh. Đây là một phần của chuyến thăm của Pope Francis đến Tây Ban Nha.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e8d3bce086d",
+      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T13:26:51.148576+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nạn đạn nổ ra ở Mogadishu, người dân phải sơ tán",
+      "bullets": [
+        "Nổ ra chiến đấu giữa quân đội và phe đối lập ở Mogadishu",
+        "Cư dân bị buộc phải sơ tán do chiến sự",
+        "Tổn hại tài sản và gây ra thương vong",
+        "Căng thẳng leo thang trước cuộc biểu tình"
+      ],
+      "full_summary": "Ở Mogadishu, Somalia, nổ ra chiến đấu giữa quân đội và phe đối lập. Nạn đạn khiến nhiều người dân phải sơ tán, tài sản bị tổn hại và có thương vong. Trước đó, các nhà lãnh đạo đối lập đã thiết lập vị trí ở các cứ điểm của họ trong thành phố. Căng thẳng leo thang trước cuộc biểu tình dự kiến diễn ra vào thứ Năm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "82c1cc9bd3b7",
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-07T13:26:52.118464+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Học sinh nạn nhân vụ bắn súng kiện công ty phát triển phần mềm phát hiện súng AI",
+      "bullets": [
+        "Tố cáo hệ thống AI không phát hiện vũ khí trong vụ bắn súng tại trường học",
+        "Học sinh bị thương sau khi bị bắn súng trong vụ tấn công",
+        "Phần mềm phát hiện súng AI được cho là không đạt hiệu suất như mong đợi",
+        "Học sinh đang kiện công ty phát triển phần mềm vì sự cố này"
+      ],
+      "full_summary": "Một học sinh nạn nhân vụ bắn súng tại trường học đã kiện công ty phát triển phần mềm phát hiện súng AI vì hệ thống này không phát hiện vũ khí trong vụ tấn công. Vụ việc cho thấy sự cần thiết của việc kiểm tra và đánh giá hiệu suất của phần mềm phát hiện súng AI. Học sinh đang yêu cầu bồi thường vì sự cố này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5685c56f0727",
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-07T13:26:53.129040+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Các nhà khoa học bị đuổi khỏi hội nghị về tiểu đường vì phân phát bản sao tạp chí",
+      "bullets": [
+        "Bị đuổi khỏi hội nghị là nhà biên tập tạp chí ADA Steven Kahn và cựu chủ tịch ADA Desmond Schatz",
+        "Họ phân phát bản sao tạp chí mà không được phép",
+        "Lý do bị đuổi khỏi hội nghị chưa được công bố rõ ràng",
+        "Các nhà khoa học bị ảnh hưởng đã lên tiếng phản đối quyết định này"
+      ],
+      "full_summary": "Hội nghị về tiểu đường đã diễn ra tại một thành phố lớn. Tuy nhiên, một số nhà khoa học đã bị đuổi khỏi hội nghị vì phân phát bản sao tạp chí mà không được phép. Nhà biên tập tạp chí ADA Steven Kahn và cựu chủ tịch ADA Desmond Schatz là hai trong số những người bị ảnh hưởng. Lý do bị đuổi khỏi hội nghị chưa được công bố rõ ràng, nhưng các nhà khoa học bị ảnh hưởng đã lên tiếng phản đối quyết định này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bb2a6a8db618",
+      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-07T13:26:54.097921+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Vi khuẩn cổ xưa trong hài cốt Ötzi vẫn còn hoạt động",
+      "bullets": [
+        "Khám phá mới cho thấy hài cốt Ötzi là nơi trú ẩn của vi khuẩn cổ xưa",
+        "Vi khuẩn và nấm cổ xưa trong hài cốt Ötzi vẫn còn hoạt động sau 5.300 năm",
+        "Nghiên cứu cho thấy sự sống còn tồn tại trong môi trường lạnh giá",
+        "Khám phá này mở ra khả năng khám phá hệ sinh thái cổ xưa"
+      ],
+      "full_summary": "Nghiên cứu mới đã phát hiện ra rằng hài cốt Ötzi, người đàn ông cổ xưa được tìm thấy ở Alps, vẫn còn chứa vi khuẩn và nấm cổ xưa. Những vi khuẩn và nấm này đã tồn tại trong 5.300 năm kể từ khi Ötzi qua đời. Nghiên cứu này cho thấy sự sống còn tồn tại trong môi trường lạnh giá và mở ra khả năng khám phá hệ sinh thái cổ xưa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ffcb4fd4da8c",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-07T13:26:57.805573+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mời Anthropic phát hành Claude Desktop chính thức cho Linux",
+      "bullets": [
+        "Khuyến khích Anthropic phát hành phiên bản Linux của Claude Desktop",
+        "Claude Desktop là một công cụ AI hỗ trợ người dùng",
+        "Người dùng Linux đang chờ đợi sự hỗ trợ từ Anthropic"
+      ],
+      "full_summary": "Một số người dùng đã đề xuất trên GitHub rằng Anthropic nên phát hành phiên bản Linux của Claude Desktop. Claude Desktop là một công cụ AI hỗ trợ người dùng và được sử dụng rộng rãi trên các nền tảng khác nhau. Người dùng Linux đang chờ đợi sự hỗ trợ từ Anthropic để có thể sử dụng công cụ này trên hệ điều hành của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b291182be44f",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-07T13:27:02.082894+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Tập đoàn lập trình viên giành giải thưởng IOCCC 2025",
+      "bullets": [
+        "Đạt giải thưởng trong cuộc thi lập trình viên khó hiểu nhất thế giới",
+        "Các giải thưởng được trao cho các tác phẩm lập trình độc đáo và sáng tạo",
+        "Tập đoàn lập trình viên đã thể hiện kỹ năng lập trình cao cấp và sáng tạo"
+      ],
+      "full_summary": "Cuộc thi lập trình viên khó hiểu nhất thế giới, IOCCC 2025, đã công bố các giải thưởng cho các tác phẩm lập trình độc đáo và sáng tạo. Các giải thưởng được trao cho các tác phẩm lập trình có thể thực hiện được nhưng lại rất khó hiểu. Tập đoàn lập trình viên đã thể hiện kỹ năng lập trình cao cấp và sáng tạo trong cuộc thi này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "aa786c70242a",
       "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
@@ -636,166 +793,6 @@
         "Hành động này là thử nghiệm trật tự hòa bình giữa hai quốc gia"
       ],
       "full_summary": "Mỹ và Iran đã đổi trả đòn trong thử nghiệm trật tự hòa bình. Theo quân đội Mỹ, họ đã tấn công các máy bay không người lái Iran và các trạm radar. Tehran đã phản công bằng bắn vào các căn cứ Mỹ ở Kuwait và Bahrain. Hành động này là thử nghiệm trật tự hòa bình giữa hai quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f033a2bb1a30",
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T08:26:42.818034+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cư dân mạng đồn đoán ngày cưới của Taylor Swift",
-      "bullets": [
-        "Đoán đoán ngày cưới của Taylor Swift đang gây sốt trên mạng xã hội",
-        "Cư dân mạng tìm kiếm những dấu hiệu về đám cưới của ngôi sao nhạc pop",
-        "Travis Kelce được đồn đoán là người bạn trai của Taylor Swift",
-        "Câu hỏi về đám cưới của Taylor Swift vẫn chưa được trả lời"
-      ],
-      "full_summary": "Cư dân mạng trên toàn thế giới đang tìm kiếm những dấu hiệu về đám cưới của ngôi sao nhạc pop Taylor Swift. Theo đồn đoán, người bạn trai của cô là Travis Kelce, một vận động viên bóng bầu dục người Mỹ. Mặc dù chưa có thông tin chính thức, nhưng cư dân mạng vẫn tiếp tục đoán đoán về ngày cưới của Taylor Swift. Câu hỏi về đám cưới của ngôi sao nhạc pop vẫn chưa được trả lời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ebcdecaf5cda",
-      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T08:26:43.780212+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nikol Pashinyan chuẩn bị tranh cử chức vụ thủ tướng Armenia lần thứ ba",
-      "bullets": [
-        "Nikol Pashinyan chuẩn bị tranh cử chức vụ thủ tướng Armenia lần thứ ba",
-        "Hạ viện Armenia chuẩn bị tổ chức cuộc bầu cử vào tháng 6",
-        "Nikol Pashinyan đang đối mặt với áp lực từ Nga",
-        "Hội đồng Bảo an Liên Hợp Quốc sẽ tổ chức cuộc họp để thảo luận về tình hình Armenia"
-      ],
-      "full_summary": "Nikol Pashinyan, thủ tướng Armenia đương nhiệm, đang chuẩn bị tranh cử chức vụ thủ tướng lần thứ ba. Tuy nhiên, ông đang đối mặt với áp lực từ Nga và sự không ủng hộ của người dân Armenia. Hạ viện Armenia dự kiến tổ chức cuộc bầu cử vào tháng 6. Hội đồng Bảo an Liên Hợp Quốc cũng sẽ tổ chức cuộc họp để thảo luận về tình hình Armenia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88cff9d9aa3e",
-      "title": "Iran's football team granted visas to enter US for World Cup, officials say",
-      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T08:26:44.749677+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Iran đã được cấp thị thực để vào Mỹ tham dự World Cup",
-      "bullets": [
-        "Iran đã được cấp thị thực để vào Mỹ tham dự World Cup",
-        "Đội bóng Iran sẽ thi đấu trận mở màn trước New Zealand tại Los Angeles",
-        "Thị thực được cấp chỉ 10 ngày trước trận đấu đầu tiên",
-        "Iran sẽ tham dự World Cup tại Mỹ vào tháng 11"
-      ],
-      "full_summary": "Đội tuyển bóng đá Iran đã được chính quyền Mỹ cấp thị thực để vào nước này tham dự World Cup. Đây là một bước ngoặt quan trọng sau khi Iran và Mỹ có nhiều bất đồng trong thời gian gần đây. Đội bóng Iran sẽ thi đấu trận mở màn trước New Zealand tại Los Angeles vào ngày 21 tháng 11. Đây là một cơ hội quan trọng để Iran thể hiện sức mạnh của mình trên sân bóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc08aebf9022",
-      "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
-      "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T08:26:45.755206+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Canada cấm thịt bò Texas do dịch bọ gặm thịt",
-      "bullets": [
-        "Canada cấm nhập khẩu thịt bò Texas",
-        "Dịch bọ gặm thịt lan rộng ở Texas",
-        "Hôm nay, Texas tuyên bố tình trạng khẩn cấp",
-        "Một con bò thứ hai bị nhiễm dịch ở Texas"
-      ],
-      "full_summary": "Canada đã cấm nhập khẩu thịt bò Texas sau khi một con bò thứ hai bị nhiễm dịch bọ gặm thịt ở Texas. Dịch này đã lan rộng ở Texas và chính phủ tiểu bang đã tuyên bố tình trạng khẩn cấp. Bọ gặm thịt là một loại ký sinh trùng có thể gây tử vong cho động vật. Canada đã cấm nhập khẩu thịt bò Texas để ngăn chặn dịch này lan rộng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e958206146ce",
-      "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T08:26:46.712080+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Diễn viên Anh Anthony Head qua đời vì viêm phổi",
-      "bullets": [
-        "Đã qua đời ở tuổi 72",
-        "Đã xuất hiện trong các bộ phim nổi tiếng Merlin và Little Britain",
-        "Bị mắc bệnh viêm phổi dẫn đến tử vong",
-        "Là diễn viên nổi tiếng trong các bộ phim hài kịch"
-      ],
-      "full_summary": "Diễn viên người Anh Anthony Head đã qua đời ở tuổi 72 vì các biến chứng của bệnh viêm phổi. Ông đã xuất hiện trong nhiều bộ phim nổi tiếng như Merlin, Little Britain và nổi tiếng nhất là vai Giles trong bộ phim hài kịch Buffy và Ted Lasso. Ông được biết đến với khả năng diễn xuất hài hước và sâu sắc. Các fan của ông đã bày tỏ sự tiếc nuối và chia buồn về sự mất mát này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9575f38af153",
-      "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
-      "url": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T08:26:47.628883+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Trẻ sơ sinh Palestine bị bắn chết bởi quân đội Israel",
-      "bullets": [
-        "Một em bé Palestine bị bắn chết bởi quân đội Israel",
-        "Vụ việc xảy ra tại khu vực Tây Bắc",
-        "Lực lượng quân đội Israel nói rằng đang xem xét vụ việc",
-        "Chính phủ Israel bày tỏ sự thương xót sâu sắc"
-      ],
-      "full_summary": "Một em bé Palestine đã tử vong sau khi bị bắn bởi quân đội Israel tại khu vực Tây Bắc. Vụ việc xảy ra vào ngày thứ sáu. Lực lượng quân đội Israel cho biết họ đang xem xét vụ việc và bày tỏ sự thương xót sâu sắc. Chính phủ Israel đã đưa ra tuyên bố về vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4adb8614e630",
-      "title": "The ancient trick making food waste useful and tasty",
-      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T08:26:48.790021+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Fermentation biến rác thải thực phẩm thành nguyên liệu có giá trị",
-      "bullets": [
-        "Tái chế bằng cách ủ lên men giúp giảm thiểu rác thải thực phẩm",
-        "Ứng dụng công nghệ lên men biến rác thải thành nguyên liệu có giá trị",
-        "Nghiên cứu mới về công nghệ lên men giúp sản xuất thực phẩm an toàn hơn",
-        "Fermentation giúp tạo ra các sản phẩm thực phẩm mới từ rác thải"
-      ],
-      "full_summary": "Công nghệ lên men đang được áp dụng để biến rác thải thực phẩm thành nguyên liệu có giá trị. Thay vì vứt bỏ các phụ phẩm của quá trình chế biến thực phẩm, lên men giúp tạo ra các sản phẩm mới từ chúng. Công nghệ này không chỉ giúp giảm thiểu rác thải thực phẩm mà còn tạo ra các sản phẩm an toàn và có giá trị. Các nhà nghiên cứu đang nghiên cứu và áp dụng công nghệ lên men để sản xuất thực phẩm an toàn hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5a057c99431d",
-      "title": "Lockdown Mode",
-      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-06T08:26:52.014242+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "OpenAI kích hoạt chế độ khẩn cấp để ngăn chặn các cuộc tấn công mạng",
-      "bullets": [
-        "OpenAI kích hoạt chế độ Lockdown Mode để ngăn chặn các cuộc tấn công mạng",
-        "Chế độ này sẽ hạn chế các tính năng của AI để ngăn chặn các cuộc tấn công",
-        "Mục tiêu của chế độ này là bảo vệ người dùng khỏi các cuộc tấn công mạng",
-        "Chế độ Lockdown Mode sẽ được áp dụng cho tất cả các sản phẩm của OpenAI"
-      ],
-      "full_summary": "OpenAI đã kích hoạt chế độ Lockdown Mode để ngăn chặn các cuộc tấn công mạng. Chế độ này sẽ hạn chế các tính năng của AI để ngăn chặn các cuộc tấn công. Mục tiêu của chế độ này là bảo vệ người dùng khỏi các cuộc tấn công mạng. Chế độ Lockdown Mode sẽ được áp dụng cho tất cả các sản phẩm của OpenAI.",
       "comments": 0,
       "score": 0
     }
