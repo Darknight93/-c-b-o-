@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-06-07T02:51:26.764264+00:00",
+  "updated_at": "2026-06-07T08:48:04.109497+00:00",
   "articles": [
+    {
+      "id": "aa786c70242a",
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T08:47:50.031346+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Các cuộc tấn công bằng drone Ukraine làm xáo trộn diễn đàn kinh tế Nga",
+      "bullets": [
+        "Căng thẳng leo thang khi Ukraine tấn công St Petersburg",
+        "Diễn đàn kinh tế Nga bị ảnh hưởng nghiêm trọng",
+        "Putin cố gắng duy trì hình ảnh mạnh mẽ",
+        "Nước Nga vẫn tiếp tục đối đầu với Ukraine"
+      ],
+      "full_summary": "Diễn đàn kinh tế Nga được tổ chức tại St Petersburg dưới sự chủ trì của Tổng thống Putin. Tuy nhiên, sự kiện này đã bị xáo trộn bởi các cuộc tấn công bằng drone của Ukraine. Các cuộc tấn công này đã gây ra sự bất an và lo lắng cho người dân Nga. Putin vẫn cố gắng duy trì hình ảnh mạnh mẽ và quyết tâm trong việc đối đầu với Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e3d23cd66ca3",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T08:47:51.104395+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nhiều cử tri Peru tìm kiếm sự ổn định trong cuộc bầu cử tổng thống căng thẳng",
+      "bullets": [
+        "Cử tri Peru đang tìm kiếm sự ổn định sau 8 tổng thống trong 10 năm",
+        "Tổng thống mới cần tập trung giải quyết tội phạm và bất bình đẳng",
+        "Sự bất ổn đang ảnh hưởng đến cuộc sống hàng ngày của người dân Peru",
+        "Cử tri hy vọng tổng thống mới sẽ mang lại sự ổn định và phát triển"
+      ],
+      "full_summary": "Cuộc bầu cử tổng thống Peru đang trở nên căng thẳng sau 8 tổng thống trong 10 năm. Nhiều cử tri đang tìm kiếm sự ổn định và hy vọng tổng thống mới sẽ tập trung giải quyết tội phạm và bất bình đẳng. Sự bất ổn đang ảnh hưởng đến cuộc sống hàng ngày của người dân Peru, khiến họ tìm kiếm sự thay đổi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cd90a7a00da2",
+      "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
+      "url": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T08:47:52.165246+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhà soạn nhạc Ấn Độ Ilaiyaraaja tiếp tục đổi mới âm nhạc sau 50 năm",
+      "bullets": [
+        "Tạo ra những bản nhạc kinh điển trong phim Ấn Độ",
+        "Là một trong những nhà soạn nhạc được yêu thích nhất trong ngành công nghiệp điện ảnh Ấn Độ",
+        "Tiếp tục sáng tạo và đổi mới âm nhạc sau 50 năm",
+        "Cống hiến cho nền âm nhạc Ấn Độ"
+      ],
+      "full_summary": "Ilaiyaraaja là một trong những nhà soạn nhạc được yêu thích nhất trong ngành công nghiệp điện ảnh Ấn Độ. Sau 50 năm, ông vẫn tiếp tục sáng tạo và đổi mới âm nhạc. Ông đã tạo ra những bản nhạc kinh điển trong phim Ấn Độ và được công nhận rộng rãi. Ilaiyaraaja tiếp tục cống hiến cho nền âm nhạc Ấn Độ và là một biểu tượng của sự sáng tạo và đổi mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "04f228869fb3",
+      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+      "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T08:47:53.179417+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cựu chiến binh trẻ Somalia phải đối mặt với những giấc mơ ám ảnh",
+      "bullets": [
+        "Cựu chiến binh trẻ Yusuf Ali đã sống qua những giây phút kinh hoàng trong cuộc chiến",
+        "Yusuf Ali đã phải tham gia vào các hoạt động bạo lực từ khi còn là một đứa trẻ",
+        "Cựu chiến binh trẻ này đã phải đối mặt với những hậu quả tâm lý nghiêm trọng",
+        "Yusuf Ali đang cố gắng vượt qua những giấc mơ ám ảnh của mình"
+      ],
+      "full_summary": "Cựu chiến binh trẻ Yusuf Ali, 34 tuổi, đang phải đối mặt với những giấc mơ ám ảnh sau khi sống qua cuộc chiến ở Mogadishu. Những giấc mơ này khiến Yusuf Ali không thể quên được những kinh hoàng mà anh đã trải qua. Cựu chiến binh trẻ này đã phải tham gia vào các hoạt động bạo lực từ khi còn là một đứa trẻ và đã phải đối mặt với những hậu quả tâm lý nghiêm trọng. Yusuf Ali đang cố gắng vượt qua những giấc mơ ám ảnh của mình và tìm kiếm sự giúp đỡ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "682118094fb5",
+      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T08:47:54.191370+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hội đồng chuyên gia chỉ trích kế hoạch cách ly Ebola chỉ dành cho người Mỹ tại Kenya",
+      "bullets": [
+        "Chuyên gia chỉ trích kế hoạch này vi phạm chính sách hỗ trợ tất cả nhân viên y tế",
+        "CDC yêu cầu đưa nhân viên CDC bị nhiễm Ebola trở về Mỹ",
+        "Hội đồng cao cấp của Kenya đã ngăn chặn kế hoạch này nhưng chính phủ Mỹ và Kenya vẫn tiến hành",
+        "Trung tâm cách ly Ebola đầu tiên đã được thiết lập ở Kenya"
+      ],
+      "full_summary": "Một nhóm chuyên gia hàng đầu và cựu quan chức Mỹ đã kêu gọi chính phủ Trump hủy bỏ kế hoạch xây dựng một trung tâm cách ly và điều trị Ebola ở Kenya. Kế hoạch này vi phạm chính sách hỗ trợ tất cả nhân viên y tế. Hội đồng cao cấp của Kenya đã ngăn chặn kế hoạch này nhưng chính phủ Mỹ và Kenya vẫn tiến hành. Trung tâm cách ly Ebola đầu tiên đã được thiết lập ở Kenya.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d1338be29fa3",
+      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
+      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-07T08:47:55.380343+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cử tri Peru đối mặt với lựa chọn chật chội giữa cánh hữu và cánh tả",
+      "bullets": [
+        "Đang diễn ra bầu cử vòng hai tại Peru, Keiko Fujimori đối đầu với Roberto Sánchez",
+        "Cử tri Peru sẽ đi bầu vào ngày Chủ nhật, trong bối cảnh tội phạm tăng cao, bất ổn chính trị và tham nhũng",
+        "Keiko Fujimori giành 17% số phiếu bầu trong vòng một vào tháng 4, Sánchez giành 12%",
+        "Cử tri Peru đang đối mặt với lựa chọn giữa cánh hữu và cánh tả trong bầu cử này"
+      ],
+      "full_summary": "Cử tri Peru sẽ đi bầu vào ngày Chủ nhật trong bầu cử vòng hai giữa Keiko Fujimori và Roberto Sánchez. Đây là cuộc bầu cử quan trọng nhằm tìm người kế nhiệm chức tổng thống Peru. Fujimori, con gái của cựu tổng thống Alberto Fujimori, đã giành được 17% số phiếu bầu trong vòng một vào tháng 4, trong khi Sánchez, một nghị sĩ cánh tả, đã giành được 12%. Cuộc bầu cử này được dự đoán sẽ là một cuộc đối đầu giữa cánh hữu và cánh tả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6390c07cf516",
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-07T08:48:00.772881+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mạng lưới P2P của Valve bị phá vỡ hơn 2 tháng",
+      "bullets": [
+        "Bị phá vỡ",
+        "Hơn 2 tháng không hoạt động",
+        "Cộng đồng đang chờ đợi sửa lỗi",
+        "Valve chưa đưa ra thông tin chính thức"
+      ],
+      "full_summary": "Mạng lưới P2P của Valve đã bị phá vỡ hơn 2 tháng qua, gây khó khăn cho các nhà phát triển game. Theo thông tin trên GitHub, cộng đồng đang chờ đợi sửa lỗi nhưng Valve chưa đưa ra thông tin chính thức. Điều này đã gây ra sự bất ổn cho các nhà phát triển game sử dụng công nghệ này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "11bf0aef931b",
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
@@ -656,146 +796,6 @@
         "Chế độ Lockdown Mode sẽ được áp dụng cho tất cả các sản phẩm của OpenAI"
       ],
       "full_summary": "OpenAI đã kích hoạt chế độ Lockdown Mode để ngăn chặn các cuộc tấn công mạng. Chế độ này sẽ hạn chế các tính năng của AI để ngăn chặn các cuộc tấn công. Mục tiêu của chế độ này là bảo vệ người dùng khỏi các cuộc tấn công mạng. Chế độ Lockdown Mode sẽ được áp dụng cho tất cả các sản phẩm của OpenAI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4d62e18fb835",
-      "title": "Europe is ditching US tech — what does this mean for researchers?",
-      "url": "https://www.nature.com/articles/d41586-026-01610-9",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-06-06T08:26:57.276000+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các nước châu Âu từ bỏ công nghệ Mỹ",
-      "bullets": [
-        "Chọn công nghệ châu Âu",
-        "Sử dụng công cụ kỹ thuật số châu Âu",
-        "Các trường đại học và nhà nghiên cứu chuyển sang công nghệ châu Âu",
-        "Tăng cường sự độc lập về công nghệ"
-      ],
-      "full_summary": "Các chính phủ châu Âu đang chọn công nghệ châu Âu thay vì công nghệ Mỹ. Điều này có nghĩa là các trường đại học và nhà nghiên cứu cũng đang chuyển sang sử dụng công nghệ châu Âu. Sự thay đổi này có thể giúp châu Âu tăng cường sự độc lập về công nghệ và giảm sự phụ thuộc vào Mỹ. Điều này có thể mang lại nhiều lợi ích cho châu Âu, bao gồm việc bảo vệ thông tin và dữ liệu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e8d3bce086d",
-      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T02:32:17.581310+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cư dân Mogadishu trốn chạy trước các vụ bắn súng",
-      "bullets": [
-        "Căng thẳng bùng phát ở Mogadishu",
-        "Cư dân phải trốn chạy khỏi các khu vực xung đột",
-        "Militia và quân đội Somalia đối đầu",
-        "Tổn hại tài sản và thiệt hại con người"
-      ],
-      "full_summary": "Căng thẳng bùng phát ở Mogadishu, Somalia, khi các lực lượng đối lập và quân đội Somalia đối đầu. Sự cố này diễn ra trước khi các cuộc biểu tình dự kiến diễn ra vào thứ Năm. Các cuộc đụng độ đã gây ra thiệt hại cho tài sản và khiến một số cư dân phải trốn chạy khỏi các khu vực xung đột.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d848b73dc3e2",
-      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T02:32:18.636255+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Canada đồng ý di chuyển 30 cá voi trắng khỏi công viên biển Marineland",
-      "bullets": [
-        "Canada đồng ý di chuyển 30 cá voi trắng khỏi công viên biển Marineland",
-        "Cá voi trắng sẽ được chuyển đến các khu bảo tồn ở Tây Ban Nha hoặc Mỹ",
-        "Hợp đồng này sẽ kết thúc việc giữ cá voi trắng trong giam ở Canada",
-        "Động thái này được các tổ chức bảo vệ động vật hoang dã hoan nghênh"
-      ],
-      "full_summary": "Canada và công viên biển Marineland đã đạt được một thỏa thuận tạm thời về tương lai của 30 cá voi trắng. Theo thỏa thuận này, tất cả cá voi trắng của Marineland sẽ được chuyển đến Tây Ban Nha hoặc một trong bốn địa điểm ở Mỹ. Điều này sẽ kết thúc việc giữ cá voi trắng trong giam ở Canada. Các tổ chức bảo vệ động vật hoang dã đã hoan nghênh động thái này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "43e2dd5480e0",
-      "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
-      "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-06T02:32:19.753492+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai nàng thiếu nữ 14 và 17 tuổi bị sát hại ở Argentina",
-      "bullets": [
-        "Bị sát hại một cách tàn bạo",
-        "Đã có nhiều vụ giết hại phụ nữ trẻ ở Argentina",
-        "Chính quyền Javier Milei cắt giảm hỗ trợ cho nạn nhân bạo lực giới tính",
-        "Cộng đồng Argentina nổi giận và lo ngại về tình trạng bạo lực giới tính"
-      ],
-      "full_summary": "Argentina đang chìm trong cuộc khủng hoảng bạo lực giới tính khi hai nàng thiếu nữ 14 và 17 tuổi bị sát hại. Cơ quan cảnh sát đã tìm thấy thi thể Agostina Vega, 14 tuổi, bị ngạt thở và bị cắt thành nhiều mảnh. Những vụ giết hại này đã gây ra sự phẫn nộ và lo ngại về quyết định cắt giảm hỗ trợ cho nạn nhân bạo lực giới tính của chính quyền Javier Milei. Đây là một trong nhiều vụ giết hại phụ nữ trẻ ở Argentina.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ebe6f86647b3",
-      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
-      "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-06T02:32:21.152156+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Cơ quan Dược phẩm Mỹ vẫn chưa xác định nguyên nhân và cách ngăn chặn bệnh botulism ở trẻ",
-      "bullets": [
-        "FDA đang điều tra nguyên nhân của bệnh botulism ở trẻ",
-        "Ba công ty liên quan đều đổ lỗi cho nhau",
-        "Cơ quan này vẫn chưa tìm ra cách ngăn chặn bệnh",
-        "Sự cố đang gây lo ngại cho phụ huynh và chuyên gia y tế"
-      ],
-      "full_summary": "Cơ quan Dược phẩm Mỹ (FDA) đang điều tra một vụ bùng phát bệnh botulism ở trẻ. Ba công ty liên quan đều đổ lỗi cho nhau, khiến FDA vẫn chưa tìm ra nguyên nhân và cách ngăn chặn bệnh. Sự cố này đang gây lo ngại cho phụ huynh và chuyên gia y tế. Cơ quan này đang cố gắng tìm ra giải pháp để ngăn chặn bệnh này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "06dd206e0d4b",
-      "title": "How a USB-connected speaker can infect a PC without ever being touched",
-      "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-06T02:32:22.089768+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Đầu phát Bluetooth Sound Blaster Katana V2X có thể bị xâm nhập qua không trung",
-      "bullets": [
-        "Có thể bị xâm nhập mà không cần chạm vào",
-        "Seller không coi đó là một lỗ hổng bảo mật",
-        "Có thể ảnh hưởng đến các thiết bị kết nối",
-        "Đã có nhiều đánh giá cao về sản phẩm"
-      ],
-      "full_summary": "Một sản phẩm đầu phát Bluetooth Sound Blaster Katana V2X đã được phát hiện có thể bị xâm nhập qua không trung mà không cần chạm vào. Seller của sản phẩm này không coi đó là một lỗ hổng bảo mật. Điều này có thể ảnh hưởng đến các thiết bị kết nối. Sản phẩm đã nhận được nhiều đánh giá cao từ người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "801db74048f7",
-      "title": "Small modular nuclear reactor reaches criticality in first test",
-      "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-06T02:32:23.202737+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Máy phản ứng hạt nhân nhỏ đạt được trạng thái hoạt động",
-      "bullets": [
-        "Đạt được trạng thái hoạt động trong thử nghiệm đầu tiên",
-        "Không sẵn sàng để tạo ra năng lượng điện",
-        "Startup Antares đang phát triển công nghệ này",
-        "Cơ quan kiểm soát hạt nhân đang theo dõi tiến độ"
-      ],
-      "full_summary": "Máy phản ứng hạt nhân nhỏ của startup Antares đã đạt được trạng thái hoạt động trong thử nghiệm đầu tiên. Tuy nhiên, nó vẫn chưa sẵn sàng để tạo ra năng lượng điện. Cơ quan kiểm soát hạt nhân đang theo dõi tiến độ của dự án này. Máy phản ứng hạt nhân nhỏ có thể là một giải pháp thay thế cho các nhà máy điện hạt nhân truyền thống.",
       "comments": 0,
       "score": 0
     }
