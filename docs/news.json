@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-06-08T15:35:51.049592+00:00",
+  "updated_at": "2026-06-08T20:05:54.460589+00:00",
   "articles": [
+    {
+      "id": "4039a223acab",
+      "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T20:05:38.179503+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Iran và Israel tạm dừng tấn công sau trận chiến đầu tiên kể từ thỏa thuận ngừng bắn",
+      "bullets": [
+        "Iran phóng hơn 30 tên lửa vào Israel sau một cuộc tấn công tại Lebanon",
+        "Israel thực hiện hai đợt không kích vào Iran",
+        "Israel và Iran tuyên bố đã ngừng bắn sau trận chiến đầu tiên kể từ thỏa thuận ngừng bắn",
+        "Cả hai bên đều tuyên bố đã đáp trả lại các cuộc tấn công của đối phương"
+      ],
+      "full_summary": "Iran và Israel đã tạm dừng tấn công sau trận chiến đầu tiên kể từ thỏa thuận ngừng bắn. Iran đã phóng hơn 30 tên lửa vào Israel sau một cuộc tấn công tại Lebanon, trong khi Israel đã thực hiện hai đợt không kích vào Iran. Cả hai bên đều tuyên bố đã đáp trả lại các cuộc tấn công của đối phương. Điều này cho thấy căng thẳng giữa hai quốc gia vẫn còn rất cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff4a66332d51",
+      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T20:05:39.517482+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran tấn công Israel, thể hiện sự kiên cường của chính quyền",
+      "bullets": [
+        "Iran quyết định tấn công Israel",
+        "Tình hình này có thể ảnh hưởng đến đàm phán hòa bình",
+        "Chính quyền Iran có thể đang đánh giá cao vị thế của mình",
+        "Sự quyết đoán này có thể phản ánh sự kiên cường của chính quyền Iran"
+      ],
+      "full_summary": "Iran đã quyết định tấn công Israel, một hành động có thể làm gián đoạn đàm phán hòa bình. Điều này cho thấy chính quyền Iran đang đánh giá cao vị thế của mình và thể hiện sự kiên cường. Theo BBC, quyết định này có thể phản ánh cách lãnh đạo Iran nhìn nhận tình hình hiện tại. Mặc dù hành động này có thể gây ra hậu quả nghiêm trọng, nhưng nó cũng thể hiện sự quyết đoán của chính quyền Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8af33b543ad5",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T20:05:40.580471+00:00",
+      "category": "politics|economy|technology",
+      "importance": 3,
+      "headline": "Sam Bankman-Fried xin ân xá từ Tổng thống Trump",
+      "bullets": [
+        "Sam Bankman-Fried nộp đơn xin ân xá",
+        "Đồng sáng lập FTX đang thụ án 25 năm tù",
+        "Đơn xin ân xá được nộp vào thứ Hai",
+        "Sam Bankman-Fried từng là lãnh đạo FTX"
+      ],
+      "full_summary": "Sam Bankman-Fried, cựu lãnh đạo nền tảng tiền điện tử FTX, đã nộp đơn xin ân xá cho Tổng thống Trump. Ông đang thụ án 25 năm tù. Đơn xin ân xá được nộp vào thứ Hai, nhưng chưa rõ liệu Tổng thống Trump có xem xét hay không. Sam Bankman-Fried từng là lãnh đạo FTX trước khi nền tảng này sụp đổ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a6dde097a069",
+      "title": "Watch: Southern Lights timelapse filmed from space",
+      "url": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T20:05:41.562161+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Hình ảnh tuyệt đẹp của ánh sáng phương nam từ không gian",
+      "bullets": [
+        "Được NASA phi hành gia Jessica Meir ghi lại",
+        "Aurora australis xuất hiện ở Nam Cực",
+        "Hình ảnh được quay bằng máy quay từ không gian",
+        "Tạo nên cảnh tượng tuyệt đẹp và kỳ diệu"
+      ],
+      "full_summary": "NASA phi hành gia Jessica Meir đã ghi lại hình ảnh tuyệt đẹp của ánh sáng phương nam (Aurora australis) từ không gian. Hình ảnh này được quay ở Nam Cực và tạo nên cảnh tượng tuyệt đẹp và kỳ diệu. Đây là một trong những hình ảnh ấn tượng về thiên nhiên của hành tinh chúng ta.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8af33b543ad5",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T20:05:42.693483+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Sam Bankman-Fried xin ân xá từ Tổng thống Trump",
+      "bullets": [
+        "Sam Bankman-Fried nộp đơn xin ân xá",
+        "Cựu lãnh đạo FTX đang thụ án 25 năm tù",
+        "Sam Bankman-Fried từng là người sáng lập FTX",
+        "FTX là một nền tảng tiền điện tử đã sụp đổ"
+      ],
+      "full_summary": "Sam Bankman-Fried, cựu lãnh đạo nền tảng tiền điện tử FTX, đã nộp đơn xin ân xá từ Tổng thống Trump. Ông đang thụ án 25 năm tù vì các tội liên quan đến việc quản lý FTX. FTX là một nền tảng tiền điện tử đã sụp đổ vào năm 2022, gây ra thiệt hại lớn cho các nhà đầu tư. Việc xin ân xá của Sam Bankman-Fried đã gây ra sự chú ý lớn trong cộng đồng tài chính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e8d3bce086d",
+      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T20:05:43.748643+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cư dân Mogadishu chạy trốn trước đạn phun",
+      "bullets": [
+        "Căng thẳng bùng phát tại Mogadishu",
+        "Cư dân bị buộc phải rời khỏi nhà",
+        "Tổn thất tài sản và thương vong",
+        "Sự kiện diễn ra trước cuộc biểu tình"
+      ],
+      "full_summary": "Vào ngày 4 tháng 6, Mogadishu đã chứng kiến những vụ bắn súng dữ dội giữa quân đội và phe đối lập. Sự kiện này diễn ra trước cuộc biểu tình lên án quyết định của Tổng thống Somalia tiếp tục ở nhiệm kỳ sau khi hết hạn. Cư dân đã bị buộc phải rời khỏi nhà và tài sản bị hư hỏng. Những vụ bắn súng đã khiến nhiều người thương vong.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5d31753351cd",
+      "title": "F1 in Monaco: Finally, the cars were flat-out in qualifying",
+      "url": "https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-08T20:05:50.835090+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Các xe F1 đã đạt tốc độ tối đa trong vòng loại",
+      "bullets": [
+        "Đạt được vị trí pole với tốc độ cao",
+        "Các đội đua cạnh tranh quyết liệt",
+        "Mặc dù xe quá lớn nhưng vẫn đạt được tốc độ tối đa",
+        "Cầu đường Monako vẫn là một thử thách khó khăn"
+      ],
+      "full_summary": "Vòng loại F1 tại Monaco đã diễn ra với tốc độ tối đa. Các xe đã đạt được tốc độ cao và các đội đua đã cạnh tranh quyết liệt để giành vị trí pole. Mặc dù xe quá lớn nhưng các tay đua vẫn đạt được tốc độ tối đa. Cầu đường Monako vẫn là một thử thách khó khăn đối với các tay đua.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "58f3886fed76",
       "title": "Iran releases footage of missiles launched at Israel",
@@ -655,146 +795,6 @@
         "Đội bóng Denmark đã hoãn trận đấu để thể hiện sự quan tâm và ủng hộ"
       ],
       "full_summary": "Christian Eriksen đã ngã xuống trong trận đấu với Ukraine vào ngày 12 tháng 6. Đội ngũ y tế đã nhanh chóng can thiệp và đưa anh đến bệnh viện. Hiện tại, Eriksen đã tỉnh táo và đang được theo dõi chặt chẽ. Đội bóng Denmark đã hoãn trận đấu để thể hiện sự quan tâm và ủng hộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9d5c2d26fb33",
-      "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
-      "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T19:10:43.023766+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Iran đã chuẩn bị một cách phức tạp để tham dự World Cup",
-      "bullets": [
-        "Iran đã nhận được thị thực vào phút cuối",
-        "Hội đồng huấn luyện đã di chuyển đến một địa điểm mới",
-        "Đội bóng đã phải đối mặt với nhiều thách thức",
-        "Quyết định tham dự World Cup đã gây ra nhiều tranh cãi"
-      ],
-      "full_summary": "Iran đã phải đối mặt với nhiều khó khăn để tham dự World Cup. Đội bóng đã nhận được thị thực vào phút cuối và hội đồng huấn luyện đã di chuyển đến một địa điểm mới. Quan chức Iran đã phải đối mặt với nhiều thách thức để đảm bảo sự tham gia của đội bóng. Mặc dù vậy, Iran đã quyết định tham dự World Cup và hy vọng sẽ có được kết quả tốt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b3e5987e203d",
-      "title": "One dead, five injured after shooting in Israel",
-      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T19:10:44.515379+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người chết, năm người bị thương sau vụ bắn súng ở Israel",
-      "bullets": [
-        "Một nghi phạm đã bắn từ xe ô tô tại nhiều địa điểm",
-        "Nghi phạm đã bị bắn chết sau đó",
-        "Một người đã thiệt mạng, năm người bị thương",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một vụ bắn súng đã xảy ra ở Israel, khiến một người chết và năm người bị thương. Nghi phạm đã mở lửa từ một chiếc xe ô tô tại nhiều địa điểm trước khi bị bắn chết. Vụ việc đang được điều tra để xác định nguyên nhân và động cơ của nghi phạm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4adb8614e630",
-      "title": "The ancient trick making food waste useful and tasty",
-      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T19:10:45.502940+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu biến chất thải thực phẩm thành sản phẩm có giá trị",
-      "bullets": [
-        "Chuyển hóa chất thải thực phẩm thành thực phẩm có giá trị",
-        "Sử dụng vi khuẩn để lên men chất thải thực phẩm",
-        "Tạo ra các sản phẩm có hương vị ngon và có lợi cho sức khỏe",
-        "Giảm thiểu rác thải thực phẩm và bảo vệ môi trường"
-      ],
-      "full_summary": "Nghiên cứu mới đây đã phát hiện ra một phương pháp biến chất thải thực phẩm thành sản phẩm có giá trị. Phương pháp này sử dụng vi khuẩn để lên men chất thải thực phẩm, tạo ra các sản phẩm có hương vị ngon và có lợi cho sức khỏe. Điều này không chỉ giảm thiểu rác thải thực phẩm mà còn bảo vệ môi trường. Nghiên cứu này có thể mang lại lợi ích lớn cho ngành công nghiệp thực phẩm và bảo vệ môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ebe6f86647b3",
-      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
-      "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-07T19:10:46.461524+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghi ngờ ngộ độc botulinum ở trẻ em vẫn chưa được giải quyết",
-      "bullets": [
-        "FDA vẫn chưa xác định được nguyên nhân gây ngộ độc botulinum ở trẻ em",
-        "Ba công ty liên quan đều đổ lỗi cho nhau",
-        "Các chuyên gia sức khỏe vẫn chưa tìm ra cách ngăn ngừa ngộ độc botulinum",
-        "Tình hình vẫn còn phức tạp và chưa có giải pháp"
-      ],
-      "full_summary": "Một vụ ngộ độc botulinum ở trẻ em đã xảy ra và FDA vẫn chưa xác định được nguyên nhân gây ngộ độc này. Ba công ty liên quan đều đổ lỗi cho nhau, khiến tình hình trở nên phức tạp. Các chuyên gia sức khỏe vẫn chưa tìm ra cách ngăn ngừa ngộ độc botulinum, khiến mọi người lo lắng về an toàn sức khỏe của trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "06dd206e0d4b",
-      "title": "How a USB-connected speaker can infect a PC without ever being touched",
-      "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-07T19:10:47.437036+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Đầu phát âm thanh Sound Blaster Katana V2X có thể bị xâm nhập qua không trung",
-      "bullets": [
-        "Có thể bị xâm nhập qua không trung mà không cần chạm vào",
-        "Seller không coi đây là một lỗ hổng bảo mật",
-        "Có thể ảnh hưởng đến các thiết bị kết nối",
-        "Đã có nhiều đánh giá tích cực về sản phẩm"
-      ],
-      "full_summary": "Một số người dùng đã phát hiện ra rằng đầu phát âm thanh Sound Blaster Katana V2X có thể bị xâm nhập qua không trung mà không cần chạm vào. Seller của sản phẩm này không coi đây là một lỗ hổng bảo mật. Tuy nhiên, điều này có thể ảnh hưởng đến các thiết bị kết nối. Sản phẩm này đã có nhiều đánh giá tích cực về chất lượng âm thanh và thiết kế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "801db74048f7",
-      "title": "Small modular nuclear reactor reaches criticality in first test",
-      "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-07T19:10:48.377431+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Lò phản ứng hạt nhân nhỏ đạt được trạng thái quan trọng trong thử nghiệm đầu tiên",
-      "bullets": [
-        "Đạt được trạng thái quan trọng trong thử nghiệm đầu tiên",
-        "Không sẵn sàng để sản xuất điện",
-        "Là sản phẩm của công ty khởi nghiệp Antares",
-        "Còn cần thời gian thử nghiệm và hoàn thiện"
-      ],
-      "full_summary": "Lò phản ứng hạt nhân nhỏ đầu tiên của Mỹ đã đạt được trạng thái quan trọng trong thử nghiệm đầu tiên. Tuy nhiên, nó vẫn chưa sẵn sàng để sản xuất điện. Công ty khởi nghiệp Antares đang phát triển sản phẩm này. Các thử nghiệm tiếp theo sẽ giúp hoàn thiện lò phản ứng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6a8a23535dd7",
-      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-07T19:10:52.350589+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chương trình xem tài liệu Office trực tuyến trên trình duyệt",
-      "bullets": [
-        "Tạo ra chương trình xem tài liệu Office trên trình duyệt",
-        "Hỗ trợ định dạng Office Open XML",
-        "Mang lại trải nghiệm xem tài liệu giống như trên máy tính",
-        "Được phát triển bởi Yukiyokotani"
-      ],
-      "full_summary": "Một nhà phát triển đã tạo ra chương trình xem tài liệu Office trực tuyến trên trình duyệt. Chương trình này hỗ trợ định dạng Office Open XML và mang lại trải nghiệm xem tài liệu giống như trên máy tính. Chương trình có thể được sử dụng để xem tài liệu Office mà không cần cài đặt phần mềm chuyên dụng.",
       "comments": 0,
       "score": 0
     }
