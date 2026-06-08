@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-06-08T10:23:49.244983+00:00",
+  "updated_at": "2026-06-08T15:35:51.049592+00:00",
   "articles": [
+    {
+      "id": "58f3886fed76",
+      "title": "Iran releases footage of missiles launched at Israel",
+      "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T15:35:32.077310+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran công bố video về tên lửa tấn công Israel",
+      "bullets": [
+        "Iran công bố video về tên lửa tấn công Israel",
+        "Iran tuyên bố các vụ tấn công là 'bắt đầu của một tuần liên tục các cuộc tấn công'",
+        "Các cuộc tấn công của Iran nhắm vào Israel",
+        "Iran cho biết các cuộc tấn công sẽ tiếp tục trong tuần tới"
+      ],
+      "full_summary": "Iran đã công bố video về tên lửa tấn công Israel. Theo Iran, các cuộc tấn công này là 'bắt đầu của một tuần liên tục các cuộc tấn công'. Iran tuyên bố các vụ tấn công nhắm vào Israel và sẽ tiếp tục trong tuần tới. Điều này đã gây ra lo ngại về sự leo thang căng thẳng giữa Iran và Israel.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "218b854fe105",
+      "title": "Starmer tells Apple and Google to ban nude images on children's phones",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T15:35:34.169444+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Starmer yêu cầu Apple và Google cấm hình ảnh không phù hợp trên điện thoại trẻ em",
+      "bullets": [
+        "Yêu cầu Apple và Google kích hoạt tính năng chống trẻ em truy cập hình ảnh không phù hợp",
+        "Hình ảnh không phù hợp sẽ được ngăn chặn trên các thiết bị di động của trẻ em",
+        "Động thái này nhằm bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của nội dung không phù hợp",
+        "Starmer kêu gọi các công ty công nghệ thực hiện biện pháp này ngay lập tức"
+      ],
+      "full_summary": "Chủ tịch Đảng Lao động Anh, Keir Starmer, đã yêu cầu Apple và Google cấm hình ảnh không phù hợp trên điện thoại trẻ em. Ông cho rằng các công ty công nghệ cần kích hoạt tính năng chống trẻ em truy cập hình ảnh không phù hợp. Điều này nhằm bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của nội dung không phù hợp. Starmer kêu gọi các công ty công nghệ thực hiện biện pháp này ngay lập tức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff2b4320b774",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T15:35:35.154196+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các game thủ phản đối việc nhà xuất bản tắt game mà không kiểm tra",
+      "bullets": [
+        "Phản đối việc nhà xuất bản tắt game mà không kiểm tra",
+        "Kháng nghị Stop Killing Games nhằm bảo vệ quyền lợi của người chơi",
+        "Mục tiêu là đảm bảo game vẫn có thể chơi được trước khi tắt",
+        "Các game thủ đang đấu tranh để thay đổi cách thức hoạt động của ngành công nghiệp"
+      ],
+      "full_summary": "Stop Killing Games đang đấu tranh để ngăn chặn việc nhà xuất bản tắt game mà không kiểm tra xem game vẫn có thể chơi được hay không. Mục tiêu của họ là đảm bảo rằng người chơi có thể tiếp tục chơi game trước khi nó bị tắt. Họ đang đấu tranh để thay đổi cách thức hoạt động của ngành công nghiệp và bảo vệ quyền lợi của người chơi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "21969b6e6a7e",
+      "title": "Trump to meet AI leaders to discuss US investment in their companies",
+      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T15:35:36.254602+00:00",
+      "category": "politics|technology",
+      "importance": 3,
+      "headline": "Trump sắp gặp lãnh đạo các công ty AI để thảo luận đầu tư của Mỹ",
+      "bullets": [
+        "Trump sẽ gặp lãnh đạo các công ty AI hàng đầu tuần tới",
+        "Mục tiêu của cuộc gặp là thảo luận đầu tư của Mỹ vào các công ty AI",
+        "Các công ty AI sẽ được mời tham gia cuộc gặp",
+        "Cuộc gặp sẽ tập trung vào các vấn đề liên quan đến AI"
+      ],
+      "full_summary": "Theo BBC Technology, Tổng thống Mỹ Donald Trump cho biết ông sẽ gặp lãnh đạo các công ty AI hàng đầu tuần tới. Mục tiêu của cuộc gặp là thảo luận đầu tư của Mỹ vào các công ty AI. Các công ty AI sẽ được mời tham gia cuộc gặp để thảo luận về các vấn đề liên quan đến AI và đầu tư của Mỹ. Cuộc gặp sẽ giúp Mỹ hiểu rõ hơn về các công ty AI và có thể đầu tư vào các công ty này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "682118094fb5",
+      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T15:35:39.432777+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hội đồng chuyên gia lên án kế hoạch trung tâm cách ly Ebola chỉ dành cho Mỹ",
+      "bullets": [
+        "Khuyến cáo từ cựu quan chức Mỹ và các chuyên gia khác",
+        "Phản đối kế hoạch trung tâm cách ly Ebola ở Kenya chỉ dành cho người Mỹ",
+        "Đáp lại yêu cầu của Công đoàn CDC đòi đưa công nhân Mỹ về nước",
+        "Trung tâm cách ly Ebola ở Kenya bị tòa án Kenya cấm"
+      ],
+      "full_summary": "Các chuyên gia đã lên án kế hoạch của chính phủ Mỹ về trung tâm cách ly Ebola ở Kenya chỉ dành cho người Mỹ. Kế hoạch này khác với chính sách trước đây của CDC về việc đưa nhân viên về nước để điều trị. Tòa án Kenya đã cấm trung tâm cách ly Ebola, nhưng chính phủ Mỹ và Kenya vẫn tiến hành. Các chuyên gia và công đoàn CDC kêu gọi đưa công nhân Mỹ về nước để điều trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d1338be29fa3",
+      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
+      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T15:35:41.436145+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Phụ nữ quyền lực Keiko Fujimori đối đầu với nhà lập pháp cánh tả ở cuộc bầu cử Peru",
+      "bullets": [
+        "Keiko Fujimori sẽ đối đầu với nhà lập pháp cánh tả Roberto Sánchez trong cuộc bầu cử Peru",
+        "Căng thẳng chính trị, tham nhũng và tội phạm đang ảnh hưởng đến cuộc bầu cử",
+        "Fujimori là con gái của cựu tổng thống Alberto Fujimori",
+        "Cuộc bầu cử sẽ diễn ra vào ngày Chủ nhật"
+      ],
+      "full_summary": "Phụ nữ quyền lực Keiko Fujimori sẽ đối đầu với nhà lập pháp cánh tả Roberto Sánchez trong cuộc bầu cử Peru. Cuộc bầu cử sẽ diễn ra vào ngày Chủ nhật và sẽ là cuộc đối đầu giữa cánh hữu và cánh tả. Fujimori là con gái của cựu tổng thống Alberto Fujimori và đã giành được 17% trong cuộc bầu cử vòng một vào tháng 4. Sánchez là một nhà lập pháp và đã giành được 12% trong cuộc bầu cử vòng một.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a2922bc4ce9",
+      "title": "The weather and climate science AI revolution isn’t revolutionary",
+      "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-08T15:35:42.481997+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Công nghệ AI không phải là cách giải quyết thần kỳ cho khoa học thời tiết và khí hậu",
+      "bullets": [
+        "Phát hiện giới hạn của học máy trong khoa học thời tiết và khí hậu",
+        "Áp dụng sai lầm của AI trong dự đoán thời tiết và dự báo khí hậu",
+        "Khả năng của AI trong khoa học thời tiết và khí hậu bị đánh giá thấp",
+        "Cần có phương pháp tiếp cận đa dạng hơn trong nghiên cứu khoa học thời tiết và khí hậu"
+      ],
+      "full_summary": "Một bài viết trên Ars Technica cho rằng công nghệ AI không phải là cách giải quyết thần kỳ cho khoa học thời tiết và khí hậu. Mặc dù AI có thể giúp phân tích dữ liệu lớn và dự đoán thời tiết, nhưng nó cũng có giới hạn và có thể bị áp dụng sai lầm. Điều này đòi hỏi cần có phương pháp tiếp cận đa dạng hơn trong nghiên cứu khoa học thời tiết và khí hậu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d7fc1fd0b63a",
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-08T15:35:45.637592+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mã nguồn mới: Performative-UI - thư viện thành phần React",
+      "bullets": [
+        "Được phát triển bởi Vorpus",
+        "Là thư viện thành phần React của các mô hình thiết kế",
+        "Cung cấp các thành phần UI hiệu ứng",
+        "Có sẵn trên GitHub"
+      ],
+      "full_summary": "Performative-UI là một thư viện thành phần React mới được phát triển bởi Vorpus. Thư viện này cung cấp các thành phần UI hiệu ứng, bao gồm các mô hình thiết kế phổ biến. Người dùng có thể sử dụng Performative-UI để tạo ra các ứng dụng có giao diện người dùng hấp dẫn. Thư viện này có sẵn trên GitHub và đang được phát triển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7362bf66dff",
+      "title": "How AI is reshaping discovery in maths and physics",
+      "url": "https://www.nature.com/articles/d41586-026-01820-1",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-06-08T15:35:49.414090+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Tính toán AI đang thay đổi cách khám phá toán học và vật lý",
+      "bullets": [
+        "Tạo ra những câu hỏi mới trong toán học và vật lý",
+        "Khám phá các mô hình phức tạp một cách nhanh chóng và chính xác",
+        "Hỗ trợ các nhà khoa học trong việc hiểu và giải thích các hiện tượng",
+        "Không thay thế trực tiếp sự sáng tạo của con người"
+      ],
+      "full_summary": "Tính toán AI đang thay đổi cách khám phá toán học và vật lý bằng cách tạo ra những câu hỏi mới và hỗ trợ các nhà khoa học trong việc hiểu và giải thích các hiện tượng. Mặc dù AI không thay thế trực tiếp sự sáng tạo của con người, nhưng nó đang giúp các nhà khoa học khám phá các mô hình phức tạp một cách nhanh chóng và chính xác. Điều này đang mở ra những cơ hội mới cho việc khám phá và hiểu biết về toán học và vật lý.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "52b0e853b3f6",
       "title": "At least 19 dead after major earthquake strikes southern Philippines",
@@ -615,183 +795,6 @@
         "Được phát triển bởi Yukiyokotani"
       ],
       "full_summary": "Một nhà phát triển đã tạo ra chương trình xem tài liệu Office trực tuyến trên trình duyệt. Chương trình này hỗ trợ định dạng Office Open XML và mang lại trải nghiệm xem tài liệu giống như trên máy tính. Chương trình có thể được sử dụng để xem tài liệu Office mà không cần cài đặt phần mềm chuyên dụng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d275ee644e02",
-      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T13:26:48.879763+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Máy bay không người Nga tấn công kho chất thải hạt nhân gần nhà máy điện hạt nhân Chornobyl",
-      "bullets": [
-        "Tấn công bằng máy bay không người Nga khiến kho chất thải hạt nhân gần nhà máy điện hạt nhân Chornobyl bị hư hại",
-        "Chính quyền Ukraine cáo buộc Nga đã thực hiện vụ tấn công này",
-        "Ngoại trưởng Ukraine sẽ tham gia các cuộc đàm phán tại London"
-      ],
-      "full_summary": "Chính quyền Ukraine cáo buộc Nga đã tấn công một kho chứa chất thải hạt nhân gần nhà máy điện hạt nhân Chornobyl bằng máy bay không người. Vụ tấn công này diễn ra trước khi Ngoại trưởng Ukraine tham gia các cuộc đàm phán tại London. Nhà lãnh đạo Ukraine đã chỉ trích vụ tấn công này là 'có tính chất tàn bạo'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "85514ac04645",
-      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T13:26:49.981573+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Pope tổ chức lễ chào mừng đông đảo tại Madrid",
-      "bullets": [
-        "Pope Francis đến Plaza de Cibeles bằng xe popemobile",
-        "Ông chào hỏi đông đảo người dân tại Madrid",
-        "Lễ chào mừng được tổ chức trên đường phố Madrid",
-        "Pope Francis sẽ tổ chức lễ thánh tại Madrid"
-      ],
-      "full_summary": "Pope Francis đã tổ chức lễ chào mừng đông đảo tại Madrid, nơi mà ông đã đến bằng xe popemobile và chào hỏi người dân. Lễ chào mừng được tổ chức trên đường phố Madrid và sẽ tiếp tục với lễ thánh. Đây là một phần của chuyến thăm của Pope Francis đến Tây Ban Nha.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e8d3bce086d",
-      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T13:26:51.148576+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nạn đạn nổ ra ở Mogadishu, người dân phải sơ tán",
-      "bullets": [
-        "Nổ ra chiến đấu giữa quân đội và phe đối lập ở Mogadishu",
-        "Cư dân bị buộc phải sơ tán do chiến sự",
-        "Tổn hại tài sản và gây ra thương vong",
-        "Căng thẳng leo thang trước cuộc biểu tình"
-      ],
-      "full_summary": "Ở Mogadishu, Somalia, nổ ra chiến đấu giữa quân đội và phe đối lập. Nạn đạn khiến nhiều người dân phải sơ tán, tài sản bị tổn hại và có thương vong. Trước đó, các nhà lãnh đạo đối lập đã thiết lập vị trí ở các cứ điểm của họ trong thành phố. Căng thẳng leo thang trước cuộc biểu tình dự kiến diễn ra vào thứ Năm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "82c1cc9bd3b7",
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-07T13:26:52.118464+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Học sinh nạn nhân vụ bắn súng kiện công ty phát triển phần mềm phát hiện súng AI",
-      "bullets": [
-        "Tố cáo hệ thống AI không phát hiện vũ khí trong vụ bắn súng tại trường học",
-        "Học sinh bị thương sau khi bị bắn súng trong vụ tấn công",
-        "Phần mềm phát hiện súng AI được cho là không đạt hiệu suất như mong đợi",
-        "Học sinh đang kiện công ty phát triển phần mềm vì sự cố này"
-      ],
-      "full_summary": "Một học sinh nạn nhân vụ bắn súng tại trường học đã kiện công ty phát triển phần mềm phát hiện súng AI vì hệ thống này không phát hiện vũ khí trong vụ tấn công. Vụ việc cho thấy sự cần thiết của việc kiểm tra và đánh giá hiệu suất của phần mềm phát hiện súng AI. Học sinh đang yêu cầu bồi thường vì sự cố này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5685c56f0727",
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-07T13:26:53.129040+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các nhà khoa học bị đuổi khỏi hội nghị về tiểu đường vì phân phát bản sao tạp chí",
-      "bullets": [
-        "Bị đuổi khỏi hội nghị là nhà biên tập tạp chí ADA Steven Kahn và cựu chủ tịch ADA Desmond Schatz",
-        "Họ phân phát bản sao tạp chí mà không được phép",
-        "Lý do bị đuổi khỏi hội nghị chưa được công bố rõ ràng",
-        "Các nhà khoa học bị ảnh hưởng đã lên tiếng phản đối quyết định này"
-      ],
-      "full_summary": "Hội nghị về tiểu đường đã diễn ra tại một thành phố lớn. Tuy nhiên, một số nhà khoa học đã bị đuổi khỏi hội nghị vì phân phát bản sao tạp chí mà không được phép. Nhà biên tập tạp chí ADA Steven Kahn và cựu chủ tịch ADA Desmond Schatz là hai trong số những người bị ảnh hưởng. Lý do bị đuổi khỏi hội nghị chưa được công bố rõ ràng, nhưng các nhà khoa học bị ảnh hưởng đã lên tiếng phản đối quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb2a6a8db618",
-      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-07T13:26:54.097921+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Vi khuẩn cổ xưa trong hài cốt Ötzi vẫn còn hoạt động",
-      "bullets": [
-        "Khám phá mới cho thấy hài cốt Ötzi là nơi trú ẩn của vi khuẩn cổ xưa",
-        "Vi khuẩn và nấm cổ xưa trong hài cốt Ötzi vẫn còn hoạt động sau 5.300 năm",
-        "Nghiên cứu cho thấy sự sống còn tồn tại trong môi trường lạnh giá",
-        "Khám phá này mở ra khả năng khám phá hệ sinh thái cổ xưa"
-      ],
-      "full_summary": "Nghiên cứu mới đã phát hiện ra rằng hài cốt Ötzi, người đàn ông cổ xưa được tìm thấy ở Alps, vẫn còn chứa vi khuẩn và nấm cổ xưa. Những vi khuẩn và nấm này đã tồn tại trong 5.300 năm kể từ khi Ötzi qua đời. Nghiên cứu này cho thấy sự sống còn tồn tại trong môi trường lạnh giá và mở ra khả năng khám phá hệ sinh thái cổ xưa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ffcb4fd4da8c",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-07T13:26:57.805573+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mời Anthropic phát hành Claude Desktop chính thức cho Linux",
-      "bullets": [
-        "Khuyến khích Anthropic phát hành phiên bản Linux của Claude Desktop",
-        "Claude Desktop là một công cụ AI hỗ trợ người dùng",
-        "Người dùng Linux đang chờ đợi sự hỗ trợ từ Anthropic"
-      ],
-      "full_summary": "Một số người dùng đã đề xuất trên GitHub rằng Anthropic nên phát hành phiên bản Linux của Claude Desktop. Claude Desktop là một công cụ AI hỗ trợ người dùng và được sử dụng rộng rãi trên các nền tảng khác nhau. Người dùng Linux đang chờ đợi sự hỗ trợ từ Anthropic để có thể sử dụng công cụ này trên hệ điều hành của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b291182be44f",
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "url": "https://www.ioccc.org/2025/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-07T13:27:02.082894+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Tập đoàn lập trình viên giành giải thưởng IOCCC 2025",
-      "bullets": [
-        "Đạt giải thưởng trong cuộc thi lập trình viên khó hiểu nhất thế giới",
-        "Các giải thưởng được trao cho các tác phẩm lập trình độc đáo và sáng tạo",
-        "Tập đoàn lập trình viên đã thể hiện kỹ năng lập trình cao cấp và sáng tạo"
-      ],
-      "full_summary": "Cuộc thi lập trình viên khó hiểu nhất thế giới, IOCCC 2025, đã công bố các giải thưởng cho các tác phẩm lập trình độc đáo và sáng tạo. Các giải thưởng được trao cho các tác phẩm lập trình có thể thực hiện được nhưng lại rất khó hiểu. Tập đoàn lập trình viên đã thể hiện kỹ năng lập trình cao cấp và sáng tạo trong cuộc thi này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aa786c70242a",
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T08:47:50.031346+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Các cuộc tấn công bằng drone Ukraine làm xáo trộn diễn đàn kinh tế Nga",
-      "bullets": [
-        "Căng thẳng leo thang khi Ukraine tấn công St Petersburg",
-        "Diễn đàn kinh tế Nga bị ảnh hưởng nghiêm trọng",
-        "Putin cố gắng duy trì hình ảnh mạnh mẽ",
-        "Nước Nga vẫn tiếp tục đối đầu với Ukraine"
-      ],
-      "full_summary": "Diễn đàn kinh tế Nga được tổ chức tại St Petersburg dưới sự chủ trì của Tổng thống Putin. Tuy nhiên, sự kiện này đã bị xáo trộn bởi các cuộc tấn công bằng drone của Ukraine. Các cuộc tấn công này đã gây ra sự bất an và lo lắng cho người dân Nga. Putin vẫn cố gắng duy trì hình ảnh mạnh mẽ và quyết tâm trong việc đối đầu với Ukraine.",
       "comments": 0,
       "score": 0
     }
