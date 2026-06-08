@@ -1,6 +1,244 @@
 {
-  "updated_at": "2026-06-08T02:54:09.267309+00:00",
+  "updated_at": "2026-06-08T10:23:49.244983+00:00",
   "articles": [
+    {
+      "id": "52b0e853b3f6",
+      "title": "At least 19 dead after major earthquake strikes southern Philippines",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:32.921219+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất mạnh 7,8 độ làm 19 người chết ở Philippines",
+      "bullets": [
+        "Gây ra sóng thần nhỏ ở Philippines, Indonesia và Nhật Bản",
+        "Tổn thương nặng ở các thành phố và khu vực ven biển",
+        "Cứu hộ đang được triển khai ở các khu vực bị ảnh hưởng",
+        "Số người chết có thể tăng cao hơn"
+      ],
+      "full_summary": "Một trận động đất mạnh 7,8 độ đã xảy ra ở phía nam Philippines, làm ít nhất 19 người chết. Sóng thần nhỏ đã được ghi nhận ở Philippines, Indonesia và Nhật Bản. Các thành phố và khu vực ven biển đã bị tổn thương nặng. Cứu hộ đang được triển khai ở các khu vực bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "496874720fdd",
+      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:33.885002+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một cá mập trắng hiếm gặp được ghi lại ở Địa Trung Hải",
+      "bullets": [
+        "Một người lặn tình nguyện ghi lại được hình ảnh của cá mập trắng",
+        "Cá mập được ghi lại giữa Tunisia và Sicily",
+        "Người lặn mô tả cảm giác run rẩy khi gặp cá mập",
+        "Cá mập trắng đang bị đe dọa"
+      ],
+      "full_summary": "Một người lặn tình nguyện đã ghi lại hình ảnh của một cá mập trắng hiếm gặp ở Địa Trung Hải. Cá mập được ghi lại giữa Tunisia và Sicily. Người lặn mô tả cảm giác run rẩy khi gặp cá mập. Đây là một trong những lần ghi lại được cá mập trắng ở Địa Trung Hải.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1bf4374edd18",
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:34.944759+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính phủ thân phương Tây Armenia thắng cử",
+      "bullets": [
+        "Đảng Dân chủ Công việc của Thủ tướng Nikol Pashinyan giành được gần 50% số phiếu",
+        "Chính phủ này thắng cử bất chấp áp lực từ Nga",
+        "Các ứng cử viên khác không thể vượt qua",
+        "Nga từng ủng hộ chính phủ Armenia trước đây"
+      ],
+      "full_summary": "Chính phủ thân phương Tây của Armenia dưới sự lãnh đạo của Thủ tướng Nikol Pashinyan đã thắng cử trong cuộc bầu cử quốc hội. Đảng Dân chủ Công việc của ông Pashinyan đã giành được gần 50% số phiếu, vượt qua các ứng cử viên khác. Đây là một chiến thắng quan trọng đối với Armenia, bất chấp áp lực từ Nga. Nga từng ủng hộ chính phủ Armenia trước đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ce1c1dd25fa",
+      "title": "Knicks' long-awaited NBA run electrifies NYC, with Trump set to attend key game",
+      "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:35.821475+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Đội bóng Knicks gây sốt ở NYC",
+      "bullets": [
+        "Đội bóng Knicks đang trên đà thắng",
+        "Sự kiện này đã tạo nên cơn sốt ở thành phố New York",
+        "Đội bóng sẽ thi đấu tại sân nhà trong trận đấu quan trọng",
+        "Đại diện Trump dự kiến sẽ có mặt tại trận đấu này"
+      ],
+      "full_summary": "Đội bóng Knicks đang trên đà thắng, tạo nên cơn sốt ở thành phố New York. Sự kiện này đã thu hút sự chú ý của nhiều người hâm mộ. Đội bóng sẽ thi đấu tại sân nhà trong trận đấu quan trọng, và đại diện Trump dự kiến sẽ có mặt tại trận đấu này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "01eeeb79b1b4",
+      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
+      "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:36.758870+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nạn nhân bạo lực ở Nam Phi được hồi hương",
+      "bullets": [
+        "Các nước châu Phi đang hồi hương công dân khỏi Nam Phi",
+        "Malawi là một trong những quốc gia đang thực hiện việc này",
+        "Các vụ tấn công chống lại người nhập cư đang gia tăng",
+        "Nạn nhân đang được đưa về nước an toàn"
+      ],
+      "full_summary": "Malawi và một số quốc gia châu Phi khác đang hồi hương công dân khỏi Nam Phi sau khi có báo cáo về bạo lực chống lại người nhập cư. Các vụ tấn công chống lại người nhập cư đang gia tăng, khiến nhiều người phải tìm cách về nước an toàn. Malawi đã tổ chức một chuyến bay đặc biệt để đưa công dân về nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "531e9fe57928",
+      "title": "Raspberry Pi raises profit forecast as AI demand grows",
+      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:37.757808+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Raspberry Pi tăng dự báo lợi nhuận nhờ nhu cầu AI tăng cao",
+      "bullets": [
+        "Raspberry Pi dự báo lợi nhuận ít nhất 38 triệu USD trong nửa đầu năm 2026",
+        "Doanh nghiệp này dự kiến tăng lợi nhuận nhờ nhu cầu AI tăng cao",
+        "Raspberry Pi là một trong những công ty sản xuất máy tính nhỏ nhất thế giới",
+        "Công ty này đã tăng cường sản xuất các sản phẩm có liên quan đến AI"
+      ],
+      "full_summary": "Raspberry Pi vừa công bố dự báo lợi nhuận cao hơn so với trước đây. Doanh nghiệp này dự báo sẽ đạt được lợi nhuận ít nhất 38 triệu USD trong nửa đầu năm 2026. Điều này được cho là do nhu cầu AI tăng cao. Raspberry Pi là một trong những công ty sản xuất máy tính nhỏ nhất thế giới và đã tăng cường sản xuất các sản phẩm có liên quan đến AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69b2683cc7ec",
+      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
+      "url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:38.589559+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Giới thiệu các thuật ngữ tiền điện tử khó hiểu",
+      "bullets": [
+        "Giải thích Bitcoin",
+        "Khái quát về blockchain",
+        "Định nghĩa về tiền điện tử",
+        "Giải thích về các loại tiền điện tử khác"
+      ],
+      "full_summary": "Giới thiệu các thuật ngữ tiền điện tử khó hiểu. Bài viết giải thích Bitcoin, blockchain và các thuật ngữ khác liên quan đến tiền điện tử. Mục đích là giúp người đọc hiểu rõ hơn về các khái niệm này. Bài viết không đề cập đến giá trị của Bitcoin.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cc422ef7704",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:39.896896+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Elon Musk là người giàu nhất thế giới và có ảnh hưởng lớn trên nhiều lĩnh vực",
+      "bullets": [
+        "Là người sáng lập và CEO của X, Tesla và SpaceX",
+        "Đứng đầu danh sách người giàu nhất thế giới",
+        "Có ảnh hưởng lớn trên nhiều lĩnh vực, bao gồm công nghệ, kinh tế và chính trị"
+      ],
+      "full_summary": "Elon Musk là người sáng lập và CEO của X, Tesla và SpaceX. Ông là người giàu nhất thế giới và có ảnh hưởng lớn trên nhiều lĩnh vực. Ông đã sử dụng nền tảng của mình để thể hiện quan điểm của mình về nhiều chủ đề khác nhau.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "79ed41419c4b",
+      "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
+      "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:41.070979+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tình trạng sợ hãi cực độ lan rộng trong cộng đồng người nhập cư ở Nam Phi",
+      "bullets": [
+        "Người nhập cư ở Nam Phi đang sống trong sợ hãi",
+        "Các cuộc biểu tình chống nhập cư bất hợp pháp đang gia tăng",
+        "Cộng đồng người nhập cư đang đối mặt với sự đe dọa không rõ ràng",
+        "Nhiều người nhập cư đang cảm thấy không được bảo vệ"
+      ],
+      "full_summary": "Người nhập cư ở Nam Phi đang sống trong sợ hãi sau khi các cuộc biểu tình chống nhập cư bất hợp pháp được tổ chức. Các cuộc biểu tình này đã khích động lại những cảm xúc xâm phạm người nước ngoài ở Nam Phi. Tổ chức March & March đã tuyên bố người nhập cư bất hợp pháp phải rời khỏi Nam Phi trước ngày 30 tháng 6, nhưng không rõ những gì sẽ xảy ra với những người không rời đi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "05139bee7b92",
+      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:42.033254+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Cán bộ Walmart Canada đầu tiên ký thỏa thuận hợp tác với công đoàn",
+      "bullets": [
+        "Ký thỏa thuận hợp tác đầu tiên với Walmart",
+        "Thỏa thuận này đánh dấu bước ngoặt trong cuộc đấu tranh của công đoàn",
+        "Công đoàn lên kế hoạch tổ chức các cuộc đấu tranh khác để hợp pháp hóa các nhà tuyển dụng lớn",
+        "Thỏa thuận này chỉ là bước đầu tiên trong cuộc chiến đấu tranh của công đoàn"
+      ],
+      "full_summary": "Cán bộ Walmart Canada đã ký thỏa thuận hợp tác đầu tiên với công đoàn. Thỏa thuận này đánh dấu bước ngoặt trong cuộc đấu tranh của công đoàn vì Walmart từng là một công ty chống lại lao động tổ chức. Công đoàn cho biết thỏa thuận này chỉ là bước đầu tiên trong cuộc chiến đấu tranh của họ để hợp pháp hóa các nhà tuyển dụng lớn ở Canada.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "05fe1bee20c6",
+      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-08T10:23:43.141807+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hội nghị hàng không quốc tế ở Rio bất chấp cảnh báo thiếu hụt nhiên liệu",
+      "bullets": [
+        "Hội nghị Iata AGM diễn ra tại Rio de Janeiro",
+        "Dự kiến có nhiều lãnh đạo hàng không tham dự",
+        "Mặc dù có cảnh báo thiếu hụt nhiên liệu nhưng ngành hàng không vẫn tiếp tục hoạt động",
+        "Sự kiện diễn ra bất chấp xung đột ở eo biển Hormuz"
+      ],
+      "full_summary": "Hội nghị hàng không quốc tế Iata AGM sắp diễn ra tại Rio de Janeiro, bất chấp cảnh báo thiếu hụt nhiên liệu. Mặc dù có nguy cơ tắc nghẽn ở eo biển Hormuz, nhưng ngành hàng không vẫn tiếp tục hoạt động. Sự kiện này dự kiến có nhiều lãnh đạo hàng không tham dự. Mặc dù có nhiều lo ngại về tình trạng thiếu hụt nhiên liệu, nhưng ngành hàng không vẫn đang tiếp tục hoạt động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3e4b98845178",
+      "title": "The EU Open Source Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-08T10:23:45.911837+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "EU công bố chiến lược nguồn mở để tăng cường hợp tác và đổi mới",
+      "bullets": [
+        "Xây dựng các công cụ nguồn mở để giảm chi phí và tăng cường hiệu suất",
+        "Tăng cường hợp tác giữa các tổ chức và cá nhân thông qua các dự án nguồn mở",
+        "Đẩy mạnh đổi mới và sáng tạo thông qua việc sử dụng nguồn mở"
+      ],
+      "full_summary": "Chính phủ EU vừa công bố chiến lược nguồn mở mới, với mục tiêu tăng cường hợp tác và đổi mới thông qua việc sử dụng nguồn mở. Chiến lược này bao gồm việc xây dựng các công cụ nguồn mở để giảm chi phí và tăng cường hiệu suất, tăng cường hợp tác giữa các tổ chức và cá nhân thông qua các dự án nguồn mở, và đẩy mạnh đổi mới và sáng tạo thông qua việc sử dụng nguồn mở. Chiến lược này sẽ giúp EU trở thành một trung tâm đổi mới và sáng tạo trên toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "192401c89d2f",
       "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
@@ -554,246 +792,6 @@
         "Nước Nga vẫn tiếp tục đối đầu với Ukraine"
       ],
       "full_summary": "Diễn đàn kinh tế Nga được tổ chức tại St Petersburg dưới sự chủ trì của Tổng thống Putin. Tuy nhiên, sự kiện này đã bị xáo trộn bởi các cuộc tấn công bằng drone của Ukraine. Các cuộc tấn công này đã gây ra sự bất an và lo lắng cho người dân Nga. Putin vẫn cố gắng duy trì hình ảnh mạnh mẽ và quyết tâm trong việc đối đầu với Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3d23cd66ca3",
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T08:47:51.104395+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nhiều cử tri Peru tìm kiếm sự ổn định trong cuộc bầu cử tổng thống căng thẳng",
-      "bullets": [
-        "Cử tri Peru đang tìm kiếm sự ổn định sau 8 tổng thống trong 10 năm",
-        "Tổng thống mới cần tập trung giải quyết tội phạm và bất bình đẳng",
-        "Sự bất ổn đang ảnh hưởng đến cuộc sống hàng ngày của người dân Peru",
-        "Cử tri hy vọng tổng thống mới sẽ mang lại sự ổn định và phát triển"
-      ],
-      "full_summary": "Cuộc bầu cử tổng thống Peru đang trở nên căng thẳng sau 8 tổng thống trong 10 năm. Nhiều cử tri đang tìm kiếm sự ổn định và hy vọng tổng thống mới sẽ tập trung giải quyết tội phạm và bất bình đẳng. Sự bất ổn đang ảnh hưởng đến cuộc sống hàng ngày của người dân Peru, khiến họ tìm kiếm sự thay đổi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd90a7a00da2",
-      "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-      "url": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T08:47:52.165246+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhà soạn nhạc Ấn Độ Ilaiyaraaja tiếp tục đổi mới âm nhạc sau 50 năm",
-      "bullets": [
-        "Tạo ra những bản nhạc kinh điển trong phim Ấn Độ",
-        "Là một trong những nhà soạn nhạc được yêu thích nhất trong ngành công nghiệp điện ảnh Ấn Độ",
-        "Tiếp tục sáng tạo và đổi mới âm nhạc sau 50 năm",
-        "Cống hiến cho nền âm nhạc Ấn Độ"
-      ],
-      "full_summary": "Ilaiyaraaja là một trong những nhà soạn nhạc được yêu thích nhất trong ngành công nghiệp điện ảnh Ấn Độ. Sau 50 năm, ông vẫn tiếp tục sáng tạo và đổi mới âm nhạc. Ông đã tạo ra những bản nhạc kinh điển trong phim Ấn Độ và được công nhận rộng rãi. Ilaiyaraaja tiếp tục cống hiến cho nền âm nhạc Ấn Độ và là một biểu tượng của sự sáng tạo và đổi mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "04f228869fb3",
-      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T08:47:53.179417+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cựu chiến binh trẻ Somalia phải đối mặt với những giấc mơ ám ảnh",
-      "bullets": [
-        "Cựu chiến binh trẻ Yusuf Ali đã sống qua những giây phút kinh hoàng trong cuộc chiến",
-        "Yusuf Ali đã phải tham gia vào các hoạt động bạo lực từ khi còn là một đứa trẻ",
-        "Cựu chiến binh trẻ này đã phải đối mặt với những hậu quả tâm lý nghiêm trọng",
-        "Yusuf Ali đang cố gắng vượt qua những giấc mơ ám ảnh của mình"
-      ],
-      "full_summary": "Cựu chiến binh trẻ Yusuf Ali, 34 tuổi, đang phải đối mặt với những giấc mơ ám ảnh sau khi sống qua cuộc chiến ở Mogadishu. Những giấc mơ này khiến Yusuf Ali không thể quên được những kinh hoàng mà anh đã trải qua. Cựu chiến binh trẻ này đã phải tham gia vào các hoạt động bạo lực từ khi còn là một đứa trẻ và đã phải đối mặt với những hậu quả tâm lý nghiêm trọng. Yusuf Ali đang cố gắng vượt qua những giấc mơ ám ảnh của mình và tìm kiếm sự giúp đỡ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "682118094fb5",
-      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T08:47:54.191370+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hội đồng chuyên gia chỉ trích kế hoạch cách ly Ebola chỉ dành cho người Mỹ tại Kenya",
-      "bullets": [
-        "Chuyên gia chỉ trích kế hoạch này vi phạm chính sách hỗ trợ tất cả nhân viên y tế",
-        "CDC yêu cầu đưa nhân viên CDC bị nhiễm Ebola trở về Mỹ",
-        "Hội đồng cao cấp của Kenya đã ngăn chặn kế hoạch này nhưng chính phủ Mỹ và Kenya vẫn tiến hành",
-        "Trung tâm cách ly Ebola đầu tiên đã được thiết lập ở Kenya"
-      ],
-      "full_summary": "Một nhóm chuyên gia hàng đầu và cựu quan chức Mỹ đã kêu gọi chính phủ Trump hủy bỏ kế hoạch xây dựng một trung tâm cách ly và điều trị Ebola ở Kenya. Kế hoạch này vi phạm chính sách hỗ trợ tất cả nhân viên y tế. Hội đồng cao cấp của Kenya đã ngăn chặn kế hoạch này nhưng chính phủ Mỹ và Kenya vẫn tiến hành. Trung tâm cách ly Ebola đầu tiên đã được thiết lập ở Kenya.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d1338be29fa3",
-      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T08:47:55.380343+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Cử tri Peru đối mặt với lựa chọn chật chội giữa cánh hữu và cánh tả",
-      "bullets": [
-        "Đang diễn ra bầu cử vòng hai tại Peru, Keiko Fujimori đối đầu với Roberto Sánchez",
-        "Cử tri Peru sẽ đi bầu vào ngày Chủ nhật, trong bối cảnh tội phạm tăng cao, bất ổn chính trị và tham nhũng",
-        "Keiko Fujimori giành 17% số phiếu bầu trong vòng một vào tháng 4, Sánchez giành 12%",
-        "Cử tri Peru đang đối mặt với lựa chọn giữa cánh hữu và cánh tả trong bầu cử này"
-      ],
-      "full_summary": "Cử tri Peru sẽ đi bầu vào ngày Chủ nhật trong bầu cử vòng hai giữa Keiko Fujimori và Roberto Sánchez. Đây là cuộc bầu cử quan trọng nhằm tìm người kế nhiệm chức tổng thống Peru. Fujimori, con gái của cựu tổng thống Alberto Fujimori, đã giành được 17% số phiếu bầu trong vòng một vào tháng 4, trong khi Sánchez, một nghị sĩ cánh tả, đã giành được 12%. Cuộc bầu cử này được dự đoán sẽ là một cuộc đối đầu giữa cánh hữu và cánh tả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6390c07cf516",
-      "title": "Valve P2P networking broken for more than 2 months",
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-07T08:48:00.772881+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mạng lưới P2P của Valve bị phá vỡ hơn 2 tháng",
-      "bullets": [
-        "Bị phá vỡ",
-        "Hơn 2 tháng không hoạt động",
-        "Cộng đồng đang chờ đợi sửa lỗi",
-        "Valve chưa đưa ra thông tin chính thức"
-      ],
-      "full_summary": "Mạng lưới P2P của Valve đã bị phá vỡ hơn 2 tháng qua, gây khó khăn cho các nhà phát triển game. Theo thông tin trên GitHub, cộng đồng đang chờ đợi sửa lỗi nhưng Valve chưa đưa ra thông tin chính thức. Điều này đã gây ra sự bất ổn cho các nhà phát triển game sử dụng công nghệ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11bf0aef931b",
-      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T02:51:12.053669+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Bộ trưởng Quốc phòng Mỹ chỉ trích châu Âu vì vấn đề di cư",
-      "bullets": [
-        "Bộ trưởng Quốc phòng Mỹ chỉ trích châu Âu vì cho phép di cư quá mức",
-        "Hegseth so sánh di cư với cuộc xâm lược Normandy trong Thế chiến II",
-        "Nhiều quốc gia châu Âu đang đối mặt với thách thức lớn về di cư",
-        "Hegseth lên án châu Âu vì không có biện pháp hiệu quả để kiểm soát di cư"
-      ],
-      "full_summary": "Bộ trưởng Quốc phòng Mỹ, Hegseth, đã lên án châu Âu vì cho phép di cư quá mức trong một bài phát biểu tại Normandy, 82 năm sau khi lực lượng đồng minh phát động cuộc xâm lược vùng Bắc Tây Âu để giải phóng khỏi sự chiếm đóng của Đức Quốc xã. Ông Hegseth đã so sánh di cư với cuộc xâm lược Normandy, gây ra sự phẫn nộ trong dư luận. Nhiều quốc gia châu Âu đang đối mặt với thách thức lớn về di cư, và Hegseth đã lên án châu Âu vì không có biện pháp hiệu quả để kiểm soát di cư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3317090311f6",
-      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
-      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T02:51:13.058924+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Trẻ sơ sinh bị bắn chết bởi lính Israel tại khu vực chiếm đóng",
-      "bullets": [
-        "Bà mẹ của trẻ bị thương trong vụ bắn",
-        "Lính Israel cho rằng trẻ bị bắn nhầm",
-        "Trẻ được chôn cất trong nghi thức quốc tang",
-        "Tình hình khu vực chiếm đóng tiếp tục căng thẳng"
-      ],
-      "full_summary": "Một bé trai 7 tháng tuổi đã bị bắn chết bởi lính Israel tại khu vực chiếm đóng ở Tây Tạng. Vụ việc đã gây ra sự phẫn nộ trong cộng đồng Palestine. Lính Israel cho rằng trẻ bị bắn nhầm, nhưng gia đình của trẻ phản đối. Trẻ được chôn cất trong nghi thức quốc tang.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "57bd8982f16a",
-      "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
-      "url": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T02:51:14.272836+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Pope ca ngợi nỗ lực của Tây Ban Nha trong việc phản đối chiến tranh và ủng hộ người tị nạn",
-      "bullets": [
-        "Pope chúc mừng Tây Ban Nha vì cam kết mạnh mẽ cho hòa bình và sự đoàn kết",
-        "Tây Ban Nha được đánh giá cao vì phản đối chiến tranh và ủng hộ người tị nạn",
-        "Pope bắt đầu chuyến thăm 7 ngày tới Tây Ban Nha",
-        "Chuyến thăm của Pope nhằm tăng cường quan hệ giữa Vatican và Tây Ban Nha"
-      ],
-      "full_summary": "Pope Francis bắt đầu chuyến thăm 7 ngày tới Tây Ban Nha bằng lời khen ngợi nỗ lực của quốc gia này trong việc phản đối chiến tranh và ủng hộ người tị nạn. Trong bài phát biểu đầu tiên, Pope chúc mừng Tây Ban Nha vì cam kết mạnh mẽ cho hòa bình và sự đoàn kết. Chuyến thăm của Pope nhằm tăng cường quan hệ giữa Vatican và Tây Ban Nha.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff2b4320b774",
-      "title": "The gamers taking on the industry to stop it switching off games",
-      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T02:51:15.430917+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các game thủ phản đối việc nhà xuất bản tắt game mà không đảm bảo chơi được",
-      "bullets": [
-        "Phản đối việc nhà xuất bản tắt game mà không có sự đồng ý của người chơi",
-        "Yêu cầu nhà xuất bản phải đảm bảo game vẫn có thể chơi được trước khi tắt",
-        "Thách thức tư duy của ngành công nghiệp game về quyền sở hữu và kiểm soát",
-        "Hỗ trợ các game thủ có thể tiếp tục chơi game mà không bị ảnh hưởng"
-      ],
-      "full_summary": "Một nhóm game thủ đã thành lập tổ chức Stop Killing Games để phản đối việc nhà xuất bản tắt game mà không đảm bảo người chơi có thể tiếp tục chơi. Họ cho rằng việc tắt game mà không có sự đồng ý của người chơi là không công bằng và vi phạm quyền sở hữu của người chơi. Tổ chức này đang thách thức tư duy của ngành công nghiệp game về quyền sở hữu và kiểm soát, đồng thời hỗ trợ các game thủ có thể tiếp tục chơi game mà không bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "21969b6e6a7e",
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T02:51:16.570713+00:00",
-      "category": "politics|economy|technology",
-      "importance": 3,
-      "headline": "Trump dự kiến gặp lãnh đạo các công ty AI hàng đầu",
-      "bullets": [
-        "Giới thiệu kế hoạch đầu tư của Mỹ vào các công ty AI",
-        "Chủ tịch Trump sẽ gặp lãnh đạo các công ty AI hàng đầu",
-        "Mục tiêu của cuộc gặp là tăng cường hợp tác trong lĩnh vực AI",
-        "Mỹ muốn đầu tư vào các công ty AI hàng đầu trên thế giới"
-      ],
-      "full_summary": "Chủ tịch Trump đã tuyên bố rằng ông sẽ gặp lãnh đạo các công ty AI hàng đầu trong tuần tới. Mục tiêu của cuộc gặp là tăng cường hợp tác trong lĩnh vực trí tuệ nhân tạo (AI) và thu hút đầu tư của Mỹ vào các công ty AI hàng đầu trên thế giới. Điều này có thể sẽ giúp Mỹ tăng cường vị thế trong lĩnh vực công nghệ và cạnh tranh với các cường quốc khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cdc8e8397924",
-      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-07T02:51:17.503300+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Naomi Gleit giữ chức vụ lâu nhất của Mark Zuckerberg tại Meta",
-      "bullets": [
-        "Là nhân viên lâu nhất của Mark Zuckerberg tại Meta",
-        "Giữ chức vụ trong nhiều cuộc tranh cãi tại công ty",
-        "Tells BBC rằng đây là công việc mơ ước của cô",
-        "Chia sẻ quan điểm về AI và việc làm tại Meta"
-      ],
-      "full_summary": "Naomi Gleit, nhân viên lâu nhất của Mark Zuckerberg tại Meta, đã giữ chức vụ trong nhiều năm và trải qua nhiều cuộc tranh cãi. Cô cho biết đây là công việc mơ ước của mình và chia sẻ quan điểm về AI và việc làm tại Meta. Mặc dù có nhiều thách thức, Naomi Gleit vẫn kiên định với công việc của mình.",
       "comments": 0,
       "score": 0
     }
