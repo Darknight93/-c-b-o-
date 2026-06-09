@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-09T02:31:42.400716+00:00",
+  "updated_at": "2026-06-09T09:29:27.787397+00:00",
   "articles": [
+    {
+      "id": "7e77c59e4905",
+      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T09:29:12.768845+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trump bị chỉ trích khi trở thành tổng thống Mỹ đầu tiên tham dự NBA Finals",
+      "bullets": [
+        "Trump bị chỉ trích khi tham dự NBA Finals tại Madison Square Garden",
+        "Khán giả phải trải qua kiểm tra an ninh tại sân vận động",
+        "Trump trở thành tổng thống Mỹ đầu tiên tham dự trận đấu bóng rổ NBA Finals",
+        "Sự kiện gây tranh cãi tại sân vận động lớn ở New York"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump đã trở thành tổng thống đầu tiên tham dự trận đấu NBA Finals tại Madison Square Garden. Tuy nhiên, ông đã bị khán giả chỉ trích khi tham dự sự kiện này. Khán giả phải trải qua kiểm tra an ninh tại sân vận động trước khi vào xem trận đấu. Sự kiện này đã gây tranh cãi tại sân vận động lớn ở New York.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fe6100bc41b0",
+      "title": "ICC suspends top prosecutor after investigating misconduct allegations",
+      "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T09:29:13.718952+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hội đồng Hình sự Quốc tế tạm dừng chức vụ nhà điều tra hàng đầu vì nghi vấn vi phạm",
+      "bullets": [
+        "Hội đồng Hình sự Quốc tế (ICC) đã tạm dừng chức vụ nhà điều tra Karim Khan",
+        "Karim Khan bị nghi vấn vi phạm đạo đức, nhưng ông phủ nhận mọi cáo buộc",
+        "Luật sư của Karim Khan nói ông phản đối quyết định này một cách mạnh mẽ",
+        "ICC đang điều tra các cáo buộc vi phạm đạo đức của Karim Khan"
+      ],
+      "full_summary": "Hội đồng Hình sự Quốc tế (ICC) đã tạm dừng chức vụ nhà điều tra Karim Khan sau khi điều tra các cáo buộc vi phạm đạo đức. Karim Khan phủ nhận mọi cáo buộc và luật sư của ông nói ông phản đối quyết định này một cách mạnh mẽ. ICC đang tiếp tục điều tra các cáo buộc vi phạm đạo đức của Karim Khan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "74d44ba9f23c",
+      "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T09:29:15.161285+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Xi Jinping và Kim Jong Un cam kết tăng cường quan hệ",
+      "bullets": [
+        "Xi Jinping thăm chính thức Bắc Triều Tiên trong 2 ngày",
+        "Ông là vị lãnh đạo Trung Quốc đầu tiên đến thăm Bắc Triều Tiên kể từ năm 2019",
+        "Xi và Kim Jong Un cam kết tăng cường quan hệ và hợp tác",
+        "Bắc Triều Tiên và Trung Quốc cam kết tăng cường hợp tác kinh tế và an ninh"
+      ],
+      "full_summary": "Xi Jinping đã kết thúc chuyến thăm 2 ngày đến Bắc Triều Tiên, đây là chuyến thăm chính thức đầu tiên của ông kể từ năm 2019. Trong chuyến thăm, Xi đã gặp gỡ lãnh đạo Bắc Triều Tiên Kim Jong Un và hai bên đã cam kết tăng cường quan hệ và hợp tác. Bắc Triều Tiên và Trung Quốc cũng cam kết tăng cường hợp tác kinh tế và an ninh. Chuyến thăm của Xi được coi là một bước tiến quan trọng trong quan hệ giữa Bắc Triều Tiên và Trung Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1e0330668ee",
+      "title": "Black bear caught in Japan after days of sightings",
+      "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T09:29:16.114550+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Gấu đen bị bắt giữ ở Nhật Bản sau nhiều ngày bị phát hiện",
+      "bullets": [
+        "Bị bắt giữ ở Utsunomiya",
+        "Tấn công gấu đã đạt mức cao kỷ lục tại Nhật Bản",
+        "Bị phát hiện sau nhiều ngày",
+        "Bị bắt giữ sau nhiều sự cố"
+      ],
+      "full_summary": "Một con gấu đen đã bị bắt giữ ở Utsunomiya, Nhật Bản sau nhiều ngày bị phát hiện. Sự kiện này diễn ra trong bối cảnh tấn công gấu đã đạt mức cao kỷ lục tại Nhật Bản. Các vụ tấn công gấu đã khiến nhiều người dân phải lo lắng về an toàn của mình. Việc bắt giữ con gấu đen này được coi là một bước tiến quan trọng trong việc bảo vệ người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "58291b3972fa",
+      "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
+      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T09:29:17.104649+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hạm thuyền Ấn Độ bị đốt cháy ngoài khơi Oman, toàn bộ thủy thủ đoàn được giải cứu",
+      "bullets": [
+        "Crew của tàu thuyền gửi tin báo khói và chìm",
+        "Tàu bị đốt cháy sau khi bị tấn công bởi tên lửa của Mỹ",
+        "Tất cả 24 thủy thủ đoàn Ấn Độ được giải cứu",
+        "Crew được đưa về đất liền an toàn"
+      ],
+      "full_summary": "Một hạm thuyền Ấn Độ đang vận chuyển hàng hóa không có tải trọng bị đốt cháy ngoài khơi Oman. Tàu thuyền đã gửi tin báo khói và chìm, sau đó bị tấn công bởi tên lửa của Mỹ. Tất cả 24 thủy thủ đoàn Ấn Độ đã được giải cứu và đưa về đất liền an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a21e6b742d48",
+      "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T09:29:18.137206+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Sự lây lan Ebola ở Trung Phi có thể đạt mức kỷ lục năm 2014",
+      "bullets": [
+        "CDC Mỹ dự đoán sự lây lan Ebola có thể trên 'con đường nguy hiểm'",
+        "Số ca mắc Ebola có thể lên đến 20.000",
+        "Sự lây lan có thể giống như đại dịch Ebola năm 2014-2016 ở Tây Phi",
+        "Các chuyên gia cảnh báo rằng các đại dịch có thể rất khó dự đoán"
+      ],
+      "full_summary": "Theo CDC Mỹ, sự lây lan Ebola ở Trung Phi có thể đạt mức kỷ lục năm 2014. Các mô hình tính toán cho thấy số ca mắc Ebola có thể lên đến 20.000. Điều này có thể giống như đại dịch Ebola năm 2014-2016 ở Tây Phi, khi có hơn 28.000 ca mắc và hơn 11.000 người chết. Các chuyên gia cảnh báo rằng các đại dịch có thể rất khó dự đoán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0887d230aa4c",
+      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
+      "url": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-09T09:29:21.476101+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu cho thấy vệ tinh Nga có thể làm nhiễu GPS trên quy mô lục địa",
+      "bullets": [
+        "Chứng minh vệ tinh Nga có thể làm nhiễu GPS trên quy mô lục địa",
+        "Giải thích sự cố nhiễu GPS trên khắp châu Âu",
+        "Tìm hiểu động cơ đằng sau hành động của Nga",
+        "Khả năng ảnh hưởng đến giao thông và kinh tế"
+      ],
+      "full_summary": "Một nghiên cứu cho thấy vệ tinh Nga có khả năng làm nhiễu hệ thống định vị toàn cầu (GPS) trên quy mô lục địa. Điều này được chứng minh qua các thử nghiệm và đã giải thích sự cố nhiễu GPS trên khắp châu Âu. Các chuyên gia đang tìm hiểu động cơ đằng sau hành động của Nga và khả năng ảnh hưởng đến giao thông và kinh tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5438335ffb3f",
+      "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
+      "url": "https://loro.dev/blog/mergeable-containers",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-09T09:29:27.287228+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "CRDTs giải quyết vấn đề chỉnh sửa đồng thời, nhưng tại sao không tạo đồng thời?",
+      "bullets": [
+        "Giải thích về CRDTs và cách chúng giải quyết chỉnh sửa đồng thời.",
+        "So sánh với việc tạo đồng thời và lý do tại sao CRDTs ưu tiên chỉnh sửa.",
+        "Giải thích cách CRDTs có thể được ứng dụng trong các hệ thống đồng thời."
+      ],
+      "full_summary": "Mới đây, một bài viết trên Hacker News đã giải thích về CRDTs (Conflict-free Replicated Data Types) và cách chúng giải quyết vấn đề chỉnh sửa đồng thời trong các hệ thống đồng thời. Bài viết cho biết CRDTs ưu tiên chỉnh sửa đồng thời hơn việc tạo đồng thời và giải thích cách chúng có thể được ứng dụng trong các hệ thống đồng thời.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "57b51d04a568",
       "title": "Watch: Trump tells BBC Netanyahu did not defy him",
@@ -638,164 +797,6 @@
         "Công ty này đã tăng cường sản xuất các sản phẩm có liên quan đến AI"
       ],
       "full_summary": "Raspberry Pi vừa công bố dự báo lợi nhuận cao hơn so với trước đây. Doanh nghiệp này dự báo sẽ đạt được lợi nhuận ít nhất 38 triệu USD trong nửa đầu năm 2026. Điều này được cho là do nhu cầu AI tăng cao. Raspberry Pi là một trong những công ty sản xuất máy tính nhỏ nhất thế giới và đã tăng cường sản xuất các sản phẩm có liên quan đến AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69b2683cc7ec",
-      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
-      "url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:38.589559+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Giới thiệu các thuật ngữ tiền điện tử khó hiểu",
-      "bullets": [
-        "Giải thích Bitcoin",
-        "Khái quát về blockchain",
-        "Định nghĩa về tiền điện tử",
-        "Giải thích về các loại tiền điện tử khác"
-      ],
-      "full_summary": "Giới thiệu các thuật ngữ tiền điện tử khó hiểu. Bài viết giải thích Bitcoin, blockchain và các thuật ngữ khác liên quan đến tiền điện tử. Mục đích là giúp người đọc hiểu rõ hơn về các khái niệm này. Bài viết không đề cập đến giá trị của Bitcoin.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cc422ef7704",
-      "title": "Who is Elon Musk and what is his net worth?",
-      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:39.896896+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Elon Musk là người giàu nhất thế giới và có ảnh hưởng lớn trên nhiều lĩnh vực",
-      "bullets": [
-        "Là người sáng lập và CEO của X, Tesla và SpaceX",
-        "Đứng đầu danh sách người giàu nhất thế giới",
-        "Có ảnh hưởng lớn trên nhiều lĩnh vực, bao gồm công nghệ, kinh tế và chính trị"
-      ],
-      "full_summary": "Elon Musk là người sáng lập và CEO của X, Tesla và SpaceX. Ông là người giàu nhất thế giới và có ảnh hưởng lớn trên nhiều lĩnh vực. Ông đã sử dụng nền tảng của mình để thể hiện quan điểm của mình về nhiều chủ đề khác nhau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79ed41419c4b",
-      "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
-      "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:41.070979+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tình trạng sợ hãi cực độ lan rộng trong cộng đồng người nhập cư ở Nam Phi",
-      "bullets": [
-        "Người nhập cư ở Nam Phi đang sống trong sợ hãi",
-        "Các cuộc biểu tình chống nhập cư bất hợp pháp đang gia tăng",
-        "Cộng đồng người nhập cư đang đối mặt với sự đe dọa không rõ ràng",
-        "Nhiều người nhập cư đang cảm thấy không được bảo vệ"
-      ],
-      "full_summary": "Người nhập cư ở Nam Phi đang sống trong sợ hãi sau khi các cuộc biểu tình chống nhập cư bất hợp pháp được tổ chức. Các cuộc biểu tình này đã khích động lại những cảm xúc xâm phạm người nước ngoài ở Nam Phi. Tổ chức March & March đã tuyên bố người nhập cư bất hợp pháp phải rời khỏi Nam Phi trước ngày 30 tháng 6, nhưng không rõ những gì sẽ xảy ra với những người không rời đi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "05139bee7b92",
-      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
-      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:42.033254+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Cán bộ Walmart Canada đầu tiên ký thỏa thuận hợp tác với công đoàn",
-      "bullets": [
-        "Ký thỏa thuận hợp tác đầu tiên với Walmart",
-        "Thỏa thuận này đánh dấu bước ngoặt trong cuộc đấu tranh của công đoàn",
-        "Công đoàn lên kế hoạch tổ chức các cuộc đấu tranh khác để hợp pháp hóa các nhà tuyển dụng lớn",
-        "Thỏa thuận này chỉ là bước đầu tiên trong cuộc chiến đấu tranh của công đoàn"
-      ],
-      "full_summary": "Cán bộ Walmart Canada đã ký thỏa thuận hợp tác đầu tiên với công đoàn. Thỏa thuận này đánh dấu bước ngoặt trong cuộc đấu tranh của công đoàn vì Walmart từng là một công ty chống lại lao động tổ chức. Công đoàn cho biết thỏa thuận này chỉ là bước đầu tiên trong cuộc chiến đấu tranh của họ để hợp pháp hóa các nhà tuyển dụng lớn ở Canada.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "05fe1bee20c6",
-      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
-      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:43.141807+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Hội nghị hàng không quốc tế ở Rio bất chấp cảnh báo thiếu hụt nhiên liệu",
-      "bullets": [
-        "Hội nghị Iata AGM diễn ra tại Rio de Janeiro",
-        "Dự kiến có nhiều lãnh đạo hàng không tham dự",
-        "Mặc dù có cảnh báo thiếu hụt nhiên liệu nhưng ngành hàng không vẫn tiếp tục hoạt động",
-        "Sự kiện diễn ra bất chấp xung đột ở eo biển Hormuz"
-      ],
-      "full_summary": "Hội nghị hàng không quốc tế Iata AGM sắp diễn ra tại Rio de Janeiro, bất chấp cảnh báo thiếu hụt nhiên liệu. Mặc dù có nguy cơ tắc nghẽn ở eo biển Hormuz, nhưng ngành hàng không vẫn tiếp tục hoạt động. Sự kiện này dự kiến có nhiều lãnh đạo hàng không tham dự. Mặc dù có nhiều lo ngại về tình trạng thiếu hụt nhiên liệu, nhưng ngành hàng không vẫn đang tiếp tục hoạt động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e4b98845178",
-      "title": "The EU Open Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-08T10:23:45.911837+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "EU công bố chiến lược nguồn mở để tăng cường hợp tác và đổi mới",
-      "bullets": [
-        "Xây dựng các công cụ nguồn mở để giảm chi phí và tăng cường hiệu suất",
-        "Tăng cường hợp tác giữa các tổ chức và cá nhân thông qua các dự án nguồn mở",
-        "Đẩy mạnh đổi mới và sáng tạo thông qua việc sử dụng nguồn mở"
-      ],
-      "full_summary": "Chính phủ EU vừa công bố chiến lược nguồn mở mới, với mục tiêu tăng cường hợp tác và đổi mới thông qua việc sử dụng nguồn mở. Chiến lược này bao gồm việc xây dựng các công cụ nguồn mở để giảm chi phí và tăng cường hiệu suất, tăng cường hợp tác giữa các tổ chức và cá nhân thông qua các dự án nguồn mở, và đẩy mạnh đổi mới và sáng tạo thông qua việc sử dụng nguồn mở. Chiến lược này sẽ giúp EU trở thành một trung tâm đổi mới và sáng tạo trên toàn cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "192401c89d2f",
-      "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
-      "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T02:53:54.431006+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Xi Jinping đến Bắc Triều Tiên để củng cố ảnh hưởng",
-      "bullets": [
-        "Cố gắng tái khẳng định ảnh hưởng của Trung Quốc đối với một đối tác quan trọng và khó lường",
-        "Đi đến Bắc Triều Tiên để tăng cường quan hệ song phương và hợp tác kinh tế",
-        "Hỗ trợ Bắc Triều Tiên trong các vấn đề an ninh và kinh tế",
-        "Thử nghiệm khả năng ứng phó của Bắc Triều Tiên trước các thách thức quốc tế"
-      ],
-      "full_summary": "Tổng thống Xi Jinping dự kiến sẽ đến Bắc Triều Tiên vào tháng 6 để tăng cường quan hệ song phương và hợp tác kinh tế. Đây là một bước đi quan trọng để Trung Quốc tái khẳng định ảnh hưởng của mình đối với Bắc Triều Tiên, một đối tác quan trọng nhưng cũng rất khó lường. Bắc Triều Tiên đang đối mặt với nhiều thách thức, bao gồm các biện pháp trừng phạt của Liên Hợp Quốc và sự suy giảm kinh tế. Việc đến thăm của Tổng thống Xi Jinping sẽ giúp Bắc Triều Tiên có thêm nguồn lực và hỗ trợ để đối phó với những thách thức này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "768dea1d7060",
-      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-      "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T02:53:55.420281+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hoa Kỳ cấm du khách và hạn chế thị thực khiến người hâm mộ World Cup cảm thấy bị loại bỏ",
-      "bullets": [
-        "Người hâm mộ trên toàn thế giới phàn nàn về các quy định thị thực và cấm du khách của Hoa Kỳ",
-        "Các quy định này khiến họ cảm thấy bị loại bỏ khỏi World Cup",
-        "Hoa Kỳ đã áp dụng các biện pháp này để kiểm soát biên giới và an ninh quốc gia",
-        "Người hâm mộ đang kêu gọi thay đổi các quy định này để họ có thể tham gia World Cup"
-      ],
-      "full_summary": "Người hâm mộ trên toàn thế giới đang phàn nàn về các quy định thị thực và cấm du khách của Hoa Kỳ, khiến họ cảm thấy bị loại bỏ khỏi World Cup. Các quy định này đã được áp dụng để kiểm soát biên giới và an ninh quốc gia. Người hâm mộ đang kêu gọi thay đổi các quy định này để họ có thể tham gia World Cup. Họ tin rằng các quy định này không công bằng và ảnh hưởng đến quyền tham gia của họ.",
       "comments": 0,
       "score": 0
     }
