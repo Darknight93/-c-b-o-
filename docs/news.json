@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-09T09:29:27.787397+00:00",
+  "updated_at": "2026-06-09T14:33:17.359954+00:00",
   "articles": [
+    {
+      "id": "c3623e9ea450",
+      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T14:33:01.910745+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Máy bay không người lái cứu phi công Mỹ",
+      "bullets": [
+        "Cứu được 2 thành viên phi hành đoàn Apache",
+        "Máy bay bị rơi xuống biển gần eo biển Hormuz",
+        "Máy bay không người lái được sử dụng để cứu hộ",
+        "Crew được đưa lên tàu và an toàn"
+      ],
+      "full_summary": "Một máy bay không người lái đã cứu được 2 thành viên phi hành đoàn của một chiếc Apache khi nó rơi xuống biển gần eo biển Hormuz. Sự cố xảy ra vào thứ hai. Máy bay không người lái đã đưa 2 người lên tàu và họ được đưa đến an toàn. Sự việc được xác nhận bởi các quan chức Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "00e4c227fb6f",
+      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T14:33:02.965392+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người chết, bị thương sau trận động đất ở Philippines",
+      "bullets": [
+        "Đã xảy ra hàng trăm trận rung lắc sau trận động đất",
+        "Số người chết và bị thương có thể tăng lên",
+        "Động đất đã gây thiệt hại lớn ở khu vực phía nam Philippines",
+        "Hỗ trợ khẩn cấp đang được triển khai"
+      ],
+      "full_summary": "Một trận động đất mạnh đã xảy ra ở khu vực phía nam Philippines, khiến ít nhất vài chục người chết và hàng trăm người bị thương. Số người chết và bị thương có thể tăng lên khi tình hình được đánh giá lại. Hỗ trợ khẩn cấp đang được triển khai để giúp người dân bị ảnh hưởng. Các trận rung lắc sau đó đã xảy ra hàng trăm lần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a86df014f62",
+      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T14:33:03.971211+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "300 người tị nạn bị bắt cóc, đe dọa cắt thận",
+      "bullets": [
+        "Bị bắt cóc bởi một lực lượng dân quân",
+        "Đề nghị tiền chuộc 5.000 USD mỗi người",
+        "Đe dọa cắt thận nếu không trả tiền",
+        "Người tị nạn đang trên đường đến Anh"
+      ],
+      "full_summary": "Một nhóm 300 người tị nạn người Kurd đang trên đường đến Anh đã bị bắt cóc bởi một lực lượng dân quân. Họ đòi tiền chuộc 5.000 USD mỗi người và đe dọa cắt thận nếu không trả tiền. Người tị nạn đang trong tình trạng tuyệt vọng và hy vọng được giải cứu sớm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "682e0bdeea78",
+      "title": "Man accused of killing mother-in-law with poison-laced satay",
+      "url": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T14:33:05.030965+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chàng trai dùng thịt xiên độc giết mẹ vợ",
+      "bullets": [
+        "Cảnh sát Indonesia cáo buộc chàng trai giết mẹ vợ vì cảm thấy bị xúc phạm",
+        "Chàng trai dùng thịt xiên độc để sát hại mẹ vợ",
+        "Cơ quan điều tra đang điều tra vụ án mạng này",
+        "Chàng trai đã bị bắt giữ"
+      ],
+      "full_summary": "Cảnh sát Indonesia cáo buộc một chàng trai đã giết mẹ vợ bằng cách cho ăn thịt xiên độc. Theo cáo buộc, chàng trai đã hành động vì cảm thấy bị xúc phạm bởi mẹ vợ. Vụ án mạng đã xảy ra tại một thành phố ở Indonesia. Cảnh sát đang điều tra vụ án và đã bắt giữ chàng trai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "86abb807ef39",
+      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
+      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T14:33:06.036115+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Ukraine tăng cường tấn công, gây khó khăn cho Nga trong việc cung cấp nhiên liệu",
+      "bullets": [
+        "Ukraine tăng cường tấn công vào các lãnh thổ do Nga chiếm đóng",
+        "Moscow gặp khó khăn trong việc cung cấp hàng hóa và nhiên liệu cho các lãnh thổ này",
+        "Kyiv đã khiến Nga khó khăn trong việc duy trì hoạt động quân sự và dân sự",
+        "Nga đang đối mặt với cuộc khủng hoảng nhiên liệu nghiêm trọng"
+      ],
+      "full_summary": "Ukraine đã tăng cường tấn công vào các lãnh thổ do Nga chiếm đóng, khiến Moscow gặp khó khăn trong việc cung cấp hàng hóa và nhiên liệu. Điều này đã khiến Nga khó khăn trong việc duy trì hoạt động quân sự và dân sự. Kyiv đã sử dụng chiến thuật này để gây khó khăn cho Nga trong việc duy trì hoạt động quân sự và dân sự. Nga đang đối mặt với cuộc khủng hoảng nhiên liệu nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e2f1656c5dac",
+      "title": "Kenyan police fire tear gas at protest against US Ebola quarantine centre plan",
+      "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T14:33:07.667369+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát Kenya bắn hơi cay vào biểu tình chống trung tâm cách ly Ebola",
+      "bullets": [
+        "Báo cáo cho biết cảnh sát Kenya đã bắn hơi cay vào những người biểu tình",
+        "Người biểu tình lo ngại về nguy cơ lây nhiễm qua biên giới và thiếu minh bạch từ chính phủ",
+        "Trung tâm cách ly Ebola được đề xuất xây dựng tại Kenya",
+        "Chính phủ Kenya chưa công bố thông tin đầy đủ về dự án"
+      ],
+      "full_summary": "Cảnh sát Kenya đã bắn hơi cay vào những người biểu tình phản đối kế hoạch xây dựng trung tâm cách ly Ebola. Người biểu tình lo ngại về nguy cơ lây nhiễm qua biên giới và thiếu minh bạch từ chính phủ. Họ cho rằng chính phủ chưa công bố thông tin đầy đủ về dự án. Các cuộc biểu tình đã diễn ra tại Kenya trong những ngày qua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9bf79b4bb049",
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T14:33:09.381945+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Chính phủ châu Phi ủng hộ bản dự thảo kêu gọi loại bỏ quyền nhân quyền",
+      "bullets": [
+        "Xóa bỏ các quyền nhân quyền quốc tế",
+        "Loại bỏ các thỏa thuận không phù hợp với bản dự thảo",
+        "Bất chấp quyền tự do của phụ nữ và LGBTQ+",
+        "Làm suy yếu quyền tiếp cận y tế sinh sản"
+      ],
+      "full_summary": "Một bản dự thảo hiến chương châu Phi về gia đình, chủ quyền và giá trị đã được thông qua tại Ghana. Bản dự thảo này bác bỏ các quyền nhân quyền quốc tế và kêu gọi các quốc gia rút khỏi các thỏa thuận không phù hợp. Điều này bao gồm cả hiệp ước Maputo năm 2003, thúc đẩy bình đẳng giới và bảo vệ quyền tiếp cận y tế sinh sản của phụ nữ và trẻ em gái. Các tổ chức nhân quyền đã lên án bản dự thảo này là một bước lùi và nguy hiểm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7657ac0e4372",
+      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-09T14:33:13.919143+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta tố cáo NSO vi phạm lệnh cấm sử dụng phần mềm gián điệp trên WhatsApp",
+      "bullets": [
+        "Meta tố cáo NSO vi phạm lệnh cấm sử dụng phần mềm gián điệp",
+        "WhatsApp ngăn chặn các cuộc tấn công spear phishing",
+        "Meta yêu cầu tòa án phạt NSO vì vi phạm lệnh cấm",
+        "NSO bị cáo buộc vi phạm lệnh cấm sử dụng phần mềm gián điệp"
+      ],
+      "full_summary": "Meta cáo buộc NSO vi phạm lệnh cấm sử dụng phần mềm gián điệp trên WhatsApp. WhatsApp đã ngăn chặn các cuộc tấn công spear phishing. Meta yêu cầu tòa án phạt NSO vì vi phạm lệnh cấm. NSO bị cáo buộc vi phạm lệnh cấm sử dụng phần mềm gián điệp.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7e77c59e4905",
       "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
@@ -637,166 +797,6 @@
         "Cần có phương pháp tiếp cận đa dạng hơn trong nghiên cứu khoa học thời tiết và khí hậu"
       ],
       "full_summary": "Một bài viết trên Ars Technica cho rằng công nghệ AI không phải là cách giải quyết thần kỳ cho khoa học thời tiết và khí hậu. Mặc dù AI có thể giúp phân tích dữ liệu lớn và dự đoán thời tiết, nhưng nó cũng có giới hạn và có thể bị áp dụng sai lầm. Điều này đòi hỏi cần có phương pháp tiếp cận đa dạng hơn trong nghiên cứu khoa học thời tiết và khí hậu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d7fc1fd0b63a",
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-08T15:35:45.637592+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mã nguồn mới: Performative-UI - thư viện thành phần React",
-      "bullets": [
-        "Được phát triển bởi Vorpus",
-        "Là thư viện thành phần React của các mô hình thiết kế",
-        "Cung cấp các thành phần UI hiệu ứng",
-        "Có sẵn trên GitHub"
-      ],
-      "full_summary": "Performative-UI là một thư viện thành phần React mới được phát triển bởi Vorpus. Thư viện này cung cấp các thành phần UI hiệu ứng, bao gồm các mô hình thiết kế phổ biến. Người dùng có thể sử dụng Performative-UI để tạo ra các ứng dụng có giao diện người dùng hấp dẫn. Thư viện này có sẵn trên GitHub và đang được phát triển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b7362bf66dff",
-      "title": "How AI is reshaping discovery in maths and physics",
-      "url": "https://www.nature.com/articles/d41586-026-01820-1",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-06-08T15:35:49.414090+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tính toán AI đang thay đổi cách khám phá toán học và vật lý",
-      "bullets": [
-        "Tạo ra những câu hỏi mới trong toán học và vật lý",
-        "Khám phá các mô hình phức tạp một cách nhanh chóng và chính xác",
-        "Hỗ trợ các nhà khoa học trong việc hiểu và giải thích các hiện tượng",
-        "Không thay thế trực tiếp sự sáng tạo của con người"
-      ],
-      "full_summary": "Tính toán AI đang thay đổi cách khám phá toán học và vật lý bằng cách tạo ra những câu hỏi mới và hỗ trợ các nhà khoa học trong việc hiểu và giải thích các hiện tượng. Mặc dù AI không thay thế trực tiếp sự sáng tạo của con người, nhưng nó đang giúp các nhà khoa học khám phá các mô hình phức tạp một cách nhanh chóng và chính xác. Điều này đang mở ra những cơ hội mới cho việc khám phá và hiểu biết về toán học và vật lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "52b0e853b3f6",
-      "title": "At least 19 dead after major earthquake strikes southern Philippines",
-      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:32.921219+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Động đất mạnh 7,8 độ làm 19 người chết ở Philippines",
-      "bullets": [
-        "Gây ra sóng thần nhỏ ở Philippines, Indonesia và Nhật Bản",
-        "Tổn thương nặng ở các thành phố và khu vực ven biển",
-        "Cứu hộ đang được triển khai ở các khu vực bị ảnh hưởng",
-        "Số người chết có thể tăng cao hơn"
-      ],
-      "full_summary": "Một trận động đất mạnh 7,8 độ đã xảy ra ở phía nam Philippines, làm ít nhất 19 người chết. Sóng thần nhỏ đã được ghi nhận ở Philippines, Indonesia và Nhật Bản. Các thành phố và khu vực ven biển đã bị tổn thương nặng. Cứu hộ đang được triển khai ở các khu vực bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "496874720fdd",
-      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:33.885002+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một cá mập trắng hiếm gặp được ghi lại ở Địa Trung Hải",
-      "bullets": [
-        "Một người lặn tình nguyện ghi lại được hình ảnh của cá mập trắng",
-        "Cá mập được ghi lại giữa Tunisia và Sicily",
-        "Người lặn mô tả cảm giác run rẩy khi gặp cá mập",
-        "Cá mập trắng đang bị đe dọa"
-      ],
-      "full_summary": "Một người lặn tình nguyện đã ghi lại hình ảnh của một cá mập trắng hiếm gặp ở Địa Trung Hải. Cá mập được ghi lại giữa Tunisia và Sicily. Người lặn mô tả cảm giác run rẩy khi gặp cá mập. Đây là một trong những lần ghi lại được cá mập trắng ở Địa Trung Hải.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1bf4374edd18",
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
-      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:34.944759+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chính phủ thân phương Tây Armenia thắng cử",
-      "bullets": [
-        "Đảng Dân chủ Công việc của Thủ tướng Nikol Pashinyan giành được gần 50% số phiếu",
-        "Chính phủ này thắng cử bất chấp áp lực từ Nga",
-        "Các ứng cử viên khác không thể vượt qua",
-        "Nga từng ủng hộ chính phủ Armenia trước đây"
-      ],
-      "full_summary": "Chính phủ thân phương Tây của Armenia dưới sự lãnh đạo của Thủ tướng Nikol Pashinyan đã thắng cử trong cuộc bầu cử quốc hội. Đảng Dân chủ Công việc của ông Pashinyan đã giành được gần 50% số phiếu, vượt qua các ứng cử viên khác. Đây là một chiến thắng quan trọng đối với Armenia, bất chấp áp lực từ Nga. Nga từng ủng hộ chính phủ Armenia trước đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ce1c1dd25fa",
-      "title": "Knicks' long-awaited NBA run electrifies NYC, with Trump set to attend key game",
-      "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:35.821475+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Đội bóng Knicks gây sốt ở NYC",
-      "bullets": [
-        "Đội bóng Knicks đang trên đà thắng",
-        "Sự kiện này đã tạo nên cơn sốt ở thành phố New York",
-        "Đội bóng sẽ thi đấu tại sân nhà trong trận đấu quan trọng",
-        "Đại diện Trump dự kiến sẽ có mặt tại trận đấu này"
-      ],
-      "full_summary": "Đội bóng Knicks đang trên đà thắng, tạo nên cơn sốt ở thành phố New York. Sự kiện này đã thu hút sự chú ý của nhiều người hâm mộ. Đội bóng sẽ thi đấu tại sân nhà trong trận đấu quan trọng, và đại diện Trump dự kiến sẽ có mặt tại trận đấu này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "01eeeb79b1b4",
-      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
-      "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:36.758870+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nạn nhân bạo lực ở Nam Phi được hồi hương",
-      "bullets": [
-        "Các nước châu Phi đang hồi hương công dân khỏi Nam Phi",
-        "Malawi là một trong những quốc gia đang thực hiện việc này",
-        "Các vụ tấn công chống lại người nhập cư đang gia tăng",
-        "Nạn nhân đang được đưa về nước an toàn"
-      ],
-      "full_summary": "Malawi và một số quốc gia châu Phi khác đang hồi hương công dân khỏi Nam Phi sau khi có báo cáo về bạo lực chống lại người nhập cư. Các vụ tấn công chống lại người nhập cư đang gia tăng, khiến nhiều người phải tìm cách về nước an toàn. Malawi đã tổ chức một chuyến bay đặc biệt để đưa công dân về nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "531e9fe57928",
-      "title": "Raspberry Pi raises profit forecast as AI demand grows",
-      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T10:23:37.757808+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Raspberry Pi tăng dự báo lợi nhuận nhờ nhu cầu AI tăng cao",
-      "bullets": [
-        "Raspberry Pi dự báo lợi nhuận ít nhất 38 triệu USD trong nửa đầu năm 2026",
-        "Doanh nghiệp này dự kiến tăng lợi nhuận nhờ nhu cầu AI tăng cao",
-        "Raspberry Pi là một trong những công ty sản xuất máy tính nhỏ nhất thế giới",
-        "Công ty này đã tăng cường sản xuất các sản phẩm có liên quan đến AI"
-      ],
-      "full_summary": "Raspberry Pi vừa công bố dự báo lợi nhuận cao hơn so với trước đây. Doanh nghiệp này dự báo sẽ đạt được lợi nhuận ít nhất 38 triệu USD trong nửa đầu năm 2026. Điều này được cho là do nhu cầu AI tăng cao. Raspberry Pi là một trong những công ty sản xuất máy tính nhỏ nhất thế giới và đã tăng cường sản xuất các sản phẩm có liên quan đến AI.",
       "comments": 0,
       "score": 0
     }
