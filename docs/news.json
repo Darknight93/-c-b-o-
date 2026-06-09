@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-09T14:33:17.359954+00:00",
+  "updated_at": "2026-06-09T19:59:47.115630+00:00",
   "articles": [
+    {
+      "id": "d8c314a1b206",
+      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:29.929299+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Trung Quốc tuyên bố Iran bắn hạ máy bay trực thăng Mỹ",
+      "bullets": [
+        "Trung Quốc xác nhận máy bay trực thăng Apache của Mỹ bị bắn hạ",
+        "Hai phi công bị thương được cứu bởi một con robot dưới nước",
+        "Trung Quốc cam kết sẽ phản ứng lại hành động của Iran",
+        "Mỹ đang xem xét các lựa chọn để đối phó"
+      ],
+      "full_summary": "Trung Quốc vừa tuyên bố Iran đã bắn hạ một máy bay trực thăng Apache của Mỹ. Hai phi công bị thương đã được cứu bởi một con robot dưới nước. Trung Quốc cam kết sẽ phản ứng lại hành động của Iran. Mỹ đang xem xét các lựa chọn để đối phó.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b340e65494bb",
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:30.986915+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel tấn công thành phố Tyre ở Liban bất chấp cảnh báo của Iran",
+      "bullets": [
+        "Iran cảnh báo Israel ngừng tấn công đồng minh Hezbollah ở Liban",
+        "Israel tiến hành không kích thành phố Tyre ở Liban",
+        "Iran cảnh báo có thể tái khởi chiến nếu Israel không ngừng tấn công Hezbollah",
+        "Tình hình ở khu vực Trung Đông tiếp tục căng thẳng"
+      ],
+      "full_summary": "Iran đã cảnh báo Israel ngừng tấn công đồng minh Hezbollah ở Liban. Mặc dù vậy, Israel vẫn tiến hành không kích thành phố Tyre ở Liban. Cảnh báo của Iran được đưa ra sau khi Israel liên tục tấn công Hezbollah. Tình hình ở khu vực Trung Đông tiếp tục căng thẳng và có thể tái khởi chiến nếu Israel không ngừng tấn công Hezbollah.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "930b183e0b6f",
+      "title": "Nasa names next astronauts for Artemis Moon programme",
+      "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:32.556347+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nasa chọn các phi hành gia mới cho chương trình Artemis",
+      "bullets": [
+        "Nasa công bố danh sách các phi hành gia mới cho chương trình Artemis",
+        "Các phi hành gia này sẽ không đi bộ trên Mặt Trăng hoặc đến gần Mặt Trăng",
+        "Chương trình Artemis nhằm mục đích đưa người trở lại Mặt Trăng vào năm 2025",
+        "Nasa đã chọn các phi hành gia mới sau nhiều năm tuyển chọn"
+      ],
+      "full_summary": "Nasa vừa công bố danh sách các phi hành gia mới cho chương trình Artemis, một chương trình nhằm mục đích đưa người trở lại Mặt Trăng vào năm 2025. Các phi hành gia này sẽ không đi bộ trên Mặt Trăng hoặc đến gần Mặt Trăng, nhưng sẽ đóng vai trò quan trọng trong việc chuẩn bị cho các sứ mệnh tương lai. Chương trình Artemis được Nasa khởi xướng vào năm 2019 và đã trải qua nhiều năm tuyển chọn các phi hành gia mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db12dd8b87b5",
+      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
+      "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:34.057027+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nạn nhân 11 tuổi bị sát hại ở Pháp, gây phẫn nộ trong xã hội",
+      "bullets": [
+        "Cảnh sát Pháp bị chỉ trích vì không ngăn chặn vụ sát hại",
+        "Tội phạm đã được báo cáo với cảnh sát vào tháng 8",
+        "Nạn nhân Lyhanna bị đánh một phát và tử vong",
+        "Hàng nghìn người biểu tình phản đối vụ sát hại"
+      ],
+      "full_summary": "Một vụ sát hại trẻ em 11 tuổi ở Pháp đã gây phẫn nộ trong xã hội. Nạn nhân Lyhanna bị đánh một phát và tử vong. Tội phạm đã được báo cáo với cảnh sát vào tháng 8, nhưng cảnh sát không ngăn chặn vụ sát hại. Hàng nghìn người biểu tình phản đối vụ sát hại và chỉ trích cảnh sát.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b29294f229ed",
+      "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
+      "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:35.438587+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ giới ở Afghanistan biểu tình, cảnh sát bắn đạn",
+      "bullets": [
+        "Nữ giới ở Herat biểu tình",
+        "Cảnh sát bắn đạn, hai người bị thương",
+        "Biểu tình bị dập tắt",
+        "Tình hình ở Afghanistan vẫn còn phức tạp"
+      ],
+      "full_summary": "Một cuộc biểu tình hiếm hoi của phụ nữ ở thành phố Herat, Afghanistan đã bị cảnh sát dập tắt sau khi họ bắn đạn. Có hai người bị thương trong vụ biểu tình. Đây là một trong những vụ biểu tình hiếm hoi của phụ nữ ở Afghanistan trong thời gian gần đây. Tình hình ở Afghanistan vẫn còn phức tạp và bất ổn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a22199e71bf7",
+      "title": "I have right papers and visa - barred referee Artan",
+      "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:36.525330+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hạ thủ tục nhập cảnh Mỹ 11 giờ, trọng tài Somali bị từ chối",
+      "bullets": [
+        "Trọng tài Omar Artan bị từ chối nhập cảnh Mỹ",
+        "Artan có đủ giấy tờ và thị thực",
+        "Bị thẩm vấn 11 giờ trước khi bị từ chối",
+        "Sẽ không tham gia World Cup"
+      ],
+      "full_summary": "Trọng tài Somali Omar Artan vừa bị từ chối nhập cảnh Mỹ mặc dù có đủ giấy tờ và thị thực. Ông Artan đã trải qua 11 giờ thẩm vấn trước khi bị từ chối. Điều này có thể khiến ông không tham gia World Cup. Ông Artan cho biết mình đã có đủ giấy tờ và thị thực nhưng vẫn bị từ chối.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a68e088292c7",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:37.595385+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một phiên bản AI quá mạnh cho công chúng đã được công bố",
+      "bullets": [
+        "Bị phát hành công khai",
+        "Là phiên bản Claude Mythos của Anthropic",
+        "Đã gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ",
+        "Cần được kiểm soát chặt chẽ"
+      ],
+      "full_summary": "Một phiên bản AI mạnh mẽ của Anthropic, Claude Mythos, đã gây ra sự xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ. Phiên bản này, Claude Fable 5, đã được công bố công khai, khiến nhiều người lo ngại về khả năng kiểm soát của nó. Anthropic đã phát hành phiên bản này, nhưng vẫn chưa rõ liệu nó có được kiểm soát chặt chẽ hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f792aa52aecc",
+      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-09T19:59:39.366217+00:00",
+      "category": "politics|technology",
+      "importance": 3,
+      "headline": "Farage nói Reform liên hệ với X về quảng cáo AI giả mạo",
+      "bullets": [
+        "Farage nói Reform đã liên hệ với X về quảng cáo giả mạo",
+        "Quảng cáo giả mạo có hình ảnh của thống đốc Ngân hàng Anh",
+        "Ngân hàng Anh khuyên mọi người báo cáo quảng cáo giả mạo"
+      ],
+      "full_summary": "Nigel Farage nói rằng Reform đã liên hệ với X 'đến mức cao nhất' về quảng cáo giả mạo AI. Quảng cáo giả mạo này có hình ảnh của thống đốc Ngân hàng Anh và Ngân hàng Anh đã khuyên mọi người báo cáo. Mục đích của quảng cáo giả mạo này vẫn chưa rõ ràng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a8659cc982fc",
+      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
+      "url": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-09T19:59:44.189658+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "NASA sắp xếp đội ngũ phi hành gia cho Artemis III",
+      "bullets": [
+        "Giao nhiệm vụ cho đội ngũ phi hành gia cho sứ mệnh Artemis III",
+        "Đặt mục tiêu tiến độ nhanh chóng cho chuyến bay",
+        "Artemis III sẽ là một minh chứng đặc biệt về khả năng của con người",
+        "NASA đặt mục tiêu đưa người lên Mặt Trăng trong năm 2027"
+      ],
+      "full_summary": "NASA vừa công bố đội ngũ phi hành gia cho sứ mệnh Artemis III, một trong những sứ mệnh quan trọng nhất của chương trình Artemis. Đội ngũ này sẽ bao gồm các phi hành gia đã được huấn luyện kỹ lưỡng để thực hiện sứ mệnh đưa người lên Mặt Trăng. NASA cũng đặt mục tiêu tiến độ nhanh chóng cho chuyến bay, với mục tiêu đưa người lên Mặt Trăng trong năm 2027. Điều này sẽ là một bước tiến quan trọng trong việc khám phá vũ trụ và phát triển công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "c3623e9ea450",
       "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
@@ -617,186 +796,6 @@
         "FTX là một nền tảng tiền điện tử đã sụp đổ"
       ],
       "full_summary": "Sam Bankman-Fried, cựu lãnh đạo nền tảng tiền điện tử FTX, đã nộp đơn xin ân xá từ Tổng thống Trump. Ông đang thụ án 25 năm tù vì các tội liên quan đến việc quản lý FTX. FTX là một nền tảng tiền điện tử đã sụp đổ vào năm 2022, gây ra thiệt hại lớn cho các nhà đầu tư. Việc xin ân xá của Sam Bankman-Fried đã gây ra sự chú ý lớn trong cộng đồng tài chính.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e8d3bce086d",
-      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T20:05:43.748643+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cư dân Mogadishu chạy trốn trước đạn phun",
-      "bullets": [
-        "Căng thẳng bùng phát tại Mogadishu",
-        "Cư dân bị buộc phải rời khỏi nhà",
-        "Tổn thất tài sản và thương vong",
-        "Sự kiện diễn ra trước cuộc biểu tình"
-      ],
-      "full_summary": "Vào ngày 4 tháng 6, Mogadishu đã chứng kiến những vụ bắn súng dữ dội giữa quân đội và phe đối lập. Sự kiện này diễn ra trước cuộc biểu tình lên án quyết định của Tổng thống Somalia tiếp tục ở nhiệm kỳ sau khi hết hạn. Cư dân đã bị buộc phải rời khỏi nhà và tài sản bị hư hỏng. Những vụ bắn súng đã khiến nhiều người thương vong.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5d31753351cd",
-      "title": "F1 in Monaco: Finally, the cars were flat-out in qualifying",
-      "url": "https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-08T20:05:50.835090+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Các xe F1 đã đạt tốc độ tối đa trong vòng loại",
-      "bullets": [
-        "Đạt được vị trí pole với tốc độ cao",
-        "Các đội đua cạnh tranh quyết liệt",
-        "Mặc dù xe quá lớn nhưng vẫn đạt được tốc độ tối đa",
-        "Cầu đường Monako vẫn là một thử thách khó khăn"
-      ],
-      "full_summary": "Vòng loại F1 tại Monaco đã diễn ra với tốc độ tối đa. Các xe đã đạt được tốc độ cao và các đội đua đã cạnh tranh quyết liệt để giành vị trí pole. Mặc dù xe quá lớn nhưng các tay đua vẫn đạt được tốc độ tối đa. Cầu đường Monako vẫn là một thử thách khó khăn đối với các tay đua.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "58f3886fed76",
-      "title": "Iran releases footage of missiles launched at Israel",
-      "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T15:35:32.077310+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran công bố video về tên lửa tấn công Israel",
-      "bullets": [
-        "Iran công bố video về tên lửa tấn công Israel",
-        "Iran tuyên bố các vụ tấn công là 'bắt đầu của một tuần liên tục các cuộc tấn công'",
-        "Các cuộc tấn công của Iran nhắm vào Israel",
-        "Iran cho biết các cuộc tấn công sẽ tiếp tục trong tuần tới"
-      ],
-      "full_summary": "Iran đã công bố video về tên lửa tấn công Israel. Theo Iran, các cuộc tấn công này là 'bắt đầu của một tuần liên tục các cuộc tấn công'. Iran tuyên bố các vụ tấn công nhắm vào Israel và sẽ tiếp tục trong tuần tới. Điều này đã gây ra lo ngại về sự leo thang căng thẳng giữa Iran và Israel.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "218b854fe105",
-      "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T15:35:34.169444+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Starmer yêu cầu Apple và Google cấm hình ảnh không phù hợp trên điện thoại trẻ em",
-      "bullets": [
-        "Yêu cầu Apple và Google kích hoạt tính năng chống trẻ em truy cập hình ảnh không phù hợp",
-        "Hình ảnh không phù hợp sẽ được ngăn chặn trên các thiết bị di động của trẻ em",
-        "Động thái này nhằm bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của nội dung không phù hợp",
-        "Starmer kêu gọi các công ty công nghệ thực hiện biện pháp này ngay lập tức"
-      ],
-      "full_summary": "Chủ tịch Đảng Lao động Anh, Keir Starmer, đã yêu cầu Apple và Google cấm hình ảnh không phù hợp trên điện thoại trẻ em. Ông cho rằng các công ty công nghệ cần kích hoạt tính năng chống trẻ em truy cập hình ảnh không phù hợp. Điều này nhằm bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của nội dung không phù hợp. Starmer kêu gọi các công ty công nghệ thực hiện biện pháp này ngay lập tức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff2b4320b774",
-      "title": "The gamers taking on the industry to stop it switching off games",
-      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T15:35:35.154196+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các game thủ phản đối việc nhà xuất bản tắt game mà không kiểm tra",
-      "bullets": [
-        "Phản đối việc nhà xuất bản tắt game mà không kiểm tra",
-        "Kháng nghị Stop Killing Games nhằm bảo vệ quyền lợi của người chơi",
-        "Mục tiêu là đảm bảo game vẫn có thể chơi được trước khi tắt",
-        "Các game thủ đang đấu tranh để thay đổi cách thức hoạt động của ngành công nghiệp"
-      ],
-      "full_summary": "Stop Killing Games đang đấu tranh để ngăn chặn việc nhà xuất bản tắt game mà không kiểm tra xem game vẫn có thể chơi được hay không. Mục tiêu của họ là đảm bảo rằng người chơi có thể tiếp tục chơi game trước khi nó bị tắt. Họ đang đấu tranh để thay đổi cách thức hoạt động của ngành công nghiệp và bảo vệ quyền lợi của người chơi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "21969b6e6a7e",
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T15:35:36.254602+00:00",
-      "category": "politics|technology",
-      "importance": 3,
-      "headline": "Trump sắp gặp lãnh đạo các công ty AI để thảo luận đầu tư của Mỹ",
-      "bullets": [
-        "Trump sẽ gặp lãnh đạo các công ty AI hàng đầu tuần tới",
-        "Mục tiêu của cuộc gặp là thảo luận đầu tư của Mỹ vào các công ty AI",
-        "Các công ty AI sẽ được mời tham gia cuộc gặp",
-        "Cuộc gặp sẽ tập trung vào các vấn đề liên quan đến AI"
-      ],
-      "full_summary": "Theo BBC Technology, Tổng thống Mỹ Donald Trump cho biết ông sẽ gặp lãnh đạo các công ty AI hàng đầu tuần tới. Mục tiêu của cuộc gặp là thảo luận đầu tư của Mỹ vào các công ty AI. Các công ty AI sẽ được mời tham gia cuộc gặp để thảo luận về các vấn đề liên quan đến AI và đầu tư của Mỹ. Cuộc gặp sẽ giúp Mỹ hiểu rõ hơn về các công ty AI và có thể đầu tư vào các công ty này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "682118094fb5",
-      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T15:35:39.432777+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hội đồng chuyên gia lên án kế hoạch trung tâm cách ly Ebola chỉ dành cho Mỹ",
-      "bullets": [
-        "Khuyến cáo từ cựu quan chức Mỹ và các chuyên gia khác",
-        "Phản đối kế hoạch trung tâm cách ly Ebola ở Kenya chỉ dành cho người Mỹ",
-        "Đáp lại yêu cầu của Công đoàn CDC đòi đưa công nhân Mỹ về nước",
-        "Trung tâm cách ly Ebola ở Kenya bị tòa án Kenya cấm"
-      ],
-      "full_summary": "Các chuyên gia đã lên án kế hoạch của chính phủ Mỹ về trung tâm cách ly Ebola ở Kenya chỉ dành cho người Mỹ. Kế hoạch này khác với chính sách trước đây của CDC về việc đưa nhân viên về nước để điều trị. Tòa án Kenya đã cấm trung tâm cách ly Ebola, nhưng chính phủ Mỹ và Kenya vẫn tiến hành. Các chuyên gia và công đoàn CDC kêu gọi đưa công nhân Mỹ về nước để điều trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d1338be29fa3",
-      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-08T15:35:41.436145+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Phụ nữ quyền lực Keiko Fujimori đối đầu với nhà lập pháp cánh tả ở cuộc bầu cử Peru",
-      "bullets": [
-        "Keiko Fujimori sẽ đối đầu với nhà lập pháp cánh tả Roberto Sánchez trong cuộc bầu cử Peru",
-        "Căng thẳng chính trị, tham nhũng và tội phạm đang ảnh hưởng đến cuộc bầu cử",
-        "Fujimori là con gái của cựu tổng thống Alberto Fujimori",
-        "Cuộc bầu cử sẽ diễn ra vào ngày Chủ nhật"
-      ],
-      "full_summary": "Phụ nữ quyền lực Keiko Fujimori sẽ đối đầu với nhà lập pháp cánh tả Roberto Sánchez trong cuộc bầu cử Peru. Cuộc bầu cử sẽ diễn ra vào ngày Chủ nhật và sẽ là cuộc đối đầu giữa cánh hữu và cánh tả. Fujimori là con gái của cựu tổng thống Alberto Fujimori và đã giành được 17% trong cuộc bầu cử vòng một vào tháng 4. Sánchez là một nhà lập pháp và đã giành được 12% trong cuộc bầu cử vòng một.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a2922bc4ce9",
-      "title": "The weather and climate science AI revolution isn’t revolutionary",
-      "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-08T15:35:42.481997+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Công nghệ AI không phải là cách giải quyết thần kỳ cho khoa học thời tiết và khí hậu",
-      "bullets": [
-        "Phát hiện giới hạn của học máy trong khoa học thời tiết và khí hậu",
-        "Áp dụng sai lầm của AI trong dự đoán thời tiết và dự báo khí hậu",
-        "Khả năng của AI trong khoa học thời tiết và khí hậu bị đánh giá thấp",
-        "Cần có phương pháp tiếp cận đa dạng hơn trong nghiên cứu khoa học thời tiết và khí hậu"
-      ],
-      "full_summary": "Một bài viết trên Ars Technica cho rằng công nghệ AI không phải là cách giải quyết thần kỳ cho khoa học thời tiết và khí hậu. Mặc dù AI có thể giúp phân tích dữ liệu lớn và dự đoán thời tiết, nhưng nó cũng có giới hạn và có thể bị áp dụng sai lầm. Điều này đòi hỏi cần có phương pháp tiếp cận đa dạng hơn trong nghiên cứu khoa học thời tiết và khí hậu.",
       "comments": 0,
       "score": 0
     }
