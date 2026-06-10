@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-10T09:44:08.451100+00:00",
+  "updated_at": "2026-06-10T15:00:09.220592+00:00",
   "articles": [
+    {
+      "id": "26569dc7cbc1",
+      "title": "Trump and Iran trade new threats after strikes exchanged",
+      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T14:59:54.273301+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Trung Quốc cảnh báo Iran phải trả giá vì chậm ký thỏa thuận",
+      "bullets": [
+        "Trung Quốc cảnh báo Iran sẽ phải trả giá vì chậm ký thỏa thuận",
+        "Iran cam kết đáp trả bất kỳ cuộc tấn công nào từ Mỹ",
+        "Tổng thống Mỹ cảnh báo Iran sẽ phải trả giá vì chậm ký thỏa thuận",
+        "Mỹ và Iran tiếp tục đe dọa lẫn nhau sau các cuộc tấn công"
+      ],
+      "full_summary": "Tổng thống Mỹ đã cảnh báo Iran rằng họ sẽ phải trả giá vì chậm ký thỏa thuận. Trong khi đó, Iran đã cam kết đáp trả bất kỳ cuộc tấn công nào từ Mỹ. Cả hai quốc gia đã tiếp tục đe dọa lẫn nhau sau các cuộc tấn công. Điều này đã dẫn đến tình hình căng thẳng giữa Mỹ và Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3dff861da57d",
+      "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+      "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T14:59:55.341497+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội đồng trọng tài bị cấm vào Mỹ được chào đón như anh hùng tại Somalia",
+      "bullets": [
+        "Hội đồng trọng tài Omar Artan bị cấm vào Mỹ",
+        "Bị cấm vì lý do chưa rõ",
+        "Omar Artan hứa sẽ tham gia trọng tài tại World Cup 2030",
+        "Hội đồng trọng tài được chào đón như anh hùng tại Somalia"
+      ],
+      "full_summary": "Hội đồng trọng tài Omar Artan đã bị cấm vào Mỹ, nhưng anh đã trở về Somalia và được chào đón như anh hùng. Ông Artan đã hứa sẽ tham gia trọng tài tại World Cup 2030. Điều này cho thấy ông Artan vẫn tin tưởng vào khả năng của mình và sẽ tiếp tục theo đuổi sự nghiệp trọng tài.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cff3c1ab0b12",
+      "title": "Ukraine says missiles hit military plant deep inside Russia",
+      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T14:59:56.381109+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Ukraine tấn công nhà máy quân sự sâu trong lãnh thổ Nga",
+      "bullets": [
+        "Ukraine tấn công nhà máy quân sự sâu trong lãnh thổ Nga",
+        "Ukraine tấn công nhà máy lọc dầu và tàu chở dầu ở Biển Đen",
+        "Các cuộc tấn công nhằm vào các mục tiêu quân sự và kinh tế của Nga"
+      ],
+      "full_summary": "Ukraine cho biết đã tấn công một nhà máy quân sự sâu trong lãnh thổ Nga và một nhà máy lọc dầu cũng như một tàu chở dầu ở Biển Đen. Các cuộc tấn công này nhằm vào các mục tiêu quân sự và kinh tế của Nga. Đây là một phần của chiến dịch quân sự của Ukraine nhằm vào các mục tiêu của Nga.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "14a60f5db505",
+      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+      "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T14:59:57.412587+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Pakistan thực hiện các cuộc tấn công không quân đẫm máu ở Afghanistan",
+      "bullets": [
+        "Pakistan thực hiện các cuộc tấn công không quân vào Afghanistan",
+        "Các cuộc tấn công diễn ra sau nhiều tuần yên bình ở khu vực biên giới",
+        "Tensions giữa hai quốc gia đang được tái kích hoạt",
+        "Các cuộc tấn công có thể gây ra những hậu quả nghiêm trọng"
+      ],
+      "full_summary": "Pakistan đã thực hiện các cuộc tấn công không quân vào Afghanistan, gây ra những thương vong nghiêm trọng. Các cuộc tấn công diễn ra sau nhiều tuần yên bình ở khu vực biên giới giữa hai quốc gia. Điều này đã tái kích hoạt những căng thẳng giữa Pakistan và Afghanistan. Các cuộc tấn công có thể gây ra những hậu quả nghiêm trọng cho khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7df517efee2",
+      "title": "Growing backlash in Japan over Trump's use of anime characters",
+      "url": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T14:59:58.330460+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trả lời phán đoán của Trump về nhân vật anime gây tranh cãi",
+      "bullets": [
+        "Trump sử dụng hình ảnh nhân vật anime gây phản ứng dữ dội",
+        "Các fan anime phản đối việc sử dụng hình ảnh nhân vật không chính thức",
+        "Tình hình gây tranh cãi ở Nhật Bản và trên toàn thế giới",
+        "Naruto và Pikachu là hai nhân vật anime được sử dụng bởi Trump"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump đã gây tranh cãi khi sử dụng hình ảnh nhân vật anime như Pikachu và Naruto. Việc này đã gây phản ứng dữ dội từ các fan anime trên toàn thế giới. Các fan anime phản đối việc sử dụng hình ảnh nhân vật không chính thức và cho rằng điều này không phù hợp. Tình hình đã gây tranh cãi ở Nhật Bản và trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "824ad12c6d30",
+      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T14:59:59.394540+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty sở hữu ChatGPT chuẩn bị niêm yết trên thị trường chứng khoán",
+      "bullets": [
+        "Chuẩn bị niêm yết trên thị trường chứng khoán",
+        "Là một phần trong cuộc đua tài chính của các công ty công nghệ",
+        "Sau khi Anthropic nộp đơn đăng ký niêm yết",
+        "Công ty sở hữu ChatGPT nộp đơn một tuần sau đó"
+      ],
+      "full_summary": "Công ty sở hữu ChatGPT, OpenAI, đã nộp đơn đăng ký niêm yết trên thị trường chứng khoán. Đây là một phần trong cuộc đua tài chính của các công ty công nghệ. Sau khi Anthropic nộp đơn đăng ký niêm yết một tuần trước đó, OpenAI đã nộp đơn một tuần sau đó. Điều này cho thấy sự gia tăng trong việc huy động vốn của các công ty công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a794d111c601",
+      "title": "Could humanoid robots be heading for the battlefield?",
+      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T15:00:00.705728+00:00",
+      "category": "khoa học và công nghệ",
+      "importance": 3,
+      "headline": "Robot nhân tạo có thể được đưa vào chiến trường?",
+      "bullets": [
+        "Các lực lượng vũ trang đang thử nghiệm robot nhân tạo",
+        "Robot này vẫn còn cách xa việc được triển khai vào chiến trường",
+        "Các nhà nghiên cứu đang phát triển robot có thể tự động chiến đấu",
+        "Robot có thể được sử dụng để hỗ trợ quân đội trong các nhiệm vụ nguy hiểm"
+      ],
+      "full_summary": "Các lực lượng vũ trang trên toàn thế giới đang thử nghiệm robot nhân tạo có khả năng chiến đấu. Mặc dù robot này vẫn còn cách xa việc được triển khai vào chiến trường, nhưng các nhà nghiên cứu đang phát triển robot có thể tự động chiến đấu và hỗ trợ quân đội trong các nhiệm vụ nguy hiểm. Các ứng dụng tiềm năng của robot nhân tạo bao gồm việc hỗ trợ quân đội trong các nhiệm vụ như tìm kiếm và giải cứu, cũng như hỗ trợ trong các hoạt động quân sự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fad6e1a787d8",
+      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-10T15:00:05.277836+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Sự cố ý kiến phân biệt chủng tộc trên Facebook tăng vọt sau khi Meta nới lỏng quy định",
+      "bullets": [
+        "Tăng gấp ba lần bình luận phân biệt chủng tộc nhắm vào các chính trị gia kể từ khi Meta nới lỏng quy định",
+        "Số lượng đe dọa bạo lực đối với các nhà lập pháp cũng tăng vọt trên Facebook",
+        "Meta đã nới lỏng các quy định về kiểm duyệt nội dung trên Facebook",
+        "Tình hình này đang gây lo ngại về sự an toàn của các chính trị gia trên mạng xã hội"
+      ],
+      "full_summary": "Theo Ars Technica, số bình luận phân biệt chủng tộc nhắm vào các chính trị gia trên Facebook đã tăng gấp ba lần kể từ khi Meta nới lỏng quy định. Điều này cũng đi kèm với sự gia tăng số lượng đe dọa bạo lực đối với các nhà lập pháp. Sự cố này đang gây lo ngại về sự an toàn của các chính trị gia trên mạng xã hội. Meta đã nới lỏng các quy định về kiểm duyệt nội dung trên Facebook, điều này đã dẫn đến tình hình này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2ba827d0184c",
       "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
@@ -635,165 +794,6 @@
         "Sự kiện gây tranh cãi tại sân vận động lớn ở New York"
       ],
       "full_summary": "Tổng thống Mỹ Donald Trump đã trở thành tổng thống đầu tiên tham dự trận đấu NBA Finals tại Madison Square Garden. Tuy nhiên, ông đã bị khán giả chỉ trích khi tham dự sự kiện này. Khán giả phải trải qua kiểm tra an ninh tại sân vận động trước khi vào xem trận đấu. Sự kiện này đã gây tranh cãi tại sân vận động lớn ở New York.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe6100bc41b0",
-      "title": "ICC suspends top prosecutor after investigating misconduct allegations",
-      "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T09:29:13.718952+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hội đồng Hình sự Quốc tế tạm dừng chức vụ nhà điều tra hàng đầu vì nghi vấn vi phạm",
-      "bullets": [
-        "Hội đồng Hình sự Quốc tế (ICC) đã tạm dừng chức vụ nhà điều tra Karim Khan",
-        "Karim Khan bị nghi vấn vi phạm đạo đức, nhưng ông phủ nhận mọi cáo buộc",
-        "Luật sư của Karim Khan nói ông phản đối quyết định này một cách mạnh mẽ",
-        "ICC đang điều tra các cáo buộc vi phạm đạo đức của Karim Khan"
-      ],
-      "full_summary": "Hội đồng Hình sự Quốc tế (ICC) đã tạm dừng chức vụ nhà điều tra Karim Khan sau khi điều tra các cáo buộc vi phạm đạo đức. Karim Khan phủ nhận mọi cáo buộc và luật sư của ông nói ông phản đối quyết định này một cách mạnh mẽ. ICC đang tiếp tục điều tra các cáo buộc vi phạm đạo đức của Karim Khan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "74d44ba9f23c",
-      "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T09:29:15.161285+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Xi Jinping và Kim Jong Un cam kết tăng cường quan hệ",
-      "bullets": [
-        "Xi Jinping thăm chính thức Bắc Triều Tiên trong 2 ngày",
-        "Ông là vị lãnh đạo Trung Quốc đầu tiên đến thăm Bắc Triều Tiên kể từ năm 2019",
-        "Xi và Kim Jong Un cam kết tăng cường quan hệ và hợp tác",
-        "Bắc Triều Tiên và Trung Quốc cam kết tăng cường hợp tác kinh tế và an ninh"
-      ],
-      "full_summary": "Xi Jinping đã kết thúc chuyến thăm 2 ngày đến Bắc Triều Tiên, đây là chuyến thăm chính thức đầu tiên của ông kể từ năm 2019. Trong chuyến thăm, Xi đã gặp gỡ lãnh đạo Bắc Triều Tiên Kim Jong Un và hai bên đã cam kết tăng cường quan hệ và hợp tác. Bắc Triều Tiên và Trung Quốc cũng cam kết tăng cường hợp tác kinh tế và an ninh. Chuyến thăm của Xi được coi là một bước tiến quan trọng trong quan hệ giữa Bắc Triều Tiên và Trung Quốc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1e0330668ee",
-      "title": "Black bear caught in Japan after days of sightings",
-      "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T09:29:16.114550+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Gấu đen bị bắt giữ ở Nhật Bản sau nhiều ngày bị phát hiện",
-      "bullets": [
-        "Bị bắt giữ ở Utsunomiya",
-        "Tấn công gấu đã đạt mức cao kỷ lục tại Nhật Bản",
-        "Bị phát hiện sau nhiều ngày",
-        "Bị bắt giữ sau nhiều sự cố"
-      ],
-      "full_summary": "Một con gấu đen đã bị bắt giữ ở Utsunomiya, Nhật Bản sau nhiều ngày bị phát hiện. Sự kiện này diễn ra trong bối cảnh tấn công gấu đã đạt mức cao kỷ lục tại Nhật Bản. Các vụ tấn công gấu đã khiến nhiều người dân phải lo lắng về an toàn của mình. Việc bắt giữ con gấu đen này được coi là một bước tiến quan trọng trong việc bảo vệ người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "58291b3972fa",
-      "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
-      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T09:29:17.104649+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hạm thuyền Ấn Độ bị đốt cháy ngoài khơi Oman, toàn bộ thủy thủ đoàn được giải cứu",
-      "bullets": [
-        "Crew của tàu thuyền gửi tin báo khói và chìm",
-        "Tàu bị đốt cháy sau khi bị tấn công bởi tên lửa của Mỹ",
-        "Tất cả 24 thủy thủ đoàn Ấn Độ được giải cứu",
-        "Crew được đưa về đất liền an toàn"
-      ],
-      "full_summary": "Một hạm thuyền Ấn Độ đang vận chuyển hàng hóa không có tải trọng bị đốt cháy ngoài khơi Oman. Tàu thuyền đã gửi tin báo khói và chìm, sau đó bị tấn công bởi tên lửa của Mỹ. Tất cả 24 thủy thủ đoàn Ấn Độ đã được giải cứu và đưa về đất liền an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a21e6b742d48",
-      "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
-      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T09:29:18.137206+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Sự lây lan Ebola ở Trung Phi có thể đạt mức kỷ lục năm 2014",
-      "bullets": [
-        "CDC Mỹ dự đoán sự lây lan Ebola có thể trên 'con đường nguy hiểm'",
-        "Số ca mắc Ebola có thể lên đến 20.000",
-        "Sự lây lan có thể giống như đại dịch Ebola năm 2014-2016 ở Tây Phi",
-        "Các chuyên gia cảnh báo rằng các đại dịch có thể rất khó dự đoán"
-      ],
-      "full_summary": "Theo CDC Mỹ, sự lây lan Ebola ở Trung Phi có thể đạt mức kỷ lục năm 2014. Các mô hình tính toán cho thấy số ca mắc Ebola có thể lên đến 20.000. Điều này có thể giống như đại dịch Ebola năm 2014-2016 ở Tây Phi, khi có hơn 28.000 ca mắc và hơn 11.000 người chết. Các chuyên gia cảnh báo rằng các đại dịch có thể rất khó dự đoán.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0887d230aa4c",
-      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-      "url": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-09T09:29:21.476101+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu cho thấy vệ tinh Nga có thể làm nhiễu GPS trên quy mô lục địa",
-      "bullets": [
-        "Chứng minh vệ tinh Nga có thể làm nhiễu GPS trên quy mô lục địa",
-        "Giải thích sự cố nhiễu GPS trên khắp châu Âu",
-        "Tìm hiểu động cơ đằng sau hành động của Nga",
-        "Khả năng ảnh hưởng đến giao thông và kinh tế"
-      ],
-      "full_summary": "Một nghiên cứu cho thấy vệ tinh Nga có khả năng làm nhiễu hệ thống định vị toàn cầu (GPS) trên quy mô lục địa. Điều này được chứng minh qua các thử nghiệm và đã giải thích sự cố nhiễu GPS trên khắp châu Âu. Các chuyên gia đang tìm hiểu động cơ đằng sau hành động của Nga và khả năng ảnh hưởng đến giao thông và kinh tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5438335ffb3f",
-      "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
-      "url": "https://loro.dev/blog/mergeable-containers",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-09T09:29:27.287228+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "CRDTs giải quyết vấn đề chỉnh sửa đồng thời, nhưng tại sao không tạo đồng thời?",
-      "bullets": [
-        "Giải thích về CRDTs và cách chúng giải quyết chỉnh sửa đồng thời.",
-        "So sánh với việc tạo đồng thời và lý do tại sao CRDTs ưu tiên chỉnh sửa.",
-        "Giải thích cách CRDTs có thể được ứng dụng trong các hệ thống đồng thời."
-      ],
-      "full_summary": "Mới đây, một bài viết trên Hacker News đã giải thích về CRDTs (Conflict-free Replicated Data Types) và cách chúng giải quyết vấn đề chỉnh sửa đồng thời trong các hệ thống đồng thời. Bài viết cho biết CRDTs ưu tiên chỉnh sửa đồng thời hơn việc tạo đồng thời và giải thích cách chúng có thể được ứng dụng trong các hệ thống đồng thời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "57b51d04a568",
-      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
-      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:25.732035+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Trump phủ nhận Netanyahu phản đối mình",
-      "bullets": [
-        "Trump nói Netanyahu không phản đối mình",
-        "Nói chuyện với BBC về cuộc chiến ở Iran",
-        "Trump và Netanyahu có mối quan hệ phức tạp",
-        "Mối quan hệ giữa Trump và Netanyahu gây tranh cãi"
-      ],
-      "full_summary": "Trong cuộc gọi với Tổng thống Mỹ, phóng viên Sarah Smith của BBC hỏi Trump về cuộc chiến ở Iran và mối quan hệ của ông với lãnh đạo Israel. Trump phủ nhận Netanyahu đã phản đối mình. Mối quan hệ giữa Trump và Netanyahu đã gây tranh cãi trong thời gian dài.",
       "comments": 0,
       "score": 0
     }
