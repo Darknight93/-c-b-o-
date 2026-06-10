@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-06-10T02:45:00.703828+00:00",
+  "updated_at": "2026-06-10T09:44:08.451100+00:00",
   "articles": [
+    {
+      "id": "2ba827d0184c",
+      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+      "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T09:43:53.672061+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Một vụ bắn súng hàng loạt ở Johannesburg khiến 12 người chết",
+      "bullets": [
+        "Bắt đầu cuộc truy nã sau vụ bắn súng",
+        "12 người chết, 9 người bị thương",
+        "Vụ việc xảy ra tại khu định cư không chính thức ở Cleveland",
+        "Cảnh sát đang điều tra nguyên nhân"
+      ],
+      "full_summary": "Một vụ bắn súng hàng loạt đã xảy ra tại khu định cư không chính thức ở Cleveland, Johannesburg, khiến 12 người chết và 9 người bị thương. Cảnh sát đang điều tra nguyên nhân và bắt đầu cuộc truy nã. Vụ việc đã gây ra sự lo lắng lớn trong cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42d013c72dc5",
+      "title": "Firms charged with manslaughter over deadly Hong Kong fire",
+      "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T09:43:54.798004+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hai công ty bị buộc tội giết người do vụ hỏa hoạn ở Hồng Kông",
+      "bullets": [
+        "Bị cáo về tội giết người do cố ý gây ra vụ hỏa hoạn",
+        "Vụ hỏa hoạn năm ngoái gây thiệt hại nặng nề tại Hồng Kông",
+        "Tổng cộng 168 người thiệt mạng trong vụ hỏa hoạn",
+        "Hồng Kông chưa từng có vụ hỏa hoạn gây thiệt hại nặng nề như vậy trong 70 năm"
+      ],
+      "full_summary": "Hai công ty bị cáo buộc tội giết người do cố ý gây ra vụ hỏa hoạn ở Hồng Kông năm ngoái. Vụ hỏa hoạn đã gây thiệt hại nặng nề và khiến 168 người thiệt mạng. Đây là vụ hỏa hoạn gây thiệt hại nặng nề nhất tại Hồng Kông trong 70 năm qua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a32d26b665d6",
+      "title": "Alleged Bondi Beach gunman charged with another 19 offences",
+      "url": "https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T09:43:55.836267+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nghi phạm vụ tấn công Bondi Beach bị thêm 19 tội danh",
+      "bullets": [
+        "Bị cáo Naveed Akram bị thêm 19 tội danh",
+        "Tổng số tội danh lên 78",
+        "Nghi phạm bị cáo về vụ tấn công Lễ hội Do Thái tháng 12",
+        "Nghi phạm 24 tuổi"
+      ],
+      "full_summary": "Nghi phạm vụ tấn công Bondi Beach, Naveed Akram, 24 tuổi, đã bị thêm 19 tội danh. Tổng số tội danh mà nghi phạm này phải đối mặt đã lên 78. Nghi phạm bị cáo về vụ tấn công Lễ hội Do Thái tháng 12. Nghi phạm đã bị bắt giữ sau khi tấn công vào một sự kiện tại Bondi Beach.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fca4606c3b79",
+      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T09:43:57.009205+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "EU yêu cầu Meta mở WhatsApp cho các chatbot AI đối thủ",
+      "bullets": [
+        "EU yêu cầu Meta mở WhatsApp cho các chatbot AI đối thủ",
+        "Meta cáo buộc EU lạm dụng quyền lực quản lý",
+        "Nhiều công ty công nghệ lớn như OpenAI sẽ được phép truy cập WhatsApp",
+        "Meta cảnh báo quyết định này sẽ gây thiệt hại cho người dùng WhatsApp"
+      ],
+      "full_summary": "Ủy ban châu Âu (EU) đã ra lệnh Meta phải mở WhatsApp cho các chatbot AI đối thủ. Meta cáo buộc EU lạm dụng quyền lực quản lý và cảnh báo quyết định này sẽ gây thiệt hại cho người dùng WhatsApp. Quyết định này cho phép nhiều công ty công nghệ lớn như OpenAI truy cập WhatsApp. Meta cho rằng quyết định này sẽ phá vỡ sự bảo mật và riêng tư của người dùng WhatsApp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8af33b543ad5",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T09:43:58.025113+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Sam Bankman-Fried xin ân xá từ Tổng thống Trump",
+      "bullets": [
+        "Sam Bankman-Fried nộp đơn xin ân xá",
+        "Đơn xin ân xá được nộp vào ngày thứ hai",
+        "Bankman-Fried đang thụ án 25 năm tù vì liên quan đến FTX"
+      ],
+      "full_summary": "Sam Bankman-Fried, cựu lãnh đạo của nền tảng tiền điện tử FTX, đã nộp đơn xin ân xá cho Tổng thống Trump. Bankman-Fried đang thụ án 25 năm tù vì liên quan đến sự sụp đổ của FTX. Đơn xin ân xá được nộp vào ngày thứ hai, nhưng chưa rõ Tổng thống Trump có chấp nhận hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "936e63d132ec",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T09:43:59.102758+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Các thương hiệu toàn cầu có thể đang sử dụng khoáng chất tài trợ cho phe nổi loạn bị cáo buộc tội ác ở DRC",
+      "bullets": [
+        "Cục điều tra Global Witness cho rằng Amazon, Ericsson và Sony có thể đã mua coltan từ chuỗi cung ứng do phe M23 kiểm soát",
+        "Phe M23 bị cáo buộc có liên quan đến bạo lực và tội ác ở đông DRC",
+        "Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại",
+        "Các công ty toàn cầu có thể không biết rằng họ đang mua khoáng chất từ phe nổi loạn"
+      ],
+      "full_summary": "Một cuộc điều tra mới của Global Witness cho rằng các thương hiệu toàn cầu như Amazon, Ericsson và Sony có thể đã mua coltan từ chuỗi cung ứng do phe M23 kiểm soát ở Cộng hòa Dân chủ Congo (DRC). Phe M23 bị cáo buộc có liên quan đến tội ác chiến tranh, bạo lực và tội ác ở đông DRC. Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại, và các công ty toàn cầu có thể không biết rằng họ đang mua khoáng chất từ phe nổi loạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c6e7c2b66339",
+      "title": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela",
+      "url": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T09:44:00.801079+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Bìa quảng cáo Nicolás Maduro bị che phủ tại Venezuela",
+      "bullets": [
+        "Các bảng quảng cáo được sơn lại",
+        "Cựu đồng minh của Maduro cố gắng quên đi ông",
+        "Các sản phẩm quảng cáo về Maduro bị loại bỏ khỏi thị trường",
+        "Venezuela đang cố gắng xóa bỏ hình ảnh của Maduro"
+      ],
+      "full_summary": "Tại Venezuela, hình ảnh Nicolás Maduro đang dần biến mất khỏi các bảng quảng cáo và sản phẩm quảng cáo. Các cựu đồng minh của ông đang cố gắng quên đi ông, trong khi các nhà sản xuất đang loại bỏ các sản phẩm quảng cáo về Maduro khỏi thị trường. Điều này cho thấy Venezuela đang cố gắng xóa bỏ hình ảnh của Maduro sau nhiều năm cai trị.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ef10ec0d766a",
       "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
@@ -655,146 +794,6 @@
         "Mối quan hệ giữa Trump và Netanyahu gây tranh cãi"
       ],
       "full_summary": "Trong cuộc gọi với Tổng thống Mỹ, phóng viên Sarah Smith của BBC hỏi Trump về cuộc chiến ở Iran và mối quan hệ của ông với lãnh đạo Israel. Trump phủ nhận Netanyahu đã phản đối mình. Mối quan hệ giữa Trump và Netanyahu đã gây tranh cãi trong thời gian dài.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "29a58af34f48",
-      "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
-      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:26.741945+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Căng thẳng giữa Israel và Iran thử thách quyền lực của Trump",
-      "bullets": [
-        "Thái Bình Dương và Iran leo thang căng thẳng",
-        "Căng thẳng khu vực Trung Đông vẫn rất bất ổn",
-        "Iran có thể mạnh tay hơn trong đàm phán",
-        "Căng thẳng giữa Israel và Iran làm suy yếu ảnh hưởng của Mỹ"
-      ],
-      "full_summary": "Căng thẳng giữa Israel và Iran leo thang, gây ra lo ngại về sự bất ổn khu vực. Điều này cũng có thể làm cho Iran mạnh tay hơn trong đàm phán với Mỹ. Căng thẳng giữa Israel và Iran đã làm suy yếu ảnh hưởng của Mỹ ở khu vực Trung Đông. Các cuộc xung đột và các thỏa thuận ngừng bắn không hiệu quả đã làm cho khu vực này trở nên bất ổn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "76c3531cdefc",
-      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:27.892349+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "SpaceX chuẩn bị ra mắt trên thị trường chứng khoán",
-      "bullets": [
-        "Chuẩn bị IPO để tăng vốn và mở rộng hoạt động",
-        "Có thể biến SpaceX thành một công ty trị giá hàng tỷ USD",
-        "Sẽ ảnh hưởng lớn đến thị trường chứng khoán và tài sản của Elon Musk",
-        "Có thể là cuộc chơi mạo hiểm nhất của Musk tới nay"
-      ],
-      "full_summary": "SpaceX đang chuẩn bị cho một IPO lớn, có thể biến công ty này thành một công ty trị giá hàng tỷ USD. Sự kiện này sẽ ảnh hưởng lớn đến thị trường chứng khoán và tài sản của Elon Musk. Nếu thành công, SpaceX sẽ mở rộng hoạt động và tăng vốn, nhưng nếu thất bại, nó có thể là cuộc chơi mạo hiểm nhất của Musk tới nay.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "734e9b44f551",
-      "title": "US adds BYD to list of firms with alleged Chinese military ties",
-      "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:28.865165+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Mỹ thêm BYD vào danh sách các công ty Trung Quốc có liên quan đến quân đội",
-      "bullets": [
-        "Mỹ đã thêm BYD vào danh sách các công ty Trung Quốc có liên quan đến quân đội",
-        "Danh sách này nhằm cảnh báo các công ty Mỹ về rủi ro khi hợp tác với các công ty Trung Quốc bị chỉ trích",
-        "BYD là một trong những công ty Trung Quốc lớn nhất và có hoạt động kinh doanh đa dạng",
-        "Cơ quan Quốc phòng Mỹ (Pentagon) đã đưa ra danh sách này để cảnh báo các công ty Mỹ"
-      ],
-      "full_summary": "Mỹ đã thêm BYD vào danh sách các công ty Trung Quốc có liên quan đến quân đội. Danh sách này nhằm cảnh báo các công ty Mỹ về rủi ro khi hợp tác với các công ty Trung Quốc bị chỉ trích. BYD là một trong những công ty Trung Quốc lớn nhất và có hoạt động kinh doanh đa dạng. Cơ quan Quốc phòng Mỹ (Pentagon) đã đưa ra danh sách này để cảnh báo các công ty Mỹ về các rủi ro liên quan đến việc hợp tác với các công ty Trung Quốc bị chỉ trích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "824ad12c6d30",
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:29.995419+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "OpenAI lên sàn chứng khoán, đua đầu tư với Anthropic",
-      "bullets": [
-        "Đệm đơn lên sàn chứng khoán sau Anthropic",
-        "Cơ quan đứng sau ChatGPT trình bày kế hoạch",
-        "Đua đầu tư giữa OpenAI và Anthropic gia tăng",
-        "Kế hoạch công bố lên sàn chứng khoán của OpenAI"
-      ],
-      "full_summary": "Công ty đứng sau ChatGPT đã nộp đơn lên sàn chứng khoán chỉ một tuần sau khi Anthropic làm điều tương tự. Điều này đã khiến đua đầu tư giữa hai công ty trở nên gay gắt hơn. OpenAI và Anthropic đều đang cạnh tranh trong lĩnh vực trí tuệ nhân tạo và công nghệ. Việc lên sàn chứng khoán sẽ giúp hai công ty huy động được nguồn vốn lớn hơn để phát triển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a794d111c601",
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:31.625893+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Robot nhân tạo có thể tham chiến trong tương lai gần?",
-      "bullets": [
-        "Các lực lượng vũ trang đang thử nghiệm robot nhân tạo trên chiến trường.",
-        "Robot này sẽ được sử dụng để thực hiện các nhiệm vụ nguy hiểm.",
-        "Nghiên cứu và phát triển vẫn còn ở giai đoạn đầu.",
-        "Sự triển khai trên chiến trường sẽ mất nhiều thời gian."
-      ],
-      "full_summary": "Các lực lượng vũ trang trên thế giới đang thử nghiệm robot nhân tạo để sử dụng trên chiến trường. Robot này sẽ được sử dụng để thực hiện các nhiệm vụ nguy hiểm, như phá hủy mìn hoặc thám hiểm khu vực nguy hiểm. Tuy nhiên, nghiên cứu và phát triển vẫn còn ở giai đoạn đầu và sự triển khai trên chiến trường sẽ mất nhiều thời gian. Các chuyên gia cho rằng robot nhân tạo sẽ giúp giảm thiểu thương vong cho binh sĩ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a0ca6ddade78",
-      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
-      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:32.591938+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple giới thiệu lại trợ lý AI Siri và các tính năng bảo vệ trẻ em mới",
-      "bullets": [
-        "Giới thiệu lại trợ lý AI Siri với thiết kế mới",
-        "Ra mắt các tính năng bảo vệ trẻ em mới",
-        "Thực hiện các biện pháp để ngăn chặn các ứng dụng không phù hợp",
-        "Thực hiện các biện pháp để tăng cường an toàn cho trẻ em"
-      ],
-      "full_summary": "Apple vừa giới thiệu lại trợ lý AI Siri với thiết kế mới và một loạt các tính năng bảo vệ trẻ em mới. Các tính năng này được giới thiệu nhằm đáp ứng các lo ngại về các ứng dụng không phù hợp với trẻ em. Trong bối cảnh Apple đang đối mặt với các vấn đề về an toàn cho trẻ em, công ty đã thực hiện các biện pháp để ngăn chặn các ứng dụng không phù hợp và tăng cường an toàn cho trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a17aed3ab9b",
-      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T02:31:33.820867+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tặc quân ở Nigeria bắt giữ người dân sau khi mời họ thảo luận hòa bình",
-      "bullets": [
-        "Bắt giữ 39 người, có thể lên tới 50, tại vùng Maradun, bang Zamfara",
-        "Người dân bị bắt sau khi được tặc quân mời đến thảo luận về hòa bình",
-        "Tình hình an ninh ở khu vực này đang càng ngày càng xấu đi",
-        "Cảnh sát đang điều tra vụ việc"
-      ],
-      "full_summary": "Các tặc quân ở Nigeria đã bắt giữ 39 người, có thể lên tới 50, sau khi họ được mời đến thảo luận về hòa bình. Vụ việc xảy ra tại vùng Maradun, bang Zamfara. Cảnh sát đang điều tra vụ việc và cho biết tình hình an ninh ở khu vực này đang càng ngày càng xấu đi.",
       "comments": 0,
       "score": 0
     }
