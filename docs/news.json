@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-10T15:00:09.220592+00:00",
+  "updated_at": "2026-06-10T20:18:52.007667+00:00",
   "articles": [
+    {
+      "id": "8ef589e2fd2c",
+      "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T20:18:36.031784+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai nước Mỹ và Oman báo cáo va chạm với tàu Settebello",
+      "bullets": [
+        "Ba thủy thủ Ấn Độ mất tích",
+        "21 thủy thủ khác được cứu",
+        "Tàu Settebello bị hư hỏng nghiêm trọng",
+        "Cơ quan chức năng đang điều tra nguyên nhân"
+      ],
+      "full_summary": "Hôm nay, chính phủ Ấn Độ cho biết ba thủy thủ Ấn Độ đang mất tích và 21 thủy thủ khác đã được cứu sau khi tàu Settebello bị va chạm ở vịnh Oman. Theo báo cáo, tàu Settebello bị hư hỏng nghiêm trọng. Cơ quan chức năng đang điều tra nguyên nhân của vụ việc. Sự cố này đã gây ra lo ngại về an toàn hàng hải ở khu vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9bf37dcb05c3",
+      "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+      "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T20:18:37.102951+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bill Gates nói Epstein muốn mối quan hệ cá nhân nhưng ông không đáp lại",
+      "bullets": [
+        "Bill Gates nói với các nhà lập pháp về mối quan hệ với Jeffrey Epstein",
+        "Epstein đã sử dụng ngoại tình của mình để áp đặt Bill Gates",
+        "Bill Gates phủ nhận mối quan hệ tình cảm với Epstein",
+        "Ông nói rằng Epstein muốn mối quan hệ cá nhân nhưng ông không đáp lại"
+      ],
+      "full_summary": "Bill Gates đã nói với các nhà lập pháp về mối quan hệ của mình với Jeffrey Epstein trong một cuộc họp bí mật. Ông nói rằng Epstein đã sử dụng ngoại tình của mình để áp đặt ông và muốn một mối quan hệ cá nhân nhưng ông không đáp lại. Bill Gates phủ nhận mối quan hệ tình cảm với Epstein và nói rằng ông chỉ gặp gỡ ông vì lợi ích của Bill và Melinda Gates Foundation.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6f06c5a9ed50",
+      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T20:18:38.212077+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel tấn công Lebanon, 17 người thiệt mạng",
+      "bullets": [
+        "Israel tiến hành loạt tấn công ở thị trấn Tayr Debba",
+        "17 người thiệt mạng trong các vụ tấn công này",
+        "9 người chết ở thị trấn Tayr Debba theo thông tin của cơ quan thông tin nhà nước Lebanon",
+        "Các vụ tấn công này đã gây ra thương vong nghiêm trọng ở Lebanon"
+      ],
+      "full_summary": "Israel đã tiến hành loạt tấn công ở thị trấn Tayr Debba ở Lebanon, dẫn đến 17 người thiệt mạng. Theo thông tin của cơ quan thông tin nhà nước Lebanon, 9 người chết ở thị trấn này. Các vụ tấn công này đã gây ra thương vong nghiêm trọng ở Lebanon và đã thu hút sự chú ý của cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b0592118e2f8",
+      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+      "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T20:18:39.472531+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Con trai Công nương Thái tử Na Uy bị giữ trong tù trước khi tuyên án",
+      "bullets": [
+        "Bị cáo bị giữ trong tù trước khi tuyên án vì tội hiếp dâm",
+        "Quyết định này đảo ngược quyết định của tòa án cấp dưới",
+        "Tòa án cho rằng cần phải giữ bị cáo trong tù để đảm bảo an toàn cho công lý",
+        "Bị cáo là con trai của Công nương Thái tử Na Uy"
+      ],
+      "full_summary": "Một tòa án ở Na Uy đã quyết định giữ Con trai Công nương Thái tử Na Uy trong tù trước khi tuyên án vì tội hiếp dâm. Quyết định này đảo ngược quyết định của tòa án cấp dưới vào thứ Hai vừa qua. Tòa án cho rằng cần phải giữ bị cáo trong tù để đảm bảo an toàn cho công lý. Bị cáo là con trai của Công nương Thái tử Na Uy, 29 tuổi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0290c6fa76b3",
+      "title": "Whale graveyard dating back five million years discovered",
+      "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T20:18:40.600514+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Khám phá mộ cá voi 5 triệu năm tuổi ở Ấn Độ Dương",
+      "bullets": [
+        "Khám phá mộ cá voi 5 triệu năm tuổi ở Ấn Độ Dương",
+        "Địa điểm này vượt quá mọi dự đoán của các nhà nghiên cứu",
+        "Mộ cá voi này có niên đại 5 triệu năm",
+        "Được phát hiện ở Ấn Độ Dương"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã khám phá một mộ cá voi 5 triệu năm tuổi ở Ấn Độ Dương. Địa điểm này vượt quá mọi dự đoán của các nhà nghiên cứu. Mộ cá voi này có niên đại 5 triệu năm và được phát hiện ở Ấn Độ Dương. Các nhà nghiên cứu cho biết địa điểm này là 'far beyond anything we had imagined'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a0ca6ddade78",
+      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T20:18:41.688112+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple giới thiệu lại công nghệ Siri và các tính năng an toàn cho trẻ em",
+      "bullets": [
+        "Giới thiệu lại công nghệ Siri với nhiều cải tiến mới",
+        "Ra mắt các tính năng an toàn cho trẻ em để đối phó với các ứng dụng không phù hợp",
+        "Apple đang đối mặt với sự chỉ trích vì các ứng dụng 'nudification'",
+        "CEO Tim Cook rời chức sau nhiều năm lãnh đạo công ty"
+      ],
+      "full_summary": "Apple vừa giới thiệu lại công nghệ Siri với nhiều cải tiến mới và ra mắt các tính năng an toàn cho trẻ em để đối phó với các ứng dụng không phù hợp. Sự kiện này diễn ra trong bối cảnh Apple đang đối mặt với sự chỉ trích vì các ứng dụng 'nudification'. CEO Tim Cook cũng đã rời chức sau nhiều năm lãnh đạo công ty.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "66654da39c71",
+      "title": "Hegseth warns Cuba against acquiring weapons in visit to Guantánamo Bay",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-10T20:18:44.679267+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hegseth cảnh báo Cuba tránh mua vũ khí đe dọa Mỹ",
+      "bullets": [
+        "Hegseth cảnh báo Cuba tránh mua vũ khí đe dọa Mỹ",
+        "Washington tăng cường áp lực lên Cuba bằng các biện pháp trừng phạt và phong tỏa dầu",
+        "Hegseth thăm căn cứ quân sự Guantánamo Bay",
+        "Cuba đang đối mặt với áp lực từ Mỹ"
+      ],
+      "full_summary": "Hegseth, Bộ trưởng Quốc phòng Mỹ, đã cảnh báo Cuba tránh mua vũ khí có thể đe dọa Mỹ trong chuyến thăm căn cứ quân sự Guantánamo Bay. Mỹ đã tăng cường áp lực lên Cuba bằng các biện pháp trừng phạt và phong tỏa dầu. Điều này là một phần của chiến lược của Mỹ nhằm làm suy yếu chính phủ Cuba. Hegseth đã nhấn mạnh rằng Mỹ sẽ không để cho Cuba mua vũ khí có thể đe dọa an ninh quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42f174746d4e",
+      "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+      "url": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-10T20:18:50.226045+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Honda Prelude 2026: Một coupe sang trọng với hiệu suất cao",
+      "bullets": [
+        "Là một trong những coupe giá cả phải chăng nhất hiện nay",
+        "Có khả năng xử lý tốt và đạt 44 mpg",
+        "Được trang bị công nghệ hybrid tiết kiệm nhiên liệu"
+      ],
+      "full_summary": "Honda Prelude 2026 là một coupe sang trọng với giá cả phải chăng, chỉ 42.000 USD. Nó được trang bị công nghệ hybrid tiết kiệm nhiên liệu, giúp đạt được 44 mpg. Honda Prelude 2026 cũng có khả năng xử lý tốt, khiến nó trở thành một lựa chọn tuyệt vời cho những người yêu thích tốc độ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "26569dc7cbc1",
       "title": "Trump and Iran trade new threats after strikes exchanged",
@@ -634,166 +793,6 @@
         "Crew được đưa lên tàu và an toàn"
       ],
       "full_summary": "Một máy bay không người lái đã cứu được 2 thành viên phi hành đoàn của một chiếc Apache khi nó rơi xuống biển gần eo biển Hormuz. Sự cố xảy ra vào thứ hai. Máy bay không người lái đã đưa 2 người lên tàu và họ được đưa đến an toàn. Sự việc được xác nhận bởi các quan chức Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "00e4c227fb6f",
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T14:33:02.965392+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người chết, bị thương sau trận động đất ở Philippines",
-      "bullets": [
-        "Đã xảy ra hàng trăm trận rung lắc sau trận động đất",
-        "Số người chết và bị thương có thể tăng lên",
-        "Động đất đã gây thiệt hại lớn ở khu vực phía nam Philippines",
-        "Hỗ trợ khẩn cấp đang được triển khai"
-      ],
-      "full_summary": "Một trận động đất mạnh đã xảy ra ở khu vực phía nam Philippines, khiến ít nhất vài chục người chết và hàng trăm người bị thương. Số người chết và bị thương có thể tăng lên khi tình hình được đánh giá lại. Hỗ trợ khẩn cấp đang được triển khai để giúp người dân bị ảnh hưởng. Các trận rung lắc sau đó đã xảy ra hàng trăm lần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8a86df014f62",
-      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T14:33:03.971211+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "300 người tị nạn bị bắt cóc, đe dọa cắt thận",
-      "bullets": [
-        "Bị bắt cóc bởi một lực lượng dân quân",
-        "Đề nghị tiền chuộc 5.000 USD mỗi người",
-        "Đe dọa cắt thận nếu không trả tiền",
-        "Người tị nạn đang trên đường đến Anh"
-      ],
-      "full_summary": "Một nhóm 300 người tị nạn người Kurd đang trên đường đến Anh đã bị bắt cóc bởi một lực lượng dân quân. Họ đòi tiền chuộc 5.000 USD mỗi người và đe dọa cắt thận nếu không trả tiền. Người tị nạn đang trong tình trạng tuyệt vọng và hy vọng được giải cứu sớm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "682e0bdeea78",
-      "title": "Man accused of killing mother-in-law with poison-laced satay",
-      "url": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T14:33:05.030965+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chàng trai dùng thịt xiên độc giết mẹ vợ",
-      "bullets": [
-        "Cảnh sát Indonesia cáo buộc chàng trai giết mẹ vợ vì cảm thấy bị xúc phạm",
-        "Chàng trai dùng thịt xiên độc để sát hại mẹ vợ",
-        "Cơ quan điều tra đang điều tra vụ án mạng này",
-        "Chàng trai đã bị bắt giữ"
-      ],
-      "full_summary": "Cảnh sát Indonesia cáo buộc một chàng trai đã giết mẹ vợ bằng cách cho ăn thịt xiên độc. Theo cáo buộc, chàng trai đã hành động vì cảm thấy bị xúc phạm bởi mẹ vợ. Vụ án mạng đã xảy ra tại một thành phố ở Indonesia. Cảnh sát đang điều tra vụ án và đã bắt giữ chàng trai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "86abb807ef39",
-      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T14:33:06.036115+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Ukraine tăng cường tấn công, gây khó khăn cho Nga trong việc cung cấp nhiên liệu",
-      "bullets": [
-        "Ukraine tăng cường tấn công vào các lãnh thổ do Nga chiếm đóng",
-        "Moscow gặp khó khăn trong việc cung cấp hàng hóa và nhiên liệu cho các lãnh thổ này",
-        "Kyiv đã khiến Nga khó khăn trong việc duy trì hoạt động quân sự và dân sự",
-        "Nga đang đối mặt với cuộc khủng hoảng nhiên liệu nghiêm trọng"
-      ],
-      "full_summary": "Ukraine đã tăng cường tấn công vào các lãnh thổ do Nga chiếm đóng, khiến Moscow gặp khó khăn trong việc cung cấp hàng hóa và nhiên liệu. Điều này đã khiến Nga khó khăn trong việc duy trì hoạt động quân sự và dân sự. Kyiv đã sử dụng chiến thuật này để gây khó khăn cho Nga trong việc duy trì hoạt động quân sự và dân sự. Nga đang đối mặt với cuộc khủng hoảng nhiên liệu nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2f1656c5dac",
-      "title": "Kenyan police fire tear gas at protest against US Ebola quarantine centre plan",
-      "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T14:33:07.667369+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát Kenya bắn hơi cay vào biểu tình chống trung tâm cách ly Ebola",
-      "bullets": [
-        "Báo cáo cho biết cảnh sát Kenya đã bắn hơi cay vào những người biểu tình",
-        "Người biểu tình lo ngại về nguy cơ lây nhiễm qua biên giới và thiếu minh bạch từ chính phủ",
-        "Trung tâm cách ly Ebola được đề xuất xây dựng tại Kenya",
-        "Chính phủ Kenya chưa công bố thông tin đầy đủ về dự án"
-      ],
-      "full_summary": "Cảnh sát Kenya đã bắn hơi cay vào những người biểu tình phản đối kế hoạch xây dựng trung tâm cách ly Ebola. Người biểu tình lo ngại về nguy cơ lây nhiễm qua biên giới và thiếu minh bạch từ chính phủ. Họ cho rằng chính phủ chưa công bố thông tin đầy đủ về dự án. Các cuộc biểu tình đã diễn ra tại Kenya trong những ngày qua.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9bf79b4bb049",
-      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
-      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T14:33:09.381945+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chính phủ châu Phi ủng hộ bản dự thảo kêu gọi loại bỏ quyền nhân quyền",
-      "bullets": [
-        "Xóa bỏ các quyền nhân quyền quốc tế",
-        "Loại bỏ các thỏa thuận không phù hợp với bản dự thảo",
-        "Bất chấp quyền tự do của phụ nữ và LGBTQ+",
-        "Làm suy yếu quyền tiếp cận y tế sinh sản"
-      ],
-      "full_summary": "Một bản dự thảo hiến chương châu Phi về gia đình, chủ quyền và giá trị đã được thông qua tại Ghana. Bản dự thảo này bác bỏ các quyền nhân quyền quốc tế và kêu gọi các quốc gia rút khỏi các thỏa thuận không phù hợp. Điều này bao gồm cả hiệp ước Maputo năm 2003, thúc đẩy bình đẳng giới và bảo vệ quyền tiếp cận y tế sinh sản của phụ nữ và trẻ em gái. Các tổ chức nhân quyền đã lên án bản dự thảo này là một bước lùi và nguy hiểm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7657ac0e4372",
-      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-09T14:33:13.919143+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta tố cáo NSO vi phạm lệnh cấm sử dụng phần mềm gián điệp trên WhatsApp",
-      "bullets": [
-        "Meta tố cáo NSO vi phạm lệnh cấm sử dụng phần mềm gián điệp",
-        "WhatsApp ngăn chặn các cuộc tấn công spear phishing",
-        "Meta yêu cầu tòa án phạt NSO vì vi phạm lệnh cấm",
-        "NSO bị cáo buộc vi phạm lệnh cấm sử dụng phần mềm gián điệp"
-      ],
-      "full_summary": "Meta cáo buộc NSO vi phạm lệnh cấm sử dụng phần mềm gián điệp trên WhatsApp. WhatsApp đã ngăn chặn các cuộc tấn công spear phishing. Meta yêu cầu tòa án phạt NSO vì vi phạm lệnh cấm. NSO bị cáo buộc vi phạm lệnh cấm sử dụng phần mềm gián điệp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7e77c59e4905",
-      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T09:29:12.768845+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trump bị chỉ trích khi trở thành tổng thống Mỹ đầu tiên tham dự NBA Finals",
-      "bullets": [
-        "Trump bị chỉ trích khi tham dự NBA Finals tại Madison Square Garden",
-        "Khán giả phải trải qua kiểm tra an ninh tại sân vận động",
-        "Trump trở thành tổng thống Mỹ đầu tiên tham dự trận đấu bóng rổ NBA Finals",
-        "Sự kiện gây tranh cãi tại sân vận động lớn ở New York"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump đã trở thành tổng thống đầu tiên tham dự trận đấu NBA Finals tại Madison Square Garden. Tuy nhiên, ông đã bị khán giả chỉ trích khi tham dự sự kiện này. Khán giả phải trải qua kiểm tra an ninh tại sân vận động trước khi vào xem trận đấu. Sự kiện này đã gây tranh cãi tại sân vận động lớn ở New York.",
       "comments": 0,
       "score": 0
     }
