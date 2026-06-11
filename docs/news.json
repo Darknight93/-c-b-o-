@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-06-11T15:41:35.534546+00:00",
+  "updated_at": "2026-06-11T20:13:05.178532+00:00",
   "articles": [
+    {
+      "id": "ce8a43bd2bc9",
+      "title": "Deadly Sudan drone strike targets funeral procession",
+      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T20:12:49.509441+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "RSF gây thương vong cho thường dân trong đám tang ở Sudan",
+      "bullets": [
+        "RSF tấn công đám tang ở el-Obeid",
+        "Các tổ chức nhân quyền cáo buộc RSF giết hại thường dân",
+        "Vụ tấn công xảy ra tại khu vực chiến tuyến của cuộc chiến tranh dân sự",
+        "Các nhóm nhân quyền kêu gọi điều tra vụ việc"
+      ],
+      "full_summary": "Một cuộc tấn công bằng máy bay không người lái của nhóm RSF đã giết hại nhiều người trong đám tang ở thành phố el-Obeid, Sudan. Các tổ chức nhân quyền cáo buộc RSF đã giết hại thường dân. Vụ tấn công xảy ra tại khu vực chiến tuyến của cuộc chiến tranh dân sự ở Sudan. Các nhóm nhân quyền kêu gọi điều tra vụ việc để tìm hiểu nguyên nhân và trách nhiệm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5827e89e3002",
+      "title": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T20:12:50.627780+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bóng đá thế giới khai mạc tại Mexico với màn trình diễn sôi động",
+      "bullets": [
+        "Khởi động lễ khai mạc với màn trình diễn của Shakira và các nghệ sĩ địa phương",
+        "Lễ khai mạc có sự tham gia của các nghệ sĩ trong soundtrack chính thức của World Cup",
+        "Khán giả tại Mexico đã tạo nên không khí sôi động và hào hứng",
+        "Các nghệ sĩ đã trình diễn các bài hát trong soundtrack chính thức của World Cup"
+      ],
+      "full_summary": "Lễ khai mạc World Cup tại Mexico đã diễn ra với màn trình diễn sôi động của các nghệ sĩ. Màn trình diễn của Shakira và các nghệ sĩ địa phương đã tạo nên không khí hào hứng và sôi động. Lễ khai mạc cũng có sự tham gia của các nghệ sĩ trong soundtrack chính thức của World Cup. Khán giả tại Mexico đã tạo nên không khí sôi động và hào hứng trong suốt lễ khai mạc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d3a9fe3ecfc0",
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T20:12:51.606993+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nigeria di dời công dân khỏi Nam Phi do tâm lý chống người nhập cư gia tăng",
+      "bullets": [
+        "Nigeria đã di dời công dân khỏi Nam Phi",
+        "Tình hình chống người nhập cư ở Nam Phi đang trở nên nghiêm trọng",
+        "Nigeria là nước châu Phi thứ hai di dời công dân khỏi Nam Phi",
+        "Tình hình này đã gây ra lo ngại về an ninh cho các công dân châu Phi"
+      ],
+      "full_summary": "Nigeria đã di dời công dân khỏi Nam Phi do tình hình chống người nhập cư ở Nam Phi trở nên nghiêm trọng. Đây là nước châu Phi thứ hai thực hiện hành động này sau South Africa. Tình hình này đã gây ra lo ngại về an ninh cho các công dân châu Phi. Nigeria hy vọng rằng hành động này sẽ giúp đảm bảo an toàn cho công dân của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cc422ef7704",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T20:12:52.543864+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Elon Musk là người giàu nhất thế giới",
+      "bullets": [
+        "Là người sáng lập X, Tesla và SpaceX",
+        "Sẽ sớm trở thành tỷ phú",
+        "Là người giàu nhất thế giới",
+        "Tập đoàn của ông có giá trị hàng tỷ USD"
+      ],
+      "full_summary": "Elon Musk là người sáng lập X, Tesla và SpaceX, và hiện là người giàu nhất thế giới. Ông có thể sẽ sớm trở thành tỷ phú khi giá trị của tập đoàn của mình tiếp tục tăng lên. Tập đoàn của ông có giá trị hàng tỷ USD và đang phát triển mạnh mẽ trong các lĩnh vực công nghệ và không gian.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "824ad12c6d30",
+      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T20:12:54.662819+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty sở hữu ChatGPT chuẩn bị niêm yết trên thị trường chứng khoán",
+      "bullets": [
+        "Chuẩn bị niêm yết trên thị trường chứng khoán",
+        "Là một phần của cuộc đua tài chính giữa các công ty AI",
+        "Sau khi Anthropic công bố kế hoạch tương tự",
+        "Cơ hội thu hút vốn đầu tư lớn"
+      ],
+      "full_summary": "Công ty sở hữu ChatGPT đang chuẩn bị niêm yết trên thị trường chứng khoán, một bước đi quan trọng trong cuộc đua tài chính giữa các công ty AI. Điều này diễn ra chỉ một tuần sau khi Anthropic công bố kế hoạch tương tự. Việc niêm yết trên thị trường chứng khoán sẽ giúp công ty thu hút vốn đầu tư lớn để phát triển sản phẩm và mở rộng hoạt động kinh doanh. Điều này sẽ tạo ra một cuộc cạnh tranh gay gắt giữa các công ty AI trong việc thu hút vốn đầu tư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "569532781543",
+      "title": "Toronto police officer shot while investigating US consulate attack",
+      "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T20:12:58.573025+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Cảnh sát Toronto bị bắn chết trong cuộc điều tra vụ tấn công lãnh sự quán Mỹ",
+      "bullets": [
+        "Một cảnh sát Toronto bị bắn chết trong khi thực hiện lệnh khám xét",
+        "Suspect 19 tuổi vẫn đang trốn vong",
+        "Cảnh sát đã khám xét một căn hộ liên quan đến vụ tấn công lãnh sự quán Mỹ hồi tháng 3",
+        "Cảnh sát trưởng Myron Demkiw cho biết vụ việc đang được điều tra"
+      ],
+      "full_summary": "Một cảnh sát Toronto đã bị bắn chết trong khi thực hiện lệnh khám xét một căn hộ ở phía bắc thành phố. Cảnh sát trưởng Myron Demkiw cho biết cảnh sát đã khám xét căn hộ này liên quan đến vụ tấn công lãnh sự quán Mỹ hồi tháng 3. Cảnh sát đang điều tra vụ việc và đang tìm kiếm suspect 19 tuổi vẫn đang trốn vong.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "25a7eb9a4ad5",
       "title": "El Niño under way and threatens weather extremes, scientists say",
@@ -673,124 +793,6 @@
         "CEO Tim Cook rời chức sau nhiều năm lãnh đạo công ty"
       ],
       "full_summary": "Apple vừa giới thiệu lại công nghệ Siri với nhiều cải tiến mới và ra mắt các tính năng an toàn cho trẻ em để đối phó với các ứng dụng không phù hợp. Sự kiện này diễn ra trong bối cảnh Apple đang đối mặt với sự chỉ trích vì các ứng dụng 'nudification'. CEO Tim Cook cũng đã rời chức sau nhiều năm lãnh đạo công ty.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "66654da39c71",
-      "title": "Hegseth warns Cuba against acquiring weapons in visit to Guantánamo Bay",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T20:18:44.679267+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hegseth cảnh báo Cuba tránh mua vũ khí đe dọa Mỹ",
-      "bullets": [
-        "Hegseth cảnh báo Cuba tránh mua vũ khí đe dọa Mỹ",
-        "Washington tăng cường áp lực lên Cuba bằng các biện pháp trừng phạt và phong tỏa dầu",
-        "Hegseth thăm căn cứ quân sự Guantánamo Bay",
-        "Cuba đang đối mặt với áp lực từ Mỹ"
-      ],
-      "full_summary": "Hegseth, Bộ trưởng Quốc phòng Mỹ, đã cảnh báo Cuba tránh mua vũ khí có thể đe dọa Mỹ trong chuyến thăm căn cứ quân sự Guantánamo Bay. Mỹ đã tăng cường áp lực lên Cuba bằng các biện pháp trừng phạt và phong tỏa dầu. Điều này là một phần của chiến lược của Mỹ nhằm làm suy yếu chính phủ Cuba. Hegseth đã nhấn mạnh rằng Mỹ sẽ không để cho Cuba mua vũ khí có thể đe dọa an ninh quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "42f174746d4e",
-      "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
-      "url": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-10T20:18:50.226045+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Honda Prelude 2026: Một coupe sang trọng với hiệu suất cao",
-      "bullets": [
-        "Là một trong những coupe giá cả phải chăng nhất hiện nay",
-        "Có khả năng xử lý tốt và đạt 44 mpg",
-        "Được trang bị công nghệ hybrid tiết kiệm nhiên liệu"
-      ],
-      "full_summary": "Honda Prelude 2026 là một coupe sang trọng với giá cả phải chăng, chỉ 42.000 USD. Nó được trang bị công nghệ hybrid tiết kiệm nhiên liệu, giúp đạt được 44 mpg. Honda Prelude 2026 cũng có khả năng xử lý tốt, khiến nó trở thành một lựa chọn tuyệt vời cho những người yêu thích tốc độ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "26569dc7cbc1",
-      "title": "Trump and Iran trade new threats after strikes exchanged",
-      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T14:59:54.273301+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trung Quốc cảnh báo Iran phải trả giá vì chậm ký thỏa thuận",
-      "bullets": [
-        "Trung Quốc cảnh báo Iran sẽ phải trả giá vì chậm ký thỏa thuận",
-        "Iran cam kết đáp trả bất kỳ cuộc tấn công nào từ Mỹ",
-        "Tổng thống Mỹ cảnh báo Iran sẽ phải trả giá vì chậm ký thỏa thuận",
-        "Mỹ và Iran tiếp tục đe dọa lẫn nhau sau các cuộc tấn công"
-      ],
-      "full_summary": "Tổng thống Mỹ đã cảnh báo Iran rằng họ sẽ phải trả giá vì chậm ký thỏa thuận. Trong khi đó, Iran đã cam kết đáp trả bất kỳ cuộc tấn công nào từ Mỹ. Cả hai quốc gia đã tiếp tục đe dọa lẫn nhau sau các cuộc tấn công. Điều này đã dẫn đến tình hình căng thẳng giữa Mỹ và Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3dff861da57d",
-      "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
-      "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T14:59:55.341497+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hội đồng trọng tài bị cấm vào Mỹ được chào đón như anh hùng tại Somalia",
-      "bullets": [
-        "Hội đồng trọng tài Omar Artan bị cấm vào Mỹ",
-        "Bị cấm vì lý do chưa rõ",
-        "Omar Artan hứa sẽ tham gia trọng tài tại World Cup 2030",
-        "Hội đồng trọng tài được chào đón như anh hùng tại Somalia"
-      ],
-      "full_summary": "Hội đồng trọng tài Omar Artan đã bị cấm vào Mỹ, nhưng anh đã trở về Somalia và được chào đón như anh hùng. Ông Artan đã hứa sẽ tham gia trọng tài tại World Cup 2030. Điều này cho thấy ông Artan vẫn tin tưởng vào khả năng của mình và sẽ tiếp tục theo đuổi sự nghiệp trọng tài.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cff3c1ab0b12",
-      "title": "Ukraine says missiles hit military plant deep inside Russia",
-      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T14:59:56.381109+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Ukraine tấn công nhà máy quân sự sâu trong lãnh thổ Nga",
-      "bullets": [
-        "Ukraine tấn công nhà máy quân sự sâu trong lãnh thổ Nga",
-        "Ukraine tấn công nhà máy lọc dầu và tàu chở dầu ở Biển Đen",
-        "Các cuộc tấn công nhằm vào các mục tiêu quân sự và kinh tế của Nga"
-      ],
-      "full_summary": "Ukraine cho biết đã tấn công một nhà máy quân sự sâu trong lãnh thổ Nga và một nhà máy lọc dầu cũng như một tàu chở dầu ở Biển Đen. Các cuộc tấn công này nhằm vào các mục tiêu quân sự và kinh tế của Nga. Đây là một phần của chiến dịch quân sự của Ukraine nhằm vào các mục tiêu của Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "14a60f5db505",
-      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
-      "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T14:59:57.412587+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Pakistan thực hiện các cuộc tấn công không quân đẫm máu ở Afghanistan",
-      "bullets": [
-        "Pakistan thực hiện các cuộc tấn công không quân vào Afghanistan",
-        "Các cuộc tấn công diễn ra sau nhiều tuần yên bình ở khu vực biên giới",
-        "Tensions giữa hai quốc gia đang được tái kích hoạt",
-        "Các cuộc tấn công có thể gây ra những hậu quả nghiêm trọng"
-      ],
-      "full_summary": "Pakistan đã thực hiện các cuộc tấn công không quân vào Afghanistan, gây ra những thương vong nghiêm trọng. Các cuộc tấn công diễn ra sau nhiều tuần yên bình ở khu vực biên giới giữa hai quốc gia. Điều này đã tái kích hoạt những căng thẳng giữa Pakistan và Afghanistan. Các cuộc tấn công có thể gây ra những hậu quả nghiêm trọng cho khu vực.",
       "comments": 0,
       "score": 0
     }
