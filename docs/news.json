@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-06-11T10:12:56.253610+00:00",
+  "updated_at": "2026-06-11T15:41:35.534546+00:00",
   "articles": [
+    {
+      "id": "25a7eb9a4ad5",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:18.398322+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "El Niño đã bắt đầu, cảnh báo thời tiết cực đoan",
+      "bullets": [
+        "Cảnh báo thời tiết cực đoan và nhiệt độ cao hơn",
+        "Tăng cường các cơn bão và lũ lụt",
+        "Suy thoái kinh tế có thể xảy ra",
+        "Căng thẳng về nguồn nước và thực phẩm"
+      ],
+      "full_summary": "Các nhà khoa học Mỹ cho biết El Niño đã chính thức bắt đầu, cảnh báo thời tiết cực đoan và nhiệt độ cao hơn. Điều này có thể dẫn đến tăng cường các cơn bão và lũ lụt, gây thiệt hại cho các khu vực nông nghiệp và dân cư. Ngoài ra, El Niño cũng có thể gây suy thoái kinh tế và căng thẳng về nguồn nước và thực phẩm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6a3022fcf17d",
+      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:19.787203+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Vice Tổng thống Mỹ chỉ trích Thủ tướng Israel vì cách hành xử",
+      "bullets": [
+        "Vice Tổng thống Mỹ chỉ trích Thủ tướng Israel vì cách hành xử quá quyết liệt",
+        "Thủ tướng Israel Netanyahu không luôn đồng ý với quan điểm của Mỹ",
+        "Vice Tổng thống Mỹ nói quan điểm của Israel không phải lúc nào cũng phù hợp với Mỹ",
+        "Cả hai nước đang có quan điểm khác nhau về cách bảo vệ lợi ích"
+      ],
+      "full_summary": "Vice Tổng thống Mỹ đã chỉ trích Thủ tướng Israel vì cách hành xử quá quyết liệt khi bảo vệ lợi ích của nước mình. Ông nói rằng Thủ tướng Netanyahu không luôn đồng ý với quan điểm của Mỹ. Điều này cho thấy cả hai nước đang có quan điểm khác nhau về cách bảo vệ lợi ích. Việc này có thể gây ra những khó khăn trong quan hệ giữa hai nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "800f471c5847",
+      "title": "Artan to referee Uefa Super Cup after losing World Cup spot",
+      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:20.739630+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Hạ hạng, Omar Artan vẫn được chọn trọng tài Uefa Super Cup",
+      "bullets": [
+        "Được chọn trọng tài Uefa Super Cup",
+        "Thua World Cup",
+        "Sẽ trọng tài trận đấu giữa Paris St-Germain và Aston Villa",
+        "Là một trọng tài Somalia"
+      ],
+      "full_summary": "Omar Artan, một trọng tài Somalia, đã được chọn trọng tài trận đấu Uefa Super Cup giữa Paris St-Germain và Aston Villa sau khi không được chọn tham dự World Cup. Điều này diễn ra sau khi Artan bị loại khỏi danh sách trọng tài World Cup. Artan sẽ có cơ hội chứng minh khả năng của mình trong trận đấu quan trọng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b2649efa33e4",
+      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+      "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:22.017837+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tông đồ Lêô đến quần đảo Canary để kêu gọi chào đón nhân đạo hơn",
+      "bullets": [
+        "Tông đồ Lêô sẽ cầu nguyện cho những người tị nạn",
+        "Tông đồ Lêô kêu gọi một cách tiếp cận nhân đạo hơn đối với người tị nạn",
+        "Tông đồ Lêô sẽ đến thăm quần đảo Canary để ủng hộ người tị nạn",
+        "Tông đồ Lêô muốn người dân chào đón người tị nạn một cách tôn trọng"
+      ],
+      "full_summary": "Tông đồ Lêô đã đến thăm quần đảo Canary để kêu gọi một cách tiếp cận nhân đạo hơn đối với người tị nạn. Ông muốn người dân chào đón người tị nạn một cách tôn trọng và nhân đạo hơn. Trong chuyến thăm này, ông sẽ cầu nguyện cho những người tị nạn và ủng hộ họ. Đây là một nỗ lực nhằm thu hút sự chú ý của cộng đồng quốc tế về những người tị nạn đang phải đối mặt với những thách thức khó khăn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a3f72e4af9b",
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:23.169366+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
+      "bullets": [
+        "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
+        "Mục đích là ngăn chặn các hành vi giao dịch nội gián trên nền tảng dự đoán",
+        "Nền tảng dự đoán này đã gặp vấn đề với giao dịch nội gián trong quá khứ",
+        "Các quy tắc mới sẽ được áp dụng để đảm bảo tính công bằng"
+      ],
+      "full_summary": "Kalshi, một nền tảng dự đoán đặt cược, đang áp dụng các quy tắc mới để ngăn chặn giao dịch nội gián. Mục đích là ngăn chặn các hành vi giao dịch nội gián trên nền tảng dự đoán. Nền tảng dự đoán này đã gặp vấn đề với giao dịch nội gián trong quá khứ và các quy tắc mới sẽ được áp dụng để đảm bảo tính công bằng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f792aa52aecc",
+      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:24.280125+00:00",
+      "category": "politics|technology",
+      "importance": 3,
+      "headline": "Farage nói Reform liên hệ với X cấp cao về quảng cáo giả AI",
+      "bullets": [
+        "Farage nói Reform đã liên hệ với X cấp cao",
+        "Quảng cáo giả AI xuất hiện trên mạng xã hội",
+        "Thống đốc Ngân hàng Anh kêu gọi mọi người báo cáo",
+        "Quảng cáo giả AI liên quan đến chiến dịch của Farage"
+      ],
+      "full_summary": "Nigel Farage nói rằng Reform đã liên hệ với cấp cao nhất về quảng cáo giả AI trên mạng xã hội. Quảng cáo giả này xuất hiện trên mạng xã hội và có hình ảnh của thống đốc Ngân hàng Anh. Thống đốc Ngân hàng Anh đã kêu gọi mọi người báo cáo về quảng cáo giả này. Quảng cáo giả này được cho là liên quan đến chiến dịch của Farage.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "43b97996d22c",
+      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:25.712123+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một người đàn ông bị bắn chết trong cuộc biểu tình chống cơ sở cách ly Ebola của Mỹ tại Kenya",
+      "bullets": [
+        "Bị bắn chết trong cuộc biểu tình",
+        "Cơ sở cách ly Ebola được đề xuất cho công dân Mỹ",
+        "Cảnh sát đã xua tan đông người biểu tình tại Nanyuki",
+        "Tình trạng căng thẳng đang gia tăng"
+      ],
+      "full_summary": "Một người đàn ông đã bị bắn chết trong cuộc biểu tình tại Nanyuki, Kenya, khi cảnh sát xua tan đông người biểu tình chống lại cơ sở cách ly Ebola được đề xuất cho công dân Mỹ. Patrick Wahome, người đã tổ chức các cuộc biểu tình, cho biết người đàn ông đã bị bắn vào đầu và chết. Cảnh sát đã xua tan đông người biểu tình, nhưng tình trạng căng thẳng đang gia tăng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2ba6365aecd2",
+      "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
+      "url": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T15:41:27.975925+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nữ giới Brazil bị buộc tội lừa đảo bằng cách giả danh trẻ em",
+      "bullets": [
+        "Bị bắt vì tội lừa đảo và sử dụng danh tính giả",
+        "Tự xưng là một cô gái 12 tuổi để lừa một cặp vợ chồng",
+        "Được gia đình nhận vào nhà hơn một năm",
+        "Đã bị bắt và bị đưa ra tòa"
+      ],
+      "full_summary": "Amanda Maria Souza de Oliveira, một phụ nữ 38 tuổi, đã bị bắt vì tội lừa đảo ở bang Santa Catarina, Brazil. Cô đã tự xưng là một cô gái 12 tuổi và đã lừa một cặp vợ chồng nhận cô vào nhà hơn một năm. Sau đó, cô đã bị bắt và bị đưa ra tòa vì tội lừa đảo và sử dụng danh tính giả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "58ccfc0f6056",
+      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-11T15:41:30.803484+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "macOS 27 Golden Gate có nhiều cải tiến hữu ích",
+      "bullets": [
+        "Cải thiện hiệu suất hệ thống",
+        "Tối ưu hóa giao diện người dùng",
+        "Cải thiện bảo mật",
+        "Cải tiến công nghệ lưu trữ"
+      ],
+      "full_summary": "macOS 27 Golden Gate có nhiều cải tiến hữu ích ngoài tính năng AI. Các cải tiến này bao gồm cải thiện hiệu suất hệ thống, tối ưu hóa giao diện người dùng và cải thiện bảo mật. Điều này giúp người dùng có trải nghiệm tốt hơn khi sử dụng hệ điều hành.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cc58c7de0365",
+      "title": "AMD Gaslights Security Researcher, Changes Rules Retroactively [video]",
+      "url": "https://www.youtube.com/watch?v=4HjWHNLRMB0",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-11T15:41:34.386350+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "AMD đã cố tình làm mù lòa một nhà nghiên cứu an ninh",
+      "bullets": [
+        "AMD đã thay đổi quy tắc an ninh một cách không công khai",
+        "Một nhà nghiên cứu đã phát hiện ra lỗ hổng và báo cáo cho AMD",
+        "AMD đã từ chối công nhận lỗ hổng và thay đổi quy tắc để tránh trách nhiệm"
+      ],
+      "full_summary": "AMD đã bị cáo buộc cố tình làm mù lòa một nhà nghiên cứu an ninh sau khi thay đổi quy tắc an ninh một cách không công khai. Nhà nghiên cứu đã phát hiện ra lỗ hổng và báo cáo cho AMD, nhưng công ty đã từ chối công nhận lỗ hổng và thay đổi quy tắc để tránh trách nhiệm. Sự việc đã gây ra sự phẫn nộ trong cộng đồng an ninh và đặt câu hỏi về sự trung thực của AMD.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8dd5e7290a26",
       "title": "Three Indian sailors killed in US strike on oil tanker",
@@ -592,205 +791,6 @@
         "Các cuộc tấn công có thể gây ra những hậu quả nghiêm trọng"
       ],
       "full_summary": "Pakistan đã thực hiện các cuộc tấn công không quân vào Afghanistan, gây ra những thương vong nghiêm trọng. Các cuộc tấn công diễn ra sau nhiều tuần yên bình ở khu vực biên giới giữa hai quốc gia. Điều này đã tái kích hoạt những căng thẳng giữa Pakistan và Afghanistan. Các cuộc tấn công có thể gây ra những hậu quả nghiêm trọng cho khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b7df517efee2",
-      "title": "Growing backlash in Japan over Trump's use of anime characters",
-      "url": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T14:59:58.330460+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trả lời phán đoán của Trump về nhân vật anime gây tranh cãi",
-      "bullets": [
-        "Trump sử dụng hình ảnh nhân vật anime gây phản ứng dữ dội",
-        "Các fan anime phản đối việc sử dụng hình ảnh nhân vật không chính thức",
-        "Tình hình gây tranh cãi ở Nhật Bản và trên toàn thế giới",
-        "Naruto và Pikachu là hai nhân vật anime được sử dụng bởi Trump"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump đã gây tranh cãi khi sử dụng hình ảnh nhân vật anime như Pikachu và Naruto. Việc này đã gây phản ứng dữ dội từ các fan anime trên toàn thế giới. Các fan anime phản đối việc sử dụng hình ảnh nhân vật không chính thức và cho rằng điều này không phù hợp. Tình hình đã gây tranh cãi ở Nhật Bản và trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "824ad12c6d30",
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T14:59:59.394540+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Công ty sở hữu ChatGPT chuẩn bị niêm yết trên thị trường chứng khoán",
-      "bullets": [
-        "Chuẩn bị niêm yết trên thị trường chứng khoán",
-        "Là một phần trong cuộc đua tài chính của các công ty công nghệ",
-        "Sau khi Anthropic nộp đơn đăng ký niêm yết",
-        "Công ty sở hữu ChatGPT nộp đơn một tuần sau đó"
-      ],
-      "full_summary": "Công ty sở hữu ChatGPT, OpenAI, đã nộp đơn đăng ký niêm yết trên thị trường chứng khoán. Đây là một phần trong cuộc đua tài chính của các công ty công nghệ. Sau khi Anthropic nộp đơn đăng ký niêm yết một tuần trước đó, OpenAI đã nộp đơn một tuần sau đó. Điều này cho thấy sự gia tăng trong việc huy động vốn của các công ty công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a794d111c601",
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T15:00:00.705728+00:00",
-      "category": "khoa học và công nghệ",
-      "importance": 3,
-      "headline": "Robot nhân tạo có thể được đưa vào chiến trường?",
-      "bullets": [
-        "Các lực lượng vũ trang đang thử nghiệm robot nhân tạo",
-        "Robot này vẫn còn cách xa việc được triển khai vào chiến trường",
-        "Các nhà nghiên cứu đang phát triển robot có thể tự động chiến đấu",
-        "Robot có thể được sử dụng để hỗ trợ quân đội trong các nhiệm vụ nguy hiểm"
-      ],
-      "full_summary": "Các lực lượng vũ trang trên toàn thế giới đang thử nghiệm robot nhân tạo có khả năng chiến đấu. Mặc dù robot này vẫn còn cách xa việc được triển khai vào chiến trường, nhưng các nhà nghiên cứu đang phát triển robot có thể tự động chiến đấu và hỗ trợ quân đội trong các nhiệm vụ nguy hiểm. Các ứng dụng tiềm năng của robot nhân tạo bao gồm việc hỗ trợ quân đội trong các nhiệm vụ như tìm kiếm và giải cứu, cũng như hỗ trợ trong các hoạt động quân sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fad6e1a787d8",
-      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
-      "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-10T15:00:05.277836+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Sự cố ý kiến phân biệt chủng tộc trên Facebook tăng vọt sau khi Meta nới lỏng quy định",
-      "bullets": [
-        "Tăng gấp ba lần bình luận phân biệt chủng tộc nhắm vào các chính trị gia kể từ khi Meta nới lỏng quy định",
-        "Số lượng đe dọa bạo lực đối với các nhà lập pháp cũng tăng vọt trên Facebook",
-        "Meta đã nới lỏng các quy định về kiểm duyệt nội dung trên Facebook",
-        "Tình hình này đang gây lo ngại về sự an toàn của các chính trị gia trên mạng xã hội"
-      ],
-      "full_summary": "Theo Ars Technica, số bình luận phân biệt chủng tộc nhắm vào các chính trị gia trên Facebook đã tăng gấp ba lần kể từ khi Meta nới lỏng quy định. Điều này cũng đi kèm với sự gia tăng số lượng đe dọa bạo lực đối với các nhà lập pháp. Sự cố này đang gây lo ngại về sự an toàn của các chính trị gia trên mạng xã hội. Meta đã nới lỏng các quy định về kiểm duyệt nội dung trên Facebook, điều này đã dẫn đến tình hình này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2ba827d0184c",
-      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-      "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T09:43:53.672061+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Một vụ bắn súng hàng loạt ở Johannesburg khiến 12 người chết",
-      "bullets": [
-        "Bắt đầu cuộc truy nã sau vụ bắn súng",
-        "12 người chết, 9 người bị thương",
-        "Vụ việc xảy ra tại khu định cư không chính thức ở Cleveland",
-        "Cảnh sát đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Một vụ bắn súng hàng loạt đã xảy ra tại khu định cư không chính thức ở Cleveland, Johannesburg, khiến 12 người chết và 9 người bị thương. Cảnh sát đang điều tra nguyên nhân và bắt đầu cuộc truy nã. Vụ việc đã gây ra sự lo lắng lớn trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "42d013c72dc5",
-      "title": "Firms charged with manslaughter over deadly Hong Kong fire",
-      "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T09:43:54.798004+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hai công ty bị buộc tội giết người do vụ hỏa hoạn ở Hồng Kông",
-      "bullets": [
-        "Bị cáo về tội giết người do cố ý gây ra vụ hỏa hoạn",
-        "Vụ hỏa hoạn năm ngoái gây thiệt hại nặng nề tại Hồng Kông",
-        "Tổng cộng 168 người thiệt mạng trong vụ hỏa hoạn",
-        "Hồng Kông chưa từng có vụ hỏa hoạn gây thiệt hại nặng nề như vậy trong 70 năm"
-      ],
-      "full_summary": "Hai công ty bị cáo buộc tội giết người do cố ý gây ra vụ hỏa hoạn ở Hồng Kông năm ngoái. Vụ hỏa hoạn đã gây thiệt hại nặng nề và khiến 168 người thiệt mạng. Đây là vụ hỏa hoạn gây thiệt hại nặng nề nhất tại Hồng Kông trong 70 năm qua.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a32d26b665d6",
-      "title": "Alleged Bondi Beach gunman charged with another 19 offences",
-      "url": "https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T09:43:55.836267+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nghi phạm vụ tấn công Bondi Beach bị thêm 19 tội danh",
-      "bullets": [
-        "Bị cáo Naveed Akram bị thêm 19 tội danh",
-        "Tổng số tội danh lên 78",
-        "Nghi phạm bị cáo về vụ tấn công Lễ hội Do Thái tháng 12",
-        "Nghi phạm 24 tuổi"
-      ],
-      "full_summary": "Nghi phạm vụ tấn công Bondi Beach, Naveed Akram, 24 tuổi, đã bị thêm 19 tội danh. Tổng số tội danh mà nghi phạm này phải đối mặt đã lên 78. Nghi phạm bị cáo về vụ tấn công Lễ hội Do Thái tháng 12. Nghi phạm đã bị bắt giữ sau khi tấn công vào một sự kiện tại Bondi Beach.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fca4606c3b79",
-      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
-      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T09:43:57.009205+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "EU yêu cầu Meta mở WhatsApp cho các chatbot AI đối thủ",
-      "bullets": [
-        "EU yêu cầu Meta mở WhatsApp cho các chatbot AI đối thủ",
-        "Meta cáo buộc EU lạm dụng quyền lực quản lý",
-        "Nhiều công ty công nghệ lớn như OpenAI sẽ được phép truy cập WhatsApp",
-        "Meta cảnh báo quyết định này sẽ gây thiệt hại cho người dùng WhatsApp"
-      ],
-      "full_summary": "Ủy ban châu Âu (EU) đã ra lệnh Meta phải mở WhatsApp cho các chatbot AI đối thủ. Meta cáo buộc EU lạm dụng quyền lực quản lý và cảnh báo quyết định này sẽ gây thiệt hại cho người dùng WhatsApp. Quyết định này cho phép nhiều công ty công nghệ lớn như OpenAI truy cập WhatsApp. Meta cho rằng quyết định này sẽ phá vỡ sự bảo mật và riêng tư của người dùng WhatsApp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8af33b543ad5",
-      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T09:43:58.025113+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Sam Bankman-Fried xin ân xá từ Tổng thống Trump",
-      "bullets": [
-        "Sam Bankman-Fried nộp đơn xin ân xá",
-        "Đơn xin ân xá được nộp vào ngày thứ hai",
-        "Bankman-Fried đang thụ án 25 năm tù vì liên quan đến FTX"
-      ],
-      "full_summary": "Sam Bankman-Fried, cựu lãnh đạo của nền tảng tiền điện tử FTX, đã nộp đơn xin ân xá cho Tổng thống Trump. Bankman-Fried đang thụ án 25 năm tù vì liên quan đến sự sụp đổ của FTX. Đơn xin ân xá được nộp vào ngày thứ hai, nhưng chưa rõ Tổng thống Trump có chấp nhận hay không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "936e63d132ec",
-      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T09:43:59.102758+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Các thương hiệu toàn cầu có thể đang sử dụng khoáng chất tài trợ cho phe nổi loạn bị cáo buộc tội ác ở DRC",
-      "bullets": [
-        "Cục điều tra Global Witness cho rằng Amazon, Ericsson và Sony có thể đã mua coltan từ chuỗi cung ứng do phe M23 kiểm soát",
-        "Phe M23 bị cáo buộc có liên quan đến bạo lực và tội ác ở đông DRC",
-        "Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại",
-        "Các công ty toàn cầu có thể không biết rằng họ đang mua khoáng chất từ phe nổi loạn"
-      ],
-      "full_summary": "Một cuộc điều tra mới của Global Witness cho rằng các thương hiệu toàn cầu như Amazon, Ericsson và Sony có thể đã mua coltan từ chuỗi cung ứng do phe M23 kiểm soát ở Cộng hòa Dân chủ Congo (DRC). Phe M23 bị cáo buộc có liên quan đến tội ác chiến tranh, bạo lực và tội ác ở đông DRC. Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại, và các công ty toàn cầu có thể không biết rằng họ đang mua khoáng chất từ phe nổi loạn.",
       "comments": 0,
       "score": 0
     }
