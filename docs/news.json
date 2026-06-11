@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-06-10T20:18:52.007667+00:00",
+  "updated_at": "2026-06-11T02:54:37.712641+00:00",
   "articles": [
+    {
+      "id": "1c8398cd510e",
+      "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:22.044826+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hoa Kỳ tấn công Iran, Tehran trả đòn vào căn cứ Mỹ",
+      "bullets": [
+        "Hoa Kỳ tiến hành loạt tấn công mới vào Iran",
+        "Tehran phản công bằng cách nhắm vào căn cứ quân sự của Mỹ",
+        "Các lực lượng Mỹ cho biết hành động này nhằm đáp trả sự xâm phạm không đáng có từ Iran",
+        "Tình hình giữa hai quốc gia vẫn tiếp tục căng thẳng"
+      ],
+      "full_summary": "Hoa Kỳ đã tiến hành loạt tấn công mới vào Iran sau khi các lực lượng Mỹ cáo buộc Iran tiếp tục xâm phạm không đáng có. Theo US Central Command, các cuộc tấn công này nhằm đáp trả sự xâm phạm không đáng có từ Iran. Tuy nhiên, Tehran đã phản công bằng cách nhắm vào căn cứ quân sự của Mỹ. Tình hình giữa hai quốc gia vẫn tiếp tục căng thẳng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0d2b3c260ce9",
+      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:23.164618+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Trả lời về lạm phát, Trump nói 'tôi yêu thích lạm phát'",
+      "bullets": [
+        "Lạm phát ở Mỹ tăng nhanh nhất trong 3 năm qua",
+        "Giá hàng hóa và dịch vụ liên tục tăng cao",
+        "Người tiêu dùng đang phải chịu đựng nhiều áp lực",
+        "Sự gia tăng lạm phát được cho là do chiến tranh Mỹ - Israel ở Iran"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump đã nói rằng ông 'yêu thích lạm phát' trong bối cảnh giá hàng hóa và dịch vụ ở Mỹ tăng nhanh nhất trong 3 năm qua. Lạm phát ở Mỹ đã tăng lên mức 6,8% trong tháng 5, cao hơn mức dự kiến. Người tiêu dùng đang phải chịu đựng nhiều áp lực do giá hàng hóa và dịch vụ liên tục tăng cao. Sự gia tăng lạm phát được cho là do chiến tranh Mỹ - Israel ở Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65fc85db3d63",
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:24.141051+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Vụ tai nạn máy bay Air India 171 vẫn chưa được giải đáp",
+      "bullets": [
+        "Chưa công bố kết luận cuối cùng về vụ tai nạn",
+        "Cơ quan điều tra đang làm rõ nguyên nhân",
+        "Sẽ có thêm thông tin trong những ngày tới",
+        "Vụ tai nạn gây sốc cho người dân và ngành hàng không"
+      ],
+      "full_summary": "Vụ tai nạn máy bay Air India 171 vẫn chưa được giải đáp. Cơ quan điều tra đang làm rõ nguyên nhân, nhưng chưa công bố kết luận cuối cùng. Vụ tai nạn gây sốc cho người dân và ngành hàng không. Người ta hy vọng sẽ có thêm thông tin trong những ngày tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f76a098dad2",
+      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
+      "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:25.063724+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một thợ nấu bị bỏ lại trên Everest, đặt câu hỏi cho ngành du lịch",
+      "bullets": [
+        "Bị bỏ lại mà không có hỗ trợ",
+        "Sự cố đặt câu hỏi về an toàn cho khách du lịch",
+        "Một thợ nấu được để dẫn dắt khách lên đỉnh Everest",
+        "Sự việc đang được điều tra"
+      ],
+      "full_summary": "Một thợ nấu đã sống sót sau khi bị bỏ lại trên đỉnh Everest mà không có hỗ trợ. Sự cố này đặt câu hỏi về an toàn cho khách du lịch. Một thợ nấu được để dẫn dắt khách lên đỉnh Everest, điều này được coi là không phù hợp. Sự việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2d933f107e5d",
+      "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+      "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:25.937766+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Pope Leo XIV ca ngợi Sagrada Família là kiệt tác của đá, màu sắc và ánh sáng",
+      "bullets": [
+        "Pope Leo XIV đến thăm Sagrada Família tại Barcelona",
+        "Ông ca ngợi Sagrada Família là kiệt tác của đá, màu sắc và ánh sáng",
+        "Sagrada Família là một trong những công trình kiến trúc nổi tiếng của Barcelona"
+      ],
+      "full_summary": "Pope Leo XIV đã đến thăm Sagrada Família tại Barcelona trong chuyến thăm của mình đến Tây Ban Nha. Ông đã ca ngợi công trình kiến trúc này là kiệt tác của đá, màu sắc và ánh sáng. Sagrada Família là một trong những công trình kiến trúc nổi tiếng của Barcelona và là biểu tượng của thành phố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a167d144efea",
+      "title": "Trump targeting immigrants from countries hit most by climate shocks",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:27.057398+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Chính quyền Trump chặn nhập cảnh người từ các quốc gia dễ bị tổn thương bởi biến đổi khí hậu",
+      "bullets": [
+        "Chính quyền Trump đang áp đặt các chính sách chặn nhập cảnh vào Mỹ từ 39 quốc gia dễ bị tổn thương bởi biến đổi khí hậu.",
+        "Hàng triệu người đang bị buộc phải di cư khỏi quê hương do các cơn bão, lũ lụt và hạn hán do biến đổi khí hậu gây ra.",
+        "Chính quyền Trump đang thúc đẩy các chính sách tăng cường khai thác dầu mỏ và khí đốt, làm trầm trọng thêm khủng hoảng khí hậu.",
+        "Giới quan sát cho rằng chính sách này sẽ làm trầm trọng thêm tình trạng di cư do biến đổi khí hậu gây ra."
+      ],
+      "full_summary": "Chính quyền Trump đang áp đặt các chính sách chặn nhập cảnh vào Mỹ từ 39 quốc gia dễ bị tổn thương bởi biến đổi khí hậu. Hàng triệu người đang bị buộc phải di cư khỏi quê hương do các cơn bão, lũ lụt và hạn hán do biến đổi khí hậu gây ra. Chính quyền Trump đang thúc đẩy các chính sách tăng cường khai thác dầu mỏ và khí đốt, làm trầm trọng thêm khủng hoảng khí hậu. Giới quan sát cho rằng chính sách này sẽ làm trầm trọng thêm tình trạng di cư do biến đổi khí hậu gây ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9a17aed3ab9b",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:28.110378+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cướp bóc ở Nigeria bắt giữ 39 người sau cuộc họp về hòa bình",
+      "bullets": [
+        "Cướp bóc ở Nigeria bắt giữ 39 người sau cuộc họp về hòa bình",
+        "Cuộc gặp diễn ra tại khu rừng gần ngôi làng Magamin Diddi",
+        "Số người bị bắt giữ có thể lên đến 50 người theo một số nguồn tin",
+        "Tình hình an ninh ở khu vực này đang ngày càng xấu đi"
+      ],
+      "full_summary": "Cướp bóc ở Nigeria đã bắt giữ 39 người sau khi họ được mời tham gia một cuộc họp về hòa bình. Cuộc gặp diễn ra tại khu rừng gần ngôi làng Magamin Diddi ở bang Zamfara. Một số nguồn tin cho biết số người bị bắt giữ có thể lên đến 50 người. Tình hình an ninh ở khu vực này đang ngày càng xấu đi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "79ed41419c4b",
+      "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
+      "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T02:54:29.145596+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Xenophobia bùng phát ở Nam Phi, người nhập cư sống trong sợ hãi",
+      "bullets": [
+        "Người nhập cư ở Nam Phi sống trong sợ hãi sau các cuộc biểu tình chống người nhập cư bất hợp pháp",
+        "Cộng đồng người nhập cư bất hợp pháp ở Nam Phi phải rời khỏi đất nước trước 30/6",
+        "Các cuộc biểu tình chống người nhập cư bất hợp pháp ở Nam Phi đang ngày càng phổ biến"
+      ],
+      "full_summary": "Người nhập cư ở Nam Phi đang sống trong sợ hãi sau các cuộc biểu tình chống người nhập cư bất hợp pháp. Một nhóm vận động gọi là March & March đã tuyên bố người nhập cư bất hợp pháp phải rời khỏi đất nước trước 30/6. Các cuộc biểu tình chống người nhập cư bất hợp pháp ở Nam Phi đang ngày càng phổ biến và gây ra lo ngại về sự an toàn của người nhập cư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e5c982db797",
+      "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
+      "url": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-11T02:54:30.745931+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hội Chứng Đái Tháo Ngũ Vị Tế xin lỗi vì đuổi học các nhà khoa học",
+      "bullets": [
+        "Hội Chứng Đái Tháo Ngũ Vị Tế xin lỗi vì đuổi học các nhà khoa học",
+        "Các nhà khoa học bị đuổi học vì chỉ trích Trump",
+        "Hội Chứng Đái Tháo Ngũ Vị Tế đã xin lỗi sau nhiều ngày phản ứng",
+        "Hội Chứng Đái Tháo Ngũ Vị Tế đã thay đổi quan điểm sau sự việc"
+      ],
+      "full_summary": "Hội Chứng Đái Tháo Ngũ Vị Tế (ADA) đã xin lỗi vì đã đuổi học các nhà khoa học sau khi họ chỉ trích cựu Tổng thống Mỹ Donald Trump. Sự việc xảy ra sau khi các nhà khoa học đưa ra ý kiến trái chiều với quan điểm của ADA. Sau nhiều ngày phản ứng, ADA đã thay đổi quan điểm và xin lỗi vì hành động của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50812662f89d",
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-11T02:54:34.301327+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tòa án Đức phán quyết Google không cần AI để tìm kiếm trên Internet",
+      "bullets": [
+        "Tòa án Đức tuyên bố người dùng không cần AI để tìm kiếm trên Internet",
+        "Quyết định này có thể ảnh hưởng tiêu cực đến ngành công nghệ tìm kiếm AI",
+        "Google đã thua kiện về AI Overview tại tòa án Đức",
+        "Quyết định này có thể mở đường cho các công ty khác phát triển công nghệ tìm kiếm không sử dụng AI"
+      ],
+      "full_summary": "Tòa án Đức đã phán quyết rằng người dùng không cần AI để tìm kiếm trên Internet, một quyết định có thể ảnh hưởng tiêu cực đến ngành công nghệ tìm kiếm AI. Quyết định này được đưa ra sau khi Google thua kiện về AI Overview tại tòa án Đức. Điều này có thể mở đường cho các công ty khác phát triển công nghệ tìm kiếm không sử dụng AI.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8ef589e2fd2c",
       "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
@@ -594,205 +792,6 @@
         "Hỗ trợ đa nền tảng và dễ dàng triển khai"
       ],
       "full_summary": "Apple đã phát triển một hệ thống máy ảo mới cho macOS, được gọi là Container Machine. Hệ thống này cho phép tạo ra môi trường ảo hóa cho macOS, cải thiện khả năng bảo mật và quản lý. Nó cũng hỗ trợ đa nền tảng và dễ dàng triển khai. Hệ thống này có thể được sử dụng để tạo ra các môi trường ảo hóa cho các ứng dụng và dịch vụ khác nhau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8c314a1b206",
-      "title": "Trump says Iran shot down US helicopter and vows to respond",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:29.929299+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trung Quốc tuyên bố Iran bắn hạ máy bay trực thăng Mỹ",
-      "bullets": [
-        "Trung Quốc xác nhận máy bay trực thăng Apache của Mỹ bị bắn hạ",
-        "Hai phi công bị thương được cứu bởi một con robot dưới nước",
-        "Trung Quốc cam kết sẽ phản ứng lại hành động của Iran",
-        "Mỹ đang xem xét các lựa chọn để đối phó"
-      ],
-      "full_summary": "Trung Quốc vừa tuyên bố Iran đã bắn hạ một máy bay trực thăng Apache của Mỹ. Hai phi công bị thương đã được cứu bởi một con robot dưới nước. Trung Quốc cam kết sẽ phản ứng lại hành động của Iran. Mỹ đang xem xét các lựa chọn để đối phó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b340e65494bb",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:30.986915+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Israel tấn công thành phố Tyre ở Liban bất chấp cảnh báo của Iran",
-      "bullets": [
-        "Iran cảnh báo Israel ngừng tấn công đồng minh Hezbollah ở Liban",
-        "Israel tiến hành không kích thành phố Tyre ở Liban",
-        "Iran cảnh báo có thể tái khởi chiến nếu Israel không ngừng tấn công Hezbollah",
-        "Tình hình ở khu vực Trung Đông tiếp tục căng thẳng"
-      ],
-      "full_summary": "Iran đã cảnh báo Israel ngừng tấn công đồng minh Hezbollah ở Liban. Mặc dù vậy, Israel vẫn tiến hành không kích thành phố Tyre ở Liban. Cảnh báo của Iran được đưa ra sau khi Israel liên tục tấn công Hezbollah. Tình hình ở khu vực Trung Đông tiếp tục căng thẳng và có thể tái khởi chiến nếu Israel không ngừng tấn công Hezbollah.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "930b183e0b6f",
-      "title": "Nasa names next astronauts for Artemis Moon programme",
-      "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:32.556347+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nasa chọn các phi hành gia mới cho chương trình Artemis",
-      "bullets": [
-        "Nasa công bố danh sách các phi hành gia mới cho chương trình Artemis",
-        "Các phi hành gia này sẽ không đi bộ trên Mặt Trăng hoặc đến gần Mặt Trăng",
-        "Chương trình Artemis nhằm mục đích đưa người trở lại Mặt Trăng vào năm 2025",
-        "Nasa đã chọn các phi hành gia mới sau nhiều năm tuyển chọn"
-      ],
-      "full_summary": "Nasa vừa công bố danh sách các phi hành gia mới cho chương trình Artemis, một chương trình nhằm mục đích đưa người trở lại Mặt Trăng vào năm 2025. Các phi hành gia này sẽ không đi bộ trên Mặt Trăng hoặc đến gần Mặt Trăng, nhưng sẽ đóng vai trò quan trọng trong việc chuẩn bị cho các sứ mệnh tương lai. Chương trình Artemis được Nasa khởi xướng vào năm 2019 và đã trải qua nhiều năm tuyển chọn các phi hành gia mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "db12dd8b87b5",
-      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-      "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:34.057027+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nạn nhân 11 tuổi bị sát hại ở Pháp, gây phẫn nộ trong xã hội",
-      "bullets": [
-        "Cảnh sát Pháp bị chỉ trích vì không ngăn chặn vụ sát hại",
-        "Tội phạm đã được báo cáo với cảnh sát vào tháng 8",
-        "Nạn nhân Lyhanna bị đánh một phát và tử vong",
-        "Hàng nghìn người biểu tình phản đối vụ sát hại"
-      ],
-      "full_summary": "Một vụ sát hại trẻ em 11 tuổi ở Pháp đã gây phẫn nộ trong xã hội. Nạn nhân Lyhanna bị đánh một phát và tử vong. Tội phạm đã được báo cáo với cảnh sát vào tháng 8, nhưng cảnh sát không ngăn chặn vụ sát hại. Hàng nghìn người biểu tình phản đối vụ sát hại và chỉ trích cảnh sát.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b29294f229ed",
-      "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
-      "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:35.438587+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ giới ở Afghanistan biểu tình, cảnh sát bắn đạn",
-      "bullets": [
-        "Nữ giới ở Herat biểu tình",
-        "Cảnh sát bắn đạn, hai người bị thương",
-        "Biểu tình bị dập tắt",
-        "Tình hình ở Afghanistan vẫn còn phức tạp"
-      ],
-      "full_summary": "Một cuộc biểu tình hiếm hoi của phụ nữ ở thành phố Herat, Afghanistan đã bị cảnh sát dập tắt sau khi họ bắn đạn. Có hai người bị thương trong vụ biểu tình. Đây là một trong những vụ biểu tình hiếm hoi của phụ nữ ở Afghanistan trong thời gian gần đây. Tình hình ở Afghanistan vẫn còn phức tạp và bất ổn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a22199e71bf7",
-      "title": "I have right papers and visa - barred referee Artan",
-      "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:36.525330+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hạ thủ tục nhập cảnh Mỹ 11 giờ, trọng tài Somali bị từ chối",
-      "bullets": [
-        "Trọng tài Omar Artan bị từ chối nhập cảnh Mỹ",
-        "Artan có đủ giấy tờ và thị thực",
-        "Bị thẩm vấn 11 giờ trước khi bị từ chối",
-        "Sẽ không tham gia World Cup"
-      ],
-      "full_summary": "Trọng tài Somali Omar Artan vừa bị từ chối nhập cảnh Mỹ mặc dù có đủ giấy tờ và thị thực. Ông Artan đã trải qua 11 giờ thẩm vấn trước khi bị từ chối. Điều này có thể khiến ông không tham gia World Cup. Ông Artan cho biết mình đã có đủ giấy tờ và thị thực nhưng vẫn bị từ chối.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a68e088292c7",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:37.595385+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Một phiên bản AI quá mạnh cho công chúng đã được công bố",
-      "bullets": [
-        "Bị phát hành công khai",
-        "Là phiên bản Claude Mythos của Anthropic",
-        "Đã gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ",
-        "Cần được kiểm soát chặt chẽ"
-      ],
-      "full_summary": "Một phiên bản AI mạnh mẽ của Anthropic, Claude Mythos, đã gây ra sự xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ. Phiên bản này, Claude Fable 5, đã được công bố công khai, khiến nhiều người lo ngại về khả năng kiểm soát của nó. Anthropic đã phát hành phiên bản này, nhưng vẫn chưa rõ liệu nó có được kiểm soát chặt chẽ hay không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f792aa52aecc",
-      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
-      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T19:59:39.366217+00:00",
-      "category": "politics|technology",
-      "importance": 3,
-      "headline": "Farage nói Reform liên hệ với X về quảng cáo AI giả mạo",
-      "bullets": [
-        "Farage nói Reform đã liên hệ với X về quảng cáo giả mạo",
-        "Quảng cáo giả mạo có hình ảnh của thống đốc Ngân hàng Anh",
-        "Ngân hàng Anh khuyên mọi người báo cáo quảng cáo giả mạo"
-      ],
-      "full_summary": "Nigel Farage nói rằng Reform đã liên hệ với X 'đến mức cao nhất' về quảng cáo giả mạo AI. Quảng cáo giả mạo này có hình ảnh của thống đốc Ngân hàng Anh và Ngân hàng Anh đã khuyên mọi người báo cáo. Mục đích của quảng cáo giả mạo này vẫn chưa rõ ràng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a8659cc982fc",
-      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
-      "url": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-09T19:59:44.189658+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "NASA sắp xếp đội ngũ phi hành gia cho Artemis III",
-      "bullets": [
-        "Giao nhiệm vụ cho đội ngũ phi hành gia cho sứ mệnh Artemis III",
-        "Đặt mục tiêu tiến độ nhanh chóng cho chuyến bay",
-        "Artemis III sẽ là một minh chứng đặc biệt về khả năng của con người",
-        "NASA đặt mục tiêu đưa người lên Mặt Trăng trong năm 2027"
-      ],
-      "full_summary": "NASA vừa công bố đội ngũ phi hành gia cho sứ mệnh Artemis III, một trong những sứ mệnh quan trọng nhất của chương trình Artemis. Đội ngũ này sẽ bao gồm các phi hành gia đã được huấn luyện kỹ lưỡng để thực hiện sứ mệnh đưa người lên Mặt Trăng. NASA cũng đặt mục tiêu tiến độ nhanh chóng cho chuyến bay, với mục tiêu đưa người lên Mặt Trăng trong năm 2027. Điều này sẽ là một bước tiến quan trọng trong việc khám phá vũ trụ và phát triển công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c3623e9ea450",
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-09T14:33:01.910745+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Máy bay không người lái cứu phi công Mỹ",
-      "bullets": [
-        "Cứu được 2 thành viên phi hành đoàn Apache",
-        "Máy bay bị rơi xuống biển gần eo biển Hormuz",
-        "Máy bay không người lái được sử dụng để cứu hộ",
-        "Crew được đưa lên tàu và an toàn"
-      ],
-      "full_summary": "Một máy bay không người lái đã cứu được 2 thành viên phi hành đoàn của một chiếc Apache khi nó rơi xuống biển gần eo biển Hormuz. Sự cố xảy ra vào thứ hai. Máy bay không người lái đã đưa 2 người lên tàu và họ được đưa đến an toàn. Sự việc được xác nhận bởi các quan chức Mỹ.",
       "comments": 0,
       "score": 0
     }
