@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-06-11T02:54:37.712641+00:00",
+  "updated_at": "2026-06-11T10:12:56.253610+00:00",
   "articles": [
+    {
+      "id": "8dd5e7290a26",
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T10:12:41.176446+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai thủy thủ Ấn Độ bị giết trong vụ tấn công tàu dầu của Mỹ",
+      "bullets": [
+        "Mỹ tấn công tàu dầu Palau",
+        "Tàu dầu không tuân theo chỉ đạo của Mỹ",
+        "3 thủy thủ Ấn Độ thiệt mạng",
+        "Tàu dầu bị hư hại"
+      ],
+      "full_summary": "Mỹ đã tấn công tàu dầu Palau sau khi cáo buộc tàu không tuân theo chỉ đạo. Vụ tấn công diễn ra vào thứ Ba. 3 thủy thủ Ấn Độ thiệt mạng trong vụ tấn công. Tàu dầu bị hư hại sau vụ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0b2fc55db380",
+      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+      "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T10:12:42.100780+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai người đàn ông bị tử hình vì vụ nổ tại đền Erawan ở Bangkok",
+      "bullets": [
+        "Hai người đàn ông bị kết án tử hình vì vụ nổ tại đền Erawan ở Bangkok",
+        "Vụ nổ năm 2015 đã khiến 20 người thiệt mạng và 120 người bị thương",
+        "Tòa án Thái Lan đã đưa ra phán quyết sau khi xét xử vụ án",
+        "Vụ nổ được coi là một trong những vụ tấn công khủng bố nghiêm trọng nhất ở Thái Lan"
+      ],
+      "full_summary": "Một tòa án ở Thái Lan đã kết án tử hình hai người đàn ông vì liên quan đến vụ nổ tại đền Erawan ở Bangkok vào năm 2015. Vụ nổ đã khiến 20 người thiệt mạng và 120 người bị thương. Đây là một trong những vụ tấn công khủng bố nghiêm trọng nhất ở Thái Lan trong những năm gần đây. Tòa án đã đưa ra phán quyết sau khi xét xử vụ án.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1069bb66b60f",
+      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T10:12:43.182512+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Đội Knicks trở thành ứng cử viên nặng ký cho chức vô địch NBA",
+      "bullets": [
+        "Thắng ngược lớn nhất trong lịch sử NBA Finals",
+        "Đội Knicks chỉ còn một trận để giành chức vô địch",
+        "Cầu thủ Knicks đã thể hiện tinh thần chiến đấu mạnh mẽ",
+        "Hành trình giành chức vô địch của Knicks đang trở nên gần hơn"
+      ],
+      "full_summary": "Đội Knicks đã tạo nên lịch sử khi giành chiến thắng ngược lớn nhất trong lịch sử NBA Finals. Kết quả này đã giúp đội Knicks trở thành ứng cử viên nặng ký cho chức vô địch. Chỉ còn một trận đấu nữa, đội Knicks sẽ có cơ hội giành chức vô địch. Cầu thủ Knicks đã thể hiện tinh thần chiến đấu mạnh mẽ và đã tạo nên một trong những trận đấu đáng nhớ nhất trong lịch sử NBA.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "19809b1e46da",
+      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+      "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T10:12:44.147341+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ca sĩ Olivia Rodrigo nói về nỗi đau tình yêu nhưng đã chọn bài hát cưới",
+      "bullets": [
+        "Nói về khó khăn khi viết bài hát hạnh phúc",
+        "Cảm thấy lo lắng trước khi biểu diễn tại Glastonbury",
+        "Đã chọn bài hát cưới trước khi kết hôn",
+        "Sự nghiệp âm nhạc của Olivia Rodrigo đang phát triển mạnh mẽ"
+      ],
+      "full_summary": "Ca sĩ Olivia Rodrigo đã chia sẻ về khó khăn khi viết bài hát hạnh phúc và cảm thấy lo lắng trước khi biểu diễn tại Glastonbury. Tuy nhiên, cô đã chọn bài hát cưới trước khi kết hôn. Sự nghiệp âm nhạc của Olivia Rodrigo đang phát triển mạnh mẽ và cô đã trở thành một trong những ngôi sao nổi tiếng nhất hiện nay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "97981df5f6c7",
+      "title": "Social media on trial: Four important cases to watch",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T10:12:45.644147+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các công ty mạng xã hội đối mặt với hàng nghìn vụ kiện",
+      "bullets": [
+        "Sẽ xét xử bốn vụ kiện quan trọng liên quan đến các công ty mạng xã hội",
+        "Các vụ kiện liên quan đến việc kiểm soát nội dung, bảo vệ quyền riêng tư và trách nhiệm pháp lý",
+        "Các công ty mạng xã hội có thể phải trả tiền bồi thường và thực hiện các biện pháp cải thiện",
+        "Quyết định của tòa án có thể ảnh hưởng đến tương lai của các công ty mạng xã hội"
+      ],
+      "full_summary": "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện trên toàn thế giới. Các vụ kiện quan trọng sẽ được xét xử trong thời gian tới, liên quan đến việc kiểm soát nội dung, bảo vệ quyền riêng tư và trách nhiệm pháp lý. Các công ty mạng xã hội có thể phải trả tiền bồi thường và thực hiện các biện pháp cải thiện để tránh bị xử lý pháp lý. Kết quả của các vụ kiện này có thể ảnh hưởng đến tương lai của các công ty mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a68e088292c7",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-11T10:12:46.605801+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Một phiên bản AI quá mạnh cho công chúng đã được công bố",
+      "bullets": [
+        "Bị phát hành công khai",
+        "Là phiên bản của chương trình AI Claude Mythos",
+        "Đã gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ"
+      ],
+      "full_summary": "Một phiên bản mới của chương trình AI Claude Mythos, tên là Claude Fable 5, đã được phát hành công khai. Đây là một chương trình AI đã gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ. Mặc dù không rõ lý do tại sao phiên bản này lại được phát hành công khai, nhưng nhiều người cho rằng nó quá mạnh và có thể gây ra những hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "996a14ab87f2",
+      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+      "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-11T10:12:49.431850+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một người đàn ông kiện cảnh sát Florida vì bị bắt giữ do nhận diện khuôn mặt sai",
+      "bullets": [
+        "Cảnh sát Florida cho phép hệ thống nhận diện khuôn mặt lỗi thay thế cho điều tra",
+        "Hệ thống nhận diện khuôn mặt cho kết quả 93% phù hợp nhưng không đủ để bắt giữ",
+        "Cảnh sát bỏ qua các bằng chứng khác để dựa vào kết quả nhận diện khuôn mặt",
+        "Người đàn ông này đang kiện cảnh sát vì bị bắt giữ không đúng"
+      ],
+      "full_summary": "Một người đàn ông ở Florida đang kiện cảnh sát vì bị bắt giữ do hệ thống nhận diện khuôn mặt lỗi. Hệ thống này cho kết quả 93% phù hợp với hình ảnh của người đàn ông này, nhưng cảnh sát bỏ qua các bằng chứng khác để dựa vào kết quả nhận diện khuôn mặt. Người đàn ông này cho rằng cảnh sát cho phép hệ thống nhận diện khuôn mặt lỗi thay thế cho điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c3fe22c9b024",
+      "title": "Web Browsers on Video Game Consoles",
+      "url": "https://vale.rocks/posts/game-console-browsers",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-11T10:12:53.429899+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Trình duyệt web trên các máy chơi game",
+      "bullets": [
+        "Cung cấp trải nghiệm duyệt web trên các máy chơi game",
+        "Một số trình duyệt web đã được phát triển cho các máy chơi game",
+        "Tăng cường tính đa năng cho các máy chơi game"
+      ],
+      "full_summary": "Các nhà phát triển đã tạo ra các trình duyệt web cho các máy chơi game, cho phép người dùng truy cập internet và sử dụng các ứng dụng web trên các thiết bị chơi game. Điều này tăng cường tính đa năng cho các máy chơi game và mở ra nhiều khả năng mới cho người dùng. Tuy nhiên, việc sử dụng trình duyệt web trên các máy chơi game vẫn còn hạn chế và cần được cải thiện.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1c8398cd510e",
       "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
@@ -633,165 +791,6 @@
         "Các công ty toàn cầu có thể không biết rằng họ đang mua khoáng chất từ phe nổi loạn"
       ],
       "full_summary": "Một cuộc điều tra mới của Global Witness cho rằng các thương hiệu toàn cầu như Amazon, Ericsson và Sony có thể đã mua coltan từ chuỗi cung ứng do phe M23 kiểm soát ở Cộng hòa Dân chủ Congo (DRC). Phe M23 bị cáo buộc có liên quan đến tội ác chiến tranh, bạo lực và tội ác ở đông DRC. Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại, và các công ty toàn cầu có thể không biết rằng họ đang mua khoáng chất từ phe nổi loạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c6e7c2b66339",
-      "title": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela",
-      "url": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T09:44:00.801079+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Bìa quảng cáo Nicolás Maduro bị che phủ tại Venezuela",
-      "bullets": [
-        "Các bảng quảng cáo được sơn lại",
-        "Cựu đồng minh của Maduro cố gắng quên đi ông",
-        "Các sản phẩm quảng cáo về Maduro bị loại bỏ khỏi thị trường",
-        "Venezuela đang cố gắng xóa bỏ hình ảnh của Maduro"
-      ],
-      "full_summary": "Tại Venezuela, hình ảnh Nicolás Maduro đang dần biến mất khỏi các bảng quảng cáo và sản phẩm quảng cáo. Các cựu đồng minh của ông đang cố gắng quên đi ông, trong khi các nhà sản xuất đang loại bỏ các sản phẩm quảng cáo về Maduro khỏi thị trường. Điều này cho thấy Venezuela đang cố gắng xóa bỏ hình ảnh của Maduro sau nhiều năm cai trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ef10ec0d766a",
-      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T02:44:45.465170+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Phản công của quân đội Myanmar khiến phe nổi dậy mất dần thế",
-      "bullets": [
-        "Quân đội Myanmar đẩy quân nổi dậy ra khỏi nhiều khu vực",
-        "Phe nổi dậy đang mất dần ưu thế trên chiến trường",
-        "Quân đội Myanmar sử dụng nhiều chiến thuật để giành lại thế",
-        "Phe nổi dậy đang phải đối mặt với nhiều khó khăn"
-      ],
-      "full_summary": "BBC đã theo dõi quân nổi dậy đến các vị trí tiền tuyến ở Myanmar để xem chiến tranh đang diễn ra như thế nào. Quân đội Myanmar đang đẩy quân nổi dậy ra khỏi nhiều khu vực, khiến họ mất dần ưu thế trên chiến trường. Quân đội Myanmar sử dụng nhiều chiến thuật để giành lại thế, bao gồm cả việc sử dụng máy bay và pháo binh. Phe nổi dậy đang phải đối mặt với nhiều khó khăn, bao gồm cả việc thiếu vũ khí và hậu cần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7805b3bf24c9",
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T02:44:47.488961+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "TSMC không loại trừ việc tăng giá chip do chi phí tăng cao",
-      "bullets": [
-        "Tăng chi phí sản xuất chip dẫn đến khả năng tăng giá",
-        "Sự bùng nổ của trí tuệ nhân tạo gây áp lực lên nguồn cung chip",
-        "TSMC không thể tránh khỏi ảnh hưởng của chiến tranh thương mại và địa chính trị",
-        "Giá điện tử có thể tăng cao hơn do nguồn cung chip hạn chế"
-      ],
-      "full_summary": "Trong cuộc phỏng vấn hiếm hoi, một giám đốc cấp cao của TSMC đã thảo luận về bùng nổ trí tuệ nhân tạo, địa chính trị của chip và tác động của nó đối với giá điện tử. TSMC không loại trừ khả năng tăng giá chip do chi phí sản xuất tăng cao. Sự bùng nổ của trí tuệ nhân tạo gây áp lực lên nguồn cung chip, khiến giá điện tử có thể tăng cao hơn. TSMC không thể tránh khỏi ảnh hưởng của chiến tranh thương mại và địa chính trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2041f93e6ecb",
-      "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T02:44:48.374074+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Anh và đồng minh trừng phạt các mạng lưới hỗ trợ bạo lực định cư ở Tây Ban Nha",
-      "bullets": [
-        "Trừng phạt các mạng lưới hỗ trợ bạo lực định cư ở Tây Ban Nha",
-        "Pháp cấm Bộ trưởng Israel cực hữu Bezalel Smotrich nhập cảnh",
-        "Israel lên án biện pháp này là 'kịch liệt'",
-        "Các biện pháp trừng phạt nhằm ngăn chặn bạo lực định cư"
-      ],
-      "full_summary": "Anh và các đồng minh đã trừng phạt các mạng lưới hỗ trợ bạo lực định cư ở Tây Ban Nha. Pháp cũng đã cấm Bộ trưởng Israel cực hữu Bezalel Smotrich nhập cảnh. Israel đã lên án biện pháp này là 'kịch liệt'. Các biện pháp trừng phạt nhằm ngăn chặn bạo lực định cư ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a3f72e4af9b",
-      "title": "Kalshi to make some users reveal job details to tackle insider trading",
-      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T02:44:49.310645+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Kalshi thêm quy định mới để ngăn chặn giao dịch nội gián",
-      "bullets": [
-        "Kalshi sẽ yêu cầu một số người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
-        "Mục tiêu của quy định mới là ngăn chặn giao dịch nội gián trên nền tảng",
-        "Quy định mới sẽ áp dụng cho một số người dùng, không phải tất cả",
-        "Kalshi đang cố gắng ngăn chặn các vấn đề liên quan đến giao dịch nội gián"
-      ],
-      "full_summary": "Kalshi, một nền tảng đặt cược dự đoán, đang thêm quy định mới để ngăn chặn giao dịch nội gián. Mục tiêu của quy định mới là ngăn chặn giao dịch nội gián trên nền tảng. Kalshi sẽ yêu cầu một số người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián. Quy định mới sẽ áp dụng cho một số người dùng, không phải tất cả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "43b97996d22c",
-      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T02:44:51.543401+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông bị bắn chết trong cuộc biểu tình chống cơ sở cách ly Ebola của Mỹ tại Kenya",
-      "bullets": [
-        "Bị bắn chết trong cuộc biểu tình",
-        "Cơ sở cách ly Ebola được Mỹ đề xuất tại Kenya",
-        "Cảnh sát đã bắn vào người biểu tình",
-        "Tình trạng căng thẳng đang gia tăng"
-      ],
-      "full_summary": "Một người đàn ông đã bị bắn chết trong một cuộc biểu tình tại Nanyuki, Kenya, khi cảnh sát đã cố gắng dập tắt cuộc biểu tình chống lại cơ sở cách ly Ebola mà Mỹ đề xuất. Cơ sở này sẽ được xây dựng để cách ly những người Mỹ có nguy cơ mắc bệnh Ebola. Patrick Wahome, người tổ chức các cuộc biểu tình, cho biết người đàn ông đã bị bắn vào đầu và đã qua đời. Cảnh sát đã đưa thi thể của người đàn ông vào một chiếc xe cảnh sát.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7d1f3e342dc6",
-      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-10T02:44:55.343701+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft sửa lỗi 0-day mà nhà nghiên cứu Nightmare Eclipse tiết lộ",
-      "bullets": [
-        "Microsoft đã sửa lỗi 0-day mà Nightmare Eclipse tiết lộ",
-        "Một lỗi 0-day khác cũng được Nightmare Eclipse tiết lộ đã được sửa",
-        "Microsoft và Nightmare Eclipse đang trong cuộc cạnh tranh gay gắt",
-        "Microsoft đã nhanh chóng sửa lỗi để tránh thiệt hại"
-      ],
-      "full_summary": "Microsoft đã sửa lỗi 0-day mà nhà nghiên cứu Nightmare Eclipse tiết lộ, giúp ngăn chặn các cuộc tấn công mạng. Cuộc cạnh tranh giữa Microsoft và Nightmare Eclipse đang trở nên gay gắt khi cả hai bên đều cố gắng tiết lộ lỗi và sửa lỗi trước. Một lỗi 0-day khác cũng được Nightmare Eclipse tiết lộ đã được Microsoft sửa. Điều này cho thấy sự nhanh chóng và hiệu quả của Microsoft trong việc sửa lỗi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f17912fbd94e",
-      "title": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-10T02:45:00.203647+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple phát triển máy ảo macOS Container",
-      "bullets": [
-        "Tạo ra môi trường ảo hóa cho macOS",
-        "Cải thiện khả năng bảo mật và quản lý",
-        "Hỗ trợ đa nền tảng và dễ dàng triển khai"
-      ],
-      "full_summary": "Apple đã phát triển một hệ thống máy ảo mới cho macOS, được gọi là Container Machine. Hệ thống này cho phép tạo ra môi trường ảo hóa cho macOS, cải thiện khả năng bảo mật và quản lý. Nó cũng hỗ trợ đa nền tảng và dễ dàng triển khai. Hệ thống này có thể được sử dụng để tạo ra các môi trường ảo hóa cho các ứng dụng và dịch vụ khác nhau.",
       "comments": 0,
       "score": 0
     }
