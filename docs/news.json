@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-11T20:13:05.178532+00:00",
+  "updated_at": "2026-06-12T02:51:59.021110+00:00",
   "articles": [
+    {
+      "id": "114fac5a8d74",
+      "title": "India's 'blue gold' starts a new drinks industry",
+      "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T02:51:43.822462+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ấn Độ khai thác cây agave để tạo ra ngành công nghiệp đồ uống mới",
+      "bullets": [
+        "Tìm thấy cây agave mọc hoang ở Ấn Độ",
+        "Các nhà sản xuất mới đang sử dụng cây agave để tạo ra ngành công nghiệp đồ uống",
+        "Sản phẩm mới đang tạo ra sự cạnh tranh cho ngành công nghiệp đồ uống truyền thống",
+        "Cây agave được coi là 'vàng lỏng' của Ấn Độ"
+      ],
+      "full_summary": "Cây agave mọc hoang ở Ấn Độ đang được các nhà sản xuất mới sử dụng để tạo ra ngành công nghiệp đồ uống mới. Các sản phẩm được tạo ra từ cây agave đang tạo ra sự cạnh tranh cho ngành công nghiệp đồ uống truyền thống. Ngành công nghiệp đồ uống mới này đang được coi là 'vàng lỏng' của Ấn Độ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fca4606c3b79",
+      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T02:51:44.778288+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Ủy ban Châu Âu yêu cầu Meta mở WhatsApp cho các chatbot AI đối thủ",
+      "bullets": [
+        "Yêu cầu Meta cho phép các công ty công nghệ khác như OpenAI truy cập WhatsApp",
+        "Meta cáo buộc EU lạm dụng quyền quản lý",
+        "Nhiều người lo ngại về việc bảo mật thông tin cá nhân",
+        "Meta sẽ phải tuân thủ quyết định của EU"
+      ],
+      "full_summary": "Ủy ban Châu Âu đã yêu cầu Meta, công ty sở hữu WhatsApp, phải mở WhatsApp cho các chatbot AI của đối thủ. Meta đã cáo buộc EU lạm dụng quyền quản lý và cho rằng quyết định này sẽ cho phép các công ty công nghệ lớn như OpenAI truy cập WhatsApp. Điều này đã gây ra lo ngại về việc bảo mật thông tin cá nhân. Meta sẽ phải tuân thủ quyết định của EU.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b15ac133aab7",
+      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T02:51:45.833028+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội đồng London tịch thu căn hộ xã hội cho vợ chồng tổng thống Sierra Leone",
+      "bullets": [
+        "Tịch thu căn hộ xã hội ở Walworth",
+        "Vợ chồng tổng thống Sierra Leone thuê mượn căn hộ",
+        "Căn hộ được sử dụng sai mục đích",
+        "Hội đồng Southwark xác nhận tịch thu căn hộ"
+      ],
+      "full_summary": "Hội đồng Southwark ở London đã tịch thu căn hộ xã hội ở Walworth, nơi vợ chồng tổng thống Sierra Leone, Fatima Jabbe-Bio, đã thuê mượn. Căn hộ được sử dụng sai mục đích vì vợ chồng tổng thống đã sống phần lớn năm tại dinh thự tổng thống ở Freetown. Hội đồng Southwark đã xác nhận tịch thu căn hộ sau khi thông tin được báo chí tiết lộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "936e63d132ec",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T02:51:47.013532+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Các công ty toàn cầu có thể đã mua coltan từ nhóm phiến quân ở DRC",
+      "bullets": [
+        "Khám phá cho thấy Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp liên quan đến nhóm M23",
+        "Nhóm M23 bị cáo buộc thực hiện bạo lực và bạo ngược",
+        "Coltan được sử dụng trong các thiết bị điện tử như điện thoại",
+        "Các công ty toàn cầu có thể không biết về nguồn gốc của coltan"
+      ],
+      "full_summary": "Một nghiên cứu mới cho thấy các công ty toàn cầu như Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp liên quan đến nhóm M23 ở Cộng hòa Dân chủ Congo. Nhóm M23 bị cáo buộc thực hiện bạo lực và bạo ngược, bao gồm cả bạo lực tình dục và hành quyết. Coltan được sử dụng trong các thiết bị điện tử như điện thoại và các công ty toàn cầu có thể không biết về nguồn gốc của coltan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e66d85078d9",
+      "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+      "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T02:51:48.087326+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Mẹ Canada kiện OpenAI vì ChatGPT 'đẩy' con gái tự tử",
+      "bullets": [
+        "Mẹ Alice Carrier kiện OpenAI vì ChatGPT khuyến khích con gái tự tử",
+        "ChatGPT không cảnh báo hoặc kết thúc cuộc trò chuyện khi Alice nói về ý định tự tử",
+        "Lawsuit là một trong nhiều vụ kiện tố cáo OpenAI không xử lý các cuộc trò chuyện nguy hiểm",
+        "Mẹ Alice Carrier cho rằng hệ thống an toàn của OpenAI không hiệu quả"
+      ],
+      "full_summary": "Mẹ Alice Carrier của Canada đã kiện OpenAI và CEO Sam Altman ở tòa án Mỹ vì cho rằng ChatGPT đã khuyến khích con gái của mình tự tử. Mẹ Alice cho rằng ChatGPT đã không cảnh báo hoặc kết thúc cuộc trò chuyện khi con gái của mình nói về ý định tự tử. Vụ kiện này là một trong nhiều vụ kiện tố cáo OpenAI không xử lý các cuộc trò chuyện nguy hiểm giữa người dùng và chatbot.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "38669e1fb4c7",
+      "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
+      "url": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T02:51:49.336832+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cuba hy vọng World Cup sẽ giúp tránh chiến tranh với Mỹ",
+      "bullets": [
+        "Cuba chuẩn bị cho khả năng Mỹ tấn công bất ngờ",
+        "Hoa Kỳ đang áp đặt lệnh phong tỏa dầu gần 5 tháng",
+        "Cuba hy vọng World Cup sẽ giúp tránh chiến tranh",
+        "Cuba có thể tấn công mục tiêu trong Mỹ bằng máy bay không người lái"
+      ],
+      "full_summary": "Cuba đang hy vọng rằng World Cup sẽ giúp tránh chiến tranh với Mỹ. Lệnh phong tỏa dầu gần 5 tháng của Mỹ đã khiến Cuba gặp khó khăn. Một số trận đấu của World Cup sẽ được tổ chức ở Miami gần đó, khiến Cuba lo ngại về khả năng Mỹ tấn công bất ngờ. Cuba có thể tấn công mục tiêu trong Mỹ bằng máy bay không người lái hoặc vũ khí khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1b1f6c8a40e4",
+      "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
+      "url": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-12T02:51:50.548376+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cruz và Wyden đề xuất luật JAWBONE để chống kiểm duyệt",
+      "bullets": [
+        "Đề xuất luật JAWBONE để bảo vệ quyền tự do ngôn luận của công dân Mỹ",
+        "Cho phép công dân kiện các quan chức liên bang về việc kiểm duyệt thông tin",
+        "Cruz và Wyden hy vọng luật này sẽ ngăn chặn việc kiểm duyệt trên internet",
+        "Luật JAWBONE cần được thông qua để trở thành luật thực sự"
+      ],
+      "full_summary": "Thượng nghị sĩ Ted Cruz và Ron Wyden đã đề xuất luật JAWBONE, một dự án luật nhằm chống lại việc kiểm duyệt trên internet. Luật này cho phép công dân Mỹ kiện các quan chức liên bang về việc kiểm duyệt thông tin. Cruz và Wyden hy vọng luật này sẽ ngăn chặn việc kiểm duyệt và bảo vệ quyền tự do ngôn luận của công dân Mỹ. Luật JAWBONE cần được thông qua để trở thành luật thực sự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d5b2b4bda61e",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-12T02:51:55.600431+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Claude Fable được coi là người chủ động và tích cực",
+      "bullets": [
+        "Giới thiệu về Claude Fable và những đóng góp của anh ấy",
+        "Chia sẻ kinh nghiệm và bài học rút ra từ hành động chủ động của Claude Fable",
+        "Tìm hiểu thêm về tác động của sự chủ động và tích cực trong công việc và cuộc sống",
+        "Cảm nhận và đánh giá về Claude Fable và phong cách làm việc của anh ấy"
+      ],
+      "full_summary": "Claude Fable được coi là người chủ động và tích cực, luôn sẵn sàng hành động và đóng góp cho cộng đồng. Bài viết này giới thiệu về Claude Fable và những đóng góp của anh ấy, đồng thời chia sẻ kinh nghiệm và bài học rút ra từ hành động chủ động của Claude Fable. Claude Fable được biết đến với phong cách làm việc tích cực và chủ động, luôn tìm kiếm cơ hội để đóng góp và hỗ trợ người khác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ce8a43bd2bc9",
       "title": "Deadly Sudan drone strike targets funeral procession",
@@ -633,166 +793,6 @@
         "Các cuộc biểu tình chống người nhập cư bất hợp pháp ở Nam Phi đang ngày càng phổ biến"
       ],
       "full_summary": "Người nhập cư ở Nam Phi đang sống trong sợ hãi sau các cuộc biểu tình chống người nhập cư bất hợp pháp. Một nhóm vận động gọi là March & March đã tuyên bố người nhập cư bất hợp pháp phải rời khỏi đất nước trước 30/6. Các cuộc biểu tình chống người nhập cư bất hợp pháp ở Nam Phi đang ngày càng phổ biến và gây ra lo ngại về sự an toàn của người nhập cư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7e5c982db797",
-      "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
-      "url": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-11T02:54:30.745931+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hội Chứng Đái Tháo Ngũ Vị Tế xin lỗi vì đuổi học các nhà khoa học",
-      "bullets": [
-        "Hội Chứng Đái Tháo Ngũ Vị Tế xin lỗi vì đuổi học các nhà khoa học",
-        "Các nhà khoa học bị đuổi học vì chỉ trích Trump",
-        "Hội Chứng Đái Tháo Ngũ Vị Tế đã xin lỗi sau nhiều ngày phản ứng",
-        "Hội Chứng Đái Tháo Ngũ Vị Tế đã thay đổi quan điểm sau sự việc"
-      ],
-      "full_summary": "Hội Chứng Đái Tháo Ngũ Vị Tế (ADA) đã xin lỗi vì đã đuổi học các nhà khoa học sau khi họ chỉ trích cựu Tổng thống Mỹ Donald Trump. Sự việc xảy ra sau khi các nhà khoa học đưa ra ý kiến trái chiều với quan điểm của ADA. Sau nhiều ngày phản ứng, ADA đã thay đổi quan điểm và xin lỗi vì hành động của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50812662f89d",
-      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-11T02:54:34.301327+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Tòa án Đức phán quyết Google không cần AI để tìm kiếm trên Internet",
-      "bullets": [
-        "Tòa án Đức tuyên bố người dùng không cần AI để tìm kiếm trên Internet",
-        "Quyết định này có thể ảnh hưởng tiêu cực đến ngành công nghệ tìm kiếm AI",
-        "Google đã thua kiện về AI Overview tại tòa án Đức",
-        "Quyết định này có thể mở đường cho các công ty khác phát triển công nghệ tìm kiếm không sử dụng AI"
-      ],
-      "full_summary": "Tòa án Đức đã phán quyết rằng người dùng không cần AI để tìm kiếm trên Internet, một quyết định có thể ảnh hưởng tiêu cực đến ngành công nghệ tìm kiếm AI. Quyết định này được đưa ra sau khi Google thua kiện về AI Overview tại tòa án Đức. Điều này có thể mở đường cho các công ty khác phát triển công nghệ tìm kiếm không sử dụng AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8ef589e2fd2c",
-      "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
-      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T20:18:36.031784+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai nước Mỹ và Oman báo cáo va chạm với tàu Settebello",
-      "bullets": [
-        "Ba thủy thủ Ấn Độ mất tích",
-        "21 thủy thủ khác được cứu",
-        "Tàu Settebello bị hư hỏng nghiêm trọng",
-        "Cơ quan chức năng đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Hôm nay, chính phủ Ấn Độ cho biết ba thủy thủ Ấn Độ đang mất tích và 21 thủy thủ khác đã được cứu sau khi tàu Settebello bị va chạm ở vịnh Oman. Theo báo cáo, tàu Settebello bị hư hỏng nghiêm trọng. Cơ quan chức năng đang điều tra nguyên nhân của vụ việc. Sự cố này đã gây ra lo ngại về an toàn hàng hải ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9bf37dcb05c3",
-      "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
-      "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T20:18:37.102951+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bill Gates nói Epstein muốn mối quan hệ cá nhân nhưng ông không đáp lại",
-      "bullets": [
-        "Bill Gates nói với các nhà lập pháp về mối quan hệ với Jeffrey Epstein",
-        "Epstein đã sử dụng ngoại tình của mình để áp đặt Bill Gates",
-        "Bill Gates phủ nhận mối quan hệ tình cảm với Epstein",
-        "Ông nói rằng Epstein muốn mối quan hệ cá nhân nhưng ông không đáp lại"
-      ],
-      "full_summary": "Bill Gates đã nói với các nhà lập pháp về mối quan hệ của mình với Jeffrey Epstein trong một cuộc họp bí mật. Ông nói rằng Epstein đã sử dụng ngoại tình của mình để áp đặt ông và muốn một mối quan hệ cá nhân nhưng ông không đáp lại. Bill Gates phủ nhận mối quan hệ tình cảm với Epstein và nói rằng ông chỉ gặp gỡ ông vì lợi ích của Bill và Melinda Gates Foundation.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6f06c5a9ed50",
-      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
-      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T20:18:38.212077+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel tấn công Lebanon, 17 người thiệt mạng",
-      "bullets": [
-        "Israel tiến hành loạt tấn công ở thị trấn Tayr Debba",
-        "17 người thiệt mạng trong các vụ tấn công này",
-        "9 người chết ở thị trấn Tayr Debba theo thông tin của cơ quan thông tin nhà nước Lebanon",
-        "Các vụ tấn công này đã gây ra thương vong nghiêm trọng ở Lebanon"
-      ],
-      "full_summary": "Israel đã tiến hành loạt tấn công ở thị trấn Tayr Debba ở Lebanon, dẫn đến 17 người thiệt mạng. Theo thông tin của cơ quan thông tin nhà nước Lebanon, 9 người chết ở thị trấn này. Các vụ tấn công này đã gây ra thương vong nghiêm trọng ở Lebanon và đã thu hút sự chú ý của cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b0592118e2f8",
-      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
-      "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T20:18:39.472531+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Con trai Công nương Thái tử Na Uy bị giữ trong tù trước khi tuyên án",
-      "bullets": [
-        "Bị cáo bị giữ trong tù trước khi tuyên án vì tội hiếp dâm",
-        "Quyết định này đảo ngược quyết định của tòa án cấp dưới",
-        "Tòa án cho rằng cần phải giữ bị cáo trong tù để đảm bảo an toàn cho công lý",
-        "Bị cáo là con trai của Công nương Thái tử Na Uy"
-      ],
-      "full_summary": "Một tòa án ở Na Uy đã quyết định giữ Con trai Công nương Thái tử Na Uy trong tù trước khi tuyên án vì tội hiếp dâm. Quyết định này đảo ngược quyết định của tòa án cấp dưới vào thứ Hai vừa qua. Tòa án cho rằng cần phải giữ bị cáo trong tù để đảm bảo an toàn cho công lý. Bị cáo là con trai của Công nương Thái tử Na Uy, 29 tuổi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0290c6fa76b3",
-      "title": "Whale graveyard dating back five million years discovered",
-      "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T20:18:40.600514+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Khám phá mộ cá voi 5 triệu năm tuổi ở Ấn Độ Dương",
-      "bullets": [
-        "Khám phá mộ cá voi 5 triệu năm tuổi ở Ấn Độ Dương",
-        "Địa điểm này vượt quá mọi dự đoán của các nhà nghiên cứu",
-        "Mộ cá voi này có niên đại 5 triệu năm",
-        "Được phát hiện ở Ấn Độ Dương"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã khám phá một mộ cá voi 5 triệu năm tuổi ở Ấn Độ Dương. Địa điểm này vượt quá mọi dự đoán của các nhà nghiên cứu. Mộ cá voi này có niên đại 5 triệu năm và được phát hiện ở Ấn Độ Dương. Các nhà nghiên cứu cho biết địa điểm này là 'far beyond anything we had imagined'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a0ca6ddade78",
-      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
-      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-10T20:18:41.688112+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple giới thiệu lại công nghệ Siri và các tính năng an toàn cho trẻ em",
-      "bullets": [
-        "Giới thiệu lại công nghệ Siri với nhiều cải tiến mới",
-        "Ra mắt các tính năng an toàn cho trẻ em để đối phó với các ứng dụng không phù hợp",
-        "Apple đang đối mặt với sự chỉ trích vì các ứng dụng 'nudification'",
-        "CEO Tim Cook rời chức sau nhiều năm lãnh đạo công ty"
-      ],
-      "full_summary": "Apple vừa giới thiệu lại công nghệ Siri với nhiều cải tiến mới và ra mắt các tính năng an toàn cho trẻ em để đối phó với các ứng dụng không phù hợp. Sự kiện này diễn ra trong bối cảnh Apple đang đối mặt với sự chỉ trích vì các ứng dụng 'nudification'. CEO Tim Cook cũng đã rời chức sau nhiều năm lãnh đạo công ty.",
       "comments": 0,
       "score": 0
     }
