@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-12T14:42:32.099816+00:00",
+  "updated_at": "2026-06-12T19:59:35.000108+00:00",
   "articles": [
+    {
+      "id": "d39ca70fba0e",
+      "title": "Iran says deal to end fighting with US has 'never been closer'",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T19:59:20.545185+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hợp đồng kết thúc xung đột với Mỹ đang gần hơn bao giờ hết",
+      "bullets": [
+        "Iran tuyên bố thỏa thuận kết thúc xung đột với Mỹ đang gần hơn bao giờ hết",
+        "Pakistan cũng đồng ý với tuyên bố này",
+        "Hai quốc gia này đang nỗ lực tìm kiếm một giải pháp hòa bình",
+        "Thỏa thuận này được cho là sẽ giúp giảm căng thẳng giữa Iran và Mỹ"
+      ],
+      "full_summary": "Iran và Pakistan vừa tuyên bố thỏa thuận kết thúc xung đột với Mỹ đang gần hơn bao giờ hết. Điều này được cho là do nỗ lực tìm kiếm một giải pháp hòa bình của hai quốc gia này. Thỏa thuận này được cho là sẽ giúp giảm căng thẳng giữa Iran và Mỹ, nhưng vẫn chưa rõ khi nào thỏa thuận này sẽ được ký kết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "109b664f83e0",
+      "title": "French town buries murdered child as questions mount over police failings",
+      "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T19:59:21.462020+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một nghi phạm bị nghi giết cháu bé 11 tuổi không được điều tra",
+      "bullets": [
+        "Một nghi phạm bị nghi giết cháu bé 11 tuổi đã bị báo cáo cho cảnh sát 9 tháng trước",
+        "Nghi phạm không được hỏi cung dù cảnh sát đã nhận được tin báo",
+        "Cảnh sát đang chịu áp lực vì những sai lầm trong quá trình điều tra",
+        "Cháu bé bị giết đã được chôn cất trong một nghi lễ tang lễ"
+      ],
+      "full_summary": "Một nghi phạm bị nghi giết cháu bé 11 tuổi đã bị báo cáo cho cảnh sát 9 tháng trước nhưng không được hỏi cung. Cảnh sát đang chịu áp lực vì những sai lầm trong quá trình điều tra. Cháu bé bị giết đã được chôn cất trong một nghi lễ tang lễ. Sự cố này đã gây ra sự phẫn nộ trong cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "03563236416d",
+      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T19:59:22.413007+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu Thủ tướng Tây Ban Nha bị nghi ngờ về việc nhập khẩu trang sức",
+      "bullets": [
+        "Bị nghi ngờ không thể chứng minh đã nộp thuế nhập khẩu",
+        "Trang sức trị giá 1,2 triệu euro được phát hiện",
+        "Cơ quan điều tra mở cuộc điều tra mới",
+        "Cựu Thủ tướng Tây Ban Nha là José Luis Rodriguez Zapatero"
+      ],
+      "full_summary": "Cựu Thủ tướng Tây Ban Nha José Luis Rodriguez Zapatero đang bị nghi ngờ về việc nhập khẩu trang sức trị giá 1,2 triệu euro mà không nộp thuế. Cơ quan điều tra đã phát hiện trang sức này và mở cuộc điều tra mới. Cựu Thủ tướng Tây Ban Nha đang phải đối mặt với cáo buộc vi phạm quy định về thuế nhập khẩu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3760ea9b727f",
+      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T19:59:24.386890+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Taylor Swift gia nhập Đại sảnh Danh vọng Nhạc sĩ",
+      "bullets": [
+        "Taylor Swift được vinh danh vào Đại sảnh Danh vọng Nhạc sĩ",
+        "Cô trở thành phụ nữ trẻ nhất được nhận vinh danh này",
+        "Taylor Swift cảm ơn gia đình vì sự ủng hộ",
+        "Bà đã phát biểu một bài nói chuyện 21 phút đầy cảm xúc"
+      ],
+      "full_summary": "Taylor Swift đã được vinh danh vào Đại sảnh Danh vọng Nhạc sĩ, trở thành phụ nữ trẻ nhất được nhận vinh danh này. Trong bài nói chuyện đầy cảm xúc 21 phút, cô đã cảm ơn gia đình vì sự ủng hộ. Taylor Swift đã trở thành một trong những nghệ sĩ nổi tiếng nhất thế giới và đã giành được nhiều giải thưởng trong sự nghiệp của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d124c9ec786d",
+      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+      "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T19:59:25.358600+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mẹ tìm thấy thi thể con trai mất tích sau cuộc biểu tình Ebola tại Kenya",
+      "bullets": [
+        "Một người đàn ông Kenya đã mất tích sau khi đi mua áo đồng phục học",
+        "Mẹ của anh ta đã tìm thấy thi thể con trai mình hai ngày sau",
+        "Các cuộc biểu tình đã diễn ra tại trung tâm cách ly Ebola ở Kenya",
+        "Sự cố này đã gây ra lo ngại về an ninh và sức khỏe công cộng"
+      ],
+      "full_summary": "Một người đàn ông Kenya đã mất tích sau khi đi mua áo đồng phục học. Mẹ của anh ta đã tìm thấy thi thể con trai mình hai ngày sau. Các cuộc biểu tình đã diễn ra tại trung tâm cách ly Ebola ở Kenya, gây ra lo ngại về an ninh và sức khỏe công cộng. Sự cố này đã xảy ra trong bối cảnh Kenya đang đối phó với dịch Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "97981df5f6c7",
+      "title": "Social media on trial: Four important cases to watch",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T19:59:26.326341+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mạng xã hội phải đối mặt với hàng nghìn vụ kiện",
+      "bullets": [
+        "Cơ quan điều tra Mỹ đang điều tra Meta vì vi phạm quy định bảo mật thông tin",
+        "Hội đồng châu Âu đã kiện Meta vì vi phạm quy định bảo vệ dữ liệu cá nhân",
+        "Tòa án Anh đã ra quyết định buộc Meta phải trả tiền cho các nhà phát triển ứng dụng",
+        "Cơ quan quản lý truyền thông Trung Quốc đang điều tra TikTok vì vi phạm quy định nội dung"
+      ],
+      "full_summary": "Các công ty mạng xã hội đang phải đối mặt với hàng nghìn vụ kiện. Cơ quan điều tra Mỹ đang điều tra Meta vì vi phạm quy định bảo mật thông tin. Hội đồng châu Âu đã kiện Meta vì vi phạm quy định bảo vệ dữ liệu cá nhân. Các vụ kiện này có thể ảnh hưởng đến hoạt động kinh doanh và hình ảnh của các công ty mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a68e088292c7",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T19:59:27.190961+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Một phiên bản AI quá mạnh cho công chúng được công bố",
+      "bullets": [
+        "Cung cấp phiên bản Claude Fable 5 của Anthropic",
+        "Phiên bản này gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ",
+        "Cung cấp khả năng xử lý thông tin mạnh mẽ",
+        "Được công bố cho công chúng"
+      ],
+      "full_summary": "Anthropic đã công bố phiên bản Claude Fable 5 của AI, một chương trình gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ. Phiên bản này được cho là quá mạnh cho công chúng. Claude Fable 5 là một phiên bản của chương trình AI Mythos của Anthropic. Chương trình này có khả năng xử lý thông tin mạnh mẽ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6cbd86e9edee",
+      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-12T19:59:30.942625+00:00",
+      "category": "politics|other",
+      "importance": 4,
+      "headline": "Ukraine thử nghiệm máy bay không người lái tự động giết lính Nga",
+      "bullets": [
+        "Thử nghiệm tự động hóa máy bay không người lái của Ukraine thành công",
+        "Máy bay không người lái tự động được trang bị module trí tuệ nhân tạo",
+        "Mục tiêu của Ukraine là tăng cường khả năng tự động hóa trong quân đội",
+        "Ukraine đang lắp đặt module AI trên máy bay không người lái và robot"
+      ],
+      "full_summary": "Ukraine đã thử nghiệm thành công việc tự động hóa máy bay không người lái để tấn công lính Nga. Trong thử nghiệm này, máy bay không người lái tự động đã được trang bị module trí tuệ nhân tạo để thực hiện nhiệm vụ. Mục tiêu của Ukraine là tăng cường khả năng tự động hóa trong quân đội để có thể thực hiện các nhiệm vụ phức tạp hơn. Việc này cũng giúp Ukraine tiết kiệm thời gian và nguồn lực.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "35068ed7d6f7",
       "title": "More time needed for deadly Air India crash inquiry, officials say",
@@ -634,166 +794,6 @@
         "Căng thẳng về nguồn nước và thực phẩm"
       ],
       "full_summary": "Các nhà khoa học Mỹ cho biết El Niño đã chính thức bắt đầu, cảnh báo thời tiết cực đoan và nhiệt độ cao hơn. Điều này có thể dẫn đến tăng cường các cơn bão và lũ lụt, gây thiệt hại cho các khu vực nông nghiệp và dân cư. Ngoài ra, El Niño cũng có thể gây suy thoái kinh tế và căng thẳng về nguồn nước và thực phẩm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6a3022fcf17d",
-      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:19.787203+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Vice Tổng thống Mỹ chỉ trích Thủ tướng Israel vì cách hành xử",
-      "bullets": [
-        "Vice Tổng thống Mỹ chỉ trích Thủ tướng Israel vì cách hành xử quá quyết liệt",
-        "Thủ tướng Israel Netanyahu không luôn đồng ý với quan điểm của Mỹ",
-        "Vice Tổng thống Mỹ nói quan điểm của Israel không phải lúc nào cũng phù hợp với Mỹ",
-        "Cả hai nước đang có quan điểm khác nhau về cách bảo vệ lợi ích"
-      ],
-      "full_summary": "Vice Tổng thống Mỹ đã chỉ trích Thủ tướng Israel vì cách hành xử quá quyết liệt khi bảo vệ lợi ích của nước mình. Ông nói rằng Thủ tướng Netanyahu không luôn đồng ý với quan điểm của Mỹ. Điều này cho thấy cả hai nước đang có quan điểm khác nhau về cách bảo vệ lợi ích. Việc này có thể gây ra những khó khăn trong quan hệ giữa hai nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "800f471c5847",
-      "title": "Artan to referee Uefa Super Cup after losing World Cup spot",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:20.739630+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Hạ hạng, Omar Artan vẫn được chọn trọng tài Uefa Super Cup",
-      "bullets": [
-        "Được chọn trọng tài Uefa Super Cup",
-        "Thua World Cup",
-        "Sẽ trọng tài trận đấu giữa Paris St-Germain và Aston Villa",
-        "Là một trọng tài Somalia"
-      ],
-      "full_summary": "Omar Artan, một trọng tài Somalia, đã được chọn trọng tài trận đấu Uefa Super Cup giữa Paris St-Germain và Aston Villa sau khi không được chọn tham dự World Cup. Điều này diễn ra sau khi Artan bị loại khỏi danh sách trọng tài World Cup. Artan sẽ có cơ hội chứng minh khả năng của mình trong trận đấu quan trọng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b2649efa33e4",
-      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
-      "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:22.017837+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tông đồ Lêô đến quần đảo Canary để kêu gọi chào đón nhân đạo hơn",
-      "bullets": [
-        "Tông đồ Lêô sẽ cầu nguyện cho những người tị nạn",
-        "Tông đồ Lêô kêu gọi một cách tiếp cận nhân đạo hơn đối với người tị nạn",
-        "Tông đồ Lêô sẽ đến thăm quần đảo Canary để ủng hộ người tị nạn",
-        "Tông đồ Lêô muốn người dân chào đón người tị nạn một cách tôn trọng"
-      ],
-      "full_summary": "Tông đồ Lêô đã đến thăm quần đảo Canary để kêu gọi một cách tiếp cận nhân đạo hơn đối với người tị nạn. Ông muốn người dân chào đón người tị nạn một cách tôn trọng và nhân đạo hơn. Trong chuyến thăm này, ông sẽ cầu nguyện cho những người tị nạn và ủng hộ họ. Đây là một nỗ lực nhằm thu hút sự chú ý của cộng đồng quốc tế về những người tị nạn đang phải đối mặt với những thách thức khó khăn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a3f72e4af9b",
-      "title": "Kalshi to make some users reveal job details to tackle insider trading",
-      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:23.169366+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
-      "bullets": [
-        "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
-        "Mục đích là ngăn chặn các hành vi giao dịch nội gián trên nền tảng dự đoán",
-        "Nền tảng dự đoán này đã gặp vấn đề với giao dịch nội gián trong quá khứ",
-        "Các quy tắc mới sẽ được áp dụng để đảm bảo tính công bằng"
-      ],
-      "full_summary": "Kalshi, một nền tảng dự đoán đặt cược, đang áp dụng các quy tắc mới để ngăn chặn giao dịch nội gián. Mục đích là ngăn chặn các hành vi giao dịch nội gián trên nền tảng dự đoán. Nền tảng dự đoán này đã gặp vấn đề với giao dịch nội gián trong quá khứ và các quy tắc mới sẽ được áp dụng để đảm bảo tính công bằng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f792aa52aecc",
-      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
-      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:24.280125+00:00",
-      "category": "politics|technology",
-      "importance": 3,
-      "headline": "Farage nói Reform liên hệ với X cấp cao về quảng cáo giả AI",
-      "bullets": [
-        "Farage nói Reform đã liên hệ với X cấp cao",
-        "Quảng cáo giả AI xuất hiện trên mạng xã hội",
-        "Thống đốc Ngân hàng Anh kêu gọi mọi người báo cáo",
-        "Quảng cáo giả AI liên quan đến chiến dịch của Farage"
-      ],
-      "full_summary": "Nigel Farage nói rằng Reform đã liên hệ với cấp cao nhất về quảng cáo giả AI trên mạng xã hội. Quảng cáo giả này xuất hiện trên mạng xã hội và có hình ảnh của thống đốc Ngân hàng Anh. Thống đốc Ngân hàng Anh đã kêu gọi mọi người báo cáo về quảng cáo giả này. Quảng cáo giả này được cho là liên quan đến chiến dịch của Farage.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "43b97996d22c",
-      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:25.712123+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một người đàn ông bị bắn chết trong cuộc biểu tình chống cơ sở cách ly Ebola của Mỹ tại Kenya",
-      "bullets": [
-        "Bị bắn chết trong cuộc biểu tình",
-        "Cơ sở cách ly Ebola được đề xuất cho công dân Mỹ",
-        "Cảnh sát đã xua tan đông người biểu tình tại Nanyuki",
-        "Tình trạng căng thẳng đang gia tăng"
-      ],
-      "full_summary": "Một người đàn ông đã bị bắn chết trong cuộc biểu tình tại Nanyuki, Kenya, khi cảnh sát xua tan đông người biểu tình chống lại cơ sở cách ly Ebola được đề xuất cho công dân Mỹ. Patrick Wahome, người đã tổ chức các cuộc biểu tình, cho biết người đàn ông đã bị bắn vào đầu và chết. Cảnh sát đã xua tan đông người biểu tình, nhưng tình trạng căng thẳng đang gia tăng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2ba6365aecd2",
-      "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
-      "url": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:27.975925+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ giới Brazil bị buộc tội lừa đảo bằng cách giả danh trẻ em",
-      "bullets": [
-        "Bị bắt vì tội lừa đảo và sử dụng danh tính giả",
-        "Tự xưng là một cô gái 12 tuổi để lừa một cặp vợ chồng",
-        "Được gia đình nhận vào nhà hơn một năm",
-        "Đã bị bắt và bị đưa ra tòa"
-      ],
-      "full_summary": "Amanda Maria Souza de Oliveira, một phụ nữ 38 tuổi, đã bị bắt vì tội lừa đảo ở bang Santa Catarina, Brazil. Cô đã tự xưng là một cô gái 12 tuổi và đã lừa một cặp vợ chồng nhận cô vào nhà hơn một năm. Sau đó, cô đã bị bắt và bị đưa ra tòa vì tội lừa đảo và sử dụng danh tính giả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "58ccfc0f6056",
-      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
-      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-11T15:41:30.803484+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "macOS 27 Golden Gate có nhiều cải tiến hữu ích",
-      "bullets": [
-        "Cải thiện hiệu suất hệ thống",
-        "Tối ưu hóa giao diện người dùng",
-        "Cải thiện bảo mật",
-        "Cải tiến công nghệ lưu trữ"
-      ],
-      "full_summary": "macOS 27 Golden Gate có nhiều cải tiến hữu ích ngoài tính năng AI. Các cải tiến này bao gồm cải thiện hiệu suất hệ thống, tối ưu hóa giao diện người dùng và cải thiện bảo mật. Điều này giúp người dùng có trải nghiệm tốt hơn khi sử dụng hệ điều hành.",
       "comments": 0,
       "score": 0
     }
