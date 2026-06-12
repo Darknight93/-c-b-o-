@@ -1,6 +1,162 @@
 {
-  "updated_at": "2026-06-12T10:00:49.176728+00:00",
+  "updated_at": "2026-06-12T14:42:32.099816+00:00",
   "articles": [
+    {
+      "id": "35068ed7d6f7",
+      "title": "More time needed for deadly Air India crash inquiry, officials say",
+      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T14:42:16.529823+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cần thêm thời gian để điều tra vụ tai nạn máy bay Air India",
+      "bullets": [
+        "Xác định nguyên nhân vụ tai nạn máy bay",
+        "Đánh giá tiến độ điều tra vụ tai nạn",
+        "Phân tích dữ liệu từ máy bay",
+        "Kiểm tra các yếu tố liên quan"
+      ],
+      "full_summary": "Các quan chức đã tuyên bố đã đạt được tiến bộ đáng kể trong việc điều tra vụ tai nạn máy bay Air India xảy ra một năm trước, khiến 260 người thiệt mạng. Tuy nhiên, họ cho biết cần thêm thời gian để hoàn tất điều tra. Các quan chức đã xác định được một số yếu tố liên quan đến vụ tai nạn và đang phân tích dữ liệu từ máy bay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d0976699e5b4",
+      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T14:42:17.564440+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran bác bỏ thông tin về thỏa thuận chấm dứt chiến tranh",
+      "bullets": [
+        "Iran nói báo cáo về thỏa thuận là 'được suy đoán'",
+        "Trung tâm báo chí Iran nói rằng không có thông tin chính thức về thỏa thuận",
+        "Tổng thống Trump tuyên bố đã đạt được 'thỏa thuận lớn' để chấm dứt xung đột"
+      ],
+      "full_summary": "Tổng thống Trump tuyên bố đã đạt được 'thỏa thuận lớn' để chấm dứt xung đột giữa Iran và Mỹ. Tuy nhiên, Iran đã bác bỏ thông tin này, nói rằng báo cáo về thỏa thuận là 'được suy đoán'. Trung tâm báo chí Iran cũng nói rằng không có thông tin chính thức về thỏa thuận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "47edf57c6c76",
+      "title": "South Africa trolled by African fans in wake of World Cup loss",
+      "url": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T14:42:18.667245+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hoa hậu World Cup của Nam Phi bị trolled vì bạo lực phân biệt chủng tộc",
+      "bullets": [
+        "Sự trolled phản ánh sự tức giận của một số quốc gia châu Phi về các báo cáo về bạo lực phân biệt chủng tộc ở Nam Phi.",
+        "Báo cáo cho thấy sự trolled này đã lan rộng trên các nền tảng xã hội.",
+        "Sự kiện đã gây ra sự phẫn nộ trong cộng đồng người châu Phi.",
+        "Nam Phi đã bị chỉ trích vì không xử lý vấn đề phân biệt chủng tộc một cách nghiêm túc."
+      ],
+      "full_summary": "Nam Phi đã bị trolled bởi các fan châu Phi sau khi đội bóng của họ thua trong World Cup. Sự trolled phản ánh sự tức giận của một số quốc gia châu Phi về các báo cáo về bạo lực phân biệt chủng tộc ở Nam Phi. Các báo cáo cho thấy sự trolled này đã lan rộng trên các nền tảng xã hội, gây ra sự phẫn nộ trong cộng đồng người châu Phi. Nam Phi đã bị chỉ trích vì không xử lý vấn đề phân biệt chủng tộc một cách nghiêm túc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a167d144efea",
+      "title": "Trump targeting immigrants from countries hit most by climate shocks",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T14:42:19.833834+00:00",
+      "category": "chính trị",
+      "importance": 5,
+      "headline": "Trump nhắm vào người tị nạn từ những quốc gia dễ bị tổn thương nhất bởi biến đổi khí hậu",
+      "bullets": [
+        "Đoán tính Trump đang tăng cường kiểm soát nhập cư vào Mỹ",
+        "Hầu hết 39 quốc gia bị hạn chế nhập cư vào Mỹ đều dễ bị tổn thương bởi biến đổi khí hậu",
+        "Sự thay đổi khí hậu đang đẩy hàng triệu người rời bỏ quê hương",
+        "Tăng cường khai thác dầu khí làm trầm trọng thêm tình hình biến đổi khí hậu"
+      ],
+      "full_summary": "Theo phân tích của The Guardian, chính sách nhập cư của Trump đang nhắm vào những quốc gia dễ bị tổn thương nhất bởi biến đổi khí hậu. Sự thay đổi khí hậu đang đẩy hàng triệu người rời bỏ quê hương do các cơn bão, lũ lụt và hạn hán được trầm trọng thêm bởi biến đổi khí hậu. Trong khi đó, chính quyền Trump đang đẩy mạnh chính sách khai thác dầu khí, làm trầm trọng thêm tình hình biến đổi khí hậu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9a17aed3ab9b",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T14:42:21.065891+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cướp bóc ở Nigeria bắt giữ 39 người tham dự cuộc họp hòa bình",
+      "bullets": [
+        "Bắt giữ 39 người ở khu vực rừng gần Magamin Diddi",
+        "Sự việc diễn ra trong bối cảnh tình hình an ninh khu vực ngày càng xấu đi",
+        "Số lượng người bị bắt có thể lên đến 50 người",
+        "Cướp bóc ở Nigeria liên tục gây ra những vụ việc đáng lo ngại"
+      ],
+      "full_summary": "Ở khu vực phía tây bắc Nigeria, nhóm cướp bóc đã bắt giữ 39 người, họ được mời đến một cuộc họp để thảo luận về hòa bình. Sự việc diễn ra gần khu vực Magamin Diddi ở bang Zamfara. Một số cư dân và quan chức cho rằng số lượng người bị bắt có thể lên đến 50 người. Sự việc này chỉ ra tình hình an ninh khu vực đang ngày càng xấu đi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "64a89bfe4bb3",
+      "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
+      "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T14:42:22.307438+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Iran sẽ đối mặt với nhiều khó khăn trước trận đấu đầu tiên tại World Cup ở Mỹ",
+      "bullets": [
+        "Iran sẽ trở thành quốc gia đầu tiên thi đấu tại World Cup trên đất của một quốc gia đang đối đầu",
+        "Đội tuyển Iran sẽ phải đối mặt với các hạn chế về biểu ngữ và các rắc rối về du lịch",
+        "Trận đấu mở màn của Iran sẽ diễn ra trong bối cảnh căng thẳng giữa Iran và Mỹ đang gia tăng"
+      ],
+      "full_summary": "Iran sẽ trở thành quốc gia đầu tiên thi đấu tại World Cup trên đất của một quốc gia đang đối đầu. Đội tuyển Iran sẽ phải đối mặt với các hạn chế về biểu ngữ và các rắc rối về du lịch. Trận đấu mở màn của Iran sẽ diễn ra trong bối cảnh căng thẳng giữa Iran và Mỹ đang gia tăng. Mặc dù vậy, Iran vẫn hy vọng sẽ thể hiện tinh thần thể thao và thể hiện sự đoàn kết của đội tuyển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ebe789034173",
+      "title": "The Unsung Hero of the Lord of the Rings",
+      "url": "https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-12T14:42:27.862286+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Tác giả mới trong Lord of the Rings được công nhận",
+      "bullets": [
+        "Giới thiệu về tác giả mới trong Lord of the Rings",
+        "Tác giả này đóng góp quan trọng cho câu chuyện",
+        "Tác giả được công nhận vì đóng góp của mình"
+      ],
+      "full_summary": "Tác giả mới trong Lord of the Rings được công nhận vì đóng góp quan trọng của mình. Bài viết trên The Culturist đã giới thiệu về tác giả này và công nhận đóng góp của họ. Tác giả này đã giúp tạo nên câu chuyện hấp dẫn của Lord of the Rings.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1880831d5bca",
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-12T14:42:31.599607+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mô hình mã hóa Kimi K2.7-Code được phát hành dưới dạng mã nguồn mở với hiệu suất token tốt hơn",
+      "bullets": [
+        "Được phát hành dưới dạng mã nguồn mở",
+        "Có hiệu suất token tốt hơn",
+        "Có thể được sử dụng cho các ứng dụng khác nhau"
+      ],
+      "full_summary": "Mô hình mã hóa Kimi K2.7-Code là một mô hình mã hóa mở nguồn được phát triển bởi Moonshot AI. Nó được thiết kế để có hiệu suất token tốt hơn và có thể được sử dụng cho các ứng dụng khác nhau. Mô hình này đã được phát hành trên Hugging Face và đã thu hút được sự quan tâm của cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1773d26212b8",
       "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
@@ -638,164 +794,6 @@
         "Cải tiến công nghệ lưu trữ"
       ],
       "full_summary": "macOS 27 Golden Gate có nhiều cải tiến hữu ích ngoài tính năng AI. Các cải tiến này bao gồm cải thiện hiệu suất hệ thống, tối ưu hóa giao diện người dùng và cải thiện bảo mật. Điều này giúp người dùng có trải nghiệm tốt hơn khi sử dụng hệ điều hành.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cc58c7de0365",
-      "title": "AMD Gaslights Security Researcher, Changes Rules Retroactively [video]",
-      "url": "https://www.youtube.com/watch?v=4HjWHNLRMB0",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-11T15:41:34.386350+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "AMD đã cố tình làm mù lòa một nhà nghiên cứu an ninh",
-      "bullets": [
-        "AMD đã thay đổi quy tắc an ninh một cách không công khai",
-        "Một nhà nghiên cứu đã phát hiện ra lỗ hổng và báo cáo cho AMD",
-        "AMD đã từ chối công nhận lỗ hổng và thay đổi quy tắc để tránh trách nhiệm"
-      ],
-      "full_summary": "AMD đã bị cáo buộc cố tình làm mù lòa một nhà nghiên cứu an ninh sau khi thay đổi quy tắc an ninh một cách không công khai. Nhà nghiên cứu đã phát hiện ra lỗ hổng và báo cáo cho AMD, nhưng công ty đã từ chối công nhận lỗ hổng và thay đổi quy tắc để tránh trách nhiệm. Sự việc đã gây ra sự phẫn nộ trong cộng đồng an ninh và đặt câu hỏi về sự trung thực của AMD.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8dd5e7290a26",
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T10:12:41.176446+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai thủy thủ Ấn Độ bị giết trong vụ tấn công tàu dầu của Mỹ",
-      "bullets": [
-        "Mỹ tấn công tàu dầu Palau",
-        "Tàu dầu không tuân theo chỉ đạo của Mỹ",
-        "3 thủy thủ Ấn Độ thiệt mạng",
-        "Tàu dầu bị hư hại"
-      ],
-      "full_summary": "Mỹ đã tấn công tàu dầu Palau sau khi cáo buộc tàu không tuân theo chỉ đạo. Vụ tấn công diễn ra vào thứ Ba. 3 thủy thủ Ấn Độ thiệt mạng trong vụ tấn công. Tàu dầu bị hư hại sau vụ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0b2fc55db380",
-      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-      "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T10:12:42.100780+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai người đàn ông bị tử hình vì vụ nổ tại đền Erawan ở Bangkok",
-      "bullets": [
-        "Hai người đàn ông bị kết án tử hình vì vụ nổ tại đền Erawan ở Bangkok",
-        "Vụ nổ năm 2015 đã khiến 20 người thiệt mạng và 120 người bị thương",
-        "Tòa án Thái Lan đã đưa ra phán quyết sau khi xét xử vụ án",
-        "Vụ nổ được coi là một trong những vụ tấn công khủng bố nghiêm trọng nhất ở Thái Lan"
-      ],
-      "full_summary": "Một tòa án ở Thái Lan đã kết án tử hình hai người đàn ông vì liên quan đến vụ nổ tại đền Erawan ở Bangkok vào năm 2015. Vụ nổ đã khiến 20 người thiệt mạng và 120 người bị thương. Đây là một trong những vụ tấn công khủng bố nghiêm trọng nhất ở Thái Lan trong những năm gần đây. Tòa án đã đưa ra phán quyết sau khi xét xử vụ án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1069bb66b60f",
-      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T10:12:43.182512+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Đội Knicks trở thành ứng cử viên nặng ký cho chức vô địch NBA",
-      "bullets": [
-        "Thắng ngược lớn nhất trong lịch sử NBA Finals",
-        "Đội Knicks chỉ còn một trận để giành chức vô địch",
-        "Cầu thủ Knicks đã thể hiện tinh thần chiến đấu mạnh mẽ",
-        "Hành trình giành chức vô địch của Knicks đang trở nên gần hơn"
-      ],
-      "full_summary": "Đội Knicks đã tạo nên lịch sử khi giành chiến thắng ngược lớn nhất trong lịch sử NBA Finals. Kết quả này đã giúp đội Knicks trở thành ứng cử viên nặng ký cho chức vô địch. Chỉ còn một trận đấu nữa, đội Knicks sẽ có cơ hội giành chức vô địch. Cầu thủ Knicks đã thể hiện tinh thần chiến đấu mạnh mẽ và đã tạo nên một trong những trận đấu đáng nhớ nhất trong lịch sử NBA.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "19809b1e46da",
-      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
-      "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T10:12:44.147341+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ca sĩ Olivia Rodrigo nói về nỗi đau tình yêu nhưng đã chọn bài hát cưới",
-      "bullets": [
-        "Nói về khó khăn khi viết bài hát hạnh phúc",
-        "Cảm thấy lo lắng trước khi biểu diễn tại Glastonbury",
-        "Đã chọn bài hát cưới trước khi kết hôn",
-        "Sự nghiệp âm nhạc của Olivia Rodrigo đang phát triển mạnh mẽ"
-      ],
-      "full_summary": "Ca sĩ Olivia Rodrigo đã chia sẻ về khó khăn khi viết bài hát hạnh phúc và cảm thấy lo lắng trước khi biểu diễn tại Glastonbury. Tuy nhiên, cô đã chọn bài hát cưới trước khi kết hôn. Sự nghiệp âm nhạc của Olivia Rodrigo đang phát triển mạnh mẽ và cô đã trở thành một trong những ngôi sao nổi tiếng nhất hiện nay.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "97981df5f6c7",
-      "title": "Social media on trial: Four important cases to watch",
-      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T10:12:45.644147+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các công ty mạng xã hội đối mặt với hàng nghìn vụ kiện",
-      "bullets": [
-        "Sẽ xét xử bốn vụ kiện quan trọng liên quan đến các công ty mạng xã hội",
-        "Các vụ kiện liên quan đến việc kiểm soát nội dung, bảo vệ quyền riêng tư và trách nhiệm pháp lý",
-        "Các công ty mạng xã hội có thể phải trả tiền bồi thường và thực hiện các biện pháp cải thiện",
-        "Quyết định của tòa án có thể ảnh hưởng đến tương lai của các công ty mạng xã hội"
-      ],
-      "full_summary": "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện trên toàn thế giới. Các vụ kiện quan trọng sẽ được xét xử trong thời gian tới, liên quan đến việc kiểm soát nội dung, bảo vệ quyền riêng tư và trách nhiệm pháp lý. Các công ty mạng xã hội có thể phải trả tiền bồi thường và thực hiện các biện pháp cải thiện để tránh bị xử lý pháp lý. Kết quả của các vụ kiện này có thể ảnh hưởng đến tương lai của các công ty mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a68e088292c7",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T10:12:46.605801+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Một phiên bản AI quá mạnh cho công chúng đã được công bố",
-      "bullets": [
-        "Bị phát hành công khai",
-        "Là phiên bản của chương trình AI Claude Mythos",
-        "Đã gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ"
-      ],
-      "full_summary": "Một phiên bản mới của chương trình AI Claude Mythos, tên là Claude Fable 5, đã được phát hành công khai. Đây là một chương trình AI đã gây xôn xao trong giới lãnh đạo công nghệ, tài chính và chính phủ. Mặc dù không rõ lý do tại sao phiên bản này lại được phát hành công khai, nhưng nhiều người cho rằng nó quá mạnh và có thể gây ra những hậu quả nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "996a14ab87f2",
-      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
-      "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-11T10:12:49.431850+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Một người đàn ông kiện cảnh sát Florida vì bị bắt giữ do nhận diện khuôn mặt sai",
-      "bullets": [
-        "Cảnh sát Florida cho phép hệ thống nhận diện khuôn mặt lỗi thay thế cho điều tra",
-        "Hệ thống nhận diện khuôn mặt cho kết quả 93% phù hợp nhưng không đủ để bắt giữ",
-        "Cảnh sát bỏ qua các bằng chứng khác để dựa vào kết quả nhận diện khuôn mặt",
-        "Người đàn ông này đang kiện cảnh sát vì bị bắt giữ không đúng"
-      ],
-      "full_summary": "Một người đàn ông ở Florida đang kiện cảnh sát vì bị bắt giữ do hệ thống nhận diện khuôn mặt lỗi. Hệ thống này cho kết quả 93% phù hợp với hình ảnh của người đàn ông này, nhưng cảnh sát bỏ qua các bằng chứng khác để dựa vào kết quả nhận diện khuôn mặt. Người đàn ông này cho rằng cảnh sát cho phép hệ thống nhận diện khuôn mặt lỗi thay thế cho điều tra.",
       "comments": 0,
       "score": 0
     }
