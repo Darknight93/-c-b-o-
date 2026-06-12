@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-06-12T02:51:59.021110+00:00",
+  "updated_at": "2026-06-12T10:00:49.176728+00:00",
   "articles": [
+    {
+      "id": "1773d26212b8",
+      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+      "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T10:00:33.253603+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump có chiến lược gì về Iran?",
+      "bullets": [
+        "Đưa ra thông điệp hỗn hợp về chiến tranh Iran",
+        "Tạo ra nhiều câu hỏi về hành động của Tổng thống Mỹ",
+        "Báo chí và công chúng phân tích chiến lược của Trump",
+        "Tìm hiểu xem liệu đó là một sai lầm hay một chiến lược cố ý"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump đã đưa ra nhiều thông điệp hỗn hợp về chiến tranh Iran, khiến nhiều người đặt câu hỏi về hành động của ông. Một số người cho rằng đó là một sai lầm, trong khi những người khác tin rằng đó là một chiến lược cố ý. Báo chí và công chúng đang phân tích chiến lược của Trump để tìm hiểu xem liệu đó là một trò chơi cờ hoặc một hành động nghiêm túc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4c7acba38776",
+      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+      "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T10:00:34.368996+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ công nương Thái Bajrakitiyabha qua đời sau hơn 3 năm hôn mê",
+      "bullets": [
+        "Nữ công nương Thái Bajrakitiyabha sụp đổ khi tập luyện với chó",
+        "Cô bị hôn mê sâu hơn 3 năm sau khi tai nạn",
+        "Nữ công nương Thái Bajrakitiyabha là con gái cả của Vua Thái",
+        "Cô qua đời sau nhiều năm điều trị y tế"
+      ],
+      "full_summary": "Nữ công nương Thái Bajrakitiyabha, con gái cả của Vua Thái, đã qua đời sau hơn 3 năm hôn mê sâu. Cô sụp đổ khi tập luyện với chó vào tháng 12 năm 2022 và không bao giờ thức dậy. Nữ công nương Thái Bajrakitiyabha là một thành viên quan trọng của Hoàng gia Thái Lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7a357abe4f93",
+      "title": "Why the economics make this the craziest World Cup ever",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T10:00:35.542467+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Châu Âu đang đối mặt với cuộc khủng hoảng kinh tế trước World Cup 2026",
+      "bullets": [
+        "Tăng giá vé khiến các fan khó tiếp cận World Cup",
+        "Chiến tranh thương mại đang ảnh hưởng đến các nền kinh tế tham gia",
+        "Nhiều quốc gia đang đối mặt với suy thoái kinh tế",
+        "Các công ty truyền thông đang phải đối mặt với thách thức về chi phí"
+      ],
+      "full_summary": "World Cup 2026 đang trở thành một sự kiện kinh tế đặc biệt. Giá vé cho World Cup 2026 đã tăng lên mức cao kỷ lục, khiến nhiều fan khó tiếp cận. Chiến tranh thương mại đang ảnh hưởng đến các nền kinh tế tham gia, khiến cho việc tổ chức World Cup trở nên khó khăn hơn. Nhiều quốc gia đang đối mặt với suy thoái kinh tế, khiến cho việc đầu tư vào World Cup trở nên rủi ro hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2a590e22b973",
+      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T10:00:36.643312+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh báo: Israel phá hủy nhà ở Palestine ở Đông Jerusalem",
+      "bullets": [
+        "Phá hủy nhà ở Palestine để xây dựng công viên",
+        "Tình trạng này gây phẫn nộ trong cộng đồng Palestine",
+        "Nhiều người Palestine cảm thấy bị đối xử không công bằng",
+        "Tình hình ở Đông Jerusalem đang trở nên căng thẳng"
+      ],
+      "full_summary": "Các nhà ở Palestine đang bị phá hủy ở Đông Jerusalem để xây dựng công viên. Điều này đã gây phẫn nộ trong cộng đồng Palestine. Họ cảm thấy bị đối xử không công bằng và tình hình ở Đông Jerusalem đang trở nên căng thẳng. Các cuộc biểu tình đã diễn ra ở khu vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a794d111c601",
+      "title": "Could humanoid robots be heading for the battlefield?",
+      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T10:00:37.558310+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Robot chiến đấu đang được thử nghiệm trong quân đội",
+      "bullets": [
+        "Các lực lượng vũ trang đang thử nghiệm robot người khổng lồ",
+        "Robot đang được thiết kế để thực hiện các nhiệm vụ nguy hiểm",
+        "Việc triển khai robot vào chiến trường vẫn còn xa",
+        "Cơ quan quân sự đang nghiên cứu công nghệ robot"
+      ],
+      "full_summary": "Các lực lượng vũ trang trên toàn thế giới đang thử nghiệm robot người khổng lồ để thực hiện các nhiệm vụ nguy hiểm. Mục tiêu của việc này là giảm thiểu rủi ro cho binh sĩ. Tuy nhiên, việc triển khai robot vào chiến trường vẫn còn xa do các vấn đề về công nghệ và an toàn. Cơ quan quân sự đang nghiên cứu và phát triển công nghệ robot để đáp ứng nhu cầu của quân đội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "30a9190da6e0",
+      "title": "Weather tracker: heat, humidity and thunderstorms a danger at World Cup",
+      "url": "https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-12T10:00:38.969549+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cơn sốt và mưa giông đe dọa World Cup 2026",
+      "bullets": [
+        "Thời tiết nóng ẩm và mưa giông gây nguy hiểm cho các trận đấu",
+        "Cơn bão đã làm gián đoạn trận đấu trước khi giải đấu bắt đầu",
+        "Các trận đấu sẽ bị tạm dừng khi có sấm sét gần sân vận động",
+        "Các đội bóng phải đối mặt với nhiều thách thức từ thời tiết"
+      ],
+      "full_summary": "World Cup 2026 đang diễn ra tại 16 thành phố trên Mỹ, Mexico và Canada. Các đội bóng và người hâm mộ phải đối mặt với nhiều thách thức từ thời tiết nóng ẩm và mưa giông. Các trận đấu đã bị gián đoạn do thời tiết trước khi giải đấu bắt đầu và sẽ tiếp tục bị ảnh hưởng bởi thời tiết trong suốt giải đấu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "37e9ab7955a1",
+      "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
+      "url": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-12T10:00:40.048229+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "AcuRite hoãn đóng cửa ứng dụng cũ vì ứng dụng mới không đáp ứng",
+      "bullets": [
+        "AcuRite hoãn việc đóng cửa ứng dụng cũ",
+        "Ứng dụng mới của AcuRite không đáp ứng được yêu cầu của người dùng",
+        "AcuRite sẽ tiếp tục hỗ trợ ứng dụng cũ",
+        "Mục tiêu vẫn là đóng cửa ứng dụng cũ vào tháng 5"
+      ],
+      "full_summary": "AcuRite, một công ty sản xuất thiết bị IoT, đã thông báo hoãn việc đóng cửa ứng dụng cũ do ứng dụng mới không đáp ứng được yêu cầu của người dùng. Mặc dù mục tiêu vẫn là đóng cửa ứng dụng cũ vào tháng 5, nhưng AcuRite sẽ tiếp tục hỗ trợ ứng dụng cũ cho đến khi vấn đề được giải quyết. Điều này cho thấy sự cố kỹ thuật nghiêm trọng của ứng dụng mới và sự cần thiết phải sửa chữa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "60bf726f91c3",
+      "title": "\"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand",
+      "url": "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-12T10:00:43.454327+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Xbox gặp khó khăn nghiêm trọng, lãnh đạo Microsoft thừa nhận sự thật khó khăn",
+      "bullets": [
+        "Xbox đã gặp khó khăn trong việc cạnh tranh với PlayStation và Nintendo",
+        "Lãnh đạo Microsoft thừa nhận sự yếu kém của thương hiệu Xbox",
+        "Cơ quan kinh doanh trò chơi điện tử của Microsoft đang đối mặt với nhiều thách thức",
+        "Lãnh đạo Microsoft đang tìm cách cải thiện tình hình của thương hiệu Xbox"
+      ],
+      "full_summary": "Lãnh đạo Xbox của Microsoft đã đưa ra một đánh giá nghiêm túc về tình hình của thương hiệu này. Họ thừa nhận rằng Xbox đã gặp khó khăn trong việc cạnh tranh với PlayStation và Nintendo. Cơ quan kinh doanh trò chơi điện tử của Microsoft đang đối mặt với nhiều thách thức, bao gồm sự yếu kém của thương hiệu và sự cạnh tranh gay gắt từ đối thủ. Lãnh đạo Microsoft đang tìm cách cải thiện tình hình của thương hiệu Xbox.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9750ef4e6d6",
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-12T10:00:48.676543+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Làm việc chăm chỉ để thu hút sự chú ý của con người",
+      "bullets": [
+        "Đề xuất cách thu hút sự chú ý của con người bằng cách nỗ lực",
+        "Sự cố gắng không chỉ giúp bạn thu hút sự chú ý mà còn xây dựng uy tín",
+        "Sự chú ý của con người không phải là một thứ có thể mua được",
+        "Nỗ lực và sự cố gắng mới là chìa khóa để thu hút sự chú ý"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã đề xuất cách thu hút sự chú ý của con người bằng cách nỗ lực. Điều này có nghĩa là bạn cần phải chứng minh rằng bạn đang cố gắng và không chỉ mong chờ sự chú ý của người khác. Sự cố gắng không chỉ giúp bạn thu hút sự chú ý mà còn xây dựng uy tín và tạo ra giá trị. Điều quan trọng là phải hiểu rằng sự chú ý của con người không phải là một thứ có thể mua được.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "114fac5a8d74",
       "title": "India's 'blue gold' starts a new drinks industry",
@@ -616,183 +796,6 @@
         "Người đàn ông này đang kiện cảnh sát vì bị bắt giữ không đúng"
       ],
       "full_summary": "Một người đàn ông ở Florida đang kiện cảnh sát vì bị bắt giữ do hệ thống nhận diện khuôn mặt lỗi. Hệ thống này cho kết quả 93% phù hợp với hình ảnh của người đàn ông này, nhưng cảnh sát bỏ qua các bằng chứng khác để dựa vào kết quả nhận diện khuôn mặt. Người đàn ông này cho rằng cảnh sát cho phép hệ thống nhận diện khuôn mặt lỗi thay thế cho điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c3fe22c9b024",
-      "title": "Web Browsers on Video Game Consoles",
-      "url": "https://vale.rocks/posts/game-console-browsers",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-11T10:12:53.429899+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Trình duyệt web trên các máy chơi game",
-      "bullets": [
-        "Cung cấp trải nghiệm duyệt web trên các máy chơi game",
-        "Một số trình duyệt web đã được phát triển cho các máy chơi game",
-        "Tăng cường tính đa năng cho các máy chơi game"
-      ],
-      "full_summary": "Các nhà phát triển đã tạo ra các trình duyệt web cho các máy chơi game, cho phép người dùng truy cập internet và sử dụng các ứng dụng web trên các thiết bị chơi game. Điều này tăng cường tính đa năng cho các máy chơi game và mở ra nhiều khả năng mới cho người dùng. Tuy nhiên, việc sử dụng trình duyệt web trên các máy chơi game vẫn còn hạn chế và cần được cải thiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c8398cd510e",
-      "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
-      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:22.044826+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hoa Kỳ tấn công Iran, Tehran trả đòn vào căn cứ Mỹ",
-      "bullets": [
-        "Hoa Kỳ tiến hành loạt tấn công mới vào Iran",
-        "Tehran phản công bằng cách nhắm vào căn cứ quân sự của Mỹ",
-        "Các lực lượng Mỹ cho biết hành động này nhằm đáp trả sự xâm phạm không đáng có từ Iran",
-        "Tình hình giữa hai quốc gia vẫn tiếp tục căng thẳng"
-      ],
-      "full_summary": "Hoa Kỳ đã tiến hành loạt tấn công mới vào Iran sau khi các lực lượng Mỹ cáo buộc Iran tiếp tục xâm phạm không đáng có. Theo US Central Command, các cuộc tấn công này nhằm đáp trả sự xâm phạm không đáng có từ Iran. Tuy nhiên, Tehran đã phản công bằng cách nhắm vào căn cứ quân sự của Mỹ. Tình hình giữa hai quốc gia vẫn tiếp tục căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0d2b3c260ce9",
-      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:23.164618+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Trả lời về lạm phát, Trump nói 'tôi yêu thích lạm phát'",
-      "bullets": [
-        "Lạm phát ở Mỹ tăng nhanh nhất trong 3 năm qua",
-        "Giá hàng hóa và dịch vụ liên tục tăng cao",
-        "Người tiêu dùng đang phải chịu đựng nhiều áp lực",
-        "Sự gia tăng lạm phát được cho là do chiến tranh Mỹ - Israel ở Iran"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump đã nói rằng ông 'yêu thích lạm phát' trong bối cảnh giá hàng hóa và dịch vụ ở Mỹ tăng nhanh nhất trong 3 năm qua. Lạm phát ở Mỹ đã tăng lên mức 6,8% trong tháng 5, cao hơn mức dự kiến. Người tiêu dùng đang phải chịu đựng nhiều áp lực do giá hàng hóa và dịch vụ liên tục tăng cao. Sự gia tăng lạm phát được cho là do chiến tranh Mỹ - Israel ở Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65fc85db3d63",
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
-      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:24.141051+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Vụ tai nạn máy bay Air India 171 vẫn chưa được giải đáp",
-      "bullets": [
-        "Chưa công bố kết luận cuối cùng về vụ tai nạn",
-        "Cơ quan điều tra đang làm rõ nguyên nhân",
-        "Sẽ có thêm thông tin trong những ngày tới",
-        "Vụ tai nạn gây sốc cho người dân và ngành hàng không"
-      ],
-      "full_summary": "Vụ tai nạn máy bay Air India 171 vẫn chưa được giải đáp. Cơ quan điều tra đang làm rõ nguyên nhân, nhưng chưa công bố kết luận cuối cùng. Vụ tai nạn gây sốc cho người dân và ngành hàng không. Người ta hy vọng sẽ có thêm thông tin trong những ngày tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f76a098dad2",
-      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
-      "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:25.063724+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một thợ nấu bị bỏ lại trên Everest, đặt câu hỏi cho ngành du lịch",
-      "bullets": [
-        "Bị bỏ lại mà không có hỗ trợ",
-        "Sự cố đặt câu hỏi về an toàn cho khách du lịch",
-        "Một thợ nấu được để dẫn dắt khách lên đỉnh Everest",
-        "Sự việc đang được điều tra"
-      ],
-      "full_summary": "Một thợ nấu đã sống sót sau khi bị bỏ lại trên đỉnh Everest mà không có hỗ trợ. Sự cố này đặt câu hỏi về an toàn cho khách du lịch. Một thợ nấu được để dẫn dắt khách lên đỉnh Everest, điều này được coi là không phù hợp. Sự việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2d933f107e5d",
-      "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
-      "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:25.937766+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Pope Leo XIV ca ngợi Sagrada Família là kiệt tác của đá, màu sắc và ánh sáng",
-      "bullets": [
-        "Pope Leo XIV đến thăm Sagrada Família tại Barcelona",
-        "Ông ca ngợi Sagrada Família là kiệt tác của đá, màu sắc và ánh sáng",
-        "Sagrada Família là một trong những công trình kiến trúc nổi tiếng của Barcelona"
-      ],
-      "full_summary": "Pope Leo XIV đã đến thăm Sagrada Família tại Barcelona trong chuyến thăm của mình đến Tây Ban Nha. Ông đã ca ngợi công trình kiến trúc này là kiệt tác của đá, màu sắc và ánh sáng. Sagrada Família là một trong những công trình kiến trúc nổi tiếng của Barcelona và là biểu tượng của thành phố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a167d144efea",
-      "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:27.057398+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chính quyền Trump chặn nhập cảnh người từ các quốc gia dễ bị tổn thương bởi biến đổi khí hậu",
-      "bullets": [
-        "Chính quyền Trump đang áp đặt các chính sách chặn nhập cảnh vào Mỹ từ 39 quốc gia dễ bị tổn thương bởi biến đổi khí hậu.",
-        "Hàng triệu người đang bị buộc phải di cư khỏi quê hương do các cơn bão, lũ lụt và hạn hán do biến đổi khí hậu gây ra.",
-        "Chính quyền Trump đang thúc đẩy các chính sách tăng cường khai thác dầu mỏ và khí đốt, làm trầm trọng thêm khủng hoảng khí hậu.",
-        "Giới quan sát cho rằng chính sách này sẽ làm trầm trọng thêm tình trạng di cư do biến đổi khí hậu gây ra."
-      ],
-      "full_summary": "Chính quyền Trump đang áp đặt các chính sách chặn nhập cảnh vào Mỹ từ 39 quốc gia dễ bị tổn thương bởi biến đổi khí hậu. Hàng triệu người đang bị buộc phải di cư khỏi quê hương do các cơn bão, lũ lụt và hạn hán do biến đổi khí hậu gây ra. Chính quyền Trump đang thúc đẩy các chính sách tăng cường khai thác dầu mỏ và khí đốt, làm trầm trọng thêm khủng hoảng khí hậu. Giới quan sát cho rằng chính sách này sẽ làm trầm trọng thêm tình trạng di cư do biến đổi khí hậu gây ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a17aed3ab9b",
-      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:28.110378+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cướp bóc ở Nigeria bắt giữ 39 người sau cuộc họp về hòa bình",
-      "bullets": [
-        "Cướp bóc ở Nigeria bắt giữ 39 người sau cuộc họp về hòa bình",
-        "Cuộc gặp diễn ra tại khu rừng gần ngôi làng Magamin Diddi",
-        "Số người bị bắt giữ có thể lên đến 50 người theo một số nguồn tin",
-        "Tình hình an ninh ở khu vực này đang ngày càng xấu đi"
-      ],
-      "full_summary": "Cướp bóc ở Nigeria đã bắt giữ 39 người sau khi họ được mời tham gia một cuộc họp về hòa bình. Cuộc gặp diễn ra tại khu rừng gần ngôi làng Magamin Diddi ở bang Zamfara. Một số nguồn tin cho biết số người bị bắt giữ có thể lên đến 50 người. Tình hình an ninh ở khu vực này đang ngày càng xấu đi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79ed41419c4b",
-      "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
-      "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T02:54:29.145596+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Xenophobia bùng phát ở Nam Phi, người nhập cư sống trong sợ hãi",
-      "bullets": [
-        "Người nhập cư ở Nam Phi sống trong sợ hãi sau các cuộc biểu tình chống người nhập cư bất hợp pháp",
-        "Cộng đồng người nhập cư bất hợp pháp ở Nam Phi phải rời khỏi đất nước trước 30/6",
-        "Các cuộc biểu tình chống người nhập cư bất hợp pháp ở Nam Phi đang ngày càng phổ biến"
-      ],
-      "full_summary": "Người nhập cư ở Nam Phi đang sống trong sợ hãi sau các cuộc biểu tình chống người nhập cư bất hợp pháp. Một nhóm vận động gọi là March & March đã tuyên bố người nhập cư bất hợp pháp phải rời khỏi đất nước trước 30/6. Các cuộc biểu tình chống người nhập cư bất hợp pháp ở Nam Phi đang ngày càng phổ biến và gây ra lo ngại về sự an toàn của người nhập cư.",
       "comments": 0,
       "score": 0
     }
