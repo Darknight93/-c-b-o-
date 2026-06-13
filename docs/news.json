@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-12T19:59:35.000108+00:00",
+  "updated_at": "2026-06-13T02:43:57.130448+00:00",
   "articles": [
+    {
+      "id": "1afb85b43777",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T02:43:42.214322+00:00",
+      "category": "economy|technology",
+      "importance": 5,
+      "headline": "Elon Musk trở thành tỷ phú đầu tiên trên thế giới",
+      "bullets": [
+        "Musk đạt giá trị tài sản 1,11 nghìn tỷ USD",
+        "SpaceX niêm yết trên sàn giao dịch Nasdaq với giá trị 2,2 nghìn tỷ USD",
+        "Giá trị tài sản của Musk vượt qua 1 nghìn tỷ USD",
+        "SpaceX đạt thành công trong lần ra mắt trên sàn giao dịch"
+      ],
+      "full_summary": "Elon Musk đã trở thành tỷ phú đầu tiên trên thế giới với giá trị tài sản 1,11 nghìn tỷ USD. Điều này đạt được sau khi SpaceX niêm yết trên sàn giao dịch Nasdaq với giá trị 2,2 nghìn tỷ USD. Giá trị tài sản của Musk đã vượt qua 1 nghìn tỷ USD, đánh dấu một bước ngoặt quan trọng trong sự nghiệp của tỷ phú này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "70290ac05316",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T02:43:43.148138+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Fifa cho biết khán giả ngồi trên hành lang thay vì chỗ ngồi",
+      "bullets": [
+        "Fifa nói nhiều chỗ ngồi trống trong trận đấu giữa Hàn Quốc và Cộng hòa Séc",
+        "Khán giả vẫn ngồi trên hành lang trong trận đấu gần như bán kính",
+        "Fifa cho rằng nguyên nhân là do khán giả chưa vào chỗ ngồi",
+        "Trận đấu giữa Hàn Quốc và Cộng hòa Séc diễn ra trong khuôn khổ vòng bảng"
+      ],
+      "full_summary": "Fifa cho biết trong trận đấu giữa Hàn Quốc và Cộng hòa Séc, nhiều chỗ ngồi trống vẫn còn nhìn thấy. Nguyên nhân là do khán giả vẫn ngồi trên hành lang thay vì vào chỗ ngồi. Fifa cho rằng điều này là một vấn đề và cần được giải quyết. Trận đấu diễn ra trong khuôn khổ vòng bảng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b488b0dc744",
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T02:43:44.145475+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Tỷ phú Elon Musk đạt ngưỡng 1 nghìn tỷ USD sau sự tăng trưởng nhanh chóng",
+      "bullets": [
+        "Tăng trưởng nhanh chóng của Musk bắt đầu từ năm 2020",
+        "Sự kiện mua lại Twitter đã giúp Musk trở thành tỷ phú trong một thời gian ngắn",
+        "Tỷ phú này đã đạt được vị trí hàng đầu trong danh sách tỷ phú thế giới",
+        "Sự tăng trưởng của Musk đã được thể hiện qua các chỉ số tài chính"
+      ],
+      "full_summary": "Tỷ phú Elon Musk đã đạt được ngưỡng 1 nghìn tỷ USD sau sự tăng trưởng nhanh chóng của tài sản cá nhân. Sự kiện mua lại Twitter vào năm 2022 đã giúp Musk trở thành tỷ phú trong một thời gian ngắn. Theo các chỉ số tài chính, sự tăng trưởng của Musk đã được thể hiện rõ ràng. Điều này đã giúp ông trở thành người giàu nhất thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a3f72e4af9b",
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T02:43:45.288253+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Kalshi thêm quy tắc mới để ngăn chặn việc buôn bán thông tin nội bộ",
+      "bullets": [
+        "Kalshi sẽ yêu cầu một số người dùng tiết lộ thông tin về công việc của họ",
+        "Mục đích là để ngăn chặn việc buôn bán thông tin nội bộ trên nền tảng đặt cược dự đoán",
+        "Quy tắc mới sẽ được áp dụng để đảm bảo tính công bằng và minh bạch",
+        "Cơ quan này hy vọng quy tắc mới sẽ giúp ngăn chặn các hành vi bất hợp pháp"
+      ],
+      "full_summary": "Kalshi, một nền tảng đặt cược dự đoán, đang thêm quy tắc mới để ngăn chặn việc buôn bán thông tin nội bộ. Mục đích là để ngăn chặn các hành vi bất hợp pháp trên nền tảng. Quy tắc mới sẽ yêu cầu một số người dùng tiết lộ thông tin về công việc của họ. Cơ quan này hy vọng quy tắc mới sẽ giúp ngăn chặn các hành vi bất hợp pháp và đảm bảo tính công bằng và minh bạch trên nền tảng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f792aa52aecc",
+      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T02:43:46.281595+00:00",
+      "category": "politics|other",
+      "importance": 3,
+      "headline": "Farage nói Reform liên hệ với X về quảng cáo AI giả mạo",
+      "bullets": [
+        "Farage nói Reform đã liên hệ với X đến mức cao nhất",
+        "Quảng cáo giả mạo có hình ảnh thống đốc Ngân hàng Anh",
+        "Ngân hàng Anh yêu cầu mọi người báo cáo quảng cáo này",
+        "Farage nói Reform đang làm việc để ngăn chặn quảng cáo giả mạo"
+      ],
+      "full_summary": "Nigel Farage nói rằng Reform đã liên hệ với một tổ chức X đến mức cao nhất để thảo luận về quảng cáo giả mạo sử dụng trí tuệ nhân tạo. Quảng cáo này có hình ảnh của thống đốc Ngân hàng Anh và Ngân hàng Anh đã yêu cầu mọi người báo cáo. Reform đang làm việc để ngăn chặn quảng cáo giả mạo này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "43b97996d22c",
+      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T02:43:47.204414+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một người đàn ông bị bắn chết trong cuộc biểu tình chống cơ sở cách ly Ebola của Mỹ tại Kenya",
+      "bullets": [
+        "Bị bắn chết trong cuộc biểu tình",
+        "Cơ sở cách ly Ebola của Mỹ tại Kenya gây ra sự phẫn nộ",
+        "Cảnh sát đã xua tan cuộc biểu tình",
+        "Người biểu tình phản đối cơ sở cách ly Ebola"
+      ],
+      "full_summary": "Cảnh sát Kenya đã bắn chết một người đàn ông trong cuộc biểu tình chống lại cơ sở cách ly Ebola cho công dân Mỹ. Sự kiện này đã diễn ra tại Nanyuki, cách Nairobi 120 dặm. Người biểu tình phản đối cơ sở cách ly Ebola do lo ngại về sự ảnh hưởng đến cộng đồng địa phương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "81bd3e46a0f1",
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-13T02:43:49.375771+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "SpaceX bây giờ là công ty niêm yết, sẵn sàng tạo ra lợi nhuận",
+      "bullets": [
+        "Chính thức niêm yết trên thị trường chứng khoán",
+        "Được đánh giá cao về tiềm năng công nghệ trí tuệ nhân tạo",
+        "Đảm bảo sẽ mang lại lợi nhuận cho các nhà đầu tư",
+        "Có thể mở rộng hoạt động kinh doanh trong tương lai"
+      ],
+      "full_summary": "SpaceX đã chính thức niêm yết trên thị trường chứng khoán, đánh dấu một bước ngoặt quan trọng trong lịch sử của công ty. Với tiềm năng công nghệ trí tuệ nhân tạo cao, SpaceX được đánh giá sẽ mang lại lợi nhuận cho các nhà đầu tư. Tuy nhiên, công ty vẫn cần phải chứng minh khả năng tạo ra lợi nhuận trong tương lai. Điều này sẽ giúp SpaceX mở rộng hoạt động kinh doanh và đạt được mục tiêu dài hạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "805d6ac1625a",
+      "title": "As a result of a US Government directive, we are suspending access to Fable 5",
+      "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-13T02:43:54.759975+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mỹ cấm truy cập Fable 5 theo chỉ thị chính phủ",
+      "bullets": [
+        "Mỹ đã ban hành chỉ thị cấm truy cập Fable 5",
+        "Fable 5 bị ảnh hưởng bởi chỉ thị này",
+        "Người dùng không thể truy cập trò chơi này",
+        "Cơ quan phát triển trò chơi ClaudeDev đang cập nhật thông tin"
+      ],
+      "full_summary": "Theo chỉ thị của chính phủ Mỹ, ClaudeDev đã phải tạm dừng truy cập Fable 5. Chỉ thị này được đưa ra để ảnh hưởng đến trò chơi. Người dùng không thể truy cập Fable 5 cho đến khi vấn đề được giải quyết. ClaudeDev đang cập nhật thông tin và sẽ thông báo khi có thông tin mới.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d39ca70fba0e",
       "title": "Iran says deal to end fighting with US has 'never been closer'",
@@ -634,166 +794,6 @@
         "Luật JAWBONE cần được thông qua để trở thành luật thực sự"
       ],
       "full_summary": "Thượng nghị sĩ Ted Cruz và Ron Wyden đã đề xuất luật JAWBONE, một dự án luật nhằm chống lại việc kiểm duyệt trên internet. Luật này cho phép công dân Mỹ kiện các quan chức liên bang về việc kiểm duyệt thông tin. Cruz và Wyden hy vọng luật này sẽ ngăn chặn việc kiểm duyệt và bảo vệ quyền tự do ngôn luận của công dân Mỹ. Luật JAWBONE cần được thông qua để trở thành luật thực sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d5b2b4bda61e",
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-12T02:51:55.600431+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Claude Fable được coi là người chủ động và tích cực",
-      "bullets": [
-        "Giới thiệu về Claude Fable và những đóng góp của anh ấy",
-        "Chia sẻ kinh nghiệm và bài học rút ra từ hành động chủ động của Claude Fable",
-        "Tìm hiểu thêm về tác động của sự chủ động và tích cực trong công việc và cuộc sống",
-        "Cảm nhận và đánh giá về Claude Fable và phong cách làm việc của anh ấy"
-      ],
-      "full_summary": "Claude Fable được coi là người chủ động và tích cực, luôn sẵn sàng hành động và đóng góp cho cộng đồng. Bài viết này giới thiệu về Claude Fable và những đóng góp của anh ấy, đồng thời chia sẻ kinh nghiệm và bài học rút ra từ hành động chủ động của Claude Fable. Claude Fable được biết đến với phong cách làm việc tích cực và chủ động, luôn tìm kiếm cơ hội để đóng góp và hỗ trợ người khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ce8a43bd2bc9",
-      "title": "Deadly Sudan drone strike targets funeral procession",
-      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T20:12:49.509441+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "RSF gây thương vong cho thường dân trong đám tang ở Sudan",
-      "bullets": [
-        "RSF tấn công đám tang ở el-Obeid",
-        "Các tổ chức nhân quyền cáo buộc RSF giết hại thường dân",
-        "Vụ tấn công xảy ra tại khu vực chiến tuyến của cuộc chiến tranh dân sự",
-        "Các nhóm nhân quyền kêu gọi điều tra vụ việc"
-      ],
-      "full_summary": "Một cuộc tấn công bằng máy bay không người lái của nhóm RSF đã giết hại nhiều người trong đám tang ở thành phố el-Obeid, Sudan. Các tổ chức nhân quyền cáo buộc RSF đã giết hại thường dân. Vụ tấn công xảy ra tại khu vực chiến tuyến của cuộc chiến tranh dân sự ở Sudan. Các nhóm nhân quyền kêu gọi điều tra vụ việc để tìm hiểu nguyên nhân và trách nhiệm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5827e89e3002",
-      "title": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans",
-      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T20:12:50.627780+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bóng đá thế giới khai mạc tại Mexico với màn trình diễn sôi động",
-      "bullets": [
-        "Khởi động lễ khai mạc với màn trình diễn của Shakira và các nghệ sĩ địa phương",
-        "Lễ khai mạc có sự tham gia của các nghệ sĩ trong soundtrack chính thức của World Cup",
-        "Khán giả tại Mexico đã tạo nên không khí sôi động và hào hứng",
-        "Các nghệ sĩ đã trình diễn các bài hát trong soundtrack chính thức của World Cup"
-      ],
-      "full_summary": "Lễ khai mạc World Cup tại Mexico đã diễn ra với màn trình diễn sôi động của các nghệ sĩ. Màn trình diễn của Shakira và các nghệ sĩ địa phương đã tạo nên không khí hào hứng và sôi động. Lễ khai mạc cũng có sự tham gia của các nghệ sĩ trong soundtrack chính thức của World Cup. Khán giả tại Mexico đã tạo nên không khí sôi động và hào hứng trong suốt lễ khai mạc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d3a9fe3ecfc0",
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
-      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T20:12:51.606993+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nigeria di dời công dân khỏi Nam Phi do tâm lý chống người nhập cư gia tăng",
-      "bullets": [
-        "Nigeria đã di dời công dân khỏi Nam Phi",
-        "Tình hình chống người nhập cư ở Nam Phi đang trở nên nghiêm trọng",
-        "Nigeria là nước châu Phi thứ hai di dời công dân khỏi Nam Phi",
-        "Tình hình này đã gây ra lo ngại về an ninh cho các công dân châu Phi"
-      ],
-      "full_summary": "Nigeria đã di dời công dân khỏi Nam Phi do tình hình chống người nhập cư ở Nam Phi trở nên nghiêm trọng. Đây là nước châu Phi thứ hai thực hiện hành động này sau South Africa. Tình hình này đã gây ra lo ngại về an ninh cho các công dân châu Phi. Nigeria hy vọng rằng hành động này sẽ giúp đảm bảo an toàn cho công dân của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cc422ef7704",
-      "title": "Who is Elon Musk and what is his net worth?",
-      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T20:12:52.543864+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Elon Musk là người giàu nhất thế giới",
-      "bullets": [
-        "Là người sáng lập X, Tesla và SpaceX",
-        "Sẽ sớm trở thành tỷ phú",
-        "Là người giàu nhất thế giới",
-        "Tập đoàn của ông có giá trị hàng tỷ USD"
-      ],
-      "full_summary": "Elon Musk là người sáng lập X, Tesla và SpaceX, và hiện là người giàu nhất thế giới. Ông có thể sẽ sớm trở thành tỷ phú khi giá trị của tập đoàn của mình tiếp tục tăng lên. Tập đoàn của ông có giá trị hàng tỷ USD và đang phát triển mạnh mẽ trong các lĩnh vực công nghệ và không gian.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "824ad12c6d30",
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T20:12:54.662819+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Công ty sở hữu ChatGPT chuẩn bị niêm yết trên thị trường chứng khoán",
-      "bullets": [
-        "Chuẩn bị niêm yết trên thị trường chứng khoán",
-        "Là một phần của cuộc đua tài chính giữa các công ty AI",
-        "Sau khi Anthropic công bố kế hoạch tương tự",
-        "Cơ hội thu hút vốn đầu tư lớn"
-      ],
-      "full_summary": "Công ty sở hữu ChatGPT đang chuẩn bị niêm yết trên thị trường chứng khoán, một bước đi quan trọng trong cuộc đua tài chính giữa các công ty AI. Điều này diễn ra chỉ một tuần sau khi Anthropic công bố kế hoạch tương tự. Việc niêm yết trên thị trường chứng khoán sẽ giúp công ty thu hút vốn đầu tư lớn để phát triển sản phẩm và mở rộng hoạt động kinh doanh. Điều này sẽ tạo ra một cuộc cạnh tranh gay gắt giữa các công ty AI trong việc thu hút vốn đầu tư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "569532781543",
-      "title": "Toronto police officer shot while investigating US consulate attack",
-      "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T20:12:58.573025+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Cảnh sát Toronto bị bắn chết trong cuộc điều tra vụ tấn công lãnh sự quán Mỹ",
-      "bullets": [
-        "Một cảnh sát Toronto bị bắn chết trong khi thực hiện lệnh khám xét",
-        "Suspect 19 tuổi vẫn đang trốn vong",
-        "Cảnh sát đã khám xét một căn hộ liên quan đến vụ tấn công lãnh sự quán Mỹ hồi tháng 3",
-        "Cảnh sát trưởng Myron Demkiw cho biết vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một cảnh sát Toronto đã bị bắn chết trong khi thực hiện lệnh khám xét một căn hộ ở phía bắc thành phố. Cảnh sát trưởng Myron Demkiw cho biết cảnh sát đã khám xét căn hộ này liên quan đến vụ tấn công lãnh sự quán Mỹ hồi tháng 3. Cảnh sát đang điều tra vụ việc và đang tìm kiếm suspect 19 tuổi vẫn đang trốn vong.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "25a7eb9a4ad5",
-      "title": "El Niño under way and threatens weather extremes, scientists say",
-      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-11T15:41:18.398322+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "El Niño đã bắt đầu, cảnh báo thời tiết cực đoan",
-      "bullets": [
-        "Cảnh báo thời tiết cực đoan và nhiệt độ cao hơn",
-        "Tăng cường các cơn bão và lũ lụt",
-        "Suy thoái kinh tế có thể xảy ra",
-        "Căng thẳng về nguồn nước và thực phẩm"
-      ],
-      "full_summary": "Các nhà khoa học Mỹ cho biết El Niño đã chính thức bắt đầu, cảnh báo thời tiết cực đoan và nhiệt độ cao hơn. Điều này có thể dẫn đến tăng cường các cơn bão và lũ lụt, gây thiệt hại cho các khu vực nông nghiệp và dân cư. Ngoài ra, El Niño cũng có thể gây suy thoái kinh tế và căng thẳng về nguồn nước và thực phẩm.",
       "comments": 0,
       "score": 0
     }
