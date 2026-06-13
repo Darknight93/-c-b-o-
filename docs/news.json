@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-13T08:49:46.437678+00:00",
+  "updated_at": "2026-06-13T13:44:52.161187+00:00",
   "articles": [
+    {
+      "id": "b0565d92a85f",
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T13:44:37.556815+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Thụy Sĩ sắp bỏ phiếu về kế hoạch giới hạn dân số 10 triệu",
+      "bullets": [
+        "Sẽ bỏ phiếu về kế hoạch giới hạn dân số 10 triệu",
+        "Đảng nhân dân Thụy Sĩ cho rằng đây là một sáng kiến về sự bền vững",
+        "Ủy ban chống kế hoạch cho rằng đây là một công thức cho hỗn loạn",
+        "Kế hoạch này sẽ ảnh hưởng đến nền kinh tế và xã hội của Thụy Sĩ"
+      ],
+      "full_summary": "Thụy Sĩ sắp tổ chức một cuộc bỏ phiếu về kế hoạch giới hạn dân số 10 triệu. Đảng nhân dân Thụy Sĩ cho rằng đây là một sáng kiến về sự bền vững, nhưng ủ ban chống kế hoạch cho rằng đây là một công thức cho hỗn loạn. Nếu kế hoạch này được thông qua, nó sẽ ảnh hưởng đến nền kinh tế và xã hội của Thụy Sĩ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "77939a033dad",
+      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T13:44:38.509138+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Các ngôi sao chương trình 'Hôn nhân đầu tiên' không biết về tiền án của đối tác",
+      "bullets": [
+        "Bí mật về tiền án của đối tác được giữ kín",
+        "Các ngôi sao không biết về tiền án của đối tác",
+        "Tiền án liên quan đến tội phạm ma túy và bạo lực",
+        "Các ngôi sao lên tiếng về sự bất ngờ"
+      ],
+      "full_summary": "Các ngôi sao chương trình 'Hôn nhân đầu tiên' Australia đã tiết lộ rằng họ không biết về tiền án của đối tác. Các ngôi sao cho biết họ đã không biết về tiền án của đối tác trước khi kết hôn. Tiền án liên quan đến tội phạm ma túy và bạo lực. Các ngôi sao lên tiếng về sự bất ngờ và cho biết họ đã không biết về tiền án của đối tác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4f5a8241c256",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T13:44:39.510680+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ bắn hạ lãnh đạo băng Tren de Aragua Venezuela",
+      "bullets": [
+        "Mỹ thực hiện cuộc tấn công bằng tên lửa vào Venezuela",
+        "Lãnh đạo băng Tren de Aragua Niño Guerrero bị giết",
+        "Động thái này được Tổng thống Trump công bố trên mạng xã hội",
+        "Mục tiêu là chống lại tội phạm ở Venezuela"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump thông báo đã thực hiện một cuộc tấn công bằng tên lửa vào Venezuela, giết chết lãnh đạo băng Tren de Aragua Niño Guerrero. Theo ông Trump, động thái này nhằm chống lại tội phạm ở Venezuela. Cuộc tấn công được gọi là 'kinetic strike nhanh chóng và chết chóc'. Lãnh đạo băng Tren de Aragua bị cho là có liên quan đến nhiều vụ phạm tội ở Venezuela.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "29e21a1bda87",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T13:44:40.474116+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Công ty Anthropic tạm dừng phát triển công cụ AI mới vì lo ngại an ninh quốc gia Mỹ",
+      "bullets": [
+        "Tạm dừng phát triển công cụ AI Claude Fable 5 vì lo ngại bảo mật",
+        "Khả năng bị hack và xâm phạm an ninh quốc gia Mỹ",
+        "Đáp ứng yêu cầu của chính phủ Mỹ về an ninh",
+        "Tìm kiếm giải pháp để đảm bảo an toàn cho công cụ AI"
+      ],
+      "full_summary": "Công ty Anthropic đã tạm dừng phát triển công cụ AI Claude Fable 5 sau khi công bố công khai. Điều này là do lo ngại về an ninh và khả năng bị hack. Chính phủ Mỹ đã yêu cầu công ty đảm bảo an ninh cho công cụ AI. Công ty đang tìm kiếm giải pháp để đảm bảo an toàn cho công cụ AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "02d799c3532a",
+      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T13:44:41.357245+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hãng phim Warner Bros được bán cho Paramount với giá 111 tỷ USD",
+      "bullets": [
+        "Chính phủ Mỹ đã cho phép sáp nhập giữa Warner Bros và Paramount",
+        "Sáp nhập sẽ thay đổi ngành công nghiệp giải trí",
+        "Warner Bros sẽ tiếp tục hoạt động sau khi được mua lại",
+        "Mua lại Warner Bros sẽ giúp Paramount mở rộng hoạt động kinh doanh"
+      ],
+      "full_summary": "Chính phủ Mỹ đã cho phép Warner Bros được bán cho Paramount với giá 111 tỷ USD. Sáp nhập này sẽ thay đổi ngành công nghiệp giải trí và giúp Warner Bros tiếp tục hoạt động sau khi được mua lại. Mua lại Warner Bros sẽ giúp Paramount mở rộng hoạt động kinh doanh và tăng cường vị thế của mình trong ngành công nghiệp giải trí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b15ac133aab7",
+      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-13T13:44:43.388224+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội đồng London thu hồi căn hộ xã hội thuê bởi phu nhân Sierra Leone",
+      "bullets": [
+        "Hội đồng Southwark thu hồi căn hộ 2 phòng ngủ ở Walworth",
+        "Phu nhân Sierra Leone Fatima Jabbe-Bio thuê căn hộ nhưng sống chủ yếu tại dinh tổng thống ở Freetown",
+        "Căn hộ xã hội được báo The Times thông tin về việc thuê nhà này hồi năm ngoái",
+        "Hội đồng Southwark xác nhận đã thu hồi căn hộ này"
+      ],
+      "full_summary": "Hội đồng Southwark đã thu hồi một căn hộ xã hội 2 phòng ngủ ở Walworth, London, được thuê bởi phu nhân Sierra Leone Fatima Jabbe-Bio. Theo báo The Times, phu nhân đã thuê căn hộ này nhưng sống chủ yếu tại dinh tổng thống ở Freetown. Việc thu hồi căn hộ này được xác nhận bởi hội đồng Southwark.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f292c66304f",
+      "title": "Have politics finally come for the National Academies of Science?",
+      "url": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-13T13:44:45.516247+00:00",
+      "category": "science|politics",
+      "importance": 4,
+      "headline": "Khủng hoảng chính trị có thể ảnh hưởng đến Viện Khoa học Quốc gia",
+      "bullets": [
+        "Viện Khoa học Quốc gia có thể đối mặt với xung đột vì báo cáo về nguyên nhân biến đổi khí hậu",
+        "Báo cáo này có thể bị ảnh hưởng bởi chính trị",
+        "Nghiên cứu khoa học đang bị đe dọa bởi chính trị",
+        "Viện Khoa học Quốc gia có thể mất uy tín"
+      ],
+      "full_summary": "Một báo cáo đang chờ về nguyên nhân biến đổi khí hậu có thể tạo ra xung đột cho Viện Khoa học Quốc gia. Báo cáo này có thể bị ảnh hưởng bởi chính trị, gây ra sự mất uy tín cho Viện. Nghiên cứu khoa học đang bị đe dọa bởi chính trị, điều này có thể ảnh hưởng đến uy tín của Viện. Viện Khoa học Quốc gia đã từng được coi là một tổ chức độc lập, nhưng bây giờ có thể đang đối mặt với sự can thiệp chính trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e4397994dcac",
+      "title": "The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough",
+      "url": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-13T13:44:49.387421+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một vụ xâm nhập vào Fable 5 cho thấy giới hạn AI không đủ bảo mật",
+      "bullets": [
+        "Xâm nhập vào Fable 5 cho thấy giới hạn AI không đủ bảo mật",
+        "AI không thể ngăn chặn tất cả các cuộc tấn công",
+        "Giới hạn AI cần được bổ sung bởi các biện pháp bảo mật khác",
+        "Bảo mật cần được xem xét toàn diện"
+      ],
+      "full_summary": "Một nhóm hacker đã xâm nhập vào Fable 5, một trò chơi điện tử sử dụng AI để bảo mật. Vụ xâm nhập này cho thấy rằng giới hạn AI không đủ bảo mật và cần được bổ sung bởi các biện pháp bảo mật khác. Điều này cho thấy rằng bảo mật cần được xem xét toàn diện, bao gồm cả việc sử dụng AI và các biện pháp bảo mật khác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8cc422ef7704",
       "title": "Who is Elon Musk and what is his net worth?",
@@ -634,165 +794,6 @@
         "Tác giả được công nhận vì đóng góp của mình"
       ],
       "full_summary": "Tác giả mới trong Lord of the Rings được công nhận vì đóng góp quan trọng của mình. Bài viết trên The Culturist đã giới thiệu về tác giả này và công nhận đóng góp của họ. Tác giả này đã giúp tạo nên câu chuyện hấp dẫn của Lord of the Rings.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1880831d5bca",
-      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-12T14:42:31.599607+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mô hình mã hóa Kimi K2.7-Code được phát hành dưới dạng mã nguồn mở với hiệu suất token tốt hơn",
-      "bullets": [
-        "Được phát hành dưới dạng mã nguồn mở",
-        "Có hiệu suất token tốt hơn",
-        "Có thể được sử dụng cho các ứng dụng khác nhau"
-      ],
-      "full_summary": "Mô hình mã hóa Kimi K2.7-Code là một mô hình mã hóa mở nguồn được phát triển bởi Moonshot AI. Nó được thiết kế để có hiệu suất token tốt hơn và có thể được sử dụng cho các ứng dụng khác nhau. Mô hình này đã được phát hành trên Hugging Face và đã thu hút được sự quan tâm của cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1773d26212b8",
-      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-      "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T10:00:33.253603+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump có chiến lược gì về Iran?",
-      "bullets": [
-        "Đưa ra thông điệp hỗn hợp về chiến tranh Iran",
-        "Tạo ra nhiều câu hỏi về hành động của Tổng thống Mỹ",
-        "Báo chí và công chúng phân tích chiến lược của Trump",
-        "Tìm hiểu xem liệu đó là một sai lầm hay một chiến lược cố ý"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump đã đưa ra nhiều thông điệp hỗn hợp về chiến tranh Iran, khiến nhiều người đặt câu hỏi về hành động của ông. Một số người cho rằng đó là một sai lầm, trong khi những người khác tin rằng đó là một chiến lược cố ý. Báo chí và công chúng đang phân tích chiến lược của Trump để tìm hiểu xem liệu đó là một trò chơi cờ hoặc một hành động nghiêm túc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4c7acba38776",
-      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-      "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T10:00:34.368996+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ công nương Thái Bajrakitiyabha qua đời sau hơn 3 năm hôn mê",
-      "bullets": [
-        "Nữ công nương Thái Bajrakitiyabha sụp đổ khi tập luyện với chó",
-        "Cô bị hôn mê sâu hơn 3 năm sau khi tai nạn",
-        "Nữ công nương Thái Bajrakitiyabha là con gái cả của Vua Thái",
-        "Cô qua đời sau nhiều năm điều trị y tế"
-      ],
-      "full_summary": "Nữ công nương Thái Bajrakitiyabha, con gái cả của Vua Thái, đã qua đời sau hơn 3 năm hôn mê sâu. Cô sụp đổ khi tập luyện với chó vào tháng 12 năm 2022 và không bao giờ thức dậy. Nữ công nương Thái Bajrakitiyabha là một thành viên quan trọng của Hoàng gia Thái Lan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7a357abe4f93",
-      "title": "Why the economics make this the craziest World Cup ever",
-      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T10:00:35.542467+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Châu Âu đang đối mặt với cuộc khủng hoảng kinh tế trước World Cup 2026",
-      "bullets": [
-        "Tăng giá vé khiến các fan khó tiếp cận World Cup",
-        "Chiến tranh thương mại đang ảnh hưởng đến các nền kinh tế tham gia",
-        "Nhiều quốc gia đang đối mặt với suy thoái kinh tế",
-        "Các công ty truyền thông đang phải đối mặt với thách thức về chi phí"
-      ],
-      "full_summary": "World Cup 2026 đang trở thành một sự kiện kinh tế đặc biệt. Giá vé cho World Cup 2026 đã tăng lên mức cao kỷ lục, khiến nhiều fan khó tiếp cận. Chiến tranh thương mại đang ảnh hưởng đến các nền kinh tế tham gia, khiến cho việc tổ chức World Cup trở nên khó khăn hơn. Nhiều quốc gia đang đối mặt với suy thoái kinh tế, khiến cho việc đầu tư vào World Cup trở nên rủi ro hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2a590e22b973",
-      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T10:00:36.643312+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh báo: Israel phá hủy nhà ở Palestine ở Đông Jerusalem",
-      "bullets": [
-        "Phá hủy nhà ở Palestine để xây dựng công viên",
-        "Tình trạng này gây phẫn nộ trong cộng đồng Palestine",
-        "Nhiều người Palestine cảm thấy bị đối xử không công bằng",
-        "Tình hình ở Đông Jerusalem đang trở nên căng thẳng"
-      ],
-      "full_summary": "Các nhà ở Palestine đang bị phá hủy ở Đông Jerusalem để xây dựng công viên. Điều này đã gây phẫn nộ trong cộng đồng Palestine. Họ cảm thấy bị đối xử không công bằng và tình hình ở Đông Jerusalem đang trở nên căng thẳng. Các cuộc biểu tình đã diễn ra ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a794d111c601",
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T10:00:37.558310+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Robot chiến đấu đang được thử nghiệm trong quân đội",
-      "bullets": [
-        "Các lực lượng vũ trang đang thử nghiệm robot người khổng lồ",
-        "Robot đang được thiết kế để thực hiện các nhiệm vụ nguy hiểm",
-        "Việc triển khai robot vào chiến trường vẫn còn xa",
-        "Cơ quan quân sự đang nghiên cứu công nghệ robot"
-      ],
-      "full_summary": "Các lực lượng vũ trang trên toàn thế giới đang thử nghiệm robot người khổng lồ để thực hiện các nhiệm vụ nguy hiểm. Mục tiêu của việc này là giảm thiểu rủi ro cho binh sĩ. Tuy nhiên, việc triển khai robot vào chiến trường vẫn còn xa do các vấn đề về công nghệ và an toàn. Cơ quan quân sự đang nghiên cứu và phát triển công nghệ robot để đáp ứng nhu cầu của quân đội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "30a9190da6e0",
-      "title": "Weather tracker: heat, humidity and thunderstorms a danger at World Cup",
-      "url": "https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T10:00:38.969549+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn sốt và mưa giông đe dọa World Cup 2026",
-      "bullets": [
-        "Thời tiết nóng ẩm và mưa giông gây nguy hiểm cho các trận đấu",
-        "Cơn bão đã làm gián đoạn trận đấu trước khi giải đấu bắt đầu",
-        "Các trận đấu sẽ bị tạm dừng khi có sấm sét gần sân vận động",
-        "Các đội bóng phải đối mặt với nhiều thách thức từ thời tiết"
-      ],
-      "full_summary": "World Cup 2026 đang diễn ra tại 16 thành phố trên Mỹ, Mexico và Canada. Các đội bóng và người hâm mộ phải đối mặt với nhiều thách thức từ thời tiết nóng ẩm và mưa giông. Các trận đấu đã bị gián đoạn do thời tiết trước khi giải đấu bắt đầu và sẽ tiếp tục bị ảnh hưởng bởi thời tiết trong suốt giải đấu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "37e9ab7955a1",
-      "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
-      "url": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-12T10:00:40.048229+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "AcuRite hoãn đóng cửa ứng dụng cũ vì ứng dụng mới không đáp ứng",
-      "bullets": [
-        "AcuRite hoãn việc đóng cửa ứng dụng cũ",
-        "Ứng dụng mới của AcuRite không đáp ứng được yêu cầu của người dùng",
-        "AcuRite sẽ tiếp tục hỗ trợ ứng dụng cũ",
-        "Mục tiêu vẫn là đóng cửa ứng dụng cũ vào tháng 5"
-      ],
-      "full_summary": "AcuRite, một công ty sản xuất thiết bị IoT, đã thông báo hoãn việc đóng cửa ứng dụng cũ do ứng dụng mới không đáp ứng được yêu cầu của người dùng. Mặc dù mục tiêu vẫn là đóng cửa ứng dụng cũ vào tháng 5, nhưng AcuRite sẽ tiếp tục hỗ trợ ứng dụng cũ cho đến khi vấn đề được giải quyết. Điều này cho thấy sự cố kỹ thuật nghiêm trọng của ứng dụng mới và sự cần thiết phải sửa chữa.",
       "comments": 0,
       "score": 0
     }
