@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-06-13T19:14:25.067130+00:00",
+  "updated_at": "2026-06-14T02:55:33.975105+00:00",
   "articles": [
+    {
+      "id": "f4298421c711",
+      "title": "Nigerian author accuses hospital of stalling review into her son's death",
+      "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T02:55:20.421636+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bà tác giả Nigeria tố bệnh viện trì hoãn điều tra cái chết con trai",
+      "bullets": [
+        "Tố cáo bệnh viện Lagos trì hoãn điều tra cái chết của con trai",
+        "Bà Adichie cho biết con trai 21 tháng tuổi qua đời tại bệnh viện",
+        "Cô đang yêu cầu một cuộc điều tra độc lập để tìm hiểu nguyên nhân cái chết",
+        "Bà Adichie tin rằng bệnh viện đang cố gắng ngăn chặn cuộc điều tra"
+      ],
+      "full_summary": "Bà tác giả Nigeria Chimamanda Ngozi Adichie đã tố cáo bệnh viện Lagos đang trì hoãn điều tra cái chết của con trai 21 tháng tuổi. Bà cho biết con trai đã qua đời tại bệnh viện vào tháng trước. Bà đang yêu cầu một cuộc điều tra độc lập để tìm hiểu nguyên nhân cái chết và tin rằng bệnh viện đang cố gắng ngăn chặn điều đó. Bà Adichie đã kêu gọi sự hỗ trợ từ cộng đồng quốc tế để giải quyết vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7a6aa9643de5",
+      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+      "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T02:55:21.303364+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ticketmaster tránh khóa tài khoản người hâm mộ Knicks",
+      "bullets": [
+        "Ticketmaster đã xóa thông báo gây nhầm lẫn về việc mua vé",
+        "Người hâm mộ Knicks đã phản ứng dữ dội với thông báo này",
+        "Ticketmaster đảm bảo mọi người đều có thể mua vé cho trận đấu",
+        "Sự cố đã được giải quyết sau khi có nhiều cuộc tranh luận"
+      ],
+      "full_summary": "Ticketmaster đã xóa thông báo gây nhầm lẫn trên trang web của mình sau khi người hâm mộ Knicks phản ứng dữ dội. Thông báo này đã gây ra sự nhầm lẫn và lo lắng cho người hâm mộ. Ticketmaster đã đảm bảo rằng mọi người đều có thể mua vé cho trận đấu. Sự cố đã được giải quyết sau khi có nhiều cuộc tranh luận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8c1f848df49e",
+      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T02:55:22.305144+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trẻ em Việt tìm kiếm 'bố mẹ ảo' để được yêu thương",
+      "bullets": [
+        "Tìm kiếm 'bố mẹ ảo' để được yêu thương và hỗ trợ",
+        "Một số trẻ em cảm thấy không được cha mẹ yêu thương",
+        "Tình trạng trẻ em tìm kiếm 'bố mẹ ảo' đang trở nên phổ biến",
+        "Các 'bố mẹ ảo' trở thành một cộng đồng trực tuyến lớn"
+      ],
+      "full_summary": "Một nhóm nhỏ người tạo nội dung trực tuyến gọi là 'bố mẹ ảo' đang trở nên phổ biến ở Việt Nam. Họ cung cấp sự yêu thương và hỗ trợ cho những người trẻ cảm thấy không được cha mẹ yêu thương. Một số trẻ em đã tìm kiếm sự giúp đỡ từ các 'bố mẹ ảo' vì họ cảm thấy không được cha mẹ yêu thương. Tình trạng này đang trở nên phổ biến và các 'bố mẹ ảo' trở thành một cộng đồng trực tuyến lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "97981df5f6c7",
+      "title": "Social media on trial: Four important cases to watch",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T02:55:23.211856+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các công ty mạng xã hội đối mặt với hàng nghìn vụ kiện",
+      "bullets": [
+        "Đang được xét xử là bốn vụ kiện quan trọng liên quan đến mạng xã hội",
+        "Các công ty mạng xã hội phải đối mặt với hàng nghìn vụ kiện",
+        "BBC xem xét bốn vụ kiện có thể có ý nghĩa quan trọng",
+        "Các vụ kiện này có thể ảnh hưởng đến cách mạng xã hội hoạt động"
+      ],
+      "full_summary": "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện. Theo BBC, bốn vụ kiện quan trọng đang được xét xử có thể ảnh hưởng đến cách mạng xã hội hoạt động. Các vụ kiện này liên quan đến việc mạng xã hội phải chịu trách nhiệm về nội dung trên nền tảng của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a68e088292c7",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T02:55:24.130930+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Một phiên bản AI quá mạnh cho công chúng được công bố",
+      "bullets": [
+        "Cung cấp phiên bản Claude Fable 5 của Anthropic's Claude Mythos",
+        "Phiên bản này gây xôn xao trong các lãnh đạo công nghệ, tài chính và chính phủ",
+        "Được cho là quá mạnh cho công chúng sử dụng",
+        "Cần được kiểm soát và quản lý chặt chẽ"
+      ],
+      "full_summary": "Anthropic vừa công bố phiên bản Claude Fable 5 của AI Claude Mythos, một chương trình gây xôn xao trong các lãnh đạo công nghệ, tài chính và chính phủ. Phiên bản này được cho là quá mạnh cho công chúng sử dụng và cần được kiểm soát và quản lý chặt chẽ. Mặc dù vậy, phiên bản này vẫn được công bố để công chúng có thể trải nghiệm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a167d144efea",
+      "title": "Trump targeting immigrants from countries hit most by climate shocks",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T02:55:25.203136+00:00",
+      "category": "chính trị",
+      "importance": 5,
+      "headline": "Trump nhắm vào người nhập cư từ các quốc gia dễ bị tổn thương bởi biến đổi khí hậu",
+      "bullets": [
+        "Cấm nhập cư từ 39 quốc gia dễ bị tổn thương bởi biến đổi khí hậu",
+        "Hầu hết các quốc gia này đang đối mặt với thiên tai, lũ lụt và hạn hán do biến đổi khí hậu",
+        "Chính quyền Trump đẩy mạnh chính sách tăng cường khai thác nhiên liệu hóa thạch",
+        "Đưa ra chính sách cấm nhập cư nhằm ngăn chặn người tị nạn khí hậu"
+      ],
+      "full_summary": "Chính quyền Trump đang nhắm vào người nhập cư từ các quốc gia dễ bị tổn thương bởi biến đổi khí hậu. Theo phân tích của The Guardian, 39 quốc gia đang đối mặt với hạn chế nhập cư của Mỹ đều đang bị ảnh hưởng nặng nề bởi thiên tai, lũ lụt và hạn hán do biến đổi khí hậu. Trong khi đó, chính quyền Trump đang đẩy mạnh chính sách tăng cường khai thác nhiên liệu hóa thạch, gây ra thêm áp lực cho các quốc gia này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0d68aaafbdc7",
+      "title": "Human Routers of Machine Words",
+      "url": "https://borretti.me/article/human-routers-of-machine-words",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-14T02:55:30.067092+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy tính đang sử dụng con người như một mạng lưới để truyền tải thông tin",
+      "bullets": [
+        "Các nhà nghiên cứu đang sử dụng con người để định tuyến thông tin trong các hệ thống máy tính",
+        "Mục tiêu là tạo ra các hệ thống tự động hóa thông tin hiệu quả hơn",
+        "Các nhà nghiên cứu đang nghiên cứu cách sử dụng con người trong các hệ thống máy tính"
+      ],
+      "full_summary": "Các nhà nghiên cứu đang sử dụng con người như một mạng lưới để truyền tải thông tin trong các hệ thống máy tính. Mục tiêu là tạo ra các hệ thống tự động hóa thông tin hiệu quả hơn. Các nhà nghiên cứu đang nghiên cứu cách sử dụng con người trong các hệ thống máy tính để tạo ra các hệ thống thông tin tự động hóa.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "262ac0234a43",
       "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
@@ -655,146 +794,6 @@
         "Người biểu tình phản đối cơ sở cách ly Ebola"
       ],
       "full_summary": "Cảnh sát Kenya đã bắn chết một người đàn ông trong cuộc biểu tình chống lại cơ sở cách ly Ebola cho công dân Mỹ. Sự kiện này đã diễn ra tại Nanyuki, cách Nairobi 120 dặm. Người biểu tình phản đối cơ sở cách ly Ebola do lo ngại về sự ảnh hưởng đến cộng đồng địa phương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "81bd3e46a0f1",
-      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-13T02:43:49.375771+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "SpaceX bây giờ là công ty niêm yết, sẵn sàng tạo ra lợi nhuận",
-      "bullets": [
-        "Chính thức niêm yết trên thị trường chứng khoán",
-        "Được đánh giá cao về tiềm năng công nghệ trí tuệ nhân tạo",
-        "Đảm bảo sẽ mang lại lợi nhuận cho các nhà đầu tư",
-        "Có thể mở rộng hoạt động kinh doanh trong tương lai"
-      ],
-      "full_summary": "SpaceX đã chính thức niêm yết trên thị trường chứng khoán, đánh dấu một bước ngoặt quan trọng trong lịch sử của công ty. Với tiềm năng công nghệ trí tuệ nhân tạo cao, SpaceX được đánh giá sẽ mang lại lợi nhuận cho các nhà đầu tư. Tuy nhiên, công ty vẫn cần phải chứng minh khả năng tạo ra lợi nhuận trong tương lai. Điều này sẽ giúp SpaceX mở rộng hoạt động kinh doanh và đạt được mục tiêu dài hạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "805d6ac1625a",
-      "title": "As a result of a US Government directive, we are suspending access to Fable 5",
-      "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-13T02:43:54.759975+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mỹ cấm truy cập Fable 5 theo chỉ thị chính phủ",
-      "bullets": [
-        "Mỹ đã ban hành chỉ thị cấm truy cập Fable 5",
-        "Fable 5 bị ảnh hưởng bởi chỉ thị này",
-        "Người dùng không thể truy cập trò chơi này",
-        "Cơ quan phát triển trò chơi ClaudeDev đang cập nhật thông tin"
-      ],
-      "full_summary": "Theo chỉ thị của chính phủ Mỹ, ClaudeDev đã phải tạm dừng truy cập Fable 5. Chỉ thị này được đưa ra để ảnh hưởng đến trò chơi. Người dùng không thể truy cập Fable 5 cho đến khi vấn đề được giải quyết. ClaudeDev đang cập nhật thông tin và sẽ thông báo khi có thông tin mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d39ca70fba0e",
-      "title": "Iran says deal to end fighting with US has 'never been closer'",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T19:59:20.545185+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hợp đồng kết thúc xung đột với Mỹ đang gần hơn bao giờ hết",
-      "bullets": [
-        "Iran tuyên bố thỏa thuận kết thúc xung đột với Mỹ đang gần hơn bao giờ hết",
-        "Pakistan cũng đồng ý với tuyên bố này",
-        "Hai quốc gia này đang nỗ lực tìm kiếm một giải pháp hòa bình",
-        "Thỏa thuận này được cho là sẽ giúp giảm căng thẳng giữa Iran và Mỹ"
-      ],
-      "full_summary": "Iran và Pakistan vừa tuyên bố thỏa thuận kết thúc xung đột với Mỹ đang gần hơn bao giờ hết. Điều này được cho là do nỗ lực tìm kiếm một giải pháp hòa bình của hai quốc gia này. Thỏa thuận này được cho là sẽ giúp giảm căng thẳng giữa Iran và Mỹ, nhưng vẫn chưa rõ khi nào thỏa thuận này sẽ được ký kết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "109b664f83e0",
-      "title": "French town buries murdered child as questions mount over police failings",
-      "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T19:59:21.462020+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một nghi phạm bị nghi giết cháu bé 11 tuổi không được điều tra",
-      "bullets": [
-        "Một nghi phạm bị nghi giết cháu bé 11 tuổi đã bị báo cáo cho cảnh sát 9 tháng trước",
-        "Nghi phạm không được hỏi cung dù cảnh sát đã nhận được tin báo",
-        "Cảnh sát đang chịu áp lực vì những sai lầm trong quá trình điều tra",
-        "Cháu bé bị giết đã được chôn cất trong một nghi lễ tang lễ"
-      ],
-      "full_summary": "Một nghi phạm bị nghi giết cháu bé 11 tuổi đã bị báo cáo cho cảnh sát 9 tháng trước nhưng không được hỏi cung. Cảnh sát đang chịu áp lực vì những sai lầm trong quá trình điều tra. Cháu bé bị giết đã được chôn cất trong một nghi lễ tang lễ. Sự cố này đã gây ra sự phẫn nộ trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "03563236416d",
-      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T19:59:22.413007+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cựu Thủ tướng Tây Ban Nha bị nghi ngờ về việc nhập khẩu trang sức",
-      "bullets": [
-        "Bị nghi ngờ không thể chứng minh đã nộp thuế nhập khẩu",
-        "Trang sức trị giá 1,2 triệu euro được phát hiện",
-        "Cơ quan điều tra mở cuộc điều tra mới",
-        "Cựu Thủ tướng Tây Ban Nha là José Luis Rodriguez Zapatero"
-      ],
-      "full_summary": "Cựu Thủ tướng Tây Ban Nha José Luis Rodriguez Zapatero đang bị nghi ngờ về việc nhập khẩu trang sức trị giá 1,2 triệu euro mà không nộp thuế. Cơ quan điều tra đã phát hiện trang sức này và mở cuộc điều tra mới. Cựu Thủ tướng Tây Ban Nha đang phải đối mặt với cáo buộc vi phạm quy định về thuế nhập khẩu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3760ea9b727f",
-      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T19:59:24.386890+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Taylor Swift gia nhập Đại sảnh Danh vọng Nhạc sĩ",
-      "bullets": [
-        "Taylor Swift được vinh danh vào Đại sảnh Danh vọng Nhạc sĩ",
-        "Cô trở thành phụ nữ trẻ nhất được nhận vinh danh này",
-        "Taylor Swift cảm ơn gia đình vì sự ủng hộ",
-        "Bà đã phát biểu một bài nói chuyện 21 phút đầy cảm xúc"
-      ],
-      "full_summary": "Taylor Swift đã được vinh danh vào Đại sảnh Danh vọng Nhạc sĩ, trở thành phụ nữ trẻ nhất được nhận vinh danh này. Trong bài nói chuyện đầy cảm xúc 21 phút, cô đã cảm ơn gia đình vì sự ủng hộ. Taylor Swift đã trở thành một trong những nghệ sĩ nổi tiếng nhất thế giới và đã giành được nhiều giải thưởng trong sự nghiệp của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d124c9ec786d",
-      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-12T19:59:25.358600+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mẹ tìm thấy thi thể con trai mất tích sau cuộc biểu tình Ebola tại Kenya",
-      "bullets": [
-        "Một người đàn ông Kenya đã mất tích sau khi đi mua áo đồng phục học",
-        "Mẹ của anh ta đã tìm thấy thi thể con trai mình hai ngày sau",
-        "Các cuộc biểu tình đã diễn ra tại trung tâm cách ly Ebola ở Kenya",
-        "Sự cố này đã gây ra lo ngại về an ninh và sức khỏe công cộng"
-      ],
-      "full_summary": "Một người đàn ông Kenya đã mất tích sau khi đi mua áo đồng phục học. Mẹ của anh ta đã tìm thấy thi thể con trai mình hai ngày sau. Các cuộc biểu tình đã diễn ra tại trung tâm cách ly Ebola ở Kenya, gây ra lo ngại về an ninh và sức khỏe công cộng. Sự cố này đã xảy ra trong bối cảnh Kenya đang đối phó với dịch Ebola.",
       "comments": 0,
       "score": 0
     }
