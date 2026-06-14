@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-14T13:46:59.270848+00:00",
+  "updated_at": "2026-06-14T19:15:16.836665+00:00",
   "articles": [
+    {
+      "id": "b19e17f18be3",
+      "title": "Israeli military says Hezbollah targets struck in Beirut",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:02.489562+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel tấn công Hezbollah tại Beirut, gây lo ngại về thỏa thuận Iran - Mỹ",
+      "bullets": [
+        "Israel tấn công mục tiêu Hezbollah tại Beirut",
+        "Tehran cảnh báo động thái này có thể khiến thỏa thuận Iran - Mỹ đổ vỡ",
+        "Mục tiêu tấn công được cho là liên quan đến Iran",
+        "Israel khẳng định hành động này nhằm mục đích bảo vệ quốc gia"
+      ],
+      "full_summary": "Israel cho biết đã tấn công mục tiêu của Hezbollah tại Beirut, gây lo ngại về thỏa thuận Iran - Mỹ nhằm chấm dứt xung đột. Tehran đã cảnh báo rằng động thái này có thể khiến thỏa thuận đổ vỡ. Mục tiêu tấn công được cho là liên quan đến Iran và Israel khẳng định hành động này nhằm mục đích bảo vệ quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca9288d6e4df",
+      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:03.422154+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ sinh bị bắn, xe buýt bị đốt sau chiến thắng NBA của Knicks",
+      "bullets": [
+        "Bị bắt giữ ít nhất 63 người sau bạo động ở Manhattan",
+        "Một nữ sinh bị bắn và bị thương",
+        "Một số xe buýt bị đốt cháy",
+        "Các cảnh sát đang điều tra nguyên nhân vụ việc"
+      ],
+      "full_summary": "Sau khi Knicks đánh bại Spurs để giành chức vô địch, Manhattan đã xảy ra bạo động. Một nữ sinh bị bắn và bị thương, còn nhiều xe buýt bị đốt cháy. Các cảnh sát đã bắt giữ ít nhất 63 người và đang điều tra nguyên nhân vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ab17b071b78f",
+      "title": "UK and Japan agree £18bn investment deal",
+      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:04.375593+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Nhật Bản đầu tư 18 tỷ bảng vào cơ sở hạ tầng Anh",
+      "bullets": [
+        "Đầu tư vào cơ sở hạ tầng Anh",
+        "Sản xuất năng lượng gió ngoài khơi",
+        "Tăng cường hợp tác kinh tế giữa hai quốc gia"
+      ],
+      "full_summary": "Chính phủ Anh và Nhật Bản đã đạt được thỏa thuận đầu tư trị giá 18 tỷ bảng Anh. Theo thỏa thuận, các công ty Nhật Bản sẽ đầu tư vào cơ sở hạ tầng và năng lượng gió ngoài khơi Anh. Đây là một bước tiến quan trọng trong việc tăng cường hợp tác kinh tế giữa hai quốc gia. Thỏa thuận này sẽ mang lại lợi ích cho cả hai quốc gia và đóng góp vào sự phát triển kinh tế toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "61943d3e4966",
+      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:05.277953+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trudeau gặp Perry sau khi bỏ trận bóng đá Canada",
+      "bullets": [
+        "Trudeau bỏ trận bóng đá Canada để theo dõi Perry",
+        "Perry chạy lên sân để chào Trudeau",
+        "Cặp đôi hẹn hò được nhìn thấy hôn nhau",
+        "Trudeau giải thích rằng anh ấy cần thực hiện nghĩa vụ với người yêu"
+      ],
+      "full_summary": "Bà Justin Trudeau, lãnh đạo Canada, đã bỏ trận đấu bóng đá quốc gia để theo dõi sự kiện của người hẹn hò, Perry. Cô Perry đã chạy lên sân để chào đón Trudeau và cả hai đã được nhìn thấy hôn nhau. Trong một cuộc phỏng vấn sau đó, Trudeau giải thích rằng anh ấy cần thực hiện nghĩa vụ với người yêu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cc422ef7704",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:06.237416+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Elon Musk trở thành tỷ phú đầu tiên đạt 1 triệu tỷ USD",
+      "bullets": [
+        "Elon Musk trở thành tỷ phú đầu tiên đạt 1 triệu tỷ USD",
+        "Ông là người sáng lập và CEO của Tesla, SpaceX và X",
+        "Elon Musk đã trở thành người giàu nhất thế giới từ lâu",
+        "Net worth của ông đã đạt mức kỷ lục 1.000 tỷ USD"
+      ],
+      "full_summary": "Elon Musk, người sáng lập và CEO của Tesla, SpaceX và X, đã trở thành tỷ phú đầu tiên đạt 1 triệu tỷ USD. Ông đã trở thành người giàu nhất thế giới từ lâu và đã đạt được nhiều thành tựu trong lĩnh vực công nghệ. Net worth của ông đã đạt mức kỷ lục 1.000 tỷ USD. Điều này thể hiện sự thành công và ảnh hưởng của ông trong lĩnh vực công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "824ad12c6d30",
+      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:07.232085+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty sở hữu ChatGPT sắp niêm yết trên thị trường chứng khoán",
+      "bullets": [
+        "Đệm đơn hồ sơ cho niêm yết trên thị trường chứng khoán",
+        "Sau khi Anthropic nộp đơn vào tuần trước",
+        "Công ty đang cạnh tranh để huy động vốn",
+        "Nhiều công ty công nghệ đang tăng tốc huy động vốn"
+      ],
+      "full_summary": "Công ty sở hữu ChatGPT, một trong những công nghệ trí tuệ nhân tạo (AI) hàng đầu, sắp niêm yết trên thị trường chứng khoán. Đây là bước tiến quan trọng trong cuộc đua huy động vốn của các công ty công nghệ. Sau khi Anthropic nộp đơn vào tuần trước, công ty này đã đệm đơn hồ sơ cho niêm yết trên thị trường chứng khoán. Việc này cho thấy công ty đang tăng tốc huy động vốn để phát triển và mở rộng hoạt động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b15ac133aab7",
+      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:08.210488+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội đồng London thu hồi căn hộ xã hội thuê bởi phu nhân Sierra Leone",
+      "bullets": [
+        "Thu hồi căn hộ xã hội ở Walworth",
+        "Phu nhân Sierra Leone Fatima Jabbe-Bio thuê căn hộ mà không ở",
+        "Hội đồng Southwark xác nhận thu hồi căn hộ",
+        "Căn hộ được thuê trái với quy định"
+      ],
+      "full_summary": "Hội đồng Southwark đã thu hồi một căn hộ xã hội hai phòng ở Walworth, được thuê bởi phu nhân Sierra Leone Fatima Jabbe-Bio. Theo báo Times, bà Jabbe-Bio đã thuê căn hộ này mặc dù sống phần lớn năm tại dinh tổng thống ở Freetown. Việc thu hồi căn hộ được thực hiện sau khi báo chí tiết lộ thông tin này. Hội đồng Southwark xác nhận rằng căn hộ đã được thu hồi và sẽ được phân phối lại cho người có nhu cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3e198c8b1880",
+      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
+      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-14T19:15:09.139730+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Người dân Jamaica tranh đấu để bảo vệ quyền tiếp cận bãi biển",
+      "bullets": [
+        "Phản đối việc bán bãi biển cho các tập đoàn khách sạn",
+        "Khẳng định quyền tiếp cận bãi biển là quyền cơ bản của người dân",
+        "Tố cáo luật pháp thời kỳ thuộc địa",
+        "Mục tiêu là giành được quyền sử dụng bãi biển miễn phí và vĩnh viễn"
+      ],
+      "full_summary": "Người dân Jamaica đang kiện chính phủ vì việc cắt giảm quyền tiếp cận bãi biển. Họ cho rằng việc bán bãi biển cho các tập đoàn khách sạn chỉ mang lại lợi ích cho các nhà đầu tư và du khách, trong khi người dân Jamaica bị mất đi nguồn thu nhập, thời gian giải trí và lợi ích sức khỏe từ biển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "882bc6508d1d",
+      "title": "Rome Fell and Nobody Noticed",
+      "url": "https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-14T19:15:13.487533+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Rôma sụp đổ mà không ai nhận thấy",
+      "bullets": [
+        "Rôma bị sụp đổ mà không có báo động nào",
+        "Không có thông tin về nguyên nhân của sự kiện",
+        "Mặc dù có nhiều người biết về lịch sử Rôma nhưng họ không phản ứng",
+        "Sự kiện này đã không được công bố rộng rãi"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã tiết lộ rằng thành phố Rôma đã bị sụp đổ mà không ai nhận thấy. Không có báo động nào được đưa ra và không có thông tin về nguyên nhân của sự kiện. Mặc dù có nhiều người biết về lịch sử Rôma nhưng họ không phản ứng. Sự kiện này đã không được công bố rộng rãi và chỉ được biết đến qua một bài viết trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "572ddabc2ac7",
       "title": "Swiss voters reject 10 million population cap, early projections say",
@@ -609,185 +788,6 @@
         "Meta sẽ phải thực hiện các thay đổi để đáp ứng yêu cầu của Ủy ban châu Âu"
       ],
       "full_summary": "Ủy ban châu Âu đã yêu cầu Meta, công ty sở hữu ứng dụng nhắn tin WhatsApp, phải mở WhatsApp cho các chatbot AI của các công ty đối thủ. Meta đã phản ứng lại bằng cách tố cáo Ủy ban châu Âu vi phạm quy định. Các chuyên gia lo ngại rằng chính sách mới sẽ ảnh hưởng đến sự bảo mật và quyền riêng tư của người dùng WhatsApp. Meta sẽ phải thực hiện các thay đổi để đáp ứng yêu cầu của Ủy ban châu Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "936e63d132ec",
-      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T19:14:14.986763+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Các tập đoàn toàn cầu có thể sử dụng khoáng sản tài trợ cho các phiến quân bị cáo buộc tội ác chiến tranh ở DRC",
-      "bullets": [
-        "Nghiên cứu cho thấy Amazon, Sony và Ericsson có thể đã mua coltan từ chuỗi cung ứng do phiến quân M23 kiểm soát",
-        "M23 bị cáo buộc có liên quan đến bạo lực tình dục, hành quyết và tra tấn ở đông DRC",
-        "Coltan được sử dụng trong các thiết bị điện tử như điện thoại",
-        "Nghiên cứu được thực hiện bởi Global Witness"
-      ],
-      "full_summary": "Một nghiên cứu mới của Global Witness cho thấy các tập đoàn toàn cầu như Amazon, Sony và Ericsson có thể đã mua coltan từ chuỗi cung ứng do phiến quân M23 kiểm soát ở Cộng hòa Dân chủ Congo. M23 bị cáo buộc có liên quan đến các tội ác chiến tranh, bao gồm bạo lực tình dục, hành quyết và tra tấn. Coltan được sử dụng trong các thiết bị điện tử như điện thoại, và các tập đoàn này có thể đã không biết rằng họ đang tài trợ cho các phiến quân này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "77cc79f7af53",
-      "title": "Review: Disclosure Day is big on action, light on ideas",
-      "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-13T19:14:15.977415+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Phim 'Ngày Phá Bìa' đầy hành động, thiếu ý tưởng sáng tạo",
-      "bullets": [
-        "Cung cấp một câu chuyện đầy kịch tính và hành động",
-        "Đạo diễn tài năng tạo nên một tác phẩm hấp dẫn",
-        "Không có bất kỳ điều gì mới mẻ hoặc bất ngờ",
-        "Còn thiếu một số ý tưởng sáng tạo và phát triển"
-      ],
-      "full_summary": "Phim 'Ngày Phá Bìa' là một tác phẩm điện ảnh đầy hành động và kịch tính, được đạo diễn bởi một trong những đạo diễn tài năng nhất. Mặc dù không có bất kỳ điều gì mới mẻ hoặc bất ngờ, nhưng phim vẫn mang lại một trải nghiệm hấp dẫn cho người xem. Tuy nhiên, vẫn còn thiếu một số ý tưởng sáng tạo và phát triển để làm cho phim trở nên hoàn hảo hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6adfb722521c",
-      "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
-      "url": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-13T19:14:16.992855+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mạng lưới nấm dưới lòng đất có thể dài hơn hệ thống Mặt Trời",
-      "bullets": [
-        "Xác định được chiều dài và khối lượng của mạng lưới nấm dưới lòng đất toàn cầu",
-        "Nghiên cứu cho thấy mạng lưới nấm có thể dài hơn 100 tỷ km",
-        "Mạng lưới này có thể vượt qua hệ thống Mặt Trời và có thể liên kết các hành tinh",
-        "Nghiên cứu này mở rộng hiểu biết về hệ sinh thái dưới lòng đất"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã xác định được chiều dài và khối lượng của mạng lưới nấm dưới lòng đất toàn cầu. Nghiên cứu cho thấy mạng lưới nấm có thể dài hơn 100 tỷ km, vượt qua hệ thống Mặt Trời. Điều này cho thấy mạng lưới nấm có thể liên kết các hành tinh và mở rộng hiểu biết về hệ sinh thái dưới lòng đất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6bfb729a6297",
-      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-13T19:14:17.954114+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chạy hệ điều hành DOS trên thiết bị âm thanh Behringer DDX3216",
-      "bullets": [
-        "Tạo hệ điều hành x86 từ đầu",
-        "Thiết lập BIOS cho thiết bị âm thanh",
-        "Cài đặt hệ điều hành DOS",
-        "Thử nghiệm thành công"
-      ],
-      "full_summary": "Một lập trình viên đã tạo ra hệ điều hành x86 từ đầu và cài đặt nó lên thiết bị âm thanh Behringer DDX3216. Họ đã tạo ra BIOS cho thiết bị và thử nghiệm thành công việc chạy hệ điều hành DOS trên đó. Bài viết này mô tả quá trình thực hiện và cung cấp hướng dẫn chi tiết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "14e3c420a11e",
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-13T19:14:20.582647+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Một nghiên cứu về bộ xử lý 8087 của Intel đã khám phá bộ cộng số thập lục phân",
-      "bullets": [
-        "Khám phá được bộ cộng số thập lục phân được sử dụng trong bộ xử lý 8087",
-        "Nghiên cứu sử dụng phương pháp phân tích ngược để hiểu rõ hơn về thiết kế của bộ xử lý",
-        "Bộ cộng số thập lục phân là một phần quan trọng của bộ xử lý 8087"
-      ],
-      "full_summary": "Một nghiên cứu mới đã khám phá bộ cộng số thập lục phân được sử dụng trong bộ xử lý 8087 của Intel. Nghiên cứu này sử dụng phương pháp phân tích ngược để hiểu rõ hơn về thiết kế của bộ xử lý. Bộ cộng số thập lục phân là một phần quan trọng của bộ xử lý 8087 và đóng vai trò quan trọng trong việc thực hiện các phép tính số học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b0565d92a85f",
-      "title": "Switzerland to vote on plan to cap population at 10 million",
-      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T13:44:37.556815+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Thụy Sĩ sắp bỏ phiếu về kế hoạch giới hạn dân số 10 triệu",
-      "bullets": [
-        "Sẽ bỏ phiếu về kế hoạch giới hạn dân số 10 triệu",
-        "Đảng nhân dân Thụy Sĩ cho rằng đây là một sáng kiến về sự bền vững",
-        "Ủy ban chống kế hoạch cho rằng đây là một công thức cho hỗn loạn",
-        "Kế hoạch này sẽ ảnh hưởng đến nền kinh tế và xã hội của Thụy Sĩ"
-      ],
-      "full_summary": "Thụy Sĩ sắp tổ chức một cuộc bỏ phiếu về kế hoạch giới hạn dân số 10 triệu. Đảng nhân dân Thụy Sĩ cho rằng đây là một sáng kiến về sự bền vững, nhưng ủ ban chống kế hoạch cho rằng đây là một công thức cho hỗn loạn. Nếu kế hoạch này được thông qua, nó sẽ ảnh hưởng đến nền kinh tế và xã hội của Thụy Sĩ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "77939a033dad",
-      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T13:44:38.509138+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Các ngôi sao chương trình 'Hôn nhân đầu tiên' không biết về tiền án của đối tác",
-      "bullets": [
-        "Bí mật về tiền án của đối tác được giữ kín",
-        "Các ngôi sao không biết về tiền án của đối tác",
-        "Tiền án liên quan đến tội phạm ma túy và bạo lực",
-        "Các ngôi sao lên tiếng về sự bất ngờ"
-      ],
-      "full_summary": "Các ngôi sao chương trình 'Hôn nhân đầu tiên' Australia đã tiết lộ rằng họ không biết về tiền án của đối tác. Các ngôi sao cho biết họ đã không biết về tiền án của đối tác trước khi kết hôn. Tiền án liên quan đến tội phạm ma túy và bạo lực. Các ngôi sao lên tiếng về sự bất ngờ và cho biết họ đã không biết về tiền án của đối tác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4f5a8241c256",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T13:44:39.510680+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ bắn hạ lãnh đạo băng Tren de Aragua Venezuela",
-      "bullets": [
-        "Mỹ thực hiện cuộc tấn công bằng tên lửa vào Venezuela",
-        "Lãnh đạo băng Tren de Aragua Niño Guerrero bị giết",
-        "Động thái này được Tổng thống Trump công bố trên mạng xã hội",
-        "Mục tiêu là chống lại tội phạm ở Venezuela"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump thông báo đã thực hiện một cuộc tấn công bằng tên lửa vào Venezuela, giết chết lãnh đạo băng Tren de Aragua Niño Guerrero. Theo ông Trump, động thái này nhằm chống lại tội phạm ở Venezuela. Cuộc tấn công được gọi là 'kinetic strike nhanh chóng và chết chóc'. Lãnh đạo băng Tren de Aragua bị cho là có liên quan đến nhiều vụ phạm tội ở Venezuela.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "29e21a1bda87",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T13:44:40.474116+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Công ty Anthropic tạm dừng phát triển công cụ AI mới vì lo ngại an ninh quốc gia Mỹ",
-      "bullets": [
-        "Tạm dừng phát triển công cụ AI Claude Fable 5 vì lo ngại bảo mật",
-        "Khả năng bị hack và xâm phạm an ninh quốc gia Mỹ",
-        "Đáp ứng yêu cầu của chính phủ Mỹ về an ninh",
-        "Tìm kiếm giải pháp để đảm bảo an toàn cho công cụ AI"
-      ],
-      "full_summary": "Công ty Anthropic đã tạm dừng phát triển công cụ AI Claude Fable 5 sau khi công bố công khai. Điều này là do lo ngại về an ninh và khả năng bị hack. Chính phủ Mỹ đã yêu cầu công ty đảm bảo an ninh cho công cụ AI. Công ty đang tìm kiếm giải pháp để đảm bảo an toàn cho công cụ AI.",
       "comments": 0,
       "score": 0
     }
