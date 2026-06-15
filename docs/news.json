@@ -1,6 +1,162 @@
 {
-  "updated_at": "2026-06-15T11:51:07.412442+00:00",
+  "updated_at": "2026-06-15T17:04:36.401758+00:00",
   "articles": [
+    {
+      "id": "8221ae7e4b03",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T17:04:20.048432+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran và Mỹ đạt thỏa thuận kết thúc chiến tranh",
+      "bullets": [
+        "Kết thúc chiến tranh và mở lại eo biển Hormuz",
+        "Hai bên trở về vị trí ban đầu 24 giờ trước khi chiến tranh nổ ra",
+        "Thương vong hàng nghìn người",
+        "Thỏa thuận này kết thúc chiến tranh do Trump khởi xướng"
+      ],
+      "full_summary": "Iran và Mỹ đã đạt được thỏa thuận để kết thúc chiến tranh và mở lại eo biển Hormuz. Thỏa thuận này cho phép hai bên trở về vị trí ban đầu 24 giờ trước khi chiến tranh nổ ra. Tuy nhiên, chiến tranh đã gây ra thương vong hàng nghìn người. Chiến tranh này được coi là một biểu hiện của giới hạn quyền lực của Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "71cf448ee0ac",
+      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+      "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T17:04:21.192596+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhân viên Starbucks Hàn Quốc nghỉ việc để học về lịch sử",
+      "bullets": [
+        "Đóng cửa các cửa hàng Starbucks Hàn Quốc để nhân viên học về lịch sử",
+        "Critic về chiến dịch tiếp thị 'Ngày Xe Bọc Bao' liên quan đến thảm sát quân sự",
+        "Sự cố gây phẫn nộ trong cộng đồng và truyền thông",
+        "Nhân viên sẽ được nghỉ việc để tham gia bài học về lịch sử"
+      ],
+      "full_summary": "Nhân viên Starbucks Hàn Quốc sẽ nghỉ việc để tham gia bài học về lịch sử sau khi công ty bị chỉ trích vì chiến dịch tiếp thị 'Ngày Xe Bọc Bao' liên quan đến thảm sát quân sự. Sự cố gây phẫn nộ trong cộng đồng và truyền thông. Công ty hy vọng rằng việc nghỉ việc sẽ giúp nhân viên hiểu rõ hơn về lịch sử và cải thiện hình ảnh công ty.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c9312cbf910c",
+      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+      "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T17:04:22.258765+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người nhảy múa trên núi lửa Yemen rơi xuống vực thẳm",
+      "bullets": [
+        "Người nhảy múa trên núi lửa Yemen Al-Qaqa Ibn Antar rơi xuống vực thẳm",
+        "Không có thiết bị an toàn khi cố gắng leo lên tường núi lửa",
+        "Lực lượng chức năng xác nhận vụ việc"
+      ],
+      "full_summary": "Al-Qaqa Ibn Antar, người được gọi là 'Người nhảy múa trên núi lửa Yemen', đã qua đời khi rơi xuống vực thẳm của núi lửa. Theo thông tin từ các lực lượng chức năng, anh ta đã cố gắng leo lên tường núi lửa mà không có thiết bị an toàn. Vụ việc đã được xác nhận và đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6639709169d9",
+      "title": "Fifa seeks explanation over VAR official's hand gesture",
+      "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T17:04:24.208176+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "FIFA tìm hiểu về cử chỉ tay của trọng tài VAR",
+      "bullets": [
+        "FIFA đang yêu cầu giải thích về cử chỉ tay của trọng tài VAR Shaun Evans",
+        "Cử chỉ tay của Evans được cho là không phù hợp trong trận đấu giữa Đức và Quần đảo Curacao",
+        "Trận đấu kết thúc với tỷ số 7-1 nghiêng về Đức",
+        "FIFA chưa công bố bất kỳ thông tin nào về hậu quả của vụ việc"
+      ],
+      "full_summary": "FIFA đang tìm hiểu về cử chỉ tay của trọng tài VAR Shaun Evans trước trận đấu giữa Đức và Quần đảo Curacao. Cử chỉ tay của Evans được cho là không phù hợp và đã gây chú ý trong trận đấu. Trận đấu kết thúc với tỷ số 7-1 nghiêng về Đức. FIFA chưa công bố bất kỳ thông tin nào về hậu quả của vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b1817198c0ad",
+      "title": "Social media ban - bold and blunt, but no silver bullet",
+      "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T17:04:25.245899+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cấm mạng xã hội không phải giải pháp thần kỳ",
+      "bullets": [
+        "Cấm mạng xã hội không thể ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp",
+        "Nhiều nền tảng mạng xã hội đang tìm cách tự quản lý nội dung",
+        "Chính phủ cần hợp tác với các công ty công nghệ để giải quyết vấn đề này"
+      ],
+      "full_summary": "Chuyên gia công nghệ của BBC, Zoe Kleinman, cho biết việc cấm mạng xã hội không phải là giải pháp thần kỳ để ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp. Mạng xã hội vẫn đang phát triển và trẻ em vẫn có thể dễ dàng tiếp cận các nền tảng này. Để giải quyết vấn đề này, chính phủ cần hợp tác với các công ty công nghệ để tạo ra các giải pháp hiệu quả hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a68e088292c7",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T17:04:26.214245+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Một phiên bản AI quá mạnh cho công chúng được công bố",
+      "bullets": [
+        "Cung cấp phiên bản Claude Fable 5 của Anthropic",
+        "Phiên bản này gây tranh cãi trong giới công nghệ, tài chính và chính phủ",
+        "Chưa rõ lý do tại sao phiên bản này được công bố công khai"
+      ],
+      "full_summary": "Anthropic đã công bố phiên bản Claude Fable 5, một phần của chương trình AI gây tranh cãi. Phiên bản này được cho là quá mạnh cho công chúng. Giới công nghệ, tài chính và chính phủ đã bày tỏ lo ngại về việc sử dụng AI như vậy. Tuy nhiên, lý do tại sao phiên bản này được công bố công khai vẫn chưa rõ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "23f27a861a03",
+      "title": "Woman, 21, dies after being thrown from Brazil rope jump bridge without harness",
+      "url": "https://www.theguardian.com/world/2026/jun/15/brazil-rope-jump-bridge-woman-dies",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T17:04:29.249262+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ sinh 21 tuổi rơi từ cầu dây văng tử vong",
+      "bullets": [
+        "Một nữ sinh 21 tuổi bị 2 huấn luyện viên ném khỏi cầu dây văng mà không đeo dây an toàn",
+        "Nữ sinh đã yêu cầu được nhảy cầu airplane style nhưng không được thực hiện đúng",
+        "Cảnh sát đang điều tra vụ việc và xác định nguyên nhân dẫn đến cái chết của nữ sinh"
+      ],
+      "full_summary": "Một nữ sinh 21 tuổi tên Maria Eduarda Rodrigues de Freitas đã tử vong sau khi bị 2 huấn luyện viên ném khỏi cầu dây văng mà không đeo dây an toàn. Nữ sinh đang tham gia hoạt động trượt dây văng trên cầu Ponte do Esqueleto ở thành phố Limeira, bang São Paulo, Brazil. Nữ sinh đã yêu cầu được nhảy cầu airplane style nhưng không được thực hiện đúng, dẫn đến cái chết của cô.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6e9cc34dd8c5",
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-15T17:04:33.463768+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Hàng trăm tổ chức bị tấn công bởi lỗ hổng 0-day trong PeopleSoft",
+      "bullets": [
+        "Bị khai thác bởi hacker để đánh cắp dữ liệu lớn",
+        "Lỗ hổng nghiêm trọng trong phần mềm PeopleSoft thuộc sở hữu của Oracle",
+        "Hàng trăm tổ chức trên toàn thế giới bị ảnh hưởng bởi lỗ hổng này",
+        "Dữ liệu bị đánh cắp có thể lên đến hàng gigabyte"
+      ],
+      "full_summary": "Một lỗ hổng nghiêm trọng đã được phát hiện trong phần mềm quản lý nhân sự PeopleSoft thuộc sở hữu của Oracle. Lỗ hổng này đã được khai thác bởi hacker để đánh cắp dữ liệu lớn từ hàng trăm tổ chức trên toàn thế giới. Dữ liệu bị đánh cắp có thể lên đến hàng gigabyte, gây ra mối lo ngại về an ninh dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "dd4054ce766e",
       "title": "Norwegian crown princess's son found guilty of two counts of rape",
@@ -634,164 +790,6 @@
         "Không có người chết trong vụ tai nạn"
       ],
       "full_summary": "Một vụ tai nạn đã xảy ra tại lễ hội tapas ở Cártama, Tây Ban Nha. Một tàu du lịch đã lật đổ, khiến 17 người bị thương. Tuy nhiên, không có người bị thương nghiêm trọng. Cơ quan chức năng địa phương cho biết vụ tai nạn không gây tử vong.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4eb056165a59",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:46.650041+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Fifa sẽ thanh toán toàn bộ tiền lương cho trọng tài Somali",
-      "bullets": [
-        "Fifa sẽ thanh toán toàn bộ tiền lương cho trọng tài Somali Omar Artan",
-        "Trọng tài Omar Artan bị từ chối nhập cảnh vào Mỹ",
-        "Fifa sẽ không bị ảnh hưởng bởi quyết định của Mỹ",
-        "Trọng tài Omar Artan sẽ nhận được tiền lương đầy đủ"
-      ],
-      "full_summary": "Fifa sẽ thanh toán toàn bộ tiền lương cho trọng tài Somali Omar Artan bất chấp quyết định từ chối nhập cảnh vào Mỹ. Điều này cho thấy Fifa sẽ không bị ảnh hưởng bởi quyết định của Mỹ. Trọng tài Omar Artan vẫn sẽ nhận được tiền lương đầy đủ cho vai trò của mình tại World Cup.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b488b0dc744",
-      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:47.661305+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Tỷ phú Elon Musk đạt ngưỡng 1 nghìn tỷ USD sau một thời gian ngắn.",
-      "bullets": [
-        "Tăng trưởng tài sản của Elon Musk đạt hơn 1.000 tỷ USD trong một năm.",
-        "Sự gia tăng này chủ yếu đến từ giá cổ phiếu của Tesla và Twitter.",
-        "Elon Musk trở thành tỷ phú thứ 2 thế giới sau Jeff Bezos.",
-        "Tỷ phú này vẫn đang dẫn đầu danh sách tỷ phú giàu nhất thế giới."
-      ],
-      "full_summary": "Elon Musk đã đạt được ngưỡng 1 nghìn tỷ USD trong tài sản của mình sau một thời gian ngắn. Sự gia tăng này chủ yếu đến từ giá cổ phiếu của Tesla và Twitter. Tỷ phú này đã trở thành tỷ phú thứ 2 thế giới sau Jeff Bezos. Mặc dù vậy, Elon Musk vẫn đang dẫn đầu danh sách tỷ phú giàu nhất thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a3f72e4af9b",
-      "title": "Kalshi to make some users reveal job details to tackle insider trading",
-      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:48.599196+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
-      "bullets": [
-        "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián.",
-        "Hệ thống đặt cược dự đoán này sẽ áp dụng các quy tắc mới để ngăn chặn hành vi bất hợp pháp.",
-        "Mục tiêu là ngăn chặn thông tin nội gián ảnh hưởng đến kết quả đặt cược."
-      ],
-      "full_summary": "Kalshi, một nền tảng đặt cược dự đoán, sẽ áp dụng các quy tắc mới để ngăn chặn giao dịch nội gián. Người dùng sẽ phải tiết lộ thông tin công việc để ngăn chặn thông tin nội gián ảnh hưởng đến kết quả đặt cược. Mục tiêu là ngăn chặn hành vi bất hợp pháp và duy trì tính công bằng trong hệ thống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f792aa52aecc",
-      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
-      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:49.593204+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Farage nói Reform liên hệ với X cấp cao về quảng cáo AI giả mạo",
-      "bullets": [
-        "Farage nói Reform đã liên hệ với X cấp cao",
-        "Quảng cáo giả mạo có hình ảnh của thống đốc Ngân hàng Anh",
-        "Ngân hàng Anh khuyên mọi người báo cáo quảng cáo giả mạo"
-      ],
-      "full_summary": "Nigel Farage nói rằng Reform đã liên hệ với cấp cao nhất về quảng cáo giả mạo sử dụng trí tuệ nhân tạo (AI). Các quảng cáo giả mạo có hình ảnh của thống đốc Ngân hàng Anh và Ngân hàng Anh đã khuyên mọi người báo cáo chúng. Đây là một vấn đề nghiêm trọng về an ninh mạng và có thể gây ra sự nhầm lẫn cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "43b97996d22c",
-      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:50.570318+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Một người đàn ông bị bắn chết trong cuộc biểu tình chống dự án cơ sở cách ly Ebola của Mỹ tại Kenya",
-      "bullets": [
-        "Bị bắn chết trong một cuộc biểu tình",
-        "Cơ sở cách ly Ebola được Mỹ đề xuất tại Kenya",
-        "Cảnh sát đã bắn chết một người đàn ông",
-        "Cảnh sát đã xua tan cuộc biểu tình tại Nanyuki"
-      ],
-      "full_summary": "Một người đàn ông đã bị bắn chết trong một cuộc biểu tình tại Nanyuki, Kenya, sau khi cảnh sát xua tan cuộc biểu tình. Người đàn ông này đã bị bắn vào đầu và đã chết. Dự án cơ sở cách ly Ebola của Mỹ đã gây ra sự phẫn nộ tại Kenya và người dân đã biểu tình chống lại dự án này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e89f94d99e2d",
-      "title": "Mother hopes to get justice for murdered daughter in retrial in Dominican Republic",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:51.635030+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mẹ hy vọng sẽ tìm được công lý cho con gái bị sát hại ở Cộng hòa Dominica",
-      "bullets": [
-        "Một mẹ 90 tuổi ở Cambridgeshire hy vọng sẽ tìm được công lý cho con gái bị sát hại",
-        "Lindsay de Feliz, một nhà văn thành công, bị sát hại ở Cộng hòa Dominica vào năm 2019",
-        "Thử nghiệm lại vụ án sẽ bắt đầu trong tuần này ở Cộng hòa Dominica",
-        "Mẹ của nạn nhân hy vọng những kẻ gây án sẽ bị kết tội"
-      ],
-      "full_summary": "Một mẹ 90 tuổi ở Cambridgeshire đang hy vọng sẽ tìm được công lý cho con gái bị sát hại ở Cộng hòa Dominica. Thân thể của Lindsay de Feliz, một nhà văn thành công 64 tuổi, được tìm thấy trong một hố sâu gần nhà của cô ở phía tây bắc Cộng hòa Dominica vào tháng 12 năm 2019. Một vụ án đã được mở và một số người đã bị bắt giữ, nhưng không ai đã bị kết tội. Bây giờ, một phiên tòa xét lại sẽ bắt đầu trong tuần này, và mẹ của nạn nhân hy vọng những kẻ gây án sẽ bị kết tội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2258e55c2bc2",
-      "title": "How to Earn a Billion Dollars",
-      "url": "https://paulgraham.com/earn.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-14T13:46:56.497550+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Làm giàu đến 1 tỷ USD: Bí quyết của các tỷ phú",
-      "bullets": [
-        "Tìm kiếm cơ hội kinh doanh độc đáo",
-        "Tạo ra sản phẩm hoặc dịch vụ có giá trị cao",
-        "Tổ chức và quản lý đội ngũ nhân viên hiệu quả",
-        "Thực hiện chiến lược kinh doanh dài hạn"
-      ],
-      "full_summary": "Bài viết này chia sẻ bí quyết của các tỷ phú về cách làm giàu đến 1 tỷ USD. Họ tìm kiếm cơ hội kinh doanh độc đáo, tạo ra sản phẩm hoặc dịch vụ có giá trị cao và tổ chức đội ngũ nhân viên hiệu quả. Chiến lược kinh doanh dài hạn cũng là yếu tố quan trọng để đạt được thành công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b6f2f8b058bc",
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T09:22:14.352698+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nghiên cứu AI giúp người Nga 'khôi phục' người thân hy sinh tại Ukraine",
-      "bullets": [
-        "Sử dụng AI để tạo hình ảnh và video của người thân đã qua đời",
-        "Trend gây tranh cãi tại Nga, liên quan đến chiến tranh Ukraine và công nghệ AI",
-        "Nhiều gia đình người Nga tìm cách 'khôi phục' người thân qua các hình ảnh và video",
-        "Tác động tâm lý và xã hội của xu hướng này đang được bàn luận"
-      ],
-      "full_summary": "Một số gia đình người Nga đang sử dụng công nghệ AI để tạo ra hình ảnh và video của người thân đã qua đời trong chiến tranh Ukraine. Trend này gây tranh cãi vì liên quan đến việc 'khôi phục' người thân qua các hình ảnh và video. Nhiều người đang tìm cách sử dụng công nghệ này để đối phó với nỗi đau và mất mát. Tuy nhiên, tác động tâm lý và xã hội của xu hướng này đang được bàn luận.",
       "comments": 0,
       "score": 0
     }
