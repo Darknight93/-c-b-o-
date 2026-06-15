@@ -1,6 +1,223 @@
 {
-  "updated_at": "2026-06-14T19:15:16.836665+00:00",
+  "updated_at": "2026-06-15T03:27:59.700149+00:00",
   "articles": [
+    {
+      "id": "88d16c50ad03",
+      "title": "Trump heralds Iran deal but questions - and risks - remain",
+      "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T03:27:44.673669+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính phủ Mỹ và Iran đạt được thỏa thuận mới",
+      "bullets": [
+        "Đã ký thỏa thuận mới giữa Mỹ và Iran",
+        "Thỏa thuận này có thể ảnh hưởng lớn đến chính trị và kinh tế khu vực",
+        "Cơ hội thành công của thỏa thuận phụ thuộc vào chi tiết",
+        "Còn nhiều rủi ro và thách thức cần được giải quyết"
+      ],
+      "full_summary": "Chính phủ Mỹ và Iran đã đạt được thỏa thuận mới sau nhiều năm đàm phán. Thỏa thuận này được coi là một món quà sinh nhật ý nghĩa cho Tổng thống Mỹ. Tuy nhiên, thành công của thỏa thuận phụ thuộc vào chi tiết và vẫn còn nhiều rủi ro và thách thức cần được giải quyết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ed3498c23dba",
+      "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
+      "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T03:27:45.669187+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hợp đồng giữa Mỹ - Iran giảm thiểu sự không chắc chắn về chiến tranh",
+      "bullets": [
+        "Mỹ và Iran đạt được thỏa thuận giảm thiểu xung đột",
+        "Thỏa thuận này có thể ảnh hưởng đến tình hình ở Lebanon",
+        "Cơ hội hòa bình ở Lebanon vẫn còn xa vời",
+        "Sự ổn định ở khu vực Trung Đông vẫn còn nhiều thách thức"
+      ],
+      "full_summary": "Mỹ và Iran đã đạt được thỏa thuận nhằm giảm thiểu xung đột giữa hai quốc gia. Thỏa thuận này có thể ảnh hưởng đến tình hình ở Lebanon, nơi đã có nhiều cuộc xung đột trong thời gian gần đây. Mặc dù thỏa thuận này đã được ký kết, nhưng sự ổn định ở khu vực Trung Đông vẫn còn nhiều thách thức. Pakistan cho biết thỏa thuận này cũng bao gồm Lebanon, nhưng những ngừng bắn gần đây ở Lebanon đã không thể duy trì.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2cf722dbe80d",
+      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T03:27:46.546300+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Giá dầu giảm sau khi Pakistan công bố thỏa thuận giữa Mỹ và Iran",
+      "bullets": [
+        "Mỹ và Iran đạt được thỏa thuận",
+        "Kênh nước biển Hormuz sẽ được mở lại",
+        "Giá dầu giảm sau khi thông tin được công bố",
+        "Thỏa thuận được công bố bởi Tổng thống Donald Trump"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump cho biết, Mỹ và Iran đã đạt được thỏa thuận, theo đó kênh nước biển Hormuz sẽ được mở lại. Điều này đã dẫn đến việc giá dầu giảm. Thỏa thuận này được công bố bởi Pakistan. Giá dầu đã giảm sau khi thông tin được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f3d9810105f0",
+      "title": "Protesters clash with police ahead of G7 summit in Geneva",
+      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T03:27:47.493562+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cảnh sát dùng súng bắn nước và xịt hơi cay để dẹp bạo động trước G7 tại Geneva",
+      "bullets": [
+        "Cảnh sát Thụy Sĩ bắn nước và xịt hơi cay để dẹp bạo động",
+        "Hàng trăm người biểu tình phản đối G7 tại Geneva",
+        "Cảnh sát và người biểu tình xảy ra va chạm",
+        "Bạo động diễn ra trước khi G7 họp tại Geneva"
+      ],
+      "full_summary": "Trước khi G7 họp tại Geneva, cảnh sát Thụy Sĩ đã sử dụng nước và hơi cay để dẹp bạo động của hàng trăm người biểu tình phản đối G7. Cảnh sát và người biểu tình đã xảy ra va chạm, khiến nhiều người bị thương. Bạo động diễn ra tại trung tâm thành phố Geneva, nơi G7 sẽ họp trong vài ngày tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3703732a3bd8",
+      "title": "Trump hosts UFC cage fight on the White House lawn",
+      "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T03:27:48.462985+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trump tổ chức trận đấu MMA trên sân nhà Trắng",
+      "bullets": [
+        "Đảng Cộng hòa tổ chức trận đấu MMA trên sân nhà Trắng",
+        "Sự kiện này trùng với ngày sinh nhật lần thứ 80 của Trump",
+        "Tham dự sự kiện dự kiến có hàng nghìn người",
+        "Trận đấu MMA là một sự kiện bất thường trên sân nhà Trắng"
+      ],
+      "full_summary": "Một trận đấu MMA bất thường đã được tổ chức trên sân nhà Trắng do Đảng Cộng hòa tổ chức. Sự kiện này trùng với ngày sinh nhật lần thứ 80 của cựu Tổng thống Donald Trump. Trận đấu dự kiến sẽ thu hút hàng nghìn người tham dự. Đây là một sự kiện bất thường trên sân nhà Trắng, nơi thường tổ chức các sự kiện chính trị và lễ kỷ niệm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "936e63d132ec",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T03:27:49.455653+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Các thương hiệu toàn cầu có thể mua coltan từ nhóm khủng bố ở Congo",
+      "bullets": [
+        "Khám phá cho thấy Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp bị kiểm soát bởi M23",
+        "M23 bị cáo buộc đã thực hiện nhiều tội ác, bao gồm bạo lực tình dục và hành quyết",
+        "Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại",
+        "Các công ty toàn cầu có thể không biết về nguồn gốc của coltan"
+      ],
+      "full_summary": "Một cuộc điều tra mới cho thấy các thương hiệu toàn cầu như Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp bị kiểm soát bởi M23, một nhóm khủng bố ở Congo. M23 bị cáo buộc đã thực hiện nhiều tội ác, bao gồm bạo lực tình dục và hành quyết. Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại. Các công ty toàn cầu có thể không biết về nguồn gốc của coltan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6bd2cd09c9f7",
+      "title": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
+      "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T03:27:50.388932+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cựu ca sĩ Mỹ Oliver Tree tử vong trong tai nạn máy bay ở Brazil",
+      "bullets": [
+        "Hai máy bay chạm trán nhau trên không",
+        "Tất cả 6 người trên máy bay đều thiệt mạng",
+        "Ca sĩ Oliver Tree là một trong những người chết",
+        "Tài nạn xảy ra ở khu vực phía tây Rio de Janeiro"
+      ],
+      "full_summary": "Ca sĩ Mỹ Oliver Tree, 32 tuổi, đã tử vong trong một vụ tai nạn máy bay ở Brazil. Hai máy bay chạm trán nhau trên không và rơi xuống khu vực phía tây Rio de Janeiro, khiến tất cả 6 người trên máy bay đều thiệt mạng. Oliver Tree là một trong những người chết trong vụ tai nạn này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cd29d5c0094e",
+      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
+      "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-15T03:27:51.319841+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Nghiên cứu cho rằng một tu sĩ bay đã nhìn thấy sao Halley hai lần",
+      "bullets": [
+        "Một nhà sử học từ Đại học Leicester tin rằng Eilmer của Malmesbury đã nhìn thấy sao Halley vào năm 1018",
+        "Eilmer cũng được cho là đã nhìn thấy sao Halley vào năm 1066",
+        "Nghiên cứu cho rằng Eilmer có thể đã nhìn thấy hai sao khác nhau",
+        "Sao Halley được cho là đã được nhìn thấy lần đầu tiên vào năm 1066"
+      ],
+      "full_summary": "Một nhà sử học từ Đại học Leicester tin rằng Eilmer của Malmesbury, một tu sĩ bay, đã nhìn thấy sao Halley hai lần. Eilmer được cho là đã nhìn thấy sao Halley vào năm 1018 và 1066. Tuy nhiên, nghiên cứu cho rằng Eilmer có thể đã nhìn thấy hai sao khác nhau. Sao Halley được cho là đã được nhìn thấy lần đầu tiên vào năm 1066.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "77cc79f7af53",
+      "title": "Review: Disclosure Day is big on action, light on ideas",
+      "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-15T03:27:52.261961+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Phim Disclosure Day đầy hành động, thiếu ý tưởng sáng tạo",
+      "bullets": [
+        "Là một bộ phim hành động hấp dẫn từ một trong những đạo diễn vĩ đại",
+        "Không có bất kỳ điều gì mới mẻ hoặc bất ngờ",
+        "Đạo diễn đã thể hiện kỹ năng của mình trong việc xây dựng kịch bản"
+      ],
+      "full_summary": "Phim Disclosure Day đã được phát hành và nhận được nhiều đánh giá từ các nhà phê bình. Mặc dù bộ phim không có bất kỳ điều gì mới mẻ hoặc bất ngờ, nhưng nó vẫn là một bộ phim hành động hấp dẫn từ một trong những đạo diễn vĩ đại. Đạo diễn đã thể hiện kỹ năng của mình trong việc xây dựng kịch bản và tạo ra một bộ phim thú vị. Tuy nhiên, bộ phim vẫn thiếu ý tưởng sáng tạo và không có bất kỳ điều gì mới mẻ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ae2fb8f6083",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-15T03:27:55.472300+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Jeff Bezos thành lập công ty mới Prometheus để phát triển trí tuệ nhân tạo vật lý",
+      "bullets": [
+        "Thiết kế và phát triển các robot tự động có khả năng học hỏi và thích nghi",
+        "Tìm kiếm và phát triển các công nghệ mới cho trí tuệ nhân tạo vật lý",
+        "Đầu tư lớn vào nghiên cứu và phát triển trí tuệ nhân tạo vật lý"
+      ],
+      "full_summary": "Jeff Bezos vừa thành lập một công ty mới tên là Prometheus, tập trung vào việc phát triển trí tuệ nhân tạo vật lý. Công ty này sẽ thiết kế và phát triển các robot tự động có khả năng học hỏi và thích nghi, cũng như tìm kiếm và phát triển các công nghệ mới cho trí tuệ nhân tạo vật lý. Với nguồn vốn lớn, Prometheus có thể trở thành một trong những công ty hàng đầu trong lĩnh vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "569aa46bfd68",
+      "title": "Chaosnet (1981)",
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-15T03:27:59.199991+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chaosnet: Mạng lưới tính toán đầu tiên của MIT",
+      "bullets": [
+        "Tạo ra mạng lưới tính toán đầu tiên của MIT vào năm 1981",
+        "Được thiết kế để kết nối các máy tính và chia sẻ tài nguyên",
+        "Là tiền thân của các mạng lưới tính toán hiện đại"
+      ],
+      "full_summary": "Chaosnet là mạng lưới tính toán đầu tiên được tạo ra bởi MIT vào năm 1981. Nó được thiết kế để kết nối các máy tính và chia sẻ tài nguyên, giúp các nhà khoa học và kỹ sư chia sẻ dữ liệu và thực hiện các tính toán phức tạp. Chaosnet là tiền thân của các mạng lưới tính toán hiện đại và đã đóng vai trò quan trọng trong sự phát triển của công nghệ mạng lưới.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b19e17f18be3",
       "title": "Israeli military says Hezbollah targets struck in Beirut",
@@ -570,224 +787,6 @@
         "Bà Adichie tin rằng bệnh viện đang cố gắng ngăn chặn cuộc điều tra"
       ],
       "full_summary": "Bà tác giả Nigeria Chimamanda Ngozi Adichie đã tố cáo bệnh viện Lagos đang trì hoãn điều tra cái chết của con trai 21 tháng tuổi. Bà cho biết con trai đã qua đời tại bệnh viện vào tháng trước. Bà đang yêu cầu một cuộc điều tra độc lập để tìm hiểu nguyên nhân cái chết và tin rằng bệnh viện đang cố gắng ngăn chặn điều đó. Bà Adichie đã kêu gọi sự hỗ trợ từ cộng đồng quốc tế để giải quyết vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7a6aa9643de5",
-      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
-      "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T02:55:21.303364+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ticketmaster tránh khóa tài khoản người hâm mộ Knicks",
-      "bullets": [
-        "Ticketmaster đã xóa thông báo gây nhầm lẫn về việc mua vé",
-        "Người hâm mộ Knicks đã phản ứng dữ dội với thông báo này",
-        "Ticketmaster đảm bảo mọi người đều có thể mua vé cho trận đấu",
-        "Sự cố đã được giải quyết sau khi có nhiều cuộc tranh luận"
-      ],
-      "full_summary": "Ticketmaster đã xóa thông báo gây nhầm lẫn trên trang web của mình sau khi người hâm mộ Knicks phản ứng dữ dội. Thông báo này đã gây ra sự nhầm lẫn và lo lắng cho người hâm mộ. Ticketmaster đã đảm bảo rằng mọi người đều có thể mua vé cho trận đấu. Sự cố đã được giải quyết sau khi có nhiều cuộc tranh luận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8c1f848df49e",
-      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
-      "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T02:55:22.305144+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trẻ em Việt tìm kiếm 'bố mẹ ảo' để được yêu thương",
-      "bullets": [
-        "Tìm kiếm 'bố mẹ ảo' để được yêu thương và hỗ trợ",
-        "Một số trẻ em cảm thấy không được cha mẹ yêu thương",
-        "Tình trạng trẻ em tìm kiếm 'bố mẹ ảo' đang trở nên phổ biến",
-        "Các 'bố mẹ ảo' trở thành một cộng đồng trực tuyến lớn"
-      ],
-      "full_summary": "Một nhóm nhỏ người tạo nội dung trực tuyến gọi là 'bố mẹ ảo' đang trở nên phổ biến ở Việt Nam. Họ cung cấp sự yêu thương và hỗ trợ cho những người trẻ cảm thấy không được cha mẹ yêu thương. Một số trẻ em đã tìm kiếm sự giúp đỡ từ các 'bố mẹ ảo' vì họ cảm thấy không được cha mẹ yêu thương. Tình trạng này đang trở nên phổ biến và các 'bố mẹ ảo' trở thành một cộng đồng trực tuyến lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "97981df5f6c7",
-      "title": "Social media on trial: Four important cases to watch",
-      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T02:55:23.211856+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các công ty mạng xã hội đối mặt với hàng nghìn vụ kiện",
-      "bullets": [
-        "Đang được xét xử là bốn vụ kiện quan trọng liên quan đến mạng xã hội",
-        "Các công ty mạng xã hội phải đối mặt với hàng nghìn vụ kiện",
-        "BBC xem xét bốn vụ kiện có thể có ý nghĩa quan trọng",
-        "Các vụ kiện này có thể ảnh hưởng đến cách mạng xã hội hoạt động"
-      ],
-      "full_summary": "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện. Theo BBC, bốn vụ kiện quan trọng đang được xét xử có thể ảnh hưởng đến cách mạng xã hội hoạt động. Các vụ kiện này liên quan đến việc mạng xã hội phải chịu trách nhiệm về nội dung trên nền tảng của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a68e088292c7",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T02:55:24.130930+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Một phiên bản AI quá mạnh cho công chúng được công bố",
-      "bullets": [
-        "Cung cấp phiên bản Claude Fable 5 của Anthropic's Claude Mythos",
-        "Phiên bản này gây xôn xao trong các lãnh đạo công nghệ, tài chính và chính phủ",
-        "Được cho là quá mạnh cho công chúng sử dụng",
-        "Cần được kiểm soát và quản lý chặt chẽ"
-      ],
-      "full_summary": "Anthropic vừa công bố phiên bản Claude Fable 5 của AI Claude Mythos, một chương trình gây xôn xao trong các lãnh đạo công nghệ, tài chính và chính phủ. Phiên bản này được cho là quá mạnh cho công chúng sử dụng và cần được kiểm soát và quản lý chặt chẽ. Mặc dù vậy, phiên bản này vẫn được công bố để công chúng có thể trải nghiệm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a167d144efea",
-      "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T02:55:25.203136+00:00",
-      "category": "chính trị",
-      "importance": 5,
-      "headline": "Trump nhắm vào người nhập cư từ các quốc gia dễ bị tổn thương bởi biến đổi khí hậu",
-      "bullets": [
-        "Cấm nhập cư từ 39 quốc gia dễ bị tổn thương bởi biến đổi khí hậu",
-        "Hầu hết các quốc gia này đang đối mặt với thiên tai, lũ lụt và hạn hán do biến đổi khí hậu",
-        "Chính quyền Trump đẩy mạnh chính sách tăng cường khai thác nhiên liệu hóa thạch",
-        "Đưa ra chính sách cấm nhập cư nhằm ngăn chặn người tị nạn khí hậu"
-      ],
-      "full_summary": "Chính quyền Trump đang nhắm vào người nhập cư từ các quốc gia dễ bị tổn thương bởi biến đổi khí hậu. Theo phân tích của The Guardian, 39 quốc gia đang đối mặt với hạn chế nhập cư của Mỹ đều đang bị ảnh hưởng nặng nề bởi thiên tai, lũ lụt và hạn hán do biến đổi khí hậu. Trong khi đó, chính quyền Trump đang đẩy mạnh chính sách tăng cường khai thác nhiên liệu hóa thạch, gây ra thêm áp lực cho các quốc gia này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0d68aaafbdc7",
-      "title": "Human Routers of Machine Words",
-      "url": "https://borretti.me/article/human-routers-of-machine-words",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-14T02:55:30.067092+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy tính đang sử dụng con người như một mạng lưới để truyền tải thông tin",
-      "bullets": [
-        "Các nhà nghiên cứu đang sử dụng con người để định tuyến thông tin trong các hệ thống máy tính",
-        "Mục tiêu là tạo ra các hệ thống tự động hóa thông tin hiệu quả hơn",
-        "Các nhà nghiên cứu đang nghiên cứu cách sử dụng con người trong các hệ thống máy tính"
-      ],
-      "full_summary": "Các nhà nghiên cứu đang sử dụng con người như một mạng lưới để truyền tải thông tin trong các hệ thống máy tính. Mục tiêu là tạo ra các hệ thống tự động hóa thông tin hiệu quả hơn. Các nhà nghiên cứu đang nghiên cứu cách sử dụng con người trong các hệ thống máy tính để tạo ra các hệ thống thông tin tự động hóa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "262ac0234a43",
-      "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T19:14:09.959155+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ nhật tới, Mỹ và Iran sẽ ký thỏa thuận",
-      "bullets": [
-        "Thỏa thuận giữa Mỹ và Iran sắp được ký kết",
-        "Iran đã thể hiện sự thận trọng về thời gian chính xác",
-        "Trước đó, Tổng thống Mỹ đã công bố thông tin về thỏa thuận này"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump vừa tuyên bố thỏa thuận giữa Mỹ và Iran sẽ được ký kết vào ngày Chủ nhật tới. Trước đó, Iran đã thể hiện sự thận trọng về thời gian chính xác của thỏa thuận này. Thông tin này được đưa ra trước khi Iran có bình luận chính thức về vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2feb61b20f70",
-      "title": "Woman seriously injured in shark attack at Sydney beach",
-      "url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T19:14:10.822029+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người phụ nữ 35 tuổi bị tấn công bởi cá mập tại bãi biển Sydney",
-      "bullets": [
-        "Bị tấn công bởi cá mập",
-        "Được cứu bởi công chúng",
-        "Được chở đi bệnh viện bằng máy bay",
-        "Tình trạng bị thương nghiêm trọng"
-      ],
-      "full_summary": "Một người phụ nữ 35 tuổi đã bị tấn công bởi cá mập tại bãi biển Sydney. Cô được các thành viên công chúng kéo ra khỏi nước và sau đó được máy bay chở đi bệnh viện. Tình trạng của cô đang được theo dõi. Cảnh sát đang điều tra vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a602c0da6fa",
-      "title": "Trump's name removed from Kennedy Center after court order",
-      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T19:14:11.794178+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tên Trump bị xóa khỏi Trung tâm Kennedy theo lệnh tòa án",
-      "bullets": [
-        "Tên cựu Tổng thống Mỹ Donald Trump đã bị xóa khỏi Trung tâm Kennedy",
-        "Crews đã dựng giàn giáo vào ngày thứ sáu",
-        "Làm việc đã bị hoãn do thời tiết xấu",
-        "Trung tâm Kennedy đã quyết định xóa tên Trump khỏi danh sách"
-      ],
-      "full_summary": "Trung tâm Kennedy đã quyết định xóa tên cựu Tổng thống Mỹ Donald Trump khỏi danh sách sau khi tòa án ra lệnh. Việc xóa tên Trump đã được thực hiện vào ngày thứ bảy sau khi crews dựng giàn giáo. Cựu Tổng thống Mỹ đã bị xóa khỏi danh sách vì lý do chưa rõ. Trung tâm Kennedy đã không đưa ra bình luận về quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dfbb4d48487b",
-      "title": "Kidnapped Nigerian retired general dies in captivity",
-      "url": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T19:14:12.819080+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tướng Nigeria đã mất trong tay kẻ bắt cóc",
-      "bullets": [
-        "Bị bắt cóc, Tướng Rabe Abubakar đã qua đời",
-        "Tình hình an ninh ở Nigeria tiếp tục gặp khó khăn",
-        "Sự kiện này gây lo ngại cho cộng đồng quốc tế",
-        "Nigeria đang đối mặt với nhiều thách thức về an ninh"
-      ],
-      "full_summary": "Tướng Rabe Abubakar, một cựu tướng quân đội Nigeria, đã qua đời trong tay kẻ bắt cóc. Sự kiện này đã làm nổi bật tình hình an ninh tiếp tục gặp khó khăn ở một số khu vực của Nigeria. Nguồn tin cho biết Tướng Abubakar đã bị bắt cóc vào tháng trước và qua đời trong khi đang bị giam giữ. Sự kiện này đã gây lo ngại cho cộng đồng quốc tế và làm nổi bật những thách thức mà Nigeria đang đối mặt về an ninh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fca4606c3b79",
-      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
-      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-13T19:14:13.823937+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Ủy ban châu Âu yêu cầu Meta mở WhatsApp cho các chatbot AI đối thủ",
-      "bullets": [
-        "Yêu cầu Meta cho phép các công ty công nghệ khác như OpenAI sử dụng WhatsApp",
-        "Meta tố cáo Ủy ban châu Âu vi phạm quy định",
-        "Chính sách mới sẽ ảnh hưởng đến sự bảo mật và quyền riêng tư của người dùng WhatsApp",
-        "Meta sẽ phải thực hiện các thay đổi để đáp ứng yêu cầu của Ủy ban châu Âu"
-      ],
-      "full_summary": "Ủy ban châu Âu đã yêu cầu Meta, công ty sở hữu ứng dụng nhắn tin WhatsApp, phải mở WhatsApp cho các chatbot AI của các công ty đối thủ. Meta đã phản ứng lại bằng cách tố cáo Ủy ban châu Âu vi phạm quy định. Các chuyên gia lo ngại rằng chính sách mới sẽ ảnh hưởng đến sự bảo mật và quyền riêng tư của người dùng WhatsApp. Meta sẽ phải thực hiện các thay đổi để đáp ứng yêu cầu của Ủy ban châu Âu.",
       "comments": 0,
       "score": 0
     }
