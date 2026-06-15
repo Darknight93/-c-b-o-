@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-15T17:04:36.401758+00:00",
+  "updated_at": "2026-06-15T20:49:26.137574+00:00",
   "articles": [
+    {
+      "id": "5bc8a7e05363",
+      "title": "South African jazz legend Abdullah Ibrahim dies at 91",
+      "url": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T20:49:10.528812+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhà nhạc jazz Nam Phi Abdullah Ibrahim qua đời ở tuổi 91",
+      "bullets": [
+        "Được biết đến là người định hình một thể loại nhạc jazz Nam Phi",
+        "Sinh sống trong sự nghiệp kéo dài gần 8 thập kỷ",
+        "Là một trong những nhạc sĩ jazz nổi tiếng nhất Nam Phi",
+        "Để lại dấu ấn trong lịch sử âm nhạc thế giới"
+      ],
+      "full_summary": "Nhà nhạc jazz Nam Phi Abdullah Ibrahim đã qua đời ở tuổi 91. Ông được biết đến là người định hình một thể loại nhạc jazz Nam Phi và sinh sống trong sự nghiệp kéo dài gần 8 thập kỷ. Ibrahim là một trong những nhạc sĩ jazz nổi tiếng nhất Nam Phi và đã để lại dấu ấn trong lịch sử âm nhạc thế giới. Ông đã giúp định hình phong cách nhạc jazz Nam Phi với sự kết hợp giữa âm nhạc truyền thống và hiện đại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0c2f39cf7768",
+      "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+      "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T20:49:11.468537+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh sát nhân viên MSF lạm dụng người tị nạn Sudan",
+      "bullets": [
+        "Lạm dụng tình dục đã xảy ra giữa nhân viên MSF và người tị nạn Sudan",
+        "Nạn nhân sợ bị cắt đứt nguồn hỗ trợ nên không dám nói ra",
+        "Tình huống này đã được tiết lộ bởi BBC",
+        "MSF đã lên tiếng phản hồi về vấn đề này"
+      ],
+      "full_summary": "Cảnh sát nhân viên của tổ chức MSF đã lạm dụng tình dục với người tị nạn Sudan. Nạn nhân sợ bị cắt đứt nguồn hỗ trợ nên không dám nói ra. Tổ chức MSF đã lên tiếng phản hồi về vấn đề này, nhưng vẫn chưa rõ có những biện pháp nào sẽ được thực hiện để ngăn chặn tình huống tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ef01ea2f3329",
+      "title": "Under-16s will be banned from social media from early 2027",
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T20:49:12.401968+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chính phủ cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027",
+      "bullets": [
+        "Chính phủ sẽ cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027",
+        "Các trang mạng xã hội như Instagram, YouTube và TikTok sẽ không thể truy cập",
+        "Đạo luật này nhằm bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội"
+      ],
+      "full_summary": "Chính phủ Việt Nam đã công bố kế hoạch cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027. Các trang mạng xã hội như Instagram, YouTube và TikTok sẽ không thể truy cập. Mục đích của đạo luật này là bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội. Chính phủ hy vọng rằng việc này sẽ giúp trẻ em tập trung vào học tập và phát triển lành mạnh hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b488b0dc744",
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T20:49:13.428065+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tỷ phú Elon Musk đạt được tài sản trị giá 1 nghìn tỷ USD",
+      "bullets": [
+        "Tăng trưởng nhanh chóng của tài sản cá nhân của Elon Musk",
+        "Mở rộng đế chế công nghệ của ông",
+        "Đạt được vị trí tỷ phú đầu tiên trong lịch sử",
+        "Tăng cường ảnh hưởng kinh tế toàn cầu"
+      ],
+      "full_summary": "Elon Musk, tỷ phú sáng lập Tesla và SpaceX, đã đạt được tài sản trị giá 1 nghìn tỷ USD, theo báo cáo của BBC. Tài sản của ông đã tăng trưởng nhanh chóng trong những năm qua, nhờ thành công của các công ty của ông. Điều này đã giúp ông trở thành tỷ phú đầu tiên trong lịch sử. Sự tăng trưởng tài sản của ông đã mang lại ảnh hưởng kinh tế toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a3f72e4af9b",
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T20:49:14.434088+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
+      "bullets": [
+        "Kalshi sẽ yêu cầu người dùng tiết lộ thông tin công việc để ngăn chặn giao dịch nội gián",
+        "Hệ thống đặt cược dự đoán sẽ áp dụng các quy định mới để ngăn chặn giao dịch nội gián",
+        "Quy định mới này sẽ giúp ngăn chặn các giao dịch bất hợp pháp trên nền tảng",
+        "Kalshi hy vọng quy định mới sẽ giúp tăng cường sự tin cậy và minh bạch trên nền tảng"
+      ],
+      "full_summary": "Hệ thống đặt cược dự đoán Kalshi sẽ áp dụng các quy định mới để ngăn chặn giao dịch nội gián. Theo quy định mới, một số người dùng sẽ phải tiết lộ thông tin công việc của mình để ngăn chặn giao dịch bất hợp pháp. Mục tiêu của Kalshi là tăng cường sự tin cậy và minh bạch trên nền tảng. Việc áp dụng quy định mới này sẽ giúp ngăn chặn các giao dịch bất hợp pháp và duy trì sự tin cậy của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7cb2f316494f",
+      "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
+      "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-15T20:49:15.383907+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhà soạn nhạc jazz Abdullah Ibrahim qua đời ở tuổi 91",
+      "bullets": [
+        "Abdullah Ibrahim qua đời sau một bệnh tật ngắn ở Đức",
+        "Nhà soạn nhạc và nghệ sĩ piano người Nam Phi đã thu âm hơn 70 album trong sự nghiệp",
+        "Gia đình ông thông báo về cái chết của ông trong một tuyên bố",
+        "Abdullah Ibrahim được biết đến là một trong những nhạc sĩ jazz tài năng nhất"
+      ],
+      "full_summary": "Abdullah Ibrahim, một nhạc sĩ jazz tài năng người Nam Phi, đã qua đời ở tuổi 91. Ông qua đời sau một bệnh tật ngắn ở Đức. Abdullah Ibrahim đã thu âm hơn 70 album trong sự nghiệp và được biết đến là một trong những nhạc sĩ jazz tài năng nhất. Ông đã để lại một di sản âm nhạc sâu sắc và được yêu thích trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6e2077bdbf6e",
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-15T20:49:19.288062+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nvidia tìm kiếm huy động hơn 25 tỷ USD vốn vay",
+      "bullets": [
+        "Nvidia chuẩn bị phát hành trái phiếu trị giá hơn 25 tỷ USD",
+        "Động thái này sẽ kiểm tra sự quan tâm của nhà đầu tư đối với ngành công nghệ AI",
+        "Nvidia đang thử thách sự ổn định tài chính của công ty sau một năm",
+        "Huy động vốn lớn này có thể tạo ra áp lực lên thị trường trái phiếu"
+      ],
+      "full_summary": "Nvidia đang tìm kiếm huy động hơn 25 tỷ USD vốn vay thông qua phát hành trái phiếu. Đây là lần đầu tiên công ty này thực hiện giao dịch này kể từ năm 2021. Động thái này sẽ kiểm tra sự quan tâm của nhà đầu tư đối với ngành công nghệ AI, đang chứng kiến một làn sóng huy động vốn lớn. Việc huy động vốn lớn này có thể tạo ra áp lực lên thị trường trái phiếu và kiểm tra sự ổn định tài chính của Nvidia sau một năm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "572172e39a4c",
+      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+      "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-15T20:49:23.342987+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple đã kết thúc kỷ nguyên Mac sử dụng vi xử lý Intel sau 20 năm",
+      "bullets": [
+        "Apple đã chuyển sang sử dụng vi xử lý Intel vào năm 2006",
+        "Kỷ nguyên Mac Intel đã trải qua nhiều thăng trầm, từ thành công đến thất bại",
+        "Apple đã quyết định rời bỏ vi xử lý Intel để chuyển sang sử dụng vi xử lý Apple M1",
+        "Kỷ nguyên Mac Intel đã kết thúc sau 20 năm, đánh dấu một trang mới trong lịch sử công nghệ của Apple"
+      ],
+      "full_summary": "Kỷ nguyên Mac sử dụng vi xử lý Intel đã bắt đầu vào năm 2006 khi Apple quyết định chuyển sang sử dụng vi xử lý Intel Core Duo. Trong 20 năm qua, Mac đã trải qua nhiều thăng trầm, từ thành công đến thất bại. Tuy nhiên, Apple đã quyết định rời bỏ vi xử lý Intel để chuyển sang sử dụng vi xử lý Apple M1, đánh dấu một trang mới trong lịch sử công nghệ của Apple. Kỷ nguyên Mac Intel đã kết thúc, nhưng nó sẽ không bao giờ bị quên.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8221ae7e4b03",
       "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
@@ -630,166 +789,6 @@
         "Tăng cường hợp tác kinh tế giữa hai quốc gia"
       ],
       "full_summary": "Chính phủ Anh và Nhật Bản đã đạt được thỏa thuận đầu tư trị giá 18 tỷ bảng Anh. Theo thỏa thuận, các công ty Nhật Bản sẽ đầu tư vào cơ sở hạ tầng và năng lượng gió ngoài khơi Anh. Đây là một bước tiến quan trọng trong việc tăng cường hợp tác kinh tế giữa hai quốc gia. Thỏa thuận này sẽ mang lại lợi ích cho cả hai quốc gia và đóng góp vào sự phát triển kinh tế toàn cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "61943d3e4966",
-      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:05.277953+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trudeau gặp Perry sau khi bỏ trận bóng đá Canada",
-      "bullets": [
-        "Trudeau bỏ trận bóng đá Canada để theo dõi Perry",
-        "Perry chạy lên sân để chào Trudeau",
-        "Cặp đôi hẹn hò được nhìn thấy hôn nhau",
-        "Trudeau giải thích rằng anh ấy cần thực hiện nghĩa vụ với người yêu"
-      ],
-      "full_summary": "Bà Justin Trudeau, lãnh đạo Canada, đã bỏ trận đấu bóng đá quốc gia để theo dõi sự kiện của người hẹn hò, Perry. Cô Perry đã chạy lên sân để chào đón Trudeau và cả hai đã được nhìn thấy hôn nhau. Trong một cuộc phỏng vấn sau đó, Trudeau giải thích rằng anh ấy cần thực hiện nghĩa vụ với người yêu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cc422ef7704",
-      "title": "Who is Elon Musk and what is his net worth?",
-      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:06.237416+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Elon Musk trở thành tỷ phú đầu tiên đạt 1 triệu tỷ USD",
-      "bullets": [
-        "Elon Musk trở thành tỷ phú đầu tiên đạt 1 triệu tỷ USD",
-        "Ông là người sáng lập và CEO của Tesla, SpaceX và X",
-        "Elon Musk đã trở thành người giàu nhất thế giới từ lâu",
-        "Net worth của ông đã đạt mức kỷ lục 1.000 tỷ USD"
-      ],
-      "full_summary": "Elon Musk, người sáng lập và CEO của Tesla, SpaceX và X, đã trở thành tỷ phú đầu tiên đạt 1 triệu tỷ USD. Ông đã trở thành người giàu nhất thế giới từ lâu và đã đạt được nhiều thành tựu trong lĩnh vực công nghệ. Net worth của ông đã đạt mức kỷ lục 1.000 tỷ USD. Điều này thể hiện sự thành công và ảnh hưởng của ông trong lĩnh vực công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "824ad12c6d30",
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:07.232085+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Công ty sở hữu ChatGPT sắp niêm yết trên thị trường chứng khoán",
-      "bullets": [
-        "Đệm đơn hồ sơ cho niêm yết trên thị trường chứng khoán",
-        "Sau khi Anthropic nộp đơn vào tuần trước",
-        "Công ty đang cạnh tranh để huy động vốn",
-        "Nhiều công ty công nghệ đang tăng tốc huy động vốn"
-      ],
-      "full_summary": "Công ty sở hữu ChatGPT, một trong những công nghệ trí tuệ nhân tạo (AI) hàng đầu, sắp niêm yết trên thị trường chứng khoán. Đây là bước tiến quan trọng trong cuộc đua huy động vốn của các công ty công nghệ. Sau khi Anthropic nộp đơn vào tuần trước, công ty này đã đệm đơn hồ sơ cho niêm yết trên thị trường chứng khoán. Việc này cho thấy công ty đang tăng tốc huy động vốn để phát triển và mở rộng hoạt động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b15ac133aab7",
-      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
-      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:08.210488+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hội đồng London thu hồi căn hộ xã hội thuê bởi phu nhân Sierra Leone",
-      "bullets": [
-        "Thu hồi căn hộ xã hội ở Walworth",
-        "Phu nhân Sierra Leone Fatima Jabbe-Bio thuê căn hộ mà không ở",
-        "Hội đồng Southwark xác nhận thu hồi căn hộ",
-        "Căn hộ được thuê trái với quy định"
-      ],
-      "full_summary": "Hội đồng Southwark đã thu hồi một căn hộ xã hội hai phòng ở Walworth, được thuê bởi phu nhân Sierra Leone Fatima Jabbe-Bio. Theo báo Times, bà Jabbe-Bio đã thuê căn hộ này mặc dù sống phần lớn năm tại dinh tổng thống ở Freetown. Việc thu hồi căn hộ được thực hiện sau khi báo chí tiết lộ thông tin này. Hội đồng Southwark xác nhận rằng căn hộ đã được thu hồi và sẽ được phân phối lại cho người có nhu cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e198c8b1880",
-      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
-      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:09.139730+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Người dân Jamaica tranh đấu để bảo vệ quyền tiếp cận bãi biển",
-      "bullets": [
-        "Phản đối việc bán bãi biển cho các tập đoàn khách sạn",
-        "Khẳng định quyền tiếp cận bãi biển là quyền cơ bản của người dân",
-        "Tố cáo luật pháp thời kỳ thuộc địa",
-        "Mục tiêu là giành được quyền sử dụng bãi biển miễn phí và vĩnh viễn"
-      ],
-      "full_summary": "Người dân Jamaica đang kiện chính phủ vì việc cắt giảm quyền tiếp cận bãi biển. Họ cho rằng việc bán bãi biển cho các tập đoàn khách sạn chỉ mang lại lợi ích cho các nhà đầu tư và du khách, trong khi người dân Jamaica bị mất đi nguồn thu nhập, thời gian giải trí và lợi ích sức khỏe từ biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "882bc6508d1d",
-      "title": "Rome Fell and Nobody Noticed",
-      "url": "https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-14T19:15:13.487533+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Rôma sụp đổ mà không ai nhận thấy",
-      "bullets": [
-        "Rôma bị sụp đổ mà không có báo động nào",
-        "Không có thông tin về nguyên nhân của sự kiện",
-        "Mặc dù có nhiều người biết về lịch sử Rôma nhưng họ không phản ứng",
-        "Sự kiện này đã không được công bố rộng rãi"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã tiết lộ rằng thành phố Rôma đã bị sụp đổ mà không ai nhận thấy. Không có báo động nào được đưa ra và không có thông tin về nguyên nhân của sự kiện. Mặc dù có nhiều người biết về lịch sử Rôma nhưng họ không phản ứng. Sự kiện này đã không được công bố rộng rãi và chỉ được biết đến qua một bài viết trên Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "572ddabc2ac7",
-      "title": "Swiss voters reject 10 million population cap, early projections say",
-      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:44.843539+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Sứng đáng Thụy Sĩ đã đồng ý không đánh bại 10 triệu người",
-      "bullets": [
-        "Đáng đã đánh bại bản quyết định 10 triệu người",
-        "55% đáng đã đánh bại bản quyết định này",
-        "Chưa có kết quả của đáng đã đánh bại",
-        "Đáng đã đánh bại bản quyết định đánh bại 10 triệu người"
-      ],
-      "full_summary": "Theo dự đoán ban đầu, đáng đã đánh bại bản quyết định đánh bại 10 triệu người ở Thụy Sĩ. 55% đáng đã đánh bại bản quyết định này. Tuy nhiên, chứng thực của đáng đã đánh bại chưa có kết quả. Các cuộc bầu cử ở Thụy Sĩ đã đánh bại bản quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b56d8553b0fb",
-      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
-      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T13:46:45.751614+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Tàu du lịch lật đổ tại lễ hội tapas ở Cártama",
-      "bullets": [
-        "Lật đổ tàu du lịch tại lễ hội tapas ở Cártama",
-        "17 người bị thương nhưng không có người nghiêm trọng",
-        "Cơ quan chức năng địa phương cho biết",
-        "Không có người chết trong vụ tai nạn"
-      ],
-      "full_summary": "Một vụ tai nạn đã xảy ra tại lễ hội tapas ở Cártama, Tây Ban Nha. Một tàu du lịch đã lật đổ, khiến 17 người bị thương. Tuy nhiên, không có người bị thương nghiêm trọng. Cơ quan chức năng địa phương cho biết vụ tai nạn không gây tử vong.",
       "comments": 0,
       "score": 0
     }
