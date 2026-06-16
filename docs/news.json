@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-06-15T20:49:26.137574+00:00",
+  "updated_at": "2026-06-16T03:25:24.978191+00:00",
   "articles": [
+    {
+      "id": "ee948647ec40",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:09.010638+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trumps tuyên bố đã ký thỏa thuận hòa bình với Iran",
+      "bullets": [
+        "Trump tuyên bố thỏa thuận đã được ký kết",
+        "Hầm eo biển Hormuz sẽ mở cửa từ thứ 5",
+        "Nội dung thỏa thuận vẫn còn gây nhầm lẫn",
+        "Chi tiết sẽ được công bố sớm"
+      ],
+      "full_summary": "Tổng thống Trump tuyên bố đã ký thỏa thuận hòa bình với Iran, cho biết eo biển Hormuz sẽ mở cửa từ thứ 5. Tuy nhiên, nội dung thỏa thuận vẫn còn gây nhầm lẫn và chi tiết sẽ được công bố sớm. Thông tin này được đưa ra sau khi Mỹ và Iran có những bước tiến gần đây trong việc giảm căng thẳng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dbe5fa0a2935",
+      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+      "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:09.972149+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chuyên viên giám sát Australia lên án những cáo buộc liên quan đến chương trình 'Cưới ngay sau khi gặp'",
+      "bullets": [
+        "Tổ chức giám sát của Australia lên án cáo buộc 'khó chịu'",
+        "Ủy ban truyền thông của Anh gọi cáo buộc là 'rất đáng lo ngại'",
+        "Chương trình 'Cưới ngay sau khi gặp' đang bị điều tra",
+        "Cáo buộc liên quan đến việc điều hành chương trình"
+      ],
+      "full_summary": "Tổ chức giám sát của Australia và Ủy ban truyền thông của Anh đã lên án những cáo buộc liên quan đến chương trình 'Cưới ngay sau khi gặp' của Australia. Cáo buộc này đã gây ra nhiều tranh cãi và lên án. Chương trình đang bị điều tra để xác minh những cáo buộc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50068e712b28",
+      "title": "What is Helium-3 and could we get it from the moon?",
+      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:11.050105+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Nghiên cứu khai thác Helium-3 trên Mặt Trăng để đáp ứng nhu cầu tăng",
+      "bullets": [
+        "Khám phá nguồn Helium-3 trên Mặt Trăng để giảm giá thành",
+        "Khai thác Helium-3 có thể giúp đáp ứng nhu cầu năng lượng trong tương lai",
+        "Nghiên cứu về công nghệ khai thác Helium-3 trên Mặt Trăng đang được tiến hành",
+        "Helium-3 có thể được sử dụng làm nhiên liệu cho lò phản ứng hạt nhân"
+      ],
+      "full_summary": "Nhu cầu Helium-3 dự kiến sẽ tăng cao trong tương lai, vì vậy một số tổ chức đang nghiên cứu khai thác nó trên Mặt Trăng. Helium-3 là một loại khí hiếm có thể được sử dụng làm nhiên liệu cho lò phản ứng hạt nhân. Nghiên cứu về công nghệ khai thác Helium-3 trên Mặt Trăng đang được tiến hành để giảm giá thành và đáp ứng nhu cầu năng lượng trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8cc422ef7704",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:12.007937+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Elon Musk trở thành tỷ phú đầu tiên trên thế giới đạt 1 nghìn tỷ USD",
+      "bullets": [
+        "Becoming tỷ phú đầu tiên trên thế giới đạt 1 nghìn tỷ USD",
+        "Là người sáng lập và CEO của X, Tesla và SpaceX",
+        "Sở hữu khối tài sản khổng lồ từ các công ty của mình",
+        "Đứng đầu danh sách tỷ phú giàu nhất thế giới"
+      ],
+      "full_summary": "Elon Musk, người sáng lập và CEO của X, Tesla và SpaceX, đã trở thành tỷ phú đầu tiên trên thế giới đạt 1 nghìn tỷ USD. Ông đã đạt được thành tựu này sau khi giá cổ phiếu của Tesla tăng lên. Musk đã trở thành người giàu nhất thế giới vào năm 2021 và đã giữ vị trí này kể từ đó. Ông sở hữu khối tài sản khổng lồ từ các công ty của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "03e85d8b086e",
+      "title": "Violent attacks on schools, pupils and staff around the world up by 40%, says study",
+      "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:13.021021+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Sự tấn công vào các trường học và giáo viên trên toàn thế giới tăng 40%",
+      "bullets": [
+        "Có 8.556 vụ tấn công được ghi nhận trên toàn thế giới trong 2 năm 2024-2025.",
+        "Hơn 10.600 học sinh và giáo viên bị giết, bị thương, bị bắt cóc hoặc bị bắt giữ.",
+        "Các vụ tấn công được báo cáo ở 83 quốc gia, với tỷ lệ cao nhất ở Colombia, Cộng hòa Dân chủ Congo, Ethiopia, Haiti, Palestine và Ukraine."
+      ],
+      "full_summary": "Một nghiên cứu mới cho thấy sự tấn công vào các trường học và giáo viên trên toàn thế giới đã tăng 40% trong 2 năm 2024-2025. Có 8.556 vụ tấn công được ghi nhận, trong đó hơn 10.600 học sinh và giáo viên bị ảnh hưởng. Các vụ tấn công được báo cáo ở 83 quốc gia, với tỷ lệ cao nhất ở một số quốc gia như Colombia, Cộng hòa Dân chủ Congo, Ethiopia, Haiti, Palestine và Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b15ac133aab7",
+      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:14.005016+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hội đồng London thu hồi căn hộ xã hội thuê bởi phu nhân Sierra Leone",
+      "bullets": [
+        "Thu hồi căn hộ xã hội ở Walworth",
+        "Phu nhân Sierra Leone Fatima Jabbe-Bio thuê căn hộ trái với quy định",
+        "Căn hộ được sử dụng không đúng mục đích",
+        "Hội đồng Southwark xác nhận thu hồi căn hộ"
+      ],
+      "full_summary": "Hội đồng Southwark của London đã thu hồi một căn hộ xã hội hai phòng ở Walworth, nơi phu nhân Sierra Leone Fatima Jabbe-Bio đã thuê. Theo báo Times, phu nhân Sierra Leone đã thuê căn hộ này mặc dù đã sống phần lớn năm ở dinh tổng thống ở Freetown. Điều này vi phạm quy định về việc sử dụng căn hộ xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a167d144efea",
+      "title": "Trump targeting immigrants from countries hit most by climate shocks",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:15.018293+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Trump cấm nhập cư từ các nước bị ảnh hưởng nặng nề bởi biến đổi khí hậu",
+      "bullets": [
+        "Cấm nhập cư từ 39 nước đang bị ảnh hưởng nặng nề bởi biến đổi khí hậu",
+        "Nhiều người bị buộc phải di cư vì thiên tai, lũ lụt và hạn hán do biến đổi khí hậu",
+        "Chính quyền Trump đẩy mạnh chính sách tăng cường khai thác dầu khí",
+        "Hậu quả là hàng triệu người bị ngăn không vào Mỹ"
+      ],
+      "full_summary": "Chính quyền Trump đang áp dụng chính sách cấm nhập cư từ các nước bị ảnh hưởng nặng nề bởi biến đổi khí hậu. Theo phân tích của The Guardian, 39 nước đang bị cấm nhập cư vào Mỹ là những nước bị ảnh hưởng nặng nề bởi thiên tai, lũ lụt và hạn hán do biến đổi khí hậu. Chính quyền Trump đang đẩy mạnh chính sách tăng cường khai thác dầu khí, khiến hàng triệu người bị buộc phải di cư khỏi quê hương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1dd1abb6e28e",
+      "title": "Canada eliminates human rights watchdog that oversees companies operating abroad",
+      "url": "https://www.theguardian.com/world/2026/jun/15/canada-eliminates-human-rights-watchdog-companies-abroad",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T03:25:16.087441+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Canada bãi bỏ cơ quan giám sát nhân quyền của các công ty",
+      "bullets": [
+        "Bãi bỏ cơ quan giám sát nhân quyền của Canada",
+        "Cơ quan này không hiệu quả kể từ khi thành lập năm 2019",
+        "Canada đối mặt với chỉ trích từ chính quyền Trump về nỗ lực chống lao động bóc lột",
+        "Cơ quan này chịu trách nhiệm giám sát các công ty Canada hoạt động ở nước ngoài"
+      ],
+      "full_summary": "Canada đã quyết định bãi bỏ cơ quan giám sát nhân quyền của các công ty hoạt động ở nước ngoài. Cơ quan này, được thành lập vào năm 2019, đã bị đánh giá không hiệu quả. Điều này đã dẫn đến chỉ trích từ chính quyền Trump về nỗ lực chống lao động bóc lột của Canada. Cơ quan này chịu trách nhiệm giám sát các công ty Canada hoạt động ở nước ngoài và đảm bảo rằng họ tuân thủ các tiêu chuẩn nhân quyền.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d38f4eb7784f",
+      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+      "url": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-16T03:25:17.725945+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Isar Aerospace bị hủy lần thứ hai nhiệm vụ quan trọng",
+      "bullets": [
+        "Hủy bỏ nhiệm vụ phóng vệ tinh quan trọng",
+        "Cần kinh nghiệm bay để phát triển công nghệ",
+        "Không thiếu tiền nhưng thiếu kinh nghiệm bay",
+        "Tình hình khiến Isar Aerospace gặp khó khăn"
+      ],
+      "full_summary": "Isar Aerospace, một công ty không gian thương mại của châu Âu, đã hủy bỏ lần thứ hai nhiệm vụ phóng vệ tinh quan trọng. Nhiệm vụ này được coi là một trong những mục tiêu quan trọng của công ty, nhưng do thiếu kinh nghiệm bay, công ty đã quyết định hủy bỏ. Mặc dù Isar Aerospace không thiếu tiền, nhưng thiếu kinh nghiệm bay khiến công ty gặp khó khăn trong việc phát triển công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "418801759a4d",
+      "title": "Humanity isn't ready for the coming intelligence explosion",
+      "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-16T03:25:22.572980+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Sự bùng nổ trí tuệ sắp tới sẽ vượt quá khả năng của con người",
+      "bullets": [
+        "Nghiên cứu cho thấy sự tiến bộ của trí tuệ nhân tạo đang diễn ra nhanh chóng hơn dự kiến",
+        "Con người chưa sẵn sàng đối mặt với hậu quả của sự bùng nổ trí tuệ",
+        "Cần có sự chuẩn bị và quản lý để tránh những rủi ro tiềm ẩn"
+      ],
+      "full_summary": "Một bài viết trên Economist cho rằng sự bùng nổ trí tuệ sắp tới sẽ vượt quá khả năng của con người. Sự tiến bộ của trí tuệ nhân tạo đang diễn ra nhanh chóng hơn dự kiến, và con người chưa sẵn sàng đối mặt với hậu quả của sự bùng nổ trí tuệ. Điều này đòi hỏi sự chuẩn bị và quản lý để tránh những rủi ro tiềm ẩn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "5bc8a7e05363",
       "title": "South African jazz legend Abdullah Ibrahim dies at 91",
@@ -593,202 +791,6 @@
         "Bạo động diễn ra trước khi G7 họp tại Geneva"
       ],
       "full_summary": "Trước khi G7 họp tại Geneva, cảnh sát Thụy Sĩ đã sử dụng nước và hơi cay để dẹp bạo động của hàng trăm người biểu tình phản đối G7. Cảnh sát và người biểu tình đã xảy ra va chạm, khiến nhiều người bị thương. Bạo động diễn ra tại trung tâm thành phố Geneva, nơi G7 sẽ họp trong vài ngày tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3703732a3bd8",
-      "title": "Trump hosts UFC cage fight on the White House lawn",
-      "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T03:27:48.462985+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trump tổ chức trận đấu MMA trên sân nhà Trắng",
-      "bullets": [
-        "Đảng Cộng hòa tổ chức trận đấu MMA trên sân nhà Trắng",
-        "Sự kiện này trùng với ngày sinh nhật lần thứ 80 của Trump",
-        "Tham dự sự kiện dự kiến có hàng nghìn người",
-        "Trận đấu MMA là một sự kiện bất thường trên sân nhà Trắng"
-      ],
-      "full_summary": "Một trận đấu MMA bất thường đã được tổ chức trên sân nhà Trắng do Đảng Cộng hòa tổ chức. Sự kiện này trùng với ngày sinh nhật lần thứ 80 của cựu Tổng thống Donald Trump. Trận đấu dự kiến sẽ thu hút hàng nghìn người tham dự. Đây là một sự kiện bất thường trên sân nhà Trắng, nơi thường tổ chức các sự kiện chính trị và lễ kỷ niệm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "936e63d132ec",
-      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T03:27:49.455653+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Các thương hiệu toàn cầu có thể mua coltan từ nhóm khủng bố ở Congo",
-      "bullets": [
-        "Khám phá cho thấy Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp bị kiểm soát bởi M23",
-        "M23 bị cáo buộc đã thực hiện nhiều tội ác, bao gồm bạo lực tình dục và hành quyết",
-        "Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại",
-        "Các công ty toàn cầu có thể không biết về nguồn gốc của coltan"
-      ],
-      "full_summary": "Một cuộc điều tra mới cho thấy các thương hiệu toàn cầu như Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp bị kiểm soát bởi M23, một nhóm khủng bố ở Congo. M23 bị cáo buộc đã thực hiện nhiều tội ác, bao gồm bạo lực tình dục và hành quyết. Coltan được sử dụng trong các thiết bị điện tử, bao gồm điện thoại. Các công ty toàn cầu có thể không biết về nguồn gốc của coltan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6bd2cd09c9f7",
-      "title": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
-      "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T03:27:50.388932+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cựu ca sĩ Mỹ Oliver Tree tử vong trong tai nạn máy bay ở Brazil",
-      "bullets": [
-        "Hai máy bay chạm trán nhau trên không",
-        "Tất cả 6 người trên máy bay đều thiệt mạng",
-        "Ca sĩ Oliver Tree là một trong những người chết",
-        "Tài nạn xảy ra ở khu vực phía tây Rio de Janeiro"
-      ],
-      "full_summary": "Ca sĩ Mỹ Oliver Tree, 32 tuổi, đã tử vong trong một vụ tai nạn máy bay ở Brazil. Hai máy bay chạm trán nhau trên không và rơi xuống khu vực phía tây Rio de Janeiro, khiến tất cả 6 người trên máy bay đều thiệt mạng. Oliver Tree là một trong những người chết trong vụ tai nạn này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd29d5c0094e",
-      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
-      "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-15T03:27:51.319841+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Nghiên cứu cho rằng một tu sĩ bay đã nhìn thấy sao Halley hai lần",
-      "bullets": [
-        "Một nhà sử học từ Đại học Leicester tin rằng Eilmer của Malmesbury đã nhìn thấy sao Halley vào năm 1018",
-        "Eilmer cũng được cho là đã nhìn thấy sao Halley vào năm 1066",
-        "Nghiên cứu cho rằng Eilmer có thể đã nhìn thấy hai sao khác nhau",
-        "Sao Halley được cho là đã được nhìn thấy lần đầu tiên vào năm 1066"
-      ],
-      "full_summary": "Một nhà sử học từ Đại học Leicester tin rằng Eilmer của Malmesbury, một tu sĩ bay, đã nhìn thấy sao Halley hai lần. Eilmer được cho là đã nhìn thấy sao Halley vào năm 1018 và 1066. Tuy nhiên, nghiên cứu cho rằng Eilmer có thể đã nhìn thấy hai sao khác nhau. Sao Halley được cho là đã được nhìn thấy lần đầu tiên vào năm 1066.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "77cc79f7af53",
-      "title": "Review: Disclosure Day is big on action, light on ideas",
-      "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-15T03:27:52.261961+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Phim Disclosure Day đầy hành động, thiếu ý tưởng sáng tạo",
-      "bullets": [
-        "Là một bộ phim hành động hấp dẫn từ một trong những đạo diễn vĩ đại",
-        "Không có bất kỳ điều gì mới mẻ hoặc bất ngờ",
-        "Đạo diễn đã thể hiện kỹ năng của mình trong việc xây dựng kịch bản"
-      ],
-      "full_summary": "Phim Disclosure Day đã được phát hành và nhận được nhiều đánh giá từ các nhà phê bình. Mặc dù bộ phim không có bất kỳ điều gì mới mẻ hoặc bất ngờ, nhưng nó vẫn là một bộ phim hành động hấp dẫn từ một trong những đạo diễn vĩ đại. Đạo diễn đã thể hiện kỹ năng của mình trong việc xây dựng kịch bản và tạo ra một bộ phim thú vị. Tuy nhiên, bộ phim vẫn thiếu ý tưởng sáng tạo và không có bất kỳ điều gì mới mẻ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ae2fb8f6083",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-15T03:27:55.472300+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Jeff Bezos thành lập công ty mới Prometheus để phát triển trí tuệ nhân tạo vật lý",
-      "bullets": [
-        "Thiết kế và phát triển các robot tự động có khả năng học hỏi và thích nghi",
-        "Tìm kiếm và phát triển các công nghệ mới cho trí tuệ nhân tạo vật lý",
-        "Đầu tư lớn vào nghiên cứu và phát triển trí tuệ nhân tạo vật lý"
-      ],
-      "full_summary": "Jeff Bezos vừa thành lập một công ty mới tên là Prometheus, tập trung vào việc phát triển trí tuệ nhân tạo vật lý. Công ty này sẽ thiết kế và phát triển các robot tự động có khả năng học hỏi và thích nghi, cũng như tìm kiếm và phát triển các công nghệ mới cho trí tuệ nhân tạo vật lý. Với nguồn vốn lớn, Prometheus có thể trở thành một trong những công ty hàng đầu trong lĩnh vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "569aa46bfd68",
-      "title": "Chaosnet (1981)",
-      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-15T03:27:59.199991+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chaosnet: Mạng lưới tính toán đầu tiên của MIT",
-      "bullets": [
-        "Tạo ra mạng lưới tính toán đầu tiên của MIT vào năm 1981",
-        "Được thiết kế để kết nối các máy tính và chia sẻ tài nguyên",
-        "Là tiền thân của các mạng lưới tính toán hiện đại"
-      ],
-      "full_summary": "Chaosnet là mạng lưới tính toán đầu tiên được tạo ra bởi MIT vào năm 1981. Nó được thiết kế để kết nối các máy tính và chia sẻ tài nguyên, giúp các nhà khoa học và kỹ sư chia sẻ dữ liệu và thực hiện các tính toán phức tạp. Chaosnet là tiền thân của các mạng lưới tính toán hiện đại và đã đóng vai trò quan trọng trong sự phát triển của công nghệ mạng lưới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b19e17f18be3",
-      "title": "Israeli military says Hezbollah targets struck in Beirut",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:02.489562+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Israel tấn công Hezbollah tại Beirut, gây lo ngại về thỏa thuận Iran - Mỹ",
-      "bullets": [
-        "Israel tấn công mục tiêu Hezbollah tại Beirut",
-        "Tehran cảnh báo động thái này có thể khiến thỏa thuận Iran - Mỹ đổ vỡ",
-        "Mục tiêu tấn công được cho là liên quan đến Iran",
-        "Israel khẳng định hành động này nhằm mục đích bảo vệ quốc gia"
-      ],
-      "full_summary": "Israel cho biết đã tấn công mục tiêu của Hezbollah tại Beirut, gây lo ngại về thỏa thuận Iran - Mỹ nhằm chấm dứt xung đột. Tehran đã cảnh báo rằng động thái này có thể khiến thỏa thuận đổ vỡ. Mục tiêu tấn công được cho là liên quan đến Iran và Israel khẳng định hành động này nhằm mục đích bảo vệ quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ca9288d6e4df",
-      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:03.422154+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ sinh bị bắn, xe buýt bị đốt sau chiến thắng NBA của Knicks",
-      "bullets": [
-        "Bị bắt giữ ít nhất 63 người sau bạo động ở Manhattan",
-        "Một nữ sinh bị bắn và bị thương",
-        "Một số xe buýt bị đốt cháy",
-        "Các cảnh sát đang điều tra nguyên nhân vụ việc"
-      ],
-      "full_summary": "Sau khi Knicks đánh bại Spurs để giành chức vô địch, Manhattan đã xảy ra bạo động. Một nữ sinh bị bắn và bị thương, còn nhiều xe buýt bị đốt cháy. Các cảnh sát đã bắt giữ ít nhất 63 người và đang điều tra nguyên nhân vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ab17b071b78f",
-      "title": "UK and Japan agree £18bn investment deal",
-      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-14T19:15:04.375593+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Nhật Bản đầu tư 18 tỷ bảng vào cơ sở hạ tầng Anh",
-      "bullets": [
-        "Đầu tư vào cơ sở hạ tầng Anh",
-        "Sản xuất năng lượng gió ngoài khơi",
-        "Tăng cường hợp tác kinh tế giữa hai quốc gia"
-      ],
-      "full_summary": "Chính phủ Anh và Nhật Bản đã đạt được thỏa thuận đầu tư trị giá 18 tỷ bảng Anh. Theo thỏa thuận, các công ty Nhật Bản sẽ đầu tư vào cơ sở hạ tầng và năng lượng gió ngoài khơi Anh. Đây là một bước tiến quan trọng trong việc tăng cường hợp tác kinh tế giữa hai quốc gia. Thỏa thuận này sẽ mang lại lợi ích cho cả hai quốc gia và đóng góp vào sự phát triển kinh tế toàn cầu.",
       "comments": 0,
       "score": 0
     }
