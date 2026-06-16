@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-06-16T10:59:13.373810+00:00",
+  "updated_at": "2026-06-16T16:29:19.002686+00:00",
   "articles": [
+    {
+      "id": "f635c21708cc",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T16:29:03.856129+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hạm đội Nga được cho là bắn cảnh báo gần thuyền buồm Anh",
+      "bullets": [
+        "Báo cáo cho biết một thuyền buồm đăng ký Anh đã đề nghị cảnh báo",
+        "Hạm đội Nga được cho là đã bắn cảnh báo gần thuyền buồm",
+        "Vụ việc xảy ra gần đảo Isle of Wight",
+        "Nghi vấn đang được điều tra bởi cơ quan chức năng Anh"
+      ],
+      "full_summary": "Một thuyền buồm đăng ký Anh đã báo cáo rằng họ đã nhận được cảnh báo từ một tàu chiến Nga gần đảo Isle of Wight. Vụ việc được cho là đã xảy ra vào ngày 11 tháng 6. Cơ quan chức năng Anh đang điều tra vụ việc. Nghi vấn này đã gây ra sự quan tâm lớn trong cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d18aced66c81",
+      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T16:29:04.982271+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Hợp đồng Tehran - Mỹ mang lại hy vọng giảm giá và giảm lo ngại chiến tranh",
+      "bullets": [
+        "Hợp đồng giúp Iran giảm lo ngại chiến tranh",
+        "Giá hàng hóa có thể giảm sau khi lệnh trừng phạt được dỡ bỏ",
+        "Nhu cầu hàng hóa Iran có thể tăng lên",
+        "Tình hình kinh tế Iran có thể cải thiện"
+      ],
+      "full_summary": "Hợp đồng Tehran - Mỹ được coi là một chiến thắng cho Iran, nhưng đối với người dân Iran, nó là một sự cần thiết. Họ không quan tâm đến việc liệu hợp đồng này có mang lại chiến thắng hay không, mà quan tâm đến việc liệu nó có giúp giảm giá hàng hóa và giảm lo ngại chiến tranh hay không. Giá hàng hóa có thể giảm sau khi lệnh trừng phạt được dỡ bỏ, và nhu cầu hàng hóa Iran có thể tăng lên. Điều này có thể giúp cải thiện tình hình kinh tế Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "556c0af15745",
+      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T16:29:06.213684+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hoa đàm Mỹ - Iran khiến Lebanon yên ắng nhưng vẫn có nhiều nghi ngờ",
+      "bullets": [
+        "Căng thẳng giữa Israel và Hezbollah vẫn chưa được giải quyết",
+        "Nhiều người Lebanon vẫn hoài nghi về khả năng hòa bình",
+        "Hoa đàm Mỹ - Iran không giải quyết các vấn đề cơ bản",
+        "Tình hình Lebanon vẫn còn nhiều bất ổn"
+      ],
+      "full_summary": "Hoa đàm giữa Mỹ và Iran đã mang lại một thời gian yên ắng ở Lebanon, nhưng nhiều người vẫn còn hoài nghi về khả năng hòa bình thực sự. Họ lo ngại rằng các vấn đề cơ bản giữa Israel và Hezbollah vẫn chưa được giải quyết. Các cuộc chiến tranh ở Lebanon đã gây ra nhiều thiệt hại và đau khổ cho người dân. Mặc dù hoa đàm đã mang lại một thời gian yên ắng, nhưng tình hình vẫn còn nhiều bất ổn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9479f337f9ab",
+      "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
+      "url": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T16:29:07.257510+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bà 79 tuổi ở Pháp bị cáo buộc giết người trong gia đình",
+      "bullets": [
+        "Bà bị bắt vì liên quan đến vụ giết người năm 1995",
+        "Mộ người đã bị bóc lột và chia thành nhiều phần",
+        "Bà bị kết tội giết người trong gia đình",
+        "Sự việc được giải quyết nhờ bằng chứng DNA"
+      ],
+      "full_summary": "Bà 79 tuổi ở Pháp đã bị bắt và đưa ra xét xử vì liên quan đến vụ giết người trong gia đình. Vụ việc xảy ra vào năm 1995, khi một người đàn ông đã bị bóc lột và chia thành nhiều phần. Sự việc được giải quyết nhờ bằng chứng DNA. Bà bị cáo buộc giết người trong gia đình và đang chờ xét xử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "222e25d2187d",
+      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T16:29:08.228593+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Mỹ - Venezuela hợp tác xây dựng lưới điện mới",
+      "bullets": [
+        "Venezuela ký thỏa thuận với General Electric để xây dựng lưới điện mới.",
+        "Thỏa thuận này thể hiện sự hợp tác giữa các công ty Mỹ và chính phủ lâm thời của Venezuela.",
+        "Lưới điện mới sẽ giúp Venezuela phục hồi sau nhiều năm suy thoái.",
+        "Hợp tác này có thể mở ra cơ hội cho các công ty Mỹ khác tham gia vào nền kinh tế Venezuela."
+      ],
+      "full_summary": "Venezuela đã ký một thỏa thuận với General Electric để xây dựng lưới điện mới. Thỏa thuận này thể hiện sự hợp tác giữa các công ty Mỹ và chính phủ lâm thời của Venezuela. Lưới điện mới sẽ giúp Venezuela phục hồi sau nhiều năm suy thoái. Hợp tác này có thể mở ra cơ hội cho các công ty Mỹ khác tham gia vào nền kinh tế Venezuela.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9742c6604401",
+      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T16:29:09.303383+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Số du khách nước ngoài giảm mạnh do chiến dịch áp lực của Mỹ",
+      "bullets": [
+        "Giảm 58% số lượng du khách nước ngoài so với năm ngoái",
+        "Cuba chịu áp lực từ các biện pháp trừng phạt và phong tỏa dầu",
+        "Sự sụp đổ của ngành du lịch Cuba gây ra nhiều vấn đề kinh tế",
+        "Cuba đang tìm cách đối phó với tình hình khó khăn"
+      ],
+      "full_summary": "Theo BBC World, số lượng du khách nước ngoài đến Cuba đã giảm mạnh 58% so với năm ngoái. Điều này là do chiến dịch áp lực của Mỹ, bao gồm các biện pháp trừng phạt và phong tỏa dầu. Sự sụp đổ của ngành du lịch Cuba gây ra nhiều vấn đề kinh tế và chính phủ đang tìm cách đối phó với tình hình khó khăn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "97981df5f6c7",
+      "title": "Social media on trial: Four important cases to watch",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T16:29:11.690887+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các công ty mạng xã hội đối mặt với hàng nghìn vụ kiện",
+      "bullets": [
+        "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện về trách nhiệm pháp lý.",
+        "Vụ kiện của một phụ nữ Mỹ đòi Facebook trả tiền vì ảnh hưởng tâm lý.",
+        "Một công ty Pháp kiện Meta về việc thu thập dữ liệu người dùng.",
+        "Một vụ kiện ở Mỹ liên quan đến việc Facebook và Instagram lạm dụng quyền riêng tư."
+      ],
+      "full_summary": "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện về trách nhiệm pháp lý. Các vụ kiện này bao gồm việc đòi tiền bồi thường cho ảnh hưởng tâm lý, lạm dụng quyền riêng tư và thu thập dữ liệu người dùng. Các công ty mạng xã hội đang phải đối mặt với áp lực từ các cơ quan chức năng và công chúng về việc bảo vệ quyền riêng tư và trách nhiệm pháp lý.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ebbf99e82e5e",
       "title": "Iran deal presents political nightmare for Netanyahu",
@@ -653,143 +793,6 @@
         "FIFA chưa công bố bất kỳ thông tin nào về hậu quả của vụ việc"
       ],
       "full_summary": "FIFA đang tìm hiểu về cử chỉ tay của trọng tài VAR Shaun Evans trước trận đấu giữa Đức và Quần đảo Curacao. Cử chỉ tay của Evans được cho là không phù hợp và đã gây chú ý trong trận đấu. Trận đấu kết thúc với tỷ số 7-1 nghiêng về Đức. FIFA chưa công bố bất kỳ thông tin nào về hậu quả của vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b1817198c0ad",
-      "title": "Social media ban - bold and blunt, but no silver bullet",
-      "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T17:04:25.245899+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cấm mạng xã hội không phải giải pháp thần kỳ",
-      "bullets": [
-        "Cấm mạng xã hội không thể ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp",
-        "Nhiều nền tảng mạng xã hội đang tìm cách tự quản lý nội dung",
-        "Chính phủ cần hợp tác với các công ty công nghệ để giải quyết vấn đề này"
-      ],
-      "full_summary": "Chuyên gia công nghệ của BBC, Zoe Kleinman, cho biết việc cấm mạng xã hội không phải là giải pháp thần kỳ để ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp. Mạng xã hội vẫn đang phát triển và trẻ em vẫn có thể dễ dàng tiếp cận các nền tảng này. Để giải quyết vấn đề này, chính phủ cần hợp tác với các công ty công nghệ để tạo ra các giải pháp hiệu quả hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a68e088292c7",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T17:04:26.214245+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Một phiên bản AI quá mạnh cho công chúng được công bố",
-      "bullets": [
-        "Cung cấp phiên bản Claude Fable 5 của Anthropic",
-        "Phiên bản này gây tranh cãi trong giới công nghệ, tài chính và chính phủ",
-        "Chưa rõ lý do tại sao phiên bản này được công bố công khai"
-      ],
-      "full_summary": "Anthropic đã công bố phiên bản Claude Fable 5, một phần của chương trình AI gây tranh cãi. Phiên bản này được cho là quá mạnh cho công chúng. Giới công nghệ, tài chính và chính phủ đã bày tỏ lo ngại về việc sử dụng AI như vậy. Tuy nhiên, lý do tại sao phiên bản này được công bố công khai vẫn chưa rõ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23f27a861a03",
-      "title": "Woman, 21, dies after being thrown from Brazil rope jump bridge without harness",
-      "url": "https://www.theguardian.com/world/2026/jun/15/brazil-rope-jump-bridge-woman-dies",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T17:04:29.249262+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ sinh 21 tuổi rơi từ cầu dây văng tử vong",
-      "bullets": [
-        "Một nữ sinh 21 tuổi bị 2 huấn luyện viên ném khỏi cầu dây văng mà không đeo dây an toàn",
-        "Nữ sinh đã yêu cầu được nhảy cầu airplane style nhưng không được thực hiện đúng",
-        "Cảnh sát đang điều tra vụ việc và xác định nguyên nhân dẫn đến cái chết của nữ sinh"
-      ],
-      "full_summary": "Một nữ sinh 21 tuổi tên Maria Eduarda Rodrigues de Freitas đã tử vong sau khi bị 2 huấn luyện viên ném khỏi cầu dây văng mà không đeo dây an toàn. Nữ sinh đang tham gia hoạt động trượt dây văng trên cầu Ponte do Esqueleto ở thành phố Limeira, bang São Paulo, Brazil. Nữ sinh đã yêu cầu được nhảy cầu airplane style nhưng không được thực hiện đúng, dẫn đến cái chết của cô.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6e9cc34dd8c5",
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-15T17:04:33.463768+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Hàng trăm tổ chức bị tấn công bởi lỗ hổng 0-day trong PeopleSoft",
-      "bullets": [
-        "Bị khai thác bởi hacker để đánh cắp dữ liệu lớn",
-        "Lỗ hổng nghiêm trọng trong phần mềm PeopleSoft thuộc sở hữu của Oracle",
-        "Hàng trăm tổ chức trên toàn thế giới bị ảnh hưởng bởi lỗ hổng này",
-        "Dữ liệu bị đánh cắp có thể lên đến hàng gigabyte"
-      ],
-      "full_summary": "Một lỗ hổng nghiêm trọng đã được phát hiện trong phần mềm quản lý nhân sự PeopleSoft thuộc sở hữu của Oracle. Lỗ hổng này đã được khai thác bởi hacker để đánh cắp dữ liệu lớn từ hàng trăm tổ chức trên toàn thế giới. Dữ liệu bị đánh cắp có thể lên đến hàng gigabyte, gây ra mối lo ngại về an ninh dữ liệu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dd4054ce766e",
-      "title": "Norwegian crown princess's son found guilty of two counts of rape",
-      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:51.696152+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nữ hoàng thái tử Norway bị cáo buộc hai tội hiếp dâm",
-      "bullets": [
-        "Bị cáo Marius Borg Høiby bị kết tội hai tội hiếp dâm",
-        "Anh ta bị phạt 4 năm tù",
-        "Con trai của Nữ hoàng thái tử Mette Marit bị kết tội",
-        "Quyết định của tòa án được công bố gần đây"
-      ],
-      "full_summary": "Bị cáo Marius Borg Høiby, con trai của Nữ hoàng thái tử Mette Marit, đã bị kết tội hai tội hiếp dâm và bị phạt 4 năm tù. Đây là một quyết định nghiêm trọng đối với gia đình hoàng gia Norway. Bị cáo Høiby đã bị kết tội hiếp dâm hai người phụ nữ khác. Quyết định của tòa án được công bố gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4032ecae946f",
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:52.781839+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hỏa tiễn Nga bắn vào Kiev, đốt cháy nhà thờ lịch sử",
-      "bullets": [
-        "Tua bin tấn công thành phố Tula ở Nga, giết 3 người",
-        "Hỏa tiễn Nga bắn vào Kiev, giết 11 người và đốt cháy nhà thờ",
-        "Nạn nhân bao gồm cả thường dân và binh sĩ",
-        "Tình hình ở Ukraine tiếp tục căng thẳng"
-      ],
-      "full_summary": "Hỏa tiễn Nga đã bắn vào Kiev, giết 11 người và đốt cháy nhà thờ lịch sử. Sự kiện này diễn ra sau khi một chiếc tua bin tấn công thành phố Tula ở Nga, giết 3 người. Nạn nhân bao gồm cả thường dân và binh sĩ. Tình hình ở Ukraine tiếp tục căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3844d3f92ca9",
-      "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
-      "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:53.751840+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ du khách Brazil tử vong sau khi giáo viên nhảy dây không cố định dây an toàn",
-      "bullets": [
-        "Cảnh sát bắt giữ 3 người đàn ông liên quan đến vụ tai nạn",
-        "Giáo viên nhảy dây không cố định dây an toàn trước khi giúp nữ du khách nhảy cầu",
-        "Nữ du khách Brazil tử vong sau khi nhảy cầu không có dây an toàn",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một nữ du khách Brazil đã tử vong sau khi nhảy cầu không có dây an toàn. Ba người đàn ông liên quan đến vụ tai nạn đã bị bắt giữ. Theo báo cáo, giáo viên nhảy dây đã không cố định dây an toàn trước khi giúp nữ du khách nhảy cầu. Vụ việc đang được điều tra.",
       "comments": 0,
       "score": 0
     }
