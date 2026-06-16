@@ -1,6 +1,225 @@
 {
-  "updated_at": "2026-06-16T03:25:24.978191+00:00",
+  "updated_at": "2026-06-16T10:59:13.373810+00:00",
   "articles": [
+    {
+      "id": "ebbf99e82e5e",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:58:56.986444+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Thỏa thuận Iran gây khó khăn cho Thủ tướng Israel",
+      "bullets": [
+        "Thỏa thuận ngừng bắn Iran gây ra khó khăn mới cho Thủ tướng Israel Benjamin Netanyahu.",
+        "Thỏa thuận này đặt Netanyahu vào tình huống khó khăn về chính trị và an ninh.",
+        "Thỏa thuận ngừng bắn Iran được ký kết bởi cựu Tổng thống Mỹ Donald Trump.",
+        "Thỏa thuận này có thể ảnh hưởng đến quan hệ giữa Israel và Iran."
+      ],
+      "full_summary": "Thỏa thuận ngừng bắn Iran được ký kết bởi cựu Tổng thống Mỹ Donald Trump đã gây ra khó khăn mới cho Thủ tướng Israel Benjamin Netanyahu. Thỏa thuận này đặt Netanyahu vào tình huống khó khăn về chính trị và an ninh. Thỏa thuận ngừng bắn Iran có thể ảnh hưởng đến quan hệ giữa Israel và Iran, và cũng có thể gây ra khó khăn cho chính sách đối ngoại của Israel.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c05f76898040",
+      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
+      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:58:57.913140+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Máy bay chiến đấu B-52 của Mỹ rơi xuống California, 8 người chết",
+      "bullets": [
+        "Rơi xuống California vào sáng thứ hai",
+        "Đang thực hiện nhiệm vụ thử nghiệm",
+        "8 người thiệt mạng trong vụ tai nạn",
+        "Cơ quan An toàn Giao thông Mỹ đang điều tra"
+      ],
+      "full_summary": "Một chiếc máy bay chiến đấu B-52 của Không quân Mỹ đã rơi xuống California vào sáng thứ hai trong khi đang thực hiện nhiệm vụ thử nghiệm. 8 người đã thiệt mạng trong vụ tai nạn. Cơ quan An toàn Giao thông Mỹ đang điều tra nguyên nhân của vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d8269f789925",
+      "title": "Japan raises interest rate to highest for 31 years",
+      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:58:58.813536+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Nhật Bản tăng lãi suất lên mức cao nhất 31 năm",
+      "bullets": [
+        "Tăng lãi suất từ gần 0% kể từ năm 2024",
+        "Ngân hàng Nhật Bản thực hiện các biện pháp này để kiểm soát lạm phát",
+        "Lãi suất cao có thể ảnh hưởng đến nền kinh tế Nhật Bản"
+      ],
+      "full_summary": "Ngân hàng Nhật Bản vừa tăng lãi suất lên mức cao nhất 31 năm để kiểm soát lạm phát. Đây là bước tiếp theo trong nỗ lực của ngân hàng này nhằm ổn định nền kinh tế. Lãi suất cao có thể ảnh hưởng đến nền kinh tế Nhật Bản và các quốc gia khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "81160f3ee089",
+      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
+      "url": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:58:59.939270+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chánh án Newsom cáo buộc Bộ Tư pháp Mỹ điều tra vợ và cựu nhân viên",
+      "bullets": [
+        "Điều tra của Bộ Tư pháp Mỹ đã kéo dài khoảng một năm",
+        "Chánh án Newsom cáo buộc Bộ Tư pháp Mỹ đang điều tra vợ và cựu nhân viên",
+        "Nguồn tin thân cận cho biết điều tra đã được tiến hành một năm",
+        "Chánh án Newsom không xác nhận thông tin điều tra"
+      ],
+      "full_summary": "Chánh án California, Gavin Newsom, cáo buộc Bộ Tư pháp Mỹ đang điều tra vợ và cựu nhân viên. Nguồn tin thân cận cho biết điều tra đã được tiến hành khoảng một năm. Tuy nhiên, Chánh án Newsom không xác nhận thông tin điều tra. Điều tra này có thể liên quan đến các vấn đề chính trị và pháp lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8b67e88fd566",
+      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
+      "url": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:59:01.061905+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hình ảnh nữ vũ công trong sách giáo khoa được khôi phục",
+      "bullets": [
+        "Một bức tranh trong sách giáo khoa mới đã bị che đi cơ thể trần trụm của nữ vũ công nổi tiếng.",
+        "Sau khi có phản ứng dữ dội, hình ảnh này đã được khôi phục.",
+        "Bức tranh là một phần của bộ sách giáo khoa mới được sử dụng ở Ấn Độ.",
+        "Bộ sách giáo khoa này đã gây tranh cãi vì có nhiều hình ảnh không phù hợp với trẻ em."
+      ],
+      "full_summary": "Một bức tranh trong sách giáo khoa mới ở Ấn Độ đã bị che đi cơ thể trần trụm của nữ vũ công nổi tiếng. Sau khi có phản ứng dữ dội từ công chúng, hình ảnh này đã được khôi phục. Bức tranh là một phần của bộ sách giáo khoa mới được sử dụng ở Ấn Độ và đã gây tranh cãi vì có nhiều hình ảnh không phù hợp với trẻ em. Bộ sách giáo khoa này được sử dụng để giáo dục trẻ em về lịch sử và văn hóa của Ấn Độ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5c5a131db552",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:59:02.061774+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tác giả Nga bị bắn chết ở Ba Lan vì chỉ trích Putin",
+      "bullets": [
+        "Bị bắn chết ở Ba Lan",
+        "Là tác giả Nga chỉ trích Putin",
+        "Đã vẽ nhiều tranh chế về các chính trị gia",
+        "Được biết đến với bút danh Semyon Skrepetsky"
+      ],
+      "full_summary": "Tác giả Nga Robert Kuzovkov đã bị bắn chết ở Ba Lan. Ông được biết đến với các tranh chế về các chính trị gia, bao gồm cả Tổng thống Nga Vladimir Putin. Kuzovkov đã sử dụng bút danh Semyon Skrepetsky để tạo ra các tác phẩm nghệ thuật của mình. Sự kiện này đã gây sốc trong cộng đồng nghệ thuật và chính trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "913f4df0b8a6",
+      "title": "India temporarily bans Telegram over exam paper leak concerns",
+      "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:59:03.064403+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ấn Độ tạm dừng sử dụng Telegram vì lo ngại rò rỉ đề thi",
+      "bullets": [
+        "Tạm dừng sử dụng Telegram",
+        "Lo ngại rò rỉ đề thi NEET",
+        "Đề thi đã bị hủy do nghi ngờ rò rỉ",
+        "Đã có biểu tình lớn"
+      ],
+      "full_summary": "Ấn Độ đã tạm dừng sử dụng ứng dụng Telegram vì lo ngại rò rỉ đề thi NEET. Đề thi đã bị hủy do nghi ngờ rò rỉ, dẫn đến biểu tình lớn. Việc này đã khiến người dùng phải tìm kiếm các ứng dụng khác để liên lạc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a7a2df74f94e",
+      "title": "Tunisia sack head coach just one game into World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:59:04.137040+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội đồng bóng đá Tunisia sa thải HLV Sabri Lamouchi ngay sau trận mở màn World Cup",
+      "bullets": [
+        "Sa thải HLV Sabri Lamouchi sau trận thua mở màn World Cup",
+        "Đội tuyển bóng đá Tunisia thay thế HLV Sabri Lamouchi bằng Hervé Renard",
+        "Hervé Renard từng làm HLV cho Morocco và Saudi Arabia",
+        "Tunisia chuẩn bị cho trận đấu tiếp theo tại World Cup"
+      ],
+      "full_summary": "Hội đồng bóng đá Tunisia đã quyết định sa thải HLV Sabri Lamouchi ngay sau trận thua mở màn World Cup. Thay vào đó, họ đã bổ nhiệm Hervé Renard, người từng làm HLV cho Morocco và Saudi Arabia, để dẫn dắt đội tuyển bóng đá Tunisia. Đây là một quyết định bất ngờ và có thể ảnh hưởng đến kết quả của đội tuyển bóng đá Tunisia tại World Cup.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "936e63d132ec",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-16T10:59:05.291224+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Cung cấp nguyên liệu cho điện thoại có thể tài trợ cho kẻ khủng bố ở DRC",
+      "bullets": [
+        "Cơ quan Global Witness nghi ngờ Amazon, Sony và Ericsson đã mua coltan từ nguồn cung cấp liên quan đến M23",
+        "M23 bị cáo buộc tham gia vào bạo lực và bạo động ở Cộng hòa Dân chủ Congo",
+        "Coltan được sử dụng trong sản xuất điện thoại di động và các thiết bị điện tử khác",
+        "Các công ty dẫn đầu thế giới có thể không biết về nguồn gốc của nguyên liệu này"
+      ],
+      "full_summary": "Một cuộc điều tra mới của Global Witness cho thấy các công ty dẫn đầu thế giới như Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp liên quan đến M23, một nhóm khủng bố ở Cộng hòa Dân chủ Congo. M23 bị cáo buộc tham gia vào các tội ác nghiêm trọng, bao gồm bạo lực, bạo động và lạm dụng tình dục. Coltan được sử dụng trong sản xuất điện thoại di động và các thiết bị điện tử khác, và các công ty có thể không biết về nguồn gốc của nguyên liệu này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4113ea08e6b0",
+      "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
+      "url": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-16T10:59:07.089310+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cục điện thoại mới của Commodore chặn mạng xã hội và trình duyệt.",
+      "bullets": [
+        "Chặn truy cập mạng xã hội và trình duyệt trên điện thoại mới của Commodore.",
+        "Thiết bị có tên Call Back 8020, hướng đến khách hàng không phải là sản phẩm.",
+        "Điện thoại này hướng đến khách hàng muốn tập trung vào cuộc sống thực tế.",
+        "Cục điện thoại mới của Commodore được thiết kế để giảm sự phụ thuộc vào công nghệ."
+      ],
+      "full_summary": "Cục điện thoại mới của Commodore, Call Back 8020, được thiết kế để chặn truy cập mạng xã hội và trình duyệt. Thiết bị này hướng đến khách hàng muốn tập trung vào cuộc sống thực tế và giảm sự phụ thuộc vào công nghệ. Commodore cho biết mục tiêu của họ là giúp khách hàng không phải là sản phẩm, mà là khách hàng được phục vụ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49d726d86994",
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-16T10:59:11.710229+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "FBI lo lắng về Fable 5 sau yêu cầu đơn giản 'sửa mã'",
+      "bullets": [
+        "Một nhà nghiên cứu tiết lộ FBI đã phản ứng mạnh mẽ khi thấy yêu cầu 'sửa mã'",
+        "Không phải là một cuộc tấn công jailbreak mà chỉ là một yêu cầu đơn giản",
+        "Fable 5 có thể đã bị hack, nhưng không có bằng chứng cụ thể",
+        "FBI đã phản ứng quá mức và gây lo lắng cho công chúng"
+      ],
+      "full_summary": "Một nhà nghiên cứu đã tiết lộ rằng FBI đã phản ứng mạnh mẽ khi thấy yêu cầu 'sửa mã' trên Fable 5, không phải là một cuộc tấn công jailbreak mà chỉ là một yêu cầu đơn giản. Điều này đã gây lo lắng cho công chúng và đặt ra câu hỏi về phản ứng của FBI. Fable 5 có thể đã bị hack, nhưng không có bằng chứng cụ thể. Nhà nghiên cứu cho rằng FBI đã phản ứng quá mức và gây lo lắng cho công chúng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ee948647ec40",
       "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
@@ -571,226 +790,6 @@
         "Vụ việc đang được điều tra"
       ],
       "full_summary": "Một nữ du khách Brazil đã tử vong sau khi nhảy cầu không có dây an toàn. Ba người đàn ông liên quan đến vụ tai nạn đã bị bắt giữ. Theo báo cáo, giáo viên nhảy dây đã không cố định dây an toàn trước khi giúp nữ du khách nhảy cầu. Vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b4114d2872ef",
-      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
-      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:54.783579+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ca sĩ Oliver Tree tử vong trong tai nạn máy bay ở Brazil",
-      "bullets": [
-        "Cô bị rơi máy bay ở Rio de Janeiro",
-        "Sáu người bị nghi là đã chết trong vụ tai nạn",
-        "Vụ việc xảy ra vào Chủ nhật",
-        "Cô là một ca sĩ-nhạc sĩ người Mỹ"
-      ],
-      "full_summary": "Ca sĩ-nhạc sĩ người Mỹ Oliver Tree đã tử vong trong một vụ tai nạn máy bay ở Rio de Janeiro, Brazil. Vụ tai nạn xảy ra vào Chủ nhật và có ít nhất sáu người bị nghi là đã chết. Oliver Tree được biết đến với các bài hát và video âm nhạc độc đáo. Cô đã trở thành một nhân vật nổi tiếng trong cộng đồng âm nhạc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c01164ac3edd",
-      "title": "Man apologises for making racist gesture at Korean in World Cup match",
-      "url": "https://www.bbc.com/news/articles/cddly65p76no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:55.776981+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông xin lỗi vì hành động phân biệt chủng tộc tại World Cup",
-      "bullets": [
-        "Một người đàn ông xin lỗi vì hành động phân biệt chủng tộc tại World Cup",
-        "Người đàn ông này đã nhún nhảy và kéo góc mắt khi xem trận đấu ở Mexico",
-        "Người đàn ông này đã nhắm vào một người ảnh hưởng đến Hàn Quốc",
-        "Hành động này đã gây ra sự phẫn nộ trên mạng xã hội"
-      ],
-      "full_summary": "Một người đàn ông đã xin lỗi vì hành động phân biệt chủng tộc tại World Cup. Người đàn ông này đã nhún nhảy và kéo góc mắt khi xem trận đấu ở Mexico, nhắm vào một người ảnh hưởng đến Hàn Quốc. Hành động này đã gây ra sự phẫn nộ trên mạng xã hội. Người đàn ông này đã xin lỗi và nói rằng hành động của mình là không phù hợp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "63b8fd556877",
-      "title": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
-      "url": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:56.787853+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nam diễn viên TV Nam Phi bị bắt vì bắt cóc tài xế taxi trong mâu thuẫn tình cảm",
-      "bullets": [
-        "Bị cáo Molemo Maarohanye bị bắt vì hành vi bắt cóc tài xế taxi",
-        "Nạn nhân bị mắc kẹt trong xe ô tô và bị bắn súng",
-        "Bị cáo đã bị bắt sau khi xảy ra vụ việc",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Bị cáo Molemo Maarohanye, một diễn viên TV nổi tiếng ở Nam Phi, đã bị bắt vì hành vi bắt cóc một tài xế taxi trong một mâu thuẫn tình cảm. Theo tin tức, bị cáo đã mắc kẹt nạn nhân trong xe ô tô và bắn súng hướng về phía nạn nhân. Vụ việc đã gây ra sự chú ý lớn và đang được điều tra. Bị cáo đã bị bắt sau khi xảy ra vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2263e9aa113d",
-      "title": "China detains two leaders of influential underground church",
-      "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:57.849493+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hội thánh Early Rain bị bắt giữ 2 lãnh đạo",
-      "bullets": [
-        "Bắt giữ 2 lãnh đạo Hội thánh Early Rain Covenant",
-        "Hơn 30 thành viên bị đưa đi hỏi cung",
-        "Bắt giữ diễn ra giữa buổi lễ Thứ Bảy",
-        "Hội thánh bị đàn áp bởi chính quyền Trung Quốc"
-      ],
-      "full_summary": "Hội thánh Early Rain Covenant Church ở Trung Quốc vừa bị bắt giữ 2 lãnh đạo và hơn 30 thành viên. Sự việc diễn ra giữa buổi lễ Thứ Bảy, khiến nhiều người trong nhà thờ bị đưa đi hỏi cung. Hội thánh này đã bị chính quyền Trung Quốc đàn áp nhiều lần trước đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9488c27b7c42",
-      "title": "When will social media ban start, and which apps will be affected?",
-      "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:58.805016+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "TikTok và Snapchat sẽ bị cấm cho thiếu niên Anh vào năm 2027",
-      "bullets": [
-        "TikTok và Snapchat sẽ bị cấm cho thiếu niên Anh từ đầu năm 2027",
-        "Các ứng dụng này sẽ bị chặn để bảo vệ trẻ em khỏi nội dung không phù hợp",
-        "Chính phủ Anh đang thực hiện các biện pháp để kiểm soát nội dung trên mạng xã hội",
-        "Các ứng dụng khác có thể bị ảnh hưởng trong tương lai"
-      ],
-      "full_summary": "Chính phủ Anh đã công bố kế hoạch cấm các ứng dụng mạng xã hội như TikTok và Snapchat cho thiếu niên từ đầu năm 2027. Mục tiêu của biện pháp này là bảo vệ trẻ em khỏi nội dung không phù hợp. Các ứng dụng này sẽ bị chặn để ngăn chặn trẻ em truy cập vào chúng. Chính phủ Anh đang thực hiện các biện pháp để kiểm soát nội dung trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "97981df5f6c7",
-      "title": "Social media on trial: Four important cases to watch",
-      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T11:50:59.786073+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hệ thống mạng xã hội phải đối mặt với hàng nghìn vụ kiện",
-      "bullets": [
-        "Bị cáo buộc không kiểm soát được nội dung trên mạng xã hội",
-        "Phải đối mặt với hàng nghìn vụ kiện vì các vấn đề liên quan đến quyền riêng tư",
-        "Một số vụ kiện liên quan đến việc sử dụng dữ liệu người dùng",
-        "Các công ty mạng xã hội đang phải đối mặt với áp lực từ chính phủ và công chúng"
-      ],
-      "full_summary": "Các công ty mạng xã hội đang phải đối mặt với hàng nghìn vụ kiện vì các vấn đề liên quan đến quyền riêng tư, kiểm soát nội dung và sử dụng dữ liệu người dùng. Các vụ kiện này có thể ảnh hưởng đến hình ảnh và uy tín của các công ty mạng xã hội. Các công ty mạng xã hội đang phải đối mặt với áp lực từ chính phủ và công chúng để cải thiện cách họ quản lý dữ liệu người dùng và kiểm soát nội dung trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd15680301cd",
-      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-15T11:51:05.032789+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Luật FISA gây tranh cãi hết hạn, nhưng hoạt động giám sát vẫn tiếp tục",
-      "bullets": [
-        "Hết hạn luật FISA Section 702 vào tối nay",
-        "Chứng nhận vẫn tiếp tục cho đến tháng 3/2027",
-        "Hoạt động giám sát vẫn diễn ra bất chấp hết hạn luật",
-        "Tình hình vẫn chưa rõ ràng về tương lai của luật FISA"
-      ],
-      "full_summary": "Luật FISA Section 702 gây tranh cãi đã hết hạn vào tối nay, nhưng hoạt động giám sát vẫn tiếp tục. Điều này là do chứng nhận vẫn còn hiệu lực cho đến tháng 3/2027. Mặc dù hết hạn, hoạt động giám sát vẫn diễn ra bất chấp luật hết hạn. Tình hình vẫn chưa rõ ràng về tương lai của luật FISA.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88d16c50ad03",
-      "title": "Trump heralds Iran deal but questions - and risks - remain",
-      "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T03:27:44.673669+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chính phủ Mỹ và Iran đạt được thỏa thuận mới",
-      "bullets": [
-        "Đã ký thỏa thuận mới giữa Mỹ và Iran",
-        "Thỏa thuận này có thể ảnh hưởng lớn đến chính trị và kinh tế khu vực",
-        "Cơ hội thành công của thỏa thuận phụ thuộc vào chi tiết",
-        "Còn nhiều rủi ro và thách thức cần được giải quyết"
-      ],
-      "full_summary": "Chính phủ Mỹ và Iran đã đạt được thỏa thuận mới sau nhiều năm đàm phán. Thỏa thuận này được coi là một món quà sinh nhật ý nghĩa cho Tổng thống Mỹ. Tuy nhiên, thành công của thỏa thuận phụ thuộc vào chi tiết và vẫn còn nhiều rủi ro và thách thức cần được giải quyết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ed3498c23dba",
-      "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
-      "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T03:27:45.669187+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hợp đồng giữa Mỹ - Iran giảm thiểu sự không chắc chắn về chiến tranh",
-      "bullets": [
-        "Mỹ và Iran đạt được thỏa thuận giảm thiểu xung đột",
-        "Thỏa thuận này có thể ảnh hưởng đến tình hình ở Lebanon",
-        "Cơ hội hòa bình ở Lebanon vẫn còn xa vời",
-        "Sự ổn định ở khu vực Trung Đông vẫn còn nhiều thách thức"
-      ],
-      "full_summary": "Mỹ và Iran đã đạt được thỏa thuận nhằm giảm thiểu xung đột giữa hai quốc gia. Thỏa thuận này có thể ảnh hưởng đến tình hình ở Lebanon, nơi đã có nhiều cuộc xung đột trong thời gian gần đây. Mặc dù thỏa thuận này đã được ký kết, nhưng sự ổn định ở khu vực Trung Đông vẫn còn nhiều thách thức. Pakistan cho biết thỏa thuận này cũng bao gồm Lebanon, nhưng những ngừng bắn gần đây ở Lebanon đã không thể duy trì.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2cf722dbe80d",
-      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
-      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T03:27:46.546300+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Giá dầu giảm sau khi Pakistan công bố thỏa thuận giữa Mỹ và Iran",
-      "bullets": [
-        "Mỹ và Iran đạt được thỏa thuận",
-        "Kênh nước biển Hormuz sẽ được mở lại",
-        "Giá dầu giảm sau khi thông tin được công bố",
-        "Thỏa thuận được công bố bởi Tổng thống Donald Trump"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump cho biết, Mỹ và Iran đã đạt được thỏa thuận, theo đó kênh nước biển Hormuz sẽ được mở lại. Điều này đã dẫn đến việc giá dầu giảm. Thỏa thuận này được công bố bởi Pakistan. Giá dầu đã giảm sau khi thông tin được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f3d9810105f0",
-      "title": "Protesters clash with police ahead of G7 summit in Geneva",
-      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T03:27:47.493562+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cảnh sát dùng súng bắn nước và xịt hơi cay để dẹp bạo động trước G7 tại Geneva",
-      "bullets": [
-        "Cảnh sát Thụy Sĩ bắn nước và xịt hơi cay để dẹp bạo động",
-        "Hàng trăm người biểu tình phản đối G7 tại Geneva",
-        "Cảnh sát và người biểu tình xảy ra va chạm",
-        "Bạo động diễn ra trước khi G7 họp tại Geneva"
-      ],
-      "full_summary": "Trước khi G7 họp tại Geneva, cảnh sát Thụy Sĩ đã sử dụng nước và hơi cay để dẹp bạo động của hàng trăm người biểu tình phản đối G7. Cảnh sát và người biểu tình đã xảy ra va chạm, khiến nhiều người bị thương. Bạo động diễn ra tại trung tâm thành phố Geneva, nơi G7 sẽ họp trong vài ngày tới.",
       "comments": 0,
       "score": 0
     }
