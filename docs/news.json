@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-06-17T14:57:58.676278+00:00",
+  "updated_at": "2026-06-17T20:04:29.726969+00:00",
   "articles": [
+    {
+      "id": "bc272673d423",
+      "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
+      "url": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:14.090036+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cựu Bộ trưởng Năng lượng Nigeria được tuyên bố vô tội",
+      "bullets": [
+        "Một bồi thẩm đoàn ở Southwark Crown Court tuyên bố Diezani Alison-Madueke vô tội",
+        "Cựu Bộ trưởng Năng lượng Nigeria bị buộc tội nhận hối lộ từ các tỷ phú dầu mỏ",
+        "Bị cáo đã được tuyên bố vô tội trong phiên tòa ở Anh",
+        "Diezani Alison-Madueke từng là Bộ trưởng Năng lượng Nigeria từ năm 2010 đến 2015"
+      ],
+      "full_summary": "Cựu Bộ trưởng Năng lượng Nigeria Diezani Alison-Madueke đã được tuyên bố vô tội trong phiên tòa ở Anh. Diezani Alison-Madueke bị buộc tội nhận hối lộ từ các tỷ phú dầu mỏ. Bị cáo đã được tuyên bố vô tội trong phiên tòa ở Southwark Crown Court. Đây là một trong những vụ án hối lộ lớn nhất ở Nigeria.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "23b9ecba4d40",
+      "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
+      "url": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:15.405080+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tử tù Long Island bị kết án chung thân vì giết 8 phụ nữ",
+      "bullets": [
+        "Bị kết án chung thân vì giết 8 phụ nữ",
+        "Được kết án 25 năm chung thân vì 4 tội danh khác",
+        "Tử tù này đã gây ra sự phẫn nộ trong cộng đồng",
+        "Bị kết án vì các tội danh nghiêm trọng"
+      ],
+      "full_summary": "Một người đàn ông đã bị kết án chung thân vì giết 8 phụ nữ ở Long Island. Trong phiên tòa, thẩm phán đã tuyên án 3 đời tù và 25 năm tù cho 4 tội danh khác. Người đàn ông này đã gây ra sự phẫn nộ trong cộng đồng và bị kết án vì các tội danh nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4cee8ad0fc56",
+      "title": "Bystanders smash windows of private jet to rescue passengers after crash",
+      "url": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:16.401013+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Máy bay tư nhân va chạm, người dân cứu nạn bằng cách phá vỡ cửa sổ",
+      "bullets": [
+        "Một máy bay tư nhân đã va chạm và khiến một người chết",
+        "Năm người còn lại được đưa đến bệnh viện và đang trong tình trạng ổn định",
+        "Người dân đã phá vỡ cửa sổ để cứu nạn",
+        "Tất cả 6 người trên máy bay đều bị thương"
+      ],
+      "full_summary": "Một máy bay tư nhân đã va chạm và khiến một người chết. Năm người còn lại được đưa đến bệnh viện và đang trong tình trạng ổn định. Người dân đã phá vỡ cửa sổ để cứu nạn. Sự cố này đã xảy ra tại [tỉnh/địa điểm].",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52cfd190278b",
+      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:17.321901+00:00",
+      "category": "công nghệ",
+      "importance": 3,
+      "headline": "Jeff Bezos tin AI sẽ tạo ra thiếu hụt lao động",
+      "bullets": [
+        "Jeff Bezos tin AI sẽ tạo ra nhiều việc làm cho con người",
+        "Ông nghĩ AI sẽ tạo ra thiếu hụt lao động",
+        "Bezos tin rằng AI sẽ giúp con người phát triển",
+        "Ông cũng tin rằng AI sẽ tạo ra nhiều cơ hội mới"
+      ],
+      "full_summary": "Jeff Bezos, người sáng lập Amazon, vừa phát biểu rằng AI sẽ tạo ra nhiều việc làm cho con người, thay vì thay thế họ. Ông tin rằng AI sẽ tạo ra thiếu hụt lao động và giúp con người phát triển. Bezos cũng tin rằng AI sẽ tạo ra nhiều cơ hội mới cho con người. Ông hiện có các công ty liên quan đến công nghệ robot và du hành vũ trụ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "efafeeca4f58",
+      "title": "Google, Nvidia and Anthropic bosses' AI tips for students",
+      "url": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:18.402920+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Tập đoàn Google, Nvidia và Anthropic chia sẻ bí quyết về trí tuệ nhân tạo",
+      "bullets": [
+        "Khuyến khích học sinh tìm kiếm kiến thức",
+        "Tập trung vào việc học hỏi và khám phá",
+        "Phát triển kỹ năng sáng tạo và giải quyết vấn đề",
+        "Tìm kiếm cơ hội hợp tác và học hỏi từ người khác"
+      ],
+      "full_summary": "Sundar Pichai, Jensen Huang và Jack Clark, lãnh đạo của Google, Nvidia và Anthropic, đã chia sẻ lời khuyên về trí tuệ nhân tạo với BBC. Họ khuyến khích học sinh tìm kiếm kiến thức và tập trung vào việc học hỏi và khám phá. Họ cũng nhấn mạnh tầm quan trọng của việc phát triển kỹ năng sáng tạo và giải quyết vấn đề. Những lời khuyên này sẽ giúp học sinh phát triển kỹ năng cần thiết để thành công trong lĩnh vực trí tuệ nhân tạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53a7715c7fd4",
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:19.361651+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Trẻ vị thành niên bị thương nặng trong vụ tấn công của Mỹ",
+      "bullets": [
+        "Bị thương nặng trong vụ tấn công của Mỹ",
+        "Cần phẫu thuật khẩn cấp để tránh mất khả năng đi lại",
+        "Hậu quả của vụ tấn công không được Mỹ thừa nhận",
+        "Gia đình không đủ khả năng chi trả cho phẫu thuật"
+      ],
+      "full_summary": "Abdiqadir Salah, một cậu bé 7 tuổi, bị thương nặng trong vụ tấn công của Mỹ tại Somalia. Vụ tấn công đã khiến 12 người thiệt mạng. Cậu bé cần phẫu thuật khẩn cấp để tránh mất khả năng đi lại, nhưng gia đình không đủ khả năng chi trả cho phẫu thuật. Mỹ đã phủ nhận việc có người dân bị thương trong vụ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "514ad8a075bc",
+      "title": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:20.532923+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chủ tịch Sierra Leone không thể lên án FGM vì thiếu dữ liệu",
+      "bullets": [
+        "Chủ tịch Fatima Maada Bio từ chối lên án cắt rốn nữ",
+        "Cô ấy đòi có dữ liệu đáng tin cậy về tác hại của hành động này",
+        "Các chuyên gia y tế, nạn nhân và chính trị gia lên án ý kiến của bà",
+        "Bà Maada Bio phủ nhận đã ủng hộ cắt rốn nữ"
+      ],
+      "full_summary": "Chủ tịch Sierra Leone Fatima Maada Bio đã phủ nhận đã ủng hộ cắt rốn nữ, nhưng cô ấy từ chối lên án hành động này cho đến khi có dữ liệu đáng tin cậy về tác hại của nó. Các chuyên gia y tế, nạn nhân và chính trị gia đã lên án ý kiến của bà. Họ cho rằng việc cắt rốn nữ là một hành động bạo lực và không an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7597d6965cde",
+      "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
+      "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T20:04:21.814504+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ghana tổ chức hội nghị để thúc đẩy công lý reparatory",
+      "bullets": [
+        "Ghana sẽ chủ trì hội nghị để thúc đẩy công lý reparatory trên toàn châu Phi",
+        "Hội nghị sẽ thu hút hơn 80 quốc gia tham gia",
+        "Mục tiêu của hội nghị là đạt được cam kết thực tế về hòa giải và bồi thường",
+        "Hội nghị sẽ diễn ra tại Accra, Ghana trong 3 ngày"
+      ],
+      "full_summary": "Ghana đang tổ chức hội nghị Next Steps để thúc đẩy công lý reparatory trên toàn châu Phi. Hội nghị này sẽ thu hút hơn 80 quốc gia tham gia, bao gồm các nhà lãnh đạo, bộ trưởng, đại diện của xã hội dân sự, nhà nghiên cứu và chuyên gia pháp lý. Mục tiêu của hội nghị là đạt được cam kết thực tế về hòa giải và bồi thường cho những người bị bóc lột trong lịch sử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a948a0bafeaa",
+      "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
+      "url": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-17T20:04:26.928820+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Tòa tháp California bị phá hủy để xây dựng tên lửa SpaceX",
+      "bullets": [
+        "Phá hủy các tòa tháp dự kiến cho các chuyến phóng tàu thám hiểm",
+        "Xây dựng các tên lửa SpaceX tại không gian phóng 6",
+        "Tổ hợp không gian phóng 6 đại diện cho 60 năm đổi mới của Mỹ",
+        "Tòa tháp bị phá hủy để đáp ứng nhu cầu tên lửa SpaceX tăng cao"
+      ],
+      "full_summary": "Tòa tháp không gian phóng 6 (Space Launch Complex-6) ở California đã bị phá hủy để xây dựng các tên lửa SpaceX. Đây là một phần của quá trình đổi mới không gian của Mỹ. Tổ hợp không gian phóng 6 đã được xây dựng để phục vụ cho các chuyến phóng tàu thám hiểm, nhưng hiện nay đã được chuyển đổi để đáp ứng nhu cầu tên lửa SpaceX tăng cao.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "fba6740830f9",
       "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
@@ -615,186 +795,6 @@
         "Mạng lưới liên quan đến vụ tấn công tại Đại sứ quán Mỹ"
       ],
       "full_summary": "Cảnh sát Toronto cho biết hàng chục vụ bắn súng, bao gồm vụ tấn công tại Đại sứ quán Mỹ hồi tháng 3, liên quan đến mạng lưới thuê bắn súng phức tạp. Các thanh thiếu niên và thanh niên được tuyển dụng qua các ứng dụng tin nhắn mã hóa như Signal, Telegram và WhatsApp để thực hiện các vụ tấn công. Bị can phải quay video khi thực hiện vụ tấn công để được trả tiền.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6a6dbe4dedc4",
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-16T20:42:23.260995+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "SpaceX sắp muaCursor với giá 60 tỷ USD để cạnh tranh với Anthropic và OpenAI",
-      "bullets": [
-        "SpaceX sẽ mua công cụ lập trình Cursor với giá 60 tỷ USD",
-        "Mục tiêu của SpaceX là cạnh tranh với Anthropic và OpenAI",
-        "Cursor là một nền tảng lập trình AI được nhiều công ty sử dụng",
-        "Mua Cursor sẽ giúp SpaceX tăng cường khả năng phát triển AI"
-      ],
-      "full_summary": "SpaceX đã quyết định mua công cụ lập trình Cursor với giá 60 tỷ USD để cạnh tranh với Anthropic và OpenAI. Mục tiêu của SpaceX là tăng cường khả năng phát triển AI và trở thành một trong những công ty hàng đầu trong lĩnh vực này. Cursor là một nền tảng lập trình AI được nhiều công ty sử dụng và mua nó sẽ giúp SpaceX tăng cường khả năng phát triển AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23edd9c23a6a",
-      "title": "Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
-      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-16T20:42:27.525252+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Databricks ra mắt LTAP: kiến trúc dữ liệu OLAP/OLTP thống nhất",
-      "bullets": [
-        "Databricks giới thiệu kiến trúc dữ liệu LTAP",
-        "LTAP kết hợp OLAP và OLTP trong một hệ thống",
-        "Kiến trúc này giúp tăng hiệu suất và giảm chi phí",
-        "Databricks hy vọng LTAP sẽ trở thành tiêu chuẩn mới cho dữ liệu doanh nghiệp"
-      ],
-      "full_summary": "Databricks vừa công bố LTAP, một kiến trúc dữ liệu thống nhất cho cả OLAP và OLTP. LTAP được thiết kế để kết hợp các tính năng của cả hai hệ thống trong một hệ thống duy nhất, giúp tăng hiệu suất và giảm chi phí. Databricks hy vọng LTAP sẽ trở thành tiêu chuẩn mới cho dữ liệu doanh nghiệp và giúp các công ty dễ dàng quản lý và phân tích dữ liệu của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f635c21708cc",
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T16:29:03.856129+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hạm đội Nga được cho là bắn cảnh báo gần thuyền buồm Anh",
-      "bullets": [
-        "Báo cáo cho biết một thuyền buồm đăng ký Anh đã đề nghị cảnh báo",
-        "Hạm đội Nga được cho là đã bắn cảnh báo gần thuyền buồm",
-        "Vụ việc xảy ra gần đảo Isle of Wight",
-        "Nghi vấn đang được điều tra bởi cơ quan chức năng Anh"
-      ],
-      "full_summary": "Một thuyền buồm đăng ký Anh đã báo cáo rằng họ đã nhận được cảnh báo từ một tàu chiến Nga gần đảo Isle of Wight. Vụ việc được cho là đã xảy ra vào ngày 11 tháng 6. Cơ quan chức năng Anh đang điều tra vụ việc. Nghi vấn này đã gây ra sự quan tâm lớn trong cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d18aced66c81",
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T16:29:04.982271+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Hợp đồng Tehran - Mỹ mang lại hy vọng giảm giá và giảm lo ngại chiến tranh",
-      "bullets": [
-        "Hợp đồng giúp Iran giảm lo ngại chiến tranh",
-        "Giá hàng hóa có thể giảm sau khi lệnh trừng phạt được dỡ bỏ",
-        "Nhu cầu hàng hóa Iran có thể tăng lên",
-        "Tình hình kinh tế Iran có thể cải thiện"
-      ],
-      "full_summary": "Hợp đồng Tehran - Mỹ được coi là một chiến thắng cho Iran, nhưng đối với người dân Iran, nó là một sự cần thiết. Họ không quan tâm đến việc liệu hợp đồng này có mang lại chiến thắng hay không, mà quan tâm đến việc liệu nó có giúp giảm giá hàng hóa và giảm lo ngại chiến tranh hay không. Giá hàng hóa có thể giảm sau khi lệnh trừng phạt được dỡ bỏ, và nhu cầu hàng hóa Iran có thể tăng lên. Điều này có thể giúp cải thiện tình hình kinh tế Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "556c0af15745",
-      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-      "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T16:29:06.213684+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hoa đàm Mỹ - Iran khiến Lebanon yên ắng nhưng vẫn có nhiều nghi ngờ",
-      "bullets": [
-        "Căng thẳng giữa Israel và Hezbollah vẫn chưa được giải quyết",
-        "Nhiều người Lebanon vẫn hoài nghi về khả năng hòa bình",
-        "Hoa đàm Mỹ - Iran không giải quyết các vấn đề cơ bản",
-        "Tình hình Lebanon vẫn còn nhiều bất ổn"
-      ],
-      "full_summary": "Hoa đàm giữa Mỹ và Iran đã mang lại một thời gian yên ắng ở Lebanon, nhưng nhiều người vẫn còn hoài nghi về khả năng hòa bình thực sự. Họ lo ngại rằng các vấn đề cơ bản giữa Israel và Hezbollah vẫn chưa được giải quyết. Các cuộc chiến tranh ở Lebanon đã gây ra nhiều thiệt hại và đau khổ cho người dân. Mặc dù hoa đàm đã mang lại một thời gian yên ắng, nhưng tình hình vẫn còn nhiều bất ổn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9479f337f9ab",
-      "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
-      "url": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T16:29:07.257510+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bà 79 tuổi ở Pháp bị cáo buộc giết người trong gia đình",
-      "bullets": [
-        "Bà bị bắt vì liên quan đến vụ giết người năm 1995",
-        "Mộ người đã bị bóc lột và chia thành nhiều phần",
-        "Bà bị kết tội giết người trong gia đình",
-        "Sự việc được giải quyết nhờ bằng chứng DNA"
-      ],
-      "full_summary": "Bà 79 tuổi ở Pháp đã bị bắt và đưa ra xét xử vì liên quan đến vụ giết người trong gia đình. Vụ việc xảy ra vào năm 1995, khi một người đàn ông đã bị bóc lột và chia thành nhiều phần. Sự việc được giải quyết nhờ bằng chứng DNA. Bà bị cáo buộc giết người trong gia đình và đang chờ xét xử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "222e25d2187d",
-      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
-      "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T16:29:08.228593+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Mỹ - Venezuela hợp tác xây dựng lưới điện mới",
-      "bullets": [
-        "Venezuela ký thỏa thuận với General Electric để xây dựng lưới điện mới.",
-        "Thỏa thuận này thể hiện sự hợp tác giữa các công ty Mỹ và chính phủ lâm thời của Venezuela.",
-        "Lưới điện mới sẽ giúp Venezuela phục hồi sau nhiều năm suy thoái.",
-        "Hợp tác này có thể mở ra cơ hội cho các công ty Mỹ khác tham gia vào nền kinh tế Venezuela."
-      ],
-      "full_summary": "Venezuela đã ký một thỏa thuận với General Electric để xây dựng lưới điện mới. Thỏa thuận này thể hiện sự hợp tác giữa các công ty Mỹ và chính phủ lâm thời của Venezuela. Lưới điện mới sẽ giúp Venezuela phục hồi sau nhiều năm suy thoái. Hợp tác này có thể mở ra cơ hội cho các công ty Mỹ khác tham gia vào nền kinh tế Venezuela.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9742c6604401",
-      "title": "Cuba tourism collapses as US pressure campaign bites",
-      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T16:29:09.303383+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Số du khách nước ngoài giảm mạnh do chiến dịch áp lực của Mỹ",
-      "bullets": [
-        "Giảm 58% số lượng du khách nước ngoài so với năm ngoái",
-        "Cuba chịu áp lực từ các biện pháp trừng phạt và phong tỏa dầu",
-        "Sự sụp đổ của ngành du lịch Cuba gây ra nhiều vấn đề kinh tế",
-        "Cuba đang tìm cách đối phó với tình hình khó khăn"
-      ],
-      "full_summary": "Theo BBC World, số lượng du khách nước ngoài đến Cuba đã giảm mạnh 58% so với năm ngoái. Điều này là do chiến dịch áp lực của Mỹ, bao gồm các biện pháp trừng phạt và phong tỏa dầu. Sự sụp đổ của ngành du lịch Cuba gây ra nhiều vấn đề kinh tế và chính phủ đang tìm cách đối phó với tình hình khó khăn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "97981df5f6c7",
-      "title": "Social media on trial: Four important cases to watch",
-      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T16:29:11.690887+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các công ty mạng xã hội đối mặt với hàng nghìn vụ kiện",
-      "bullets": [
-        "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện về trách nhiệm pháp lý.",
-        "Vụ kiện của một phụ nữ Mỹ đòi Facebook trả tiền vì ảnh hưởng tâm lý.",
-        "Một công ty Pháp kiện Meta về việc thu thập dữ liệu người dùng.",
-        "Một vụ kiện ở Mỹ liên quan đến việc Facebook và Instagram lạm dụng quyền riêng tư."
-      ],
-      "full_summary": "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện về trách nhiệm pháp lý. Các vụ kiện này bao gồm việc đòi tiền bồi thường cho ảnh hưởng tâm lý, lạm dụng quyền riêng tư và thu thập dữ liệu người dùng. Các công ty mạng xã hội đang phải đối mặt với áp lực từ các cơ quan chức năng và công chúng về việc bảo vệ quyền riêng tư và trách nhiệm pháp lý.",
       "comments": 0,
       "score": 0
     }
