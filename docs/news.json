@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-16T20:42:29.320678+00:00",
+  "updated_at": "2026-06-17T02:58:04.277257+00:00",
   "articles": [
+    {
+      "id": "7cb2f316494f",
+      "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
+      "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T02:57:49.613371+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhà soạn nhạc jazz Abdullah Ibrahim qua đời ở tuổi 91",
+      "bullets": [
+        "Sinh năm 1935, ông đã để lại dấu ấn trong thế giới âm nhạc",
+        "Abdullah Ibrahim đã thu âm hơn 70 album trong sự nghiệp của mình",
+        "Ông qua đời sau một thời gian ốm ngắn ở Đức",
+        "Gia đình ông đã thông báo về cái chết của ông"
+      ],
+      "full_summary": "Nhà soạn nhạc jazz và nghệ sĩ dương cầm người Nam Phi Abdullah Ibrahim đã qua đời ở tuổi 91. Ông đã để lại dấu ấn trong thế giới âm nhạc với hơn 70 album thu âm. Abdullah Ibrahim sinh năm 1935 và đã trở thành một trong những nghệ sĩ jazz nổi tiếng nhất thế giới. Gia đình ông đã thông báo về cái chết của ông sau một thời gian ốm ngắn ở Đức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dc407044b6bf",
+      "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
+      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T02:57:50.661233+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Bolsonaro con trai bị kết án 4 năm tù vì tìm kiếm sự can thiệp của Mỹ",
+      "bullets": [
+        "Bị kết án 4 năm 2 tháng tù vì tìm kiếm sự can thiệp của Mỹ",
+        "Sử dụng ảnh hưởng của Mỹ để áp đặt trừng phạt lên các thẩm phán",
+        "Tìm kiếm sự giúp đỡ từ chính quyền Trump để giúp cha Jair Bolsonaro"
+      ],
+      "full_summary": "Toà án tối cao Brazil đã kết án Eduardo Bolsonaro 4 năm 2 tháng tù vì tìm kiếm sự can thiệp của Mỹ trong vụ án liên quan đến cuộc đảo chính của cha mình, Jair Bolsonaro. Theo cáo buộc, Eduardo đã sử dụng ảnh hưởng của Mỹ để áp đặt trừng phạt lên các thẩm phán và tìm kiếm sự giúp đỡ từ chính quyền Trump để giúp cha mình. Đây là một bước tiến quan trọng trong việc điều tra các cáo buộc liên quan đến cuộc đảo chính của Jair Bolsonaro.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dafe6e506b30",
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-17T02:57:51.684924+00:00",
+      "category": "politics|technology",
+      "importance": 3,
+      "headline": "Chính quyền Trump ngăn cản vụ kiện về luật khí thải liên quan đến xAI",
+      "bullets": [
+        "Phản đối vụ kiện của NAACP về việc xAI sử dụng turbine khí không có giấy phép",
+        "XAI cần turbine khí cho dự án Grok của họ",
+        "Chính quyền Trump cho rằng quân đội cần Grok cho chiến tranh",
+        "Vụ kiện liên quan đến dự án data center của xAI"
+      ],
+      "full_summary": "Chính quyền Trump đã cố gắng ngăn cản vụ kiện của NAACP liên quan đến việc xAI sử dụng turbine khí không có giấy phép cho dự án data center Grok. NAACP cho rằng xAI vi phạm luật khí thải và cần phải xin phép. Chính quyền Trump cho rằng quân đội cần dự án Grok để chuẩn bị cho chiến tranh, vì vậy họ muốn ngăn cản vụ kiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f079545d0a19",
+      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+      "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-17T02:57:52.608939+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "HPE tặng phần mềm miễn phí cho đối thủ VMware",
+      "bullets": [
+        "HPE tặng phần mềm miễn phí cho người dùng VMware trong một năm",
+        "Cơ quan đối tác cho biết HPE nên cung cấp nhiều hơn các giấy phép miễn phí VM Essentials",
+        "HPE đang cố gắng thu hút người dùng và đối tác của VMware",
+        "Phần mềm miễn phí có thể giúp HPE cạnh tranh với VMware"
+      ],
+      "full_summary": "Hewlett Packard Enterprise (HPE) đã tuyên bố tặng phần mềm miễn phí cho người dùng VMware trong một năm. Điều này được coi là một bước tiến đúng hướng trong cuộc cạnh tranh với VMware. Cơ quan đối tác của HPE cho biết họ muốn HPE cung cấp nhiều hơn các giấy phép miễn phí VM Essentials. Phần mềm miễn phí có thể giúp HPE thu hút người dùng và đối tác của VMware.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "56464012bbbc",
+      "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+      "url": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-17T02:57:53.613180+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Cánh kiến mang theo hàng nghìn mảnh gen vi khuẩn",
+      "bullets": [
+        "Mang theo gen vi khuẩn từ các loài khác",
+        "Cánh kiến là một trong những loài mang nhiều gen vi khuẩn nhất",
+        "Gen vi khuẩn có thể chuyển đổi giữa các loài",
+        "Phát hiện này mở ra nhiều khả năng mới về sự di truyền gen"
+      ],
+      "full_summary": "Nghiên cứu mới cho thấy cánh kiến có thể mang theo hàng nghìn mảnh gen vi khuẩn từ các loài khác. Điều này cho thấy quá trình chuyển đổi gen không chỉ xảy ra ở vi khuẩn. Cánh kiến là một trong những loài mang nhiều gen vi khuẩn nhất, và gen vi khuẩn có thể chuyển đổi giữa các loài. Phát hiện này mở ra nhiều khả năng mới về sự di truyền gen và cách chúng ta hiểu về sự đa dạng sinh học.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9821879b30a5",
+      "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+      "url": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-17T02:57:54.591887+00:00",
+      "category": "khoa học và công nghệ",
+      "importance": 4,
+      "headline": "Arianespace đã tăng tốc độ phóng vệ tinh cho Amazon",
+      "bullets": [
+        "Arianespace đã tăng tốc độ phóng vệ tinh cho Amazon",
+        "Amazon đang chờ hàng trăm vệ tinh để phóng",
+        "Các công ty khác như SpaceX và Blue Origin chưa đáp ứng được nhu cầu",
+        "Amazon đang đối mặt với tình trạng kẹt xe trong việc phóng vệ tinh"
+      ],
+      "full_summary": "Amazon đang đối mặt với tình trạng kẹt xe trong việc phóng vệ tinh. Công ty này đang chờ hàng trăm vệ tinh để phóng, trong khi các công ty khác như SpaceX và Blue Origin chưa đáp ứng được nhu cầu. Tuy nhiên, Arianespace đã tăng tốc độ phóng vệ tinh cho Amazon, giúp công ty này giảm bớt áp lực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "79bbec08bf7a",
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-17T02:57:55.506706+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Anthropic tạm dừng tính phí token cho SDK Claude Agent",
+      "bullets": [
+        "Tạm dừng tính phí token cho SDK Claude Agent",
+        "Giảm chi phí cho người dùng mạnh mẽ",
+        "Phát triển mới sẽ không ảnh hưởng đến tính phí",
+        "Tính phí mới dự kiến sẽ được áp dụng sau"
+      ],
+      "full_summary": "Anthropic đã tạm dừng tính phí token cho SDK Claude Agent, tránh tăng chi phí cho người dùng mạnh mẽ. Tính phí mới dự kiến sẽ được áp dụng sau, nhưng không ảnh hưởng đến phát triển mới. Điều này cho phép người dùng mạnh mẽ tiếp tục sử dụng SDK Claude Agent mà không phải lo lắng về chi phí tăng cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "087051f4ded2",
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-17T02:57:57.050331+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Pentagon tự hào về việc sử dụng AI viết báo cáo của Quốc hội",
+      "bullets": [
+        "Sử dụng AI để viết báo cáo được yêu cầu bởi Quốc hội",
+        "1,5 triệu nhân viên đang sử dụng công cụ AI tạo nội dung",
+        "Pentagon tự hào về việc áp dụng công nghệ AI",
+        "Mục đích của việc sử dụng AI là tăng hiệu suất và giảm chi phí"
+      ],
+      "full_summary": "Pentagon vừa công bố việc sử dụng AI để viết báo cáo được yêu cầu bởi Quốc hội. Họ tuyên bố rằng 1,5 triệu nhân viên đang sử dụng công cụ AI tạo nội dung. Mục đích của việc sử dụng AI là tăng hiệu suất và giảm chi phí. Việc này đã gây ra nhiều tranh cãi về việc sử dụng công nghệ AI trong lĩnh vực quân sự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c833ffd0db26",
+      "title": "Frood, an Alpine Initramfs NAS (2024)",
+      "url": "https://words.filippo.io/frood/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-17T02:58:02.040299+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Frood: Một NAS Alpine Initramfs mới được phát triển",
+      "bullets": [
+        "Phát triển một NAS Alpine Initramfs mới",
+        "Cung cấp tính năng lưu trữ dữ liệu và chia sẻ",
+        "Được xây dựng trên nền tảng Alpine Linux",
+        "Có thể được sử dụng như một thiết bị lưu trữ mạng"
+      ],
+      "full_summary": "Frood là một NAS Alpine Initramfs mới được phát triển bởi Filippo Valsorda. Nó được xây dựng trên nền tảng Alpine Linux và cung cấp tính năng lưu trữ dữ liệu và chia sẻ. Frood có thể được sử dụng như một thiết bị lưu trữ mạng và được thiết kế để cung cấp một giải pháp lưu trữ dữ liệu an toàn và đáng tin cậy.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7c16c83d8f85",
       "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
@@ -616,184 +795,6 @@
         "Các vụ tấn công được báo cáo ở 83 quốc gia, với tỷ lệ cao nhất ở Colombia, Cộng hòa Dân chủ Congo, Ethiopia, Haiti, Palestine và Ukraine."
       ],
       "full_summary": "Một nghiên cứu mới cho thấy sự tấn công vào các trường học và giáo viên trên toàn thế giới đã tăng 40% trong 2 năm 2024-2025. Có 8.556 vụ tấn công được ghi nhận, trong đó hơn 10.600 học sinh và giáo viên bị ảnh hưởng. Các vụ tấn công được báo cáo ở 83 quốc gia, với tỷ lệ cao nhất ở một số quốc gia như Colombia, Cộng hòa Dân chủ Congo, Ethiopia, Haiti, Palestine và Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b15ac133aab7",
-      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
-      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:14.005016+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hội đồng London thu hồi căn hộ xã hội thuê bởi phu nhân Sierra Leone",
-      "bullets": [
-        "Thu hồi căn hộ xã hội ở Walworth",
-        "Phu nhân Sierra Leone Fatima Jabbe-Bio thuê căn hộ trái với quy định",
-        "Căn hộ được sử dụng không đúng mục đích",
-        "Hội đồng Southwark xác nhận thu hồi căn hộ"
-      ],
-      "full_summary": "Hội đồng Southwark của London đã thu hồi một căn hộ xã hội hai phòng ở Walworth, nơi phu nhân Sierra Leone Fatima Jabbe-Bio đã thuê. Theo báo Times, phu nhân Sierra Leone đã thuê căn hộ này mặc dù đã sống phần lớn năm ở dinh tổng thống ở Freetown. Điều này vi phạm quy định về việc sử dụng căn hộ xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a167d144efea",
-      "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:15.018293+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trump cấm nhập cư từ các nước bị ảnh hưởng nặng nề bởi biến đổi khí hậu",
-      "bullets": [
-        "Cấm nhập cư từ 39 nước đang bị ảnh hưởng nặng nề bởi biến đổi khí hậu",
-        "Nhiều người bị buộc phải di cư vì thiên tai, lũ lụt và hạn hán do biến đổi khí hậu",
-        "Chính quyền Trump đẩy mạnh chính sách tăng cường khai thác dầu khí",
-        "Hậu quả là hàng triệu người bị ngăn không vào Mỹ"
-      ],
-      "full_summary": "Chính quyền Trump đang áp dụng chính sách cấm nhập cư từ các nước bị ảnh hưởng nặng nề bởi biến đổi khí hậu. Theo phân tích của The Guardian, 39 nước đang bị cấm nhập cư vào Mỹ là những nước bị ảnh hưởng nặng nề bởi thiên tai, lũ lụt và hạn hán do biến đổi khí hậu. Chính quyền Trump đang đẩy mạnh chính sách tăng cường khai thác dầu khí, khiến hàng triệu người bị buộc phải di cư khỏi quê hương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1dd1abb6e28e",
-      "title": "Canada eliminates human rights watchdog that oversees companies operating abroad",
-      "url": "https://www.theguardian.com/world/2026/jun/15/canada-eliminates-human-rights-watchdog-companies-abroad",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:16.087441+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Canada bãi bỏ cơ quan giám sát nhân quyền của các công ty",
-      "bullets": [
-        "Bãi bỏ cơ quan giám sát nhân quyền của Canada",
-        "Cơ quan này không hiệu quả kể từ khi thành lập năm 2019",
-        "Canada đối mặt với chỉ trích từ chính quyền Trump về nỗ lực chống lao động bóc lột",
-        "Cơ quan này chịu trách nhiệm giám sát các công ty Canada hoạt động ở nước ngoài"
-      ],
-      "full_summary": "Canada đã quyết định bãi bỏ cơ quan giám sát nhân quyền của các công ty hoạt động ở nước ngoài. Cơ quan này, được thành lập vào năm 2019, đã bị đánh giá không hiệu quả. Điều này đã dẫn đến chỉ trích từ chính quyền Trump về nỗ lực chống lao động bóc lột của Canada. Cơ quan này chịu trách nhiệm giám sát các công ty Canada hoạt động ở nước ngoài và đảm bảo rằng họ tuân thủ các tiêu chuẩn nhân quyền.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d38f4eb7784f",
-      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
-      "url": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-16T03:25:17.725945+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Isar Aerospace bị hủy lần thứ hai nhiệm vụ quan trọng",
-      "bullets": [
-        "Hủy bỏ nhiệm vụ phóng vệ tinh quan trọng",
-        "Cần kinh nghiệm bay để phát triển công nghệ",
-        "Không thiếu tiền nhưng thiếu kinh nghiệm bay",
-        "Tình hình khiến Isar Aerospace gặp khó khăn"
-      ],
-      "full_summary": "Isar Aerospace, một công ty không gian thương mại của châu Âu, đã hủy bỏ lần thứ hai nhiệm vụ phóng vệ tinh quan trọng. Nhiệm vụ này được coi là một trong những mục tiêu quan trọng của công ty, nhưng do thiếu kinh nghiệm bay, công ty đã quyết định hủy bỏ. Mặc dù Isar Aerospace không thiếu tiền, nhưng thiếu kinh nghiệm bay khiến công ty gặp khó khăn trong việc phát triển công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "418801759a4d",
-      "title": "Humanity isn't ready for the coming intelligence explosion",
-      "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-16T03:25:22.572980+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Sự bùng nổ trí tuệ sắp tới sẽ vượt quá khả năng của con người",
-      "bullets": [
-        "Nghiên cứu cho thấy sự tiến bộ của trí tuệ nhân tạo đang diễn ra nhanh chóng hơn dự kiến",
-        "Con người chưa sẵn sàng đối mặt với hậu quả của sự bùng nổ trí tuệ",
-        "Cần có sự chuẩn bị và quản lý để tránh những rủi ro tiềm ẩn"
-      ],
-      "full_summary": "Một bài viết trên Economist cho rằng sự bùng nổ trí tuệ sắp tới sẽ vượt quá khả năng của con người. Sự tiến bộ của trí tuệ nhân tạo đang diễn ra nhanh chóng hơn dự kiến, và con người chưa sẵn sàng đối mặt với hậu quả của sự bùng nổ trí tuệ. Điều này đòi hỏi sự chuẩn bị và quản lý để tránh những rủi ro tiềm ẩn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5bc8a7e05363",
-      "title": "South African jazz legend Abdullah Ibrahim dies at 91",
-      "url": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T20:49:10.528812+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhà nhạc jazz Nam Phi Abdullah Ibrahim qua đời ở tuổi 91",
-      "bullets": [
-        "Được biết đến là người định hình một thể loại nhạc jazz Nam Phi",
-        "Sinh sống trong sự nghiệp kéo dài gần 8 thập kỷ",
-        "Là một trong những nhạc sĩ jazz nổi tiếng nhất Nam Phi",
-        "Để lại dấu ấn trong lịch sử âm nhạc thế giới"
-      ],
-      "full_summary": "Nhà nhạc jazz Nam Phi Abdullah Ibrahim đã qua đời ở tuổi 91. Ông được biết đến là người định hình một thể loại nhạc jazz Nam Phi và sinh sống trong sự nghiệp kéo dài gần 8 thập kỷ. Ibrahim là một trong những nhạc sĩ jazz nổi tiếng nhất Nam Phi và đã để lại dấu ấn trong lịch sử âm nhạc thế giới. Ông đã giúp định hình phong cách nhạc jazz Nam Phi với sự kết hợp giữa âm nhạc truyền thống và hiện đại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0c2f39cf7768",
-      "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
-      "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T20:49:11.468537+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh sát nhân viên MSF lạm dụng người tị nạn Sudan",
-      "bullets": [
-        "Lạm dụng tình dục đã xảy ra giữa nhân viên MSF và người tị nạn Sudan",
-        "Nạn nhân sợ bị cắt đứt nguồn hỗ trợ nên không dám nói ra",
-        "Tình huống này đã được tiết lộ bởi BBC",
-        "MSF đã lên tiếng phản hồi về vấn đề này"
-      ],
-      "full_summary": "Cảnh sát nhân viên của tổ chức MSF đã lạm dụng tình dục với người tị nạn Sudan. Nạn nhân sợ bị cắt đứt nguồn hỗ trợ nên không dám nói ra. Tổ chức MSF đã lên tiếng phản hồi về vấn đề này, nhưng vẫn chưa rõ có những biện pháp nào sẽ được thực hiện để ngăn chặn tình huống tương tự trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ef01ea2f3329",
-      "title": "Under-16s will be banned from social media from early 2027",
-      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T20:49:12.401968+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Chính phủ cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027",
-      "bullets": [
-        "Chính phủ sẽ cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027",
-        "Các trang mạng xã hội như Instagram, YouTube và TikTok sẽ không thể truy cập",
-        "Đạo luật này nhằm bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội"
-      ],
-      "full_summary": "Chính phủ Việt Nam đã công bố kế hoạch cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027. Các trang mạng xã hội như Instagram, YouTube và TikTok sẽ không thể truy cập. Mục đích của đạo luật này là bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội. Chính phủ hy vọng rằng việc này sẽ giúp trẻ em tập trung vào học tập và phát triển lành mạnh hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b488b0dc744",
-      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-15T20:49:13.428065+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Tỷ phú Elon Musk đạt được tài sản trị giá 1 nghìn tỷ USD",
-      "bullets": [
-        "Tăng trưởng nhanh chóng của tài sản cá nhân của Elon Musk",
-        "Mở rộng đế chế công nghệ của ông",
-        "Đạt được vị trí tỷ phú đầu tiên trong lịch sử",
-        "Tăng cường ảnh hưởng kinh tế toàn cầu"
-      ],
-      "full_summary": "Elon Musk, tỷ phú sáng lập Tesla và SpaceX, đã đạt được tài sản trị giá 1 nghìn tỷ USD, theo báo cáo của BBC. Tài sản của ông đã tăng trưởng nhanh chóng trong những năm qua, nhờ thành công của các công ty của ông. Điều này đã giúp ông trở thành tỷ phú đầu tiên trong lịch sử. Sự tăng trưởng tài sản của ông đã mang lại ảnh hưởng kinh tế toàn cầu.",
       "comments": 0,
       "score": 0
     }
