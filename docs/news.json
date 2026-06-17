@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-17T10:30:19.696979+00:00",
+  "updated_at": "2026-06-17T14:57:58.676278+00:00",
   "articles": [
+    {
+      "id": "fba6740830f9",
+      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+      "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T14:57:42.850342+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bảy người vũ trang tấn công bệnh viện ở Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Tấn công bệnh viện trong thời gian dịch Ebola đang bùng phát",
+        "Sự cố xảy ra do thông tin sai lệch và nỗi sợ hãi",
+        "Mục tiêu là tìm kiếm bệnh nhân Ebola 6 tuổi",
+        "Bệnh viện đã bị tấn công trong thời gian dịch bệnh"
+      ],
+      "full_summary": "Một nhóm vũ trang đã tấn công bệnh viện ở Cộng hòa Dân chủ Congo, nơi có một bệnh nhân Ebola 6 tuổi đang được điều trị. Sự cố này xảy ra trong thời gian dịch bệnh đang bùng phát. Theo BBC, các cơ sở y tế đã bị tấn công do thông tin sai lệch và nỗi sợ hãi. Bệnh viện đang tìm kiếm bệnh nhân Ebola 6 tuổi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b1c11c2bd998",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T14:57:43.901385+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nhóm khủng bố bị phát hiện có kế hoạch tấn công sự kiện UFC tại Nhà Trắng",
+      "bullets": [
+        "Bị phát hiện có kế hoạch sử dụng súng bắn tỉa và máy bay không người lái",
+        "Đã thể hiện sự bất mãn về tham nhũng, vụ Epstein và trung tâm dữ liệu",
+        "Các hồ sơ tòa án mới được giải mật",
+        "FBI đã bắt giữ các thành viên của nhóm"
+      ],
+      "full_summary": "Theo hồ sơ tòa án mới được giải mật, nhóm này đã thể hiện sự bất mãn về tham nhũng, vụ Epstein và trung tâm dữ liệu. Họ đã lên kế hoạch sử dụng súng bắn tỉa và máy bay không người lái để tấn công sự kiện UFC tại Nhà Trắng. FBI đã bắt giữ các thành viên của nhóm và ngăn chặn kế hoạch khủng bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "36917da8bd53",
+      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
+      "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T14:57:44.817638+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cô dâu hoàng gia Na Uy đã trải qua phẫu thuật ghép phổi thành công",
+      "bullets": [
+        "Cô dâu hoàng gia Na Uy đã trải qua phẫu thuật ghép phổi",
+        "Bà đã bị bệnh phổi fibrosis và phải trải qua phẫu thuật",
+        "Bà sẽ phải nằm viện vài tuần để hồi phục"
+      ],
+      "full_summary": "Cô dâu hoàng gia Na Uy, Hoàng hậu Mette-Marit, đã trải qua phẫu thuật ghép phổi thành công. Bà đã bị bệnh phổi fibrosis và phải trải qua phẫu thuật để thay thế phổi mới. Hiện tại, bà sẽ phải nằm viện vài tuần để hồi phục.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "20a8cd9c2e06",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T14:57:45.942906+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran chuyển 3 tàu chở dầu qua đường chặn của Mỹ",
+      "bullets": [
+        "Iran chuyển 3 tàu chở dầu qua đường chặn của Mỹ",
+        "Tàu chở dầu được theo dõi qua dữ liệu của công ty theo dõi tàu",
+        "Tàu chở dầu đi qua vịnh Oman",
+        "US không có phản ứng rõ ràng"
+      ],
+      "full_summary": "Iran đã chuyển 3 tàu chở dầu qua đường chặn của Mỹ trong vịnh Oman. Dữ liệu theo dõi tàu cho thấy các tàu chở dầu này đã đi qua đường chặn của Mỹ mà không gặp sự cố. Tuy nhiên, Mỹ chưa có phản ứng rõ ràng về vấn đề này. Sự kiện này đã gây ra sự quan tâm lớn trong cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1918be2c243c",
+      "title": "Nigerian man jailed for storing human faeces outside his home",
+      "url": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T14:57:47.002805+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người Nigeria bị giam vì chứa phân người ngoài nhà",
+      "bullets": [
+        "Bị cáo đã bị kết án vì chứa phân người ngoài nhà",
+        "Mùi hôi từ nhà đã khiến hàng xóm không thể thư giãn",
+        "Bị cáo đã bị giam vì vi phạm quy định về môi trường",
+        "Hành động của bị cáo đã gây ảnh hưởng đến hàng xóm"
+      ],
+      "full_summary": "Một người Nigeria đã bị kết án vì chứa phân người ngoài nhà. Mùi hôi từ nhà đã trở nên quá mức và khiến hàng xóm không thể thư giãn. Bị cáo đã bị giam vì vi phạm quy định về môi trường. Hành động của bị cáo đã gây ảnh hưởng đến hàng xóm và cộng đồng xung quanh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c548eee8012a",
+      "title": "Snap unveils £1,995 smart glasses after previous flops",
+      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T14:57:47.958838+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Snap ra mắt kính thông minh giá 1,995 bảng",
+      "bullets": [
+        "Ra mắt kính AR giá 1,995 bảng Anh",
+        "Kính sẽ được giao hàng vào mùa thu",
+        "Là sản phẩm của công ty mẹ Snapchat",
+        "Sẽ cạnh tranh với các sản phẩm tương tự"
+      ],
+      "full_summary": "Công ty mẹ của Snapchat đã ra mắt kính thông minh giá 1,995 bảng Anh. Kính này sẽ được giao hàng vào mùa thu. Đây là một nỗ lực mới của công ty sau các sản phẩm tương tự trước đó thất bại. Kính này sẽ cạnh tranh với các sản phẩm tương tự trên thị trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50068e712b28",
+      "title": "What is Helium-3 and could we get it from the moon?",
+      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T14:57:49.122010+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Nghiên cứu khai thác helium-3 trên mặt trăng để đáp ứng nhu cầu tăng cao",
+      "bullets": [
+        "Khai thác helium-3 trên mặt trăng có thể giảm chi phí sản xuất năng lượng hạt nhân",
+        "Nhu cầu helium-3 dự kiến tăng cao do nhu cầu năng lượng hạt nhân tăng mạnh",
+        "Một số công ty đang nghiên cứu và phát triển công nghệ khai thác helium-3 trên mặt trăng",
+        "Helium-3 có thể được sử dụng để sản xuất năng lượng hạt nhân an toàn và sạch"
+      ],
+      "full_summary": "Một số công ty đang nghiên cứu và phát triển công nghệ khai thác helium-3 trên mặt trăng để đáp ứng nhu cầu tăng cao. Helium-3 là một loại nguyên tố quý hiếm được sử dụng để sản xuất năng lượng hạt nhân. Nhu cầu helium-3 dự kiến tăng cao do nhu cầu năng lượng hạt nhân tăng mạnh. Một số công ty đang nghiên cứu và phát triển công nghệ khai thác helium-3 trên mặt trăng để giảm chi phí sản xuất năng lượng hạt nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "130d8ce09634",
+      "title": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-17T14:57:57.542149+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "AI đòi hỏi kỷ luật kỹ thuật cao hơn",
+      "bullets": [
+        "Khẳng định AI đòi hỏi kỷ luật kỹ thuật cao hơn",
+        "Tránh sự lỏng lẻo trong thiết kế và phát triển AI",
+        "Cần tăng cường kỷ luật kỹ thuật để đảm bảo an toàn và hiệu suất AI",
+        "Kỷ luật kỹ thuật là chìa khóa để phát triển AI an toàn và hiệu quả"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã khẳng định rằng AI đòi hỏi kỷ luật kỹ thuật cao hơn. Điều này bao gồm việc tránh sự lỏng lẻo trong thiết kế và phát triển AI, tăng cường kỷ luật kỹ thuật để đảm bảo an toàn và hiệu suất AI. Kỷ luật kỹ thuật là chìa khóa để phát triển AI an toàn và hiệu quả. Bài viết này đã nhận được sự quan tâm lớn từ cộng đồng Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2c4b456cc70d",
       "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
@@ -636,165 +795,6 @@
         "Một vụ kiện ở Mỹ liên quan đến việc Facebook và Instagram lạm dụng quyền riêng tư."
       ],
       "full_summary": "Các công ty mạng xã hội đang đối mặt với hàng nghìn vụ kiện về trách nhiệm pháp lý. Các vụ kiện này bao gồm việc đòi tiền bồi thường cho ảnh hưởng tâm lý, lạm dụng quyền riêng tư và thu thập dữ liệu người dùng. Các công ty mạng xã hội đang phải đối mặt với áp lực từ các cơ quan chức năng và công chúng về việc bảo vệ quyền riêng tư và trách nhiệm pháp lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ebbf99e82e5e",
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:58:56.986444+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Thỏa thuận Iran gây khó khăn cho Thủ tướng Israel",
-      "bullets": [
-        "Thỏa thuận ngừng bắn Iran gây ra khó khăn mới cho Thủ tướng Israel Benjamin Netanyahu.",
-        "Thỏa thuận này đặt Netanyahu vào tình huống khó khăn về chính trị và an ninh.",
-        "Thỏa thuận ngừng bắn Iran được ký kết bởi cựu Tổng thống Mỹ Donald Trump.",
-        "Thỏa thuận này có thể ảnh hưởng đến quan hệ giữa Israel và Iran."
-      ],
-      "full_summary": "Thỏa thuận ngừng bắn Iran được ký kết bởi cựu Tổng thống Mỹ Donald Trump đã gây ra khó khăn mới cho Thủ tướng Israel Benjamin Netanyahu. Thỏa thuận này đặt Netanyahu vào tình huống khó khăn về chính trị và an ninh. Thỏa thuận ngừng bắn Iran có thể ảnh hưởng đến quan hệ giữa Israel và Iran, và cũng có thể gây ra khó khăn cho chính sách đối ngoại của Israel.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c05f76898040",
-      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
-      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:58:57.913140+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Máy bay chiến đấu B-52 của Mỹ rơi xuống California, 8 người chết",
-      "bullets": [
-        "Rơi xuống California vào sáng thứ hai",
-        "Đang thực hiện nhiệm vụ thử nghiệm",
-        "8 người thiệt mạng trong vụ tai nạn",
-        "Cơ quan An toàn Giao thông Mỹ đang điều tra"
-      ],
-      "full_summary": "Một chiếc máy bay chiến đấu B-52 của Không quân Mỹ đã rơi xuống California vào sáng thứ hai trong khi đang thực hiện nhiệm vụ thử nghiệm. 8 người đã thiệt mạng trong vụ tai nạn. Cơ quan An toàn Giao thông Mỹ đang điều tra nguyên nhân của vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8269f789925",
-      "title": "Japan raises interest rate to highest for 31 years",
-      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:58:58.813536+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Nhật Bản tăng lãi suất lên mức cao nhất 31 năm",
-      "bullets": [
-        "Tăng lãi suất từ gần 0% kể từ năm 2024",
-        "Ngân hàng Nhật Bản thực hiện các biện pháp này để kiểm soát lạm phát",
-        "Lãi suất cao có thể ảnh hưởng đến nền kinh tế Nhật Bản"
-      ],
-      "full_summary": "Ngân hàng Nhật Bản vừa tăng lãi suất lên mức cao nhất 31 năm để kiểm soát lạm phát. Đây là bước tiếp theo trong nỗ lực của ngân hàng này nhằm ổn định nền kinh tế. Lãi suất cao có thể ảnh hưởng đến nền kinh tế Nhật Bản và các quốc gia khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "81160f3ee089",
-      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
-      "url": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:58:59.939270+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chánh án Newsom cáo buộc Bộ Tư pháp Mỹ điều tra vợ và cựu nhân viên",
-      "bullets": [
-        "Điều tra của Bộ Tư pháp Mỹ đã kéo dài khoảng một năm",
-        "Chánh án Newsom cáo buộc Bộ Tư pháp Mỹ đang điều tra vợ và cựu nhân viên",
-        "Nguồn tin thân cận cho biết điều tra đã được tiến hành một năm",
-        "Chánh án Newsom không xác nhận thông tin điều tra"
-      ],
-      "full_summary": "Chánh án California, Gavin Newsom, cáo buộc Bộ Tư pháp Mỹ đang điều tra vợ và cựu nhân viên. Nguồn tin thân cận cho biết điều tra đã được tiến hành khoảng một năm. Tuy nhiên, Chánh án Newsom không xác nhận thông tin điều tra. Điều tra này có thể liên quan đến các vấn đề chính trị và pháp lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8b67e88fd566",
-      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
-      "url": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:59:01.061905+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hình ảnh nữ vũ công trong sách giáo khoa được khôi phục",
-      "bullets": [
-        "Một bức tranh trong sách giáo khoa mới đã bị che đi cơ thể trần trụm của nữ vũ công nổi tiếng.",
-        "Sau khi có phản ứng dữ dội, hình ảnh này đã được khôi phục.",
-        "Bức tranh là một phần của bộ sách giáo khoa mới được sử dụng ở Ấn Độ.",
-        "Bộ sách giáo khoa này đã gây tranh cãi vì có nhiều hình ảnh không phù hợp với trẻ em."
-      ],
-      "full_summary": "Một bức tranh trong sách giáo khoa mới ở Ấn Độ đã bị che đi cơ thể trần trụm của nữ vũ công nổi tiếng. Sau khi có phản ứng dữ dội từ công chúng, hình ảnh này đã được khôi phục. Bức tranh là một phần của bộ sách giáo khoa mới được sử dụng ở Ấn Độ và đã gây tranh cãi vì có nhiều hình ảnh không phù hợp với trẻ em. Bộ sách giáo khoa này được sử dụng để giáo dục trẻ em về lịch sử và văn hóa của Ấn Độ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5c5a131db552",
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:59:02.061774+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tác giả Nga bị bắn chết ở Ba Lan vì chỉ trích Putin",
-      "bullets": [
-        "Bị bắn chết ở Ba Lan",
-        "Là tác giả Nga chỉ trích Putin",
-        "Đã vẽ nhiều tranh chế về các chính trị gia",
-        "Được biết đến với bút danh Semyon Skrepetsky"
-      ],
-      "full_summary": "Tác giả Nga Robert Kuzovkov đã bị bắn chết ở Ba Lan. Ông được biết đến với các tranh chế về các chính trị gia, bao gồm cả Tổng thống Nga Vladimir Putin. Kuzovkov đã sử dụng bút danh Semyon Skrepetsky để tạo ra các tác phẩm nghệ thuật của mình. Sự kiện này đã gây sốc trong cộng đồng nghệ thuật và chính trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "913f4df0b8a6",
-      "title": "India temporarily bans Telegram over exam paper leak concerns",
-      "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:59:03.064403+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ấn Độ tạm dừng sử dụng Telegram vì lo ngại rò rỉ đề thi",
-      "bullets": [
-        "Tạm dừng sử dụng Telegram",
-        "Lo ngại rò rỉ đề thi NEET",
-        "Đề thi đã bị hủy do nghi ngờ rò rỉ",
-        "Đã có biểu tình lớn"
-      ],
-      "full_summary": "Ấn Độ đã tạm dừng sử dụng ứng dụng Telegram vì lo ngại rò rỉ đề thi NEET. Đề thi đã bị hủy do nghi ngờ rò rỉ, dẫn đến biểu tình lớn. Việc này đã khiến người dùng phải tìm kiếm các ứng dụng khác để liên lạc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a7a2df74f94e",
-      "title": "Tunisia sack head coach just one game into World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:59:04.137040+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hội đồng bóng đá Tunisia sa thải HLV Sabri Lamouchi ngay sau trận mở màn World Cup",
-      "bullets": [
-        "Sa thải HLV Sabri Lamouchi sau trận thua mở màn World Cup",
-        "Đội tuyển bóng đá Tunisia thay thế HLV Sabri Lamouchi bằng Hervé Renard",
-        "Hervé Renard từng làm HLV cho Morocco và Saudi Arabia",
-        "Tunisia chuẩn bị cho trận đấu tiếp theo tại World Cup"
-      ],
-      "full_summary": "Hội đồng bóng đá Tunisia đã quyết định sa thải HLV Sabri Lamouchi ngay sau trận thua mở màn World Cup. Thay vào đó, họ đã bổ nhiệm Hervé Renard, người từng làm HLV cho Morocco và Saudi Arabia, để dẫn dắt đội tuyển bóng đá Tunisia. Đây là một quyết định bất ngờ và có thể ảnh hưởng đến kết quả của đội tuyển bóng đá Tunisia tại World Cup.",
       "comments": 0,
       "score": 0
     }
