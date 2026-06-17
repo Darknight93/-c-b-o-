@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-17T02:58:04.277257+00:00",
+  "updated_at": "2026-06-17T10:30:19.696979+00:00",
   "articles": [
+    {
+      "id": "2c4b456cc70d",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T10:30:03.804332+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel tấn công Lebanon một lần nữa, dù Trump chỉ trích",
+      "bullets": [
+        "Israel tiến hành các cuộc tấn công mới vào Lebanon",
+        "Trump chỉ trích Netanyahu cần phải có trách nhiệm hơn",
+        "Các cuộc tấn công diễn ra bất chấp lời cảnh báo của quốc tế",
+        "Tình hình ở khu vực Trung Đông tiếp tục căng thẳng"
+      ],
+      "full_summary": "Israel đã tiến hành các cuộc tấn công mới vào Lebanon, bất chấp lời chỉ trích của cựu Tổng thống Mỹ Donald Trump. Trump đã nói rằng Thủ tướng Israel Benjamin Netanyahu cần phải có trách nhiệm hơn với Lebanon. Các cuộc tấn công diễn ra bất chấp lời cảnh báo của quốc tế về việc leo thang căng thẳng ở khu vực Trung Đông. Tình hình ở khu vực này tiếp tục căng thẳng và gây lo ngại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "226c888ab6c9",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T10:30:05.902608+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tôn giáo tại Jerusalem bất ổn do dân tộc Israel vi phạm quy tắc",
+      "bullets": [
+        "Vi phạm quy tắc chia sẻ tại khu phức hợp thánh địa Al-Aqsa",
+        "Dân tộc Israel ngày càng vi phạm quy ước chia sẻ tại khu phức hợp",
+        "Khu phức hợp Al-Aqsa là nơi linh thiêng nhất ở Jerusalem",
+        "Tình hình tại Jerusalem đang trở nên bất ổn"
+      ],
+      "full_summary": "Dân tộc Israel đang ngày càng vi phạm quy ước chia sẻ tại khu phức hợp thánh địa Al-Aqsa ở Jerusalem. Khu phức hợp này là nơi linh thiêng nhất ở thành phố này và là nơi tôn giáo Hồi giáo, Do Thái và Kitô giáo chia sẻ. Tuy nhiên, dân tộc Israel đang ngày càng vi phạm quy ước này, gây ra lo ngại về tình hình bất ổn tại Jerusalem.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "394fb7cc2892",
+      "title": "'We fear for our lives' - deadline looms for migrants to leave South Africa",
+      "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T10:30:06.977330+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Họ cảnh báo: 'Chúng tôi sợ hãi vì cuộc sống' - hạn chót để người nhập cư rời khỏi Nam Phi",
+      "bullets": [
+        "Cảnh sát Nam Phi yêu cầu người nhập cư rời khỏi đất nước trước ngày 30 tháng 6",
+        "Hàng trăm người nhập cư đã bị bắt giữ trong các cuộc biểu tình",
+        "Người biểu tình yêu cầu chính phủ Nam Phi phải giải quyết vấn đề nhập cư",
+        "Hạn chót đã được đặt ra để người nhập cư rời khỏi Nam Phi"
+      ],
+      "full_summary": "Hàng trăm người nhập cư đang đối mặt với hạn chót để rời khỏi Nam Phi. Người biểu tình đã đặt ra hạn chót ngày 30 tháng 6 để người nhập cư rời khỏi đất nước. Hạn chót này đã được đặt ra sau khi hàng trăm người nhập cư bị bắt giữ trong các cuộc biểu tình. Người biểu tình yêu cầu chính phủ Nam Phi phải giải quyết vấn đề nhập cư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cfd2f0ea3713",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "url": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T10:30:07.945326+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chính phủ Guinea Xích Đạo từ chức vì không đạt mục tiêu",
+      "bullets": [
+        "Từ chức",
+        "Không đạt mục tiêu 10%",
+        "Không tiết lộ mục tiêu cụ thể",
+        "Vice tổng thống lên tiếng"
+      ],
+      "full_summary": "Chính phủ Guinea Xích Đạo đã từ chức sau khi không đạt được mục tiêu. Theo lời của Phó tổng thống, chính phủ chỉ đạt được khoảng 10% mục tiêu, nhưng chưa rõ mục tiêu cụ thể là gì. Điều này đã gây ra sự bất ổn trong chính phủ nước này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "17375f0a471d",
+      "title": "Australian shock jock wins A$12m payout after radio station tore up contract",
+      "url": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T10:30:09.006600+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhân vật phát thanh Úc nhận 12 triệu đô la sau khi bị sa thải",
+      "bullets": [
+        "Bị sa thải sau khi gây cãi lộn với đồng nghiệp",
+        "Kyle Sandilands bị buộc tội ngược đãi đồng nghiệp",
+        "Trạm phát thanh đã hủy hợp đồng với anh ta",
+        "Kyle Sandilands nhận được khoản bồi thường 12 triệu đô la"
+      ],
+      "full_summary": "Kyle Sandilands, một nhân vật phát thanh nổi tiếng của Úc, đã được bồi thường 12 triệu đô la sau khi bị sa thải bởi trạm phát thanh của mình. Sự kiện này diễn ra sau khi anh ta gây cãi lộn với đồng nghiệp. Kyle Sandilands bị buộc tội ngược đãi đồng nghiệp và trạm phát thanh đã hủy hợp đồng với anh ta. Anh ta đã giành được khoản bồi thường lớn sau khi kiện trạm phát thanh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ef01ea2f3329",
+      "title": "Under-16s will be banned from social media from early 2027",
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T10:30:09.937943+00:00",
+      "category": "society|politics",
+      "importance": 4,
+      "headline": "Chính phủ cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027",
+      "bullets": [
+        "Cấm trẻ em dưới 16 tuổi sử dụng Instagram, YouTube và TikTok",
+        "Nhiều triệu trẻ em sẽ không thể truy cập vào các trang web này",
+        "Chính phủ đưa ra quyết định này để bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội"
+      ],
+      "full_summary": "Chính phủ Việt Nam đã công bố quyết định cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội từ năm 2027. Các trang web như Instagram, YouTube và TikTok sẽ trở nên không truy cập được cho hàng triệu trẻ em. Quyết định này được đưa ra để bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội. Chính phủ hy vọng rằng quyết định này sẽ giúp trẻ em tập trung vào việc học tập và phát triển bản thân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b488b0dc744",
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-17T10:30:11.086594+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Tỷ phú Elon Musk đạt ngưỡng 1 nghìn tỷ USD nhờ sự tăng trưởng chóng mặt",
+      "bullets": [
+        "Tăng trưởng nhanh chóng của Musk bắt đầu từ năm 2020",
+        "Sự gia tăng giá cổ phiếu của Tesla và SpaceX góp phần đáng kể",
+        "Musk trở thành tỷ phú thứ hai trên thế giới sau Jeff Bezos",
+        "Tỷ phú này vẫn đang tiếp tục tăng trưởng tài sản"
+      ],
+      "full_summary": "Elon Musk đã trở thành tỷ phú thứ hai trên thế giới sau khi giá cổ phiếu của Tesla và SpaceX tăng trưởng chóng mặt. Theo dữ liệu từ BBC, tài sản của Musk đã tăng từ 150 tỷ USD vào năm 2020 lên hơn 1.000 tỷ USD vào năm 2023. Sự gia tăng giá cổ phiếu của hai công ty này đã góp phần đáng kể vào sự tăng trưởng tài sản của Musk. Với vị trí mới của mình, Musk vẫn đang tiếp tục tăng trưởng tài sản và trở thành một trong những người giàu nhất thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "670aa1988526",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-17T10:30:19.196674+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tạo ra một công ty AI-native: Lời khuyên từ người sáng lập",
+      "bullets": [
+        "Xây dựng một đội ngũ phát triển AI mạnh mẽ",
+        "Tìm kiếm cơ hội hợp tác với các công ty lớn",
+        "Đầu tư vào nghiên cứu và phát triển công nghệ AI",
+        "Tạo ra một mô hình kinh doanh dựa trên AI"
+      ],
+      "full_summary": "Bài viết này giới thiệu một số lời khuyên từ người sáng lập về cách xây dựng một công ty AI-native. Người sáng lập cần xây dựng một đội ngũ phát triển AI mạnh mẽ, tìm kiếm cơ hội hợp tác với các công ty lớn và đầu tư vào nghiên cứu và phát triển công nghệ AI. Mục tiêu cuối cùng là tạo ra một mô hình kinh doanh dựa trên AI.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7cb2f316494f",
       "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
@@ -636,165 +795,6 @@
         "Tunisia chuẩn bị cho trận đấu tiếp theo tại World Cup"
       ],
       "full_summary": "Hội đồng bóng đá Tunisia đã quyết định sa thải HLV Sabri Lamouchi ngay sau trận thua mở màn World Cup. Thay vào đó, họ đã bổ nhiệm Hervé Renard, người từng làm HLV cho Morocco và Saudi Arabia, để dẫn dắt đội tuyển bóng đá Tunisia. Đây là một quyết định bất ngờ và có thể ảnh hưởng đến kết quả của đội tuyển bóng đá Tunisia tại World Cup.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "936e63d132ec",
-      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T10:59:05.291224+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Cung cấp nguyên liệu cho điện thoại có thể tài trợ cho kẻ khủng bố ở DRC",
-      "bullets": [
-        "Cơ quan Global Witness nghi ngờ Amazon, Sony và Ericsson đã mua coltan từ nguồn cung cấp liên quan đến M23",
-        "M23 bị cáo buộc tham gia vào bạo lực và bạo động ở Cộng hòa Dân chủ Congo",
-        "Coltan được sử dụng trong sản xuất điện thoại di động và các thiết bị điện tử khác",
-        "Các công ty dẫn đầu thế giới có thể không biết về nguồn gốc của nguyên liệu này"
-      ],
-      "full_summary": "Một cuộc điều tra mới của Global Witness cho thấy các công ty dẫn đầu thế giới như Amazon, Sony và Ericsson có thể đã mua coltan từ nguồn cung cấp liên quan đến M23, một nhóm khủng bố ở Cộng hòa Dân chủ Congo. M23 bị cáo buộc tham gia vào các tội ác nghiêm trọng, bao gồm bạo lực, bạo động và lạm dụng tình dục. Coltan được sử dụng trong sản xuất điện thoại di động và các thiết bị điện tử khác, và các công ty có thể không biết về nguồn gốc của nguyên liệu này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4113ea08e6b0",
-      "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
-      "url": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-16T10:59:07.089310+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cục điện thoại mới của Commodore chặn mạng xã hội và trình duyệt.",
-      "bullets": [
-        "Chặn truy cập mạng xã hội và trình duyệt trên điện thoại mới của Commodore.",
-        "Thiết bị có tên Call Back 8020, hướng đến khách hàng không phải là sản phẩm.",
-        "Điện thoại này hướng đến khách hàng muốn tập trung vào cuộc sống thực tế.",
-        "Cục điện thoại mới của Commodore được thiết kế để giảm sự phụ thuộc vào công nghệ."
-      ],
-      "full_summary": "Cục điện thoại mới của Commodore, Call Back 8020, được thiết kế để chặn truy cập mạng xã hội và trình duyệt. Thiết bị này hướng đến khách hàng muốn tập trung vào cuộc sống thực tế và giảm sự phụ thuộc vào công nghệ. Commodore cho biết mục tiêu của họ là giúp khách hàng không phải là sản phẩm, mà là khách hàng được phục vụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49d726d86994",
-      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-16T10:59:11.710229+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "FBI lo lắng về Fable 5 sau yêu cầu đơn giản 'sửa mã'",
-      "bullets": [
-        "Một nhà nghiên cứu tiết lộ FBI đã phản ứng mạnh mẽ khi thấy yêu cầu 'sửa mã'",
-        "Không phải là một cuộc tấn công jailbreak mà chỉ là một yêu cầu đơn giản",
-        "Fable 5 có thể đã bị hack, nhưng không có bằng chứng cụ thể",
-        "FBI đã phản ứng quá mức và gây lo lắng cho công chúng"
-      ],
-      "full_summary": "Một nhà nghiên cứu đã tiết lộ rằng FBI đã phản ứng mạnh mẽ khi thấy yêu cầu 'sửa mã' trên Fable 5, không phải là một cuộc tấn công jailbreak mà chỉ là một yêu cầu đơn giản. Điều này đã gây lo lắng cho công chúng và đặt ra câu hỏi về phản ứng của FBI. Fable 5 có thể đã bị hack, nhưng không có bằng chứng cụ thể. Nhà nghiên cứu cho rằng FBI đã phản ứng quá mức và gây lo lắng cho công chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ee948647ec40",
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:09.010638+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trumps tuyên bố đã ký thỏa thuận hòa bình với Iran",
-      "bullets": [
-        "Trump tuyên bố thỏa thuận đã được ký kết",
-        "Hầm eo biển Hormuz sẽ mở cửa từ thứ 5",
-        "Nội dung thỏa thuận vẫn còn gây nhầm lẫn",
-        "Chi tiết sẽ được công bố sớm"
-      ],
-      "full_summary": "Tổng thống Trump tuyên bố đã ký thỏa thuận hòa bình với Iran, cho biết eo biển Hormuz sẽ mở cửa từ thứ 5. Tuy nhiên, nội dung thỏa thuận vẫn còn gây nhầm lẫn và chi tiết sẽ được công bố sớm. Thông tin này được đưa ra sau khi Mỹ và Iran có những bước tiến gần đây trong việc giảm căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dbe5fa0a2935",
-      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
-      "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:09.972149+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chuyên viên giám sát Australia lên án những cáo buộc liên quan đến chương trình 'Cưới ngay sau khi gặp'",
-      "bullets": [
-        "Tổ chức giám sát của Australia lên án cáo buộc 'khó chịu'",
-        "Ủy ban truyền thông của Anh gọi cáo buộc là 'rất đáng lo ngại'",
-        "Chương trình 'Cưới ngay sau khi gặp' đang bị điều tra",
-        "Cáo buộc liên quan đến việc điều hành chương trình"
-      ],
-      "full_summary": "Tổ chức giám sát của Australia và Ủy ban truyền thông của Anh đã lên án những cáo buộc liên quan đến chương trình 'Cưới ngay sau khi gặp' của Australia. Cáo buộc này đã gây ra nhiều tranh cãi và lên án. Chương trình đang bị điều tra để xác minh những cáo buộc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50068e712b28",
-      "title": "What is Helium-3 and could we get it from the moon?",
-      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:11.050105+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Nghiên cứu khai thác Helium-3 trên Mặt Trăng để đáp ứng nhu cầu tăng",
-      "bullets": [
-        "Khám phá nguồn Helium-3 trên Mặt Trăng để giảm giá thành",
-        "Khai thác Helium-3 có thể giúp đáp ứng nhu cầu năng lượng trong tương lai",
-        "Nghiên cứu về công nghệ khai thác Helium-3 trên Mặt Trăng đang được tiến hành",
-        "Helium-3 có thể được sử dụng làm nhiên liệu cho lò phản ứng hạt nhân"
-      ],
-      "full_summary": "Nhu cầu Helium-3 dự kiến sẽ tăng cao trong tương lai, vì vậy một số tổ chức đang nghiên cứu khai thác nó trên Mặt Trăng. Helium-3 là một loại khí hiếm có thể được sử dụng làm nhiên liệu cho lò phản ứng hạt nhân. Nghiên cứu về công nghệ khai thác Helium-3 trên Mặt Trăng đang được tiến hành để giảm giá thành và đáp ứng nhu cầu năng lượng trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cc422ef7704",
-      "title": "Who is Elon Musk and what is his net worth?",
-      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:12.007937+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Elon Musk trở thành tỷ phú đầu tiên trên thế giới đạt 1 nghìn tỷ USD",
-      "bullets": [
-        "Becoming tỷ phú đầu tiên trên thế giới đạt 1 nghìn tỷ USD",
-        "Là người sáng lập và CEO của X, Tesla và SpaceX",
-        "Sở hữu khối tài sản khổng lồ từ các công ty của mình",
-        "Đứng đầu danh sách tỷ phú giàu nhất thế giới"
-      ],
-      "full_summary": "Elon Musk, người sáng lập và CEO của X, Tesla và SpaceX, đã trở thành tỷ phú đầu tiên trên thế giới đạt 1 nghìn tỷ USD. Ông đã đạt được thành tựu này sau khi giá cổ phiếu của Tesla tăng lên. Musk đã trở thành người giàu nhất thế giới vào năm 2021 và đã giữ vị trí này kể từ đó. Ông sở hữu khối tài sản khổng lồ từ các công ty của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "03e85d8b086e",
-      "title": "Violent attacks on schools, pupils and staff around the world up by 40%, says study",
-      "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-16T03:25:13.021021+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Sự tấn công vào các trường học và giáo viên trên toàn thế giới tăng 40%",
-      "bullets": [
-        "Có 8.556 vụ tấn công được ghi nhận trên toàn thế giới trong 2 năm 2024-2025.",
-        "Hơn 10.600 học sinh và giáo viên bị giết, bị thương, bị bắt cóc hoặc bị bắt giữ.",
-        "Các vụ tấn công được báo cáo ở 83 quốc gia, với tỷ lệ cao nhất ở Colombia, Cộng hòa Dân chủ Congo, Ethiopia, Haiti, Palestine và Ukraine."
-      ],
-      "full_summary": "Một nghiên cứu mới cho thấy sự tấn công vào các trường học và giáo viên trên toàn thế giới đã tăng 40% trong 2 năm 2024-2025. Có 8.556 vụ tấn công được ghi nhận, trong đó hơn 10.600 học sinh và giáo viên bị ảnh hưởng. Các vụ tấn công được báo cáo ở 83 quốc gia, với tỷ lệ cao nhất ở một số quốc gia như Colombia, Cộng hòa Dân chủ Congo, Ethiopia, Haiti, Palestine và Ukraine.",
       "comments": 0,
       "score": 0
     }
