@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-18T10:10:56.872269+00:00",
+  "updated_at": "2026-06-18T14:53:10.682837+00:00",
   "articles": [
+    {
+      "id": "c24bf647fe4d",
+      "title": "Weapons, money and ships: How is this Iran deal different from others?",
+      "url": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-18T14:52:55.108414+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ và Iran đạt thỏa thuận mới về vũ khí, tiền bạc và tàu thuyền",
+      "bullets": [
+        "Đàm phán mới giữa Mỹ và Iran tập trung vào việc kiểm soát vũ khí hạt nhân",
+        "Thỏa thuận này cho phép Iran nhận được 3,5 tỷ USD tiền và 32 triệu lít xăng",
+        "Hai bên cũng đồng ý về việc Iran không phát triển tàu thuyền hạt nhân",
+        "Thỏa thuận này được xem là khác biệt so với các thỏa thuận trước đây"
+      ],
+      "full_summary": "Mỹ và Iran vừa đạt được thỏa thuận mới về vũ khí hạt nhân, tiền bạc và tàu thuyền. Thỏa thuận này cho phép Iran nhận được 3,5 tỷ USD tiền và 32 triệu lít xăng. Ngoài ra, hai bên cũng đồng ý về việc Iran không phát triển tàu thuyền hạt nhân. Thỏa thuận này được xem là khác biệt so với các thỏa thuận trước đây giữa hai quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dce07c63efd6",
+      "title": "Hegseth says some Nato allies will fail as he announces US review of Europe forces",
+      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-18T14:52:56.174156+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Bộ trưởng Quốc phòng Mỹ dự đoán một số đồng minh NATO sẽ thất bại",
+      "bullets": [
+        "Mỹ đang xem xét lại lực lượng quân sự tại châu Âu",
+        "Bộ trưởng Quốc phòng Hegseth dự đoán một số đồng minh NATO sẽ thất bại",
+        "Mỹ quyết định giảm cam kết với lực lượng sẵn sàng chiến đấu trong NATO",
+        "Cái này sẽ ảnh hưởng đến an ninh châu Âu"
+      ],
+      "full_summary": "Bộ trưởng Quốc phòng Mỹ, Hegseth, đã tuyên bố Mỹ sẽ xem xét lại lực lượng quân sự tại châu Âu. Ông dự đoán một số đồng minh NATO sẽ thất bại. Việc này diễn ra sau quyết định của Mỹ về việc giảm cam kết với lực lượng sẵn sàng chiến đấu trong NATO. Điều này sẽ ảnh hưởng đến an ninh châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "68615b4299c9",
+      "title": "British man dies in paragliding accident in Spain",
+      "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-18T14:52:57.238447+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Một người đàn ông 63 tuổi ở Anh đã tử vong trong một vụ tai nạn khi lướt khí ở Tây Ban Nha",
+      "bullets": [
+        "Xác nhận một người đàn ông 63 tuổi tử vong ở Palau de Noguera",
+        "Vụ tai nạn xảy ra vào thứ Ba",
+        "Nguồn tin từ Catalonia xác nhận thông tin",
+        "Người đàn ông là một người dân Anh"
+      ],
+      "full_summary": "Một người đàn ông 63 tuổi ở Anh đã tử vong trong một vụ tai nạn khi lướt khí ở Tây Ban Nha. Vụ tai nạn xảy ra ở Palau de Noguera, Catalonia. Nguồn tin từ Catalonia xác nhận thông tin. Người đàn ông là một người dân Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1f19a6abe06",
+      "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+      "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-18T14:52:58.269434+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hạm đội bóng tối Nga vào vùng biển Anh",
+      "bullets": [
+        "Đầu tiên, một tàu chở dầu của Nga đã vào vùng biển Anh.",
+        "Tàu này rời cảng Primorsk tuần trước.",
+        "Tàu có tên là Forwarder.",
+        "Động thái này diễn ra sau vụ tấn công tàu Smyrtos."
+      ],
+      "full_summary": "Một tàu chở dầu của Nga, Forwarder, đã vào vùng biển Anh vào tối thứ Ba. Tàu này rời cảng Primorsk, Nga, tuần trước. Động thái này diễn ra sau vụ tấn công tàu Smyrtos của Nga. Việc này đã gây ra lo ngại về sự hiện diện của hạm đội bóng tối Nga.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4803715095f3",
+      "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
+      "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-18T14:52:59.438839+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Rockstar công bố ngày đặt hàng trước GTA 6",
+      "bullets": [
+        "Bắt đầu đặt hàng trước GTA 6 vào ngày 25 tháng 6",
+        "Rockstar tiết lộ hình ảnh bìa của GTA 6",
+        "Đến ngày 25 tháng 6, người dùng có thể đặt hàng trước",
+        "GTA 6 được mong đợi là một trong những trò chơi điện tử lớn nhất năm nay"
+      ],
+      "full_summary": "Rockstar đã công bố ngày đặt hàng trước của GTA 6, một trong những trò chơi điện tử được mong đợi nhất năm nay. Hình ảnh bìa của trò chơi cũng đã được tiết lộ. Người dùng có thể bắt đầu đặt hàng trước vào ngày 25 tháng 6. GTA 6 được cho là sẽ là một trong những trò chơi điện tử lớn nhất năm nay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7cb2f316494f",
+      "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
+      "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-18T14:53:00.455723+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhà soạn nhạc jazz Abdullah Ibrahim qua đời ở tuổi 91",
+      "bullets": [
+        "Được gia đình thông báo qua một tuyên bố",
+        "Sự ra đi của ông diễn ra trong một thời gian ngắn sau khi bị ốm",
+        "Abdullah Ibrahim đã thu âm hơn 70 album trong sự nghiệp",
+        "Ông qua đời một cách yên bình ở Đức"
+      ],
+      "full_summary": "Nhà soạn nhạc jazz và nghệ sĩ dương cầm nổi tiếng Abdullah Ibrahim đã qua đời ở tuổi 91. Ông qua đời một cách yên bình ở Đức sau một thời gian ngắn bị ốm. Abdullah Ibrahim đã thu âm hơn 70 album trong sự nghiệp của mình và được coi là một trong những nhạc sĩ jazz hàng đầu của Nam Phi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "595379e4a501",
+      "title": "Cosmonaut Aleksandr Samokutyaev, 56, is first former ISS crew member to die",
+      "url": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-18T14:53:01.486939+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Cựu phi hành gia ISS Aleksandr Samokutyaev qua đời ở tuổi 56",
+      "bullets": [
+        "Đã tham gia 2 chuyến thám hiểm không gian",
+        "Thực hiện 2 lần đi bộ ngoài không gian",
+        "Đã ở trong không gian 322 ngày",
+        "Là người đầu tiên trong số các phi hành gia ISS đã qua đời"
+      ],
+      "full_summary": "Aleksandr Samokutyaev, cựu phi hành gia ISS, đã qua đời ở tuổi 56. Ông đã tham gia 2 chuyến thám hiểm không gian và thực hiện 2 lần đi bộ ngoài không gian. Tổng thời gian ông ở trong không gian là 322 ngày. Đây là người đầu tiên trong số các phi hành gia ISS đã qua đời.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6676f134adf4",
+      "title": "Drowning Doesn't Look Like Drowning (2021)",
+      "url": "https://gcaptain.com/drowning/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-18T14:53:05.127292+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Lặn không giống như ngập nước: cảnh báo nguy hiểm",
+      "bullets": [
+        "Ngập nước không phải lúc nào cũng rõ ràng",
+        "Nhiều trường hợp ngập nước không có biểu hiện nổi bật",
+        "Cần nhận biết sớm để cứu giúp kịp thời"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã chia sẻ cảnh báo về ngập nước. Ngập nước không phải lúc nào cũng rõ ràng, nhiều trường hợp không có biểu hiện nổi bật. Điều này khiến người ta khó nhận biết và cứu giúp kịp thời. Bài viết đã chia sẻ một số ví dụ về ngập nước không rõ ràng và cảnh báo mọi người cần nhận biết sớm để cứu giúp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "71ed7c4e1bbc",
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-18T14:53:09.047985+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "10.000 thư viện GitHub chứa mã độc Trojan",
+      "bullets": [
+        "Xác định 10.000 thư viện GitHub chứa mã độc Trojan",
+        "Mã độc có thể gây hại cho người dùng",
+        "Nguồn gốc và mục đích của mã độc chưa rõ",
+        "GitHub đang xem xét các biện pháp để ngăn chặn"
+      ],
+      "full_summary": "Một nghiên cứu mới đây đã phát hiện ra 10.000 thư viện GitHub chứa mã độc Trojan. Mã độc này có thể gây hại cho người dùng và có thể được sử dụng để thực hiện các hoạt động độc hại. Nguồn gốc và mục đích của mã độc chưa rõ, nhưng GitHub đang xem xét các biện pháp để ngăn chặn. Điều này cho thấy tầm quan trọng của việc kiểm tra mã nguồn trước khi tải xuống.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "bbe2b4911b5b",
       "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
@@ -615,185 +794,6 @@
         "FBI đã bắt giữ các thành viên của nhóm"
       ],
       "full_summary": "Theo hồ sơ tòa án mới được giải mật, nhóm này đã thể hiện sự bất mãn về tham nhũng, vụ Epstein và trung tâm dữ liệu. Họ đã lên kế hoạch sử dụng súng bắn tỉa và máy bay không người lái để tấn công sự kiện UFC tại Nhà Trắng. FBI đã bắt giữ các thành viên của nhóm và ngăn chặn kế hoạch khủng bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "36917da8bd53",
-      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
-      "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T14:57:44.817638+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cô dâu hoàng gia Na Uy đã trải qua phẫu thuật ghép phổi thành công",
-      "bullets": [
-        "Cô dâu hoàng gia Na Uy đã trải qua phẫu thuật ghép phổi",
-        "Bà đã bị bệnh phổi fibrosis và phải trải qua phẫu thuật",
-        "Bà sẽ phải nằm viện vài tuần để hồi phục"
-      ],
-      "full_summary": "Cô dâu hoàng gia Na Uy, Hoàng hậu Mette-Marit, đã trải qua phẫu thuật ghép phổi thành công. Bà đã bị bệnh phổi fibrosis và phải trải qua phẫu thuật để thay thế phổi mới. Hiện tại, bà sẽ phải nằm viện vài tuần để hồi phục.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "20a8cd9c2e06",
-      "title": "Iran sends tankers loaded with oil past US military blockade",
-      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T14:57:45.942906+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran chuyển 3 tàu chở dầu qua đường chặn của Mỹ",
-      "bullets": [
-        "Iran chuyển 3 tàu chở dầu qua đường chặn của Mỹ",
-        "Tàu chở dầu được theo dõi qua dữ liệu của công ty theo dõi tàu",
-        "Tàu chở dầu đi qua vịnh Oman",
-        "US không có phản ứng rõ ràng"
-      ],
-      "full_summary": "Iran đã chuyển 3 tàu chở dầu qua đường chặn của Mỹ trong vịnh Oman. Dữ liệu theo dõi tàu cho thấy các tàu chở dầu này đã đi qua đường chặn của Mỹ mà không gặp sự cố. Tuy nhiên, Mỹ chưa có phản ứng rõ ràng về vấn đề này. Sự kiện này đã gây ra sự quan tâm lớn trong cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1918be2c243c",
-      "title": "Nigerian man jailed for storing human faeces outside his home",
-      "url": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T14:57:47.002805+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người Nigeria bị giam vì chứa phân người ngoài nhà",
-      "bullets": [
-        "Bị cáo đã bị kết án vì chứa phân người ngoài nhà",
-        "Mùi hôi từ nhà đã khiến hàng xóm không thể thư giãn",
-        "Bị cáo đã bị giam vì vi phạm quy định về môi trường",
-        "Hành động của bị cáo đã gây ảnh hưởng đến hàng xóm"
-      ],
-      "full_summary": "Một người Nigeria đã bị kết án vì chứa phân người ngoài nhà. Mùi hôi từ nhà đã trở nên quá mức và khiến hàng xóm không thể thư giãn. Bị cáo đã bị giam vì vi phạm quy định về môi trường. Hành động của bị cáo đã gây ảnh hưởng đến hàng xóm và cộng đồng xung quanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c548eee8012a",
-      "title": "Snap unveils £1,995 smart glasses after previous flops",
-      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T14:57:47.958838+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Snap ra mắt kính thông minh giá 1,995 bảng",
-      "bullets": [
-        "Ra mắt kính AR giá 1,995 bảng Anh",
-        "Kính sẽ được giao hàng vào mùa thu",
-        "Là sản phẩm của công ty mẹ Snapchat",
-        "Sẽ cạnh tranh với các sản phẩm tương tự"
-      ],
-      "full_summary": "Công ty mẹ của Snapchat đã ra mắt kính thông minh giá 1,995 bảng Anh. Kính này sẽ được giao hàng vào mùa thu. Đây là một nỗ lực mới của công ty sau các sản phẩm tương tự trước đó thất bại. Kính này sẽ cạnh tranh với các sản phẩm tương tự trên thị trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50068e712b28",
-      "title": "What is Helium-3 and could we get it from the moon?",
-      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T14:57:49.122010+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Nghiên cứu khai thác helium-3 trên mặt trăng để đáp ứng nhu cầu tăng cao",
-      "bullets": [
-        "Khai thác helium-3 trên mặt trăng có thể giảm chi phí sản xuất năng lượng hạt nhân",
-        "Nhu cầu helium-3 dự kiến tăng cao do nhu cầu năng lượng hạt nhân tăng mạnh",
-        "Một số công ty đang nghiên cứu và phát triển công nghệ khai thác helium-3 trên mặt trăng",
-        "Helium-3 có thể được sử dụng để sản xuất năng lượng hạt nhân an toàn và sạch"
-      ],
-      "full_summary": "Một số công ty đang nghiên cứu và phát triển công nghệ khai thác helium-3 trên mặt trăng để đáp ứng nhu cầu tăng cao. Helium-3 là một loại nguyên tố quý hiếm được sử dụng để sản xuất năng lượng hạt nhân. Nhu cầu helium-3 dự kiến tăng cao do nhu cầu năng lượng hạt nhân tăng mạnh. Một số công ty đang nghiên cứu và phát triển công nghệ khai thác helium-3 trên mặt trăng để giảm chi phí sản xuất năng lượng hạt nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "130d8ce09634",
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-17T14:57:57.542149+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "AI đòi hỏi kỷ luật kỹ thuật cao hơn",
-      "bullets": [
-        "Khẳng định AI đòi hỏi kỷ luật kỹ thuật cao hơn",
-        "Tránh sự lỏng lẻo trong thiết kế và phát triển AI",
-        "Cần tăng cường kỷ luật kỹ thuật để đảm bảo an toàn và hiệu suất AI",
-        "Kỷ luật kỹ thuật là chìa khóa để phát triển AI an toàn và hiệu quả"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã khẳng định rằng AI đòi hỏi kỷ luật kỹ thuật cao hơn. Điều này bao gồm việc tránh sự lỏng lẻo trong thiết kế và phát triển AI, tăng cường kỷ luật kỹ thuật để đảm bảo an toàn và hiệu suất AI. Kỷ luật kỹ thuật là chìa khóa để phát triển AI an toàn và hiệu quả. Bài viết này đã nhận được sự quan tâm lớn từ cộng đồng Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2c4b456cc70d",
-      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T10:30:03.804332+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Israel tấn công Lebanon một lần nữa, dù Trump chỉ trích",
-      "bullets": [
-        "Israel tiến hành các cuộc tấn công mới vào Lebanon",
-        "Trump chỉ trích Netanyahu cần phải có trách nhiệm hơn",
-        "Các cuộc tấn công diễn ra bất chấp lời cảnh báo của quốc tế",
-        "Tình hình ở khu vực Trung Đông tiếp tục căng thẳng"
-      ],
-      "full_summary": "Israel đã tiến hành các cuộc tấn công mới vào Lebanon, bất chấp lời chỉ trích của cựu Tổng thống Mỹ Donald Trump. Trump đã nói rằng Thủ tướng Israel Benjamin Netanyahu cần phải có trách nhiệm hơn với Lebanon. Các cuộc tấn công diễn ra bất chấp lời cảnh báo của quốc tế về việc leo thang căng thẳng ở khu vực Trung Đông. Tình hình ở khu vực này tiếp tục căng thẳng và gây lo ngại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "226c888ab6c9",
-      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T10:30:05.902608+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tôn giáo tại Jerusalem bất ổn do dân tộc Israel vi phạm quy tắc",
-      "bullets": [
-        "Vi phạm quy tắc chia sẻ tại khu phức hợp thánh địa Al-Aqsa",
-        "Dân tộc Israel ngày càng vi phạm quy ước chia sẻ tại khu phức hợp",
-        "Khu phức hợp Al-Aqsa là nơi linh thiêng nhất ở Jerusalem",
-        "Tình hình tại Jerusalem đang trở nên bất ổn"
-      ],
-      "full_summary": "Dân tộc Israel đang ngày càng vi phạm quy ước chia sẻ tại khu phức hợp thánh địa Al-Aqsa ở Jerusalem. Khu phức hợp này là nơi linh thiêng nhất ở thành phố này và là nơi tôn giáo Hồi giáo, Do Thái và Kitô giáo chia sẻ. Tuy nhiên, dân tộc Israel đang ngày càng vi phạm quy ước này, gây ra lo ngại về tình hình bất ổn tại Jerusalem.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "394fb7cc2892",
-      "title": "'We fear for our lives' - deadline looms for migrants to leave South Africa",
-      "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T10:30:06.977330+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Họ cảnh báo: 'Chúng tôi sợ hãi vì cuộc sống' - hạn chót để người nhập cư rời khỏi Nam Phi",
-      "bullets": [
-        "Cảnh sát Nam Phi yêu cầu người nhập cư rời khỏi đất nước trước ngày 30 tháng 6",
-        "Hàng trăm người nhập cư đã bị bắt giữ trong các cuộc biểu tình",
-        "Người biểu tình yêu cầu chính phủ Nam Phi phải giải quyết vấn đề nhập cư",
-        "Hạn chót đã được đặt ra để người nhập cư rời khỏi Nam Phi"
-      ],
-      "full_summary": "Hàng trăm người nhập cư đang đối mặt với hạn chót để rời khỏi Nam Phi. Người biểu tình đã đặt ra hạn chót ngày 30 tháng 6 để người nhập cư rời khỏi đất nước. Hạn chót này đã được đặt ra sau khi hàng trăm người nhập cư bị bắt giữ trong các cuộc biểu tình. Người biểu tình yêu cầu chính phủ Nam Phi phải giải quyết vấn đề nhập cư.",
       "comments": 0,
       "score": 0
     }
