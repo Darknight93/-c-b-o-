@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-06-19T10:16:49.403430+00:00",
+  "updated_at": "2026-06-19T14:48:43.162204+00:00",
   "articles": [
+    {
+      "id": "b891af905848",
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:27.163458+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Meloni bác bỏ cáo buộc Trump về bức ảnh G7",
+      "bullets": [
+        "Meloni bác bỏ cáo buộc Trump về bức ảnh G7",
+        "Trump nói Meloni xin ảnh tại G7",
+        "Quan hệ giữa hai người đã xấu đi sau quyết định của Trump",
+        "Meloni và Trump từng có mối quan hệ thân thiết"
+      ],
+      "full_summary": "Meloni, thủ tướng Ý, vừa bác bỏ cáo buộc của Trump rằng bà đã xin ảnh với ông tại hội nghị G7. Trump từng nói rằng Meloni xin ảnh với ông, nhưng Meloni cho rằng đó là một câu chuyện được tạo ra. Quan hệ giữa hai người đã xấu đi sau quyết định của Trump về chiến tranh với Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b83aed915b23",
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:28.152215+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo đang hồi phục tốt",
+      "bullets": [
+        "Bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo đã được tìm thấy",
+        "Bệnh nhân đang hồi phục tốt sau khi bị lấy trộm khỏi bệnh viện",
+        "Bệnh viện ở Cộng hòa Dân chủ Congo đã bị tấn công do thông tin sai lệch và sợ hãi",
+        "Bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo là trường hợp thứ 6"
+      ],
+      "full_summary": "Một bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo đã được tìm thấy và đang hồi phục tốt. Bệnh viện ở Cộng hòa Dân chủ Congo đã bị tấn công do thông tin sai lệch và sợ hãi. Bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo là trường hợp thứ 6 trong số các bệnh nhân Ebola bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ebcc9b3462d0",
+      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:29.186056+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hậu vệ Achraf Hakimi Morocco bị cáo buộc tội hiếp dâm",
+      "bullets": [
+        "Xác nhận Achraf Hakimi sẽ đứng trước tòa vì tội hiếp dâm",
+        "Tội phạm xảy ra vào năm 2023",
+        "Hậu vệ Morocco sẽ phải đối mặt với sự xét xử",
+        "Cáo buộc đang được điều tra bởi các cơ quan pháp luật Pháp"
+      ],
+      "full_summary": "Hậu vệ Achraf Hakimi của đội tuyển bóng đá quốc gia Morocco sẽ phải đối mặt với sự xét xử vì tội hiếp dâm. Theo thông tin từ các cơ quan pháp luật Pháp, Achraf Hakimi bị cáo buộc tội hiếp dâm vào năm 2023. Sự việc đang được điều tra và xét xử bởi các cơ quan pháp luật Pháp. Achraf Hakimi là một trong những cầu thủ nổi tiếng của đội tuyển bóng đá quốc gia Morocco.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3758a5a1362a",
+      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
+      "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:30.189067+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trẻ 12 tuổi cứu gà bị ốm bằng cách đưa vào bệnh viện",
+      "bullets": [
+        "Trẻ 12 tuổi Markos đưa gà bị ốm vào bệnh viện",
+        "Gà của Markos không phản ứng với bất kỳ phương pháp điều trị nào",
+        "Markos cố gắng cứu gà bằng mọi cách",
+        "Gia đình Markos rất yêu quý gà bị ốm"
+      ],
+      "full_summary": "Trẻ 12 tuổi Markos đã gây ấn tượng với mọi người khi đưa gà bị ốm vào bệnh viện. Gà của Markos không phản ứng với bất kỳ phương pháp điều trị nào, vì vậy Markos đã đưa nó vào bệnh viện để tìm kiếm sự giúp đỡ. Hành động của Markos đã gây ấn tượng với mọi người và cho thấy sự yêu quý của ông đối với gà bị ốm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ba927f3fba9b",
+      "title": "UK actress charged with importing meth worth almost A$300m into Australia",
+      "url": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:31.418213+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ diễn viên Anh bị cáo buộc vận chuyển ma túy vào Úc",
+      "bullets": [
+        "Bị cáo buộc vận chuyển 320kg ma túy",
+        "Cáo buộc nhập khẩu ma túy trị giá gần 300 triệu đô la Úc",
+        "Đe dọa phải ngồi tù suốt đời",
+        "Nữ diễn viên Anh Emaa Hussen bị bắt giữ"
+      ],
+      "full_summary": "Nữ diễn viên Anh Emaa Hussen, 34 tuổi, bị cáo buộc vận chuyển 320kg ma túy vào Úc. Theo cáo buộc, ma túy được giấu trong các túi than. Nếu bị kết tội, Emaa Hussen có thể phải ngồi tù suốt đời. Cáo buộc nhập khẩu ma túy trị giá gần 300 triệu đô la Úc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c4140807fe6d",
+      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
+      "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:32.455845+00:00",
+      "category": "economy",
+      "importance": 5,
+      "headline": "Ambani công bố kế hoạch bán cổ phần lớn nhất Ấn Độ",
+      "bullets": [
+        "Đại gia Ambani dự kiến bán cổ phần trị giá 4 tỷ USD",
+        "Số tiền này có thể là lớn nhất trong lịch sử bán cổ phần của Ấn Độ",
+        "Kế hoạch này sẽ giúp tăng vốn cho công ty viễn thông lớn nhất Ấn Độ",
+        "Các báo cáo cho biết Ambani sẽ bán cổ phần trong công ty viễn thông của mình"
+      ],
+      "full_summary": "Ambani, người giàu nhất châu Á, vừa công bố kế hoạch bán cổ phần lớn nhất Ấn Độ. Theo báo cáo, số tiền bán cổ phần này có thể lên đến 4 tỷ USD, một con số lớn nhất trong lịch sử bán cổ phần của Ấn Độ. Kế hoạch này sẽ giúp tăng vốn cho công ty viễn thông lớn nhất Ấn Độ, Jio. Các báo cáo cho biết Ambani sẽ bán cổ phần trong công ty viễn thông của mình để tăng vốn và mở rộng hoạt động kinh doanh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "940827f36af4",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "url": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:33.516954+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
+      "bullets": [
+        "Rockstar đang phát triển GTA 6",
+        "Trò chơi này sẽ là bản phát hành lớn nhất năm nay",
+        "GTA 6 sẽ tiếp tục xu hướng của loạt game",
+        "Chi tiết về trò chơi vẫn chưa được tiết lộ"
+      ],
+      "full_summary": "Rockstar đang phát triển GTA 6, trò chơi điện tử lớn nhất năm nay. Mặc dù vẫn chưa có thông tin chi tiết, nhưng nhiều người hâm mộ đang mong chờ bản phát hành này. GTA 6 sẽ tiếp tục xu hướng của loạt game, mang đến cho người chơi những trải nghiệm mới mẻ và thú vị. Rockstar đã không công bố bất kỳ thông tin nào về trò chơi này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d5b1bcf5718f",
+      "title": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
+      "url": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T14:48:35.914924+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Titan submersible gặp tai nạn do lỗi thiết kế và tư duy nhóm",
+      "bullets": [
+        "Khám phá ra lỗi cấu trúc trong vật liệu dùng cho vỏ tàu",
+        "Công ty không thử nghiệm đầy đủ thiết kế mới mẻ",
+        "Tư duy nhóm và thiên vị xác nhận ảnh hưởng đến quyết định",
+        "Tàu bị mất tích trong chuyến đi cuối cùng"
+      ],
+      "full_summary": "Theo báo cáo của chính quyền Canada, tàu ngầm Titan gặp tai nạn do lỗi thiết kế và tư duy nhóm của công ty. Tàu 6,7 mét này đã chìm xuống đáy Đại Tây Dương vào tháng 6 năm 2023, khiến 5 hành khách mất tích. Báo cáo cho biết công ty đã không thử nghiệm đầy đủ thiết kế mới mẻ và bị ảnh hưởng bởi tư duy nhóm và thiên vị xác nhận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b433f1575ff0",
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-19T14:48:40.770061+00:00",
+      "category": "politics|technology",
+      "importance": 4,
+      "headline": "Đài Loan tăng sản xuất máy bay không người lái cho quốc phòng và quân đội Mỹ",
+      "bullets": [
+        "Tăng cường sản xuất máy bay không người lái cho quốc phòng",
+        "Phát triển máy bay không người lái cho quân đội Mỹ",
+        "Tăng cường hợp tác kinh doanh quốc tế",
+        "Đáp trả đe dọa của Trung Quốc"
+      ],
+      "full_summary": "Đài Loan đang tăng cường sản xuất máy bay không người lái để đáp trả đe dọa của Trung Quốc. Theo Ars Technica, Đài Loan đã tăng ngân sách cho sản xuất máy bay không người lái để tăng cường quốc phòng. Điều này không chỉ giúp Đài Loan tăng cường khả năng phòng thủ mà còn tạo cơ hội cho doanh nghiệp Đài Loan phát triển kinh doanh quốc tế. Việc này cũng có thể giúp quân đội Mỹ có thêm nguồn cung cấp máy bay không người lái.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8c5b9cd8b3fb",
       "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
@@ -614,185 +794,6 @@
         "Cần nhận biết sớm để cứu giúp kịp thời"
       ],
       "full_summary": "Một bài viết trên Hacker News đã chia sẻ cảnh báo về ngập nước. Ngập nước không phải lúc nào cũng rõ ràng, nhiều trường hợp không có biểu hiện nổi bật. Điều này khiến người ta khó nhận biết và cứu giúp kịp thời. Bài viết đã chia sẻ một số ví dụ về ngập nước không rõ ràng và cảnh báo mọi người cần nhận biết sớm để cứu giúp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "71ed7c4e1bbc",
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-18T14:53:09.047985+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "10.000 thư viện GitHub chứa mã độc Trojan",
-      "bullets": [
-        "Xác định 10.000 thư viện GitHub chứa mã độc Trojan",
-        "Mã độc có thể gây hại cho người dùng",
-        "Nguồn gốc và mục đích của mã độc chưa rõ",
-        "GitHub đang xem xét các biện pháp để ngăn chặn"
-      ],
-      "full_summary": "Một nghiên cứu mới đây đã phát hiện ra 10.000 thư viện GitHub chứa mã độc Trojan. Mã độc này có thể gây hại cho người dùng và có thể được sử dụng để thực hiện các hoạt động độc hại. Nguồn gốc và mục đích của mã độc chưa rõ, nhưng GitHub đang xem xét các biện pháp để ngăn chặn. Điều này cho thấy tầm quan trọng của việc kiểm tra mã nguồn trước khi tải xuống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bbe2b4911b5b",
-      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
-      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T10:10:42.363059+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Moskva bị tấn công lớn nhất từ trước chiến tranh toàn diện của Nga",
-      "bullets": [
-        "Hàng chục UAV Ukraine tấn công khu vực phía đông nam thủ đô Moskva",
-        "Một nhà máy lọc dầu và trung tâm thương mại đang cháy",
-        "Tổn thất về người và tài sản đang được đánh giá",
-        "Nga đang phản ứng với vụ tấn công này"
-      ],
-      "full_summary": "Một vụ tấn công lớn nhất từ trước chiến tranh toàn diện của Nga đã xảy ra ở Moskva. Khoảng 200 UAV Ukraine đã tấn công khu vực phía đông nam thủ đô, khiến một nhà máy lọc dầu và trung tâm thương mại đang cháy. Tổn thất về người và tài sản đang được đánh giá. Nga đang phản ứng với vụ tấn công này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fc8071e47734",
-      "title": "Gunfire and explosions heard at Niger capital's airport",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T10:10:43.232049+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Niger gặp bạo lực tại sân bay",
-      "bullets": [
-        "Có tiếng súng và tiếng nổ tại sân bay của thủ đô Niamey",
-        "Niger đang đối mặt với cuộc nổi dậy Hồi giáo cực đoan",
-        "Vụ tấn công xảy ra sau khi quân nổi dậy tấn công sân bay vào tháng 1",
-        "Niger đã đối mặt với cuộc nổi dậy này trong hơn một thập kỷ"
-      ],
-      "full_summary": "Niger đang gặp bạo lực tại sân bay của thủ đô Niamey. Có tiếng súng và tiếng nổ được nghe thấy. Vụ tấn công xảy ra sau khi quân nổi dậy tấn công sân bay vào tháng 1. Niger đã đối mặt với cuộc nổi dậy này trong hơn một thập kỷ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "73a9d3f6e675",
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-      "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T10:10:44.119368+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một lãnh đạo băng đảng bị bắn chết tại sân bay",
-      "bullets": [
-        "Một băng nhóm đã tấn công một lãnh đạo băng đảng tại sân bay Guayaquil",
-        "Các tên trộm đã giấu vũ khí sau hoa và đồ chơi",
-        "Lãnh đạo băng đảng đã bị bắn chết tại hiện trường",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một vụ tấn công bất ngờ đã xảy ra tại sân bay Guayaquil, nơi một lãnh đạo băng đảng đã bị bắn chết. Các tên trộm đã giấu vũ khí sau hoa và đồ chơi, khiến họ không bị phát hiện. Vụ việc đang được điều tra và các cơ quan chức năng đang cố gắng xác định danh tính của các tên trộm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8457a5029f9",
-      "title": "Lawyer of Uganda opposition figure Besigye charged with treason-related offence",
-      "url": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T10:10:45.021516+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tướng Uganda đe dọa luật sư đối lập Lukwago",
-      "bullets": [
-        "Lực lượng quân đội Uganda đe dọa luật sư Erias Lukwago",
-        "Lukwago bị bắt giữ vào tuần trước",
-        "Tướng quân đội Uganda tuyên bố gây đau đớn cho Lukwago",
-        "Luật sư Lukwago bị buộc tội liên quan đến tội phản quốc"
-      ],
-      "full_summary": "Tướng quân đội Uganda đã tuyên bố sẽ gây đau đớn cho luật sư Erias Lukwago, người bị bắt giữ vào tuần trước. Luật sư Lukwago đã bị buộc tội liên quan đến tội phản quốc. Điều này đã gây ra lo ngại về tình hình chính trị tại Uganda.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f94f1c1df7a4",
-      "title": "Five big questions about the UK's under-16s social media ban",
-      "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T10:10:45.927450+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chính phủ Anh sắp cấm sử dụng mạng xã hội cho người dưới 16 tuổi",
-      "bullets": [
-        "Sẽ cấm sử dụng các trang mạng xã hội như Roblox, YouTube và WhatsApp cho người dưới 16 tuổi",
-        "Chính phủ Anh chưa rõ ràng về quy định cụ thể của lệnh cấm",
-        "Lệnh cấm sẽ ảnh hưởng đến các nền tảng mạng xã hội phổ biến",
-        "Chính phủ đang thảo luận về quy định và thời gian thực hiện lệnh cấm"
-      ],
-      "full_summary": "Chính phủ Anh sắp cấm sử dụng mạng xã hội cho người dưới 16 tuổi. Tuy nhiên, vẫn chưa rõ ràng về quy định cụ thể của lệnh cấm. Lệnh cấm sẽ ảnh hưởng đến các nền tảng mạng xã hội phổ biến như Roblox, YouTube và WhatsApp. Chính phủ đang thảo luận về quy định và thời gian thực hiện lệnh cấm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9488c27b7c42",
-      "title": "When will social media ban start, and which apps will be affected?",
-      "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T10:10:46.837506+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cấm ứng dụng TikTok và Snapchat cho giới trẻ Anh từ đầu năm 2027",
-      "bullets": [
-        "Sẽ cấm các ứng dụng TikTok và Snapchat cho người dưới 18 tuổi ở Anh",
-        "Các ứng dụng này sẽ bị cấm vào đầu năm 2027",
-        "Cấm nhằm mục đích bảo vệ trẻ em khỏi nội dung không phù hợp",
-        "Chính phủ Anh đang xem xét các biện pháp khác để kiểm soát nội dung trên mạng xã hội"
-      ],
-      "full_summary": "Chính phủ Anh đang lên kế hoạch cấm các ứng dụng TikTok và Snapchat cho người dưới 18 tuổi vào đầu năm 2027. Mục đích của việc này là để bảo vệ trẻ em khỏi nội dung không phù hợp trên mạng xã hội. Các ứng dụng này sẽ bị cấm sử dụng, nhưng người lớn vẫn có thể tiếp tục sử dụng chúng. Chính phủ Anh đang xem xét các biện pháp khác để kiểm soát nội dung trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b1817198c0ad",
-      "title": "Social media ban - bold and blunt, but no silver bullet",
-      "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T10:10:47.701931+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cấm mạng xã hội không phải là giải pháp toàn diện",
-      "bullets": [
-        "Cấm mạng xã hội sẽ không thể ngăn chặn trẻ em tiếp xúc với nội dung không phù hợp",
-        "Các công ty công nghệ đang tìm cách phát triển công nghệ để tự kiểm soát nội dung",
-        "Một số quốc gia đang xem xét các quy định mới để quản lý trẻ em trên mạng xã hội"
-      ],
-      "full_summary": "BBC cho biết, việc cấm mạng xã hội không phải là giải pháp toàn diện để bảo vệ trẻ em. Các công ty công nghệ đang tìm cách phát triển công nghệ để tự kiểm soát nội dung. Một số quốc gia đang xem xét các quy định mới để quản lý trẻ em trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f21568bf6d40",
-      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
-      "url": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-18T10:10:48.732196+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hulk và Punisher tham gia Spider-Man: Brand New Day",
-      "bullets": [
-        "Hulk và Punisher xuất hiện trong trailer mới của Spider-Man: Brand New Day",
-        "Peter Parker ngạc nhiên khi thấy Hulk trở nên khổng lồ",
-        "Trailer mới cho thấy sự hợp tác giữa các nhân vật Marvel",
-        "Spider-Man: Brand New Day đang được mong đợi"
-      ],
-      "full_summary": "Một trailer mới của Spider-Man: Brand New Day đã được phát hành, cho thấy sự tham gia của Hulk và Punisher. Trong trailer, Peter Parker ngạc nhiên khi thấy Hulk trở nên khổng lồ. Điều này cho thấy sự hợp tác giữa các nhân vật Marvel trong bộ phim mới. Spider-Man: Brand New Day đang được mong đợi bởi các fan hâm mộ.",
       "comments": 0,
       "score": 0
     }
