@@ -1,6 +1,124 @@
 {
-  "updated_at": "2026-06-18T20:14:49.461540+00:00",
+  "updated_at": "2026-06-19T03:39:10.584937+00:00",
   "articles": [
+    {
+      "id": "b30b13256b40",
+      "title": "The artificial ice pyramids saving India's mountain villages",
+      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T03:38:54.928127+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Himalaya: Các ngôi làng tạo ra băng tuyết nhân tạo để đảm bảo nước cho mùa xuân",
+      "bullets": [
+        "Tạo ra băng tuyết nhân tạo để cung cấp nước cho mùa xuân",
+        "Giảm thiểu thiệt hại do thiếu nước cho mùa màng",
+        "Sử dụng công nghệ để tạo ra băng tuyết",
+        "Giảm thiểu tác động của biến đổi khí hậu"
+      ],
+      "full_summary": "Các ngôi làng ở dãy Himalaya đang tạo ra băng tuyết nhân tạo để đảm bảo nước cho mùa xuân. Công nghệ này giúp giảm thiểu thiệt hại do thiếu nước cho mùa màng. Bằng cách sử dụng công nghệ, các ngôi làng có thể tạo ra băng tuyết ngay trong mùa đông để cung cấp nước cho mùa xuân. Điều này giúp giảm thiểu tác động của biến đổi khí hậu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52cfd190278b",
+      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T03:38:55.884722+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Jeff Bezos tin AI sẽ tạo ra thiếu hụt lao động",
+      "bullets": [
+        "Jeff Bezos cho rằng AI sẽ tạo ra nhiều việc làm cho con người",
+        "Ông tin rằng AI sẽ tạo ra thiếu hụt lao động",
+        "Bezos tin rằng AI sẽ không thay thế con người",
+        "Ông cho rằng AI sẽ tạo ra cơ hội mới cho con người"
+      ],
+      "full_summary": "Jeff Bezos, người sáng lập Amazon, tin rằng trí tuệ nhân tạo (AI) sẽ tạo ra nhiều việc làm cho con người và không thay thế họ. Ông cho rằng AI sẽ tạo ra thiếu hụt lao động và tạo ra cơ hội mới cho con người. Bezos, người hiện đang có các công ty về robot và du hành vũ trụ, tin rằng AI sẽ giúp con người giải quyết các vấn đề phức tạp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "efafeeca4f58",
+      "title": "What to study in the AI age - from big tech bosses",
+      "url": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T03:38:57.158879+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các nhà lãnh đạo công nghệ khuyên học tập kỹ năng AI",
+      "bullets": [
+        "Học kỹ năng lập trình và phân tích dữ liệu để thích nghi với thời đại AI",
+        "Tìm hiểu về trí tuệ nhân tạo và học máy để có cơ hội nghề nghiệp tốt hơn",
+        "Phát triển kỹ năng tư duy sáng tạo và giải quyết vấn đề để có thể thích nghi với công nghệ mới",
+        "Tìm kiếm cơ hội học hỏi và phát triển kỹ năng liên tục"
+      ],
+      "full_summary": "Sundar Pichai, Jensen Huang và Jack Clark, các nhà lãnh đạo công nghệ hàng đầu, đã chia sẻ lời khuyên của họ với BBC về những kỹ năng cần thiết để thích nghi với thời đại trí tuệ nhân tạo. Họ nhấn mạnh tầm quan trọng của việc học lập trình, phân tích dữ liệu và trí tuệ nhân tạo để có cơ hội nghề nghiệp tốt hơn. Họ cũng khuyên rằng việc phát triển tư duy sáng tạo và giải quyết vấn đề là cần thiết để thích nghi với công nghệ mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c6f70cbbb3b",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T03:38:59.484423+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Barbados kêu gọi bồi thường cho hậu quả của chế độ nô lệ",
+      "bullets": [
+        "Chủ tịch Mia Mottley công bố tuyên bố về bồi thường cho những người châu Phi bị nô lệ",
+        "Tuyên bố này đang được xem xét bởi các quốc gia Caribbean khác",
+        "UN đã thông qua nghị quyết lịch sử về việc buôn bán nô lệ là tội ác chống lại loài người nghiêm trọng nhất"
+      ],
+      "full_summary": "Chủ tịch Barbados Mia Mottley đã công bố tuyên bố về bồi thường cho những người châu Phi bị nô lệ. Tuyên bố này đang được xem xét bởi các quốc gia Caribbean khác. Sự kiện này diễn ra tại hội nghị lịch sử ở Ghana để thúc đẩy công lý reparatory. UN đã thông qua nghị quyết lịch sử về việc buôn bán nô lệ là tội ác chống lại loài người nghiêm trọng nhất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f5e47ce467da",
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T03:39:00.603219+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai người đàn ông Nam Phi bị kết án vì buôn bán sừng tê lớn nhất thế giới",
+      "bullets": [
+        "Hai kẻ buôn bán sừng tê Dawie Groenewald và Tielman Erasmus bị kết án",
+        "Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp",
+        "Tòa án Nam Phi kết án Dawie Groenewald 2 triệu rands hoặc phạt tù 4 năm"
+      ],
+      "full_summary": "Hai người đàn ông Nam Phi bị kết án vì buôn bán sừng tê lớn nhất thế giới. Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp. Tòa án Nam Phi kết án Dawie Groenewald 2 triệu rands hoặc phạt tù 4 năm. Đây là kết quả của một vụ án kéo dài gần 16 năm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a37392e54bf",
+      "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+      "url": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-19T03:39:05.571764+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "NASA yêu cầu Northrop Grumman dừng phát triển mô-đun HALO Mặt Trăng",
+      "bullets": [
+        "NASA yêu cầu Northrop Grumman dừng phát triển mô-đun HALO Mặt Trăng",
+        "Hơn 1 tỷ USD đã được chi cho dự án này",
+        "Các nhân viên bị ảnh hưởng sẽ được chuyển sang các dự án khác",
+        "NASA đang tìm kiếm các giải pháp thay thế"
+      ],
+      "full_summary": "NASA đã yêu cầu Northrop Grumman dừng phát triển mô-đun HALO Mặt Trăng, một phần của dự án Gateway. Mô-đun này trị giá hơn 1 tỷ USD và được dự kiến sẽ là nơi ở cho các nhà du hành vũ trụ trên Mặt Trăng. Tuy nhiên, NASA đã quyết định chuyển hướng dự án này và sẽ tìm kiếm các giải pháp thay thế. Các nhân viên bị ảnh hưởng sẽ được chuyển sang các dự án khác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "23d30a1ea89d",
       "title": "US lifts naval blockade after Iran deal signed",
@@ -674,125 +792,6 @@
         "Huyndai bị chỉ trích vì chuỗi cung ứng thép bẩn"
       ],
       "full_summary": "Trước trận đấu giữa Mexico và Hàn Quốc tại World Cup, các nhà hoạt động sẽ tổ chức biểu tình phản đối Huyndai vì liên kết với công ty khai thác mỏ Ternium. Báo cáo năm 2025 của nhóm môi trường Mighty Earth chỉ trích Huyndai vì liên kết với chuỗi cung ứng thép bẩn của Ternium. Công ty này đã bị chỉ trích vì tác động môi trường tiêu cực và chính sách quản trị. Hai nhà hoạt động Mexico bị mất tích có liên quan đến công ty này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "137c26674826",
-      "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
-      "url": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-18T02:52:32.253709+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Quantum sai sót được sửa chữa sớm hơn dự kiến",
-      "bullets": [
-        "Amazon và Quera hứa hẹn sẽ khắc phục sai sót lượng tử hữu ích vào năm 2028",
-        "Cải tiến vượt trội trong thiết bị lượng tử siêu vượt trội so với máy tính cổ điển",
-        "Máy tính cổ điển phản công lại với những tiến bộ đáng kể"
-      ],
-      "full_summary": "Amazon và Quera đã hứa hẹn sẽ khắc phục sai sót lượng tử hữu ích vào năm 2028. Điều này có thể mở ra một kỷ nguyên mới trong công nghệ lượng tử. Cải tiến vượt trội trong thiết bị lượng tử siêu vượt trội so với máy tính cổ điển đang được phát triển, nhưng máy tính cổ điển cũng đang phản công lại với những tiến bộ đáng kể.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "366e7c0ebf44",
-      "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
-      "url": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-18T02:52:33.181464+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "California tố AT&T gian lận với FCC để tắt mạng điện thoại cũ",
-      "bullets": [
-        "California cáo buộc AT&T gian lận với FCC",
-        "AT&T xin phép FCC ngừng cung cấp mạng điện thoại cũ",
-        "FCC cân nhắc việc chấp thuận yêu cầu của AT&T",
-        "California phản đối việc AT&T ngừng cung cấp mạng điện thoại cũ"
-      ],
-      "full_summary": "California cáo buộc AT&T đã gian lận với Cơ quan quản lý truyền thông liên bang (FCC) trong nỗ lực tắt mạng điện thoại cũ. AT&T đã xin phép FCC để ngừng cung cấp mạng điện thoại cũ, nhưng California phản đối việc này. FCC đang cân nhắc việc chấp thuận yêu cầu của AT&T.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "77a679a09d3a",
-      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-      "url": "https://www.horg.com/horg/?page_id=921",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-18T02:52:37.971464+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Nghiên cứu mới về loài ký sinh trùng trên nhãn bao mì",
-      "bullets": [
-        "Xác định phân loại của loài Occlupanida",
-        "Nghiên cứu về ký sinh trùng trên nhãn bao mì",
-        "Tìm hiểu về sinh học của loài này",
-        "Cung cấp thông tin mới về hệ sinh thái"
-      ],
-      "full_summary": "Một nhóm nghiên cứu vừa công bố nghiên cứu về loài ký sinh trùng Occlupanida, loài này được tìm thấy trên nhãn bao mì. Nghiên cứu này nhằm xác định phân loại của loài này và tìm hiểu về sinh học của nó. Kết quả nghiên cứu cung cấp thông tin mới về hệ sinh thái và có thể giúp hiểu rõ hơn về loài này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc272673d423",
-      "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
-      "url": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T20:04:14.090036+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Cựu Bộ trưởng Năng lượng Nigeria được tuyên bố vô tội",
-      "bullets": [
-        "Một bồi thẩm đoàn ở Southwark Crown Court tuyên bố Diezani Alison-Madueke vô tội",
-        "Cựu Bộ trưởng Năng lượng Nigeria bị buộc tội nhận hối lộ từ các tỷ phú dầu mỏ",
-        "Bị cáo đã được tuyên bố vô tội trong phiên tòa ở Anh",
-        "Diezani Alison-Madueke từng là Bộ trưởng Năng lượng Nigeria từ năm 2010 đến 2015"
-      ],
-      "full_summary": "Cựu Bộ trưởng Năng lượng Nigeria Diezani Alison-Madueke đã được tuyên bố vô tội trong phiên tòa ở Anh. Diezani Alison-Madueke bị buộc tội nhận hối lộ từ các tỷ phú dầu mỏ. Bị cáo đã được tuyên bố vô tội trong phiên tòa ở Southwark Crown Court. Đây là một trong những vụ án hối lộ lớn nhất ở Nigeria.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23b9ecba4d40",
-      "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
-      "url": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T20:04:15.405080+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tử tù Long Island bị kết án chung thân vì giết 8 phụ nữ",
-      "bullets": [
-        "Bị kết án chung thân vì giết 8 phụ nữ",
-        "Được kết án 25 năm chung thân vì 4 tội danh khác",
-        "Tử tù này đã gây ra sự phẫn nộ trong cộng đồng",
-        "Bị kết án vì các tội danh nghiêm trọng"
-      ],
-      "full_summary": "Một người đàn ông đã bị kết án chung thân vì giết 8 phụ nữ ở Long Island. Trong phiên tòa, thẩm phán đã tuyên án 3 đời tù và 25 năm tù cho 4 tội danh khác. Người đàn ông này đã gây ra sự phẫn nộ trong cộng đồng và bị kết án vì các tội danh nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4cee8ad0fc56",
-      "title": "Bystanders smash windows of private jet to rescue passengers after crash",
-      "url": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-17T20:04:16.401013+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Máy bay tư nhân va chạm, người dân cứu nạn bằng cách phá vỡ cửa sổ",
-      "bullets": [
-        "Một máy bay tư nhân đã va chạm và khiến một người chết",
-        "Năm người còn lại được đưa đến bệnh viện và đang trong tình trạng ổn định",
-        "Người dân đã phá vỡ cửa sổ để cứu nạn",
-        "Tất cả 6 người trên máy bay đều bị thương"
-      ],
-      "full_summary": "Một máy bay tư nhân đã va chạm và khiến một người chết. Năm người còn lại được đưa đến bệnh viện và đang trong tình trạng ổn định. Người dân đã phá vỡ cửa sổ để cứu nạn. Sự cố này đã xảy ra tại [tỉnh/địa điểm].",
       "comments": 0,
       "score": 0
     }
