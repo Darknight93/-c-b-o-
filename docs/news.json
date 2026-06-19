@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-19T14:48:43.162204+00:00",
+  "updated_at": "2026-06-19T19:30:00.647883+00:00",
   "articles": [
+    {
+      "id": "ae591aa00ce8",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T19:29:45.974580+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel và Hezbollah đạt thỏa thuận ngừng bắn, Mỹ nói",
+      "bullets": [
+        "Israel và Hezbollah đạt thỏa thuận ngừng bắn",
+        "Mỹ lo ngại xung đột sẽ ảnh hưởng đến thỏa thuận hòa bình với Iran",
+        "Căng thẳng ở Lebanon tiếp tục leo thang",
+        "Hai bên đang cố gắng duy trì trật tự"
+      ],
+      "full_summary": "Israel và Hezbollah đã đạt được thỏa thuận ngừng bắn, theo tuyên bố của Mỹ. Thỏa thuận này được đưa ra sau khi lo ngại rằng xung đột tiếp tục sẽ làm suy yếu thỏa thuận hòa bình giữa Mỹ và Iran. Tuy nhiên, căng thẳng ở Lebanon vẫn tiếp tục leo thang, với nhiều cuộc tấn công được báo cáo. Hai bên đang cố gắng duy trì trật tự và ngăn chặn xung đột lan rộng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b2552986d9a7",
+      "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+      "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T19:29:47.118525+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ chấm dứt hỗ trợ chương trình HIV ở Nam Phi vì cáo buộc ngược đãi người Afrikaner",
+      "bullets": [
+        "Mỹ cho rằng Nam Phi không đủ bảo vệ cộng đồng người Afrikaner thiểu số",
+        "Chính phủ Mỹ sẽ ngừng tài trợ các chương trình HIV ở Nam Phi",
+        "Cáo buộc ngược đãi người Afrikaner đã trở thành lý do chính để chấm dứt hỗ trợ",
+        "Hành động này được cho là nhằm đáp trả những cáo buộc ngược đãi người Afrikaner"
+      ],
+      "full_summary": "Chính phủ Mỹ cho biết họ sẽ chấm dứt hỗ trợ các chương trình HIV ở Nam Phi do cáo buộc ngược đãi người Afrikaner thiểu số. Mỹ cho rằng Nam Phi không đủ bảo vệ cộng đồng người Afrikaner. Cáo buộc ngược đãi người Afrikaner đã trở thành lý do chính để chấm dứt hỗ trợ. Hành động này được cho là nhằm đáp trả những cáo buộc ngược đãi người Afrikaner.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "04ddc303f8b0",
+      "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
+      "url": "https://www.bbc.com/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T19:29:48.035776+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người chơi pétanque 68 tuổi bị đánh trọng thương",
+      "bullets": [
+        "Một người đàn ông 68 tuổi bị đánh trọng thương",
+        "Người đàn ông này bị một đối thủ 81 tuổi đánh bằng một quả boule kim loại",
+        "Người đàn ông bị đánh đã tử vong",
+        "Người đàn ông 81 tuổi bị bắt giữ"
+      ],
+      "full_summary": "Một người chơi pétanque 68 tuổi đã tử vong sau khi bị đánh trọng thương bằng một quả boule kim loại. Theo công tố viên, người đàn ông này bị một đối thủ 81 tuổi đánh. Người đàn ông 81 tuổi đã bị bắt giữ sau vụ việc. Vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f94f1c1df7a4",
+      "title": "Five big questions about the UK's under-16s social media ban",
+      "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T19:29:49.038076+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chính phủ Anh cấm người dưới 16 tuổi sử dụng mạng xã hội",
+      "bullets": [
+        "Cấm người dưới 16 tuổi sử dụng các ứng dụng mạng xã hội như Roblox, YouTube và WhatsApp",
+        "Chính phủ Anh chưa rõ ràng về quy định mới này",
+        "Các công ty công nghệ đang chờ đợi thông tin chi tiết về quy định mới",
+        "Quy định mới có thể ảnh hưởng đến các nền tảng mạng xã hội khác"
+      ],
+      "full_summary": "Chính phủ Anh đã quyết định cấm người dưới 16 tuổi sử dụng các ứng dụng mạng xã hội như Roblox, YouTube và WhatsApp. Tuy nhiên, vẫn chưa rõ ràng về quy định mới này và các công ty công nghệ đang chờ đợi thông tin chi tiết. Quy định mới có thể ảnh hưởng đến các nền tảng mạng xã hội khác và sẽ được triển khai trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fb461a4fc7b1",
+      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T19:29:50.231142+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hội nghị toàn cầu về công lý bù đắp đã được thông qua tại Ghana",
+      "bullets": [
+        "Chính phủ Ghana đã tổ chức hội nghị toàn cầu về công lý bù đắp",
+        "Hội nghị đã thông qua chiến lược 18 điểm nhằm đảm bảo bồi thường công bằng cho những người bị ảnh hưởng bởi di sản của nô lệ",
+        "Chiến lược này bao gồm cả việc giải quyết gánh nặng nợ nần",
+        "Hội nghị đã đánh dấu sự kiện quan trọng sau khi Liên Hợp Quốc thông qua nghị quyết lịch sử tuyên bố buôn bán nô lệ là tội ác nghiêm trọng nhất đối với nhân loại"
+      ],
+      "full_summary": "Hội nghị toàn cầu về công lý bù đắp đã được thông qua tại Ghana. Hội nghị đã diễn ra tại một khách sạn ở thủ đô Accra và là sự kiện quan trọng đầu tiên sau khi Liên Hợp Quốc thông qua nghị quyết lịch sử tuyên bố buôn bán nô lệ là tội ác nghiêm trọng nhất đối với nhân loại. Chiến lược 18 điểm được thông qua nhằm đảm bảo bồi thường công bằng cho những người bị ảnh hưởng bởi di sản của nô lệ và giải quyết gánh nặng nợ nần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f35ca5f75760",
+      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T19:29:51.260713+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "CDC chi 107 triệu USD để chống dịch Ebola tại DRC và Uganda",
+      "bullets": [
+        "CDC sẽ chi 107 triệu USD để chống dịch Ebola",
+        "Số người nhiễm Ebola đã vượt 1.000",
+        "Dịch bệnh vẫn được coi là có nguy cơ thấp",
+        "CDC cho rằng cần hỗ trợ khẩn cấp để kiểm soát dịch"
+      ],
+      "full_summary": "CDC sẽ chi 107 triệu USD để chống dịch Ebola tại Cộng hòa Dân chủ Congo (DRC) và Uganda. Dịch bệnh đã lan rộng và số người nhiễm đã vượt 1.000. Mặc dù vậy, các quan chức y tế cho rằng nguy cơ dịch bệnh lan rộng ra toàn cầu vẫn thấp. Họ cho rằng cần hỗ trợ khẩn cấp để kiểm soát dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f788abb677d5",
+      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-19T19:29:52.855991+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Huyndai bị phản đối vì liên kết với công ty khai thác mỏ gây ô nhiễm môi trường",
+      "bullets": [
+        "Phản đối liên kết của Hyundai với công ty khai thác mỏ Ternium",
+        "Ternium bị chỉ trích vì tác động môi trường tiêu cực và chính sách quản lý",
+        "Công ty này bị nghi ngờ liên quan đến biến mất của hai nhà hoạt động Mexico",
+        "Huyndai sẽ bị phản đối trước trận đấu World Cup giữa Mexico và Hàn Quốc"
+      ],
+      "full_summary": "Một nhóm người sẽ tổ chức biểu tình trước trận đấu World Cup giữa Mexico và Hàn Quốc để phản đối liên kết của Hyundai với công ty khai thác mỏ Ternium. Theo một báo cáo năm 2025, Hyundai đã mua một lượng lớn quặng sắt từ Ternium để sản xuất thép. Ternium đã bị chỉ trích vì tác động môi trường tiêu cực và chính sách quản lý kém. Các nhà hoạt động cũng nghi ngờ công ty này liên quan đến biến mất của hai nhà hoạt động Mexico.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "55b154964147",
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-19T19:29:58.446770+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nghị sĩ Mỹ đề xuất luật chống áp lực chính phủ silencing ngôn ngữ trực tuyến hợp pháp",
+      "bullets": [
+        "Đề xuất luật mới nhằm ngăn chặn áp lực chính phủ silencing ngôn ngữ trực tuyến hợp pháp",
+        "Luật này sẽ bảo vệ người dùng mạng xã hội khỏi bị cấm hoặc xóa tài khoản vì lý do chính trị",
+        "Mục tiêu của luật này là bảo vệ tự do ngôn luận trực tuyến và ngăn chặn sự can thiệp của chính phủ",
+        "Đề xuất luật này được đưa ra trong bối cảnh lo ngại về sự can thiệp của chính phủ vào ngôn ngữ trực tuyến"
+      ],
+      "full_summary": "Một nhóm nghị sĩ Mỹ đã đề xuất một luật mới nhằm chống lại áp lực chính phủ silencing ngôn ngữ trực tuyến hợp pháp. Luật này sẽ bảo vệ người dùng mạng xã hội khỏi bị cấm hoặc xóa tài khoản vì lý do chính trị. Mục tiêu của luật này là bảo vệ tự do ngôn luận trực tuyến và ngăn chặn sự can thiệp của chính phủ. Đề xuất luật này được đưa ra trong bối cảnh lo ngại về sự can thiệp của chính phủ vào ngôn ngữ trực tuyến.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b891af905848",
       "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
@@ -635,165 +795,6 @@
         "Đến nay vẫn chưa có thông tin chính thức về vụ việc"
       ],
       "full_summary": "Một sự kiện bất ngờ đã xảy ra tại Harajuku, Tokyo vào năm 2024. Sự kiện này đã thu hút sự chú ý của công chúng và gây ra nhiều đồn đoán. Tuy nhiên, đến nay vẫn chưa có thông tin chính thức về vụ việc. Sự kiện này đã trở thành một chủ đề nóng trên các phương tiện truyền thông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c24bf647fe4d",
-      "title": "Weapons, money and ships: How is this Iran deal different from others?",
-      "url": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T14:52:55.108414+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ và Iran đạt thỏa thuận mới về vũ khí, tiền bạc và tàu thuyền",
-      "bullets": [
-        "Đàm phán mới giữa Mỹ và Iran tập trung vào việc kiểm soát vũ khí hạt nhân",
-        "Thỏa thuận này cho phép Iran nhận được 3,5 tỷ USD tiền và 32 triệu lít xăng",
-        "Hai bên cũng đồng ý về việc Iran không phát triển tàu thuyền hạt nhân",
-        "Thỏa thuận này được xem là khác biệt so với các thỏa thuận trước đây"
-      ],
-      "full_summary": "Mỹ và Iran vừa đạt được thỏa thuận mới về vũ khí hạt nhân, tiền bạc và tàu thuyền. Thỏa thuận này cho phép Iran nhận được 3,5 tỷ USD tiền và 32 triệu lít xăng. Ngoài ra, hai bên cũng đồng ý về việc Iran không phát triển tàu thuyền hạt nhân. Thỏa thuận này được xem là khác biệt so với các thỏa thuận trước đây giữa hai quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dce07c63efd6",
-      "title": "Hegseth says some Nato allies will fail as he announces US review of Europe forces",
-      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T14:52:56.174156+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Bộ trưởng Quốc phòng Mỹ dự đoán một số đồng minh NATO sẽ thất bại",
-      "bullets": [
-        "Mỹ đang xem xét lại lực lượng quân sự tại châu Âu",
-        "Bộ trưởng Quốc phòng Hegseth dự đoán một số đồng minh NATO sẽ thất bại",
-        "Mỹ quyết định giảm cam kết với lực lượng sẵn sàng chiến đấu trong NATO",
-        "Cái này sẽ ảnh hưởng đến an ninh châu Âu"
-      ],
-      "full_summary": "Bộ trưởng Quốc phòng Mỹ, Hegseth, đã tuyên bố Mỹ sẽ xem xét lại lực lượng quân sự tại châu Âu. Ông dự đoán một số đồng minh NATO sẽ thất bại. Việc này diễn ra sau quyết định của Mỹ về việc giảm cam kết với lực lượng sẵn sàng chiến đấu trong NATO. Điều này sẽ ảnh hưởng đến an ninh châu Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68615b4299c9",
-      "title": "British man dies in paragliding accident in Spain",
-      "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T14:52:57.238447+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Một người đàn ông 63 tuổi ở Anh đã tử vong trong một vụ tai nạn khi lướt khí ở Tây Ban Nha",
-      "bullets": [
-        "Xác nhận một người đàn ông 63 tuổi tử vong ở Palau de Noguera",
-        "Vụ tai nạn xảy ra vào thứ Ba",
-        "Nguồn tin từ Catalonia xác nhận thông tin",
-        "Người đàn ông là một người dân Anh"
-      ],
-      "full_summary": "Một người đàn ông 63 tuổi ở Anh đã tử vong trong một vụ tai nạn khi lướt khí ở Tây Ban Nha. Vụ tai nạn xảy ra ở Palau de Noguera, Catalonia. Nguồn tin từ Catalonia xác nhận thông tin. Người đàn ông là một người dân Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1f19a6abe06",
-      "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
-      "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T14:52:58.269434+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hạm đội bóng tối Nga vào vùng biển Anh",
-      "bullets": [
-        "Đầu tiên, một tàu chở dầu của Nga đã vào vùng biển Anh.",
-        "Tàu này rời cảng Primorsk tuần trước.",
-        "Tàu có tên là Forwarder.",
-        "Động thái này diễn ra sau vụ tấn công tàu Smyrtos."
-      ],
-      "full_summary": "Một tàu chở dầu của Nga, Forwarder, đã vào vùng biển Anh vào tối thứ Ba. Tàu này rời cảng Primorsk, Nga, tuần trước. Động thái này diễn ra sau vụ tấn công tàu Smyrtos của Nga. Việc này đã gây ra lo ngại về sự hiện diện của hạm đội bóng tối Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4803715095f3",
-      "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
-      "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T14:52:59.438839+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar công bố ngày đặt hàng trước GTA 6",
-      "bullets": [
-        "Bắt đầu đặt hàng trước GTA 6 vào ngày 25 tháng 6",
-        "Rockstar tiết lộ hình ảnh bìa của GTA 6",
-        "Đến ngày 25 tháng 6, người dùng có thể đặt hàng trước",
-        "GTA 6 được mong đợi là một trong những trò chơi điện tử lớn nhất năm nay"
-      ],
-      "full_summary": "Rockstar đã công bố ngày đặt hàng trước của GTA 6, một trong những trò chơi điện tử được mong đợi nhất năm nay. Hình ảnh bìa của trò chơi cũng đã được tiết lộ. Người dùng có thể bắt đầu đặt hàng trước vào ngày 25 tháng 6. GTA 6 được cho là sẽ là một trong những trò chơi điện tử lớn nhất năm nay.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7cb2f316494f",
-      "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
-      "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T14:53:00.455723+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhà soạn nhạc jazz Abdullah Ibrahim qua đời ở tuổi 91",
-      "bullets": [
-        "Được gia đình thông báo qua một tuyên bố",
-        "Sự ra đi của ông diễn ra trong một thời gian ngắn sau khi bị ốm",
-        "Abdullah Ibrahim đã thu âm hơn 70 album trong sự nghiệp",
-        "Ông qua đời một cách yên bình ở Đức"
-      ],
-      "full_summary": "Nhà soạn nhạc jazz và nghệ sĩ dương cầm nổi tiếng Abdullah Ibrahim đã qua đời ở tuổi 91. Ông qua đời một cách yên bình ở Đức sau một thời gian ngắn bị ốm. Abdullah Ibrahim đã thu âm hơn 70 album trong sự nghiệp của mình và được coi là một trong những nhạc sĩ jazz hàng đầu của Nam Phi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "595379e4a501",
-      "title": "Cosmonaut Aleksandr Samokutyaev, 56, is first former ISS crew member to die",
-      "url": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-18T14:53:01.486939+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Cựu phi hành gia ISS Aleksandr Samokutyaev qua đời ở tuổi 56",
-      "bullets": [
-        "Đã tham gia 2 chuyến thám hiểm không gian",
-        "Thực hiện 2 lần đi bộ ngoài không gian",
-        "Đã ở trong không gian 322 ngày",
-        "Là người đầu tiên trong số các phi hành gia ISS đã qua đời"
-      ],
-      "full_summary": "Aleksandr Samokutyaev, cựu phi hành gia ISS, đã qua đời ở tuổi 56. Ông đã tham gia 2 chuyến thám hiểm không gian và thực hiện 2 lần đi bộ ngoài không gian. Tổng thời gian ông ở trong không gian là 322 ngày. Đây là người đầu tiên trong số các phi hành gia ISS đã qua đời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6676f134adf4",
-      "title": "Drowning Doesn't Look Like Drowning (2021)",
-      "url": "https://gcaptain.com/drowning/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-18T14:53:05.127292+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Lặn không giống như ngập nước: cảnh báo nguy hiểm",
-      "bullets": [
-        "Ngập nước không phải lúc nào cũng rõ ràng",
-        "Nhiều trường hợp ngập nước không có biểu hiện nổi bật",
-        "Cần nhận biết sớm để cứu giúp kịp thời"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã chia sẻ cảnh báo về ngập nước. Ngập nước không phải lúc nào cũng rõ ràng, nhiều trường hợp không có biểu hiện nổi bật. Điều này khiến người ta khó nhận biết và cứu giúp kịp thời. Bài viết đã chia sẻ một số ví dụ về ngập nước không rõ ràng và cảnh báo mọi người cần nhận biết sớm để cứu giúp.",
       "comments": 0,
       "score": 0
     }
