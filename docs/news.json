@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-06-20T08:45:19.117527+00:00",
+  "updated_at": "2026-06-20T13:45:43.048809+00:00",
   "articles": [
+    {
+      "id": "f9f9476eb0a2",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T13:45:29.007861+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel và Hezbollah tiếp tục bắn đạn dù có thỏa thuận ngừng bắn",
+      "bullets": [
+        "Israel tấn công mục tiêu Hezbollah ở miền nam Lebanon",
+        "Hezbollah bắn hơn 50 phát đạn vào lực lượng Israel",
+        "Cáo buộc về cái chết ở miền nam Lebanon",
+        "Israel tuyên bố tấn công mục tiêu khủng bố"
+      ],
+      "full_summary": "Israel và Hezbollah tiếp tục bắn đạn dù có thỏa thuận ngừng bắn. Israel tuyên bố đã tấn công mục tiêu Hezbollah ở miền nam Lebanon sau khi nhóm này bắn hơn 50 phát đạn vào lực lượng Israel. Cáo buộc về cái chết ở miền nam Lebanon đã được đưa ra. Israel cho biết đã tấn công mục tiêu khủng bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "02df60b6781c",
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T13:45:29.921460+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một du khách tử vong trong vụ hỏa hoạn tại khu nghỉ dưỡng sang trọng ở Cộng hòa Dominica",
+      "bullets": [
+        "Hơn 1.700 người được sơ tán khỏi vụ hỏa hoạn lớn tại Viva Wyndham Dominicus Beach",
+        "Vụ hỏa hoạn xảy ra tại khu nghỉ dưỡng thị trấn Bayahibe trên bờ biển Caribbean",
+        "Du khách tử vong trong vụ hỏa hoạn tại khu nghỉ dưỡng sang trọng"
+      ],
+      "full_summary": "Một vụ hỏa hoạn lớn đã xảy ra tại khu nghỉ dưỡng Viva Wyndham Dominicus Beach ở Cộng hòa Dominica, khiến hơn 1.700 người phải sơ tán. Vụ hỏa hoạn đã khiến một du khách tử vong. Khu nghỉ dưỡng này nằm ở thị trấn Bayahibe trên bờ biển Caribbean.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c7ba2bfb4543",
+      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+      "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T13:45:30.841505+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch cơ quan giám sát dữ liệu Anh từ chức vì sử dụng hài hước không phù hợp",
+      "bullets": [
+        "Chủ tịch cơ quan giám sát dữ liệu Anh từ chức",
+        "Ông đã làm việc tại vị trí này từ tháng 1 năm 2022",
+        "Ông thừa nhận đã sử dụng hài hước không phù hợp",
+        "Cơ quan giám sát dữ liệu Anh chịu trách nhiệm giám sát dữ liệu và trí tuệ nhân tạo"
+      ],
+      "full_summary": "Chủ tịch cơ quan giám sát dữ liệu Anh, Edwards, đã từ chức sau khi thừa nhận đã sử dụng hài hước không phù hợp. Ông đã làm việc tại vị trí này từ tháng 1 năm 2022. Cơ quan giám sát dữ liệu Anh chịu trách nhiệm giám sát dữ liệu và trí tuệ nhân tạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b30b13256b40",
+      "title": "The artificial ice pyramids saving India's mountain villages",
+      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T13:45:31.767167+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Himalaya: Các làng tạo ra băng nhân tạo để đảm bảo nước cho mùa xuân",
+      "bullets": [
+        "Tạo ra băng nhân tạo để cung cấp nước cho mùa xuân",
+        "Cải thiện nguồn nước cho các trang trại",
+        "Giảm thiểu tác động của biến đổi khí hậu",
+        "Hỗ trợ phát triển bền vững cho các làng núi"
+      ],
+      "full_summary": "Các làng ở dãy Himalaya đang tạo ra băng nhân tạo để đảm bảo nước cho mùa xuân. Kỹ thuật này giúp cung cấp nước cho các trang trại và giảm thiểu tác động của biến đổi khí hậu. Các làng này đang sử dụng công nghệ để tạo ra băng nhân tạo, giúp họ có nước cho mùa xuân và giảm thiểu tác động của khô hạn. Kỹ thuật này cũng hỗ trợ phát triển bền vững cho các làng núi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52cfd190278b",
+      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T13:45:32.751614+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "AI sẽ tạo ra nhiều việc làm cho con người, theo Bezos",
+      "bullets": [
+        "Tuyên bố của Bezos: AI sẽ tạo ra thiếu hụt lao động",
+        "Founder Amazon tin rằng AI sẽ tạo ra nhiều cơ hội việc làm mới",
+        "AI sẽ thay đổi cách con người làm việc, nhưng không thay thế họ",
+        "Bezos tin rằng AI sẽ giúp con người trở nên sáng tạo hơn"
+      ],
+      "full_summary": "Jeff Bezos, người sáng lập Amazon, vừa phát biểu rằng AI sẽ tạo ra nhiều việc làm cho con người, không phải thay thế họ. Ông tin rằng AI sẽ tạo ra thiếu hụt lao động và giúp con người trở nên sáng tạo hơn. Bezos, người hiện đang có các công ty về robot và du hành vũ trụ, cho rằng AI sẽ thay đổi cách con người làm việc, nhưng không thay thế họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "efafeeca4f58",
+      "title": "What to study in the AI age - from big tech bosses",
+      "url": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T13:45:33.788543+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cá nhân cần học những gì để thích nghi với kỷ nguyên AI?",
+      "bullets": [
+        "Học cách tự động hóa công việc để tăng hiệu suất",
+        "Phát triển kỹ năng phân tích dữ liệu và giải quyết vấn đề",
+        "Tìm hiểu về trí tuệ nhân tạo và ứng dụng thực tế",
+        "Cập nhật kiến thức về công nghệ và xu hướng mới"
+      ],
+      "full_summary": "Sundar Pichai, Jensen Huang và Jack Clark, những người đứng đầu các công ty công nghệ hàng đầu, đã chia sẻ lời khuyên của họ với BBC. Họ cho rằng trong kỷ nguyên AI, con người cần học cách tự động hóa công việc để tăng hiệu suất, phát triển kỹ năng phân tích dữ liệu và giải quyết vấn đề, tìm hiểu về trí tuệ nhân tạo và ứng dụng thực tế, cũng như cập nhật kiến thức về công nghệ và xu hướng mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a37392e54bf",
+      "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+      "url": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T13:45:37.573217+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "NASA yêu cầu Northrop Grumman dừng phát triển mô-đun HALO mặt trăng",
+      "bullets": [
+        "NASA yêu cầu Northrop Grumman dừng phát triển mô-đun HALO mặt trăng",
+        "Mô-đun này được dự định là một phần của chương trình Gateway của NASA",
+        "NASA sẽ tái phân công nhân viên bị ảnh hưởng sang các chương trình khác"
+      ],
+      "full_summary": "NASA đã yêu cầu Northrop Grumman dừng phát triển mô-đun HALO mặt trăng, một phần của chương trình Gateway trị giá 1,1 tỷ USD. Mô-đun này được dự định là nơi ở cho các nhà du hành trong các sứ mệnh mặt trăng. Tuy nhiên, NASA đã quyết định không tiếp tục phát triển mô-đun này và sẽ tái phân công nhân viên bị ảnh hưởng sang các chương trình khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e552aeb651a2",
+      "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+      "url": "https://www.nature.com/articles/s41586-026-10812-0",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-06-20T13:45:42.548650+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Tế bào tự hủy để ngăn chặn sự bất ổn nhiễm sắc thể",
+      "bullets": [
+        "Tế bào tự hủy hạn chế sự bất ổn nhiễm sắc thể",
+        "Quá trình tự hủy tế bào liên quan đến quá trình tự hủy vật chất",
+        "Tế bào tự hủy giúp ngăn chặn sự bất ổn nhiễm sắc thể trong khủng hoảng nhân đôi",
+        "Quá trình tự hủy tế bào có thể giúp ngăn chặn ung thư"
+      ],
+      "full_summary": "Một nghiên cứu mới trên tạp chí Nature cho thấy tế bào tự hủy có thể giúp ngăn chặn sự bất ổn nhiễm sắc thể trong quá trình nhân đôi tế bào. Quá trình tự hủy tế bào liên quan đến quá trình tự hủy vật chất và giúp ngăn chặn sự bất ổn nhiễm sắc thể. Điều này có thể giúp ngăn chặn sự phát triển của ung thư.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3b2782611aa5",
       "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
@@ -636,166 +794,6 @@
         "Nữ diễn viên Anh Emaa Hussen bị bắt giữ"
       ],
       "full_summary": "Nữ diễn viên Anh Emaa Hussen, 34 tuổi, bị cáo buộc vận chuyển 320kg ma túy vào Úc. Theo cáo buộc, ma túy được giấu trong các túi than. Nếu bị kết tội, Emaa Hussen có thể phải ngồi tù suốt đời. Cáo buộc nhập khẩu ma túy trị giá gần 300 triệu đô la Úc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c4140807fe6d",
-      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
-      "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:32.455845+00:00",
-      "category": "economy",
-      "importance": 5,
-      "headline": "Ambani công bố kế hoạch bán cổ phần lớn nhất Ấn Độ",
-      "bullets": [
-        "Đại gia Ambani dự kiến bán cổ phần trị giá 4 tỷ USD",
-        "Số tiền này có thể là lớn nhất trong lịch sử bán cổ phần của Ấn Độ",
-        "Kế hoạch này sẽ giúp tăng vốn cho công ty viễn thông lớn nhất Ấn Độ",
-        "Các báo cáo cho biết Ambani sẽ bán cổ phần trong công ty viễn thông của mình"
-      ],
-      "full_summary": "Ambani, người giàu nhất châu Á, vừa công bố kế hoạch bán cổ phần lớn nhất Ấn Độ. Theo báo cáo, số tiền bán cổ phần này có thể lên đến 4 tỷ USD, một con số lớn nhất trong lịch sử bán cổ phần của Ấn Độ. Kế hoạch này sẽ giúp tăng vốn cho công ty viễn thông lớn nhất Ấn Độ, Jio. Các báo cáo cho biết Ambani sẽ bán cổ phần trong công ty viễn thông của mình để tăng vốn và mở rộng hoạt động kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "940827f36af4",
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "url": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:33.516954+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
-      "bullets": [
-        "Rockstar đang phát triển GTA 6",
-        "Trò chơi này sẽ là bản phát hành lớn nhất năm nay",
-        "GTA 6 sẽ tiếp tục xu hướng của loạt game",
-        "Chi tiết về trò chơi vẫn chưa được tiết lộ"
-      ],
-      "full_summary": "Rockstar đang phát triển GTA 6, trò chơi điện tử lớn nhất năm nay. Mặc dù vẫn chưa có thông tin chi tiết, nhưng nhiều người hâm mộ đang mong chờ bản phát hành này. GTA 6 sẽ tiếp tục xu hướng của loạt game, mang đến cho người chơi những trải nghiệm mới mẻ và thú vị. Rockstar đã không công bố bất kỳ thông tin nào về trò chơi này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d5b1bcf5718f",
-      "title": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
-      "url": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:35.914924+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Titan submersible gặp tai nạn do lỗi thiết kế và tư duy nhóm",
-      "bullets": [
-        "Khám phá ra lỗi cấu trúc trong vật liệu dùng cho vỏ tàu",
-        "Công ty không thử nghiệm đầy đủ thiết kế mới mẻ",
-        "Tư duy nhóm và thiên vị xác nhận ảnh hưởng đến quyết định",
-        "Tàu bị mất tích trong chuyến đi cuối cùng"
-      ],
-      "full_summary": "Theo báo cáo của chính quyền Canada, tàu ngầm Titan gặp tai nạn do lỗi thiết kế và tư duy nhóm của công ty. Tàu 6,7 mét này đã chìm xuống đáy Đại Tây Dương vào tháng 6 năm 2023, khiến 5 hành khách mất tích. Báo cáo cho biết công ty đã không thử nghiệm đầy đủ thiết kế mới mẻ và bị ảnh hưởng bởi tư duy nhóm và thiên vị xác nhận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b433f1575ff0",
-      "title": "As China looms, Taiwan makes more drones for defense and the US military",
-      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-19T14:48:40.770061+00:00",
-      "category": "politics|technology",
-      "importance": 4,
-      "headline": "Đài Loan tăng sản xuất máy bay không người lái cho quốc phòng và quân đội Mỹ",
-      "bullets": [
-        "Tăng cường sản xuất máy bay không người lái cho quốc phòng",
-        "Phát triển máy bay không người lái cho quân đội Mỹ",
-        "Tăng cường hợp tác kinh doanh quốc tế",
-        "Đáp trả đe dọa của Trung Quốc"
-      ],
-      "full_summary": "Đài Loan đang tăng cường sản xuất máy bay không người lái để đáp trả đe dọa của Trung Quốc. Theo Ars Technica, Đài Loan đã tăng ngân sách cho sản xuất máy bay không người lái để tăng cường quốc phòng. Điều này không chỉ giúp Đài Loan tăng cường khả năng phòng thủ mà còn tạo cơ hội cho doanh nghiệp Đài Loan phát triển kinh doanh quốc tế. Việc này cũng có thể giúp quân đội Mỹ có thêm nguồn cung cấp máy bay không người lái.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8c5b9cd8b3fb",
-      "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
-      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:33.739521+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hoa Kỳ và Iran hoãn cuộc đàm phán",
-      "bullets": [
-        "Hoa Kỳ và Iran hoãn cuộc đàm phán tại Thụy Sĩ",
-        "Sự cố này diễn ra sau khi Vance rút khỏi chuyến đi",
-        "Căng thẳng leo thang ở Lebanon dẫn đến 18 người chết",
-        "IDF báo cáo 4 binh sĩ chết trong cuộc xung đột"
-      ],
-      "full_summary": "Hoa Kỳ và Iran đã hoãn cuộc đàm phán tại Thụy Sĩ sau khi Vance rút khỏi chuyến đi. Sự cố này diễn ra trong bối cảnh căng thẳng leo thang ở Lebanon, nơi 18 người đã chết trong các cuộc xung đột. Mặc dù một truce đã được đề xuất, nhưng IDF vẫn báo cáo 4 binh sĩ chết trong cuộc xung đột.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "56e7464ec7ba",
-      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:34.805847+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Israel tấn công Lebanon, 18 người thiệt mạng",
-      "bullets": [
-        "Israel tiến hành các vụ tấn công vào Lebanon",
-        "18 người Lebanon thiệt mạng do các vụ tấn công",
-        "Israel tuyên bố 4 binh sĩ bị Hezbollah giết",
-        "Hôm qua, Mỹ và Iran ký thỏa thuận chấm dứt xung đột"
-      ],
-      "full_summary": "Israel tiến hành các vụ tấn công vào Lebanon sau khi Mỹ và Iran ký thỏa thuận chấm dứt xung đột. Các vụ tấn công khiến 18 người Lebanon thiệt mạng. Israel tuyên bố 4 binh sĩ bị Hezbollah giết. Sự cố xảy ra trong bối cảnh căng thẳng giữa Israel và Hezbollah vẫn còn cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b7225fca4332",
-      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:35.897401+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ giới chỉ trích đàn ông Nhật Bản vì phân biệt công việc nhà và công việc ngoài",
-      "bullets": [
-        "Nữ giới Nhật Bản chỉ trích đàn ông vì làm công việc vệ sinh công cộng",
-        "Trong khi đó, họ lại để vợ làm hết công việc nhà",
-        "Phân biệt này khiến nhiều người thấy có sự bất công",
-        "Nhiều người cho rằng đàn ông Nhật Bản cần thay đổi quan điểm về công việc nhà"
-      ],
-      "full_summary": "Một số người Nhật Bản đã bị chỉ trích vì làm công việc vệ sinh công cộng trong thời gian World Cup, trong khi vợ họ lại phải làm hết công việc nhà. Điều này khiến nhiều người thấy có sự bất công và cho rằng đàn ông Nhật Bản cần thay đổi quan điểm về công việc nhà.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "785b0c7d3571",
-      "title": "Zimbabwe MPs pass bill to extend president's time in power",
-      "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:36.900636+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạ viện Zimbabwe thông qua dự luật kéo dài nhiệm kỳ tổng thống",
-      "bullets": [
-        "Thông qua dự luật kéo dài nhiệm kỳ tổng thống Emmerson Mnangagwa thêm 2 năm",
-        "Bỏ bỏ bầu cử tổng thống trực tiếp",
-        "Dự luật này sẽ được gửi đến Thượng viện",
-        "Tổng thống Mnangagwa có thể giữ quyền lực lâu hơn"
-      ],
-      "full_summary": "Hạ viện Zimbabwe đã thông qua dự luật kéo dài nhiệm kỳ tổng thống Emmerson Mnangagwa thêm 2 năm và bỏ bỏ bầu cử tổng thống trực tiếp. Dự luật này sẽ được gửi đến Thượng viện để xem xét. Dự luật này được đưa ra sau khi tổng thống Mnangagwa đã đề xuất kéo dài nhiệm kỳ của mình. Nếu dự luật được thông qua, tổng thống Mnangagwa sẽ có thể giữ quyền lực lâu hơn.",
       "comments": 0,
       "score": 0
     }
