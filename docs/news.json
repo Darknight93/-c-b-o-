@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-19T19:30:00.647883+00:00",
+  "updated_at": "2026-06-20T02:43:02.258192+00:00",
   "articles": [
+    {
+      "id": "1f6bba7c0f70",
+      "title": "New video game console aims to get kids moving",
+      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T02:42:48.549135+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một máy chơi game mới khuyến khích trẻ em vận động",
+      "bullets": [
+        "Sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6",
+        "Máy chơi game có hình dạng khối lập phương",
+        "Giá bán của máy là £269 (€319)",
+        "Mục tiêu là khuyến khích trẻ em vận động khi chơi game"
+      ],
+      "full_summary": "Một máy chơi game mới được thiết kế để khuyến khích trẻ em vận động khi chơi game. Máy chơi game có hình dạng khối lập phương sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6 với giá £269 (€319). Mục tiêu của máy chơi game này là khuyến khích trẻ em vận động khi chơi game thay vì chỉ ngồi chơi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4803715095f3",
+      "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
+      "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T02:42:49.437271+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Rockstar công bố ngày đặt hàng trước GTA 6",
+      "bullets": [
+        "Công bố ngày đặt hàng trước GTA 6 là 25 tháng 6",
+        "Rockstar tiết lộ hình bìa của GTA 6",
+        "Người hâm mộ đã chờ đợi game này nhiều năm",
+        "GTA 6 được xem là một trong những game điện tử được mong chờ nhất"
+      ],
+      "full_summary": "Rockstar Games đã công bố ngày đặt hàng trước cho game điện tử GTA 6. Người hâm mộ đã chờ đợi game này nhiều năm. Hình bìa của GTA 6 cũng đã được tiết lộ. Người chơi có thể đặt hàng trước game này từ ngày 25 tháng 6.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0e7996621dc4",
+      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T02:42:50.556333+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Bán lẻ cần sa làm tăng số người sử dụng và vấn đề tâm thần",
+      "bullets": [
+        "Tăng số người sử dụng cần sa sau khi bán lẻ được cho phép",
+        "Số người mắc chứng rối loạn tâm thần tăng lên",
+        "Nghiên cứu cho thấy bán lẻ cần sa không giảm số người sử dụng",
+        "Thay vào đó, nó làm tăng số người sử dụng và vấn đề tâm thần"
+      ],
+      "full_summary": "Một nghiên cứu vừa công bố cho thấy bán lẻ cần sa không giảm số người sử dụng như nhiều người nghĩ. Thay vào đó, nó làm tăng số người sử dụng và số người mắc chứng rối loạn tâm thần. Nghiên cứu này được thực hiện bởi một nhóm quốc tế và phân tích chính sách về cần sa từ năm 2000 đến 2025. Kết quả cho thấy bán lẻ cần sa không phải là giải pháp tốt cho vấn đề sử dụng cần sa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a07fcd349948",
+      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+      "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T02:42:51.443016+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Blue Origin bắt đầu xây dựng lại cơ sở phóng tên lửa",
+      "bullets": [
+        "Blue Origin bắt đầu xây dựng lại cơ sở phóng tên lửa New Armstrong",
+        "Relativity Space đặt mục tiêu đến Mặt Trăng",
+        "Một công ty phóng tên lửa Pháp đang thay đổi tên lửa do vấn đề bản quyền",
+        "Cơ sở phóng tên lửa của Blue Origin bị hư hỏng sau vụ nổ"
+      ],
+      "full_summary": "Blue Origin đã bắt đầu xây dựng lại cơ sở phóng tên lửa New Armstrong sau vụ nổ xảy ra vào tháng 5. Trong khi đó, Relativity Space đang đặt mục tiêu đến Mặt Trăng bằng cách phóng tên lửa Space Launch System (SLS). Một công ty phóng tên lửa Pháp đã thay đổi tên lửa do vấn đề bản quyền. Cơ sở phóng tên lửa của Blue Origin bị hư hỏng nghiêm trọng và cần được sửa chữa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "da18d1a473d4",
+      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T02:42:52.484636+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Các nhà khoa học tìm kiếm rạn san hô có thể chống chịu với sự nóng lên toàn cầu",
+      "bullets": [
+        "Tìm kiếm các rạn san hô mạnh mẽ để giúp tái lập các rạn san hô bị suy thoái",
+        "Nghiên cứu các yếu tố giúp rạn san hô tồn tại trong môi trường nóng lên",
+        "Hy vọng các rạn san hô mạnh mẽ sẽ giúp bảo tồn hệ sinh thái biển",
+        "Tìm kiếm các phương pháp bảo tồn và tái lập rạn san hô bị suy thoái"
+      ],
+      "full_summary": "Các nhà khoa học đang tìm kiếm các rạn san hô mạnh mẽ để giúp bảo tồn hệ sinh thái biển trước tác động của sự nóng lên toàn cầu. Các rạn san hô mạnh mẽ này có thể giúp tái lập các rạn san hô bị suy thoái và bảo tồn hệ sinh thái biển. Nghiên cứu đang được thực hiện để tìm kiếm các yếu tố giúp rạn san hô tồn tại trong môi trường nóng lên. Các phương pháp bảo tồn và tái lập rạn san hô bị suy thoái cũng đang được tìm kiếm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a33a0899ed18",
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
+      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T02:42:53.476806+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Missions vệ tinh cứu hộ diễn ra nhanh chóng, liệu sẽ thành công?",
+      "bullets": [
+        "Tổ chức cứu hộ vệ tinh diễn ra trong thời gian kỷ lục.",
+        "Đội ngũ tham gia cứu hộ vệ tinh được đánh giá cao về kỹ năng và kinh nghiệm.",
+        "Mục tiêu của sứ mệnh này là cứu hộ vệ tinh đang gặp vấn đề.",
+        "Sự thành công của sứ mệnh này vẫn còn phụ thuộc vào nhiều yếu tố."
+      ],
+      "full_summary": "Một sứ mệnh cứu hộ vệ tinh được tổ chức trong thời gian kỷ lục đã thu hút sự chú ý của nhiều người. Mục tiêu của sứ mệnh này là cứu hộ vệ tinh đang gặp vấn đề. Đội ngũ tham gia cứu hộ vệ tinh được đánh giá cao về kỹ năng và kinh nghiệm. Tuy nhiên, sự thành công của sứ mệnh này vẫn còn phụ thuộc vào nhiều yếu tố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a0a6155b0f19",
+      "title": "How to feed a dictator",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-20T02:42:56.239556+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Phim 'How to Feed a Dictator' mô tả cách thức duy trì quyền lực của các nhà lãnh đạo độc tài.",
+      "bullets": [
+        "Mô tả cách các nhà lãnh đạo độc tài duy trì quyền lực thông qua sự sợ hãi và kiểm soát.",
+        "Phim này dựa trên câu chuyện của một nhà báo người Canada.",
+        "Câu chuyện khám phá cách các nhà lãnh đạo độc tài sử dụng các chiến thuật để duy trì quyền lực.",
+        "Phim này cũng đề cập đến vấn đề nhân quyền và tự do báo chí."
+      ],
+      "full_summary": "Phim 'How to Feed a Dictator' là một bộ phim tài liệu mới được phát hành, mô tả cách thức duy trì quyền lực của các nhà lãnh đạo độc tài. Bộ phim này dựa trên câu chuyện của một nhà báo người Canada, người đã trải qua những kinh nghiệm khó khăn khi làm việc trong các quốc gia độc tài. Câu chuyện khám phá cách các nhà lãnh đạo độc tài sử dụng các chiến thuật để duy trì quyền lực, bao gồm sự sợ hãi và kiểm soát. Bộ phim cũng đề cập đến vấn đề nhân quyền và tự do báo chí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ed6d478ad327",
+      "title": "A long-lived butterfly’s secret to graceful ageing",
+      "url": "https://www.nature.com/articles/d41586-026-01948-0",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-06-20T02:43:01.758042+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Rệp cánh dài tuổi thọ nhờ ăn pollen",
+      "bullets": [
+        "Cung cấp pollen làm tăng tuổi thọ của rệp cánh",
+        "Loài rệp cánh trong chi Heliconius sống lâu nhất",
+        "Dinh dưỡng từ pollen giúp rệp cánh tránh bị lão hóa"
+      ],
+      "full_summary": "Một nghiên cứu mới trên tạp chí Nature cho thấy loài rệp cánh trong chi Heliconius sống lâu nhất nhờ ăn pollen. Các nhà khoa học đã phát hiện ra rằng rệp cánh này có thể sống đến 12 tháng, trong khi nhiều loài khác chỉ sống được vài tuần. Điều này cho thấy rằng pollen có thể giúp rệp cánh tránh bị lão hóa và tăng tuổi thọ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ae591aa00ce8",
       "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
@@ -636,165 +795,6 @@
         "NASA đang tìm kiếm các giải pháp thay thế"
       ],
       "full_summary": "NASA đã yêu cầu Northrop Grumman dừng phát triển mô-đun HALO Mặt Trăng, một phần của dự án Gateway. Mô-đun này trị giá hơn 1 tỷ USD và được dự kiến sẽ là nơi ở cho các nhà du hành vũ trụ trên Mặt Trăng. Tuy nhiên, NASA đã quyết định chuyển hướng dự án này và sẽ tìm kiếm các giải pháp thay thế. Các nhân viên bị ảnh hưởng sẽ được chuyển sang các dự án khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23d30a1ea89d",
-      "title": "US lifts naval blockade after Iran deal signed",
-      "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T20:14:35.414678+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạm đội Mỹ dỡ bỏ phong tỏa sau khi Iran ký thỏa thuận",
-      "bullets": [
-        "Mỹ dỡ bỏ phong tỏa hạm đội sau khi Iran ký thỏa thuận",
-        "Thỏa thuận được ký kết sau nhiều năm đàm phán căng thẳng",
-        "Lãnh đạo tối cao Iran nói ông không đồng ý với thỏa thuận này",
-        "Cựu Tổng thống Mỹ Donald Trump ký thỏa thuận 'do khát khao'"
-      ],
-      "full_summary": "Hạm đội Mỹ đã dỡ bỏ phong tỏa sau khi Iran ký thỏa thuận với Mỹ. Thỏa thuận này được ký kết sau nhiều năm đàm phán căng thẳng và có sự tham gia của nhiều quốc gia. Tuy nhiên, lãnh đạo tối cao Iran đã nói ông không đồng ý với thỏa thuận này. Cựu Tổng thống Mỹ Donald Trump cũng đã ký thỏa thuận này, nhưng ông đã nói rằng ông đã ký 'do khát khao'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bcee081fe300",
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T20:14:36.365615+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chiến tranh Iran không mang lại kết quả mong muốn",
-      "bullets": [
-        "Căng thẳng giữa Mỹ và Iran vẫn chưa giảm",
-        "Cơ quan lãnh đạo Iran vẫn nắm quyền lực",
-        "Chiến tranh không thay đổi được chính sách của Iran",
-        "Mỹ không đạt được mục tiêu trong cuộc chiến"
-      ],
-      "full_summary": "Một thỏa thuận giữa Mỹ và Iran đã làm nổi lên câu hỏi không thể tránh khỏi về mục đích của chiến tranh. Mặc dù chi phí con người rõ ràng, nhưng chính quyền Iran không chỉ sống sót mà còn được mạnh mẽ hơn. Chiến tranh đã không mang lại kết quả mong muốn cho Mỹ. Thay vào đó, Iran vẫn tiếp tục duy trì quyền lực và chính sách của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "76d9749debab",
-      "title": "What Iran and US get from deal and why both could struggle to keep it",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T20:14:37.419464+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran và Mỹ có lợi gì từ thỏa thuận và tại sao cả hai có thể gặp khó khăn trong việc duy trì nó",
-      "bullets": [
-        "Đàm phán giữa Iran và Mỹ đã đạt được thỏa thuận để kết thúc chiến tranh",
-        "Thỏa thuận này mang lại lợi ích cho cả hai bên, nhưng cả hai cũng có thể gặp khó khăn trong việc duy trì nó",
-        "Washington và Tehran đều tuyên bố đã giành chiến thắng trong đàm phán"
-      ],
-      "full_summary": "BBC đã phân tích các tuyên bố của Washington và Tehran về việc đã giành chiến thắng trong đàm phán. Theo các chuyên gia BBC, cả hai bên đều có lợi từ thỏa thuận này, nhưng cả hai cũng có thể gặp khó khăn trong việc duy trì nó. Thỏa thuận này sẽ giúp Iran được phép xuất khẩu dầu mỏ và Mỹ sẽ được phép theo dõi chương trình hạt nhân của Iran. Tuy nhiên, cả hai bên đều có thể gặp khó khăn trong việc duy trì thỏa thuận này do sự khác biệt về quan điểm và lợi ích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b77e337e89d6",
-      "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
-      "url": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T20:14:38.315547+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cha mẹ cháu bé giết 10 người ở Serbia bị phạt tù",
-      "bullets": [
-        "Cha mẹ cháu bé bị kết tội không quản lý con",
-        "Cháu bé 13 tuổi gây ra vụ giết người kinh hoàng",
-        "8 nữ sinh và 2 người khác thiệt mạng tại trường Vladislav Ribnikar",
-        "Hai cha mẹ bị phạt tù trong phiên tòa xét xử lại"
-      ],
-      "full_summary": "Cha mẹ cháu bé 13 tuổi đã giết 10 người tại trường Vladislav Ribnikar ở Belgrade, Serbia vào năm 2023. Trong phiên tòa xét xử lại, hai cha mẹ đã bị kết tội không quản lý con và bị phạt tù. Vụ việc đã gây ra sự phản ứng mạnh mẽ trong xã hội Serbia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c548eee8012a",
-      "title": "Snap unveils £1,995 smart glasses after previous flops",
-      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T20:14:39.227160+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Snap công bố kính thông minh giá 2.000 bảng",
-      "bullets": [
-        "Xuất hiện kính thực tế tăng cường giá 1.995 bảng của công ty mẹ Snapchat",
-        "Kính này dự kiến giao hàng vào mùa thu",
-        "Đây là lần thứ hai công ty này thử nghiệm sản phẩm tương tự",
-        "Sản phẩm trước đó không thành công"
-      ],
-      "full_summary": "Công ty mẹ của Snapchat vừa công bố kính thông minh giá 1.995 bảng, sau hai lần thử nghiệm trước đó không thành công. Kính này được thiết kế để cung cấp trải nghiệm thực tế tăng cường và dự kiến giao hàng vào mùa thu. Đây là lần thứ hai công ty này thử nghiệm sản phẩm tương tự, sau khi sản phẩm trước đó không thành công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50068e712b28",
-      "title": "What is Helium-3 and could we get it from the moon?",
-      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-18T20:14:40.194652+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Nghiên cứu khai thác Heli-3 trên mặt trăng để đáp ứng nhu cầu tăng cao",
-      "bullets": [
-        "Khai thác Heli-3 trên mặt trăng có thể giúp giảm chi phí sản xuất",
-        "Nhu cầu Heli-3 dự kiến tăng cao trong tương lai",
-        "Heli-3 có thể được sử dụng làm nhiên liệu cho các động cơ phản lực",
-        "Nghiên cứu đang được tiến hành để xác định khả năng khai thác Heli-3 trên mặt trăng"
-      ],
-      "full_summary": "Một số công ty đang nghiên cứu khai thác Heli-3 trên mặt trăng để đáp ứng nhu cầu tăng cao của loại nguyên tố này. Heli-3 là một loại nguyên tố quý hiếm có thể được sử dụng làm nhiên liệu cho các động cơ phản lực. Nhu cầu Heli-3 dự kiến tăng cao trong tương lai do chi phí sản xuất hiện đang cao. Các công ty đang tiến hành nghiên cứu để xác định khả năng khai thác Heli-3 trên mặt trăng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8a84b47e770d",
-      "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
-      "url": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-18T20:14:42.863461+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Chính phủ Trump rút lại kế hoạch ngừng giám sát đại dương",
-      "bullets": [
-        "Hủy bỏ kế hoạch ngừng giám sát đại dương",
-        "Chính phủ Trump không cung cấp thông tin về tình trạng hệ thống hiện tại",
-        "Thượng viện đã bỏ phiếu phản đối kế hoạch ngừng giám sát",
-        "Tình hình hiện tại vẫn chưa rõ ràng"
-      ],
-      "full_summary": "Chính phủ Trump đã rút lại kế hoạch ngừng giám sát đại dương sau khi Thượng viện bỏ phiếu phản đối. Mặc dù chính phủ không cung cấp thông tin về tình trạng hệ thống hiện tại, nhưng động thái này cho thấy họ đã thay đổi ý định. Hệ thống giám sát đại dương được thiết lập để theo dõi các vấn đề môi trường và kinh tế ở đại dương. Tuy nhiên, tình hình hiện tại vẫn chưa rõ ràng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e6b12ecf611",
-      "title": "The Harajuku Moment (2024)",
-      "url": "https://tim.blog/2024/02/09/harajuku-moment/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-18T20:14:47.805657+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Harajuku Moment: Sự kiện bất ngờ tại Tokyo",
-      "bullets": [
-        "Xảy ra sự kiện bất ngờ tại Harajuku, Tokyo",
-        "Sự kiện đã thu hút sự chú ý của công chúng",
-        "Cụ thể, sự kiện liên quan đến một vụ việc chưa rõ nguyên nhân",
-        "Đến nay vẫn chưa có thông tin chính thức về vụ việc"
-      ],
-      "full_summary": "Một sự kiện bất ngờ đã xảy ra tại Harajuku, Tokyo vào năm 2024. Sự kiện này đã thu hút sự chú ý của công chúng và gây ra nhiều đồn đoán. Tuy nhiên, đến nay vẫn chưa có thông tin chính thức về vụ việc. Sự kiện này đã trở thành một chủ đề nóng trên các phương tiện truyền thông.",
       "comments": 0,
       "score": 0
     }
