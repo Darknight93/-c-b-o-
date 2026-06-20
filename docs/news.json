@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-20T13:45:43.048809+00:00",
+  "updated_at": "2026-06-20T19:14:31.646268+00:00",
   "articles": [
+    {
+      "id": "15d748b27976",
+      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T19:14:16.562373+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Iran đe dọa đóng Strait of Hormuz vì Israel tấn công Lebanon",
+      "bullets": [
+        "Iran cảnh báo đóng Strait of Hormuz vì Israel tiếp tục tấn công Lebanon",
+        "Israel tấn công Lebanon vi phạm thỏa thuận của Iran với Mỹ",
+        "Iran và Mỹ đã đạt được thỏa thuận để kết thúc chiến tranh",
+        "Tình hình ở Trung Đông trở nên căng thẳng hơn"
+      ],
+      "full_summary": "Iran tuyên bố sẽ đóng Strait of Hormuz nếu Israel tiếp tục tấn công Lebanon. Điều này là do Israel đã vi phạm thỏa thuận của Iran với Mỹ để kết thúc chiến tranh. Iran và Mỹ đã đạt được thỏa thuận này vào tháng trước. Tình hình ở Trung Đông đang trở nên căng thẳng hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9223745b7590",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T19:14:17.570680+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Một nhà bảo vệ rùa Liban bị tấn công bởi Israel",
+      "bullets": [
+        "Một nhà bảo vệ rùa Liban Mona Khalil bị tấn công bởi Israel",
+        "Cô từ chối rời khỏi bãi biển mà cô đã bảo vệ trong nhiều năm",
+        "Cô qua đời do thương tích sau vụ tấn công",
+        "Mona Khalil đã dành nhiều năm để bảo vệ bãi biển và bảo tồn rùa"
+      ],
+      "full_summary": "Mona Khalil, một nhà bảo vệ rùa Liban, đã qua đời do thương tích sau khi bị tấn công bởi Israel. Cô từ chối rời khỏi bãi biển mà cô đã bảo vệ trong nhiều năm. Vụ tấn công đã gây ra sự phẫn nộ trong cộng đồng quốc tế. Mona Khalil đã dành nhiều năm để bảo vệ bãi biển và bảo tồn rùa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d7b6957f9faf",
+      "title": "Bolivian president declares state of emergency",
+      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T19:14:19.535818+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính phủ Bolivia tuyên bố tình trạng khẩn cấp",
+      "bullets": [
+        "Tuyên bố tình trạng khẩn cấp sau tuần lễ biểu tình chống chính phủ",
+        "Căng thẳng khiến Bolivia thiếu hụt hàng hóa thiết yếu",
+        "Chính phủ Bolivia cố gắng khôi phục trật tự và an ninh",
+        "Tình hình vẫn đang diễn biến phức tạp"
+      ],
+      "full_summary": "Chính phủ Bolivia đã tuyên bố tình trạng khẩn cấp sau tuần lễ biểu tình chống chính phủ. Các cuộc biểu tình đã gây ra thiếu hụt hàng hóa thiết yếu và ảnh hưởng đến cuộc sống hàng ngày của người dân. Chính phủ Bolivia đang cố gắng khôi phục trật tự và an ninh, nhưng tình hình vẫn đang diễn biến phức tạp. Các nhà lãnh đạo Bolivia đang tìm cách giải quyết các vấn đề kinh tế và chính trị để ổn định tình hình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4b770e59c50f",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T19:14:20.553097+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Ukraine nhận lại danh hiệu cao nhất của Ba Lan",
+      "bullets": [
+        "Chủ tịch Ukraine Volodymyr Zelensky nhận lại danh hiệu cao nhất của Ba Lan",
+        "Zelensky nói Ukraine sẵn sàng thảo luận về các trang sử đau đớn",
+        "Ukraine và Ba Lan có lịch sử chia rẽ và xung đột",
+        "Zelensky và Tổng thống Ba Lan có cuộc gặp gỡ thân mật"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky đã nhận lại danh hiệu cao nhất của Ba Lan sau khi bị rút lại. Zelensky cho biết Ukraine sẵn sàng thảo luận về các trang sử đau đớn của cả hai nước. Điều này diễn ra sau khi Zelensky và Tổng thống Ba Lan có cuộc gặp gỡ thân mật. Các cuộc thảo luận giữa Ukraine và Ba Lan có ý nghĩa quan trọng trong việc cải thiện quan hệ giữa hai quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "940827f36af4",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "url": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T19:14:21.532514+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
+      "bullets": [
+        "Được phát triển bởi Rockstar, trò chơi điện tử này sẽ là bản phát hành lớn nhất năm nay",
+        "GTA 6 sẽ là trò chơi điện tử thứ sáu trong loạt trò chơi này",
+        "Thông tin chi tiết về trò chơi điện tử này vẫn chưa được công bố rộng rãi",
+        "Trò chơi điện tử này được mong đợi sẽ mang lại nhiều trải nghiệm mới mẻ cho người chơi"
+      ],
+      "full_summary": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay. Trò chơi điện tử này sẽ là bản phát hành lớn nhất năm nay và được phát triển bởi Rockstar. Thông tin chi tiết về trò chơi điện tử này vẫn chưa được công bố rộng rãi. Người hâm mộ đang mong đợi sẽ được trải nghiệm nhiều điều mới mẻ trong trò chơi điện tử này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c6f70cbbb3b",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T19:14:22.467685+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Barbados kêu gọi bồi thường cho nạn nhân nô lệ",
+      "bullets": [
+        "Mia Mottley công bố bản tuyên bố mới về bồi thường cho nạn nhân nô lệ",
+        "Bản tuyên bố nhấn mạnh sự tổn thương đối với phụ nữ châu Phi",
+        "Các nước Caribbean đang xem xét bản tuyên bố này",
+        "UN đã thông qua nghị quyết lịch sử về tội ác chống lại loài người"
+      ],
+      "full_summary": "Chủ tịch Barbados Mia Mottley đã công bố bản tuyên bố mới về bồi thường cho nạn nhân nô lệ. Bản tuyên bố này nhấn mạnh sự tổn thương đối với phụ nữ châu Phi và được các nước Caribbean xem xét. Sự kiện này diễn ra trong bối cảnh Liên Hợp Quốc đã thông qua nghị quyết lịch sử về tội ác chống lại loài người. Đây là bước tiến quan trọng trong việc thúc đẩy công lý reparatory.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f5e47ce467da",
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T19:14:23.450607+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai người đàn ông Nam Phi bị kết án vì buôn bán sừng tê lớn nhất thế giới",
+      "bullets": [
+        "Bị kết án là Dawie Groenewald và Tielman Erasmus",
+        "Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp",
+        "Bị kết án với hình phạt tiền 2 triệu rands hoặc tù giam 4 năm"
+      ],
+      "full_summary": "Hai người đàn ông Nam Phi, Dawie Groenewald và Tielman Erasmus, đã bị kết án trong vụ buôn bán sừng tê lớn nhất thế giới. Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp. Bị kết án với hình phạt tiền 2 triệu rands hoặc tù giam 4 năm, vụ án này đã kết thúc phần lớn sau gần hai thập kỷ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a6f6ad4a9838",
+      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T19:14:26.221101+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Anh Quốc sẽ sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn",
+      "bullets": [
+        "Sẽ sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn",
+        "Công nghệ này đã được thử nghiệm và cho thấy nhiều rủi ro về lỗi xác định tuổi",
+        "Lỗi xác định tuổi có thể dẫn đến hậu quả nghiêm trọng đối với người tị nạn",
+        "Anh Quốc biết về những hạn chế của công nghệ này nhưng vẫn quyết định sử dụng"
+      ],
+      "full_summary": "Anh Quốc đã quyết định sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn, mặc dù công nghệ này đã được thử nghiệm và cho thấy nhiều rủi ro về lỗi xác định tuổi. Các thử nghiệm đã chỉ ra rằng công nghệ này có thể dẫn đến lỗi xác định tuổi, gây hậu quả nghiêm trọng đối với người tị nạn. Mặc dù Anh Quốc biết về những hạn chế của công nghệ này, nhưng họ vẫn quyết định sử dụng nó để xác định tuổi tị nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5c64803751e2",
+      "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
+      "url": "https://news.ycombinator.com/item?id=48611303",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-20T19:14:28.310906+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nghi vấn spam trên GitHub, người dùng chuyển dự án sang đâu?",
+      "bullets": [
+        "Người dùng chuyển dự án sang các nền tảng khác để tránh spam",
+        "GitHub bị ảnh hưởng bởi các PR và yêu cầu spam từ các coder và bot",
+        "Các sao trên GitHub bị đánh giá quá cao",
+        "Người dùng tìm kiếm các nền tảng thay thế cho dự án của mình"
+      ],
+      "full_summary": "Một người dùng đã chia sẻ vấn đề spam trên GitHub, nơi họ đang gặp phải nhiều PR và yêu cầu spam từ các coder và bot. Họ đang tìm kiếm các nền tảng thay thế để chuyển dự án của mình. Vấn đề này đã được thảo luận trên Hacker News với 32 bình luận.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f9f9476eb0a2",
       "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
@@ -614,186 +793,6 @@
         "Quy định mới có thể ảnh hưởng đến các nền tảng mạng xã hội khác"
       ],
       "full_summary": "Chính phủ Anh đã quyết định cấm người dưới 16 tuổi sử dụng các ứng dụng mạng xã hội như Roblox, YouTube và WhatsApp. Tuy nhiên, vẫn chưa rõ ràng về quy định mới này và các công ty công nghệ đang chờ đợi thông tin chi tiết. Quy định mới có thể ảnh hưởng đến các nền tảng mạng xã hội khác và sẽ được triển khai trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb461a4fc7b1",
-      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T19:29:50.231142+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hội nghị toàn cầu về công lý bù đắp đã được thông qua tại Ghana",
-      "bullets": [
-        "Chính phủ Ghana đã tổ chức hội nghị toàn cầu về công lý bù đắp",
-        "Hội nghị đã thông qua chiến lược 18 điểm nhằm đảm bảo bồi thường công bằng cho những người bị ảnh hưởng bởi di sản của nô lệ",
-        "Chiến lược này bao gồm cả việc giải quyết gánh nặng nợ nần",
-        "Hội nghị đã đánh dấu sự kiện quan trọng sau khi Liên Hợp Quốc thông qua nghị quyết lịch sử tuyên bố buôn bán nô lệ là tội ác nghiêm trọng nhất đối với nhân loại"
-      ],
-      "full_summary": "Hội nghị toàn cầu về công lý bù đắp đã được thông qua tại Ghana. Hội nghị đã diễn ra tại một khách sạn ở thủ đô Accra và là sự kiện quan trọng đầu tiên sau khi Liên Hợp Quốc thông qua nghị quyết lịch sử tuyên bố buôn bán nô lệ là tội ác nghiêm trọng nhất đối với nhân loại. Chiến lược 18 điểm được thông qua nhằm đảm bảo bồi thường công bằng cho những người bị ảnh hưởng bởi di sản của nô lệ và giải quyết gánh nặng nợ nần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f35ca5f75760",
-      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T19:29:51.260713+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "CDC chi 107 triệu USD để chống dịch Ebola tại DRC và Uganda",
-      "bullets": [
-        "CDC sẽ chi 107 triệu USD để chống dịch Ebola",
-        "Số người nhiễm Ebola đã vượt 1.000",
-        "Dịch bệnh vẫn được coi là có nguy cơ thấp",
-        "CDC cho rằng cần hỗ trợ khẩn cấp để kiểm soát dịch"
-      ],
-      "full_summary": "CDC sẽ chi 107 triệu USD để chống dịch Ebola tại Cộng hòa Dân chủ Congo (DRC) và Uganda. Dịch bệnh đã lan rộng và số người nhiễm đã vượt 1.000. Mặc dù vậy, các quan chức y tế cho rằng nguy cơ dịch bệnh lan rộng ra toàn cầu vẫn thấp. Họ cho rằng cần hỗ trợ khẩn cấp để kiểm soát dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f788abb677d5",
-      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
-      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T19:29:52.855991+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Huyndai bị phản đối vì liên kết với công ty khai thác mỏ gây ô nhiễm môi trường",
-      "bullets": [
-        "Phản đối liên kết của Hyundai với công ty khai thác mỏ Ternium",
-        "Ternium bị chỉ trích vì tác động môi trường tiêu cực và chính sách quản lý",
-        "Công ty này bị nghi ngờ liên quan đến biến mất của hai nhà hoạt động Mexico",
-        "Huyndai sẽ bị phản đối trước trận đấu World Cup giữa Mexico và Hàn Quốc"
-      ],
-      "full_summary": "Một nhóm người sẽ tổ chức biểu tình trước trận đấu World Cup giữa Mexico và Hàn Quốc để phản đối liên kết của Hyundai với công ty khai thác mỏ Ternium. Theo một báo cáo năm 2025, Hyundai đã mua một lượng lớn quặng sắt từ Ternium để sản xuất thép. Ternium đã bị chỉ trích vì tác động môi trường tiêu cực và chính sách quản lý kém. Các nhà hoạt động cũng nghi ngờ công ty này liên quan đến biến mất của hai nhà hoạt động Mexico.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "55b154964147",
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-19T19:29:58.446770+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nghị sĩ Mỹ đề xuất luật chống áp lực chính phủ silencing ngôn ngữ trực tuyến hợp pháp",
-      "bullets": [
-        "Đề xuất luật mới nhằm ngăn chặn áp lực chính phủ silencing ngôn ngữ trực tuyến hợp pháp",
-        "Luật này sẽ bảo vệ người dùng mạng xã hội khỏi bị cấm hoặc xóa tài khoản vì lý do chính trị",
-        "Mục tiêu của luật này là bảo vệ tự do ngôn luận trực tuyến và ngăn chặn sự can thiệp của chính phủ",
-        "Đề xuất luật này được đưa ra trong bối cảnh lo ngại về sự can thiệp của chính phủ vào ngôn ngữ trực tuyến"
-      ],
-      "full_summary": "Một nhóm nghị sĩ Mỹ đã đề xuất một luật mới nhằm chống lại áp lực chính phủ silencing ngôn ngữ trực tuyến hợp pháp. Luật này sẽ bảo vệ người dùng mạng xã hội khỏi bị cấm hoặc xóa tài khoản vì lý do chính trị. Mục tiêu của luật này là bảo vệ tự do ngôn luận trực tuyến và ngăn chặn sự can thiệp của chính phủ. Đề xuất luật này được đưa ra trong bối cảnh lo ngại về sự can thiệp của chính phủ vào ngôn ngữ trực tuyến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b891af905848",
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:27.163458+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Meloni bác bỏ cáo buộc Trump về bức ảnh G7",
-      "bullets": [
-        "Meloni bác bỏ cáo buộc Trump về bức ảnh G7",
-        "Trump nói Meloni xin ảnh tại G7",
-        "Quan hệ giữa hai người đã xấu đi sau quyết định của Trump",
-        "Meloni và Trump từng có mối quan hệ thân thiết"
-      ],
-      "full_summary": "Meloni, thủ tướng Ý, vừa bác bỏ cáo buộc của Trump rằng bà đã xin ảnh với ông tại hội nghị G7. Trump từng nói rằng Meloni xin ảnh với ông, nhưng Meloni cho rằng đó là một câu chuyện được tạo ra. Quan hệ giữa hai người đã xấu đi sau quyết định của Trump về chiến tranh với Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b83aed915b23",
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:28.152215+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo đang hồi phục tốt",
-      "bullets": [
-        "Bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo đã được tìm thấy",
-        "Bệnh nhân đang hồi phục tốt sau khi bị lấy trộm khỏi bệnh viện",
-        "Bệnh viện ở Cộng hòa Dân chủ Congo đã bị tấn công do thông tin sai lệch và sợ hãi",
-        "Bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo là trường hợp thứ 6"
-      ],
-      "full_summary": "Một bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo đã được tìm thấy và đang hồi phục tốt. Bệnh viện ở Cộng hòa Dân chủ Congo đã bị tấn công do thông tin sai lệch và sợ hãi. Bệnh nhân Ebola 6 tuổi bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo là trường hợp thứ 6 trong số các bệnh nhân Ebola bị lấy trộm khỏi bệnh viện ở Cộng hòa Dân chủ Congo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ebcc9b3462d0",
-      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
-      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:29.186056+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hậu vệ Achraf Hakimi Morocco bị cáo buộc tội hiếp dâm",
-      "bullets": [
-        "Xác nhận Achraf Hakimi sẽ đứng trước tòa vì tội hiếp dâm",
-        "Tội phạm xảy ra vào năm 2023",
-        "Hậu vệ Morocco sẽ phải đối mặt với sự xét xử",
-        "Cáo buộc đang được điều tra bởi các cơ quan pháp luật Pháp"
-      ],
-      "full_summary": "Hậu vệ Achraf Hakimi của đội tuyển bóng đá quốc gia Morocco sẽ phải đối mặt với sự xét xử vì tội hiếp dâm. Theo thông tin từ các cơ quan pháp luật Pháp, Achraf Hakimi bị cáo buộc tội hiếp dâm vào năm 2023. Sự việc đang được điều tra và xét xử bởi các cơ quan pháp luật Pháp. Achraf Hakimi là một trong những cầu thủ nổi tiếng của đội tuyển bóng đá quốc gia Morocco.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3758a5a1362a",
-      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-      "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:30.189067+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trẻ 12 tuổi cứu gà bị ốm bằng cách đưa vào bệnh viện",
-      "bullets": [
-        "Trẻ 12 tuổi Markos đưa gà bị ốm vào bệnh viện",
-        "Gà của Markos không phản ứng với bất kỳ phương pháp điều trị nào",
-        "Markos cố gắng cứu gà bằng mọi cách",
-        "Gia đình Markos rất yêu quý gà bị ốm"
-      ],
-      "full_summary": "Trẻ 12 tuổi Markos đã gây ấn tượng với mọi người khi đưa gà bị ốm vào bệnh viện. Gà của Markos không phản ứng với bất kỳ phương pháp điều trị nào, vì vậy Markos đã đưa nó vào bệnh viện để tìm kiếm sự giúp đỡ. Hành động của Markos đã gây ấn tượng với mọi người và cho thấy sự yêu quý của ông đối với gà bị ốm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ba927f3fba9b",
-      "title": "UK actress charged with importing meth worth almost A$300m into Australia",
-      "url": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T14:48:31.418213+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ diễn viên Anh bị cáo buộc vận chuyển ma túy vào Úc",
-      "bullets": [
-        "Bị cáo buộc vận chuyển 320kg ma túy",
-        "Cáo buộc nhập khẩu ma túy trị giá gần 300 triệu đô la Úc",
-        "Đe dọa phải ngồi tù suốt đời",
-        "Nữ diễn viên Anh Emaa Hussen bị bắt giữ"
-      ],
-      "full_summary": "Nữ diễn viên Anh Emaa Hussen, 34 tuổi, bị cáo buộc vận chuyển 320kg ma túy vào Úc. Theo cáo buộc, ma túy được giấu trong các túi than. Nếu bị kết tội, Emaa Hussen có thể phải ngồi tù suốt đời. Cáo buộc nhập khẩu ma túy trị giá gần 300 triệu đô la Úc.",
       "comments": 0,
       "score": 0
     }
