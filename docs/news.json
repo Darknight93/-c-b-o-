@@ -1,6 +1,225 @@
 {
-  "updated_at": "2026-06-20T02:43:02.258192+00:00",
+  "updated_at": "2026-06-20T08:45:19.117527+00:00",
   "articles": [
+    {
+      "id": "3b2782611aa5",
+      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+      "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T08:45:03.799475+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hoa Kỳ thắng Australia 2-0, tiến vào vòng knock-out World Cup",
+      "bullets": [
+        "Hoa Kỳ giành chiến thắng 2-0 trước Socceroos",
+        "Cựu binh Mỹ đã thể hiện phong độ ấn tượng",
+        "Hỗn loạn trong khán đài Australia khi đội bóng thất bại",
+        "Cầu thủ Mỹ đã ghi hai bàn thắng quan trọng"
+      ],
+      "full_summary": "Hoa Kỳ đã giành chiến thắng 2-0 trước Australia trong trận đấu cuối cùng của vòng bảng World Cup 2022. Chiến thắng này giúp đội bóng Mỹ tiến vào vòng knock-out. Cựu binh Mỹ đã thể hiện phong độ ấn tượng, ghi hai bàn thắng quan trọng. Khán đài Australia đã hỗn loạn khi đội bóng thất bại nhưng vẫn hy vọng vào tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11735ac6586f",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T08:45:04.846721+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Pháp Quốc trao danh hiệu cao nhất cho Zelensky bị thu hồi",
+      "bullets": [
+        "Pháp Quốc đã thu hồi danh hiệu cao nhất từ Zelensky vì tên gọi quân đội trong Thế chiến II",
+        "Ukraine lên án quyết định này là 'sai lầm chiến lược' và 'không tôn trọng'",
+        "Pháp Quốc cho rằng tên gọi 'Sichovi Striltsi' không phù hợp với danh hiệu cao nhất",
+        "Zelensky từng được trao danh hiệu cao nhất vào năm 2022"
+      ],
+      "full_summary": "Pháp Quốc đã quyết định thu hồi danh hiệu cao nhất từ Tổng thống Ukraine Volodymyr Zelensky. Nguyên nhân là do tên gọi của một đơn vị quân đội Ukraine trong Thế chiến II không phù hợp với danh hiệu cao nhất. Tên gọi 'Sichovi Striltsi' được cho là không tôn trọng với người dân Ba Lan. Ukraine đã lên án quyết định này là 'sai lầm chiến lược' và 'không tôn trọng'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fc012d37e341",
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T08:45:05.815147+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Các nước châu Phi và Caribe đòi xin lỗi về chế độ nô lệ",
+      "bullets": [
+        "Họ yêu cầu các nước đã hưởng lợi từ thương mại nô lệ xin lỗi",
+        "Yêu cầu giảm nợ và bồi thường tài chính",
+        "Mong muốn được công nhận và bồi thường cho những thiệt hại",
+        "Họ cũng muốn được hỗ trợ phát triển kinh tế"
+      ],
+      "full_summary": "Các lãnh đạo của các nước châu Phi và Caribe đã kêu gọi các nước đã hưởng lợi từ chế độ nô lệ xin lỗi và bồi thường. Họ cũng yêu cầu giảm nợ và hỗ trợ phát triển kinh tế. Điều này nhằm mục đích công nhận và bồi thường cho những thiệt hại mà chế độ nô lệ đã gây ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f9c196689ce",
+      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T08:45:06.868999+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Úc xác nhận ca đầu tiên của bệnh cú mèo H5N1",
+      "bullets": [
+        "Úc xác nhận ca đầu tiên của bệnh cú mèo H5N1",
+        "Bệnh cú mèo H5N1 đã lan đến tất cả các châu lục",
+        "Úc là châu lục cuối cùng bị ảnh hưởng bởi bệnh cú mèo H5N1",
+        "Bệnh cú mèo H5N1 là một loại virus nguy hiểm"
+      ],
+      "full_summary": "Úc đã xác nhận ca đầu tiên của bệnh cú mèo H5N1, khiến nước này trở thành châu lục cuối cùng bị ảnh hưởng bởi loại virus này. Bệnh cú mèo H5N1 đã lan đến tất cả các châu lục, bao gồm châu Á, châu Âu, châu Phi, châu Mỹ và châu Đại Dương. Loại virus này được coi là nguy hiểm và có thể gây ra các vấn đề sức khỏe nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2961f92e7c03",
+      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
+      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T08:45:07.810206+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Đạo diễn nổi tiếng James Burrows qua đời ở tuổi 85",
+      "bullets": [
+        "Sáng tạo sitcom Cheers",
+        "Đạo diễn hơn 1.000 tập phim các chương trình kinh điển",
+        "Làm việc với các chương trình nổi tiếng như Big Bang Theory và Will and Grace",
+        "Là một trong những đạo diễn nổi tiếng nhất trong lịch sử truyền hình"
+      ],
+      "full_summary": "Đạo diễn nổi tiếng James Burrows đã qua đời ở tuổi 85. Ông được biết đến nhiều nhất với vai trò đồng sáng tạo sitcom Cheers và đã đạo diễn hơn 1.000 tập phim các chương trình kinh điển khác. Ông đã làm việc với các chương trình nổi tiếng như Big Bang Theory và Will and Grace. James Burrows được coi là một trong những đạo diễn nổi tiếng nhất trong lịch sử truyền hình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c548eee8012a",
+      "title": "Snap unveils £1,995 smart glasses after previous flops",
+      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-20T08:45:08.822946+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Snap ra mắt kính thông minh giá 1.995 bảng Anh",
+      "bullets": [
+        "Ra mắt kính AR giá cao",
+        "Kính sẽ được giao hàng vào mùa thu",
+        "Đây là lần thứ ba Snap thử nghiệm kính thông minh",
+        "Kính có thể được sử dụng để trải nghiệm thực tế tăng cường"
+      ],
+      "full_summary": "Công ty mẹ của Snapchat, Snap, vừa công bố kính thông minh giá 1.995 bảng Anh. Kính này sẽ được giao hàng vào mùa thu. Đây không phải lần đầu tiên Snap thử nghiệm kính thông minh, nhưng lần này họ hy vọng sẽ thành công. Kính có thể được sử dụng để trải nghiệm thực tế tăng cường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "95f3b8c0bab9",
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T08:45:09.753820+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Microsoft phát hiện lỗ hổng nhẹ mới trộm tiền điện tử",
+      "bullets": [
+        "Phát hiện ra Crypto Clipper, một loại malware tự lây lan",
+        "Malware này lây lan qua USB và giao tiếp qua Tor",
+        "Mục tiêu của malware là trộm tiền điện tử",
+        "Microsoft cảnh báo người dùng về nguy cơ này"
+      ],
+      "full_summary": "Microsoft vừa phát hiện ra một loại malware mới có tên Crypto Clipper, loại malware này có khả năng tự lây lan và mục tiêu là trộm tiền điện tử. Malware này lây lan qua USB và giao tiếp qua Tor, khiến cho việc phát hiện và ngăn chặn trở nên khó khăn. Microsoft cảnh báo người dùng về nguy cơ này và khuyến nghị nên sử dụng phần mềm diệt virus để bảo vệ thiết bị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4f4837456e89",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T08:45:10.734068+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "FDA tư vấn đồng ý cho phép mRNA của Moderna sau scandal",
+      "bullets": [
+        "Đồng ý cho phép mRNA của Moderna",
+        "Căng thẳng tại FDA sau khi một quan chức Trump từ chối xem xét vắc-xin",
+        "Hội đồng tư vấn FDA bỏ phiếu toàn bộ ủng hộ",
+        "MRNA của Moderna được xem xét cho phép sử dụng rộng rãi"
+      ],
+      "full_summary": "Hội đồng tư vấn FDA đã bỏ phiếu toàn bộ ủng hộ cho phép mRNA của Moderna sau khi có scandal tại cơ quan này. Vào tháng 2, một quan chức Trump từ chối xem xét vắc-xin. Sự cố này đã gây ra căng thẳng tại FDA. Ngày hôm nay, họ đã bỏ phiếu ủng hộ mRNA của Moderna.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "36f8cc76364f",
+      "title": "Android verification is coming: Google confirms timeline and supported app stores",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-20T08:45:11.650326+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google xác nhận lịch trình triển khai xác thực Android",
+      "bullets": [
+        "Sẽ triển khai dịch vụ hệ thống mới vào tháng này",
+        "Thay đổi lớn sẽ bắt đầu từ tháng 9",
+        "Tất cả cửa hàng ứng dụng sẽ hỗ trợ xác thực Android",
+        "Google sẽ cung cấp thông tin chi tiết hơn về quy trình xác thực"
+      ],
+      "full_summary": "Google đã xác nhận lịch trình triển khai xác thực Android. Dịch vụ hệ thống mới sẽ được triển khai vào tháng này, sau đó thay đổi lớn sẽ bắt đầu từ tháng 9. Tất cả cửa hàng ứng dụng sẽ hỗ trợ xác thực Android. Google sẽ cung cấp thông tin chi tiết hơn về quy trình xác thực trong thời gian tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65b502da4928",
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-20T08:45:12.616583+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Người dùng lưu trang web vào biểu tượng trang web",
+      "bullets": [
+        "Người dùng Tim Wehrle lưu trang web vào biểu tượng trang web (favicon)",
+        "Trang web được lưu dưới dạng hình ảnh",
+        "Người dùng sử dụng kỹ thuật lưu trữ dữ liệu trong hình ảnh",
+        "Kỹ thuật này có thể được sử dụng để lưu trữ dữ liệu nhỏ"
+      ],
+      "full_summary": "Người dùng Tim Wehrle đã thực hiện một điều kỳ lạ khi lưu trữ một trang web vào biểu tượng trang web (favicon) của mình. Trang web được lưu dưới dạng hình ảnh và người dùng sử dụng kỹ thuật lưu trữ dữ liệu trong hình ảnh. Kỹ thuật này có thể được sử dụng để lưu trữ dữ liệu nhỏ. Điều này cho thấy sự sáng tạo và khả năng của người dùng trong việc sử dụng công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8dc3a3d3ce04",
+      "title": "Surprising economics of load-balanced systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-20T08:45:16.346844+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Năng suất tăng đáng kể khi sử dụng hệ thống cân bằng tải",
+      "bullets": [
+        "Giảm thiểu thời gian chờ đợi cho người dùng",
+        "Cải thiện hiệu suất của hệ thống",
+        "Tăng khả năng phục hồi khi xảy ra sự cố"
+      ],
+      "full_summary": "Hệ thống cân bằng tải có thể tăng năng suất đáng kể bằng cách phân phối tải đều trên nhiều máy chủ. Điều này giúp giảm thiểu thời gian chờ đợi cho người dùng và cải thiện hiệu suất của hệ thống. Ngoài ra, hệ thống cân bằng tải cũng có thể tăng khả năng phục hồi khi xảy ra sự cố, giúp đảm bảo hệ thống luôn hoạt động ổn định.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1f6bba7c0f70",
       "title": "New video game console aims to get kids moving",
@@ -577,224 +796,6 @@
         "Tổng thống Mnangagwa có thể giữ quyền lực lâu hơn"
       ],
       "full_summary": "Hạ viện Zimbabwe đã thông qua dự luật kéo dài nhiệm kỳ tổng thống Emmerson Mnangagwa thêm 2 năm và bỏ bỏ bầu cử tổng thống trực tiếp. Dự luật này sẽ được gửi đến Thượng viện để xem xét. Dự luật này được đưa ra sau khi tổng thống Mnangagwa đã đề xuất kéo dài nhiệm kỳ của mình. Nếu dự luật được thông qua, tổng thống Mnangagwa sẽ có thể giữ quyền lực lâu hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "96376aa683c1",
-      "title": "In Trump's shadow, Vance becomes face of Iran deal",
-      "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:37.959424+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tổng thống Mỹ cũ Donald Trump có thể đang bị lấn át bởi Vance trong vấn đề thỏa thuận Iran.",
-      "bullets": [
-        "Vance lên tiếng bảo vệ thỏa thuận Iran trước sự chỉ trích ngày càng tăng.",
-        "Tình hình này diễn ra khi đồn đoán về một khả năng tranh cử tổng thống năm 2028 của Vance ngày càng tăng.",
-        "Thỏa thuận Iran đang bị chỉ trích mạnh mẽ từ nhiều phía.",
-        "Vance đang trở thành gương mặt đại diện cho thỏa thuận Iran."
-      ],
-      "full_summary": "Tổng thống Mỹ cũ Donald Trump có thể đang bị lấn át bởi Vance trong vấn đề thỏa thuận Iran. Thỏa thuận này đang bị chỉ trích mạnh mẽ từ nhiều phía. Trong bối cảnh đồn đoán về một khả năng tranh cử tổng thống năm 2028 của Vance ngày càng tăng, ông đã lên tiếng bảo vệ thỏa thuận Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c7ba2bfb4543",
-      "title": "UK's top AI regulator quits after 'inappropriate' humour",
-      "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:38.844656+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chủ tịch cơ quan quản lý AI Anh từ chức vì hài hước không phù hợp",
-      "bullets": [
-        "Chủ tịch cơ quan quản lý dữ liệu Anh từ chức",
-        "Ông đã cố gắng sử dụng hài hước không phù hợp",
-        "Ông giữ chức vụ này từ tháng 1 năm 2022",
-        "Cơ quan quản lý dữ liệu Anh là cơ quan quản lý AI hàng đầu của Anh"
-      ],
-      "full_summary": "Chủ tịch cơ quan quản lý dữ liệu Anh, Edwards, đã từ chức sau khi thừa nhận đã cố gắng sử dụng hài hước không phù hợp. Ông giữ chức vụ này từ tháng 1 năm 2022. Cơ quan quản lý dữ liệu Anh là cơ quan quản lý AI hàng đầu của Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53a7715c7fd4",
-      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:41.014249+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Trẻ em Somalia gặp nguy hiểm từ vụ tấn công không kích của Mỹ",
-      "bullets": [
-        "Một cuộc không kích của Mỹ đã khiến 12 người thiệt mạng và 1 cháu bé 7 tuổi bị thương nặng",
-        "Cháu bé cần phẫu thuật khẩn cấp trị giá 750 bảng Anh để tránh bị liệt chân",
-        "Mỹ từ chối thừa nhận có thương vong dân thường trong vụ tấn công",
-        "Hậu quả của vụ tấn công khiến gia đình cháu bé không thể tìm được sự hỗ trợ nào"
-      ],
-      "full_summary": "Một cháu bé 7 tuổi tên Abdiqadir Salah đã bị thương nặng trong một cuộc không kích của Mỹ tại Somalia. Vụ tấn công đã khiến 12 người thiệt mạng và cháu bé bị rơi vào tình trạng nguy hiểm. Để tránh bị liệt chân, cháu bé cần phẫu thuật khẩn cấp trị giá 750 bảng Anh nhưng gia đình không thể tìm được sự hỗ trợ nào. Mỹ từ chối thừa nhận có thương vong dân thường trong vụ tấn công này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "514ad8a075bc",
-      "title": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
-      "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T10:16:42.120330+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Chủ tịch Sierra Leone từ chối lên án cắt bộ phận sinh dục nữ",
-      "bullets": [
-        "Chủ tịch Fatima Maada Bio từ chối lên án cắt bộ phận sinh dục nữ",
-        "Cô ấy yêu cầu số liệu đáng tin cậy về tác hại của việc cắt bộ phận sinh dục nữ",
-        "Số liệu đáng tin cậy về tác hại của việc cắt bộ phận sinh dục nữ chưa được công bố",
-        "Nhiều chuyên gia y tế, nạn nhân và chính trị gia lên án ý kiến của bà Bio"
-      ],
-      "full_summary": "Chủ tịch Fatima Maada Bio của Sierra Leone đã từ chối lên án cắt bộ phận sinh dục nữ, một thực hành bị cấm ở nhiều quốc gia. Cô ấy cho biết sẽ không lên án cắt bộ phận sinh dục nữ cho đến khi có số liệu đáng tin cậy về tác hại của nó. Điều này đã gây ra sự phẫn nộ và lên án từ nhiều chuyên gia y tế, nạn nhân và chính trị gia. Họ cho rằng ý kiến của bà Bio đã thể hiện sự ủng hộ cho thực hành này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6b3258e87373",
-      "title": "So You Want to Define a Well-Known URI",
-      "url": "https://mnot.net/blog/2026/well_known_uris",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-19T10:16:47.206321+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mô tả URI được biết đến rộng rãi",
-      "bullets": [
-        "Mình viết về cách định nghĩa URI được biết đến rộng rãi",
-        "Chia sẻ kinh nghiệm về kỹ thuật URI",
-        "Giải thích cách sử dụng URI trong các ứng dụng",
-        "Cung cấp ví dụ về URI được biết đến rộng rãi"
-      ],
-      "full_summary": "Mình viết một bài về cách định nghĩa URI được biết đến rộng rãi. Bài viết này giải thích cách sử dụng URI trong các ứng dụng và cung cấp ví dụ về URI được biết đến rộng rãi. Kỹ thuật URI được sử dụng rộng rãi trong các ứng dụng web và cần được hiểu rõ để phát triển các ứng dụng hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b30b13256b40",
-      "title": "The artificial ice pyramids saving India's mountain villages",
-      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T03:38:54.928127+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Himalaya: Các ngôi làng tạo ra băng tuyết nhân tạo để đảm bảo nước cho mùa xuân",
-      "bullets": [
-        "Tạo ra băng tuyết nhân tạo để cung cấp nước cho mùa xuân",
-        "Giảm thiểu thiệt hại do thiếu nước cho mùa màng",
-        "Sử dụng công nghệ để tạo ra băng tuyết",
-        "Giảm thiểu tác động của biến đổi khí hậu"
-      ],
-      "full_summary": "Các ngôi làng ở dãy Himalaya đang tạo ra băng tuyết nhân tạo để đảm bảo nước cho mùa xuân. Công nghệ này giúp giảm thiểu thiệt hại do thiếu nước cho mùa màng. Bằng cách sử dụng công nghệ, các ngôi làng có thể tạo ra băng tuyết ngay trong mùa đông để cung cấp nước cho mùa xuân. Điều này giúp giảm thiểu tác động của biến đổi khí hậu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "52cfd190278b",
-      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T03:38:55.884722+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Jeff Bezos tin AI sẽ tạo ra thiếu hụt lao động",
-      "bullets": [
-        "Jeff Bezos cho rằng AI sẽ tạo ra nhiều việc làm cho con người",
-        "Ông tin rằng AI sẽ tạo ra thiếu hụt lao động",
-        "Bezos tin rằng AI sẽ không thay thế con người",
-        "Ông cho rằng AI sẽ tạo ra cơ hội mới cho con người"
-      ],
-      "full_summary": "Jeff Bezos, người sáng lập Amazon, tin rằng trí tuệ nhân tạo (AI) sẽ tạo ra nhiều việc làm cho con người và không thay thế họ. Ông cho rằng AI sẽ tạo ra thiếu hụt lao động và tạo ra cơ hội mới cho con người. Bezos, người hiện đang có các công ty về robot và du hành vũ trụ, tin rằng AI sẽ giúp con người giải quyết các vấn đề phức tạp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "efafeeca4f58",
-      "title": "What to study in the AI age - from big tech bosses",
-      "url": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T03:38:57.158879+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các nhà lãnh đạo công nghệ khuyên học tập kỹ năng AI",
-      "bullets": [
-        "Học kỹ năng lập trình và phân tích dữ liệu để thích nghi với thời đại AI",
-        "Tìm hiểu về trí tuệ nhân tạo và học máy để có cơ hội nghề nghiệp tốt hơn",
-        "Phát triển kỹ năng tư duy sáng tạo và giải quyết vấn đề để có thể thích nghi với công nghệ mới",
-        "Tìm kiếm cơ hội học hỏi và phát triển kỹ năng liên tục"
-      ],
-      "full_summary": "Sundar Pichai, Jensen Huang và Jack Clark, các nhà lãnh đạo công nghệ hàng đầu, đã chia sẻ lời khuyên của họ với BBC về những kỹ năng cần thiết để thích nghi với thời đại trí tuệ nhân tạo. Họ nhấn mạnh tầm quan trọng của việc học lập trình, phân tích dữ liệu và trí tuệ nhân tạo để có cơ hội nghề nghiệp tốt hơn. Họ cũng khuyên rằng việc phát triển tư duy sáng tạo và giải quyết vấn đề là cần thiết để thích nghi với công nghệ mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c6f70cbbb3b",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T03:38:59.484423+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Barbados kêu gọi bồi thường cho hậu quả của chế độ nô lệ",
-      "bullets": [
-        "Chủ tịch Mia Mottley công bố tuyên bố về bồi thường cho những người châu Phi bị nô lệ",
-        "Tuyên bố này đang được xem xét bởi các quốc gia Caribbean khác",
-        "UN đã thông qua nghị quyết lịch sử về việc buôn bán nô lệ là tội ác chống lại loài người nghiêm trọng nhất"
-      ],
-      "full_summary": "Chủ tịch Barbados Mia Mottley đã công bố tuyên bố về bồi thường cho những người châu Phi bị nô lệ. Tuyên bố này đang được xem xét bởi các quốc gia Caribbean khác. Sự kiện này diễn ra tại hội nghị lịch sử ở Ghana để thúc đẩy công lý reparatory. UN đã thông qua nghị quyết lịch sử về việc buôn bán nô lệ là tội ác chống lại loài người nghiêm trọng nhất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f5e47ce467da",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-19T03:39:00.603219+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai người đàn ông Nam Phi bị kết án vì buôn bán sừng tê lớn nhất thế giới",
-      "bullets": [
-        "Hai kẻ buôn bán sừng tê Dawie Groenewald và Tielman Erasmus bị kết án",
-        "Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp",
-        "Tòa án Nam Phi kết án Dawie Groenewald 2 triệu rands hoặc phạt tù 4 năm"
-      ],
-      "full_summary": "Hai người đàn ông Nam Phi bị kết án vì buôn bán sừng tê lớn nhất thế giới. Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp. Tòa án Nam Phi kết án Dawie Groenewald 2 triệu rands hoặc phạt tù 4 năm. Đây là kết quả của một vụ án kéo dài gần 16 năm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8a37392e54bf",
-      "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
-      "url": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-19T03:39:05.571764+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "NASA yêu cầu Northrop Grumman dừng phát triển mô-đun HALO Mặt Trăng",
-      "bullets": [
-        "NASA yêu cầu Northrop Grumman dừng phát triển mô-đun HALO Mặt Trăng",
-        "Hơn 1 tỷ USD đã được chi cho dự án này",
-        "Các nhân viên bị ảnh hưởng sẽ được chuyển sang các dự án khác",
-        "NASA đang tìm kiếm các giải pháp thay thế"
-      ],
-      "full_summary": "NASA đã yêu cầu Northrop Grumman dừng phát triển mô-đun HALO Mặt Trăng, một phần của dự án Gateway. Mô-đun này trị giá hơn 1 tỷ USD và được dự kiến sẽ là nơi ở cho các nhà du hành vũ trụ trên Mặt Trăng. Tuy nhiên, NASA đã quyết định chuyển hướng dự án này và sẽ tìm kiếm các giải pháp thay thế. Các nhân viên bị ảnh hưởng sẽ được chuyển sang các dự án khác.",
       "comments": 0,
       "score": 0
     }
