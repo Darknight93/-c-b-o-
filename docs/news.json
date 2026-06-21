@@ -1,6 +1,224 @@
 {
-  "updated_at": "2026-06-21T02:59:15.922589+00:00",
+  "updated_at": "2026-06-21T09:40:24.044526+00:00",
   "articles": [
+    {
+      "id": "66b2de1f57f3",
+      "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+      "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T09:40:08.000655+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "BBC chứng kiến các ngôi làng bị phá hủy ở miền nam Liban do Israel chiếm đóng",
+      "bullets": [
+        "BBC được phép vào một phần Liban dưới sự chiếm đóng của Israel",
+        "Hàng chục ngôi làng bị phá hủy trong cuộc xung đột",
+        "Hỗ trợ nhân đạo đang được vận chuyển đến khu vực bị ảnh hưởng",
+        "BBC được phép theo dõi chuyến đi nhân đạo"
+      ],
+      "full_summary": "BBC đã có cơ hội hiếm hoi để vào một phần Liban dưới sự chiếm đóng của Israel. Chuyến đi nhân đạo đã được tổ chức để hỗ trợ khu vực bị ảnh hưởng. Hàng chục ngôi làng đã bị phá hủy trong cuộc xung đột. BBC đã được phép theo dõi chuyến đi nhân đạo và ghi lại hình ảnh của các ngôi làng bị phá hủy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a6b7ac17c4e",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T09:40:09.108350+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Căng thẳng nội bộ Colombia leo thang, ảnh hưởng đến cuộc bầu cử tổng thống",
+      "bullets": [
+        "Giới chức Colombia đang đối mặt với cuộc xung đột nội bộ ngày càng gay gắt",
+        "Tổng thống Colombia sắp tới sẽ phải đối mặt với cuộc bầu cử đầy thách thức",
+        "Hai ứng cử viên chủ chốt đang tranh chấp vị trí tổng thống",
+        "Căng thẳng nội bộ đang ảnh hưởng đến cuộc sống của người dân Colombia"
+      ],
+      "full_summary": "Colombia đang đối mặt với cuộc xung đột nội bộ ngày càng gay gắt, ảnh hưởng đến cuộc bầu cử tổng thống sắp tới. Hai ứng cử viên chủ chốt đang tranh chấp vị trí tổng thống, bao gồm một nhà lập pháp cánh tả ủng hộ đàm phán với các tổ chức khủng bố và một ứng cử viên ngoài cuộc được ủng hộ bởi Tổng thống Trump. Căng thẳng nội bộ đang ảnh hưởng đến cuộc sống của người dân Colombia và gây ra nhiều thách thức cho giới chức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fb8256c5eb86",
+      "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T09:40:10.095138+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cựu vận động viên Olympic phủ nhận bị bắt vì phá hoại hồ nước phản chiếu ở Washington",
+      "bullets": [
+        "Bị bắt vì nghi ngờ phá hoại hồ nước phản chiếu ở Washington",
+        "Cựu vận động viên Olympic Davey Hearn phủ nhận mọi hành vi phá hoại",
+        "Hearn nói chỉ muốn kiểm tra lớp sơn mới",
+        "Không có bằng chứng cho thấy Hearn đã xóa hoặc thay đổi sơn"
+      ],
+      "full_summary": "Cựu vận động viên Olympic Davey Hearn vừa bị bắt vì nghi ngờ phá hoại hồ nước phản chiếu ở Washington. Tuy nhiên, Hearn phủ nhận mọi hành vi phá hoại và nói rằng chỉ muốn kiểm tra lớp sơn mới. Không có bằng chứng cho thấy Hearn đã xóa hoặc thay đổi sơn. Vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "985916d0e3e4",
+      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T09:40:11.057196+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "20.000 người tham gia cuộc đua marathon lớn nhất thế giới tại Nam Phi",
+      "bullets": [
+        "Hàng ngàn người tập trung tại địa điểm bắt đầu cuộc đua Comrades",
+        "Nghe bản nhạc quốc gia Nam Phi và Shosholoza trước khi bắt đầu",
+        "Cuộc đua diễn ra trong điều kiện thời tiết khắc nghiệt"
+      ],
+      "full_summary": "Mỗi năm một lần, cuộc đua Comrades tại Nam Phi trở thành nơi đoàn kết giữa người dân. Hơn 20.000 người tham gia cuộc đua marathon lớn nhất thế giới. Cuộc đua diễn ra trong điều kiện thời tiết khắc nghiệt, nhưng không thể ngăn cản sự đoàn kết và quyết tâm của các vận động viên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "14281b741a8e",
+      "title": "Canada’s policies force asylum seekers into US to face deportation, critics say",
+      "url": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T09:40:12.175191+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Canada ép người tị nạn đi Mỹ phải đối mặt với trục xuất",
+      "bullets": [
+        "Canada ép người tị nạn phải đi qua Mỹ",
+        "Mỹ không phải nơi an toàn cho người tị nạn",
+        "Hàng nghìn người tị nạn bị ảnh hưởng bởi thỏa thuận Safe Third Country",
+        "Tình hình ở Honduras và Guatemala vẫn còn nguy hiểm"
+      ],
+      "full_summary": "Theo The Guardian, thỏa thuận Safe Third Country của Canada đã ép người tị nạn phải đi qua Mỹ, nơi mà họ có thể phải đối mặt với trục xuất. Carlos và Antonia, một cặp vợ chồng Honduras, đã phải di cư đến Mỹ cùng với con trai nhỏ của họ. Hành trình của họ đầy nguy hiểm và bất ổn, qua Guatemala và Mexico. Thỏa thuận này đã ảnh hưởng đến hàng nghìn người tị nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "decc6203b322",
+      "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
+      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T09:40:13.284327+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Colombia chuẩn bị bước vào cuộc xung đột vũ trang mới",
+      "bullets": [
+        "Colombia sắp tổ chức bầu cử vòng hai",
+        "Abelardo de la Espriella sẽ quay lại chiến thuật quân sự mạnh tay",
+        "Căng thẳng quân sự sẽ tăng lên sau khi bỏ kế hoạch hòa bình",
+        "Sự kiện có thể ảnh hưởng đến tình hình an ninh quốc gia"
+      ],
+      "full_summary": "Colombia sắp tổ chức bầu cử vòng hai giữa hai ứng cử viên Abelardo de la Espriella và người khác. Frontrunner Abelardo de la Espriella đã cam kết quay lại chiến thuật quân sự mạnh tay với các tổ chức vũ trang. Điều này có thể dẫn đến sự gia tăng căng thẳng quân sự và ảnh hưởng đến tình hình an ninh quốc gia. Cuộc bầu cử này được kỳ vọng sẽ đánh dấu một bước ngoặt mới trong cuộc xung đột vũ trang kéo dài nhiều thập kỷ ở Colombia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e05c6b629f5c",
+      "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
+      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T09:40:14.295647+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Bolivia tuyên bố tình trạng khẩn cấp để dập tắt biểu tình",
+      "bullets": [
+        "Tổng thống Bolivia tuyên bố tình trạng khẩn cấp",
+        "Cảnh sát và binh sĩ được triển khai để dẹp bỏ các chướng ngại vật",
+        "Hàng trăm người biểu tình bị bắt giữ",
+        "Nhiều người dân bị ảnh hưởng bởi tình trạng phong tỏa"
+      ],
+      "full_summary": "Tổng thống Bolivia đã tuyên bố tình trạng khẩn cấp và triển khai quân đội để dập tắt các cuộc biểu tình chống chính phủ. Các cuộc biểu tình đã diễn ra trong hơn sáu tuần, với các nhóm công đoàn, dân tộc bản địa và nông dân trồng coca đã phong tỏa các con đường và thành phố để phản đối chính phủ bảo thủ. Các cuộc biểu tình đã gây ra tình trạng bất ổn và ảnh hưởng đến cuộc sống hàng ngày của người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "da18d1a473d4",
+      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-21T09:40:15.284455+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Các nhà khoa học tìm kiếm rạn san hô có thể chịu đựng được nhiệt độ cao",
+      "bullets": [
+        "Tìm kiếm rạn san hô mạnh mẽ để phục hồi các rạn san hô bị suy thoái",
+        "Các rạn san hô mạnh mẽ có thể giúp tái lập các rạn san hô bị hư hại",
+        "Nghiên cứu cho thấy các rạn san hô mạnh mẽ có thể chịu đựng được nhiệt độ cao do biến đổi khí hậu",
+        "Các nhà khoa học hy vọng tìm thấy các rạn san hô mạnh mẽ để bảo vệ môi trường biển"
+      ],
+      "full_summary": "Các nhà khoa học đang tìm kiếm các rạn san hô mạnh mẽ có thể chịu đựng được nhiệt độ cao do biến đổi khí hậu. Mục tiêu của họ là tìm kiếm các rạn san hô mạnh mẽ để phục hồi các rạn san hô bị suy thoái. Các rạn san hô mạnh mẽ có thể giúp tái lập các rạn san hô bị hư hại và bảo vệ môi trường biển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a33a0899ed18",
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
+      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-21T09:40:16.341084+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Misi cứu vệ tinh khẩn cấp được triển khai nhanh chóng",
+      "bullets": [
+        "Xây dựng kế hoạch cứu vệ tinh trong thời gian kỷ lục",
+        "Tổ chức sứ mệnh cứu vệ tinh trong thời gian ngắn",
+        "Mục tiêu của sứ mệnh là cứu vệ tinh khỏi hư hỏng",
+        "Sự thành công của sứ mệnh vẫn còn phụ thuộc vào nhiều yếu tố"
+      ],
+      "full_summary": "Một sứ mệnh cứu vệ tinh khẩn cấp đã được triển khai trong thời gian kỷ lục. Mục tiêu của sứ mệnh này là cứu vệ tinh khỏi hư hỏng. Người đứng đầu sứ mệnh đã tuyên bố rằng đây là một thành công từ trước khi sứ mệnh bắt đầu. Tuy nhiên, sự thành công của sứ mệnh vẫn còn phụ thuộc vào nhiều yếu tố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b433f1575ff0",
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-21T09:40:17.410736+00:00",
+      "category": "politics|technology",
+      "importance": 4,
+      "headline": "Đài Loan tăng sản xuất máy bay không người lái cho quân đội và Mỹ",
+      "bullets": [
+        "Tăng cường sản xuất máy bay không người lái cho quân đội Đài Loan",
+        "Hợp tác với quân đội Mỹ để phát triển công nghệ mới",
+        "Sản xuất máy bay không người lái để tăng cường khả năng phòng thủ trước Trung Quốc",
+        "Cơ hội kinh doanh mới cho các công ty Đài Loan"
+      ],
+      "full_summary": "Đài Loan đang tăng cường sản xuất máy bay không người lái cho quân đội và quân đội Mỹ. Điều này nhằm tăng cường khả năng phòng thủ trước Trung Quốc. Ngoài ra, sản xuất máy bay không người lái cũng mang lại cơ hội kinh doanh mới cho các công ty Đài Loan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "08b6418582ce",
+      "title": "The 100k Whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-21T09:40:19.585795+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nghiên cứu về lý do 100.000 tại sao của trí tuệ nhân tạo",
+      "bullets": [
+        "Xác định các yếu tố ảnh hưởng đến sự phát triển của trí tuệ nhân tạo",
+        "Phân tích các lý do tại sao trí tuệ nhân tạo lại quan trọng",
+        "Khám phá các ứng dụng thực tế của trí tuệ nhân tạo trong cuộc sống hàng ngày"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã thảo luận về lý do 100.000 tại sao của trí tuệ nhân tạo. Bài viết này đã phân tích các yếu tố ảnh hưởng đến sự phát triển của trí tuệ nhân tạo và khám phá các ứng dụng thực tế của nó trong cuộc sống hàng ngày. Bài viết này đã thu hút được sự chú ý của nhiều người dùng Hacker News và đã có 53 bình luận.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d41ff2f8a3eb",
       "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
@@ -575,225 +793,6 @@
         "Bệnh cú mèo H5N1 là một loại virus nguy hiểm"
       ],
       "full_summary": "Úc đã xác nhận ca đầu tiên của bệnh cú mèo H5N1, khiến nước này trở thành châu lục cuối cùng bị ảnh hưởng bởi loại virus này. Bệnh cú mèo H5N1 đã lan đến tất cả các châu lục, bao gồm châu Á, châu Âu, châu Phi, châu Mỹ và châu Đại Dương. Loại virus này được coi là nguy hiểm và có thể gây ra các vấn đề sức khỏe nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2961f92e7c03",
-      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T08:45:07.810206+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Đạo diễn nổi tiếng James Burrows qua đời ở tuổi 85",
-      "bullets": [
-        "Sáng tạo sitcom Cheers",
-        "Đạo diễn hơn 1.000 tập phim các chương trình kinh điển",
-        "Làm việc với các chương trình nổi tiếng như Big Bang Theory và Will and Grace",
-        "Là một trong những đạo diễn nổi tiếng nhất trong lịch sử truyền hình"
-      ],
-      "full_summary": "Đạo diễn nổi tiếng James Burrows đã qua đời ở tuổi 85. Ông được biết đến nhiều nhất với vai trò đồng sáng tạo sitcom Cheers và đã đạo diễn hơn 1.000 tập phim các chương trình kinh điển khác. Ông đã làm việc với các chương trình nổi tiếng như Big Bang Theory và Will and Grace. James Burrows được coi là một trong những đạo diễn nổi tiếng nhất trong lịch sử truyền hình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c548eee8012a",
-      "title": "Snap unveils £1,995 smart glasses after previous flops",
-      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T08:45:08.822946+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Snap ra mắt kính thông minh giá 1.995 bảng Anh",
-      "bullets": [
-        "Ra mắt kính AR giá cao",
-        "Kính sẽ được giao hàng vào mùa thu",
-        "Đây là lần thứ ba Snap thử nghiệm kính thông minh",
-        "Kính có thể được sử dụng để trải nghiệm thực tế tăng cường"
-      ],
-      "full_summary": "Công ty mẹ của Snapchat, Snap, vừa công bố kính thông minh giá 1.995 bảng Anh. Kính này sẽ được giao hàng vào mùa thu. Đây không phải lần đầu tiên Snap thử nghiệm kính thông minh, nhưng lần này họ hy vọng sẽ thành công. Kính có thể được sử dụng để trải nghiệm thực tế tăng cường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "95f3b8c0bab9",
-      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-20T08:45:09.753820+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft phát hiện lỗ hổng nhẹ mới trộm tiền điện tử",
-      "bullets": [
-        "Phát hiện ra Crypto Clipper, một loại malware tự lây lan",
-        "Malware này lây lan qua USB và giao tiếp qua Tor",
-        "Mục tiêu của malware là trộm tiền điện tử",
-        "Microsoft cảnh báo người dùng về nguy cơ này"
-      ],
-      "full_summary": "Microsoft vừa phát hiện ra một loại malware mới có tên Crypto Clipper, loại malware này có khả năng tự lây lan và mục tiêu là trộm tiền điện tử. Malware này lây lan qua USB và giao tiếp qua Tor, khiến cho việc phát hiện và ngăn chặn trở nên khó khăn. Microsoft cảnh báo người dùng về nguy cơ này và khuyến nghị nên sử dụng phần mềm diệt virus để bảo vệ thiết bị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4f4837456e89",
-      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-20T08:45:10.734068+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "FDA tư vấn đồng ý cho phép mRNA của Moderna sau scandal",
-      "bullets": [
-        "Đồng ý cho phép mRNA của Moderna",
-        "Căng thẳng tại FDA sau khi một quan chức Trump từ chối xem xét vắc-xin",
-        "Hội đồng tư vấn FDA bỏ phiếu toàn bộ ủng hộ",
-        "MRNA của Moderna được xem xét cho phép sử dụng rộng rãi"
-      ],
-      "full_summary": "Hội đồng tư vấn FDA đã bỏ phiếu toàn bộ ủng hộ cho phép mRNA của Moderna sau khi có scandal tại cơ quan này. Vào tháng 2, một quan chức Trump từ chối xem xét vắc-xin. Sự cố này đã gây ra căng thẳng tại FDA. Ngày hôm nay, họ đã bỏ phiếu ủng hộ mRNA của Moderna.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "36f8cc76364f",
-      "title": "Android verification is coming: Google confirms timeline and supported app stores",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-20T08:45:11.650326+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google xác nhận lịch trình triển khai xác thực Android",
-      "bullets": [
-        "Sẽ triển khai dịch vụ hệ thống mới vào tháng này",
-        "Thay đổi lớn sẽ bắt đầu từ tháng 9",
-        "Tất cả cửa hàng ứng dụng sẽ hỗ trợ xác thực Android",
-        "Google sẽ cung cấp thông tin chi tiết hơn về quy trình xác thực"
-      ],
-      "full_summary": "Google đã xác nhận lịch trình triển khai xác thực Android. Dịch vụ hệ thống mới sẽ được triển khai vào tháng này, sau đó thay đổi lớn sẽ bắt đầu từ tháng 9. Tất cả cửa hàng ứng dụng sẽ hỗ trợ xác thực Android. Google sẽ cung cấp thông tin chi tiết hơn về quy trình xác thực trong thời gian tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65b502da4928",
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-20T08:45:12.616583+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Người dùng lưu trang web vào biểu tượng trang web",
-      "bullets": [
-        "Người dùng Tim Wehrle lưu trang web vào biểu tượng trang web (favicon)",
-        "Trang web được lưu dưới dạng hình ảnh",
-        "Người dùng sử dụng kỹ thuật lưu trữ dữ liệu trong hình ảnh",
-        "Kỹ thuật này có thể được sử dụng để lưu trữ dữ liệu nhỏ"
-      ],
-      "full_summary": "Người dùng Tim Wehrle đã thực hiện một điều kỳ lạ khi lưu trữ một trang web vào biểu tượng trang web (favicon) của mình. Trang web được lưu dưới dạng hình ảnh và người dùng sử dụng kỹ thuật lưu trữ dữ liệu trong hình ảnh. Kỹ thuật này có thể được sử dụng để lưu trữ dữ liệu nhỏ. Điều này cho thấy sự sáng tạo và khả năng của người dùng trong việc sử dụng công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8dc3a3d3ce04",
-      "title": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-20T08:45:16.346844+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Năng suất tăng đáng kể khi sử dụng hệ thống cân bằng tải",
-      "bullets": [
-        "Giảm thiểu thời gian chờ đợi cho người dùng",
-        "Cải thiện hiệu suất của hệ thống",
-        "Tăng khả năng phục hồi khi xảy ra sự cố"
-      ],
-      "full_summary": "Hệ thống cân bằng tải có thể tăng năng suất đáng kể bằng cách phân phối tải đều trên nhiều máy chủ. Điều này giúp giảm thiểu thời gian chờ đợi cho người dùng và cải thiện hiệu suất của hệ thống. Ngoài ra, hệ thống cân bằng tải cũng có thể tăng khả năng phục hồi khi xảy ra sự cố, giúp đảm bảo hệ thống luôn hoạt động ổn định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f6bba7c0f70",
-      "title": "New video game console aims to get kids moving",
-      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T02:42:48.549135+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một máy chơi game mới khuyến khích trẻ em vận động",
-      "bullets": [
-        "Sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6",
-        "Máy chơi game có hình dạng khối lập phương",
-        "Giá bán của máy là £269 (€319)",
-        "Mục tiêu là khuyến khích trẻ em vận động khi chơi game"
-      ],
-      "full_summary": "Một máy chơi game mới được thiết kế để khuyến khích trẻ em vận động khi chơi game. Máy chơi game có hình dạng khối lập phương sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6 với giá £269 (€319). Mục tiêu của máy chơi game này là khuyến khích trẻ em vận động khi chơi game thay vì chỉ ngồi chơi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4803715095f3",
-      "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
-      "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T02:42:49.437271+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Rockstar công bố ngày đặt hàng trước GTA 6",
-      "bullets": [
-        "Công bố ngày đặt hàng trước GTA 6 là 25 tháng 6",
-        "Rockstar tiết lộ hình bìa của GTA 6",
-        "Người hâm mộ đã chờ đợi game này nhiều năm",
-        "GTA 6 được xem là một trong những game điện tử được mong chờ nhất"
-      ],
-      "full_summary": "Rockstar Games đã công bố ngày đặt hàng trước cho game điện tử GTA 6. Người hâm mộ đã chờ đợi game này nhiều năm. Hình bìa của GTA 6 cũng đã được tiết lộ. Người chơi có thể đặt hàng trước game này từ ngày 25 tháng 6.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0e7996621dc4",
-      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
-      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T02:42:50.556333+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Bán lẻ cần sa làm tăng số người sử dụng và vấn đề tâm thần",
-      "bullets": [
-        "Tăng số người sử dụng cần sa sau khi bán lẻ được cho phép",
-        "Số người mắc chứng rối loạn tâm thần tăng lên",
-        "Nghiên cứu cho thấy bán lẻ cần sa không giảm số người sử dụng",
-        "Thay vào đó, nó làm tăng số người sử dụng và vấn đề tâm thần"
-      ],
-      "full_summary": "Một nghiên cứu vừa công bố cho thấy bán lẻ cần sa không giảm số người sử dụng như nhiều người nghĩ. Thay vào đó, nó làm tăng số người sử dụng và số người mắc chứng rối loạn tâm thần. Nghiên cứu này được thực hiện bởi một nhóm quốc tế và phân tích chính sách về cần sa từ năm 2000 đến 2025. Kết quả cho thấy bán lẻ cần sa không phải là giải pháp tốt cho vấn đề sử dụng cần sa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a07fcd349948",
-      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-      "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-20T02:42:51.443016+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Blue Origin bắt đầu xây dựng lại cơ sở phóng tên lửa",
-      "bullets": [
-        "Blue Origin bắt đầu xây dựng lại cơ sở phóng tên lửa New Armstrong",
-        "Relativity Space đặt mục tiêu đến Mặt Trăng",
-        "Một công ty phóng tên lửa Pháp đang thay đổi tên lửa do vấn đề bản quyền",
-        "Cơ sở phóng tên lửa của Blue Origin bị hư hỏng sau vụ nổ"
-      ],
-      "full_summary": "Blue Origin đã bắt đầu xây dựng lại cơ sở phóng tên lửa New Armstrong sau vụ nổ xảy ra vào tháng 5. Trong khi đó, Relativity Space đang đặt mục tiêu đến Mặt Trăng bằng cách phóng tên lửa Space Launch System (SLS). Một công ty phóng tên lửa Pháp đã thay đổi tên lửa do vấn đề bản quyền. Cơ sở phóng tên lửa của Blue Origin bị hư hỏng nghiêm trọng và cần được sửa chữa.",
       "comments": 0,
       "score": 0
     }
