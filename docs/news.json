@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-21T13:53:24.090611+00:00",
+  "updated_at": "2026-06-21T19:20:37.953665+00:00",
   "articles": [
+    {
+      "id": "dc79e2426386",
+      "title": "US and Iran begin talks on initial peace deal in Switzerland",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T19:20:22.230305+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ và Iran bắt đầu đàm phán về thỏa thuận hòa bình ban đầu tại Thụy Sĩ",
+      "bullets": [
+        "Mỹ và Iran bắt đầu đàm phán hòa bình tại Geneva, Thụy Sĩ",
+        "Đàm phán diễn ra sau những cuộc chiến tranh tại Lebanon",
+        "Iran tuyên bố đã đóng Strait of Hormuz",
+        "Hai bên đang tìm kiếm thỏa thuận hòa bình ban đầu"
+      ],
+      "full_summary": "Mỹ và Iran đã bắt đầu đàm phán hòa bình tại Geneva, Thụy Sĩ. Đàm phán diễn ra sau những cuộc chiến tranh tại Lebanon và tuyên bố của Iran về việc đóng Strait of Hormuz. Hai bên đang tìm kiếm thỏa thuận hòa bình ban đầu để chấm dứt xung đột. Mục tiêu của đàm phán là tìm kiếm một giải pháp hòa bình cho các vấn đề giữa hai nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "529759403395",
+      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T19:20:23.374200+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Đảng của Thủ tướng Ethiopia thắng đậm trong cuộc bầu cử",
+      "bullets": [
+        "Thắng cử lớn bất chấp tình trạng bất ổn ở nhiều khu vực Ethiopia",
+        "Tình trạng căng thẳng với các nước láng giềng vẫn tiếp diễn",
+        "Đảng của Thủ tướng Abiy Ahmed vẫn giữ đa số lớn trong Quốc hội",
+        "Tình hình Ethiopia vẫn đang đặt ra nhiều lo ngại về xung đột mới"
+      ],
+      "full_summary": "Đảng của Thủ tướng Ethiopia, Đảng Hòa giải và Hợp nhất (EPRDF), đã giành chiến thắng lớn trong cuộc bầu cử quốc hội vừa qua. Mặc dù cuộc bầu cử diễn ra trong bối cảnh tình trạng bất ổn ở nhiều khu vực Ethiopia và căng thẳng với các nước láng giềng, nhưng đảng này vẫn giữ đa số lớn trong Quốc hội. Thủ tướng Abiy Ahmed, người đã lãnh đạo đất nước kể từ năm 2018, được kỳ vọng sẽ tiếp tục dẫn dắt đất nước trong những năm tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52cfd190278b",
+      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-21T19:20:24.392390+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Jeff Bezos tin AI sẽ tạo ra thiếu hụt lao động",
+      "bullets": [
+        "Jeff Bezos tin AI sẽ tạo ra nhiều việc làm cho con người",
+        "Ông nghĩ AI sẽ tạo ra thiếu hụt lao động",
+        "Founder Amazon tin AI sẽ thay đổi cách con người làm việc",
+        "Jeff Bezos tin AI sẽ không thay thế con người"
+      ],
+      "full_summary": "Jeff Bezos, người sáng lập Amazon, tin rằng trí tuệ nhân tạo (AI) sẽ tạo ra nhiều việc làm hơn là thay thế con người. Ông nghĩ rằng AI sẽ tạo ra thiếu hụt lao động vì nó sẽ thay đổi cách con người làm việc. Bezos, người hiện đang có các công ty về robot và du hành vũ trụ, tin rằng AI sẽ giúp con người phát triển và tạo ra nhiều cơ hội mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0e307e259bc8",
+      "title": "Trump admin’s coal investments assist plants with repeated violations",
+      "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-21T19:20:25.314913+00:00",
+      "category": "khoa học|môi trường",
+      "importance": 3,
+      "headline": "Hành động của Trump hỗ trợ các nhà máy than vi phạm quy định môi trường",
+      "bullets": [
+        "Vi phạm quy định môi trường nhiều lần",
+        "Có ít nhất 3 nhà máy than bị chỉ trích",
+        "Hành động của Trump hỗ trợ các nhà máy này",
+        "Vi phạm quy định về môi trường và an toàn"
+      ],
+      "full_summary": "Theo báo cáo, ít nhất 3 nhà máy than đã bị chỉ trích vì vi phạm quy định môi trường. Hành động của chính quyền Trump đã hỗ trợ các nhà máy này, mặc dù chúng đã vi phạm quy định nhiều lần. Các nhà máy này đã bị chỉ trích vì vi phạm quy định về môi trường và an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a07fcd349948",
+      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+      "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-21T19:20:26.358809+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Blue Origin bắt đầu xây dựng lại cơ sở phóng mới",
+      "bullets": [
+        "Blue Origin bắt đầu xây dựng lại cơ sở phóng mới sau sự cố",
+        "Relativity đặt mục tiêu đến Mặt Trăng",
+        "Một công ty phóng tên lửa Pháp hủy bỏ tên lửa vì vấn đề bản quyền",
+        "Các công ty tên lửa đang đẩy nhanh tiến độ phát triển"
+      ],
+      "full_summary": "Blue Origin đang xây dựng lại cơ sở phóng mới sau sự cố. Công ty này đã bắt đầu quá trình xây dựng lại cơ sở phóng ở Texas. Trong khi đó, Relativity đang đặt mục tiêu đến Mặt Trăng. Một công ty phóng tên lửa Pháp đã hủy bỏ tên lửa của mình do vấn đề bản quyền.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "95f3b8c0bab9",
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-21T19:20:27.333990+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Microsoft phát hiện lỗ hổng nhẹ mới trộm tiền điện tử",
+      "bullets": [
+        "Phát hiện ra Crypto Clipper, một loại malware tự lây lan",
+        "Lây lan qua USB và giao tiếp qua mạng Tor",
+        "Mục đích là trộm tiền điện tử",
+        "Microsoft cảnh báo người dùng về mối đe dọa mới"
+      ],
+      "full_summary": "Microsoft vừa phát hiện ra một loại malware mới gọi là Crypto Clipper, loại malware này tự lây lan và có khả năng trộm tiền điện tử. Theo Ars Technica, malware này lây lan qua USB và giao tiếp qua mạng Tor để tránh được sự theo dõi. Microsoft cảnh báo người dùng về mối đe dọa mới này và khuyến cáo họ nên cẩn thận khi sử dụng thiết bị di động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4f4837456e89",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-21T19:20:28.305613+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "FDA đã nhất trí phê duyệt mRNA Moderna sau scandal",
+      "bullets": [
+        "Hội đồng cố vấn FDA đã bỏ phiếu đồng ý phê duyệt mRNA Moderna",
+        "Vắc xin mRNA Moderna đã trải qua nhiều tranh cãi tại FDA",
+        "Một quan chức Trump đã từ chối xem xét vắc xin hồi tháng 2",
+        "FDA đã bỏ qua các vấn đề trước khi phê duyệt mRNA Moderna"
+      ],
+      "full_summary": "Hội đồng cố vấn FDA đã nhất trí phê duyệt mRNA Moderna của Moderna sau nhiều tranh cãi. Vắc xin mRNA Moderna đã trải qua nhiều vấn đề tại FDA, bao gồm cả việc một quan chức Trump từ chối xem xét vắc xin hồi tháng 2. Sau nhiều tháng tranh cãi, FDA đã bỏ qua các vấn đề và phê duyệt mRNA Moderna.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8b8c3ddbcc04",
+      "title": "Show HN: Teach your kids perfect pitch",
+      "url": "https://github.com/paytonjjones/bsharp",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-21T19:20:33.844887+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Tìm hiểu cách dạy con đạt nốt nhạc chính xác",
+      "bullets": [
+        "Tạo ứng dụng BSharp để dạy trẻ đạt nốt nhạc chính xác",
+        "Ứng dụng này sử dụng âm thanh và giao diện người dùng thân thiện",
+        "Giúp trẻ học nhạc một cách thú vị và hiệu quả"
+      ],
+      "full_summary": "Một nhà phát triển đã tạo ứng dụng BSharp để giúp trẻ em đạt nốt nhạc chính xác. Ứng dụng này sử dụng âm thanh và giao diện người dùng thân thiện để giúp trẻ học nhạc một cách thú vị và hiệu quả. Ứng dụng được chia sẻ trên GitHub và đã nhận được 7 điểm và 2 bình luận trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "529da27c2834",
+      "title": "Clues to the sloth’s sloth found in its genome",
+      "url": "https://www.nature.com/articles/d41586-026-01869-y",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-06-21T19:20:37.453454+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Gen đã được phát hiện giúp giải thích tại sao gấu gỗ chậm lại",
+      "bullets": [
+        "Phát hiện ra sự lặp lại của các gen ảnh hưởng đến mitochondria",
+        "Mitochondria cung cấp năng lượng cho tế bào",
+        "Sự lặp lại này có thể giúp giải thích tại sao gấu gỗ chậm lại",
+        "Nghiên cứu về gen của gấu gỗ đã được công bố trên Nature"
+      ],
+      "full_summary": "Các nhà khoa học đã phát hiện ra rằng sự lặp lại của các gen ảnh hưởng đến mitochondria có thể giúp giải thích tại sao gấu gỗ chậm lại. Mitochondria cung cấp năng lượng cho tế bào, và sự lặp lại này có thể ảnh hưởng đến quá trình sản xuất năng lượng của tế bào. Nghiên cứu về gen của gấu gỗ đã được công bố trên Nature, một tạp chí khoa học uy tín.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "70efe7a9a565",
       "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
@@ -616,184 +795,6 @@
         "Zelensky và Tổng thống Ba Lan có cuộc gặp gỡ thân mật"
       ],
       "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky đã nhận lại danh hiệu cao nhất của Ba Lan sau khi bị rút lại. Zelensky cho biết Ukraine sẵn sàng thảo luận về các trang sử đau đớn của cả hai nước. Điều này diễn ra sau khi Zelensky và Tổng thống Ba Lan có cuộc gặp gỡ thân mật. Các cuộc thảo luận giữa Ukraine và Ba Lan có ý nghĩa quan trọng trong việc cải thiện quan hệ giữa hai quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "940827f36af4",
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "url": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T19:14:21.532514+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
-      "bullets": [
-        "Được phát triển bởi Rockstar, trò chơi điện tử này sẽ là bản phát hành lớn nhất năm nay",
-        "GTA 6 sẽ là trò chơi điện tử thứ sáu trong loạt trò chơi này",
-        "Thông tin chi tiết về trò chơi điện tử này vẫn chưa được công bố rộng rãi",
-        "Trò chơi điện tử này được mong đợi sẽ mang lại nhiều trải nghiệm mới mẻ cho người chơi"
-      ],
-      "full_summary": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay. Trò chơi điện tử này sẽ là bản phát hành lớn nhất năm nay và được phát triển bởi Rockstar. Thông tin chi tiết về trò chơi điện tử này vẫn chưa được công bố rộng rãi. Người hâm mộ đang mong đợi sẽ được trải nghiệm nhiều điều mới mẻ trong trò chơi điện tử này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c6f70cbbb3b",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T19:14:22.467685+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Barbados kêu gọi bồi thường cho nạn nhân nô lệ",
-      "bullets": [
-        "Mia Mottley công bố bản tuyên bố mới về bồi thường cho nạn nhân nô lệ",
-        "Bản tuyên bố nhấn mạnh sự tổn thương đối với phụ nữ châu Phi",
-        "Các nước Caribbean đang xem xét bản tuyên bố này",
-        "UN đã thông qua nghị quyết lịch sử về tội ác chống lại loài người"
-      ],
-      "full_summary": "Chủ tịch Barbados Mia Mottley đã công bố bản tuyên bố mới về bồi thường cho nạn nhân nô lệ. Bản tuyên bố này nhấn mạnh sự tổn thương đối với phụ nữ châu Phi và được các nước Caribbean xem xét. Sự kiện này diễn ra trong bối cảnh Liên Hợp Quốc đã thông qua nghị quyết lịch sử về tội ác chống lại loài người. Đây là bước tiến quan trọng trong việc thúc đẩy công lý reparatory.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f5e47ce467da",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T19:14:23.450607+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai người đàn ông Nam Phi bị kết án vì buôn bán sừng tê lớn nhất thế giới",
-      "bullets": [
-        "Bị kết án là Dawie Groenewald và Tielman Erasmus",
-        "Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp",
-        "Bị kết án với hình phạt tiền 2 triệu rands hoặc tù giam 4 năm"
-      ],
-      "full_summary": "Hai người đàn ông Nam Phi, Dawie Groenewald và Tielman Erasmus, đã bị kết án trong vụ buôn bán sừng tê lớn nhất thế giới. Họ bị cáo buộc hơn 1.700 tội danh liên quan đến săn bắt và chặt sừng tê bất hợp pháp. Bị kết án với hình phạt tiền 2 triệu rands hoặc tù giam 4 năm, vụ án này đã kết thúc phần lớn sau gần hai thập kỷ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a6f6ad4a9838",
-      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
-      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-20T19:14:26.221101+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Anh Quốc sẽ sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn",
-      "bullets": [
-        "Sẽ sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn",
-        "Công nghệ này đã được thử nghiệm và cho thấy nhiều rủi ro về lỗi xác định tuổi",
-        "Lỗi xác định tuổi có thể dẫn đến hậu quả nghiêm trọng đối với người tị nạn",
-        "Anh Quốc biết về những hạn chế của công nghệ này nhưng vẫn quyết định sử dụng"
-      ],
-      "full_summary": "Anh Quốc đã quyết định sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn, mặc dù công nghệ này đã được thử nghiệm và cho thấy nhiều rủi ro về lỗi xác định tuổi. Các thử nghiệm đã chỉ ra rằng công nghệ này có thể dẫn đến lỗi xác định tuổi, gây hậu quả nghiêm trọng đối với người tị nạn. Mặc dù Anh Quốc biết về những hạn chế của công nghệ này, nhưng họ vẫn quyết định sử dụng nó để xác định tuổi tị nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5c64803751e2",
-      "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
-      "url": "https://news.ycombinator.com/item?id=48611303",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-20T19:14:28.310906+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nghi vấn spam trên GitHub, người dùng chuyển dự án sang đâu?",
-      "bullets": [
-        "Người dùng chuyển dự án sang các nền tảng khác để tránh spam",
-        "GitHub bị ảnh hưởng bởi các PR và yêu cầu spam từ các coder và bot",
-        "Các sao trên GitHub bị đánh giá quá cao",
-        "Người dùng tìm kiếm các nền tảng thay thế cho dự án của mình"
-      ],
-      "full_summary": "Một người dùng đã chia sẻ vấn đề spam trên GitHub, nơi họ đang gặp phải nhiều PR và yêu cầu spam từ các coder và bot. Họ đang tìm kiếm các nền tảng thay thế để chuyển dự án của mình. Vấn đề này đã được thảo luận trên Hacker News với 32 bình luận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f9f9476eb0a2",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T13:45:29.007861+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel và Hezbollah tiếp tục bắn đạn dù có thỏa thuận ngừng bắn",
-      "bullets": [
-        "Israel tấn công mục tiêu Hezbollah ở miền nam Lebanon",
-        "Hezbollah bắn hơn 50 phát đạn vào lực lượng Israel",
-        "Cáo buộc về cái chết ở miền nam Lebanon",
-        "Israel tuyên bố tấn công mục tiêu khủng bố"
-      ],
-      "full_summary": "Israel và Hezbollah tiếp tục bắn đạn dù có thỏa thuận ngừng bắn. Israel tuyên bố đã tấn công mục tiêu Hezbollah ở miền nam Lebanon sau khi nhóm này bắn hơn 50 phát đạn vào lực lượng Israel. Cáo buộc về cái chết ở miền nam Lebanon đã được đưa ra. Israel cho biết đã tấn công mục tiêu khủng bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "02df60b6781c",
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T13:45:29.921460+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một du khách tử vong trong vụ hỏa hoạn tại khu nghỉ dưỡng sang trọng ở Cộng hòa Dominica",
-      "bullets": [
-        "Hơn 1.700 người được sơ tán khỏi vụ hỏa hoạn lớn tại Viva Wyndham Dominicus Beach",
-        "Vụ hỏa hoạn xảy ra tại khu nghỉ dưỡng thị trấn Bayahibe trên bờ biển Caribbean",
-        "Du khách tử vong trong vụ hỏa hoạn tại khu nghỉ dưỡng sang trọng"
-      ],
-      "full_summary": "Một vụ hỏa hoạn lớn đã xảy ra tại khu nghỉ dưỡng Viva Wyndham Dominicus Beach ở Cộng hòa Dominica, khiến hơn 1.700 người phải sơ tán. Vụ hỏa hoạn đã khiến một du khách tử vong. Khu nghỉ dưỡng này nằm ở thị trấn Bayahibe trên bờ biển Caribbean.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c7ba2bfb4543",
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T13:45:30.841505+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch cơ quan giám sát dữ liệu Anh từ chức vì sử dụng hài hước không phù hợp",
-      "bullets": [
-        "Chủ tịch cơ quan giám sát dữ liệu Anh từ chức",
-        "Ông đã làm việc tại vị trí này từ tháng 1 năm 2022",
-        "Ông thừa nhận đã sử dụng hài hước không phù hợp",
-        "Cơ quan giám sát dữ liệu Anh chịu trách nhiệm giám sát dữ liệu và trí tuệ nhân tạo"
-      ],
-      "full_summary": "Chủ tịch cơ quan giám sát dữ liệu Anh, Edwards, đã từ chức sau khi thừa nhận đã sử dụng hài hước không phù hợp. Ông đã làm việc tại vị trí này từ tháng 1 năm 2022. Cơ quan giám sát dữ liệu Anh chịu trách nhiệm giám sát dữ liệu và trí tuệ nhân tạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b30b13256b40",
-      "title": "The artificial ice pyramids saving India's mountain villages",
-      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-20T13:45:31.767167+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Himalaya: Các làng tạo ra băng nhân tạo để đảm bảo nước cho mùa xuân",
-      "bullets": [
-        "Tạo ra băng nhân tạo để cung cấp nước cho mùa xuân",
-        "Cải thiện nguồn nước cho các trang trại",
-        "Giảm thiểu tác động của biến đổi khí hậu",
-        "Hỗ trợ phát triển bền vững cho các làng núi"
-      ],
-      "full_summary": "Các làng ở dãy Himalaya đang tạo ra băng nhân tạo để đảm bảo nước cho mùa xuân. Kỹ thuật này giúp cung cấp nước cho các trang trại và giảm thiểu tác động của biến đổi khí hậu. Các làng này đang sử dụng công nghệ để tạo ra băng nhân tạo, giúp họ có nước cho mùa xuân và giảm thiểu tác động của khô hạn. Kỹ thuật này cũng hỗ trợ phát triển bền vững cho các làng núi.",
       "comments": 0,
       "score": 0
     }
