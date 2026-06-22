@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-22T11:40:20.595747+00:00",
+  "updated_at": "2026-06-22T16:42:55.131883+00:00",
   "articles": [
+    {
+      "id": "20f5d6bc444f",
+      "title": "Vance says Iran will allow nuclear inspectors back into the country",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T16:42:40.400101+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran đồng ý cho nhà điều tra hạt nhân quay lại",
+      "bullets": [
+        "Iran đồng ý cho nhà điều tra hạt nhân quay lại",
+        "Hai bên đạt được tiến bộ đáng kể sau đàm phán đầu tiên",
+        "Vice tổng thống Mỹ cam kết tiếp tục đàm phán",
+        "Mục tiêu cuối cùng là đạt được thỏa thuận hạt nhân"
+      ],
+      "full_summary": "Vice tổng thống Mỹ Kamala Harris cho biết Iran đã đồng ý cho nhà điều tra hạt nhân quay lại sau đàm phán đầu tiên. Bà Harris nói rằng hai bên đã đạt được tiến bộ đáng kể và cam kết tiếp tục đàm phán. Mục tiêu cuối cùng là đạt được thỏa thuận hạt nhân để ngăn chặn Iran phát triển vũ khí hạt nhân. Đây là một bước tiến quan trọng trong việc giải quyết vấn đề hạt nhân của Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5c30f252acca",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T16:42:41.468538+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nổ khí thiên nhiên tại Qatar khiến 13 người thiệt mạng",
+      "bullets": [
+        "Nổ khí thiên nhiên xảy ra tại khu công nghiệp Ras Laffan",
+        "Có ít nhất 13 người chết và nhiều người bị thương",
+        "Địa điểm xảy ra vụ nổ là nhà máy xử lý khí thiên nhiên lỏng chính",
+        "Vụ nổ được xác định là một tai nạn kỹ thuật"
+      ],
+      "full_summary": "Một vụ nổ khí thiên nhiên nghiêm trọng đã xảy ra tại khu công nghiệp Ras Laffan ở Qatar, khiến ít nhất 13 người thiệt mạng và nhiều người bị thương. Vụ nổ xảy ra tại nhà máy xử lý khí thiên nhiên lỏng chính. Nguyên nhân của vụ nổ chưa được xác định rõ ràng, nhưng được mô tả là một tai nạn kỹ thuật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3e6b706bf16c",
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T16:42:42.557271+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Lực lượng quân đội Miến Điện giết hại hơn 700 thường dân trong 6 tháng",
+      "bullets": [
+        "Giết hại 702 thường dân trong 6 tháng năm ngoái",
+        "Bao gồm 153 trẻ em",
+        "UN cáo buộc quân đội Miến Điện vi phạm nhân quyền",
+        "Báo cáo mới của UN chỉ ra tình hình khủng khiếp ở Miến Điện"
+      ],
+      "full_summary": "Một báo cáo mới của Liên Hợp Quốc cáo buộc quân đội Miến Điện đã giết hại hơn 700 thường dân trong 6 tháng năm ngoái, bao gồm 153 trẻ em. Báo cáo này chỉ ra tình hình khủng khiếp ở Miến Điện và vi phạm nhân quyền nghiêm trọng của quân đội. Đây là một trong những cáo buộc nghiêm trọng nhất đối với quân đội Miến Điện trong nhiều năm qua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e4f7bef558ac",
+      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T16:42:43.590868+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp sắp có lãnh đạo mới, người sáng lập công ty Ấn Độ",
+      "bullets": [
+        "Sẽ có lãnh đạo mới dẫn dắt WhatsApp",
+        "Người sáng lập công ty Ấn Độ sẽ đảm nhận vai trò này",
+        "Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ",
+        "Lãnh đạo mới sẽ giúp WhatsApp tiếp tục phát triển tại thị trường Ấn Độ"
+      ],
+      "full_summary": "WhatsApp sắp có lãnh đạo mới, người sáng lập công ty Ấn Độ. Điều này diễn ra trong bối cảnh Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ. Người sáng lập công ty Ấn Độ sẽ đảm nhận vai trò lãnh đạo mới của WhatsApp. Lãnh đạo mới sẽ giúp WhatsApp tiếp tục phát triển tại thị trường Ấn Độ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1277cf2d316d",
+      "title": "Twins marry twins in joyous Nigerian joint wedding",
+      "url": "https://www.bbc.com/news/articles/cvglvkxwxj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T16:42:44.569573+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Hai anh em Nigeria kết hôn với hai chị em song sinh",
+      "bullets": [
+        "Hai anh em Taiwo và Kehinde Oguntoye kết hôn với hai chị em song sinh",
+        "Lễ cưới được tổ chức tại Nigeria",
+        "Cặp đôi được cho là đã yêu nhau từ lâu",
+        "Hai anh em và hai chị em song sinh đã có một cuộc sống hạnh phúc cùng nhau"
+      ],
+      "full_summary": "Hai anh em Taiwo và Kehinde Oguntoye đã kết hôn với hai chị em song sinh tại Nigeria. Lễ cưới được tổ chức trong một sự kiện lớn và được nhiều người tham dự. Cặp đôi được cho là đã yêu nhau từ lâu và đã có một cuộc sống hạnh phúc cùng nhau. Đây là một sự kiện hiếm gặp và được nhiều người quan tâm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e4f7bef558ac",
+      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T16:42:45.523926+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp sắp có lãnh đạo mới, người sáng lập công ty Ấn Độ",
+      "bullets": [
+        "Sẽ có người sáng lập công ty Ấn Độ lãnh đạo WhatsApp",
+        "Meta muốn tăng cường hiện diện của ứng dụng ở Ấn Độ",
+        "Lãnh đạo mới sẽ thay thế Will Cathcart",
+        "WhatsApp đang có sự bùng nổ ở Ấn Độ"
+      ],
+      "full_summary": "WhatsApp sắp có lãnh đạo mới. Người sáng lập công ty Ấn Độ sẽ lãnh đạo WhatsApp. Điều này diễn ra khi Meta muốn tăng cường hiện diện của ứng dụng ở Ấn Độ. Lãnh đạo mới sẽ thay thế Will Cathcart, người đã lãnh đạo WhatsApp từ năm 2019.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "decc6203b322",
+      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
+      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T16:42:48.992196+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Colombia bầu cử tổng thống, khả năng dẫn đến sự thay đổi trong cuộc xung đột vũ trang kéo dài",
+      "bullets": [
+        "Colombia chuẩn bị tổ chức bầu cử tổng thống",
+        "Ứng cử viên Abelardo de la Espriella cam kết quay lại chiến đấu với các tổ chức vũ trang",
+        "Sự kiện này có thể dẫn đến sự thay đổi trong cuộc xung đột vũ trang kéo dài",
+        "Sự ủng hộ của cử tri đối với ứng cử viên này đang được theo dõi"
+      ],
+      "full_summary": "Colombia đang chuẩn bị tổ chức bầu cử tổng thống, trong đó ứng cử viên Abelardo de la Espriella được dự đoán sẽ giành chiến thắng. Ông đã cam kết quay lại chiến đấu với các tổ chức vũ trang, thay vì tiếp tục kế hoạch 'tổng hòa bình' của Tổng thống Gustavo Petro. Điều này có thể dẫn đến sự thay đổi trong cuộc xung đột vũ trang kéo dài ở Colombia, sau khi đất nước đạt được thỏa thuận hòa bình với phần lớn Quân đội Cách mạng Colombia (Farc) vào năm 2016.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f857e1a7ef48",
+      "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+      "url": "https://github.com/0xroylee/ponytrail",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-22T16:42:54.056701+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một công cụ theo dõi thay đổi mã nguồn AI mới được phát triển",
+      "bullets": [
+        "Tạo ra Ponytrail, một bản ghi thay đổi địa phương cho các sửa đổi của đại diện mã nguồn AI",
+        "Công cụ này giúp theo dõi và quản lý các thay đổi trong mã nguồn AI",
+        "Ponytrail có thể được sử dụng để kiểm tra và xác minh tính toàn vẹn của mã nguồn AI"
+      ],
+      "full_summary": "Một lập trình viên đã tạo ra Ponytrail, một công cụ theo dõi thay đổi địa phương cho các sửa đổi của đại diện mã nguồn AI. Công cụ này giúp theo dõi và quản lý các thay đổi trong mã nguồn AI, từ đó giúp kiểm tra và xác minh tính toàn vẹn của mã nguồn AI. Ponytrail có thể được sử dụng trong nhiều ứng dụng khác nhau, bao gồm phát triển phần mềm và kiểm tra mã nguồn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8281e5c34981",
       "title": "Trump-backed political outsider wins Colombia election, initial count shows",
@@ -634,165 +793,6 @@
         "David Hockney là một trong những nghệ sĩ nổi tiếng nhất thế giới"
       ],
       "full_summary": "David Hockney, một trong những nghệ sĩ nổi tiếng nhất thế giới, đã qua đời tại nhà riêng ở London. Ông yêu cầu chỉ có người bạn và cháu trai lớn của mình tham dự lễ tang. Lễ an táng được tổ chức trong sự im lặng. David Hockney được biết đến với các tác phẩm nghệ thuật phong phú và đa dạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f6bba7c0f70",
-      "title": "New video game console aims to get kids moving",
-      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T13:53:13.965432+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Thiết bị chơi game mới khuyến khích trẻ em hoạt động thể chất",
-      "bullets": [
-        "Sẽ được ra mắt tại Anh và Ireland vào ngày 22 tháng 6",
-        "Giá bán là £269 (€319)",
-        "Thiết bị này nhằm mục đích khuyến khích trẻ em vận động",
-        "Không có thông tin chi tiết về các trò chơi sẽ có sẵn"
-      ],
-      "full_summary": "Một thiết bị chơi game mới có tên Nex Playground sẽ được ra mắt tại Anh và Ireland vào ngày 22 tháng 6. Thiết bị này có giá bán là £269 (€319) và được thiết kế để khuyến khích trẻ em vận động. Mặc dù không có thông tin chi tiết về các trò chơi sẽ có sẵn, nhưng thiết bị này có thể là một lựa chọn thú vị cho những người muốn khuyến khích con cái của mình hoạt động thể chất hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4803715095f3",
-      "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
-      "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T13:53:14.990190+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar công bố ngày đặt hàng trước cho GTA 6",
-      "bullets": [
-        "Công bố ngày đặt hàng trước cho GTA 6 là 25 tháng 6",
-        "Rockstar tiết lộ hình ảnh bìa cho trò chơi",
-        "Trò chơi được mong đợi từ lâu của Rockstar",
-        "Đặt hàng trước sẽ bắt đầu vào ngày 25 tháng 6"
-      ],
-      "full_summary": "Rockstar đã công bố ngày đặt hàng trước cho trò chơi điện tử GTA 6. Theo BBC Technology, ngày đặt hàng trước sẽ bắt đầu vào ngày 25 tháng 6. Hình ảnh bìa của trò chơi cũng đã được tiết lộ. GTA 6 được mong đợi từ lâu và sẽ là một trong những trò chơi điện tử được chờ đợi nhất trong năm nay.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dbde0c3d7f6e",
-      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T13:53:15.971296+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Sê-ri Widow's Bay là một tác phẩm kinh dị hài hước đầy sáng tạo",
-      "bullets": [
-        "Khám phá lại các chủ đề kinh dị kinh điển",
-        "Tái tạo chúng theo cách đầy bất ngờ",
-        "Là một bộ phim truyền hình dễ dàng nhắm mắt và xem",
-        "Chứa đựng nhiều yếu tố hài hước"
-      ],
-      "full_summary": "Sê-ri Widow's Bay là một tác phẩm kinh dị hài hước đầy sáng tạo, nó khám phá lại các chủ đề kinh dị kinh điển và tái tạo chúng theo cách đầy bất ngờ. Bộ phim truyền hình này dễ dàng nhắm mắt và xem, chứa đựng nhiều yếu tố hài hước. Mặc dù không có thông tin cụ thể về nguồn gốc của bộ phim, nhưng nó đã nhận được nhiều đánh giá tích cực từ các nhà phê bình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ddbb96b980d9",
-      "title": "Google Hits 50% IPv6",
-      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-21T13:53:21.297447+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google đạt 50% sử dụng IPv6",
-      "bullets": [
-        "Đạt được 50% sử dụng IPv6",
-        "Bắt đầu triển khai IPv6 từ lâu",
-        "Tăng cường bảo mật và hiệu suất mạng",
-        "Đáp ứng nhu cầu phát triển công nghệ"
-      ],
-      "full_summary": "Google đã đạt được 50% sử dụng IPv6, một cột mốc quan trọng trong việc triển khai IPv6. Điều này cho thấy sự nỗ lực của Google trong việc tăng cường bảo mật và hiệu suất mạng. Việc triển khai IPv6 từ lâu đã được Google bắt đầu, và hiện tại họ đã đạt được mục tiêu này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "66b2de1f57f3",
-      "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-      "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T09:40:08.000655+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "BBC chứng kiến các ngôi làng bị phá hủy ở miền nam Liban do Israel chiếm đóng",
-      "bullets": [
-        "BBC được phép vào một phần Liban dưới sự chiếm đóng của Israel",
-        "Hàng chục ngôi làng bị phá hủy trong cuộc xung đột",
-        "Hỗ trợ nhân đạo đang được vận chuyển đến khu vực bị ảnh hưởng",
-        "BBC được phép theo dõi chuyến đi nhân đạo"
-      ],
-      "full_summary": "BBC đã có cơ hội hiếm hoi để vào một phần Liban dưới sự chiếm đóng của Israel. Chuyến đi nhân đạo đã được tổ chức để hỗ trợ khu vực bị ảnh hưởng. Hàng chục ngôi làng đã bị phá hủy trong cuộc xung đột. BBC đã được phép theo dõi chuyến đi nhân đạo và ghi lại hình ảnh của các ngôi làng bị phá hủy.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8a6b7ac17c4e",
-      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T09:40:09.108350+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Căng thẳng nội bộ Colombia leo thang, ảnh hưởng đến cuộc bầu cử tổng thống",
-      "bullets": [
-        "Giới chức Colombia đang đối mặt với cuộc xung đột nội bộ ngày càng gay gắt",
-        "Tổng thống Colombia sắp tới sẽ phải đối mặt với cuộc bầu cử đầy thách thức",
-        "Hai ứng cử viên chủ chốt đang tranh chấp vị trí tổng thống",
-        "Căng thẳng nội bộ đang ảnh hưởng đến cuộc sống của người dân Colombia"
-      ],
-      "full_summary": "Colombia đang đối mặt với cuộc xung đột nội bộ ngày càng gay gắt, ảnh hưởng đến cuộc bầu cử tổng thống sắp tới. Hai ứng cử viên chủ chốt đang tranh chấp vị trí tổng thống, bao gồm một nhà lập pháp cánh tả ủng hộ đàm phán với các tổ chức khủng bố và một ứng cử viên ngoài cuộc được ủng hộ bởi Tổng thống Trump. Căng thẳng nội bộ đang ảnh hưởng đến cuộc sống của người dân Colombia và gây ra nhiều thách thức cho giới chức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb8256c5eb86",
-      "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-      "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T09:40:10.095138+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cựu vận động viên Olympic phủ nhận bị bắt vì phá hoại hồ nước phản chiếu ở Washington",
-      "bullets": [
-        "Bị bắt vì nghi ngờ phá hoại hồ nước phản chiếu ở Washington",
-        "Cựu vận động viên Olympic Davey Hearn phủ nhận mọi hành vi phá hoại",
-        "Hearn nói chỉ muốn kiểm tra lớp sơn mới",
-        "Không có bằng chứng cho thấy Hearn đã xóa hoặc thay đổi sơn"
-      ],
-      "full_summary": "Cựu vận động viên Olympic Davey Hearn vừa bị bắt vì nghi ngờ phá hoại hồ nước phản chiếu ở Washington. Tuy nhiên, Hearn phủ nhận mọi hành vi phá hoại và nói rằng chỉ muốn kiểm tra lớp sơn mới. Không có bằng chứng cho thấy Hearn đã xóa hoặc thay đổi sơn. Vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "985916d0e3e4",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T09:40:11.057196+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "20.000 người tham gia cuộc đua marathon lớn nhất thế giới tại Nam Phi",
-      "bullets": [
-        "Hàng ngàn người tập trung tại địa điểm bắt đầu cuộc đua Comrades",
-        "Nghe bản nhạc quốc gia Nam Phi và Shosholoza trước khi bắt đầu",
-        "Cuộc đua diễn ra trong điều kiện thời tiết khắc nghiệt"
-      ],
-      "full_summary": "Mỗi năm một lần, cuộc đua Comrades tại Nam Phi trở thành nơi đoàn kết giữa người dân. Hơn 20.000 người tham gia cuộc đua marathon lớn nhất thế giới. Cuộc đua diễn ra trong điều kiện thời tiết khắc nghiệt, nhưng không thể ngăn cản sự đoàn kết và quyết tâm của các vận động viên.",
       "comments": 0,
       "score": 0
     }
