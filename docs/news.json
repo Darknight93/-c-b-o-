@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-06-22T03:29:38.366696+00:00",
+  "updated_at": "2026-06-22T11:40:20.595747+00:00",
   "articles": [
+    {
+      "id": "8281e5c34981",
+      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+      "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:03.937685+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Abelardo de la Espriella thắng cử tổng thống Colombia",
+      "bullets": [
+        "được Trump hậu thuẫn",
+        "đã thắng cử tổng thống Colombia",
+        "đã đánh bại đối thủ Iván Cepeda",
+        "tổng thống mới chưa được công bố chính thức"
+      ],
+      "full_summary": "Abelardo de la Espriella, một ứng cử viên ngoài cuộc chính trị, đã thắng cử tổng thống Colombia theo số liệu ban đầu. Ông được hậu thuẫn bởi cựu Tổng thống Mỹ Donald Trump. Tuy nhiên, đối thủ của ông, Iván Cepeda, cho rằng số liệu ban đầu chưa được công bố chính thức hoặc ràng buộc. Ông Cepeda đang yêu cầu kiểm phiếu lại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2119011c51fb",
+      "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
+      "url": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:04.935739+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Cảnh sát Australia bắt giữ 2,7 tấn cocaine",
+      "bullets": [
+        "Bắt giữ 2,7 tấn cocaine",
+        "Khám phá kho ngầm ở Sydney",
+        "Tính giá trị lên 816 triệu đô la",
+        "Cảnh sát Australia thực hiện vụ bắt giữ lớn nhất"
+      ],
+      "full_summary": "Cảnh sát Australia đã bắt giữ 2,7 tấn cocaine sau khi khám phá một kho ngầm ở Sydney. Vụ bắt giữ này được cho là vụ lớn nhất trong lịch sử Australia. Cảnh sát đã tính giá trị cocaine lên 816 triệu đô la. Vụ bắt giữ này cho thấy nỗ lực của cảnh sát Australia trong việc chống lại tội phạm ma túy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1fd53e7b56d7",
+      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:06.115768+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nga tập trung quân đội ở Kostyantynivka, đe dọa Ukraine",
+      "bullets": [
+        "Nga đang tăng cường quân đội ở Kostyantynivka",
+        "Thành phố này là chìa khóa để Nga chiếm đóng Donbas",
+        "Nếu Kostyantynivka thất thủ, Nga sẽ đẩy mạnh tấn công Ukraine",
+        "Nga sẽ tiến gần hơn đến những cứ điểm cuối cùng của Ukraine"
+      ],
+      "full_summary": "Nga đang tập trung quân đội ở thành phố Kostyantynivka, Ukraine. Thành phố này được coi là chìa khóa để Nga chiếm đóng Donbas. Nếu Kostyantynivka thất thủ, Nga sẽ đẩy mạnh tấn công Ukraine và tiến gần hơn đến những cứ điểm cuối cùng của Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "32c0b579de8b",
+      "title": "Japan quintuples visa fees in first price hike since 1978",
+      "url": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:07.763573+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Nhật Bản tăng phí thị thực 5 lần, chưa ảnh hưởng đến du lịch",
+      "bullets": [
+        "Nhật Bản tăng phí thị thực lần đầu tiên kể từ năm 1978",
+        "Phí thị thực tăng lên mức cao nhất từ trước đến nay",
+        "Chính quyền Nhật Bản cho rằng không ảnh hưởng đến du lịch nước ngoài",
+        "Tăng phí nhằm thu hút nguồn thu cho ngân sách"
+      ],
+      "full_summary": "Nhật Bản vừa tăng phí thị thực lên mức cao nhất từ trước đến nay, lần đầu tiên kể từ năm 1978. Chính quyền Nhật Bản cho rằng tăng phí không ảnh hưởng đến du lịch nước ngoài. Tuy nhiên, tăng phí này có thể khiến một số du khách phải cân nhắc lại kế hoạch du lịch đến Nhật Bản. Tăng phí thị thực nhằm thu hút nguồn thu cho ngân sách.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fe1490865624",
+      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+      "url": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:08.747504+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chính phủ Uganda ngăn cựu bộ trưởng tư pháp Kenya vào nước",
+      "bullets": [
+        "Ngăn cản cựu bộ trưởng tư pháp Kenya Martha Karua vào Uganda",
+        "Karua đang đại diện cho lãnh đạo đối lập Ugandan Kizza Besigye",
+        "Besigye đang bị xét xử vì tội phản quốc",
+        "Vụ việc gây tranh cãi và thu hút sự chú ý quốc tế"
+      ],
+      "full_summary": "Cựu bộ trưởng tư pháp Kenya Martha Karua đã bị ngăn cản vào Uganda. Bà Karua đang đại diện cho lãnh đạo đối lập Ugandan Kizza Besigye, người đang bị xét xử vì tội phản quốc. Vụ việc gây tranh cãi và thu hút sự chú ý quốc tế. Các luật sư cho rằng quyết định ngăn cản Karua vào Uganda là không công bằng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "25b28331d7f6",
+      "title": "Schools close as more than half of France under red heat alerts",
+      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:09.676102+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hạ học đường vì nhiệt độ cao vượt mức đỏ ở Pháp",
+      "bullets": [
+        "Cảnh báo nhiệt độ cao ở Pháp",
+        "Hạ học đường để bảo vệ sức khỏe",
+        "Số người bị ảnh hưởng nhiều",
+        "Thời tiết xấu ở nhiều khu vực"
+      ],
+      "full_summary": "Ủy ban Y tế Pháp đã ra lệnh đóng cửa các trường học ở nhiều khu vực do nhiệt độ cao vượt mức đỏ. Nhiệt độ dự kiến sẽ đạt đỉnh vào thứ Hai. Bộ trưởng Y tế cảnh báo nhiều người sẽ bị ảnh hưởng. Các khu vực bị ảnh hưởng bao gồm hơn nửa số dân của Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "90c6157d6b02",
+      "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
+      "url": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:10.669936+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ca sĩ Oliver Tree tử vong trong tai nạn máy bay",
+      "bullets": [
+        "Oliver Tree tử vong trong tai nạn máy bay ở Brazil",
+        "Ca sĩ 32 tuổi này đang tham gia chuyến lưu diễn toàn cầu",
+        "Tài năng âm nhạc người Mỹ gốc California qua đời trước khi đến Brazil",
+        "Chuyến lưu diễn của Oliver Tree bị gián đoạn vì tai nạn đáng tiếc"
+      ],
+      "full_summary": "Ca sĩ Oliver Tree đã qua đời trong một tai nạn máy bay ở Brazil. Ông đang tham gia chuyến lưu diễn toàn cầu và dự định đến Brazil trước khi gặp tai nạn. Chuyến lưu diễn của ông đã bị gián đoạn vì tai nạn đáng tiếc. Oliver Tree là một tài năng âm nhạc người Mỹ gốc California.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fb461a4fc7b1",
+      "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:11.768099+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Ghana thông qua khung toàn cầu cho công lý bù đắp",
+      "bullets": [
+        "Ghana thông qua khung toàn cầu cho công lý bù đắp",
+        "Các nước lợi dụng thương mại nô lệ phải xin lỗi chính thức",
+        "Khung 19 điểm hướng tới công lý bù đắp cho nạn nô lệ",
+        "Ghana và các nước khác đòi công nhận tội ác chống nhân loại"
+      ],
+      "full_summary": "Ghana đã thông qua khung toàn cầu cho công lý bù đắp tại hội nghị ở Accra. Khung này bao gồm 19 điểm hướng tới công lý bù đắp cho nạn nô lệ. Các nước đã lợi dụng thương mại nô lệ phải xin lỗi chính thức và công nhận tội ác chống nhân loại. Đây là một bước tiến quan trọng trong việc đòi công lý cho nạn nô lệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f35ca5f75760",
+      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T11:40:12.883887+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "CDC cung cấp 107 triệu USD để chống dịch Ebola tại DRC và Uganda",
+      "bullets": [
+        "CDC sẽ phân bổ 107 triệu USD để chống dịch Ebola",
+        "Số người nhiễm Ebola đã vượt qua 1.000",
+        "Dịch bệnh vẫn còn ở mức thấp trên toàn cầu",
+        "CDC cho rằng cần hỗ trợ khẩn cấp để chống dịch"
+      ],
+      "full_summary": "CDC sẽ phân bổ 107 triệu USD để chống dịch Ebola tại Cộng hòa Dân chủ Congo và Uganda. Số người nhiễm Ebola đã vượt qua 1.000, nhưng các quan chức y tế cho rằng rủi ro toàn cầu vẫn còn thấp. Dịch bệnh đang diễn ra trong thời gian World Cup, thu hút nhiều du khách từ khắp nơi trên thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a6f6ad4a9838",
+      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-22T11:40:14.465234+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Anh Quốc sẽ quét khuôn mặt tị nạn để xác định tuổi",
+      "bullets": [
+        "Sẽ sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn",
+        "Công nghệ này đã được chứng minh là có rủi ro gây ra sai lầm nghiêm trọng",
+        "Sai lầm có thể dẫn đến hậu quả nghiêm trọng trong cuộc sống của người tị nạn",
+        "Anh Quốc biết rõ công nghệ này có hạn chế nhưng vẫn quyết định sử dụng"
+      ],
+      "full_summary": "Anh Quốc đã quyết định sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn, mặc dù công nghệ này đã được chứng minh là có rủi ro gây ra sai lầm nghiêm trọng. Các thử nghiệm đã chỉ ra rằng công nghệ này có thể dẫn đến sai lầm trong việc xác định tuổi, gây ra hậu quả nghiêm trọng trong cuộc sống của người tị nạn. Mặc dù biết rõ công nghệ này có hạn chế, Anh Quốc vẫn quyết định sử dụng nó để xác định tuổi tị nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "963a38bbce8b",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-22T11:40:18.936410+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chuẩn hóa LLM Qwen 3:0.6B để phân loại câu hỏi mang lại kết quả tốt",
+      "bullets": [
+        "Chuẩn hóa LLM Qwen 3:0.6B để phân loại câu hỏi",
+        "Kết quả phân loại câu hỏi đạt được nhờ fine-tuning",
+        "Phương pháp sử dụng để fine-tuning LLM",
+        "Kết quả đạt được sau khi fine-tuning"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã chia sẻ kinh nghiệm chuẩn hóa LLM Qwen 3:0.6B để phân loại câu hỏi. Bài viết này đã đạt được kết quả tốt nhờ phương pháp fine-tuning. Kết quả này cho thấy khả năng phân loại câu hỏi của LLM đã được cải thiện đáng kể. Bài viết cũng cung cấp thông tin về phương pháp sử dụng để fine-tuning LLM và kết quả đạt được sau khi fine-tuning.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "13b298c266ca",
       "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
@@ -573,225 +793,6 @@
         "Cuộc đua diễn ra trong điều kiện thời tiết khắc nghiệt"
       ],
       "full_summary": "Mỗi năm một lần, cuộc đua Comrades tại Nam Phi trở thành nơi đoàn kết giữa người dân. Hơn 20.000 người tham gia cuộc đua marathon lớn nhất thế giới. Cuộc đua diễn ra trong điều kiện thời tiết khắc nghiệt, nhưng không thể ngăn cản sự đoàn kết và quyết tâm của các vận động viên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "14281b741a8e",
-      "title": "Canada’s policies force asylum seekers into US to face deportation, critics say",
-      "url": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T09:40:12.175191+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Canada ép người tị nạn đi Mỹ phải đối mặt với trục xuất",
-      "bullets": [
-        "Canada ép người tị nạn phải đi qua Mỹ",
-        "Mỹ không phải nơi an toàn cho người tị nạn",
-        "Hàng nghìn người tị nạn bị ảnh hưởng bởi thỏa thuận Safe Third Country",
-        "Tình hình ở Honduras và Guatemala vẫn còn nguy hiểm"
-      ],
-      "full_summary": "Theo The Guardian, thỏa thuận Safe Third Country của Canada đã ép người tị nạn phải đi qua Mỹ, nơi mà họ có thể phải đối mặt với trục xuất. Carlos và Antonia, một cặp vợ chồng Honduras, đã phải di cư đến Mỹ cùng với con trai nhỏ của họ. Hành trình của họ đầy nguy hiểm và bất ổn, qua Guatemala và Mexico. Thỏa thuận này đã ảnh hưởng đến hàng nghìn người tị nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "decc6203b322",
-      "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T09:40:13.284327+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Colombia chuẩn bị bước vào cuộc xung đột vũ trang mới",
-      "bullets": [
-        "Colombia sắp tổ chức bầu cử vòng hai",
-        "Abelardo de la Espriella sẽ quay lại chiến thuật quân sự mạnh tay",
-        "Căng thẳng quân sự sẽ tăng lên sau khi bỏ kế hoạch hòa bình",
-        "Sự kiện có thể ảnh hưởng đến tình hình an ninh quốc gia"
-      ],
-      "full_summary": "Colombia sắp tổ chức bầu cử vòng hai giữa hai ứng cử viên Abelardo de la Espriella và người khác. Frontrunner Abelardo de la Espriella đã cam kết quay lại chiến thuật quân sự mạnh tay với các tổ chức vũ trang. Điều này có thể dẫn đến sự gia tăng căng thẳng quân sự và ảnh hưởng đến tình hình an ninh quốc gia. Cuộc bầu cử này được kỳ vọng sẽ đánh dấu một bước ngoặt mới trong cuộc xung đột vũ trang kéo dài nhiều thập kỷ ở Colombia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e05c6b629f5c",
-      "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
-      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T09:40:14.295647+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Bolivia tuyên bố tình trạng khẩn cấp để dập tắt biểu tình",
-      "bullets": [
-        "Tổng thống Bolivia tuyên bố tình trạng khẩn cấp",
-        "Cảnh sát và binh sĩ được triển khai để dẹp bỏ các chướng ngại vật",
-        "Hàng trăm người biểu tình bị bắt giữ",
-        "Nhiều người dân bị ảnh hưởng bởi tình trạng phong tỏa"
-      ],
-      "full_summary": "Tổng thống Bolivia đã tuyên bố tình trạng khẩn cấp và triển khai quân đội để dập tắt các cuộc biểu tình chống chính phủ. Các cuộc biểu tình đã diễn ra trong hơn sáu tuần, với các nhóm công đoàn, dân tộc bản địa và nông dân trồng coca đã phong tỏa các con đường và thành phố để phản đối chính phủ bảo thủ. Các cuộc biểu tình đã gây ra tình trạng bất ổn và ảnh hưởng đến cuộc sống hàng ngày của người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "da18d1a473d4",
-      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
-      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T09:40:15.284455+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các nhà khoa học tìm kiếm rạn san hô có thể chịu đựng được nhiệt độ cao",
-      "bullets": [
-        "Tìm kiếm rạn san hô mạnh mẽ để phục hồi các rạn san hô bị suy thoái",
-        "Các rạn san hô mạnh mẽ có thể giúp tái lập các rạn san hô bị hư hại",
-        "Nghiên cứu cho thấy các rạn san hô mạnh mẽ có thể chịu đựng được nhiệt độ cao do biến đổi khí hậu",
-        "Các nhà khoa học hy vọng tìm thấy các rạn san hô mạnh mẽ để bảo vệ môi trường biển"
-      ],
-      "full_summary": "Các nhà khoa học đang tìm kiếm các rạn san hô mạnh mẽ có thể chịu đựng được nhiệt độ cao do biến đổi khí hậu. Mục tiêu của họ là tìm kiếm các rạn san hô mạnh mẽ để phục hồi các rạn san hô bị suy thoái. Các rạn san hô mạnh mẽ có thể giúp tái lập các rạn san hô bị hư hại và bảo vệ môi trường biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a33a0899ed18",
-      "title": "A bold satellite rescue mission came together in record time, but will it work?",
-      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T09:40:16.341084+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Misi cứu vệ tinh khẩn cấp được triển khai nhanh chóng",
-      "bullets": [
-        "Xây dựng kế hoạch cứu vệ tinh trong thời gian kỷ lục",
-        "Tổ chức sứ mệnh cứu vệ tinh trong thời gian ngắn",
-        "Mục tiêu của sứ mệnh là cứu vệ tinh khỏi hư hỏng",
-        "Sự thành công của sứ mệnh vẫn còn phụ thuộc vào nhiều yếu tố"
-      ],
-      "full_summary": "Một sứ mệnh cứu vệ tinh khẩn cấp đã được triển khai trong thời gian kỷ lục. Mục tiêu của sứ mệnh này là cứu vệ tinh khỏi hư hỏng. Người đứng đầu sứ mệnh đã tuyên bố rằng đây là một thành công từ trước khi sứ mệnh bắt đầu. Tuy nhiên, sự thành công của sứ mệnh vẫn còn phụ thuộc vào nhiều yếu tố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b433f1575ff0",
-      "title": "As China looms, Taiwan makes more drones for defense and the US military",
-      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T09:40:17.410736+00:00",
-      "category": "politics|technology",
-      "importance": 4,
-      "headline": "Đài Loan tăng sản xuất máy bay không người lái cho quân đội và Mỹ",
-      "bullets": [
-        "Tăng cường sản xuất máy bay không người lái cho quân đội Đài Loan",
-        "Hợp tác với quân đội Mỹ để phát triển công nghệ mới",
-        "Sản xuất máy bay không người lái để tăng cường khả năng phòng thủ trước Trung Quốc",
-        "Cơ hội kinh doanh mới cho các công ty Đài Loan"
-      ],
-      "full_summary": "Đài Loan đang tăng cường sản xuất máy bay không người lái cho quân đội và quân đội Mỹ. Điều này nhằm tăng cường khả năng phòng thủ trước Trung Quốc. Ngoài ra, sản xuất máy bay không người lái cũng mang lại cơ hội kinh doanh mới cho các công ty Đài Loan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "08b6418582ce",
-      "title": "The 100k Whys of AI",
-      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-21T09:40:19.585795+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Nghiên cứu về lý do 100.000 tại sao của trí tuệ nhân tạo",
-      "bullets": [
-        "Xác định các yếu tố ảnh hưởng đến sự phát triển của trí tuệ nhân tạo",
-        "Phân tích các lý do tại sao trí tuệ nhân tạo lại quan trọng",
-        "Khám phá các ứng dụng thực tế của trí tuệ nhân tạo trong cuộc sống hàng ngày"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã thảo luận về lý do 100.000 tại sao của trí tuệ nhân tạo. Bài viết này đã phân tích các yếu tố ảnh hưởng đến sự phát triển của trí tuệ nhân tạo và khám phá các ứng dụng thực tế của nó trong cuộc sống hàng ngày. Bài viết này đã thu hút được sự chú ý của nhiều người dùng Hacker News và đã có 53 bình luận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d41ff2f8a3eb",
-      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T02:59:01.620850+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Meloni phản ứng lại Trump về sự phổ biến của mình",
-      "bullets": [
-        "Trump chỉ trích Meloni về sự phổ biến của mình",
-        "Meloni yêu cầu Trump tập trung vào sự phổ biến của mình",
-        "Meloni và Trump có mâu thuẫn trong cuộc họp G7",
-        "Meloni nghi ngờ Trump đã cố tình chỉ trích mình"
-      ],
-      "full_summary": "Chủ tịch Mỹ, Donald Trump, đã chỉ trích Thủ tướng Ý, Giorgia Meloni, về sự phổ biến của mình sau khi Meloni đề xuất rằng Trump đã cố ý chỉ trích bà. Meloni đã phản ứng lại bằng cách yêu cầu Trump tập trung vào sự phổ biến của mình. Sự mâu thuẫn giữa hai người đã bắt đầu từ cuộc họp G7 gần đây. Meloni nghi ngờ Trump đã cố tình chỉ trích mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "214a536955d8",
-      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T02:59:02.496888+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel tấn công Gaza, giết 6 người, bao gồm một nhà báo Al Jazeera",
-      "bullets": [
-        "Israel tấn công Gaza, giết 6 người",
-        "Một nhà báo Al Jazeera bị giết trong vụ tấn công",
-        "Israel cáo buộc Ahmed Wishah là một nhân viên súng trường Hamas",
-        "Không có bằng chứng được cung cấp để hỗ trợ cáo buộc"
-      ],
-      "full_summary": "Israel đã tiến hành các cuộc tấn công ở Gaza, giết 6 người, bao gồm một nhà báo Al Jazeera. Theo báo cáo, Ahmed Wishah đã bị cáo buộc là một nhân viên súng trường Hamas, nhưng không có bằng chứng được cung cấp để hỗ trợ cáo buộc. Các cuộc tấn công đã gây ra sự phẫn nộ ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7b0633a88468",
-      "title": "Why an AI company cleaned my New York City apartment for free",
-      "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T02:59:03.426307+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công ty AI gửi người dọn dẹp miễn phí để đào tạo robot",
-      "bullets": [
-        "Gửi người dọn dẹp miễn phí để đào tạo robot thay thế",
-        "Mục tiêu cuối cùng là tự động hóa công việc nhà",
-        "Công ty AI muốn đào tạo robot để thực hiện các nhiệm vụ phức tạp",
-        "Quyết định này nhằm thúc đẩy công nghệ AI"
-      ],
-      "full_summary": "Công ty AI đang gửi người dọn dẹp miễn phí đến các căn hộ ở New York để đào tạo robot thay thế. Mục tiêu cuối cùng là tự động hóa công việc nhà. Công ty này muốn đào tạo robot để thực hiện các nhiệm vụ phức tạp và tự động hóa công việc nhà. Điều này sẽ giúp công ty tiết kiệm chi phí và tăng hiệu suất công việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a6f0058c246",
-      "title": "Why the social media ban is about so much more than social media",
-      "url": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T02:59:04.456255+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cấm mạng xã hội: Một thay đổi sâu sắc trong không gian trực tuyến",
-      "bullets": [
-        "Thay đổi này ảnh hưởng đến mối quan hệ của chúng ta với không gian trực tuyến",
-        "Cấm mạng xã hội là một phần của một cuộc cách mạng lớn hơn",
-        "Sự thay đổi này có thể ảnh hưởng đến cách chúng ta tiếp cận thông tin",
-        "Sự thay đổi này có thể ảnh hưởng đến cách chúng ta tương tác với nhau"
-      ],
-      "full_summary": "Một số người tin rằng cấm mạng xã hội là một phần của một cuộc cách mạng lớn hơn, ảnh hưởng đến mối quan hệ của chúng ta với không gian trực tuyến. Sự thay đổi này có thể ảnh hưởng đến cách chúng ta tiếp cận thông tin và tương tác với nhau. Nó cũng có thể ảnh hưởng đến cách chúng ta sử dụng công nghệ và cách chúng ta sống trong thế giới trực tuyến.",
       "comments": 0,
       "score": 0
     }
