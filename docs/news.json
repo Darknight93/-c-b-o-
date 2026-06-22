@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-22T16:42:55.131883+00:00",
+  "updated_at": "2026-06-22T20:37:18.858254+00:00",
   "articles": [
+    {
+      "id": "428a5fa323f3",
+      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T20:37:03.410598+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhà sản xuất âm nhạc Clive Davis qua đời ở tuổi 94",
+      "bullets": [
+        "Sản xuất album cho Whitney Houston và Bruce Springsteen",
+        "Làm việc với các nghệ sĩ nổi tiếng như Billy Joel và Pink Floyd",
+        "Hợp tác với Alicia Keys và Aerosmith trong sự nghiệp",
+        "Là một trong những người có ảnh hưởng lớn nhất trong ngành âm nhạc"
+      ],
+      "full_summary": "Clive Davis, một trong những nhà sản xuất âm nhạc nổi tiếng nhất thế giới, đã qua đời ở tuổi 94. Ông đã sản xuất album cho nhiều nghệ sĩ nổi tiếng như Whitney Houston, Bruce Springsteen và Billy Joel. Ông cũng hợp tác với các nghệ sĩ khác như Pink Floyd, Alicia Keys và Aerosmith. Sự qua đời của ông đã để lại một khoảng trống lớn trong ngành âm nhạc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d171e4658f10",
+      "title": "Kenya minister found in contempt of court over US-backed Ebola centre",
+      "url": "https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T20:37:04.525287+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chính phủ Kenya bị tòa án khiển trách vì xây dựng trung tâm Ebola",
+      "bullets": [
+        "Tòa án Kenya ra lệnh ngừng xây dựng trung tâm Ebola do Mỹ tài trợ",
+        "Thứ trưởng Aden Duale không tuân thủ lệnh của tòa án",
+        "Trung tâm Ebola gây tranh cãi vì lo ngại ảnh hưởng đến môi trường",
+        "Tòa án sẽ tiếp tục điều tra và có thể áp dụng hình phạt"
+      ],
+      "full_summary": "Thứ trưởng Aden Duale của Kenya đã bị tòa án khiển trách vì không tuân thủ lệnh ngừng xây dựng trung tâm Ebola do Mỹ tài trợ. Tòa án đã ra lệnh ngừng xây dựng vì lo ngại ảnh hưởng đến môi trường. Tuy nhiên, Thứ trưởng Duale đã tiếp tục xây dựng trung tâm, gây tranh cãi trong dư luận. Tòa án sẽ tiếp tục điều tra và có thể áp dụng hình phạt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7b0633a88468",
+      "title": "Why an AI company cleaned my New York City apartment for free",
+      "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T20:37:05.578961+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty AI gửi người dọn dẹp miễn phí để đào tạo robot",
+      "bullets": [
+        "Gửi người dọn dẹp miễn phí để đào tạo robot thay thế",
+        "Mục tiêu cuối cùng là thay thế con người bằng robot",
+        "Robot sẽ giúp giảm chi phí và tăng hiệu suất",
+        "Công ty đang thử nghiệm ở New York City"
+      ],
+      "full_summary": "Công ty AI đang gửi người dọn dẹp miễn phí đến các căn hộ ở New York City để đào tạo robot thay thế. Mục tiêu cuối cùng là thay thế con người bằng robot để giảm chi phí và tăng hiệu suất. Công ty đang thử nghiệm mô hình này để đào tạo robot có thể tự động dọn dẹp và làm sạch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a6f0058c246",
+      "title": "How the social media ban could reshape how all of us use the internet",
+      "url": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T20:37:06.694450+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cấm mạng xã hội có thể thay đổi cách mọi người sử dụng internet",
+      "bullets": [
+        "Cấm mạng xã hội có thể ảnh hưởng nghiêm trọng đến cách trẻ em tìm kiếm kiến thức mới",
+        "Bất kỳ ai cũng có thể phải thay đổi cách di chuyển và tương tác trực tuyến",
+        "Sự thay đổi này có thể ảnh hưởng đến cách mọi người tiếp cận thông tin và kết nối với nhau",
+        "Cấm mạng xã hội có thể dẫn đến sự thay đổi trong cách mọi người sử dụng internet"
+      ],
+      "full_summary": "Cấm mạng xã hội có thể có tác động sâu sắc đến cách mọi người sử dụng internet. Một số người cho rằng, sự thay đổi này có thể ảnh hưởng nghiêm trọng đến cách trẻ em tìm kiếm kiến thức mới. Bất kỳ ai cũng có thể phải thay đổi cách di chuyển và tương tác trực tuyến. Sự thay đổi này có thể ảnh hưởng đến cách mọi người tiếp cận thông tin và kết nối với nhau.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f6bba7c0f70",
+      "title": "New video game console aims to get kids moving",
+      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T20:37:07.758119+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Máy chơi game mới khuyến khích trẻ em vận động",
+      "bullets": [
+        "Sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6",
+        "Giá bán lẻ là £269 (€319)",
+        "Máy chơi game có tên Nex Playground",
+        "Mục tiêu là khuyến khích trẻ em vận động"
+      ],
+      "full_summary": "Máy chơi game mới Nex Playground đang được phát hành tại Anh và Ireland vào ngày 22 tháng 6. Máy chơi game này có giá bán lẻ là £269 (€319) và được thiết kế để khuyến khích trẻ em vận động. Mục tiêu của Nex Playground là giúp trẻ em trở nên hoạt động hơn và giảm thiểu thời gian sử dụng điện thoại di động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "985916d0e3e4",
+      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-22T20:37:08.963079+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "20.000 vận động viên chạy bộ tại Comrades Ultramarathon ở Nam Phi",
+      "bullets": [
+        "Sự kiện diễn ra hàng năm tại Nam Phi",
+        "Gần 20.000 vận động viên tham gia",
+        "Sự kiện thể hiện tinh thần đoàn kết và hòa hợp",
+        "Bỏ qua sự bất bình đẳng chủng tộc trong một ngày"
+      ],
+      "full_summary": "Mỗi tháng 6, sự bất bình đẳng chủng tộc ở Nam Phi dường như tan biến trong cuộc đua Comrades. Gần 20.000 vận động viên tham gia vào sự kiện này, thể hiện tinh thần đoàn kết và hòa hợp. Cuộc đua bắt đầu vào lúc sáng sớm, với sự chào đón của quốc ca Nam Phi và những bản nhạc truyền thống. Sự kiện này không chỉ là một cuộc đua mà còn là một biểu tượng của hòa hợp và đoàn kết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "83238d8891bd",
+      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
+      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-22T20:37:12.444911+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một phụ nữ tử vong khi xe Tesla đâm vào nhà cô",
+      "bullets": [
+        "NHTSA đang điều tra vụ tai nạn xe Tesla Autopilot",
+        "Phụ nữ 70 tuổi tử vong khi xe Tesla đâm vào nhà cô",
+        "Tesla quảng cáo Autopilot là công nghệ cứu sống",
+        "Vụ tai nạn xảy ra khi tài xế sử dụng Autopilot"
+      ],
+      "full_summary": "NHTSA đang điều tra vụ tai nạn xe Tesla Autopilot khiến một phụ nữ 70 tuổi tử vong. Vụ tai nạn xảy ra khi tài xế sử dụng Autopilot và xe đâm vào nhà của phụ nữ. Tesla đã quảng cáo Autopilot là công nghệ cứu sống, nhưng vụ tai nạn này đã đặt ra câu hỏi về tính hiệu quả của công nghệ này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4a01f2d27a3f",
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-22T20:37:15.917457+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Anhropic có thể tự gây ra lệnh cấm xuất khẩu AI",
+      "bullets": [
+        "Cảnh báo nguy cơ AI tiên tiến cao hơn đối thủ OpenAI",
+        "Lời cảnh báo của Anthropic khiến chính phủ lo ngại về an ninh",
+        "Lệnh cấm xuất khẩu AI có thể ảnh hưởng đến sự phát triển công nghệ",
+        "Anhropic phải đối mặt với hậu quả nghiêm trọng vì lời cảnh báo của mình"
+      ],
+      "full_summary": "Anhropic, một công ty AI, đã cảnh báo về nguy cơ của AI tiên tiến cao hơn đối thủ OpenAI. Lời cảnh báo này đã khiến chính phủ lo ngại về an ninh và có thể dẫn đến lệnh cấm xuất khẩu AI. Điều này có thể ảnh hưởng đến sự phát triển công nghệ và khiến Anthropic phải đối mặt với hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "20f5d6bc444f",
       "title": "Vance says Iran will allow nuclear inspectors back into the country",
@@ -634,165 +794,6 @@
         "Các công ty tên lửa đang đẩy nhanh tiến độ phát triển"
       ],
       "full_summary": "Blue Origin đang xây dựng lại cơ sở phóng mới sau sự cố. Công ty này đã bắt đầu quá trình xây dựng lại cơ sở phóng ở Texas. Trong khi đó, Relativity đang đặt mục tiêu đến Mặt Trăng. Một công ty phóng tên lửa Pháp đã hủy bỏ tên lửa của mình do vấn đề bản quyền.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "95f3b8c0bab9",
-      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T19:20:27.333990+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft phát hiện lỗ hổng nhẹ mới trộm tiền điện tử",
-      "bullets": [
-        "Phát hiện ra Crypto Clipper, một loại malware tự lây lan",
-        "Lây lan qua USB và giao tiếp qua mạng Tor",
-        "Mục đích là trộm tiền điện tử",
-        "Microsoft cảnh báo người dùng về mối đe dọa mới"
-      ],
-      "full_summary": "Microsoft vừa phát hiện ra một loại malware mới gọi là Crypto Clipper, loại malware này tự lây lan và có khả năng trộm tiền điện tử. Theo Ars Technica, malware này lây lan qua USB và giao tiếp qua mạng Tor để tránh được sự theo dõi. Microsoft cảnh báo người dùng về mối đe dọa mới này và khuyến cáo họ nên cẩn thận khi sử dụng thiết bị di động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4f4837456e89",
-      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T19:20:28.305613+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "FDA đã nhất trí phê duyệt mRNA Moderna sau scandal",
-      "bullets": [
-        "Hội đồng cố vấn FDA đã bỏ phiếu đồng ý phê duyệt mRNA Moderna",
-        "Vắc xin mRNA Moderna đã trải qua nhiều tranh cãi tại FDA",
-        "Một quan chức Trump đã từ chối xem xét vắc xin hồi tháng 2",
-        "FDA đã bỏ qua các vấn đề trước khi phê duyệt mRNA Moderna"
-      ],
-      "full_summary": "Hội đồng cố vấn FDA đã nhất trí phê duyệt mRNA Moderna của Moderna sau nhiều tranh cãi. Vắc xin mRNA Moderna đã trải qua nhiều vấn đề tại FDA, bao gồm cả việc một quan chức Trump từ chối xem xét vắc xin hồi tháng 2. Sau nhiều tháng tranh cãi, FDA đã bỏ qua các vấn đề và phê duyệt mRNA Moderna.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8b8c3ddbcc04",
-      "title": "Show HN: Teach your kids perfect pitch",
-      "url": "https://github.com/paytonjjones/bsharp",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-21T19:20:33.844887+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Tìm hiểu cách dạy con đạt nốt nhạc chính xác",
-      "bullets": [
-        "Tạo ứng dụng BSharp để dạy trẻ đạt nốt nhạc chính xác",
-        "Ứng dụng này sử dụng âm thanh và giao diện người dùng thân thiện",
-        "Giúp trẻ học nhạc một cách thú vị và hiệu quả"
-      ],
-      "full_summary": "Một nhà phát triển đã tạo ứng dụng BSharp để giúp trẻ em đạt nốt nhạc chính xác. Ứng dụng này sử dụng âm thanh và giao diện người dùng thân thiện để giúp trẻ học nhạc một cách thú vị và hiệu quả. Ứng dụng được chia sẻ trên GitHub và đã nhận được 7 điểm và 2 bình luận trên Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "529da27c2834",
-      "title": "Clues to the sloth’s sloth found in its genome",
-      "url": "https://www.nature.com/articles/d41586-026-01869-y",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-06-21T19:20:37.453454+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Gen đã được phát hiện giúp giải thích tại sao gấu gỗ chậm lại",
-      "bullets": [
-        "Phát hiện ra sự lặp lại của các gen ảnh hưởng đến mitochondria",
-        "Mitochondria cung cấp năng lượng cho tế bào",
-        "Sự lặp lại này có thể giúp giải thích tại sao gấu gỗ chậm lại",
-        "Nghiên cứu về gen của gấu gỗ đã được công bố trên Nature"
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện ra rằng sự lặp lại của các gen ảnh hưởng đến mitochondria có thể giúp giải thích tại sao gấu gỗ chậm lại. Mitochondria cung cấp năng lượng cho tế bào, và sự lặp lại này có thể ảnh hưởng đến quá trình sản xuất năng lượng của tế bào. Nghiên cứu về gen của gấu gỗ đã được công bố trên Nature, một tạp chí khoa học uy tín.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "70efe7a9a565",
-      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T13:53:10.161393+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Nhiều trạm xăng ở Crimea bị ngừng hoạt động",
-      "bullets": [
-        "Hạ sản xuất xăng dầu",
-        "Khắc phục hậu quả của các cuộc tấn công của Ukraine",
-        "Ration xăng dầu do thiếu hụt",
-        "Tác động đến nền kinh tế Crimea"
-      ],
-      "full_summary": "Nhiều trạm xăng ở Crimea đã bị ngừng hoạt động sau khi Ukraine tấn công vào các cơ sở cung cấp xăng dầu. Điều này đã dẫn đến tình trạng thiếu hụt xăng dầu, khiến chính quyền Crimea phải áp dụng biện pháp ration. Các cuộc tấn công của Ukraine đã gây ra nhiều hậu quả cho nền kinh tế Crimea, khiến nhiều người dân phải đối mặt với khó khăn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e8b09a5ff57",
-      "title": "France bans alcohol at music festival events under red heatwave alert",
-      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T13:53:11.092181+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Pháp cấm rượu tại các sự kiện âm nhạc trong tình trạng nhiệt độ cao",
-      "bullets": [
-        "Cấm bán rượu tại các sự kiện âm nhạc để giảm tải cho hệ thống y tế",
-        "Sự kiện âm nhạc hàng năm thu hút hàng triệu người tham gia",
-        "Nhiệt độ 40 độ C (104F) được coi là tình trạng đỏ, cảnh báo sức khỏe",
-        "Mục tiêu là bảo vệ hệ thống y tế trong tình trạng khẩn cấp"
-      ],
-      "full_summary": "Pháp đã ban hành lệnh cấm bán rượu tại các sự kiện âm nhạc hàng năm do tình trạng nhiệt độ cao. Sự kiện âm nhạc thu hút hàng triệu người tham gia và hệ thống y tế đang đối mặt với áp lực lớn. Mục tiêu của lệnh cấm này là bảo vệ hệ thống y tế trong tình trạng khẩn cấp và giảm tải cho họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c2e39a05f022",
-      "title": "Tight security as Indian students resit medical exam after alleged paper leak",
-      "url": "https://www.bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T13:53:12.163890+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Học sinh Ấn Độ phải thi lại y khoa dưới sự giám sát chặt chẽ",
-      "bullets": [
-        "Được yêu cầu kiểm tra sinh trắc học và kiểm tra an ninh",
-        "Lực lượng không quân được triển khai để bảo vệ giấy thi",
-        "Đảm bảo an ninh cho hàng triệu thí sinh",
-        "Tình hình được kiểm soát sau cáo buộc trộm cắp đề thi"
-      ],
-      "full_summary": "Hàng triệu thí sinh Ấn Độ phải thi lại kỳ thi y khoa sau khi có cáo buộc trộm cắp đề thi. Để đảm bảo an ninh, thí sinh phải trải qua kiểm tra sinh trắc học và kiểm tra an ninh. Lực lượng không quân được triển khai để bảo vệ giấy thi. Mục tiêu là đảm bảo an ninh cho thí sinh trong suốt quá trình thi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "71af27038f9f",
-      "title": "Low-key funeral held for giant of the art world David Hockney",
-      "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T13:53:13.084028+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "David Hockney được an táng trong sự im lặng",
-      "bullets": [
-        "Đại gia của thế giới nghệ thuật David Hockney qua đời tại nhà riêng ở London",
-        "Ông yêu cầu chỉ có người bạn và cháu trai lớn của mình tham dự lễ tang",
-        "Lễ an táng được tổ chức trong sự im lặng",
-        "David Hockney là một trong những nghệ sĩ nổi tiếng nhất thế giới"
-      ],
-      "full_summary": "David Hockney, một trong những nghệ sĩ nổi tiếng nhất thế giới, đã qua đời tại nhà riêng ở London. Ông yêu cầu chỉ có người bạn và cháu trai lớn của mình tham dự lễ tang. Lễ an táng được tổ chức trong sự im lặng. David Hockney được biết đến với các tác phẩm nghệ thuật phong phú và đa dạng.",
       "comments": 0,
       "score": 0
     }
