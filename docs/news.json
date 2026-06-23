@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-23T09:26:59.827918+00:00",
+  "updated_at": "2026-06-23T14:33:50.704843+00:00",
   "articles": [
+    {
+      "id": "82043ddd22a8",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:35.857226+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nhiều người chết đuối ở Pháp do sóng nhiệt",
+      "bullets": [
+        "Đã có 40 người chết đuối ở Pháp kể từ thứ Năm tuần trước",
+        "Sóng nhiệt đang gây ra nhiều vụ tai nạn ở châu Âu",
+        "Chính phủ Pháp đang cố gắng giảm thiểu thiệt hại",
+        "Số người chết đuối đang tăng nhanh chóng"
+      ],
+      "full_summary": "Chính phủ Pháp vừa thông báo đã có 40 người chết đuối kể từ thứ Năm tuần trước. Sóng nhiệt đang gây ra nhiều vụ tai nạn ở châu Âu, đặc biệt là ở Pháp. Chính phủ Pháp đang cố gắng giảm thiểu thiệt hại và ngăn chặn số người chết đuối tiếp tục tăng. Các biện pháp được đưa ra bao gồm tăng cường cảnh báo và hỗ trợ cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6d8b4f9c1a64",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:37.887330+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hôn nhân gia đình cựu tổng thống Zambia và chính phủ tiếp tục mâu thuẫn",
+      "bullets": [
+        "Chính phủ Zambia và gia đình cựu tổng thống Edgar Lungu tiếp tục tranh chấp về việc xử lý thi thể",
+        "Mâu thuẫn kéo dài 12 tháng kể từ khi ông Lungu qua đời",
+        "Gia đình cựu tổng thống muốn chôn cất tại quê hương",
+        "Chính phủ Zambia muốn chôn cất tại một nơi khác"
+      ],
+      "full_summary": "Gia đình cựu tổng thống Zambia Edgar Lungu và chính phủ tiếp tục mâu thuẫn về việc xử lý thi thể sau 12 tháng kể từ khi ông qua đời. Chính phủ muốn chôn cất tại một nơi khác, trong khi gia đình muốn chôn cất tại quê hương. Mâu thuẫn này đã kéo dài và chưa có kết quả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c12c6b7af1ae",
+      "title": "Trump anticipates better relationship with Colombia under new leader",
+      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:38.808857+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Trump kỳ vọng mối quan hệ tốt hơn với Colombia dưới thời lãnh đạo mới",
+      "bullets": [
+        "Trump ủng hộ Abelardo de la Espriella trở thành tổng thống Colombia",
+        "Kết quả sơ bộ cho thấy de la Espriella sẽ trở thành tổng thống Colombia",
+        "Trump kỳ vọng mối quan hệ tốt hơn với Colombia dưới thời lãnh đạo mới",
+        "Abelardo de la Espriella nhận được sự ủng hộ của Trump"
+      ],
+      "full_summary": "Tổng thống Mỹ cựu Donald Trump kỳ vọng mối quan hệ tốt hơn với Colombia dưới thời lãnh đạo mới. Theo kết quả sơ bộ, Abelardo de la Espriella sẽ trở thành tổng thống Colombia. Trump đã ủng hộ de la Espriella trong cuộc bầu cử tổng thống Colombia. Kết quả sơ bộ cho thấy de la Espriella sẽ trở thành tổng thống Colombia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6abccaf94777",
+      "title": "Spider which uses spring trap to capture prey discovered in Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:39.825471+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Một con nhện mới ở Úc bắt mồi bằng bẫy giật",
+      "bullets": [
+        "Bẫy giật của con nhện mới này cho phép nó bắt được kiến nguy hiểm",
+        "Phương pháp bắt mồi của con nhện này chưa từng được ghi nhận trước đây",
+        "Nghiên cứu về con nhện mới này đang được tiến hành ở Úc"
+      ],
+      "full_summary": "Các nhà nghiên cứu ở Úc vừa phát hiện một con nhện mới có phương pháp bắt mồi độc đáo. Con nhện này sử dụng bẫy giật để bắt được kiến nguy hiểm. Phương pháp bắt mồi này chưa từng được ghi nhận trước đây và đang được nghiên cứu kỹ lưỡng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d71648ea84cc",
+      "title": "Irish government to contribute £197m to cross-border rail services",
+      "url": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:40.705353+00:00",
+      "category": "politics|economy",
+      "importance": 3,
+      "headline": "Chính phủ Ireland cung cấp 197 triệu bảng cho dịch vụ tàu hỏa biên giới",
+      "bullets": [
+        "Cung cấp 197 triệu bảng cho dịch vụ tàu hỏa biên giới",
+        "Sử dụng quỹ Shared Island Fund của Ireland",
+        "Tăng cường kết nối giao thông giữa Ireland và Bắc Ireland",
+        "Đóng góp cho sự phát triển kinh tế khu vực"
+      ],
+      "full_summary": "Chính phủ Ireland đã quyết định cung cấp 197 triệu bảng cho dịch vụ tàu hỏa biên giới. Số tiền này sẽ được sử dụng từ quỹ Shared Island Fund của Ireland. Dịch vụ tàu hỏa biên giới sẽ giúp tăng cường kết nối giao thông giữa Ireland và Bắc Ireland, đóng góp cho sự phát triển kinh tế khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e9e999ba792",
+      "title": "Steam Machine launches with £879 price tag as Valve cites component costs",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:41.640591+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 3,
+      "headline": "Valve công bố Steam Machine với giá 879 bảng Anh",
+      "bullets": [
+        "Valve giải thích giá của Steam Machine do chi phí linh kiện tăng cao",
+        "Giá của Steam Machine phản ánh xu hướng chung của chi phí linh kiện tăng dần",
+        "Valve cho biết chi phí linh kiện đang tăng lên",
+        "Steam Machine là một hệ thống PC-konsoles lai"
+      ],
+      "full_summary": "Valve vừa công bố Steam Machine với giá 879 bảng Anh. Theo công ty, giá này phản ánh xu hướng chung của chi phí linh kiện tăng dần. Valve cho biết chi phí linh kiện đang tăng lên và Steam Machine là một hệ thống PC-konsoles lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1ffe055ffd07",
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:42.531228+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các bệnh viện Romania sử dụng bút chì và giấy để chống lại cuộc tấn công mạng",
+      "bullets": [
+        "Các chuyên gia mạng đã cố gắng đánh bại các hacker trong 4 ngày",
+        "Hàng chục bệnh viện ở Romania đã bị tắt nguồn",
+        "Các bệnh viện đã chuyển sang sử dụng bút chì và giấy để tiếp tục hoạt động",
+        "Cuộc tấn công mạng đã được ngăn chặn sau 4 ngày"
+      ],
+      "full_summary": "Trong 4 ngày, hàng chục bệnh viện ở Romania đã bị tắt nguồn do cuộc tấn công mạng. Các chuyên gia mạng đã cố gắng đánh bại các hacker, nhưng không thành công. Cuối cùng, các bệnh viện đã chuyển sang sử dụng bút chì và giấy để tiếp tục hoạt động. Cuộc tấn công mạng đã được ngăn chặn sau 4 ngày.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6091968b1276",
+      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
+      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T14:33:43.448786+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hàng triệu người Anh có thể nhận được khoản tiền £3 tỷ sau vụ kiện Apple",
+      "bullets": [
+        "Sự kiện được cho phép tiến hành",
+        "Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng",
+        "Nhiều khách hàng phụ thuộc vào các giải pháp thay thế của bên thứ ba",
+        "Số tiền £3 tỷ sẽ được phân phối cho người dùng"
+      ],
+      "full_summary": "Vụ kiện chống cạnh tranh của Apple đã được cho phép tiến hành ở Vương quốc Anh. Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng, nói rằng nhiều khách hàng phụ thuộc vào các giải pháp thay thế của bên thứ ba. Số tiền £3 tỷ sẽ được phân phối cho người dùng. Điều này có thể ảnh hưởng đến hàng triệu người Anh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7f55c7e9ce4c",
       "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
@@ -637,165 +796,6 @@
         "Sự ủng hộ của cử tri đối với ứng cử viên này đang được theo dõi"
       ],
       "full_summary": "Colombia đang chuẩn bị tổ chức bầu cử tổng thống, trong đó ứng cử viên Abelardo de la Espriella được dự đoán sẽ giành chiến thắng. Ông đã cam kết quay lại chiến đấu với các tổ chức vũ trang, thay vì tiếp tục kế hoạch 'tổng hòa bình' của Tổng thống Gustavo Petro. Điều này có thể dẫn đến sự thay đổi trong cuộc xung đột vũ trang kéo dài ở Colombia, sau khi đất nước đạt được thỏa thuận hòa bình với phần lớn Quân đội Cách mạng Colombia (Farc) vào năm 2016.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f857e1a7ef48",
-      "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
-      "url": "https://github.com/0xroylee/ponytrail",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-22T16:42:54.056701+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một công cụ theo dõi thay đổi mã nguồn AI mới được phát triển",
-      "bullets": [
-        "Tạo ra Ponytrail, một bản ghi thay đổi địa phương cho các sửa đổi của đại diện mã nguồn AI",
-        "Công cụ này giúp theo dõi và quản lý các thay đổi trong mã nguồn AI",
-        "Ponytrail có thể được sử dụng để kiểm tra và xác minh tính toàn vẹn của mã nguồn AI"
-      ],
-      "full_summary": "Một lập trình viên đã tạo ra Ponytrail, một công cụ theo dõi thay đổi địa phương cho các sửa đổi của đại diện mã nguồn AI. Công cụ này giúp theo dõi và quản lý các thay đổi trong mã nguồn AI, từ đó giúp kiểm tra và xác minh tính toàn vẹn của mã nguồn AI. Ponytrail có thể được sử dụng trong nhiều ứng dụng khác nhau, bao gồm phát triển phần mềm và kiểm tra mã nguồn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8281e5c34981",
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:03.937685+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Abelardo de la Espriella thắng cử tổng thống Colombia",
-      "bullets": [
-        "được Trump hậu thuẫn",
-        "đã thắng cử tổng thống Colombia",
-        "đã đánh bại đối thủ Iván Cepeda",
-        "tổng thống mới chưa được công bố chính thức"
-      ],
-      "full_summary": "Abelardo de la Espriella, một ứng cử viên ngoài cuộc chính trị, đã thắng cử tổng thống Colombia theo số liệu ban đầu. Ông được hậu thuẫn bởi cựu Tổng thống Mỹ Donald Trump. Tuy nhiên, đối thủ của ông, Iván Cepeda, cho rằng số liệu ban đầu chưa được công bố chính thức hoặc ràng buộc. Ông Cepeda đang yêu cầu kiểm phiếu lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2119011c51fb",
-      "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
-      "url": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:04.935739+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Cảnh sát Australia bắt giữ 2,7 tấn cocaine",
-      "bullets": [
-        "Bắt giữ 2,7 tấn cocaine",
-        "Khám phá kho ngầm ở Sydney",
-        "Tính giá trị lên 816 triệu đô la",
-        "Cảnh sát Australia thực hiện vụ bắt giữ lớn nhất"
-      ],
-      "full_summary": "Cảnh sát Australia đã bắt giữ 2,7 tấn cocaine sau khi khám phá một kho ngầm ở Sydney. Vụ bắt giữ này được cho là vụ lớn nhất trong lịch sử Australia. Cảnh sát đã tính giá trị cocaine lên 816 triệu đô la. Vụ bắt giữ này cho thấy nỗ lực của cảnh sát Australia trong việc chống lại tội phạm ma túy.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1fd53e7b56d7",
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:06.115768+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nga tập trung quân đội ở Kostyantynivka, đe dọa Ukraine",
-      "bullets": [
-        "Nga đang tăng cường quân đội ở Kostyantynivka",
-        "Thành phố này là chìa khóa để Nga chiếm đóng Donbas",
-        "Nếu Kostyantynivka thất thủ, Nga sẽ đẩy mạnh tấn công Ukraine",
-        "Nga sẽ tiến gần hơn đến những cứ điểm cuối cùng của Ukraine"
-      ],
-      "full_summary": "Nga đang tập trung quân đội ở thành phố Kostyantynivka, Ukraine. Thành phố này được coi là chìa khóa để Nga chiếm đóng Donbas. Nếu Kostyantynivka thất thủ, Nga sẽ đẩy mạnh tấn công Ukraine và tiến gần hơn đến những cứ điểm cuối cùng của Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "32c0b579de8b",
-      "title": "Japan quintuples visa fees in first price hike since 1978",
-      "url": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:07.763573+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Nhật Bản tăng phí thị thực 5 lần, chưa ảnh hưởng đến du lịch",
-      "bullets": [
-        "Nhật Bản tăng phí thị thực lần đầu tiên kể từ năm 1978",
-        "Phí thị thực tăng lên mức cao nhất từ trước đến nay",
-        "Chính quyền Nhật Bản cho rằng không ảnh hưởng đến du lịch nước ngoài",
-        "Tăng phí nhằm thu hút nguồn thu cho ngân sách"
-      ],
-      "full_summary": "Nhật Bản vừa tăng phí thị thực lên mức cao nhất từ trước đến nay, lần đầu tiên kể từ năm 1978. Chính quyền Nhật Bản cho rằng tăng phí không ảnh hưởng đến du lịch nước ngoài. Tuy nhiên, tăng phí này có thể khiến một số du khách phải cân nhắc lại kế hoạch du lịch đến Nhật Bản. Tăng phí thị thực nhằm thu hút nguồn thu cho ngân sách.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe1490865624",
-      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-      "url": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:08.747504+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chính phủ Uganda ngăn cựu bộ trưởng tư pháp Kenya vào nước",
-      "bullets": [
-        "Ngăn cản cựu bộ trưởng tư pháp Kenya Martha Karua vào Uganda",
-        "Karua đang đại diện cho lãnh đạo đối lập Ugandan Kizza Besigye",
-        "Besigye đang bị xét xử vì tội phản quốc",
-        "Vụ việc gây tranh cãi và thu hút sự chú ý quốc tế"
-      ],
-      "full_summary": "Cựu bộ trưởng tư pháp Kenya Martha Karua đã bị ngăn cản vào Uganda. Bà Karua đang đại diện cho lãnh đạo đối lập Ugandan Kizza Besigye, người đang bị xét xử vì tội phản quốc. Vụ việc gây tranh cãi và thu hút sự chú ý quốc tế. Các luật sư cho rằng quyết định ngăn cản Karua vào Uganda là không công bằng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "25b28331d7f6",
-      "title": "Schools close as more than half of France under red heat alerts",
-      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:09.676102+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hạ học đường vì nhiệt độ cao vượt mức đỏ ở Pháp",
-      "bullets": [
-        "Cảnh báo nhiệt độ cao ở Pháp",
-        "Hạ học đường để bảo vệ sức khỏe",
-        "Số người bị ảnh hưởng nhiều",
-        "Thời tiết xấu ở nhiều khu vực"
-      ],
-      "full_summary": "Ủy ban Y tế Pháp đã ra lệnh đóng cửa các trường học ở nhiều khu vực do nhiệt độ cao vượt mức đỏ. Nhiệt độ dự kiến sẽ đạt đỉnh vào thứ Hai. Bộ trưởng Y tế cảnh báo nhiều người sẽ bị ảnh hưởng. Các khu vực bị ảnh hưởng bao gồm hơn nửa số dân của Pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "90c6157d6b02",
-      "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
-      "url": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:10.669936+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ca sĩ Oliver Tree tử vong trong tai nạn máy bay",
-      "bullets": [
-        "Oliver Tree tử vong trong tai nạn máy bay ở Brazil",
-        "Ca sĩ 32 tuổi này đang tham gia chuyến lưu diễn toàn cầu",
-        "Tài năng âm nhạc người Mỹ gốc California qua đời trước khi đến Brazil",
-        "Chuyến lưu diễn của Oliver Tree bị gián đoạn vì tai nạn đáng tiếc"
-      ],
-      "full_summary": "Ca sĩ Oliver Tree đã qua đời trong một tai nạn máy bay ở Brazil. Ông đang tham gia chuyến lưu diễn toàn cầu và dự định đến Brazil trước khi gặp tai nạn. Chuyến lưu diễn của ông đã bị gián đoạn vì tai nạn đáng tiếc. Oliver Tree là một tài năng âm nhạc người Mỹ gốc California.",
       "comments": 0,
       "score": 0
     }
