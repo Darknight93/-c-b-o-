@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-06-23T14:33:50.704843+00:00",
+  "updated_at": "2026-06-23T19:52:46.353935+00:00",
   "articles": [
+    {
+      "id": "a24ed7b9800a",
+      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T19:52:31.708710+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel giết hai người ở miền nam Liban sau thời gian yên tĩnh",
+      "bullets": [
+        "Israel quân đội nói hai người đó là thành viên Hezbollah",
+        "Nhóm Hồi giáo Iran ủng hộ cáo buộc Israel vi phạm thỏa thuận ngừng bắn",
+        "Tình hình ở Liban vẫn đang căng thẳng",
+        "Israel và Hezbollah đang trong một cuộc chiến kéo dài"
+      ],
+      "full_summary": "Israel quân đội cho biết hai người bị giết ở miền nam Liban là thành viên Hezbollah. Tuy nhiên, nhóm Hồi giáo Iran ủng hộ cáo buộc Israel vi phạm thỏa thuận ngừng bắn. Tình hình ở Liban vẫn đang căng thẳng. Israel và Hezbollah đang trong một cuộc chiến kéo dài.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b65901b02c2c",
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T19:52:32.667363+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hàng chục tàu đi qua eo biển Hormuz sau thỏa thuận Mỹ - Iran",
+      "bullets": [
+        "Hàng chục tàu đi qua eo biển Hormuz sau thỏa thuận hòa bình giữa Mỹ và Iran.",
+        "Trafic qua eo biển Hormuz đã tăng lên kể từ khi Mỹ và Iran ký thỏa thuận hòa bình.",
+        "Tổng cộng 42 tàu đã đi qua eo biển Hormuz vào ngày thứ Bảy.",
+        "Thỏa thuận hòa bình giữa Mỹ và Iran nhằm chấm dứt chiến tranh."
+      ],
+      "full_summary": "Sau khi Mỹ và Iran ký thỏa thuận hòa bình, giao thông qua eo biển Hormuz đã tăng lên. Theo BBC, tổng cộng 42 tàu đã đi qua eo biển Hormuz vào ngày thứ Bảy. Thỏa thuận hòa bình giữa Mỹ và Iran nhằm chấm dứt chiến tranh và giúp ổn định tình hình khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6a603c2d3983",
+      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+      "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T19:52:34.851137+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tòa án Mỹ bác đơn kiện của tù nhân Rastafarian",
+      "bullets": [
+        "Tòa án tối cao Mỹ bác đơn kiện của một tù nhân Rastafarian",
+        "Tù nhân này bị tước tóc vì lý do tôn giáo",
+        "Tòa án cho rằng hành động của tù nhân không được bảo vệ bởi luật",
+        "Tù nhân này đã bị giam giữ tại Louisiana"
+      ],
+      "full_summary": "Tòa án tối cao Mỹ vừa bác đơn kiện của một tù nhân Rastafarian sau khi bị tước tóc vì lý do tôn giáo. Tù nhân này cho rằng hành động của tù nhân đã vi phạm quyền tôn giáo của mình. Tuy nhiên, tòa án cho rằng hành động của tù nhân không được bảo vệ bởi luật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cd40cafbed3b",
+      "title": "Meta halts worker tracking for AI training due to privacy fears",
+      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T19:52:35.766510+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta tạm dừng theo dõi nhân viên vì lo ngại về quyền riêng tư",
+      "bullets": [
+        "Meta đã tạm dừng theo dõi hoạt động máy tính của nhân viên",
+        "Lý do là lo ngại về quyền riêng tư và bảo mật",
+        "Công ty đã bắt đầu theo dõi nhân viên 2 tháng trước",
+        "Mục đích là để tạo dữ liệu đào tạo AI"
+      ],
+      "full_summary": "Meta đã tạm dừng việc theo dõi hoạt động máy tính của nhân viên vì lo ngại về quyền riêng tư và bảo mật. Công ty đã bắt đầu thực hiện việc này vào tháng trước với mục đích tạo dữ liệu đào tạo AI. Tuy nhiên, sau đó đã nhận được phản hồi tiêu cực từ nhân viên và quyết định tạm dừng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9b2831e1cea5",
+      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T19:52:36.668466+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp sẽ có lãnh đạo mới, người sáng lập công ty Ấn Độ",
+      "bullets": [
+        "Sẽ có lãnh đạo mới dẫn dắt WhatsApp",
+        "Người sáng lập công ty Ấn Độ sẽ lãnh đạo WhatsApp",
+        "Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ",
+        "Lãnh đạo mới sẽ giúp WhatsApp phát triển ở Ấn Độ"
+      ],
+      "full_summary": "WhatsApp đang trải qua một cuộc thay đổi lãnh đạo. Người sáng lập công ty Ấn Độ sẽ lãnh đạo WhatsApp. Điều này diễn ra khi Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ. Lãnh đạo mới sẽ giúp WhatsApp phát triển ở Ấn Độ và tăng cường sự hiện diện của ứng dụng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f6b6199b5e2a",
+      "title": "Why an AI company cleaned my New York City apartment for free",
+      "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T19:52:38.266168+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty AI gửi người dọn dẹp miễn phí để đào tạo robot",
+      "bullets": [
+        "Gửi người dọn dẹp miễn phí để đào tạo robot thay thế",
+        "Cơ quan này hy vọng robot sẽ tự động hóa công việc dọn dẹp trong tương lai",
+        "Mục tiêu cuối cùng là giảm chi phí và tăng hiệu suất",
+        "Khách hàng ở New York City được hưởng lợi từ chương trình này"
+      ],
+      "full_summary": "Một công ty AI đang gửi người dọn dẹp miễn phí đến các căn hộ ở New York City. Mục đích của họ là đào tạo robot để thay thế con người trong tương lai. Cơ quan này hy vọng robot sẽ tự động hóa công việc dọn dẹp, giảm chi phí và tăng hiệu suất. Khách hàng ở New York City đang được hưởng lợi từ chương trình này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1e4e230cd97",
+      "title": "A curious crossover: The Toyota C-HR review",
+      "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-23T19:52:43.449618+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Xe điện Toyota C-HR nhỏ nhưng không quá thoải mái",
+      "bullets": [
+        "Đánh giá xe điện Toyota C-HR",
+        "Xe có kích thước nhỏ nhưng không quá thú vị",
+        "Đánh giá chi tiết về hiệu suất và tính năng",
+        "Xe điện Toyota C-HR có điểm mạnh và điểm yếu gì"
+      ],
+      "full_summary": "Mặc dù có kích thước nhỏ, xe điện Toyota C-HR không quá thoải mái. Theo đánh giá của Ars Technica, xe điện này không có nhiều tính năng thú vị như các mẫu xe khác. Tuy nhiên, xe vẫn có hiệu suất tốt và có thể là lựa chọn tốt cho những người muốn một chiếc xe điện nhỏ gọn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "82043ddd22a8",
       "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
@@ -656,146 +796,6 @@
         "Anhropic phải đối mặt với hậu quả nghiêm trọng vì lời cảnh báo của mình"
       ],
       "full_summary": "Anhropic, một công ty AI, đã cảnh báo về nguy cơ của AI tiên tiến cao hơn đối thủ OpenAI. Lời cảnh báo này đã khiến chính phủ lo ngại về an ninh và có thể dẫn đến lệnh cấm xuất khẩu AI. Điều này có thể ảnh hưởng đến sự phát triển công nghệ và khiến Anthropic phải đối mặt với hậu quả nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "20f5d6bc444f",
-      "title": "Vance says Iran will allow nuclear inspectors back into the country",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T16:42:40.400101+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran đồng ý cho nhà điều tra hạt nhân quay lại",
-      "bullets": [
-        "Iran đồng ý cho nhà điều tra hạt nhân quay lại",
-        "Hai bên đạt được tiến bộ đáng kể sau đàm phán đầu tiên",
-        "Vice tổng thống Mỹ cam kết tiếp tục đàm phán",
-        "Mục tiêu cuối cùng là đạt được thỏa thuận hạt nhân"
-      ],
-      "full_summary": "Vice tổng thống Mỹ Kamala Harris cho biết Iran đã đồng ý cho nhà điều tra hạt nhân quay lại sau đàm phán đầu tiên. Bà Harris nói rằng hai bên đã đạt được tiến bộ đáng kể và cam kết tiếp tục đàm phán. Mục tiêu cuối cùng là đạt được thỏa thuận hạt nhân để ngăn chặn Iran phát triển vũ khí hạt nhân. Đây là một bước tiến quan trọng trong việc giải quyết vấn đề hạt nhân của Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5c30f252acca",
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T16:42:41.468538+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ khí thiên nhiên tại Qatar khiến 13 người thiệt mạng",
-      "bullets": [
-        "Nổ khí thiên nhiên xảy ra tại khu công nghiệp Ras Laffan",
-        "Có ít nhất 13 người chết và nhiều người bị thương",
-        "Địa điểm xảy ra vụ nổ là nhà máy xử lý khí thiên nhiên lỏng chính",
-        "Vụ nổ được xác định là một tai nạn kỹ thuật"
-      ],
-      "full_summary": "Một vụ nổ khí thiên nhiên nghiêm trọng đã xảy ra tại khu công nghiệp Ras Laffan ở Qatar, khiến ít nhất 13 người thiệt mạng và nhiều người bị thương. Vụ nổ xảy ra tại nhà máy xử lý khí thiên nhiên lỏng chính. Nguyên nhân của vụ nổ chưa được xác định rõ ràng, nhưng được mô tả là một tai nạn kỹ thuật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e6b706bf16c",
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T16:42:42.557271+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Lực lượng quân đội Miến Điện giết hại hơn 700 thường dân trong 6 tháng",
-      "bullets": [
-        "Giết hại 702 thường dân trong 6 tháng năm ngoái",
-        "Bao gồm 153 trẻ em",
-        "UN cáo buộc quân đội Miến Điện vi phạm nhân quyền",
-        "Báo cáo mới của UN chỉ ra tình hình khủng khiếp ở Miến Điện"
-      ],
-      "full_summary": "Một báo cáo mới của Liên Hợp Quốc cáo buộc quân đội Miến Điện đã giết hại hơn 700 thường dân trong 6 tháng năm ngoái, bao gồm 153 trẻ em. Báo cáo này chỉ ra tình hình khủng khiếp ở Miến Điện và vi phạm nhân quyền nghiêm trọng của quân đội. Đây là một trong những cáo buộc nghiêm trọng nhất đối với quân đội Miến Điện trong nhiều năm qua.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e4f7bef558ac",
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T16:42:43.590868+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp sắp có lãnh đạo mới, người sáng lập công ty Ấn Độ",
-      "bullets": [
-        "Sẽ có lãnh đạo mới dẫn dắt WhatsApp",
-        "Người sáng lập công ty Ấn Độ sẽ đảm nhận vai trò này",
-        "Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ",
-        "Lãnh đạo mới sẽ giúp WhatsApp tiếp tục phát triển tại thị trường Ấn Độ"
-      ],
-      "full_summary": "WhatsApp sắp có lãnh đạo mới, người sáng lập công ty Ấn Độ. Điều này diễn ra trong bối cảnh Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ. Người sáng lập công ty Ấn Độ sẽ đảm nhận vai trò lãnh đạo mới của WhatsApp. Lãnh đạo mới sẽ giúp WhatsApp tiếp tục phát triển tại thị trường Ấn Độ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1277cf2d316d",
-      "title": "Twins marry twins in joyous Nigerian joint wedding",
-      "url": "https://www.bbc.com/news/articles/cvglvkxwxj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T16:42:44.569573+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Hai anh em Nigeria kết hôn với hai chị em song sinh",
-      "bullets": [
-        "Hai anh em Taiwo và Kehinde Oguntoye kết hôn với hai chị em song sinh",
-        "Lễ cưới được tổ chức tại Nigeria",
-        "Cặp đôi được cho là đã yêu nhau từ lâu",
-        "Hai anh em và hai chị em song sinh đã có một cuộc sống hạnh phúc cùng nhau"
-      ],
-      "full_summary": "Hai anh em Taiwo và Kehinde Oguntoye đã kết hôn với hai chị em song sinh tại Nigeria. Lễ cưới được tổ chức trong một sự kiện lớn và được nhiều người tham dự. Cặp đôi được cho là đã yêu nhau từ lâu và đã có một cuộc sống hạnh phúc cùng nhau. Đây là một sự kiện hiếm gặp và được nhiều người quan tâm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e4f7bef558ac",
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T16:42:45.523926+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp sắp có lãnh đạo mới, người sáng lập công ty Ấn Độ",
-      "bullets": [
-        "Sẽ có người sáng lập công ty Ấn Độ lãnh đạo WhatsApp",
-        "Meta muốn tăng cường hiện diện của ứng dụng ở Ấn Độ",
-        "Lãnh đạo mới sẽ thay thế Will Cathcart",
-        "WhatsApp đang có sự bùng nổ ở Ấn Độ"
-      ],
-      "full_summary": "WhatsApp sắp có lãnh đạo mới. Người sáng lập công ty Ấn Độ sẽ lãnh đạo WhatsApp. Điều này diễn ra khi Meta muốn tăng cường hiện diện của ứng dụng ở Ấn Độ. Lãnh đạo mới sẽ thay thế Will Cathcart, người đã lãnh đạo WhatsApp từ năm 2019.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "decc6203b322",
-      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T16:42:48.992196+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Colombia bầu cử tổng thống, khả năng dẫn đến sự thay đổi trong cuộc xung đột vũ trang kéo dài",
-      "bullets": [
-        "Colombia chuẩn bị tổ chức bầu cử tổng thống",
-        "Ứng cử viên Abelardo de la Espriella cam kết quay lại chiến đấu với các tổ chức vũ trang",
-        "Sự kiện này có thể dẫn đến sự thay đổi trong cuộc xung đột vũ trang kéo dài",
-        "Sự ủng hộ của cử tri đối với ứng cử viên này đang được theo dõi"
-      ],
-      "full_summary": "Colombia đang chuẩn bị tổ chức bầu cử tổng thống, trong đó ứng cử viên Abelardo de la Espriella được dự đoán sẽ giành chiến thắng. Ông đã cam kết quay lại chiến đấu với các tổ chức vũ trang, thay vì tiếp tục kế hoạch 'tổng hòa bình' của Tổng thống Gustavo Petro. Điều này có thể dẫn đến sự thay đổi trong cuộc xung đột vũ trang kéo dài ở Colombia, sau khi đất nước đạt được thỏa thuận hòa bình với phần lớn Quân đội Cách mạng Colombia (Farc) vào năm 2016.",
       "comments": 0,
       "score": 0
     }
