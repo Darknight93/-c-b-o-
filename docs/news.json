@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-22T20:37:18.858254+00:00",
+  "updated_at": "2026-06-23T02:36:44.910363+00:00",
   "articles": [
+    {
+      "id": "25640e78ccc9",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T02:36:29.028445+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nữ giáo sư bị bắt cóc và qua đời",
+      "bullets": [
+        "Một lá thư đòi tiền chuộc được phát hiện",
+        "Lá thư cho biết họ không mong muốn nạn nhân qua đời",
+        "Lá thư xin lỗi gia đình nạn nhân",
+        "Nạn nhân là giáo sư Nancy Guthrie"
+      ],
+      "full_summary": "Một lá thư đòi tiền chuộc được phát hiện, trong đó người gửi cho biết họ không mong muốn nạn nhân qua đời và xin lỗi gia đình. Lá thư này liên quan đến trường hợp bị bắt cóc của giáo sư Nancy Guthrie. Thông tin chi tiết về vụ việc vẫn chưa được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b939a1fd652c",
+      "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+      "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T02:36:29.982137+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple có thể phải bồi thường 3 tỷ bảng cho người dùng iCloud",
+      "bullets": [
+        "Sẽ có thể bồi thường cho 1 triệu người dùng iCloud",
+        "Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng",
+        "Nhiều người dùng iCloud phụ thuộc vào các giải pháp thay thế từ bên thứ ba",
+        "Sự kiện này có thể ảnh hưởng đến thị trường công nghệ"
+      ],
+      "full_summary": "Một vụ kiện chống cạnh tranh ở Anh đã cho phép hàng triệu người dùng iCloud của Apple có thể yêu cầu bồi thường. Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng, nói rằng nhiều người dùng iCloud phụ thuộc vào các giải pháp thay thế từ bên thứ ba. Vụ việc này có thể ảnh hưởng đến thị trường công nghệ và có thể gây ra những hậu quả nghiêm trọng cho Apple.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "921b64ecab83",
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "url": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T02:36:31.052835+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công nghệ theo dõi nước bọt đang tràn vào thị trường",
+      "bullets": [
+        "Cung cấp thông tin về mức độ mất nước của người dùng",
+        "Một số thiết bị theo dõi nước bọt có thể đo lượng nước được tiêu thụ",
+        "Nhà sản xuất đang cạnh tranh để tạo ra sản phẩm tốt nhất",
+        "Câu hỏi đặt ra là liệu có quá nhiều thông tin không?"
+      ],
+      "full_summary": "Công nghệ theo dõi nước bọt đang trở thành một phần quan trọng của cuộc sống hàng ngày. Các thiết bị theo dõi nước bọt đang tràn vào thị trường, cung cấp thông tin về mức độ mất nước của người dùng. Một số thiết bị thậm chí còn đo lượng nước được tiêu thụ. Tuy nhiên, nhà sản xuất đang cạnh tranh để tạo ra sản phẩm tốt nhất, và câu hỏi đặt ra là liệu có quá nhiều thông tin không?",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a5311cd194f0",
+      "title": "Montreal mayor calls for end to random police checks amid racial profiling investigation",
+      "url": "https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T02:36:32.262927+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Thủ trưởng thành phố Montreal kêu gọi dừng kiểm tra ngẫu nhiên của cảnh sát",
+      "bullets": [
+        "Thủ trưởng thành phố Montreal kêu gọi dừng kiểm tra ngẫu nhiên của cảnh sát",
+        "16 cảnh sát bị điều tra vì bị nghi ngờ phân biệt chủng tộc và phân biệt đối xử",
+        "Cảnh sát thành phố Montreal đang đối mặt với một cuộc điều tra nội bộ",
+        "Một số cư dân da đen và người Hồi giáo bị cảnh sát nhắm mục tiêu"
+      ],
+      "full_summary": "Thủ trưởng thành phố Montreal, Soraya Martinez Ferrada, vừa kêu gọi dừng kiểm tra ngẫu nhiên của cảnh sát sau khi 16 cảnh sát bị điều tra vì bị nghi ngờ phân biệt chủng tộc và phân biệt đối xử. Bà Ferrada cho biết chồng bà, người da đen, đã bị cảnh sát kiểm tra nhiều lần khi đang lái xe. Cuộc điều tra nội bộ đang được tiến hành để xem xét các cáo buộc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f749100fd2c4",
+      "title": "Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off",
+      "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T02:36:33.319109+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát mạng Canada lừa đảo nhân viên y tế bằng email giả",
+      "bullets": [
+        "Gửi email giả về ngày nghỉ lễ",
+        "Dẫn nhân viên y tế Newfoundland và Labrador tin tưởng",
+        "Bị chỉ trích vì thiếu cảm thông",
+        "Đã gây ra sự bối rối và lo lắng"
+      ],
+      "full_summary": "Một email giả được gửi đến hàng nghìn nhân viên y tế Newfoundland và Labrador, hứa hẹn một ngày nghỉ lễ. Tuy nhiên, email này thực chất là một bài kiểm tra an ninh mạng nội bộ. Các tổ chức công đoàn đã lên án hành động này là thiếu cảm thông và đã gây ra sự bối rối và lo lắng cho nhân viên y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4d44a290c6ad",
+      "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
+      "url": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-23T02:36:36.399675+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Trung tâm vũ trụ Kennedy chưa sẵn sàng cho kỷ nguyên tên lửa siêu nặng",
+      "bullets": [
+        "SpaceX thông báo lên kế hoạch phóng Starship mỗi 8 ngày từ Kennedy",
+        "Trung tâm vũ trụ Kennedy cần được nâng cấp để đáp ứng nhu cầu phóng tên lửa siêu nặng",
+        "NASA và SpaceX đang hợp tác để giải quyết các vấn đề kỹ thuật",
+        "Kỷ nguyên tên lửa siêu nặng sẽ mang lại nhiều cơ hội mới cho việc khám phá vũ trụ"
+      ],
+      "full_summary": "Theo báo cáo, SpaceX đã thông báo lên kế hoạch phóng Starship mỗi 8 ngày từ Trung tâm vũ trụ Kennedy. Điều này cho thấy nhu cầu phóng tên lửa siêu nặng đang tăng lên nhanh chóng. Tuy nhiên, Trung tâm vũ trụ Kennedy hiện chưa sẵn sàng để đáp ứng nhu cầu này. NASA và SpaceX đang hợp tác để giải quyết các vấn đề kỹ thuật và nâng cấp cơ sở hạ tầng để đáp ứng nhu cầu phóng tên lửa siêu nặng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bac1876025f2",
+      "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
+      "url": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-23T02:36:37.342818+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nam dùng máy massage gây thương tích cho mắt",
+      "bullets": [
+        "Sử dụng máy massage gây thương tích cho mắt",
+        "Mắt bị rách và tím do áp lực mạnh",
+        "Nam phải nhập viện vì chấn thương nghiêm trọng",
+        "Máy massage không được sử dụng cho mắt"
+      ],
+      "full_summary": "Một nam giới đã sử dụng máy massage để điều trị cho mắt mệt mỏi, nhưng kết quả lại rất tồi tệ. Máy massage đã gây thương tích nghiêm trọng cho mắt của nam giới, bao gồm cả rách và tím. Nam giới phải nhập viện để được điều trị chấn thương. Đây là một cảnh báo cho mọi người không nên sử dụng máy massage cho mắt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b42350b35e1e",
+      "title": "Lucid lays off 1,500 workers in second big cut of the year",
+      "url": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-23T02:36:39.973273+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Lucid giảm 1.500 nhân viên trong đợt cắt giảm thứ hai trong năm",
+      "bullets": [
+        "Giảm nhân sự để đơn giản hóa công ty",
+        "CEO công bố kế hoạch cắt giảm nhân sự",
+        "Cắt giảm nhân sự nhằm tăng hiệu suất và giảm chi phí"
+      ],
+      "full_summary": "Lucid Motors vừa công bố cắt giảm 1.500 nhân viên, là đợt cắt giảm thứ hai trong năm. CEO công ty cho biết, cắt giảm nhân sự nhằm mục đích đơn giản hóa công ty và tăng hiệu suất. Đây là một phần của kế hoạch cắt giảm nhân sự nhằm giảm chi phí và tăng hiệu suất. Cắt giảm nhân sự sẽ ảnh hưởng đến nhiều bộ phận của công ty.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40591857a5a4",
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-23T02:36:44.410170+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Các biểu tượng Nhật Bản nói chuyện mà không cần từ ngữ",
+      "bullets": [
+        "Giới thiệu về các biểu tượng Nhật Bản có ý nghĩa sâu sắc",
+        "Các biểu tượng này thể hiện sự phức tạp và đa dạng của ngôn ngữ Nhật Bản",
+        "Các biểu tượng được sử dụng trong nhiều lĩnh vực khác nhau",
+        "Các biểu tượng có thể giúp người học ngôn ngữ Nhật Bản hiểu sâu sắc hơn"
+      ],
+      "full_summary": "Một bài viết trên blog của Arun đã giới thiệu về các biểu tượng Nhật Bản có ý nghĩa sâu sắc. Các biểu tượng này thể hiện sự phức tạp và đa dạng của ngôn ngữ Nhật Bản và được sử dụng trong nhiều lĩnh vực khác nhau. Bài viết này có thể giúp người học ngôn ngữ Nhật Bản hiểu sâu sắc hơn về ngôn ngữ này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "428a5fa323f3",
       "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
@@ -615,185 +794,6 @@
         "Giúp các ngôi làng Himalaya chống lại sự khô hạn"
       ],
       "full_summary": "Các ngôi làng Himalaya đang tạo ra băng nhân tạo để đảm bảo nước cho mùa xuân. Băng nhân tạo được tạo ra bằng cách sử dụng các công nghệ đặc biệt để tạo ra các hình dạng giống như băng. Điều này sẽ giúp cung cấp nước cho mùa xuân và giảm thiểu tác động của biến đổi khí hậu. Các ngôi làng Himalaya đang đối mặt với sự khô hạn và biến đổi khí hậu, và băng nhân tạo sẽ giúp họ chống lại những thách thức này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c6f70cbbb3b",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T03:29:27.084392+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chủ tịch Barbados tuyên bố kế hoạch đòi bồi thường cho nạn nô lệ",
-      "bullets": [
-        "Bí thư Mottley kêu gọi các quốc gia Caribbean xem xét kế hoạch đòi bồi thường",
-        "Kế hoạch nhấn mạnh tác động tiêu cực đối với phụ nữ châu Phi",
-        "Các quốc gia Caribbean đang xem xét kế hoạch này",
-        "UN đã thông qua nghị quyết về tội ác chống lại loài người"
-      ],
-      "full_summary": "Chủ tịch Barbados Mia Mottley đã công bố kế hoạch đòi bồi thường cho nạn nô lệ. Kế hoạch này được công bố tại hội nghị ở Ghana, nơi các nhà lãnh đạo Caribbean đang thúc đẩy việc đòi bồi thường cho những thiệt hại do nô lệ gây ra. Các quốc gia Caribbean đang xem xét kế hoạch này và UN đã thông qua nghị quyết về tội ác chống lại loài người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f5e47ce467da",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T03:29:28.274859+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai tên tội phạm bị xử lý vì buôn bán sừng tê giác lớn nhất thế giới",
-      "bullets": [
-        "Hai tên Dawie Groenewald và Tielman Erasmus bị kết án vì buôn bán sừng tê giác",
-        "Họ bị buộc tội phạm tội săn bắt và tước sừng tê giác bất hợp pháp",
-        "Cặp đôi này bị kết án vì tham gia vào các hoạt động rửa tiền và buôn bán bất hợp pháp"
-      ],
-      "full_summary": "Hai tên tội phạm Dawie Groenewald và Tielman Erasmus đã bị kết án vì buôn bán sừng tê giác lớn nhất thế giới. Họ bị buộc tội phạm tội săn bắt và tước sừng tê giác bất hợp pháp, cũng như tham gia vào các hoạt động rửa tiền và buôn bán bất hợp pháp. Sau gần 16 năm điều tra, hai tên tội phạm này đã bị kết án với tổng cộng 1.700 cáo trạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "48b87e414a7f",
-      "title": "Rent collections are down in New York",
-      "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-22T03:29:32.940442+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Số tiền thuê nhà thu được ở New York giảm",
-      "bullets": [
-        "Thuê nhà ở New York giảm",
-        "Không ai biết nguyên nhân",
-        "Số liệu thu nhập giảm bất ngờ",
-        "Tác động đến nền kinh tế địa phương"
-      ],
-      "full_summary": "Theo báo cáo, số tiền thuê nhà thu được ở New York đã giảm đáng kể trong thời gian gần đây. Nguyên nhân chưa được xác định rõ ràng. Điều này đã gây ra lo ngại về tác động của nó đến nền kinh tế địa phương. Các chuyên gia đang cố gắng tìm hiểu nguyên nhân và giải pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "40be430997fd",
-      "title": "Stem cells banish severe autoimmune disease for 15 years",
-      "url": "https://www.nature.com/articles/d41586-026-01925-7",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-06-22T03:29:37.240811+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Chất xơ gốc tế bào chữa khỏi bệnh tự miễn nghiêm trọng 15 năm",
-      "bullets": [
-        "Cử nhân đầu tiên nhận được liệu trình này",
-        "Liệu trình chữa khỏi bệnh ảnh hưởng nghiêm trọng đến dây thần kinh sống và tủy thị giác",
-        "Hai người đã được thử nghiệm",
-        "Kết quả cho thấy bệnh tự miễn nghiêm trọng đã được chữa khỏi trong 15 năm"
-      ],
-      "full_summary": "Theo Nature, hai người đầu tiên đã nhận được liệu trình chữa bệnh tự miễn nghiêm trọng bằng chất xơ gốc tế bào. Liệu trình này đã giúp họ chữa khỏi bệnh ảnh hưởng nghiêm trọng đến dây thần kinh sống và tủy thị giác. Kết quả cho thấy bệnh tự miễn nghiêm trọng đã được chữa khỏi trong 15 năm. Đây là một bước tiến quan trọng trong lĩnh vực nghiên cứu về bệnh tự miễn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dc79e2426386",
-      "title": "US and Iran begin talks on initial peace deal in Switzerland",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T19:20:22.230305+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ và Iran bắt đầu đàm phán về thỏa thuận hòa bình ban đầu tại Thụy Sĩ",
-      "bullets": [
-        "Mỹ và Iran bắt đầu đàm phán hòa bình tại Geneva, Thụy Sĩ",
-        "Đàm phán diễn ra sau những cuộc chiến tranh tại Lebanon",
-        "Iran tuyên bố đã đóng Strait of Hormuz",
-        "Hai bên đang tìm kiếm thỏa thuận hòa bình ban đầu"
-      ],
-      "full_summary": "Mỹ và Iran đã bắt đầu đàm phán hòa bình tại Geneva, Thụy Sĩ. Đàm phán diễn ra sau những cuộc chiến tranh tại Lebanon và tuyên bố của Iran về việc đóng Strait of Hormuz. Hai bên đang tìm kiếm thỏa thuận hòa bình ban đầu để chấm dứt xung đột. Mục tiêu của đàm phán là tìm kiếm một giải pháp hòa bình cho các vấn đề giữa hai nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "529759403395",
-      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
-      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T19:20:23.374200+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Đảng của Thủ tướng Ethiopia thắng đậm trong cuộc bầu cử",
-      "bullets": [
-        "Thắng cử lớn bất chấp tình trạng bất ổn ở nhiều khu vực Ethiopia",
-        "Tình trạng căng thẳng với các nước láng giềng vẫn tiếp diễn",
-        "Đảng của Thủ tướng Abiy Ahmed vẫn giữ đa số lớn trong Quốc hội",
-        "Tình hình Ethiopia vẫn đang đặt ra nhiều lo ngại về xung đột mới"
-      ],
-      "full_summary": "Đảng của Thủ tướng Ethiopia, Đảng Hòa giải và Hợp nhất (EPRDF), đã giành chiến thắng lớn trong cuộc bầu cử quốc hội vừa qua. Mặc dù cuộc bầu cử diễn ra trong bối cảnh tình trạng bất ổn ở nhiều khu vực Ethiopia và căng thẳng với các nước láng giềng, nhưng đảng này vẫn giữ đa số lớn trong Quốc hội. Thủ tướng Abiy Ahmed, người đã lãnh đạo đất nước kể từ năm 2018, được kỳ vọng sẽ tiếp tục dẫn dắt đất nước trong những năm tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "52cfd190278b",
-      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-21T19:20:24.392390+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Jeff Bezos tin AI sẽ tạo ra thiếu hụt lao động",
-      "bullets": [
-        "Jeff Bezos tin AI sẽ tạo ra nhiều việc làm cho con người",
-        "Ông nghĩ AI sẽ tạo ra thiếu hụt lao động",
-        "Founder Amazon tin AI sẽ thay đổi cách con người làm việc",
-        "Jeff Bezos tin AI sẽ không thay thế con người"
-      ],
-      "full_summary": "Jeff Bezos, người sáng lập Amazon, tin rằng trí tuệ nhân tạo (AI) sẽ tạo ra nhiều việc làm hơn là thay thế con người. Ông nghĩ rằng AI sẽ tạo ra thiếu hụt lao động vì nó sẽ thay đổi cách con người làm việc. Bezos, người hiện đang có các công ty về robot và du hành vũ trụ, tin rằng AI sẽ giúp con người phát triển và tạo ra nhiều cơ hội mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0e307e259bc8",
-      "title": "Trump admin’s coal investments assist plants with repeated violations",
-      "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T19:20:25.314913+00:00",
-      "category": "khoa học|môi trường",
-      "importance": 3,
-      "headline": "Hành động của Trump hỗ trợ các nhà máy than vi phạm quy định môi trường",
-      "bullets": [
-        "Vi phạm quy định môi trường nhiều lần",
-        "Có ít nhất 3 nhà máy than bị chỉ trích",
-        "Hành động của Trump hỗ trợ các nhà máy này",
-        "Vi phạm quy định về môi trường và an toàn"
-      ],
-      "full_summary": "Theo báo cáo, ít nhất 3 nhà máy than đã bị chỉ trích vì vi phạm quy định môi trường. Hành động của chính quyền Trump đã hỗ trợ các nhà máy này, mặc dù chúng đã vi phạm quy định nhiều lần. Các nhà máy này đã bị chỉ trích vì vi phạm quy định về môi trường và an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a07fcd349948",
-      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-      "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-21T19:20:26.358809+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Blue Origin bắt đầu xây dựng lại cơ sở phóng mới",
-      "bullets": [
-        "Blue Origin bắt đầu xây dựng lại cơ sở phóng mới sau sự cố",
-        "Relativity đặt mục tiêu đến Mặt Trăng",
-        "Một công ty phóng tên lửa Pháp hủy bỏ tên lửa vì vấn đề bản quyền",
-        "Các công ty tên lửa đang đẩy nhanh tiến độ phát triển"
-      ],
-      "full_summary": "Blue Origin đang xây dựng lại cơ sở phóng mới sau sự cố. Công ty này đã bắt đầu quá trình xây dựng lại cơ sở phóng ở Texas. Trong khi đó, Relativity đang đặt mục tiêu đến Mặt Trăng. Một công ty phóng tên lửa Pháp đã hủy bỏ tên lửa của mình do vấn đề bản quyền.",
       "comments": 0,
       "score": 0
     }
