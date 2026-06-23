@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-23T02:36:44.910363+00:00",
+  "updated_at": "2026-06-23T09:26:59.827918+00:00",
   "articles": [
+    {
+      "id": "7f55c7e9ce4c",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:44.863069+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran từ chối cam kết mới về các địa điểm hạt nhân",
+      "bullets": [
+        "Iran từ chối cam kết mới về các địa điểm hạt nhân",
+        "Iran không đồng ý cho phép các nhà phân tích hạt nhân quay lại",
+        "Các cuộc đàm phán tại Thụy Sĩ không đạt được kết quả",
+        "Iran không có thông báo chính thức về việc này"
+      ],
+      "full_summary": "Iran cho biết không có cam kết mới về các địa điểm hạt nhân sau các cuộc đàm phán tại Thụy Sĩ. Bộ Ngoại giao Iran nói rằng không có cam kết mới về việc cho phép các nhà phân tích hạt nhân quay lại. Các cuộc đàm phán tại Thụy Sĩ diễn ra sau khi Mỹ và các nước khác yêu cầu Iran cho phép các nhà phân tích hạt nhân quay lại để kiểm tra các địa điểm hạt nhân. Tuy nhiên, Iran không có thông báo chính thức về việc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69d79daa9d49",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:45.945528+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nổ khí thiên nhiên tại Qatar khiến 13 người chết, nhiều người bị thương",
+      "bullets": [
+        "Nổ khí thiên nhiên xảy ra tại khu công nghiệp Ras Laffan",
+        "Có ít nhất 13 người chết và nhiều người bị thương",
+        "Địa điểm xảy ra nổ khí thiên nhiên là một nhà máy xử lý khí thiên nhiên lỏng",
+        "Nguyên nhân của vụ nổ vẫn chưa được xác định rõ"
+      ],
+      "full_summary": "Một vụ nổ khí thiên nhiên nghiêm trọng đã xảy ra tại khu công nghiệp Ras Laffan ở Qatar, khiến ít nhất 13 người chết và nhiều người bị thương. Vụ nổ xảy ra tại một nhà máy xử lý khí thiên nhiên lỏng. Nguyên nhân của vụ nổ vẫn chưa được xác định rõ. Các nhà chức trách đang điều tra nguyên nhân của vụ nổ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eed4aaf2451e",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:46.974604+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ giáo sư bị bắt cóc, kẻ thủ ác xin lỗi gia đình",
+      "bullets": [
+        "Báo cáo cho biết một giáo sư người Mỹ bị bắt cóc",
+        "Kẻ thủ ác gửi một lá thư xin lỗi gia đình nạn nhân",
+        "Lá thư cho biết họ không muốn nạn nhân chết",
+        "Nạn nhân đã qua đời sau khi bị bắt cóc"
+      ],
+      "full_summary": "Một giáo sư người Mỹ tên Nancy Guthrie bị bắt cóc và qua đời. Kẻ thủ ác đã gửi một lá thư xin lỗi gia đình nạn nhân, cho biết họ không muốn nạn nhân chết. Lá thư này đã được tìm thấy và đang được điều tra. Sự việc đang được điều tra và gia đình nạn nhân đang được hỗ trợ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "06e745aa2674",
+      "title": "Montreal shooting leaves officer, civilian and suspect dead",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:47.991441+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một cảnh sát và 2 người dân bị giết trong vụ bắn súng ở Montreal",
+      "bullets": [
+        "Một cảnh sát Montreal bị giết trong khi thi hành nhiệm vụ",
+        "Một người dân khác cũng bị giết trong vụ bắn súng",
+        "Suspect đã bị giết sau khi xảy ra vụ bắn súng",
+        "Đây là lần đầu tiên trong 24 năm một cảnh sát Montreal bị giết trong khi thi hành nhiệm vụ"
+      ],
+      "full_summary": "Một vụ bắn súng đã xảy ra ở Montreal, Canada, khiến một cảnh sát, một người dân và một nghi phạm bị giết. Đây là lần đầu tiên trong 24 năm một cảnh sát Montreal bị giết trong khi thi hành nhiệm vụ. Vụ bắn súng đã gây ra sự lo lắng trong cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "001f776b6a56",
+      "title": "Inquiry ordered after building fire kills 15 in north India city",
+      "url": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:48.981508+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi lăm người thiệt mạng trong vụ hỏa hoạn tòa nhà ở Ấn Độ",
+      "bullets": [
+        "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một tòa nhà ở Ấn Độ",
+        "Người dân đã nhảy từ cửa sổ để thoát khỏi đám cháy",
+        "Đội cứu hộ đã phá vỡ tường để cứu những người còn sống sót",
+        "Sự cố đã khiến 15 người thiệt mạng"
+      ],
+      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một tòa nhà ở thành phố của Ấn Độ, khiến 15 người thiệt mạng. Người chứng kiến đã mô tả những người nhảy từ cửa sổ để thoát khỏi đám cháy. Đội cứu hộ đã phá vỡ tường để cứu những người còn sống sót. Sự cố đã gây ra sự hoảng loạn lớn trong khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "255efd528adb",
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:50.002944+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Lực lượng quân đội Miến Điện giết hại hơn 700 thường dân trong 6 tháng",
+      "bullets": [
+        "Giết hại 702 thường dân trong 6 tháng năm ngoái",
+        "153 trẻ em trở thành nạn nhân",
+        "Báo cáo của Liên Hợp Quốc chỉ ra sự tàn bạo của quân đội",
+        "Cáo buộc quân đội Miến Điện vi phạm nhân quyền"
+      ],
+      "full_summary": "Một báo cáo mới của Liên Hợp Quốc cho biết quân đội Miến Điện đã giết hại hơn 700 thường dân trong 6 tháng năm ngoái, bao gồm 153 trẻ em. Báo cáo này chỉ ra sự tàn bạo của quân đội và cáo buộc họ vi phạm nhân quyền. Sự kiện này đã gây ra sự phẫn nộ trong cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4acfff696b27",
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:52.817830+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công nghệ theo dõi độ ẩm cơ thể đang trở nên phổ biến",
+      "bullets": [
+        "Cung cấp thông tin về mức độ mất nước của người dùng",
+        "Hỗ trợ người dùng theo dõi lượng nước uống hàng ngày",
+        "Cung cấp cảnh báo khi người dùng không uống đủ nước",
+        "Tạo ra sự cạnh tranh giữa các nhà sản xuất thiết bị theo dõi độ ẩm"
+      ],
+      "full_summary": "Công nghệ theo dõi độ ẩm cơ thể đang trở nên phổ biến với sự xuất hiện của nhiều thiết bị theo dõi độ ẩm mới. Những thiết bị này cung cấp thông tin về mức độ mất nước của người dùng, hỗ trợ người dùng theo dõi lượng nước uống hàng ngày và cảnh báo khi người dùng không uống đủ nước. Tuy nhiên, nhiều người lo ngại rằng quá nhiều thông tin có thể gây ra sự căng thẳng và ảnh hưởng đến sức khỏe.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84bf67e1d51e",
+      "title": "New video game console aims to get kids moving",
+      "url": "https://www.bbc.co.uk/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-23T09:26:56.350135+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy chơi game mới khuyến khích trẻ em vận động",
+      "bullets": [
+        "Sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6",
+        "Giá bán là £269 (€319)",
+        "Cung cấp trải nghiệm chơi game kết hợp với vận động thể chất",
+        "Được thiết kế để khuyến khích trẻ em hoạt động nhiều hơn"
+      ],
+      "full_summary": "Máy chơi game mới Nex Playground sắp được phát hành tại Anh và Ireland vào ngày 22 tháng 6 với giá £269 (€319). Máy chơi game này được thiết kế để khuyến khích trẻ em vận động thể chất khi chơi game. Nó cung cấp trải nghiệm chơi game kết hợp với vận động thể chất, giúp trẻ em hoạt động nhiều hơn và giảm thiểu thời gian ngồi trước màn hình.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "25640e78ccc9",
       "title": "Ransom note claims Nancy Guthrie died after abduction",
@@ -636,164 +796,6 @@
         "Chuyến lưu diễn của Oliver Tree bị gián đoạn vì tai nạn đáng tiếc"
       ],
       "full_summary": "Ca sĩ Oliver Tree đã qua đời trong một tai nạn máy bay ở Brazil. Ông đang tham gia chuyến lưu diễn toàn cầu và dự định đến Brazil trước khi gặp tai nạn. Chuyến lưu diễn của ông đã bị gián đoạn vì tai nạn đáng tiếc. Oliver Tree là một tài năng âm nhạc người Mỹ gốc California.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb461a4fc7b1",
-      "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:11.768099+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Ghana thông qua khung toàn cầu cho công lý bù đắp",
-      "bullets": [
-        "Ghana thông qua khung toàn cầu cho công lý bù đắp",
-        "Các nước lợi dụng thương mại nô lệ phải xin lỗi chính thức",
-        "Khung 19 điểm hướng tới công lý bù đắp cho nạn nô lệ",
-        "Ghana và các nước khác đòi công nhận tội ác chống nhân loại"
-      ],
-      "full_summary": "Ghana đã thông qua khung toàn cầu cho công lý bù đắp tại hội nghị ở Accra. Khung này bao gồm 19 điểm hướng tới công lý bù đắp cho nạn nô lệ. Các nước đã lợi dụng thương mại nô lệ phải xin lỗi chính thức và công nhận tội ác chống nhân loại. Đây là một bước tiến quan trọng trong việc đòi công lý cho nạn nô lệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f35ca5f75760",
-      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T11:40:12.883887+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "CDC cung cấp 107 triệu USD để chống dịch Ebola tại DRC và Uganda",
-      "bullets": [
-        "CDC sẽ phân bổ 107 triệu USD để chống dịch Ebola",
-        "Số người nhiễm Ebola đã vượt qua 1.000",
-        "Dịch bệnh vẫn còn ở mức thấp trên toàn cầu",
-        "CDC cho rằng cần hỗ trợ khẩn cấp để chống dịch"
-      ],
-      "full_summary": "CDC sẽ phân bổ 107 triệu USD để chống dịch Ebola tại Cộng hòa Dân chủ Congo và Uganda. Số người nhiễm Ebola đã vượt qua 1.000, nhưng các quan chức y tế cho rằng rủi ro toàn cầu vẫn còn thấp. Dịch bệnh đang diễn ra trong thời gian World Cup, thu hút nhiều du khách từ khắp nơi trên thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a6f6ad4a9838",
-      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
-      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-22T11:40:14.465234+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Anh Quốc sẽ quét khuôn mặt tị nạn để xác định tuổi",
-      "bullets": [
-        "Sẽ sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn",
-        "Công nghệ này đã được chứng minh là có rủi ro gây ra sai lầm nghiêm trọng",
-        "Sai lầm có thể dẫn đến hậu quả nghiêm trọng trong cuộc sống của người tị nạn",
-        "Anh Quốc biết rõ công nghệ này có hạn chế nhưng vẫn quyết định sử dụng"
-      ],
-      "full_summary": "Anh Quốc đã quyết định sử dụng công nghệ quét khuôn mặt để xác định tuổi tị nạn, mặc dù công nghệ này đã được chứng minh là có rủi ro gây ra sai lầm nghiêm trọng. Các thử nghiệm đã chỉ ra rằng công nghệ này có thể dẫn đến sai lầm trong việc xác định tuổi, gây ra hậu quả nghiêm trọng trong cuộc sống của người tị nạn. Mặc dù biết rõ công nghệ này có hạn chế, Anh Quốc vẫn quyết định sử dụng nó để xác định tuổi tị nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "963a38bbce8b",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-22T11:40:18.936410+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chuẩn hóa LLM Qwen 3:0.6B để phân loại câu hỏi mang lại kết quả tốt",
-      "bullets": [
-        "Chuẩn hóa LLM Qwen 3:0.6B để phân loại câu hỏi",
-        "Kết quả phân loại câu hỏi đạt được nhờ fine-tuning",
-        "Phương pháp sử dụng để fine-tuning LLM",
-        "Kết quả đạt được sau khi fine-tuning"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã chia sẻ kinh nghiệm chuẩn hóa LLM Qwen 3:0.6B để phân loại câu hỏi. Bài viết này đã đạt được kết quả tốt nhờ phương pháp fine-tuning. Kết quả này cho thấy khả năng phân loại câu hỏi của LLM đã được cải thiện đáng kể. Bài viết cũng cung cấp thông tin về phương pháp sử dụng để fine-tuning LLM và kết quả đạt được sau khi fine-tuning.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "13b298c266ca",
-      "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-      "url": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T03:29:22.778945+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Công ty công nghệ và cơ quan chức năng bị chỉ trích vì tập trung vào khỏa thân",
-      "bullets": [
-        "Tập trung vào khỏa thân thay vì sự đồng ý",
-        "Báo cáo chỉ trích các công ty công nghệ và cơ quan chức năng",
-        "Phụ nữ bị ảnh hưởng bởi sự lạm dụng trực tuyến",
-        "Cần thay đổi cách tiếp cận đối với hình ảnh trực tuyến"
-      ],
-      "full_summary": "Một báo cáo mới chỉ trích các công ty công nghệ và cơ quan chức năng vì tập trung vào khỏa thân thay vì sự đồng ý khi xử lý hình ảnh trực tuyến. Theo báo cáo, sự tập trung vào khỏa thân đã khiến phụ nữ bị ảnh hưởng bởi sự lạm dụng trực tuyến. Báo cáo này được thực hiện bởi Chayn, một tổ chức phi lợi nhuận. Các chuyên gia cho rằng cần thay đổi cách tiếp cận đối với hình ảnh trực tuyến để bảo vệ phụ nữ khỏi sự lạm dụng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c7ba2bfb4543",
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T03:29:23.872983+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch cơ quan giám sát dữ liệu Anh từ chức vì hài hước không phù hợp",
-      "bullets": [
-        "Chủ tịch cơ quan giám sát dữ liệu Anh từ chức",
-        "Chủ tịch thừa nhận đã cố gắng sử dụng hài hước không phù hợp",
-        "Chủ tịch giữ chức vụ này từ tháng 1 năm 2022"
-      ],
-      "full_summary": "Chủ tịch cơ quan giám sát dữ liệu Anh, Edwards, đã từ chức sau khi thừa nhận đã cố gắng sử dụng hài hước không phù hợp. Ông giữ chức vụ này từ tháng 1 năm 2022. Việc từ chức của ông đã gây ra sự quan tâm trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "940827f36af4",
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "url": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T03:29:25.001856+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
-      "bullets": [
-        "Rockstar đang phát triển GTA 6",
-        "Trò chơi điện tử sắp được phát hành là bản phát hành lớn nhất năm nay",
-        "Nội dung và thông tin chi tiết về GTA 6 vẫn chưa được tiết lộ"
-      ],
-      "full_summary": "Rockstar đang phát triển GTA 6, trò chơi điện tử lớn nhất năm nay. Mặc dù chưa có thông tin chi tiết về nội dung, nhưng trò chơi này được dự đoán sẽ là một trong những bản phát hành lớn nhất trong năm. Rockstar đã phát hành nhiều trò chơi điện tử nổi tiếng trong quá khứ, bao gồm Grand Theft Auto V và Red Dead Redemption 2.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b30b13256b40",
-      "title": "The artificial ice pyramids saving India's mountain villages",
-      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T03:29:25.993329+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các ngôi làng Himalaya tạo ra băng nhân tạo để đảm bảo nước cho mùa xuân",
-      "bullets": [
-        "Tạo ra băng nhân tạo để cung cấp nước cho mùa xuân",
-        "Giảm thiểu tác động của biến đổi khí hậu",
-        "Cung cấp nước cho nông nghiệp và sinh hoạt",
-        "Giúp các ngôi làng Himalaya chống lại sự khô hạn"
-      ],
-      "full_summary": "Các ngôi làng Himalaya đang tạo ra băng nhân tạo để đảm bảo nước cho mùa xuân. Băng nhân tạo được tạo ra bằng cách sử dụng các công nghệ đặc biệt để tạo ra các hình dạng giống như băng. Điều này sẽ giúp cung cấp nước cho mùa xuân và giảm thiểu tác động của biến đổi khí hậu. Các ngôi làng Himalaya đang đối mặt với sự khô hạn và biến đổi khí hậu, và băng nhân tạo sẽ giúp họ chống lại những thách thức này.",
       "comments": 0,
       "score": 0
     }
