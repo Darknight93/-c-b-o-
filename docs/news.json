@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-06-23T19:52:46.353935+00:00",
+  "updated_at": "2026-06-24T02:37:24.610341+00:00",
   "articles": [
+    {
+      "id": "be8e98ab7451",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T02:37:10.279620+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạm đội Mỹ cảnh báo Iran không được thu phí qua eo biển Hormuz",
+      "bullets": [
+        "Hạm đội Mỹ cảnh báo Iran không được thu phí qua eo biển Hormuz",
+        "UN sẽ giải cứu thủy thủ đoàn bị mắc kẹt ở eo biển Hormuz",
+        "Iran đang gây ra tình hình căng thẳng ở khu vực eo biển Hormuz",
+        "Mỹ và các nước khác phản đối việc thu phí qua eo biển Hormuz"
+      ],
+      "full_summary": "Hạm đội Mỹ cảnh báo Iran không được thu phí qua eo biển Hormuz, trong khi đó, Liên Hợp Quốc (UN) đã quyết định giải cứu thủy thủ đoàn bị mắc kẹt ở khu vực này. Căng thẳng ở eo biển Hormuz đã tăng lên sau khi Iran gây ra tình hình khó xử cho các tàu thuyền. Mỹ và các nước khác đã phản đối việc thu phí qua eo biển Hormuz.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fd2c7894edaf",
+      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T02:37:11.182739+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tạm dừng toàn bộ dịch vụ tàu hỏa ở Đức do lỗi kỹ thuật",
+      "bullets": [
+        "Đã tạm dừng dịch vụ tàu hỏa trên toàn quốc",
+        "Lỗi kỹ thuật khiến Deutsche Bahn phải ngừng hoạt động",
+        "Dịch vụ tàu hỏa đã được khôi phục sau 2,5 giờ",
+        "Sự cố đã ảnh hưởng đến hàng nghìn hành khách"
+      ],
+      "full_summary": "Tối qua, Deutsche Bahn đã phải tạm dừng dịch vụ tàu hỏa trên toàn quốc do lỗi kỹ thuật. Sự cố đã khiến hàng nghìn hành khách bị ảnh hưởng. Dịch vụ tàu hỏa đã được khôi phục sau 2,5 giờ. Lỗi kỹ thuật vẫn chưa được tiết lộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1418afde5fc0",
+      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T02:37:13.052677+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi tám người bị kết án 450 năm tù vì bạo động chống lại ICE",
+      "bullets": [
+        "Bảy người bị kết án 450 năm tù vì bạo động chống lại ICE ở Texas",
+        "Một sĩ quan bị bắn vào cổ trong vụ bạo động",
+        "Tòa án cho rằng các hoạt động của Antifa Cell là nguyên nhân gây ra bạo động",
+        "Vụ bạo động đã gây ra nhiều thương vong và thiệt hại"
+      ],
+      "full_summary": "Hai mươi tám người bị kết án 450 năm tù vì bạo động chống lại ICE ở Texas. Một sĩ quan bị bắn vào cổ trong vụ bạo động. Các quan chức cho rằng các hoạt động của Antifa Cell là nguyên nhân gây ra bạo động. Vụ bạo động đã gây ra nhiều thương vong và thiệt hại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bf33265ff722",
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T02:37:14.002905+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Alibaba kiện Mỹ vì bị đưa vào danh sách liên quan quân đội Trung Quốc",
+      "bullets": [
+        "Alibaba kiện Bộ Quốc phòng Mỹ vì bị thêm vào danh sách các công ty có liên quan đến quân đội Trung Quốc.",
+        "Danh sách này nhằm ngăn chặn các công ty có liên quan đến quân đội Trung Quốc mua bán hàng hóa và công nghệ với Mỹ.",
+        "Alibaba phản đối việc bị thêm vào danh sách này, cho rằng không có bằng chứng nào về việc công ty có liên quan đến quân đội Trung Quốc.",
+        "Quyết định này có thể ảnh hưởng đến hoạt động kinh doanh của Alibaba tại Mỹ."
+      ],
+      "full_summary": "Alibaba, công ty thương mại điện tử lớn nhất Trung Quốc, đang kiện Bộ Quốc phòng Mỹ vì bị thêm vào danh sách các công ty có liên quan đến quân đội Trung Quốc. Danh sách này nhằm ngăn chặn các công ty có liên quan đến quân đội Trung Quốc mua bán hàng hóa và công nghệ với Mỹ. Alibaba phản đối quyết định này, cho rằng không có bằng chứng nào về việc công ty có liên quan đến quân đội Trung Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f408d62093e4",
+      "title": "Google's YouTube settles social media addiction case with teen",
+      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T02:37:15.096901+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "YouTube đồng ý giải quyết vụ kiện về nghiện mạng xã hội của một thiếu niên",
+      "bullets": [
+        "YouTube đồng ý giải quyết vụ kiện về nghiện mạng xã hội của một thiếu niên",
+        "Tổ chức này sẽ đối mặt với vụ kiện cùng hai công ty khác vào tháng tới",
+        "Trường hợp này liên quan đến một thiếu niên 15 tuổi",
+        "Vụ kiện nhằm vào các công ty gây nghiện mạng xã hội"
+      ],
+      "full_summary": "YouTube đã đồng ý giải quyết vụ kiện về nghiện mạng xã hội của một thiếu niên 15 tuổi. Vụ kiện này sẽ tiếp tục vào tháng tới với sự tham gia của hai công ty khác. Trình độ của vụ kiện nhằm vào các công ty gây nghiện mạng xã hội. Điều này cho thấy sự quan tâm ngày càng tăng của các cơ quan chức năng đối với vấn đề nghiện mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "771f4de77e67",
+      "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
+      "url": "https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T02:37:16.223965+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty công nghệ và cơ quan chức năng đang bỏ qua sự đồng ý của phụ nữ",
+      "bullets": [
+        "Đánh giá của Chayn cho rằng công ty công nghệ đang tập trung vào khỏa thân thay vì sự đồng ý",
+        "Phụ nữ đang bị lạm dụng trực tuyến vì sự tập trung vào khỏa thân",
+        "Báo cáo của Chayn kêu gọi các công ty công nghệ và cơ quan chức năng phải thay đổi cách tiếp cận",
+        "Sự đồng ý của phụ nữ cần được đặt lên hàng đầu trong việc xử lý lạm dụng trực tuyến"
+      ],
+      "full_summary": "Một báo cáo mới của Chayn cho rằng công ty công nghệ và cơ quan chức năng đang bỏ qua sự đồng ý của phụ nữ trong việc xử lý lạm dụng trực tuyến. Theo báo cáo, sự tập trung vào khỏa thân đang khiến phụ nữ bị lạm dụng trực tuyến. Chayn kêu gọi các công ty công nghệ và cơ quan chức năng phải thay đổi cách tiếp cận và đặt sự đồng ý của phụ nữ lên hàng đầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c57507db630b",
+      "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+      "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-24T02:37:21.827895+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Tổ chức phi lợi nhuận khôi phục trang web khí hậu bị Trump xóa",
+      "bullets": [
+        "Khôi phục toàn bộ nội dung bị xóa",
+        "Trang web Climate.us hoạt động trở lại",
+        "Tổ chức phi lợi nhuận đảm nhiệm việc bảo trì trang web"
+      ],
+      "full_summary": "Trang web khí hậu Climate.us của Mỹ đã được khôi phục sau khi bị chính quyền Trump xóa vào năm 2024. Tổ chức phi lợi nhuận đã đảm nhiệm việc bảo trì và khôi phục toàn bộ nội dung bị xóa. Điều này cho phép người dùng tiếp tục truy cập thông tin khí hậu và biến đổi khí hậu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "a24ed7b9800a",
       "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
@@ -656,146 +795,6 @@
         "Là một trong những người có ảnh hưởng lớn nhất trong ngành âm nhạc"
       ],
       "full_summary": "Clive Davis, một trong những nhà sản xuất âm nhạc nổi tiếng nhất thế giới, đã qua đời ở tuổi 94. Ông đã sản xuất album cho nhiều nghệ sĩ nổi tiếng như Whitney Houston, Bruce Springsteen và Billy Joel. Ông cũng hợp tác với các nghệ sĩ khác như Pink Floyd, Alicia Keys và Aerosmith. Sự qua đời của ông đã để lại một khoảng trống lớn trong ngành âm nhạc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d171e4658f10",
-      "title": "Kenya minister found in contempt of court over US-backed Ebola centre",
-      "url": "https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T20:37:04.525287+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chính phủ Kenya bị tòa án khiển trách vì xây dựng trung tâm Ebola",
-      "bullets": [
-        "Tòa án Kenya ra lệnh ngừng xây dựng trung tâm Ebola do Mỹ tài trợ",
-        "Thứ trưởng Aden Duale không tuân thủ lệnh của tòa án",
-        "Trung tâm Ebola gây tranh cãi vì lo ngại ảnh hưởng đến môi trường",
-        "Tòa án sẽ tiếp tục điều tra và có thể áp dụng hình phạt"
-      ],
-      "full_summary": "Thứ trưởng Aden Duale của Kenya đã bị tòa án khiển trách vì không tuân thủ lệnh ngừng xây dựng trung tâm Ebola do Mỹ tài trợ. Tòa án đã ra lệnh ngừng xây dựng vì lo ngại ảnh hưởng đến môi trường. Tuy nhiên, Thứ trưởng Duale đã tiếp tục xây dựng trung tâm, gây tranh cãi trong dư luận. Tòa án sẽ tiếp tục điều tra và có thể áp dụng hình phạt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7b0633a88468",
-      "title": "Why an AI company cleaned my New York City apartment for free",
-      "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T20:37:05.578961+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công ty AI gửi người dọn dẹp miễn phí để đào tạo robot",
-      "bullets": [
-        "Gửi người dọn dẹp miễn phí để đào tạo robot thay thế",
-        "Mục tiêu cuối cùng là thay thế con người bằng robot",
-        "Robot sẽ giúp giảm chi phí và tăng hiệu suất",
-        "Công ty đang thử nghiệm ở New York City"
-      ],
-      "full_summary": "Công ty AI đang gửi người dọn dẹp miễn phí đến các căn hộ ở New York City để đào tạo robot thay thế. Mục tiêu cuối cùng là thay thế con người bằng robot để giảm chi phí và tăng hiệu suất. Công ty đang thử nghiệm mô hình này để đào tạo robot có thể tự động dọn dẹp và làm sạch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a6f0058c246",
-      "title": "How the social media ban could reshape how all of us use the internet",
-      "url": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T20:37:06.694450+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cấm mạng xã hội có thể thay đổi cách mọi người sử dụng internet",
-      "bullets": [
-        "Cấm mạng xã hội có thể ảnh hưởng nghiêm trọng đến cách trẻ em tìm kiếm kiến thức mới",
-        "Bất kỳ ai cũng có thể phải thay đổi cách di chuyển và tương tác trực tuyến",
-        "Sự thay đổi này có thể ảnh hưởng đến cách mọi người tiếp cận thông tin và kết nối với nhau",
-        "Cấm mạng xã hội có thể dẫn đến sự thay đổi trong cách mọi người sử dụng internet"
-      ],
-      "full_summary": "Cấm mạng xã hội có thể có tác động sâu sắc đến cách mọi người sử dụng internet. Một số người cho rằng, sự thay đổi này có thể ảnh hưởng nghiêm trọng đến cách trẻ em tìm kiếm kiến thức mới. Bất kỳ ai cũng có thể phải thay đổi cách di chuyển và tương tác trực tuyến. Sự thay đổi này có thể ảnh hưởng đến cách mọi người tiếp cận thông tin và kết nối với nhau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f6bba7c0f70",
-      "title": "New video game console aims to get kids moving",
-      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T20:37:07.758119+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Máy chơi game mới khuyến khích trẻ em vận động",
-      "bullets": [
-        "Sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6",
-        "Giá bán lẻ là £269 (€319)",
-        "Máy chơi game có tên Nex Playground",
-        "Mục tiêu là khuyến khích trẻ em vận động"
-      ],
-      "full_summary": "Máy chơi game mới Nex Playground đang được phát hành tại Anh và Ireland vào ngày 22 tháng 6. Máy chơi game này có giá bán lẻ là £269 (€319) và được thiết kế để khuyến khích trẻ em vận động. Mục tiêu của Nex Playground là giúp trẻ em trở nên hoạt động hơn và giảm thiểu thời gian sử dụng điện thoại di động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "985916d0e3e4",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-22T20:37:08.963079+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "20.000 vận động viên chạy bộ tại Comrades Ultramarathon ở Nam Phi",
-      "bullets": [
-        "Sự kiện diễn ra hàng năm tại Nam Phi",
-        "Gần 20.000 vận động viên tham gia",
-        "Sự kiện thể hiện tinh thần đoàn kết và hòa hợp",
-        "Bỏ qua sự bất bình đẳng chủng tộc trong một ngày"
-      ],
-      "full_summary": "Mỗi tháng 6, sự bất bình đẳng chủng tộc ở Nam Phi dường như tan biến trong cuộc đua Comrades. Gần 20.000 vận động viên tham gia vào sự kiện này, thể hiện tinh thần đoàn kết và hòa hợp. Cuộc đua bắt đầu vào lúc sáng sớm, với sự chào đón của quốc ca Nam Phi và những bản nhạc truyền thống. Sự kiện này không chỉ là một cuộc đua mà còn là một biểu tượng của hòa hợp và đoàn kết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "83238d8891bd",
-      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
-      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-22T20:37:12.444911+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Một phụ nữ tử vong khi xe Tesla đâm vào nhà cô",
-      "bullets": [
-        "NHTSA đang điều tra vụ tai nạn xe Tesla Autopilot",
-        "Phụ nữ 70 tuổi tử vong khi xe Tesla đâm vào nhà cô",
-        "Tesla quảng cáo Autopilot là công nghệ cứu sống",
-        "Vụ tai nạn xảy ra khi tài xế sử dụng Autopilot"
-      ],
-      "full_summary": "NHTSA đang điều tra vụ tai nạn xe Tesla Autopilot khiến một phụ nữ 70 tuổi tử vong. Vụ tai nạn xảy ra khi tài xế sử dụng Autopilot và xe đâm vào nhà của phụ nữ. Tesla đã quảng cáo Autopilot là công nghệ cứu sống, nhưng vụ tai nạn này đã đặt ra câu hỏi về tính hiệu quả của công nghệ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4a01f2d27a3f",
-      "title": "How Anthropic may have talked itself into an AI export ban",
-      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-22T20:37:15.917457+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Anhropic có thể tự gây ra lệnh cấm xuất khẩu AI",
-      "bullets": [
-        "Cảnh báo nguy cơ AI tiên tiến cao hơn đối thủ OpenAI",
-        "Lời cảnh báo của Anthropic khiến chính phủ lo ngại về an ninh",
-        "Lệnh cấm xuất khẩu AI có thể ảnh hưởng đến sự phát triển công nghệ",
-        "Anhropic phải đối mặt với hậu quả nghiêm trọng vì lời cảnh báo của mình"
-      ],
-      "full_summary": "Anhropic, một công ty AI, đã cảnh báo về nguy cơ của AI tiên tiến cao hơn đối thủ OpenAI. Lời cảnh báo này đã khiến chính phủ lo ngại về an ninh và có thể dẫn đến lệnh cấm xuất khẩu AI. Điều này có thể ảnh hưởng đến sự phát triển công nghệ và khiến Anthropic phải đối mặt với hậu quả nghiêm trọng.",
       "comments": 0,
       "score": 0
     }
