@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-24T08:56:33.698989+00:00",
+  "updated_at": "2026-06-24T14:12:43.462897+00:00",
   "articles": [
+    {
+      "id": "4cd2ea070f9b",
+      "title": "Power outages hit France as record heatwave set to peak",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T14:12:28.823362+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tình trạng mất điện xảy ra ở Pháp trong đợt nhiệt đới kỷ lục",
+      "bullets": [
+        "Hơn 68.000 hộ gia đình ở Brittany bị ảnh hưởng bởi mất điện",
+        "Tình trạng mất điện không thể được khôi phục hoàn toàn cho đến tối thứ Ba",
+        "Nhiệt độ cao kỷ lục đang tiếp tục tăng ở Pháp",
+        "Tình trạng mất điện gây khó khăn cho người dân và các hoạt động kinh tế"
+      ],
+      "full_summary": "Một đợt nhiệt đới kỷ lục đang ảnh hưởng đến Pháp, gây ra tình trạng mất điện ở hơn 68.000 hộ gia đình ở Brittany. Tình trạng mất điện không thể được khôi phục hoàn toàn cho đến tối thứ Ba. Nhiệt độ cao kỷ lục đang tiếp tục tăng ở Pháp, gây khó khăn cho người dân và các hoạt động kinh tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1e07fd5109c6",
+      "title": "Air conditioning creates political divide as France records hottest day",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T14:12:30.031730+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiệt độ cao làm Pháp cân nhắc sử dụng điều hòa nhiệt độ",
+      "bullets": [
+        "Pháp đang phải xem xét lại quan điểm truyền thống về điều hòa nhiệt độ",
+        "Nhiệt độ cao đang gây ra sự chia rẽ chính trị trong nước",
+        "Sự thay đổi khí hậu đang ảnh hưởng đến cuộc sống hàng ngày",
+        "Pháp đang tìm kiếm giải pháp để giảm thiểu tác động của nhiệt độ cao"
+      ],
+      "full_summary": "Pháp đang phải đối mặt với một trong những ngày nóng nhất trong lịch sử, với nhiệt độ lên đến 45 độ C. Điều này đã gây ra sự chia rẽ chính trị trong nước, với một số người kêu gọi sử dụng điều hòa nhiệt độ để giảm thiểu tác động của nhiệt độ cao. Tuy nhiên, một số người khác lại phản đối việc sử dụng điều hòa nhiệt độ, cho rằng nó sẽ tiêu tốn nhiều năng lượng và gây ra tác động tiêu cực đến môi trường. Pháp đang tìm kiếm giải pháp để giảm thiểu tác động của nhiệt độ cao và bảo vệ môi trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbc499d4b199",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T14:12:31.043398+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "IAEA sẽ kiểm tra các địa điểm ở Iran theo thỏa thuận chiến tranh",
+      "bullets": [
+        "IAEA đang chuẩn bị kiểm tra các địa điểm ở Iran",
+        "Iran chỉ cho phép IAEA truy cập vào các địa điểm này nếu có thỏa thuận cuối cùng với Mỹ",
+        "Rafael Grossi cho biết IAEA đang thảo luận về các điều kiện cho phép",
+        "Iran và IAEA đang thảo luận về việc kiểm tra các địa điểm này"
+      ],
+      "full_summary": "Rafael Grossi, Tổng giám đốc IAEA, cho biết IAEA đang chuẩn bị kiểm tra các địa điểm ở Iran theo thỏa thuận chiến tranh. Tuy nhiên, Bộ trưởng Iran nói rằng Iran chỉ cho phép IAEA truy cập vào các địa điểm này nếu có thỏa thuận cuối cùng với Mỹ. IAEA đang thảo luận về các điều kiện cho phép và Iran cũng đang thảo luận về việc kiểm tra các địa điểm này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bdfab579cd29",
+      "title": "Biggest city in Crimea without power after Ukraine strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T14:12:31.952593+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ukraine tấn công Sevastopol khiến thành phố mất điện hoàn toàn",
+      "bullets": [
+        "Ukraine tiến hành tấn công Sevastopol",
+        "Thành phố mất điện hoàn toàn",
+        "Thống đốc Sevastopol cảnh báo mất điện kéo dài",
+        "Không có điện ở một số khu vực cho đến tối nay"
+      ],
+      "full_summary": "Ukraine đã tiến hành tấn công Sevastopol, thành phố lớn nhất ở Crimea. Thống đốc Sevastopol đã cảnh báo rằng một số khu vực sẽ không có điện cho đến tối nay. Mất điện đã ảnh hưởng đến cuộc sống hàng ngày của người dân. Sự cố này đã gây ra lo lắng về tình hình an ninh ở khu vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2bedf801c2ba",
+      "title": "France confirms first Ebola case",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T14:12:32.889513+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Phát hiện ca Ebola đầu tiên tại Pháp",
+      "bullets": [
+        "Xác nhận ca Ebola đầu tiên tại Pháp",
+        "Hơn 260 người tử vong tại Cộng hòa Dân chủ Congo",
+        "Dịch bệnh đang lan rộng tại khu vực",
+        "Nghiên cứu và điều trị đang được tiến hành"
+      ],
+      "full_summary": "Pháp vừa xác nhận ca Ebola đầu tiên. Đây là một trường hợp nghiêm trọng, trong bối cảnh dịch bệnh đang lan rộng tại Cộng hòa Dân chủ Congo, nơi đã có hơn 260 người tử vong. Các nhà chức trách đang tiến hành nghiên cứu và điều trị để ngăn chặn sự lây lan của dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "890471a24c8f",
+      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T14:12:33.914103+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ công dân Pháp bị chồng giam giữ 12 năm tại Pakistan",
+      "bullets": [
+        "Bị giam giữ cùng 5 đứa con",
+        "Bị cắt đứt khỏi thế giới bên ngoài",
+        "Được giải cứu sau khi bị giam giữ 12 năm",
+        "Vụ việc đang được điều tra"
+      ],
+      "full_summary": "Một phụ nữ Pháp tên Yasmina bị chồng giam giữ 12 năm tại Pakistan cùng với 5 đứa con. Cô và con cái bị cắt đứt khỏi thế giới bên ngoài và không thể liên lạc với bên ngoài. Vụ việc được tiết lộ và Yasmina đã được giải cứu. Vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "985916d0e3e4",
+      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T14:12:36.773279+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "20.000 vận động viên tham gia marathon dài nhất thế giới tại Nam Phi",
+      "bullets": [
+        "Hàng ngàn người tập trung chờ đợi sự bắt đầu",
+        "Nghe quốc ca Nam Phi và những bản nhạc truyền thống",
+        "Vận động viên từ khắp nơi trên thế giới tham gia cuộc đua",
+        "Cùng nhau vượt qua chặng đường dài"
+      ],
+      "full_summary": "Mỗi năm một lần, vào tháng 6, cuộc đua Comrades tại Nam Phi trở thành nơi mọi người quên đi sự bất bình đẳng. Hàng ngàn vận động viên chờ đợi trong bóng tối sớm, nghe quốc ca Nam Phi và những bản nhạc truyền thống. Cuộc đua này đã trở thành một biểu tượng của sự đoàn kết và sức mạnh tinh thần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1499b122d15",
+      "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
+      "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-24T14:12:40.655608+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "ABC kêu gọi người xem phản đối FCC kiểm soát chương trình The View",
+      "bullets": [
+        "FCC muốn kiểm soát nội dung chương trình The View",
+        "ABC yêu cầu người xem phản đối quyết định này",
+        "Phản đối nhằm bảo vệ tự do ngôn luận trên truyền hình",
+        "Tình hình đang gây tranh cãi trong cộng đồng truyền thông"
+      ],
+      "full_summary": "FCC đã đề xuất kiểm soát nội dung chương trình The View, khiến ABC yêu cầu người xem phản đối quyết định này. Mục đích của FCC là kiểm soát ai được phép xuất hiện trên chương trình, nhưng ABC cho rằng điều này sẽ vi phạm tự do ngôn luận trên truyền hình. Phản đối của ABC nhằm bảo vệ quyền tự do ngôn luận và tự do báo chí của công chúng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8c1b26cac551",
       "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
@@ -634,166 +794,6 @@
         "Nguyên nhân của vụ nổ vẫn chưa được xác định rõ"
       ],
       "full_summary": "Một vụ nổ khí thiên nhiên nghiêm trọng đã xảy ra tại khu công nghiệp Ras Laffan ở Qatar, khiến ít nhất 13 người chết và nhiều người bị thương. Vụ nổ xảy ra tại một nhà máy xử lý khí thiên nhiên lỏng. Nguyên nhân của vụ nổ vẫn chưa được xác định rõ. Các nhà chức trách đang điều tra nguyên nhân của vụ nổ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eed4aaf2451e",
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:46.974604+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ giáo sư bị bắt cóc, kẻ thủ ác xin lỗi gia đình",
-      "bullets": [
-        "Báo cáo cho biết một giáo sư người Mỹ bị bắt cóc",
-        "Kẻ thủ ác gửi một lá thư xin lỗi gia đình nạn nhân",
-        "Lá thư cho biết họ không muốn nạn nhân chết",
-        "Nạn nhân đã qua đời sau khi bị bắt cóc"
-      ],
-      "full_summary": "Một giáo sư người Mỹ tên Nancy Guthrie bị bắt cóc và qua đời. Kẻ thủ ác đã gửi một lá thư xin lỗi gia đình nạn nhân, cho biết họ không muốn nạn nhân chết. Lá thư này đã được tìm thấy và đang được điều tra. Sự việc đang được điều tra và gia đình nạn nhân đang được hỗ trợ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "06e745aa2674",
-      "title": "Montreal shooting leaves officer, civilian and suspect dead",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:47.991441+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một cảnh sát và 2 người dân bị giết trong vụ bắn súng ở Montreal",
-      "bullets": [
-        "Một cảnh sát Montreal bị giết trong khi thi hành nhiệm vụ",
-        "Một người dân khác cũng bị giết trong vụ bắn súng",
-        "Suspect đã bị giết sau khi xảy ra vụ bắn súng",
-        "Đây là lần đầu tiên trong 24 năm một cảnh sát Montreal bị giết trong khi thi hành nhiệm vụ"
-      ],
-      "full_summary": "Một vụ bắn súng đã xảy ra ở Montreal, Canada, khiến một cảnh sát, một người dân và một nghi phạm bị giết. Đây là lần đầu tiên trong 24 năm một cảnh sát Montreal bị giết trong khi thi hành nhiệm vụ. Vụ bắn súng đã gây ra sự lo lắng trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "001f776b6a56",
-      "title": "Inquiry ordered after building fire kills 15 in north India city",
-      "url": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:48.981508+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi lăm người thiệt mạng trong vụ hỏa hoạn tòa nhà ở Ấn Độ",
-      "bullets": [
-        "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một tòa nhà ở Ấn Độ",
-        "Người dân đã nhảy từ cửa sổ để thoát khỏi đám cháy",
-        "Đội cứu hộ đã phá vỡ tường để cứu những người còn sống sót",
-        "Sự cố đã khiến 15 người thiệt mạng"
-      ],
-      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một tòa nhà ở thành phố của Ấn Độ, khiến 15 người thiệt mạng. Người chứng kiến đã mô tả những người nhảy từ cửa sổ để thoát khỏi đám cháy. Đội cứu hộ đã phá vỡ tường để cứu những người còn sống sót. Sự cố đã gây ra sự hoảng loạn lớn trong khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "255efd528adb",
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "url": "https://www.bbc.co.uk/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:50.002944+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Lực lượng quân đội Miến Điện giết hại hơn 700 thường dân trong 6 tháng",
-      "bullets": [
-        "Giết hại 702 thường dân trong 6 tháng năm ngoái",
-        "153 trẻ em trở thành nạn nhân",
-        "Báo cáo của Liên Hợp Quốc chỉ ra sự tàn bạo của quân đội",
-        "Cáo buộc quân đội Miến Điện vi phạm nhân quyền"
-      ],
-      "full_summary": "Một báo cáo mới của Liên Hợp Quốc cho biết quân đội Miến Điện đã giết hại hơn 700 thường dân trong 6 tháng năm ngoái, bao gồm 153 trẻ em. Báo cáo này chỉ ra sự tàn bạo của quân đội và cáo buộc họ vi phạm nhân quyền. Sự kiện này đã gây ra sự phẫn nộ trong cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4acfff696b27",
-      "title": "Do you know your 'sweat score'? The rise of hydration tech",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:52.817830+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công nghệ theo dõi độ ẩm cơ thể đang trở nên phổ biến",
-      "bullets": [
-        "Cung cấp thông tin về mức độ mất nước của người dùng",
-        "Hỗ trợ người dùng theo dõi lượng nước uống hàng ngày",
-        "Cung cấp cảnh báo khi người dùng không uống đủ nước",
-        "Tạo ra sự cạnh tranh giữa các nhà sản xuất thiết bị theo dõi độ ẩm"
-      ],
-      "full_summary": "Công nghệ theo dõi độ ẩm cơ thể đang trở nên phổ biến với sự xuất hiện của nhiều thiết bị theo dõi độ ẩm mới. Những thiết bị này cung cấp thông tin về mức độ mất nước của người dùng, hỗ trợ người dùng theo dõi lượng nước uống hàng ngày và cảnh báo khi người dùng không uống đủ nước. Tuy nhiên, nhiều người lo ngại rằng quá nhiều thông tin có thể gây ra sự căng thẳng và ảnh hưởng đến sức khỏe.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84bf67e1d51e",
-      "title": "New video game console aims to get kids moving",
-      "url": "https://www.bbc.co.uk/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:56.350135+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy chơi game mới khuyến khích trẻ em vận động",
-      "bullets": [
-        "Sẽ được phát hành tại Anh và Ireland vào ngày 22 tháng 6",
-        "Giá bán là £269 (€319)",
-        "Cung cấp trải nghiệm chơi game kết hợp với vận động thể chất",
-        "Được thiết kế để khuyến khích trẻ em hoạt động nhiều hơn"
-      ],
-      "full_summary": "Máy chơi game mới Nex Playground sắp được phát hành tại Anh và Ireland vào ngày 22 tháng 6 với giá £269 (€319). Máy chơi game này được thiết kế để khuyến khích trẻ em vận động thể chất khi chơi game. Nó cung cấp trải nghiệm chơi game kết hợp với vận động thể chất, giúp trẻ em hoạt động nhiều hơn và giảm thiểu thời gian ngồi trước màn hình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "25640e78ccc9",
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T02:36:29.028445+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ giáo sư bị bắt cóc và qua đời",
-      "bullets": [
-        "Một lá thư đòi tiền chuộc được phát hiện",
-        "Lá thư cho biết họ không mong muốn nạn nhân qua đời",
-        "Lá thư xin lỗi gia đình nạn nhân",
-        "Nạn nhân là giáo sư Nancy Guthrie"
-      ],
-      "full_summary": "Một lá thư đòi tiền chuộc được phát hiện, trong đó người gửi cho biết họ không mong muốn nạn nhân qua đời và xin lỗi gia đình. Lá thư này liên quan đến trường hợp bị bắt cóc của giáo sư Nancy Guthrie. Thông tin chi tiết về vụ việc vẫn chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b939a1fd652c",
-      "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
-      "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T02:36:29.982137+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple có thể phải bồi thường 3 tỷ bảng cho người dùng iCloud",
-      "bullets": [
-        "Sẽ có thể bồi thường cho 1 triệu người dùng iCloud",
-        "Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng",
-        "Nhiều người dùng iCloud phụ thuộc vào các giải pháp thay thế từ bên thứ ba",
-        "Sự kiện này có thể ảnh hưởng đến thị trường công nghệ"
-      ],
-      "full_summary": "Một vụ kiện chống cạnh tranh ở Anh đã cho phép hàng triệu người dùng iCloud của Apple có thể yêu cầu bồi thường. Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng, nói rằng nhiều người dùng iCloud phụ thuộc vào các giải pháp thay thế từ bên thứ ba. Vụ việc này có thể ảnh hưởng đến thị trường công nghệ và có thể gây ra những hậu quả nghiêm trọng cho Apple.",
       "comments": 0,
       "score": 0
     }
