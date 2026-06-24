@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-24T14:12:43.462897+00:00",
+  "updated_at": "2026-06-24T19:28:45.959137+00:00",
   "articles": [
+    {
+      "id": "70518f22e529",
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T19:28:29.216198+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cựu ứng cử viên tổng thống Colombia từ bỏ hy vọng",
+      "bullets": [
+        "Cựu ứng cử viên tổng thống Colombia Iván Cepeda từ bỏ hy vọng thắng cử",
+        "Abelardo de la Espriella thắng cử với số phiếu nhỏ hơn 1%",
+        "Cepeda là ứng cử viên cánh tả thất bại trong cuộc bầu cử tổng thống",
+        "De la Espriella là doanh nhân cánh hữu mới trở thành tổng thống"
+      ],
+      "full_summary": "Ứng cử viên tổng thống cánh tả Colombia Iván Cepeda đã từ bỏ hy vọng thắng cử sau khi thua cuộc bầu cử tổng thống. Cepeda thua doanh nhân cánh hữu Abelardo de la Espriella với số phiếu nhỏ hơn 1%. Đây là thất bại lớn của cánh tả trong cuộc bầu cử tổng thống Colombia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d23e195aac1c",
+      "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T19:28:30.179673+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Microsoft bị nghi ngờ về tuyên bố về máy tính lượng tử",
+      "bullets": [
+        "Nghi ngờ về nghiên cứu máy tính lượng tử của Microsoft",
+        "Các chuyên gia vẫn đặt câu hỏi về tính xác thực của công nghệ",
+        "Công ty vẫn khẳng định nghiên cứu của mình là chính xác",
+        "Sự nghi ngờ vẫn tiếp tục diễn ra"
+      ],
+      "full_summary": "Một nhà khoa học đã công bố những nghi ngờ mới về tuyên bố của Microsoft về máy tính lượng tử. Công ty đã liên tục khẳng định nghiên cứu của mình về chip Majorana, bất chấp sự hoài nghi từ một số chuyên gia trong lĩnh vực này. Các chuyên gia vẫn đặt câu hỏi về tính xác thực của công nghệ này. Sự nghi ngờ vẫn tiếp tục diễn ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d9b9735ccf7f",
+      "title": "GTA 6 will cost $80 - and physical edition will not contain a disc",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T19:28:31.153367+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "GTA 6 sẽ có giá 80 USD, phiên bản vật lý không có đĩa",
+      "bullets": [
+        "Rockstar công bố giá GTA 6 là 80 USD",
+        "Phiên bản vật lý không chứa đĩa, chỉ có mã download",
+        "Người dùng sẽ nhận mã download để chơi game",
+        "Thông tin chi tiết về game sẽ được công bố sau này"
+      ],
+      "full_summary": "Rockstar đã công bố giá GTA 6 là 80 USD. Phiên bản vật lý của game sẽ không chứa đĩa, thay vào đó là mã download để người dùng có thể tải game về. Người dùng sẽ nhận mã download và có thể chơi game ngay lập tức. Thông tin chi tiết về game sẽ được công bố sau này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4acfff696b27",
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T19:28:32.252494+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công nghệ theo dõi nước trong cơ thể đang trở nên phổ biến",
+      "bullets": [
+        "Các thiết bị theo dõi nước trong cơ thể đang tràn ngập thị trường",
+        "Số lượng thông tin quá nhiều có thể gây khó khăn cho người dùng",
+        "Công nghệ theo dõi nước trong cơ thể có thể giúp cải thiện sức khỏe",
+        "Tuy nhiên, vẫn còn nhiều câu hỏi về sự chính xác của các thiết bị này"
+      ],
+      "full_summary": "Công nghệ theo dõi nước trong cơ thể đang trở nên phổ biến với sự xuất hiện của nhiều thiết bị mới. Các thiết bị này có thể theo dõi lượng nước trong cơ thể và cung cấp thông tin về mức độ khô hạn. Tuy nhiên, số lượng thông tin quá nhiều có thể gây khó khăn cho người dùng. Ngoài ra, vẫn còn nhiều câu hỏi về sự chính xác của các thiết bị này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "439c55bbd68a",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T19:28:33.446028+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Đức xác nhận ca Ebola đầu tiên ở bác sĩ từng làm việc tại DRC",
+      "bullets": [
+        "Xác nhận ca Ebola đầu tiên ở Pháp",
+        "Bác sĩ được chuyển đến cơ sở y tế chuyên khoa",
+        "Sức khỏe của bệnh nhân ổn định",
+        "Các liên hệ của bệnh nhân đang được theo dõi"
+      ],
+      "full_summary": "Bộ Y tế Pháp xác nhận ca Ebola đầu tiên ở một bác sĩ đã trở về từ nhiệm vụ nhân đạo tại Cộng hòa Dân chủ Congo. Bệnh nhân được chuyển đến cơ sở y tế chuyên khoa và đang ở tình trạng ổn định. Bộ Y tế cho biết các biện pháp phòng ngừa đã được thực hiện ngay từ khi bệnh nhân đến nước này, bao gồm cách ly và chuyển đến bệnh viện dưới điều kiện an toàn để ngăn chặn khả năng lây nhiễm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c682402a5cc2",
+      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T19:28:34.572826+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Anh Quốc ưu tiên quan hệ với UAE hơn ngăn chặn tội ác diệt chủng ở Sudan",
+      "bullets": [
+        "Sẽ nghe báo cáo về áp lực từ UAE ngăn cản Anh công bố thông tin về tội ác diệt chủng ở Sudan",
+        "Anh Quốc nhận được thông tin về sự ủng hộ của Ethiopia cho một nhóm quân phiệt diệt chủng từ năm 2024",
+        "Quyền lực từ UAE khiến Anh Quốc không công bố thông tin về tội ác diệt chủng ở Sudan"
+      ],
+      "full_summary": "Một ủy ban của Quốc hội Anh sẽ nghe báo cáo về việc Anh Quốc ưu tiên quan hệ với UAE hơn ngăn chặn tội ác diệt chủng ở Sudan. Theo báo cáo, Anh Quốc đã nhận được thông tin về sự ủng hộ của Ethiopia cho một nhóm quân phiệt diệt chủng ở Sudan từ năm 2024 nhưng đã không công bố thông tin này do áp lực từ UAE.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3c54f232911",
+      "title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
+      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-24T19:28:37.876572+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Cảnh sát Argentina làm thêm công việc lái xe taxi, có nhiều vụ giết người",
+      "bullets": [
+        "Làm thêm công việc lái xe taxi, cảnh sát Argentina dễ gặp nguy hiểm hơn",
+        "Nhiều vụ giết người liên quan đến cảnh sát làm thêm công việc lái xe taxi",
+        "Tình trạng này trở nên nghiêm trọng hơn trong thời kỳ suy thoái ở Argentina",
+        "Cảnh sát Argentina bị yêu cầu phải tuân thủ các quy định an toàn khi làm thêm công việc lái xe taxi"
+      ],
+      "full_summary": "Trong thời kỳ suy thoái ở Argentina, nhiều cảnh sát đã bắt đầu làm thêm công việc lái xe taxi để kiếm thêm thu nhập. Tuy nhiên, điều này đã dẫn đến nhiều vụ giết người liên quan đến cảnh sát làm thêm công việc lái xe taxi. Các vụ việc này đã trở nên nghiêm trọng hơn khi cảnh sát được yêu cầu phải mang súng khi làm thêm công việc lái xe taxi. Điều này đã gây ra nhiều rủi ro cho cảnh sát và người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3c7499593014",
+      "title": "White House app auto-downloads to government phones, can't be uninstalled",
+      "url": "https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-24T19:28:42.809873+00:00",
+      "category": "công nghệ",
+      "importance": 3,
+      "headline": "Ứng dụng White House tự động cài đặt trên điện thoại chính phủ, không thể gỡ bỏ",
+      "bullets": [
+        "Ứng dụng White House tự động cài đặt trên điện thoại chính phủ",
+        "Ứng dụng không thể gỡ bỏ, gây lo ngại về quyền riêng tư",
+        "Nhân viên chính phủ cho biết ứng dụng chứa thông tin tuyên truyền",
+        "Ứng dụng được cho là vi phạm chính sách bảo mật của chính phủ"
+      ],
+      "full_summary": "Ứng dụng White House đã tự động cài đặt trên điện thoại chính phủ và không thể gỡ bỏ. Điều này đã gây lo ngại về quyền riêng tư của nhân viên chính phủ. Một số nhân viên cho biết ứng dụng chứa thông tin tuyên truyền và vi phạm chính sách bảo mật của chính phủ. Ứng dụng được cho là đã được cài đặt trên hàng nghìn điện thoại chính phủ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "4cd2ea070f9b",
       "title": "Power outages hit France as record heatwave set to peak",
@@ -635,165 +794,6 @@
         "Chính phủ Zambia muốn chôn cất tại một nơi khác"
       ],
       "full_summary": "Gia đình cựu tổng thống Zambia Edgar Lungu và chính phủ tiếp tục mâu thuẫn về việc xử lý thi thể sau 12 tháng kể từ khi ông qua đời. Chính phủ muốn chôn cất tại một nơi khác, trong khi gia đình muốn chôn cất tại quê hương. Mâu thuẫn này đã kéo dài và chưa có kết quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c12c6b7af1ae",
-      "title": "Trump anticipates better relationship with Colombia under new leader",
-      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:38.808857+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Trump kỳ vọng mối quan hệ tốt hơn với Colombia dưới thời lãnh đạo mới",
-      "bullets": [
-        "Trump ủng hộ Abelardo de la Espriella trở thành tổng thống Colombia",
-        "Kết quả sơ bộ cho thấy de la Espriella sẽ trở thành tổng thống Colombia",
-        "Trump kỳ vọng mối quan hệ tốt hơn với Colombia dưới thời lãnh đạo mới",
-        "Abelardo de la Espriella nhận được sự ủng hộ của Trump"
-      ],
-      "full_summary": "Tổng thống Mỹ cựu Donald Trump kỳ vọng mối quan hệ tốt hơn với Colombia dưới thời lãnh đạo mới. Theo kết quả sơ bộ, Abelardo de la Espriella sẽ trở thành tổng thống Colombia. Trump đã ủng hộ de la Espriella trong cuộc bầu cử tổng thống Colombia. Kết quả sơ bộ cho thấy de la Espriella sẽ trở thành tổng thống Colombia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6abccaf94777",
-      "title": "Spider which uses spring trap to capture prey discovered in Australia",
-      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:39.825471+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Một con nhện mới ở Úc bắt mồi bằng bẫy giật",
-      "bullets": [
-        "Bẫy giật của con nhện mới này cho phép nó bắt được kiến nguy hiểm",
-        "Phương pháp bắt mồi của con nhện này chưa từng được ghi nhận trước đây",
-        "Nghiên cứu về con nhện mới này đang được tiến hành ở Úc"
-      ],
-      "full_summary": "Các nhà nghiên cứu ở Úc vừa phát hiện một con nhện mới có phương pháp bắt mồi độc đáo. Con nhện này sử dụng bẫy giật để bắt được kiến nguy hiểm. Phương pháp bắt mồi này chưa từng được ghi nhận trước đây và đang được nghiên cứu kỹ lưỡng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d71648ea84cc",
-      "title": "Irish government to contribute £197m to cross-border rail services",
-      "url": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:40.705353+00:00",
-      "category": "politics|economy",
-      "importance": 3,
-      "headline": "Chính phủ Ireland cung cấp 197 triệu bảng cho dịch vụ tàu hỏa biên giới",
-      "bullets": [
-        "Cung cấp 197 triệu bảng cho dịch vụ tàu hỏa biên giới",
-        "Sử dụng quỹ Shared Island Fund của Ireland",
-        "Tăng cường kết nối giao thông giữa Ireland và Bắc Ireland",
-        "Đóng góp cho sự phát triển kinh tế khu vực"
-      ],
-      "full_summary": "Chính phủ Ireland đã quyết định cung cấp 197 triệu bảng cho dịch vụ tàu hỏa biên giới. Số tiền này sẽ được sử dụng từ quỹ Shared Island Fund của Ireland. Dịch vụ tàu hỏa biên giới sẽ giúp tăng cường kết nối giao thông giữa Ireland và Bắc Ireland, đóng góp cho sự phát triển kinh tế khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7e9e999ba792",
-      "title": "Steam Machine launches with £879 price tag as Valve cites component costs",
-      "url": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:41.640591+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 3,
-      "headline": "Valve công bố Steam Machine với giá 879 bảng Anh",
-      "bullets": [
-        "Valve giải thích giá của Steam Machine do chi phí linh kiện tăng cao",
-        "Giá của Steam Machine phản ánh xu hướng chung của chi phí linh kiện tăng dần",
-        "Valve cho biết chi phí linh kiện đang tăng lên",
-        "Steam Machine là một hệ thống PC-konsoles lai"
-      ],
-      "full_summary": "Valve vừa công bố Steam Machine với giá 879 bảng Anh. Theo công ty, giá này phản ánh xu hướng chung của chi phí linh kiện tăng dần. Valve cho biết chi phí linh kiện đang tăng lên và Steam Machine là một hệ thống PC-konsoles lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1ffe055ffd07",
-      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:42.531228+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các bệnh viện Romania sử dụng bút chì và giấy để chống lại cuộc tấn công mạng",
-      "bullets": [
-        "Các chuyên gia mạng đã cố gắng đánh bại các hacker trong 4 ngày",
-        "Hàng chục bệnh viện ở Romania đã bị tắt nguồn",
-        "Các bệnh viện đã chuyển sang sử dụng bút chì và giấy để tiếp tục hoạt động",
-        "Cuộc tấn công mạng đã được ngăn chặn sau 4 ngày"
-      ],
-      "full_summary": "Trong 4 ngày, hàng chục bệnh viện ở Romania đã bị tắt nguồn do cuộc tấn công mạng. Các chuyên gia mạng đã cố gắng đánh bại các hacker, nhưng không thành công. Cuối cùng, các bệnh viện đã chuyển sang sử dụng bút chì và giấy để tiếp tục hoạt động. Cuộc tấn công mạng đã được ngăn chặn sau 4 ngày.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6091968b1276",
-      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
-      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:43.448786+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Hàng triệu người Anh có thể nhận được khoản tiền £3 tỷ sau vụ kiện Apple",
-      "bullets": [
-        "Sự kiện được cho phép tiến hành",
-        "Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng",
-        "Nhiều khách hàng phụ thuộc vào các giải pháp thay thế của bên thứ ba",
-        "Số tiền £3 tỷ sẽ được phân phối cho người dùng"
-      ],
-      "full_summary": "Vụ kiện chống cạnh tranh của Apple đã được cho phép tiến hành ở Vương quốc Anh. Apple từ chối cho rằng hành động của họ là cạnh tranh không công bằng, nói rằng nhiều khách hàng phụ thuộc vào các giải pháp thay thế của bên thứ ba. Số tiền £3 tỷ sẽ được phân phối cho người dùng. Điều này có thể ảnh hưởng đến hàng triệu người Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7f55c7e9ce4c",
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:44.863069+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran từ chối cam kết mới về các địa điểm hạt nhân",
-      "bullets": [
-        "Iran từ chối cam kết mới về các địa điểm hạt nhân",
-        "Iran không đồng ý cho phép các nhà phân tích hạt nhân quay lại",
-        "Các cuộc đàm phán tại Thụy Sĩ không đạt được kết quả",
-        "Iran không có thông báo chính thức về việc này"
-      ],
-      "full_summary": "Iran cho biết không có cam kết mới về các địa điểm hạt nhân sau các cuộc đàm phán tại Thụy Sĩ. Bộ Ngoại giao Iran nói rằng không có cam kết mới về việc cho phép các nhà phân tích hạt nhân quay lại. Các cuộc đàm phán tại Thụy Sĩ diễn ra sau khi Mỹ và các nước khác yêu cầu Iran cho phép các nhà phân tích hạt nhân quay lại để kiểm tra các địa điểm hạt nhân. Tuy nhiên, Iran không có thông báo chính thức về việc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69d79daa9d49",
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T09:26:45.945528+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ khí thiên nhiên tại Qatar khiến 13 người chết, nhiều người bị thương",
-      "bullets": [
-        "Nổ khí thiên nhiên xảy ra tại khu công nghiệp Ras Laffan",
-        "Có ít nhất 13 người chết và nhiều người bị thương",
-        "Địa điểm xảy ra nổ khí thiên nhiên là một nhà máy xử lý khí thiên nhiên lỏng",
-        "Nguyên nhân của vụ nổ vẫn chưa được xác định rõ"
-      ],
-      "full_summary": "Một vụ nổ khí thiên nhiên nghiêm trọng đã xảy ra tại khu công nghiệp Ras Laffan ở Qatar, khiến ít nhất 13 người chết và nhiều người bị thương. Vụ nổ xảy ra tại một nhà máy xử lý khí thiên nhiên lỏng. Nguyên nhân của vụ nổ vẫn chưa được xác định rõ. Các nhà chức trách đang điều tra nguyên nhân của vụ nổ.",
       "comments": 0,
       "score": 0
     }
