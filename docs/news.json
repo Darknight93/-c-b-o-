@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-06-25T02:38:31.284753+00:00",
+  "updated_at": "2026-06-25T08:51:19.434654+00:00",
   "articles": [
+    {
+      "id": "d0dedce83703",
+      "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T08:51:04.265367+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sóng địa chấn mạnh 7,5 độ đánh vào Caracas",
+      "bullets": [
+        "Đột kích vào lúc 21h30 tối, hai trận động đất xảy ra chỉ trong vài giây",
+        "Cơ quan khẩn cấp yêu cầu người dân ở trong nhà và tránh khu vực có nguy cơ sụp đổ",
+        "Hàng trăm người đã bị thương và nhiều tòa nhà bị hư hại"
+      ],
+      "full_summary": "Hai trận động đất mạnh 7,2 và 7,5 độ đã đánh vào thủ đô Caracas của Venezuela vào tối qua. Người dân đã phải trải qua giây phút kinh hoàng khi các tòa nhà rung lắc mạnh. Cơ quan khẩn cấp đã yêu cầu người dân ở trong nhà và tránh khu vực có nguy cơ sụp đổ. Hàng trăm người đã bị thương và nhiều tòa nhà bị hư hại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff5471f165b9",
+      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T08:51:05.408459+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump đề nghị Quốc hội 87 tỷ USD cho chiến tranh Iran",
+      "bullets": [
+        "Trump đề nghị Quốc hội 87 tỷ USD cho chi phí chiến tranh Iran",
+        "Đề nghị này gặp phải sự phản đối từ Quốc hội",
+        "Quốc hội đã bác bỏ hành động quân sự của Trump",
+        "Chi phí chiến tranh Iran được coi là cấp bách"
+      ],
+      "full_summary": "Chủ tịch Trump đã đề nghị Quốc hội Mỹ 87 tỷ USD cho chi phí chiến tranh Iran, nhưng đề nghị này gặp phải sự phản đối từ Quốc hội. Một ngày trước đó, Quốc hội đã bác bỏ hành động quân sự của Trump. Chi phí chiến tranh Iran được coi là cấp bách và cần được giải quyết ngay lập tức. Tuy nhiên, đề nghị của Trump vẫn còn nhiều thách thức và chưa rõ liệu nó có được thông qua hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2ad3b66200b4",
+      "title": "Philippines bans video game played by alleged high school shooter",
+      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T08:51:06.346167+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Philippines cấm trò chơi điện tử liên quan đến vụ tấn công trường học",
+      "bullets": [
+        "Philippines cấm trò chơi điện tử 'Grand Theft Auto VI'",
+        "Vụ tấn công trường học khiến 3 học sinh thiệt mạng và 20 người bị thương",
+        "Trò chơi điện tử được cho là đã ảnh hưởng đến tâm trạng của kẻ tấn công",
+        "Pháp luật Philippines có thể sẽ được sửa đổi để cấm trò chơi điện tử có nội dung bạo lực"
+      ],
+      "full_summary": "Philippines đã cấm trò chơi điện tử 'Grand Theft Auto VI' sau vụ tấn công trường học khiến 3 học sinh thiệt mạng và 20 người bị thương. Trò chơi điện tử được cho là đã ảnh hưởng đến tâm trạng của kẻ tấn công. Pháp luật Philippines có thể sẽ được sửa đổi để cấm trò chơi điện tử có nội dung bạo lực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8c2b264d89fa",
+      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T08:51:07.358673+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Alibaba bị tố trộm dữ liệu AI từ Claude của Anthropic",
+      "bullets": [
+        "Bí mật dữ liệu AI của Alibaba bị phát hiện",
+        "Firm Trung Quốc bị tố sử dụng tài khoản giả để truy cập dữ liệu",
+        "Anthropic cáo buộc Alibaba vi phạm quy định bảo mật",
+        "Vụ việc đang được điều tra"
+      ],
+      "full_summary": "Firm Anthropic cáo buộc Alibaba sử dụng tài khoản giả để truy cập dữ liệu từ mô hình AI Claude. Vụ việc đang được điều tra. Anthropic cho biết Alibaba đã vi phạm quy định bảo mật và sử dụng dữ liệu trái phép. Điều này có thể ảnh hưởng đến uy tín của Alibaba trên thị trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c52087d36c3c",
+      "title": "Independent MPs launch new Australian centrist party",
+      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T08:51:08.322528+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Các nghị sĩ độc lập thành lập đảng trung dung mới tại Úc",
+      "bullets": [
+        "Thành lập đảng Community Strong Australia",
+        "Đảng này sẽ đưa ra lý trí thay cho sự phẫn nộ",
+        "Zali Steggall và Allegra Spender là những người sáng lập",
+        "Đảng này sẽ tập trung vào lợi ích của công dân"
+      ],
+      "full_summary": "Các nghị sĩ độc lập Zali Steggall và Allegra Spender đã thành lập đảng trung dung mới tại Úc, tên là Community Strong Australia. Họ cho biết đảng này sẽ đưa ra lý trí thay cho sự phẫn nộ và tập trung vào lợi ích của công dân. Đây là một động thái quan trọng trong chính trị Úc, khi đảng này sẽ cạnh tranh với các đảng chính trị khác trong cuộc bầu cử quốc hội sắp tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c092722785d",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T08:51:09.277340+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
+      "bullets": [
+        "Được phát triển bởi Rockstar, trò chơi điện tử này sẽ là một trong những trò chơi điện tử lớn nhất năm nay.",
+        "GTA 6 sẽ tiếp tục câu chuyện của một trong những nhân vật chính trong loạt trò chơi này.",
+        "Trò chơi điện tử sẽ có nhiều cải tiến về đồ họa và gameplay so với các phiên bản trước."
+      ],
+      "full_summary": "GTA 6 là trò chơi điện tử sắp phát hành của Rockstar, được cho là sẽ là một trong những trò chơi điện tử lớn nhất năm nay. Trò chơi điện tử này sẽ tiếp tục câu chuyện của một trong những nhân vật chính trong loạt trò chơi này. Mặc dù vẫn chưa có thông tin chính thức về ngày phát hành, nhưng nhiều người hâm mộ đang mong đợi trò chơi điện tử này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cd40cafbed3b",
+      "title": "Meta halts worker tracking for AI training due to privacy fears",
+      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T08:51:10.212699+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta ngừng theo dõi nhân viên để thu thập dữ liệu đào tạo AI vì lo ngại về quyền riêng tư",
+      "bullets": [
+        "Meta ngừng theo dõi nhân viên để thu thập dữ liệu đào tạo AI",
+        "Dữ liệu được thu thập từ máy tính của nhân viên trong 2 tháng",
+        "Meta lo ngại về quyền riêng tư của nhân viên",
+        "Công ty đang xem xét các biện pháp thay thế"
+      ],
+      "full_summary": "Meta đã ngừng theo dõi nhân viên để thu thập dữ liệu đào tạo AI vì lo ngại về quyền riêng tư. Công ty đã bắt đầu theo dõi nhân viên trong 2 tháng qua để thu thập dữ liệu đào tạo AI. Tuy nhiên, Meta đã nhận ra rằng việc này có thể vi phạm quyền riêng tư của nhân viên. Công ty đang xem xét các biện pháp thay thế để thu thập dữ liệu đào tạo AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c40e882b746f",
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-25T08:51:15.044575+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Phát hành Half-Life 2 trên trình duyệt",
+      "bullets": [
+        "Phát hành phiên bản Half-Life 2 trên trình duyệt web",
+        "Người dùng có thể chơi game mà không cần cài đặt",
+        "Phiên bản này dựa trên công nghệ webAssembly",
+        "Được phát hành bởi SLQNT"
+      ],
+      "full_summary": "Một phiên bản web của Half-Life 2 đã được phát hành, cho phép người dùng chơi game trực tuyến mà không cần cài đặt. Phiên bản này được xây dựng bằng công nghệ webAssembly và được phát hành bởi SLQNT. Người dùng có thể truy cập phiên bản này thông qua trang web hl2.slqnt.dev.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "6091968b1276",
       "title": "Millions in UK could claim share of £3bn after Apple case given green light",
@@ -634,166 +792,6 @@
         "Tình trạng bùng phát Ebola tại Cộng hòa Dân chủ Congo đang gây lo ngại"
       ],
       "full_summary": "Bộ trưởng Y tế Kenya đã ra lệnh dừng xây dựng cơ sở cách ly Ebola do Mỹ tài trợ sau khi bị tòa án phạt vì không tuân thủ phán quyết trước đó. Cơ sở cách ly này được xây dựng để cách ly công dân Mỹ được sơ tán khỏi Cộng hòa Dân chủ Congo, nơi đang xảy ra bùng phát Ebola. Người dân Kenya đã phản ứng dữ dội với kế hoạch xây dựng cơ sở cách ly này. Bộ trưởng Y tế Kenya đã phải ra lệnh dừng công việc sau khi bị tòa án phạt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb461a4fc7b1",
-      "title": "Ghana conference calls for formal apology for transatlantic slave trade",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T08:56:26.563186+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hàn Quốc và các nước khác được yêu cầu xin lỗi chính thức về nạn buôn bán nô lệ",
-      "bullets": [
-        "Hội nghị ở Ghana thông qua kế hoạch bồi thường công lý toàn cầu",
-        "Các nước tham gia được yêu cầu bồi thường và giảm nợ cho các quốc gia bị ảnh hưởng",
-        "Hội nghị này là một bước quan trọng trong việc đòi hỏi công lý cho nạn buôn bán nô lệ",
-        "Kế hoạch này được thông qua sau khi Liên Hợp Quốc tuyên bố nạn buôn bán nô lệ là tội ác chống lại loài người nghiêm trọng nhất"
-      ],
-      "full_summary": "Hội nghị toàn cầu về công lý bồi thường đã được thông qua tại Ghana, nơi các nhà lãnh đạo châu Phi và Caribe yêu cầu các nước đã hưởng lợi từ nạn buôn bán nô lệ xin lỗi chính thức. Hội nghị này là một bước quan trọng trong việc đòi hỏi công lý cho nạn buôn bán nô lệ. Các nước tham gia hội nghị đã thông qua kế hoạch bồi thường công lý toàn cầu, bao gồm yêu cầu bồi thường và giảm nợ cho các quốc gia bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4c763f21c86c",
-      "title": "Odd police video shows drone removing knife from motionless suspect",
-      "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-24T08:56:29.832593+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cảnh sát Mỹ sử dụng máy bay không người lái để lấy dao khỏi người bị thương",
-      "bullets": [
-        "Sử dụng máy bay không người lái để tháo gỡ vũ khí",
-        "Lần đầu tiên cảnh sát Mỹ áp dụng phương pháp này",
-        "Cảnh sát đang tăng cường sử dụng máy bay không người lái như thiết bị cứu hộ",
-        "Video giới thiệu được công bố để quảng bá cho phương pháp mới này"
-      ],
-      "full_summary": "Cảnh sát Mỹ đã công bố một video giới thiệu về việc sử dụng máy bay không người lái để tháo gỡ vũ khí khỏi người bị thương. Đây là một phương pháp mới và được coi là an toàn hơn so với các phương pháp truyền thống. Video giới thiệu được công bố để quảng bá cho phương pháp này và thể hiện sự tin tưởng của cảnh sát vào công nghệ máy bay không người lái. Phương pháp này được coi là một bước tiến trong việc ứng dụng công nghệ vào công tác cứu hộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "be8e98ab7451",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T02:37:10.279620+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạm đội Mỹ cảnh báo Iran không được thu phí qua eo biển Hormuz",
-      "bullets": [
-        "Hạm đội Mỹ cảnh báo Iran không được thu phí qua eo biển Hormuz",
-        "UN sẽ giải cứu thủy thủ đoàn bị mắc kẹt ở eo biển Hormuz",
-        "Iran đang gây ra tình hình căng thẳng ở khu vực eo biển Hormuz",
-        "Mỹ và các nước khác phản đối việc thu phí qua eo biển Hormuz"
-      ],
-      "full_summary": "Hạm đội Mỹ cảnh báo Iran không được thu phí qua eo biển Hormuz, trong khi đó, Liên Hợp Quốc (UN) đã quyết định giải cứu thủy thủ đoàn bị mắc kẹt ở khu vực này. Căng thẳng ở eo biển Hormuz đã tăng lên sau khi Iran gây ra tình hình khó xử cho các tàu thuyền. Mỹ và các nước khác đã phản đối việc thu phí qua eo biển Hormuz.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fd2c7894edaf",
-      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
-      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T02:37:11.182739+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tạm dừng toàn bộ dịch vụ tàu hỏa ở Đức do lỗi kỹ thuật",
-      "bullets": [
-        "Đã tạm dừng dịch vụ tàu hỏa trên toàn quốc",
-        "Lỗi kỹ thuật khiến Deutsche Bahn phải ngừng hoạt động",
-        "Dịch vụ tàu hỏa đã được khôi phục sau 2,5 giờ",
-        "Sự cố đã ảnh hưởng đến hàng nghìn hành khách"
-      ],
-      "full_summary": "Tối qua, Deutsche Bahn đã phải tạm dừng dịch vụ tàu hỏa trên toàn quốc do lỗi kỹ thuật. Sự cố đã khiến hàng nghìn hành khách bị ảnh hưởng. Dịch vụ tàu hỏa đã được khôi phục sau 2,5 giờ. Lỗi kỹ thuật vẫn chưa được tiết lộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1418afde5fc0",
-      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
-      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T02:37:13.052677+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi tám người bị kết án 450 năm tù vì bạo động chống lại ICE",
-      "bullets": [
-        "Bảy người bị kết án 450 năm tù vì bạo động chống lại ICE ở Texas",
-        "Một sĩ quan bị bắn vào cổ trong vụ bạo động",
-        "Tòa án cho rằng các hoạt động của Antifa Cell là nguyên nhân gây ra bạo động",
-        "Vụ bạo động đã gây ra nhiều thương vong và thiệt hại"
-      ],
-      "full_summary": "Hai mươi tám người bị kết án 450 năm tù vì bạo động chống lại ICE ở Texas. Một sĩ quan bị bắn vào cổ trong vụ bạo động. Các quan chức cho rằng các hoạt động của Antifa Cell là nguyên nhân gây ra bạo động. Vụ bạo động đã gây ra nhiều thương vong và thiệt hại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bf33265ff722",
-      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T02:37:14.002905+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Alibaba kiện Mỹ vì bị đưa vào danh sách liên quan quân đội Trung Quốc",
-      "bullets": [
-        "Alibaba kiện Bộ Quốc phòng Mỹ vì bị thêm vào danh sách các công ty có liên quan đến quân đội Trung Quốc.",
-        "Danh sách này nhằm ngăn chặn các công ty có liên quan đến quân đội Trung Quốc mua bán hàng hóa và công nghệ với Mỹ.",
-        "Alibaba phản đối việc bị thêm vào danh sách này, cho rằng không có bằng chứng nào về việc công ty có liên quan đến quân đội Trung Quốc.",
-        "Quyết định này có thể ảnh hưởng đến hoạt động kinh doanh của Alibaba tại Mỹ."
-      ],
-      "full_summary": "Alibaba, công ty thương mại điện tử lớn nhất Trung Quốc, đang kiện Bộ Quốc phòng Mỹ vì bị thêm vào danh sách các công ty có liên quan đến quân đội Trung Quốc. Danh sách này nhằm ngăn chặn các công ty có liên quan đến quân đội Trung Quốc mua bán hàng hóa và công nghệ với Mỹ. Alibaba phản đối quyết định này, cho rằng không có bằng chứng nào về việc công ty có liên quan đến quân đội Trung Quốc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f408d62093e4",
-      "title": "Google's YouTube settles social media addiction case with teen",
-      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T02:37:15.096901+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "YouTube đồng ý giải quyết vụ kiện về nghiện mạng xã hội của một thiếu niên",
-      "bullets": [
-        "YouTube đồng ý giải quyết vụ kiện về nghiện mạng xã hội của một thiếu niên",
-        "Tổ chức này sẽ đối mặt với vụ kiện cùng hai công ty khác vào tháng tới",
-        "Trường hợp này liên quan đến một thiếu niên 15 tuổi",
-        "Vụ kiện nhằm vào các công ty gây nghiện mạng xã hội"
-      ],
-      "full_summary": "YouTube đã đồng ý giải quyết vụ kiện về nghiện mạng xã hội của một thiếu niên 15 tuổi. Vụ kiện này sẽ tiếp tục vào tháng tới với sự tham gia của hai công ty khác. Trình độ của vụ kiện nhằm vào các công ty gây nghiện mạng xã hội. Điều này cho thấy sự quan tâm ngày càng tăng của các cơ quan chức năng đối với vấn đề nghiện mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "771f4de77e67",
-      "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-      "url": "https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T02:37:16.223965+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Công ty công nghệ và cơ quan chức năng đang bỏ qua sự đồng ý của phụ nữ",
-      "bullets": [
-        "Đánh giá của Chayn cho rằng công ty công nghệ đang tập trung vào khỏa thân thay vì sự đồng ý",
-        "Phụ nữ đang bị lạm dụng trực tuyến vì sự tập trung vào khỏa thân",
-        "Báo cáo của Chayn kêu gọi các công ty công nghệ và cơ quan chức năng phải thay đổi cách tiếp cận",
-        "Sự đồng ý của phụ nữ cần được đặt lên hàng đầu trong việc xử lý lạm dụng trực tuyến"
-      ],
-      "full_summary": "Một báo cáo mới của Chayn cho rằng công ty công nghệ và cơ quan chức năng đang bỏ qua sự đồng ý của phụ nữ trong việc xử lý lạm dụng trực tuyến. Theo báo cáo, sự tập trung vào khỏa thân đang khiến phụ nữ bị lạm dụng trực tuyến. Chayn kêu gọi các công ty công nghệ và cơ quan chức năng phải thay đổi cách tiếp cận và đặt sự đồng ý của phụ nữ lên hàng đầu.",
       "comments": 0,
       "score": 0
     }
