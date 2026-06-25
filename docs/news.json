@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-06-25T08:51:19.434654+00:00",
+  "updated_at": "2026-06-25T14:10:45.505200+00:00",
   "articles": [
+    {
+      "id": "52f67da55b1f",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T14:10:30.752023+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Venezuela bị ảnh hưởng nặng nề bởi trận động đất",
+      "bullets": [
+        "Động đất xảy ra gần 6 tháng sau khi Nicolás Maduro bị lực lượng Mỹ bắt giữ",
+        "Twin trận động đất gây thiệt hại lớn cho Venezuela",
+        "Venezuela đang trải qua thời kỳ bất ổn và khó khăn",
+        "Động đất làm tăng thêm khó khăn cho nền kinh tế Venezuela"
+      ],
+      "full_summary": "Venezuela vừa trải qua trận động đất mạnh, gây thiệt hại lớn cho đất nước. Đây là một cú đánh nặng nề cho Venezuela, đang trải qua thời kỳ bất ổn và khó khăn. Trận động đất xảy ra gần 6 tháng sau khi Nicolás Maduro bị lực lượng Mỹ bắt giữ. Venezuela đang phải đối mặt với nhiều thách thức, bao gồm tình trạng kinh tế khó khăn và thiếu thốn nguồn cung cấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a759bbe57704",
+      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T14:10:31.711326+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiệt độ cao ảnh hưởng đến Đông Âu",
+      "bullets": [
+        "Nhiệt độ ở Đức có thể lên tới 40 độ C",
+        "Số người chết liên quan đến nhiệt độ đang tăng",
+        "Các quan chức Pháp báo cáo các trường hợp tử vong ở người trẻ",
+        "Cảnh báo sức khỏe ở Pháp được nâng lên mức cao nhất"
+      ],
+      "full_summary": "Một cơn sóng nhiệt đang lan rộng đến Đông Âu, với nhiệt độ ở Đức có thể lên tới 40 độ C. Các quan chức Pháp báo cáo các trường hợp tử vong liên quan đến nhiệt độ, bao gồm cả trẻ em. Cảnh báo sức khỏe ở Pháp đã được nâng lên mức cao nhất để cảnh báo người dân về nguy cơ sức khỏe.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0974b985563e",
+      "title": "Key figure in South Africa police corruption scandal pleads guilty",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T14:10:32.617836+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Một quan chức bị bắt trong scandal tham nhũng cảnh sát Nam Phi thú nhận tội lỗi",
+      "bullets": [
+        "Matlala thú nhận tội tham nhũng cảnh sát",
+        "Matlala có thể cung cấp bằng chứng chống lại các quan chức cao cấp",
+        "Sự việc liên quan đến scandal tham nhũng cảnh sát Nam Phi",
+        "Matlala bị bắt vì tội tham nhũng"
+      ],
+      "full_summary": "Vusimusi 'Cat' Matlala, một quan chức bị bắt trong scandal tham nhũng cảnh sát Nam Phi, đã thú nhận tội lỗi. Theo các quan chức, Matlala có thể cung cấp bằng chứng chống lại các quan chức cao cấp. Sự việc liên quan đến scandal tham nhũng cảnh sát Nam Phi, một trong những vụ tham nhũng lớn nhất ở Nam Phi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e65e300e7db",
+      "title": "Oil price falls back to pre-Iran war levels",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T14:10:33.572476+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Giá xăng giảm trở lại mức trước chiến tranh Iran",
+      "bullets": [
+        "Giá dầu giảm trở lại sau khi giao thông qua eo biển Hormuz dần trở lại",
+        "Chính sách của Mỹ đối với Iran không còn ảnh hưởng mạnh đến giá dầu",
+        "Tình hình ổn định hơn ở eo biển Hormuz giúp giảm căng thẳng trên thị trường dầu mỏ"
+      ],
+      "full_summary": "Giá dầu đã giảm trở lại mức trước chiến tranh Iran sau khi giao thông qua eo biển Hormuz dần trở lại. Điều này cho thấy rằng chính sách của Mỹ đối với Iran không còn ảnh hưởng mạnh đến giá dầu. Tình hình ổn định hơn ở eo biển Hormuz giúp giảm căng thẳng trên thị trường dầu mỏ, từ đó giá dầu giảm trở lại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d31003e995c2",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T14:10:34.559260+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "IBM tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
+      "bullets": [
+        "Tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
+        "Sẽ mất thời gian trước khi sẵn sàng cho sản xuất",
+        "Công nghệ này có thể mở ra tương lai của công nghệ điện tử",
+        "IBM đạt được thành tựu này sau nhiều năm nghiên cứu"
+      ],
+      "full_summary": "IBM vừa công bố thành tựu mới trong lĩnh vực công nghệ chip, khi họ tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet. Đây là bước tiến quan trọng trong lĩnh vực công nghệ điện tử, nhưng công nghệ này sẽ mất thời gian trước khi sẵn sàng cho sản xuất. IBM đã đạt được thành tựu này sau nhiều năm nghiên cứu và thử nghiệm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8882bb5e177d",
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T14:10:35.593450+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ryanair sẽ không thu phí cho phụ huynh ngồi cạnh con",
+      "bullets": [
+        "Ryanair sẽ không thu phí cho phụ huynh ngồi cạnh con",
+        "Hãng hàng không sẽ miễn phí cho các gia đình",
+        "Phí ngồi cạnh con trước đây là £8 mỗi chiều",
+        "Quyết định này sẽ có hiệu lực ngay lập tức"
+      ],
+      "full_summary": "Ryanair vừa tuyên bố sẽ miễn phí cho phụ huynh ngồi cạnh con. Đây là một quyết định được hãng hàng không đưa ra sau nhiều lời chỉ trích về phí ngồi cạnh con trước đây. Phí ngồi cạnh con trước đây là £8 mỗi chiều, nhưng từ nay hãng hàng không sẽ miễn phí cho các gia đình. Quyết định này sẽ có hiệu lực ngay lập tức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d31003e995c2",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T14:10:36.622397+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "IBM đạt mốc mới trong thiết kế chip siêu nhỏ",
+      "bullets": [
+        "Tạo ra công nghệ chip đầu tiên dưới 1 nanomet",
+        "Sẽ mất thời gian trước khi sản xuất được",
+        "IBM đạt mốc mới trong lĩnh vực công nghệ bán dẫn"
+      ],
+      "full_summary": "IBM vừa công bố đạt mốc mới trong thiết kế chip siêu nhỏ, với công nghệ dưới 1 nanomet. Mặc dù đây là một bước tiến quan trọng, nhưng sẽ mất thời gian trước khi công nghệ này được sản xuất. IBM đang dẫn đầu trong lĩnh vực công nghệ bán dẫn và công bố này cho thấy sự tiến bộ của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "015ec1aadba6",
+      "title": "New effort will get genome sequences for entire Endangered Species list",
+      "url": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-25T14:10:39.896858+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Colossal Biosciences sẽ thu thập DNA của tất cả loài nguy cấp",
+      "bullets": [
+        "Thử nghiệm sẽ thu thập DNA của 40.000 loài nguy cấp trên thế giới",
+        "Colossal Biosciences sẽ lưu trữ các mẫu mô từ tất cả các loài này",
+        "Mục tiêu là hiểu rõ hơn về di truyền học của các loài nguy cấp",
+        "Mô hình này sẽ giúp bảo tồn và nghiên cứu các loài nguy cấp"
+      ],
+      "full_summary": "Colossal Biosciences đã công bố một nỗ lực mới để thu thập DNA của tất cả loài nguy cấp trên thế giới. Mục tiêu là thu thập DNA của 40.000 loài nguy cấp và lưu trữ các mẫu mô từ tất cả các loài này. Mô hình này sẽ giúp hiểu rõ hơn về di truyền học của các loài nguy cấp và hỗ trợ bảo tồn và nghiên cứu các loài nguy cấp. Việc thu thập DNA sẽ giúp các nhà khoa học hiểu rõ hơn về các loài nguy cấp và phát triển các chiến lược bảo tồn hiệu quả hơn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d0dedce83703",
       "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
@@ -634,164 +792,6 @@
         "Vụ việc đang được điều tra"
       ],
       "full_summary": "Một phụ nữ Pháp tên Yasmina bị chồng giam giữ 12 năm tại Pakistan cùng với 5 đứa con. Cô và con cái bị cắt đứt khỏi thế giới bên ngoài và không thể liên lạc với bên ngoài. Vụ việc được tiết lộ và Yasmina đã được giải cứu. Vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "985916d0e3e4",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T14:12:36.773279+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "20.000 vận động viên tham gia marathon dài nhất thế giới tại Nam Phi",
-      "bullets": [
-        "Hàng ngàn người tập trung chờ đợi sự bắt đầu",
-        "Nghe quốc ca Nam Phi và những bản nhạc truyền thống",
-        "Vận động viên từ khắp nơi trên thế giới tham gia cuộc đua",
-        "Cùng nhau vượt qua chặng đường dài"
-      ],
-      "full_summary": "Mỗi năm một lần, vào tháng 6, cuộc đua Comrades tại Nam Phi trở thành nơi mọi người quên đi sự bất bình đẳng. Hàng ngàn vận động viên chờ đợi trong bóng tối sớm, nghe quốc ca Nam Phi và những bản nhạc truyền thống. Cuộc đua này đã trở thành một biểu tượng của sự đoàn kết và sức mạnh tinh thần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1499b122d15",
-      "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
-      "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-24T14:12:40.655608+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "ABC kêu gọi người xem phản đối FCC kiểm soát chương trình The View",
-      "bullets": [
-        "FCC muốn kiểm soát nội dung chương trình The View",
-        "ABC yêu cầu người xem phản đối quyết định này",
-        "Phản đối nhằm bảo vệ tự do ngôn luận trên truyền hình",
-        "Tình hình đang gây tranh cãi trong cộng đồng truyền thông"
-      ],
-      "full_summary": "FCC đã đề xuất kiểm soát nội dung chương trình The View, khiến ABC yêu cầu người xem phản đối quyết định này. Mục đích của FCC là kiểm soát ai được phép xuất hiện trên chương trình, nhưng ABC cho rằng điều này sẽ vi phạm tự do ngôn luận trên truyền hình. Phản đối của ABC nhằm bảo vệ quyền tự do ngôn luận và tự do báo chí của công chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8c1b26cac551",
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T08:56:19.541743+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạ viện Mỹ thông qua nghị quyết hạn chế quyền lực chiến tranh",
-      "bullets": [
-        "Hạ viện Mỹ thông qua nghị quyết hạn chế quyền lực chiến tranh",
-        "Nghị quyết này nhằm tăng áp lực lên Nhà Trắng để kết thúc xung đột Iran",
-        "Động thái này là lần đầu tiên Hạ viện Mỹ thông qua nghị quyết hạn chế quyền lực chiến tranh",
-        "Nghị quyết này chủ yếu mang tính biểu tượng nhưng vẫn gây áp lực lên Nhà Trắng"
-      ],
-      "full_summary": "Hạ viện Mỹ đã thông qua nghị quyết hạn chế quyền lực chiến tranh liên quan đến Iran, một động thái được coi là phản đối quyết liệt của cựu Tổng thống Trump. Nghị quyết này chủ yếu mang tính biểu tượng nhưng vẫn gây áp lực lên Nhà Trắng để kết thúc xung đột Iran. Đây là lần đầu tiên Hạ viện Mỹ thông qua nghị quyết hạn chế quyền lực chiến tranh. Động thái này cho thấy sự thay đổi trong chính sách đối ngoại của Mỹ dưới thời Tổng thống Biden.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68e5ce01b894",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T08:56:20.471498+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Cử tri New York ủng hộ ứng cử viên được Mamdani hậu thuẫn",
-      "bullets": [
-        "Lần đầu tiên ứng cử viên được Mamdani hậu thuẫn giành chiến thắng trong cuộc bầu cử sơ bộ",
-        "Brad Lander đánh bại Dan Goldman trong cuộc bầu cử gây chia rẽ",
-        "Cử tri New York bày tỏ quan điểm về cuộc chiến Israel-Gaza"
-      ],
-      "full_summary": "Ứng cử viên được Mamdani hậu thuẫn đã giành chiến thắng trong cuộc bầu cử sơ bộ ở New York. Brad Lander đã đánh bại Dan Goldman trong cuộc bầu cử gây chia rẽ. Cuộc bầu cử này đã làm nổi bật các quan điểm khác nhau của cử tri New York về cuộc chiến Israel-Gaza. Kết quả này cho thấy sự ủng hộ của cử tri New York đối với ứng cử viên được Mamdani hậu thuẫn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "85e486c80992",
-      "title": "Sydney woman wakes from induced coma more than a week after shark attack",
-      "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T08:56:21.430046+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nữ du khách 34 tuổi tỉnh dậy sau 1 tuần bị rắn biển tấn công",
-      "bullets": [
-        "Bị rắn biển cắn tại bãi biển Coogee",
-        "Bị cắt bỏ 1 cánh tay",
-        "Được đưa vào hôn mê nhân tạo",
-        "Đã tỉnh dậy sau 1 tuần"
-      ],
-      "full_summary": "Leah Stewart, 34 tuổi, đã bị rắn biển cắn tại bãi biển Coogee, Australia. Cô đã được đưa vào hôn mê nhân tạo và phải cắt bỏ 1 cánh tay. Sau 1 tuần, cô đã tỉnh dậy và đang được chăm sóc y tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "73a60dfc2b91",
-      "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T08:56:22.442611+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chàng trai cứu người tại bãi biển Bondi đã xin không phạm tội đánh người cha",
-      "bullets": [
-        "Xin không phạm tội đánh người cha sau vụ tấn công",
-        "Ahmed al Ahmed cứu người tại bãi biển Bondi sau vụ tấn công",
-        "Vụ tấn công tại bãi biển Bondi gây thương vong 15 người",
-        "Ahmed al Ahmed từng ngăn chặn kẻ tấn công"
-      ],
-      "full_summary": "Ahmed al Ahmed, người đã cứu người tại bãi biển Bondi sau vụ tấn công vào người Do Thái vào tháng 12, đã xin không phạm tội đánh người cha. Theo BBC, Ahmed al Ahmed đã xin không phạm tội đánh người cha sau khi bị cáo buộc đã đánh người cha. Vụ tấn công tại bãi biển Bondi vào tháng 12 đã gây thương vong 15 người. Ahmed al Ahmed đã được khen ngợi vì đã ngăn chặn kẻ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "58bfe109862d",
-      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
-      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T08:56:23.402324+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Vụ bạo lực gia đình ở Kenya được vạch trần qua vở kịch",
-      "bullets": [
-        "Vở kịch 'Free Me' của Gathoni Kimuyu vạch trần nạn bạo lực gia đình ở Kenya",
-        "Vở kịch dựa trên kinh nghiệm sống của tác giả, người từng sống trong một mối quan hệ bạo lực",
-        "Vở kịch hy vọng sẽ khích lệ nạn nhân nói lên tiếng nói của mình"
-      ],
-      "full_summary": "Vở kịch 'Free Me' của Gathoni Kimuyu đã được trình diễn tại Nairobi, Kenya, nhằm vạch trần nạn bạo lực gia đình đang gia tăng ở quốc gia này. Vở kịch dựa trên kinh nghiệm sống của tác giả, người từng sống trong một mối quan hệ bạo lực. Vở kịch hy vọng sẽ khích lệ nạn nhân nói lên tiếng nói của mình và tạo ra sự thay đổi trong xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "36eb0f1415ba",
-      "title": "Kenyan minister orders halt to construction of US Ebola facility",
-      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T08:56:24.401309+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bộ trưởng Kenya ngăn chặn xây dựng cơ sở cách ly Ebola do Mỹ tài trợ",
-      "bullets": [
-        "Bộ trưởng Y tế Kenya ra lệnh dừng xây dựng cơ sở cách ly Ebola",
-        "Tòa án đã phạt Bộ trưởng Y tế Kenya vì không tuân thủ phán quyết trước đó",
-        "Cơ sở cách ly Ebola do Mỹ tài trợ gây phản ứng dữ dội từ người dân Kenya",
-        "Tình trạng bùng phát Ebola tại Cộng hòa Dân chủ Congo đang gây lo ngại"
-      ],
-      "full_summary": "Bộ trưởng Y tế Kenya đã ra lệnh dừng xây dựng cơ sở cách ly Ebola do Mỹ tài trợ sau khi bị tòa án phạt vì không tuân thủ phán quyết trước đó. Cơ sở cách ly này được xây dựng để cách ly công dân Mỹ được sơ tán khỏi Cộng hòa Dân chủ Congo, nơi đang xảy ra bùng phát Ebola. Người dân Kenya đã phản ứng dữ dội với kế hoạch xây dựng cơ sở cách ly này. Bộ trưởng Y tế Kenya đã phải ra lệnh dừng công việc sau khi bị tòa án phạt.",
       "comments": 0,
       "score": 0
     }
