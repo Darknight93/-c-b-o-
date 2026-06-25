@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-06-24T19:28:45.959137+00:00",
+  "updated_at": "2026-06-25T02:38:31.284753+00:00",
   "articles": [
+    {
+      "id": "6091968b1276",
+      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
+      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T02:38:16.292751+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Tỷ phú Apple có thể phải trả 3 tỷ bảng Anh cho người tiêu dùng",
+      "bullets": [
+        "Sẽ có thể có hàng triệu người ở Anh được chia sẻ khoản tiền 3 tỷ bảng Anh",
+        "Apple đã bác bỏ cáo buộc hành vi cạnh tranh không công bằng",
+        "Hãng này cho biết nhiều người dùng phụ thuộc vào các ứng dụng bên thứ ba",
+        "Quyết định này có thể ảnh hưởng đến nhiều người dùng thiết bị Apple"
+      ],
+      "full_summary": "Một vụ kiện chống độc quyền chống lại Apple đã được cho phép ở Anh. Theo quyết định này, hàng triệu người dùng có thể được chia sẻ khoản tiền 3 tỷ bảng Anh. Apple đã bác bỏ cáo buộc hành vi cạnh tranh không công bằng và cho biết nhiều người dùng phụ thuộc vào các ứng dụng bên thứ ba. Quyết định này có thể ảnh hưởng đến nhiều người dùng thiết bị Apple.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e9e999ba792",
+      "title": "Steam Machine launches with £879 price tag as Valve cites component costs",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T02:38:17.324152+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Valve ra mắt Steam Machine với giá 879 bảng Anh do chi phí linh kiện tăng cao",
+      "bullets": [
+        "Valve công bố giá Steam Machine",
+        "Giá 879 bảng Anh phản ánh xu hướng chi phí linh kiện tăng dần",
+        "Valve giải thích chi phí linh kiện đã tăng lên",
+        "Steam Machine là một hệ thống PC-hybrid"
+      ],
+      "full_summary": "Valve vừa công bố giá của Steam Machine, một hệ thống PC-hybrid với giá 879 bảng Anh. Theo công ty, giá này phản ánh xu hướng chi phí linh kiện tăng dần trong thời gian gần đây. Valve giải thích rằng chi phí linh kiện đã tăng lên do nhiều nguyên nhân, bao gồm cả sự thiếu hụt linh kiện và chi phí vận chuyển tăng cao. Steam Machine được thiết kế để cung cấp trải nghiệm chơi game giống như một máy console, nhưng với khả năng tùy chỉnh và mở rộng của một máy tính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1ffe055ffd07",
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T02:38:18.217860+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "100 bệnh viện Romania chuyển sang viết tay để chống lại cuộc tấn công mạng",
+      "bullets": [
+        "Các chuyên gia mạng đấu tranh 4 ngày để đánh bại các hacker",
+        "Hàng chục bệnh viện Romania bị tắt mạng trong 4 ngày",
+        "Các bệnh viện chuyển sang sử dụng bút chì và giấy để tiếp tục hoạt động",
+        "Cuộc tấn công mạng đã được ngăn chặn sau 4 ngày"
+      ],
+      "full_summary": "Một cuộc tấn công mạng lớn đã ảnh hưởng đến hơn 100 bệnh viện ở Romania trong 4 ngày. Các chuyên gia mạng đã đấu tranh để ngăn chặn cuộc tấn công, nhưng các bệnh viện đã chuyển sang sử dụng bút chì và giấy để tiếp tục hoạt động. Cuối cùng, cuộc tấn công đã được ngăn chặn sau 4 ngày.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "48e59a7106fc",
+      "title": "Venezuela earthquakes live: state of emergency declared after officials warn of widespread damage and high casualties",
+      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T02:38:19.185284+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất mạnh xảy ra tại Venezuela, gây thiệt hại nghiêm trọng",
+      "bullets": [
+        "Động đất mạnh 7,2 và 7,5 độ xảy ra tại Caracas",
+        "Nhiều tòa nhà bị sập, gây thiệt hại và thương vong",
+        "Các tình nguyện viên và y tế đang cố gắng cứu sống những người còn sống sót",
+        "Tình hình đang được đánh giá nghiêm trọng"
+      ],
+      "full_summary": "Hai trận động đất mạnh 7,2 và 7,5 độ đã xảy ra tại Venezuela, khiến nhiều tòa nhà bị sập và gây thiệt hại nghiêm trọng. Các tình nguyện viên và y tế đang cố gắng cứu sống những người còn sống sót. Tình hình đang được đánh giá nghiêm trọng và chính phủ đã tuyên bố tình trạng khẩn cấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa9537594ad1",
+      "title": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
+      "url": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T02:38:20.074473+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Merlín bị cấm vào sân World Cup vì quy định Fifa",
+      "bullets": [
+        "Fifa cấm Merlín vào sân World Cup vì quy định về động vật",
+        "Merlín trở thành biểu tượng của đội tuyển Mexico",
+        "Người hâm mộ Mexico đã tổ chức chiến dịch để Merlín được vào sân",
+        "Merlín sẽ phải xem trận đấu từ xa"
+      ],
+      "full_summary": "Merlín, con vịt hai tuổi, đã trở thành biểu tượng của đội tuyển Mexico trong kỳ World Cup. Người hâm mộ Mexico đã tổ chức chiến dịch để Merlín được vào sân xem trận đấu với Czechia. Tuy nhiên, Fifa đã cấm Merlín vào sân vì quy định về động vật. Merlín sẽ phải xem trận đấu từ xa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3985c7cd874a",
+      "title": "Venezuela earthquake: powerful back-to-back quakes collapse buildings in capital Caracas",
+      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T02:38:21.069290+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Động đất mạnh đánh sập nhiều tòa nhà ở Caracas, Venezuela",
+      "bullets": [
+        "Động đất mạnh đã xảy ra ở Caracas",
+        "Nhiều tòa nhà đã bị sập tại sân bay quốc tế",
+        "Tremor đã được cảm nhận ở Colombia",
+        "Cảnh hoảng loạn tại sân bay Maiquetía"
+      ],
+      "full_summary": "Venezuela đã bị hai cơn động đất mạnh đánh sập, gây thiệt hại lớn tại sân bay quốc tế và khiến nhiều tòa nhà sập xuống. Các cơn động đất mạnh đã xảy ra liên tiếp và được cảm nhận ở nhiều nơi trên đất nước. Cảnh hoảng loạn đã xảy ra tại sân bay Maiquetía khi hành khách chạy tìm nơi an toàn trước các mảnh vỡ rơi xuống.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "60564004eedb",
+      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
+      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-25T02:38:22.061737+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Grand Theft Auto VI có giá cao hơn các trò chơi AAA khác",
+      "bullets": [
+        "Sẽ có giá 80 USD mà không có đĩa vật lý",
+        "Có thể trở thành ngoại lệ trong thị trường trò chơi điện tử",
+        "Giá cao hơn so với các trò chơi AAA khác",
+        "Còn nhiều thông tin chưa được công bố"
+      ],
+      "full_summary": "Grand Theft Auto VI sắp được phát hành và có giá 80 USD mà không có đĩa vật lý. Điều này có thể khiến trò chơi trở thành ngoại lệ trong thị trường trò chơi điện tử. Giá cao hơn so với các trò chơi AAA khác, nhưng vẫn chưa rõ lý do tại sao. Còn nhiều thông tin chưa được công bố về trò chơi này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f057e7c45f5b",
+      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-25T02:38:23.050856+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "OpenAI và Broadcom hợp tác phát triển chip xử lý LLM",
+      "bullets": [
+        "Xây dựng chip xử lý LLM với khả năng mở rộng lớn",
+        "Giải quyết vấn đề thiếu hụt chip trong ngành công nghệ",
+        "Tăng cường hiệu suất và tốc độ xử lý cho các mô hình LLM",
+        "Phát triển công nghệ để đáp ứng nhu cầu ngày càng tăng"
+      ],
+      "full_summary": "OpenAI và Broadcom vừa công bố hợp tác phát triển chip xử lý cho các mô hình LLM (Large Language Model) với khả năng mở rộng lớn. Mục tiêu của dự án này là giải quyết vấn đề thiếu hụt chip trong ngành công nghệ và tăng cường hiệu suất, tốc độ xử lý cho các mô hình LLM. Dự án này sẽ giúp đáp ứng nhu cầu ngày càng tăng của các công ty công nghệ trong việc triển khai các mô hình LLM.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f59335d5cdd0",
+      "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
+      "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-25T02:38:24.706555+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mỹ kết thúc phản ứng với dịch hantavirus mà không có câu trả lời về cách ly nghiêm ngặt",
+      "bullets": [
+        "Mỹ đã kết thúc phản ứng với dịch hantavirus mà không có câu trả lời về việc cách ly nghiêm ngặt",
+        "Các chuyên gia y tế vẫn chưa hiểu lý do tại sao RFK Jr. đã lật ngược quyết định của CDC",
+        "Quyết định cách ly nghiêm ngặt đã gây ra nhiều tranh cãi và lo ngại về quyền tự do của công dân",
+        "Mỹ vẫn chưa có câu trả lời về cách giải quyết các vấn đề liên quan đến dịch hantavirus"
+      ],
+      "full_summary": "Mỹ đã kết thúc phản ứng với dịch hantavirus nhưng vẫn chưa có câu trả lời về việc cách ly nghiêm ngặt. Các chuyên gia y tế vẫn chưa hiểu lý do tại sao RFK Jr. đã lật ngược quyết định của CDC. Quyết định cách ly nghiêm ngặt đã gây ra nhiều tranh cãi và lo ngại về quyền tự do của công dân. Mỹ vẫn chưa có câu trả lời về cách giải quyết các vấn đề liên quan đến dịch hantavirus.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e0b014c8f5d3",
+      "title": "Ending All Respiratory Infections",
+      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-25T02:38:29.642903+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hệ thống phòng ngừa nhiễm trùng hô hấp toàn diện đang được phát triển",
+      "bullets": [
+        "Tìm ra nguyên nhân gây nhiễm trùng hô hấp để ngăn chặn",
+        "Phát triển vắc-xin hiệu quả để bảo vệ sức khỏe",
+        "Tăng cường hệ thống y tế để điều trị nhiễm trùng hô hấp"
+      ],
+      "full_summary": "Một nhóm nghiên cứu đang phát triển hệ thống phòng ngừa nhiễm trùng hô hấp toàn diện. Họ tìm ra nguyên nhân gây nhiễm trùng hô hấp để ngăn chặn và phát triển vắc-xin hiệu quả để bảo vệ sức khỏe. Hệ thống y tế cũng được tăng cường để điều trị nhiễm trùng hô hấp. Mục tiêu cuối cùng là chấm dứt nhiễm trùng hô hấp.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "70518f22e529",
       "title": "Colombia's left-wing presidential candidate concedes defeat",
@@ -595,205 +794,6 @@
         "Sự đồng ý của phụ nữ cần được đặt lên hàng đầu trong việc xử lý lạm dụng trực tuyến"
       ],
       "full_summary": "Một báo cáo mới của Chayn cho rằng công ty công nghệ và cơ quan chức năng đang bỏ qua sự đồng ý của phụ nữ trong việc xử lý lạm dụng trực tuyến. Theo báo cáo, sự tập trung vào khỏa thân đang khiến phụ nữ bị lạm dụng trực tuyến. Chayn kêu gọi các công ty công nghệ và cơ quan chức năng phải thay đổi cách tiếp cận và đặt sự đồng ý của phụ nữ lên hàng đầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c57507db630b",
-      "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
-      "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-24T02:37:21.827895+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tổ chức phi lợi nhuận khôi phục trang web khí hậu bị Trump xóa",
-      "bullets": [
-        "Khôi phục toàn bộ nội dung bị xóa",
-        "Trang web Climate.us hoạt động trở lại",
-        "Tổ chức phi lợi nhuận đảm nhiệm việc bảo trì trang web"
-      ],
-      "full_summary": "Trang web khí hậu Climate.us của Mỹ đã được khôi phục sau khi bị chính quyền Trump xóa vào năm 2024. Tổ chức phi lợi nhuận đã đảm nhiệm việc bảo trì và khôi phục toàn bộ nội dung bị xóa. Điều này cho phép người dùng tiếp tục truy cập thông tin khí hậu và biến đổi khí hậu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a24ed7b9800a",
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T19:52:31.708710+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel giết hai người ở miền nam Liban sau thời gian yên tĩnh",
-      "bullets": [
-        "Israel quân đội nói hai người đó là thành viên Hezbollah",
-        "Nhóm Hồi giáo Iran ủng hộ cáo buộc Israel vi phạm thỏa thuận ngừng bắn",
-        "Tình hình ở Liban vẫn đang căng thẳng",
-        "Israel và Hezbollah đang trong một cuộc chiến kéo dài"
-      ],
-      "full_summary": "Israel quân đội cho biết hai người bị giết ở miền nam Liban là thành viên Hezbollah. Tuy nhiên, nhóm Hồi giáo Iran ủng hộ cáo buộc Israel vi phạm thỏa thuận ngừng bắn. Tình hình ở Liban vẫn đang căng thẳng. Israel và Hezbollah đang trong một cuộc chiến kéo dài.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b65901b02c2c",
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T19:52:32.667363+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hàng chục tàu đi qua eo biển Hormuz sau thỏa thuận Mỹ - Iran",
-      "bullets": [
-        "Hàng chục tàu đi qua eo biển Hormuz sau thỏa thuận hòa bình giữa Mỹ và Iran.",
-        "Trafic qua eo biển Hormuz đã tăng lên kể từ khi Mỹ và Iran ký thỏa thuận hòa bình.",
-        "Tổng cộng 42 tàu đã đi qua eo biển Hormuz vào ngày thứ Bảy.",
-        "Thỏa thuận hòa bình giữa Mỹ và Iran nhằm chấm dứt chiến tranh."
-      ],
-      "full_summary": "Sau khi Mỹ và Iran ký thỏa thuận hòa bình, giao thông qua eo biển Hormuz đã tăng lên. Theo BBC, tổng cộng 42 tàu đã đi qua eo biển Hormuz vào ngày thứ Bảy. Thỏa thuận hòa bình giữa Mỹ và Iran nhằm chấm dứt chiến tranh và giúp ổn định tình hình khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6a603c2d3983",
-      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
-      "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T19:52:34.851137+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tòa án Mỹ bác đơn kiện của tù nhân Rastafarian",
-      "bullets": [
-        "Tòa án tối cao Mỹ bác đơn kiện của một tù nhân Rastafarian",
-        "Tù nhân này bị tước tóc vì lý do tôn giáo",
-        "Tòa án cho rằng hành động của tù nhân không được bảo vệ bởi luật",
-        "Tù nhân này đã bị giam giữ tại Louisiana"
-      ],
-      "full_summary": "Tòa án tối cao Mỹ vừa bác đơn kiện của một tù nhân Rastafarian sau khi bị tước tóc vì lý do tôn giáo. Tù nhân này cho rằng hành động của tù nhân đã vi phạm quyền tôn giáo của mình. Tuy nhiên, tòa án cho rằng hành động của tù nhân không được bảo vệ bởi luật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd40cafbed3b",
-      "title": "Meta halts worker tracking for AI training due to privacy fears",
-      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T19:52:35.766510+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta tạm dừng theo dõi nhân viên vì lo ngại về quyền riêng tư",
-      "bullets": [
-        "Meta đã tạm dừng theo dõi hoạt động máy tính của nhân viên",
-        "Lý do là lo ngại về quyền riêng tư và bảo mật",
-        "Công ty đã bắt đầu theo dõi nhân viên 2 tháng trước",
-        "Mục đích là để tạo dữ liệu đào tạo AI"
-      ],
-      "full_summary": "Meta đã tạm dừng việc theo dõi hoạt động máy tính của nhân viên vì lo ngại về quyền riêng tư và bảo mật. Công ty đã bắt đầu thực hiện việc này vào tháng trước với mục đích tạo dữ liệu đào tạo AI. Tuy nhiên, sau đó đã nhận được phản hồi tiêu cực từ nhân viên và quyết định tạm dừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9b2831e1cea5",
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T19:52:36.668466+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp sẽ có lãnh đạo mới, người sáng lập công ty Ấn Độ",
-      "bullets": [
-        "Sẽ có lãnh đạo mới dẫn dắt WhatsApp",
-        "Người sáng lập công ty Ấn Độ sẽ lãnh đạo WhatsApp",
-        "Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ",
-        "Lãnh đạo mới sẽ giúp WhatsApp phát triển ở Ấn Độ"
-      ],
-      "full_summary": "WhatsApp đang trải qua một cuộc thay đổi lãnh đạo. Người sáng lập công ty Ấn Độ sẽ lãnh đạo WhatsApp. Điều này diễn ra khi Meta muốn tăng cường sự hiện diện của WhatsApp ở Ấn Độ. Lãnh đạo mới sẽ giúp WhatsApp phát triển ở Ấn Độ và tăng cường sự hiện diện của ứng dụng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f6b6199b5e2a",
-      "title": "Why an AI company cleaned my New York City apartment for free",
-      "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T19:52:38.266168+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công ty AI gửi người dọn dẹp miễn phí để đào tạo robot",
-      "bullets": [
-        "Gửi người dọn dẹp miễn phí để đào tạo robot thay thế",
-        "Cơ quan này hy vọng robot sẽ tự động hóa công việc dọn dẹp trong tương lai",
-        "Mục tiêu cuối cùng là giảm chi phí và tăng hiệu suất",
-        "Khách hàng ở New York City được hưởng lợi từ chương trình này"
-      ],
-      "full_summary": "Một công ty AI đang gửi người dọn dẹp miễn phí đến các căn hộ ở New York City. Mục đích của họ là đào tạo robot để thay thế con người trong tương lai. Cơ quan này hy vọng robot sẽ tự động hóa công việc dọn dẹp, giảm chi phí và tăng hiệu suất. Khách hàng ở New York City đang được hưởng lợi từ chương trình này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1e4e230cd97",
-      "title": "A curious crossover: The Toyota C-HR review",
-      "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-23T19:52:43.449618+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Xe điện Toyota C-HR nhỏ nhưng không quá thoải mái",
-      "bullets": [
-        "Đánh giá xe điện Toyota C-HR",
-        "Xe có kích thước nhỏ nhưng không quá thú vị",
-        "Đánh giá chi tiết về hiệu suất và tính năng",
-        "Xe điện Toyota C-HR có điểm mạnh và điểm yếu gì"
-      ],
-      "full_summary": "Mặc dù có kích thước nhỏ, xe điện Toyota C-HR không quá thoải mái. Theo đánh giá của Ars Technica, xe điện này không có nhiều tính năng thú vị như các mẫu xe khác. Tuy nhiên, xe vẫn có hiệu suất tốt và có thể là lựa chọn tốt cho những người muốn một chiếc xe điện nhỏ gọn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "82043ddd22a8",
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:35.857226+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nhiều người chết đuối ở Pháp do sóng nhiệt",
-      "bullets": [
-        "Đã có 40 người chết đuối ở Pháp kể từ thứ Năm tuần trước",
-        "Sóng nhiệt đang gây ra nhiều vụ tai nạn ở châu Âu",
-        "Chính phủ Pháp đang cố gắng giảm thiểu thiệt hại",
-        "Số người chết đuối đang tăng nhanh chóng"
-      ],
-      "full_summary": "Chính phủ Pháp vừa thông báo đã có 40 người chết đuối kể từ thứ Năm tuần trước. Sóng nhiệt đang gây ra nhiều vụ tai nạn ở châu Âu, đặc biệt là ở Pháp. Chính phủ Pháp đang cố gắng giảm thiểu thiệt hại và ngăn chặn số người chết đuối tiếp tục tăng. Các biện pháp được đưa ra bao gồm tăng cường cảnh báo và hỗ trợ cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6d8b4f9c1a64",
-      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-23T14:33:37.887330+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hôn nhân gia đình cựu tổng thống Zambia và chính phủ tiếp tục mâu thuẫn",
-      "bullets": [
-        "Chính phủ Zambia và gia đình cựu tổng thống Edgar Lungu tiếp tục tranh chấp về việc xử lý thi thể",
-        "Mâu thuẫn kéo dài 12 tháng kể từ khi ông Lungu qua đời",
-        "Gia đình cựu tổng thống muốn chôn cất tại quê hương",
-        "Chính phủ Zambia muốn chôn cất tại một nơi khác"
-      ],
-      "full_summary": "Gia đình cựu tổng thống Zambia Edgar Lungu và chính phủ tiếp tục mâu thuẫn về việc xử lý thi thể sau 12 tháng kể từ khi ông qua đời. Chính phủ muốn chôn cất tại một nơi khác, trong khi gia đình muốn chôn cất tại quê hương. Mâu thuẫn này đã kéo dài và chưa có kết quả.",
       "comments": 0,
       "score": 0
     }
