@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-06-25T14:10:45.505200+00:00",
+  "updated_at": "2026-06-25T19:49:19.751243+00:00",
   "articles": [
+    {
+      "id": "5961769e6f04",
+      "title": "People flee as building collapses on Caracas outskirts",
+      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:03.278447+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nền nhà đổ sập ở ngoại ô Caracas, người dân chạy thoát",
+      "bullets": [
+        "Động đất mạnh 7,2 và 7,5 xảy ra gần như đồng thời",
+        "Tổn thương nặng nề ở thủ đô và các khu vực lân cận",
+        "Người dân phải sơ tán khỏi khu vực sau khi nhà đổ sập",
+        "Động đất gây ra thiệt hại lớn ở Venezuela"
+      ],
+      "full_summary": "Động đất mạnh 7,2 và 7,5 xảy ra gần như đồng thời ở Venezuela, gây ra thiệt hại nặng nề ở thủ đô Caracas và các khu vực lân cận. Nền nhà đã đổ sập ở ngoại ô Caracas, khiến người dân phải chạy thoát. Đây là một trong những trận động đất mạnh nhất trong nhiều năm gần đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "14cd0d46c8a9",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:04.161941+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Đại sứ quán Liên Hợp Quốc tạm dừng kế hoạch sơ tán ở eo biển Hormuz",
+      "bullets": [
+        "Một tàu chở hàng bị tấn công bởi một vật thể không xác định gần Oman",
+        "Không có thương vong được báo cáo",
+        "Đại sứ quán Liên Hợp Quốc đã tạm dừng kế hoạch sơ tán",
+        "Tình hình đang được theo dõi chặt chẽ"
+      ],
+      "full_summary": "Đại sứ quán Liên Hợp Quốc đã tạm dừng kế hoạch sơ tán khỏi eo biển Hormuz sau khi một tàu chở hàng bị tấn công bởi một vật thể không xác định gần Oman. Không có thương vong được báo cáo. Đại sứ quán đang theo dõi tình hình chặt chẽ và chưa có thông tin về kẻ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "36f833729b7e",
+      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:05.189480+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 50 phụ nữ đòi bãi bỏ thời hiệu truy tố",
+      "bullets": [
+        "Kêu gọi bãi bỏ thời hiệu truy tố để được công lý",
+        "Hơn 50 phụ nữ cáo buộc bị lạm dụng tình dục tại Pháp",
+        "Thời hiệu truy tố ngăn cản họ tìm kiếm công lý",
+        "Phụ nữ này đòi thay đổi luật pháp để được công bằng"
+      ],
+      "full_summary": "Hơn 50 phụ nữ tại Pháp đang kêu gọi bãi bỏ thời hiệu truy tố để được công lý. Họ cáo buộc bị lạm dụng tình dục và bị ngăn cản tìm kiếm công lý do thời hiệu truy tố. Phụ nữ này đòi thay đổi luật pháp để được công bằng và được công nhận. Họ hy vọng rằng việc bãi bỏ thời hiệu truy tố sẽ giúp họ tìm kiếm công lý và được công nhận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fed91535653e",
+      "title": "Apple hikes prices on some products by nearly 20% while Xbox raises console cost",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:06.130376+00:00",
+      "category": "công nghệ",
+      "importance": 3,
+      "headline": "Apple tăng giá một số sản phẩm lên gần 20%",
+      "bullets": [
+        "Tăng giá các sản phẩm của Apple",
+        "Xbox tăng giá console",
+        "Apple nói chưa từng thấy giá nguyên liệu tăng nhanh như vậy",
+        "Nhiều người dùng lo lắng về chi phí"
+      ],
+      "full_summary": "Apple vừa công bố tăng giá một số sản phẩm lên gần 20%. Điều này diễn ra trong bối cảnh giá nguyên liệu tăng cao. Apple cho biết họ chưa từng thấy mức tăng giá nguyên liệu nhanh như vậy. Trong khi đó, Xbox cũng tăng giá console của mình. Nhiều người dùng đang lo lắng về chi phí tăng cao này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f408d62093e4",
+      "title": "Google's YouTube settles social media addiction case with teen",
+      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:07.497725+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "YouTube đồng ý bồi thường vì nghiện mạng xã hội",
+      "bullets": [
+        "Đồng ý bồi thường cho một cháu bé 15 tuổi",
+        "Tranh chấp với ba công ty công nghệ khác sẽ tiếp tục",
+        "Sự việc sẽ diễn ra vào tháng tới",
+        "Là một phần của vụ kiện liên quan đến nghiện mạng xã hội"
+      ],
+      "full_summary": "Google đã đồng ý bồi thường cho một cháu bé 15 tuổi vì nghiện mạng xã hội. Vụ việc này là một phần của vụ kiện liên quan đến nghiện mạng xã hội. Cháu bé sẽ tiếp tục kiện ba công ty công nghệ khác. Sự việc sẽ diễn ra vào tháng tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "58bfe109862d",
+      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
+      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:09.358165+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Vụ bạo lực gia đình ở Kenya ngày càng nghiêm trọng",
+      "bullets": [
+        "Một vở kịch tự truyện mang tên Free Me được sản xuất để khuyến khích nạn nhân nói lên tiếng nói của mình",
+        "Vở kịch kể về một cuộc hôn nhân đầy bạo lực mà tác giả đã trải qua",
+        "Mục tiêu của vở kịch là khuyến khích nạn nhân nói lên tiếng nói của mình và chống lại bạo lực gia đình"
+      ],
+      "full_summary": "Một vở kịch tự truyện mang tên Free Me của Gathoni Kimuyu, một nhà sản xuất sân khấu và truyền hình Kenya, đã được sản xuất để khuyến khích nạn nhân nói lên tiếng nói của mình. Vở kịch kể về một cuộc hôn nhân đầy bạo lực mà tác giả đã trải qua. Mục tiêu của vở kịch là khuyến khích nạn nhân nói lên tiếng nói của mình và chống lại bạo lực gia đình đang ngày càng nghiêm trọng ở Kenya.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "36eb0f1415ba",
+      "title": "Kenyan minister orders halt to construction of US Ebola facility",
+      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:10.412256+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bộ trưởng Kenya yêu cầu ngừng xây dựng cơ sở cách ly Ebola do Mỹ quản lý",
+      "bullets": [
+        "Yêu cầu ngừng xây dựng cơ sở cách ly Ebola do Mỹ quản lý",
+        "Bộ trưởng Duale bị tòa án phạt vì không tuân thủ phán quyết trước đó",
+        "Cơ sở cách ly gây phản ứng dữ dội từ người dân Kenya",
+        "Cơ sở cách ly được xây dựng để cách ly công dân Mỹ từ Cộng hòa Dân chủ Congo"
+      ],
+      "full_summary": "Bộ trưởng Y tế Kenya, Aden Duale, đã yêu cầu ngừng xây dựng cơ sở cách ly Ebola do Mỹ quản lý sau khi bị tòa án phạt vì không tuân thủ phán quyết trước đó. Cơ sở cách ly này gây phản ứng dữ dội từ người dân Kenya, với nhiều cuộc biểu tình đã nổ ra kể từ khi công bố dự án vào tháng 5. Cơ sở cách ly này được xây dựng để cách ly công dân Mỹ từ Cộng hòa Dân chủ Congo, nơi đang đối mặt với một đại dịch Ebola rộng lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "62da1d1860a5",
+      "title": "‘Paralysed by fear’: Venezuelans tell of escape and loss after huge earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-25T19:49:11.917468+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Venezuela gặp trận động đất mạnh, ít nhất 164 người thiệt mạng",
+      "bullets": [
+        "Động đất mạnh làm sập nhiều tòa nhà ở Caracas và các thị trấn ven biển",
+        "Ít nhất 164 người thiệt mạng và nhiều người khác bị thương",
+        "Hàng trăm người phải sơ tán khỏi các tòa nhà bị hư hỏng",
+        "Cộng đồng Venezuela đang đối mặt với tình trạng khẩn cấp sau trận động đất"
+      ],
+      "full_summary": "Venezuela vừa trải qua trận động đất mạnh, làm sập nhiều tòa nhà ở Caracas và các thị trấn ven biển. Ít nhất 164 người thiệt mạng và nhiều người khác bị thương. Hàng trăm người phải sơ tán khỏi các tòa nhà bị hư hỏng. Cộng đồng Venezuela đang đối mặt với tình trạng khẩn cấp sau trận động đất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a5ab93f91593",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-25T19:49:18.670916+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một bản ghi chép Herculaneum hoàn chỉnh đã được đọc lần đầu tiên",
+      "bullets": [
+        "Một nhóm nghiên cứu đã đọc được bản ghi chép Herculaneum hoàn chỉnh lần đầu tiên",
+        "Bản ghi chép này được phát hiện vào năm 1752 và được cho là có niên đại từ thế kỷ 1 SCN",
+        "Nghiên cứu được công bố trên trang web của Scroll Prize và có thể tải về dưới dạng PDF"
+      ],
+      "full_summary": "Một nhóm nghiên cứu đã đọc được bản ghi chép Herculaneum hoàn chỉnh lần đầu tiên. Bản ghi chép này được phát hiện vào năm 1752 và được cho là có niên đại từ thế kỷ 1 SCN. Nghiên cứu được công bố trên trang web của Scroll Prize và có thể tải về dưới dạng PDF.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "52f67da55b1f",
       "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
@@ -613,185 +791,6 @@
         "Các liên hệ của bệnh nhân đang được theo dõi"
       ],
       "full_summary": "Bộ Y tế Pháp xác nhận ca Ebola đầu tiên ở một bác sĩ đã trở về từ nhiệm vụ nhân đạo tại Cộng hòa Dân chủ Congo. Bệnh nhân được chuyển đến cơ sở y tế chuyên khoa và đang ở tình trạng ổn định. Bộ Y tế cho biết các biện pháp phòng ngừa đã được thực hiện ngay từ khi bệnh nhân đến nước này, bao gồm cách ly và chuyển đến bệnh viện dưới điều kiện an toàn để ngăn chặn khả năng lây nhiễm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c682402a5cc2",
-      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
-      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T19:28:34.572826+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Anh Quốc ưu tiên quan hệ với UAE hơn ngăn chặn tội ác diệt chủng ở Sudan",
-      "bullets": [
-        "Sẽ nghe báo cáo về áp lực từ UAE ngăn cản Anh công bố thông tin về tội ác diệt chủng ở Sudan",
-        "Anh Quốc nhận được thông tin về sự ủng hộ của Ethiopia cho một nhóm quân phiệt diệt chủng từ năm 2024",
-        "Quyền lực từ UAE khiến Anh Quốc không công bố thông tin về tội ác diệt chủng ở Sudan"
-      ],
-      "full_summary": "Một ủy ban của Quốc hội Anh sẽ nghe báo cáo về việc Anh Quốc ưu tiên quan hệ với UAE hơn ngăn chặn tội ác diệt chủng ở Sudan. Theo báo cáo, Anh Quốc đã nhận được thông tin về sự ủng hộ của Ethiopia cho một nhóm quân phiệt diệt chủng ở Sudan từ năm 2024 nhưng đã không công bố thông tin này do áp lực từ UAE.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3c54f232911",
-      "title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
-      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T19:28:37.876572+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Cảnh sát Argentina làm thêm công việc lái xe taxi, có nhiều vụ giết người",
-      "bullets": [
-        "Làm thêm công việc lái xe taxi, cảnh sát Argentina dễ gặp nguy hiểm hơn",
-        "Nhiều vụ giết người liên quan đến cảnh sát làm thêm công việc lái xe taxi",
-        "Tình trạng này trở nên nghiêm trọng hơn trong thời kỳ suy thoái ở Argentina",
-        "Cảnh sát Argentina bị yêu cầu phải tuân thủ các quy định an toàn khi làm thêm công việc lái xe taxi"
-      ],
-      "full_summary": "Trong thời kỳ suy thoái ở Argentina, nhiều cảnh sát đã bắt đầu làm thêm công việc lái xe taxi để kiếm thêm thu nhập. Tuy nhiên, điều này đã dẫn đến nhiều vụ giết người liên quan đến cảnh sát làm thêm công việc lái xe taxi. Các vụ việc này đã trở nên nghiêm trọng hơn khi cảnh sát được yêu cầu phải mang súng khi làm thêm công việc lái xe taxi. Điều này đã gây ra nhiều rủi ro cho cảnh sát và người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3c7499593014",
-      "title": "White House app auto-downloads to government phones, can't be uninstalled",
-      "url": "https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-24T19:28:42.809873+00:00",
-      "category": "công nghệ",
-      "importance": 3,
-      "headline": "Ứng dụng White House tự động cài đặt trên điện thoại chính phủ, không thể gỡ bỏ",
-      "bullets": [
-        "Ứng dụng White House tự động cài đặt trên điện thoại chính phủ",
-        "Ứng dụng không thể gỡ bỏ, gây lo ngại về quyền riêng tư",
-        "Nhân viên chính phủ cho biết ứng dụng chứa thông tin tuyên truyền",
-        "Ứng dụng được cho là vi phạm chính sách bảo mật của chính phủ"
-      ],
-      "full_summary": "Ứng dụng White House đã tự động cài đặt trên điện thoại chính phủ và không thể gỡ bỏ. Điều này đã gây lo ngại về quyền riêng tư của nhân viên chính phủ. Một số nhân viên cho biết ứng dụng chứa thông tin tuyên truyền và vi phạm chính sách bảo mật của chính phủ. Ứng dụng được cho là đã được cài đặt trên hàng nghìn điện thoại chính phủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4cd2ea070f9b",
-      "title": "Power outages hit France as record heatwave set to peak",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T14:12:28.823362+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tình trạng mất điện xảy ra ở Pháp trong đợt nhiệt đới kỷ lục",
-      "bullets": [
-        "Hơn 68.000 hộ gia đình ở Brittany bị ảnh hưởng bởi mất điện",
-        "Tình trạng mất điện không thể được khôi phục hoàn toàn cho đến tối thứ Ba",
-        "Nhiệt độ cao kỷ lục đang tiếp tục tăng ở Pháp",
-        "Tình trạng mất điện gây khó khăn cho người dân và các hoạt động kinh tế"
-      ],
-      "full_summary": "Một đợt nhiệt đới kỷ lục đang ảnh hưởng đến Pháp, gây ra tình trạng mất điện ở hơn 68.000 hộ gia đình ở Brittany. Tình trạng mất điện không thể được khôi phục hoàn toàn cho đến tối thứ Ba. Nhiệt độ cao kỷ lục đang tiếp tục tăng ở Pháp, gây khó khăn cho người dân và các hoạt động kinh tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1e07fd5109c6",
-      "title": "Air conditioning creates political divide as France records hottest day",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T14:12:30.031730+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nhiệt độ cao làm Pháp cân nhắc sử dụng điều hòa nhiệt độ",
-      "bullets": [
-        "Pháp đang phải xem xét lại quan điểm truyền thống về điều hòa nhiệt độ",
-        "Nhiệt độ cao đang gây ra sự chia rẽ chính trị trong nước",
-        "Sự thay đổi khí hậu đang ảnh hưởng đến cuộc sống hàng ngày",
-        "Pháp đang tìm kiếm giải pháp để giảm thiểu tác động của nhiệt độ cao"
-      ],
-      "full_summary": "Pháp đang phải đối mặt với một trong những ngày nóng nhất trong lịch sử, với nhiệt độ lên đến 45 độ C. Điều này đã gây ra sự chia rẽ chính trị trong nước, với một số người kêu gọi sử dụng điều hòa nhiệt độ để giảm thiểu tác động của nhiệt độ cao. Tuy nhiên, một số người khác lại phản đối việc sử dụng điều hòa nhiệt độ, cho rằng nó sẽ tiêu tốn nhiều năng lượng và gây ra tác động tiêu cực đến môi trường. Pháp đang tìm kiếm giải pháp để giảm thiểu tác động của nhiệt độ cao và bảo vệ môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cbc499d4b199",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T14:12:31.043398+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "IAEA sẽ kiểm tra các địa điểm ở Iran theo thỏa thuận chiến tranh",
-      "bullets": [
-        "IAEA đang chuẩn bị kiểm tra các địa điểm ở Iran",
-        "Iran chỉ cho phép IAEA truy cập vào các địa điểm này nếu có thỏa thuận cuối cùng với Mỹ",
-        "Rafael Grossi cho biết IAEA đang thảo luận về các điều kiện cho phép",
-        "Iran và IAEA đang thảo luận về việc kiểm tra các địa điểm này"
-      ],
-      "full_summary": "Rafael Grossi, Tổng giám đốc IAEA, cho biết IAEA đang chuẩn bị kiểm tra các địa điểm ở Iran theo thỏa thuận chiến tranh. Tuy nhiên, Bộ trưởng Iran nói rằng Iran chỉ cho phép IAEA truy cập vào các địa điểm này nếu có thỏa thuận cuối cùng với Mỹ. IAEA đang thảo luận về các điều kiện cho phép và Iran cũng đang thảo luận về việc kiểm tra các địa điểm này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bdfab579cd29",
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T14:12:31.952593+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ukraine tấn công Sevastopol khiến thành phố mất điện hoàn toàn",
-      "bullets": [
-        "Ukraine tiến hành tấn công Sevastopol",
-        "Thành phố mất điện hoàn toàn",
-        "Thống đốc Sevastopol cảnh báo mất điện kéo dài",
-        "Không có điện ở một số khu vực cho đến tối nay"
-      ],
-      "full_summary": "Ukraine đã tiến hành tấn công Sevastopol, thành phố lớn nhất ở Crimea. Thống đốc Sevastopol đã cảnh báo rằng một số khu vực sẽ không có điện cho đến tối nay. Mất điện đã ảnh hưởng đến cuộc sống hàng ngày của người dân. Sự cố này đã gây ra lo lắng về tình hình an ninh ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bedf801c2ba",
-      "title": "France confirms first Ebola case",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T14:12:32.889513+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Phát hiện ca Ebola đầu tiên tại Pháp",
-      "bullets": [
-        "Xác nhận ca Ebola đầu tiên tại Pháp",
-        "Hơn 260 người tử vong tại Cộng hòa Dân chủ Congo",
-        "Dịch bệnh đang lan rộng tại khu vực",
-        "Nghiên cứu và điều trị đang được tiến hành"
-      ],
-      "full_summary": "Pháp vừa xác nhận ca Ebola đầu tiên. Đây là một trường hợp nghiêm trọng, trong bối cảnh dịch bệnh đang lan rộng tại Cộng hòa Dân chủ Congo, nơi đã có hơn 260 người tử vong. Các nhà chức trách đang tiến hành nghiên cứu và điều trị để ngăn chặn sự lây lan của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "890471a24c8f",
-      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T14:12:33.914103+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ công dân Pháp bị chồng giam giữ 12 năm tại Pakistan",
-      "bullets": [
-        "Bị giam giữ cùng 5 đứa con",
-        "Bị cắt đứt khỏi thế giới bên ngoài",
-        "Được giải cứu sau khi bị giam giữ 12 năm",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một phụ nữ Pháp tên Yasmina bị chồng giam giữ 12 năm tại Pakistan cùng với 5 đứa con. Cô và con cái bị cắt đứt khỏi thế giới bên ngoài và không thể liên lạc với bên ngoài. Vụ việc được tiết lộ và Yasmina đã được giải cứu. Vụ việc đang được điều tra.",
       "comments": 0,
       "score": 0
     }
