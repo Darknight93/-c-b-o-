@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-06-26T14:09:58.720571+00:00",
+  "updated_at": "2026-06-26T19:39:31.430899+00:00",
   "articles": [
+    {
+      "id": "37403164cd66",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T19:39:16.675056+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Mẹ hy sinh để cứu con gái trong trận động đất Venezuela",
+      "bullets": [
+        "Động đất ở Venezuela khiến ít nhất 920 người thiệt mạng",
+        "Một người mẹ đã hy sinh để cứu con gái trong trận động đất",
+        "Héctor Bello chia sẻ trên mạng xã hội về hành động của mẹ",
+        "Trận động đất đã gây ra thiệt hại nghiêm trọng ở Venezuela"
+      ],
+      "full_summary": "Một trận động đất đã xảy ra ở Venezuela, khiến ít nhất 920 người thiệt mạng. Một người mẹ đã hy sinh để cứu con gái trong trận động đất. Héctor Bello đã chia sẻ trên mạng xã hội về hành động của mẹ, nói rằng 'bạn đã hy sinh để cứu con gái của chúng tôi'. Trận động đất đã gây ra thiệt hại nghiêm trọng ở Venezuela.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b6172821e2d9",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T19:39:17.833290+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Congo kiện Rwanda trước Tòa án Quốc tế về xung đột kéo dài",
+      "bullets": [
+        "Congo cáo buộc Rwanda vi phạm nhân quyền trong nhiều thập kỷ",
+        "Rwanda bị cáo buộc liên quan đến xung đột ở Congo kể từ sau thảm họa diệt chủng năm 1994",
+        "Tòa án Quốc tế sẽ xem xét các cáo buộc của Congo",
+        "Congo hy vọng Tòa án Quốc tế sẽ đưa ra phán quyết công bằng"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo (Congo) đã kiện Rwanda trước Tòa án Quốc tế về các vi phạm nhân quyền kéo dài trong nhiều thập kỷ. Congo cáo buộc Rwanda liên quan đến xung đột ở Congo kể từ sau thảm họa diệt chủng năm 1994. Rwanda bị cáo buộc vi phạm nhân quyền và gây ra thiệt hại cho người dân Congo. Tòa án Quốc tế sẽ xem xét các cáo buộc của Congo và đưa ra phán quyết công bằng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "41afd7ed6d92",
+      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T19:39:18.736707+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Trump cáo buộc Iran vi phạm thỏa thuận ngừng bắn",
+      "bullets": [
+        "Tổng thống Trump cáo buộc Iran vi phạm thỏa thuận ngừng bắn",
+        "Một tàu Singapore bị tấn công trong eo biển Hormuz",
+        "Tàu bị tấn công đã phải dừng việc sơ tán",
+        "Tình hình đang được theo dõi chặt chẽ"
+      ],
+      "full_summary": "Tổng thống Trump cáo buộc Iran vi phạm thỏa thuận ngừng bắn sau khi một tàu Singapore bị tấn công trong eo biển Hormuz. Tàu bị tấn công đã phải dừng việc sơ tán, khiến tình hình trở nên nghiêm trọng hơn. Các quan chức đang theo dõi tình hình chặt chẽ và đang tìm kiếm thông tin về vụ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1adf787c1375",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T19:39:19.861467+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "John Bolton thú tội vi phạm bí mật quốc gia",
+      "bullets": [
+        "Bolton thú tội vi phạm bí mật quốc gia",
+        "Bolton phải chịu phạt tù tối đa 5 năm",
+        "Bolton phải bồi thường 2,25 triệu USD"
+      ],
+      "full_summary": "John Bolton, cố vấn của cựu Tổng thống Mỹ Donald Trump, đã thú tội vi phạm bí mật quốc gia. Ông Bolton đã đồng ý chịu phạt tù tối đa 5 năm và phải bồi thường 2,25 triệu USD. Điều này là kết quả của một thỏa thuận với các nhà điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b13c992a65b9",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T19:39:20.805455+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bốn người bị giam giữ vì cưới vợ quá trẻ ở Sierra Leone",
+      "bullets": [
+        "Tứ người bị cáo buộc tổ chức hôn nhân trẻ em ở Sierra Leone",
+        "Một cô gái 17 tuổi là nạn nhân của vụ việc",
+        "Bốn người này có thể phải ngồi tù nhiều năm nếu bị kết tội",
+        "Vụ việc đang được xét xử tại một tòa án lịch sử"
+      ],
+      "full_summary": "Một vụ án lịch sử đang được xét xử ở Sierra Leone liên quan đến việc cưới vợ quá trẻ. Bốn người, bao gồm cả cha và chồng của cô gái 17 tuổi, bị cáo buộc tổ chức hôn nhân trẻ em. Nếu bị kết tội, họ có thể phải ngồi tù nhiều năm. Vụ việc đang thu hút sự chú ý của dư luận và được coi là một bước tiến quan trọng trong việc ngăn chặn hôn nhân trẻ em.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c092722785d",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T19:39:21.914399+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
+      "bullets": [
+        "Rockstar đang phát triển GTA 6, trò chơi điện tử lớn nhất năm nay",
+        "GTA 6 sẽ là trò chơi điện tử thứ sáu trong franchise của Rockstar",
+        "Thông tin về trò chơi điện tử vẫn còn hạn chế, nhưng đang được chờ đợi",
+        "Rockstar đã phát hành nhiều trò chơi điện tử thành công trong quá khứ"
+      ],
+      "full_summary": "Rockstar đang phát triển GTA 6, trò chơi điện tử lớn nhất năm nay. Thông tin về trò chơi điện tử vẫn còn hạn chế, nhưng đang được chờ đợi. Rockstar đã phát hành nhiều trò chơi điện tử thành công trong quá khứ, bao gồm Grand Theft Auto V và Red Dead Redemption 2. GTA 6 sẽ là trò chơi điện tử thứ sáu trong franchise của Rockstar.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "62eae44735e8",
+      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T19:39:23.019018+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Congo có gần 300 người nhiễm Ebola không rõ địa chỉ",
+      "bullets": [
+        "Nhiều người nhiễm Ebola không được theo dõi",
+        "Hơn 1 triệu người sống trong trại tị nạn mà y tế không thể tiếp cận",
+        "Số người tử vong dự kiến lên tới hàng nghìn vào tháng 9",
+        "Tình trạng lây lan cộng đồng Ebola có nguy cơ rất lớn"
+      ],
+      "full_summary": "Tại Cộng hòa Dân chủ Congo, gần 300 người nhiễm Ebola không được theo dõi. Sự khủng hoảng nhân đạo trong khu vực xung đột khiến hơn 1 triệu người sống trong trại tị nạn mà y tế không thể tiếp cận. Theo dự đoán, số người tử vong do Ebola có thể lên tới hàng nghìn vào tháng 9. Tình trạng lây lan cộng đồng Ebola có nguy cơ rất lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "678f1ddce3b9",
+      "title": "VW may close four factories to adapt to the future, report says",
+      "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-26T19:39:28.012917+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Volkswagen có thể đóng 4 nhà máy để thích nghi với tương lai",
+      "bullets": [
+        "Đóng cửa 4 nhà máy để giảm chi phí sản xuất",
+        "Tái cấu trúc để thích nghi với thị trường thay đổi",
+        "Falling doanh số ở Mỹ và đặc biệt là Trung Quốc",
+        "Cải thiện hiệu suất và tăng cường cạnh tranh"
+      ],
+      "full_summary": "Theo báo cáo, Volkswagen Group đang xem xét việc đóng cửa 4 nhà máy để giảm chi phí sản xuất và thích nghi với thị trường thay đổi. Doanh số của hãng đang giảm ở Mỹ và đặc biệt là Trung Quốc. Việc tái cấu trúc này sẽ giúp Volkswagen cải thiện hiệu suất và tăng cường cạnh tranh trên thị trường toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "4f05b9c4e14b",
       "title": "Aerial footage reveals destruction in coastal Venezuela",
@@ -635,164 +794,6 @@
         "Mục tiêu của vở kịch là khuyến khích nạn nhân nói lên tiếng nói của mình và chống lại bạo lực gia đình"
       ],
       "full_summary": "Một vở kịch tự truyện mang tên Free Me của Gathoni Kimuyu, một nhà sản xuất sân khấu và truyền hình Kenya, đã được sản xuất để khuyến khích nạn nhân nói lên tiếng nói của mình. Vở kịch kể về một cuộc hôn nhân đầy bạo lực mà tác giả đã trải qua. Mục tiêu của vở kịch là khuyến khích nạn nhân nói lên tiếng nói của mình và chống lại bạo lực gia đình đang ngày càng nghiêm trọng ở Kenya.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "36eb0f1415ba",
-      "title": "Kenyan minister orders halt to construction of US Ebola facility",
-      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:10.412256+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bộ trưởng Kenya yêu cầu ngừng xây dựng cơ sở cách ly Ebola do Mỹ quản lý",
-      "bullets": [
-        "Yêu cầu ngừng xây dựng cơ sở cách ly Ebola do Mỹ quản lý",
-        "Bộ trưởng Duale bị tòa án phạt vì không tuân thủ phán quyết trước đó",
-        "Cơ sở cách ly gây phản ứng dữ dội từ người dân Kenya",
-        "Cơ sở cách ly được xây dựng để cách ly công dân Mỹ từ Cộng hòa Dân chủ Congo"
-      ],
-      "full_summary": "Bộ trưởng Y tế Kenya, Aden Duale, đã yêu cầu ngừng xây dựng cơ sở cách ly Ebola do Mỹ quản lý sau khi bị tòa án phạt vì không tuân thủ phán quyết trước đó. Cơ sở cách ly này gây phản ứng dữ dội từ người dân Kenya, với nhiều cuộc biểu tình đã nổ ra kể từ khi công bố dự án vào tháng 5. Cơ sở cách ly này được xây dựng để cách ly công dân Mỹ từ Cộng hòa Dân chủ Congo, nơi đang đối mặt với một đại dịch Ebola rộng lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "62da1d1860a5",
-      "title": "‘Paralysed by fear’: Venezuelans tell of escape and loss after huge earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:11.917468+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Venezuela gặp trận động đất mạnh, ít nhất 164 người thiệt mạng",
-      "bullets": [
-        "Động đất mạnh làm sập nhiều tòa nhà ở Caracas và các thị trấn ven biển",
-        "Ít nhất 164 người thiệt mạng và nhiều người khác bị thương",
-        "Hàng trăm người phải sơ tán khỏi các tòa nhà bị hư hỏng",
-        "Cộng đồng Venezuela đang đối mặt với tình trạng khẩn cấp sau trận động đất"
-      ],
-      "full_summary": "Venezuela vừa trải qua trận động đất mạnh, làm sập nhiều tòa nhà ở Caracas và các thị trấn ven biển. Ít nhất 164 người thiệt mạng và nhiều người khác bị thương. Hàng trăm người phải sơ tán khỏi các tòa nhà bị hư hỏng. Cộng đồng Venezuela đang đối mặt với tình trạng khẩn cấp sau trận động đất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a5ab93f91593",
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-25T19:49:18.670916+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Một bản ghi chép Herculaneum hoàn chỉnh đã được đọc lần đầu tiên",
-      "bullets": [
-        "Một nhóm nghiên cứu đã đọc được bản ghi chép Herculaneum hoàn chỉnh lần đầu tiên",
-        "Bản ghi chép này được phát hiện vào năm 1752 và được cho là có niên đại từ thế kỷ 1 SCN",
-        "Nghiên cứu được công bố trên trang web của Scroll Prize và có thể tải về dưới dạng PDF"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã đọc được bản ghi chép Herculaneum hoàn chỉnh lần đầu tiên. Bản ghi chép này được phát hiện vào năm 1752 và được cho là có niên đại từ thế kỷ 1 SCN. Nghiên cứu được công bố trên trang web của Scroll Prize và có thể tải về dưới dạng PDF.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "52f67da55b1f",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T14:10:30.752023+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Venezuela bị ảnh hưởng nặng nề bởi trận động đất",
-      "bullets": [
-        "Động đất xảy ra gần 6 tháng sau khi Nicolás Maduro bị lực lượng Mỹ bắt giữ",
-        "Twin trận động đất gây thiệt hại lớn cho Venezuela",
-        "Venezuela đang trải qua thời kỳ bất ổn và khó khăn",
-        "Động đất làm tăng thêm khó khăn cho nền kinh tế Venezuela"
-      ],
-      "full_summary": "Venezuela vừa trải qua trận động đất mạnh, gây thiệt hại lớn cho đất nước. Đây là một cú đánh nặng nề cho Venezuela, đang trải qua thời kỳ bất ổn và khó khăn. Trận động đất xảy ra gần 6 tháng sau khi Nicolás Maduro bị lực lượng Mỹ bắt giữ. Venezuela đang phải đối mặt với nhiều thách thức, bao gồm tình trạng kinh tế khó khăn và thiếu thốn nguồn cung cấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a759bbe57704",
-      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T14:10:31.711326+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nhiệt độ cao ảnh hưởng đến Đông Âu",
-      "bullets": [
-        "Nhiệt độ ở Đức có thể lên tới 40 độ C",
-        "Số người chết liên quan đến nhiệt độ đang tăng",
-        "Các quan chức Pháp báo cáo các trường hợp tử vong ở người trẻ",
-        "Cảnh báo sức khỏe ở Pháp được nâng lên mức cao nhất"
-      ],
-      "full_summary": "Một cơn sóng nhiệt đang lan rộng đến Đông Âu, với nhiệt độ ở Đức có thể lên tới 40 độ C. Các quan chức Pháp báo cáo các trường hợp tử vong liên quan đến nhiệt độ, bao gồm cả trẻ em. Cảnh báo sức khỏe ở Pháp đã được nâng lên mức cao nhất để cảnh báo người dân về nguy cơ sức khỏe.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0974b985563e",
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T14:10:32.617836+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Một quan chức bị bắt trong scandal tham nhũng cảnh sát Nam Phi thú nhận tội lỗi",
-      "bullets": [
-        "Matlala thú nhận tội tham nhũng cảnh sát",
-        "Matlala có thể cung cấp bằng chứng chống lại các quan chức cao cấp",
-        "Sự việc liên quan đến scandal tham nhũng cảnh sát Nam Phi",
-        "Matlala bị bắt vì tội tham nhũng"
-      ],
-      "full_summary": "Vusimusi 'Cat' Matlala, một quan chức bị bắt trong scandal tham nhũng cảnh sát Nam Phi, đã thú nhận tội lỗi. Theo các quan chức, Matlala có thể cung cấp bằng chứng chống lại các quan chức cao cấp. Sự việc liên quan đến scandal tham nhũng cảnh sát Nam Phi, một trong những vụ tham nhũng lớn nhất ở Nam Phi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e65e300e7db",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T14:10:33.572476+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Giá xăng giảm trở lại mức trước chiến tranh Iran",
-      "bullets": [
-        "Giá dầu giảm trở lại sau khi giao thông qua eo biển Hormuz dần trở lại",
-        "Chính sách của Mỹ đối với Iran không còn ảnh hưởng mạnh đến giá dầu",
-        "Tình hình ổn định hơn ở eo biển Hormuz giúp giảm căng thẳng trên thị trường dầu mỏ"
-      ],
-      "full_summary": "Giá dầu đã giảm trở lại mức trước chiến tranh Iran sau khi giao thông qua eo biển Hormuz dần trở lại. Điều này cho thấy rằng chính sách của Mỹ đối với Iran không còn ảnh hưởng mạnh đến giá dầu. Tình hình ổn định hơn ở eo biển Hormuz giúp giảm căng thẳng trên thị trường dầu mỏ, từ đó giá dầu giảm trở lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d31003e995c2",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T14:10:34.559260+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "IBM tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
-      "bullets": [
-        "Tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
-        "Sẽ mất thời gian trước khi sẵn sàng cho sản xuất",
-        "Công nghệ này có thể mở ra tương lai của công nghệ điện tử",
-        "IBM đạt được thành tựu này sau nhiều năm nghiên cứu"
-      ],
-      "full_summary": "IBM vừa công bố thành tựu mới trong lĩnh vực công nghệ chip, khi họ tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet. Đây là bước tiến quan trọng trong lĩnh vực công nghệ điện tử, nhưng công nghệ này sẽ mất thời gian trước khi sẵn sàng cho sản xuất. IBM đã đạt được thành tựu này sau nhiều năm nghiên cứu và thử nghiệm.",
       "comments": 0,
       "score": 0
     }
