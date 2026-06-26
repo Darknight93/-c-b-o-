@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-06-25T19:49:19.751243+00:00",
+  "updated_at": "2026-06-26T02:41:43.591509+00:00",
   "articles": [
+    {
+      "id": "451bb4dfafd7",
+      "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+      "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:28.399383+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất Venezuela giết ít nhất 235 người, hàng trăm người bị thương",
+      "bullets": [
+        "Động đất mạnh 7,0 độ xảy ra tại Venezuela",
+        "Hàng trăm người bị thương, ít nhất 235 người thiệt mạng",
+        "Cứu hộ đang tìm kiếm người sống sót trong đống đổ nát",
+        "Hàng ngàn người phải sơ tán khỏi khu vực bị ảnh hưởng"
+      ],
+      "full_summary": "Động đất mạnh 7,0 độ xảy ra tại Venezuela, giết ít nhất 235 người và làm hàng trăm người bị thương. Cứu hộ đang tìm kiếm người sống sót trong đống đổ nát. Hàng ngàn người phải sơ tán khỏi khu vực bị ảnh hưởng. Đây là một trong những thảm họa tự nhiên nghiêm trọng nhất xảy ra tại Venezuela trong nhiều năm qua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1b44ae918212",
+      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:29.421612+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hoa Kỳ cho phép trục xuất hàng trăm nghìn người nhập cư Haiti và Syria",
+      "bullets": [
+        "Cho phép chính quyền Trump kết thúc tình trạng được bảo vệ cho người nhập cư Haiti và Syria",
+        "Hàng trăm nghìn người nhập cư có thể bị trục xuất khỏi Hoa Kỳ",
+        "Tình trạng được bảo vệ đã được áp dụng từ năm 2010",
+        "Quyết định này có thể gây ra nhiều tranh cãi"
+      ],
+      "full_summary": "Hôm nay, Tòa án Tối cao Hoa Kỳ đã cho phép chính quyền Trump kết thúc tình trạng được bảo vệ cho người nhập cư Haiti và Syria. Điều này có nghĩa là hàng trăm nghìn người nhập cư có thể bị trục xuất khỏi Hoa Kỳ. Tình trạng được bảo vệ đã được áp dụng từ năm 2010 sau các cuộc khủng hoảng Haiti và Syria. Quyết định này có thể gây ra nhiều tranh cãi và ảnh hưởng đến cuộc sống của nhiều người nhập cư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ddc51fb6888",
+      "title": "Teens who hacked TfL were known to police years before cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:30.309525+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
+      "bullets": [
+        "Bị kết án vì tấn công mạng vào TfL",
+        "Đã biết đến cảnh sát nhiều năm trước khi xảy ra vụ tấn công",
+        "Tấn công mạng gây thiệt hại lớn cho Transport for London",
+        "Owen Flowers và Thalha Jubair là hai người bị kết án"
+      ],
+      "full_summary": "Hai thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì vai trò của họ trong vụ tấn công mạng vào Transport for London (TfL). Vụ tấn công này đã gây thiệt hại lớn cho TfL. Theo báo cáo, cả hai thanh niên đã được cảnh sát biết đến nhiều năm trước khi xảy ra vụ tấn công. Owen Flowers và Thalha Jubair đã bị kết án vì tội tấn công mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e3ee1de2035b",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:31.255537+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 3,
+      "headline": "Công nghệ địa nhiệt đang được phát triển để giảm chi phí năng lượng",
+      "bullets": [
+        "Tìm ra các phương pháp mới để khai thác năng lượng địa nhiệt hiệu quả hơn",
+        "Các công ty khởi nghiệp đang áp dụng các công nghệ mới để giảm chi phí sản xuất",
+        "Năng lượng địa nhiệt có thể trở thành nguồn năng lượng sạch và bền vững",
+        "Tuy nhiên, vẫn còn nhiều thách thức cần giải quyết để phát triển công nghệ này"
+      ],
+      "full_summary": "Các công ty khởi nghiệp đang tìm cách khai thác năng lượng địa nhiệt một cách hiệu quả hơn. Họ đang áp dụng các công nghệ mới để giảm chi phí sản xuất và tăng cường năng lượng sạch. Tuy nhiên, vẫn còn nhiều thách thức cần giải quyết để phát triển công nghệ này. Nếu thành công, năng lượng địa nhiệt có thể trở thành nguồn năng lượng bền vững và sạch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9ad193e33b5",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:32.329424+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạ viện Zimbabwe thông qua sửa đổi hiến pháp để cho phép Mnangagwa ở lại chức",
+      "bullets": [
+        "Chính phủ Zimbabwe thông qua sửa đổi hiến pháp",
+        "Sửa đổi cho phép Tổng thống Emmerson Mnangagwa ở lại chức đến năm 2030",
+        "Hạ viện Zimbabwe bỏ phiếu 75-4 ủng hộ sửa đổi hiến pháp",
+        "Tổng thống Mnangagwa được cho phép ở lại chức thêm 2 năm"
+      ],
+      "full_summary": "Hạ viện Zimbabwe đã thông qua sửa đổi hiến pháp để cho phép Tổng thống Emmerson Mnangagwa ở lại chức đến năm 2030. Sửa đổi này cho phép Tổng thống ở lại chức thêm 2 năm, từ 5 năm trở thành 7 năm. Điều này đã gây ra lo ngại rằng Tổng thống sẽ càng nắm giữ quyền lực nhiều hơn. Chính phủ Zimbabwe cho rằng sửa đổi này sẽ mang lại sự ổn định, nhưng đối thủ đã gọi đây là 'coup hiến pháp'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c682402a5cc2",
+      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:33.607851+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Anh Quốc ưu tiên quan hệ với UAE hơn việc ngăn chặn thảm họa diệt chủng ở Sudan",
+      "bullets": [
+        "Sẽ có bằng chứng về áp lực từ UAE khiến Anh Quốc không công bố thông tin về thảm họa diệt chủng ở Sudan",
+        "Chính phủ Anh đã nhận được thông tin về sự hỗ trợ của Ethiopia cho một lực lượng dân quân diệt chủng từ năm 2024",
+        "Tổ chức Ngoại giao và Phát triển Quốc tế Anh Quốc đã từ chối công bố thông tin này",
+        "Bà Nathaniel Raymond sẽ trình bày trước Ủy ban Chọn lọc Quốc hội Anh Quốc"
+      ],
+      "full_summary": "Theo The Guardian World, chính phủ Anh Quốc đã ưu tiên quan hệ với Các Tiểu vương quốc Ả Rập Thống nhất (UAE) hơn việc ngăn chặn thảm họa diệt chủng ở Sudan. Theo thông tin từ năm 2024, Ethiopia đã hỗ trợ một lực lượng dân quân diệt chủng ở Sudan, nhưng chính phủ Anh Quốc đã từ chối công bố thông tin này do áp lực từ UAE. Bà Nathaniel Raymond, một nhà điều tra nhân quyền tại Đại học Yale, sẽ trình bày trước Ủy ban Chọn lọc Quốc hội Anh Quốc về vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4f9fbafdc8e2",
+      "title": "Rescue teams race to Venezuela amid fears thousands killed in earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:34.882486+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Cơn địa chấn mạnh 7,2 độ làm thiệt hại nặng ở Venezuela",
+      "bullets": [
+        "Cứu hộ đang vội vàng đến Venezuela sau cơn địa chấn",
+        "Hàng chục tòa nhà bị sập, ít nhất 235 người thiệt mạng",
+        "Số người chết có thể lên tới hàng nghìn",
+        "Hỗ trợ từ Mỹ và các quốc gia khác đang được triển khai"
+      ],
+      "full_summary": "Cơn địa chấn mạnh 7,2 độ và 7,5 độ đã xảy ra gần như đồng thời, làm hàng chục tòa nhà bị sập ở bờ biển phía bắc Venezuela. Số người thiệt mạng đã lên tới 235, nhưng số người chết có thể lên tới hàng nghìn. Cứu hộ đang vội vàng đến hiện trường để tìm kiếm những người sống sót. Mỹ và các quốc gia khác đang triển khai hỗ trợ tìm kiếm và cứu hộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2627fd5e3f6d",
+      "title": "Experts say three recent powerful earthquakes are not related",
+      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-26T02:41:35.791261+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ba trận động đất mạnh không liên quan đến nhau",
+      "bullets": [
+        "Giai đoạn 8 giờ, 3 trận động đất mạnh xảy ra ở California, Nhật Bản và Venezuela",
+        "Động đất ở California có cường độ 5,6, ở Nhật Bản có cường độ 7,2",
+        "Hai trận động đất ở Venezuela gây thiệt hại nặng nề"
+      ],
+      "full_summary": "Một trận động đất mạnh cường độ 5,6 đã xảy ra ở khu vực nông thôn phía bắc California vào thứ Ba. Chỉ vài giờ sau, một trận động đất mạnh cường độ 7,2 đã xảy ra ở bờ biển phía bắc Nhật Bản và hai trận động đất mạnh đã xảy ra ở Venezuela, gây thiệt hại nặng nề. Các trận động đất này đã xảy ra trong vòng 8 giờ, khiến người ta đồn đoán liệu chúng có liên quan đến nhau hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f92d4300e7b",
+      "title": "Planet orbits so close to its star that their magnetic fields connect",
+      "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-26T02:41:39.671986+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Trái đất gần sao đến mức trường từ của chúng liên kết",
+      "bullets": [
+        "Bị ảnh hưởng bởi trường từ của sao",
+        "Chromosphere của sao phát sáng khi ở vị trí nhất định",
+        "Quỹ đạo của hành tinh và chu kỳ sao ảnh hưởng đến hiện tượng này",
+        "Tìm hiểu về hiện tượng này giúp hiểu thêm về hệ thống sao"
+      ],
+      "full_summary": "Một nghiên cứu mới chỉ ra rằng một hành tinh có quỹ đạo rất gần sao của nó đến mức trường từ của cả hai liên kết. Hiện tượng này xảy ra khi sao ở giai đoạn nhất định trong chu kỳ của nó. Khi đó, chromosphere của sao phát sáng. Quỹ đạo của hành tinh và chu kỳ sao đều ảnh hưởng đến hiện tượng này. Điều này giúp các nhà khoa học hiểu thêm về hệ thống sao và cách chúng hoạt động.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "5961769e6f04",
       "title": "People flee as building collapses on Caracas outskirts",
@@ -612,185 +791,6 @@
         "Cảnh hoảng loạn tại sân bay Maiquetía"
       ],
       "full_summary": "Venezuela đã bị hai cơn động đất mạnh đánh sập, gây thiệt hại lớn tại sân bay quốc tế và khiến nhiều tòa nhà sập xuống. Các cơn động đất mạnh đã xảy ra liên tiếp và được cảm nhận ở nhiều nơi trên đất nước. Cảnh hoảng loạn đã xảy ra tại sân bay Maiquetía khi hành khách chạy tìm nơi an toàn trước các mảnh vỡ rơi xuống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "60564004eedb",
-      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-25T02:38:22.061737+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Grand Theft Auto VI có giá cao hơn các trò chơi AAA khác",
-      "bullets": [
-        "Sẽ có giá 80 USD mà không có đĩa vật lý",
-        "Có thể trở thành ngoại lệ trong thị trường trò chơi điện tử",
-        "Giá cao hơn so với các trò chơi AAA khác",
-        "Còn nhiều thông tin chưa được công bố"
-      ],
-      "full_summary": "Grand Theft Auto VI sắp được phát hành và có giá 80 USD mà không có đĩa vật lý. Điều này có thể khiến trò chơi trở thành ngoại lệ trong thị trường trò chơi điện tử. Giá cao hơn so với các trò chơi AAA khác, nhưng vẫn chưa rõ lý do tại sao. Còn nhiều thông tin chưa được công bố về trò chơi này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f057e7c45f5b",
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-25T02:38:23.050856+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "OpenAI và Broadcom hợp tác phát triển chip xử lý LLM",
-      "bullets": [
-        "Xây dựng chip xử lý LLM với khả năng mở rộng lớn",
-        "Giải quyết vấn đề thiếu hụt chip trong ngành công nghệ",
-        "Tăng cường hiệu suất và tốc độ xử lý cho các mô hình LLM",
-        "Phát triển công nghệ để đáp ứng nhu cầu ngày càng tăng"
-      ],
-      "full_summary": "OpenAI và Broadcom vừa công bố hợp tác phát triển chip xử lý cho các mô hình LLM (Large Language Model) với khả năng mở rộng lớn. Mục tiêu của dự án này là giải quyết vấn đề thiếu hụt chip trong ngành công nghệ và tăng cường hiệu suất, tốc độ xử lý cho các mô hình LLM. Dự án này sẽ giúp đáp ứng nhu cầu ngày càng tăng của các công ty công nghệ trong việc triển khai các mô hình LLM.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f59335d5cdd0",
-      "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-      "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-25T02:38:24.706555+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mỹ kết thúc phản ứng với dịch hantavirus mà không có câu trả lời về cách ly nghiêm ngặt",
-      "bullets": [
-        "Mỹ đã kết thúc phản ứng với dịch hantavirus mà không có câu trả lời về việc cách ly nghiêm ngặt",
-        "Các chuyên gia y tế vẫn chưa hiểu lý do tại sao RFK Jr. đã lật ngược quyết định của CDC",
-        "Quyết định cách ly nghiêm ngặt đã gây ra nhiều tranh cãi và lo ngại về quyền tự do của công dân",
-        "Mỹ vẫn chưa có câu trả lời về cách giải quyết các vấn đề liên quan đến dịch hantavirus"
-      ],
-      "full_summary": "Mỹ đã kết thúc phản ứng với dịch hantavirus nhưng vẫn chưa có câu trả lời về việc cách ly nghiêm ngặt. Các chuyên gia y tế vẫn chưa hiểu lý do tại sao RFK Jr. đã lật ngược quyết định của CDC. Quyết định cách ly nghiêm ngặt đã gây ra nhiều tranh cãi và lo ngại về quyền tự do của công dân. Mỹ vẫn chưa có câu trả lời về cách giải quyết các vấn đề liên quan đến dịch hantavirus.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e0b014c8f5d3",
-      "title": "Ending All Respiratory Infections",
-      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-25T02:38:29.642903+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Hệ thống phòng ngừa nhiễm trùng hô hấp toàn diện đang được phát triển",
-      "bullets": [
-        "Tìm ra nguyên nhân gây nhiễm trùng hô hấp để ngăn chặn",
-        "Phát triển vắc-xin hiệu quả để bảo vệ sức khỏe",
-        "Tăng cường hệ thống y tế để điều trị nhiễm trùng hô hấp"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đang phát triển hệ thống phòng ngừa nhiễm trùng hô hấp toàn diện. Họ tìm ra nguyên nhân gây nhiễm trùng hô hấp để ngăn chặn và phát triển vắc-xin hiệu quả để bảo vệ sức khỏe. Hệ thống y tế cũng được tăng cường để điều trị nhiễm trùng hô hấp. Mục tiêu cuối cùng là chấm dứt nhiễm trùng hô hấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "70518f22e529",
-      "title": "Colombia's left-wing presidential candidate concedes defeat",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T19:28:29.216198+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Cựu ứng cử viên tổng thống Colombia từ bỏ hy vọng",
-      "bullets": [
-        "Cựu ứng cử viên tổng thống Colombia Iván Cepeda từ bỏ hy vọng thắng cử",
-        "Abelardo de la Espriella thắng cử với số phiếu nhỏ hơn 1%",
-        "Cepeda là ứng cử viên cánh tả thất bại trong cuộc bầu cử tổng thống",
-        "De la Espriella là doanh nhân cánh hữu mới trở thành tổng thống"
-      ],
-      "full_summary": "Ứng cử viên tổng thống cánh tả Colombia Iván Cepeda đã từ bỏ hy vọng thắng cử sau khi thua cuộc bầu cử tổng thống. Cepeda thua doanh nhân cánh hữu Abelardo de la Espriella với số phiếu nhỏ hơn 1%. Đây là thất bại lớn của cánh tả trong cuộc bầu cử tổng thống Colombia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d23e195aac1c",
-      "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
-      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T19:28:30.179673+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Microsoft bị nghi ngờ về tuyên bố về máy tính lượng tử",
-      "bullets": [
-        "Nghi ngờ về nghiên cứu máy tính lượng tử của Microsoft",
-        "Các chuyên gia vẫn đặt câu hỏi về tính xác thực của công nghệ",
-        "Công ty vẫn khẳng định nghiên cứu của mình là chính xác",
-        "Sự nghi ngờ vẫn tiếp tục diễn ra"
-      ],
-      "full_summary": "Một nhà khoa học đã công bố những nghi ngờ mới về tuyên bố của Microsoft về máy tính lượng tử. Công ty đã liên tục khẳng định nghiên cứu của mình về chip Majorana, bất chấp sự hoài nghi từ một số chuyên gia trong lĩnh vực này. Các chuyên gia vẫn đặt câu hỏi về tính xác thực của công nghệ này. Sự nghi ngờ vẫn tiếp tục diễn ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d9b9735ccf7f",
-      "title": "GTA 6 will cost $80 - and physical edition will not contain a disc",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T19:28:31.153367+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "GTA 6 sẽ có giá 80 USD, phiên bản vật lý không có đĩa",
-      "bullets": [
-        "Rockstar công bố giá GTA 6 là 80 USD",
-        "Phiên bản vật lý không chứa đĩa, chỉ có mã download",
-        "Người dùng sẽ nhận mã download để chơi game",
-        "Thông tin chi tiết về game sẽ được công bố sau này"
-      ],
-      "full_summary": "Rockstar đã công bố giá GTA 6 là 80 USD. Phiên bản vật lý của game sẽ không chứa đĩa, thay vào đó là mã download để người dùng có thể tải game về. Người dùng sẽ nhận mã download và có thể chơi game ngay lập tức. Thông tin chi tiết về game sẽ được công bố sau này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4acfff696b27",
-      "title": "Do you know your 'sweat score'? The rise of hydration tech",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T19:28:32.252494+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công nghệ theo dõi nước trong cơ thể đang trở nên phổ biến",
-      "bullets": [
-        "Các thiết bị theo dõi nước trong cơ thể đang tràn ngập thị trường",
-        "Số lượng thông tin quá nhiều có thể gây khó khăn cho người dùng",
-        "Công nghệ theo dõi nước trong cơ thể có thể giúp cải thiện sức khỏe",
-        "Tuy nhiên, vẫn còn nhiều câu hỏi về sự chính xác của các thiết bị này"
-      ],
-      "full_summary": "Công nghệ theo dõi nước trong cơ thể đang trở nên phổ biến với sự xuất hiện của nhiều thiết bị mới. Các thiết bị này có thể theo dõi lượng nước trong cơ thể và cung cấp thông tin về mức độ khô hạn. Tuy nhiên, số lượng thông tin quá nhiều có thể gây khó khăn cho người dùng. Ngoài ra, vẫn còn nhiều câu hỏi về sự chính xác của các thiết bị này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "439c55bbd68a",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-24T19:28:33.446028+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Đức xác nhận ca Ebola đầu tiên ở bác sĩ từng làm việc tại DRC",
-      "bullets": [
-        "Xác nhận ca Ebola đầu tiên ở Pháp",
-        "Bác sĩ được chuyển đến cơ sở y tế chuyên khoa",
-        "Sức khỏe của bệnh nhân ổn định",
-        "Các liên hệ của bệnh nhân đang được theo dõi"
-      ],
-      "full_summary": "Bộ Y tế Pháp xác nhận ca Ebola đầu tiên ở một bác sĩ đã trở về từ nhiệm vụ nhân đạo tại Cộng hòa Dân chủ Congo. Bệnh nhân được chuyển đến cơ sở y tế chuyên khoa và đang ở tình trạng ổn định. Bộ Y tế cho biết các biện pháp phòng ngừa đã được thực hiện ngay từ khi bệnh nhân đến nước này, bao gồm cách ly và chuyển đến bệnh viện dưới điều kiện an toàn để ngăn chặn khả năng lây nhiễm.",
       "comments": 0,
       "score": 0
     }
