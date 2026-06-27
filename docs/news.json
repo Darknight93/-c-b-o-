@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-06-27T08:29:03.541605+00:00",
+  "updated_at": "2026-06-27T13:18:05.224250+00:00",
   "articles": [
+    {
+      "id": "62750e538c06",
+      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+      "url": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T13:17:52.142981+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Tỷ phú Leon Black từ chối tham gia điều tra vụ án Epstein",
+      "bullets": [
+        "Hội đồng lập pháp đã yêu cầu Leon Black phải khai trên camera và dưới lời thề",
+        "Tỷ phú này bị yêu cầu phải cung cấp thông tin về mối quan hệ với Jeffrey Epstein",
+        "Leon Black bị cáo buộc có liên quan đến vụ án của Epstein",
+        "Hội đồng lập pháp đang điều tra vụ án của Epstein"
+      ],
+      "full_summary": "Hội đồng lập pháp đã yêu cầu tỷ phú Leon Black phải khai trên camera và dưới lời thề trong vụ án của Jeffrey Epstein. Leon Black là người sáng lập của Apollo Global Management và bị cáo buộc có liên quan đến vụ án của Epstein. Hội đồng lập pháp đang điều tra vụ án của Epstein và đã yêu cầu nhiều người tham gia khai trên camera và dưới lời thề.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e3ee1de2035b",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T13:17:54.091820+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Công nghệ địa nhiệt đang được phát triển để giảm chi phí năng lượng",
+      "bullets": [
+        "Xây dựng các hệ thống khai thác địa nhiệt hiệu quả hơn",
+        "Tìm kiếm các nguồn địa nhiệt mới ở các khu vực chưa khai thác",
+        "Phát triển công nghệ để giảm chi phí sản xuất điện từ địa nhiệt"
+      ],
+      "full_summary": "Các công ty khởi nghiệp đang tìm cách khai thác năng lượng địa nhiệt một cách hiệu quả hơn, nhưng liệu chi phí có giảm xuống còn hợp lý không? Năng lượng địa nhiệt là nguồn năng lượng dồi dào nhưng tốn kém, nhưng các công nghệ mới đang được phát triển để giảm chi phí sản xuất điện từ địa nhiệt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ddc51fb6888",
+      "title": "Teens who hacked TfL were known to police years before cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T13:17:54.990120+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
+      "bullets": [
+        "Bị kết án vì tấn công mạng vào TfL",
+        "Cả hai đều từng được cảnh sát biết đến nhiều năm trước",
+        "Tấn công mạng gây thiệt hại lớn cho Transport for London",
+        "Hai thanh niên bị kết án vì tội xâm phạm an ninh mạng"
+      ],
+      "full_summary": "Hai thanh niên Owen Flowers và Thalha Jubair vừa bị kết án vì tội xâm phạm an ninh mạng sau khi tấn công mạng vào Transport for London (TfL). Cả hai đều từng được cảnh sát biết đến nhiều năm trước nhưng vẫn thực hiện được vụ tấn công mạng gây thiệt hại lớn cho TfL. Owen Flowers và Thalha Jubair sẽ phải đối mặt với hình phạt nghiêm trọng vì tội xâm phạm an ninh mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9ad193e33b5",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T13:17:55.998772+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hạ viện Zimbabwe thông qua sửa đổi hiến pháp để kéo dài nhiệm kỳ tổng thống",
+      "bullets": [
+        "Thượng viện Zimbabwe bỏ phiếu ủng hộ sửa đổi hiến pháp",
+        "Nhiệm kỳ tổng thống được kéo dài từ 5 năm lên 7 năm",
+        "Tổng thống Emmerson Mnangagwa có thể tiếp tục nắm quyền cho đến năm 2030",
+        "Tổng thống phủ nhận đây là cuộc đảo chính hiến pháp"
+      ],
+      "full_summary": "Hạ viện Zimbabwe đã thông qua sửa đổi hiến pháp để kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm. Điều này cho phép Tổng thống Emmerson Mnangagwa tiếp tục nắm quyền cho đến năm 2030. Các đối thủ của Tổng thống phủ nhận đây là cuộc đảo chính hiến pháp, nhưng cho rằng đây là một bước đi nhằm tăng cường quyền lực của Tổng thống.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4d06943a6304",
+      "title": "Netflix now requires every user profile to be tied to unique email address",
+      "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-27T13:17:59.860677+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Netflix bắt buộc mỗi tài khoản phải liên kết với địa chỉ email duy nhất",
+      "bullets": [
+        "Bắt đầu từ ngày 15 tháng 6, Netflix sẽ không cho phép chia sẻ thông tin đăng nhập",
+        "Mỗi tài khoản phải liên kết với địa chỉ email duy nhất",
+        "Người dùng không thể tạo nhiều tài khoản với cùng địa chỉ email",
+        "Cập nhật này nhằm ngăn chặn việc chia sẻ tài khoản Netflix"
+      ],
+      "full_summary": "Netflix đã bắt đầu cập nhật yêu cầu mỗi tài khoản phải liên kết với địa chỉ email duy nhất. Cập nhật này bắt đầu từ ngày 15 tháng 6 và sẽ không cho phép người dùng chia sẻ thông tin đăng nhập. Mục đích của việc này là ngăn chặn việc chia sẻ tài khoản Netflix. Người dùng sẽ không thể tạo nhiều tài khoản với cùng địa chỉ email.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b4309d602fa3",
+      "title": "Beer CSS – Build material design in record time",
+      "url": "https://www.beercss.com",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-27T13:18:03.593636+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công cụ mới giúp thiết kế Material Design nhanh chóng",
+      "bullets": [
+        "Tạo thiết kế Material Design nhanh chóng",
+        "Công cụ trực tuyến miễn phí",
+        "Hỗ trợ nhiều tính năng và tùy chọn",
+        "Cung cấp giao diện thân thiện và dễ sử dụng"
+      ],
+      "full_summary": "Beer CSS là một công cụ trực tuyến miễn phí giúp thiết kế Material Design nhanh chóng. Công cụ này cung cấp giao diện thân thiện và dễ sử dụng, hỗ trợ nhiều tính năng và tùy chọn. Beer CSS được thiết kế để giúp người dùng tạo thiết kế Material Design một cách nhanh chóng và hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "fed91535653e",
       "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
@@ -675,124 +794,6 @@
         "Căng thẳng trên thị trường chứng khoán châu Á"
       ],
       "full_summary": "Thị trường chứng khoán châu Á đang trải qua một tuần đầy sóng gió. Cổ phiếu công nghệ là tâm điểm của sự sụt giảm mạnh. Sàn chứng khoán Hàn Quốc đã bị tạm dừng giao dịch ba lần trong tuần này để ngăn chặn tình trạng bán tháo. Sự sụt giảm này đã ảnh hưởng đến nhiều quốc gia khác trên châu Á.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d9b9735ccf7f",
-      "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T08:54:05.910308+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "GTA 6 sẽ có giá 70 bảng Anh, không có đĩa vật lý",
-      "bullets": [
-        "Rockstar sẽ bán GTA 6 với giá 70 bảng Anh",
-        "Phiên bản vật lý sẽ không chứa đĩa, chỉ có mã để tải game",
-        "Người dùng sẽ tải game từ kho lưu trữ của Rockstar",
-        "Giá của GTA 6 sẽ cao hơn nhiều so với phiên bản trước"
-      ],
-      "full_summary": "Rockstar đã công bố giá của GTA 6 là 70 bảng Anh. Phiên bản vật lý của game sẽ không chứa đĩa, mà chỉ có mã để tải game từ kho lưu trữ của Rockstar. Người dùng sẽ cần tải game từ kho lưu trữ này. Điều này có thể gây khó khăn cho những người muốn chơi game ngay lập tức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d23e195aac1c",
-      "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
-      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T08:54:06.911501+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Microsoft vẫn khẳng định công nghệ lượng tử dù các chuyên gia có nhiều nghi ngờ.",
-      "bullets": [
-        "Các nhà khoa học đặt ra nhiều câu hỏi về khả năng thực tế của chip lượng tử của Microsoft.",
-        "Công ty vẫn tiếp tục khẳng định kết quả nghiên cứu về chip Majorana.",
-        "Một số chuyên gia tỏ ra hoài nghi về tuyên bố của Microsoft về công nghệ lượng tử."
-      ],
-      "full_summary": "Một nhà khoa học đã công bố những nghi ngờ mới về tuyên bố của Microsoft về công nghệ lượng tử. Công ty đã khẳng định công nghệ này mặc dù một số chuyên gia vẫn tỏ ra hoài nghi. Các nhà khoa học đặt ra nhiều câu hỏi về khả năng thực tế của chip lượng tử của Microsoft.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "439c55bbd68a",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T08:54:07.960162+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Phát hiện ca Ebola đầu tiên ở Pháp",
-      "bullets": [
-        "Xác nhận ca bệnh Ebola đầu tiên ở Pháp",
-        "Bác sĩ đã làm việc tại DRC và trở về Pháp",
-        "Chính phủ đang theo dõi liên hệ của bệnh nhân",
-        "Rủi ro với công chúng châu Âu rất thấp"
-      ],
-      "full_summary": "Chính phủ Pháp vừa xác nhận ca bệnh Ebola đầu tiên ở nước này. Bệnh nhân là một bác sĩ đã làm việc tại Cộng hòa Dân chủ Congo (DRC) và trở về Pháp. Chính phủ đang theo dõi các liên hệ của bệnh nhân và đảm bảo an toàn cho công chúng. Bệnh nhân được chuyển đến một cơ sở chuyên khoa và đang ở tình trạng ổn định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b8c293bad625",
-      "title": "Microsoft adds another year to Windows 10 extended update program",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-26T08:54:10.372814+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Microsoft gia hạn chương trình cập nhật Windows 10 thêm một năm",
-      "bullets": [
-        "Cập nhật Windows 10 sẽ tiếp tục cho đến tháng 10 năm 2027",
-        "Microsoft vẫn hỗ trợ khoảng 1/4 máy tính đang chạy hệ điều hành Windows 10",
-        "Chương trình cập nhật Windows 10 đã được gia hạn thêm một năm",
-        "Microsoft tiếp tục hỗ trợ người dùng Windows 10"
-      ],
-      "full_summary": "Microsoft vừa thông báo gia hạn chương trình cập nhật Windows 10 thêm một năm, cho đến tháng 10 năm 2027. Điều này có nghĩa là người dùng Windows 10 vẫn sẽ tiếp tục nhận được cập nhật bảo mật và tính năng mới. Chương trình cập nhật Windows 10 đã được gia hạn nhiều lần trước đây, nhưng lần này Microsoft đã quyết định gia hạn thêm một năm để hỗ trợ người dùng Windows 10. Theo báo cáo, khoảng 1/4 máy tính đang chạy hệ điều hành Windows 10, vì vậy chương trình cập nhật này vẫn rất quan trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a8e10fadecd4",
-      "title": "We All Depend on Open Source. We Will Defend It Together",
-      "url": "https://akrites.org/letter/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-26T08:54:16.574488+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mở nguồn mở là nền tảng chung, chúng ta bảo vệ cùng nhau",
-      "bullets": [
-        "Khẳng định tầm quan trọng của nguồn mở trong cuộc sống hàng ngày",
-        "Đề xuất cộng đồng bảo vệ và thúc đẩy nguồn mở",
-        "Tuyên bố cam kết bảo vệ quyền lợi của người dùng nguồn mở"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã kêu gọi cộng đồng bảo vệ nguồn mở, khẳng định tầm quan trọng của nó trong cuộc sống hàng ngày. Bài viết đề xuất các biện pháp để thúc đẩy và bảo vệ nguồn mở, bao gồm việc cam kết bảo vệ quyền lợi của người dùng. Mục tiêu cuối cùng là bảo vệ nguồn mở và đảm bảo quyền lợi của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "451bb4dfafd7",
-      "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-      "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:28.399383+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Động đất Venezuela giết ít nhất 235 người, hàng trăm người bị thương",
-      "bullets": [
-        "Động đất mạnh 7,0 độ xảy ra tại Venezuela",
-        "Hàng trăm người bị thương, ít nhất 235 người thiệt mạng",
-        "Cứu hộ đang tìm kiếm người sống sót trong đống đổ nát",
-        "Hàng ngàn người phải sơ tán khỏi khu vực bị ảnh hưởng"
-      ],
-      "full_summary": "Động đất mạnh 7,0 độ xảy ra tại Venezuela, giết ít nhất 235 người và làm hàng trăm người bị thương. Cứu hộ đang tìm kiếm người sống sót trong đống đổ nát. Hàng ngàn người phải sơ tán khỏi khu vực bị ảnh hưởng. Đây là một trong những thảm họa tự nhiên nghiêm trọng nhất xảy ra tại Venezuela trong nhiều năm qua.",
       "comments": 0,
       "score": 0
     }
