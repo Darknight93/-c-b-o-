@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-06-26T19:39:31.430899+00:00",
+  "updated_at": "2026-06-27T02:34:02.227609+00:00",
   "articles": [
+    {
+      "id": "2cdce3d9a078",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T02:33:47.421858+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ tiến hành đòn tấn công vào Iran sau vụ tấn công tàu chở hàng",
+      "bullets": [
+        "Mỹ tiến hành đòn tấn công vào cơ sở lưu trữ tên lửa và máy bay không người lái của Iran",
+        "Cục Chỉ huy Trung tâm Mỹ tuyên bố đã tấn công các vị trí radar bờ biển của Iran",
+        "Vụ tấn công được thực hiện sau khi Iran tấn công tàu chở hàng của Mỹ",
+        "Mỹ đang tăng cường quân sự ở khu vực Vịnh Ba Tư"
+      ],
+      "full_summary": "Mỹ tiến hành đòn tấn công vào Iran sau khi Iran tấn công tàu chở hàng của Mỹ. Theo Cục Chỉ huy Trung tâm Mỹ, các đòn tấn công được thực hiện vào cơ sở lưu trữ tên lửa và máy bay không người lái của Iran, cũng như các vị trí radar bờ biển. Vụ tấn công được thực hiện nhằm đáp trả lại hành động của Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "09b97a8ac69a",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T02:33:48.354798+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Sóng địa chấn Venezuela giết 920 người",
+      "bullets": [
+        "Gây thiệt hại nặng nề",
+        "Cứu hộ quốc tế bắt đầu đến",
+        "Nhiều người vẫn bị mắc kẹt dưới đống đổ nát",
+        "Tình hình khẩn cấp ở Venezuela"
+      ],
+      "full_summary": "Sóng địa chấn mạnh ở Venezuela đã giết ít nhất 920 người. Nhiều người vẫn bị mắc kẹt dưới đống đổ nát. Cứu hộ quốc tế bắt đầu đến để hỗ trợ. Tình hình khẩn cấp đang diễn ra ở Venezuela.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "076f85e00193",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T02:33:50.640601+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiệt độ kỷ lục 41,3 độ C ở Đức, phá vỡ kỷ lục trước đây",
+      "bullets": [
+        "Đã ghi nhận nhiệt độ cao kỷ lục ở Saarbrücken, Đức",
+        "Nhiệt độ cao kỷ lục gây ra nhiều tai nạn và thiệt hại",
+        "Các sự kiện công cộng bị hủy bỏ vì thời tiết nóng",
+        "Cơn nóng kỷ lục ở châu Âu đang gây ra nhiều vấn đề"
+      ],
+      "full_summary": "Một cơn nóng kỷ lục đang diễn ra ở châu Âu, đặc biệt là ở Đức. Nhiệt độ cao kỷ lục 41,3 độ C đã được ghi nhận ở Saarbrücken, phá vỡ kỷ lục trước đây. Cơn nóng này đã gây ra nhiều tai nạn và thiệt hại, và nhiều sự kiện công cộng đã bị hủy bỏ. Các chuyên gia cảnh báo rằng cơn nóng này có thể tiếp tục kéo dài trong thời gian tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "71ddfafc4ad0",
+      "title": "Religion row as Texas makes Bible stories required reading in schools",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T02:33:51.673923+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Texas yêu cầu học sinh đọc truyện Kinh Thánh trong trường học",
+      "bullets": [
+        "Texas đã yêu cầu học sinh đọc truyện Kinh Thánh trong chương trình học",
+        "Cơ quan giáo dục bang Texas cho rằng việc này giúp học sinh hiểu rõ giá trị đạo đức",
+        "Nhưng nhiều người cho rằng điều này vi phạm quyền tự do tôn giáo và làm xáo trộn ranh giới giữa nhà nước và tôn giáo"
+      ],
+      "full_summary": "Bang Texas, Hoa Kỳ, vừa thông qua một chương trình học mới yêu cầu học sinh đọc truyện Kinh Thánh. Cơ quan giáo dục bang cho rằng việc này giúp học sinh hiểu rõ giá trị đạo đức. Tuy nhiên, nhiều người cho rằng điều này vi phạm quyền tự do tôn giáo và làm xáo trộn ranh giới giữa nhà nước và tôn giáo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1b594f6853bb",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T02:33:52.563527+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel và Lebanon ký thỏa thuận khung sau đàm phán do Mỹ chủ trì",
+      "bullets": [
+        "Israel và Lebanon đã ký thỏa thuận khung sau đàm phán do Mỹ chủ trì",
+        "Hamas không tham gia thỏa thuận này",
+        "Thỏa thuận này không đảm bảo ngừng bắn hoàn toàn",
+        "Trước đây, các thỏa thuận ngừng bắn giữa Israel và Lebanon vẫn thường xuyên bị phá vỡ"
+      ],
+      "full_summary": "Israel và Lebanon đã ký thỏa thuận khung sau đàm phán do Mỹ chủ trì. Thỏa thuận này không đảm bảo ngừng bắn hoàn toàn, và Hezbollah không tham gia đàm phán. Các thỏa thuận ngừng bắn trước đây giữa Israel và Lebanon vẫn thường xuyên bị phá vỡ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2bff0507b889",
+      "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T02:33:53.480742+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "GTA 6 sẽ không có đĩa CD, đánh dấu sự chuyển đổi sang chơi game kỹ thuật số",
+      "bullets": [
+        "GTA 6 sẽ không có đĩa CD, thay vào đó sẽ được tải xuống kỹ thuật số",
+        "Sự chuyển đổi này có thể đánh dấu sự thay đổi trong cách chơi game",
+        "Nhiều người chơi game đang chuyển sang chơi game kỹ thuật số",
+        "Sự thay đổi này có thể ảnh hưởng đến ngành công nghiệp game"
+      ],
+      "full_summary": "GTA 6 sẽ không có đĩa CD khi được phát hành, thay vào đó sẽ được tải xuống kỹ thuật số. Sự chuyển đổi này có thể đánh dấu sự thay đổi trong cách chơi game. Nhiều người chơi game đang chuyển sang chơi game kỹ thuật số, và sự thay đổi này có thể ảnh hưởng đến ngành công nghiệp game.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b6e893f18c09",
+      "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
+      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T02:33:55.647197+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chủ tịch Ngân hàng Thế giới đề xuất thi đấu cải tạo dinh thự thủ tướng Canada",
+      "bullets": [
+        "Đề xuất cải tạo dinh thự thủ tướng Canada",
+        "Dinh thự bị ảnh hưởng bởi sự xâm nhập của động vật gặm nhấm",
+        "Sự xâm nhập của động vật gặm nhấm đã khiến dinh thự trở nên không thể ở",
+        "Chủ tịch Ngân hàng Thế giới Mark Carney đề xuất cải tạo dinh thự"
+      ],
+      "full_summary": "Chủ tịch Ngân hàng Thế giới Mark Carney đã đề xuất một cuộc thi để cải tạo dinh thự thủ tướng Canada, nơi đã bị bỏ hoang trong nhiều năm do sự xâm nhập của động vật gặm nhấm và nấm mốc. Dinh thự này đã bị bỏ hoang trong nhiều năm và cần được cải tạo để trở thành nơi ở an toàn cho thủ tướng Canada. Cuộc thi này sẽ giúp tìm ra ý tưởng cải tạo dinh thự thủ tướng Canada.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "37403164cd66",
       "title": "Mother dies saving daughter in Venezuela earthquakes",
@@ -655,145 +794,6 @@
         "Hai trận động đất ở Venezuela gây thiệt hại nặng nề"
       ],
       "full_summary": "Một trận động đất mạnh cường độ 5,6 đã xảy ra ở khu vực nông thôn phía bắc California vào thứ Ba. Chỉ vài giờ sau, một trận động đất mạnh cường độ 7,2 đã xảy ra ở bờ biển phía bắc Nhật Bản và hai trận động đất mạnh đã xảy ra ở Venezuela, gây thiệt hại nặng nề. Các trận động đất này đã xảy ra trong vòng 8 giờ, khiến người ta đồn đoán liệu chúng có liên quan đến nhau hay không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f92d4300e7b",
-      "title": "Planet orbits so close to its star that their magnetic fields connect",
-      "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-26T02:41:39.671986+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Trái đất gần sao đến mức trường từ của chúng liên kết",
-      "bullets": [
-        "Bị ảnh hưởng bởi trường từ của sao",
-        "Chromosphere của sao phát sáng khi ở vị trí nhất định",
-        "Quỹ đạo của hành tinh và chu kỳ sao ảnh hưởng đến hiện tượng này",
-        "Tìm hiểu về hiện tượng này giúp hiểu thêm về hệ thống sao"
-      ],
-      "full_summary": "Một nghiên cứu mới chỉ ra rằng một hành tinh có quỹ đạo rất gần sao của nó đến mức trường từ của cả hai liên kết. Hiện tượng này xảy ra khi sao ở giai đoạn nhất định trong chu kỳ của nó. Khi đó, chromosphere của sao phát sáng. Quỹ đạo của hành tinh và chu kỳ sao đều ảnh hưởng đến hiện tượng này. Điều này giúp các nhà khoa học hiểu thêm về hệ thống sao và cách chúng hoạt động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5961769e6f04",
-      "title": "People flee as building collapses on Caracas outskirts",
-      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:03.278447+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nền nhà đổ sập ở ngoại ô Caracas, người dân chạy thoát",
-      "bullets": [
-        "Động đất mạnh 7,2 và 7,5 xảy ra gần như đồng thời",
-        "Tổn thương nặng nề ở thủ đô và các khu vực lân cận",
-        "Người dân phải sơ tán khỏi khu vực sau khi nhà đổ sập",
-        "Động đất gây ra thiệt hại lớn ở Venezuela"
-      ],
-      "full_summary": "Động đất mạnh 7,2 và 7,5 xảy ra gần như đồng thời ở Venezuela, gây ra thiệt hại nặng nề ở thủ đô Caracas và các khu vực lân cận. Nền nhà đã đổ sập ở ngoại ô Caracas, khiến người dân phải chạy thoát. Đây là một trong những trận động đất mạnh nhất trong nhiều năm gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "14cd0d46c8a9",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:04.161941+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Đại sứ quán Liên Hợp Quốc tạm dừng kế hoạch sơ tán ở eo biển Hormuz",
-      "bullets": [
-        "Một tàu chở hàng bị tấn công bởi một vật thể không xác định gần Oman",
-        "Không có thương vong được báo cáo",
-        "Đại sứ quán Liên Hợp Quốc đã tạm dừng kế hoạch sơ tán",
-        "Tình hình đang được theo dõi chặt chẽ"
-      ],
-      "full_summary": "Đại sứ quán Liên Hợp Quốc đã tạm dừng kế hoạch sơ tán khỏi eo biển Hormuz sau khi một tàu chở hàng bị tấn công bởi một vật thể không xác định gần Oman. Không có thương vong được báo cáo. Đại sứ quán đang theo dõi tình hình chặt chẽ và chưa có thông tin về kẻ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "36f833729b7e",
-      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:05.189480+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 50 phụ nữ đòi bãi bỏ thời hiệu truy tố",
-      "bullets": [
-        "Kêu gọi bãi bỏ thời hiệu truy tố để được công lý",
-        "Hơn 50 phụ nữ cáo buộc bị lạm dụng tình dục tại Pháp",
-        "Thời hiệu truy tố ngăn cản họ tìm kiếm công lý",
-        "Phụ nữ này đòi thay đổi luật pháp để được công bằng"
-      ],
-      "full_summary": "Hơn 50 phụ nữ tại Pháp đang kêu gọi bãi bỏ thời hiệu truy tố để được công lý. Họ cáo buộc bị lạm dụng tình dục và bị ngăn cản tìm kiếm công lý do thời hiệu truy tố. Phụ nữ này đòi thay đổi luật pháp để được công bằng và được công nhận. Họ hy vọng rằng việc bãi bỏ thời hiệu truy tố sẽ giúp họ tìm kiếm công lý và được công nhận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fed91535653e",
-      "title": "Apple hikes prices on some products by nearly 20% while Xbox raises console cost",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:06.130376+00:00",
-      "category": "công nghệ",
-      "importance": 3,
-      "headline": "Apple tăng giá một số sản phẩm lên gần 20%",
-      "bullets": [
-        "Tăng giá các sản phẩm của Apple",
-        "Xbox tăng giá console",
-        "Apple nói chưa từng thấy giá nguyên liệu tăng nhanh như vậy",
-        "Nhiều người dùng lo lắng về chi phí"
-      ],
-      "full_summary": "Apple vừa công bố tăng giá một số sản phẩm lên gần 20%. Điều này diễn ra trong bối cảnh giá nguyên liệu tăng cao. Apple cho biết họ chưa từng thấy mức tăng giá nguyên liệu nhanh như vậy. Trong khi đó, Xbox cũng tăng giá console của mình. Nhiều người dùng đang lo lắng về chi phí tăng cao này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f408d62093e4",
-      "title": "Google's YouTube settles social media addiction case with teen",
-      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:07.497725+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "YouTube đồng ý bồi thường vì nghiện mạng xã hội",
-      "bullets": [
-        "Đồng ý bồi thường cho một cháu bé 15 tuổi",
-        "Tranh chấp với ba công ty công nghệ khác sẽ tiếp tục",
-        "Sự việc sẽ diễn ra vào tháng tới",
-        "Là một phần của vụ kiện liên quan đến nghiện mạng xã hội"
-      ],
-      "full_summary": "Google đã đồng ý bồi thường cho một cháu bé 15 tuổi vì nghiện mạng xã hội. Vụ việc này là một phần của vụ kiện liên quan đến nghiện mạng xã hội. Cháu bé sẽ tiếp tục kiện ba công ty công nghệ khác. Sự việc sẽ diễn ra vào tháng tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "58bfe109862d",
-      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
-      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-25T19:49:09.358165+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Vụ bạo lực gia đình ở Kenya ngày càng nghiêm trọng",
-      "bullets": [
-        "Một vở kịch tự truyện mang tên Free Me được sản xuất để khuyến khích nạn nhân nói lên tiếng nói của mình",
-        "Vở kịch kể về một cuộc hôn nhân đầy bạo lực mà tác giả đã trải qua",
-        "Mục tiêu của vở kịch là khuyến khích nạn nhân nói lên tiếng nói của mình và chống lại bạo lực gia đình"
-      ],
-      "full_summary": "Một vở kịch tự truyện mang tên Free Me của Gathoni Kimuyu, một nhà sản xuất sân khấu và truyền hình Kenya, đã được sản xuất để khuyến khích nạn nhân nói lên tiếng nói của mình. Vở kịch kể về một cuộc hôn nhân đầy bạo lực mà tác giả đã trải qua. Mục tiêu của vở kịch là khuyến khích nạn nhân nói lên tiếng nói của mình và chống lại bạo lực gia đình đang ngày càng nghiêm trọng ở Kenya.",
       "comments": 0,
       "score": 0
     }
