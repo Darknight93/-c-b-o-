@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-06-27T02:34:02.227609+00:00",
+  "updated_at": "2026-06-27T08:29:03.541605+00:00",
   "articles": [
+    {
+      "id": "fed91535653e",
+      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T08:28:49.844681+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Apple tăng giá sản phẩm lên gần 20%, Xbox tăng giá console",
+      "bullets": [
+        "Tăng giá sản phẩm lên gần 20%",
+        "Xbox tăng giá console",
+        "Apple nói chưa từng thấy mức tăng giá linh kiện cao như vậy",
+        "Tác động đến người tiêu dùng"
+      ],
+      "full_summary": "Apple vừa thông báo tăng giá một số sản phẩm lên gần 20%, trong khi đó Xbox cũng tăng giá console. Apple cho biết họ chưa từng thấy mức tăng giá linh kiện cao như vậy. Điều này có thể ảnh hưởng đến người tiêu dùng và các nhà cung cấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d31003e995c2",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T08:28:50.777294+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "IBM tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
+      "bullets": [
+        "Tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
+        "Thiết kế mới cho công nghệ chip siêu nhỏ",
+        "Sẽ mất thời gian trước khi sẵn sàng cho sản xuất",
+        "IBM đạt mốc công nghệ mới trong lĩnh vực điện tử"
+      ],
+      "full_summary": "IBM vừa công bố đạt được mốc công nghệ mới trong lĩnh vực điện tử khi tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet. Công nghệ này được gọi là 'block of flats' design, mô tả một thiết kế mới cho các chip siêu nhỏ. Mặc dù đây là một thành tựu lớn, nhưng IBM cho biết sẽ mất thời gian trước khi công nghệ này sẵn sàng cho sản xuất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2bf9ebda28a7",
+      "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T08:28:52.007441+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Sự cố địa chấn ở Venezuela khiến 920 người thiệt mạng",
+      "bullets": [
+        "Căng thẳng gia tăng khi chính phủ Venezuela bị chỉ trích vì phản ứng chậm chạp",
+        "Đại diện của chính phủ Venezuela cho biết hàng trăm đội cứu hộ nước ngoài đang trên đường đến",
+        "Số người bị thương trong vụ địa chấn đã lên tới 3.000 người",
+        "Nhiều người sống sót mô tả vụ địa chấn là 'cực kỳ nhanh chóng và tàn bạo'"
+      ],
+      "full_summary": "Đại diện của chính phủ Venezuela, Delcy Rodríguez, đã cam kết sẽ cố gắng cứu sống càng nhiều người càng tốt sau khi số người thiệt mạng trong vụ địa chấn ở Venezuela gần như gấp đôi. Số người chết đã lên tới 920, trong khi gần 3.000 người bị thương. Frustration đang gia tăng khi chính phủ Venezuela bị chỉ trích vì phản ứng chậm chạp. Đại diện của chính phủ Venezuela cho biết hàng trăm đội cứu hộ nước ngoài đang trên đường đến.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ae2c4d7e3e9e",
+      "title": "Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on",
+      "url": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T08:28:52.975360+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất Venezuela giết hại nhiều người và gây thiệt hại lớn",
+      "bullets": [
+        "Động đất mạnh đã giết hại hàng trăm người ở Venezuela",
+        "Số người chết đã tăng gấp đôi sau khi chính phủ Venezuela kêu gọi sự giúp đỡ quốc tế",
+        "Nhiều người đang tìm kiếm thành viên gia đình bị mất tích",
+        "Chính phủ Venezuela cam kết cứu sống càng nhiều người càng tốt"
+      ],
+      "full_summary": "Một trận động đất mạnh đã xảy ra tại Venezuela, giết hại hàng trăm người và gây thiệt hại lớn. Động đất đã làm đổ các tòa nhà ở khu vực biển, nơi có nhiều người sống. Chính phủ Venezuela đã kêu gọi sự giúp đỡ quốc tế và cam kết cứu sống càng nhiều người càng tốt. Nhiều người đang tìm kiếm thành viên gia đình bị mất tích.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4bfd63abfa87",
+      "title": "Doctors suspected man had brain cancer. He actually had worms.",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-27T08:28:55.004668+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Bác sĩ nghi ngờ bệnh nhân có ung thư não, nhưng thực ra là sâu bọ",
+      "bullets": [
+        "Bác sĩ nghi ngờ bệnh nhân có khối u não",
+        "Kết quả xét nghiệm cho thấy có các đầu sâu bọ",
+        "Bệnh nhân được điều trị bằng thuốc chống ký sinh trùng",
+        "Bác sĩ đã xác định được loại sâu bọ gây bệnh"
+      ],
+      "full_summary": "Một bệnh nhân đã được đưa đến bệnh viện vì nghi ngờ có khối u não. Tuy nhiên, khi bác sĩ tiến hành xét nghiệm, họ đã phát hiện ra các đầu sâu bọ trong não của bệnh nhân. Bệnh nhân đã được điều trị bằng thuốc chống ký sinh trùng và đã được xác định được loại sâu bọ gây bệnh. Sự việc này đã khiến bác sĩ phải suy nghĩ lại về cách họ chẩn đoán bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6676e195d81c",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-27T08:28:57.045898+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "NYT chỉ trích Microsoft vì xây dựng siêu máy tính vi phạm bản quyền cho OpenAI",
+      "bullets": [
+        "NYT cáo buộc Microsoft xây dựng siêu máy tính để giúp OpenAI vi phạm bản quyền",
+        "SCOTUS đưa ra phán quyết chống lại Sony sau khi OpenAI và Microsoft bị cáo buộc vi phạm bản quyền",
+        "NYT đã thay đổi lập luận về vi phạm bản quyền của OpenAI và Microsoft sau phán quyết của SCOTUS"
+      ],
+      "full_summary": "NYT đã chỉ trích Microsoft vì xây dựng siêu máy tính để giúp OpenAI vi phạm bản quyền. Điều này diễn ra sau khi SCOTUS đưa ra phán quyết chống lại Sony. NYT đã thay đổi lập luận về vi phạm bản quyền của OpenAI và Microsoft sau phán quyết của SCOTUS. Việc này đã gây ra sự tranh cãi về vấn đề bản quyền và công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4f79f46ac302",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-27T08:29:01.915188+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WordStar: Một trình xử lý văn bản của nhà văn",
+      "bullets": [
+        "Giới thiệu về WordStar, một trình xử lý văn bản của nhà văn",
+        "Được phát hành vào năm 1996, một thời điểm quan trọng trong lịch sử công nghệ",
+        "Có ảnh hưởng đến sự phát triển của các trình xử lý văn bản sau này"
+      ],
+      "full_summary": "WordStar là một trình xử lý văn bản được thiết kế dành cho nhà văn. Nó được phát hành vào năm 1996 và đã có ảnh hưởng đáng kể đến sự phát triển của các trình xử lý văn bản sau này. Mặc dù không còn phổ biến như trước đây, nhưng WordStar vẫn được nhớ đến như một trong những trình xử lý văn bản quan trọng của thời đại.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2cdce3d9a078",
       "title": "US conducts strikes on Iran after attack on cargo ship",
@@ -655,145 +793,6 @@
         "Hàng ngàn người phải sơ tán khỏi khu vực bị ảnh hưởng"
       ],
       "full_summary": "Động đất mạnh 7,0 độ xảy ra tại Venezuela, giết ít nhất 235 người và làm hàng trăm người bị thương. Cứu hộ đang tìm kiếm người sống sót trong đống đổ nát. Hàng ngàn người phải sơ tán khỏi khu vực bị ảnh hưởng. Đây là một trong những thảm họa tự nhiên nghiêm trọng nhất xảy ra tại Venezuela trong nhiều năm qua.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1b44ae918212",
-      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:29.421612+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hoa Kỳ cho phép trục xuất hàng trăm nghìn người nhập cư Haiti và Syria",
-      "bullets": [
-        "Cho phép chính quyền Trump kết thúc tình trạng được bảo vệ cho người nhập cư Haiti và Syria",
-        "Hàng trăm nghìn người nhập cư có thể bị trục xuất khỏi Hoa Kỳ",
-        "Tình trạng được bảo vệ đã được áp dụng từ năm 2010",
-        "Quyết định này có thể gây ra nhiều tranh cãi"
-      ],
-      "full_summary": "Hôm nay, Tòa án Tối cao Hoa Kỳ đã cho phép chính quyền Trump kết thúc tình trạng được bảo vệ cho người nhập cư Haiti và Syria. Điều này có nghĩa là hàng trăm nghìn người nhập cư có thể bị trục xuất khỏi Hoa Kỳ. Tình trạng được bảo vệ đã được áp dụng từ năm 2010 sau các cuộc khủng hoảng Haiti và Syria. Quyết định này có thể gây ra nhiều tranh cãi và ảnh hưởng đến cuộc sống của nhiều người nhập cư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ddc51fb6888",
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:30.309525+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
-      "bullets": [
-        "Bị kết án vì tấn công mạng vào TfL",
-        "Đã biết đến cảnh sát nhiều năm trước khi xảy ra vụ tấn công",
-        "Tấn công mạng gây thiệt hại lớn cho Transport for London",
-        "Owen Flowers và Thalha Jubair là hai người bị kết án"
-      ],
-      "full_summary": "Hai thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì vai trò của họ trong vụ tấn công mạng vào Transport for London (TfL). Vụ tấn công này đã gây thiệt hại lớn cho TfL. Theo báo cáo, cả hai thanh niên đã được cảnh sát biết đến nhiều năm trước khi xảy ra vụ tấn công. Owen Flowers và Thalha Jubair đã bị kết án vì tội tấn công mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3ee1de2035b",
-      "title": "The abundant but expensive energy source that's under your feet",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:31.255537+00:00",
-      "category": "khoa học-kỹ thuật",
-      "importance": 3,
-      "headline": "Công nghệ địa nhiệt đang được phát triển để giảm chi phí năng lượng",
-      "bullets": [
-        "Tìm ra các phương pháp mới để khai thác năng lượng địa nhiệt hiệu quả hơn",
-        "Các công ty khởi nghiệp đang áp dụng các công nghệ mới để giảm chi phí sản xuất",
-        "Năng lượng địa nhiệt có thể trở thành nguồn năng lượng sạch và bền vững",
-        "Tuy nhiên, vẫn còn nhiều thách thức cần giải quyết để phát triển công nghệ này"
-      ],
-      "full_summary": "Các công ty khởi nghiệp đang tìm cách khai thác năng lượng địa nhiệt một cách hiệu quả hơn. Họ đang áp dụng các công nghệ mới để giảm chi phí sản xuất và tăng cường năng lượng sạch. Tuy nhiên, vẫn còn nhiều thách thức cần giải quyết để phát triển công nghệ này. Nếu thành công, năng lượng địa nhiệt có thể trở thành nguồn năng lượng bền vững và sạch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b9ad193e33b5",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:32.329424+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạ viện Zimbabwe thông qua sửa đổi hiến pháp để cho phép Mnangagwa ở lại chức",
-      "bullets": [
-        "Chính phủ Zimbabwe thông qua sửa đổi hiến pháp",
-        "Sửa đổi cho phép Tổng thống Emmerson Mnangagwa ở lại chức đến năm 2030",
-        "Hạ viện Zimbabwe bỏ phiếu 75-4 ủng hộ sửa đổi hiến pháp",
-        "Tổng thống Mnangagwa được cho phép ở lại chức thêm 2 năm"
-      ],
-      "full_summary": "Hạ viện Zimbabwe đã thông qua sửa đổi hiến pháp để cho phép Tổng thống Emmerson Mnangagwa ở lại chức đến năm 2030. Sửa đổi này cho phép Tổng thống ở lại chức thêm 2 năm, từ 5 năm trở thành 7 năm. Điều này đã gây ra lo ngại rằng Tổng thống sẽ càng nắm giữ quyền lực nhiều hơn. Chính phủ Zimbabwe cho rằng sửa đổi này sẽ mang lại sự ổn định, nhưng đối thủ đã gọi đây là 'coup hiến pháp'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c682402a5cc2",
-      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
-      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:33.607851+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Anh Quốc ưu tiên quan hệ với UAE hơn việc ngăn chặn thảm họa diệt chủng ở Sudan",
-      "bullets": [
-        "Sẽ có bằng chứng về áp lực từ UAE khiến Anh Quốc không công bố thông tin về thảm họa diệt chủng ở Sudan",
-        "Chính phủ Anh đã nhận được thông tin về sự hỗ trợ của Ethiopia cho một lực lượng dân quân diệt chủng từ năm 2024",
-        "Tổ chức Ngoại giao và Phát triển Quốc tế Anh Quốc đã từ chối công bố thông tin này",
-        "Bà Nathaniel Raymond sẽ trình bày trước Ủy ban Chọn lọc Quốc hội Anh Quốc"
-      ],
-      "full_summary": "Theo The Guardian World, chính phủ Anh Quốc đã ưu tiên quan hệ với Các Tiểu vương quốc Ả Rập Thống nhất (UAE) hơn việc ngăn chặn thảm họa diệt chủng ở Sudan. Theo thông tin từ năm 2024, Ethiopia đã hỗ trợ một lực lượng dân quân diệt chủng ở Sudan, nhưng chính phủ Anh Quốc đã từ chối công bố thông tin này do áp lực từ UAE. Bà Nathaniel Raymond, một nhà điều tra nhân quyền tại Đại học Yale, sẽ trình bày trước Ủy ban Chọn lọc Quốc hội Anh Quốc về vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4f9fbafdc8e2",
-      "title": "Rescue teams race to Venezuela amid fears thousands killed in earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:34.882486+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Cơn địa chấn mạnh 7,2 độ làm thiệt hại nặng ở Venezuela",
-      "bullets": [
-        "Cứu hộ đang vội vàng đến Venezuela sau cơn địa chấn",
-        "Hàng chục tòa nhà bị sập, ít nhất 235 người thiệt mạng",
-        "Số người chết có thể lên tới hàng nghìn",
-        "Hỗ trợ từ Mỹ và các quốc gia khác đang được triển khai"
-      ],
-      "full_summary": "Cơn địa chấn mạnh 7,2 độ và 7,5 độ đã xảy ra gần như đồng thời, làm hàng chục tòa nhà bị sập ở bờ biển phía bắc Venezuela. Số người thiệt mạng đã lên tới 235, nhưng số người chết có thể lên tới hàng nghìn. Cứu hộ đang vội vàng đến hiện trường để tìm kiếm những người sống sót. Mỹ và các quốc gia khác đang triển khai hỗ trợ tìm kiếm và cứu hộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2627fd5e3f6d",
-      "title": "Experts say three recent powerful earthquakes are not related",
-      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T02:41:35.791261+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ba trận động đất mạnh không liên quan đến nhau",
-      "bullets": [
-        "Giai đoạn 8 giờ, 3 trận động đất mạnh xảy ra ở California, Nhật Bản và Venezuela",
-        "Động đất ở California có cường độ 5,6, ở Nhật Bản có cường độ 7,2",
-        "Hai trận động đất ở Venezuela gây thiệt hại nặng nề"
-      ],
-      "full_summary": "Một trận động đất mạnh cường độ 5,6 đã xảy ra ở khu vực nông thôn phía bắc California vào thứ Ba. Chỉ vài giờ sau, một trận động đất mạnh cường độ 7,2 đã xảy ra ở bờ biển phía bắc Nhật Bản và hai trận động đất mạnh đã xảy ra ở Venezuela, gây thiệt hại nặng nề. Các trận động đất này đã xảy ra trong vòng 8 giờ, khiến người ta đồn đoán liệu chúng có liên quan đến nhau hay không.",
       "comments": 0,
       "score": 0
     }
