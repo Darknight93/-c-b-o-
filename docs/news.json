@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-06-27T13:18:05.224250+00:00",
+  "updated_at": "2026-06-27T19:08:55.924149+00:00",
   "articles": [
+    {
+      "id": "8228eb393576",
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T19:08:41.338171+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Cơn bão khó khăn đang đè nặng lên Venezuela",
+      "bullets": [
+        "Cứu hộ đang nỗ lực tìm kiếm những người bị kẹt dưới đống đổ nát",
+        "Hy vọng đang dần phai mờ, nhưng sự tức giận đang tăng lên",
+        "Căng thẳng xã hội và kinh tế ở Venezuela đang ở mức cao nhất",
+        "Chính phủ đang đối mặt với thách thức lớn trong việc cung cấp hỗ trợ cho người dân"
+      ],
+      "full_summary": "Ở Caracas, tình hình đang trở nên khó khăn hơn bao giờ hết. Cứu hộ đang nỗ lực tìm kiếm những người bị kẹt dưới đống đổ nát, nhưng hy vọng đang dần phai mờ. Sự tức giận đang tăng lên và chính phủ đang đối mặt với thách thức lớn trong việc cung cấp hỗ trợ cho người dân. Căng thẳng xã hội và kinh tế ở Venezuela đang ở mức cao nhất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f0d962663b6",
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T19:08:43.439850+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Burkina Faso cắt đứt quan hệ ngoại giao với Pháp",
+      "bullets": [
+        "Burkina Faso cắt đứt quan hệ ngoại giao với Pháp",
+        "Junta Burkinabé cáo buộc Pháp xâm phạm lợi ích quốc gia",
+        "Pháp từng là cường quốc thuộc địa ở Tây Phi",
+        "Quan hệ giữa hai nước trở nên căng thẳng trong thời gian gần đây"
+      ],
+      "full_summary": "Burkina Faso đã cắt đứt quan hệ ngoại giao với Pháp sau khi junta Burkinabé cáo buộc nước này xâm phạm lợi ích quốc gia. Điều này diễn ra sau nhiều tháng quan hệ giữa hai nước trở nên căng thẳng. Burkina Faso từng là thuộc địa của Pháp, nhưng đã giành độc lập vào năm 1960.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d9b9735ccf7f",
+      "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T19:08:44.401839+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Rockstar xác nhận GTA 6 sẽ có giá 70 bảng Anh và không có đĩa vật lý",
+      "bullets": [
+        "Rockstar sẽ bán GTA 6 với giá 70 bảng Anh",
+        "Phiên bản vật lý sẽ không chứa đĩa, thay vào đó là mã để tải xuống",
+        "Người dùng sẽ nhận được mã để tải xuống game khi mua phiên bản vật lý",
+        "Thông tin chi tiết về game sẽ được công bố trong tương lai"
+      ],
+      "full_summary": "Rockstar Games đã xác nhận rằng phiên bản vật lý của GTA 6 sẽ không chứa đĩa, thay vào đó là mã để tải xuống game. Người dùng sẽ nhận được mã để tải xuống game khi mua phiên bản vật lý. Giá của game cũng đã được công bố, là 70 bảng Anh. Thông tin chi tiết về game sẽ được công bố trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d23e195aac1c",
+      "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T19:08:45.300184+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Microsoft bị đặt câu hỏi về tuyên bố về máy tính lượng tử",
+      "bullets": [
+        "Xóa bỏ tuyên bố về máy tính lượng tử của Microsoft",
+        "Một nhà khoa học đặt câu hỏi về nghiên cứu của Microsoft",
+        "Nghiên cứu của Microsoft vẫn được ủng hộ",
+        "Tất cả các chuyên gia không đồng ý với tuyên bố của Microsoft"
+      ],
+      "full_summary": "Một nhà khoa học đã đặt câu hỏi về tuyên bố của Microsoft về máy tính lượng tử. Mặc dù Microsoft đã luôn đứng đằng sau nghiên cứu về chip Majorana, nhưng một số chuyên gia vẫn đặt câu hỏi về kết quả. Nghiên cứu của Microsoft vẫn đang được ủng hộ, nhưng không phải tất cả các chuyên gia đều đồng ý với tuyên bố của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "439c55bbd68a",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-27T19:08:46.269028+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Phát hiện ca bệnh Ebola đầu tiên ở Pháp",
+      "bullets": [
+        "Xác định bệnh nhân Ebola ở Pháp",
+        "Chẩn đoán bệnh nhân sau chuyến công tác tại DRC",
+        "Đoàn ngũ y tế đang truy vết liên hệ của bệnh nhân",
+        "Rủi ro đối với công chúng châu Âu được đánh giá rất thấp"
+      ],
+      "full_summary": "Bộ Y tế Pháp vừa xác nhận ca bệnh Ebola đầu tiên ở nước này. Bệnh nhân là một bác sĩ đã từng công tác tại khu vực bị ảnh hưởng bởi dịch ở Cộng hòa Dân chủ Congo. Bệnh nhân được chuyển đến một cơ sở chuyên khoa và đang trong tình trạng ổn định. Các biện pháp phòng ngừa đã được thực hiện ngay từ khi bệnh nhân đến Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "927940715868",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-27T19:08:53.656564+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Calm và tiếp tục: Chống lại các cuộc tấn công mạng trong thời kỳ hậu Mythos",
+      "bullets": [
+        "Đánh giá lại các chiến lược bảo mật sau sự sụp đổ của các hệ thống bảo mật hiện có",
+        "Thực hiện các biện pháp phòng ngừa và ứng phó trước các cuộc tấn công mạng",
+        "Đầu tư vào công nghệ bảo mật mới để chống lại các mối đe dọa",
+        "Tăng cường hợp tác quốc tế để chia sẻ thông tin và kinh nghiệm về bảo mật"
+      ],
+      "full_summary": "Trong thời kỳ hậu Mythos, các hệ thống bảo mật hiện có đã sụp đổ, tạo ra cơ hội cho các cuộc tấn công mạng. Để đối phó với tình hình này, các chuyên gia bảo mật khuyên nên đánh giá lại các chiến lược bảo mật hiện tại và thực hiện các biện pháp phòng ngừa và ứng phó trước các cuộc tấn công mạng. Đầu tư vào công nghệ bảo mật mới và tăng cường hợp tác quốc tế cũng là những giải pháp quan trọng để chống lại các mối đe dọa.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "62750e538c06",
       "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
@@ -674,126 +794,6 @@
         "Cape Verde đã gây ấn tượng với thế giới nhờ những trận đấu đầy kịch tính"
       ],
       "full_summary": "Cape Verde đang gây ấn tượng với thế giới tại World Cup 2026. Đội tuyển quốc gia của họ đã giành được những trận đấu đầy kịch tính trước Tây Ban Nha và Uruguay, khiến cộng đồng di cư Cape Verde ở Anh cảm thấy tự hào. Trẻ em Cape Verde ở Anh cũng hào hứng khi thấy đất nước của mình được giới thiệu trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ca70bd7a9ae8",
-      "title": "Outrage as woman jailed for three years after criticising Somali government online",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T14:09:50.109596+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nữ sinh viên bị giam 3 năm vì bình luận trên mạng về chính phủ Somalia",
-      "bullets": [
-        "Bị kết án 3 năm tù vì bình luận trên mạng về chính phủ Somalia",
-        "Sadia Moalim Ali bị kết tội xúc phạm các cơ quan nhà nước",
-        "Cáo buộc này đã gây ra sự phẫn nộ trong công chúng và các tổ chức nhân quyền",
-        "Cựu Tổng thống và Thủ tướng Somalia đã lên án bản án này"
-      ],
-      "full_summary": "Sadia Moalim Ali, một sinh viên y khoa 27 tuổi, đã bị kết án 3 năm tù vì bình luận trên mạng về chính phủ Somalia. Cô bị kết tội xúc phạm các cơ quan nhà nước, mặc dù ban đầu bị buộc tội kích động tội ác. Bản án này đã gây ra sự phẫn nộ trong công chúng và các tổ chức nhân quyền, bao gồm cả cựu Tổng thống và Thủ tướng Somalia. Họ đã lên án bản án này là 'không công bằng'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c954823c486b",
-      "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
-      "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-26T14:09:52.971929+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Trung Quốc sắp thử nghiệm hạ cánh tên lửa",
-      "bullets": [
-        "Trung Quốc có thể thử nghiệm hạ cánh tên lửa trong thời gian gần đây",
-        "Rocket Lab đã thực hiện phản ứng nhanh chóng trong một vụ phóng tên lửa",
-        "Không rõ liệu SpaceX có dừng chương trình Transporter hay không",
-        "Các công ty tên lửa đang đẩy nhanh tiến độ hạ cánh tên lửa sau phóng"
-      ],
-      "full_summary": "Trung Quốc sắp thử nghiệm hạ cánh tên lửa, một bước tiến quan trọng trong công nghệ tên lửa. Trong khi đó, Rocket Lab đã thực hiện phản ứng nhanh chóng trong một vụ phóng tên lửa. Không rõ liệu SpaceX có dừng chương trình Transporter hay không, nhưng các công ty tên lửa đang đẩy nhanh tiến độ hạ cánh tên lửa sau phóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b63ff7a06ed7",
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-26T14:09:56.314378+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "Federations từ chối cấp phép bán xe Polestar tại Mỹ từ năm 2027",
-      "bullets": [
-        "Từ chối cấp phép bán xe Polestar tại Mỹ từ năm 2027",
-        "Không giống như Volvo, Polestar không được phép bán xe tại Mỹ",
-        "Federations không cung cấp lý do cho quyết định từ chối cấp phép",
-        "Polestar có thể phải tìm kiếm giải pháp thay thế để bán xe tại Mỹ"
-      ],
-      "full_summary": "Federations đã từ chối cấp phép bán xe Polestar tại Mỹ từ năm 2027. Quyết định này được đưa ra sau khi Polestar xin phép bán xe tại Mỹ. Federations không cung cấp lý do cho quyết định từ chối cấp phép. Polestar có thể phải tìm kiếm giải pháp thay thế để bán xe tại Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cb9b1573de33",
-      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T08:54:02.917336+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bề mặt hồ phản chiếu bị cắt bằng dao sắc",
-      "bullets": [
-        "Bề mặt hồ phản chiếu ở Washington bị cắt dài 300 feet",
-        "Nhiều người nghi ngờ về lời buộc tội của Donald Trump",
-        "National Park Service xác định nguyên nhân là do dao sắc",
-        "Trước đó Trump cáo buộc vạ hòng và chất bẩn trong hồ"
-      ],
-      "full_summary": "Bề mặt hồ phản chiếu ở Washington đã bị cắt dài 300 feet. Donald Trump trước đó cáo buộc vạ hòng và chất bẩn trong hồ, nhưng National Park Service đã xác định nguyên nhân là do dao sắc. Điều này đã gây ra tranh cãi và nhiều người nghi ngờ về lời buộc tội của Trump.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8bd505ea4614",
-      "title": "Asia stock markets slide as tech shares slump",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T08:54:03.930206+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Cổ phiếu công nghệ sụt giảm mạnh trên thị trường châu Á",
-      "bullets": [
-        "Giảm mạnh: Giá cổ phiếu công nghệ trên thị trường châu Á đã giảm mạnh",
-        "Halted giao dịch: Giao dịch trên chỉ số Kospi của Hàn Quốc đã bị tạm dừng lần thứ ba trong tuần",
-        "Panic bán: Các nhà đầu tư đang bán hàng loạt cổ phiếu để tránh thua lỗ",
-        "Thị trường lo ngại: Thị trường chứng khoán châu Á đang lo ngại về sự suy thoái"
-      ],
-      "full_summary": "Thị trường chứng khoán châu Á đã trải qua một tuần đầy khó khăn với giá cổ phiếu công nghệ giảm mạnh. Giao dịch trên chỉ số Kospi của Hàn Quốc đã bị tạm dừng lần thứ ba trong tuần để ngăn chặn việc bán hàng loạt cổ phiếu. Các nhà đầu tư đang bán hàng loạt cổ phiếu để tránh thua lỗ và thị trường chứng khoán châu Á đang lo ngại về sự suy thoái.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8bd505ea4614",
-      "title": "Asia stock markets slide as tech shares slump",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T08:54:04.875074+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Cổ phiếu công nghệ sụt giảm mạnh trên thị trường châu Á",
-      "bullets": [
-        "Giảm giá mạnh cổ phiếu công nghệ trên thị trường châu Á",
-        "Halted giao dịch trên sàn chứng khoán Hàn Quốc",
-        "Cổ phiếu công nghệ tiếp tục sụt giảm",
-        "Căng thẳng trên thị trường chứng khoán châu Á"
-      ],
-      "full_summary": "Thị trường chứng khoán châu Á đang trải qua một tuần đầy sóng gió. Cổ phiếu công nghệ là tâm điểm của sự sụt giảm mạnh. Sàn chứng khoán Hàn Quốc đã bị tạm dừng giao dịch ba lần trong tuần này để ngăn chặn tình trạng bán tháo. Sự sụt giảm này đã ảnh hưởng đến nhiều quốc gia khác trên châu Á.",
       "comments": 0,
       "score": 0
     }
