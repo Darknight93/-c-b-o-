@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-06-28T02:47:04.312129+00:00",
+  "updated_at": "2026-06-28T08:44:01.857761+00:00",
   "articles": [
+    {
+      "id": "54dc1071f4f8",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T08:43:47.479251+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ và Iran đổi đòn tấn công, tố cáo nhau vi phạm thỏa thuận ngừng bắn",
+      "bullets": [
+        "Mỹ đã tấn công nhiều mục tiêu ở Iran",
+        "Iran phản công bằng các cuộc tấn công vào cơ sở hạ tầng của Mỹ ở Kuwait và Bahrain",
+        "Hai quốc gia đều tố cáo nhau vi phạm thỏa thuận ngừng bắn",
+        "Tình hình đang trở nên căng thẳng"
+      ],
+      "full_summary": "Mỹ và Iran đã đổi đòn tấn công sau khi Mỹ cho biết đã tấn công nhiều mục tiêu ở Iran. Iran đã phản công bằng các cuộc tấn công vào cơ sở hạ tầng của Mỹ ở Kuwait và Bahrain. Hai quốc gia đều tố cáo nhau vi phạm thỏa thuận ngừng bắn, khiến tình hình trở nên căng thẳng. Hiện chưa rõ mức độ nghiêm trọng của các cuộc tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cb2ec87ff90c",
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T08:43:48.524056+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Kim Jong Un không nhắc đến mẹ vì dòng máu gây tranh cãi",
+      "bullets": [
+        "Kim Jong Un không nhắc đến mẹ vì sợ mất uy tín",
+        "Mẹ của Kim Jong Un có nguồn gốc gây tranh cãi",
+        "Nguồn gốc của mẹ Kim Jong Un đe dọa đến sự hợp pháp của chế độ",
+        "Ít người dân Bắc Triều Tiên biết về mẹ của Kim Jong Un"
+      ],
+      "full_summary": "Kim Jong Un không bao giờ nhắc đến mẹ của mình, Kim Jong Suk, vì sợ rằng nguồn gốc của bà có thể đe dọa đến sự hợp pháp của chế độ. Mẹ của Kim Jong Un là một người phụ nữ có nguồn gốc từ một gia đình nông dân nghèo, điều này có thể gây tranh cãi trong chế độ độc tài của Bắc Triều Tiên. Vì lý do này, ít người dân Bắc Triều Tiên biết về mẹ của Kim Jong Un. Điều này cho thấy sự sợ hãi của chế độ đối với sự thật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c092722785d",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T08:43:49.471062+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
+      "bullets": [
+        "Sẽ là trò chơi điện tử lớn nhất năm nay",
+        "Được phát triển bởi Rockstar, hãng đã tạo ra nhiều trò chơi điện tử nổi tiếng",
+        "Sẽ có nhiều tính năng mới và cải tiến so với các phiên bản trước",
+        "Chưa có thông tin chính thức về ngày phát hành"
+      ],
+      "full_summary": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay. Trò chơi này sẽ được phát triển bởi Rockstar, hãng đã tạo ra nhiều trò chơi điện tử nổi tiếng như Grand Theft Auto V và Red Dead Redemption 2. GTA 6 sẽ có nhiều tính năng mới và cải tiến so với các phiên bản trước, nhưng chưa có thông tin chính thức về ngày phát hành.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "23c5a1b111d1",
+      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T08:43:50.493875+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cape Verde gây ấn tượng mạnh tại World Cup",
+      "bullets": [
+        "Cộng đồng người Cape Verde ở Anh cảm thấy tự hào về đội bóng",
+        "Đội bóng Cape Verde đã chơi ngang tài với Tây Ban Nha và Uruguay",
+        "Cape Verde đã trở thành tâm điểm chú ý trên toàn thế giới",
+        "Cộng đồng người Cape Verde ở Anh hào hứng theo dõi World Cup"
+      ],
+      "full_summary": "Cộng đồng người Cape Verde ở Anh đang cảm thấy tự hào về đội bóng sau khi họ đã chơi ngang tài với Tây Ban Nha và Uruguay tại World Cup. Đội bóng Cape Verde đã gây ấn tượng mạnh với người hâm mộ trên toàn thế giới. 13 tuổi Lauryn, một người hâm mộ Cape Verde, đã nói rằng cô cảm thấy tự hào khi thấy quốc gia của mình được thể hiện trên toàn thế giới. Cô nói rằng sau trận đấu đầu tiên, mọi người đều đang nói về Cape Verde và thấy được tài năng và kỹ năng của các cầu thủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "62eae44735e8",
+      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T08:43:51.623759+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nhiều người nhiễm Ebola ở Cộng hòa Dân chủ Congo không thể xác định được",
+      "bullets": [
+        "Có hơn 300 người nhiễm Ebola mà vị trí hiện tại không thể xác định được",
+        "Hơn 1 triệu người đang sống trong trại tị nạn mà nhân viên y tế không thể tiếp cận",
+        "Mô hình dự đoán có thể có hàng nghìn người chết vì Ebola tại DRC vào tháng 9",
+        "Crisis nhân đạo đang diễn ra trong bối cảnh xung đột tại khu vực bị ảnh hưởng"
+      ],
+      "full_summary": "Theo Africa Centers for Disease Control and Prevention, vị trí của gần 300 người nhiễm Ebola tại Cộng hòa Dân chủ Congo không thể xác định được. Điều này gây lo ngại về sự lây lan cộng đồng lớn. Hơn 1 triệu người đang sống trong trại tị nạn mà nhân viên y tế không thể tiếp cận, khiến việc kiểm soát dịch bệnh trở nên khó khăn hơn. Mô hình dự đoán có thể có hàng nghìn người chết vì Ebola tại DRC vào tháng 9.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "77fae630d45e",
+      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T08:43:52.614135+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Số thương vong sau trận động đất ở Venezuela tăng lên 1.430 người",
+      "bullets": [
+        "Cứu hộ tiếp tục diễn ra",
+        "Hơn 70.000 người mất liên lạc với gia đình",
+        "3.200 người bị thương, 3.100 người mất nhà",
+        "Số người chết và bị thương liên tục tăng"
+      ],
+      "full_summary": "Sự cố động đất ở Venezuela đã khiến hơn 1.430 người thiệt mạng và hơn 3.200 người bị thương. Tổng thống Venezuela, Jorge Rodríguez, cho biết hơn 70.000 người mất liên lạc với gia đình. Sự cố này đã khiến hơn 3.100 người mất nhà. Cứu hộ tiếp tục diễn ra để tìm kiếm những người còn sống sót.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e26993dfca92",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-28T08:43:57.979534+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trạm phát thanh công cộng Marfa khiến người nghe buồn ngủ",
+      "bullets": [
+        "Trạm phát thanh công cộng Marfa phát hành podcast khiến người nghe buồn ngủ",
+        "Podcast này được thiết kế để giúp người nghe ngủ ngon hơn",
+        "Người dùng Hacker News đánh giá podcast này có chất lượng tốt",
+        "Có 53 bình luận về podcast này trên Hacker News"
+      ],
+      "full_summary": "Trạm phát thanh công cộng Marfa đã phát hành một podcast mới khiến người nghe buồn ngủ. Podcast này được thiết kế để giúp người nghe ngủ ngon hơn bằng cách tạo ra âm thanh nhẹ nhàng và đều đặn. Người dùng Hacker News đã đánh giá podcast này có chất lượng tốt và có 53 bình luận về podcast này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7de4bf7b9206",
       "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
@@ -653,145 +793,6 @@
         "Trước đây, các thỏa thuận ngừng bắn giữa Israel và Lebanon vẫn thường xuyên bị phá vỡ"
       ],
       "full_summary": "Israel và Lebanon đã ký thỏa thuận khung sau đàm phán do Mỹ chủ trì. Thỏa thuận này không đảm bảo ngừng bắn hoàn toàn, và Hezbollah không tham gia đàm phán. Các thỏa thuận ngừng bắn trước đây giữa Israel và Lebanon vẫn thường xuyên bị phá vỡ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bff0507b889",
-      "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
-      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T02:33:53.480742+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "GTA 6 sẽ không có đĩa CD, đánh dấu sự chuyển đổi sang chơi game kỹ thuật số",
-      "bullets": [
-        "GTA 6 sẽ không có đĩa CD, thay vào đó sẽ được tải xuống kỹ thuật số",
-        "Sự chuyển đổi này có thể đánh dấu sự thay đổi trong cách chơi game",
-        "Nhiều người chơi game đang chuyển sang chơi game kỹ thuật số",
-        "Sự thay đổi này có thể ảnh hưởng đến ngành công nghiệp game"
-      ],
-      "full_summary": "GTA 6 sẽ không có đĩa CD khi được phát hành, thay vào đó sẽ được tải xuống kỹ thuật số. Sự chuyển đổi này có thể đánh dấu sự thay đổi trong cách chơi game. Nhiều người chơi game đang chuyển sang chơi game kỹ thuật số, và sự thay đổi này có thể ảnh hưởng đến ngành công nghiệp game.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b6e893f18c09",
-      "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
-      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T02:33:55.647197+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chủ tịch Ngân hàng Thế giới đề xuất thi đấu cải tạo dinh thự thủ tướng Canada",
-      "bullets": [
-        "Đề xuất cải tạo dinh thự thủ tướng Canada",
-        "Dinh thự bị ảnh hưởng bởi sự xâm nhập của động vật gặm nhấm",
-        "Sự xâm nhập của động vật gặm nhấm đã khiến dinh thự trở nên không thể ở",
-        "Chủ tịch Ngân hàng Thế giới Mark Carney đề xuất cải tạo dinh thự"
-      ],
-      "full_summary": "Chủ tịch Ngân hàng Thế giới Mark Carney đã đề xuất một cuộc thi để cải tạo dinh thự thủ tướng Canada, nơi đã bị bỏ hoang trong nhiều năm do sự xâm nhập của động vật gặm nhấm và nấm mốc. Dinh thự này đã bị bỏ hoang trong nhiều năm và cần được cải tạo để trở thành nơi ở an toàn cho thủ tướng Canada. Cuộc thi này sẽ giúp tìm ra ý tưởng cải tạo dinh thự thủ tướng Canada.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "37403164cd66",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T19:39:16.675056+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Mẹ hy sinh để cứu con gái trong trận động đất Venezuela",
-      "bullets": [
-        "Động đất ở Venezuela khiến ít nhất 920 người thiệt mạng",
-        "Một người mẹ đã hy sinh để cứu con gái trong trận động đất",
-        "Héctor Bello chia sẻ trên mạng xã hội về hành động của mẹ",
-        "Trận động đất đã gây ra thiệt hại nghiêm trọng ở Venezuela"
-      ],
-      "full_summary": "Một trận động đất đã xảy ra ở Venezuela, khiến ít nhất 920 người thiệt mạng. Một người mẹ đã hy sinh để cứu con gái trong trận động đất. Héctor Bello đã chia sẻ trên mạng xã hội về hành động của mẹ, nói rằng 'bạn đã hy sinh để cứu con gái của chúng tôi'. Trận động đất đã gây ra thiệt hại nghiêm trọng ở Venezuela.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b6172821e2d9",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T19:39:17.833290+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Congo kiện Rwanda trước Tòa án Quốc tế về xung đột kéo dài",
-      "bullets": [
-        "Congo cáo buộc Rwanda vi phạm nhân quyền trong nhiều thập kỷ",
-        "Rwanda bị cáo buộc liên quan đến xung đột ở Congo kể từ sau thảm họa diệt chủng năm 1994",
-        "Tòa án Quốc tế sẽ xem xét các cáo buộc của Congo",
-        "Congo hy vọng Tòa án Quốc tế sẽ đưa ra phán quyết công bằng"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo (Congo) đã kiện Rwanda trước Tòa án Quốc tế về các vi phạm nhân quyền kéo dài trong nhiều thập kỷ. Congo cáo buộc Rwanda liên quan đến xung đột ở Congo kể từ sau thảm họa diệt chủng năm 1994. Rwanda bị cáo buộc vi phạm nhân quyền và gây ra thiệt hại cho người dân Congo. Tòa án Quốc tế sẽ xem xét các cáo buộc của Congo và đưa ra phán quyết công bằng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "41afd7ed6d92",
-      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T19:39:18.736707+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Trump cáo buộc Iran vi phạm thỏa thuận ngừng bắn",
-      "bullets": [
-        "Tổng thống Trump cáo buộc Iran vi phạm thỏa thuận ngừng bắn",
-        "Một tàu Singapore bị tấn công trong eo biển Hormuz",
-        "Tàu bị tấn công đã phải dừng việc sơ tán",
-        "Tình hình đang được theo dõi chặt chẽ"
-      ],
-      "full_summary": "Tổng thống Trump cáo buộc Iran vi phạm thỏa thuận ngừng bắn sau khi một tàu Singapore bị tấn công trong eo biển Hormuz. Tàu bị tấn công đã phải dừng việc sơ tán, khiến tình hình trở nên nghiêm trọng hơn. Các quan chức đang theo dõi tình hình chặt chẽ và đang tìm kiếm thông tin về vụ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1adf787c1375",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T19:39:19.861467+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "John Bolton thú tội vi phạm bí mật quốc gia",
-      "bullets": [
-        "Bolton thú tội vi phạm bí mật quốc gia",
-        "Bolton phải chịu phạt tù tối đa 5 năm",
-        "Bolton phải bồi thường 2,25 triệu USD"
-      ],
-      "full_summary": "John Bolton, cố vấn của cựu Tổng thống Mỹ Donald Trump, đã thú tội vi phạm bí mật quốc gia. Ông Bolton đã đồng ý chịu phạt tù tối đa 5 năm và phải bồi thường 2,25 triệu USD. Điều này là kết quả của một thỏa thuận với các nhà điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b13c992a65b9",
-      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-26T19:39:20.805455+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bốn người bị giam giữ vì cưới vợ quá trẻ ở Sierra Leone",
-      "bullets": [
-        "Tứ người bị cáo buộc tổ chức hôn nhân trẻ em ở Sierra Leone",
-        "Một cô gái 17 tuổi là nạn nhân của vụ việc",
-        "Bốn người này có thể phải ngồi tù nhiều năm nếu bị kết tội",
-        "Vụ việc đang được xét xử tại một tòa án lịch sử"
-      ],
-      "full_summary": "Một vụ án lịch sử đang được xét xử ở Sierra Leone liên quan đến việc cưới vợ quá trẻ. Bốn người, bao gồm cả cha và chồng của cô gái 17 tuổi, bị cáo buộc tổ chức hôn nhân trẻ em. Nếu bị kết tội, họ có thể phải ngồi tù nhiều năm. Vụ việc đang thu hút sự chú ý của dư luận và được coi là một bước tiến quan trọng trong việc ngăn chặn hôn nhân trẻ em.",
       "comments": 0,
       "score": 0
     }
