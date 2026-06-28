@@ -1,6 +1,202 @@
 {
-  "updated_at": "2026-06-28T13:22:29.745950+00:00",
+  "updated_at": "2026-06-28T19:07:37.621800+00:00",
   "articles": [
+    {
+      "id": "b4323f980ce0",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T19:07:20.874590+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiệt đới châu Âu gây 1.300 cái chết, WHO cảnh báo",
+      "bullets": [
+        "Cảnh báo về nguy cơ tử vong do nhiệt độ cao",
+        "Châu Âu chưa sẵn sàng đối phó với nhiệt độ cao",
+        "Nhiệt độ kỷ lục 41,7 độ C tại Đức",
+        "WHO cảnh báo về tác động của nhiệt độ cao"
+      ],
+      "full_summary": "WHO cảnh báo châu Âu chưa sẵn sàng đối phó với nhiệt độ cao. Nhiệt đới châu Âu đã gây ra 1.300 cái chết. Nhiệt độ kỷ lục 41,7 độ C đã được ghi nhận tại Đức. WHO cảnh báo về tác động của nhiệt độ cao và yêu cầu châu Âu phải chuẩn bị tốt hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5d7f6b2ee22c",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T19:07:22.524741+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông Úc bị bắt vì giết hại một cô gái 17 tuổi ở Thái Lan",
+      "bullets": [
+        "Một thi thể được tìm thấy gần đường ray vào ngày thứ 7",
+        "Cơ quan chức năng cho biết thi thể là của một cô gái 17 tuổi",
+        "Một người đàn ông Úc đã bị bắt vì tội giết hại",
+        "Cơ quan chức năng đang điều tra vụ việc"
+      ],
+      "full_summary": "Một người đàn ông Úc đã bị bắt vì tội giết hại một cô gái 17 tuổi ở Thái Lan. Thi thể của cô gái đã được tìm thấy gần đường ray vào ngày thứ 7. Cơ quan chức năng cho biết họ đang điều tra vụ việc và sẽ đưa ra kết luận cuối cùng sau khi có đủ bằng chứng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c4e146fd9d31",
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T19:07:23.567469+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai máy bay trực thăng của Aramco rơi ở Ả Rập Xê Út, 14 người chết",
+      "bullets": [
+        "Rơi xuống đất ở Ả Rập Xê Út",
+        "Máy bay thuộc sở hữu của Aramco",
+        "Cơ quan điều tra đang tìm hiểu nguyên nhân",
+        "14 người thiệt mạng"
+      ],
+      "full_summary": "Một máy bay trực thăng của Aramco đã rơi xuống đất ở Ả Rập Xê Út, khiến 14 người thiệt mạng. Máy bay này thuộc sở hữu của Aramco, một công ty dầu khí nhà nước của Ả Rập Xê Út. Cơ quan điều tra đang tìm hiểu nguyên nhân của vụ tai nạn. Thông tin chi tiết về vụ việc vẫn chưa được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e67ee4923ccc",
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-28T19:07:24.551559+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai bang Utah và Colorado đối mặt với những đám cháy rừng khổng lồ",
+      "bullets": [
+        "Hai thống đốc Utah và Colorado đã tuyên bố tình trạng khẩn cấp"
+      ],
+      "full_summary": "Một số đám cháy rừng đang hoành hành ở Utah và Colorado, khiến hai thống đốc tuyên bố tình trạng khẩn cấp. Ba người lính cứu hỏa đã thiệt mạng trong quá trình dập lửa. Các đám cháy đã gây ra những thiệt hại nghiêm trọng cho các khu vực xung quanh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4bfd63abfa87",
+      "title": "Doctors suspected man had brain cancer. He actually had worms.",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-28T19:07:25.691990+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Bác sĩ nghi ngờ bệnh nhân có ung thư não, nhưng thực ra là sán",
+      "bullets": [
+        "Bác sĩ nghi ngờ bệnh nhân có ung thư não",
+        "Chụp CT scan để kiểm tra",
+        "Khám nghiệm thấy đầu của sán",
+        "Bác sĩ xác định bệnh nhân bị nhiễm sán"
+      ],
+      "full_summary": "Một bệnh nhân được bác sĩ nghi ngờ có ung thư não. Để kiểm tra, họ đã chụp CT scan và thấy có những hình ảnh không bình thường. Sau khi khám nghiệm, họ phát hiện ra đầu của sán. Bác sĩ xác định bệnh nhân bị nhiễm sán, không phải ung thư não.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a9ac2a1f6722",
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-28T19:07:26.632480+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple chặn các ứng dụng quan trọng của Nga, người dùng được khuyên dùng Android",
+      "bullets": [
+        "Apple chặn các ứng dụng quan trọng của Nga",
+        "Nga chỉ trích quyết định của Apple là 'khác thường'",
+        "Người dùng Nga được khuyên dùng điện thoại Android",
+        "Tình hình gây tranh cãi giữa Nga và Apple"
+      ],
+      "full_summary": "Nga đã chỉ trích Apple vì quyết định chặn các ứng dụng quan trọng của Nga. Theo Ars Technica, Apple đã chặn các ứng dụng này vì lý do không rõ ràng. Người dùng Nga đang được khuyên dùng điện thoại Android thay vì iPhone. Tình hình gây tranh cãi giữa Nga và Apple.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6676e195d81c",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-28T19:07:27.644982+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "NYT chỉ trích Microsoft vì xây dựng siêu máy tính vi phạm bản quyền cho OpenAI",
+      "bullets": [
+        "NYT cáo buộc Microsoft xây dựng siêu máy tính để giúp OpenAI vi phạm bản quyền",
+        "Sau quyết định của SCOTUS chống lại Sony, NYT thay đổi lập luận về OpenAI/Microsoft",
+        "Siêu máy tính của Microsoft được xây dựng để hỗ trợ công nghệ trí tuệ nhân tạo của OpenAI",
+        "NYT cho rằng hành động của Microsoft vi phạm bản quyền và cần phải được xử lý"
+      ],
+      "full_summary": "NYT đã cáo buộc Microsoft xây dựng siêu máy tính để giúp OpenAI vi phạm bản quyền. Sau quyết định của SCOTUS chống lại Sony, NYT đã thay đổi lập luận về OpenAI/Microsoft. Siêu máy tính của Microsoft được xây dựng để hỗ trợ công nghệ trí tuệ nhân tạo của OpenAI. NYTimes cho rằng hành động của Microsoft vi phạm bản quyền và cần phải được xử lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d44eb3e9b501",
+      "title": "The Cost Yagni Was Never About – By Kent Beck",
+      "url": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-28T19:07:29.303050+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "YAGNI không phải là về chi phí",
+      "bullets": [
+        "Khẳng định lại ý tưởng YAGNI",
+        "Giải thích ý nghĩa thực sự của YAGNI",
+        "Hướng dẫn cách áp dụng YAGNI trong lập trình",
+        "Cảnh báo về những hiểu lầm phổ biến về YAGNI"
+      ],
+      "full_summary": "Kent Beck đã viết một bài viết mới giải thích ý nghĩa thực sự của YAGNI (You Ain't Gonna Need It). Ông khẳng định rằng YAGNI không phải là về chi phí, mà là về việc tránh việc thêm các tính năng không cần thiết vào hệ thống. Ông cũng hướng dẫn cách áp dụng YAGNI trong lập trình và cảnh báo về những hiểu lầm phổ biến về YAGNI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e59a7e8df8eb",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-28T19:07:30.382896+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Laptop Lemote Yeeloong và hệ điều hành OpenBSD vượt qua rào cản",
+      "bullets": [
+        "Khám phá laptop Lemote Yeeloong chạy hệ điều hành OpenBSD",
+        "Tìm hiểu cách xung đột giữa hệ điều hành và laptop được giải quyết",
+        "Thử nghiệm hiệu suất của laptop và hệ điều hành",
+        "Đánh giá khả năng tương thích của hệ điều hành"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã giới thiệu về laptop Lemote Yeeloong và hệ điều hành OpenBSD. Bài viết này đã khám phá cách xung đột giữa hệ điều hành và laptop được giải quyết và thử nghiệm hiệu suất của laptop và hệ điều hành. Kết quả cho thấy laptop Lemote Yeeloong có thể chạy trơn tru trên hệ điều hành OpenBSD, vượt qua rào cản ban đầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2c473adaffdf",
+      "title": "Programmable Probabilistic Computer with 1M p-bits",
+      "url": "https://arxiv.org/abs/2606.25313",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-28T19:07:34.549813+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu mới về máy tính xác suất lập trình được với 1 triệu bit",
+      "bullets": [
+        "Xây dựng một máy tính xác suất lập trình được với 1 triệu bit",
+        "Cải thiện hiệu suất và độ chính xác của máy tính xác suất",
+        "Phát triển ứng dụng tiềm năng cho lĩnh vực khoa học và công nghệ"
+      ],
+      "full_summary": "Nghiên cứu mới về máy tính xác suất lập trình được với 1 triệu bit đã được công bố trên ArXiv. Máy tính này có khả năng lập trình được và có thể thực hiện các phép tính xác suất phức tạp. Nghiên cứu này có thể mở ra các ứng dụng tiềm năng cho lĩnh vực khoa học và công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ef5f1c2e0251",
       "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
@@ -595,205 +791,6 @@
         "Tăng cường hợp tác quốc tế để chia sẻ thông tin và kinh nghiệm về bảo mật"
       ],
       "full_summary": "Trong thời kỳ hậu Mythos, các hệ thống bảo mật hiện có đã sụp đổ, tạo ra cơ hội cho các cuộc tấn công mạng. Để đối phó với tình hình này, các chuyên gia bảo mật khuyên nên đánh giá lại các chiến lược bảo mật hiện tại và thực hiện các biện pháp phòng ngừa và ứng phó trước các cuộc tấn công mạng. Đầu tư vào công nghệ bảo mật mới và tăng cường hợp tác quốc tế cũng là những giải pháp quan trọng để chống lại các mối đe dọa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "62750e538c06",
-      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
-      "url": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T13:17:52.142981+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tỷ phú Leon Black từ chối tham gia điều tra vụ án Epstein",
-      "bullets": [
-        "Hội đồng lập pháp đã yêu cầu Leon Black phải khai trên camera và dưới lời thề",
-        "Tỷ phú này bị yêu cầu phải cung cấp thông tin về mối quan hệ với Jeffrey Epstein",
-        "Leon Black bị cáo buộc có liên quan đến vụ án của Epstein",
-        "Hội đồng lập pháp đang điều tra vụ án của Epstein"
-      ],
-      "full_summary": "Hội đồng lập pháp đã yêu cầu tỷ phú Leon Black phải khai trên camera và dưới lời thề trong vụ án của Jeffrey Epstein. Leon Black là người sáng lập của Apollo Global Management và bị cáo buộc có liên quan đến vụ án của Epstein. Hội đồng lập pháp đang điều tra vụ án của Epstein và đã yêu cầu nhiều người tham gia khai trên camera và dưới lời thề.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3ee1de2035b",
-      "title": "The abundant but expensive energy source that's under your feet",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T13:17:54.091820+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Công nghệ địa nhiệt đang được phát triển để giảm chi phí năng lượng",
-      "bullets": [
-        "Xây dựng các hệ thống khai thác địa nhiệt hiệu quả hơn",
-        "Tìm kiếm các nguồn địa nhiệt mới ở các khu vực chưa khai thác",
-        "Phát triển công nghệ để giảm chi phí sản xuất điện từ địa nhiệt"
-      ],
-      "full_summary": "Các công ty khởi nghiệp đang tìm cách khai thác năng lượng địa nhiệt một cách hiệu quả hơn, nhưng liệu chi phí có giảm xuống còn hợp lý không? Năng lượng địa nhiệt là nguồn năng lượng dồi dào nhưng tốn kém, nhưng các công nghệ mới đang được phát triển để giảm chi phí sản xuất điện từ địa nhiệt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ddc51fb6888",
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T13:17:54.990120+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
-      "bullets": [
-        "Bị kết án vì tấn công mạng vào TfL",
-        "Cả hai đều từng được cảnh sát biết đến nhiều năm trước",
-        "Tấn công mạng gây thiệt hại lớn cho Transport for London",
-        "Hai thanh niên bị kết án vì tội xâm phạm an ninh mạng"
-      ],
-      "full_summary": "Hai thanh niên Owen Flowers và Thalha Jubair vừa bị kết án vì tội xâm phạm an ninh mạng sau khi tấn công mạng vào Transport for London (TfL). Cả hai đều từng được cảnh sát biết đến nhiều năm trước nhưng vẫn thực hiện được vụ tấn công mạng gây thiệt hại lớn cho TfL. Owen Flowers và Thalha Jubair sẽ phải đối mặt với hình phạt nghiêm trọng vì tội xâm phạm an ninh mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b9ad193e33b5",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T13:17:55.998772+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hạ viện Zimbabwe thông qua sửa đổi hiến pháp để kéo dài nhiệm kỳ tổng thống",
-      "bullets": [
-        "Thượng viện Zimbabwe bỏ phiếu ủng hộ sửa đổi hiến pháp",
-        "Nhiệm kỳ tổng thống được kéo dài từ 5 năm lên 7 năm",
-        "Tổng thống Emmerson Mnangagwa có thể tiếp tục nắm quyền cho đến năm 2030",
-        "Tổng thống phủ nhận đây là cuộc đảo chính hiến pháp"
-      ],
-      "full_summary": "Hạ viện Zimbabwe đã thông qua sửa đổi hiến pháp để kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm. Điều này cho phép Tổng thống Emmerson Mnangagwa tiếp tục nắm quyền cho đến năm 2030. Các đối thủ của Tổng thống phủ nhận đây là cuộc đảo chính hiến pháp, nhưng cho rằng đây là một bước đi nhằm tăng cường quyền lực của Tổng thống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4d06943a6304",
-      "title": "Netflix now requires every user profile to be tied to unique email address",
-      "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-27T13:17:59.860677+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Netflix bắt buộc mỗi tài khoản phải liên kết với địa chỉ email duy nhất",
-      "bullets": [
-        "Bắt đầu từ ngày 15 tháng 6, Netflix sẽ không cho phép chia sẻ thông tin đăng nhập",
-        "Mỗi tài khoản phải liên kết với địa chỉ email duy nhất",
-        "Người dùng không thể tạo nhiều tài khoản với cùng địa chỉ email",
-        "Cập nhật này nhằm ngăn chặn việc chia sẻ tài khoản Netflix"
-      ],
-      "full_summary": "Netflix đã bắt đầu cập nhật yêu cầu mỗi tài khoản phải liên kết với địa chỉ email duy nhất. Cập nhật này bắt đầu từ ngày 15 tháng 6 và sẽ không cho phép người dùng chia sẻ thông tin đăng nhập. Mục đích của việc này là ngăn chặn việc chia sẻ tài khoản Netflix. Người dùng sẽ không thể tạo nhiều tài khoản với cùng địa chỉ email.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b4309d602fa3",
-      "title": "Beer CSS – Build material design in record time",
-      "url": "https://www.beercss.com",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-27T13:18:03.593636+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công cụ mới giúp thiết kế Material Design nhanh chóng",
-      "bullets": [
-        "Tạo thiết kế Material Design nhanh chóng",
-        "Công cụ trực tuyến miễn phí",
-        "Hỗ trợ nhiều tính năng và tùy chọn",
-        "Cung cấp giao diện thân thiện và dễ sử dụng"
-      ],
-      "full_summary": "Beer CSS là một công cụ trực tuyến miễn phí giúp thiết kế Material Design nhanh chóng. Công cụ này cung cấp giao diện thân thiện và dễ sử dụng, hỗ trợ nhiều tính năng và tùy chọn. Beer CSS được thiết kế để giúp người dùng tạo thiết kế Material Design một cách nhanh chóng và hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fed91535653e",
-      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T08:28:49.844681+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Apple tăng giá sản phẩm lên gần 20%, Xbox tăng giá console",
-      "bullets": [
-        "Tăng giá sản phẩm lên gần 20%",
-        "Xbox tăng giá console",
-        "Apple nói chưa từng thấy mức tăng giá linh kiện cao như vậy",
-        "Tác động đến người tiêu dùng"
-      ],
-      "full_summary": "Apple vừa thông báo tăng giá một số sản phẩm lên gần 20%, trong khi đó Xbox cũng tăng giá console. Apple cho biết họ chưa từng thấy mức tăng giá linh kiện cao như vậy. Điều này có thể ảnh hưởng đến người tiêu dùng và các nhà cung cấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d31003e995c2",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T08:28:50.777294+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "IBM tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
-      "bullets": [
-        "Tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
-        "Thiết kế mới cho công nghệ chip siêu nhỏ",
-        "Sẽ mất thời gian trước khi sẵn sàng cho sản xuất",
-        "IBM đạt mốc công nghệ mới trong lĩnh vực điện tử"
-      ],
-      "full_summary": "IBM vừa công bố đạt được mốc công nghệ mới trong lĩnh vực điện tử khi tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet. Công nghệ này được gọi là 'block of flats' design, mô tả một thiết kế mới cho các chip siêu nhỏ. Mặc dù đây là một thành tựu lớn, nhưng IBM cho biết sẽ mất thời gian trước khi công nghệ này sẵn sàng cho sản xuất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bf9ebda28a7",
-      "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T08:28:52.007441+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Sự cố địa chấn ở Venezuela khiến 920 người thiệt mạng",
-      "bullets": [
-        "Căng thẳng gia tăng khi chính phủ Venezuela bị chỉ trích vì phản ứng chậm chạp",
-        "Đại diện của chính phủ Venezuela cho biết hàng trăm đội cứu hộ nước ngoài đang trên đường đến",
-        "Số người bị thương trong vụ địa chấn đã lên tới 3.000 người",
-        "Nhiều người sống sót mô tả vụ địa chấn là 'cực kỳ nhanh chóng và tàn bạo'"
-      ],
-      "full_summary": "Đại diện của chính phủ Venezuela, Delcy Rodríguez, đã cam kết sẽ cố gắng cứu sống càng nhiều người càng tốt sau khi số người thiệt mạng trong vụ địa chấn ở Venezuela gần như gấp đôi. Số người chết đã lên tới 920, trong khi gần 3.000 người bị thương. Frustration đang gia tăng khi chính phủ Venezuela bị chỉ trích vì phản ứng chậm chạp. Đại diện của chính phủ Venezuela cho biết hàng trăm đội cứu hộ nước ngoài đang trên đường đến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ae2c4d7e3e9e",
-      "title": "Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on",
-      "url": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T08:28:52.975360+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Động đất Venezuela giết hại nhiều người và gây thiệt hại lớn",
-      "bullets": [
-        "Động đất mạnh đã giết hại hàng trăm người ở Venezuela",
-        "Số người chết đã tăng gấp đôi sau khi chính phủ Venezuela kêu gọi sự giúp đỡ quốc tế",
-        "Nhiều người đang tìm kiếm thành viên gia đình bị mất tích",
-        "Chính phủ Venezuela cam kết cứu sống càng nhiều người càng tốt"
-      ],
-      "full_summary": "Một trận động đất mạnh đã xảy ra tại Venezuela, giết hại hàng trăm người và gây thiệt hại lớn. Động đất đã làm đổ các tòa nhà ở khu vực biển, nơi có nhiều người sống. Chính phủ Venezuela đã kêu gọi sự giúp đỡ quốc tế và cam kết cứu sống càng nhiều người càng tốt. Nhiều người đang tìm kiếm thành viên gia đình bị mất tích.",
       "comments": 0,
       "score": 0
     }
