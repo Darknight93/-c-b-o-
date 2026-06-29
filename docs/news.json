@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-06-29T15:34:45.264840+00:00",
+  "updated_at": "2026-06-29T19:47:51.622751+00:00",
   "articles": [
+    {
+      "id": "f2e207d1dc0f",
+      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T19:47:37.505338+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Putin thừa nhận thiếu hụt nhiên liệu do các cuộc tấn công của Ukraine",
+      "bullets": [
+        "Chủ tịch Putin thừa nhận Ukraine tấn công gây ra vấn đề nhiên liệu",
+        "Chủ tịch Putin phủ nhận thiếu hụt nhiên liệu là nghiêm trọng",
+        "Ukraine liên tục tấn công các cơ sở nhiên liệu của Nga",
+        "Nga đang đối mặt với những khó khăn về nguồn cung cấp nhiên liệu"
+      ],
+      "full_summary": "Chủ tịch Vladimir Putin đã thừa nhận rằng các cuộc tấn công của Ukraine đang gây ra vấn đề về nguồn cung cấp nhiên liệu ở Nga. Tuy nhiên, ông phủ nhận rằng tình trạng thiếu hụt nhiên liệu là nghiêm trọng. Các cuộc tấn công của Ukraine liên tục nhắm vào các cơ sở nhiên liệu của Nga, khiến cho Nga phải đối mặt với những khó khăn về nguồn cung cấp nhiên liệu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "403a4db0c785",
+      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T19:47:38.495335+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhiều người từ các nước châu Phi rời Nam Phi trước hạn chót",
+      "bullets": [
+        "Cộng đồng chống di dân ở Nam Phi đã đặt ra hạn chót vào thứ Ba",
+        "Nhiều người từ các nước châu Phi đã rời khỏi Nam Phi trước hạn chót này",
+        "Lãnh đạo Nam Phi đã cảnh báo những người biểu tình chống di dân",
+        "Hạn chót này không được chính phủ Nam Phi công nhận"
+      ],
+      "full_summary": "Lãnh đạo Nam Phi đã cảnh báo những người biểu tình chống di dân rằng họ sẽ không được phép gây ra bạo lực. Thousands of người từ các nước châu Phi đã rời khỏi Nam Phi trước hạn chót được đặt ra bởi những người chống di dân. Hạn chót này không được chính phủ Nam Phi công nhận. Lãnh đạo Nam Phi hy vọng rằng tình hình sẽ được kiểm soát và không có bạo lực xảy ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8fc5071d5ae4",
+      "title": "WhatsApp to let people chat without swapping phone numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T19:47:39.554498+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp cho phép người dùng trò chuyện mà không cần chia số điện thoại",
+      "bullets": [
+        "WhatsApp sẽ triển khai tính năng tên người dùng toàn cầu trong vài tháng tới",
+        "Người dùng có thể trò chuyện với nhau mà không cần chia số điện thoại",
+        "Tính năng này sẽ giúp tăng cường sự riêng tư và bảo mật cho người dùng",
+        "WhatsApp đang triển khai tính năng này để mang lại trải nghiệm tốt hơn cho người dùng"
+      ],
+      "full_summary": "WhatsApp đang triển khai tính năng tên người dùng toàn cầu, cho phép người dùng trò chuyện với nhau mà không cần chia số điện thoại. Tính năng này sẽ được triển khai trong vài tháng tới và sẽ giúp tăng cường sự riêng tư và bảo mật cho người dùng. Điều này sẽ mang lại trải nghiệm tốt hơn cho người dùng WhatsApp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "23c5a1b111d1",
+      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T19:47:40.546683+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cape Verde được mọi người nói đến sau thành tích ấn tượng tại World Cup",
+      "bullets": [
+        "Cape Verdeans ở Anh cảm thấy tự hào khi đội tuyển quốc gia của họ có những trận đấu đáng nhớ",
+        "Đội bóng Cape Verde đã gây ấn tượng với người hâm mộ thế giới",
+        "Cape Verde đã trở thành tâm điểm chú ý tại World Cup",
+        "Cộng đồng người Cape Verde ở Anh hào hứng với thành tích của đội tuyển quốc gia"
+      ],
+      "full_summary": "Cộng đồng người Cape Verde ở Anh đang hào hứng khi đội tuyển quốc gia của họ có những trận đấu đáng nhớ tại World Cup. Sau những trận đấu đầy kịch tính, Cape Verde đã gây ấn tượng với người hâm mộ thế giới. 13 tuổi Lauryn, một người hâm mộ Cape Verde, đã cảm thấy tự hào khi thấy quốc gia của mình được thể hiện trên toàn thế giới. Cô nói rằng sau trận đấu đầu tiên, mọi người đã nói về Cape Verde và thấy được tài năng và kỹ năng của các cầu thủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "62eae44735e8",
+      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T19:47:41.574551+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Nhiều người nhiễm Ebola ở Cộng hòa Dân chủ Congo không thể theo dõi",
+      "bullets": [
+        "Cần xác định vị trí gần 300 người nhiễm Ebola",
+        "Hơn 1 triệu người sống trong trại tị nạn mà nhân viên y tế không thể tiếp cận",
+        "Dự đoán có thể có hàng nghìn người tử vong ở DRC vào tháng 9",
+        "Tình huống khẩn cấp ở khu vực có xung đột"
+      ],
+      "full_summary": "Tại Cộng hòa Dân chủ Congo, gần 300 người nhiễm Ebola không thể theo dõi. Điều này gây lo ngại về sự lây lan cộng đồng lớn. Theo dự đoán, có thể có hàng nghìn người tử vong ở DRC vào tháng 9. Các trại tị nạn với hơn 1 triệu người không thể tiếp cận được nhân viên y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5a9210f99459",
+      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
+      "url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-29T19:47:47.691715+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Wildwood giới thiệu về thế giới stop-motion của mình",
+      "bullets": [
+        "Giới thiệu về thế giới stop-motion của Wildwood",
+        "Travis Knight, đạo diễn của Wildwood, cũng là người sáng tạo đằng sau Kubo và hai sợi dây",
+        "Wildwood sử dụng kỹ thuật stop-motion để xây dựng thế giới của mình",
+        "Phim Wildwood đang được phát triển và sẽ được công chiếu trong tương lai"
+      ],
+      "full_summary": "Wildwood đã công bố một đoạn giới thiệu về thế giới stop-motion của mình. Đoạn giới thiệu này cho thấy sự sáng tạo và kỹ thuật của đội ngũ làm phim. Travis Knight, đạo diễn của Wildwood, cũng là người sáng tạo đằng sau Kubo và hai sợi dây, một bộ phim được đề cử Oscar vào năm 2016. Wildwood sử dụng kỹ thuật stop-motion để xây dựng thế giới của mình, một kỹ thuật đòi hỏi sự cẩn thận và tỉ mỉ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "9949d4cc8b32",
       "title": "Four women and man shot dead at youth welfare centre in northern Germany",
@@ -673,124 +793,6 @@
         "Cảnh báo về những hiểu lầm phổ biến về YAGNI"
       ],
       "full_summary": "Kent Beck đã viết một bài viết mới giải thích ý nghĩa thực sự của YAGNI (You Ain't Gonna Need It). Ông khẳng định rằng YAGNI không phải là về chi phí, mà là về việc tránh việc thêm các tính năng không cần thiết vào hệ thống. Ông cũng hướng dẫn cách áp dụng YAGNI trong lập trình và cảnh báo về những hiểu lầm phổ biến về YAGNI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e59a7e8df8eb",
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-28T19:07:30.382896+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Laptop Lemote Yeeloong và hệ điều hành OpenBSD vượt qua rào cản",
-      "bullets": [
-        "Khám phá laptop Lemote Yeeloong chạy hệ điều hành OpenBSD",
-        "Tìm hiểu cách xung đột giữa hệ điều hành và laptop được giải quyết",
-        "Thử nghiệm hiệu suất của laptop và hệ điều hành",
-        "Đánh giá khả năng tương thích của hệ điều hành"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã giới thiệu về laptop Lemote Yeeloong và hệ điều hành OpenBSD. Bài viết này đã khám phá cách xung đột giữa hệ điều hành và laptop được giải quyết và thử nghiệm hiệu suất của laptop và hệ điều hành. Kết quả cho thấy laptop Lemote Yeeloong có thể chạy trơn tru trên hệ điều hành OpenBSD, vượt qua rào cản ban đầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2c473adaffdf",
-      "title": "Programmable Probabilistic Computer with 1M p-bits",
-      "url": "https://arxiv.org/abs/2606.25313",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-28T19:07:34.549813+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu mới về máy tính xác suất lập trình được với 1 triệu bit",
-      "bullets": [
-        "Xây dựng một máy tính xác suất lập trình được với 1 triệu bit",
-        "Cải thiện hiệu suất và độ chính xác của máy tính xác suất",
-        "Phát triển ứng dụng tiềm năng cho lĩnh vực khoa học và công nghệ"
-      ],
-      "full_summary": "Nghiên cứu mới về máy tính xác suất lập trình được với 1 triệu bit đã được công bố trên ArXiv. Máy tính này có khả năng lập trình được và có thể thực hiện các phép tính xác suất phức tạp. Nghiên cứu này có thể mở ra các ứng dụng tiềm năng cho lĩnh vực khoa học và công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ef5f1c2e0251",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T13:22:14.833527+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai chàng trai Venezuela được cứu sau nhiều ngày bị mắc kẹt trong vụ động đất",
-      "bullets": [
-        "Cứu hộ đã dành 6 giờ để đào sâu để đến được một trong hai chàng trai",
-        "Nhiều cư dân tiếp tục tìm kiếm bằng tay trong đống đổ nát",
-        "Chưa có máy móc nặng để hỗ trợ",
-        "Cứu hộ tiếp tục tìm kiếm thêm những người bị mắc kẹt"
-      ],
-      "full_summary": "Một vụ động đất đã xảy ra tại Venezuela, khiến nhiều người bị mắc kẹt trong đống đổ nát. Sau nhiều ngày tìm kiếm, hai chàng trai đã được cứu. Cứu hộ đã dành 6 giờ để đào sâu để đến được một trong hai chàng trai. Nhiều cư dân tiếp tục tìm kiếm bằng tay trong đống đổ nát, chờ đợi máy móc nặng để hỗ trợ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6053ea3a53f1",
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T13:22:15.761674+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Máy bay chở nhảy dù rơi tại Pháp, 11 người chết",
-      "bullets": [
-        "Rơi máy bay tại Pháp",
-        "Cố chết 11 người, bao gồm cả phi công",
-        "Vụ tai nạn xảy ra tại vùng đông bắc nước Pháp"
-      ],
-      "full_summary": "Một máy bay chở 11 người nhảy dù đã rơi tại vùng đông bắc nước Pháp, khiến 11 người, bao gồm cả phi công, thiệt mạng. Vụ tai nạn xảy ra vào ngày 28 tháng 6, theo các quan chức địa phương. Cơ quan chức năng đang điều tra nguyên nhân của vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9e4ef6522908",
-      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T13:22:16.689426+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một ngôi nhà trại động vật ở California tìm thấy 117 con chó chết",
-      "bullets": [
-        "Tìm thấy 117 con chó chết tại trại động vật ở California",
-        "Nhiều con chó bị bắn súng",
-        "Còn nhiều động vật khác mất tích",
-        "Cảnh sát đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Một ngôi nhà trại động vật ở California được biết đến là một tổ chức không giết mổ động vật đã tìm thấy 117 con chó chết. Nhiều con chó bị bắn súng. Cảnh sát đang điều tra nguyên nhân và tìm kiếm các động vật khác mất tích. Hundreds con động vật khác vẫn còn mất tích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bff0507b889",
-      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
-      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T13:22:17.912190+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "GTA 6 chỉ có phiên bản tải về, liệu đĩa CD có bị loại bỏ?",
-      "bullets": [
-        "GTA 6 sẽ không có phiên bản đĩa CD",
-        "Tình trạng này có thể cho thấy sự chuyển dịch sang hình thức tải về",
-        "Phim và âm nhạc đã chuyển sang dạng kỹ thuật số",
-        "Có thể là dấu hiệu cho thấy ngành công nghiệp game đang theo hướng tương tự"
-      ],
-      "full_summary": "GTA 6 sắp ra mắt sẽ chỉ có phiên bản tải về, không có đĩa CD. Điều này có thể cho thấy sự chuyển dịch sang hình thức tải về trong ngành công nghiệp game. Phim và âm nhạc đã chuyển sang dạng kỹ thuật số trong nhiều năm qua. Sự thay đổi này có thể cho thấy ngành công nghiệp game đang theo hướng tương tự.",
       "comments": 0,
       "score": 0
     }
