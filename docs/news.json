@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-06-28T19:07:37.621800+00:00",
+  "updated_at": "2026-06-29T02:47:41.984940+00:00",
   "articles": [
+    {
+      "id": "e3ee1de2035b",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T02:47:27.410968+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Startup đang phát triển năng lượng địa nhiệt nhưng liệu kinh tế có hiệu quả?",
+      "bullets": [
+        "Khám phá tiềm năng năng lượng địa nhiệt dưới lòng đất",
+        "Các công ty khởi nghiệp đang tìm cách giảm chi phí sản xuất",
+        "Năng lượng địa nhiệt có thể trở thành nguồn năng lượng sạch và bền vững",
+        "Tuy nhiên, chi phí sản xuất vẫn còn cao và cần được cải thiện"
+      ],
+      "full_summary": "Các startup đang tìm cách khai thác năng lượng địa nhiệt, một nguồn năng lượng sạch và bền vững. Tuy nhiên, chi phí sản xuất vẫn còn cao và cần được cải thiện. Các công ty đang tìm cách giảm chi phí sản xuất bằng cách phát triển công nghệ mới và tối ưu hóa quy trình sản xuất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ddc51fb6888",
+      "title": "Teens who hacked TfL were known to police years before cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T02:47:28.412696+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
+      "bullets": [
+        "Bị kết án vì tấn công mạng vào hệ thống của Transport for London",
+        "Hai thanh niên này từng được cảnh sát biết đến nhiều năm trước",
+        "Tấn công mạng gây thiệt hại lớn cho TfL",
+        "Owen Flowers và Thalha Jubair bị kết án vì tội danh này"
+      ],
+      "full_summary": "Owen Flowers và Thalha Jubair là hai thanh niên bị kết án vì tội tấn công mạng vào hệ thống của Transport for London. Họ từng được cảnh sát biết đến nhiều năm trước nhưng vẫn thực hiện được vụ tấn công mạng gây thiệt hại lớn cho TfL. Owen Flowers và Thalha Jubair bị kết án vì tội danh này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fed91535653e",
+      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T02:47:29.182813+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Apple tăng giá sản phẩm gần 20%, Xbox tăng giá console",
+      "bullets": [
+        "Tăng giá sản phẩm gần 20%",
+        "Xbox tăng giá console",
+        "Apple nói chưa từng thấy giá nguyên liệu tăng nhanh như vậy",
+        "Tác động đến người tiêu dùng"
+      ],
+      "full_summary": "Apple đã tăng giá một số sản phẩm gần 20% trong khi Xbox cũng tăng giá console. Theo Apple, họ chưa từng thấy giá nguyên liệu tăng nhanh như vậy. Điều này có thể ảnh hưởng đến người tiêu dùng và thị trường công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d31003e995c2",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T02:47:30.218071+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "IBM phát triển công nghệ chip siêu nhỏ dưới 1 nanomet",
+      "bullets": [
+        "Tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
+        "Sẽ mất thời gian trước khi sản xuất được",
+        "IBM đạt mốc mới trong công nghệ chip",
+        "Công nghệ này hứa hẹn mang lại tiến bộ lớn"
+      ],
+      "full_summary": "IBM vừa công bố thành công trong việc tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet. Đây là một bước tiến lớn trong lĩnh vực công nghệ chip. Tuy nhiên, công nghệ này sẽ mất thời gian trước khi được sản xuất. IBM cho biết đây là một mốc mới trong công nghệ chip và hứa hẹn mang lại tiến bộ lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9ad193e33b5",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T02:47:31.082180+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạ viện Zimbabwe thông qua sửa đổi hiến pháp để kéo dài nhiệm kỳ tổng thống",
+      "bullets": [
+        "Chính phủ Zimbabwe thông qua sửa đổi hiến pháp kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm",
+        "Tổng thống 83 tuổi Emmerson Mnangagwa sẽ được phép ở lại vị trí này cho đến năm 2030",
+        "Các nhà lãnh đạo đối lập lo ngại rằng sửa đổi hiến pháp này sẽ làm tăng quyền lực của tổng thống"
+      ],
+      "full_summary": "Hạ viện Zimbabwe đã thông qua sửa đổi hiến pháp cho phép tổng thống Emmerson Mnangagwa ở lại vị trí này cho đến năm 2030. Sửa đổi này kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm. Các nhà lãnh đạo đối lập lo ngại rằng sửa đổi hiến pháp này sẽ làm tăng quyền lực của tổng thống và hạn chế sự cạnh tranh trong cuộc bầu cử tổng thống sắp tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e5993352508",
+      "title": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
+      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T02:47:32.057027+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bà con Venezuela sống sót sau 4 ngày dưới tàn phá",
+      "bullets": [
+        "Cứu hộ tìm thấy 1 người cha và con trai sống sót",
+        "Số người chết do động đất gần 1.500",
+        "Đội cứu hộ quốc tế tiếp tục tìm kiếm người sống sót",
+        "Số người chết có thể tiếp tục tăng cao"
+      ],
+      "full_summary": "Một cặp cha con ở Venezuela đã được tìm thấy sống sót sau 4 ngày bị mắc kẹt dưới tàn phá của động đất. Sự kiện này đã khiến số người chết do động đất gần 1.500. Đội cứu hộ quốc tế đã tiếp tục tìm kiếm người sống sót, nhưng khả năng sống sót đang giảm dần. Các đội cứu hộ từ Pháp và Mỹ đã tìm thấy cặp cha con sống sót tại thị trấn Caraballeda, cách thủ đô Caracas khoảng 40km.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7a0e07f0ff2e",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-29T02:47:32.912830+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Tạp chí rút lại hai bài viết của Max Planck vào thập niên 1940",
+      "bullets": [
+        "Rút lại hai bài viết vì không đạt được tiêu chuẩn khoa học",
+        "Các bài viết đã được phát hành vào thập niên 1940",
+        "Tạp chí cho rằng không thể chấp nhận được về mặt trí tuệ",
+        "Các bài viết hiện đã bị xóa khỏi hệ thống"
+      ],
+      "full_summary": "Một tạp chí khoa học đã rút lại hai bài viết của Max Planck vào thập niên 1940 do không đạt được tiêu chuẩn khoa học. Các bài viết đã được phát hành vào thập niên 1940 nhưng hiện đã bị xóa khỏi hệ thống. Tạp chí cho rằng không thể chấp nhận được về mặt trí tuệ khi các bài viết không đáp ứng được tiêu chuẩn khoa học.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1b81bd49c5ba",
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-29T02:47:34.790999+00:00",
+      "category": "economy",
+      "importance": 5,
+      "headline": "Các ngân hàng trung ương cảnh báo bùng nổ AI có thể gây ra cuộc khủng hoảng tài chính toàn cầu.",
+      "bullets": [
+        "Cảnh báo về khả năng bùng nổ AI gây ra cuộc khủng hoảng tài chính toàn cầu.",
+        "Các ngân hàng trung ương lo ngại về sự phụ thuộc quá mức vào công nghệ trí tuệ nhân tạo.",
+        "Bùng nổ AI có thể dẫn đến sự mất ổn định tài chính và gây ra hậu quả nghiêm trọng.",
+        "Các nhà lãnh đạo tài chính toàn cầu đang chuẩn bị đối phó với những rủi ro tiềm ẩn từ công nghệ AI."
+      ],
+      "full_summary": "Các ngân hàng trung ương trên toàn thế giới đang cảnh báo về khả năng bùng nổ công nghệ trí tuệ nhân tạo (AI) gây ra cuộc khủng hoảng tài chính toàn cầu. Họ lo ngại về sự phụ thuộc quá mức vào công nghệ AI và khả năng gây ra sự mất ổn định tài chính. Các nhà lãnh đạo tài chính toàn cầu đang chuẩn bị đối phó với những rủi ro tiềm ẩn từ công nghệ AI. Điều này có thể dẫn đến hậu quả nghiêm trọng và gây ra cuộc khủng hoảng tài chính toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3d1893b443aa",
+      "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+      "url": "https://www.nature.com/articles/d41586-026-02059-6",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-06-29T02:47:39.783728+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Cục bộ khủng long: Chimpanzee cười như con người",
+      "bullets": [
+        "Thử nghiệm tickling chimpanzee giúp hiểu rõ hơn về tiến trình phát triển ngôn ngữ",
+        "Các loài khủng long chia sẻ nhịp điệu cười như con người",
+        "Sử dụng AI có thể làm suy giảm kỹ năng trong y tế và khoa học máy tính"
+      ],
+      "full_summary": "Các nhà nghiên cứu tại Nature đã thực hiện một cuộc thử nghiệm thú vị liên quan đến việc tickling chimpanzee. Kết quả cho thấy rằng những con khủng long này có thể cười theo nhịp điệu giống như con người. Điều này có thể giúp chúng ta hiểu rõ hơn về tiến trình phát triển ngôn ngữ trong lịch sử. Ngoài ra, các nhà nghiên cứu cũng cảnh báo rằng việc sử dụng AI có thể làm suy giảm kỹ năng trong y tế và khoa học máy tính.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b4323f980ce0",
       "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
@@ -612,185 +790,6 @@
         "Cáo buộc bị chỉ trích là không công bằng"
       ],
       "full_summary": "Sadia Moalim Ali, một nữ sinh viên 27 tuổi ở Somalia, đã bị kết án ba năm tù vì bình luận trên mạng xã hội. Cáo buộc của bà là chỉ trích các cơ quan nhà nước, nhưng nhiều người cho rằng đây là một cáo buộc không công bằng. Một số cựu tổng thống và thủ tướng đã lên án bản án này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eae87b843fb8",
-      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-28T02:46:56.348827+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Câu chuyện về xe điện sang trọng dựa trên xe trạm trôi trên mặt trăng",
-      "bullets": [
-        "Xây dựng xe điện Amble One",
-        "Được thiết kế cho các khu nghỉ dưỡng sang trọng",
-        "Có giá bán 25.000 USD",
-        "Sử dụng động cơ điện"
-      ],
-      "full_summary": "Một nhóm người có kinh nghiệm làm việc tại Apple và Audi đã tạo ra xe điện Amble One, một chiếc xe trạm trôi sang trọng có thể lưu thông trên đường phố. Xe điện này được thiết kế cho các khu nghỉ dưỡng sang trọng và có giá bán 25.000 USD. Amble One được trang bị động cơ điện và được mô tả là một chiếc xe điện sang trọng dựa trên xe trạm trôi trên mặt trăng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9b4be103f5d0",
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-28T02:46:57.265668+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hàn Quốc chuẩn bị huấn luyện toàn bộ quân đội sử dụng máy bay không người lái",
-      "bullets": [
-        "Hàn Quốc sẽ huấn luyện 500.000 quân nhân sử dụng máy bay không người lái như một công cụ chiến đấu phổ biến",
-        "Mục tiêu của chương trình là giúp quân đội Hàn Quốc trở thành một trong những lực lượng quân sự hàng đầu thế giới",
-        "Máy bay không người lái sẽ được sử dụng để hỗ trợ các hoạt động quân sự và tình báo",
-        "Chương trình huấn luyện sẽ bắt đầu từ năm 2027"
-      ],
-      "full_summary": "Hàn Quốc đang lên kế hoạch huấn luyện toàn bộ quân đội sử dụng máy bay không người lái như một công cụ chiến đấu phổ biến. Chương trình này sẽ giúp quân đội Hàn Quốc trở thành một trong những lực lượng quân sự hàng đầu thế giới. Máy bay không người lái sẽ được sử dụng để hỗ trợ các hoạt động quân sự và tình báo. Chương trình huấn luyện sẽ bắt đầu từ năm 2027 và dự kiến sẽ hoàn thành trong vòng 5 năm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "569237eba949",
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-28T02:47:01.534464+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Lựa chọn nhà giải quyết DNS công cộng hiệu quả hơn",
-      "bullets": [
-        "Khám phá các nhà giải quyết DNS công cộng phổ biến",
-        "So sánh hiệu suất và tính bảo mật của các nhà giải quyết DNS",
-        "Lựa chọn nhà giải quyết DNS phù hợp với nhu cầu của bạn"
-      ],
-      "full_summary": "Một bài viết trên Hacker News hướng dẫn người dùng lựa chọn nhà giải quyết DNS công cộng phù hợp. Bài viết này so sánh hiệu suất và tính bảo mật của các nhà giải quyết DNS phổ biến, bao gồm Cloudflare, Google Public DNS và 1.1.1.1. Người dùng có thể sử dụng thông tin này để lựa chọn nhà giải quyết DNS phù hợp với nhu cầu của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8228eb393576",
-      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T19:08:41.338171+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Cơn bão khó khăn đang đè nặng lên Venezuela",
-      "bullets": [
-        "Cứu hộ đang nỗ lực tìm kiếm những người bị kẹt dưới đống đổ nát",
-        "Hy vọng đang dần phai mờ, nhưng sự tức giận đang tăng lên",
-        "Căng thẳng xã hội và kinh tế ở Venezuela đang ở mức cao nhất",
-        "Chính phủ đang đối mặt với thách thức lớn trong việc cung cấp hỗ trợ cho người dân"
-      ],
-      "full_summary": "Ở Caracas, tình hình đang trở nên khó khăn hơn bao giờ hết. Cứu hộ đang nỗ lực tìm kiếm những người bị kẹt dưới đống đổ nát, nhưng hy vọng đang dần phai mờ. Sự tức giận đang tăng lên và chính phủ đang đối mặt với thách thức lớn trong việc cung cấp hỗ trợ cho người dân. Căng thẳng xã hội và kinh tế ở Venezuela đang ở mức cao nhất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f0d962663b6",
-      "title": "Burkina Faso severs diplomatic ties with France",
-      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T19:08:43.439850+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Burkina Faso cắt đứt quan hệ ngoại giao với Pháp",
-      "bullets": [
-        "Burkina Faso cắt đứt quan hệ ngoại giao với Pháp",
-        "Junta Burkinabé cáo buộc Pháp xâm phạm lợi ích quốc gia",
-        "Pháp từng là cường quốc thuộc địa ở Tây Phi",
-        "Quan hệ giữa hai nước trở nên căng thẳng trong thời gian gần đây"
-      ],
-      "full_summary": "Burkina Faso đã cắt đứt quan hệ ngoại giao với Pháp sau khi junta Burkinabé cáo buộc nước này xâm phạm lợi ích quốc gia. Điều này diễn ra sau nhiều tháng quan hệ giữa hai nước trở nên căng thẳng. Burkina Faso từng là thuộc địa của Pháp, nhưng đã giành độc lập vào năm 1960.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d9b9735ccf7f",
-      "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T19:08:44.401839+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Rockstar xác nhận GTA 6 sẽ có giá 70 bảng Anh và không có đĩa vật lý",
-      "bullets": [
-        "Rockstar sẽ bán GTA 6 với giá 70 bảng Anh",
-        "Phiên bản vật lý sẽ không chứa đĩa, thay vào đó là mã để tải xuống",
-        "Người dùng sẽ nhận được mã để tải xuống game khi mua phiên bản vật lý",
-        "Thông tin chi tiết về game sẽ được công bố trong tương lai"
-      ],
-      "full_summary": "Rockstar Games đã xác nhận rằng phiên bản vật lý của GTA 6 sẽ không chứa đĩa, thay vào đó là mã để tải xuống game. Người dùng sẽ nhận được mã để tải xuống game khi mua phiên bản vật lý. Giá của game cũng đã được công bố, là 70 bảng Anh. Thông tin chi tiết về game sẽ được công bố trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d23e195aac1c",
-      "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
-      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T19:08:45.300184+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Microsoft bị đặt câu hỏi về tuyên bố về máy tính lượng tử",
-      "bullets": [
-        "Xóa bỏ tuyên bố về máy tính lượng tử của Microsoft",
-        "Một nhà khoa học đặt câu hỏi về nghiên cứu của Microsoft",
-        "Nghiên cứu của Microsoft vẫn được ủng hộ",
-        "Tất cả các chuyên gia không đồng ý với tuyên bố của Microsoft"
-      ],
-      "full_summary": "Một nhà khoa học đã đặt câu hỏi về tuyên bố của Microsoft về máy tính lượng tử. Mặc dù Microsoft đã luôn đứng đằng sau nghiên cứu về chip Majorana, nhưng một số chuyên gia vẫn đặt câu hỏi về kết quả. Nghiên cứu của Microsoft vẫn đang được ủng hộ, nhưng không phải tất cả các chuyên gia đều đồng ý với tuyên bố của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "439c55bbd68a",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-27T19:08:46.269028+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Phát hiện ca bệnh Ebola đầu tiên ở Pháp",
-      "bullets": [
-        "Xác định bệnh nhân Ebola ở Pháp",
-        "Chẩn đoán bệnh nhân sau chuyến công tác tại DRC",
-        "Đoàn ngũ y tế đang truy vết liên hệ của bệnh nhân",
-        "Rủi ro đối với công chúng châu Âu được đánh giá rất thấp"
-      ],
-      "full_summary": "Bộ Y tế Pháp vừa xác nhận ca bệnh Ebola đầu tiên ở nước này. Bệnh nhân là một bác sĩ đã từng công tác tại khu vực bị ảnh hưởng bởi dịch ở Cộng hòa Dân chủ Congo. Bệnh nhân được chuyển đến một cơ sở chuyên khoa và đang trong tình trạng ổn định. Các biện pháp phòng ngừa đã được thực hiện ngay từ khi bệnh nhân đến Pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "927940715868",
-      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-27T19:08:53.656564+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Calm và tiếp tục: Chống lại các cuộc tấn công mạng trong thời kỳ hậu Mythos",
-      "bullets": [
-        "Đánh giá lại các chiến lược bảo mật sau sự sụp đổ của các hệ thống bảo mật hiện có",
-        "Thực hiện các biện pháp phòng ngừa và ứng phó trước các cuộc tấn công mạng",
-        "Đầu tư vào công nghệ bảo mật mới để chống lại các mối đe dọa",
-        "Tăng cường hợp tác quốc tế để chia sẻ thông tin và kinh nghiệm về bảo mật"
-      ],
-      "full_summary": "Trong thời kỳ hậu Mythos, các hệ thống bảo mật hiện có đã sụp đổ, tạo ra cơ hội cho các cuộc tấn công mạng. Để đối phó với tình hình này, các chuyên gia bảo mật khuyên nên đánh giá lại các chiến lược bảo mật hiện tại và thực hiện các biện pháp phòng ngừa và ứng phó trước các cuộc tấn công mạng. Đầu tư vào công nghệ bảo mật mới và tăng cường hợp tác quốc tế cũng là những giải pháp quan trọng để chống lại các mối đe dọa.",
       "comments": 0,
       "score": 0
     }
