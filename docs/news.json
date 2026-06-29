@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-06-29T10:28:52.566680+00:00",
+  "updated_at": "2026-06-29T15:34:45.264840+00:00",
   "articles": [
+    {
+      "id": "9949d4cc8b32",
+      "title": "Four women and man shot dead at youth welfare centre in northern Germany",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T15:34:30.741631+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Một vụ bắn súng tại trung tâm hỗ trợ trẻ em ở Đức",
+      "bullets": [
+        "Bốn phụ nữ và một người đàn ông bị bắn chết",
+        "Hai người bị bắt giữ, một trong số đó là nghi phạm",
+        "Vụ việc xảy ra tại trung tâm hỗ trợ trẻ em ở Đức",
+        "Cảnh sát đang điều tra nguyên nhân vụ việc"
+      ],
+      "full_summary": "Một vụ bắn súng nghiêm trọng đã xảy ra tại trung tâm hỗ trợ trẻ em ở miền bắc Đức. Theo cảnh sát địa phương, bốn phụ nữ và một người đàn ông đã bị bắn chết. Hai người đã bị bắt giữ, một trong số đó là nghi phạm. Cảnh sát đang điều tra nguyên nhân vụ việc để tìm hiểu thêm về sự việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9d1092c898c3",
+      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T15:34:31.808164+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tòa án Tối cao Mỹ từ chối kháng cáo của Trump trong vụ xâm hại tình dục của E Jean Carroll",
+      "bullets": [
+        "Tòa án Tối cao Mỹ đã từ chối kháng cáo của cựu Tổng thống Trump",
+        "Trump sẽ phải bồi thường cho E Jean Carroll 5 triệu USD",
+        "E Jean Carroll đã được tòa án tuyên bố thắng kiện trong vụ xâm hại tình dục",
+        "Trump sẽ phải chịu trách nhiệm về hành động của mình"
+      ],
+      "full_summary": "Tòa án Tối cao Mỹ đã từ chối kháng cáo của cựu Tổng thống Trump trong vụ xâm hại tình dục của E Jean Carroll. Điều này có nghĩa là Trump sẽ phải bồi thường cho E Jean Carroll 5 triệu USD, số tiền mà bà đã được tòa án tuyên bố thắng kiện. Vụ việc đã gây ra nhiều tranh cãi và là một trong những vụ kiện nổi tiếng nhất trong thời kỳ tổng thống của Trump.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7628ab8d8045",
+      "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
+      "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T15:34:32.781998+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cộng hòa Dân chủ Congo cấm tập trung đông người để ngăn chặn lây lan Ebola",
+      "bullets": [
+        "Cộng hòa Dân chủ Congo cấm tổ chức các sự kiện đông người tại thủ đô Kinshasa",
+        "Các chính trị gia đối lập cáo buộc chính phủ sử dụng dịch bệnh để ngăn chặn cuộc biểu tình",
+        "Sự kiện này diễn ra trong bối cảnh chính phủ đang chuẩn bị cho cuộc biểu tình",
+        "Các quan chức y tế đang nỗ lực ngăn chặn sự lây lan của bệnh dịch Ebola"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đã cấm tổ chức các sự kiện đông người tại thủ đô Kinshasa để ngăn chặn sự lây lan của bệnh dịch Ebola. Các chính trị gia đối lập cáo buộc chính phủ sử dụng dịch bệnh để ngăn chặn cuộc biểu tình. Sự kiện này diễn ra trong bối cảnh chính phủ đang chuẩn bị cho cuộc biểu tình. Các quan chức y tế đang nỗ lực ngăn chặn sự lây lan của bệnh dịch Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "de8e2b76e093",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T15:34:33.853391+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tòa án tối cao ngăn Trump sa thải thống đốc Ngân hàng Trung ương Lisa Cook",
+      "bullets": [
+        "Ngăn chặn Trump sa thải Lisa Cook",
+        "Tòa án tối cao ủng hộ độc lập ngân hàng trung ương",
+        "Tranh chấp về việc sa thải được đưa về tòa án cấp dưới",
+        "Quyết định này được coi là chiến thắng cho ngân hàng trung ương"
+      ],
+      "full_summary": "Tòa án tối cao Hoa Kỳ đã ngăn chặn nỗ lực của cựu Tổng thống Donald Trump sa thải thống đốc Ngân hàng Trung ương Lisa Cook. Quyết định này được coi là một chiến thắng cho độc lập ngân hàng trung ương. Tranh chấp về việc sa thải sẽ được đưa về tòa án cấp dưới. Đây là một bước ngoặt quan trọng trong cuộc chiến tranh giữa Tổng thống và ngân hàng trung ương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f0594e08afb",
+      "title": "Ford rehires human engineers after AI fails to match quality checks",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T15:34:35.015258+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Ford tái tuyển kỹ sư con người sau khi AI không đạt chất lượng",
+      "bullets": [
+        "Ford tái tuyển kỹ sư con người sau khi AI không đạt chất lượng kiểm tra",
+        "AI kiểm tra chất lượng của Ford không bằng được kỹ sư dày kinh nghiệm",
+        "Ford phải tuyển lại kỹ sư con người để đảm bảo chất lượng sản phẩm",
+        "Sự thất bại của AI cho thấy tầm quan trọng của kỹ sư con người trong sản xuất ô tô"
+      ],
+      "full_summary": "Ford đã phải tái tuyển một số kỹ sư con người sau khi hệ thống kiểm tra chất lượng AI của họ không đạt được yêu cầu. Hệ thống AI đã thất bại trong việc kiểm tra chất lượng sản phẩm ô tô của Ford, dẫn đến việc công ty phải tuyển lại kỹ sư con người để đảm bảo chất lượng sản phẩm. Điều này cho thấy tầm quan trọng của kỹ sư con người trong sản xuất ô tô và sự cần thiết phải kết hợp giữa công nghệ và kỹ năng con người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ec1dafa2ed34",
+      "title": "Tech firms are blaming AI for mega device and console price rises",
+      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T15:34:36.007045+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công nghệ AI được dùng làm lý do tăng giá thiết bị điện tử",
+      "bullets": [
+        "Tăng giá các thiết bị chơi game như Xbox, Switch 2 và Steam Deck",
+        "Công ty công nghệ đổ lỗi cho AI gây ra giá tăng",
+        "Giá thiết bị điện tử tăng cao trong những tháng gần đây",
+        "Nguồn nguyên liệu và chi phí sản xuất bị ảnh hưởng bởi AI"
+      ],
+      "full_summary": "Các công ty công nghệ đang đổ lỗi cho công nghệ trí tuệ nhân tạo (AI) gây ra giá tăng của các thiết bị điện tử như Xbox, Switch 2 và Steam Deck. Giá thiết bị điện tử đã tăng cao trong những tháng gần đây. Các công ty cho rằng nguồn nguyên liệu và chi phí sản xuất bị ảnh hưởng bởi AI, dẫn đến giá tăng. Điều này đã gây ra sự bất mãn của người tiêu dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f53385df7512",
+      "title": "Weather tracker: North-west US hit by snow ahead of eastern heatwave",
+      "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-29T15:34:40.253965+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mùa hè bất thường ở Mỹ: Tuyết rơi ở Tây Bắc, nhiệt độ cao ở Đông",
+      "bullets": [
+        "Tuyết rơi bất thường ở một số khu vực ở Mỹ",
+        "Nhiệt độ ở Tây Bắc Mỹ thấp hơn 5-10 độ C so với trung bình",
+        "Nhiệt độ ở New York và Washington DC có thể lên đến 40 độ C vào cuối tuần",
+        "Mùa hè bất thường ở Mỹ do ảnh hưởng của một đợt gió lạnh mạnh"
+      ],
+      "full_summary": "Mùa hè ở Mỹ đang trải qua một mùa hè bất thường. Một đợt gió lạnh mạnh đã lan rộng vào phía Tây Bắc Mỹ từ Bắc Thái Bình Dương, mang lại một sự thay đổi đột ngột trong điều kiện thời tiết ở một khu vực đã trải qua nhiệt độ cao vào mùa hè trong tình trạng hạn hán. Nhiệt độ từ biên giới Canada đến California đã thấp hơn 5-10 độ C so với trung bình kể từ thứ Sáu, và thấp hơn 10 độ C ở một số khu vực xa hơn về phía Bắc.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1210c03e50c4",
       "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
@@ -651,145 +791,6 @@
         "Có thể là dấu hiệu cho thấy ngành công nghiệp game đang theo hướng tương tự"
       ],
       "full_summary": "GTA 6 sắp ra mắt sẽ chỉ có phiên bản tải về, không có đĩa CD. Điều này có thể cho thấy sự chuyển dịch sang hình thức tải về trong ngành công nghiệp game. Phim và âm nhạc đã chuyển sang dạng kỹ thuật số trong nhiều năm qua. Sự thay đổi này có thể cho thấy ngành công nghiệp game đang theo hướng tương tự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bc5fb3a620d",
-      "title": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T13:22:19.025547+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cơn bão thiên tai thử thách chính sách Mỹ ở Tây bán cầu",
-      "bullets": [
-        "Cục ngoại giao Mỹ cử 3 đội cứu hộ khẩn cấp",
-        "Đưa ra quỹ hỗ trợ 150 triệu USD",
-        "Thứ trưởng ngoại giao Mỹ Marco Rubio tuyên bố phản ứng nhanh chóng",
-        "Mỹ gọi Venezuela là đồng minh ở Mỹ Latinh"
-      ],
-      "full_summary": "Cơn địa chấn vừa xảy ra ở Venezuela đang thử thách chính sách mới của chính quyền Trump ở Tây bán cầu. Sau khi lật đổ nhà lãnh đạo Nicolás Maduro vào tháng 1, Mỹ đang cố gắng cung cấp phản ứng khẩn cấp hiệu quả cho đất nước này. Thứ trưởng ngoại giao Mỹ Marco Rubio tuyên bố phản ứng nhanh chóng và toàn diện. Mỹ đã cử 3 đội cứu hộ khẩn cấp và hứa sẽ cung cấp quỹ hỗ trợ 150 triệu USD.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51805e0da53a",
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-28T13:22:20.022119+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "California cấm quảng cáo trên các dịch vụ phát trực tuyến quá ồn ào",
-      "bullets": [
-        "Từ 1/7, các dịch vụ phát trực tuyến ở California sẽ bị cấm quảng cáo quá ồn ào",
-        "California trở thành tiểu bang thứ hai cấm quảng cáo quá ồn ào sau Illinois",
-        "Quy định mới nhằm bảo vệ người tiêu dùng khỏi quảng cáo quá ồn ào",
-        "Các dịch vụ phát trực tuyến sẽ phải tuân thủ quy định mới để tránh bị phạt"
-      ],
-      "full_summary": "California sẽ cấm quảng cáo quá ồn ào trên các dịch vụ phát trực tuyến từ ngày 1/7. Quy định mới này nhằm bảo vệ người tiêu dùng khỏi quảng cáo quá ồn ào. Illinois đã ban hành luật tương tự, tạo điều kiện cho các dịch vụ phát trực tuyến giảm thiểu âm lượng quảng cáo. Các dịch vụ phát trực tuyến sẽ phải tuân thủ quy định mới để tránh bị phạt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f710034b2884",
-      "title": "More evidence of life on Mars but still no life (2025)",
-      "url": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-28T13:22:24.214775+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu mới xác nhận sự sống trên sao Hỏa nhưng chưa tìm thấy dấu hiệu",
-      "bullets": [
-        "Xác định sự hiện diện của nước trên bề mặt sao Hỏa",
-        "Tìm thấy hóa chất có thể là dấu hiệu của sự sống",
-        "Chưa tìm thấy bằng chứng trực tiếp về sự sống trên sao Hỏa"
-      ],
-      "full_summary": "Nghiên cứu mới về sao Hỏa đã xác nhận sự hiện diện của nước trên bề mặt hành tinh này. Tuy nhiên, mặc dù đã tìm thấy hóa chất có thể là dấu hiệu của sự sống, nhưng chưa tìm thấy bằng chứng trực tiếp về sự sống trên sao Hỏa. Điều này cho thấy rằng mặc dù có nhiều dấu hiệu tích cực, nhưng vẫn còn nhiều điều cần được nghiên cứu và khám phá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0eff526e8937",
-      "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
-      "url": "https://www.nature.com/articles/d41586-026-02055-w",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-06-28T13:22:28.108694+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Tác giả Andrew Robinson giới thiệu 5 cuốn sách khoa học hay nhất",
-      "bullets": [
-        "Giới thiệu 5 cuốn sách khoa học hay nhất của năm",
-        "Đánh giá cuốn sách về thiên văn học và các hiện tượng thiên nhiên",
-        "Thể hiện sự ngưỡng mộ đối với sự kỳ diệu của các hiện tượng thiên nhiên",
-        "Khuyến khích mọi người đọc sách và khám phá thế giới tự nhiên"
-      ],
-      "full_summary": "Tác giả Andrew Robinson đã giới thiệu 5 cuốn sách khoa học hay nhất trong bài viết của mình trên Nature. Các cuốn sách này bao gồm một cuốn về thiên văn học và các hiện tượng thiên nhiên. Tác giả đã thể hiện sự ngưỡng mộ đối với sự kỳ diệu của các hiện tượng thiên nhiên, đặc biệt là các hiện tượng thiên văn như nhật thực. Ông khuyến khích mọi người đọc sách và khám phá thế giới tự nhiên để hiểu biết hơn về thế giới xung quanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "54dc1071f4f8",
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T08:43:47.479251+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ và Iran đổi đòn tấn công, tố cáo nhau vi phạm thỏa thuận ngừng bắn",
-      "bullets": [
-        "Mỹ đã tấn công nhiều mục tiêu ở Iran",
-        "Iran phản công bằng các cuộc tấn công vào cơ sở hạ tầng của Mỹ ở Kuwait và Bahrain",
-        "Hai quốc gia đều tố cáo nhau vi phạm thỏa thuận ngừng bắn",
-        "Tình hình đang trở nên căng thẳng"
-      ],
-      "full_summary": "Mỹ và Iran đã đổi đòn tấn công sau khi Mỹ cho biết đã tấn công nhiều mục tiêu ở Iran. Iran đã phản công bằng các cuộc tấn công vào cơ sở hạ tầng của Mỹ ở Kuwait và Bahrain. Hai quốc gia đều tố cáo nhau vi phạm thỏa thuận ngừng bắn, khiến tình hình trở nên căng thẳng. Hiện chưa rõ mức độ nghiêm trọng của các cuộc tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cb2ec87ff90c",
-      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-      "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T08:43:48.524056+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Kim Jong Un không nhắc đến mẹ vì dòng máu gây tranh cãi",
-      "bullets": [
-        "Kim Jong Un không nhắc đến mẹ vì sợ mất uy tín",
-        "Mẹ của Kim Jong Un có nguồn gốc gây tranh cãi",
-        "Nguồn gốc của mẹ Kim Jong Un đe dọa đến sự hợp pháp của chế độ",
-        "Ít người dân Bắc Triều Tiên biết về mẹ của Kim Jong Un"
-      ],
-      "full_summary": "Kim Jong Un không bao giờ nhắc đến mẹ của mình, Kim Jong Suk, vì sợ rằng nguồn gốc của bà có thể đe dọa đến sự hợp pháp của chế độ. Mẹ của Kim Jong Un là một người phụ nữ có nguồn gốc từ một gia đình nông dân nghèo, điều này có thể gây tranh cãi trong chế độ độc tài của Bắc Triều Tiên. Vì lý do này, ít người dân Bắc Triều Tiên biết về mẹ của Kim Jong Un. Điều này cho thấy sự sợ hãi của chế độ đối với sự thật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c092722785d",
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T08:43:49.471062+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay",
-      "bullets": [
-        "Sẽ là trò chơi điện tử lớn nhất năm nay",
-        "Được phát triển bởi Rockstar, hãng đã tạo ra nhiều trò chơi điện tử nổi tiếng",
-        "Sẽ có nhiều tính năng mới và cải tiến so với các phiên bản trước",
-        "Chưa có thông tin chính thức về ngày phát hành"
-      ],
-      "full_summary": "Rockstar sắp phát hành GTA 6, trò chơi điện tử lớn nhất năm nay. Trò chơi này sẽ được phát triển bởi Rockstar, hãng đã tạo ra nhiều trò chơi điện tử nổi tiếng như Grand Theft Auto V và Red Dead Redemption 2. GTA 6 sẽ có nhiều tính năng mới và cải tiến so với các phiên bản trước, nhưng chưa có thông tin chính thức về ngày phát hành.",
       "comments": 0,
       "score": 0
     }
