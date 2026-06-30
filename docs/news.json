@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-06-29T19:47:51.622751+00:00",
+  "updated_at": "2026-06-30T02:41:59.664138+00:00",
   "articles": [
+    {
+      "id": "d063d91d288f",
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T02:41:45.097419+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người Venezuela phải tự mưu sinh sau những cơn địa chấn",
+      "bullets": [
+        "Sử dụng búa, xẻng và tay để tìm kiếm người sống sót",
+        "Các khu vực bị thiệt hại nặng nề sau những trận động đất",
+        "Nhiều người Venezuela phải tự mưu sinh sau những cơn địa chấn",
+        "Tình hình trở nên khó khăn hơn sau những cơn động đất"
+      ],
+      "full_summary": "Các trận động đất vừa xảy ra ở Venezuela đã gây thiệt hại nặng nề và khiến nhiều người phải tự mưu sinh. Họ sử dụng búa, xẻng và tay để tìm kiếm người sống sót. Tình hình trở nên khó khăn hơn sau những cơn động đất, khiến nhiều người phải đối mặt với khó khăn và nguy hiểm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "693db6883f2c",
+      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T02:41:46.108174+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Các cứu hộ Venezuela lắng nghe tiếng sống dưới đống đổ nát",
+      "bullets": [
+        "Cứu hộ lắng nghe tiếng sống dưới đống đổ nát sau vụ sập tòa nhà",
+        "Tens of thousands người vẫn còn mất tích sau vụ tai nạn",
+        "Đội cứu hộ đang cố gắng tìm kiếm những người sống sót",
+        "Các chuyên gia hy vọng sẽ tìm thấy những người sống sót"
+      ],
+      "full_summary": "Các đội cứu hộ Venezuela đang lắng nghe tiếng sống dưới đống đổ nát sau vụ sập tòa nhà. Tens of thousands người vẫn còn mất tích sau vụ tai nạn. Các chuyên gia hy vọng sẽ tìm thấy những người sống sót nhưng vẫn còn nhiều khó khăn. Các đội cứu hộ đang cố gắng tìm kiếm những người sống sót và cung cấp hỗ trợ cho những người bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42e879fd7171",
+      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+      "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T02:41:47.268301+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Trump thắng lớn nhưng thua ba trận tại Tòa án Tối cao",
+      "bullets": [
+        "Tòa án Tối cao Mỹ đã mở rộng quyền lực của Tổng thống trong việc thay thế các quan chức",
+        "Trump thua ba trận liên quan đến hồ sơ bầu cử và các vấn đề khác",
+        "Các quyết định của Tòa án Tối cao gây ra nhiều tranh cãi và lo ngại",
+        "Tổng thống Trump đã lên án các quyết định này"
+      ],
+      "full_summary": "Tòa án Tối cao Mỹ đã đưa ra một số quyết định gây tranh cãi trong ngày hôm qua. Trong khi Tổng thống Trump đã giành được một chiến thắng khi Tòa án mở rộng quyền lực của Tổng thống trong việc thay thế các quan chức, ông đã thua ba trận liên quan đến hồ sơ bầu cử và các vấn đề khác. Các quyết định của Tòa án Tối cao gây ra nhiều tranh cãi và lo ngại, và Tổng thống Trump đã lên án các quyết định này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2bff0507b889",
+      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T02:41:48.215769+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "GTA 6 chỉ có phiên bản tải về, liệu đĩa CD đã chết?",
+      "bullets": [
+        "GTA 6 sẽ không có phiên bản đĩa CD khi ra mắt",
+        "Nhiều trò chơi hiện nay đã chuyển sang tải về",
+        "Phần mềm và phim cũng đã chuyển sang tải về",
+        "Cơ hội cho đĩa CD vẫn còn, nhưng đang giảm dần"
+      ],
+      "full_summary": "GTA 6 sẽ không có phiên bản đĩa CD khi ra mắt, điều này đã khiến nhiều người đặt câu hỏi liệu đĩa CD đã chết hay chưa. Trong nhiều năm qua, phần mềm và phim đã chuyển sang tải về, và hiện nay nhiều trò chơi cũng đang theo xu hướng này. Mặc dù vậy, vẫn còn nhiều cơ hội cho đĩa CD, nhưng nó đang giảm dần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca70bd7a9ae8",
+      "title": "Outrage as woman jailed for three years after criticising Somali government online",
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T02:41:49.252107+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nữ sinh viên bị giam 3 năm vì bình luận trên mạng xã hội",
+      "bullets": [
+        "Bị kết án vì xúc phạm các cơ quan nhà nước",
+        "Cáo buộc ban đầu bao gồm cả kích động gây rối",
+        "Cựu tổng thống và thủ tướng Somalia lên án bản án",
+        "Nhóm các tổ chức nhân quyền cũng lên tiếng phản đối"
+      ],
+      "full_summary": "Một nữ sinh viên 27 tuổi ở Somalia, Sadia Moalim Ali, bị kết án 3 năm tù vì bình luận trên mạng xã hội. Cô bị cáo buộc xúc phạm các cơ quan nhà nước, nhưng không bị kết án kích động gây rối. Bản án đã nhận được sự lên án từ cựu tổng thống và thủ tướng Somalia, cũng như các tổ chức nhân quyền.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "439c55bbd68a",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T02:41:50.235123+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Phát hiện ca Ebola đầu tiên ở Pháp",
+      "bullets": [
+        "Xác định ca bệnh Ebola đầu tiên ở Pháp",
+        "Bệnh nhân được chuyển đến cơ sở y tế chuyên khoa",
+        "Số liên hệ của bệnh nhân đang được theo dõi",
+        "Rủi ro đối với công chúng châu Âu rất thấp"
+      ],
+      "full_summary": "Pháp vừa xác nhận ca Ebola đầu tiên ở nước này, liên quan đến một bác sĩ đã trở về từ nhiệm vụ nhân đạo tại Cộng hòa Dân chủ Congo. Bệnh nhân được chuyển đến cơ sở y tế chuyên khoa và đang trong tình trạng ổn định. Các biện pháp phòng ngừa đã được thực hiện ngay từ khi bệnh nhân đến nước này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5a945e83b5fc",
+      "title": "US renewable boom passes key milestone in April",
+      "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-30T02:41:54.130597+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Mặt trời đã vượt qua than đá trong sản xuất điện",
+      "bullets": [
+        "Tăng trưởng mạnh mẽ của năng lượng tái tạo ở Mỹ đạt mốc quan trọng",
+        "Sử dụng năng lượng mặt trời nhỏ đã giúp năng lượng tái tạo sản xuất gần gấp ba lần than đá",
+        "Năng lượng tái tạo vẫn chưa chiếm ưu thế trong lưới điện"
+      ],
+      "full_summary": "Theo Ars Technica, tháng 4 vừa qua, năng lượng tái tạo ở Mỹ đã đạt mốc quan trọng khi sản xuất gần gấp ba lần than đá. Sự tăng trưởng mạnh mẽ của năng lượng mặt trời nhỏ đã đóng góp lớn vào thành tựu này. Tuy nhiên, năng lượng tái tạo vẫn chưa chiếm ưu thế trong lưới điện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "355f59158281",
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-30T02:41:58.581309+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Lập trình Lisp trên máy tính PDP-1 đầu tiên",
+      "bullets": [
+        "Khám phá lịch sử lập trình Lisp trên máy tính PDP-1",
+        "Giới thiệu về ngôn ngữ lập trình Lisp và ứng dụng của nó",
+        "Tìm hiểu về máy tính PDP-1 và vai trò của nó trong lịch sử công nghệ"
+      ],
+      "full_summary": "Bài viết này giới thiệu về ngôn ngữ lập trình Lisp và ứng dụng của nó trên máy tính PDP-1 đầu tiên. PDP-1 là một trong những máy tính đầu tiên được sử dụng để lập trình Lisp, và ngôn ngữ này đã trở thành một phần quan trọng trong lịch sử công nghệ. Bài viết này cũng giới thiệu về lịch sử của máy tính PDP-1 và vai trò của nó trong sự phát triển của công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f2e207d1dc0f",
       "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
@@ -636,163 +794,6 @@
         "Sử dụng AI có thể làm suy giảm kỹ năng trong y tế và khoa học máy tính"
       ],
       "full_summary": "Các nhà nghiên cứu tại Nature đã thực hiện một cuộc thử nghiệm thú vị liên quan đến việc tickling chimpanzee. Kết quả cho thấy rằng những con khủng long này có thể cười theo nhịp điệu giống như con người. Điều này có thể giúp chúng ta hiểu rõ hơn về tiến trình phát triển ngôn ngữ trong lịch sử. Ngoài ra, các nhà nghiên cứu cũng cảnh báo rằng việc sử dụng AI có thể làm suy giảm kỹ năng trong y tế và khoa học máy tính.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b4323f980ce0",
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T19:07:20.874590+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nhiệt đới châu Âu gây 1.300 cái chết, WHO cảnh báo",
-      "bullets": [
-        "Cảnh báo về nguy cơ tử vong do nhiệt độ cao",
-        "Châu Âu chưa sẵn sàng đối phó với nhiệt độ cao",
-        "Nhiệt độ kỷ lục 41,7 độ C tại Đức",
-        "WHO cảnh báo về tác động của nhiệt độ cao"
-      ],
-      "full_summary": "WHO cảnh báo châu Âu chưa sẵn sàng đối phó với nhiệt độ cao. Nhiệt đới châu Âu đã gây ra 1.300 cái chết. Nhiệt độ kỷ lục 41,7 độ C đã được ghi nhận tại Đức. WHO cảnh báo về tác động của nhiệt độ cao và yêu cầu châu Âu phải chuẩn bị tốt hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5d7f6b2ee22c",
-      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T19:07:22.524741+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông Úc bị bắt vì giết hại một cô gái 17 tuổi ở Thái Lan",
-      "bullets": [
-        "Một thi thể được tìm thấy gần đường ray vào ngày thứ 7",
-        "Cơ quan chức năng cho biết thi thể là của một cô gái 17 tuổi",
-        "Một người đàn ông Úc đã bị bắt vì tội giết hại",
-        "Cơ quan chức năng đang điều tra vụ việc"
-      ],
-      "full_summary": "Một người đàn ông Úc đã bị bắt vì tội giết hại một cô gái 17 tuổi ở Thái Lan. Thi thể của cô gái đã được tìm thấy gần đường ray vào ngày thứ 7. Cơ quan chức năng cho biết họ đang điều tra vụ việc và sẽ đưa ra kết luận cuối cùng sau khi có đủ bằng chứng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c4e146fd9d31",
-      "title": "Fourteen killed in Saudi Arabia helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T19:07:23.567469+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai máy bay trực thăng của Aramco rơi ở Ả Rập Xê Út, 14 người chết",
-      "bullets": [
-        "Rơi xuống đất ở Ả Rập Xê Út",
-        "Máy bay thuộc sở hữu của Aramco",
-        "Cơ quan điều tra đang tìm hiểu nguyên nhân",
-        "14 người thiệt mạng"
-      ],
-      "full_summary": "Một máy bay trực thăng của Aramco đã rơi xuống đất ở Ả Rập Xê Út, khiến 14 người thiệt mạng. Máy bay này thuộc sở hữu của Aramco, một công ty dầu khí nhà nước của Ả Rập Xê Út. Cơ quan điều tra đang tìm hiểu nguyên nhân của vụ tai nạn. Thông tin chi tiết về vụ việc vẫn chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e67ee4923ccc",
-      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-28T19:07:24.551559+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai bang Utah và Colorado đối mặt với những đám cháy rừng khổng lồ",
-      "bullets": [
-        "Hai thống đốc Utah và Colorado đã tuyên bố tình trạng khẩn cấp"
-      ],
-      "full_summary": "Một số đám cháy rừng đang hoành hành ở Utah và Colorado, khiến hai thống đốc tuyên bố tình trạng khẩn cấp. Ba người lính cứu hỏa đã thiệt mạng trong quá trình dập lửa. Các đám cháy đã gây ra những thiệt hại nghiêm trọng cho các khu vực xung quanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4bfd63abfa87",
-      "title": "Doctors suspected man had brain cancer. He actually had worms.",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-28T19:07:25.691990+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Bác sĩ nghi ngờ bệnh nhân có ung thư não, nhưng thực ra là sán",
-      "bullets": [
-        "Bác sĩ nghi ngờ bệnh nhân có ung thư não",
-        "Chụp CT scan để kiểm tra",
-        "Khám nghiệm thấy đầu của sán",
-        "Bác sĩ xác định bệnh nhân bị nhiễm sán"
-      ],
-      "full_summary": "Một bệnh nhân được bác sĩ nghi ngờ có ung thư não. Để kiểm tra, họ đã chụp CT scan và thấy có những hình ảnh không bình thường. Sau khi khám nghiệm, họ phát hiện ra đầu của sán. Bác sĩ xác định bệnh nhân bị nhiễm sán, không phải ung thư não.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a9ac2a1f6722",
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-28T19:07:26.632480+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple chặn các ứng dụng quan trọng của Nga, người dùng được khuyên dùng Android",
-      "bullets": [
-        "Apple chặn các ứng dụng quan trọng của Nga",
-        "Nga chỉ trích quyết định của Apple là 'khác thường'",
-        "Người dùng Nga được khuyên dùng điện thoại Android",
-        "Tình hình gây tranh cãi giữa Nga và Apple"
-      ],
-      "full_summary": "Nga đã chỉ trích Apple vì quyết định chặn các ứng dụng quan trọng của Nga. Theo Ars Technica, Apple đã chặn các ứng dụng này vì lý do không rõ ràng. Người dùng Nga đang được khuyên dùng điện thoại Android thay vì iPhone. Tình hình gây tranh cãi giữa Nga và Apple.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6676e195d81c",
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-28T19:07:27.644982+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "NYT chỉ trích Microsoft vì xây dựng siêu máy tính vi phạm bản quyền cho OpenAI",
-      "bullets": [
-        "NYT cáo buộc Microsoft xây dựng siêu máy tính để giúp OpenAI vi phạm bản quyền",
-        "Sau quyết định của SCOTUS chống lại Sony, NYT thay đổi lập luận về OpenAI/Microsoft",
-        "Siêu máy tính của Microsoft được xây dựng để hỗ trợ công nghệ trí tuệ nhân tạo của OpenAI",
-        "NYT cho rằng hành động của Microsoft vi phạm bản quyền và cần phải được xử lý"
-      ],
-      "full_summary": "NYT đã cáo buộc Microsoft xây dựng siêu máy tính để giúp OpenAI vi phạm bản quyền. Sau quyết định của SCOTUS chống lại Sony, NYT đã thay đổi lập luận về OpenAI/Microsoft. Siêu máy tính của Microsoft được xây dựng để hỗ trợ công nghệ trí tuệ nhân tạo của OpenAI. NYTimes cho rằng hành động của Microsoft vi phạm bản quyền và cần phải được xử lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d44eb3e9b501",
-      "title": "The Cost Yagni Was Never About – By Kent Beck",
-      "url": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-28T19:07:29.303050+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "YAGNI không phải là về chi phí",
-      "bullets": [
-        "Khẳng định lại ý tưởng YAGNI",
-        "Giải thích ý nghĩa thực sự của YAGNI",
-        "Hướng dẫn cách áp dụng YAGNI trong lập trình",
-        "Cảnh báo về những hiểu lầm phổ biến về YAGNI"
-      ],
-      "full_summary": "Kent Beck đã viết một bài viết mới giải thích ý nghĩa thực sự của YAGNI (You Ain't Gonna Need It). Ông khẳng định rằng YAGNI không phải là về chi phí, mà là về việc tránh việc thêm các tính năng không cần thiết vào hệ thống. Ông cũng hướng dẫn cách áp dụng YAGNI trong lập trình và cảnh báo về những hiểu lầm phổ biến về YAGNI.",
       "comments": 0,
       "score": 0
     }
