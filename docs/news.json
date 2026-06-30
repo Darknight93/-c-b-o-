@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-30T09:21:56.667101+00:00",
+  "updated_at": "2026-06-30T14:03:33.045702+00:00",
   "articles": [
+    {
+      "id": "f1e1c5fe8fc4",
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T14:03:17.477382+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cố vấn Mỹ đến Doha nhưng không gặp Iran",
+      "bullets": [
+        "Thăm dò viên Mỹ đến Doha để gặp các trung gian",
+        "Không có cuộc họp cấp cao hoặc thảo luận trực tiếp giữa Mỹ và Iran",
+        "Quân đội Mỹ vẫn đang chờ đợi quyết định của Iran",
+        "Căng thẳng giữa Mỹ và Iran vẫn chưa được giải quyết"
+      ],
+      "full_summary": "Cố vấn Mỹ đến Doha để gặp các trung gian nhưng không gặp đại diện Iran. Theo đại diện Bộ Ngoại giao Qatar, không có cuộc họp cấp cao hoặc thảo luận trực tiếp giữa Mỹ và Iran. Căng thẳng giữa hai quốc gia vẫn chưa được giải quyết. Quân đội Mỹ vẫn đang chờ đợi quyết định của Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f0b341ce1867",
+      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+      "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T14:03:18.496909+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Lũ lụt ở Ghana giết 13 người, cảnh báo thêm cơn bão sắp tới",
+      "bullets": [
+        "Ghi nhận 13 người thiệt mạng do lũ lụt ở Ghana",
+        "Người dân được khuyên di chuyển lên cao hoặc ở trong nhà",
+        "Cảnh báo mưa lớn tiếp tục đổ xuống",
+        "Cơn bão sắp tới có thể gây thêm thiệt hại"
+      ],
+      "full_summary": "Lũ lụt đã gây ra thiệt hại nghiêm trọng ở Ghana, khiến 13 người thiệt mạng. Người dân đang được khuyên di chuyển lên cao hoặc ở trong nhà để tránh mưa lớn. Cảnh báo mưa lớn tiếp tục đổ xuống và cơn bão sắp tới có thể gây thêm thiệt hại. Các cơ quan chức năng đang làm việc để hỗ trợ người dân bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fed91535653e",
+      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T14:03:19.512362+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Apple tăng giá sản phẩm lên gần 20% trong khi Xbox tăng giá console",
+      "bullets": [
+        "Apple tăng giá sản phẩm vì giá thành nguyên liệu tăng vọt",
+        "Xbox tăng giá console, gây khó khăn cho người tiêu dùng",
+        "Apple nói chưa từng thấy mức tăng giá nguyên liệu cao như vậy trong thời gian ngắn",
+        "Tình hình này gây lo ngại về sự ổn định của chuỗi cung ứng"
+      ],
+      "full_summary": "Apple vừa thông báo tăng giá một số sản phẩm lên gần 20%. Điều này được cho là do giá thành nguyên liệu tăng vọt. Trong khi đó, Xbox cũng tăng giá console, gây khó khăn cho người tiêu dùng. Apple cho biết chưa từng thấy mức tăng giá nguyên liệu cao như vậy trong thời gian ngắn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d31003e995c2",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T14:03:20.561989+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "IBM phát triển công nghệ chip siêu nhỏ dưới 1 nanomet",
+      "bullets": [
+        "Tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
+        "Đạt được thành tựu này sau nhiều năm nghiên cứu",
+        "Công nghệ mới chưa sẵn sàng cho sản xuất",
+        "IBM hy vọng sẽ cải thiện hiệu suất và tiết kiệm năng lượng"
+      ],
+      "full_summary": "IBM vừa công bố thành tựu mới trong lĩnh vực công nghệ chip siêu nhỏ. Công ty đã tạo ra công nghệ chip dưới 1 nanomet, một kỷ lục chưa từng có. Tuy nhiên, công nghệ mới này chưa sẵn sàng cho sản xuất và sẽ mất một thời gian để hoàn thiện. IBM hy vọng rằng công nghệ mới này sẽ giúp cải thiện hiệu suất và tiết kiệm năng lượng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7f49088c4c59",
+      "title": "Police units deployed across South Africa before anti-immigration marches",
+      "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T14:03:21.688021+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cảnh sát được triển khai trước các cuộc biểu tình chống nhập cư ở Nam Phi",
+      "bullets": [
+        "Được triển khai cảnh sát ở các thành phố và thị trấn khắp nước Nam Phi trước các cuộc biểu tình chống người nhập cư không giấy tờ",
+        "Cảnh sát được nhìn thấy tuần tra ở khu vực kinh doanh trung tâm ở Johannesburg",
+        "Nhiều chủ cửa hàng quyết định không mở cửa vào thứ ba",
+        "Đội quân Nam Phi đã triển khai xe tải và tài sản khác"
+      ],
+      "full_summary": "Cảnh sát Nam Phi đã triển khai lực lượng cảnh sát ở các thành phố và thị trấn khắp nước trước các cuộc biểu tình chống người nhập cư không giấy tờ. Điều này là để ngăn chặn các cuộc biểu tình có thể lặp lại như năm 2008, khi có 62 người thiệt mạng trong các vụ bạo động chống người nhập cư. Các lực lượng an ninh đã được nhìn thấy tuần tra ở khu vực kinh doanh trung tâm ở Johannesburg, nơi nhiều chủ cửa hàng quyết định không mở cửa vào thứ ba.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9ad193e33b5",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T14:03:22.762576+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạ viện Zimbabwe thông qua sửa đổi hiến pháp để kéo dài nhiệm kỳ tổng thống",
+      "bullets": [
+        "Chính phủ Zimbabwe thông qua sửa đổi hiến pháp kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm",
+        "Nhiệm kỳ tổng thống hiện tại sẽ được kéo dài cho đến năm 2030",
+        "Tổng thống 83 tuổi Emmerson Mnangagwa được cho là sẽ tiếp tục nắm quyền lực",
+        "Các đối thủ của chính phủ lo ngại rằng sửa đổi hiến pháp sẽ làm tăng quyền lực của tổng thống"
+      ],
+      "full_summary": "Hạ viện Zimbabwe đã thông qua sửa đổi hiến pháp kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm. Điều này sẽ cho phép Tổng thống Emmerson Mnangagwa tiếp tục nắm quyền lực cho đến năm 2030. Các đối thủ của chính phủ lo ngại rằng sửa đổi hiến pháp sẽ làm tăng quyền lực của tổng thống và vi phạm nguyên tắc dân chủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8a1b18a340c7",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-30T14:03:27.031744+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Hàn Quốc chi 1 tỷ USD cho sản xuất chip nhớ và robot humanoid",
+      "bullets": [
+        "Chiến lược Hàn Quốc nhằm dẫn đầu AI vật lý và robot humanoid thương mại vào năm 2028",
+        "Hàn Quốc sẽ chi 1 tỷ USD cho sản xuất chip nhớ và nghiên cứu robot humanoid",
+        "Mục tiêu của Hàn Quốc là trở thành cường quốc công nghệ hàng đầu trong lĩnh vực AI và robot",
+        "Nghiên cứu và sản xuất sẽ được thực hiện bởi các công ty và tổ chức hàng đầu Hàn Quốc"
+      ],
+      "full_summary": "Hàn Quốc đã công bố kế hoạch chi 1 tỷ USD cho sản xuất chip nhớ và nghiên cứu robot humanoid. Mục tiêu của Hàn Quốc là dẫn đầu trong lĩnh vực AI vật lý và robot humanoid thương mại vào năm 2028. Kế hoạch này sẽ được thực hiện bởi các công ty và tổ chức hàng đầu Hàn Quốc. Hàn Quốc hy vọng sẽ trở thành cường quốc công nghệ hàng đầu trong lĩnh vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a67bb0150a55",
+      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-06-30T14:03:32.545492+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Năng lượng tập luyện ảnh hưởng đến thành phần cơ thể ở người lớn tuổi khỏe mạnh",
+      "bullets": [
+        "Giảm mỡ cơ thể khi tập luyện với cường độ cao",
+        "Tăng cơ bắp khi tập luyện với cường độ vừa phải",
+        "Tăng cường sức khỏe tổng thể khi tập luyện với cường độ phù hợp",
+        "Thay đổi thành phần cơ thể theo tuổi tác khi tập luyện không đều đặn"
+      ],
+      "full_summary": "Một nghiên cứu mới đây cho thấy cường độ tập luyện có ảnh hưởng đáng kể đến thành phần cơ thể ở người lớn tuổi khỏe mạnh. Khi tập luyện với cường độ cao, người lớn tuổi có thể giảm mỡ cơ thể và tăng cơ bắp. Tuy nhiên, nếu tập luyện không đều đặn, thành phần cơ thể có thể thay đổi theo tuổi tác. Nghiên cứu này gợi ý rằng việc tập luyện với cường độ phù hợp có thể giúp duy trì sức khỏe tổng thể ở người lớn tuổi.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "79d0f1203a6e",
       "title": "Angry Venezuelans accuse government of negligence over earthquake response",
@@ -636,166 +796,6 @@
         "Hàn Quốc không đủ điều kiện vào nhóm 8 đội xếp thứ 3"
       ],
       "full_summary": "HLV Hàn Quốc từ chức sau thất bại ở World Cup. Tổng thống Hàn Quốc yêu cầu điều tra nguyên nhân thất bại. Hàn Quốc bị loại khỏi World Cup sau khi không đủ điều kiện vào nhóm 8 đội xếp thứ 3.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b02eeb3ac036",
-      "title": "Senior South African police officer survives assassination attempt",
-      "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:40.912683+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Một sĩ quan cảnh sát Nam Phi thoát khỏi âm mưu ám sát",
-      "bullets": [
-        "Một sĩ quan cảnh sát cấp cao ở Nam Phi thoát khỏi âm mưu ám sát hôm qua",
-        "Sĩ quan này sắp phải trình diện trước một cuộc điều tra về tham nhũng trong cảnh sát",
-        "Sự cố này xảy ra trước khi ông phải trình diện trước một cuộc điều tra",
-        "Sự cố ám sát vẫn đang được điều tra"
-      ],
-      "full_summary": "Một sĩ quan cảnh sát cấp cao ở Nam Phi, Đại tá Feroz Khan, đã thoát khỏi âm mưu ám sát hôm qua. Ông là người đứng đầu bộ phận tình báo tội phạm và sắp phải trình diện trước một cuộc điều tra về tham nhũng trong cảnh sát. Sự cố này xảy ra trước khi ông phải trình diện trước một cuộc điều tra. Sự cố ám sát vẫn đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "38ed872b83b4",
-      "title": "Indian journalists condemn 'denial' of voting and passport rights of prominent editor",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37jwd3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:41.831551+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhà báo Ấn Độ lên tiếng phản đối việc từ chối quyền bầu cử và hộ chiếu",
-      "bullets": [
-        "Phản đối việc xóa tên khỏi danh sách cử tri",
-        "Khước từ việc từ chối hộ chiếu",
-        "Yêu cầu giải thích lý do từ chối",
-        "Đe dọa kiện tụng"
-      ],
-      "full_summary": "Rajagopal cáo buộc đã bị từ chối gia hạn hộ chiếu sau khi tên của ông bị xóa khỏi danh sách cử tri. Ông lên tiếng phản đối việc này và yêu cầu giải thích lý do từ chối. Các nhà báo Ấn Độ đã lên tiếng ủng hộ ông và kêu gọi giải thích rõ ràng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d9b9735ccf7f",
-      "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:42.744345+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar xác nhận GTA 6 sẽ có giá £70, không có đĩa vật lý",
-      "bullets": [
-        "Rockstar sẽ bán GTA 6 với giá £70",
-        "Phiên bản vật lý sẽ không chứa đĩa game",
-        "Sẽ có mã để tải game trực tuyến",
-        "Thông tin chi tiết sẽ được công bố sau này"
-      ],
-      "full_summary": "Rockstar đã xác nhận giá bán của GTA 6 là £70 và phiên bản vật lý sẽ không chứa đĩa game. Thay vào đó, người dùng sẽ nhận được mã để tải game trực tuyến. Thông tin này đã được công bố trên BBC Technology. Rockstar chưa công bố thêm thông tin về game này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a4b472d53442",
-      "title": "Venezuela in ‘critical hours’ to find earthquake survivors as more search and rescue teams arrive – latest updates",
-      "url": "https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:44.491861+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Venezuela đang ở tình trạng khẩn cấp tìm kiếm người sống sót sau động đất",
-      "bullets": [
-        "Cứu hộ đang tìm kiếm nạn nhân ở các khu vực bị ảnh hưởng nặng nề",
-        "Số người chết đã tăng lên ít nhất 1.450 và dự kiến sẽ tăng thêm",
-        "Hậu quả của động đất đã ảnh hưởng đến hàng nghìn người",
-        "Đội cứu hộ quốc tế đang được điều động đến Venezuela"
-      ],
-      "full_summary": "Venezuela đang đối mặt với tình trạng khẩn cấp sau khi xảy ra động đất mạnh vào tuần trước. Số người chết đã tăng lên ít nhất 1.450 và dự kiến sẽ tăng thêm. Đội cứu hộ quốc tế đang được điều động đến Venezuela để tìm kiếm người sống sót. Vợ và hai con của cầu thủ bóng đá Lucas Trejo đã thiệt mạng trong vụ động đất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eae87b843fb8",
-      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-29T10:28:45.454611+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Các cựu nhân viên Apple và Audi đã tạo ra xe điện sang trọng dựa trên xe trượt Mặt Trăng",
-      "bullets": [
-        "Tạo ra xe điện Amble One với giá 25.000 USD",
-        "Xe được thiết kế cho các khu nghỉ dưỡng sang trọng",
-        "Sử dụng động cơ điện mạnh mẽ và thân xe nhẹ",
-        "Đảm bảo an toàn cho người lái và hành khách"
-      ],
-      "full_summary": "Các cựu nhân viên Apple và Audi đã hợp tác để tạo ra xe điện Amble One, một chiếc xe điện sang trọng dựa trên thiết kế của xe trượt Mặt Trăng. Xe được thiết kế để sử dụng trong các khu nghỉ dưỡng sang trọng và có giá bán là 25.000 USD. Amble One được trang bị động cơ điện mạnh mẽ và thân xe nhẹ, đảm bảo sự an toàn cho người lái và hành khách.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f9652574a60",
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-29T10:28:50.818314+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Máy tính siêu mạnh mới nhất thế giới được công bố",
-      "bullets": [
-        "Lần đầu tiên, máy tính siêu mạnh nhất thế giới được công bố tại hội nghị ISC'26",
-        "Máy tính mới này vượt qua máy tính số 1 hiện tại của TOP500",
-        "Máy tính siêu mạnh mới này được sử dụng cho các ứng dụng khoa học và nghiên cứu",
-        "TOP500 là danh sách các máy tính siêu mạnh nhất thế giới được công bố hàng năm"
-      ],
-      "full_summary": "Hội nghị ISC'26 vừa công bố máy tính siêu mạnh mới nhất thế giới. Máy tính này vượt qua máy tính số 1 hiện tại của TOP500 và được sử dụng cho các ứng dụng khoa học và nghiên cứu. TOP500 là danh sách các máy tính siêu mạnh nhất thế giới được công bố hàng năm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3ee1de2035b",
-      "title": "The abundant but expensive energy source that's under your feet",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T02:47:27.410968+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Startup đang phát triển năng lượng địa nhiệt nhưng liệu kinh tế có hiệu quả?",
-      "bullets": [
-        "Khám phá tiềm năng năng lượng địa nhiệt dưới lòng đất",
-        "Các công ty khởi nghiệp đang tìm cách giảm chi phí sản xuất",
-        "Năng lượng địa nhiệt có thể trở thành nguồn năng lượng sạch và bền vững",
-        "Tuy nhiên, chi phí sản xuất vẫn còn cao và cần được cải thiện"
-      ],
-      "full_summary": "Các startup đang tìm cách khai thác năng lượng địa nhiệt, một nguồn năng lượng sạch và bền vững. Tuy nhiên, chi phí sản xuất vẫn còn cao và cần được cải thiện. Các công ty đang tìm cách giảm chi phí sản xuất bằng cách phát triển công nghệ mới và tối ưu hóa quy trình sản xuất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ddc51fb6888",
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T02:47:28.412696+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
-      "bullets": [
-        "Bị kết án vì tấn công mạng vào hệ thống của Transport for London",
-        "Hai thanh niên này từng được cảnh sát biết đến nhiều năm trước",
-        "Tấn công mạng gây thiệt hại lớn cho TfL",
-        "Owen Flowers và Thalha Jubair bị kết án vì tội danh này"
-      ],
-      "full_summary": "Owen Flowers và Thalha Jubair là hai thanh niên bị kết án vì tội tấn công mạng vào hệ thống của Transport for London. Họ từng được cảnh sát biết đến nhiều năm trước nhưng vẫn thực hiện được vụ tấn công mạng gây thiệt hại lớn cho TfL. Owen Flowers và Thalha Jubair bị kết án vì tội danh này.",
       "comments": 0,
       "score": 0
     }
