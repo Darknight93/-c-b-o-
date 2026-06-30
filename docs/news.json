@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-06-30T14:03:33.045702+00:00",
+  "updated_at": "2026-06-30T19:46:02.230483+00:00",
   "articles": [
+    {
+      "id": "685a3ef4827e",
+      "title": "Supreme Court's birthright ruling is major blow to Trump",
+      "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T19:45:46.997872+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Tòa án tối cao Mỹ quyết định gây tổn hại cho Tổng thống Trump",
+      "bullets": [
+        "Phán quyết lịch sử gây tổn hại nghiêm trọng cho Tổng thống Trump",
+        "Tòa án tối cao Mỹ bác bỏ yêu cầu của Trump",
+        "Trump có thể phải đối mặt với hậu quả pháp lý nghiêm trọng",
+        "Phán quyết này có thể ảnh hưởng đến cuộc bầu cử tổng thống năm sau"
+      ],
+      "full_summary": "Tòa án tối cao Mỹ đã đưa ra phán quyết lịch sử gây tổn hại nghiêm trọng cho Tổng thống Trump. Phán quyết này bác bỏ yêu cầu của Trump và có thể khiến ông phải đối mặt với hậu quả pháp lý nghiêm trọng. Phán quyết này có thể ảnh hưởng đến cuộc bầu cử tổng thống năm sau và tạo ra nhiều bất ổn cho chính trị Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "74f43958198c",
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T19:45:47.994126+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "14 em nhỏ chết khi mái nhà đổ ở trung tâm học tập ở Pakistan",
+      "bullets": [
+        "Hai người bị bắt giữ sau vụ việc ở ngoại ô Lahore",
+        "Mái nhà đổ xuống khiến 14 em nhỏ tử vong",
+        "Vụ việc xảy ra tại trung tâm học tập tư nhân ở Pakistan",
+        "Cơ quan chức năng đang điều tra nguyên nhân"
+      ],
+      "full_summary": "Một vụ tai nạn nghiêm trọng xảy ra tại trung tâm học tập tư nhân ở ngoại ô Lahore, Pakistan. Mái nhà của trung tâm đổ xuống khiến 14 em nhỏ tử vong. Hai người đã bị bắt giữ sau vụ việc. Cơ quan chức năng đang điều tra nguyên nhân của vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4caf20e60b63",
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T19:45:49.003855+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hạm đội Mỹ và Nhật tập trận ở vùng hoang dã Úc",
+      "bullets": [
+        "Hạm đội Mỹ và Nhật đang tập trận ở vùng hoang dã Úc",
+        "Mục đích của cuộc tập trận là gì?",
+        "Úc không tham gia vào bất kỳ cuộc chiến nào",
+        "Vùng hoang dã Úc cách các khu vực xung đột xa hàng nghìn km"
+      ],
+      "full_summary": "Hạm đội Mỹ và Nhật đang tập trận ở vùng hoang dã Úc, một quốc gia không tham gia vào bất kỳ cuộc chiến nào. Mục đích của cuộc tập trận là gì? Theo BBC, cuộc tập trận nhằm mục đích tăng cường khả năng chiến đấu của quân đội Mỹ và Nhật. Vùng hoang dã Úc cách các khu vực xung đột xa hàng nghìn km, nhưng vẫn là một địa điểm lý tưởng cho các cuộc tập trận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "532c2cce5191",
+      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+      "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T19:45:49.934649+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 58.000 cực hữu ở Đức, cơ quan tình báo tiết lộ",
+      "bullets": [
+        "Xác định hơn 25% cực hữu có ý định bạo lực",
+        "Cơ quan tình báo Đức tiết lộ thông tin",
+        "Số lượng cực hữu đang gia tăng",
+        "Tình hình an ninh ở Đức trở nên nghiêm trọng"
+      ],
+      "full_summary": "Cơ quan tình báo Đức vừa tiết lộ có hơn 58.000 người cực hữu ở nước này. Theo số liệu, hơn 25% trong số đó được cho là có ý định bạo lực. Điều này cho thấy tình hình an ninh ở Đức đang trở nên nghiêm trọng. Cơ quan tình báo Đức đang theo dõi chặt chẽ tình hình để ngăn chặn các hoạt động cực hữu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "08118deefff0",
+      "title": "Firefighters struggle to contain deadly Greek wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T19:45:50.884974+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người thiệt mạng do cháy rừng ở Hy Lạp",
+      "bullets": [
+        "Cứu hỏa đang nỗ lực dập tắt đám cháy",
+        "Đám cháy đã khiến một người thiệt mạng",
+        "Hơn 100 người cứu hỏa đang tham gia",
+        "Cháy rừng xảy ra gần Thessaloniki"
+      ],
+      "full_summary": "Cứu hỏa đang nỗ lực dập tắt đám cháy rừng ở Hy Lạp gần Thessaloniki. Đám cháy đã khiến một người thiệt mạng và nhiều người khác bị thương. Hơn 100 người cứu hỏa đang tham gia để dập tắt đám cháy. Cháy rừng đang gây ra những thiệt hại nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e3ee1de2035b",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T19:45:52.819526+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Công nghệ địa nhiệt đang được khởi xướng bởi các startup",
+      "bullets": [
+        "Khám phá các nguồn địa nhiệt mới",
+        "Tìm kiếm các phương pháp khai thác hiệu quả",
+        "Đánh giá lại kinh tế của địa nhiệt",
+        "Đầu tư vào công nghệ mới"
+      ],
+      "full_summary": "Các startup đang tìm cách khai thác năng lượng địa nhiệt một cách hiệu quả hơn. Nguồn năng lượng này giàu có nhưng đắt đỏ. Các công ty đang phát triển các công nghệ mới để giảm chi phí khai thác. Điều này có thể giúp địa nhiệt trở thành nguồn năng lượng sạch và kinh tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ddc51fb6888",
+      "title": "Teens who hacked TfL were known to police years before cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-06-30T19:45:53.768713+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
+      "bullets": [
+        "Bị kết án vì tấn công mạng vào hệ thống của Transport for London",
+        "Tấn công mạng gây ra thiệt hại lớn cho TfL",
+        "Hai thanh niên bị cảnh sát biết đến từ nhiều năm trước",
+        "Owen Flowers và Thalha Jubair bị kết án vì tội phạm mạng"
+      ],
+      "full_summary": "Hai thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì tội phạm mạng tấn công vào hệ thống của Transport for London (TfL). Tấn công mạng này đã gây ra thiệt hại lớn cho TfL. Cảnh sát đã biết đến hai thanh niên này từ nhiều năm trước nhưng không thể ngăn chặn được vụ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "445626e5ca7c",
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-06-30T19:46:01.730298+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Mỹ đưa ra 10 triệu USD để tìm nhóm đằng sau cuộc tấn công Signal và WhatsApp",
+      "bullets": [
+        "Mỹ đưa ra 10 triệu USD để tìm nhóm đằng sau cuộc tấn công Signal và WhatsApp",
+        "Nhóm này hoạt động từ ít nhất tháng 3",
+        "Hai nhóm liên quan đến Nga đã thực hiện cuộc tấn công này",
+        "Mỹ đang tìm kiếm thông tin để ngăn chặn các cuộc tấn công tương tự"
+      ],
+      "full_summary": "Mỹ đã đưa ra 10 triệu USD để tìm kiếm thông tin về nhóm đằng sau cuộc tấn công Signal và WhatsApp. Cuộc tấn công này được cho là do hai nhóm liên quan đến Nga thực hiện từ ít nhất tháng 3. Mỹ đang tìm kiếm thông tin để ngăn chặn các cuộc tấn công tương tự. Mục tiêu của Mỹ là ngăn chặn các cuộc tấn công vào các ứng dụng tin nhắn phổ biến.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f1e1c5fe8fc4",
       "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
@@ -636,166 +796,6 @@
         "Các quan chức y tế đang nỗ lực ngăn chặn sự lây lan của bệnh dịch Ebola"
       ],
       "full_summary": "Cộng hòa Dân chủ Congo đã cấm tổ chức các sự kiện đông người tại thủ đô Kinshasa để ngăn chặn sự lây lan của bệnh dịch Ebola. Các chính trị gia đối lập cáo buộc chính phủ sử dụng dịch bệnh để ngăn chặn cuộc biểu tình. Sự kiện này diễn ra trong bối cảnh chính phủ đang chuẩn bị cho cuộc biểu tình. Các quan chức y tế đang nỗ lực ngăn chặn sự lây lan của bệnh dịch Ebola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de8e2b76e093",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
-      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T15:34:33.853391+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tòa án tối cao ngăn Trump sa thải thống đốc Ngân hàng Trung ương Lisa Cook",
-      "bullets": [
-        "Ngăn chặn Trump sa thải Lisa Cook",
-        "Tòa án tối cao ủng hộ độc lập ngân hàng trung ương",
-        "Tranh chấp về việc sa thải được đưa về tòa án cấp dưới",
-        "Quyết định này được coi là chiến thắng cho ngân hàng trung ương"
-      ],
-      "full_summary": "Tòa án tối cao Hoa Kỳ đã ngăn chặn nỗ lực của cựu Tổng thống Donald Trump sa thải thống đốc Ngân hàng Trung ương Lisa Cook. Quyết định này được coi là một chiến thắng cho độc lập ngân hàng trung ương. Tranh chấp về việc sa thải sẽ được đưa về tòa án cấp dưới. Đây là một bước ngoặt quan trọng trong cuộc chiến tranh giữa Tổng thống và ngân hàng trung ương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f0594e08afb",
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T15:34:35.015258+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Ford tái tuyển kỹ sư con người sau khi AI không đạt chất lượng",
-      "bullets": [
-        "Ford tái tuyển kỹ sư con người sau khi AI không đạt chất lượng kiểm tra",
-        "AI kiểm tra chất lượng của Ford không bằng được kỹ sư dày kinh nghiệm",
-        "Ford phải tuyển lại kỹ sư con người để đảm bảo chất lượng sản phẩm",
-        "Sự thất bại của AI cho thấy tầm quan trọng của kỹ sư con người trong sản xuất ô tô"
-      ],
-      "full_summary": "Ford đã phải tái tuyển một số kỹ sư con người sau khi hệ thống kiểm tra chất lượng AI của họ không đạt được yêu cầu. Hệ thống AI đã thất bại trong việc kiểm tra chất lượng sản phẩm ô tô của Ford, dẫn đến việc công ty phải tuyển lại kỹ sư con người để đảm bảo chất lượng sản phẩm. Điều này cho thấy tầm quan trọng của kỹ sư con người trong sản xuất ô tô và sự cần thiết phải kết hợp giữa công nghệ và kỹ năng con người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ec1dafa2ed34",
-      "title": "Tech firms are blaming AI for mega device and console price rises",
-      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T15:34:36.007045+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công nghệ AI được dùng làm lý do tăng giá thiết bị điện tử",
-      "bullets": [
-        "Tăng giá các thiết bị chơi game như Xbox, Switch 2 và Steam Deck",
-        "Công ty công nghệ đổ lỗi cho AI gây ra giá tăng",
-        "Giá thiết bị điện tử tăng cao trong những tháng gần đây",
-        "Nguồn nguyên liệu và chi phí sản xuất bị ảnh hưởng bởi AI"
-      ],
-      "full_summary": "Các công ty công nghệ đang đổ lỗi cho công nghệ trí tuệ nhân tạo (AI) gây ra giá tăng của các thiết bị điện tử như Xbox, Switch 2 và Steam Deck. Giá thiết bị điện tử đã tăng cao trong những tháng gần đây. Các công ty cho rằng nguồn nguyên liệu và chi phí sản xuất bị ảnh hưởng bởi AI, dẫn đến giá tăng. Điều này đã gây ra sự bất mãn của người tiêu dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f53385df7512",
-      "title": "Weather tracker: North-west US hit by snow ahead of eastern heatwave",
-      "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T15:34:40.253965+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mùa hè bất thường ở Mỹ: Tuyết rơi ở Tây Bắc, nhiệt độ cao ở Đông",
-      "bullets": [
-        "Tuyết rơi bất thường ở một số khu vực ở Mỹ",
-        "Nhiệt độ ở Tây Bắc Mỹ thấp hơn 5-10 độ C so với trung bình",
-        "Nhiệt độ ở New York và Washington DC có thể lên đến 40 độ C vào cuối tuần",
-        "Mùa hè bất thường ở Mỹ do ảnh hưởng của một đợt gió lạnh mạnh"
-      ],
-      "full_summary": "Mùa hè ở Mỹ đang trải qua một mùa hè bất thường. Một đợt gió lạnh mạnh đã lan rộng vào phía Tây Bắc Mỹ từ Bắc Thái Bình Dương, mang lại một sự thay đổi đột ngột trong điều kiện thời tiết ở một khu vực đã trải qua nhiệt độ cao vào mùa hè trong tình trạng hạn hán. Nhiệt độ từ biên giới Canada đến California đã thấp hơn 5-10 độ C so với trung bình kể từ thứ Sáu, và thấp hơn 10 độ C ở một số khu vực xa hơn về phía Bắc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1210c03e50c4",
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-      "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:37.059589+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ mẹ và con mới sinh được cứu sống sau trận động đất ở Venezuela",
-      "bullets": [
-        "Cô được cứu sống khỏi đổ nát sau trận động đất ở Venezuela",
-        "Cô và con trai 18 ngày tuổi được đưa đến bệnh viện",
-        "Cô kể lại câu chuyện về sự giúp đỡ trong quá trình sống sót",
-        "Cô trở thành biểu tượng của hy vọng sau những trận động đất tàn phá Venezuela"
-      ],
-      "full_summary": "Một cơn động đất đã xảy ra ở Venezuela, khiến nhiều người bị thương và thiệt hại nặng nề. Trong số đó, một người mẹ và con trai mới sinh đã được cứu sống khỏi đổ nát. Cô được đưa đến bệnh viện và kể lại câu chuyện về sự giúp đỡ trong quá trình sống sót. Cô trở thành biểu tượng của hy vọng sau những trận động đất tàn phá Venezuela.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "741839b17ab5",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:37.956914+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ và Iran thỏa thuận ngừng bắn sau loạt tấn công",
-      "bullets": [
-        "Mỹ và Iran đã có một cuộc trao đổi tấn công",
-        "Hai bên đều cáo buộc nhau vi phạm thỏa thuận ngừng bắn",
-        "Cuộc tấn công diễn ra vào cuối tuần qua",
-        "Mỹ và Iran đã thỏa thuận ngừng bắn"
-      ],
-      "full_summary": "Mỹ và Iran đã có một cuộc trao đổi tấn công vào cuối tuần qua. Hai bên đều cáo buộc nhau vi phạm thỏa thuận ngừng bắn. Cuộc tấn công diễn ra sau khi Mỹ và Iran đạt được thỏa thuận ngừng bắn. Thỏa thuận ngừng bắn đã được ký kết sau một loạt các cuộc tấn công giữa hai bên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d578b3fe60af",
-      "title": "Pakistani strikes kill dozens in Afghanistan",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:39.039300+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Pakistan tấn công Afghanistan, gây thương vong cho thường dân",
-      "bullets": [
-        "Pakistan tiến hành các cuộc tấn công vào Afghanistan",
-        "Taliban phủ nhận các mục tiêu là thường dân",
-        "Pakistan cho rằng các mục tiêu là các chiến binh",
-        "Số lượng thương vong vẫn chưa được xác định rõ"
-      ],
-      "full_summary": "Pakistan cho biết họ đã tiến hành các cuộc tấn công vào Afghanistan nhằm vào các chiến binh, nhưng Taliban phủ nhận các mục tiêu là thường dân. Sự cố đã gây thương vong cho nhiều người, nhưng số lượng vẫn chưa được xác định rõ. Pakistan và Taliban đang có những tuyên bố khác nhau về vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "36984f1ffb22",
-      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-29T10:28:39.950706+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "HLV Hàn Quốc từ chức sau thất bại ở World Cup",
-      "bullets": [
-        "Hàn Quốc bị loại khỏi World Cup",
-        "HLV từ chức sau thất bại",
-        "Tổng thống Hàn Quốc yêu cầu điều tra",
-        "Hàn Quốc không đủ điều kiện vào nhóm 8 đội xếp thứ 3"
-      ],
-      "full_summary": "HLV Hàn Quốc từ chức sau thất bại ở World Cup. Tổng thống Hàn Quốc yêu cầu điều tra nguyên nhân thất bại. Hàn Quốc bị loại khỏi World Cup sau khi không đủ điều kiện vào nhóm 8 đội xếp thứ 3.",
       "comments": 0,
       "score": 0
     }
