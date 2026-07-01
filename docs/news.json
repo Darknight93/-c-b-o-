@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-07-01T09:34:13.231508+00:00",
+  "updated_at": "2026-07-01T14:16:44.002439+00:00",
   "articles": [
+    {
+      "id": "ee34ce4d532a",
+      "title": "Three die in Mexico City World Cup celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T14:16:28.879174+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Ba người thiệt mạng trong đám đông mừng chiến thắng World Cup",
+      "bullets": [
+        "Hàng triệu người tập trung trên đường phố Mexico City",
+        "Ba người thiệt mạng trong đám đông đông đúc",
+        "Cảnh sát Mexico đang điều tra nguyên nhân",
+        "Sự kiện gây sốc cho người dân Mexico"
+      ],
+      "full_summary": "Hơn một triệu người tập trung trên đường phố Mexico City để mừng chiến thắng của đội tuyển bóng đá quốc gia. Sự kiện đã trở nên bạo lực khi ba người thiệt mạng trong đám đông đông đúc. Cảnh sát Mexico đang điều tra nguyên nhân và tìm cách ngăn chặn những vụ việc tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c7d51b2cffb3",
+      "title": "Fire at Antwerp apartment block kills at least six",
+      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T14:16:29.798707+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hai chục người thiệt mạng trong vụ hỏa hoạn tại Antwerp",
+      "bullets": [
+        "Hai mươi người bị thương trong vụ hỏa hoạn",
+        "Hai trăm người sống trong tòa nhà bị ảnh hưởng",
+        "Một người đàn ông thoát thân qua cửa sổ",
+        "Cơ quan chức năng đang điều tra nguyên nhân vụ hỏa hoạn"
+      ],
+      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một tòa nhà chung cư ở Antwerp, Bỉ, khiến ít nhất sáu người thiệt mạng. Vụ hỏa hoạn đã khiến hai trăm người phải sơ tán. Một người đàn ông đã thoát thân qua cửa sổ, trong khi nhiều người khác bị thương. Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "158561a49322",
+      "title": "Canada will take part in Eurovision Song Contest 2027",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T14:16:30.708025+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Canada tham gia cuộc thi Eurovision 2027",
+      "bullets": [
+        "Canada trở thành quốc gia mới tham gia cuộc thi kể từ khi Úc tham gia năm 2015",
+        "Đây là tin tức thú vị trong thế giới âm nhạc quốc tế",
+        "Canada sẽ tham gia cuộc thi Eurovision 2027 với mục tiêu gì vẫn chưa rõ",
+        "Cuộc thi Eurovision 2027 sẽ diễn ra vào năm sau"
+      ],
+      "full_summary": "Canada đã quyết định tham gia cuộc thi Eurovision 2027, trở thành quốc gia mới tham gia kể từ khi Úc tham gia vào năm 2015. Đây là tin tức thú vị trong thế giới âm nhạc quốc tế. Canada sẽ tham gia cuộc thi Eurovision 2027 với mục tiêu gì vẫn chưa rõ. Cuộc thi Eurovision 2027 sẽ diễn ra vào năm sau.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "178b917d2381",
+      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T14:16:31.746959+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Netflix Wonka dùng giọng nói AI của Gene Wilder gây tranh cãi",
+      "bullets": [
+        "Dùng công nghệ AI tạo giọng nói Gene Wilder",
+        "Phim Wonka trên Netflix gây tranh cãi vì điều này",
+        "Di chúc của Gene Wilder cho phép sử dụng hình ảnh của mình",
+        "Estate của Gene Wilder đã cho phép sử dụng hình ảnh của ông"
+      ],
+      "full_summary": "Phim Wonka trên Netflix đã sử dụng công nghệ AI để tạo giọng nói của Gene Wilder, người đã qua đời vào năm 2016. Điều này đã gây tranh cãi trong cộng đồng. Estate của Gene Wilder đã cho phép sử dụng hình ảnh của ông trong phim. Mặc dù vậy, nhiều người vẫn cảm thấy không thoải mái khi nghe giọng nói của Gene Wilder được tạo ra bằng công nghệ AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "167dee44f23a",
+      "title": "PlayStation will stop releasing games on discs in 2028",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T14:16:32.642732+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "PlayStation sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028",
+      "bullets": [
+        "PlayStation sẽ ngừng sản xuất trò chơi trên đĩa từ năm 2028",
+        "Trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số",
+        "Người dùng sẽ nhận được mã số kỹ thuật số khi mua trò chơi",
+        "PlayStation sẽ chuyển sang phát hành trò chơi hoàn toàn kỹ thuật số"
+      ],
+      "full_summary": "PlayStation đã công bố sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028. Thay vào đó, trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số. Người dùng sẽ nhận được mã số kỹ thuật số khi mua trò chơi và có thể tải về trên máy tính của họ. Điều này có thể sẽ thay đổi cách người dùng mua và chơi trò chơi trên PlayStation.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2bff0507b889",
+      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T14:16:33.715136+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Rockstar không phát hành đĩa cho GTA 6, liệu đĩa CD đã chết?",
+      "bullets": [
+        "Rockstar sẽ phát hành GTA 6 dưới dạng tải xuống",
+        "Nó có thể là dấu hiệu cho thấy ngành công nghiệp trò chơi điện tử đang chuyển sang kỹ thuật số",
+        "Trước đây, nhiều loại hình giải trí như âm nhạc và phim đã chuyển sang kỹ thuật số",
+        "Giờ đây, người ta đang đặt câu hỏi liệu đĩa CD có còn tồn tại trong tương lai"
+      ],
+      "full_summary": "Rockstar đã quyết định không phát hành đĩa cho GTA 6, thay vào đó sẽ cho phép người dùng tải xuống trò chơi. Điều này có thể là dấu hiệu cho thấy ngành công nghiệp trò chơi điện tử đang chuyển sang kỹ thuật số. Trước đây, nhiều loại hình giải trí như âm nhạc và phim đã chuyển sang kỹ thuật số, và giờ đây, người ta đang đặt câu hỏi liệu đĩa CD có còn tồn tại trong tương lai. Mặc dù vẫn còn nhiều câu hỏi chưa được trả lời, nhưng điều này chắc chắn sẽ tạo ra sự quan tâm lớn trong cộng đồng game thủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa58a229ca3c",
+      "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
+      "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T14:16:34.682279+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "RSF Sudan đã thực hiện tội ác chống loài người tại El Fasher",
+      "bullets": [
+        "Amnesty quốc tế cáo buộc RSF Sudan đã thực hiện tội ác chống loài người tại El Fasher",
+        "RSF Sudan đã thực hiện tội ác diệt chủng và bắt cóc dân thường",
+        "Các tội ác bao gồm giết người, tra tấn, hiếp dâm, bán tớ và nô lệ tình dục"
+      ],
+      "full_summary": "Amnesty quốc tế đã cáo buộc RSF Sudan đã thực hiện tội ác chống loài người và diệt chủng trong chiến dịch để chiếm El Fasher. Các tội ác bao gồm giết người, tra tấn, hiếp dâm, bán tớ và nô lệ tình dục. Các hành động này đã được thực hiện một cách rộng rãi và có hệ thống, nhằm vào dân thường và có tính chất tội ác chống loài người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a785911d3e02",
+      "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
+      "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-01T14:16:37.409263+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Không tìm thấy liên kết giữa thuốc Tylenol và tật tự kỷ",
+      "bullets": [
+        "Khẳng định không có mối liên hệ giữa thuốc Tylenol và tật tự kỷ",
+        "Nghiên cứu mới bác bỏ tuyên bố của Trump về mối liên hệ này",
+        "Sử dụng thuốc Tylenol trong thai kỳ đã giảm sau khi Trump đưa ra cảnh báo",
+        "Nghiên cứu tiếp tục khẳng định thuốc Tylenol an toàn cho phụ nữ mang thai"
+      ],
+      "full_summary": "Một nghiên cứu mới đã bác bỏ tuyên bố của Trump về mối liên hệ giữa thuốc Tylenol và tật tự kỷ. Nghiên cứu này là một trong nhiều nghiên cứu đã được thực hiện để xác định mối liên hệ giữa thuốc Tylenol và tật tự kỷ. Sử dụng thuốc Tylenol trong thai kỳ đã giảm sau khi Trump đưa ra cảnh báo. Nghiên cứu tiếp tục khẳng định thuốc Tylenol an toàn cho phụ nữ mang thai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1ad847d44dad",
+      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+      "url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-01T14:16:41.074246+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple đưa vụ kiện Epic về phí ứng dụng lên Tòa án Tối cao",
+      "bullets": [
+        "Apple đã quyết định đưa vụ kiện Epic về phí ứng dụng lên Tòa án Tối cao Hoa Kỳ",
+        "Tòa án Tối cao sẽ xem xét liệu quyết định của tòa án cấp dưới về hành vi bất tuân của Apple là sai hay không",
+        "Vụ kiện Epic đã kéo dài nhiều năm và liên quan đến phí ứng dụng của Apple trên App Store",
+        "Quyết định của Tòa án Tối cao có thể ảnh hưởng đến quy định về phí ứng dụng trên các nền tảng di động"
+      ],
+      "full_summary": "Apple đã quyết định đưa vụ kiện Epic về phí ứng dụng lên Tòa án Tối cao Hoa Kỳ. Vụ kiện này đã kéo dài nhiều năm và liên quan đến phí ứng dụng của Apple trên App Store. Tòa án Tối cao sẽ xem xét liệu quyết định của tòa án cấp dưới về hành vi bất tuân của Apple là sai hay không. Quyết định của Tòa án Tối cao có thể ảnh hưởng đến quy định về phí ứng dụng trên các nền tảng di động.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "c4c94b5c01a2",
       "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
@@ -617,186 +796,6 @@
         "Nghiên cứu và sản xuất sẽ được thực hiện bởi các công ty và tổ chức hàng đầu Hàn Quốc"
       ],
       "full_summary": "Hàn Quốc đã công bố kế hoạch chi 1 tỷ USD cho sản xuất chip nhớ và nghiên cứu robot humanoid. Mục tiêu của Hàn Quốc là dẫn đầu trong lĩnh vực AI vật lý và robot humanoid thương mại vào năm 2028. Kế hoạch này sẽ được thực hiện bởi các công ty và tổ chức hàng đầu Hàn Quốc. Hàn Quốc hy vọng sẽ trở thành cường quốc công nghệ hàng đầu trong lĩnh vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a67bb0150a55",
-      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-30T14:03:32.545492+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Năng lượng tập luyện ảnh hưởng đến thành phần cơ thể ở người lớn tuổi khỏe mạnh",
-      "bullets": [
-        "Giảm mỡ cơ thể khi tập luyện với cường độ cao",
-        "Tăng cơ bắp khi tập luyện với cường độ vừa phải",
-        "Tăng cường sức khỏe tổng thể khi tập luyện với cường độ phù hợp",
-        "Thay đổi thành phần cơ thể theo tuổi tác khi tập luyện không đều đặn"
-      ],
-      "full_summary": "Một nghiên cứu mới đây cho thấy cường độ tập luyện có ảnh hưởng đáng kể đến thành phần cơ thể ở người lớn tuổi khỏe mạnh. Khi tập luyện với cường độ cao, người lớn tuổi có thể giảm mỡ cơ thể và tăng cơ bắp. Tuy nhiên, nếu tập luyện không đều đặn, thành phần cơ thể có thể thay đổi theo tuổi tác. Nghiên cứu này gợi ý rằng việc tập luyện với cường độ phù hợp có thể giúp duy trì sức khỏe tổng thể ở người lớn tuổi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79d0f1203a6e",
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T09:21:42.480671+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Venezuela bị chỉ trích vì thiếu hỗ trợ sau trận động đất",
-      "bullets": [
-        "Phát hiện nhiều thiệt hại sau trận động đất",
-        "Người dân kêu gọi chính phủ hỗ trợ khẩn cấp",
-        "Chính phủ Venezuela bị chỉ trích vì thiếu phản ứng",
-        "Hỗ trợ từ quốc tế bắt đầu đổ vào"
-      ],
-      "full_summary": "Hai trận động đất mạnh đã xảy ra ở Venezuela, gây thiệt hại nghiêm trọng cho nhiều khu vực. Người dân bị ảnh hưởng kêu gọi chính phủ hỗ trợ khẩn cấp nhưng cho đến nay vẫn chưa thấy sự phản ứng rõ ràng. Chính phủ Venezuela bị chỉ trích vì thiếu phản ứng và hỗ trợ cho người dân. Hỗ trợ từ quốc tế bắt đầu đổ vào để giúp người dân khắc phục hậu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "17689c5616d7",
-      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T09:21:43.447736+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Nadiem Makarim bị kết án vì tham nhũng trong thời gian làm Bộ trưởng Giáo dục Indonesia",
-      "bullets": [
-        "Bị kết án vì liên quan đến hợp đồng laptop trong thời gian làm Bộ trưởng Giáo dục",
-        "Nadiem Makarim là người sáng lập công ty Gojek",
-        "Sự việc liên quan đến thời gian ông Makarim làm Bộ trưởng Giáo dục Indonesia",
-        "Ông bị kết án vì tham nhũng"
-      ],
-      "full_summary": "Nadiem Makarim, người sáng lập công ty Gojek, đã bị kết án vì tham nhũng trong thời gian làm Bộ trưởng Giáo dục Indonesia. Sự việc liên quan đến hợp đồng laptop và ông đã bị kết án. Nadiem Makarim từng là Bộ trưởng Giáo dục Indonesia và là người sáng lập công ty Gojek, một trong những ứng dụng đa năng lớn nhất ở châu Á.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "33513df033e2",
-      "title": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T09:21:44.388729+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một vụ nổ ở Monaco làm bị thương một tỷ phú Ukraine và gia đình",
-      "bullets": [
-        "Một thiết bị nổ chứa đạn và hạt đạn đã gây ra vụ nổ",
-        "Tỷ phú Ukraine và gia đình đang được điều trị tại bệnh viện",
-        "Cảnh sát đang truy tìm nghi phạm",
-        "Chính phủ Monaco đang điều tra vụ việc"
-      ],
-      "full_summary": "Một vụ nổ đã xảy ra tại Monaco, làm bị thương một tỷ phú Ukraine và gia đình. Theo lời của người đứng đầu chính phủ Monaco, vụ nổ được gây ra bởi một thiết bị nổ chứa đạn và hạt đạn. Tỷ phú Ukraine và gia đình đang được điều trị tại bệnh viện. Cảnh sát đang truy tìm nghi phạm và chính phủ Monaco đang điều tra vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e5b1715d4162",
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T09:21:45.449830+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tử tù 30 năm ở Mỹ: Người giàu Trung Quốc bị kết tội lừa đảo",
-      "bullets": [
-        "Bị kết tội lừa đảo, Guo Wengui bị phạt 30 năm tù",
-        "Người giàu Trung Quốc tự xưng là một phê bình viên của Trung Quốc",
-        "Guo Wengui đã lừa đảo nhiều người theo dõi của mình",
-        "Bị kết tội phạm tội lừa đảo và rửa tiền"
-      ],
-      "full_summary": "Guo Wengui, một người giàu có từ Trung Quốc, đã bị kết tội lừa đảo và phạt 30 năm tù ở Mỹ. Ông ta đã tự xưng là một phê bình viên của Trung Quốc và đã lừa đảo nhiều người theo dõi của mình. Guo Wengui đã bị kết tội phạm tội lừa đảo và rửa tiền. Ông ta đã bị bắt giữ và bị kết tội vì các hoạt động lừa đảo của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3ce74d947e31",
-      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T09:21:46.448262+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Naomi Osaka mặc kimono trắng tinh tế tại Wimbledon",
-      "bullets": [
-        "Mang đến phong cách mới mẻ cho giải đấu",
-        "Sử dụng kimono để thể hiện lòng yêu mến và tôn trọng đất nước Nhật Bản",
-        "Thể hiện sự sáng tạo trong việc tuân thủ quy định trang phục trắng của Wimbledon",
-        "Là một phần của phong cách cá nhân độc đáo của Naomi Osaka"
-      ],
-      "full_summary": "Naomi Osaka đã gây ấn tượng với trang phục kimono trắng tinh tế của mình tại giải đấu tennis Wimbledon. Mặc dù quy định trang phục trắng của giải đấu đã tạo ra một thách thức, nhưng cô đã tìm thấy sự sáng tạo để thể hiện lòng yêu mến và tôn trọng đất nước Nhật Bản. Điều này đã thể hiện sự độc đáo và cá tính của Naomi Osaka trong suốt sự nghiệp của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9489ca565ae6",
-      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-30T09:21:51.275437+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Sony xóa nội dung số khỏi thư viện của mình",
-      "bullets": [
-        "Xóa bỏ nội dung số khỏi thư viện của Sony",
-        "Sony đã thu hẹp cửa hàng số của mình trong vài năm qua",
-        "Khách hàng không còn quyền sở hữu nội dung số mà họ mua",
-        "Tình trạng này nhắc nhở chúng ta về bản chất của sở hữu số"
-      ],
-      "full_summary": "Sony đã quyết định xóa bỏ nội dung số khỏi thư viện của mình, một hành động được thực hiện trong bối cảnh cửa hàng số của công ty đang thu hẹp dần. Điều này đã khiến nhiều người nhớ lại rằng chúng ta không sở hữu thực sự nội dung số mà chúng ta mua. Thay vào đó, chúng ta chỉ có quyền truy cập vào nội dung đó trong một thời gian nhất định. Hành động này của Sony đã trở thành một ví dụ điển hình về bản chất của sở hữu số và quyền lợi của người tiêu dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a85043e779e8",
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-06-30T09:21:55.604015+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Nghiên cứu về chuyển đổi ngữ cảnh an toàn cho bộ nhớ",
-      "bullets": [
-        "Xây dựng một hệ thống chuyển đổi ngữ cảnh an toàn",
-        "Giảm thiểu rủi ro khi chuyển đổi ngữ cảnh",
-        "Tăng cường bảo mật cho các ứng dụng đa nhiệm",
-        "Phát triển một phương pháp mới cho chuyển đổi ngữ cảnh"
-      ],
-      "full_summary": "Một nghiên cứu mới về chuyển đổi ngữ cảnh an toàn cho bộ nhớ đã được công bố. Mục tiêu của nghiên cứu này là xây dựng một hệ thống chuyển đổi ngữ cảnh an toàn, giảm thiểu rủi ro khi chuyển đổi ngữ cảnh và tăng cường bảo mật cho các ứng dụng đa nhiệm. Phương pháp mới này có thể giúp phát triển các ứng dụng đa nhiệm an toàn hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d063d91d288f",
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T02:41:45.097419+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người Venezuela phải tự mưu sinh sau những cơn địa chấn",
-      "bullets": [
-        "Sử dụng búa, xẻng và tay để tìm kiếm người sống sót",
-        "Các khu vực bị thiệt hại nặng nề sau những trận động đất",
-        "Nhiều người Venezuela phải tự mưu sinh sau những cơn địa chấn",
-        "Tình hình trở nên khó khăn hơn sau những cơn động đất"
-      ],
-      "full_summary": "Các trận động đất vừa xảy ra ở Venezuela đã gây thiệt hại nặng nề và khiến nhiều người phải tự mưu sinh. Họ sử dụng búa, xẻng và tay để tìm kiếm người sống sót. Tình hình trở nên khó khăn hơn sau những cơn động đất, khiến nhiều người phải đối mặt với khó khăn và nguy hiểm.",
       "comments": 0,
       "score": 0
     }
