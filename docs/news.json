@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-07-01T14:16:44.002439+00:00",
+  "updated_at": "2026-07-01T19:43:36.161618+00:00",
   "articles": [
+    {
+      "id": "82b307a61003",
+      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+      "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T19:43:20.066572+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump bị yêu cầu bồi thường 5 triệu USD sau khi kháng cáo thất bại",
+      "bullets": [
+        "Trump bị yêu cầu bồi thường 5 triệu USD",
+        "Hội đồng xét xử xác định Trump có tội lạm dụng tình dục và làm nhục Carroll",
+        "Trump muốn hoãn việc trả tiền bồi thường",
+        "Carroll đòi Trump phải trả tiền bồi thường ngay lập tức"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump bị yêu cầu bồi thường 5 triệu USD cho Stormy Daniels sau khi kháng cáo thất bại. Một bồi thẩm đoàn đã xác định Trump có tội lạm dụng tình dục và làm nhục Carroll. Tuy nhiên, Trump muốn hoãn việc trả tiền bồi thường. Carroll đòi Trump phải trả tiền bồi thường ngay lập tức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50df0a430700",
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T19:43:21.238000+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ukraine bị cáo buộc liên quan đến vụ nổ Nord Stream",
+      "bullets": [
+        "Ukraine bác bỏ cáo buộc liên quan đến vụ nổ Nord Stream",
+        "Vụ nổ có thể ảnh hưởng nghiêm trọng đến quan hệ giữa Ukraine và Đức",
+        "Một người Ukraine bị bắt giữ ở Đức",
+        "Vụ việc đang được điều tra"
+      ],
+      "full_summary": "Một người Ukraine bị bắt giữ ở Đức vì liên quan đến vụ nổ Nord Stream. Ukraine bác bỏ cáo buộc và cho rằng đây là một âm mưu nhằm vào họ. Vụ nổ có thể ảnh hưởng nghiêm trọng đến quan hệ giữa Ukraine và Đức, và đang được điều tra. Nếu Ukraine bị kết tội, điều này có thể dẫn đến hậu quả nghiêm trọng cho quan hệ giữa hai quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0692cbd37819",
+      "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+      "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T19:43:22.360019+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Đức Thánh Phổ Thích cảnh báo về 'chia rẽ' trong Giáo hội Công giáo",
+      "bullets": [
+        "Đức Thánh Phổ Thích cảnh báo về 'chia rẽ' trong Giáo hội Công giáo",
+        "Hàng nghìn tín đồ tham dự lễ phong chức tại Alps Thụy Sĩ",
+        "Giáo hội Công giáo đang đối mặt với cuộc khủng hoảng lớn",
+        "Bốn giám mục gây tranh cãi được phong chức"
+      ],
+      "full_summary": "Đức Thánh Phổ Thích cảnh báo về 'chia rẽ' trong Giáo hội Công giáo. Hàng nghìn tín đồ tham dự lễ phong chức cho bốn giám mục gây tranh cãi tại Alps Thụy Sĩ. Giáo hội Công giáo đang đối mặt với cuộc khủng hoảng lớn sau khi bốn giám mục gây tranh cãi được phong chức. Đức Thánh Phổ Thích đã cảnh báo về 'chia rẽ' trong Giáo hội Công giáo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eeb14d689e4e",
+      "title": "Businessman goes on trial over murder of Maltese journalist",
+      "url": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T19:43:23.284239+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Doanh nhân Yorgen Fenech bị xét xử vì sát hại nhà báo Malta",
+      "bullets": [
+        "Yorgen Fenech bị cáo buộc liên quan đến vụ ám sát nhà báo Daphne Caruana Galizia",
+        "Fenech phủ nhận mọi liên quan đến vụ án",
+        "Tòa án sẽ xem xét các bằng chứng và lời khai",
+        "Vụ án gây chú ý trong cộng đồng báo chí quốc tế"
+      ],
+      "full_summary": "Yorgen Fenech, một doanh nhân Malta, đã được đưa ra xét xử vì liên quan đến vụ ám sát nhà báo Daphne Caruana Galizia vào năm 2017. Fenech phủ nhận mọi liên quan đến vụ án, nhưng tòa án sẽ xem xét các bằng chứng và lời khai. Vụ án gây chú ý trong cộng đồng báo chí quốc tế và được coi là một trong những vụ án báo chí nghiêm trọng nhất trong lịch sử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ae5ac101d588",
+      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
+      "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T19:43:24.203629+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Syria chỉ định 70 thành viên cuối cùng cho Quốc hội mới",
+      "bullets": [
+        "Chủ tịch Syria chỉ định 70 thành viên mới cho Quốc hội",
+        "Tổng cộng 15 nữ nghị sĩ được chỉ định",
+        "Số lượng nữ nghị sĩ tăng đáng kể so với tháng 10",
+        "Quốc hội mới sẽ thay thế cơ quan lập pháp cũ sau thời kỳ Assad"
+      ],
+      "full_summary": "Chủ tịch Syria đã chỉ định 70 thành viên cuối cùng cho Quốc hội mới. Trong số đó, 15 nữ nghị sĩ được chỉ định, tăng đáng kể so với số lượng nữ nghị sĩ được bầu vào tháng 10. Quốc hội mới sẽ thay thế cơ quan lập pháp cũ sau thời kỳ Assad. Đây là bước tiến quan trọng trong quá trình chuyển đổi chính trị ở Syria.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9a4928e5946f",
+      "title": "Greek politician's mother dies of wounds after arson attack",
+      "url": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T19:43:25.203520+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một vụ tấn công bằng xăng ở Thessaloniki khiến mẹ một nhà lập pháp Hy Lạp tử vong",
+      "bullets": [
+        "Ba vụ tấn công bằng xăng và thiết bị tự chế diễn ra ở Thessaloniki vào sáng thứ Ba",
+        "Mẹ của một nhà lập pháp Hy Lạp bị thương nặng và tử vong",
+        "Các vụ tấn công xảy ra vào lúc nửa đêm",
+        "Cảnh sát đang điều tra nguyên nhân vụ tấn công"
+      ],
+      "full_summary": "Một loạt vụ tấn công bằng xăng và thiết bị tự chế diễn ra ở Thessaloniki vào sáng thứ Ba. Mẹ của một nhà lập pháp Hy Lạp bị thương nặng và tử vong. Các vụ tấn công xảy ra vào lúc nửa đêm. Cảnh sát đang điều tra nguyên nhân vụ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "20153c1d7ca7",
+      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-01T19:43:26.456862+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người thiệt mạng trong bữa tiệc hào hứng World Cup ở Mexico",
+      "bullets": [
+        "Có 4 người thiệt mạng trong bữa tiệc hào hứng World Cup ở Mexico City",
+        "3 người chết do ngạt thở khi đám đông quá đông",
+        "Hơn 1 triệu người tập trung ở Mexico City để cổ vũ đội bóng",
+        "Tổ chức y tế của Mexico City xác nhận 4 người thiệt mạng"
+      ],
+      "full_summary": "Trong bữa tiệc hào hứng sau chiến thắng của Mexico ở World Cup, 4 người đã thiệt mạng, 3 người chết do ngạt thở. Sự kiện này diễn ra ở Mexico City, nơi hơn 1 triệu người tập trung để cổ vũ đội bóng. Các nạn nhân đã chết gần tượng đài Ángel của Tự do, nơi có nhiều người tập trung để hào hứng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "399854f3be99",
+      "title": "Sony will stop making physical copies of PlayStation games in 2028",
+      "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-01T19:43:28.959622+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Sony sẽ ngừng sản xuất bản sao vật lý của trò chơi PlayStation vào năm 2028",
+      "bullets": [
+        "Sony sẽ ngừng sản xuất bản sao vật lý của trò chơi PlayStation vào năm 2028",
+        "Các trò chơi PlayStation sẽ chỉ có sẵn dưới dạng tải về sau năm 2028",
+        "Sony đang chuyển sang mô hình kinh doanh dựa trên tải về",
+        "Người hâm mộ sẽ phải thích nghi với thay đổi này"
+      ],
+      "full_summary": "Sony đã công bố quyết định ngừng sản xuất bản sao vật lý của trò chơi PlayStation vào năm 2028. Điều này có nghĩa là các trò chơi PlayStation sẽ chỉ có sẵn dưới dạng tải về sau năm 2028. Sony đang chuyển sang mô hình kinh doanh dựa trên tải về, một xu hướng đang trở nên phổ biến trong ngành công nghiệp trò chơi điện tử. Người hâm mộ sẽ phải thích nghi với thay đổi này, nhưng có thể sẽ có nhiều lợi ích như giảm chi phí và tăng tính tiện lợi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c9c7dcaa7dc6",
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-01T19:43:31.161071+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mô hình AI Fable và Mythos của Anthropic được công bố toàn cầu",
+      "bullets": [
+        "Cấm vận đối với mô hình này đã được Mỹ dỡ bỏ",
+        "Mô hình Fable và Mythos được cho là đã khiến Trump phải kiểm tra an toàn",
+        "Anthropic sẽ tiếp tục phát triển và ứng dụng các mô hình AI này"
+      ],
+      "full_summary": "Mỹ đã dỡ bỏ cấm vận đối với mô hình AI Fable và Mythos của công ty Anthropic. Mô hình này được cho là đã khiến cựu Tổng thống Trump phải kiểm tra an toàn. Sau đó, Anthropic đã được cho phép công bố mô hình này toàn cầu. Điều này cho thấy sự tin tưởng của Mỹ vào công nghệ AI của Anthropic.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "312ebf00d021",
+      "title": "Hanami 3.0: In Full Bloom",
+      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-01T19:43:35.661463+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Hanami 3.0 đã được phát hành",
+      "bullets": [
+        "Phát hành phiên bản mới của thư viện Hanami",
+        "Cải thiện hiệu suất và tính ổn định",
+        "Tăng cường tính linh hoạt và tùy chỉnh",
+        "Hỗ trợ thêm các tính năng mới"
+      ],
+      "full_summary": "Thư viện Hanami 3.0 đã được phát hành, mang lại nhiều cải tiến về hiệu suất, tính ổn định và tính linh hoạt. Phiên bản mới này hỗ trợ thêm các tính năng mới và cho phép người dùng tùy chỉnh dễ dàng. Hanami 3.0 được thiết kế để đáp ứng nhu cầu của các dự án web hiện đại.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ee34ce4d532a",
       "title": "Three die in Mexico City World Cup celebrations",
@@ -596,206 +795,6 @@
         "Cháy rừng xảy ra gần Thessaloniki"
       ],
       "full_summary": "Cứu hỏa đang nỗ lực dập tắt đám cháy rừng ở Hy Lạp gần Thessaloniki. Đám cháy đã khiến một người thiệt mạng và nhiều người khác bị thương. Hơn 100 người cứu hỏa đang tham gia để dập tắt đám cháy. Cháy rừng đang gây ra những thiệt hại nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3ee1de2035b",
-      "title": "The abundant but expensive energy source that's under your feet",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T19:45:52.819526+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Công nghệ địa nhiệt đang được khởi xướng bởi các startup",
-      "bullets": [
-        "Khám phá các nguồn địa nhiệt mới",
-        "Tìm kiếm các phương pháp khai thác hiệu quả",
-        "Đánh giá lại kinh tế của địa nhiệt",
-        "Đầu tư vào công nghệ mới"
-      ],
-      "full_summary": "Các startup đang tìm cách khai thác năng lượng địa nhiệt một cách hiệu quả hơn. Nguồn năng lượng này giàu có nhưng đắt đỏ. Các công ty đang phát triển các công nghệ mới để giảm chi phí khai thác. Điều này có thể giúp địa nhiệt trở thành nguồn năng lượng sạch và kinh tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ddc51fb6888",
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T19:45:53.768713+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hai thanh niên bị kết án vì tấn công mạng vào TfL",
-      "bullets": [
-        "Bị kết án vì tấn công mạng vào hệ thống của Transport for London",
-        "Tấn công mạng gây ra thiệt hại lớn cho TfL",
-        "Hai thanh niên bị cảnh sát biết đến từ nhiều năm trước",
-        "Owen Flowers và Thalha Jubair bị kết án vì tội phạm mạng"
-      ],
-      "full_summary": "Hai thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì tội phạm mạng tấn công vào hệ thống của Transport for London (TfL). Tấn công mạng này đã gây ra thiệt hại lớn cho TfL. Cảnh sát đã biết đến hai thanh niên này từ nhiều năm trước nhưng không thể ngăn chặn được vụ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "445626e5ca7c",
-      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-30T19:46:01.730298+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Mỹ đưa ra 10 triệu USD để tìm nhóm đằng sau cuộc tấn công Signal và WhatsApp",
-      "bullets": [
-        "Mỹ đưa ra 10 triệu USD để tìm nhóm đằng sau cuộc tấn công Signal và WhatsApp",
-        "Nhóm này hoạt động từ ít nhất tháng 3",
-        "Hai nhóm liên quan đến Nga đã thực hiện cuộc tấn công này",
-        "Mỹ đang tìm kiếm thông tin để ngăn chặn các cuộc tấn công tương tự"
-      ],
-      "full_summary": "Mỹ đã đưa ra 10 triệu USD để tìm kiếm thông tin về nhóm đằng sau cuộc tấn công Signal và WhatsApp. Cuộc tấn công này được cho là do hai nhóm liên quan đến Nga thực hiện từ ít nhất tháng 3. Mỹ đang tìm kiếm thông tin để ngăn chặn các cuộc tấn công tương tự. Mục tiêu của Mỹ là ngăn chặn các cuộc tấn công vào các ứng dụng tin nhắn phổ biến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f1e1c5fe8fc4",
-      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T14:03:17.477382+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Cố vấn Mỹ đến Doha nhưng không gặp Iran",
-      "bullets": [
-        "Thăm dò viên Mỹ đến Doha để gặp các trung gian",
-        "Không có cuộc họp cấp cao hoặc thảo luận trực tiếp giữa Mỹ và Iran",
-        "Quân đội Mỹ vẫn đang chờ đợi quyết định của Iran",
-        "Căng thẳng giữa Mỹ và Iran vẫn chưa được giải quyết"
-      ],
-      "full_summary": "Cố vấn Mỹ đến Doha để gặp các trung gian nhưng không gặp đại diện Iran. Theo đại diện Bộ Ngoại giao Qatar, không có cuộc họp cấp cao hoặc thảo luận trực tiếp giữa Mỹ và Iran. Căng thẳng giữa hai quốc gia vẫn chưa được giải quyết. Quân đội Mỹ vẫn đang chờ đợi quyết định của Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0b341ce1867",
-      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-      "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T14:03:18.496909+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Lũ lụt ở Ghana giết 13 người, cảnh báo thêm cơn bão sắp tới",
-      "bullets": [
-        "Ghi nhận 13 người thiệt mạng do lũ lụt ở Ghana",
-        "Người dân được khuyên di chuyển lên cao hoặc ở trong nhà",
-        "Cảnh báo mưa lớn tiếp tục đổ xuống",
-        "Cơn bão sắp tới có thể gây thêm thiệt hại"
-      ],
-      "full_summary": "Lũ lụt đã gây ra thiệt hại nghiêm trọng ở Ghana, khiến 13 người thiệt mạng. Người dân đang được khuyên di chuyển lên cao hoặc ở trong nhà để tránh mưa lớn. Cảnh báo mưa lớn tiếp tục đổ xuống và cơn bão sắp tới có thể gây thêm thiệt hại. Các cơ quan chức năng đang làm việc để hỗ trợ người dân bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fed91535653e",
-      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T14:03:19.512362+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Apple tăng giá sản phẩm lên gần 20% trong khi Xbox tăng giá console",
-      "bullets": [
-        "Apple tăng giá sản phẩm vì giá thành nguyên liệu tăng vọt",
-        "Xbox tăng giá console, gây khó khăn cho người tiêu dùng",
-        "Apple nói chưa từng thấy mức tăng giá nguyên liệu cao như vậy trong thời gian ngắn",
-        "Tình hình này gây lo ngại về sự ổn định của chuỗi cung ứng"
-      ],
-      "full_summary": "Apple vừa thông báo tăng giá một số sản phẩm lên gần 20%. Điều này được cho là do giá thành nguyên liệu tăng vọt. Trong khi đó, Xbox cũng tăng giá console, gây khó khăn cho người tiêu dùng. Apple cho biết chưa từng thấy mức tăng giá nguyên liệu cao như vậy trong thời gian ngắn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d31003e995c2",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T14:03:20.561989+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "IBM phát triển công nghệ chip siêu nhỏ dưới 1 nanomet",
-      "bullets": [
-        "Tạo ra công nghệ chip siêu nhỏ dưới 1 nanomet",
-        "Đạt được thành tựu này sau nhiều năm nghiên cứu",
-        "Công nghệ mới chưa sẵn sàng cho sản xuất",
-        "IBM hy vọng sẽ cải thiện hiệu suất và tiết kiệm năng lượng"
-      ],
-      "full_summary": "IBM vừa công bố thành tựu mới trong lĩnh vực công nghệ chip siêu nhỏ. Công ty đã tạo ra công nghệ chip dưới 1 nanomet, một kỷ lục chưa từng có. Tuy nhiên, công nghệ mới này chưa sẵn sàng cho sản xuất và sẽ mất một thời gian để hoàn thiện. IBM hy vọng rằng công nghệ mới này sẽ giúp cải thiện hiệu suất và tiết kiệm năng lượng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7f49088c4c59",
-      "title": "Police units deployed across South Africa before anti-immigration marches",
-      "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T14:03:21.688021+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cảnh sát được triển khai trước các cuộc biểu tình chống nhập cư ở Nam Phi",
-      "bullets": [
-        "Được triển khai cảnh sát ở các thành phố và thị trấn khắp nước Nam Phi trước các cuộc biểu tình chống người nhập cư không giấy tờ",
-        "Cảnh sát được nhìn thấy tuần tra ở khu vực kinh doanh trung tâm ở Johannesburg",
-        "Nhiều chủ cửa hàng quyết định không mở cửa vào thứ ba",
-        "Đội quân Nam Phi đã triển khai xe tải và tài sản khác"
-      ],
-      "full_summary": "Cảnh sát Nam Phi đã triển khai lực lượng cảnh sát ở các thành phố và thị trấn khắp nước trước các cuộc biểu tình chống người nhập cư không giấy tờ. Điều này là để ngăn chặn các cuộc biểu tình có thể lặp lại như năm 2008, khi có 62 người thiệt mạng trong các vụ bạo động chống người nhập cư. Các lực lượng an ninh đã được nhìn thấy tuần tra ở khu vực kinh doanh trung tâm ở Johannesburg, nơi nhiều chủ cửa hàng quyết định không mở cửa vào thứ ba.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b9ad193e33b5",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T14:03:22.762576+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạ viện Zimbabwe thông qua sửa đổi hiến pháp để kéo dài nhiệm kỳ tổng thống",
-      "bullets": [
-        "Chính phủ Zimbabwe thông qua sửa đổi hiến pháp kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm",
-        "Nhiệm kỳ tổng thống hiện tại sẽ được kéo dài cho đến năm 2030",
-        "Tổng thống 83 tuổi Emmerson Mnangagwa được cho là sẽ tiếp tục nắm quyền lực",
-        "Các đối thủ của chính phủ lo ngại rằng sửa đổi hiến pháp sẽ làm tăng quyền lực của tổng thống"
-      ],
-      "full_summary": "Hạ viện Zimbabwe đã thông qua sửa đổi hiến pháp kéo dài nhiệm kỳ tổng thống từ 5 năm lên 7 năm. Điều này sẽ cho phép Tổng thống Emmerson Mnangagwa tiếp tục nắm quyền lực cho đến năm 2030. Các đối thủ của chính phủ lo ngại rằng sửa đổi hiến pháp sẽ làm tăng quyền lực của tổng thống và vi phạm nguyên tắc dân chủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8a1b18a340c7",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-06-30T14:03:27.031744+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Hàn Quốc chi 1 tỷ USD cho sản xuất chip nhớ và robot humanoid",
-      "bullets": [
-        "Chiến lược Hàn Quốc nhằm dẫn đầu AI vật lý và robot humanoid thương mại vào năm 2028",
-        "Hàn Quốc sẽ chi 1 tỷ USD cho sản xuất chip nhớ và nghiên cứu robot humanoid",
-        "Mục tiêu của Hàn Quốc là trở thành cường quốc công nghệ hàng đầu trong lĩnh vực AI và robot",
-        "Nghiên cứu và sản xuất sẽ được thực hiện bởi các công ty và tổ chức hàng đầu Hàn Quốc"
-      ],
-      "full_summary": "Hàn Quốc đã công bố kế hoạch chi 1 tỷ USD cho sản xuất chip nhớ và nghiên cứu robot humanoid. Mục tiêu của Hàn Quốc là dẫn đầu trong lĩnh vực AI vật lý và robot humanoid thương mại vào năm 2028. Kế hoạch này sẽ được thực hiện bởi các công ty và tổ chức hàng đầu Hàn Quốc. Hàn Quốc hy vọng sẽ trở thành cường quốc công nghệ hàng đầu trong lĩnh vực này.",
       "comments": 0,
       "score": 0
     }
