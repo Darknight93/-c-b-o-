@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-01T19:43:36.161618+00:00",
+  "updated_at": "2026-07-02T02:37:49.958940+00:00",
   "articles": [
+    {
+      "id": "d1e848b0da90",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T02:37:35.372458+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cô dì của cậu bé Venezuela được cứu sau 6 ngày bị kẹt dưới đống đổ nát",
+      "bullets": [
+        "Cậu bé 2 tuổi Kleiber Moran được cứu sống sau 6 ngày bị kẹt dưới đống đổ nát",
+        "Cô dì của cậu bé đã nhận nuôi cậu bé sau khi cha mẹ mất",
+        "Cô dì sẽ cho cậu bé 'nụ ấm của mẹ'"
+      ],
+      "full_summary": "Cậu bé 2 tuổi Kleiber Moran đã được cứu sống sau 6 ngày bị kẹt dưới đống đổ nát sau trận động đất ở Venezuela. Cô dì của cậu bé đã nhận nuôi cậu bé sau khi cha mẹ mất. Cô dì đã nói rằng cô sẽ cho cậu bé 'nụ ấm của mẹ'. Sự việc đã gây ra sự chú ý lớn trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "adbe4cacada0",
+      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T02:37:36.413625+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Trump kiếm 2,2 tỷ USD trong năm ngoái, gây tranh cãi về lợi ích xung đột",
+      "bullets": [
+        "Trump kiếm được 2,2 tỷ USD trong năm ngoái, mức thu nhập cao nhất của bất kỳ tổng thống nào",
+        "Lợi nhuận này gây tranh cãi về lợi ích xung đột của Trump",
+        "Các nhà sử học cho rằng thu nhập này chưa từng thấy trong lịch sử",
+        "Mức thu nhập này khiến giới quan sát lo ngại về sự ảnh hưởng của lợi ích cá nhân lên chính sách"
+      ],
+      "full_summary": "Tổng thống Trump kiếm được 2,2 tỷ USD trong năm ngoái, mức thu nhập cao nhất của bất kỳ tổng thống nào. Lợi nhuận này gây tranh cãi về lợi ích xung đột của Trump, khiến giới quan sát lo ngại về sự ảnh hưởng của lợi ích cá nhân lên chính sách. Các nhà sử học cho rằng thu nhập này chưa từng thấy trong lịch sử và có thể ảnh hưởng đến uy tín của tổng thống.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "361f51b3039f",
+      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T02:37:37.360349+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Các người tị nạn Afghanistan bị đánh bằng que sắt trước khi bị băng giá cắt tay",
+      "bullets": [
+        "Bị bắt giữ và bị đánh bằng que sắt",
+        "Được trói tay trong nhiệt độ lạnh giá",
+        "Bị bỏ lại trong điều kiện khắc nghiệt",
+        "Bị cắt tay do băng giá"
+      ],
+      "full_summary": "Các người tị nạn Afghanistan nói rằng họ bị bắt giữ và bị đánh bằng que sắt trước khi bị băng giá cắt tay. Họ bị trói tay trong nhiệt độ lạnh giá và bị bỏ lại trong điều kiện khắc nghiệt. Các nạn nhân nói rằng họ bị đánh bằng que sắt trước khi bị cắt tay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a855016e0603",
+      "title": "At least one killed in major airstrikes on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T02:37:38.334100+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Moskva tiến hành không kích lớn vào Kyiv, ít nhất 1 người chết",
+      "bullets": [
+        "Moskva tiến hành không kích lớn vào Kyiv",
+        "Ít nhất 1 người chết trong các vụ không kích",
+        "Tổng thống Zelensky cảnh báo về một cuộc tấn công lớn",
+        "Kyiv đang chuẩn bị cho một cuộc tấn công lớn"
+      ],
+      "full_summary": "Moskva đã tiến hành không kích lớn vào Kyiv vào đêm qua, chỉ vài giờ sau khi Tổng thống Zelensky cảnh báo về một cuộc tấn công lớn. Ít nhất 1 người đã thiệt mạng trong các vụ không kích. Tổng thống Zelensky đã cảnh báo về một cuộc tấn công lớn từ Moscow. Kyiv đang chuẩn bị cho một cuộc tấn công lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2af6a93cf308",
+      "title": "US blocks long-term renewal of North American trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T02:37:39.315821+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Mỹ chặn gia hạn thỏa thuận thương mại Bắc Mỹ 16 năm",
+      "bullets": [
+        "Mỹ chặn gia hạn thỏa thuận thương mại Bắc Mỹ",
+        "Thỏa thuận sẽ được xem xét lại hàng năm",
+        "Sẽ ảnh hưởng đến các nước thành viên Canada và Mexico",
+        "Thỏa thuận có hiệu lực từ năm 1994"
+      ],
+      "full_summary": "Mỹ đã chặn việc gia hạn thỏa thuận thương mại Bắc Mỹ (USMCA) 16 năm, thỏa thuận này có hiệu lực từ năm 1994. Thỏa thuận sẽ được xem xét lại hàng năm thay vì được gia hạn trong 16 năm. Điều này sẽ ảnh hưởng đến các nước thành viên Canada và Mexico. Việc chặn gia hạn thỏa thuận này sẽ tạo ra nhiều bất ổn cho các nước thành viên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b2c6b40e00b2",
+      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T02:37:40.280557+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Nigeria đòi bồi thường tài sản bỏ lại bởi công dân rời khỏi Nam Phi",
+      "bullets": [
+        "Nigeria đang ghi chép tài sản và doanh nghiệp bỏ lại bởi công dân trở về",
+        "Hội đồng Đại sứ Nigeria đang theo dõi tình hình tài sản bỏ lại",
+        "Nigeria sẽ yêu cầu bồi thường cho tài sản bị bỏ lại",
+        "Tình hình tài sản bỏ lại đang được ghi chép và theo dõi"
+      ],
+      "full_summary": "Hội đồng Đại sứ Nigeria cho biết họ đang ghi chép tài sản và doanh nghiệp bỏ lại bởi công dân rời khỏi Nam Phi. Những tài sản và doanh nghiệp này sẽ được yêu cầu bồi thường. Việc ghi chép và theo dõi tình hình tài sản bỏ lại đang được thực hiện bởi Hội đồng Đại sứ Nigeria.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e441f4af03c8",
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-02T02:37:44.221342+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "T-Mobile đang chuyển hàng chục nghìn máy ảo khỏi VMware vì vụ kiện",
+      "bullets": [
+        "T-Mobile đang chuyển hàng chục nghìn máy ảo khỏi VMware",
+        "Công ty này muốn Broadcom tiếp tục hỗ trợ các bản quyền vĩnh viễn của VMware",
+        "T-Mobile đang gặp khó khăn trong việc duy trì các máy ảo trên VMware",
+        "Vụ việc liên quan đến một vụ kiện giữa T-Mobile và VMware"
+      ],
+      "full_summary": "T-Mobile đang chuyển hàng chục nghìn máy ảo khỏi VMware vì vụ kiện. Công ty này muốn Broadcom tiếp tục hỗ trợ các bản quyền vĩnh viễn của VMware. T-Mobile đang gặp khó khăn trong việc duy trì các máy ảo trên VMware. Vụ việc liên quan đến một vụ kiện giữa T-Mobile và VMware.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aa51cbace8d6",
+      "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
+      "url": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-02T02:37:47.030455+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Xe điện Volvo EX30 Cross Country sắp ngừng bán tại Mỹ",
+      "bullets": [
+        "Được đánh giá cao về hiệu suất và thiết kế",
+        "Tuy nhiên bị ảnh hưởng nặng nề bởi thuế và chính sách chống Trung Quốc",
+        "Không thể mua được tại Mỹ do các yếu tố địa chính trị",
+        "Một ví dụ về ảnh hưởng của chính trị đối với thị trường xe hơi"
+      ],
+      "full_summary": "Xe điện Volvo EX30 Cross Country được đánh giá cao về hiệu suất và thiết kế. Tuy nhiên, do bị ảnh hưởng nặng nề bởi thuế và chính sách chống Trung Quốc, xe này sắp ngừng bán tại Mỹ. Điều này cho thấy ảnh hưởng của địa chính trị đối với thị trường xe hơi.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "82b307a61003",
       "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
@@ -635,166 +794,6 @@
         "Pakistan cảnh báo sẽ đáp trả trước bất kỳ hành động nào gây hại"
       ],
       "full_summary": "Taliban đã tiến hành các cuộc tấn công ở biên giới với Pakistan, khiến căng thẳng giữa hai bên leo thang. Pakistan cho biết đã bắn hạ 4 chiếc drone không người lái của Taliban. Pakistan cảnh báo sẽ đáp trả trước bất kỳ hành động nào gây hại và sẽ không để cho Taliban gây hại cho đất nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ac7c919fd06a",
-      "title": "E-scooters being advertised for commuting despite UK road ban",
-      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T02:47:57.446075+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các nhà bán lẻ quảng cáo xe đạp điện cho mục đích đi làm",
-      "bullets": [
-        "Quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố",
-        "Cơ quan báo chí Press Association điều tra các nhà bán lẻ lớn",
-        "Nghi vấn vi phạm quy định cấm xe đạp điện trên đường bộ tại Anh",
-        "Nghi vấn về an toàn giao thông khi quảng cáo xe đạp điện cho mục đích đi làm"
-      ],
-      "full_summary": "Một cuộc điều tra của cơ quan báo chí Press Association phát hiện các nhà bán lẻ lớn tại Anh đang quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố. Điều này đã gây ra nghi vấn về vi phạm quy định cấm xe đạp điện trên đường bộ tại Anh. Các nhà bán lẻ đang quảng cáo xe đạp điện như một phương tiện đi lại an toàn và tiện lợi, nhưng điều này đã gây ra lo ngại về an toàn giao thông. Nghi vấn về vi phạm quy định cấm xe đạp điện trên đường bộ tại Anh đã được đưa ra và các nhà bán lẻ đang phải đối mặt với những hậu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f0594e08afb",
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T02:47:58.403958+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Ford tuyển lại kỹ sư con người sau khi AI không đạt yêu cầu chất lượng",
-      "bullets": [
-        "Ford tuyển lại đội ngũ kỹ sư con người để đảm bảo chất lượng sản phẩm",
-        "AI chất lượng kiểm tra không thể thay thế kỹ năng của kỹ sư dày dặn kinh nghiệm",
-        "Ford tìm cách cải thiện hiệu suất chất lượng sản phẩm bằng cách kết hợp AI và con người",
-        "Kỹ sư con người sẽ tiếp tục kiểm tra chất lượng sản phẩm để đảm bảo chất lượng cao"
-      ],
-      "full_summary": "Ford đã phải tuyển lại đội ngũ kỹ sư con người sau khi hệ thống kiểm tra chất lượng bằng AI không thể đáp ứng được yêu cầu chất lượng. Điều này cho thấy rằng AI vẫn còn hạn chế trong việc kiểm tra chất lượng sản phẩm, đặc biệt là trong lĩnh vực sản xuất ô tô. Ford đã tìm cách cải thiện hiệu suất chất lượng sản phẩm bằng cách kết hợp AI và con người để đảm bảo chất lượng cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ec1dafa2ed34",
-      "title": "Tech firms are blaming AI for mega device and console price rises",
-      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T02:47:59.312968+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 3,
-      "headline": "Công ty công nghệ đổ lỗi cho AI về sự tăng giá của thiết bị và máy chơi game",
-      "bullets": [
-        "Tăng giá của máy chơi game Xbox, Nintendo Switch 2 và Steam Deck",
-        "Các công ty công nghệ đổ lỗi cho sự tăng giá của AI",
-        "Sự tăng giá của thiết bị và máy chơi game đang gây khó khăn cho người tiêu dùng",
-        "Các công ty công nghệ đang tìm cách giải quyết vấn đề này"
-      ],
-      "full_summary": "Các công ty công nghệ đang đổ lỗi cho AI về sự tăng giá của thiết bị và máy chơi game. Các máy chơi game như Xbox, Nintendo Switch 2 và Steam Deck đang tăng giá trong những tháng gần đây. Các công ty công nghệ đang tìm cách giải quyết vấn đề này để giảm giá của thiết bị và máy chơi game. Sự tăng giá của thiết bị và máy chơi game đang gây khó khăn cho người tiêu dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "685a3ef4827e",
-      "title": "Supreme Court's birthright ruling is major blow to Trump",
-      "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T19:45:46.997872+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Tòa án tối cao Mỹ quyết định gây tổn hại cho Tổng thống Trump",
-      "bullets": [
-        "Phán quyết lịch sử gây tổn hại nghiêm trọng cho Tổng thống Trump",
-        "Tòa án tối cao Mỹ bác bỏ yêu cầu của Trump",
-        "Trump có thể phải đối mặt với hậu quả pháp lý nghiêm trọng",
-        "Phán quyết này có thể ảnh hưởng đến cuộc bầu cử tổng thống năm sau"
-      ],
-      "full_summary": "Tòa án tối cao Mỹ đã đưa ra phán quyết lịch sử gây tổn hại nghiêm trọng cho Tổng thống Trump. Phán quyết này bác bỏ yêu cầu của Trump và có thể khiến ông phải đối mặt với hậu quả pháp lý nghiêm trọng. Phán quyết này có thể ảnh hưởng đến cuộc bầu cử tổng thống năm sau và tạo ra nhiều bất ổn cho chính trị Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "74f43958198c",
-      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T19:45:47.994126+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "14 em nhỏ chết khi mái nhà đổ ở trung tâm học tập ở Pakistan",
-      "bullets": [
-        "Hai người bị bắt giữ sau vụ việc ở ngoại ô Lahore",
-        "Mái nhà đổ xuống khiến 14 em nhỏ tử vong",
-        "Vụ việc xảy ra tại trung tâm học tập tư nhân ở Pakistan",
-        "Cơ quan chức năng đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Một vụ tai nạn nghiêm trọng xảy ra tại trung tâm học tập tư nhân ở ngoại ô Lahore, Pakistan. Mái nhà của trung tâm đổ xuống khiến 14 em nhỏ tử vong. Hai người đã bị bắt giữ sau vụ việc. Cơ quan chức năng đang điều tra nguyên nhân của vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4caf20e60b63",
-      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-      "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T19:45:49.003855+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hạm đội Mỹ và Nhật tập trận ở vùng hoang dã Úc",
-      "bullets": [
-        "Hạm đội Mỹ và Nhật đang tập trận ở vùng hoang dã Úc",
-        "Mục đích của cuộc tập trận là gì?",
-        "Úc không tham gia vào bất kỳ cuộc chiến nào",
-        "Vùng hoang dã Úc cách các khu vực xung đột xa hàng nghìn km"
-      ],
-      "full_summary": "Hạm đội Mỹ và Nhật đang tập trận ở vùng hoang dã Úc, một quốc gia không tham gia vào bất kỳ cuộc chiến nào. Mục đích của cuộc tập trận là gì? Theo BBC, cuộc tập trận nhằm mục đích tăng cường khả năng chiến đấu của quân đội Mỹ và Nhật. Vùng hoang dã Úc cách các khu vực xung đột xa hàng nghìn km, nhưng vẫn là một địa điểm lý tưởng cho các cuộc tập trận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "532c2cce5191",
-      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
-      "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T19:45:49.934649+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 58.000 cực hữu ở Đức, cơ quan tình báo tiết lộ",
-      "bullets": [
-        "Xác định hơn 25% cực hữu có ý định bạo lực",
-        "Cơ quan tình báo Đức tiết lộ thông tin",
-        "Số lượng cực hữu đang gia tăng",
-        "Tình hình an ninh ở Đức trở nên nghiêm trọng"
-      ],
-      "full_summary": "Cơ quan tình báo Đức vừa tiết lộ có hơn 58.000 người cực hữu ở nước này. Theo số liệu, hơn 25% trong số đó được cho là có ý định bạo lực. Điều này cho thấy tình hình an ninh ở Đức đang trở nên nghiêm trọng. Cơ quan tình báo Đức đang theo dõi chặt chẽ tình hình để ngăn chặn các hoạt động cực hữu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "08118deefff0",
-      "title": "Firefighters struggle to contain deadly Greek wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-06-30T19:45:50.884974+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người thiệt mạng do cháy rừng ở Hy Lạp",
-      "bullets": [
-        "Cứu hỏa đang nỗ lực dập tắt đám cháy",
-        "Đám cháy đã khiến một người thiệt mạng",
-        "Hơn 100 người cứu hỏa đang tham gia",
-        "Cháy rừng xảy ra gần Thessaloniki"
-      ],
-      "full_summary": "Cứu hỏa đang nỗ lực dập tắt đám cháy rừng ở Hy Lạp gần Thessaloniki. Đám cháy đã khiến một người thiệt mạng và nhiều người khác bị thương. Hơn 100 người cứu hỏa đang tham gia để dập tắt đám cháy. Cháy rừng đang gây ra những thiệt hại nghiêm trọng.",
       "comments": 0,
       "score": 0
     }
