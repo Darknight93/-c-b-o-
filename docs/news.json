@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-07-02T08:44:40.824498+00:00",
+  "updated_at": "2026-07-02T13:43:41.029966+00:00",
   "articles": [
+    {
+      "id": "72d8006abe06",
+      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T13:43:27.146014+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trẻ vị thành niên Canada tử vong vì ngộ độc sán hạch",
+      "bullets": [
+        "Một cậu bé 11 tuổi Canada tử vong vì ngộ độc sán hạch",
+        "Cậu bé bị một con dơi chạm vào mặt khi đang ngủ",
+        "Rabies là một bệnh hiếm gặp ở Canada",
+        "Có 28 trường hợp tử vong do ngộ độc sán hạch ở Canada từ năm 1924"
+      ],
+      "full_summary": "Một cậu bé 11 tuổi ở Canada đã tử vong vì ngộ độc sán hạch sau khi bị một con dơi chạm vào mặt khi đang ngủ. Đây là một trường hợp hiếm gặp ở Canada, nơi bệnh sán hạch hiếm gặp. Từ năm 1924, đã có 28 trường hợp tử vong do ngộ độc sán hạch ở Canada.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "43f36b0236af",
+      "title": "Watch: PM's former top aide on Starmer's first call with Trump",
+      "url": "https://www.bbc.co.uk/news/videos/c04yxek0qyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T13:43:28.124801+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Trả lời phỏng vấn BBC, cựu cố vấn của Thủ tướng Anh cho biết Trump hài hước hơn dự kiến",
+      "bullets": [
+        "Trump được mô tả là người hài hước hơn dự kiến",
+        "Cựu cố vấn Thủ tướng Anh cho biết Trump có cuộc gọi với Starmer",
+        "Morgan McSweeney là cựu cố vấn của Thủ tướng Anh",
+        "Trump được mô tả là người có tính cách thú vị"
+      ],
+      "full_summary": "Cựu cố vấn Thủ tướng Anh Morgan McSweeney đã trả lời phỏng vấn BBC về cuộc gọi đầu tiên của Thủ tướng Anh với cựu Tổng thống Mỹ Donald Trump. Ông McSweeney cho biết Trump được mô tả là người hài hước hơn dự kiến. Ông cũng cho biết mình đã tham gia vào cuộc gọi này và mô tả Trump là người có tính cách thú vị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f43fb328d5ad",
+      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T13:43:29.045454+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông 66 tuổi cố tình đâm máy bay vào tòa nhà cao tầng vì lý do cá nhân",
+      "bullets": [
+        "Đã xảy ra vụ tai nạn máy bay vào tòa nhà cao tầng ở Trung Quốc",
+        "Người đàn ông 66 tuổi đã tử vong trong vụ tai nạn",
+        "Người đàn ông này có vấn đề về lo âu và đã viết về ý định kết thúc cuộc sống trong nhật ký"
+      ],
+      "full_summary": "Một người đàn ông 66 tuổi đã cố tình đâm máy bay của mình vào tòa nhà cao tầng ở Trung Quốc. Người đàn ông này đã tử vong trong vụ tai nạn. Theo báo cáo, người đàn ông này có vấn đề về lo âu và đã viết về ý định kết thúc cuộc sống trong nhật ký. Người đàn ông này đã tham gia thử nghiệm bay trước khi thực hiện vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bc00ccdb8b1e",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T13:43:29.971009+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta kính đeo giới hạn tính năng tăng âm thanh",
+      "bullets": [
+        "Giới hạn tính năng tăng âm thanh trong kính Meta lên 3 giờ miễn phí",
+        "Người dùng phải trả phí để tiếp tục sử dụng tính năng này",
+        "Tính năng này giúp tăng cường âm thanh cho người nói",
+        "Meta không công bố chi tiết về phí sử dụng tính năng này"
+      ],
+      "full_summary": "Meta đã giới hạn tính năng tăng âm thanh trong kính đeo của họ lên 3 giờ miễn phí. Người dùng phải trả phí để tiếp tục sử dụng tính năng này. Tính năng này giúp tăng cường âm thanh cho người nói, nhưng Meta không công bố chi tiết về phí sử dụng tính năng này. Điều này có thể ảnh hưởng đến người dùng kính Meta.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f4a45c326196",
+      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+      "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T13:43:31.934654+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nước lũ ở Côte d'Ivoire giết 59 người",
+      "bullets": [
+        "Nhiều người chết vì lũ lụt ở Côte d'Ivoire",
+        "Ghana báo cáo 13 người chết, nhiều quốc gia khác bị ảnh hưởng",
+        "Cứu hộ tiếp tục tìm kiếm nạn nhân trong mùa mưa",
+        "Số người chết có thể tăng thêm"
+      ],
+      "full_summary": "Nước lũ ở Côte d'Ivoire đã giết 59 người kể từ tháng 5, theo Bộ trưởng Thông tin Amadou Coulibaly. Các đội cứu hộ đang tìm kiếm nạn nhân trong mùa mưa, khi mùa mưa ở khu vực Tây Phi kéo dài từ tháng 5 đến tháng 7. Ghana cũng báo cáo 13 người chết và nhiều quốc gia khác bị ảnh hưởng bởi lũ lụt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "310e39142708",
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-02T13:43:35.275066+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Google tăng cường AI dẫn đến tăng 37% tiêu thụ điện năng năm 2025",
+      "bullets": [
+        "Tăng cường xây dựng trung tâm dữ liệu AI của Google",
+        "Tăng tiêu thụ điện năng lên 37% so với năm trước",
+        "Google cố gắng cân bằng phát thải khí nhà kính từ trung tâm dữ liệu",
+        "Sử dụng năng lượng tái tạo để giảm thiểu tác động môi trường"
+      ],
+      "full_summary": "Google đã tăng cường xây dựng trung tâm dữ liệu AI trong năm 2025, dẫn đến tăng 37% tiêu thụ điện năng. Để giảm thiểu tác động môi trường, Google đang cố gắng cân bằng phát thải khí nhà kính từ trung tâm dữ liệu bằng cách sử dụng năng lượng tái tạo. Mặc dù vậy, vẫn còn nhiều thách thức cần được giải quyết để giảm thiểu tác động môi trường của trung tâm dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2fec4b46757b",
       "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
@@ -675,126 +794,6 @@
         "Các tội ác bao gồm giết người, tra tấn, hiếp dâm, bán tớ và nô lệ tình dục"
       ],
       "full_summary": "Amnesty quốc tế đã cáo buộc RSF Sudan đã thực hiện tội ác chống loài người và diệt chủng trong chiến dịch để chiếm El Fasher. Các tội ác bao gồm giết người, tra tấn, hiếp dâm, bán tớ và nô lệ tình dục. Các hành động này đã được thực hiện một cách rộng rãi và có hệ thống, nhằm vào dân thường và có tính chất tội ác chống loài người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a785911d3e02",
-      "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
-      "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-01T14:16:37.409263+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Không tìm thấy liên kết giữa thuốc Tylenol và tật tự kỷ",
-      "bullets": [
-        "Khẳng định không có mối liên hệ giữa thuốc Tylenol và tật tự kỷ",
-        "Nghiên cứu mới bác bỏ tuyên bố của Trump về mối liên hệ này",
-        "Sử dụng thuốc Tylenol trong thai kỳ đã giảm sau khi Trump đưa ra cảnh báo",
-        "Nghiên cứu tiếp tục khẳng định thuốc Tylenol an toàn cho phụ nữ mang thai"
-      ],
-      "full_summary": "Một nghiên cứu mới đã bác bỏ tuyên bố của Trump về mối liên hệ giữa thuốc Tylenol và tật tự kỷ. Nghiên cứu này là một trong nhiều nghiên cứu đã được thực hiện để xác định mối liên hệ giữa thuốc Tylenol và tật tự kỷ. Sử dụng thuốc Tylenol trong thai kỳ đã giảm sau khi Trump đưa ra cảnh báo. Nghiên cứu tiếp tục khẳng định thuốc Tylenol an toàn cho phụ nữ mang thai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1ad847d44dad",
-      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
-      "url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-01T14:16:41.074246+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple đưa vụ kiện Epic về phí ứng dụng lên Tòa án Tối cao",
-      "bullets": [
-        "Apple đã quyết định đưa vụ kiện Epic về phí ứng dụng lên Tòa án Tối cao Hoa Kỳ",
-        "Tòa án Tối cao sẽ xem xét liệu quyết định của tòa án cấp dưới về hành vi bất tuân của Apple là sai hay không",
-        "Vụ kiện Epic đã kéo dài nhiều năm và liên quan đến phí ứng dụng của Apple trên App Store",
-        "Quyết định của Tòa án Tối cao có thể ảnh hưởng đến quy định về phí ứng dụng trên các nền tảng di động"
-      ],
-      "full_summary": "Apple đã quyết định đưa vụ kiện Epic về phí ứng dụng lên Tòa án Tối cao Hoa Kỳ. Vụ kiện này đã kéo dài nhiều năm và liên quan đến phí ứng dụng của Apple trên App Store. Tòa án Tối cao sẽ xem xét liệu quyết định của tòa án cấp dưới về hành vi bất tuân của Apple là sai hay không. Quyết định của Tòa án Tối cao có thể ảnh hưởng đến quy định về phí ứng dụng trên các nền tảng di động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c4c94b5c01a2",
-      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T09:33:58.700471+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "RSF Sudan bị cáo buộc tội ác chống loài người tại el-Fasher",
-      "bullets": [
-        "Amnesty cáo buộc RSF Sudan đã thực hiện tội ác chống loài người",
-        "UN cho rằng el-Fasher thể hiện dấu hiệu của tội ác diệt chủng",
-        "Báo cáo của Amnesty thêm bằng chứng về tội ác tại el-Fasher",
-        "RSF Sudan bị cáo buộc gây ra tội ác chống loài người"
-      ],
-      "full_summary": "Amnesty International vừa công bố báo cáo cáo buộc RSF Sudan đã thực hiện tội ác chống loài người tại el-Fasher, Sudan. Theo báo cáo, các hành động của RSF Sudan thể hiện dấu hiệu của tội ác diệt chủng. Đây là thêm bằng chứng về tội ác tại el-Fasher, nơi mà UN cho rằng đã xảy ra tội ác diệt chủng. Báo cáo của Amnesty sẽ giúp làm sáng tỏ tình hình tại el-Fasher.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "554c171d46ba",
-      "title": "Why is crucial tech vulnerable to the heat?",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T09:33:59.694540+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Cảnh báo: Công nghệ quan trọng dễ bị ảnh hưởng bởi thời tiết nóng",
-      "bullets": [
-        "Thời tiết nóng gây gián đoạn mạng lưới điện",
-        "Dịch vụ tàu hỏa bị ảnh hưởng bởi nhiệt độ cao",
-        "Các hệ thống công nghệ dễ bị hư hỏng bởi nhiệt độ",
-        "Thời tiết nóng gây thiệt hại cho các hệ thống quan trọng"
-      ],
-      "full_summary": "Theo BBC Technology, thời tiết nóng đang gây ra nhiều vấn đề cho các hệ thống công nghệ quan trọng. Nhiệt độ cao đã gây gián đoạn mạng lưới điện và dịch vụ tàu hỏa. Các hệ thống công nghệ cũng dễ bị hư hỏng bởi nhiệt độ cao. Điều này cho thấy tầm quan trọng của việc chuẩn bị cho thời tiết nóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8fc5071d5ae4",
-      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
-      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T09:34:00.579348+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp sẽ cho phép người dùng trò chuyện bằng cách đổi tên người dùng thay vì số điện thoại",
-      "bullets": [
-        "WhatsApp sẽ triển khai tính năng tên người dùng toàn cầu trong vài tháng tới",
-        "Người dùng có thể đổi tên người dùng để trò chuyện với nhau",
-        "Tính năng này sẽ giúp người dùng dễ dàng tìm kiếm và liên hệ với nhau",
-        "WhatsApp sẽ tiếp tục cập nhật và cải thiện tính năng này"
-      ],
-      "full_summary": "WhatsApp đang triển khai tính năng tên người dùng toàn cầu, cho phép người dùng đổi tên người dùng để trò chuyện với nhau. Tính năng này sẽ giúp người dùng dễ dàng tìm kiếm và liên hệ với nhau. WhatsApp sẽ tiếp tục cập nhật và cải thiện tính năng này trong thời gian tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5173f8718027",
-      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T09:34:01.628614+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Niger bắt giữ ít nhất 40 người vì quan hệ đồng tính",
-      "bullets": [
-        "Bắt giữ ít nhất 40 người vì quan hệ đồng tính ở Niger",
-        "16 người, bao gồm cả quan chức quân sự cao cấp, bị giam giữ",
-        "Mất tiếp cận thuốc PrEP dẫn đến lo ngại về sự tái phát của HIV/AIDS",
-        "Khả năng đàn áp LGBTQ+ gây ra một bầu không khí độc hại"
-      ],
-      "full_summary": "Ở Niger, một 'cuộc săn lùng ma quỷ' đang diễn ra sau khi nước này áp dụng một bộ luật hình sự mới. Ít nhất 40 người đã bị bắt giữ vì quan hệ đồng tính. 16 người, bao gồm cả quan chức quân sự cao cấp, đã bị giam giữ. Sự mất tiếp cận thuốc PrEP đã dẫn đến lo ngại về sự tái phát của HIV/AIDS. Bầu không khí đàn áp LGBTQ+ đang gây ra một bầu không khí độc hại.",
       "comments": 0,
       "score": 0
     }
