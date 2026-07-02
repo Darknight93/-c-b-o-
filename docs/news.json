@@ -1,6 +1,206 @@
 {
-  "updated_at": "2026-07-02T13:43:41.029966+00:00",
+  "updated_at": "2026-07-02T19:14:17.515042+00:00",
   "articles": [
+    {
+      "id": "3832cb8379e3",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:02.735877+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông ở Venezuela được cứu sống sau 8 ngày bị kẹt dưới đổ nát",
+      "bullets": [
+        "Một trận động đất đã khiến một tòa nhà đậu xe sụp đổ",
+        "Người đàn ông bị kẹt dưới đổ nát đã được tìm thấy sống sót",
+        "Các nhân viên cứu hộ đã tìm thấy người đàn ông sau 8 ngày",
+        "Người đàn ông đã được cứu sống và đang được chăm sóc y tế"
+      ],
+      "full_summary": "Một trận động đất đã xảy ra ở Venezuela, khiến một tòa nhà đậu xe sụp đổ. Một người đàn ông đã bị kẹt dưới đổ nát và đã được tìm thấy sống sót sau 8 ngày. Các nhân viên cứu hộ đã tìm thấy người đàn ông và đã cứu sống ông. Người đàn ông đang được chăm sóc y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ab36161931f8",
+      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:03.628914+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một vụ nổ tại quán cà phê ở Damascus khiến sáu người thiệt mạng",
+      "bullets": [
+        "Một vụ nổ xảy ra tại quán cà phê gần Tòa án Tối cao ở Damascus",
+        "Không có tuyên bố ngay lập tức về vụ tấn công",
+        "Sáu người thiệt mạng trong vụ nổ tại quán cà phê",
+        "Vụ nổ xảy ra gần một tòa nhà chính phủ quan trọng"
+      ],
+      "full_summary": "Một vụ nổ đã xảy ra tại quán cà phê ở Damascus, khiến sáu người thiệt mạng. Vụ nổ xảy ra gần Tòa án Tối cao, một tòa nhà chính phủ quan trọng. Không có tuyên bố ngay lập tức về vụ tấn công. Vụ nổ đã gây ra sự lo lắng và bất an trong cộng đồng địa phương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a591a2aa85c0",
+      "title": "Vatican excommunicates followers of global Catholic sect",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:04.630166+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Đức Giáo hoàng trừng phạt 600.000 tín đồ của một giáo phái Công giáo",
+      "bullets": [
+        "Trừng phạt 600.000 tín đồ của giáo phái Society of Saint Pius X",
+        "Đức Giáo hoàng cấm họ tham gia các nghi lễ Công giáo",
+        "Giáo phái này bị coi là phản Công giáo",
+        "Tín đồ của giáo phái này sẽ bị trừng phạt nếu tiếp tục theo đuổi"
+      ],
+      "full_summary": "Đức Giáo hoàng đã trừng phạt 600.000 tín đồ của giáo phái Society of Saint Pius X vì họ được coi là phản Công giáo. Giáo phái này đã bị Đức Giáo hoàng cấm tham gia các nghi lễ Công giáo. Điều này có nghĩa là tín đồ của giáo phái này sẽ bị trừng phạt nếu tiếp tục theo đuổi. Giáo phái này đã tồn tại nhiều năm và có nhiều tín đồ ở khắp thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "22a9c6a5d225",
+      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:05.593303+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nam Phi phủ nhận cáo buộc giết người tị nạn Ghana",
+      "bullets": [
+        "Nam Phi phủ nhận cáo buộc giết người một công dân Ghana",
+        "Cáo buộc nảy sinh trong đám đông biểu tình chống tị nạn ở Cape Town",
+        "Sự cố đã gây ra cuộc tranh cãi giữa hai quốc gia",
+        "Nam Phi đang điều tra vụ việc"
+      ],
+      "full_summary": "Nam Phi đang phủ nhận cáo buộc giết người một công dân Ghana trong đám đông biểu tình chống tị nạn ở Cape Town. Cáo buộc nảy sinh sau khi một người đàn ông Ghana bị giết trong một cuộc biểu tình. Sự cố đã gây ra cuộc tranh cãi giữa hai quốc gia và Nam Phi đang điều tra vụ việc. Ghana đã yêu cầu Nam Phi điều tra vụ giết người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff0386a8b118",
+      "title": "Killers of British couple in South Africa sentenced to life",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:06.603442+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cặp vợ chồng Anh bị sát hại ở Nam Phi lĩnh án tù đời",
+      "bullets": [
+        "Hai sát nhân bị kết án tù đời vì giết cặp vợ chồng Anh",
+        "Cặp vợ chồng Anh bị sát hại khi đang thu thập thực vật hiếm",
+        "Thân thể của họ được tìm thấy trong một con sông sau nhiều ngày",
+        "Tội ác này đã gây sốc trong cộng đồng quốc tế"
+      ],
+      "full_summary": "Hai sát nhân đã bị kết án tù đời vì giết cặp vợ chồng Anh tại Nam Phi. Cặp vợ chồng Anh đã bị sát hại khi đang thu thập thực vật hiếm. Thân thể của họ được tìm thấy trong một con sông sau nhiều ngày. Tội ác này đã gây sốc trong cộng đồng quốc tế và đã thu hút sự chú ý của các cơ quan chức năng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3bd5e51831e",
+      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:07.501811+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google bị phạt 4,1 tỷ euro vì dùng Android 'phá hỏng' đối thủ",
+      "bullets": [
+        "Google bị phạt 4,1 tỷ euro vì vi phạm luật chống độc quyền",
+        "Hệ điều hành Android được cho là 'phá hỏng' đối thủ",
+        "Google phản ứng rằng quyết định này 'không công nhận' đầu tư của họ",
+        "Hệ điều hành Android vẫn được cho là 'mở cửa'"
+      ],
+      "full_summary": "Tòa án châu Âu đã phạt Google 4,1 tỷ euro vì vi phạm luật chống độc quyền. Google bị cáo buộc đã sử dụng hệ điều hành Android để 'phá hỏng' đối thủ. Một đại diện của Google cho biết quyết định này 'không công nhận' đầu tư của họ để đảm bảo Android vẫn là một hệ điều hành 'mở cửa'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "554c171d46ba",
+      "title": "Why is crucial tech vulnerable to the heat?",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:08.571770+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Các hệ thống công nghệ dễ bị ảnh hưởng bởi thời tiết nóng",
+      "bullets": [
+        "Làm gián đoạn mạng lưới điện năng",
+        "Tạm dừng hoạt động của các dịch vụ tàu hỏa",
+        "Gây thiệt hại cho các thiết bị điện tử",
+        "Tăng nguy cơ xảy ra sự cố"
+      ],
+      "full_summary": "Các hệ thống công nghệ quan trọng đang trở nên dễ bị ảnh hưởng bởi thời tiết nóng. Nhiệt độ cao có thể làm gián đoạn mạng lưới điện năng và tạm dừng hoạt động của các dịch vụ tàu hỏa. Điều này cũng gây thiệt hại cho các thiết bị điện tử và tăng nguy cơ xảy ra sự cố. Các chuyên gia cảnh báo rằng các hệ thống công nghệ cần được chuẩn bị tốt hơn để đối phó với thời tiết nóng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8fc5071d5ae4",
+      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-02T19:14:09.519844+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "WhatsApp sẽ cho phép người dùng trò chuyện bằng cách đổi tên người dùng thay vì số điện thoại",
+      "bullets": [
+        "WhatsApp sẽ triển khai tính năng tên người dùng toàn cầu trong vài tháng tới",
+        "Người dùng có thể đổi tên người dùng và trò chuyện với mọi người mà không cần số điện thoại",
+        "Tính năng mới sẽ giúp người dùng bảo mật thông tin cá nhân hơn",
+        "WhatsApp sẽ tiếp tục cập nhật tính năng này trong thời gian tới"
+      ],
+      "full_summary": "WhatsApp đang triển khai tính năng tên người dùng toàn cầu, cho phép người dùng đổi tên người dùng và trò chuyện với mọi người mà không cần số điện thoại. Tính năng này sẽ giúp người dùng bảo mật thông tin cá nhân hơn và sẽ được triển khai trong vài tháng tới. WhatsApp sẽ tiếp tục cập nhật tính năng này trong thời gian tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f6f1e985f94",
+      "title": "Plex debuts 5-year membership pass for $250",
+      "url": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-02T19:14:14.988081+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Plex ra mắt thẻ hội viên 5 năm giá 250 USD",
+      "bullets": [
+        "Ra mắt thẻ hội viên 5 năm giá 250 USD",
+        "Tăng cường khuyến khích khách hàng sử dụng tính năng mới",
+        "Hạn chế sử dụng thẻ hội viên trọn đời",
+        "Tăng cường thu phí thường xuyên"
+      ],
+      "full_summary": "Plex đã ra mắt thẻ hội viên 5 năm giá 250 USD, thay vì thẻ hội viên trọn đời trước đây. Điều này cho thấy công ty đang khuyến khích khách hàng sử dụng tính năng mới và tăng cường thu phí thường xuyên. Thẻ hội viên 5 năm sẽ cho phép khách hàng tiếp tục sử dụng dịch vụ của Plex trong 5 năm tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3c85a8029005",
+      "title": "Artificial cell manages a few rounds of cell division",
+      "url": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-02T19:14:16.446822+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Mô hình tế bào nhân tạo thực hiện vài vòng phân bào",
+      "bullets": [
+        "Tế bào nhân tạo được tạo ra bằng cách thêm nhiều vật liệu",
+        "Chỉ hoạt động được trong vài vòng phân bào",
+        "Kỹ thuật mới này có thể mở ra hướng nghiên cứu tế bào nhân tạo",
+        "Cần tiếp tục nghiên cứu để cải thiện hiệu suất của tế bào nhân tạo"
+      ],
+      "full_summary": "Các nhà khoa học đã tạo ra mô hình tế bào nhân tạo và cho nó thực hiện vài vòng phân bào. Tuy nhiên, mô hình này chỉ hoạt động được trong vài vòng phân bào do phải thêm nhiều vật liệu. Kỹ thuật mới này có thể mở ra hướng nghiên cứu tế bào nhân tạo và giúp hiểu rõ hơn về quá trình phân bào. Để cải thiện hiệu suất của tế bào nhân tạo, cần tiếp tục nghiên cứu và phát triển.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "72d8006abe06",
       "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
@@ -596,204 +796,6 @@
         "Tổ chức y tế của Mexico City xác nhận 4 người thiệt mạng"
       ],
       "full_summary": "Trong bữa tiệc hào hứng sau chiến thắng của Mexico ở World Cup, 4 người đã thiệt mạng, 3 người chết do ngạt thở. Sự kiện này diễn ra ở Mexico City, nơi hơn 1 triệu người tập trung để cổ vũ đội bóng. Các nạn nhân đã chết gần tượng đài Ángel của Tự do, nơi có nhiều người tập trung để hào hứng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "399854f3be99",
-      "title": "Sony will stop making physical copies of PlayStation games in 2028",
-      "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-01T19:43:28.959622+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Sony sẽ ngừng sản xuất bản sao vật lý của trò chơi PlayStation vào năm 2028",
-      "bullets": [
-        "Sony sẽ ngừng sản xuất bản sao vật lý của trò chơi PlayStation vào năm 2028",
-        "Các trò chơi PlayStation sẽ chỉ có sẵn dưới dạng tải về sau năm 2028",
-        "Sony đang chuyển sang mô hình kinh doanh dựa trên tải về",
-        "Người hâm mộ sẽ phải thích nghi với thay đổi này"
-      ],
-      "full_summary": "Sony đã công bố quyết định ngừng sản xuất bản sao vật lý của trò chơi PlayStation vào năm 2028. Điều này có nghĩa là các trò chơi PlayStation sẽ chỉ có sẵn dưới dạng tải về sau năm 2028. Sony đang chuyển sang mô hình kinh doanh dựa trên tải về, một xu hướng đang trở nên phổ biến trong ngành công nghiệp trò chơi điện tử. Người hâm mộ sẽ phải thích nghi với thay đổi này, nhưng có thể sẽ có nhiều lợi ích như giảm chi phí và tăng tính tiện lợi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c9c7dcaa7dc6",
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-01T19:43:31.161071+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mô hình AI Fable và Mythos của Anthropic được công bố toàn cầu",
-      "bullets": [
-        "Cấm vận đối với mô hình này đã được Mỹ dỡ bỏ",
-        "Mô hình Fable và Mythos được cho là đã khiến Trump phải kiểm tra an toàn",
-        "Anthropic sẽ tiếp tục phát triển và ứng dụng các mô hình AI này"
-      ],
-      "full_summary": "Mỹ đã dỡ bỏ cấm vận đối với mô hình AI Fable và Mythos của công ty Anthropic. Mô hình này được cho là đã khiến cựu Tổng thống Trump phải kiểm tra an toàn. Sau đó, Anthropic đã được cho phép công bố mô hình này toàn cầu. Điều này cho thấy sự tin tưởng của Mỹ vào công nghệ AI của Anthropic.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "312ebf00d021",
-      "title": "Hanami 3.0: In Full Bloom",
-      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-01T19:43:35.661463+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hanami 3.0 đã được phát hành",
-      "bullets": [
-        "Phát hành phiên bản mới của thư viện Hanami",
-        "Cải thiện hiệu suất và tính ổn định",
-        "Tăng cường tính linh hoạt và tùy chỉnh",
-        "Hỗ trợ thêm các tính năng mới"
-      ],
-      "full_summary": "Thư viện Hanami 3.0 đã được phát hành, mang lại nhiều cải tiến về hiệu suất, tính ổn định và tính linh hoạt. Phiên bản mới này hỗ trợ thêm các tính năng mới và cho phép người dùng tùy chỉnh dễ dàng. Hanami 3.0 được thiết kế để đáp ứng nhu cầu của các dự án web hiện đại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ee34ce4d532a",
-      "title": "Three die in Mexico City World Cup celebrations",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T14:16:28.879174+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Ba người thiệt mạng trong đám đông mừng chiến thắng World Cup",
-      "bullets": [
-        "Hàng triệu người tập trung trên đường phố Mexico City",
-        "Ba người thiệt mạng trong đám đông đông đúc",
-        "Cảnh sát Mexico đang điều tra nguyên nhân",
-        "Sự kiện gây sốc cho người dân Mexico"
-      ],
-      "full_summary": "Hơn một triệu người tập trung trên đường phố Mexico City để mừng chiến thắng của đội tuyển bóng đá quốc gia. Sự kiện đã trở nên bạo lực khi ba người thiệt mạng trong đám đông đông đúc. Cảnh sát Mexico đang điều tra nguyên nhân và tìm cách ngăn chặn những vụ việc tương tự trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c7d51b2cffb3",
-      "title": "Fire at Antwerp apartment block kills at least six",
-      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T14:16:29.798707+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hai chục người thiệt mạng trong vụ hỏa hoạn tại Antwerp",
-      "bullets": [
-        "Hai mươi người bị thương trong vụ hỏa hoạn",
-        "Hai trăm người sống trong tòa nhà bị ảnh hưởng",
-        "Một người đàn ông thoát thân qua cửa sổ",
-        "Cơ quan chức năng đang điều tra nguyên nhân vụ hỏa hoạn"
-      ],
-      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một tòa nhà chung cư ở Antwerp, Bỉ, khiến ít nhất sáu người thiệt mạng. Vụ hỏa hoạn đã khiến hai trăm người phải sơ tán. Một người đàn ông đã thoát thân qua cửa sổ, trong khi nhiều người khác bị thương. Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "158561a49322",
-      "title": "Canada will take part in Eurovision Song Contest 2027",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T14:16:30.708025+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Canada tham gia cuộc thi Eurovision 2027",
-      "bullets": [
-        "Canada trở thành quốc gia mới tham gia cuộc thi kể từ khi Úc tham gia năm 2015",
-        "Đây là tin tức thú vị trong thế giới âm nhạc quốc tế",
-        "Canada sẽ tham gia cuộc thi Eurovision 2027 với mục tiêu gì vẫn chưa rõ",
-        "Cuộc thi Eurovision 2027 sẽ diễn ra vào năm sau"
-      ],
-      "full_summary": "Canada đã quyết định tham gia cuộc thi Eurovision 2027, trở thành quốc gia mới tham gia kể từ khi Úc tham gia vào năm 2015. Đây là tin tức thú vị trong thế giới âm nhạc quốc tế. Canada sẽ tham gia cuộc thi Eurovision 2027 với mục tiêu gì vẫn chưa rõ. Cuộc thi Eurovision 2027 sẽ diễn ra vào năm sau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "178b917d2381",
-      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T14:16:31.746959+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Netflix Wonka dùng giọng nói AI của Gene Wilder gây tranh cãi",
-      "bullets": [
-        "Dùng công nghệ AI tạo giọng nói Gene Wilder",
-        "Phim Wonka trên Netflix gây tranh cãi vì điều này",
-        "Di chúc của Gene Wilder cho phép sử dụng hình ảnh của mình",
-        "Estate của Gene Wilder đã cho phép sử dụng hình ảnh của ông"
-      ],
-      "full_summary": "Phim Wonka trên Netflix đã sử dụng công nghệ AI để tạo giọng nói của Gene Wilder, người đã qua đời vào năm 2016. Điều này đã gây tranh cãi trong cộng đồng. Estate của Gene Wilder đã cho phép sử dụng hình ảnh của ông trong phim. Mặc dù vậy, nhiều người vẫn cảm thấy không thoải mái khi nghe giọng nói của Gene Wilder được tạo ra bằng công nghệ AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "167dee44f23a",
-      "title": "PlayStation will stop releasing games on discs in 2028",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T14:16:32.642732+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "PlayStation sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028",
-      "bullets": [
-        "PlayStation sẽ ngừng sản xuất trò chơi trên đĩa từ năm 2028",
-        "Trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số",
-        "Người dùng sẽ nhận được mã số kỹ thuật số khi mua trò chơi",
-        "PlayStation sẽ chuyển sang phát hành trò chơi hoàn toàn kỹ thuật số"
-      ],
-      "full_summary": "PlayStation đã công bố sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028. Thay vào đó, trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số. Người dùng sẽ nhận được mã số kỹ thuật số khi mua trò chơi và có thể tải về trên máy tính của họ. Điều này có thể sẽ thay đổi cách người dùng mua và chơi trò chơi trên PlayStation.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bff0507b889",
-      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
-      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T14:16:33.715136+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Rockstar không phát hành đĩa cho GTA 6, liệu đĩa CD đã chết?",
-      "bullets": [
-        "Rockstar sẽ phát hành GTA 6 dưới dạng tải xuống",
-        "Nó có thể là dấu hiệu cho thấy ngành công nghiệp trò chơi điện tử đang chuyển sang kỹ thuật số",
-        "Trước đây, nhiều loại hình giải trí như âm nhạc và phim đã chuyển sang kỹ thuật số",
-        "Giờ đây, người ta đang đặt câu hỏi liệu đĩa CD có còn tồn tại trong tương lai"
-      ],
-      "full_summary": "Rockstar đã quyết định không phát hành đĩa cho GTA 6, thay vào đó sẽ cho phép người dùng tải xuống trò chơi. Điều này có thể là dấu hiệu cho thấy ngành công nghiệp trò chơi điện tử đang chuyển sang kỹ thuật số. Trước đây, nhiều loại hình giải trí như âm nhạc và phim đã chuyển sang kỹ thuật số, và giờ đây, người ta đang đặt câu hỏi liệu đĩa CD có còn tồn tại trong tương lai. Mặc dù vẫn còn nhiều câu hỏi chưa được trả lời, nhưng điều này chắc chắn sẽ tạo ra sự quan tâm lớn trong cộng đồng game thủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa58a229ca3c",
-      "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
-      "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T14:16:34.682279+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "RSF Sudan đã thực hiện tội ác chống loài người tại El Fasher",
-      "bullets": [
-        "Amnesty quốc tế cáo buộc RSF Sudan đã thực hiện tội ác chống loài người tại El Fasher",
-        "RSF Sudan đã thực hiện tội ác diệt chủng và bắt cóc dân thường",
-        "Các tội ác bao gồm giết người, tra tấn, hiếp dâm, bán tớ và nô lệ tình dục"
-      ],
-      "full_summary": "Amnesty quốc tế đã cáo buộc RSF Sudan đã thực hiện tội ác chống loài người và diệt chủng trong chiến dịch để chiếm El Fasher. Các tội ác bao gồm giết người, tra tấn, hiếp dâm, bán tớ và nô lệ tình dục. Các hành động này đã được thực hiện một cách rộng rãi và có hệ thống, nhằm vào dân thường và có tính chất tội ác chống loài người.",
       "comments": 0,
       "score": 0
     }
