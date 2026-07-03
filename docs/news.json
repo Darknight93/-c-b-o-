@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-07-02T19:14:17.515042+00:00",
+  "updated_at": "2026-07-03T02:12:51.827677+00:00",
   "articles": [
+    {
+      "id": "0d4cffc70f75",
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T02:12:38.605564+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Đại diện Olympic bị buộc tội phá hoại hồ nước phản chiếu Washington",
+      "bullets": [
+        "Bị cáo bị buộc tội phá hoại hồ nước phản chiếu Washington",
+        "Bị cáo từng là vận động viên Olympic",
+        "Bị cáo bị buộc tội phá hoại công trình được ủng hộ bởi Tổng thống Donald Trump",
+        "Bị cáo bị truy tố về tội phá hoại tài sản"
+      ],
+      "full_summary": "Một cựu vận động viên Olympic đã bị buộc tội phá hoại hồ nước phản chiếu Washington, một công trình được Tổng thống Donald Trump ủng hộ. Bị cáo bị truy tố về tội phá hoại tài sản sau khi các cải tạo công trình bị cho là thất bại. Vụ việc đã thu hút sự chú ý của công chúng và được xem xét bởi các cơ quan chức năng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c235e274dbad",
+      "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
+      "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T02:12:39.446828+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Triển khai thử nghiệm điều trị Ebola tại Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Bắt đầu thử nghiệm điều trị Ebola tại Cộng hòa Dân chủ Congo",
+        "Có 1.406 trường hợp nhiễm bệnh được xác nhận tại DRC",
+        "Có 438 trường hợp tử vong do Ebola",
+        "WHO đang theo dõi tình hình dịch bệnh tại khu vực"
+      ],
+      "full_summary": "Triển khai thử nghiệm điều trị Ebola tại Cộng hòa Dân chủ Congo đã bắt đầu. Theo số liệu của WHO, đã có 1.406 trường hợp nhiễm bệnh được xác nhận tại DRC, trong đó có 301 trường hợp nghi ngờ và 438 trường hợp tử vong. Đây là một bước quan trọng trong việc tìm kiếm phương pháp điều trị hiệu quả cho bệnh này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "44bf46b8f721",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T02:12:40.350123+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một nhà nghiên cứu AI cho rằng AI không đủ thông minh",
+      "bullets": [
+        "Yan LeCun đang phát triển một hệ thống AI linh hoạt hơn",
+        "Hệ thống này có thể thích nghi với nhiều tình huống khác nhau",
+        "Nghiên cứu mới hướng đến việc tạo ra AI thông minh hơn",
+        "Mục tiêu là tạo ra AI có thể tự học hỏi và thích nghi"
+      ],
+      "full_summary": "Một nhà nghiên cứu AI hàng đầu, Yan LeCun, đang phát triển một hệ thống AI linh hoạt hơn. Ông cho rằng AI hiện tại không đủ thông minh. Hệ thống mới của ông có thể thích nghi với nhiều tình huống khác nhau và tự học hỏi. Mục tiêu của ông là tạo ra AI thông minh hơn, có thể tự thích nghi và học hỏi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "167dee44f23a",
+      "title": "PlayStation will stop releasing games on discs in 2028",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T02:12:41.196538+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "PlayStation sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028",
+      "bullets": [
+        "Sẽ chỉ bán trò chơi với mã số kỹ thuật số",
+        "Trò chơi vẫn sẽ được bán tại các cửa hàng",
+        "Năm 2028 sẽ là năm cuối cùng phát hành trò chơi trên đĩa",
+        "Tất cả trò chơi sau này sẽ có mã số kỹ thuật số"
+      ],
+      "full_summary": "PlayStation đã công bố sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028. Thay vào đó, các trò chơi sẽ được bán tại các cửa hàng với mã số kỹ thuật số. Điều này có nghĩa là người dùng sẽ không thể mua trò chơi trên đĩa như trước đây. PlayStation hy vọng rằng việc này sẽ giúp giảm thiểu lãng phí và tăng cường trải nghiệm kỹ thuật số.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "178b917d2381",
+      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T02:12:42.153512+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Netflix Wonka phim nhận phản ứng dữ dội vì sử dụng AI tạo giọng nói Gene Wilder",
+      "bullets": [
+        "Sử dụng AI tạo giọng nói Gene Wilder trong phim Wonka",
+        "Phim được đồng ý bởi gia đình Gene Wilder",
+        "Phản ứng dữ dội từ khán giả và giới chuyên môn",
+        "Câu hỏi về quyền sở hữu trí tuệ và đạo đức công nghệ"
+      ],
+      "full_summary": "Phim Wonka trên Netflix đã nhận phản ứng dữ dội vì sử dụng AI tạo giọng nói của Gene Wilder. Mặc dù gia đình Gene Wilder đã đồng ý, nhưng nhiều người cho rằng việc sử dụng AI tạo giọng nói là không phù hợp. Câu hỏi về quyền sở hữu trí tuệ và đạo đức công nghệ đã được đặt ra. Phim Wonka đang phải đối mặt với những phản ứng tiêu cực từ khán giả và giới chuyên môn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "03304c53c376",
+      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T02:12:43.051346+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Modi nhận nhiều giải thưởng khi đi công du nước ngoài",
+      "bullets": [
+        "Nhận được giải thưởng cao nhất của Seychelles",
+        "Được trao giải thưởng Guardian of the Blue Horizon",
+        "Tích lũy nhiều giải thưởng trong các chuyến công du nước ngoài",
+        "Được nhiều quốc gia trao giải thưởng khi đến thăm"
+      ],
+      "full_summary": "Chủ tịch Ấn Độ Narendra Modi đã nhận được một giải thưởng cao nhất của Seychelles khi đến thăm nước này. Ông được trao giải thưởng Guardian of the Blue Horizon, bao gồm cả một kỷ niệm và chứng chỉ. Điều này không phải lần đầu tiên Modi nhận được giải thưởng trong các chuyến công du nước ngoài. Ông đã tích lũy nhiều giải thưởng trong các chuyến đi này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "08a408422360",
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T02:12:46.799506+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Trump từ chối gia hạn thỏa thuận thương mại Bắc Mỹ",
+      "bullets": [
+        "Trump từ chối gia hạn thỏa thuận USMCA",
+        "Thỏa thuận sẽ được đánh giá hàng năm thay vì gia hạn 16 năm",
+        "USMCA sẽ hết hạn vào năm 2036 nếu không được gia hạn",
+        "Ba quốc gia đã không đạt được thỏa thuận gia hạn trước hạn chót"
+      ],
+      "full_summary": "Thủ tướng Mỹ Donald Trump đã từ chối gia hạn thỏa thuận thương mại Bắc Mỹ (USMCA) mà ông từng ủng hộ. Thỏa thuận này sẽ được đánh giá hàng năm thay vì gia hạn 16 năm. Hạn chót để các quốc gia quyết định số phận của USMCA đã hết vào thứ Ba. Nếu không được gia hạn, thỏa thuận sẽ hết hạn vào năm 2036.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3832cb8379e3",
       "title": "Venezuela quake survivor pulled out alive after eight days",
@@ -656,146 +796,6 @@
         "Một ví dụ về ảnh hưởng của chính trị đối với thị trường xe hơi"
       ],
       "full_summary": "Xe điện Volvo EX30 Cross Country được đánh giá cao về hiệu suất và thiết kế. Tuy nhiên, do bị ảnh hưởng nặng nề bởi thuế và chính sách chống Trung Quốc, xe này sắp ngừng bán tại Mỹ. Điều này cho thấy ảnh hưởng của địa chính trị đối với thị trường xe hơi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "82b307a61003",
-      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-      "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T19:43:20.066572+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump bị yêu cầu bồi thường 5 triệu USD sau khi kháng cáo thất bại",
-      "bullets": [
-        "Trump bị yêu cầu bồi thường 5 triệu USD",
-        "Hội đồng xét xử xác định Trump có tội lạm dụng tình dục và làm nhục Carroll",
-        "Trump muốn hoãn việc trả tiền bồi thường",
-        "Carroll đòi Trump phải trả tiền bồi thường ngay lập tức"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump bị yêu cầu bồi thường 5 triệu USD cho Stormy Daniels sau khi kháng cáo thất bại. Một bồi thẩm đoàn đã xác định Trump có tội lạm dụng tình dục và làm nhục Carroll. Tuy nhiên, Trump muốn hoãn việc trả tiền bồi thường. Carroll đòi Trump phải trả tiền bồi thường ngay lập tức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50df0a430700",
-      "title": "Ukrainian charged in Germany over Nord Stream blasts",
-      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T19:43:21.238000+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ukraine bị cáo buộc liên quan đến vụ nổ Nord Stream",
-      "bullets": [
-        "Ukraine bác bỏ cáo buộc liên quan đến vụ nổ Nord Stream",
-        "Vụ nổ có thể ảnh hưởng nghiêm trọng đến quan hệ giữa Ukraine và Đức",
-        "Một người Ukraine bị bắt giữ ở Đức",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một người Ukraine bị bắt giữ ở Đức vì liên quan đến vụ nổ Nord Stream. Ukraine bác bỏ cáo buộc và cho rằng đây là một âm mưu nhằm vào họ. Vụ nổ có thể ảnh hưởng nghiêm trọng đến quan hệ giữa Ukraine và Đức, và đang được điều tra. Nếu Ukraine bị kết tội, điều này có thể dẫn đến hậu quả nghiêm trọng cho quan hệ giữa hai quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0692cbd37819",
-      "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-      "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T19:43:22.360019+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Đức Thánh Phổ Thích cảnh báo về 'chia rẽ' trong Giáo hội Công giáo",
-      "bullets": [
-        "Đức Thánh Phổ Thích cảnh báo về 'chia rẽ' trong Giáo hội Công giáo",
-        "Hàng nghìn tín đồ tham dự lễ phong chức tại Alps Thụy Sĩ",
-        "Giáo hội Công giáo đang đối mặt với cuộc khủng hoảng lớn",
-        "Bốn giám mục gây tranh cãi được phong chức"
-      ],
-      "full_summary": "Đức Thánh Phổ Thích cảnh báo về 'chia rẽ' trong Giáo hội Công giáo. Hàng nghìn tín đồ tham dự lễ phong chức cho bốn giám mục gây tranh cãi tại Alps Thụy Sĩ. Giáo hội Công giáo đang đối mặt với cuộc khủng hoảng lớn sau khi bốn giám mục gây tranh cãi được phong chức. Đức Thánh Phổ Thích đã cảnh báo về 'chia rẽ' trong Giáo hội Công giáo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eeb14d689e4e",
-      "title": "Businessman goes on trial over murder of Maltese journalist",
-      "url": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T19:43:23.284239+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Doanh nhân Yorgen Fenech bị xét xử vì sát hại nhà báo Malta",
-      "bullets": [
-        "Yorgen Fenech bị cáo buộc liên quan đến vụ ám sát nhà báo Daphne Caruana Galizia",
-        "Fenech phủ nhận mọi liên quan đến vụ án",
-        "Tòa án sẽ xem xét các bằng chứng và lời khai",
-        "Vụ án gây chú ý trong cộng đồng báo chí quốc tế"
-      ],
-      "full_summary": "Yorgen Fenech, một doanh nhân Malta, đã được đưa ra xét xử vì liên quan đến vụ ám sát nhà báo Daphne Caruana Galizia vào năm 2017. Fenech phủ nhận mọi liên quan đến vụ án, nhưng tòa án sẽ xem xét các bằng chứng và lời khai. Vụ án gây chú ý trong cộng đồng báo chí quốc tế và được coi là một trong những vụ án báo chí nghiêm trọng nhất trong lịch sử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ae5ac101d588",
-      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
-      "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T19:43:24.203629+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch Syria chỉ định 70 thành viên cuối cùng cho Quốc hội mới",
-      "bullets": [
-        "Chủ tịch Syria chỉ định 70 thành viên mới cho Quốc hội",
-        "Tổng cộng 15 nữ nghị sĩ được chỉ định",
-        "Số lượng nữ nghị sĩ tăng đáng kể so với tháng 10",
-        "Quốc hội mới sẽ thay thế cơ quan lập pháp cũ sau thời kỳ Assad"
-      ],
-      "full_summary": "Chủ tịch Syria đã chỉ định 70 thành viên cuối cùng cho Quốc hội mới. Trong số đó, 15 nữ nghị sĩ được chỉ định, tăng đáng kể so với số lượng nữ nghị sĩ được bầu vào tháng 10. Quốc hội mới sẽ thay thế cơ quan lập pháp cũ sau thời kỳ Assad. Đây là bước tiến quan trọng trong quá trình chuyển đổi chính trị ở Syria.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a4928e5946f",
-      "title": "Greek politician's mother dies of wounds after arson attack",
-      "url": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T19:43:25.203520+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một vụ tấn công bằng xăng ở Thessaloniki khiến mẹ một nhà lập pháp Hy Lạp tử vong",
-      "bullets": [
-        "Ba vụ tấn công bằng xăng và thiết bị tự chế diễn ra ở Thessaloniki vào sáng thứ Ba",
-        "Mẹ của một nhà lập pháp Hy Lạp bị thương nặng và tử vong",
-        "Các vụ tấn công xảy ra vào lúc nửa đêm",
-        "Cảnh sát đang điều tra nguyên nhân vụ tấn công"
-      ],
-      "full_summary": "Một loạt vụ tấn công bằng xăng và thiết bị tự chế diễn ra ở Thessaloniki vào sáng thứ Ba. Mẹ của một nhà lập pháp Hy Lạp bị thương nặng và tử vong. Các vụ tấn công xảy ra vào lúc nửa đêm. Cảnh sát đang điều tra nguyên nhân vụ tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "20153c1d7ca7",
-      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
-      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-01T19:43:26.456862+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người thiệt mạng trong bữa tiệc hào hứng World Cup ở Mexico",
-      "bullets": [
-        "Có 4 người thiệt mạng trong bữa tiệc hào hứng World Cup ở Mexico City",
-        "3 người chết do ngạt thở khi đám đông quá đông",
-        "Hơn 1 triệu người tập trung ở Mexico City để cổ vũ đội bóng",
-        "Tổ chức y tế của Mexico City xác nhận 4 người thiệt mạng"
-      ],
-      "full_summary": "Trong bữa tiệc hào hứng sau chiến thắng của Mexico ở World Cup, 4 người đã thiệt mạng, 3 người chết do ngạt thở. Sự kiện này diễn ra ở Mexico City, nơi hơn 1 triệu người tập trung để cổ vũ đội bóng. Các nạn nhân đã chết gần tượng đài Ángel của Tự do, nơi có nhiều người tập trung để hào hứng.",
       "comments": 0,
       "score": 0
     }
