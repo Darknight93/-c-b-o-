@@ -1,6 +1,124 @@
 {
-  "updated_at": "2026-07-03T08:53:08.778333+00:00",
+  "updated_at": "2026-07-03T13:48:26.683201+00:00",
   "articles": [
+    {
+      "id": "bc9c79da2922",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T13:48:11.520563+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người chết ở Pháp do sóng nhiệt",
+      "bullets": [
+        "Đoán trước thêm thời tiết cực đoan ở châu Âu",
+        "Thị xã ở Pháp ghi nhận 2025 người chết do sóng nhiệt",
+        "Châu Âu chuẩn bị đối mặt với thời tiết khắc nghiệt",
+        "Các nhà dự báo cảnh báo thêm nhiệt độ cao trong vài ngày tới"
+      ],
+      "full_summary": "Pháp vừa ghi nhận 2025 người chết do sóng nhiệt, cao hơn số người chết bình thường. Các nhà dự báo cảnh báo thêm thời tiết cực đoan ở châu Âu trong những ngày tới. Châu Âu chuẩn bị đối mặt với thời tiết khắc nghiệt, gây ra nhiều thiệt hại. Các chính phủ đang phải chuẩn bị cho tình huống khẩn cấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "acde07ed9739",
+      "title": "Nasa launches mission to save falling space telescope",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T13:48:12.604471+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "NASA đã phóng robot để bắt một kính thiên văn rơi rụng",
+      "bullets": [
+        "Blast off một robot được tài trợ bởi NASA để bắt một kính thiên văn rơi rụng",
+        "Robot sẽ cố gắng bắt kính thiên văn trong quỹ đạo và ném nó trở lại an toàn",
+        "Nếu không thành công, kính thiên văn sẽ bị đốt cháy khi vào bầu khí quyển",
+        "Mục tiêu là cứu kính thiên văn có giá trị 500 triệu USD"
+      ],
+      "full_summary": "NASA đã phóng một robot được tài trợ bởi họ để bắt một kính thiên văn rơi rụng trong quỹ đạo. Kính thiên văn này có giá trị 500 triệu USD và sẽ bị đốt cháy nếu không được bắt. Mục tiêu của sứ mệnh này là ném kính thiên văn trở lại an toàn và cứu nó khỏi bị phá hủy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d76bcebb92d1",
+      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T13:48:13.543404+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một phụ nữ Ukraine bị Interpol nghi ngờ là kẻ tấn công bom ở Monaco",
+      "bullets": [
+        "Interpol đã xác định một phụ nữ Ukraine là nghi phạm chính trong vụ tấn công bom ở Monaco",
+        "Cơ quan an ninh Monaco tin rằng phụ nữ này đã che giấu danh tính bằng cách mặc trang phục nam",
+        "Nghi phạm có thể không hành động đơn độc",
+        "Cơ quan chức năng Monaco đang điều tra vụ tấn công"
+      ],
+      "full_summary": "Interpol đã xác định một phụ nữ Ukraine là nghi phạm chính trong vụ tấn công bom ở Monaco. Theo cơ quan an ninh Monaco, phụ nữ này đã che giấu danh tính bằng cách mặc trang phục nam. Nghi phạm có thể không hành động đơn độc. Cơ quan chức năng Monaco đang điều tra vụ tấn công để xác định nguyên nhân và người liên quan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa58a229ca3c",
+      "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
+      "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T13:48:14.675782+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "RSF Sudan đã thực hiện tội ác chống loài người tại El Fasher",
+      "bullets": [
+        "Lập luận rằng RSF đã thực hiện tội ác chống loài người và tẩy chay chủng tộc",
+        "Báo cáo cho thấy nhiều tội ác, bao gồm giết người, tra tấn, bạo hành tình dục, nô lệ và nô lệ tình dục",
+        "Các tội ác này được thực hiện như một cuộc tấn công rộng rãi và hệ thống đối với thường dân"
+      ],
+      "full_summary": "Amnesty International đã cáo buộc lực lượng Rapid Support Forces (RSF) của Sudan thực hiện tội ác chống loài người và tẩy chay chủng tộc tại El Fasher. Theo báo cáo, nhiều tội ác, bao gồm giết người, tra tấn, bạo hành tình dục, nô lệ và nô lệ tình dục, đã được thực hiện như một cuộc tấn công rộng rãi và hệ thống đối với thường dân. Các tội ác này được thực hiện trong chiến dịch của RSF để chiếm El Fasher.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "271a68f09823",
+      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T13:48:16.814670+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Cơn bão thiên tai Venezuela: Hàng ngàn tình nguyện viên cứu hộ",
+      "bullets": [
+        "Cứu hộ quốc tế tham gia tìm kiếm người sống sót trong đống đổ nát",
+        "Cơn địa chấn khiến hàng ngàn người thiệt mạng và hàng triệu người mất nhà cửa",
+        "Tình nguyện viên địa phương và nước ngoài cùng hợp tác cứu hộ",
+        "Cơ quan cứu hộ gặp khó khăn do thiếu thiết bị và nguồn lực"
+      ],
+      "full_summary": "Cơn địa chấn mạnh 7,3 độ đã xảy ra tại Venezuela, khiến hàng ngàn người thiệt mạng và hàng triệu người mất nhà cửa. Hàng ngàn tình nguyện viên đã tham gia cứu hộ, bao gồm cả những người từ nước ngoài. Cơ quan cứu hộ gặp khó khăn do thiếu thiết bị và nguồn lực, khiến việc tìm kiếm người sống sót trở nên khó khăn hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d9837cd78535",
+      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-03T13:48:23.663012+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "PostgreSQL tránh bị giết bởi OOM Killer nhờ kiểm soát bộ nhớ nghiêm ngặt",
+      "bullets": [
+        "Kiểm soát bộ nhớ nghiêm ngặt giúp tránh tình trạng PostgreSQL bị giết bởi OOM Killer",
+        "OOM Killer sẽ giết các tiến trình đang sử dụng bộ nhớ quá mức để tránh hệ thống bị treo",
+        "Sử dụng bộ nhớ nghiêm ngặt giúp đảm bảo hiệu suất và ổn định của PostgreSQL"
+      ],
+      "full_summary": "PostgreSQL và OOM Killer là hai khái niệm liên quan đến bộ nhớ trong hệ thống. OOM Killer là một phần mềm được thiết kế để giết các tiến trình đang sử dụng bộ nhớ quá mức để tránh hệ thống bị treo. Sử dụng bộ nhớ nghiêm ngặt giúp tránh tình trạng PostgreSQL bị giết bởi OOM Killer, đảm bảo hiệu suất và ổn định của cơ sở dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "43ec075b5438",
       "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
@@ -676,126 +794,6 @@
         "Hệ thống y tế Gaza đang gặp khó khăn do thiếu nguồn lực"
       ],
       "full_summary": "Theo báo cáo của Bộ Y tế Hamas, hơn 300 người Palestine đã chết sau khi được đề nghị điều trị ở nước ngoài kể từ khi ngừng bắn bắt đầu. Các bệnh nhân Gaza đang phải chờ đợi lâu để được sơ cứu và đưa ra nước ngoài. Một số bệnh nhân đã qua đời sau khi chờ đợi quá lâu. Hệ thống y tế Gaza đang gặp khó khăn do thiếu nguồn lực và các cơ sở y tế đã bị hư hỏng nặng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "da8bbeb3b888",
-      "title": "Did this AI anti-drug video make drugs look appealing?",
-      "url": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:28.526458+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cục Quản lý Tù Hong Kong rút video K-pop AI sau chỉ trích",
-      "bullets": [
-        "Xóa video K-pop AI vì cho chất kích thích trông hấp dẫn",
-        "Cục Quản lý Tù Hong Kong đã xóa video",
-        "Video gây tranh cãi vì hình ảnh quá đẹp đẽ",
-        "Nhiều người cho rằng video khuyến khích sử dụng chất kích thích"
-      ],
-      "full_summary": "Cục Quản lý Tù Hong Kong đã xóa một video K-pop AI sau khi nhận được nhiều chỉ trích. Video này được tạo bởi AI và cho thấy hình ảnh quá đẹp đẽ về chất kích thích. Nhiều người cho rằng video này khuyến khích sử dụng chất kích thích, gây tranh cãi trong dư luận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c11c827d42d4",
-      "title": "The US deported them to Venezuela - hours later earthquakes struck",
-      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:29.375716+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Họ bị trục xuất đến Venezuela, sau đó xảy ra động đất",
-      "bullets": [
-        "Bị trục xuất khỏi Mỹ",
-        "Đến Venezuela trên chuyến bay 164",
-        "Động đất xảy ra ngay sau khi hạ cánh",
-        "Thành viên gia đình đang tìm kiếm họ"
-      ],
-      "full_summary": "Một nhóm người bị trục xuất khỏi Mỹ đã đến Venezuela trên chuyến bay 164 trước khi xảy ra hai trận động đất. Họ đang tìm kiếm thành viên gia đình của họ. Các trận động đất đã khiến nhiều người thiệt hại. Hiện tại, tình hình vẫn chưa rõ ràng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a1fd69398d1f",
-      "title": "Don't expect trackers to save your stolen car, experts say",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:30.289183+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chỉ số theo dõi xe không thể ngăn trộm xe",
-      "bullets": [
-        "Hệ thống theo dõi xe của Kia bị cấm sử dụng để theo dõi xe trực tuyến",
-        "Đạo luật UK ngăn Kia sử dụng chức năng này",
-        "Chuyên gia cảnh báo người dùng không nên phụ thuộc vào hệ thống theo dõi xe",
-        "Hệ thống này không thể ngăn trộm xe"
-      ],
-      "full_summary": "Hệ thống theo dõi xe của Kia đã bị cấm sử dụng để theo dõi xe trực tuyến do luật pháp UK. Điều này có nghĩa là nếu xe của bạn bị trộm, bạn không thể sử dụng hệ thống này để theo dõi vị trí của nó. Chuyên gia cảnh báo người dùng không nên phụ thuộc vào hệ thống này để ngăn trộm xe. Thay vào đó, người dùng nên sử dụng các biện pháp an ninh khác để bảo vệ xe của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ac7c919fd06a",
-      "title": "E-scooters being advertised for commuting despite UK road ban",
-      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:31.209735+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các nhà bán lẻ quảng cáo xe đạp điện cho đi làm",
-      "bullets": [
-        "Quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố",
-        "Các nhà bán lẻ không tuân thủ lệnh cấm ở Anh",
-        "Nghiên cứu của Press Association phát hiện các quảng cáo này",
-        "Xe đạp điện không được phép sử dụng trên đường phố ở Anh"
-      ],
-      "full_summary": "Một nghiên cứu của Press Association đã phát hiện ra rằng các nhà bán lẻ lớn đang quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố, mặc dù xe đạp điện đã bị cấm sử dụng trên đường phố ở Anh. Các quảng cáo này không tuân thủ lệnh cấm của chính phủ. Nghiên cứu này đã gây ra sự quan ngại về an toàn giao thông và tuân thủ luật pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f0594e08afb",
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:32.071485+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Ford tái tuyển kỹ sư người sau AI không đạt yêu cầu chất lượng",
-      "bullets": [
-        "Ford tái tuyển kỹ sư người sau AI không đạt yêu cầu chất lượng",
-        "AI kiểm tra chất lượng của Ford không thể so sánh với kỹ năng của kỹ sư dày dạn kinh nghiệm",
-        "Ford phải tái tuyển kỹ sư người để đảm bảo chất lượng sản phẩm",
-        "AI đã thất bại trong việc kiểm tra chất lượng sản phẩm của Ford"
-      ],
-      "full_summary": "Ford đã phải tái tuyển kỹ sư người sau khi phát hiện AI kiểm tra chất lượng không thể so sánh với kỹ năng của kỹ sư dày dạn kinh nghiệm. Điều này đã khiến Ford phải tái tuyển kỹ sư người để đảm bảo chất lượng sản phẩm. Việc này cho thấy rằng AI vẫn còn nhiều hạn chế trong việc kiểm tra chất lượng sản phẩm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ec1dafa2ed34",
-      "title": "Tech firms are blaming AI for mega device and console price rises",
-      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:33.018684+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các công ty công nghệ đổ lỗi cho AI gây tăng giá thiết bị điện tử",
-      "bullets": [
-        "Tăng giá bán các mẫu Xbox, Switch 2 và Steam Deck",
-        "Các công ty đổ lỗi cho chi phí sản xuất tăng do AI",
-        "Sự gia tăng chi phí khiến người tiêu dùng phải trả giá",
-        "Tình hình đang gây ra sự bất mãn trong cộng đồng người tiêu dùng"
-      ],
-      "full_summary": "Các công ty công nghệ đang đổ lỗi cho chi phí sản xuất tăng do AI gây ra tình trạng tăng giá bán thiết bị điện tử. Các mẫu Xbox, Switch 2 và Steam Deck là một số ví dụ về các thiết bị điện tử đang thấy giá bán tăng trong những tháng gần đây. Sự gia tăng chi phí khiến người tiêu dùng phải trả giá cao hơn cho các sản phẩm này. Tình hình đang gây ra sự bất mãn trong cộng đồng người tiêu dùng.",
       "comments": 0,
       "score": 0
     }
