@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-07-03T13:48:26.683201+00:00",
+  "updated_at": "2026-07-03T19:07:52.039573+00:00",
   "articles": [
+    {
+      "id": "68df88515e9b",
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T19:07:36.408958+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính phủ Ba Lan cảnh báo tháng tới đầy thách thức trước đe dọa của Nga",
+      "bullets": [
+        "Chính phủ Ba Lan đang chuẩn bị cho nhiều kịch bản khác nhau",
+        "Tổng thống Ba Lan cảnh báo các tháng tới sẽ đầy thách thức",
+        "Nga có kế hoạch tấn công Ba Lan theo báo cáo của phương tiện truyền thông",
+        "Chính phủ Ba Lan đang tăng cường quân sự và an ninh"
+      ],
+      "full_summary": "Tổng thống Ba Lan, Tusk, cảnh báo rằng các tháng tới sẽ đầy thách thức đối với Ba Lan do đe dọa của Nga. Theo báo cáo của phương tiện truyền thông, Nga có kế hoạch tấn công Ba Lan. Chính phủ Ba Lan đang chuẩn bị cho nhiều kịch bản khác nhau và tăng cường quân sự và an ninh để đối phó với đe dọa này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f11189228c4e",
+      "title": "Stand-up comic held for jokes about Erdogan and Islam in Turkey crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T19:07:38.743262+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tuyên viên hài bị giam vì đùa về Erdogan và Hồi giáo",
+      "bullets": [
+        "Bị cáo buộc kích động hận thù và thù địch",
+        "Được coi là một trong những nghệ sĩ hài nổi tiếng nhất ở Thổ Nhĩ Kỳ",
+        "Đã bị bắt giữ vì những câu đùa về Tổng thống Erdogan và Hồi giáo",
+        "Mặc dù không rõ khi nào sẽ được thả"
+      ],
+      "full_summary": "Tuyên viên hài Thổ Nhĩ Kỳ Deniz Göktaş đã bị bắt giữ vì những câu đùa về Tổng thống Erdogan và Hồi giáo. Ông bị cáo buộc kích động hận thù và thù địch. Göktaş được coi là một trong những nghệ sĩ hài nổi tiếng nhất ở Thổ Nhĩ Kỳ. Sự kiện này đã gây ra sự phẫn nộ trong cộng đồng nghệ sĩ hài Thổ Nhĩ Kỳ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eefc5716aaf5",
+      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T19:07:40.801937+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cha mẹ cảnh báo không chia sẻ hình ảnh con trên mạng xã hội",
+      "bullets": [
+        "Cảnh báo về nguy cơ hình ảnh trẻ em bị sử dụng tạo ra nội dung lạm dụng",
+        "NCA cho biết mối đe dọa đang gia tăng về hình ảnh trẻ em bị sử dụng tạo ra nội dung lạm dụng",
+        "Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con trên mạng xã hội",
+        "Sử dụng trí tuệ nhân tạo để tạo ra nội dung lạm dụng đang gia tăng"
+      ],
+      "full_summary": "NCA cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội vì nguy cơ hình ảnh trẻ em bị sử dụng tạo ra nội dung lạm dụng đang gia tăng. Sử dụng trí tuệ nhân tạo để tạo ra nội dung lạm dụng đang trở thành mối đe dọa lớn. Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con trên mạng xã hội để tránh nguy cơ này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a1fd69398d1f",
+      "title": "Don't expect connected car apps to save your stolen car, experts say",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T19:07:41.839372+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Ứng dụng xe thông minh không thể giúp cứu xe bị trộm",
+      "bullets": [
+        "Chính phủ Anh cấm Kia sử dụng chức năng theo dõi vị trí",
+        "Ứng dụng xe thông minh không thể theo dõi xe trong thời gian thực",
+        "Các công ty cần phải tuân thủ luật pháp địa phương",
+        "Sử dụng ứng dụng xe thông minh không thể thay thế cho công an"
+      ],
+      "full_summary": "Các chuyên gia cảnh báo rằng người dùng không nên dựa vào ứng dụng xe thông minh để cứu xe bị trộm. Kia cho biết chính phủ Anh đã cấm công ty sử dụng chức năng theo dõi vị trí để theo dõi xe trong thời gian thực. Điều này có nghĩa là các ứng dụng xe thông minh không thể giúp người dùng theo dõi xe của mình trong trường hợp bị trộm. Các công ty cần phải tuân thủ luật pháp địa phương và sử dụng ứng dụng xe thông minh không thể thay thế cho công an.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ac7c919fd06a",
+      "title": "E-scooters being advertised for commuting despite UK road ban",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-03T19:07:42.853350+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cửa hàng lớn quảng cáo xe đạp điện cho đi làm",
+      "bullets": [
+        "Quảng cáo bán xe đạp điện cho đi làm và đi đường phố",
+        "Cửa hàng lớn vi phạm quy định cấm sử dụng xe đạp điện trên đường",
+        "Nghiên cứu của Press Association chỉ ra hành vi vi phạm này",
+        "Sử dụng xe đạp điện trên đường có thể gây nguy hiểm cho người tham gia giao thông"
+      ],
+      "full_summary": "Một nghiên cứu của Press Association đã phát hiện ra rằng các cửa hàng lớn đang quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố, mặc dù xe đạp điện đã bị cấm sử dụng trên đường ở Vương quốc Anh. Điều này vi phạm quy định và có thể gây nguy hiểm cho người tham gia giao thông. Nghiên cứu chỉ ra rằng các cửa hàng lớn đang tiếp tục quảng cáo sản phẩm này cho mục đích đi lại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "70b4b76c1e81",
+      "title": "Visiting the stars (and planets, and telescopes) in VR",
+      "url": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-03T19:07:47.933457+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Khám phá vũ trụ trong thực tế ảo",
+      "bullets": [
+        "Khám phá các ngôi sao và hành tinh ngoài hệ Mặt Trời",
+        "Tham quan các đài thiên văn và quan sát vũ trụ",
+        "Trải nghiệm thực tế ảo tại triển lãm Smithsonian Starstruck"
+      ],
+      "full_summary": "Triển lãm Smithsonian Starstruck sử dụng thực tế ảo để mang trải nghiệm khám phá vũ trụ đến với công chúng. Triển lãm này cho phép người tham quan thăm dò các ngôi sao và hành tinh ngoài hệ Mặt Trời, cũng như tham quan các đài thiên văn và quan sát vũ trụ. Đây là một trải nghiệm độc đáo và thú vị, giúp người tham quan hiểu hơn về vũ trụ và các hiện tượng thiên văn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "bc9c79da2922",
       "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
@@ -675,125 +794,6 @@
         "Trump được mô tả là người có tính cách thú vị"
       ],
       "full_summary": "Cựu cố vấn Thủ tướng Anh Morgan McSweeney đã trả lời phỏng vấn BBC về cuộc gọi đầu tiên của Thủ tướng Anh với cựu Tổng thống Mỹ Donald Trump. Ông McSweeney cho biết Trump được mô tả là người hài hước hơn dự kiến. Ông cũng cho biết mình đã tham gia vào cuộc gọi này và mô tả Trump là người có tính cách thú vị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f43fb328d5ad",
-      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T13:43:29.045454+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông 66 tuổi cố tình đâm máy bay vào tòa nhà cao tầng vì lý do cá nhân",
-      "bullets": [
-        "Đã xảy ra vụ tai nạn máy bay vào tòa nhà cao tầng ở Trung Quốc",
-        "Người đàn ông 66 tuổi đã tử vong trong vụ tai nạn",
-        "Người đàn ông này có vấn đề về lo âu và đã viết về ý định kết thúc cuộc sống trong nhật ký"
-      ],
-      "full_summary": "Một người đàn ông 66 tuổi đã cố tình đâm máy bay của mình vào tòa nhà cao tầng ở Trung Quốc. Người đàn ông này đã tử vong trong vụ tai nạn. Theo báo cáo, người đàn ông này có vấn đề về lo âu và đã viết về ý định kết thúc cuộc sống trong nhật ký. Người đàn ông này đã tham gia thử nghiệm bay trước khi thực hiện vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc00ccdb8b1e",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T13:43:29.971009+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta kính đeo giới hạn tính năng tăng âm thanh",
-      "bullets": [
-        "Giới hạn tính năng tăng âm thanh trong kính Meta lên 3 giờ miễn phí",
-        "Người dùng phải trả phí để tiếp tục sử dụng tính năng này",
-        "Tính năng này giúp tăng cường âm thanh cho người nói",
-        "Meta không công bố chi tiết về phí sử dụng tính năng này"
-      ],
-      "full_summary": "Meta đã giới hạn tính năng tăng âm thanh trong kính đeo của họ lên 3 giờ miễn phí. Người dùng phải trả phí để tiếp tục sử dụng tính năng này. Tính năng này giúp tăng cường âm thanh cho người nói, nhưng Meta không công bố chi tiết về phí sử dụng tính năng này. Điều này có thể ảnh hưởng đến người dùng kính Meta.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f4a45c326196",
-      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T13:43:31.934654+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nước lũ ở Côte d'Ivoire giết 59 người",
-      "bullets": [
-        "Nhiều người chết vì lũ lụt ở Côte d'Ivoire",
-        "Ghana báo cáo 13 người chết, nhiều quốc gia khác bị ảnh hưởng",
-        "Cứu hộ tiếp tục tìm kiếm nạn nhân trong mùa mưa",
-        "Số người chết có thể tăng thêm"
-      ],
-      "full_summary": "Nước lũ ở Côte d'Ivoire đã giết 59 người kể từ tháng 5, theo Bộ trưởng Thông tin Amadou Coulibaly. Các đội cứu hộ đang tìm kiếm nạn nhân trong mùa mưa, khi mùa mưa ở khu vực Tây Phi kéo dài từ tháng 5 đến tháng 7. Ghana cũng báo cáo 13 người chết và nhiều quốc gia khác bị ảnh hưởng bởi lũ lụt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "310e39142708",
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-02T13:43:35.275066+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Google tăng cường AI dẫn đến tăng 37% tiêu thụ điện năng năm 2025",
-      "bullets": [
-        "Tăng cường xây dựng trung tâm dữ liệu AI của Google",
-        "Tăng tiêu thụ điện năng lên 37% so với năm trước",
-        "Google cố gắng cân bằng phát thải khí nhà kính từ trung tâm dữ liệu",
-        "Sử dụng năng lượng tái tạo để giảm thiểu tác động môi trường"
-      ],
-      "full_summary": "Google đã tăng cường xây dựng trung tâm dữ liệu AI trong năm 2025, dẫn đến tăng 37% tiêu thụ điện năng. Để giảm thiểu tác động môi trường, Google đang cố gắng cân bằng phát thải khí nhà kính từ trung tâm dữ liệu bằng cách sử dụng năng lượng tái tạo. Mặc dù vậy, vẫn còn nhiều thách thức cần được giải quyết để giảm thiểu tác động môi trường của trung tâm dữ liệu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2fec4b46757b",
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:26.699841+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người vận chuyển người bất hợp pháp bị kết án ở Pháp hiện đang xin tị nạn tại Anh",
-      "bullets": [
-        "Bị kết án ở Pháp, ông đã đến Anh xin tị nạn",
-        "Ông từng được gọi là 'ông trùm' của các trại di dân ở Pháp",
-        "Ông đang làm việc tại một ngôi làng ở Leicestershire",
-        "BBC đã phát hiện ra thông tin này"
-      ],
-      "full_summary": "Một người vận chuyển người bất hợp pháp đã bị kết án ở Pháp đã được phát hiện đang sống tại Anh và xin tị nạn. Ông từng được gọi là 'ông trùm' của các trại di dân ở Pháp và đã được BBC mô tả là 'người vận chuyển người bất hợp pháp' có ảnh hưởng nhất. Ông hiện đang làm việc tại một ngôi làng ở Leicestershire.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2ea604216144",
-      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T08:44:27.627255+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "300 người Palestine đã chết chờ đợi cứu trợ y tế",
-      "bullets": [
-        "Hơn 300 người Palestine đã chết chờ đợi cứu trợ y tế",
-        "Các bệnh nhân Gaza phải chờ đợi lâu để được sơ cứu và đưa ra nước ngoài",
-        "Một số bệnh nhân đã qua đời sau khi chờ đợi quá lâu",
-        "Hệ thống y tế Gaza đang gặp khó khăn do thiếu nguồn lực"
-      ],
-      "full_summary": "Theo báo cáo của Bộ Y tế Hamas, hơn 300 người Palestine đã chết sau khi được đề nghị điều trị ở nước ngoài kể từ khi ngừng bắn bắt đầu. Các bệnh nhân Gaza đang phải chờ đợi lâu để được sơ cứu và đưa ra nước ngoài. Một số bệnh nhân đã qua đời sau khi chờ đợi quá lâu. Hệ thống y tế Gaza đang gặp khó khăn do thiếu nguồn lực và các cơ sở y tế đã bị hư hỏng nặng.",
       "comments": 0,
       "score": 0
     }
