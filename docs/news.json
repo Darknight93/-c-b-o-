@@ -1,6 +1,246 @@
 {
-  "updated_at": "2026-07-03T19:07:52.039573+00:00",
+  "updated_at": "2026-07-04T02:11:44.210566+00:00",
   "articles": [
+    {
+      "id": "0dabe5132ddf",
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T02:11:04.547240+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Venezuela gặp thảm họa động đất, gia đình đau khổ",
+      "bullets": [
+        "Động đất đã gây thiệt hại nặng nề tại Venezuela.",
+        "Các gia đình đau khổ phải xác định thân nhân tại một morgue tạm thời.",
+        "Các thi thể được đặt ngoài trời hoặc trong lều để xác định danh tính.",
+        "Các dịch vụ địa phương đã bị quá tải bởi thảm họa này."
+      ],
+      "full_summary": "Một trận động đất mạnh đã xảy ra tại Venezuela, gây thiệt hại nặng nề và khiến nhiều người thiệt mạng. Các gia đình đau khổ phải xác định thân nhân tại một morgue tạm thời, nơi các thi thể được đặt ngoài trời hoặc trong lều để xác định danh tính. Các dịch vụ địa phương đã bị quá tải bởi thảm họa này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bc00ccdb8b1e",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T02:11:06.444976+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta đặt mức giới hạn cho tính năng trong kính Meta",
+      "bullets": [
+        "Đặt mức giới hạn 3 giờ sử dụng miễn phí",
+        "Tính năng tăng cường giọng nói trong kính Meta bị giới hạn",
+        "Người dùng phải trả phí để tiếp tục sử dụng tính năng này",
+        "Meta áp dụng mức giới hạn này để tăng doanh thu"
+      ],
+      "full_summary": "Meta đã áp dụng mức giới hạn 3 giờ sử dụng miễn phí cho tính năng tăng cường giọng nói trong kính Meta. Tính năng này sẽ bị giới hạn sau 3 giờ sử dụng miễn phí. Người dùng phải trả phí để tiếp tục sử dụng tính năng này. Mức giới hạn này được áp dụng để tăng doanh thu cho Meta.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f4a45c326196",
+      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+      "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T02:11:07.422168+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nước lũ ở Côte d'Ivoire giết 59 người",
+      "bullets": [
+        "Nhiều người chết do lũ lụt ở Côte d'Ivoire",
+        "Ghana báo cáo 13 người chết và nhiều nước khác cũng bị ảnh hưởng",
+        "Cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa",
+        "Toll có thể tăng thêm do mùa mưa ở Tây Phi"
+      ],
+      "full_summary": "Côte d'Ivoire đang đối mặt với tình trạng lũ lụt nghiêm trọng, khiến 59 người thiệt mạng kể từ tháng 5. Thống đốc Amadou Coulibaly cho biết mùa mưa đang trở nên nguy hiểm hơn và có thể gây thêm thiệt hại. Ghana cũng báo cáo 13 người chết và nhiều nước khác ở Tây Phi cũng bị ảnh hưởng. Cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5173f8718027",
+      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T02:11:08.541487+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Niger bắt giữ ít nhất 40 người vì quan hệ đồng tính",
+      "bullets": [
+        "Bắt giữ ít nhất 40 người vì quan hệ đồng tính",
+        "16 người bị giam giữ, bao gồm cả các quan chức quân sự cao cấp",
+        "Mất tiếp cận thuốc PrEP, gây lo ngại về sự gia tăng số ca HIV/AIDS",
+        "Môi trường 'độc hại' khiến cộng đồng LGBTQ+ lo lắng"
+      ],
+      "full_summary": "Ở Niger, một 'đoàn tụng phù thủy' đang diễn ra sau khi chính phủ quân sự ra mắt mã luật hình sự mới. Ít nhất 40 người đã bị bắt giữ vì quan hệ đồng tính. 16 người, bao gồm cả các quan chức quân sự cao cấp, đã bị giam giữ. Mất tiếp cận thuốc PrEP khiến cộng đồng LGBTQ+ lo ngại về sự gia tăng số ca HIV/AIDS. Môi trường 'độc hại' khiến họ lo lắng về tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "88ea6b62612f",
+      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+      "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T02:11:13.387711+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Canada tiếp tục xây dựng đường ống dầu mỏ sau khi cam kết 150 tỷ đô la",
+      "bullets": [
+        "Đảng chính phủ Canada cam kết đầu tư 150 tỷ đô la vào hai tỉnh British Columbia và Alberta",
+        "Đường ống dầu mỏ mới sẽ được xây dựng để mở rộng sự hiện diện của Canada trên thị trường quốc tế",
+        "Đường ống sẽ được xây dựng sau khi các biện pháp bảo vệ môi trường và động vật được thực hiện",
+        "Các biện pháp bảo vệ môi trường bao gồm mở rộng cảng và bảo vệ cá voi"
+      ],
+      "full_summary": "Chính phủ Canada và tỉnh Alberta sẽ tiếp tục xây dựng đường ống dầu mỏ mới sau khi cam kết đầu tư 150 tỷ đô la vào hai tỉnh British Columbia và Alberta. Mục tiêu của dự án này là mở rộng sự hiện diện của Canada trên thị trường quốc tế và giảm sự phụ thuộc vào thị trường Mỹ. Các biện pháp bảo vệ môi trường và động vật sẽ được thực hiện để giảm thiểu tác động tiêu cực của dự án.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0e384db9fa99",
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T02:11:14.335628+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nạn nhân Venezuela được cứu sống sau 8 ngày bị kẹt dưới đống đổ nát",
+      "bullets": [
+        "Một người đàn ông Venezuela bị kẹt dưới đống đổ nát sau động đất được cứu sống",
+        "Hernán Alberto Gil Flores được cứu sống sau 8 ngày bị kẹt dưới đống đổ nát",
+        "Người đàn ông này đã được tìm thấy nhờ một túi không khí trong cabin làm việc",
+        "Động đất đã gây thiệt hại nặng nề cho thành phố La Guaira"
+      ],
+      "full_summary": "Một người đàn ông Venezuela, Hernán Alberto Gil Flores, đã được cứu sống sau 8 ngày bị kẹt dưới đống đổ nát sau động đất. Người đàn ông này đã được tìm thấy nhờ một túi không khí trong cabin làm việc. Ông đã được cứu sống sau khi được tìm thấy dưới đống đổ nát của trung tâm thương mại Galerías Playa Grande ở thành phố La Guaira.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9c171ea26c87",
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-04T02:11:15.310447+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Rocket Lab sắp thực hiện 3 chuyến phóng riêng cho NASA",
+      "bullets": [
+        "NASA đã trao hợp đồng cho Rocket Lab thực hiện 3 chuyến phóng riêng",
+        "Các chuyến phóng sẽ sử dụng tên lửa Electron của Rocket Lab",
+        "Đây là một phần của kế hoạch mở rộng hoạt động của NASA trong không gian",
+        "Rocket Lab đang chuẩn bị cho chuyến phóng đầu tiên của mình"
+      ],
+      "full_summary": "NASA đã trao hợp đồng cho Rocket Lab thực hiện 3 chuyến phóng riêng sử dụng tên lửa Electron. Các chuyến phóng này sẽ mở rộng hoạt động của NASA trong không gian. Trong khi đó, một công ty khởi nghiệp Ấn Độ đang chuẩn bị cho chuyến phóng đầu tiên của mình. SpaceX cũng đã đạt được một số thành tựu đáng kể trong lĩnh vực không gian.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f6614916474e",
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-04T02:11:35.322008+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội Ludd ở New York dạy cách sống ngoại tuyến",
+      "bullets": [
+        "Giáo dục người dùng cách sống mà không cần điện thoại",
+        "Tổ chức các hoạt động ngoại tuyến như vẽ tranh, đọc sách",
+        "Khuyến khích người dùng tái sử dụng và tái chế",
+        "Tạo không gian ngoại tuyến cho người dùng thư giãn"
+      ],
+      "full_summary": "Hội Ludd ở New York đang dạy cho người dùng cách sống mà không cần điện thoại. Sự kiện này được tổ chức để phản đối sự phụ thuộc vào công nghệ và khuyến khích người dùng tái sử dụng và tái chế. Các hoạt động ngoại tuyến như vẽ tranh, đọc sách và chơi nhạc cụ được tổ chức tại hội chợ. Mục tiêu của hội Ludd là tạo ra không gian ngoại tuyến cho người dùng thư giãn và giảm thiểu sự phụ thuộc vào công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "94f5eb9c6df6",
+      "title": "Despite the darkness, I still see signs of hope in America",
+      "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-04T02:11:36.324629+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tìm kiếm lý do hy vọng ở nước Mỹ",
+      "bullets": [
+        "Xây dựng lại niềm tin vào hệ thống chính trị",
+        "Tăng cường giáo dục và đào tạo",
+        "Phát triển kinh tế bền vững và công bằng",
+        "Tăng cường hợp tác quốc tế và hòa bình"
+      ],
+      "full_summary": "Mặc dù nước Mỹ đang đối mặt với nhiều thách thức và khó khăn, nhưng vẫn còn nhiều lý do để hy vọng. Người viết cho rằng, nước Mỹ đã có 250 năm lịch sử và vẫn còn nhiều tiềm năng phát triển. Để xây dựng lại niềm tin vào hệ thống chính trị, cần tăng cường giáo dục và đào tạo, phát triển kinh tế bền vững và công bằng, và tăng cường hợp tác quốc tế và hòa bình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4447c9ed6cb8",
+      "title": "Wing Commander IV and the FMV future that never quite was",
+      "url": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-04T02:11:37.306468+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chris Roberts đã tạo một bộ phim gần như hoàn chỉnh trong Wing Commander IV",
+      "bullets": [
+        "Tạo ra một bộ phim gần như hoàn chỉnh trong Wing Commander IV",
+        "Sử dụng công nghệ FMV để tạo ra các cảnh phim",
+        "Là một bước tiến quan trọng trong lịch sử trò chơi điện tử",
+        "Tuy nhiên, công nghệ FMV chưa được phát triển đầy đủ"
+      ],
+      "full_summary": "Wing Commander IV là một trò chơi điện tử nổi tiếng vào những năm 1990, được phát triển bởi Chris Roberts. Trong trò chơi này, ông đã sử dụng công nghệ Full-Motion Video (FMV) để tạo ra các cảnh phim gần như hoàn chỉnh. Đây là một bước tiến quan trọng trong lịch sử trò chơi điện tử, nhưng công nghệ FMV chưa được phát triển đầy đủ để trở thành một phần phổ biến của trò chơi điện tử. Mặc dù vậy, Wing Commander IV vẫn được nhớ đến như một ví dụ sáng tạo về sử dụng công nghệ FMV.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cd32aa676afe",
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-04T02:11:38.375655+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mại dâm malware mới trên macOS sử dụng chiến thuật tinh vi",
+      "bullets": [
+        "Khám phá ra một loại malware mới trên macOS có tên PamStealer",
+        "Loại malware này sử dụng chiến thuật tinh vi để tránh được phát hiện",
+        "PamStealer là một loại infostealer, có thể trộm cắp thông tin người dùng",
+        "Mại dâm trên macOS đang trở nên phổ biến hơn"
+      ],
+      "full_summary": "Một loại malware mới trên macOS có tên PamStealer đã được khám phá ra. Loại malware này sử dụng chiến thuật tinh vi để tránh được phát hiện và có thể trộm cắp thông tin người dùng. Điều này cho thấy sự gia tăng nỗ lực vào việc phát triển malware trên Mac. Mại dâm trên macOS đang trở nên phổ biến hơn và người dùng cần phải cẩn thận hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e376c5c91499",
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T02:11:43.710388+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Tạo bộ sạc tự động cho controller Steam",
+      "bullets": [
+        "Tạo một bộ sạc tự động cho controller Steam",
+        "Sử dụng công nghệ CV và một đĩa sạc từ tính",
+        "Cung cấp một giải pháp tự động hóa cho việc sạc pin",
+        "Mở nguồn trên GitHub"
+      ],
+      "full_summary": "Một dự án mới trên GitHub cho phép tạo bộ sạc tự động cho controller Steam. Dự án sử dụng công nghệ CV và một đĩa sạc từ tính để sạc pin controller. Điều này sẽ giúp tự động hóa quá trình sạc pin và tiết kiệm thời gian. Dự án đã được mở nguồn và đang chờ các nhà phát triển tham gia.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "68df88515e9b",
       "title": "Polish PM warns critical months ahead in face of Russian threat",
@@ -554,246 +794,6 @@
         "Ba quốc gia đã không đạt được thỏa thuận gia hạn trước hạn chót"
       ],
       "full_summary": "Thủ tướng Mỹ Donald Trump đã từ chối gia hạn thỏa thuận thương mại Bắc Mỹ (USMCA) mà ông từng ủng hộ. Thỏa thuận này sẽ được đánh giá hàng năm thay vì gia hạn 16 năm. Hạn chót để các quốc gia quyết định số phận của USMCA đã hết vào thứ Ba. Nếu không được gia hạn, thỏa thuận sẽ hết hạn vào năm 2036.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3832cb8379e3",
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:02.735877+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông ở Venezuela được cứu sống sau 8 ngày bị kẹt dưới đổ nát",
-      "bullets": [
-        "Một trận động đất đã khiến một tòa nhà đậu xe sụp đổ",
-        "Người đàn ông bị kẹt dưới đổ nát đã được tìm thấy sống sót",
-        "Các nhân viên cứu hộ đã tìm thấy người đàn ông sau 8 ngày",
-        "Người đàn ông đã được cứu sống và đang được chăm sóc y tế"
-      ],
-      "full_summary": "Một trận động đất đã xảy ra ở Venezuela, khiến một tòa nhà đậu xe sụp đổ. Một người đàn ông đã bị kẹt dưới đổ nát và đã được tìm thấy sống sót sau 8 ngày. Các nhân viên cứu hộ đã tìm thấy người đàn ông và đã cứu sống ông. Người đàn ông đang được chăm sóc y tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ab36161931f8",
-      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:03.628914+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một vụ nổ tại quán cà phê ở Damascus khiến sáu người thiệt mạng",
-      "bullets": [
-        "Một vụ nổ xảy ra tại quán cà phê gần Tòa án Tối cao ở Damascus",
-        "Không có tuyên bố ngay lập tức về vụ tấn công",
-        "Sáu người thiệt mạng trong vụ nổ tại quán cà phê",
-        "Vụ nổ xảy ra gần một tòa nhà chính phủ quan trọng"
-      ],
-      "full_summary": "Một vụ nổ đã xảy ra tại quán cà phê ở Damascus, khiến sáu người thiệt mạng. Vụ nổ xảy ra gần Tòa án Tối cao, một tòa nhà chính phủ quan trọng. Không có tuyên bố ngay lập tức về vụ tấn công. Vụ nổ đã gây ra sự lo lắng và bất an trong cộng đồng địa phương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a591a2aa85c0",
-      "title": "Vatican excommunicates followers of global Catholic sect",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:04.630166+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Đức Giáo hoàng trừng phạt 600.000 tín đồ của một giáo phái Công giáo",
-      "bullets": [
-        "Trừng phạt 600.000 tín đồ của giáo phái Society of Saint Pius X",
-        "Đức Giáo hoàng cấm họ tham gia các nghi lễ Công giáo",
-        "Giáo phái này bị coi là phản Công giáo",
-        "Tín đồ của giáo phái này sẽ bị trừng phạt nếu tiếp tục theo đuổi"
-      ],
-      "full_summary": "Đức Giáo hoàng đã trừng phạt 600.000 tín đồ của giáo phái Society of Saint Pius X vì họ được coi là phản Công giáo. Giáo phái này đã bị Đức Giáo hoàng cấm tham gia các nghi lễ Công giáo. Điều này có nghĩa là tín đồ của giáo phái này sẽ bị trừng phạt nếu tiếp tục theo đuổi. Giáo phái này đã tồn tại nhiều năm và có nhiều tín đồ ở khắp thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "22a9c6a5d225",
-      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:05.593303+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nam Phi phủ nhận cáo buộc giết người tị nạn Ghana",
-      "bullets": [
-        "Nam Phi phủ nhận cáo buộc giết người một công dân Ghana",
-        "Cáo buộc nảy sinh trong đám đông biểu tình chống tị nạn ở Cape Town",
-        "Sự cố đã gây ra cuộc tranh cãi giữa hai quốc gia",
-        "Nam Phi đang điều tra vụ việc"
-      ],
-      "full_summary": "Nam Phi đang phủ nhận cáo buộc giết người một công dân Ghana trong đám đông biểu tình chống tị nạn ở Cape Town. Cáo buộc nảy sinh sau khi một người đàn ông Ghana bị giết trong một cuộc biểu tình. Sự cố đã gây ra cuộc tranh cãi giữa hai quốc gia và Nam Phi đang điều tra vụ việc. Ghana đã yêu cầu Nam Phi điều tra vụ giết người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff0386a8b118",
-      "title": "Killers of British couple in South Africa sentenced to life",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:06.603442+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cặp vợ chồng Anh bị sát hại ở Nam Phi lĩnh án tù đời",
-      "bullets": [
-        "Hai sát nhân bị kết án tù đời vì giết cặp vợ chồng Anh",
-        "Cặp vợ chồng Anh bị sát hại khi đang thu thập thực vật hiếm",
-        "Thân thể của họ được tìm thấy trong một con sông sau nhiều ngày",
-        "Tội ác này đã gây sốc trong cộng đồng quốc tế"
-      ],
-      "full_summary": "Hai sát nhân đã bị kết án tù đời vì giết cặp vợ chồng Anh tại Nam Phi. Cặp vợ chồng Anh đã bị sát hại khi đang thu thập thực vật hiếm. Thân thể của họ được tìm thấy trong một con sông sau nhiều ngày. Tội ác này đã gây sốc trong cộng đồng quốc tế và đã thu hút sự chú ý của các cơ quan chức năng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3bd5e51831e",
-      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:07.501811+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google bị phạt 4,1 tỷ euro vì dùng Android 'phá hỏng' đối thủ",
-      "bullets": [
-        "Google bị phạt 4,1 tỷ euro vì vi phạm luật chống độc quyền",
-        "Hệ điều hành Android được cho là 'phá hỏng' đối thủ",
-        "Google phản ứng rằng quyết định này 'không công nhận' đầu tư của họ",
-        "Hệ điều hành Android vẫn được cho là 'mở cửa'"
-      ],
-      "full_summary": "Tòa án châu Âu đã phạt Google 4,1 tỷ euro vì vi phạm luật chống độc quyền. Google bị cáo buộc đã sử dụng hệ điều hành Android để 'phá hỏng' đối thủ. Một đại diện của Google cho biết quyết định này 'không công nhận' đầu tư của họ để đảm bảo Android vẫn là một hệ điều hành 'mở cửa'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "554c171d46ba",
-      "title": "Why is crucial tech vulnerable to the heat?",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:08.571770+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Các hệ thống công nghệ dễ bị ảnh hưởng bởi thời tiết nóng",
-      "bullets": [
-        "Làm gián đoạn mạng lưới điện năng",
-        "Tạm dừng hoạt động của các dịch vụ tàu hỏa",
-        "Gây thiệt hại cho các thiết bị điện tử",
-        "Tăng nguy cơ xảy ra sự cố"
-      ],
-      "full_summary": "Các hệ thống công nghệ quan trọng đang trở nên dễ bị ảnh hưởng bởi thời tiết nóng. Nhiệt độ cao có thể làm gián đoạn mạng lưới điện năng và tạm dừng hoạt động của các dịch vụ tàu hỏa. Điều này cũng gây thiệt hại cho các thiết bị điện tử và tăng nguy cơ xảy ra sự cố. Các chuyên gia cảnh báo rằng các hệ thống công nghệ cần được chuẩn bị tốt hơn để đối phó với thời tiết nóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8fc5071d5ae4",
-      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
-      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T19:14:09.519844+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "WhatsApp sẽ cho phép người dùng trò chuyện bằng cách đổi tên người dùng thay vì số điện thoại",
-      "bullets": [
-        "WhatsApp sẽ triển khai tính năng tên người dùng toàn cầu trong vài tháng tới",
-        "Người dùng có thể đổi tên người dùng và trò chuyện với mọi người mà không cần số điện thoại",
-        "Tính năng mới sẽ giúp người dùng bảo mật thông tin cá nhân hơn",
-        "WhatsApp sẽ tiếp tục cập nhật tính năng này trong thời gian tới"
-      ],
-      "full_summary": "WhatsApp đang triển khai tính năng tên người dùng toàn cầu, cho phép người dùng đổi tên người dùng và trò chuyện với mọi người mà không cần số điện thoại. Tính năng này sẽ giúp người dùng bảo mật thông tin cá nhân hơn và sẽ được triển khai trong vài tháng tới. WhatsApp sẽ tiếp tục cập nhật tính năng này trong thời gian tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f6f1e985f94",
-      "title": "Plex debuts 5-year membership pass for $250",
-      "url": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-02T19:14:14.988081+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Plex ra mắt thẻ hội viên 5 năm giá 250 USD",
-      "bullets": [
-        "Ra mắt thẻ hội viên 5 năm giá 250 USD",
-        "Tăng cường khuyến khích khách hàng sử dụng tính năng mới",
-        "Hạn chế sử dụng thẻ hội viên trọn đời",
-        "Tăng cường thu phí thường xuyên"
-      ],
-      "full_summary": "Plex đã ra mắt thẻ hội viên 5 năm giá 250 USD, thay vì thẻ hội viên trọn đời trước đây. Điều này cho thấy công ty đang khuyến khích khách hàng sử dụng tính năng mới và tăng cường thu phí thường xuyên. Thẻ hội viên 5 năm sẽ cho phép khách hàng tiếp tục sử dụng dịch vụ của Plex trong 5 năm tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3c85a8029005",
-      "title": "Artificial cell manages a few rounds of cell division",
-      "url": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-02T19:14:16.446822+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Mô hình tế bào nhân tạo thực hiện vài vòng phân bào",
-      "bullets": [
-        "Tế bào nhân tạo được tạo ra bằng cách thêm nhiều vật liệu",
-        "Chỉ hoạt động được trong vài vòng phân bào",
-        "Kỹ thuật mới này có thể mở ra hướng nghiên cứu tế bào nhân tạo",
-        "Cần tiếp tục nghiên cứu để cải thiện hiệu suất của tế bào nhân tạo"
-      ],
-      "full_summary": "Các nhà khoa học đã tạo ra mô hình tế bào nhân tạo và cho nó thực hiện vài vòng phân bào. Tuy nhiên, mô hình này chỉ hoạt động được trong vài vòng phân bào do phải thêm nhiều vật liệu. Kỹ thuật mới này có thể mở ra hướng nghiên cứu tế bào nhân tạo và giúp hiểu rõ hơn về quá trình phân bào. Để cải thiện hiệu suất của tế bào nhân tạo, cần tiếp tục nghiên cứu và phát triển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "72d8006abe06",
-      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T13:43:27.146014+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trẻ vị thành niên Canada tử vong vì ngộ độc sán hạch",
-      "bullets": [
-        "Một cậu bé 11 tuổi Canada tử vong vì ngộ độc sán hạch",
-        "Cậu bé bị một con dơi chạm vào mặt khi đang ngủ",
-        "Rabies là một bệnh hiếm gặp ở Canada",
-        "Có 28 trường hợp tử vong do ngộ độc sán hạch ở Canada từ năm 1924"
-      ],
-      "full_summary": "Một cậu bé 11 tuổi ở Canada đã tử vong vì ngộ độc sán hạch sau khi bị một con dơi chạm vào mặt khi đang ngủ. Đây là một trường hợp hiếm gặp ở Canada, nơi bệnh sán hạch hiếm gặp. Từ năm 1924, đã có 28 trường hợp tử vong do ngộ độc sán hạch ở Canada.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "43f36b0236af",
-      "title": "Watch: PM's former top aide on Starmer's first call with Trump",
-      "url": "https://www.bbc.co.uk/news/videos/c04yxek0qyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-02T13:43:28.124801+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Trả lời phỏng vấn BBC, cựu cố vấn của Thủ tướng Anh cho biết Trump hài hước hơn dự kiến",
-      "bullets": [
-        "Trump được mô tả là người hài hước hơn dự kiến",
-        "Cựu cố vấn Thủ tướng Anh cho biết Trump có cuộc gọi với Starmer",
-        "Morgan McSweeney là cựu cố vấn của Thủ tướng Anh",
-        "Trump được mô tả là người có tính cách thú vị"
-      ],
-      "full_summary": "Cựu cố vấn Thủ tướng Anh Morgan McSweeney đã trả lời phỏng vấn BBC về cuộc gọi đầu tiên của Thủ tướng Anh với cựu Tổng thống Mỹ Donald Trump. Ông McSweeney cho biết Trump được mô tả là người hài hước hơn dự kiến. Ông cũng cho biết mình đã tham gia vào cuộc gọi này và mô tả Trump là người có tính cách thú vị.",
       "comments": 0,
       "score": 0
     }
