@@ -1,6 +1,339 @@
 {
-  "updated_at": "2026-07-04T13:07:29.482246+00:00",
+  "updated_at": "2026-07-04T19:02:18.853380+00:00",
   "articles": [
+    {
+      "id": "c5d28adb9d46",
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:13.421793+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội đồng cờ vua cấm cựu vô địch thế giới Kramnik vì cáo buộc gian lận",
+      "bullets": [
+        "Cấm cựu vô địch thế giới cờ vua Vladimir Kramnik vì cáo buộc gian lận",
+        "Kramnik cáo buộc các đối thủ, bao gồm Daniel Naroditsky, gian lận",
+        "Hội đồng cờ vua đưa ra quyết định sau khi xem xét cáo buộc của Kramnik",
+        "Kramnik từng là một trong những tay chơi cờ vua mạnh nhất thế giới"
+      ],
+      "full_summary": "Hội đồng cờ vua đã cấm cựu vô địch thế giới Vladimir Kramnik vì cáo buộc gian lận. Kramnik đã cáo buộc các đối thủ, bao gồm Daniel Naroditsky, gian lận. Hội đồng cờ vua đã đưa ra quyết định sau khi xem xét cáo buộc của Kramnik. Đây là một quyết định quan trọng đối với cộng đồng cờ vua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "88a3531a460c",
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:32.826475+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Serena Williams rút khỏi Wimbledon vì chấn thương gối",
+      "bullets": [
+        "Serena Williams rút khỏi Wimbledon vì chấn thương gối",
+        "Cô sẽ không tham gia đôi nữ với chị gái Venus",
+        "Chấn thương gối khiến Serena Williams không thể thi đấu",
+        "Serena Williams đã từng có một sự nghiệp vĩ đại tại Wimbledon"
+      ],
+      "full_summary": "Serena Williams đã rút khỏi Wimbledon vì chấn thương gối. Cô sẽ không tham gia đôi nữ với chị gái Venus. Chấn thương gối khiến Serena Williams không thể thi đấu. Serena Williams đã từng có một sự nghiệp vĩ đại tại Wimbledon, giành được 7 danh hiệu đơn nữ và 14 danh hiệu đôi nữ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "965eee142b62",
+      "title": "Row after Indian state drops eggs from school lunch menu",
+      "url": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:33.784262+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hải quân Bengal loại trứng khỏi bữa trưa học sinh",
+      "bullets": [
+        "Bỏ trứng khỏi thực đơn bữa trưa học sinh",
+        "Tạo ra cuộc tranh luận về dinh dưỡng và lựa chọn",
+        "Học sinh và phụ huynh phản đối quyết định này",
+        "Chính phủ Bengal giải thích quyết định dựa trên tôn giáo"
+      ],
+      "full_summary": "Hải quân Bengal đã quyết định loại trứng khỏi thực đơn bữa trưa học sinh, gây ra cuộc tranh luận về dinh dưỡng và lựa chọn. Học sinh và phụ huynh đã phản đối quyết định này, cho rằng trứng là một nguồn dinh dưỡng quan trọng. Chính phủ Bengal giải thích rằng quyết định này dựa trên tôn giáo, nhưng nhiều người vẫn không đồng ý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ea12998b5d22",
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:35.650229+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Sudan: Các cuộc tấn công bằng máy bay không người lái tàn phá thành phố El Obeid",
+      "bullets": [
+        "Các máy bay không người lái đã tấn công các trường học và trạm xăng ở El Obeid",
+        "Hơn 20 người đã thiệt mạng trong các cuộc tấn công gần đây",
+        "Các nhân viên cứu trợ nói rằng tình hình ở El Obeid rất khủng khiếp"
+      ],
+      "full_summary": "Thành phố El Obeid ở Sudan đang trở thành một trong những khu vực chiến sự nóng nhất trong cuộc xung đột giữa quân đội Sudan và lực lượng vũ trang RSF. Các cuộc tấn công bằng máy bay không người lái đã trở thành một phần không thể thiếu của chiến dịch quân sự. Các nhân viên cứu trợ cho biết họ đã mất khả năng đếm số lượng máy bay không người lái đã tấn công thành phố trong thời gian qua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "03304c53c376",
+      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:36.558025+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Modi nhận nhiều giải thưởng khi đi nước ngoài",
+      "bullets": [
+        "Nhận giải thưởng Guardian of the Blue Horizon từ tổng thống Seychelles",
+        "Giải thưởng này là một trong những danh hiệu cao nhất của Seychelles",
+        "Modi đã nhận nhiều giải thưởng khi đi nước ngoài trong thời gian gần đây",
+        "Một số quốc gia đã trao giải thưởng này cho Modi lần đầu tiên và duy nhất"
+      ],
+      "full_summary": "Chủ tịch Ấn Độ Narendra Modi đã nhận giải thưởng Guardian of the Blue Horizon từ tổng thống Seychelles khi đến thăm nước này. Đây là một trong những danh hiệu cao nhất của Seychelles. Modi đã nhận nhiều giải thưởng khi đi nước ngoài trong thời gian gần đây. Một số quốc gia đã trao giải thưởng này cho Modi lần đầu tiên và duy nhất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cd7daadd88dc",
+      "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+      "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:37.594908+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Nghiên cứu nguồn gốc Ebola trong tự nhiên là chìa khóa ngăn chặn dịch bệnh lớn tiếp theo",
+      "bullets": [
+        "Nghiên cứu nguồn gốc Ebola giúp ngăn chặn dịch bệnh lớn tiếp theo",
+        "Nguồn gốc Ebola chưa được xác định rõ ràng khiến con người và động vật tiếp tục gặp rủi ro",
+        "Nghiên cứu về Ebola giúp giảm thiểu tác động tiêu cực lên động vật",
+        "Nghiên cứu về Ebola giúp ngăn chặn sự lan rộng của dịch bệnh"
+      ],
+      "full_summary": "Một nghiên cứu mới cho thấy nguồn gốc của bệnh Ebola là rất quan trọng để ngăn chặn dịch bệnh lớn tiếp theo. Trong khi đó, một vụ bùng phát dịch bệnh do virus Andes trên một con tàu du lịch đang được theo dõi, bệnh Ebola đang lan rộng ở Cộng hòa Dân chủ Congo với hơn 1.250 trường hợp và ít nhất 362 ca tử vong. Nghiên cứu về Ebola giúp giảm thiểu tác động tiêu cực lên động vật và ngăn chặn sự lan rộng của dịch bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "613d987eebfa",
+      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+      "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:38.544548+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sự kiện địa chấn Mexico năm 1986 đe dọa hủy World Cup",
+      "bullets": [
+        "Động đất khiến 5.000 người thiệt mạng và 30.000 người mất nhà cửa",
+        "Sự kiện này đặt ra câu hỏi về khả năng Mexico tổ chức World Cup",
+        "Động đất đã làm hư hỏng đáng kể thành phố Mexico"
+      ],
+      "full_summary": "Năm 1986, Mexico đã tổ chức World Cup, nhưng sự kiện địa chấn xảy ra vài tháng trước đó đã đặt ra câu hỏi về khả năng tổ chức sự kiện này. Động đất đã khiến 5.000 người thiệt mạng và 30.000 người mất nhà cửa, làm hư hỏng đáng kể thành phố Mexico. Mặc dù cuộc thi đã diễn ra, nhưng nó gần như bị hủy bỏ do tình hình khủng hoảng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "271a68f09823",
+      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T19:00:39.771641+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Cứu hộ Venezuela sau trận động đất: 'Một chiến trường'",
+      "bullets": [
+        "Nhiều tình nguyện viên và đội cứu hộ quốc tế đến để tìm kiếm người sống sót",
+        "Tình trạng khẩn cấp ở La Guaira sau trận động đất",
+        "Hàng ngàn người bị mắc kẹt trong đống đổ nát",
+        "Cứu hộ gặp khó khăn do thiếu thiết bị và nguồn lực"
+      ],
+      "full_summary": "Sau trận động đất mạnh ở Venezuela, nhiều tình nguyện viên và đội cứu hộ quốc tế đã đến để tìm kiếm người sống sót. Họ gặp khó khăn do thiếu thiết bị và nguồn lực, nhưng vẫn tiếp tục công việc cứu hộ. Người dân địa phương cũng tham gia vào nỗ lực cứu hộ, hy vọng tìm thấy những người còn sống sót.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "324cea258dab",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-04T19:01:11.218875+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mặt trăng Mars có một hòn đá chứa nhiều cacbon",
+      "bullets": [
+        "Khám phá hòn đá Martian chứa nhiều cacbon",
+        "Biology có thể giải thích phát hiện này",
+        "Có nhiều lý giải khác về sự hiện diện của cacbon",
+        "Nghiên cứu tiếp tục để xác định nguyên nhân"
+      ],
+      "full_summary": "Một nhóm nghiên cứu vừa phát hiện một hòn đá trên Mặt trăng Mars chứa nhiều cacbon. Phát hiện này đã gây bất ngờ cho các nhà khoa học vì chưa rõ nguyên nhân. Một số khả năng cho rằng sự hiện diện của cacbon có thể được giải thích bởi sự sống trên Mặt trăng, nhưng vẫn còn nhiều giả thuyết khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "840e15300deb",
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T19:01:13.502745+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Verizon sắp phá hủy đồng hồ của chúng ta",
+      "bullets": [
+        "Sẽ có ảnh hưởng đến đồng hồ thông minh và các thiết bị khác",
+        "Verizon đang triển khai một hệ thống mới có thể gây ra vấn đề",
+        "Nhiều người dùng đang lo lắng về sự cố này"
+      ],
+      "full_summary": "Một bài viết trên Hacker News cho biết Verizon đang triển khai một hệ thống mới có thể gây ra vấn đề cho đồng hồ thông minh và các thiết bị khác. Hệ thống này sẽ ảnh hưởng đến các thiết bị sử dụng giao thức NTP (Network Time Protocol). Nhiều người dùng đang lo lắng về sự cố này và hy vọng Verizon sẽ tìm ra giải pháp để giải quyết vấn đề.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "469158550dfa",
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T19:01:14.494561+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một công cụ mới cho phép xâm nhập vào bộ nhớ RAM của máy tính",
+      "bullets": [
+        "Tạo ra một công cụ x86 để thực hiện cuộc tấn công Cold Boot Attack",
+        "Cho phép người dùng xâm nhập vào bộ nhớ RAM của máy tính",
+        "Cung cấp một công cụ để thực hiện các thí nghiệm về bảo mật",
+        "Có thể được sử dụng để phát hiện và ngăn chặn các cuộc tấn công mạng"
+      ],
+      "full_summary": "Một nhà phát triển đã tạo ra một công cụ mới có tên BareMetal RAM Dumper, cho phép người dùng xâm nhập vào bộ nhớ RAM của máy tính. Công cụ này được thiết kế để thực hiện các cuộc tấn công Cold Boot Attack và cung cấp một công cụ để thực hiện các thí nghiệm về bảo mật. Công cụ này có thể được sử dụng để phát hiện và ngăn chặn các cuộc tấn công mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7bd5b5baf3cf",
+      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T19:01:45.960904+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Không quá 100.000 vệ tinh yếu có thể quay quanh Trái Đất",
+      "bullets": [
+        "Các nhà khoa học đề xuất giới hạn số vệ tinh yếu có thể quay quanh Trái Đất",
+        "Số lượng vệ tinh yếu có thể gây ra sự cố cho các vệ tinh quan trọng khác",
+        "Các vệ tinh yếu có thể gây ra nhiễu loạn cho các hệ thống truyền thông",
+        "Giới hạn này nhằm bảo vệ các vệ tinh quan trọng và hệ thống truyền thông"
+      ],
+      "full_summary": "Các nhà khoa học của ESO đã đề xuất giới hạn số vệ tinh yếu có thể quay quanh Trái Đất. Số lượng vệ tinh yếu có thể gây ra sự cố cho các vệ tinh quan trọng khác và gây ra nhiễu loạn cho các hệ thống truyền thông. Giới hạn này nhằm bảo vệ các vệ tinh quan trọng và hệ thống truyền thông khỏi các sự cố có thể xảy ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "79865e776866",
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T19:01:46.886621+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "EndBASIC 0.14: Phát hành phiên bản mới với khả năng đa phương tiện",
+      "bullets": [
+        "Phát hành phiên bản mới của EndBASIC 0.14",
+        "Cập nhật khả năng đa phương tiện cho ngôn ngữ lập trình",
+        "Tăng cường tính năng cho người dùng"
+      ],
+      "full_summary": "EndBASIC 0.14 là phiên bản mới của ngôn ngữ lập trình EndBASIC, cho phép người dùng tạo ra các ứng dụng đa phương tiện. Phiên bản này được phát hành với khả năng đa phương tiện được cải thiện, giúp người dùng có thể tạo ra các ứng dụng phức tạp hơn. EndBASIC 0.14 cũng được thiết kế để tăng cường tính năng cho người dùng, giúp họ có thể tạo ra các ứng dụng hiệu quả hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f6feaf63408d",
+      "title": "Plein Air",
+      "url": "https://art.joonas.wtf/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T19:01:47.697693+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Một trang web nghệ thuật Plein Air được tạo ra",
+      "bullets": [
+        "Tạo ra một trang web nghệ thuật Plein Air",
+        "Cho phép người dùng tạo ra và chia sẻ tác phẩm nghệ thuật",
+        "Có thể truy cập tại địa chỉ https://art.joonas.wtf/"
+      ],
+      "full_summary": "Trang web Plein Air được tạo ra để cung cấp một nền tảng cho người dùng tạo ra và chia sẻ tác phẩm nghệ thuật. Trang web này cho phép người dùng tạo ra và chia sẻ tác phẩm nghệ thuật của mình, và có thể truy cập tại địa chỉ https://art.joonas.wtf/.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "858e5ec9222b",
+      "title": "Finland's last analogue landline phones go silent after 150 years",
+      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T19:01:48.565054+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Điện thoại dây cuối cùng ở Phần Lan ngừng hoạt động sau 150 năm",
+      "bullets": [
+        "Phần Lan đã loại bỏ hoàn toàn điện thoại dây",
+        "Kết thúc 150 năm sử dụng điện thoại dây",
+        "Tính năng này được thay thế bằng công nghệ số"
+      ],
+      "full_summary": "Phần Lan đã loại bỏ hoàn toàn điện thoại dây sau 150 năm sử dụng. Đây là một bước tiến quan trọng trong việc chuyển đổi sang công nghệ số. Điện thoại dây đã được thay thế bằng các thiết bị di động và mạng internet. Sự kiện này đánh dấu một bước ngoặt quan trọng trong lịch sử công nghệ Phần Lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f00e476f246",
+      "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+      "url": "https://www.nature.com/articles/d41586-026-01989-5",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-04T19:01:49.430754+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Trung Quốc tăng cường hỗ trợ tài trợ cho các nhà khoa học trẻ",
+      "bullets": [
+        "Tăng lên 12.000 dự án từ năm nay",
+        "Hỗ trợ tài trợ cho các nhà khoa học trẻ",
+        "Giảm cạnh tranh trong lĩnh vực khoa học",
+        "Tăng cường phát triển khoa học và công nghệ"
+      ],
+      "full_summary": "Trung Quốc vừa công bố sẽ tăng cường hỗ trợ tài trợ cho các nhà khoa học trẻ. Theo đó, National Natural Science Foundation of China sẽ hỗ trợ thêm 12.000 dự án từ năm nay. Điều này có thể giúp giảm cạnh tranh trong lĩnh vực khoa học và tăng cường phát triển khoa học và công nghệ. Việc này cũng thể hiện cam kết của Trung Quốc trong việc hỗ trợ và phát triển tài năng khoa học trẻ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "81e6bfe06259",
+      "title": "Can you actually do a nine-to-five PhD? <i>Nature</i> readers weigh in",
+      "url": "https://www.nature.com/articles/d41586-026-01773-5",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-04T19:02:18.353189+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu sinh chia sẻ khó khăn trong quản lý thời gian làm việc",
+      "bullets": [
+        "Phát hiện ra rằng việc quản lý thời gian làm việc hiệu quả là rất khó khăn",
+        "Nghiên cứu sinh phải cân bằng giữa công việc và cuộc sống cá nhân",
+        "Học giả chia sẻ kinh nghiệm quản lý thời gian hiệu quả trong quá trình nghiên cứu"
+      ],
+      "full_summary": "Nghiên cứu sinh trên toàn thế giới đã chia sẻ khó khăn của họ trong việc quản lý thời gian làm việc trong quá trình nghiên cứu. Họ phải cân bằng giữa công việc và cuộc sống cá nhân, đồng thời tìm kiếm phương pháp quản lý thời gian hiệu quả. Bài viết trên Nature đã thu hút sự quan tâm của nhiều người, khi họ chia sẻ kinh nghiệm và lời khuyên về cách quản lý thời gian hiệu quả trong quá trình nghiên cứu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b13e222d0284",
       "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
@@ -454,345 +787,6 @@
         "Toll có thể tăng thêm do mùa mưa ở Tây Phi"
       ],
       "full_summary": "Côte d'Ivoire đang đối mặt với tình trạng lũ lụt nghiêm trọng, khiến 59 người thiệt mạng kể từ tháng 5. Thống đốc Amadou Coulibaly cho biết mùa mưa đang trở nên nguy hiểm hơn và có thể gây thêm thiệt hại. Ghana cũng báo cáo 13 người chết và nhiều nước khác ở Tây Phi cũng bị ảnh hưởng. Cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5173f8718027",
-      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T02:11:08.541487+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Niger bắt giữ ít nhất 40 người vì quan hệ đồng tính",
-      "bullets": [
-        "Bắt giữ ít nhất 40 người vì quan hệ đồng tính",
-        "16 người bị giam giữ, bao gồm cả các quan chức quân sự cao cấp",
-        "Mất tiếp cận thuốc PrEP, gây lo ngại về sự gia tăng số ca HIV/AIDS",
-        "Môi trường 'độc hại' khiến cộng đồng LGBTQ+ lo lắng"
-      ],
-      "full_summary": "Ở Niger, một 'đoàn tụng phù thủy' đang diễn ra sau khi chính phủ quân sự ra mắt mã luật hình sự mới. Ít nhất 40 người đã bị bắt giữ vì quan hệ đồng tính. 16 người, bao gồm cả các quan chức quân sự cao cấp, đã bị giam giữ. Mất tiếp cận thuốc PrEP khiến cộng đồng LGBTQ+ lo ngại về sự gia tăng số ca HIV/AIDS. Môi trường 'độc hại' khiến họ lo lắng về tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88ea6b62612f",
-      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
-      "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T02:11:13.387711+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Canada tiếp tục xây dựng đường ống dầu mỏ sau khi cam kết 150 tỷ đô la",
-      "bullets": [
-        "Đảng chính phủ Canada cam kết đầu tư 150 tỷ đô la vào hai tỉnh British Columbia và Alberta",
-        "Đường ống dầu mỏ mới sẽ được xây dựng để mở rộng sự hiện diện của Canada trên thị trường quốc tế",
-        "Đường ống sẽ được xây dựng sau khi các biện pháp bảo vệ môi trường và động vật được thực hiện",
-        "Các biện pháp bảo vệ môi trường bao gồm mở rộng cảng và bảo vệ cá voi"
-      ],
-      "full_summary": "Chính phủ Canada và tỉnh Alberta sẽ tiếp tục xây dựng đường ống dầu mỏ mới sau khi cam kết đầu tư 150 tỷ đô la vào hai tỉnh British Columbia và Alberta. Mục tiêu của dự án này là mở rộng sự hiện diện của Canada trên thị trường quốc tế và giảm sự phụ thuộc vào thị trường Mỹ. Các biện pháp bảo vệ môi trường và động vật sẽ được thực hiện để giảm thiểu tác động tiêu cực của dự án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0e384db9fa99",
-      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T02:11:14.335628+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nạn nhân Venezuela được cứu sống sau 8 ngày bị kẹt dưới đống đổ nát",
-      "bullets": [
-        "Một người đàn ông Venezuela bị kẹt dưới đống đổ nát sau động đất được cứu sống",
-        "Hernán Alberto Gil Flores được cứu sống sau 8 ngày bị kẹt dưới đống đổ nát",
-        "Người đàn ông này đã được tìm thấy nhờ một túi không khí trong cabin làm việc",
-        "Động đất đã gây thiệt hại nặng nề cho thành phố La Guaira"
-      ],
-      "full_summary": "Một người đàn ông Venezuela, Hernán Alberto Gil Flores, đã được cứu sống sau 8 ngày bị kẹt dưới đống đổ nát sau động đất. Người đàn ông này đã được tìm thấy nhờ một túi không khí trong cabin làm việc. Ông đã được cứu sống sau khi được tìm thấy dưới đống đổ nát của trung tâm thương mại Galerías Playa Grande ở thành phố La Guaira.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9c171ea26c87",
-      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-04T02:11:15.310447+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Rocket Lab sắp thực hiện 3 chuyến phóng riêng cho NASA",
-      "bullets": [
-        "NASA đã trao hợp đồng cho Rocket Lab thực hiện 3 chuyến phóng riêng",
-        "Các chuyến phóng sẽ sử dụng tên lửa Electron của Rocket Lab",
-        "Đây là một phần của kế hoạch mở rộng hoạt động của NASA trong không gian",
-        "Rocket Lab đang chuẩn bị cho chuyến phóng đầu tiên của mình"
-      ],
-      "full_summary": "NASA đã trao hợp đồng cho Rocket Lab thực hiện 3 chuyến phóng riêng sử dụng tên lửa Electron. Các chuyến phóng này sẽ mở rộng hoạt động của NASA trong không gian. Trong khi đó, một công ty khởi nghiệp Ấn Độ đang chuẩn bị cho chuyến phóng đầu tiên của mình. SpaceX cũng đã đạt được một số thành tựu đáng kể trong lĩnh vực không gian.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f6614916474e",
-      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-04T02:11:35.322008+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hội Ludd ở New York dạy cách sống ngoại tuyến",
-      "bullets": [
-        "Giáo dục người dùng cách sống mà không cần điện thoại",
-        "Tổ chức các hoạt động ngoại tuyến như vẽ tranh, đọc sách",
-        "Khuyến khích người dùng tái sử dụng và tái chế",
-        "Tạo không gian ngoại tuyến cho người dùng thư giãn"
-      ],
-      "full_summary": "Hội Ludd ở New York đang dạy cho người dùng cách sống mà không cần điện thoại. Sự kiện này được tổ chức để phản đối sự phụ thuộc vào công nghệ và khuyến khích người dùng tái sử dụng và tái chế. Các hoạt động ngoại tuyến như vẽ tranh, đọc sách và chơi nhạc cụ được tổ chức tại hội chợ. Mục tiêu của hội Ludd là tạo ra không gian ngoại tuyến cho người dùng thư giãn và giảm thiểu sự phụ thuộc vào công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94f5eb9c6df6",
-      "title": "Despite the darkness, I still see signs of hope in America",
-      "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-04T02:11:36.324629+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tìm kiếm lý do hy vọng ở nước Mỹ",
-      "bullets": [
-        "Xây dựng lại niềm tin vào hệ thống chính trị",
-        "Tăng cường giáo dục và đào tạo",
-        "Phát triển kinh tế bền vững và công bằng",
-        "Tăng cường hợp tác quốc tế và hòa bình"
-      ],
-      "full_summary": "Mặc dù nước Mỹ đang đối mặt với nhiều thách thức và khó khăn, nhưng vẫn còn nhiều lý do để hy vọng. Người viết cho rằng, nước Mỹ đã có 250 năm lịch sử và vẫn còn nhiều tiềm năng phát triển. Để xây dựng lại niềm tin vào hệ thống chính trị, cần tăng cường giáo dục và đào tạo, phát triển kinh tế bền vững và công bằng, và tăng cường hợp tác quốc tế và hòa bình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4447c9ed6cb8",
-      "title": "Wing Commander IV and the FMV future that never quite was",
-      "url": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-04T02:11:37.306468+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Chris Roberts đã tạo một bộ phim gần như hoàn chỉnh trong Wing Commander IV",
-      "bullets": [
-        "Tạo ra một bộ phim gần như hoàn chỉnh trong Wing Commander IV",
-        "Sử dụng công nghệ FMV để tạo ra các cảnh phim",
-        "Là một bước tiến quan trọng trong lịch sử trò chơi điện tử",
-        "Tuy nhiên, công nghệ FMV chưa được phát triển đầy đủ"
-      ],
-      "full_summary": "Wing Commander IV là một trò chơi điện tử nổi tiếng vào những năm 1990, được phát triển bởi Chris Roberts. Trong trò chơi này, ông đã sử dụng công nghệ Full-Motion Video (FMV) để tạo ra các cảnh phim gần như hoàn chỉnh. Đây là một bước tiến quan trọng trong lịch sử trò chơi điện tử, nhưng công nghệ FMV chưa được phát triển đầy đủ để trở thành một phần phổ biến của trò chơi điện tử. Mặc dù vậy, Wing Commander IV vẫn được nhớ đến như một ví dụ sáng tạo về sử dụng công nghệ FMV.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd32aa676afe",
-      "title": "Newly discovered PamStealer isn't your typical macOS malware",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-04T02:11:38.375655+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mại dâm malware mới trên macOS sử dụng chiến thuật tinh vi",
-      "bullets": [
-        "Khám phá ra một loại malware mới trên macOS có tên PamStealer",
-        "Loại malware này sử dụng chiến thuật tinh vi để tránh được phát hiện",
-        "PamStealer là một loại infostealer, có thể trộm cắp thông tin người dùng",
-        "Mại dâm trên macOS đang trở nên phổ biến hơn"
-      ],
-      "full_summary": "Một loại malware mới trên macOS có tên PamStealer đã được khám phá ra. Loại malware này sử dụng chiến thuật tinh vi để tránh được phát hiện và có thể trộm cắp thông tin người dùng. Điều này cho thấy sự gia tăng nỗ lực vào việc phát triển malware trên Mac. Mại dâm trên macOS đang trở nên phổ biến hơn và người dùng cần phải cẩn thận hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e376c5c91499",
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T02:11:43.710388+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Tạo bộ sạc tự động cho controller Steam",
-      "bullets": [
-        "Tạo một bộ sạc tự động cho controller Steam",
-        "Sử dụng công nghệ CV và một đĩa sạc từ tính",
-        "Cung cấp một giải pháp tự động hóa cho việc sạc pin",
-        "Mở nguồn trên GitHub"
-      ],
-      "full_summary": "Một dự án mới trên GitHub cho phép tạo bộ sạc tự động cho controller Steam. Dự án sử dụng công nghệ CV và một đĩa sạc từ tính để sạc pin controller. Điều này sẽ giúp tự động hóa quá trình sạc pin và tiết kiệm thời gian. Dự án đã được mở nguồn và đang chờ các nhà phát triển tham gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68df88515e9b",
-      "title": "Polish PM warns critical months ahead in face of Russian threat",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T19:07:36.408958+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chính phủ Ba Lan cảnh báo tháng tới đầy thách thức trước đe dọa của Nga",
-      "bullets": [
-        "Chính phủ Ba Lan đang chuẩn bị cho nhiều kịch bản khác nhau",
-        "Tổng thống Ba Lan cảnh báo các tháng tới sẽ đầy thách thức",
-        "Nga có kế hoạch tấn công Ba Lan theo báo cáo của phương tiện truyền thông",
-        "Chính phủ Ba Lan đang tăng cường quân sự và an ninh"
-      ],
-      "full_summary": "Tổng thống Ba Lan, Tusk, cảnh báo rằng các tháng tới sẽ đầy thách thức đối với Ba Lan do đe dọa của Nga. Theo báo cáo của phương tiện truyền thông, Nga có kế hoạch tấn công Ba Lan. Chính phủ Ba Lan đang chuẩn bị cho nhiều kịch bản khác nhau và tăng cường quân sự và an ninh để đối phó với đe dọa này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f11189228c4e",
-      "title": "Stand-up comic held for jokes about Erdogan and Islam in Turkey crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T19:07:38.743262+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tuyên viên hài bị giam vì đùa về Erdogan và Hồi giáo",
-      "bullets": [
-        "Bị cáo buộc kích động hận thù và thù địch",
-        "Được coi là một trong những nghệ sĩ hài nổi tiếng nhất ở Thổ Nhĩ Kỳ",
-        "Đã bị bắt giữ vì những câu đùa về Tổng thống Erdogan và Hồi giáo",
-        "Mặc dù không rõ khi nào sẽ được thả"
-      ],
-      "full_summary": "Tuyên viên hài Thổ Nhĩ Kỳ Deniz Göktaş đã bị bắt giữ vì những câu đùa về Tổng thống Erdogan và Hồi giáo. Ông bị cáo buộc kích động hận thù và thù địch. Göktaş được coi là một trong những nghệ sĩ hài nổi tiếng nhất ở Thổ Nhĩ Kỳ. Sự kiện này đã gây ra sự phẫn nộ trong cộng đồng nghệ sĩ hài Thổ Nhĩ Kỳ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eefc5716aaf5",
-      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
-      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T19:07:40.801937+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cha mẹ cảnh báo không chia sẻ hình ảnh con trên mạng xã hội",
-      "bullets": [
-        "Cảnh báo về nguy cơ hình ảnh trẻ em bị sử dụng tạo ra nội dung lạm dụng",
-        "NCA cho biết mối đe dọa đang gia tăng về hình ảnh trẻ em bị sử dụng tạo ra nội dung lạm dụng",
-        "Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con trên mạng xã hội",
-        "Sử dụng trí tuệ nhân tạo để tạo ra nội dung lạm dụng đang gia tăng"
-      ],
-      "full_summary": "NCA cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội vì nguy cơ hình ảnh trẻ em bị sử dụng tạo ra nội dung lạm dụng đang gia tăng. Sử dụng trí tuệ nhân tạo để tạo ra nội dung lạm dụng đang trở thành mối đe dọa lớn. Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con trên mạng xã hội để tránh nguy cơ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a1fd69398d1f",
-      "title": "Don't expect connected car apps to save your stolen car, experts say",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T19:07:41.839372+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Ứng dụng xe thông minh không thể giúp cứu xe bị trộm",
-      "bullets": [
-        "Chính phủ Anh cấm Kia sử dụng chức năng theo dõi vị trí",
-        "Ứng dụng xe thông minh không thể theo dõi xe trong thời gian thực",
-        "Các công ty cần phải tuân thủ luật pháp địa phương",
-        "Sử dụng ứng dụng xe thông minh không thể thay thế cho công an"
-      ],
-      "full_summary": "Các chuyên gia cảnh báo rằng người dùng không nên dựa vào ứng dụng xe thông minh để cứu xe bị trộm. Kia cho biết chính phủ Anh đã cấm công ty sử dụng chức năng theo dõi vị trí để theo dõi xe trong thời gian thực. Điều này có nghĩa là các ứng dụng xe thông minh không thể giúp người dùng theo dõi xe của mình trong trường hợp bị trộm. Các công ty cần phải tuân thủ luật pháp địa phương và sử dụng ứng dụng xe thông minh không thể thay thế cho công an.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ac7c919fd06a",
-      "title": "E-scooters being advertised for commuting despite UK road ban",
-      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T19:07:42.853350+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cửa hàng lớn quảng cáo xe đạp điện cho đi làm",
-      "bullets": [
-        "Quảng cáo bán xe đạp điện cho đi làm và đi đường phố",
-        "Cửa hàng lớn vi phạm quy định cấm sử dụng xe đạp điện trên đường",
-        "Nghiên cứu của Press Association chỉ ra hành vi vi phạm này",
-        "Sử dụng xe đạp điện trên đường có thể gây nguy hiểm cho người tham gia giao thông"
-      ],
-      "full_summary": "Một nghiên cứu của Press Association đã phát hiện ra rằng các cửa hàng lớn đang quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố, mặc dù xe đạp điện đã bị cấm sử dụng trên đường ở Vương quốc Anh. Điều này vi phạm quy định và có thể gây nguy hiểm cho người tham gia giao thông. Nghiên cứu chỉ ra rằng các cửa hàng lớn đang tiếp tục quảng cáo sản phẩm này cho mục đích đi lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "70b4b76c1e81",
-      "title": "Visiting the stars (and planets, and telescopes) in VR",
-      "url": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-03T19:07:47.933457+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Khám phá vũ trụ trong thực tế ảo",
-      "bullets": [
-        "Khám phá các ngôi sao và hành tinh ngoài hệ Mặt Trời",
-        "Tham quan các đài thiên văn và quan sát vũ trụ",
-        "Trải nghiệm thực tế ảo tại triển lãm Smithsonian Starstruck"
-      ],
-      "full_summary": "Triển lãm Smithsonian Starstruck sử dụng thực tế ảo để mang trải nghiệm khám phá vũ trụ đến với công chúng. Triển lãm này cho phép người tham quan thăm dò các ngôi sao và hành tinh ngoài hệ Mặt Trời, cũng như tham quan các đài thiên văn và quan sát vũ trụ. Đây là một trải nghiệm độc đáo và thú vị, giúp người tham quan hiểu hơn về vũ trụ và các hiện tượng thiên văn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc9c79da2922",
-      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T13:48:11.520563+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người chết ở Pháp do sóng nhiệt",
-      "bullets": [
-        "Đoán trước thêm thời tiết cực đoan ở châu Âu",
-        "Thị xã ở Pháp ghi nhận 2025 người chết do sóng nhiệt",
-        "Châu Âu chuẩn bị đối mặt với thời tiết khắc nghiệt",
-        "Các nhà dự báo cảnh báo thêm nhiệt độ cao trong vài ngày tới"
-      ],
-      "full_summary": "Pháp vừa ghi nhận 2025 người chết do sóng nhiệt, cao hơn số người chết bình thường. Các nhà dự báo cảnh báo thêm thời tiết cực đoan ở châu Âu trong những ngày tới. Châu Âu chuẩn bị đối mặt với thời tiết khắc nghiệt, gây ra nhiều thiệt hại. Các chính phủ đang phải chuẩn bị cho tình huống khẩn cấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "acde07ed9739",
-      "title": "Nasa launches mission to save falling space telescope",
-      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T13:48:12.604471+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "NASA đã phóng robot để bắt một kính thiên văn rơi rụng",
-      "bullets": [
-        "Blast off một robot được tài trợ bởi NASA để bắt một kính thiên văn rơi rụng",
-        "Robot sẽ cố gắng bắt kính thiên văn trong quỹ đạo và ném nó trở lại an toàn",
-        "Nếu không thành công, kính thiên văn sẽ bị đốt cháy khi vào bầu khí quyển",
-        "Mục tiêu là cứu kính thiên văn có giá trị 500 triệu USD"
-      ],
-      "full_summary": "NASA đã phóng một robot được tài trợ bởi họ để bắt một kính thiên văn rơi rụng trong quỹ đạo. Kính thiên văn này có giá trị 500 triệu USD và sẽ bị đốt cháy nếu không được bắt. Mục tiêu của sứ mệnh này là ném kính thiên văn trở lại an toàn và cứu nó khỏi bị phá hủy.",
       "comments": 0,
       "score": 0
     }
