@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-04T08:28:50.554527+00:00",
+  "updated_at": "2026-07-04T13:07:29.482246+00:00",
   "articles": [
+    {
+      "id": "b13e222d0284",
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T13:07:13.385877+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hàng trăm nghìn người tập trung tại Tehran để tang lễ Ayatollah Khamenei",
+      "bullets": [
+        "Hơn 100.000 người tập trung tại Grand Mosalla để xem lễ tang",
+        "Thân thể Ayatollah Khamenei sẽ nằm trong nhà tang lễ từ thứ Hai đến thứ Ba",
+        "Thân thể sẽ được di chuyển đến các thành phố khác nhau ở Iran và Iraq"
+      ],
+      "full_summary": "Hàng trăm nghìn người đã tập trung tại Tehran để tham dự lễ tang của Ayatollah Khamenei. Thân thể của ông sẽ nằm trong nhà tang lễ ở Grand Mosalla từ thứ Hai đến thứ Ba. Sau đó, nó sẽ được di chuyển đến các thành phố khác nhau ở Iran và Iraq để người dân có thể đến để thể hiện sự tôn kính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "736d5dc393bb",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T13:07:14.400039+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Ukraina tấn công kho dầu quan trọng tại St Petersburg của Nga",
+      "bullets": [
+        "Ukraina tấn công kho dầu lớn ở St Petersburg",
+        "Chủ tịch Ukraine Volodymyr Zelensky nói mục tiêu là cơ sở hạ tầng quan trọng",
+        "Mục tiêu này tạo ra thu nhập cho chiến tranh của Nga",
+        "Hành động này nhằm vào nguồn thu nhập chính của Nga"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky cho biết Ukraine đã tấn công một kho dầu lớn ở St Petersburg của Nga. Ông nói mục tiêu là cơ sở hạ tầng quan trọng tạo ra thu nhập cho chiến tranh của Nga. Hành động này nhằm vào nguồn thu nhập chính của Nga. Mục tiêu này sẽ ảnh hưởng đến khả năng tài chính của Nga trong cuộc chiến.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e80b0380dd29",
+      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T13:07:15.331475+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Đức giáo hoàng kêu gọi châu Âu giúp đỡ người tị nạn nhiều hơn",
+      "bullets": [
+        "Đức giáo hoàng cầu nguyện cho người tị nạn",
+        "Đức giáo hoàng đến thăm đảo Lampedusa để tôn vinh người tị nạn",
+        "Đức giáo hoàng kêu gọi châu Âu giúp đỡ người tị nạn nhiều hơn",
+        "Đức giáo hoàng bày tỏ sự cảm thông với người tị nạn"
+      ],
+      "full_summary": "Đức giáo hoàng đã đến thăm đảo Lampedusa, một hòn đảo ở Italy, để tôn vinh người tị nạn đã mất mạng trên biển. Trong chuyến thăm này, Đức giáo hoàng đã cầu nguyện cho người tị nạn và kêu gọi châu Âu giúp đỡ người tị nạn nhiều hơn. Đức giáo hoàng bày tỏ sự cảm thông với người tị nạn và mong muốn châu Âu có thể giúp đỡ họ nhiều hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "44bf46b8f721",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T13:07:16.199641+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nhà nghiên cứu AI cho rằng AI hiện tại không thông minh",
+      "bullets": [
+        "Yan LeCun đang phát triển một hệ thống AI linh hoạt hơn",
+        "Hệ thống mới sẽ có khả năng học hỏi và thích nghi tốt hơn",
+        "Mục tiêu của LeCun là tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp",
+        "Các nhà nghiên cứu đang tìm kiếm các phương pháp mới để phát triển AI"
+      ],
+      "full_summary": "Nhà nghiên cứu AI nổi tiếng Yan LeCun đang phát triển một hệ thống AI mới linh hoạt hơn. LeCun cho rằng AI hiện tại không thông minh như mọi người nghĩ. Ông đang tìm kiếm các phương pháp mới để tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp. Mục tiêu của LeCun là tạo ra một AI có thể học hỏi và thích nghi tốt hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "167dee44f23a",
+      "title": "PlayStation will stop releasing games on discs in 2028",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T13:07:17.089160+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "PlayStation sẽ dừng phát hành trò chơi trên đĩa từ năm 2028",
+      "bullets": [
+        "PlayStation sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028",
+        "Trò chơi tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật số",
+        "Người dùng sẽ phải tải trò chơi từ internet",
+        "PlayStation hy vọng sẽ giảm thiểu lãng phí vật liệu và giảm thiểu tác động môi trường"
+      ],
+      "full_summary": "PlayStation đã công bố sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028. Thay vào đó, trò chơi tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật số. Người dùng sẽ phải tải trò chơi từ internet. Đây là một bước tiến mới trong việc chuyển đổi sang mô hình kỹ thuật số.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "178b917d2381",
+      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-04T13:07:18.052771+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Netflix Wonka phim nhận chỉ trích vì sử dụng trí tuệ nhân tạo cho giọng nói Gene Wilder",
+      "bullets": [
+        "Wonka Netflix phim sử dụng trí tuệ nhân tạo để tạo giọng nói Gene Wilder",
+        "Gene Wilder đã qua đời vào năm 2016 nhưng gia đình ông đã cho phép sử dụng hình ảnh của ông",
+        "Phim Wonka Netflix đã nhận chỉ trích vì sử dụng trí tuệ nhân tạo",
+        "Nhiều người cho rằng việc sử dụng trí tuệ nhân tạo không phù hợp"
+      ],
+      "full_summary": "Phim Wonka trên Netflix đã sử dụng trí tuệ nhân tạo để tạo giọng nói của Gene Wilder, người đã qua đời vào năm 2016. Mặc dù gia đình ông đã cho phép sử dụng hình ảnh của ông, nhưng nhiều người vẫn cho rằng việc sử dụng trí tuệ nhân tạo không phù hợp. Wonka Netflix phim đã nhận chỉ trích vì sử dụng trí tuệ nhân tạo, và nhiều người đang tranh luận về vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "66d4ffabed27",
+      "title": "When the ability to smell goes away",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-04T13:07:23.033898+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Khả năng ngửi không còn lại có liên quan đến vấn đề sức khỏe não",
+      "bullets": [
+        "Tổn thương khả năng ngửi thường liên quan đến vấn đề sức khỏe não",
+        "Thay đổi trong hệ thống thần kinh có thể gây ra sự mất đi khả năng ngửi",
+        "Các nghiên cứu đang được thực hiện để hiểu rõ hơn về nguyên nhân của tình trạng này",
+        "Khả năng ngửi đóng vai trò quan trọng trong việc nhận biết và phản ứng với môi trường"
+      ],
+      "full_summary": "Khả năng ngửi là một trong những giác quan quan trọng của con người, giúp chúng ta nhận biết và phản ứng với môi trường xung quanh. Tuy nhiên, khi khả năng ngửi không còn lại, nó có thể liên quan đến vấn đề sức khỏe não. Các nghiên cứu đang được thực hiện để hiểu rõ hơn về nguyên nhân của tình trạng này và tìm ra cách điều trị. Khả năng ngửi đóng vai trò quan trọng trong việc nhận biết và phản ứng với môi trường, và khi nó không còn lại, nó có thể gây ra nhiều vấn đề sức khỏe khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "757a44f33f29",
+      "title": "Maybe you should learn something",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-04T13:07:27.263476+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Học hỏi liên tục để không bị bỏ lại phía sau",
+      "bullets": [
+        "Khuyến khích mọi người học hỏi liên tục để không bị bỏ lại phía sau",
+        "Học hỏi giúp cải thiện kỹ năng và kiến thức",
+        "Cần phải sẵn sàng học hỏi và thích nghi với sự thay đổi"
+      ],
+      "full_summary": "Một bài viết trên Hacker News khuyến khích mọi người học hỏi liên tục để không bị bỏ lại phía sau. Học hỏi giúp cải thiện kỹ năng và kiến thức, nhưng cũng cần phải sẵn sàng học hỏi và thích nghi với sự thay đổi. Bài viết này nhấn mạnh tầm quan trọng của việc học hỏi liên tục trong cuộc sống và công việc.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "fe7b15eeff0c",
       "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
@@ -635,164 +793,6 @@
         "Mục tiêu là cứu kính thiên văn có giá trị 500 triệu USD"
       ],
       "full_summary": "NASA đã phóng một robot được tài trợ bởi họ để bắt một kính thiên văn rơi rụng trong quỹ đạo. Kính thiên văn này có giá trị 500 triệu USD và sẽ bị đốt cháy nếu không được bắt. Mục tiêu của sứ mệnh này là ném kính thiên văn trở lại an toàn và cứu nó khỏi bị phá hủy.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d76bcebb92d1",
-      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T13:48:13.543404+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một phụ nữ Ukraine bị Interpol nghi ngờ là kẻ tấn công bom ở Monaco",
-      "bullets": [
-        "Interpol đã xác định một phụ nữ Ukraine là nghi phạm chính trong vụ tấn công bom ở Monaco",
-        "Cơ quan an ninh Monaco tin rằng phụ nữ này đã che giấu danh tính bằng cách mặc trang phục nam",
-        "Nghi phạm có thể không hành động đơn độc",
-        "Cơ quan chức năng Monaco đang điều tra vụ tấn công"
-      ],
-      "full_summary": "Interpol đã xác định một phụ nữ Ukraine là nghi phạm chính trong vụ tấn công bom ở Monaco. Theo cơ quan an ninh Monaco, phụ nữ này đã che giấu danh tính bằng cách mặc trang phục nam. Nghi phạm có thể không hành động đơn độc. Cơ quan chức năng Monaco đang điều tra vụ tấn công để xác định nguyên nhân và người liên quan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa58a229ca3c",
-      "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
-      "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T13:48:14.675782+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "RSF Sudan đã thực hiện tội ác chống loài người tại El Fasher",
-      "bullets": [
-        "Lập luận rằng RSF đã thực hiện tội ác chống loài người và tẩy chay chủng tộc",
-        "Báo cáo cho thấy nhiều tội ác, bao gồm giết người, tra tấn, bạo hành tình dục, nô lệ và nô lệ tình dục",
-        "Các tội ác này được thực hiện như một cuộc tấn công rộng rãi và hệ thống đối với thường dân"
-      ],
-      "full_summary": "Amnesty International đã cáo buộc lực lượng Rapid Support Forces (RSF) của Sudan thực hiện tội ác chống loài người và tẩy chay chủng tộc tại El Fasher. Theo báo cáo, nhiều tội ác, bao gồm giết người, tra tấn, bạo hành tình dục, nô lệ và nô lệ tình dục, đã được thực hiện như một cuộc tấn công rộng rãi và hệ thống đối với thường dân. Các tội ác này được thực hiện trong chiến dịch của RSF để chiếm El Fasher.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "271a68f09823",
-      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T13:48:16.814670+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Cơn bão thiên tai Venezuela: Hàng ngàn tình nguyện viên cứu hộ",
-      "bullets": [
-        "Cứu hộ quốc tế tham gia tìm kiếm người sống sót trong đống đổ nát",
-        "Cơn địa chấn khiến hàng ngàn người thiệt mạng và hàng triệu người mất nhà cửa",
-        "Tình nguyện viên địa phương và nước ngoài cùng hợp tác cứu hộ",
-        "Cơ quan cứu hộ gặp khó khăn do thiếu thiết bị và nguồn lực"
-      ],
-      "full_summary": "Cơn địa chấn mạnh 7,3 độ đã xảy ra tại Venezuela, khiến hàng ngàn người thiệt mạng và hàng triệu người mất nhà cửa. Hàng ngàn tình nguyện viên đã tham gia cứu hộ, bao gồm cả những người từ nước ngoài. Cơ quan cứu hộ gặp khó khăn do thiếu thiết bị và nguồn lực, khiến việc tìm kiếm người sống sót trở nên khó khăn hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d9837cd78535",
-      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-03T13:48:23.663012+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "PostgreSQL tránh bị giết bởi OOM Killer nhờ kiểm soát bộ nhớ nghiêm ngặt",
-      "bullets": [
-        "Kiểm soát bộ nhớ nghiêm ngặt giúp tránh tình trạng PostgreSQL bị giết bởi OOM Killer",
-        "OOM Killer sẽ giết các tiến trình đang sử dụng bộ nhớ quá mức để tránh hệ thống bị treo",
-        "Sử dụng bộ nhớ nghiêm ngặt giúp đảm bảo hiệu suất và ổn định của PostgreSQL"
-      ],
-      "full_summary": "PostgreSQL và OOM Killer là hai khái niệm liên quan đến bộ nhớ trong hệ thống. OOM Killer là một phần mềm được thiết kế để giết các tiến trình đang sử dụng bộ nhớ quá mức để tránh hệ thống bị treo. Sử dụng bộ nhớ nghiêm ngặt giúp tránh tình trạng PostgreSQL bị giết bởi OOM Killer, đảm bảo hiệu suất và ổn định của cơ sở dữ liệu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "43ec075b5438",
-      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T08:52:54.607334+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "BBC tìm thấy tàu bị bắt giữ và ngư dân đánh cá cá mập ở eo biển Hormuz",
-      "bullets": [
-        "BBC đến Bandar Abbas - thành phố đầu tiên được các nhà báo quốc tế thăm",
-        "Tìm thấy tàu bị Iran bắt giữ ở eo biển Hormuz",
-        "Ngư dân đánh cá cá mập ở khu vực eo biển Hormuz",
-        "Calm trở lại ở eo biển Hormuz sau những sự kiện gần đây"
-      ],
-      "full_summary": "BBC đã đến thăm thành phố Bandar Abbas, thành phố đầu tiên được các nhà báo quốc tế thăm từ phía Iran ở eo biển Hormuz. Tại đây, họ đã tìm thấy tàu bị Iran bắt giữ và gặp gỡ ngư dân đánh cá cá mập. Mặc dù có những sự kiện gần đây, nhưng calm đã trở lại ở eo biển Hormuz.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fc1781427259",
-      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T08:52:55.519102+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Instagram chạy quảng cáo liên quan đến nội dung lạm dụng tình dục trẻ em tại Ấn Độ",
-      "bullets": [
-        "Instagram phát hiện quảng cáo liên quan đến nội dung lạm dụng tình dục trẻ em tại Ấn Độ",
-        "Các quảng cáo sử dụng từ khóa như 'rape' và 'child video'",
-        "Các quảng cáo liên kết đến nội dung trên ứng dụng Telegram",
-        "BBC World phát hiện ra vấn đề này"
-      ],
-      "full_summary": "BBC World vừa phát hiện ra Instagram đang chạy quảng cáo liên quan đến nội dung lạm dụng tình dục trẻ em tại Ấn Độ. Các quảng cáo này sử dụng từ khóa như 'rape' và 'child video' và liên kết đến nội dung trên ứng dụng Telegram. Vấn đề này đã được BBC World phát hiện và đang được điều tra. Instagram cần phải giải quyết vấn đề này ngay lập tức để đảm bảo an toàn cho người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "588d4a278669",
-      "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
-      "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T08:52:56.439231+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Taylor Swift có thể sắp cưới, tổ chức sự kiện ở New York",
-      "bullets": [
-        "Lena Dunham và Gigi Hadid xuất hiện trang trọng gần Madison Square Garden",
-        "Jack Antonoff tham gia sự kiện, từng hợp tác với Taylor Swift",
-        "Sự kiện có thể liên quan đến đám cưới của Taylor Swift",
-        "Nội dung chưa được xác nhận"
-      ],
-      "full_summary": "Theo BBC, các ngôi sao Lena Dunham, Gigi Hadid và Jack Antonoff đã được nhìn thấy ở New York, có thể liên quan đến đám cưới của ca sĩ Taylor Swift. Sự kiện được cho là diễn ra gần Madison Square Garden. Mặc dù nội dung chưa được xác nhận, nhưng nhiều người tin rằng đây có thể là một phần của lễ cưới của Taylor Swift.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ec40e43327c8",
-      "title": "After 250 years the American Dream is surviving, but only just",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-03T08:52:57.310846+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mộng Mỹ đang suy giảm",
-      "bullets": [
-        "Tín nhiệm vào Mộng Mỹ đang giảm dần",
-        "Khả năng tiếp cận cơ hội đang bị hạn chế",
-        "Đa số người Mỹ không tin vào Mộng Mỹ",
-        "Sự chênh lệch giàu nghèo đang gia tăng"
-      ],
-      "full_summary": "Mộng Mỹ đã tồn tại hơn 250 năm nhưng niềm tin vào lý tưởng này đang suy giảm. Theo báo cáo, đa số người Mỹ không tin vào Mộng Mỹ và sự chênh lệch giàu nghèo đang gia tăng. Điều này cho thấy rằng Mộng Mỹ không còn là một lý tưởng thực tế. Mặc dù vẫn còn một số người tin vào Mộng Mỹ, nhưng số lượng này đang giảm dần.",
       "comments": 0,
       "score": 0
     }
