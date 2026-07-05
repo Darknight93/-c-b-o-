@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-07-05T02:27:06.915061+00:00",
+  "updated_at": "2026-07-05T08:44:27.050008+00:00",
   "articles": [
+    {
+      "id": "f166872dbd81",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T08:44:12.908605+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mỹ kỷ niệm 250 năm ngày sinh với bắn pháo hoa, bay lượn và thời tiết khắc nghiệt",
+      "bullets": [
+        "Mỹ kỷ niệm 250 năm ngày sinh",
+        "Tổng thống Mỹ Donald Trump phát biểu về lịch sử và chiến binh",
+        "Bắn pháo hoa và bay lượn diễn ra trên khắp nước Mỹ",
+        "Thời tiết khắc nghiệt ảnh hưởng đến các sự kiện kỷ niệm"
+      ],
+      "full_summary": "Mỹ đã kỷ niệm 250 năm ngày sinh của mình với nhiều sự kiện lớn. Tổng thống Mỹ Donald Trump đã phát biểu về lịch sử và chiến binh, đồng thời tôn vinh các cựu chiến binh. Các sự kiện kỷ niệm bao gồm bắn pháo hoa và bay lượn trên khắp nước Mỹ. Tuy nhiên, thời tiết khắc nghiệt đã ảnh hưởng đến các sự kiện này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c2087ae3b200",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T08:44:13.779725+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tù nhân tôn giáo Trung Quốc Jin Mingri được thả",
+      "bullets": [
+        "Được thả sau khi Donald Trump cầu xin trực tiếp với Tập Cận Bình",
+        "Jin Mingri là người sáng lập Giáo hội Zion",
+        "Bị giam giữ vì hoạt động tôn giáo",
+        "Được thả sau nhiều năm bị giam giữ"
+      ],
+      "full_summary": "Jin Mingri, người sáng lập Giáo hội Zion, đã được thả tù sau khi Tổng thống Mỹ Donald Trump cầu xin trực tiếp với Tổng Bí thư Tập Cận Bình. Jin Mingri bị giam giữ vì hoạt động tôn giáo, nhưng sau nhiều năm bị giam giữ, ông đã được thả. Điều này được cho là do sự can thiệp của Donald Trump.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3295b56a062a",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T08:44:14.757491+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Marine Le Pen bị kết tội sử dụng tiền EU sai mục đích",
+      "bullets": [
+        "Marine Le Pen bị kết tội sử dụng tiền EU sai mục đích",
+        "Cô ta đang kháng cáo quyết định này",
+        "Quyết định này có thể ảnh hưởng đến sự nghiệp tranh cử tổng thống của Le Pen",
+        "Bị kết tội sử dụng tiền EU sai mục đích có thể khiến Le Pen mất uy tín"
+      ],
+      "full_summary": "Marine Le Pen, lãnh đạo đảng cực hữu ở Pháp, đang kháng cáo quyết định bị kết tội sử dụng tiền EU sai mục đích. Nếu kháng cáo thất bại, quyết định này có thể ảnh hưởng đến sự nghiệp tranh cử tổng thống của Le Pen. Le Pen bị kết tội sử dụng tiền EU sai mục đích trong một vụ án liên quan đến việc sử dụng tiền EU để trả nợ cho một công ty của chồng cô.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bc00ccdb8b1e",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T08:44:15.607658+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta kính đeo giới hạn tính năng tăng giọng nói miễn phí",
+      "bullets": [
+        "Giới hạn sử dụng tính năng tăng giọng nói trong 3 giờ miễn phí",
+        "Người dùng Meta kính đeo phải trả phí để sử dụng tính năng này",
+        "Tính năng này giúp tăng cường giọng nói của người nói",
+        "Meta chưa công bố chi tiết về mức phí mới"
+      ],
+      "full_summary": "Meta đã giới hạn sử dụng tính năng tăng giọng nói trong kính đeo của họ. Tính năng này giúp tăng cường giọng nói của người nói và sẽ được giới hạn ở 3 giờ miễn phí. Người dùng phải trả phí để sử dụng tính năng này sau thời gian miễn phí. Meta chưa công bố chi tiết về mức phí mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f4a45c326196",
+      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+      "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T08:44:16.597836+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sự cố lũ lụt ở Côte d'Ivoire khiến 59 người thiệt mạng",
+      "bullets": [
+        "Côte d'Ivoire báo cáo 59 người thiệt mạng do lũ lụt kể từ tháng 5",
+        "Ghana báo cáo 13 người chết và nhiều nước khác ở Tây Phi cũng bị ảnh hưởng",
+        "Đội cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa",
+        "Số người thiệt mạng có thể tăng cao hơn"
+      ],
+      "full_summary": "Côte d'Ivoire đang phải đối mặt với mùa mưa chết chóc, khiến 59 người thiệt mạng kể từ tháng 5. Bộ trưởng truyền thông Amadou Coulibaly cho biết số người thiệt mạng có thể tăng cao hơn. Ghana cũng báo cáo 13 người chết và nhiều nước khác ở Tây Phi cũng bị ảnh hưởng. Đội cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f6614916474e",
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T08:44:17.471982+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội Ludd tại New York dạy cách sống mà không cần công nghệ",
+      "bullets": [
+        "Hội Ludd tại New York hướng dẫn người tham gia sống mà không cần điện thoại thông minh",
+        "Các hoạt động tại hội bao gồm học cách nấu ăn, làm vườn và sử dụng công cụ thủ công",
+        "Hội Ludd nhắm vào việc chống lại sự phụ thuộc vào công nghệ và thúc đẩy lối sống tự nhiên"
+      ],
+      "full_summary": "Hội Ludd tại New York là một sự kiện giáo dục hướng dẫn người tham gia sống mà không cần công nghệ. Các hoạt động tại hội bao gồm học cách nấu ăn, làm vườn và sử dụng công cụ thủ công. Mục tiêu của hội là chống lại sự phụ thuộc vào công nghệ và thúc đẩy lối sống tự nhiên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "58051f4ae83e",
+      "title": "Megawatts by Microwave",
+      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-05T08:44:21.288359+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Tìm kiếm năng lượng bằng sóng vi ba",
+      "bullets": [
+        "Khám phá cách sử dụng sóng vi ba để tạo ra điện",
+        "Giải pháp năng lượng mới có thể thay thế năng lượng truyền thống",
+        "Nghiên cứu đang được thực hiện để phát triển công nghệ này"
+      ],
+      "full_summary": "Một nhóm nghiên cứu đã tìm thấy cách sử dụng sóng vi ba để tạo ra điện. Họ đã sử dụng sóng vi ba để tạo ra điện năng, có thể thay thế năng lượng truyền thống. Nghiên cứu này đang được thực hiện để phát triển công nghệ này và ứng dụng nó vào thực tế.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "eefc5716aaf5",
       "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
@@ -649,145 +787,6 @@
         "Khả năng ngửi đóng vai trò quan trọng trong việc nhận biết và phản ứng với môi trường"
       ],
       "full_summary": "Khả năng ngửi là một trong những giác quan quan trọng của con người, giúp chúng ta nhận biết và phản ứng với môi trường xung quanh. Tuy nhiên, khi khả năng ngửi không còn lại, nó có thể liên quan đến vấn đề sức khỏe não. Các nghiên cứu đang được thực hiện để hiểu rõ hơn về nguyên nhân của tình trạng này và tìm ra cách điều trị. Khả năng ngửi đóng vai trò quan trọng trong việc nhận biết và phản ứng với môi trường, và khi nó không còn lại, nó có thể gây ra nhiều vấn đề sức khỏe khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "757a44f33f29",
-      "title": "Maybe you should learn something",
-      "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T13:07:27.263476+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Học hỏi liên tục để không bị bỏ lại phía sau",
-      "bullets": [
-        "Khuyến khích mọi người học hỏi liên tục để không bị bỏ lại phía sau",
-        "Học hỏi giúp cải thiện kỹ năng và kiến thức",
-        "Cần phải sẵn sàng học hỏi và thích nghi với sự thay đổi"
-      ],
-      "full_summary": "Một bài viết trên Hacker News khuyến khích mọi người học hỏi liên tục để không bị bỏ lại phía sau. Học hỏi giúp cải thiện kỹ năng và kiến thức, nhưng cũng cần phải sẵn sàng học hỏi và thích nghi với sự thay đổi. Bài viết này nhấn mạnh tầm quan trọng của việc học hỏi liên tục trong cuộc sống và công việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe7b15eeff0c",
-      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T08:27:44.169429+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Taylor Swift kết hôn với Travis Kelce trong lễ cưới ở New York",
-      "bullets": [
-        "Taylor Swift kết hôn với Travis Kelce trong một lễ cưới ở New York.",
-        "Lễ cưới được diễn ra dưới sự chứng kiến của nhiều ngôi sao nổi tiếng.",
-        "Adam Sandler là người chủ trì lễ cưới này.",
-        "Nhiều ngôi sao nổi tiếng như Benson Boone, Hugh Grant, Gigi Hadid và Ethan Hawke đã tham dự lễ cưới."
-      ],
-      "full_summary": "Taylor Swift và Travis Kelce đã kết hôn trong một lễ cưới ở New York. Lễ cưới được diễn ra dưới sự chứng kiến của nhiều ngôi sao nổi tiếng, bao gồm cả Adam Sandler, người chủ trì lễ cưới. Nhiều ngôi sao nổi tiếng khác cũng đã tham dự lễ cưới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "328e34dc33ef",
-      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-      "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T08:27:45.042369+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhiệt độ cao hủy các sự kiện ngày 4 tháng 7",
-      "bullets": [
-        "Hủy bỏ các sự kiện ngày 4 tháng 7 tại Washington và Philadelphia",
-        "Hơn 165 triệu người chịu đựng nhiệt độ cao và độ ẩm nguy hiểm",
-        "Nhiệt độ dự kiến sẽ ở mức 38 độ C trong vài ngày",
-        "Các sự kiện bị hủy vì lý do an toàn"
-      ],
-      "full_summary": "Nhiệt độ cao và độ ẩm nguy hiểm đã hủy bỏ các sự kiện ngày 4 tháng 7 tại Washington và Philadelphia. Hơn 165 triệu người đang phải chịu đựng điều kiện thời tiết này. Nhiệt độ dự kiến sẽ ở mức 38 độ C trong vài ngày, khiến các sự kiện bị hủy bỏ vì lý do an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1397ae11bb74",
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T08:27:45.901446+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Keiko Fujimori được tuyên bố chiến thắng trong cuộc bầu cử tổng thống Peru",
-      "bullets": [
-        "Được tuyên bố chiến thắng trong cuộc bầu cử tổng thống Peru",
-        "Con gái của cựu tổng thống Alberto Fujimori",
-        "Được tuyên bố chiến thắng sau gần một tháng kể từ khi bỏ phiếu",
-        "Cuộc bầu cử đã diễn ra trong bối cảnh căng thẳng"
-      ],
-      "full_summary": "Keiko Fujimori, con gái của cựu tổng thống Alberto Fujimori, đã được tuyên bố chiến thắng trong cuộc bầu cử tổng thống Peru gần một tháng sau khi bỏ phiếu. Cuộc bầu cử đã diễn ra trong bối cảnh căng thẳng và có nhiều tranh cãi. Kết quả cuối cùng đã được công bố sau nhiều tuần chờ đợi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "588d327bf66e",
-      "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-      "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T08:27:46.813180+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Cử tri Albania đòi tổng thống từ chức vì dự án bất động sản cao cấp",
-      "bullets": [
-        "Hàng nghìn người tham gia biểu tình chống lại dự án bất động sản cao cấp",
-        "Cánh diều hồng trở thành biểu tượng của cuộc biểu tình",
-        "Tổng thống Albania bị chỉ trích vì không phản ứng với các vấn đề của người dân",
-        "Cuộc biểu tình có thể dẫn đến cuộc cách mạng ở Albania"
-      ],
-      "full_summary": "Hàng nghìn người tại Albania đã tham gia biểu tình chống lại dự án bất động sản cao cấp, khiến Tổng thống Albania bị chỉ trích. Cánh diều hồng đã trở thành biểu tượng của cuộc biểu tình. Người dân cho rằng Tổng thống không phản ứng với các vấn đề của họ. Cuộc biểu tình có thể dẫn đến cuộc cách mạng ở Albania.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3bd5e51831e",
-      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T08:27:47.715471+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google bị phạt €4.1 tỷ vì ngăn cản đối thủ trên Android",
-      "bullets": [
-        "Google bị phạt €4.1 tỷ vì vi phạm luật cạnh tranh",
-        "Google cho rằng quyết định này không công bằng",
-        "Google đã đầu tư lớn để đảm bảo Android vẫn mở cửa",
-        "Quyết định này có thể ảnh hưởng đến tương lai của Android"
-      ],
-      "full_summary": "Google đã bị phạt €4.1 tỷ vì vi phạm luật cạnh tranh ở châu Âu. Theo quyết định của Cơ quan Giám sát Thị trường châu Âu (DG Comp), Google đã sử dụng Android để ngăn cản các đối thủ cạnh tranh. Google cho rằng quyết định này không công bằng và đã đầu tư lớn để đảm bảo Android vẫn mở cửa. Quyết định này có thể ảnh hưởng đến tương lai của Android và cách thức Google cung cấp các dịch vụ trên nền tảng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ec0885fc6867",
-      "title": "Overseas education project for women and girls axed by UK after two years",
-      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T08:27:48.644785+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chương trình giáo dục nước ngoài cho phụ nữ và trẻ em gái bị hủy bỏ bởi Anh",
-      "bullets": [
-        "Bị hủy bỏ sau hai năm triển khai",
-        "Đề án bị cắt giảm ngân sách viện trợ",
-        "Mục tiêu là giữ 1 triệu cô gái ở trường học tại châu Phi, châu Á và Trung Đông",
-        "Đề án SHEFE có ngân sách 45 triệu bảng Anh"
-      ],
-      "full_summary": "Chương trình giáo dục nước ngoài Strengthening higher education for female empowerment (SHEFE) của Anh đã bị hủy bỏ sau hai năm triển khai. Chương trình này có ngân sách 45 triệu bảng Anh để tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới. Tuy nhiên, chương trình đã bị cắt giảm ngân sách viện trợ và bị hủy bỏ. Mục tiêu của chương trình là giữ 1 triệu cô gái ở trường học tại châu Phi, châu Á và Trung Đông.",
       "comments": 0,
       "score": 0
     }
