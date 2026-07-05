@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-07-04T19:02:18.853380+00:00",
+  "updated_at": "2026-07-05T02:27:06.915061+00:00",
   "articles": [
+    {
+      "id": "eefc5716aaf5",
+      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T02:26:50.953077+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội",
+      "bullets": [
+        "Cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội",
+        "NCA cảnh báo về nguy cơ hình ảnh con bị sử dụng để tạo nội dung lạm dụng trẻ em",
+        "Sự phát triển của công nghệ AI khiến nguy cơ này ngày càng tăng",
+        "Cha mẹ cần cẩn trọng khi chia sẻ hình ảnh con trên mạng xã hội"
+      ],
+      "full_summary": "NCA cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội vì nguy cơ hình ảnh con bị sử dụng để tạo nội dung lạm dụng trẻ em. Sự phát triển của công nghệ AI khiến nguy cơ này ngày càng tăng. Cha mẹ cần cẩn trọng khi chia sẻ hình ảnh con trên mạng xã hội để tránh những hậu quả không mong muốn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a1fd69398d1f",
+      "title": "Don't expect connected car apps to save your stolen car, experts say",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T02:26:52.062034+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ứng dụng xe tự động không thể giúp cứu xe bị trộm",
+      "bullets": [
+        "Kia từ chối sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp",
+        "Đạo luật UK cấm sử dụng chức năng này",
+        "Các ứng dụng xe tự động không thể giúp cứu xe bị trộm",
+        "Các chuyên gia cảnh báo không nên phụ thuộc vào các ứng dụng này"
+      ],
+      "full_summary": "Các chuyên gia cảnh báo không nên phụ thuộc vào các ứng dụng xe tự động để cứu xe bị trộm. Kia cho biết do luật pháp UK, họ không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp. Các ứng dụng xe tự động không thể giúp cứu xe bị trộm, vì chúng thường chỉ có thể theo dõi vị trí của xe sau khi nó đã bị trộm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ac7c919fd06a",
+      "title": "E-scooters being advertised for commuting despite UK road ban",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T02:26:53.038426+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cửa hàng lớn quảng cáo xe đạp điện cho đi làm",
+      "bullets": [
+        "Quảng cáo xe đạp điện cho đi làm và đi đường phố",
+        "Cảnh sát Anh cấm sử dụng xe đạp điện trên đường",
+        "Các nhà bán lẻ lớn vẫn tiếp tục quảng cáo sản phẩm",
+        "Cơ quan báo chí Press Association thực hiện cuộc điều tra"
+      ],
+      "full_summary": "Một cuộc điều tra của Press Association phát hiện các nhà bán lẻ lớn vẫn quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố, mặc dù cảnh sát Anh đã cấm sử dụng xe đạp điện trên đường. Các nhà bán lẻ lớn như Halfords và Currys PC World vẫn tiếp tục quảng cáo sản phẩm này. Điều này đã gây ra lo ngại về an toàn giao thông.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a804d931ff0",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T02:26:53.985383+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Khai quật thành phố Byzantine cổ đại ở sa mạc phía tây Ai Cập",
+      "bullets": [
+        "Khám phá thành phố Byzantine cổ đại ở sa mạc phía tây Ai Cập",
+        "Tìm thấy các công trình nhà ở và tôn giáo, bao gồm nhà thờ kiểu basilica",
+        "Khám phá tiền xu, mảnh vỡ đồ gốm và công cụ",
+        "Phát hiện ra chi tiết về cuộc sống hàng ngày, sự phát triển thành thị và hoạt động kinh tế"
+      ],
+      "full_summary": "Các nhà khảo cổ ở Ai Cập đã phát hiện một thành phố Byzantine cổ đại được bảo tồn tốt ở sa mạc phía tây. Các khu phố của thế kỷ 4 có các công trình nhà ở và tôn giáo, bao gồm một nhà thờ kiểu basilica ở oasi Dakhla. Các nhà khảo cổ cũng tìm thấy tiền xu, mảnh vỡ đồ gốm và công cụ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "88ea6b62612f",
+      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+      "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T02:26:55.893464+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Canada quyết định xây dựng đường ống dầu mới sau cam kết 150 tỷ đô la",
+      "bullets": [
+        "Đảng chính phủ Canada và tỉnh Alberta cam kết đầu tư 150 tỷ đô la vào hai tỉnh",
+        "Đường ống dầu mới sẽ được xây dựng để mở rộng sự hiện diện của Canada trên thị trường quốc tế",
+        "Các biện pháp bảo vệ cá voi và mở rộng cảng biển được đưa vào kế hoạch",
+        "Mục tiêu là giảm phụ thuộc vào thị trường Mỹ và mở rộng xuất khẩu sang các thị trường khác"
+      ],
+      "full_summary": "Chính phủ Canada và tỉnh Alberta quyết định xây dựng đường ống dầu mới sau khi cam kết đầu tư 150 tỷ đô la vào hai tỉnh. Mục tiêu của dự án là mở rộng sự hiện diện của Canada trên thị trường quốc tế và giảm phụ thuộc vào thị trường Mỹ. Để đạt được mục tiêu này, các biện pháp bảo vệ cá voi và mở rộng cảng biển sẽ được đưa vào kế hoạch. Dự án này được kỳ vọng sẽ mang lại lợi ích kinh tế lớn cho hai tỉnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bb7dc9c9edda",
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T02:26:56.878642+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Phim Supergirl không phải là một thất bại như doanh thu thấp gợi ý",
+      "bullets": [
+        "Là một bộ phim tốt nhưng cần phải xuất sắc để thành công trong thị trường siêu anh hùng bão hòa",
+        "Phim có diễn xuất và hiệu ứng hình ảnh tốt",
+        "Cốt truyện không đủ hấp dẫn để thu hút khán giả"
+      ],
+      "full_summary": "Phim Supergirl đã nhận được nhiều ý kiến trái chiều từ khán giả và nhà phê bình. Mặc dù doanh thu thấp, nhưng nhiều người cho rằng phim không phải là một thất bại hoàn toàn. Phim có diễn xuất và hiệu ứng hình ảnh tốt, nhưng cốt truyện không đủ hấp dẫn để thu hút khán giả. Để thành công trong thị trường siêu anh hùng bão hòa, phim cần phải xuất sắc hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9c171ea26c87",
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T02:26:57.884332+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Rocket Lab sắp thực hiện 3 lần phóng tàu Electron",
+      "bullets": [
+        "NASA đã ký hợp đồng với Rocket Lab cho 3 lần phóng tàu Electron",
+        "Rocket Lab đang chuẩn bị cho lần phóng đầu tiên",
+        "SpaceX đã đạt được mốc 1000 lần phóng thành công",
+        "Indian startup đang tiến gần đến lần phóng đầu tiên"
+      ],
+      "full_summary": "NASA đã ký hợp đồng với Rocket Lab cho 3 lần phóng tàu Electron. Trong khi đó, SpaceX đã đạt được mốc 1000 lần phóng thành công. Indian startup đang tiến gần đến lần phóng đầu tiên. Rocket Lab đang chuẩn bị cho lần phóng đầu tiên của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4447c9ed6cb8",
+      "title": "Wing Commander IV and the FMV future that never quite was",
+      "url": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T02:27:00.703003+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chris Roberts đã tạo một bộ phim gần như hoàn chỉnh bằng Wing Commander IV",
+      "bullets": [
+        "Tạo ra một bộ phim gần như hoàn chỉnh",
+        "Sử dụng kỹ thuật FMV để tạo ra trải nghiệm game",
+        "Là một trong những ví dụ sớm về ứng dụng công nghệ trong game",
+        "Tuy nhiên, dự án đã không đạt được thành công như mong đợi"
+      ],
+      "full_summary": "Wing Commander IV là một game máy tính được phát hành vào năm 1995, sử dụng kỹ thuật Full-Motion Video (FMV) để tạo ra trải nghiệm game. Game được tạo ra bởi Chris Roberts, người đã gần như tạo ra một bộ phim hoàn chỉnh trong game. Tuy nhiên, dự án đã không đạt được thành công như mong đợi và đã trở thành một ví dụ về sự thất bại của công nghệ FMV trong game. Kể từ đó, công nghệ FMV đã không được sử dụng rộng rãi trong game.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "788a42d10ac4",
+      "title": "Incoming US science academy chief vows to ‘double down’ on research",
+      "url": "https://www.nature.com/articles/d41586-026-02088-1",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-05T02:27:06.414860+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Giám đốc mới của Viện Khoa học Quốc gia Mỹ cam kết tăng cường nghiên cứu",
+      "bullets": [
+        "Cam kết tăng cường nghiên cứu khoa học",
+        "Lưu ý rằng một xã hội mất khoa học sẽ mất tương lai",
+        "Đảm bảo khoa học đóng vai trò quan trọng trong phát triển xã hội",
+        "Hứa hẹn thúc đẩy nghiên cứu khoa học trong tương lai"
+      ],
+      "full_summary": "Neil Shubin, giám đốc mới của Viện Khoa học Quốc gia Mỹ, đã cam kết tăng cường nghiên cứu khoa học. Ông nhấn mạnh rằng một xã hội mất khoa học sẽ mất tương lai. Ông hứa hẹn thúc đẩy nghiên cứu khoa học trong tương lai và đảm bảo khoa học đóng vai trò quan trọng trong phát triển xã hội.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "c5d28adb9d46",
       "title": "Former chess champion Kramnik banned over cheating remarks",
@@ -609,184 +788,6 @@
         "Đề án SHEFE có ngân sách 45 triệu bảng Anh"
       ],
       "full_summary": "Chương trình giáo dục nước ngoài Strengthening higher education for female empowerment (SHEFE) của Anh đã bị hủy bỏ sau hai năm triển khai. Chương trình này có ngân sách 45 triệu bảng Anh để tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới. Tuy nhiên, chương trình đã bị cắt giảm ngân sách viện trợ và bị hủy bỏ. Mục tiêu của chương trình là giữ 1 triệu cô gái ở trường học tại châu Phi, châu Á và Trung Đông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e87ce6f60f0",
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T08:27:53.133237+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Một công cụ mới cho phép người dùng nhảy lên quyền quản trị hệ thống",
-      "bullets": [
-        "Cung cấp quyền SYSTEM trong vài giây",
-        "Là một công cụ mới được phát hiện trên Hacker News",
-        "Có thể được sử dụng để thực hiện các hành động có hại",
-        "Đã thu hút sự chú ý của cộng đồng hacker"
-      ],
-      "full_summary": "Một công cụ mới được phát hiện trên Hacker News cho phép người dùng nhảy lên quyền quản trị hệ thống trong vài giây. Công cụ này được gọi là MSI Center và đã thu hút sự chú ý của cộng đồng hacker. Tuy nhiên, nó cũng có thể được sử dụng để thực hiện các hành động có hại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f12f8f482210",
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T08:28:12.824185+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hacker Soatok chia sẻ hướng dẫn không chính thức về mô hình đe dọa",
-      "bullets": [
-        "Giới thiệu về mô hình đe dọa và tầm quan trọng của nó trong bảo mật",
-        "Mô tả các loại mô hình đe dọa phổ biến và cách phân loại chúng",
-        "Giải thích cách xây dựng và áp dụng mô hình đe dọa trong dự án bảo mật"
-      ],
-      "full_summary": "Soatok, một hacker, đã chia sẻ hướng dẫn không chính thức về mô hình đe dọa, một công cụ quan trọng trong bảo mật. Mô hình đe dọa giúp xác định các mối đe dọa tiềm ẩn và xây dựng kế hoạch phòng ngừa. Soatok đã mô tả các loại mô hình đe dọa phổ biến và cách phân loại chúng, cũng như giải thích cách xây dựng và áp dụng mô hình đe dọa trong dự án bảo mật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5693e40326b8",
-      "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
-      "url": "https://www.nature.com/articles/s41586-026-10844-6",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-04T08:28:45.258277+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Kỹ thuật mới giúp tăng hiệu suất pin mặt trời perovskite",
-      "bullets": [
-        "Tạo ra các phân tử tự lắp ráp bằng điện hóa",
-        "Cải thiện hiệu suất năng lượng của pin mặt trời perovskite",
-        "Phát triển công nghệ mới cho các thiết bị năng lượng tái tạo",
-        "Giúp giảm chi phí sản xuất pin mặt trời"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã phát triển một kỹ thuật mới để tạo ra các phân tử tự lắp ráp bằng điện hóa cho pin mặt trời perovskite. Kỹ thuật này giúp cải thiện hiệu suất năng lượng của pin mặt trời và giảm chi phí sản xuất. Kết quả nghiên cứu được công bố trên tạp chí Nature.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe40c8015528",
-      "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
-      "url": "https://www.nature.com/articles/s41586-026-10854-4",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-04T08:28:46.168913+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Kết quả nghiên cứu mới về quá trình tạo ra các hợp chất enantioenriched",
-      "bullets": [
-        "Xác định thành công phương pháp tạo ra các atropisomers giàu enantiomeric",
-        "Sử dụng công nghệ sinh học để deracemization các hợp chất",
-        "Nghiên cứu này mở ra cơ hội mới cho sản xuất hợp chất enantioenriched"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã công bố kết quả nghiên cứu mới về quá trình tạo ra các hợp chất enantioenriched thông qua phương pháp biocatalytic deracemization. Phương pháp này sử dụng công nghệ sinh học để tạo ra các atropisomers giàu enantiomeric. Kết quả nghiên cứu này mở ra cơ hội mới cho sản xuất hợp chất enantioenriched trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c51689b592e6",
-      "title": "Neutrino’s nursery found: the ‘Shadow Blaster’",
-      "url": "https://www.nature.com/articles/d41586-026-02034-1",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-04T08:28:48.872534+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Bản sao Neutrino được phát hiện tại Nam Cực",
-      "bullets": [
-        "Được phát hiện tại Nam Cực, một hạt Neutrino được sinh ra trong một thiên hà",
-        "Thiên hà này đã tạo ra nhiều ngôi sao khi vũ trụ còn non trẻ",
-        "Phát hiện này giúp hiểu rõ hơn về nguồn gốc của Neutrino",
-        "Cung cấp thông tin về vũ trụ khi còn rất trẻ"
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện một hạt Neutrino tại Nam Cực, và nghiên cứu cho thấy nó được sinh ra trong một thiên hà đã tạo ra nhiều ngôi sao khi vũ trụ còn non trẻ. Phát hiện này giúp hiểu rõ hơn về nguồn gốc của Neutrino và cung cấp thông tin về vũ trụ khi còn rất trẻ. Điều này cũng cho thấy sự phức tạp và đa dạng của vũ trụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "40da4e18da27",
-      "title": "Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit",
-      "url": "https://www.nature.com/articles/d41586-026-02108-0",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-04T08:28:50.054314+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Cánh kiến 'cyborg' có thể lặn nước biển lên đến 3 giờ",
-      "bullets": [
-        "Insekts được trang bị bộ đồ in 3D để thở dưới nước",
-        "Cánh kiến có thể lặn nước biển lên đến 3 giờ",
-        "Các nghiên cứu giả về ung thư thu được nhiều trích dẫn",
-        "Các nhà khoa học có thể xây dựng niềm tin bằng cách nhận ra thiên vị của họ"
-      ],
-      "full_summary": "Các nhà khoa học đã tạo ra cánh kiến 'cyborg' có thể thở dưới nước bằng cách trang bị bộ đồ in 3D. Các cánh kiến này có thể lặn nước biển lên đến 3 giờ. Ngoài ra, nghiên cứu đã chỉ ra rằng các nghiên cứu giả về ung thư có thể thu được nhiều trích dẫn. Để xây dựng niềm tin, các nhà khoa học cần nhận ra thiên vị của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0dabe5132ddf",
-      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T02:11:04.547240+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Venezuela gặp thảm họa động đất, gia đình đau khổ",
-      "bullets": [
-        "Động đất đã gây thiệt hại nặng nề tại Venezuela.",
-        "Các gia đình đau khổ phải xác định thân nhân tại một morgue tạm thời.",
-        "Các thi thể được đặt ngoài trời hoặc trong lều để xác định danh tính.",
-        "Các dịch vụ địa phương đã bị quá tải bởi thảm họa này."
-      ],
-      "full_summary": "Một trận động đất mạnh đã xảy ra tại Venezuela, gây thiệt hại nặng nề và khiến nhiều người thiệt mạng. Các gia đình đau khổ phải xác định thân nhân tại một morgue tạm thời, nơi các thi thể được đặt ngoài trời hoặc trong lều để xác định danh tính. Các dịch vụ địa phương đã bị quá tải bởi thảm họa này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc00ccdb8b1e",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T02:11:06.444976+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta đặt mức giới hạn cho tính năng trong kính Meta",
-      "bullets": [
-        "Đặt mức giới hạn 3 giờ sử dụng miễn phí",
-        "Tính năng tăng cường giọng nói trong kính Meta bị giới hạn",
-        "Người dùng phải trả phí để tiếp tục sử dụng tính năng này",
-        "Meta áp dụng mức giới hạn này để tăng doanh thu"
-      ],
-      "full_summary": "Meta đã áp dụng mức giới hạn 3 giờ sử dụng miễn phí cho tính năng tăng cường giọng nói trong kính Meta. Tính năng này sẽ bị giới hạn sau 3 giờ sử dụng miễn phí. Người dùng phải trả phí để tiếp tục sử dụng tính năng này. Mức giới hạn này được áp dụng để tăng doanh thu cho Meta.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f4a45c326196",
-      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T02:11:07.422168+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nước lũ ở Côte d'Ivoire giết 59 người",
-      "bullets": [
-        "Nhiều người chết do lũ lụt ở Côte d'Ivoire",
-        "Ghana báo cáo 13 người chết và nhiều nước khác cũng bị ảnh hưởng",
-        "Cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa",
-        "Toll có thể tăng thêm do mùa mưa ở Tây Phi"
-      ],
-      "full_summary": "Côte d'Ivoire đang đối mặt với tình trạng lũ lụt nghiêm trọng, khiến 59 người thiệt mạng kể từ tháng 5. Thống đốc Amadou Coulibaly cho biết mùa mưa đang trở nên nguy hiểm hơn và có thể gây thêm thiệt hại. Ghana cũng báo cáo 13 người chết và nhiều nước khác ở Tây Phi cũng bị ảnh hưởng. Cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa.",
       "comments": 0,
       "score": 0
     }
