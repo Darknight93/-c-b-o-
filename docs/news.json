@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-07-05T08:44:27.050008+00:00",
+  "updated_at": "2026-07-05T13:16:22.323663+00:00",
   "articles": [
+    {
+      "id": "82513d3cc23e",
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T13:16:06.727899+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Lãnh đạo Iran vắng mặt tại lễ tang của cố lãnh đạo",
+      "bullets": [
+        "Vắng mặt Mojtaba Khamenei, con trai của cố lãnh đạo Iran",
+        "Đã có đồn đoán về tình trạng sức khỏe của Mojtaba",
+        "Lãnh đạo Iran Ali Khamenei đã qua đời",
+        "Các quan chức cấp cao Iran đã đến dự lễ tang"
+      ],
+      "full_summary": "Lãnh đạo Iran Ali Khamenei đã qua đời, nhưng con trai ông Mojtaba vắng mặt tại lễ tang. Điều này đã gây ra đồn đoán về tình trạng sức khỏe của Mojtaba. Các quan chức cấp cao Iran đã đến dự lễ tang để thể hiện sự tôn trọng đối với cố lãnh đạo. Sự vắng mặt của Mojtaba đã tạo ra sự chú ý trong cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "633ae6465e09",
+      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T13:16:07.742576+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cơn bão siêu mạnh Bavi sắp đổ bộ Guam, người dân được sơ tán",
+      "bullets": [
+        "Người dân Guam được sơ tán vì cơn bão siêu mạnh Bavi đang tiến gần",
+        "Cơn bão dự kiến mang gió mạnh hơn 260 km/h và sóng nước cao gần 11m",
+        "Bavi dự kiến đổ bộ Guam vào thứ Hai",
+        "Các nhà chức trách đang chuẩn bị ứng phó với cơn bão"
+      ],
+      "full_summary": "Cơn bão siêu mạnh Bavi đang tiến gần đến Guam, khiến người dân địa phương phải sơ tán. Cơn bão dự kiến mang gió mạnh hơn 260 km/h và sóng nước cao gần 11m. Các nhà chức trách đang chuẩn bị ứng phó với cơn bão, dự kiến đổ bộ vào thứ Hai. Người dân được yêu cầu sơ tán để đảm bảo an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53a690265082",
+      "title": "Australia probes mystery space balls that washed up on beach",
+      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T13:16:09.011591+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Hai mươi mốt mảnh vật thể vũ trụ bất ngờ xuất hiện trên bãi biển Queensland",
+      "bullets": [
+        "Các quan chức đang tìm kiếm nguồn gốc của sáu mảnh vật thể vũ trụ trên bãi biển Forrest",
+        "Vật thể này được phát hiện trên bãi biển Queensland, Australia",
+        "Các chuyên gia đang phân tích mẫu vật để xác định nguồn gốc của chúng",
+        "Nghiên cứu đang được tiến hành để hiểu rõ hơn về hiện tượng này"
+      ],
+      "full_summary": "Các quan chức Australia đang điều tra nguồn gốc của sáu mảnh vật thể vũ trụ bất ngờ xuất hiện trên bãi biển Forrest ở Queensland. Các mảnh vật thể này được phát hiện vào ngày 20 tháng 6 và đang được phân tích để xác định nguồn gốc của chúng. Các chuyên gia đang nghiên cứu mẫu vật để hiểu rõ hơn về hiện tượng này và tìm kiếm nguồn gốc của chúng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9e2fa5977bd3",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T13:16:10.104213+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai công dân Nigeria bị giết tại Nam Phi",
+      "bullets": [
+        "Hai công dân Nigeria bị giết tại Nam Phi",
+        "Một công dân Nigeria bị cảnh sát dùng kỹ thuật tra tấn khủng khiếp",
+        "Sự cố diễn ra trong bối cảnh tấn công chống người nhập cư gia tăng",
+        "Nigeria lên án vụ việc và kêu gọi Nam Phi điều tra"
+      ],
+      "full_summary": "Hai công dân Nigeria bị giết tại Nam Phi trong bối cảnh tấn công chống người nhập cư gia tăng. Theo thông tin từ chính phủ Nigeria, một công dân Nigeria bị cảnh sát dùng kỹ thuật tra tấn khủng khiếp. Sự cố này đã khiến Nigeria lên án và kêu gọi Nam Phi điều tra. Nigeria và Nam Phi đã có quan hệ hợp tác chặt chẽ trong nhiều năm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3bd5e51831e",
+      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T13:16:11.211197+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Google bị phạt €4.1 tỷ vì ngăn cản đối thủ trên Android",
+      "bullets": [
+        "Google bị phạt €4.1 tỷ vì vi phạm luật cạnh tranh",
+        "Tòa án châu Âu xác định Android là một công cụ để ngăn cản đối thủ",
+        "Google cho rằng quyết định này không công bằng",
+        "Google đã đầu tư lớn để giữ Android mở"
+      ],
+      "full_summary": "Tòa án châu Âu vừa ra phán quyết buộc Google phải trả €4.1 tỷ tiền phạt vì vi phạm luật cạnh tranh. Theo phán quyết, Google đã sử dụng Android để ngăn cản đối thủ trên thị trường di động. Google cho rằng quyết định này không công bằng và đã đầu tư lớn để giữ Android mở. Google sẽ phải trả tiền phạt và thay đổi cách thức hoạt động của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ec0885fc6867",
+      "title": "Overseas education project for women and girls axed by UK after two years",
+      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T13:16:12.183337+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chính phủ Anh hủy dự án giáo dục quốc tế cho phụ nữ và trẻ em gái",
+      "bullets": [
+        "Hủy bỏ dự án giáo dục SHEFE sau 2 năm hoạt động",
+        "Dự án nhằm giúp 1 triệu cô gái ở châu Phi, châu Á và Trung Đông tiếp tục học tập",
+        "Dự án bị hủy bỏ do cắt giảm hỗ trợ tài chính"
+      ],
+      "full_summary": "Chính phủ Anh đã hủy bỏ dự án giáo dục quốc tế Strengthening higher education for female empowerment (SHEFE) sau 2 năm hoạt động. Dự án này nhằm giúp 1 triệu cô gái ở châu Phi, châu Á và Trung Đông tiếp tục học tập và có cơ hội tiếp cận giáo dục đại học. Dự án có ngân sách 45 triệu bảng Anh để tăng cường cơ hội tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới. Dự án đã bị hủy bỏ do cắt giảm hỗ trợ tài chính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "29ca334b038d",
+      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T13:16:13.172775+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Sự cố hóa chất tăng lên khi chính quyền Trump đề xuất giảm nhẹ quy định an toàn",
+      "bullets": [
+        "Tăng gần 50% số vụ sự cố hóa chất gây thương tích hoặc tử vong trong những năm gần đây",
+        "Chính quyền Trump đề xuất giảm nhẹ quy định an toàn về hóa chất",
+        "Sự cố hóa chất có thể gây ra hậu quả nghiêm trọng cho môi trường và sức khỏe con người",
+        "Các chuyên gia cảnh báo rằng quy định an toàn yếu sẽ dẫn đến nhiều vụ tai nạn hơn"
+      ],
+      "full_summary": "Theo Ars Technica, số vụ sự cố hóa chất gây thương tích hoặc tử vong đã tăng gần 50% trong những năm gần đây. Chính quyền Trump đã đề xuất giảm nhẹ quy định an toàn về hóa chất, khiến các chuyên gia lo ngại về hậu quả nghiêm trọng cho môi trường và sức khỏe con người. Sự cố hóa chất có thể gây ra hậu quả nghiêm trọng cho môi trường và sức khỏe con người, và các chuyên gia cảnh báo rằng quy định an toàn yếu sẽ dẫn đến nhiều vụ tai nạn hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b9043b6e2bc",
+      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-05T13:16:16.090848+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Sử dụng thuốc lá có chứa THC tăng nguy cơ bị đau tim",
+      "bullets": [
+        "Tăng nguy cơ bị đau tim",
+        "Sử dụng thuốc lá có chứa THC gây hại cho tim",
+        "Nghiên cứu chỉ ra mối liên hệ giữa THC và bệnh tim",
+        "Sử dụng thuốc lá có chứa THC cần được xem xét cẩn thận"
+      ],
+      "full_summary": "Một nghiên cứu mới chỉ ra rằng sử dụng thuốc lá có chứa THC tăng nguy cơ bị đau tim. Các nhà nghiên cứu đã phân tích dữ liệu của hơn 100.000 người và phát hiện ra rằng những người sử dụng thuốc lá có chứa THC có nguy cơ bị đau tim cao hơn 30% so với những người không sử dụng. Nghiên cứu này cho thấy rằng sử dụng thuốc lá có chứa THC cần được xem xét cẩn thận để tránh các rủi ro cho sức khỏe.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "75e260a23615",
+      "title": "Fast Software, the Best Software (2019)",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-05T13:16:20.040902+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tối ưu hóa phần mềm giúp tăng hiệu suất làm việc",
+      "bullets": [
+        "Tối ưu hóa phần mềm giúp giảm thời gian tải và khởi động",
+        "Phần mềm nhanh chóng giúp tăng năng suất và giảm lỗi",
+        "Tập trung vào tính đơn giản và hiệu suất cao",
+        "Phần mềm tối ưu hóa giúp cải thiện trải nghiệm người dùng"
+      ],
+      "full_summary": "Tối ưu hóa phần mềm là một chiến lược quan trọng để tăng hiệu suất làm việc. Bài viết này của Craig Mod đã thảo luận về tầm quan trọng của phần mềm nhanh chóng và cách nó có thể giúp giảm thời gian tải và khởi động, tăng năng suất và giảm lỗi. Tối ưu hóa phần mềm cũng giúp tập trung vào tính đơn giản và hiệu suất cao, cải thiện trải nghiệm người dùng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f166872dbd81",
       "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
@@ -609,184 +788,6 @@
         "Tính năng này được thay thế bằng công nghệ số"
       ],
       "full_summary": "Phần Lan đã loại bỏ hoàn toàn điện thoại dây sau 150 năm sử dụng. Đây là một bước tiến quan trọng trong việc chuyển đổi sang công nghệ số. Điện thoại dây đã được thay thế bằng các thiết bị di động và mạng internet. Sự kiện này đánh dấu một bước ngoặt quan trọng trong lịch sử công nghệ Phần Lan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f00e476f246",
-      "title": "China boosts prestigious grants for young scientists — will it ease competition?",
-      "url": "https://www.nature.com/articles/d41586-026-01989-5",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-04T19:01:49.430754+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Trung Quốc tăng cường hỗ trợ tài trợ cho các nhà khoa học trẻ",
-      "bullets": [
-        "Tăng lên 12.000 dự án từ năm nay",
-        "Hỗ trợ tài trợ cho các nhà khoa học trẻ",
-        "Giảm cạnh tranh trong lĩnh vực khoa học",
-        "Tăng cường phát triển khoa học và công nghệ"
-      ],
-      "full_summary": "Trung Quốc vừa công bố sẽ tăng cường hỗ trợ tài trợ cho các nhà khoa học trẻ. Theo đó, National Natural Science Foundation of China sẽ hỗ trợ thêm 12.000 dự án từ năm nay. Điều này có thể giúp giảm cạnh tranh trong lĩnh vực khoa học và tăng cường phát triển khoa học và công nghệ. Việc này cũng thể hiện cam kết của Trung Quốc trong việc hỗ trợ và phát triển tài năng khoa học trẻ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "81e6bfe06259",
-      "title": "Can you actually do a nine-to-five PhD? <i>Nature</i> readers weigh in",
-      "url": "https://www.nature.com/articles/d41586-026-01773-5",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-04T19:02:18.353189+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu sinh chia sẻ khó khăn trong quản lý thời gian làm việc",
-      "bullets": [
-        "Phát hiện ra rằng việc quản lý thời gian làm việc hiệu quả là rất khó khăn",
-        "Nghiên cứu sinh phải cân bằng giữa công việc và cuộc sống cá nhân",
-        "Học giả chia sẻ kinh nghiệm quản lý thời gian hiệu quả trong quá trình nghiên cứu"
-      ],
-      "full_summary": "Nghiên cứu sinh trên toàn thế giới đã chia sẻ khó khăn của họ trong việc quản lý thời gian làm việc trong quá trình nghiên cứu. Họ phải cân bằng giữa công việc và cuộc sống cá nhân, đồng thời tìm kiếm phương pháp quản lý thời gian hiệu quả. Bài viết trên Nature đã thu hút sự quan tâm của nhiều người, khi họ chia sẻ kinh nghiệm và lời khuyên về cách quản lý thời gian hiệu quả trong quá trình nghiên cứu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b13e222d0284",
-      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T13:07:13.385877+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hàng trăm nghìn người tập trung tại Tehran để tang lễ Ayatollah Khamenei",
-      "bullets": [
-        "Hơn 100.000 người tập trung tại Grand Mosalla để xem lễ tang",
-        "Thân thể Ayatollah Khamenei sẽ nằm trong nhà tang lễ từ thứ Hai đến thứ Ba",
-        "Thân thể sẽ được di chuyển đến các thành phố khác nhau ở Iran và Iraq"
-      ],
-      "full_summary": "Hàng trăm nghìn người đã tập trung tại Tehran để tham dự lễ tang của Ayatollah Khamenei. Thân thể của ông sẽ nằm trong nhà tang lễ ở Grand Mosalla từ thứ Hai đến thứ Ba. Sau đó, nó sẽ được di chuyển đến các thành phố khác nhau ở Iran và Iraq để người dân có thể đến để thể hiện sự tôn kính.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "736d5dc393bb",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T13:07:14.400039+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Ukraina tấn công kho dầu quan trọng tại St Petersburg của Nga",
-      "bullets": [
-        "Ukraina tấn công kho dầu lớn ở St Petersburg",
-        "Chủ tịch Ukraine Volodymyr Zelensky nói mục tiêu là cơ sở hạ tầng quan trọng",
-        "Mục tiêu này tạo ra thu nhập cho chiến tranh của Nga",
-        "Hành động này nhằm vào nguồn thu nhập chính của Nga"
-      ],
-      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky cho biết Ukraine đã tấn công một kho dầu lớn ở St Petersburg của Nga. Ông nói mục tiêu là cơ sở hạ tầng quan trọng tạo ra thu nhập cho chiến tranh của Nga. Hành động này nhằm vào nguồn thu nhập chính của Nga. Mục tiêu này sẽ ảnh hưởng đến khả năng tài chính của Nga trong cuộc chiến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e80b0380dd29",
-      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T13:07:15.331475+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Đức giáo hoàng kêu gọi châu Âu giúp đỡ người tị nạn nhiều hơn",
-      "bullets": [
-        "Đức giáo hoàng cầu nguyện cho người tị nạn",
-        "Đức giáo hoàng đến thăm đảo Lampedusa để tôn vinh người tị nạn",
-        "Đức giáo hoàng kêu gọi châu Âu giúp đỡ người tị nạn nhiều hơn",
-        "Đức giáo hoàng bày tỏ sự cảm thông với người tị nạn"
-      ],
-      "full_summary": "Đức giáo hoàng đã đến thăm đảo Lampedusa, một hòn đảo ở Italy, để tôn vinh người tị nạn đã mất mạng trên biển. Trong chuyến thăm này, Đức giáo hoàng đã cầu nguyện cho người tị nạn và kêu gọi châu Âu giúp đỡ người tị nạn nhiều hơn. Đức giáo hoàng bày tỏ sự cảm thông với người tị nạn và mong muốn châu Âu có thể giúp đỡ họ nhiều hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "44bf46b8f721",
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T13:07:16.199641+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nhà nghiên cứu AI cho rằng AI hiện tại không thông minh",
-      "bullets": [
-        "Yan LeCun đang phát triển một hệ thống AI linh hoạt hơn",
-        "Hệ thống mới sẽ có khả năng học hỏi và thích nghi tốt hơn",
-        "Mục tiêu của LeCun là tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp",
-        "Các nhà nghiên cứu đang tìm kiếm các phương pháp mới để phát triển AI"
-      ],
-      "full_summary": "Nhà nghiên cứu AI nổi tiếng Yan LeCun đang phát triển một hệ thống AI mới linh hoạt hơn. LeCun cho rằng AI hiện tại không thông minh như mọi người nghĩ. Ông đang tìm kiếm các phương pháp mới để tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp. Mục tiêu của LeCun là tạo ra một AI có thể học hỏi và thích nghi tốt hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "167dee44f23a",
-      "title": "PlayStation will stop releasing games on discs in 2028",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T13:07:17.089160+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "PlayStation sẽ dừng phát hành trò chơi trên đĩa từ năm 2028",
-      "bullets": [
-        "PlayStation sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028",
-        "Trò chơi tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật số",
-        "Người dùng sẽ phải tải trò chơi từ internet",
-        "PlayStation hy vọng sẽ giảm thiểu lãng phí vật liệu và giảm thiểu tác động môi trường"
-      ],
-      "full_summary": "PlayStation đã công bố sẽ ngừng phát hành trò chơi trên đĩa từ năm 2028. Thay vào đó, trò chơi tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật số. Người dùng sẽ phải tải trò chơi từ internet. Đây là một bước tiến mới trong việc chuyển đổi sang mô hình kỹ thuật số.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "178b917d2381",
-      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T13:07:18.052771+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Netflix Wonka phim nhận chỉ trích vì sử dụng trí tuệ nhân tạo cho giọng nói Gene Wilder",
-      "bullets": [
-        "Wonka Netflix phim sử dụng trí tuệ nhân tạo để tạo giọng nói Gene Wilder",
-        "Gene Wilder đã qua đời vào năm 2016 nhưng gia đình ông đã cho phép sử dụng hình ảnh của ông",
-        "Phim Wonka Netflix đã nhận chỉ trích vì sử dụng trí tuệ nhân tạo",
-        "Nhiều người cho rằng việc sử dụng trí tuệ nhân tạo không phù hợp"
-      ],
-      "full_summary": "Phim Wonka trên Netflix đã sử dụng trí tuệ nhân tạo để tạo giọng nói của Gene Wilder, người đã qua đời vào năm 2016. Mặc dù gia đình ông đã cho phép sử dụng hình ảnh của ông, nhưng nhiều người vẫn cho rằng việc sử dụng trí tuệ nhân tạo không phù hợp. Wonka Netflix phim đã nhận chỉ trích vì sử dụng trí tuệ nhân tạo, và nhiều người đang tranh luận về vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "66d4ffabed27",
-      "title": "When the ability to smell goes away",
-      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-04T13:07:23.033898+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Khả năng ngửi không còn lại có liên quan đến vấn đề sức khỏe não",
-      "bullets": [
-        "Tổn thương khả năng ngửi thường liên quan đến vấn đề sức khỏe não",
-        "Thay đổi trong hệ thống thần kinh có thể gây ra sự mất đi khả năng ngửi",
-        "Các nghiên cứu đang được thực hiện để hiểu rõ hơn về nguyên nhân của tình trạng này",
-        "Khả năng ngửi đóng vai trò quan trọng trong việc nhận biết và phản ứng với môi trường"
-      ],
-      "full_summary": "Khả năng ngửi là một trong những giác quan quan trọng của con người, giúp chúng ta nhận biết và phản ứng với môi trường xung quanh. Tuy nhiên, khi khả năng ngửi không còn lại, nó có thể liên quan đến vấn đề sức khỏe não. Các nghiên cứu đang được thực hiện để hiểu rõ hơn về nguyên nhân của tình trạng này và tìm ra cách điều trị. Khả năng ngửi đóng vai trò quan trọng trong việc nhận biết và phản ứng với môi trường, và khi nó không còn lại, nó có thể gây ra nhiều vấn đề sức khỏe khác.",
       "comments": 0,
       "score": 0
     }
