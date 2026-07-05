@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-05T13:16:22.323663+00:00",
+  "updated_at": "2026-07-05T19:06:03.787030+00:00",
   "articles": [
+    {
+      "id": "2b5b8ceb0b43",
+      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T19:05:48.587703+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Khách mời nổi tiếng chia sẻ về hôn lễ của Taylor và Travis",
+      "bullets": [
+        "Chia sẻ về ngày cưới của họ trên mạng xã hội",
+        "Khách mời nổi tiếng đang bình luận về hôn lễ",
+        "Hôn lễ của họ được tổ chức tại New York",
+        "Khách mời đang chia sẻ cảm xúc về hôn lễ"
+      ],
+      "full_summary": "Một số khách mời nổi tiếng đã chia sẻ về hôn lễ của Taylor và Travis trên mạng xã hội. Họ đang bình luận về ngày cưới của họ và chia sẻ cảm xúc về hôn lễ. Hôn lễ của họ được tổ chức tại New York và đã thu hút sự chú ý của nhiều người. Khách mời đang chia sẻ về những khoảnh khắc đáng nhớ của hôn lễ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6d85c9a2edd3",
+      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
+      "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T19:05:49.558098+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hàng ngàn người chào đón cầu thủ bóng đá Cape Verde sau hành trình World Cup ấn tượng",
+      "bullets": [
+        "Hàng chục nghìn người tập trung bên ngoài sân bay ở thủ đô Praia",
+        "Cầu thủ Cape Verde đã gây ấn tượng với sự tiến bộ đáng kể trong giải đấu",
+        "Đội bóng đã vượt qua nhiều đội mạnh trong suốt World Cup",
+        "Sự ủng hộ của người hâm mộ đã giúp đội bóng Cape Verde đạt được thành tựu đáng kể"
+      ],
+      "full_summary": "Hàng ngàn người đã đến sân bay ở thủ đô Praia để chào đón đội bóng Cape Verde sau khi họ tham gia World Cup. Sự ủng hộ của người hâm mộ đã giúp đội bóng đạt được thành tựu đáng kể. Cầu thủ Cape Verde đã gây ấn tượng với sự tiến bộ đáng kể trong giải đấu và đã vượt qua nhiều đội mạnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "44bf46b8f721",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T19:05:50.517479+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nghiên cứu viên AI cho rằng AI không thông minh như mọi người nghĩ",
+      "bullets": [
+        "Yan LeCun đang phát triển một hệ thống AI linh hoạt hơn",
+        "Hệ thống AI mới sẽ giúp giải quyết các vấn đề phức tạp hơn",
+        "Cơ hội mới cho AI trong các lĩnh vực như y tế và tài chính"
+      ],
+      "full_summary": "Yan LeCun, một trong những nhà nghiên cứu AI hàng đầu, đã cho biết AI không thông minh như mọi người nghĩ. Ông đang phát triển một hệ thống AI linh hoạt hơn để giải quyết các vấn đề phức tạp hơn. Hệ thống này sẽ giúp AI có thể học hỏi và thích nghi với các tình huống mới. Điều này có thể mở ra cơ hội mới cho AI trong các lĩnh vực như y tế và tài chính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "167dee44f23a",
+      "title": "PlayStation will stop releasing games on discs in 2028",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T19:05:51.721506+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Sony sẽ dừng phát hành game trên đĩa từ năm 2028",
+      "bullets": [
+        "Sony sẽ dừng sản xuất game trên đĩa từ năm 2028",
+        "Trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số",
+        "Người dùng sẽ phải tải game về máy tính bảng hoặc máy chơi game",
+        "Mục tiêu của Sony là giảm thiểu lãng phí vật liệu và giảm chi phí sản xuất"
+      ],
+      "full_summary": "Sony đã thông báo sẽ dừng phát hành game trên đĩa từ năm 2028. Trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số. Người dùng sẽ phải tải game về máy tính bảng hoặc máy chơi game. Mục tiêu của Sony là giảm thiểu lãng phí vật liệu và giảm chi phí sản xuất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "178b917d2381",
+      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-05T19:05:52.682137+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Netflix Wonka show bị chỉ trích vì sử dụng AI tạo giọng nói Gene Wilder",
+      "bullets": [
+        "Sử dụng AI tạo giọng nói Gene Wilder trong phim Wonka trên Netflix",
+        "Diễn viên Gene Wilder đã qua đời năm 2016",
+        "Estate của Gene Wilder đã đồng ý cho sử dụng hình ảnh và giọng nói của ông",
+        "Phim Wonka đã nhận được phản ứng tiêu cực từ khán giả"
+      ],
+      "full_summary": "Phim Wonka trên Netflix đã bị chỉ trích vì sử dụng AI tạo giọng nói của diễn viên Gene Wilder. Mặc dù Gene Wilder đã qua đời năm 2016, nhưng estate của ông đã đồng ý cho sử dụng hình ảnh và giọng nói của ông trong phim. Tuy nhiên, nhiều khán giả đã phản ứng tiêu cực với việc sử dụng AI tạo giọng nói của Gene Wilder. Điều này đã gây ra nhiều tranh cãi trong cộng đồng người hâm mộ phim Wonka.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b416c32ae95",
+      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T19:05:53.790009+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Đạn thiên thạch đã làm tan chảy lớp vỏ đầu tiên của Trái Đất",
+      "bullets": [
+        "Lớp vỏ đầu tiên của Trái Đất đã bị tan chảy do va chạm thiên thạch",
+        "Nhiệt lượng từ va chạm thiên thạch có thể đã đóng góp vào nhiệt độ cao của Hadean",
+        "Các nhà khoa học cho rằng nhiệt lượng từ bên trong Trái Đất cũng đã đóng góp vào quá trình hình thành lớp vỏ",
+        "Quá trình hình thành lớp vỏ của Trái Đất có thể đã mất 500 triệu năm"
+      ],
+      "full_summary": "Các nhà khoa học đã phát hiện ra rằng lớp vỏ đầu tiên của Trái Đất đã bị tan chảy do va chạm thiên thạch. Nhiệt lượng từ va chạm thiên thạch có thể đã đóng góp vào nhiệt độ cao của Hadean, thời kỳ hình thành Trái Đất. Các nhà khoa học cho rằng nhiệt lượng từ bên trong Trái Đất cũng đã đóng góp vào quá trình hình thành lớp vỏ. Quá trình hình thành lớp vỏ của Trái Đất có thể đã mất 500 triệu năm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "66d4ffabed27",
+      "title": "When the ability to smell goes away",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T19:05:54.854178+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Khả năng ngửi không còn có thể ảnh hưởng đến sức khỏe não",
+      "bullets": [
+        "Thay đổi trong cảm giác này thường liên quan đến vấn đề về sức khỏe não",
+        "Nghiên cứu cho thấy khả năng ngửi có thể bị ảnh hưởng bởi tuổi tác và bệnh tật",
+        "Các vấn đề về não bộ có thể dẫn đến mất khả năng ngửi vĩnh viễn",
+        "Nghiên cứu đang được thực hiện để hiểu rõ hơn về nguyên nhân và cách điều trị"
+      ],
+      "full_summary": "Khả năng ngửi là một trong những giác quan quan trọng nhất của con người, giúp chúng ta nhận biết được mùi của các chất và cảnh báo về các nguy hiểm tiềm ẩn. Tuy nhiên, khả năng ngửi có thể bị ảnh hưởng bởi các vấn đề về sức khỏe não. Nghiên cứu cho thấy rằng khả năng ngửi có thể bị ảnh hưởng bởi tuổi tác và bệnh tật, và các vấn đề về não bộ có thể dẫn đến mất khả năng ngửi vĩnh viễn. Các nhà khoa học đang nghiên cứu để hiểu rõ hơn về nguyên nhân và cách điều trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "94f5eb9c6df6",
+      "title": "Despite the darkness, I still see signs of hope in America",
+      "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-05T19:05:55.935376+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Mỹ vẫn còn nhiều lý do hy vọng dù trong bóng tối",
+      "bullets": [
+        "Lập trường đa dạng và tự do vẫn còn tồn tại",
+        "Sự đa dạng về văn hóa và tôn giáo vẫn tiếp tục phát triển",
+        "Cộng đồng người Mỹ vẫn kiên cường và đoàn kết",
+        "Những đổi mới và sáng tạo vẫn tiếp tục diễn ra"
+      ],
+      "full_summary": "Mặc dù Mỹ đang đối mặt với nhiều thách thức và khó khăn, nhưng vẫn còn nhiều lý do hy vọng. Lập trường đa dạng và tự do vẫn còn tồn tại, và sự đa dạng về văn hóa và tôn giáo vẫn tiếp tục phát triển. Cộng đồng người Mỹ vẫn kiên cường và đoàn kết, và những đổi mới và sáng tạo vẫn tiếp tục diễn ra. Điều này cho thấy rằng Mỹ vẫn còn nhiều tiềm năng và cơ hội để phát triển và tiến bộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "51e2771a55b5",
+      "title": "Installing A/UX 1.1 like it's the 90s",
+      "url": "https://thomasw.dev/post/aux11/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-05T19:06:00.391009+00:00",
+      "category": "technology",
+      "importance": 2,
+      "headline": "Cài đặt hệ điều hành A/UX 1.1 như thời kỳ 90s",
+      "bullets": [
+        "Cài đặt lại hệ điều hành A/UX 1.1 trên máy Mac",
+        "Tìm hiểu về quá trình cài đặt và các bước cần thiết",
+        "Khám phá các tính năng và cải tiến của hệ điều hành A/UX 1.1"
+      ],
+      "full_summary": "Một người dùng đã chia sẻ kinh nghiệm cài đặt hệ điều hành A/UX 1.1 trên máy Mac như thời kỳ 90s. Họ đã tìm hiểu về quá trình cài đặt và các bước cần thiết để cài đặt lại hệ điều hành này. Qua đó, người dùng có thể khám phá các tính năng và cải tiến của hệ điều hành A/UX 1.1.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "82513d3cc23e",
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
@@ -613,181 +791,6 @@
         "Nghiên cứu về Ebola giúp ngăn chặn sự lan rộng của dịch bệnh"
       ],
       "full_summary": "Một nghiên cứu mới cho thấy nguồn gốc của bệnh Ebola là rất quan trọng để ngăn chặn dịch bệnh lớn tiếp theo. Trong khi đó, một vụ bùng phát dịch bệnh do virus Andes trên một con tàu du lịch đang được theo dõi, bệnh Ebola đang lan rộng ở Cộng hòa Dân chủ Congo với hơn 1.250 trường hợp và ít nhất 362 ca tử vong. Nghiên cứu về Ebola giúp giảm thiểu tác động tiêu cực lên động vật và ngăn chặn sự lan rộng của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "613d987eebfa",
-      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
-      "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T19:00:38.544548+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Sự kiện địa chấn Mexico năm 1986 đe dọa hủy World Cup",
-      "bullets": [
-        "Động đất khiến 5.000 người thiệt mạng và 30.000 người mất nhà cửa",
-        "Sự kiện này đặt ra câu hỏi về khả năng Mexico tổ chức World Cup",
-        "Động đất đã làm hư hỏng đáng kể thành phố Mexico"
-      ],
-      "full_summary": "Năm 1986, Mexico đã tổ chức World Cup, nhưng sự kiện địa chấn xảy ra vài tháng trước đó đã đặt ra câu hỏi về khả năng tổ chức sự kiện này. Động đất đã khiến 5.000 người thiệt mạng và 30.000 người mất nhà cửa, làm hư hỏng đáng kể thành phố Mexico. Mặc dù cuộc thi đã diễn ra, nhưng nó gần như bị hủy bỏ do tình hình khủng hoảng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "271a68f09823",
-      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-04T19:00:39.771641+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Cứu hộ Venezuela sau trận động đất: 'Một chiến trường'",
-      "bullets": [
-        "Nhiều tình nguyện viên và đội cứu hộ quốc tế đến để tìm kiếm người sống sót",
-        "Tình trạng khẩn cấp ở La Guaira sau trận động đất",
-        "Hàng ngàn người bị mắc kẹt trong đống đổ nát",
-        "Cứu hộ gặp khó khăn do thiếu thiết bị và nguồn lực"
-      ],
-      "full_summary": "Sau trận động đất mạnh ở Venezuela, nhiều tình nguyện viên và đội cứu hộ quốc tế đã đến để tìm kiếm người sống sót. Họ gặp khó khăn do thiếu thiết bị và nguồn lực, nhưng vẫn tiếp tục công việc cứu hộ. Người dân địa phương cũng tham gia vào nỗ lực cứu hộ, hy vọng tìm thấy những người còn sống sót.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "324cea258dab",
-      "title": "A martian rock has lots of carbon on it, and it's not clear why",
-      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-04T19:01:11.218875+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mặt trăng Mars có một hòn đá chứa nhiều cacbon",
-      "bullets": [
-        "Khám phá hòn đá Martian chứa nhiều cacbon",
-        "Biology có thể giải thích phát hiện này",
-        "Có nhiều lý giải khác về sự hiện diện của cacbon",
-        "Nghiên cứu tiếp tục để xác định nguyên nhân"
-      ],
-      "full_summary": "Một nhóm nghiên cứu vừa phát hiện một hòn đá trên Mặt trăng Mars chứa nhiều cacbon. Phát hiện này đã gây bất ngờ cho các nhà khoa học vì chưa rõ nguyên nhân. Một số khả năng cho rằng sự hiện diện của cacbon có thể được giải thích bởi sự sống trên Mặt trăng, nhưng vẫn còn nhiều giả thuyết khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "840e15300deb",
-      "title": "Verizon is About to Break our Watches",
-      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T19:01:13.502745+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Verizon sắp phá hủy đồng hồ của chúng ta",
-      "bullets": [
-        "Sẽ có ảnh hưởng đến đồng hồ thông minh và các thiết bị khác",
-        "Verizon đang triển khai một hệ thống mới có thể gây ra vấn đề",
-        "Nhiều người dùng đang lo lắng về sự cố này"
-      ],
-      "full_summary": "Một bài viết trên Hacker News cho biết Verizon đang triển khai một hệ thống mới có thể gây ra vấn đề cho đồng hồ thông minh và các thiết bị khác. Hệ thống này sẽ ảnh hưởng đến các thiết bị sử dụng giao thức NTP (Network Time Protocol). Nhiều người dùng đang lo lắng về sự cố này và hy vọng Verizon sẽ tìm ra giải pháp để giải quyết vấn đề.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "469158550dfa",
-      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
-      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T19:01:14.494561+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một công cụ mới cho phép xâm nhập vào bộ nhớ RAM của máy tính",
-      "bullets": [
-        "Tạo ra một công cụ x86 để thực hiện cuộc tấn công Cold Boot Attack",
-        "Cho phép người dùng xâm nhập vào bộ nhớ RAM của máy tính",
-        "Cung cấp một công cụ để thực hiện các thí nghiệm về bảo mật",
-        "Có thể được sử dụng để phát hiện và ngăn chặn các cuộc tấn công mạng"
-      ],
-      "full_summary": "Một nhà phát triển đã tạo ra một công cụ mới có tên BareMetal RAM Dumper, cho phép người dùng xâm nhập vào bộ nhớ RAM của máy tính. Công cụ này được thiết kế để thực hiện các cuộc tấn công Cold Boot Attack và cung cấp một công cụ để thực hiện các thí nghiệm về bảo mật. Công cụ này có thể được sử dụng để phát hiện và ngăn chặn các cuộc tấn công mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7bd5b5baf3cf",
-      "title": "No more than 100 000 faint satellites should orbit Earth",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T19:01:45.960904+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Không quá 100.000 vệ tinh yếu có thể quay quanh Trái Đất",
-      "bullets": [
-        "Các nhà khoa học đề xuất giới hạn số vệ tinh yếu có thể quay quanh Trái Đất",
-        "Số lượng vệ tinh yếu có thể gây ra sự cố cho các vệ tinh quan trọng khác",
-        "Các vệ tinh yếu có thể gây ra nhiễu loạn cho các hệ thống truyền thông",
-        "Giới hạn này nhằm bảo vệ các vệ tinh quan trọng và hệ thống truyền thông"
-      ],
-      "full_summary": "Các nhà khoa học của ESO đã đề xuất giới hạn số vệ tinh yếu có thể quay quanh Trái Đất. Số lượng vệ tinh yếu có thể gây ra sự cố cho các vệ tinh quan trọng khác và gây ra nhiễu loạn cho các hệ thống truyền thông. Giới hạn này nhằm bảo vệ các vệ tinh quan trọng và hệ thống truyền thông khỏi các sự cố có thể xảy ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79865e776866",
-      "title": "EndBASIC 0.14: Are we multimedia yet?",
-      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T19:01:46.886621+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "EndBASIC 0.14: Phát hành phiên bản mới với khả năng đa phương tiện",
-      "bullets": [
-        "Phát hành phiên bản mới của EndBASIC 0.14",
-        "Cập nhật khả năng đa phương tiện cho ngôn ngữ lập trình",
-        "Tăng cường tính năng cho người dùng"
-      ],
-      "full_summary": "EndBASIC 0.14 là phiên bản mới của ngôn ngữ lập trình EndBASIC, cho phép người dùng tạo ra các ứng dụng đa phương tiện. Phiên bản này được phát hành với khả năng đa phương tiện được cải thiện, giúp người dùng có thể tạo ra các ứng dụng phức tạp hơn. EndBASIC 0.14 cũng được thiết kế để tăng cường tính năng cho người dùng, giúp họ có thể tạo ra các ứng dụng hiệu quả hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f6feaf63408d",
-      "title": "Plein Air",
-      "url": "https://art.joonas.wtf/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T19:01:47.697693+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Một trang web nghệ thuật Plein Air được tạo ra",
-      "bullets": [
-        "Tạo ra một trang web nghệ thuật Plein Air",
-        "Cho phép người dùng tạo ra và chia sẻ tác phẩm nghệ thuật",
-        "Có thể truy cập tại địa chỉ https://art.joonas.wtf/"
-      ],
-      "full_summary": "Trang web Plein Air được tạo ra để cung cấp một nền tảng cho người dùng tạo ra và chia sẻ tác phẩm nghệ thuật. Trang web này cho phép người dùng tạo ra và chia sẻ tác phẩm nghệ thuật của mình, và có thể truy cập tại địa chỉ https://art.joonas.wtf/.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "858e5ec9222b",
-      "title": "Finland's last analogue landline phones go silent after 150 years",
-      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-04T19:01:48.565054+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Điện thoại dây cuối cùng ở Phần Lan ngừng hoạt động sau 150 năm",
-      "bullets": [
-        "Phần Lan đã loại bỏ hoàn toàn điện thoại dây",
-        "Kết thúc 150 năm sử dụng điện thoại dây",
-        "Tính năng này được thay thế bằng công nghệ số"
-      ],
-      "full_summary": "Phần Lan đã loại bỏ hoàn toàn điện thoại dây sau 150 năm sử dụng. Đây là một bước tiến quan trọng trong việc chuyển đổi sang công nghệ số. Điện thoại dây đã được thay thế bằng các thiết bị di động và mạng internet. Sự kiện này đánh dấu một bước ngoặt quan trọng trong lịch sử công nghệ Phần Lan.",
       "comments": 0,
       "score": 0
     }
