@@ -1,6 +1,223 @@
 {
-  "updated_at": "2026-07-06T02:31:21.166113+00:00",
+  "updated_at": "2026-07-06T10:02:24.268433+00:00",
   "articles": [
+    {
+      "id": "dd505c30fcef",
+      "title": "Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T10:02:08.926276+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Ukraine cảnh báo thiếu hụt tên lửa phòng thủ sau tấn công của Nga",
+      "bullets": [
+        "Ukraine cảnh báo thiếu hụt tên lửa phòng thủ",
+        "Tấn công của Nga gây thiệt hại nặng nề ở khu vực Kyiv",
+        "Tổng thống Zelensky xác nhận 68 tên lửa và 351 máy bay không người lái đã tấn công",
+        "14 người đã thiệt mạng trong vụ tấn công"
+      ],
+      "full_summary": "Tổng thống Ukraine Volodymyr Zelensky cảnh báo về tình trạng thiếu hụt tên lửa phòng thủ sau khi Nga thực hiện một cuộc tấn công lớn vào Kyiv. Theo ông Zelensky, cuộc tấn công đã sử dụng 68 tên lửa và 351 máy bay không người lái. 14 người đã thiệt mạng trong vụ tấn công. Đây là một trong những cuộc tấn công lớn nhất của Nga vào Ukraine trong thời gian gần đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e9b982e9f9d",
+      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T10:02:09.899612+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Trẻ em Venezuela bị kẹt dưới đổ nát sau động đất",
+      "bullets": [
+        "Động đất mạnh khiến một tòa nhà 10 tầng đổ sập",
+        "Cô bé Fabiana bị kẹt trong 32 giờ",
+        "Cô bé ăn ketchup và phô mai trong lúc bị kẹt",
+        "Cô được cứu sau khi cứu hộ"
+      ],
+      "full_summary": "Một trận động đất mạnh đã khiến một tòa nhà 10 tầng ở Venezuela đổ sập. Cô bé Fabiana bị kẹt dưới đổ nát trong 32 giờ. Trong lúc chờ cứu hộ, cô ăn ketchup và phô mai để duy trì sức khỏe. Cuối cùng, cô được cứu sau khi cứu hộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "be706524bd27",
+      "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T10:02:10.784215+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Máy bay Delta bị nổ súng pháo khi hạ cánh ở Chicago",
+      "bullets": [
+        "Bị nổ súng pháo khi hạ cánh",
+        "Không có thương vong",
+        "Có 52 hành khách và 6 thành viên phi hành đoàn",
+        "Máy bay hạ cánh an toàn"
+      ],
+      "full_summary": "Một chiếc máy bay Delta đã bị nổ súng pháo khi hạ cánh ở sân bay O'Hare ở Chicago. Theo BBC, không có thương vong nào được báo cáo. Máy bay có 52 hành khách và 6 thành viên phi hành đoàn trên board. Vụ việc đã được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ea12998b5d22",
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T10:02:11.938996+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Sudan: Các máy bay không người lái tấn công thành phố bị bao vây",
+      "bullets": [
+        "Các máy bay không người lái đã tấn công các trường học và trạm xăng ở El Obeid",
+        "Hơn 20 người đã thiệt mạng trong các vụ tấn công này",
+        "Các nhân viên cứu trợ nói rằng tình hình ở El Obeid rất khủng khiếp"
+      ],
+      "full_summary": "Thành phố El Obeid ở Sudan đang trở thành tâm điểm của cuộc chiến giữa quân đội Sudan và lực lượng RSF. Các máy bay không người lái đã tấn công thành phố này nhiều lần, gây ra thương vong cho nhiều người dân. Các nhân viên cứu trợ nói rằng tình hình ở El Obeid rất khủng khiếp và họ đang cố gắng cung cấp hỗ trợ cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "03304c53c376",
+      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T10:02:13.107839+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Modi nhận nhiều giải thưởng khi đi công du nước ngoài",
+      "bullets": [
+        "Nhận giải thưởng 'Guardian of the Blue Horizon' tại Seychelles",
+        "Được trao nhiều giải thưởng trong các chuyến công du nước ngoài",
+        "Cộng hòa Seychelles trao giải thưởng cao nhất cho Thủ tướng Modi",
+        "Modi nhận nhiều giải thưởng trong lịch sử các chuyến công du nước ngoài"
+      ],
+      "full_summary": "Chủ tịch Ấn Độ Narendra Modi đã nhận nhiều giải thưởng trong các chuyến công du nước ngoài. Tại Seychelles, ông đã nhận giải thưởng 'Guardian of the Blue Horizon' từ Tổng thống Patrick Herminie. Đây không phải là lần đầu tiên Modi nhận được giải thưởng trong các chuyến công du nước ngoài. Ông đã nhận được nhiều giải thưởng khác nhau trong lịch sử các chuyến công du nước ngoài.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "324cea258dab",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-06T10:02:14.023171+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiều cacbon được tìm thấy trên đá Mặt Trăng, lý do không rõ",
+      "bullets": [
+        "Tìm thấy nhiều cacbon trên đá Mặt Trăng trong một nghiên cứu mới",
+        "Học giả cho rằng sinh học có thể giải thích phát hiện này",
+        "Tuy nhiên, có nhiều giả thuyết khác để giải thích sự hiện diện của cacbon"
+      ],
+      "full_summary": "Một nhóm nghiên cứu mới đã tìm thấy nhiều cacbon trên đá Mặt Trăng. Học giả cho rằng sinh học có thể giải thích phát hiện này, nhưng cũng có nhiều giả thuyết khác để giải thích sự hiện diện của cacbon. Các giả thuyết khác bao gồm sự hình thành đá Mặt Trăng từ các nguồn khác nhau và quá trình hóa học.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9c171ea26c87",
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-06T10:02:14.920599+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Rocket Lab sắp nhận 3 hợp đồng phóng tên lửa từ NASA",
+      "bullets": [
+        "NASA đã trao cho Rocket Lab 3 hợp đồng phóng tên lửa Electron",
+        "Các phóng tên lửa này sẽ được thực hiện trong tương lai",
+        "Động thái này thể hiện sự tin tưởng của NASA vào công nghệ của Rocket Lab",
+        "Rocket Lab đang tiến gần đến mục tiêu phóng tên lửa đầu tiên"
+      ],
+      "full_summary": "NASA vừa trao cho Rocket Lab 3 hợp đồng phóng tên lửa Electron. Các hợp đồng này sẽ giúp Rocket Lab tiến gần đến mục tiêu phóng tên lửa đầu tiên. Điều này thể hiện sự tin tưởng của NASA vào công nghệ của Rocket Lab. Trong khi đó, SpaceX cũng đạt được một số thành tựu đáng kể.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a021e8109101",
+      "title": "When AI Costs More Than the Engineer",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-06T10:02:15.991008+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "AI chi phí cao hơn kỹ sư: Khi nào sẽ cân bằng?",
+      "bullets": [
+        "Năm 2029, chi phí AI có thể bằng với chi phí kỹ sư",
+        "Các công ty đang chi tiền lớn cho AI nhưng chưa thấy hiệu quả rõ ràng",
+        "Tỷ lệ chi phí hiệu suất (ROI) của AI đang thấp hơn so với kỳ vọng",
+        "Cần có thời gian để AI phát triển và trở nên hiệu quả hơn"
+      ],
+      "full_summary": "Một bài viết trên Hacker News cho thấy chi phí cho AI đang cao hơn so với chi phí cho kỹ sư. Theo dự đoán, đến năm 2029, chi phí cho AI sẽ bằng với chi phí cho kỹ sư. Tuy nhiên, hiện tại, các công ty đang chi tiền lớn cho AI nhưng chưa thấy hiệu quả rõ ràng. Tỷ lệ chi phí hiệu suất (ROI) của AI đang thấp hơn so với kỳ vọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "291793de7f75",
+      "title": "Generate parametric, manufacturable 3D models in seconds",
+      "url": "https://kyrall.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-06T10:02:16.901892+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tạo mô hình 3D có thể sản xuất trong vài giây",
+      "bullets": [
+        "Tạo mô hình 3D có thể sản xuất trong vài giây",
+        "Kyrall cung cấp công cụ tạo mô hình 3D nhanh chóng",
+        "Mô hình có thể được sử dụng trong nhiều ứng dụng",
+        "Công cụ này có thể thay đổi cách tạo mô hình 3D"
+      ],
+      "full_summary": "Kyrall là một công cụ mới giúp tạo mô hình 3D có thể sản xuất trong vài giây. Công cụ này cho phép người dùng tạo mô hình 3D nhanh chóng và dễ dàng. Mô hình có thể được sử dụng trong nhiều ứng dụng, bao gồm thiết kế sản phẩm, kiến trúc và nghệ thuật. Công cụ này có thể thay đổi cách tạo mô hình 3D và mang lại nhiều lợi ích cho người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f239eb7a5b18",
+      "title": "The Sneakerweb",
+      "url": "https://sneakerweb.org/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-06T10:02:18.355330+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Một trang web mới dành cho người yêu thích giày thể thao",
+      "bullets": [
+        "Báo cáo về các loại giày thể thao mới nhất trên thị trường",
+        "Cung cấp thông tin chi tiết về giá cả và thời gian ra mắt",
+        "Cho phép người dùng thảo luận và chia sẻ ý kiến về các loại giày thể thao"
+      ],
+      "full_summary": "Trang web Sneakerweb là một nền tảng mới dành cho người yêu thích giày thể thao. Trang web này cung cấp thông tin chi tiết về các loại giày thể thao mới nhất trên thị trường, bao gồm giá cả và thời gian ra mắt. Người dùng có thể thảo luận và chia sẻ ý kiến về các loại giày thể thao trên trang web này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fe40c8015528",
+      "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+      "url": "https://www.nature.com/articles/s41586-026-10854-4",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-06T10:02:23.205277+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Học giả sửa lỗi trong nghiên cứu tạo ra các hợp chất có tính đối xứng cao",
+      "bullets": [
+        "Cập nhật phương pháp tạo ra các hợp chất có tính đối xứng cao",
+        "Sửa lỗi trong nghiên cứu về quá trình tạo ra các hợp chất có tính đối xứng cao",
+        "Học giả sử dụng phương pháp sinh học để tạo ra các hợp chất có tính đối xứng cao",
+        "Nghiên cứu được công bố trên tạp chí Nature"
+      ],
+      "full_summary": "Một nhóm học giả đã công bố sửa lỗi trong nghiên cứu về quá trình tạo ra các hợp chất có tính đối xứng cao bằng phương pháp sinh học. Phương pháp này cho phép tạo ra các hợp chất có tính đối xứng cao một cách hiệu quả. Nghiên cứu được công bố trên tạp chí Nature và có thể mang lại những đóng góp quan trọng cho lĩnh vực hóa học.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8739b66eb3bf",
       "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
@@ -574,223 +791,6 @@
         "Được thả sau nhiều năm bị giam giữ"
       ],
       "full_summary": "Jin Mingri, người sáng lập Giáo hội Zion, đã được thả tù sau khi Tổng thống Mỹ Donald Trump cầu xin trực tiếp với Tổng Bí thư Tập Cận Bình. Jin Mingri bị giam giữ vì hoạt động tôn giáo, nhưng sau nhiều năm bị giam giữ, ông đã được thả. Điều này được cho là do sự can thiệp của Donald Trump.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3295b56a062a",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T08:44:14.757491+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Marine Le Pen bị kết tội sử dụng tiền EU sai mục đích",
-      "bullets": [
-        "Marine Le Pen bị kết tội sử dụng tiền EU sai mục đích",
-        "Cô ta đang kháng cáo quyết định này",
-        "Quyết định này có thể ảnh hưởng đến sự nghiệp tranh cử tổng thống của Le Pen",
-        "Bị kết tội sử dụng tiền EU sai mục đích có thể khiến Le Pen mất uy tín"
-      ],
-      "full_summary": "Marine Le Pen, lãnh đạo đảng cực hữu ở Pháp, đang kháng cáo quyết định bị kết tội sử dụng tiền EU sai mục đích. Nếu kháng cáo thất bại, quyết định này có thể ảnh hưởng đến sự nghiệp tranh cử tổng thống của Le Pen. Le Pen bị kết tội sử dụng tiền EU sai mục đích trong một vụ án liên quan đến việc sử dụng tiền EU để trả nợ cho một công ty của chồng cô.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc00ccdb8b1e",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T08:44:15.607658+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta kính đeo giới hạn tính năng tăng giọng nói miễn phí",
-      "bullets": [
-        "Giới hạn sử dụng tính năng tăng giọng nói trong 3 giờ miễn phí",
-        "Người dùng Meta kính đeo phải trả phí để sử dụng tính năng này",
-        "Tính năng này giúp tăng cường giọng nói của người nói",
-        "Meta chưa công bố chi tiết về mức phí mới"
-      ],
-      "full_summary": "Meta đã giới hạn sử dụng tính năng tăng giọng nói trong kính đeo của họ. Tính năng này giúp tăng cường giọng nói của người nói và sẽ được giới hạn ở 3 giờ miễn phí. Người dùng phải trả phí để sử dụng tính năng này sau thời gian miễn phí. Meta chưa công bố chi tiết về mức phí mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f4a45c326196",
-      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T08:44:16.597836+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Sự cố lũ lụt ở Côte d'Ivoire khiến 59 người thiệt mạng",
-      "bullets": [
-        "Côte d'Ivoire báo cáo 59 người thiệt mạng do lũ lụt kể từ tháng 5",
-        "Ghana báo cáo 13 người chết và nhiều nước khác ở Tây Phi cũng bị ảnh hưởng",
-        "Đội cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa",
-        "Số người thiệt mạng có thể tăng cao hơn"
-      ],
-      "full_summary": "Côte d'Ivoire đang phải đối mặt với mùa mưa chết chóc, khiến 59 người thiệt mạng kể từ tháng 5. Bộ trưởng truyền thông Amadou Coulibaly cho biết số người thiệt mạng có thể tăng cao hơn. Ghana cũng báo cáo 13 người chết và nhiều nước khác ở Tây Phi cũng bị ảnh hưởng. Đội cứu hộ đang tìm kiếm thêm nạn nhân trong mùa mưa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f6614916474e",
-      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-05T08:44:17.471982+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hội Ludd tại New York dạy cách sống mà không cần công nghệ",
-      "bullets": [
-        "Hội Ludd tại New York hướng dẫn người tham gia sống mà không cần điện thoại thông minh",
-        "Các hoạt động tại hội bao gồm học cách nấu ăn, làm vườn và sử dụng công cụ thủ công",
-        "Hội Ludd nhắm vào việc chống lại sự phụ thuộc vào công nghệ và thúc đẩy lối sống tự nhiên"
-      ],
-      "full_summary": "Hội Ludd tại New York là một sự kiện giáo dục hướng dẫn người tham gia sống mà không cần công nghệ. Các hoạt động tại hội bao gồm học cách nấu ăn, làm vườn và sử dụng công cụ thủ công. Mục tiêu của hội là chống lại sự phụ thuộc vào công nghệ và thúc đẩy lối sống tự nhiên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "58051f4ae83e",
-      "title": "Megawatts by Microwave",
-      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-05T08:44:21.288359+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Tìm kiếm năng lượng bằng sóng vi ba",
-      "bullets": [
-        "Khám phá cách sử dụng sóng vi ba để tạo ra điện",
-        "Giải pháp năng lượng mới có thể thay thế năng lượng truyền thống",
-        "Nghiên cứu đang được thực hiện để phát triển công nghệ này"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã tìm thấy cách sử dụng sóng vi ba để tạo ra điện. Họ đã sử dụng sóng vi ba để tạo ra điện năng, có thể thay thế năng lượng truyền thống. Nghiên cứu này đang được thực hiện để phát triển công nghệ này và ứng dụng nó vào thực tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eefc5716aaf5",
-      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
-      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T02:26:50.953077+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội",
-      "bullets": [
-        "Cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội",
-        "NCA cảnh báo về nguy cơ hình ảnh con bị sử dụng để tạo nội dung lạm dụng trẻ em",
-        "Sự phát triển của công nghệ AI khiến nguy cơ này ngày càng tăng",
-        "Cha mẹ cần cẩn trọng khi chia sẻ hình ảnh con trên mạng xã hội"
-      ],
-      "full_summary": "NCA cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội vì nguy cơ hình ảnh con bị sử dụng để tạo nội dung lạm dụng trẻ em. Sự phát triển của công nghệ AI khiến nguy cơ này ngày càng tăng. Cha mẹ cần cẩn trọng khi chia sẻ hình ảnh con trên mạng xã hội để tránh những hậu quả không mong muốn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a1fd69398d1f",
-      "title": "Don't expect connected car apps to save your stolen car, experts say",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T02:26:52.062034+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ứng dụng xe tự động không thể giúp cứu xe bị trộm",
-      "bullets": [
-        "Kia từ chối sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp",
-        "Đạo luật UK cấm sử dụng chức năng này",
-        "Các ứng dụng xe tự động không thể giúp cứu xe bị trộm",
-        "Các chuyên gia cảnh báo không nên phụ thuộc vào các ứng dụng này"
-      ],
-      "full_summary": "Các chuyên gia cảnh báo không nên phụ thuộc vào các ứng dụng xe tự động để cứu xe bị trộm. Kia cho biết do luật pháp UK, họ không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp. Các ứng dụng xe tự động không thể giúp cứu xe bị trộm, vì chúng thường chỉ có thể theo dõi vị trí của xe sau khi nó đã bị trộm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ac7c919fd06a",
-      "title": "E-scooters being advertised for commuting despite UK road ban",
-      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T02:26:53.038426+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cửa hàng lớn quảng cáo xe đạp điện cho đi làm",
-      "bullets": [
-        "Quảng cáo xe đạp điện cho đi làm và đi đường phố",
-        "Cảnh sát Anh cấm sử dụng xe đạp điện trên đường",
-        "Các nhà bán lẻ lớn vẫn tiếp tục quảng cáo sản phẩm",
-        "Cơ quan báo chí Press Association thực hiện cuộc điều tra"
-      ],
-      "full_summary": "Một cuộc điều tra của Press Association phát hiện các nhà bán lẻ lớn vẫn quảng cáo xe đạp điện cho mục đích đi làm và đi đường phố, mặc dù cảnh sát Anh đã cấm sử dụng xe đạp điện trên đường. Các nhà bán lẻ lớn như Halfords và Currys PC World vẫn tiếp tục quảng cáo sản phẩm này. Điều này đã gây ra lo ngại về an toàn giao thông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a804d931ff0",
-      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T02:26:53.985383+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Khai quật thành phố Byzantine cổ đại ở sa mạc phía tây Ai Cập",
-      "bullets": [
-        "Khám phá thành phố Byzantine cổ đại ở sa mạc phía tây Ai Cập",
-        "Tìm thấy các công trình nhà ở và tôn giáo, bao gồm nhà thờ kiểu basilica",
-        "Khám phá tiền xu, mảnh vỡ đồ gốm và công cụ",
-        "Phát hiện ra chi tiết về cuộc sống hàng ngày, sự phát triển thành thị và hoạt động kinh tế"
-      ],
-      "full_summary": "Các nhà khảo cổ ở Ai Cập đã phát hiện một thành phố Byzantine cổ đại được bảo tồn tốt ở sa mạc phía tây. Các khu phố của thế kỷ 4 có các công trình nhà ở và tôn giáo, bao gồm một nhà thờ kiểu basilica ở oasi Dakhla. Các nhà khảo cổ cũng tìm thấy tiền xu, mảnh vỡ đồ gốm và công cụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88ea6b62612f",
-      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
-      "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T02:26:55.893464+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Canada quyết định xây dựng đường ống dầu mới sau cam kết 150 tỷ đô la",
-      "bullets": [
-        "Đảng chính phủ Canada và tỉnh Alberta cam kết đầu tư 150 tỷ đô la vào hai tỉnh",
-        "Đường ống dầu mới sẽ được xây dựng để mở rộng sự hiện diện của Canada trên thị trường quốc tế",
-        "Các biện pháp bảo vệ cá voi và mở rộng cảng biển được đưa vào kế hoạch",
-        "Mục tiêu là giảm phụ thuộc vào thị trường Mỹ và mở rộng xuất khẩu sang các thị trường khác"
-      ],
-      "full_summary": "Chính phủ Canada và tỉnh Alberta quyết định xây dựng đường ống dầu mới sau khi cam kết đầu tư 150 tỷ đô la vào hai tỉnh. Mục tiêu của dự án là mở rộng sự hiện diện của Canada trên thị trường quốc tế và giảm phụ thuộc vào thị trường Mỹ. Để đạt được mục tiêu này, các biện pháp bảo vệ cá voi và mở rộng cảng biển sẽ được đưa vào kế hoạch. Dự án này được kỳ vọng sẽ mang lại lợi ích kinh tế lớn cho hai tỉnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb7dc9c9edda",
-      "title": "Review: Supergirl is not the disaster its low box office suggests",
-      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-05T02:26:56.878642+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Phim Supergirl không phải là một thất bại như doanh thu thấp gợi ý",
-      "bullets": [
-        "Là một bộ phim tốt nhưng cần phải xuất sắc để thành công trong thị trường siêu anh hùng bão hòa",
-        "Phim có diễn xuất và hiệu ứng hình ảnh tốt",
-        "Cốt truyện không đủ hấp dẫn để thu hút khán giả"
-      ],
-      "full_summary": "Phim Supergirl đã nhận được nhiều ý kiến trái chiều từ khán giả và nhà phê bình. Mặc dù doanh thu thấp, nhưng nhiều người cho rằng phim không phải là một thất bại hoàn toàn. Phim có diễn xuất và hiệu ứng hình ảnh tốt, nhưng cốt truyện không đủ hấp dẫn để thu hút khán giả. Để thành công trong thị trường siêu anh hùng bão hòa, phim cần phải xuất sắc hơn.",
       "comments": 0,
       "score": 0
     }
