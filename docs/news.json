@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-06T15:17:07.330488+00:00",
+  "updated_at": "2026-07-06T19:46:18.473933+00:00",
   "articles": [
+    {
+      "id": "7a66ed55009b",
+      "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T19:46:04.089357+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Tyler Robinson bị buộc tội giết hại Charlie Kirk, người đồng minh của Trump",
+      "bullets": [
+        "Tyler Robinson bị cáo buộc giết hại Charlie Kirk",
+        "Charlie Kirk là người sáng lập tổ chức Turning Point USA",
+        "Tyler Robinson bị bắt vì tội giết hại",
+        "Kirk là người đồng minh của cựu Tổng thống Mỹ Donald Trump"
+      ],
+      "full_summary": "Tyler Robinson, 23 tuổi, bị cáo buộc giết hại Charlie Kirk, người đồng minh của cựu Tổng thống Mỹ Donald Trump và người sáng lập tổ chức Turning Point USA. Charlie Kirk là một người có ảnh hưởng lớn trong giới trẻ Mỹ. Tyler Robinson bị bắt vì tội giết hại và đang chờ xét xử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3a8770ebfd59",
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T19:46:05.131805+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tòa án Áo kết án cựu giám đốc tình báo Syria vì tra tấn và lạm dụng tình dục",
+      "bullets": [
+        "Kết án hai cựu quan chức Syria vì tội ác chống lại phe đối lập của cựu lãnh đạo Syria Bashar al-Assad",
+        "Tòa án Áo kết tội cựu giám đốc tình báo Syria về tội tra tấn và lạm dụng tình dục",
+        "Cáo trạng cáo buộc hai cựu quan chức Syria đã thực hiện các tội ác này trong thời kỳ nội chiến Syria",
+        "Hai cựu quan chức Syria đã bị bắt giữ và đưa ra xét xử tại Vienna, Áo"
+      ],
+      "full_summary": "Tòa án Áo đã kết án hai cựu quan chức Syria vì tội ác chống lại phe đối lập của cựu lãnh đạo Syria Bashar al-Assad. Cáo trạng cáo buộc hai cựu quan chức Syria đã thực hiện các tội ác này trong thời kỳ nội chiến Syria. Cựu giám đốc tình báo Syria đã bị kết tội về tội tra tấn và lạm dụng tình dục. Hai cựu quan chức Syria đã bị bắt giữ và đưa ra xét xử tại Vienna, Áo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db5363121aa5",
+      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T19:46:06.060009+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 1.000 người bị bắt trong cuộc chiến chống buôn người toàn cầu",
+      "bullets": [
+        "Bắt giữ hơn 1.000 người liên quan đến buôn người",
+        "Tìm thấy 2.070 nạn nhân hoặc nghi phạm tiềm ẩn",
+        "Hầu hết nạn nhân là phụ nữ bị buôn bán cho mục đích tình dục",
+        "Cuộc chiến chống buôn người được tiến hành trên toàn cầu"
+      ],
+      "full_summary": "Interpol cho biết cuộc chiến chống buôn người toàn cầu đã dẫn đến việc bắt giữ hơn 1.000 người. Hầu hết nạn nhân là phụ nữ bị buôn bán cho mục đích tình dục. Cuộc chiến chống buôn người được tiến hành trên toàn cầu, với sự tham gia của nhiều quốc gia. Mục tiêu của cuộc chiến này là ngăn chặn và xử lý nạn buôn người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2bdbd18a795f",
+      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T19:46:07.171643+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Microsoft giảm 4.800 nhân viên và thu hẹp Xbox",
+      "bullets": [
+        "Microsoft cắt giảm 4.800 nhân viên",
+        "Xbox bị thu hẹp mạnh mẽ",
+        "Lương giảm 2,1% tổng nhân viên Microsoft",
+        "1.600 nhân viên bị sa thải ngay lập tức"
+      ],
+      "full_summary": "Microsoft vừa công bố một cuộc tái cấu trúc lớn, cắt giảm 4.800 nhân viên, tương đương 2,1% tổng nhân viên. Trong đó, 1.600 nhân viên tại Xbox sẽ bị sa thải ngay lập tức. Điều này là một phần của nỗ lực của Microsoft nhằm giảm chi phí và tập trung vào các lĩnh vực kinh doanh quan trọng hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3bd5e51831e",
+      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T19:46:08.063943+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google bị phạt 4,1 tỷ euro vì sử dụng Android ngăn cản đối thủ",
+      "bullets": [
+        "Google bị phạt 4,1 tỷ euro vì vi phạm luật cạnh tranh",
+        "Google cho rằng quyết định này không công bằng",
+        "Google đã đầu tư lớn để giữ Android mở",
+        "Quyết định này có thể ảnh hưởng đến tương lai của Android"
+      ],
+      "full_summary": "Tòa án châu Âu vừa ra quyết định phạt Google 4,1 tỷ euro vì sử dụng Android để ngăn cản các đối thủ cạnh tranh. Theo tòa án, Google đã vi phạm luật cạnh tranh bằng cách yêu cầu các nhà sản xuất điện thoại phải cài đặt Google Play Store và các ứng dụng khác trên điện thoại Android. Google cho rằng quyết định này không công bằng và đã đầu tư lớn để giữ Android mở. Quyết định này có thể ảnh hưởng đến tương lai của Android và các nhà sản xuất điện thoại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a1fd69398d1f",
+      "title": "Don't expect connected car apps to save your stolen car, experts say",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-06T19:46:09.016898+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ứng dụng xe tự động không thể giúp cứu xe bị trộm",
+      "bullets": [
+        "Kia không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp",
+        "Luật pháp Anh cấm sử dụng chức năng này",
+        "Ứng dụng xe tự động không thể giúp cứu xe bị trộm",
+        "Người dùng không nên phụ thuộc vào ứng dụng này"
+      ],
+      "full_summary": "Kia cho biết do luật pháp Anh cấm, nên không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp. Điều này có nghĩa là ứng dụng xe tự động không thể giúp cứu xe bị trộm. Người dùng không nên phụ thuộc vào ứng dụng này để bảo vệ xe của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1cd44587c550",
+      "title": "F1 in Britain: Automated software to blame for crushing expectations",
+      "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-06T19:46:14.586479+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chất lượng phần mềm tự động gây thất vọng ở giải đua F1",
+      "bullets": [
+        "Gây thất vọng với những người hâm mộ",
+        "Phần mềm tự động bị chỉ trích vì hiệu suất kém",
+        "Racing không còn hấp dẫn như trước",
+        "Cần cải thiện chất lượng phần mềm"
+      ],
+      "full_summary": "Giải đua F1 ở Anh đã kết thúc với sự thất vọng của người hâm mộ. Chất lượng phần mềm tự động được sử dụng trong giải đua đã không đáp ứng được kỳ vọng. Điều này đã gây ra sự không hài lòng của người xem khi không có những pha đua hấp dẫn. Để giải quyết vấn đề này, cần phải cải thiện chất lượng phần mềm tự động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "338a52a90ff3",
+      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-06T19:46:16.184508+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Hệ thống tài chính Anh lo ngại cuộc đua vũ trang về AI",
+      "bullets": [
+        "Cơ quan quản lý tài chính Anh cảnh báo về cuộc đua vũ trang trong việc ứng dụng AI",
+        "Hàng triệu người sử dụng công nghệ AI để đưa ra quyết định tài chính",
+        "Cơ quan quản lý đề xuất tăng quyền lực để theo kịp sự phát triển của công nghệ",
+        "Sự phát triển của AI tạo ra thách thức lớn cho hệ thống tài chính"
+      ],
+      "full_summary": "Cơ quan quản lý tài chính Anh (FCA) cảnh báo về cuộc đua vũ trang trong việc ứng dụng trí tuệ nhân tạo (AI) trong lĩnh vực tài chính. Hàng triệu người đang sử dụng công nghệ AI để đưa ra quyết định tài chính, tạo ra thách thức lớn cho hệ thống tài chính. FCA đề xuất tăng quyền lực để theo kịp sự phát triển của công nghệ và đảm bảo an toàn cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "6a4bd4bc16da",
       "title": "Trump confirms he asked Fifa to review Balogun ban",
@@ -630,165 +790,6 @@
         "Mục tiêu của Sony là giảm thiểu lãng phí vật liệu và giảm chi phí sản xuất"
       ],
       "full_summary": "Sony đã thông báo sẽ dừng phát hành game trên đĩa từ năm 2028. Trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số. Người dùng sẽ phải tải game về máy tính bảng hoặc máy chơi game. Mục tiêu của Sony là giảm thiểu lãng phí vật liệu và giảm chi phí sản xuất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "178b917d2381",
-      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T19:05:52.682137+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Netflix Wonka show bị chỉ trích vì sử dụng AI tạo giọng nói Gene Wilder",
-      "bullets": [
-        "Sử dụng AI tạo giọng nói Gene Wilder trong phim Wonka trên Netflix",
-        "Diễn viên Gene Wilder đã qua đời năm 2016",
-        "Estate của Gene Wilder đã đồng ý cho sử dụng hình ảnh và giọng nói của ông",
-        "Phim Wonka đã nhận được phản ứng tiêu cực từ khán giả"
-      ],
-      "full_summary": "Phim Wonka trên Netflix đã bị chỉ trích vì sử dụng AI tạo giọng nói của diễn viên Gene Wilder. Mặc dù Gene Wilder đã qua đời năm 2016, nhưng estate của ông đã đồng ý cho sử dụng hình ảnh và giọng nói của ông trong phim. Tuy nhiên, nhiều khán giả đã phản ứng tiêu cực với việc sử dụng AI tạo giọng nói của Gene Wilder. Điều này đã gây ra nhiều tranh cãi trong cộng đồng người hâm mộ phim Wonka.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5b416c32ae95",
-      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-05T19:05:53.790009+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Đạn thiên thạch đã làm tan chảy lớp vỏ đầu tiên của Trái Đất",
-      "bullets": [
-        "Lớp vỏ đầu tiên của Trái Đất đã bị tan chảy do va chạm thiên thạch",
-        "Nhiệt lượng từ va chạm thiên thạch có thể đã đóng góp vào nhiệt độ cao của Hadean",
-        "Các nhà khoa học cho rằng nhiệt lượng từ bên trong Trái Đất cũng đã đóng góp vào quá trình hình thành lớp vỏ",
-        "Quá trình hình thành lớp vỏ của Trái Đất có thể đã mất 500 triệu năm"
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện ra rằng lớp vỏ đầu tiên của Trái Đất đã bị tan chảy do va chạm thiên thạch. Nhiệt lượng từ va chạm thiên thạch có thể đã đóng góp vào nhiệt độ cao của Hadean, thời kỳ hình thành Trái Đất. Các nhà khoa học cho rằng nhiệt lượng từ bên trong Trái Đất cũng đã đóng góp vào quá trình hình thành lớp vỏ. Quá trình hình thành lớp vỏ của Trái Đất có thể đã mất 500 triệu năm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "66d4ffabed27",
-      "title": "When the ability to smell goes away",
-      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-05T19:05:54.854178+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Khả năng ngửi không còn có thể ảnh hưởng đến sức khỏe não",
-      "bullets": [
-        "Thay đổi trong cảm giác này thường liên quan đến vấn đề về sức khỏe não",
-        "Nghiên cứu cho thấy khả năng ngửi có thể bị ảnh hưởng bởi tuổi tác và bệnh tật",
-        "Các vấn đề về não bộ có thể dẫn đến mất khả năng ngửi vĩnh viễn",
-        "Nghiên cứu đang được thực hiện để hiểu rõ hơn về nguyên nhân và cách điều trị"
-      ],
-      "full_summary": "Khả năng ngửi là một trong những giác quan quan trọng nhất của con người, giúp chúng ta nhận biết được mùi của các chất và cảnh báo về các nguy hiểm tiềm ẩn. Tuy nhiên, khả năng ngửi có thể bị ảnh hưởng bởi các vấn đề về sức khỏe não. Nghiên cứu cho thấy rằng khả năng ngửi có thể bị ảnh hưởng bởi tuổi tác và bệnh tật, và các vấn đề về não bộ có thể dẫn đến mất khả năng ngửi vĩnh viễn. Các nhà khoa học đang nghiên cứu để hiểu rõ hơn về nguyên nhân và cách điều trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94f5eb9c6df6",
-      "title": "Despite the darkness, I still see signs of hope in America",
-      "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-05T19:05:55.935376+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mỹ vẫn còn nhiều lý do hy vọng dù trong bóng tối",
-      "bullets": [
-        "Lập trường đa dạng và tự do vẫn còn tồn tại",
-        "Sự đa dạng về văn hóa và tôn giáo vẫn tiếp tục phát triển",
-        "Cộng đồng người Mỹ vẫn kiên cường và đoàn kết",
-        "Những đổi mới và sáng tạo vẫn tiếp tục diễn ra"
-      ],
-      "full_summary": "Mặc dù Mỹ đang đối mặt với nhiều thách thức và khó khăn, nhưng vẫn còn nhiều lý do hy vọng. Lập trường đa dạng và tự do vẫn còn tồn tại, và sự đa dạng về văn hóa và tôn giáo vẫn tiếp tục phát triển. Cộng đồng người Mỹ vẫn kiên cường và đoàn kết, và những đổi mới và sáng tạo vẫn tiếp tục diễn ra. Điều này cho thấy rằng Mỹ vẫn còn nhiều tiềm năng và cơ hội để phát triển và tiến bộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51e2771a55b5",
-      "title": "Installing A/UX 1.1 like it's the 90s",
-      "url": "https://thomasw.dev/post/aux11/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-05T19:06:00.391009+00:00",
-      "category": "technology",
-      "importance": 2,
-      "headline": "Cài đặt hệ điều hành A/UX 1.1 như thời kỳ 90s",
-      "bullets": [
-        "Cài đặt lại hệ điều hành A/UX 1.1 trên máy Mac",
-        "Tìm hiểu về quá trình cài đặt và các bước cần thiết",
-        "Khám phá các tính năng và cải tiến của hệ điều hành A/UX 1.1"
-      ],
-      "full_summary": "Một người dùng đã chia sẻ kinh nghiệm cài đặt hệ điều hành A/UX 1.1 trên máy Mac như thời kỳ 90s. Họ đã tìm hiểu về quá trình cài đặt và các bước cần thiết để cài đặt lại hệ điều hành này. Qua đó, người dùng có thể khám phá các tính năng và cải tiến của hệ điều hành A/UX 1.1.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "82513d3cc23e",
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T13:16:06.727899+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Lãnh đạo Iran vắng mặt tại lễ tang của cố lãnh đạo",
-      "bullets": [
-        "Vắng mặt Mojtaba Khamenei, con trai của cố lãnh đạo Iran",
-        "Đã có đồn đoán về tình trạng sức khỏe của Mojtaba",
-        "Lãnh đạo Iran Ali Khamenei đã qua đời",
-        "Các quan chức cấp cao Iran đã đến dự lễ tang"
-      ],
-      "full_summary": "Lãnh đạo Iran Ali Khamenei đã qua đời, nhưng con trai ông Mojtaba vắng mặt tại lễ tang. Điều này đã gây ra đồn đoán về tình trạng sức khỏe của Mojtaba. Các quan chức cấp cao Iran đã đến dự lễ tang để thể hiện sự tôn trọng đối với cố lãnh đạo. Sự vắng mặt của Mojtaba đã tạo ra sự chú ý trong cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "633ae6465e09",
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T13:16:07.742576+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn bão siêu mạnh Bavi sắp đổ bộ Guam, người dân được sơ tán",
-      "bullets": [
-        "Người dân Guam được sơ tán vì cơn bão siêu mạnh Bavi đang tiến gần",
-        "Cơn bão dự kiến mang gió mạnh hơn 260 km/h và sóng nước cao gần 11m",
-        "Bavi dự kiến đổ bộ Guam vào thứ Hai",
-        "Các nhà chức trách đang chuẩn bị ứng phó với cơn bão"
-      ],
-      "full_summary": "Cơn bão siêu mạnh Bavi đang tiến gần đến Guam, khiến người dân địa phương phải sơ tán. Cơn bão dự kiến mang gió mạnh hơn 260 km/h và sóng nước cao gần 11m. Các nhà chức trách đang chuẩn bị ứng phó với cơn bão, dự kiến đổ bộ vào thứ Hai. Người dân được yêu cầu sơ tán để đảm bảo an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53a690265082",
-      "title": "Australia probes mystery space balls that washed up on beach",
-      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T13:16:09.011591+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Hai mươi mốt mảnh vật thể vũ trụ bất ngờ xuất hiện trên bãi biển Queensland",
-      "bullets": [
-        "Các quan chức đang tìm kiếm nguồn gốc của sáu mảnh vật thể vũ trụ trên bãi biển Forrest",
-        "Vật thể này được phát hiện trên bãi biển Queensland, Australia",
-        "Các chuyên gia đang phân tích mẫu vật để xác định nguồn gốc của chúng",
-        "Nghiên cứu đang được tiến hành để hiểu rõ hơn về hiện tượng này"
-      ],
-      "full_summary": "Các quan chức Australia đang điều tra nguồn gốc của sáu mảnh vật thể vũ trụ bất ngờ xuất hiện trên bãi biển Forrest ở Queensland. Các mảnh vật thể này được phát hiện vào ngày 20 tháng 6 và đang được phân tích để xác định nguồn gốc của chúng. Các chuyên gia đang nghiên cứu mẫu vật để hiểu rõ hơn về hiện tượng này và tìm kiếm nguồn gốc của chúng.",
       "comments": 0,
       "score": 0
     }
