@@ -1,6 +1,143 @@
 {
-  "updated_at": "2026-07-06T19:46:18.473933+00:00",
+  "updated_at": "2026-07-07T02:26:59.260119+00:00",
   "articles": [
+    {
+      "id": "8eb99da2c614",
+      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T02:26:44.376599+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Zelensky kêu gọi Nato cung cấp hệ thống phòng không mạnh mẽ hơn",
+      "bullets": [
+        "Zelensky sẽ yêu cầu Nato cung cấp thêm tên lửa đánh chặn",
+        "Nato họp tại Thổ Nhĩ Kỳ để thảo luận về hỗ trợ Ukraine",
+        "Ukraine cần hệ thống phòng không mạnh mẽ hơn để đối phó với các cuộc tấn công của Nga",
+        "Zelensky hy vọng Nato sẽ đáp ứng yêu cầu của Ukraine"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky sẽ sử dụng cuộc họp Nato tại Thổ Nhĩ Kỳ để yêu cầu cung cấp thêm tên lửa đánh chặn để tăng cường hệ thống phòng không của Ukraine. Ông Zelensky cho biết Ukraine cần hệ thống phòng không mạnh mẽ hơn để đối phó với các cuộc tấn công của Nga. Nato đang thảo luận về hỗ trợ Ukraine trong cuộc chiến chống lại Nga.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5579b5d63a56",
+      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T02:26:45.430711+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "BBC phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tại Ukraine",
+      "bullets": [
+        "Báo BBC phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tù nhân tại Ukraine",
+        "Cựu tù nhân tố cáo các tù trưởng và quan chức này đã hành hạ họ trong thời gian giam giữ",
+        "Các cựu tù nhân muốn thấy các tù trưởng và quan chức này bị đưa ra xét xử",
+        "BBC đã phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tại Ukraine"
+      ],
+      "full_summary": "Báo BBC vừa phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tù nhân tại Ukraine. Các cựu tù nhân tố cáo các tù trưởng và quan chức này đã hành hạ họ trong thời gian giam giữ. Các cựu tù nhân muốn thấy các tù trưởng và quan chức này bị đưa ra xét xử. Điều này đã gây ra sự phẫn nộ trong dư luận quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8d0ed89830fe",
+      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T02:26:46.453308+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran muốn gửi thông điệp với tang lễ của Khamenei",
+      "bullets": [
+        "Iran tổ chức 3 ngày tang lễ công khai ở Tehran",
+        "Lãnh đạo Iran muốn thế giới thấy tang lễ này như một sự kiện chính trị",
+        "Tang lễ có thể là một cách để Iran thể hiện sự đoàn kết và sức mạnh",
+        "Tang lễ cũng có thể là một cách để Iran trả thù cho những người ủng hộ Khamenei"
+      ],
+      "full_summary": "Iran tổ chức 3 ngày tang lễ công khai ở Tehran để tưởng nhớ lãnh đạo Ali Khamenei. Lãnh đạo Iran muốn thế giới thấy tang lễ này như một sự kiện chính trị. Tang lễ có thể là một cách để Iran thể hiện sự đoàn kết và sức mạnh, nhưng cũng có thể là một cách để Iran trả thù cho những người ủng hộ Khamenei. Điều này cho thấy Iran đang cố gắng gửi thông điệp mạnh mẽ về tương lai của đất nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e8add58ad65c",
+      "title": "Robots available for rent: But what can they do?",
+      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T02:26:47.486031+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy robot có thể được thuê để thực hiện nhiều nhiệm vụ",
+      "bullets": [
+        "Cung cấp dịch vụ cho thuê máy robot để tiết kiệm chi phí",
+        "Robot có thể được sử dụng để thực hiện các nhiệm vụ như dọn dẹp, vận chuyển hàng hóa",
+        "Công nghệ robot đang phát triển nhanh chóng, tạo cơ hội cho việc cho thuê robot"
+      ],
+      "full_summary": "Công nghệ robot đang thay đổi nhanh chóng, vì vậy cho thuê một robot có thể là một lựa chọn hợp lý. Các công ty đang cung cấp dịch vụ cho thuê robot để giúp các doanh nghiệp tiết kiệm chi phí. Máy robot có thể được sử dụng để thực hiện các nhiệm vụ như dọn dẹp, vận chuyển hàng hóa, và nhiều nhiệm vụ khác. Điều này giúp các doanh nghiệp giảm thiểu chi phí và tăng hiệu quả công việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a804d931ff0",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T02:26:48.466938+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Khai quật thành phố Byzantine cổ xưa ở sa mạc phía tây Ai Cập",
+      "bullets": [
+        "Khám phá được khu dân cư Byzantine thế kỷ 4 với các công trình nhà ở và tôn giáo",
+        "Tìm thấy các đồng tiền, mảnh gốm và công cụ",
+        "Thành phố Byzantine cổ xưa cho thấy chi tiết về sinh hoạt hàng ngày, phát triển đô thị và hoạt động kinh tế"
+      ],
+      "full_summary": "Các nhà khảo cổ ở Ai Cập đã phát hiện một thành phố Byzantine cổ xưa ở sa mạc phía tây, với các khu dân cư thế kỷ 4 có các công trình nhà ở và tôn giáo. Khu vực này bao gồm một nhà thờ kiểu basilica và các công trình khác. Các nhà khảo cổ cũng tìm thấy các đồng tiền, mảnh gốm và công cụ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ec0885fc6867",
+      "title": "Overseas education project for women and girls axed by UK after two years",
+      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T02:26:49.442454+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chương trình giáo dục nước ngoài cho phụ nữ và trẻ em gái bị hủy bỏ bởi Anh sau 2 năm",
+      "bullets": [
+        "Bị hủy bỏ vì cắt giảm viện trợ",
+        "Chương trình SHEFE có ngân sách 45 triệu bảng",
+        "Mục tiêu tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới"
+      ],
+      "full_summary": "Chương trình giáo dục nước ngoài Strengthening higher education for female empowerment (SHEFE) của Anh đã bị hủy bỏ sau 2 năm hoạt động. Chương trình này có ngân sách 45 triệu bảng để tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới. Chương trình đã bị hủy bỏ vì cắt giảm viện trợ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e7107b8bf421",
+      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+      "url": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-07T02:26:54.661525+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Katalyst đang truy đuổi vệ tinh Swift của NASA",
+      "bullets": [
+        "Đang tiến hành một nhiệm vụ cứu hộ vệ tinh Link",
+        "Katalyst sẽ gặp gỡ Swift trong vài tuần tới",
+        "Link sẽ gặp Swift để thực hiện một nhiệm vụ quan trọng",
+        "Nhiệm vụ này sẽ mang lại nhiều thông tin về vũ trụ"
+      ],
+      "full_summary": "Katalyst đang tiến hành một nhiệm vụ cứu hộ vệ tinh Link để gặp gỡ vệ tinh Swift của NASA. Nhiệm vụ này sẽ mất vài tuần để hoàn thành. Khi Link gặp Swift, cả hai sẽ thực hiện một nhiệm vụ quan trọng để mang lại nhiều thông tin về vũ trụ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7a66ed55009b",
       "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
@@ -651,145 +788,6 @@
         "khẳng định Haiti là một quốc gia thất bại"
       ],
       "full_summary": "Hạ nghị sĩ Carlos Giménez, một người Cuba sinh ra ở Miami, đã phản đối quyết định của tòa án cao cấp về việc cắt bỏ tình trạng bảo vệ tạm thời (TPS) cho người Haiti. Ông cho rằng việc trục xuất 350.000 người Haiti về quê hương sẽ là một sai lầm nghiêm trọng. Giménez đã kêu gọi White House xem xét lại quyết định này, lo ngại về tình hình an ninh và kinh tế ở Haiti, quốc gia mà ông cho là một quốc gia thất bại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "613d987eebfa",
-      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
-      "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T02:31:12.394003+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Sự kiện động đất gần như hủy diệt World Cup 1986 tại Mexico",
-      "bullets": [
-        "Động đất mạnh xảy ra tại Mexico City",
-        "Tổng số người chết còn tranh cãi, từ 5.000 đến 40.000",
-        "Trận động đất gần như hủy diệt World Cup 1986",
-        "Mexico cuối cùng vẫn tổ chức thành công giải đấu"
-      ],
-      "full_summary": "Năm 1986, Mexico đã tổ chức World Cup nhưng sự kiện động đất mạnh xảy ra vài tháng trước đó đã khiến giải đấu gần như bị hủy diệt. Động đất đã khiến ít nhất 5.000 người chết, 30.000 người vô gia cư và nhiều khu vực của Mexico City bị phá hủy. Mặc dù vậy, Mexico vẫn quyết định tổ chức World Cup và giải đấu đã thành công sau đó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dab0fc6f9f93",
-      "title": "Has_not_been_viewed_much",
-      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-06T02:31:16.187135+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Tác giả chia sẻ kinh nghiệm viết blog thành công",
-      "bullets": [
-        "Viết về chủ đề mà bạn yêu thích",
-        "Tạo nội dung hấp dẫn và hữu ích",
-        "Kết nối với độc giả thông qua bình luận",
-        "Cập nhật nội dung thường xuyên"
-      ],
-      "full_summary": "Tác giả Will Wang chia sẻ kinh nghiệm viết blog thành công trên Hacker News. Ông cho biết cách viết về chủ đề mà bạn yêu thích, tạo nội dung hấp dẫn và hữu ích, kết nối với độc giả thông qua bình luận và cập nhật nội dung thường xuyên. Bài viết đã nhận được 86 điểm và 22 bình luận trên Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c51689b592e6",
-      "title": "Neutrino’s nursery found: the ‘Shadow Blaster’",
-      "url": "https://www.nature.com/articles/d41586-026-02034-1",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-06T02:31:20.665930+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tìm thấy nơi sinh ra hạt neutrino",
-      "bullets": [
-        "Khám phá ra nguồn gốc của hạt neutrino tại cực Nam Cực",
-        "Hạt neutrino được sinh ra trong thiên hà tạo sao khi vũ trụ còn non",
-        "Kết quả nghiên cứu có thể giúp hiểu rõ hơn về lịch sử vũ trụ",
-        "Nghiên cứu được công bố trên tạp chí khoa học Nature"
-      ],
-      "full_summary": "Các nhà khoa học đã tìm thấy nơi sinh ra hạt neutrino tại cực Nam Cực. Hạt neutrino được sinh ra trong thiên hà tạo sao khi vũ trụ còn non, khoảng 13 tỷ năm trước. Kết quả nghiên cứu này có thể giúp hiểu rõ hơn về lịch sử vũ trụ và cách nó hình thành. Nghiên cứu được công bố trên tạp chí khoa học Nature.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2b5b8ceb0b43",
-      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-      "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T19:05:48.587703+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Khách mời nổi tiếng chia sẻ về hôn lễ của Taylor và Travis",
-      "bullets": [
-        "Chia sẻ về ngày cưới của họ trên mạng xã hội",
-        "Khách mời nổi tiếng đang bình luận về hôn lễ",
-        "Hôn lễ của họ được tổ chức tại New York",
-        "Khách mời đang chia sẻ cảm xúc về hôn lễ"
-      ],
-      "full_summary": "Một số khách mời nổi tiếng đã chia sẻ về hôn lễ của Taylor và Travis trên mạng xã hội. Họ đang bình luận về ngày cưới của họ và chia sẻ cảm xúc về hôn lễ. Hôn lễ của họ được tổ chức tại New York và đã thu hút sự chú ý của nhiều người. Khách mời đang chia sẻ về những khoảnh khắc đáng nhớ của hôn lễ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6d85c9a2edd3",
-      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
-      "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T19:05:49.558098+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hàng ngàn người chào đón cầu thủ bóng đá Cape Verde sau hành trình World Cup ấn tượng",
-      "bullets": [
-        "Hàng chục nghìn người tập trung bên ngoài sân bay ở thủ đô Praia",
-        "Cầu thủ Cape Verde đã gây ấn tượng với sự tiến bộ đáng kể trong giải đấu",
-        "Đội bóng đã vượt qua nhiều đội mạnh trong suốt World Cup",
-        "Sự ủng hộ của người hâm mộ đã giúp đội bóng Cape Verde đạt được thành tựu đáng kể"
-      ],
-      "full_summary": "Hàng ngàn người đã đến sân bay ở thủ đô Praia để chào đón đội bóng Cape Verde sau khi họ tham gia World Cup. Sự ủng hộ của người hâm mộ đã giúp đội bóng đạt được thành tựu đáng kể. Cầu thủ Cape Verde đã gây ấn tượng với sự tiến bộ đáng kể trong giải đấu và đã vượt qua nhiều đội mạnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "44bf46b8f721",
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T19:05:50.517479+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nghiên cứu viên AI cho rằng AI không thông minh như mọi người nghĩ",
-      "bullets": [
-        "Yan LeCun đang phát triển một hệ thống AI linh hoạt hơn",
-        "Hệ thống AI mới sẽ giúp giải quyết các vấn đề phức tạp hơn",
-        "Cơ hội mới cho AI trong các lĩnh vực như y tế và tài chính"
-      ],
-      "full_summary": "Yan LeCun, một trong những nhà nghiên cứu AI hàng đầu, đã cho biết AI không thông minh như mọi người nghĩ. Ông đang phát triển một hệ thống AI linh hoạt hơn để giải quyết các vấn đề phức tạp hơn. Hệ thống này sẽ giúp AI có thể học hỏi và thích nghi với các tình huống mới. Điều này có thể mở ra cơ hội mới cho AI trong các lĩnh vực như y tế và tài chính.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "167dee44f23a",
-      "title": "PlayStation will stop releasing games on discs in 2028",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-05T19:05:51.721506+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Sony sẽ dừng phát hành game trên đĩa từ năm 2028",
-      "bullets": [
-        "Sony sẽ dừng sản xuất game trên đĩa từ năm 2028",
-        "Trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số",
-        "Người dùng sẽ phải tải game về máy tính bảng hoặc máy chơi game",
-        "Mục tiêu của Sony là giảm thiểu lãng phí vật liệu và giảm chi phí sản xuất"
-      ],
-      "full_summary": "Sony đã thông báo sẽ dừng phát hành game trên đĩa từ năm 2028. Trò chơi tương lai sẽ được bán trong các cửa hàng nhưng chỉ có mã số kỹ thuật số. Người dùng sẽ phải tải game về máy tính bảng hoặc máy chơi game. Mục tiêu của Sony là giảm thiểu lãng phí vật liệu và giảm chi phí sản xuất.",
       "comments": 0,
       "score": 0
     }
