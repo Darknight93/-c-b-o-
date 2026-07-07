@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-07T09:29:20.415655+00:00",
+  "updated_at": "2026-07-07T14:13:17.535992+00:00",
   "articles": [
+    {
+      "id": "e3fa9a9f94e4",
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T14:13:02.907354+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một phụ nữ nghi ngờ liên quan đến vụ nổ ở Monaco đã chết tại Ukraine",
+      "bullets": [
+        "Cảnh sát đã tìm kiếm Anastasiia Berezovska sau vụ nổ làm bị thương một triệu phú Ukraine",
+        "Bà đã được xác định là nghi phạm trong vụ tấn công ở Monaco",
+        "Cơ quan chức năng Ukraine đã tìm kiếm bà ở Ukraine",
+        "Bà đã được tìm thấy chết tại Ukraine"
+      ],
+      "full_summary": "Cảnh sát đã tìm kiếm Anastasiia Berezovska sau vụ nổ làm bị thương một triệu phú Ukraine. Bà được xác định là nghi phạm trong vụ tấn công ở Monaco. Cơ quan chức năng Ukraine đã tìm kiếm bà ở Ukraine và cuối cùng đã tìm thấy bà chết. Vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c9d65ae21e41",
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T14:13:03.720212+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cầu thủ bóng đá Zimbabwe bị tấn công súng ở Nam Phi",
+      "bullets": [
+        "Cảnh sát Nam Phi đang điều tra vụ tấn công",
+        "Không có nghi phạm nào bị bắt giữ",
+        "Cầu thủ Zimbabwe đang được chăm sóc y tế",
+        "Cảnh sát đang điều tra nguyên nhân vụ tấn công"
+      ],
+      "full_summary": "Cầu thủ bóng đá Zimbabwe bị tấn công súng ở Nam Phi. Cảnh sát Nam Phi đang điều tra vụ tấn công và không có nghi phạm nào bị bắt giữ. Cầu thủ Zimbabwe đang được chăm sóc y tế. Cảnh sát đang điều tra nguyên nhân vụ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4d204b06fc31",
+      "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+      "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T14:13:04.980369+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ấn Độ điều chỉnh ban quản lý đền thờ Ram sau nghi ngờ trộm tiền và tài sản",
+      "bullets": [
+        "Đề nghị điều tra nghi ngờ trộm tiền và tài sản từ đền thờ Ram ở Ấn Độ",
+        "Ban quản lý đền thờ Ram thay đổi nhân sự sau cáo buộc trộm tiền và tài sản",
+        "Đề nghị điều tra các cáo buộc trộm tiền và tài sản từ đền thờ Ram",
+        "Đền thờ Ram ở Ấn Độ bị nghi ngờ trộm tiền và tài sản từ các đợt quyên góp"
+      ],
+      "full_summary": "Đền thờ Ram ở Ấn Độ đã thay đổi ban quản lý sau cáo buộc trộm tiền và tài sản từ các đợt quyên góp. Các cáo buộc này bao gồm việc trộm tiền, trang sức quý giá, vàng và bạc được các tín đồ quyên góp. Đền thờ Ram đã trở thành một điểm đến nổi tiếng ở Ấn Độ và các đợt quyên góp thường rất lớn. Việc thay đổi ban quản lý được coi là một bước đi cần thiết để đảm bảo tính minh bạch và trách nhiệm trong quản lý tài sản của đền thờ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49e14c473389",
+      "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T14:13:05.883349+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Elon Musk gây tranh cãi khi cắt giảm chương trình chống Ebola của USAID",
+      "bullets": [
+        "Cắt giảm chương trình chống Ebola của USAID gây khó khăn cho phản ứng chống dịch",
+        "Số lượng tử vong tăng đáng kể do thiếu nguồn lực",
+        "Elon Musk bị chỉ trích vì tập trung vào USAID thay vì các vấn đề của công ty",
+        "Sự cố của Elon Musk gây chú ý về vấn đề nguồn lực chống dịch"
+      ],
+      "full_summary": "Elon Musk đã gây tranh cãi khi cắt giảm chương trình chống Ebola của USAID. Theo các chuyên gia, những cắt giảm này đã gây khó khăn cho phản ứng chống dịch và dẫn đến số lượng tử vong tăng đáng kể. Sự cố của Elon Musk đã gây chú ý về vấn đề nguồn lực chống dịch và đặt câu hỏi về tương lai của chương trình chống Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40185c0bac4d",
+      "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+      "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T14:13:06.926031+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội chọi Bengal ở Cuba mừng sinh 4 con tighep",
+      "bullets": [
+        "Sinh 4 con tighep Bengal, trong đó có một con tighep trắng hiếm gặp",
+        "Cứu vớt tinh thần nhân viên trong bối cảnh thiếu nhiên liệu, thuốc men và mất điện",
+        "Hội chọi Bengal là một dấu hiệu hy vọng cho công viên động vật quốc gia Cuba",
+        "Bốn con tighep Bengal đang chơi đùa trong lồng tại công viên động vật quốc gia Cuba"
+      ],
+      "full_summary": "Công viên động vật quốc gia Cuba mừng sinh 4 con tighep Bengal, trong đó có một con tighep trắng hiếm gặp. Sự kiện này đã giúp nhân viên công viên động vật quốc gia Cuba cảm thấy phấn khích trong bối cảnh thiếu nhiên liệu, thuốc men và mất điện. Ángel Cordero, một nhân viên công viên động vật quốc gia Cuba, cho biết sự ra đời của bốn con tighep Bengal đã mang lại hy vọng cho công viên động vật quốc gia Cuba.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dee21fa4e3b3",
+      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+      "url": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-07T14:13:08.071178+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "ULA Atlas V chỉ còn khả năng phóng Starliner",
+      "bullets": [
+        "Phát triển thành công sau nhiều năm",
+        "Đóng vai trò quan trọng trong chương trình Starliner",
+        "Chờ đợi Starliner để hoàn tất sứ mệnh cuối cùng",
+        "Không thể phóng các vệ tinh khác"
+      ],
+      "full_summary": "ULA Atlas V đã có một sự nghiệp thành công sau nhiều năm hoạt động. Tuy nhiên, trong những tháng gần đây, nó chỉ còn khả năng phóng Starliner. Amazon đã tuyên bố rằng họ đã có đủ vệ tinh trong quỹ đạo để bắt đầu cung cấp dịch vụ băng thông rộng ban đầu ở giữa vĩ độ vào cuối năm nay. Mặc dù vậy, ULA Atlas V vẫn đang chờ đợi Starliner để hoàn tất sứ mệnh cuối cùng của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e889a1b735a8",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-07T14:13:14.248015+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ứng dụng StreetComplete giúp sửa lỗi bản đồ OpenStreetMap",
+      "bullets": [
+        "Sửa lỗi bản đồ OpenStreetMap",
+        "Tạo một cộng đồng để sửa lỗi",
+        "Sử dụng ứng dụng di động để thu thập dữ liệu",
+        "Cung cấp thông tin chính xác cho các ứng dụng bản đồ"
+      ],
+      "full_summary": "Ứng dụng StreetComplete là một ứng dụng di động giúp sửa lỗi bản đồ OpenStreetMap. Nó cho phép người dùng tạo một cộng đồng để sửa lỗi và sử dụng ứng dụng di động để thu thập dữ liệu. Thông tin thu thập được sẽ được sử dụng để cung cấp thông tin chính xác cho các ứng dụng bản đồ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "55ee8db8278e",
+      "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+      "url": "https://www.nature.com/articles/s41586-026-10882-0",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-07T14:13:17.035843+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một máy tính lượng tử 98-qubit mới đạt được kết nối toàn diện",
+      "bullets": [
+        "Xây dựng thành công máy tính lượng tử 98-qubit",
+        "Máy tính có kết nối toàn diện cho phép tính toán nhanh hơn",
+        "Sự phát triển này mở ra tiềm năng mới cho lĩnh vực khoa học",
+        "Máy tính sẽ được sử dụng để giải quyết các vấn đề phức tạp"
+      ],
+      "full_summary": "Một nhóm nghiên cứu đã thành công trong việc xây dựng máy tính lượng tử 98-qubit mới với kết nối toàn diện. Máy tính này có thể tính toán nhanh hơn và hiệu quả hơn so với các máy tính lượng tử hiện có. Sự phát triển này mở ra tiềm năng mới cho lĩnh vực khoa học và sẽ được sử dụng để giải quyết các vấn đề phức tạp. Máy tính lượng tử mới này sẽ giúp đẩy nhanh quá trình nghiên cứu và phát triển trong lĩnh vực khoa học.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0bf7fda96ff7",
       "title": "Macron safe after explosions in Syrian capital during French president's visit",
@@ -632,164 +792,6 @@
         "Xbox không công bố thời gian cụ thể cho cập nhật này"
       ],
       "full_summary": "Xbox đã công bố kế hoạch cập nhật tính năng reset máy chơi game. Tính năng này cho phép người dùng dễ dàng reset máy khi gặp lỗi, giúp cải thiện trải nghiệm người dùng. Cập nhật này sẽ giúp người dùng tiết kiệm thời gian và giảm thiểu sự cố. Tuy nhiên, Xbox không công bố thời gian cụ thể cho cập nhật này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dd505c30fcef",
-      "title": "Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T10:02:08.926276+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Ukraine cảnh báo thiếu hụt tên lửa phòng thủ sau tấn công của Nga",
-      "bullets": [
-        "Ukraine cảnh báo thiếu hụt tên lửa phòng thủ",
-        "Tấn công của Nga gây thiệt hại nặng nề ở khu vực Kyiv",
-        "Tổng thống Zelensky xác nhận 68 tên lửa và 351 máy bay không người lái đã tấn công",
-        "14 người đã thiệt mạng trong vụ tấn công"
-      ],
-      "full_summary": "Tổng thống Ukraine Volodymyr Zelensky cảnh báo về tình trạng thiếu hụt tên lửa phòng thủ sau khi Nga thực hiện một cuộc tấn công lớn vào Kyiv. Theo ông Zelensky, cuộc tấn công đã sử dụng 68 tên lửa và 351 máy bay không người lái. 14 người đã thiệt mạng trong vụ tấn công. Đây là một trong những cuộc tấn công lớn nhất của Nga vào Ukraine trong thời gian gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8e9b982e9f9d",
-      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T10:02:09.899612+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Trẻ em Venezuela bị kẹt dưới đổ nát sau động đất",
-      "bullets": [
-        "Động đất mạnh khiến một tòa nhà 10 tầng đổ sập",
-        "Cô bé Fabiana bị kẹt trong 32 giờ",
-        "Cô bé ăn ketchup và phô mai trong lúc bị kẹt",
-        "Cô được cứu sau khi cứu hộ"
-      ],
-      "full_summary": "Một trận động đất mạnh đã khiến một tòa nhà 10 tầng ở Venezuela đổ sập. Cô bé Fabiana bị kẹt dưới đổ nát trong 32 giờ. Trong lúc chờ cứu hộ, cô ăn ketchup và phô mai để duy trì sức khỏe. Cuối cùng, cô được cứu sau khi cứu hộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "be706524bd27",
-      "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T10:02:10.784215+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Máy bay Delta bị nổ súng pháo khi hạ cánh ở Chicago",
-      "bullets": [
-        "Bị nổ súng pháo khi hạ cánh",
-        "Không có thương vong",
-        "Có 52 hành khách và 6 thành viên phi hành đoàn",
-        "Máy bay hạ cánh an toàn"
-      ],
-      "full_summary": "Một chiếc máy bay Delta đã bị nổ súng pháo khi hạ cánh ở sân bay O'Hare ở Chicago. Theo BBC, không có thương vong nào được báo cáo. Máy bay có 52 hành khách và 6 thành viên phi hành đoàn trên board. Vụ việc đã được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ea12998b5d22",
-      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T10:02:11.938996+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Sudan: Các máy bay không người lái tấn công thành phố bị bao vây",
-      "bullets": [
-        "Các máy bay không người lái đã tấn công các trường học và trạm xăng ở El Obeid",
-        "Hơn 20 người đã thiệt mạng trong các vụ tấn công này",
-        "Các nhân viên cứu trợ nói rằng tình hình ở El Obeid rất khủng khiếp"
-      ],
-      "full_summary": "Thành phố El Obeid ở Sudan đang trở thành tâm điểm của cuộc chiến giữa quân đội Sudan và lực lượng RSF. Các máy bay không người lái đã tấn công thành phố này nhiều lần, gây ra thương vong cho nhiều người dân. Các nhân viên cứu trợ nói rằng tình hình ở El Obeid rất khủng khiếp và họ đang cố gắng cung cấp hỗ trợ cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "03304c53c376",
-      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T10:02:13.107839+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch Modi nhận nhiều giải thưởng khi đi công du nước ngoài",
-      "bullets": [
-        "Nhận giải thưởng 'Guardian of the Blue Horizon' tại Seychelles",
-        "Được trao nhiều giải thưởng trong các chuyến công du nước ngoài",
-        "Cộng hòa Seychelles trao giải thưởng cao nhất cho Thủ tướng Modi",
-        "Modi nhận nhiều giải thưởng trong lịch sử các chuyến công du nước ngoài"
-      ],
-      "full_summary": "Chủ tịch Ấn Độ Narendra Modi đã nhận nhiều giải thưởng trong các chuyến công du nước ngoài. Tại Seychelles, ông đã nhận giải thưởng 'Guardian of the Blue Horizon' từ Tổng thống Patrick Herminie. Đây không phải là lần đầu tiên Modi nhận được giải thưởng trong các chuyến công du nước ngoài. Ông đã nhận được nhiều giải thưởng khác nhau trong lịch sử các chuyến công du nước ngoài.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "324cea258dab",
-      "title": "A martian rock has lots of carbon on it, and it's not clear why",
-      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-06T10:02:14.023171+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nhiều cacbon được tìm thấy trên đá Mặt Trăng, lý do không rõ",
-      "bullets": [
-        "Tìm thấy nhiều cacbon trên đá Mặt Trăng trong một nghiên cứu mới",
-        "Học giả cho rằng sinh học có thể giải thích phát hiện này",
-        "Tuy nhiên, có nhiều giả thuyết khác để giải thích sự hiện diện của cacbon"
-      ],
-      "full_summary": "Một nhóm nghiên cứu mới đã tìm thấy nhiều cacbon trên đá Mặt Trăng. Học giả cho rằng sinh học có thể giải thích phát hiện này, nhưng cũng có nhiều giả thuyết khác để giải thích sự hiện diện của cacbon. Các giả thuyết khác bao gồm sự hình thành đá Mặt Trăng từ các nguồn khác nhau và quá trình hóa học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9c171ea26c87",
-      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-06T10:02:14.920599+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Rocket Lab sắp nhận 3 hợp đồng phóng tên lửa từ NASA",
-      "bullets": [
-        "NASA đã trao cho Rocket Lab 3 hợp đồng phóng tên lửa Electron",
-        "Các phóng tên lửa này sẽ được thực hiện trong tương lai",
-        "Động thái này thể hiện sự tin tưởng của NASA vào công nghệ của Rocket Lab",
-        "Rocket Lab đang tiến gần đến mục tiêu phóng tên lửa đầu tiên"
-      ],
-      "full_summary": "NASA vừa trao cho Rocket Lab 3 hợp đồng phóng tên lửa Electron. Các hợp đồng này sẽ giúp Rocket Lab tiến gần đến mục tiêu phóng tên lửa đầu tiên. Điều này thể hiện sự tin tưởng của NASA vào công nghệ của Rocket Lab. Trong khi đó, SpaceX cũng đạt được một số thành tựu đáng kể.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a021e8109101",
-      "title": "When AI Costs More Than the Engineer",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-06T10:02:15.991008+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "AI chi phí cao hơn kỹ sư: Khi nào sẽ cân bằng?",
-      "bullets": [
-        "Năm 2029, chi phí AI có thể bằng với chi phí kỹ sư",
-        "Các công ty đang chi tiền lớn cho AI nhưng chưa thấy hiệu quả rõ ràng",
-        "Tỷ lệ chi phí hiệu suất (ROI) của AI đang thấp hơn so với kỳ vọng",
-        "Cần có thời gian để AI phát triển và trở nên hiệu quả hơn"
-      ],
-      "full_summary": "Một bài viết trên Hacker News cho thấy chi phí cho AI đang cao hơn so với chi phí cho kỹ sư. Theo dự đoán, đến năm 2029, chi phí cho AI sẽ bằng với chi phí cho kỹ sư. Tuy nhiên, hiện tại, các công ty đang chi tiền lớn cho AI nhưng chưa thấy hiệu quả rõ ràng. Tỷ lệ chi phí hiệu suất (ROI) của AI đang thấp hơn so với kỳ vọng.",
       "comments": 0,
       "score": 0
     }
