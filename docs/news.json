@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-07-07T02:26:59.260119+00:00",
+  "updated_at": "2026-07-07T09:29:20.415655+00:00",
   "articles": [
+    {
+      "id": "0bf7fda96ff7",
+      "title": "Macron safe after explosions in Syrian capital during French president's visit",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T09:29:06.193005+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nổ súng tại Syria trong chuyến thăm của Tổng thống Pháp Macron",
+      "bullets": [
+        "Nổ súng xảy ra tại thủ đô Syria",
+        "Tổng thống Pháp Emmanuel Macron an toàn",
+        "Tổng thống Syria chào đón Macron tại cung điện",
+        "Cảnh sát đang điều tra nguyên nhân vụ nổ"
+      ],
+      "full_summary": "Trong chuyến thăm Syria, Tổng thống Pháp Emmanuel Macron đã chứng kiến vụ nổ súng tại thủ đô Damascus. Theo báo cáo, Tổng thống Syria đã chào đón Macron tại cung điện. Cảnh sát đang điều tra nguyên nhân vụ nổ. Macron được xác nhận là an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1b74cb89d555",
+      "title": "Watch: Moment rare tornado lashes central Chinese cities",
+      "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T09:29:07.044133+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cơn bão xoáy bất thường tràn qua các thành phố Trung Quốc",
+      "bullets": [
+        "Sweep qua Ezhou và Huanggang ở tỉnh Hubei",
+        "Debris bay lượn trong không khí",
+        "Cơn bão gây thiệt hại nghiêm trọng",
+        "Video ghi lại khoảnh khắc bất thường"
+      ],
+      "full_summary": "Một cơn bão xoáy bất thường đã tràn qua các thành phố Ezhou và Huanggang ở tỉnh Hubei, Trung Quốc. Các video được chia sẻ với BBC cho thấy các mảnh vỡ bay lượn trong không khí. Cơn bão đã gây thiệt hại nghiêm trọng và các video ghi lại khoảnh khắc bất thường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "44bf46b8f721",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T09:29:07.953832+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chuyên gia AI cho rằng AI hiện tại không thông minh",
+      "bullets": [
+        "Yan LeCun đang phát triển một hệ thống AI linh hoạt hơn",
+        "Hệ thống mới sẽ có khả năng thích nghi và tự học hỏi",
+        "Mục tiêu là tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp",
+        "Chuyên gia này đang cố gắng khắc phục hạn chế của AI hiện tại"
+      ],
+      "full_summary": "Chuyên gia AI nổi tiếng Yan LeCun đang phát triển một hệ thống AI mới có khả năng linh hoạt hơn. Ông đang cố gắng khắc phục hạn chế của AI hiện tại, bao gồm khả năng thích nghi và tự học hỏi. Hệ thống mới này sẽ có khả năng giải quyết nhiều vấn đề phức tạp. Mục tiêu của ông là tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp và linh hoạt hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "167dee44f23a",
+      "title": "PlayStation will stop releasing games on discs in 2028",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T09:29:08.799009+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "PlayStation sẽ dừng phát hành game trên đĩa từ năm 2028",
+      "bullets": [
+        "PlayStation sẽ ngừng phát hành game trên đĩa từ năm 2028",
+        "Các game tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật",
+        "Người dùng sẽ nhận được mã số kỹ thuật để tải game về thiết bị",
+        "Đây là bước tiếp theo trong quá trình chuyển đổi sang game kỹ thuật số"
+      ],
+      "full_summary": "PlayStation đã công bố sẽ ngừng phát hành game trên đĩa từ năm 2028. Thay vào đó, các game tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật. Người dùng sẽ nhận được mã số kỹ thuật để tải game về thiết bị của mình. Đây là bước tiếp theo trong quá trình chuyển đổi sang game kỹ thuật số.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6fc30878cfd6",
+      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+      "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T09:29:09.937159+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai trăm kg cocaine bị bắt giữ tại Liberia",
+      "bullets": [
+        "Cơ quan chức năng Liberia bắt giữ 5 nghi phạm liên quan đến vụ buôn lậu cocaine",
+        "Hàng hóa chứa cocaine được giả mạo là sản phẩm gia vị Maggi",
+        "Tổng trị giá của cocaine bị bắt giữ ước tính 19 triệu USD",
+        "Cocaine được phát hiện tại sân bay quốc tế Monrovia vào ngày 8 tháng 6"
+      ],
+      "full_summary": "Cơ quan chức năng Liberia đã bắt giữ 5 nghi phạm liên quan đến vụ buôn lậu cocaine lớn nhất trong lịch sử nước này. Hàng hóa chứa cocaine được giả mạo là sản phẩm gia vị Maggi và được phát hiện tại sân bay quốc tế Monrovia vào ngày 8 tháng 6. Tổng trị giá của cocaine bị bắt giữ ước tính 19 triệu USD. Các nghi phạm đã bị bắt giữ và đang chờ xét xử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8bf49cdd4157",
+      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T09:29:10.973738+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Cuba trải qua sự cố điện lưới quốc gia lần thứ ba trong 6 tháng",
+      "bullets": [
+        "Cuba bị ảnh hưởng bởi sự cố điện lưới quốc gia lần thứ ba kể từ đầu năm",
+        "Chính phủ Mỹ áp đặt phong tỏa dầu mỏ vào tháng 1 đã làm cạn kiệt nguồn nhiên liệu cho nhà máy điện",
+        "Đảo nghèo khổ này đã gặp khó khăn trong việc duy trì ánh sáng trước khi Mỹ áp đặt phong tỏa",
+        "Sự cố điện lưới quốc gia đã ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Cuba"
+      ],
+      "full_summary": "Cuba đã trải qua sự cố điện lưới quốc gia lần thứ ba kể từ đầu năm. Sự cố này đã ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Cuba. Đảo nghèo khổ này đã gặp khó khăn trong việc duy trì ánh sáng trước khi Mỹ áp đặt phong tỏa dầu mỏ vào tháng 1. Sự cố điện lưới quốc gia đã làm cạn kiệt nguồn nhiên liệu cho nhà máy điện, khiến cho việc duy trì ánh sáng trở nên khó khăn hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cce1e7e45a43",
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-07T09:29:11.891288+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Canada chọn Đức xây 12 tàu ngầm hiện đại",
+      "bullets": [
+        "Canada đã chọn một liên doanh Đức để xây dựng 12 tàu ngầm hiện đại",
+        "Đó là một hợp đồng quân sự lớn nhất của Canada",
+        "Hợp đồng sẽ tăng cường quan hệ của Canada với NATO",
+        "Tàu ngầm sẽ được sản xuất bởi TKMS, một công ty của Đức"
+      ],
+      "full_summary": "Canada đã chọn một liên doanh Đức để xây dựng 12 tàu ngầm hiện đại để thay thế hạm đội tàu ngầm đang được sửa chữa. Đây là một hợp đồng quân sự lớn nhất của Canada. Hợp đồng này sẽ tăng cường quan hệ của Canada với NATO trước một hội nghị quan trọng diễn ra vào tuần này. Liên doanh Đức sẽ sản xuất tàu ngầm này thông qua TKMS.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "750014e021ba",
+      "title": "What is the oldest American object ever launched into space?",
+      "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-07T09:29:14.478282+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Cờ Mỹ từ thời Cách mạng đã bay vào vũ trụ",
+      "bullets": [
+        "Được phóng vào năm 2026, một vật thể từ thời Cách mạng Mỹ đã bay vào vũ trụ.",
+        "Cờ Mỹ từ thời Cách mạng là một trong những vật thể cổ nhất được phóng vào vũ trụ.",
+        "Báo cáo từ Ars Technica đã tiết lộ thông tin về vật thể này.",
+        "Vật thể này đã trở thành một phần của lịch sử không gian Mỹ."
+      ],
+      "full_summary": "Một vật thể từ thời Cách mạng Mỹ đã được phóng vào vũ trụ vào năm 2026. Cờ Mỹ từ thời Cách mạng là một trong những vật thể cổ nhất được phóng vào vũ trụ. Theo báo cáo từ Ars Technica, vật thể này đã trở thành một phần của lịch sử không gian Mỹ. Điều này đã thu hút sự chú ý của nhiều người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a2cdbe84689",
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-07T09:29:19.339176+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Người dùng có thể tự lập trình DNA tại nhà",
+      "bullets": [
+        "Tự lập trình DNA giúp người dùng hiểu rõ hơn về bản thân",
+        "Phương pháp này cho phép người dùng kiểm soát dữ liệu gen của mình",
+        "Cần có thiết bị và kỹ năng chuyên môn để thực hiện",
+        "Giá thành có thể cao hơn so với các phương pháp khác"
+      ],
+      "full_summary": "Người dùng có thể tự lập trình DNA tại nhà bằng cách sử dụng các công nghệ mới và thiết bị chuyên dụng. Phương pháp này cho phép người dùng hiểu rõ hơn về bản thân và kiểm soát dữ liệu gen của mình. Tuy nhiên, cần có thiết bị và kỹ năng chuyên môn để thực hiện và giá thành có thể cao hơn so với các phương pháp khác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8eb99da2c614",
       "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
@@ -610,184 +790,6 @@
         "Cần có thời gian để AI phát triển và trở nên hiệu quả hơn"
       ],
       "full_summary": "Một bài viết trên Hacker News cho thấy chi phí cho AI đang cao hơn so với chi phí cho kỹ sư. Theo dự đoán, đến năm 2029, chi phí cho AI sẽ bằng với chi phí cho kỹ sư. Tuy nhiên, hiện tại, các công ty đang chi tiền lớn cho AI nhưng chưa thấy hiệu quả rõ ràng. Tỷ lệ chi phí hiệu suất (ROI) của AI đang thấp hơn so với kỳ vọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "291793de7f75",
-      "title": "Generate parametric, manufacturable 3D models in seconds",
-      "url": "https://kyrall.com/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-06T10:02:16.901892+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Tạo mô hình 3D có thể sản xuất trong vài giây",
-      "bullets": [
-        "Tạo mô hình 3D có thể sản xuất trong vài giây",
-        "Kyrall cung cấp công cụ tạo mô hình 3D nhanh chóng",
-        "Mô hình có thể được sử dụng trong nhiều ứng dụng",
-        "Công cụ này có thể thay đổi cách tạo mô hình 3D"
-      ],
-      "full_summary": "Kyrall là một công cụ mới giúp tạo mô hình 3D có thể sản xuất trong vài giây. Công cụ này cho phép người dùng tạo mô hình 3D nhanh chóng và dễ dàng. Mô hình có thể được sử dụng trong nhiều ứng dụng, bao gồm thiết kế sản phẩm, kiến trúc và nghệ thuật. Công cụ này có thể thay đổi cách tạo mô hình 3D và mang lại nhiều lợi ích cho người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f239eb7a5b18",
-      "title": "The Sneakerweb",
-      "url": "https://sneakerweb.org/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-06T10:02:18.355330+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Một trang web mới dành cho người yêu thích giày thể thao",
-      "bullets": [
-        "Báo cáo về các loại giày thể thao mới nhất trên thị trường",
-        "Cung cấp thông tin chi tiết về giá cả và thời gian ra mắt",
-        "Cho phép người dùng thảo luận và chia sẻ ý kiến về các loại giày thể thao"
-      ],
-      "full_summary": "Trang web Sneakerweb là một nền tảng mới dành cho người yêu thích giày thể thao. Trang web này cung cấp thông tin chi tiết về các loại giày thể thao mới nhất trên thị trường, bao gồm giá cả và thời gian ra mắt. Người dùng có thể thảo luận và chia sẻ ý kiến về các loại giày thể thao trên trang web này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe40c8015528",
-      "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
-      "url": "https://www.nature.com/articles/s41586-026-10854-4",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-06T10:02:23.205277+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Học giả sửa lỗi trong nghiên cứu tạo ra các hợp chất có tính đối xứng cao",
-      "bullets": [
-        "Cập nhật phương pháp tạo ra các hợp chất có tính đối xứng cao",
-        "Sửa lỗi trong nghiên cứu về quá trình tạo ra các hợp chất có tính đối xứng cao",
-        "Học giả sử dụng phương pháp sinh học để tạo ra các hợp chất có tính đối xứng cao",
-        "Nghiên cứu được công bố trên tạp chí Nature"
-      ],
-      "full_summary": "Một nhóm học giả đã công bố sửa lỗi trong nghiên cứu về quá trình tạo ra các hợp chất có tính đối xứng cao bằng phương pháp sinh học. Phương pháp này cho phép tạo ra các hợp chất có tính đối xứng cao một cách hiệu quả. Nghiên cứu được công bố trên tạp chí Nature và có thể mang lại những đóng góp quan trọng cho lĩnh vực hóa học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8739b66eb3bf",
-      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T02:31:06.686525+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "BBC đưa tin: Lyse Doucet tường trình từ Tehran về lễ tang cựu lãnh đạo Iran",
-      "bullets": [
-        "Bà Lyse Doucet tường trình từ Tehran về lễ tang cựu lãnh đạo Iran Ayatollah Ali Khamenei",
-        "Lễ tang được tổ chức để vinh danh cựu lãnh đạo Iran",
-        "BBC đưa tin từ Tehran về lễ tang cựu lãnh đạo Iran",
-        "Lễ tang của cựu lãnh đạo Iran đang được tổ chức tại Tehran"
-      ],
-      "full_summary": "Bà Lyse Doucet, phóng viên quốc tế của BBC, đã đưa tin từ Tehran về lễ tang cựu lãnh đạo Iran Ayatollah Ali Khamenei. Lễ tang đang được tổ chức để vinh danh cựu lãnh đạo Iran. Bà Doucet đã tường trình về lễ tang và các sự kiện liên quan. Lễ tang của cựu lãnh đạo Iran đang được tổ chức tại Tehran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3a48f61f800a",
-      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T02:31:07.591552+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Marine Le Pen sẽ biết có thể tranh cử tổng thống Pháp năm 2027 hay không",
-      "bullets": [
-        "Marine Le Pen, lãnh đạo Đảng Liên minh Quốc gia, dẫn đầu các cuộc thăm dò ý kiến trước cuộc bầu cử tổng thống Pháp năm 2027",
-        "Bà sẽ biết có thể đứng ra tranh cử hay không sau khi xét xử kháng cáo",
-        "Kết quả này sẽ ảnh hưởng đến tương lai chính trị của bà"
-      ],
-      "full_summary": "Marine Le Pen, lãnh đạo Đảng Liên minh Quốc gia của Pháp, đang dẫn đầu các cuộc thăm dò ý kiến trước cuộc bầu cử tổng thống Pháp năm 2027. Bà sẽ biết có thể đứng ra tranh cử hay không sau khi xét xử kháng cáo. Kết quả này sẽ ảnh hưởng đến tương lai chính trị của bà và có thể thay đổi cục diện bầu cử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cae73af654ee",
-      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T02:31:08.501551+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Việt Nam rầm rập đàn áp thị trường đen giả mạo",
-      "bullets": [
-        "Việt Nam bị yêu cầu dẹp bỏ ngành công nghiệp giả mạo đang bùng nổ",
-        "Nhiều người dân chia rẽ về vấn đề này",
-        "Chính phủ Việt Nam đang nỗ lực cracking down thị trường đen",
-        "Sự tồn tại của thị trường đen gây ra lo ngại về an ninh và kinh tế"
-      ],
-      "full_summary": "Chính phủ Mỹ đã yêu cầu Việt Nam dẹp bỏ ngành công nghiệp giả mạo đang bùng nổ. Thị trường đen giả mạo ở Việt Nam đã trở thành một trung tâm toàn cầu, gây ra lo ngại về an ninh và kinh tế. Nhiều người dân ở Việt Nam đang chia rẽ về vấn đề này. Chính phủ Việt Nam đang nỗ lực cracking down thị trường đen.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9b72a946dc95",
-      "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-      "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T02:31:09.442088+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chủ tịch Úc xin lỗi vì bình luận không phù hợp về Kylie Minogue",
-      "bullets": [
-        "Chủ tịch Úc xin lỗi vì bình luận không phù hợp về Kylie Minogue",
-        "Bình luận của Albanese gây ra làn sóng phản ứng",
-        "Albanese xin lỗi 'không có điều gì để tranh cãi'",
-        "Bình luận gây tranh cãi về Kylie Minogue"
-      ],
-      "full_summary": "Chủ tịch Úc Anthony Albanese xin lỗi vì bình luận không phù hợp về ca sĩ Kylie Minogue. Bình luận của Albanese gây ra làn sóng phản ứng và Albanese sau đó xin lỗi 'không có điều gì để tranh cãi'. Đây là một trong những sự cố gây tranh cãi gần đây của Albanese.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f23a2f4d4cc",
-      "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
-      "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T02:31:10.510432+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Chủ tịch Venezuela biện minh cho phản ứng khẩn cấp sau động đất",
-      "bullets": [
-        "Báo động xã hội không xảy ra",
-        "Căng thẳng gia tăng do phản ứng chậm chạp của chính phủ",
-        "Hàng ngàn người thiệt mạng sau cơn động đất",
-        "Chính phủ Venezuela kêu gọi sự giúp đỡ quốc tế"
-      ],
-      "full_summary": "Chủ tịch lâm thời Venezuela, Rodríguez, đã biện minh cho phản ứng khẩn cấp sau cơn động đất mạnh xảy ra vào ngày 24 tháng 6. Mặc dù nhiều người Venezuela đã bày tỏ sự phẫn nộ trước phản ứng chậm chạp của chính phủ, nhưng Rodríguez tin rằng nước này sẽ không rơi vào tình trạng bất ổn xã hội. Tuy nhiên, hàng ngàn người đã thiệt mạng và nhiều người khác bị thương sau cơn động đất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd9d7165aff5",
-      "title": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
-      "url": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T02:31:11.464143+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạ nghị sĩ Florida phản đối trục xuất người Haiti",
-      "bullets": [
-        "phản đối quyết định của tòa án cao cấp",
-        "kêu gọi White House xem xét lại",
-        "lo ngại về tình hình an ninh ở Haiti",
-        "khẳng định Haiti là một quốc gia thất bại"
-      ],
-      "full_summary": "Hạ nghị sĩ Carlos Giménez, một người Cuba sinh ra ở Miami, đã phản đối quyết định của tòa án cao cấp về việc cắt bỏ tình trạng bảo vệ tạm thời (TPS) cho người Haiti. Ông cho rằng việc trục xuất 350.000 người Haiti về quê hương sẽ là một sai lầm nghiêm trọng. Giménez đã kêu gọi White House xem xét lại quyết định này, lo ngại về tình hình an ninh và kinh tế ở Haiti, quốc gia mà ông cho là một quốc gia thất bại.",
       "comments": 0,
       "score": 0
     }
