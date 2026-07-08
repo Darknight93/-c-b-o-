@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-07T19:45:28.736991+00:00",
+  "updated_at": "2026-07-08T02:01:23.113014+00:00",
   "articles": [
+    {
+      "id": "2283a6764feb",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T02:01:08.011979+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ thực hiện vụ tấn công Iran sau khi tàu bị đánh chìm ở eo biển Hormuz",
+      "bullets": [
+        "Mỹ tuyên bố tấn công nhằm gây 'chi phí nặng nề'",
+        "Iran cảnh báo sẽ 'xử lý quyết liệt'",
+        "Tàu dầu bị tấn công ở eo biển Hormuz",
+        "Mỹ và Iran có thể bước vào cuộc chiến"
+      ],
+      "full_summary": "Mỹ đã thực hiện vụ tấn công quân sự vào Iran sau khi hai tàu dầu bị đánh chìm ở eo biển Hormuz. Mỹ tuyên bố tấn công nhằm gây 'chi phí nặng nề' cho Iran. Iran đã cảnh báo sẽ 'xử lý quyết liệt' và có thể bước vào cuộc chiến. Sự kiện này đã gây ra lo ngại về sự leo thang căng thẳng giữa Mỹ và Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "92e1112d69a6",
+      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+      "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T02:01:08.942794+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tyler Robinson bị nghi ngờ giết nhà hoạt động bảo thủ Charlie Kirk",
+      "bullets": [
+        "Bị cáo Tyler Robinson sẽ được xét xử hay không tại phiên tòa sơ thẩm",
+        "Mới có video mới được trình chiếu tại phiên tòa sơ thẩm",
+        "Video cho thấy một người đàn ông trên nóc nhà gần hiện trường vụ bắn",
+        "Tyler Robinson bị cáo buộc giết nhà hoạt động bảo thủ Charlie Kirk"
+      ],
+      "full_summary": "Phiên tòa sơ thẩm sẽ quyết định liệu bị cáo Tyler Robinson có phải đứng trước tòa để xét xử hay không. Mới có video mới được trình chiếu tại phiên tòa sơ thẩm, cho thấy một người đàn ông trên nóc nhà gần hiện trường vụ bắn. Video này có thể liên quan đến vụ án. Tyler Robinson bị cáo buộc giết nhà hoạt động bảo thủ Charlie Kirk.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eefc5716aaf5",
+      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T02:01:10.143897+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cha mẹ cảnh báo không chia sẻ hình ảnh con trên mạng xã hội",
+      "bullets": [
+        "Cảnh báo về nguy cơ hình ảnh con bị sử dụng tạo nội dung lạm dụng trẻ em",
+        "NCA cho biết nguy cơ này đang gia tăng",
+        "Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con trên mạng xã hội",
+        "Sử dụng công nghệ AI để tạo ra nội dung lạm dụng trẻ em"
+      ],
+      "full_summary": "NCA cảnh báo cha mẹ không nên chia sẻ hình ảnh con trên mạng xã hội vì nguy cơ hình ảnh con bị sử dụng tạo nội dung lạm dụng trẻ em đang gia tăng. Điều này có thể được thực hiện thông qua công nghệ AI. Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con và nên cân nhắc kỹ trước khi đăng tải.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bc00ccdb8b1e",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T02:01:11.086476+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta đặt mức giới hạn cho tính năng trong kính thông minh",
+      "bullets": [
+        "Meta giới hạn sử dụng tính năng tăng âm thanh trong kính thông minh",
+        "Người dùng chỉ được sử dụng tính năng này miễn phí trong 3 giờ",
+        "Sau đó, họ phải trả phí để tiếp tục sử dụng tính năng này",
+        "Tính năng này được tích hợp sẵn trong kính thông minh của Meta"
+      ],
+      "full_summary": "Meta đã thông báo sẽ giới hạn sử dụng tính năng tăng âm thanh trong kính thông minh của họ. Người dùng chỉ được sử dụng tính năng này miễn phí trong 3 giờ. Sau đó, họ phải trả phí để tiếp tục sử dụng tính năng này. Tính năng này được tích hợp sẵn trong kính thông minh của Meta.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ea12998b5d22",
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T02:01:12.028510+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Cơ quan nhân đạo lên án cuộc tấn công bằng máy bay không người lái ở Sudan",
+      "bullets": [
+        "Các máy bay không người lái đã tấn công trường học và trạm xăng ở El Obeid",
+        "Hơn 20 người đã thiệt mạng, bao gồm cả học sinh",
+        "Các cuộc tấn công đã trở nên tần suất hơn trong vài tháng qua"
+      ],
+      "full_summary": "Các nhân viên cứu trợ ở El Obeid, Sudan, đã mô tả tình hình là 'khủng khiếp' sau khi các máy bay không người lái tấn công thành phố này. Các cuộc tấn công đã gây ra thương vong nghiêm trọng, bao gồm cả trường học và trạm xăng. Các nhân viên cứu trợ lo ngại về tình hình an toàn của họ và người dân địa phương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0948fe9835cf",
+      "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T02:01:13.402738+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tổng công tố Pháp điều tra vụ xâm hại chủng tộc đối với Kylian Mbappé",
+      "bullets": [
+        "Tổng công tố Pháp mở cuộc điều tra vụ xâm hại chủng tộc đối với Kylian Mbappé",
+        "Thượng nghị sĩ Paraguay có thể bị buộc tội sau khi Liên đoàn bóng đá Pháp khiếu nại về các bài đăng trên mạng xã hội",
+        "Tổng công tố Paris đã mở cuộc điều tra sau khi Liên đoàn bóng đá Pháp khiếu nại với đơn vị quốc gia chống lại các loại tin đồn trên mạng xã hội",
+        "Các quan chức đang cân nhắc xem có nên yêu cầu thượng nghị sĩ bị buộc tội xúc phạm công chúng hoặc kích động hận thù hoặc bạo lực hay không"
+      ],
+      "full_summary": "Tổng công tố Pháp đã mở một cuộc điều tra về vụ xâm hại chủng tộc đối với Kylian Mbappé do thượng nghị sĩ Paraguay gây ra. Liên đoàn bóng đá Pháp đã khiếu nại với Tổng công tố Paris sau khi thượng nghị sĩ này đăng các bài đăng có chứa ngôn ngữ phân biệt chủng tộc trên mạng xã hội. Các quan chức đang cân nhắc xem có nên buộc tội thượng nghị sĩ này về tội xúc phạm công chúng hoặc kích động hận thù hoặc bạo lực hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a65a88f5b079",
+      "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+      "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-08T02:01:14.271424+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Michigan gặp bùng phát dịch ký sinh trùng gây tiêu chảy",
+      "bullets": [
+        "Cơ quan chức năng đang điều tra nguyên nhân gây ra dịch",
+        "Hơn 700 trường hợp đã được báo cáo",
+        "Số lượng bệnh nhân tăng nhanh chóng",
+        "Chính quyền đang tìm kiếm nguồn gốc chung"
+      ],
+      "full_summary": "Michigan đang trải qua một vụ bùng phát dịch ký sinh trùng gây tiêu chảy lớn, với hơn 700 trường hợp được báo cáo. Số lượng bệnh nhân tăng nhanh chóng và cơ quan chức năng đang điều tra nguyên nhân gây ra dịch. Chính quyền đang tìm kiếm nguồn gốc chung để ngăn chặn sự lây lan của dịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8b3c996982ec",
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-08T02:01:15.273992+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Nhu cầu năng lượng của trung tâm dữ liệu đe dọa kế hoạch 'Sản xuất tại Mỹ' của Trump",
+      "bullets": [
+        "Tăng trưởng năng lượng của trung tâm dữ liệu gây áp lực lên hóa đơn điện của khu vực Bắc Mỹ",
+        "Chi phí năng lượng tăng cao đe dọa kế hoạch sản xuất của Trump",
+        "Kế hoạch 'Sản xuất tại Mỹ' của Trump gặp khó khăn do nhu cầu năng lượng của trung tâm dữ liệu",
+        "Nhu cầu năng lượng của trung tâm dữ liệu gây khó khăn cho các nhà sản xuất Mỹ"
+      ],
+      "full_summary": "Kế hoạch 'Sản xuất tại Mỹ' của cựu Tổng thống Trump đang gặp khó khăn do nhu cầu năng lượng của trung tâm dữ liệu tăng cao. Nhu cầu năng lượng của trung tâm dữ liệu đang gây áp lực lên hóa đơn điện của khu vực Bắc Mỹ, khiến chi phí năng lượng tăng cao. Điều này đe dọa kế hoạch sản xuất của Trump, vốn nhằm mục đích thúc đẩy sản xuất trong nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "185196dd5d77",
+      "title": "An interactive explorer for Benford's Law across real datasets",
+      "url": "https://vatsalbakshi.com/blog/benfords-law/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-08T02:01:20.278235+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nghiên cứu mới về luật Benford giúp phân tích dữ liệu thực tế",
+      "bullets": [
+        "Tạo ra một công cụ tương tác để khám phá luật Benford trên các tập dữ liệu thực tế",
+        "Phân tích dữ liệu theo luật Benford giúp phát hiện các dấu hiệu bất thường",
+        "Công cụ này cho phép người dùng tương tác và khám phá dữ liệu theo nhiều cách khác nhau"
+      ],
+      "full_summary": "Một nghiên cứu mới đã được công bố về luật Benford, một nguyên tắc toán học giúp phân tích dữ liệu thực tế. Công cụ tương tác mới này cho phép người dùng khám phá luật Benford trên các tập dữ liệu thực tế, giúp phát hiện các dấu hiệu bất thường và phân tích dữ liệu theo nhiều cách khác nhau.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "59d825c12ba9",
       "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
@@ -614,186 +792,6 @@
         "Mục tiêu tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới"
       ],
       "full_summary": "Chương trình giáo dục nước ngoài Strengthening higher education for female empowerment (SHEFE) của Anh đã bị hủy bỏ sau 2 năm hoạt động. Chương trình này có ngân sách 45 triệu bảng để tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới. Chương trình đã bị hủy bỏ vì cắt giảm viện trợ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e7107b8bf421",
-      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-      "url": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-07T02:26:54.661525+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Katalyst đang truy đuổi vệ tinh Swift của NASA",
-      "bullets": [
-        "Đang tiến hành một nhiệm vụ cứu hộ vệ tinh Link",
-        "Katalyst sẽ gặp gỡ Swift trong vài tuần tới",
-        "Link sẽ gặp Swift để thực hiện một nhiệm vụ quan trọng",
-        "Nhiệm vụ này sẽ mang lại nhiều thông tin về vũ trụ"
-      ],
-      "full_summary": "Katalyst đang tiến hành một nhiệm vụ cứu hộ vệ tinh Link để gặp gỡ vệ tinh Swift của NASA. Nhiệm vụ này sẽ mất vài tuần để hoàn thành. Khi Link gặp Swift, cả hai sẽ thực hiện một nhiệm vụ quan trọng để mang lại nhiều thông tin về vũ trụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7a66ed55009b",
-      "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T19:46:04.089357+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tyler Robinson bị buộc tội giết hại Charlie Kirk, người đồng minh của Trump",
-      "bullets": [
-        "Tyler Robinson bị cáo buộc giết hại Charlie Kirk",
-        "Charlie Kirk là người sáng lập tổ chức Turning Point USA",
-        "Tyler Robinson bị bắt vì tội giết hại",
-        "Kirk là người đồng minh của cựu Tổng thống Mỹ Donald Trump"
-      ],
-      "full_summary": "Tyler Robinson, 23 tuổi, bị cáo buộc giết hại Charlie Kirk, người đồng minh của cựu Tổng thống Mỹ Donald Trump và người sáng lập tổ chức Turning Point USA. Charlie Kirk là một người có ảnh hưởng lớn trong giới trẻ Mỹ. Tyler Robinson bị bắt vì tội giết hại và đang chờ xét xử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3a8770ebfd59",
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T19:46:05.131805+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tòa án Áo kết án cựu giám đốc tình báo Syria vì tra tấn và lạm dụng tình dục",
-      "bullets": [
-        "Kết án hai cựu quan chức Syria vì tội ác chống lại phe đối lập của cựu lãnh đạo Syria Bashar al-Assad",
-        "Tòa án Áo kết tội cựu giám đốc tình báo Syria về tội tra tấn và lạm dụng tình dục",
-        "Cáo trạng cáo buộc hai cựu quan chức Syria đã thực hiện các tội ác này trong thời kỳ nội chiến Syria",
-        "Hai cựu quan chức Syria đã bị bắt giữ và đưa ra xét xử tại Vienna, Áo"
-      ],
-      "full_summary": "Tòa án Áo đã kết án hai cựu quan chức Syria vì tội ác chống lại phe đối lập của cựu lãnh đạo Syria Bashar al-Assad. Cáo trạng cáo buộc hai cựu quan chức Syria đã thực hiện các tội ác này trong thời kỳ nội chiến Syria. Cựu giám đốc tình báo Syria đã bị kết tội về tội tra tấn và lạm dụng tình dục. Hai cựu quan chức Syria đã bị bắt giữ và đưa ra xét xử tại Vienna, Áo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "db5363121aa5",
-      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T19:46:06.060009+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 1.000 người bị bắt trong cuộc chiến chống buôn người toàn cầu",
-      "bullets": [
-        "Bắt giữ hơn 1.000 người liên quan đến buôn người",
-        "Tìm thấy 2.070 nạn nhân hoặc nghi phạm tiềm ẩn",
-        "Hầu hết nạn nhân là phụ nữ bị buôn bán cho mục đích tình dục",
-        "Cuộc chiến chống buôn người được tiến hành trên toàn cầu"
-      ],
-      "full_summary": "Interpol cho biết cuộc chiến chống buôn người toàn cầu đã dẫn đến việc bắt giữ hơn 1.000 người. Hầu hết nạn nhân là phụ nữ bị buôn bán cho mục đích tình dục. Cuộc chiến chống buôn người được tiến hành trên toàn cầu, với sự tham gia của nhiều quốc gia. Mục tiêu của cuộc chiến này là ngăn chặn và xử lý nạn buôn người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bdbd18a795f",
-      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T19:46:07.171643+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Microsoft giảm 4.800 nhân viên và thu hẹp Xbox",
-      "bullets": [
-        "Microsoft cắt giảm 4.800 nhân viên",
-        "Xbox bị thu hẹp mạnh mẽ",
-        "Lương giảm 2,1% tổng nhân viên Microsoft",
-        "1.600 nhân viên bị sa thải ngay lập tức"
-      ],
-      "full_summary": "Microsoft vừa công bố một cuộc tái cấu trúc lớn, cắt giảm 4.800 nhân viên, tương đương 2,1% tổng nhân viên. Trong đó, 1.600 nhân viên tại Xbox sẽ bị sa thải ngay lập tức. Điều này là một phần của nỗ lực của Microsoft nhằm giảm chi phí và tập trung vào các lĩnh vực kinh doanh quan trọng hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3bd5e51831e",
-      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T19:46:08.063943+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google bị phạt 4,1 tỷ euro vì sử dụng Android ngăn cản đối thủ",
-      "bullets": [
-        "Google bị phạt 4,1 tỷ euro vì vi phạm luật cạnh tranh",
-        "Google cho rằng quyết định này không công bằng",
-        "Google đã đầu tư lớn để giữ Android mở",
-        "Quyết định này có thể ảnh hưởng đến tương lai của Android"
-      ],
-      "full_summary": "Tòa án châu Âu vừa ra quyết định phạt Google 4,1 tỷ euro vì sử dụng Android để ngăn cản các đối thủ cạnh tranh. Theo tòa án, Google đã vi phạm luật cạnh tranh bằng cách yêu cầu các nhà sản xuất điện thoại phải cài đặt Google Play Store và các ứng dụng khác trên điện thoại Android. Google cho rằng quyết định này không công bằng và đã đầu tư lớn để giữ Android mở. Quyết định này có thể ảnh hưởng đến tương lai của Android và các nhà sản xuất điện thoại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a1fd69398d1f",
-      "title": "Don't expect connected car apps to save your stolen car, experts say",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-06T19:46:09.016898+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ứng dụng xe tự động không thể giúp cứu xe bị trộm",
-      "bullets": [
-        "Kia không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp",
-        "Luật pháp Anh cấm sử dụng chức năng này",
-        "Ứng dụng xe tự động không thể giúp cứu xe bị trộm",
-        "Người dùng không nên phụ thuộc vào ứng dụng này"
-      ],
-      "full_summary": "Kia cho biết do luật pháp Anh cấm, nên không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp. Điều này có nghĩa là ứng dụng xe tự động không thể giúp cứu xe bị trộm. Người dùng không nên phụ thuộc vào ứng dụng này để bảo vệ xe của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1cd44587c550",
-      "title": "F1 in Britain: Automated software to blame for crushing expectations",
-      "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-06T19:46:14.586479+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chất lượng phần mềm tự động gây thất vọng ở giải đua F1",
-      "bullets": [
-        "Gây thất vọng với những người hâm mộ",
-        "Phần mềm tự động bị chỉ trích vì hiệu suất kém",
-        "Racing không còn hấp dẫn như trước",
-        "Cần cải thiện chất lượng phần mềm"
-      ],
-      "full_summary": "Giải đua F1 ở Anh đã kết thúc với sự thất vọng của người hâm mộ. Chất lượng phần mềm tự động được sử dụng trong giải đua đã không đáp ứng được kỳ vọng. Điều này đã gây ra sự không hài lòng của người xem khi không có những pha đua hấp dẫn. Để giải quyết vấn đề này, cần phải cải thiện chất lượng phần mềm tự động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "338a52a90ff3",
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-06T19:46:16.184508+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Hệ thống tài chính Anh lo ngại cuộc đua vũ trang về AI",
-      "bullets": [
-        "Cơ quan quản lý tài chính Anh cảnh báo về cuộc đua vũ trang trong việc ứng dụng AI",
-        "Hàng triệu người sử dụng công nghệ AI để đưa ra quyết định tài chính",
-        "Cơ quan quản lý đề xuất tăng quyền lực để theo kịp sự phát triển của công nghệ",
-        "Sự phát triển của AI tạo ra thách thức lớn cho hệ thống tài chính"
-      ],
-      "full_summary": "Cơ quan quản lý tài chính Anh (FCA) cảnh báo về cuộc đua vũ trang trong việc ứng dụng trí tuệ nhân tạo (AI) trong lĩnh vực tài chính. Hàng triệu người đang sử dụng công nghệ AI để đưa ra quyết định tài chính, tạo ra thách thức lớn cho hệ thống tài chính. FCA đề xuất tăng quyền lực để theo kịp sự phát triển của công nghệ và đảm bảo an toàn cho người dân.",
       "comments": 0,
       "score": 0
     }
