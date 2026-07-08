@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-07-08T08:13:36.286173+00:00",
+  "updated_at": "2026-07-08T13:47:26.000393+00:00",
   "articles": [
+    {
+      "id": "a70bb9fec726",
+      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T13:47:11.287353+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump tuyên bố ngừng bắn với Iran đã kết thúc",
+      "bullets": [
+        "Trump tuyên bố ngừng bắn với Iran đã kết thúc",
+        "Hai bên đã trao đổi các cuộc tấn công quân sự",
+        "Thủ tướng Iran cho biết nước này sẽ không tham gia các cuộc đàm phán",
+        "Ngoại trưởng Mỹ nói rằng Mỹ vẫn sẵn sàng đàm phán"
+      ],
+      "full_summary": "Trước cuộc họp Nato, Tổng thống Trump tuyên bố ngừng bắn với Iran đã kết thúc. Ông nói rằng các nhà đàm phán Mỹ vẫn sẵn sàng tiếp tục đàm phán với Iran nếu họ muốn. Tuy nhiên, Thủ tướng Iran đã tuyên bố nước này sẽ không tham gia các cuộc đàm phán. Hai bên đã trao đổi các cuộc tấn công quân sự trong thời gian gần đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "88081d314cc8",
+      "title": "US strikes target Iranian military boats",
+      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T13:47:12.505710+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ tấn công tàu chiến Iran sau vụ tấn công tàu chở dầu",
+      "bullets": [
+        "Mỹ đã thực hiện vụ tấn công nhằm vào tàu chiến Iran",
+        "Vụ tấn công này là đáp trả cho các vụ tấn công vào ba tàu chở dầu tại eo biển Hormuz",
+        "Các tàu chở dầu bị tấn công đã bị hư hỏng nghiêm trọng",
+        "Mỹ đang tăng cường hiện diện quân sự tại khu vực Vịnh Ba Tư"
+      ],
+      "full_summary": "Mỹ đã thực hiện vụ tấn công nhằm vào tàu chiến Iran sau khi các tàu chở dầu bị tấn công tại eo biển Hormuz. Vụ tấn công này nhằm đáp trả các vụ tấn công vào ba tàu chở dầu. Các tàu chở dầu bị tấn công đã bị hư hỏng nghiêm trọng. Mỹ đang tăng cường hiện diện quân sự tại khu vực Vịnh Ba Tư để ngăn chặn các vụ tấn công tương tự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7c10da8c9cb2",
+      "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T13:47:13.398064+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Nigeria yêu cầu điều tra cơ quan giả mạo trong văn phòng",
+      "bullets": [
+        "Tổng thống Nigeria yêu cầu điều tra cơ quan giả mạo",
+        "Adeniyi Adeyemi bị cáo buộc tạo ra giấy tờ giả mạo",
+        "Cơ quan giả mạo được tài trợ mà chính phủ không biết",
+        "Tổng thống yêu cầu tìm hiểu sự thật"
+      ],
+      "full_summary": "Tổng thống Nigeria đã yêu cầu điều tra về việc một cơ quan giả mạo được thành lập trong văn phòng của ông. Theo báo cáo, Adeniyi Adeyemi đã tạo ra một giấy tờ giả mạo về việc bổ nhiệm và nhận được tài trợ cho cơ quan này mà chính phủ không biết. Tổng thống yêu cầu tìm hiểu sự thật và làm rõ việc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e8add58ad65c",
+      "title": "Robots available for rent: But what can they do?",
+      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T13:47:15.315924+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các robot có thể được thuê để thực hiện các nhiệm vụ",
+      "bullets": [
+        "Cung cấp robot cho thuê để giảm chi phí đầu tư",
+        "Robot có thể được sử dụng cho nhiều mục đích khác nhau",
+        "Công nghệ robot đang phát triển nhanh chóng",
+        "Rental robot có thể giúp các doanh nghiệp tiết kiệm chi phí"
+      ],
+      "full_summary": "Công nghệ robot đang phát triển nhanh chóng và nhiều công ty đang xem xét việc thuê robot để giảm chi phí đầu tư. Các robot có thể được sử dụng cho nhiều mục đích khác nhau, từ sản xuất đến dịch vụ khách hàng. Việc thuê robot có thể giúp các doanh nghiệp tiết kiệm chi phí và tập trung vào các hoạt động kinh doanh chính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2bdbd18a795f",
+      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T13:47:16.444352+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Microsoft giảm 4.800 nhân viên và thu hẹp Xbox trong cuộc tái cấu trúc lớn",
+      "bullets": [
+        "Microsoft cắt giảm 4.800 nhân viên, chiếm 2,1% lực lượng lao động của công ty.",
+        "1.600 nhân viên Xbox bị sa thải ngay lập tức.",
+        "Cuộc tái cấu trúc lớn nhằm mục đích tái cấu trúc lại hoạt động kinh doanh của Microsoft.",
+        "Xbox sẽ bị thu hẹp để tập trung vào các sản phẩm và dịch vụ khác."
+      ],
+      "full_summary": "Microsoft vừa công bố cuộc tái cấu trúc lớn, cắt giảm 4.800 nhân viên, chiếm 2,1% lực lượng lao động của công ty. 1.600 nhân viên Xbox bị sa thải ngay lập tức. Cuộc tái cấu trúc này nhằm mục đích tái cấu trúc lại hoạt động kinh doanh của Microsoft và tập trung vào các sản phẩm và dịch vụ khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "944471b2504f",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-08T13:47:23.213049+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple tăng chi tiêu cho Broadcom để sản xuất hàng tỷ chip tại Mỹ",
+      "bullets": [
+        "Apple sẽ tăng chi tiêu cho Broadcom để sản xuất nhiều chip hơn tại Mỹ",
+        "Sự hợp tác này sẽ giúp tăng cường sản xuất chip trong nước",
+        "Apple và Broadcom sẽ hợp tác để sản xuất chip với công nghệ mới",
+        "Sự hợp tác này sẽ giúp Apple giảm phụ thuộc vào nguồn cung chip từ nước ngoài"
+      ],
+      "full_summary": "Apple đã công bố kế hoạch tăng chi tiêu cho Broadcom để sản xuất hàng tỷ chip tại Mỹ. Sự hợp tác này sẽ giúp tăng cường sản xuất chip trong nước và giảm phụ thuộc vào nguồn cung chip từ nước ngoài. Apple và Broadcom sẽ hợp tác để sản xuất chip với công nghệ mới và cải thiện chất lượng sản phẩm.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "c18682234975",
       "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
@@ -674,126 +794,6 @@
         "Video ghi lại khoảnh khắc bất thường"
       ],
       "full_summary": "Một cơn bão xoáy bất thường đã tràn qua các thành phố Ezhou và Huanggang ở tỉnh Hubei, Trung Quốc. Các video được chia sẻ với BBC cho thấy các mảnh vỡ bay lượn trong không khí. Cơn bão đã gây thiệt hại nghiêm trọng và các video ghi lại khoảnh khắc bất thường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "44bf46b8f721",
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T09:29:07.953832+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chuyên gia AI cho rằng AI hiện tại không thông minh",
-      "bullets": [
-        "Yan LeCun đang phát triển một hệ thống AI linh hoạt hơn",
-        "Hệ thống mới sẽ có khả năng thích nghi và tự học hỏi",
-        "Mục tiêu là tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp",
-        "Chuyên gia này đang cố gắng khắc phục hạn chế của AI hiện tại"
-      ],
-      "full_summary": "Chuyên gia AI nổi tiếng Yan LeCun đang phát triển một hệ thống AI mới có khả năng linh hoạt hơn. Ông đang cố gắng khắc phục hạn chế của AI hiện tại, bao gồm khả năng thích nghi và tự học hỏi. Hệ thống mới này sẽ có khả năng giải quyết nhiều vấn đề phức tạp. Mục tiêu của ông là tạo ra một AI có thể giải quyết nhiều vấn đề phức tạp và linh hoạt hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "167dee44f23a",
-      "title": "PlayStation will stop releasing games on discs in 2028",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T09:29:08.799009+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "PlayStation sẽ dừng phát hành game trên đĩa từ năm 2028",
-      "bullets": [
-        "PlayStation sẽ ngừng phát hành game trên đĩa từ năm 2028",
-        "Các game tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật",
-        "Người dùng sẽ nhận được mã số kỹ thuật để tải game về thiết bị",
-        "Đây là bước tiếp theo trong quá trình chuyển đổi sang game kỹ thuật số"
-      ],
-      "full_summary": "PlayStation đã công bố sẽ ngừng phát hành game trên đĩa từ năm 2028. Thay vào đó, các game tương lai sẽ được bán tại các cửa hàng nhưng chỉ có mã số kỹ thuật. Người dùng sẽ nhận được mã số kỹ thuật để tải game về thiết bị của mình. Đây là bước tiếp theo trong quá trình chuyển đổi sang game kỹ thuật số.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6fc30878cfd6",
-      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
-      "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T09:29:09.937159+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai trăm kg cocaine bị bắt giữ tại Liberia",
-      "bullets": [
-        "Cơ quan chức năng Liberia bắt giữ 5 nghi phạm liên quan đến vụ buôn lậu cocaine",
-        "Hàng hóa chứa cocaine được giả mạo là sản phẩm gia vị Maggi",
-        "Tổng trị giá của cocaine bị bắt giữ ước tính 19 triệu USD",
-        "Cocaine được phát hiện tại sân bay quốc tế Monrovia vào ngày 8 tháng 6"
-      ],
-      "full_summary": "Cơ quan chức năng Liberia đã bắt giữ 5 nghi phạm liên quan đến vụ buôn lậu cocaine lớn nhất trong lịch sử nước này. Hàng hóa chứa cocaine được giả mạo là sản phẩm gia vị Maggi và được phát hiện tại sân bay quốc tế Monrovia vào ngày 8 tháng 6. Tổng trị giá của cocaine bị bắt giữ ước tính 19 triệu USD. Các nghi phạm đã bị bắt giữ và đang chờ xét xử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8bf49cdd4157",
-      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
-      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T09:29:10.973738+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Cuba trải qua sự cố điện lưới quốc gia lần thứ ba trong 6 tháng",
-      "bullets": [
-        "Cuba bị ảnh hưởng bởi sự cố điện lưới quốc gia lần thứ ba kể từ đầu năm",
-        "Chính phủ Mỹ áp đặt phong tỏa dầu mỏ vào tháng 1 đã làm cạn kiệt nguồn nhiên liệu cho nhà máy điện",
-        "Đảo nghèo khổ này đã gặp khó khăn trong việc duy trì ánh sáng trước khi Mỹ áp đặt phong tỏa",
-        "Sự cố điện lưới quốc gia đã ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Cuba"
-      ],
-      "full_summary": "Cuba đã trải qua sự cố điện lưới quốc gia lần thứ ba kể từ đầu năm. Sự cố này đã ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của người dân Cuba. Đảo nghèo khổ này đã gặp khó khăn trong việc duy trì ánh sáng trước khi Mỹ áp đặt phong tỏa dầu mỏ vào tháng 1. Sự cố điện lưới quốc gia đã làm cạn kiệt nguồn nhiên liệu cho nhà máy điện, khiến cho việc duy trì ánh sáng trở nên khó khăn hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cce1e7e45a43",
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T09:29:11.891288+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Canada chọn Đức xây 12 tàu ngầm hiện đại",
-      "bullets": [
-        "Canada đã chọn một liên doanh Đức để xây dựng 12 tàu ngầm hiện đại",
-        "Đó là một hợp đồng quân sự lớn nhất của Canada",
-        "Hợp đồng sẽ tăng cường quan hệ của Canada với NATO",
-        "Tàu ngầm sẽ được sản xuất bởi TKMS, một công ty của Đức"
-      ],
-      "full_summary": "Canada đã chọn một liên doanh Đức để xây dựng 12 tàu ngầm hiện đại để thay thế hạm đội tàu ngầm đang được sửa chữa. Đây là một hợp đồng quân sự lớn nhất của Canada. Hợp đồng này sẽ tăng cường quan hệ của Canada với NATO trước một hội nghị quan trọng diễn ra vào tuần này. Liên doanh Đức sẽ sản xuất tàu ngầm này thông qua TKMS.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "750014e021ba",
-      "title": "What is the oldest American object ever launched into space?",
-      "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-07T09:29:14.478282+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Cờ Mỹ từ thời Cách mạng đã bay vào vũ trụ",
-      "bullets": [
-        "Được phóng vào năm 2026, một vật thể từ thời Cách mạng Mỹ đã bay vào vũ trụ.",
-        "Cờ Mỹ từ thời Cách mạng là một trong những vật thể cổ nhất được phóng vào vũ trụ.",
-        "Báo cáo từ Ars Technica đã tiết lộ thông tin về vật thể này.",
-        "Vật thể này đã trở thành một phần của lịch sử không gian Mỹ."
-      ],
-      "full_summary": "Một vật thể từ thời Cách mạng Mỹ đã được phóng vào vũ trụ vào năm 2026. Cờ Mỹ từ thời Cách mạng là một trong những vật thể cổ nhất được phóng vào vũ trụ. Theo báo cáo từ Ars Technica, vật thể này đã trở thành một phần của lịch sử không gian Mỹ. Điều này đã thu hút sự chú ý của nhiều người.",
       "comments": 0,
       "score": 0
     }
