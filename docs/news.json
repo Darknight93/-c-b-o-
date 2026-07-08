@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-08T02:01:23.113014+00:00",
+  "updated_at": "2026-07-08T08:13:36.286173+00:00",
   "articles": [
+    {
+      "id": "c18682234975",
+      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T08:13:21.790334+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Marine Le Pen tiếp tục chiến dịch tổng thống sau bản án",
+      "bullets": [
+        "Bị kết tội nhưng Marine Le Pen vẫn tiếp tục chiến dịch tổng thống",
+        "Bà đã công bố chiến dịch tranh cử tổng thống sau khi tòa án phúc thẩm xác nhận bản án",
+        "Marine Le Pen là lãnh đạo của đảng cực hữu Quốc gia Tự do",
+        "Bà từng là ứng cử viên tổng thống Pháp vào năm 2017"
+      ],
+      "full_summary": "Một tòa án phúc thẩm của Pháp vừa xác nhận bản án kết tội Marine Le Pen, lãnh đạo của đảng cực hữu Quốc gia Tự do. Mặc dù vậy, bà đã nhanh chóng công bố chiến dịch tranh cử tổng thống. Điều này cho thấy sự quyết tâm của bà trong việc trở thành tổng thống Pháp. Chiến dịch tranh cử của bà đã được bắt đầu sau khi tòa án phúc thẩm xác nhận bản án kết tội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "39100aea0e2d",
+      "title": "Nato allies announce £37bn for new missile project",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T08:13:22.786642+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "NATO đồng minh công bố 37 tỷ bảng cho dự án tên lửa mới",
+      "bullets": [
+        "Cơ quan Nato công bố kế hoạch phát triển tên lửa mới",
+        "Dự án trị giá 37 tỷ bảng do các đồng minh tài trợ",
+        "Chủ tịch Nato sẽ tổ chức cuộc họp với các lãnh đạo để thảo luận",
+        "Dự án nhằm tăng cường khả năng phòng thủ của Nato"
+      ],
+      "full_summary": "Chủ tịch Nato và các đồng minh đã công bố kế hoạch phát triển một dự án tên lửa mới trị giá 37 tỷ bảng. Dự án này nhằm tăng cường khả năng phòng thủ của Nato và sẽ được thảo luận tại cuộc họp do Chủ tịch Nato tổ chức ở Ankara. Các lãnh đạo của các quốc gia đồng minh sẽ tham gia cuộc họp để thảo luận về kế hoạch này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9557b6c7cb7a",
+      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T08:13:23.747229+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Căng thẳng nhiên liệu Nga có thể dẫn đến thay đổi chiến lược",
+      "bullets": [
+        "Nhiều thành phố Nga đang đối mặt với thiếu hụt nhiên liệu",
+        "Các quan chức không thể đảm bảo cung cấp nhiên liệu",
+        "Áp lực kinh tế có thể dẫn đến đàm phán hoặc leo thang",
+        "Tình hình đang gây ra lo ngại về chiến lược của Putin"
+      ],
+      "full_summary": "Nga đang đối mặt với thiếu hụt nhiên liệu nghiêm trọng, ngay cả ở Moscow. Các quan chức không thể đảm bảo cung cấp nhiên liệu cho người dân. Điều này đã gây ra lo ngại về chiến lược của Tổng thống Putin trong cuộc chiến Ukraine. Áp lực kinh tế có thể dẫn đến đàm phán hoặc leo thang.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "87427351de37",
+      "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
+      "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T08:13:24.889217+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cơn bão mạnh gây lũ lụt và xoáy thuận hiếm gặp ở Trung Quốc",
+      "bullets": [
+        "Gây thiệt hại nặng nề ở các khu vực ven biển",
+        "Cướp đi sinh mạng của nhiều người",
+        "Cướp đi nhà cửa của hàng nghìn người",
+        "Làm khó cho những người dân bị mắc kẹt"
+      ],
+      "full_summary": "Cơn bão mạnh đã gây ra lũ lụt và xoáy thuận hiếm gặp ở Trung Quốc. Các cư dân đã phải vật lộn để tìm kiếm thức ăn và sự giúp đỡ. Họ cho biết họ đang gặp khó khăn trong việc tiếp cận với các nguồn cung cấp thiết yếu. Các cơ quan chức năng đang nỗ lực để cung cấp hỗ trợ cho những người bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7f6b5662f6d1",
+      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T08:13:25.850409+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Sự cố lớn tại công ty viễn thông lớn nhất Úc gây ảnh hưởng đến các chuyến tàu và dịch vụ khẩn cấp.",
+      "bullets": [
+        "Gây ra sự cố lớn tại các trung tâm dữ liệu ở Sydney và Melbourne.",
+        "Còn chưa rõ nguyên nhân dẫn đến sự cố.",
+        "Các dịch vụ khẩn cấp và tàu hỏa bị ảnh hưởng nghiêm trọng.",
+        "Công ty đang cố gắng khắc phục sự cố."
+      ],
+      "full_summary": "Sự cố lớn đã xảy ra tại công ty viễn thông lớn nhất Úc, gây ảnh hưởng đến các chuyến tàu và dịch vụ khẩn cấp. Servers tại các trung tâm dữ liệu ở Sydney và Melbourne là nguyên nhân của sự cố, nhưng vẫn chưa rõ nguyên nhân cụ thể. Công ty đang cố gắng khắc phục sự cố và khôi phục các dịch vụ bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a1fd69398d1f",
+      "title": "Don't expect connected car apps to save your stolen car, experts say",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-08T08:13:29.121454+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ứng dụng xe thông minh không thể cứu xe bị trộm",
+      "bullets": [
+        "Không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp",
+        "Pháp luật Anh cấm Kia sử dụng chức năng này",
+        "Ứng dụng xe thông minh không phải là giải pháp cho xe bị trộm"
+      ],
+      "full_summary": "Một số công ty xe hơi đã triển khai ứng dụng xe thông minh cho phép theo dõi vị trí của xe. Tuy nhiên, Kia cho biết do pháp luật Anh cấm, họ không thể sử dụng chức năng này để theo dõi xe trực tiếp. Điều này có nghĩa là ứng dụng xe thông minh không thể cứu xe bị trộm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d51beac15e70",
+      "title": "The Weather Channel increases streaming subscription prices by up to $20",
+      "url": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-08T08:13:32.936536+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "The Weather Channel tăng giá đăng ký dịch vụ trực tuyến lên đến 20 USD",
+      "bullets": [
+        "Tăng giá đăng ký dịch vụ trực tuyến lên 5 USD/tháng",
+        "Tăng 67% so với giá trước đó",
+        "Dịch vụ trực tuyến của The Weather Channel có sẵn trên ứng dụng di động",
+        "Người dùng có thể theo dõi thời tiết trực tuyến với giá mới"
+      ],
+      "full_summary": "The Weather Channel vừa tăng giá đăng ký dịch vụ trực tuyến lên đến 20 USD. Giá mới nhất cho dịch vụ trực tuyến của The Weather Channel là 5 USD/tháng, tăng 67% so với giá trước đó. Dịch vụ trực tuyến này có sẵn trên ứng dụng di động và cho phép người dùng theo dõi thời tiết trực tuyến.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2283a6764feb",
       "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
@@ -655,143 +794,6 @@
         "Vật thể này đã trở thành một phần của lịch sử không gian Mỹ."
       ],
       "full_summary": "Một vật thể từ thời Cách mạng Mỹ đã được phóng vào vũ trụ vào năm 2026. Cờ Mỹ từ thời Cách mạng là một trong những vật thể cổ nhất được phóng vào vũ trụ. Theo báo cáo từ Ars Technica, vật thể này đã trở thành một phần của lịch sử không gian Mỹ. Điều này đã thu hút sự chú ý của nhiều người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a2cdbe84689",
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-07T09:29:19.339176+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Người dùng có thể tự lập trình DNA tại nhà",
-      "bullets": [
-        "Tự lập trình DNA giúp người dùng hiểu rõ hơn về bản thân",
-        "Phương pháp này cho phép người dùng kiểm soát dữ liệu gen của mình",
-        "Cần có thiết bị và kỹ năng chuyên môn để thực hiện",
-        "Giá thành có thể cao hơn so với các phương pháp khác"
-      ],
-      "full_summary": "Người dùng có thể tự lập trình DNA tại nhà bằng cách sử dụng các công nghệ mới và thiết bị chuyên dụng. Phương pháp này cho phép người dùng hiểu rõ hơn về bản thân và kiểm soát dữ liệu gen của mình. Tuy nhiên, cần có thiết bị và kỹ năng chuyên môn để thực hiện và giá thành có thể cao hơn so với các phương pháp khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8eb99da2c614",
-      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T02:26:44.376599+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Zelensky kêu gọi Nato cung cấp hệ thống phòng không mạnh mẽ hơn",
-      "bullets": [
-        "Zelensky sẽ yêu cầu Nato cung cấp thêm tên lửa đánh chặn",
-        "Nato họp tại Thổ Nhĩ Kỳ để thảo luận về hỗ trợ Ukraine",
-        "Ukraine cần hệ thống phòng không mạnh mẽ hơn để đối phó với các cuộc tấn công của Nga",
-        "Zelensky hy vọng Nato sẽ đáp ứng yêu cầu của Ukraine"
-      ],
-      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky sẽ sử dụng cuộc họp Nato tại Thổ Nhĩ Kỳ để yêu cầu cung cấp thêm tên lửa đánh chặn để tăng cường hệ thống phòng không của Ukraine. Ông Zelensky cho biết Ukraine cần hệ thống phòng không mạnh mẽ hơn để đối phó với các cuộc tấn công của Nga. Nato đang thảo luận về hỗ trợ Ukraine trong cuộc chiến chống lại Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5579b5d63a56",
-      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T02:26:45.430711+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "BBC phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tại Ukraine",
-      "bullets": [
-        "Báo BBC phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tù nhân tại Ukraine",
-        "Cựu tù nhân tố cáo các tù trưởng và quan chức này đã hành hạ họ trong thời gian giam giữ",
-        "Các cựu tù nhân muốn thấy các tù trưởng và quan chức này bị đưa ra xét xử",
-        "BBC đã phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tại Ukraine"
-      ],
-      "full_summary": "Báo BBC vừa phanh ánh các tù trưởng và quan chức bị cáo buộc hành hạ tù nhân tại Ukraine. Các cựu tù nhân tố cáo các tù trưởng và quan chức này đã hành hạ họ trong thời gian giam giữ. Các cựu tù nhân muốn thấy các tù trưởng và quan chức này bị đưa ra xét xử. Điều này đã gây ra sự phẫn nộ trong dư luận quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8d0ed89830fe",
-      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T02:26:46.453308+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran muốn gửi thông điệp với tang lễ của Khamenei",
-      "bullets": [
-        "Iran tổ chức 3 ngày tang lễ công khai ở Tehran",
-        "Lãnh đạo Iran muốn thế giới thấy tang lễ này như một sự kiện chính trị",
-        "Tang lễ có thể là một cách để Iran thể hiện sự đoàn kết và sức mạnh",
-        "Tang lễ cũng có thể là một cách để Iran trả thù cho những người ủng hộ Khamenei"
-      ],
-      "full_summary": "Iran tổ chức 3 ngày tang lễ công khai ở Tehran để tưởng nhớ lãnh đạo Ali Khamenei. Lãnh đạo Iran muốn thế giới thấy tang lễ này như một sự kiện chính trị. Tang lễ có thể là một cách để Iran thể hiện sự đoàn kết và sức mạnh, nhưng cũng có thể là một cách để Iran trả thù cho những người ủng hộ Khamenei. Điều này cho thấy Iran đang cố gắng gửi thông điệp mạnh mẽ về tương lai của đất nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e8add58ad65c",
-      "title": "Robots available for rent: But what can they do?",
-      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T02:26:47.486031+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy robot có thể được thuê để thực hiện nhiều nhiệm vụ",
-      "bullets": [
-        "Cung cấp dịch vụ cho thuê máy robot để tiết kiệm chi phí",
-        "Robot có thể được sử dụng để thực hiện các nhiệm vụ như dọn dẹp, vận chuyển hàng hóa",
-        "Công nghệ robot đang phát triển nhanh chóng, tạo cơ hội cho việc cho thuê robot"
-      ],
-      "full_summary": "Công nghệ robot đang thay đổi nhanh chóng, vì vậy cho thuê một robot có thể là một lựa chọn hợp lý. Các công ty đang cung cấp dịch vụ cho thuê robot để giúp các doanh nghiệp tiết kiệm chi phí. Máy robot có thể được sử dụng để thực hiện các nhiệm vụ như dọn dẹp, vận chuyển hàng hóa, và nhiều nhiệm vụ khác. Điều này giúp các doanh nghiệp giảm thiểu chi phí và tăng hiệu quả công việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a804d931ff0",
-      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T02:26:48.466938+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Khai quật thành phố Byzantine cổ xưa ở sa mạc phía tây Ai Cập",
-      "bullets": [
-        "Khám phá được khu dân cư Byzantine thế kỷ 4 với các công trình nhà ở và tôn giáo",
-        "Tìm thấy các đồng tiền, mảnh gốm và công cụ",
-        "Thành phố Byzantine cổ xưa cho thấy chi tiết về sinh hoạt hàng ngày, phát triển đô thị và hoạt động kinh tế"
-      ],
-      "full_summary": "Các nhà khảo cổ ở Ai Cập đã phát hiện một thành phố Byzantine cổ xưa ở sa mạc phía tây, với các khu dân cư thế kỷ 4 có các công trình nhà ở và tôn giáo. Khu vực này bao gồm một nhà thờ kiểu basilica và các công trình khác. Các nhà khảo cổ cũng tìm thấy các đồng tiền, mảnh gốm và công cụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ec0885fc6867",
-      "title": "Overseas education project for women and girls axed by UK after two years",
-      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T02:26:49.442454+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chương trình giáo dục nước ngoài cho phụ nữ và trẻ em gái bị hủy bỏ bởi Anh sau 2 năm",
-      "bullets": [
-        "Bị hủy bỏ vì cắt giảm viện trợ",
-        "Chương trình SHEFE có ngân sách 45 triệu bảng",
-        "Mục tiêu tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới"
-      ],
-      "full_summary": "Chương trình giáo dục nước ngoài Strengthening higher education for female empowerment (SHEFE) của Anh đã bị hủy bỏ sau 2 năm hoạt động. Chương trình này có ngân sách 45 triệu bảng để tăng cường tiếp cận giáo dục đại học cho 1 triệu sinh viên trên toàn thế giới. Chương trình đã bị hủy bỏ vì cắt giảm viện trợ.",
       "comments": 0,
       "score": 0
     }
