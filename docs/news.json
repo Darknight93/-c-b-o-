@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-09T09:36:10.187282+00:00",
+  "updated_at": "2026-07-09T14:39:47.226018+00:00",
   "articles": [
+    {
+      "id": "229786dc8672",
+      "title": "At least 28 killed in China shoe factory fire, state media reports",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T14:39:31.379272+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nổ lớn tại xưởng sản xuất giày ở Trung Quốc, ít nhất 28 người thiệt mạng.",
+      "bullets": [
+        "Nổ lớn xảy ra tại xưởng sản xuất giày ở Trung Quốc.",
+        "Hàng trăm người bị mắc kẹt trong tòa nhà.",
+        "Cảnh sát đang điều tra nguyên nhân của vụ nổ."
+      ],
+      "full_summary": "Một vụ nổ lớn đã xảy ra tại xưởng sản xuất giày ở Trung Quốc, khiến ít nhất 28 người thiệt mạng. Footage cho thấy những ngọn lửa lớn đang bùng cháy và khói đen đang bốc lên cao. Cảnh sát đang điều tra nguyên nhân của vụ nổ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89e4ff026ec5",
+      "title": "Porn site company fined £630,000 over failed age checks",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T14:39:32.397735+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ofcom phạt £630,000 vì các trang web không kiểm tra tuổi",
+      "bullets": [
+        "Phạt £630,000 cho công ty sở hữu trang web chứa nội dung không phù hợp",
+        "Ofcom yêu cầu thực hiện kiểm tra tuổi nghiêm ngặt hơn",
+        "Cơ quan này nói rằng các trang web không đủ đảm bảo an toàn cho trẻ em",
+        "Các trang web phải thực hiện kiểm tra tuổi ngay lập tức"
+      ],
+      "full_summary": "Ofcom đã phạt £630,000 cho công ty sở hữu trang web chứa nội dung không phù hợp vì không thực hiện kiểm tra tuổi nghiêm ngặt. Cơ quan này nói rằng các trang web không đủ đảm bảo an toàn cho trẻ em và yêu cầu thực hiện kiểm tra tuổi ngay lập tức. Kiểm tra tuổi là một phần quan trọng để ngăn chặn trẻ em truy cập vào nội dung không phù hợp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eefc5716aaf5",
+      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T14:39:33.547060+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội",
+      "bullets": [
+        "Cảnh báo cha mẹ về nguy cơ hình ảnh con bị lạm dụng bởi AI",
+        "NCA cho biết nguy cơ hình ảnh trẻ em bị sử dụng để tạo nội dung lạm dụng trẻ em đang gia tăng",
+        "Cảnh báo cha mẹ chia sẻ hình ảnh con trên mạng xã hội",
+        "NCA khuyến cáo cha mẹ kiểm soát quyền truy cập hình ảnh con"
+      ],
+      "full_summary": "NCA cảnh báo cha mẹ không chia sẻ hình ảnh con trên mạng xã hội vì nguy cơ hình ảnh con bị lạm dụng bởi AI đang gia tăng. NCA cho biết nguy cơ hình ảnh trẻ em bị sử dụng để tạo nội dung lạm dụng trẻ em đang gia tăng. Cảnh báo này nhằm khuyến cáo cha mẹ kiểm soát quyền truy cập hình ảnh con và không chia sẻ hình ảnh con trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bc00ccdb8b1e",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T14:39:34.770175+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta đặt mức giới hạn sử dụng tính năng trong kính",
+      "bullets": [
+        "Meta giới hạn sử dụng tính năng tăng cường giọng nói trong kính lên 3 giờ miễn phí",
+        "Người dùng phải trả phí để sử dụng tính năng này sau thời gian miễn phí",
+        "Tính năng này được tích hợp trong kính của Meta",
+        "Người dùng có thể phải trả phí hàng tháng để sử dụng tính năng này"
+      ],
+      "full_summary": "Meta đã giới hạn sử dụng tính năng tăng cường giọng nói trong kính của họ lên 3 giờ miễn phí. Người dùng phải trả phí để sử dụng tính năng này sau thời gian miễn phí. Tính năng này được tích hợp trong kính của Meta và được thiết kế để giúp người dùng dễ dàng nghe thấy những gì người khác nói. Người dùng có thể phải trả phí hàng tháng để sử dụng tính năng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "733358b8e99a",
+      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T14:39:37.318032+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiều loài động vật đang bị đe dọa vì hoạt động khai thác của con người",
+      "bullets": [
+        "Hàng trăm loài nhuyễn thể sống ở đáy biển đang bị đe dọa vì khai thác mỏ",
+        "Côn trùng và động vật sống ở nhiệt độ cao đang bị đe dọa vì biến đổi khí hậu",
+        "Nhiều loài động vật đã thích nghi với môi trường khắc nghiệt nhưng vẫn bị đe dọa",
+        "Danh sách đỏ loài đang bị đe dọa cho thấy hoạt động của con người đang vượt quá khả năng thích nghi của động vật"
+      ],
+      "full_summary": "Danh sách đỏ loài mới nhất đã chỉ ra rằng nhiều loài động vật đang bị đe dọa vì hoạt động khai thác của con người. Nhiều loài nhuyễn thể sống ở đáy biển đang bị đe dọa vì khai thác mỏ, trong khi côn trùng và động vật sống ở nhiệt độ cao đang bị đe dọa vì biến đổi khí hậu. Mặc dù đã thích nghi với môi trường khắc nghiệt, nhưng nhiều loài động vật vẫn đang bị đe dọa. Điều này cho thấy hoạt động của con người đang vượt quá khả năng thích nghi của động vật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49e14c473389",
+      "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T14:39:38.507763+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Elon Musk gây tranh cãi với việc cắt giảm chương trình USAID chống Ebola",
+      "bullets": [
+        "Cắt giảm chương trình USAID gây khó khăn cho phản ứng chống Ebola tại DRC",
+        "Số lượng người chết tăng đáng kể do thiếu nguồn lực",
+        "Elon Musk bị chỉ trích vì tập trung vào USAID thay vì vấn đề của các công ty",
+        "Căng thẳng giữa Musk và cộng đồng quốc tế tiếp tục gia tăng"
+      ],
+      "full_summary": "Elon Musk đã gây tranh cãi khi cắt giảm chương trình USAID chống Ebola, khiến phản ứng chống dịch bệnh tại Cộng hòa Dân chủ Congo (DRC) gặp khó khăn. Theo các chuyên gia, số lượng người chết tăng đáng kể do thiếu nguồn lực. Điều này đã khiến Musk bị chỉ trích vì tập trung vào USAID thay vì vấn đề của các công ty. Căng thẳng giữa Musk và cộng đồng quốc tế tiếp tục gia tăng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d7ac7d2c33e1",
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-09T14:39:44.155805+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google trả 250.000 USD cho lỗ hổng Linux cho phép trốn thoát khỏi máy ảo khách",
+      "bullets": [
+        "Google đã trả 250.000 USD cho lỗ hổng Linux cho phép trốn thoát khỏi máy ảo khách",
+        "Lỗ hổng này cho phép người dùng không tin cậy có quyền truy cập root",
+        "Có hai lỗ hổng Linux đã được phát hiện trong tuần này",
+        "Hai lỗ hổng này đều cho phép người dùng có quyền truy cập root"
+      ],
+      "full_summary": "Google đã trả 250.000 USD cho lỗ hổng Linux cho phép trốn thoát khỏi máy ảo khách. Lỗ hổng này cho phép người dùng không tin cậy có quyền truy cập root. Có hai lỗ hổng Linux đã được phát hiện trong tuần này, và cả hai đều cho phép người dùng có quyền truy cập root. Các lỗ hổng này có thể gây ra hậu quả nghiêm trọng nếu không được sửa chữa kịp thời.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "fdcbbff025ae",
       "title": "US and Iran trade strikes for second night in a row",
@@ -654,145 +793,6 @@
         "Dự án nhằm tăng cường khả năng phòng thủ của Nato"
       ],
       "full_summary": "Chủ tịch Nato và các đồng minh đã công bố kế hoạch phát triển một dự án tên lửa mới trị giá 37 tỷ bảng. Dự án này nhằm tăng cường khả năng phòng thủ của Nato và sẽ được thảo luận tại cuộc họp do Chủ tịch Nato tổ chức ở Ankara. Các lãnh đạo của các quốc gia đồng minh sẽ tham gia cuộc họp để thảo luận về kế hoạch này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9557b6c7cb7a",
-      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T08:13:23.747229+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Căng thẳng nhiên liệu Nga có thể dẫn đến thay đổi chiến lược",
-      "bullets": [
-        "Nhiều thành phố Nga đang đối mặt với thiếu hụt nhiên liệu",
-        "Các quan chức không thể đảm bảo cung cấp nhiên liệu",
-        "Áp lực kinh tế có thể dẫn đến đàm phán hoặc leo thang",
-        "Tình hình đang gây ra lo ngại về chiến lược của Putin"
-      ],
-      "full_summary": "Nga đang đối mặt với thiếu hụt nhiên liệu nghiêm trọng, ngay cả ở Moscow. Các quan chức không thể đảm bảo cung cấp nhiên liệu cho người dân. Điều này đã gây ra lo ngại về chiến lược của Tổng thống Putin trong cuộc chiến Ukraine. Áp lực kinh tế có thể dẫn đến đàm phán hoặc leo thang.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "87427351de37",
-      "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
-      "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T08:13:24.889217+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn bão mạnh gây lũ lụt và xoáy thuận hiếm gặp ở Trung Quốc",
-      "bullets": [
-        "Gây thiệt hại nặng nề ở các khu vực ven biển",
-        "Cướp đi sinh mạng của nhiều người",
-        "Cướp đi nhà cửa của hàng nghìn người",
-        "Làm khó cho những người dân bị mắc kẹt"
-      ],
-      "full_summary": "Cơn bão mạnh đã gây ra lũ lụt và xoáy thuận hiếm gặp ở Trung Quốc. Các cư dân đã phải vật lộn để tìm kiếm thức ăn và sự giúp đỡ. Họ cho biết họ đang gặp khó khăn trong việc tiếp cận với các nguồn cung cấp thiết yếu. Các cơ quan chức năng đang nỗ lực để cung cấp hỗ trợ cho những người bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7f6b5662f6d1",
-      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T08:13:25.850409+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Sự cố lớn tại công ty viễn thông lớn nhất Úc gây ảnh hưởng đến các chuyến tàu và dịch vụ khẩn cấp.",
-      "bullets": [
-        "Gây ra sự cố lớn tại các trung tâm dữ liệu ở Sydney và Melbourne.",
-        "Còn chưa rõ nguyên nhân dẫn đến sự cố.",
-        "Các dịch vụ khẩn cấp và tàu hỏa bị ảnh hưởng nghiêm trọng.",
-        "Công ty đang cố gắng khắc phục sự cố."
-      ],
-      "full_summary": "Sự cố lớn đã xảy ra tại công ty viễn thông lớn nhất Úc, gây ảnh hưởng đến các chuyến tàu và dịch vụ khẩn cấp. Servers tại các trung tâm dữ liệu ở Sydney và Melbourne là nguyên nhân của sự cố, nhưng vẫn chưa rõ nguyên nhân cụ thể. Công ty đang cố gắng khắc phục sự cố và khôi phục các dịch vụ bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a1fd69398d1f",
-      "title": "Don't expect connected car apps to save your stolen car, experts say",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T08:13:29.121454+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ứng dụng xe thông minh không thể cứu xe bị trộm",
-      "bullets": [
-        "Không thể sử dụng chức năng theo dõi vị trí để theo dõi xe trực tiếp",
-        "Pháp luật Anh cấm Kia sử dụng chức năng này",
-        "Ứng dụng xe thông minh không phải là giải pháp cho xe bị trộm"
-      ],
-      "full_summary": "Một số công ty xe hơi đã triển khai ứng dụng xe thông minh cho phép theo dõi vị trí của xe. Tuy nhiên, Kia cho biết do pháp luật Anh cấm, họ không thể sử dụng chức năng này để theo dõi xe trực tiếp. Điều này có nghĩa là ứng dụng xe thông minh không thể cứu xe bị trộm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d51beac15e70",
-      "title": "The Weather Channel increases streaming subscription prices by up to $20",
-      "url": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-08T08:13:32.936536+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "The Weather Channel tăng giá đăng ký dịch vụ trực tuyến lên đến 20 USD",
-      "bullets": [
-        "Tăng giá đăng ký dịch vụ trực tuyến lên 5 USD/tháng",
-        "Tăng 67% so với giá trước đó",
-        "Dịch vụ trực tuyến của The Weather Channel có sẵn trên ứng dụng di động",
-        "Người dùng có thể theo dõi thời tiết trực tuyến với giá mới"
-      ],
-      "full_summary": "The Weather Channel vừa tăng giá đăng ký dịch vụ trực tuyến lên đến 20 USD. Giá mới nhất cho dịch vụ trực tuyến của The Weather Channel là 5 USD/tháng, tăng 67% so với giá trước đó. Dịch vụ trực tuyến này có sẵn trên ứng dụng di động và cho phép người dùng theo dõi thời tiết trực tuyến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2283a6764feb",
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T02:01:08.011979+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ thực hiện vụ tấn công Iran sau khi tàu bị đánh chìm ở eo biển Hormuz",
-      "bullets": [
-        "Mỹ tuyên bố tấn công nhằm gây 'chi phí nặng nề'",
-        "Iran cảnh báo sẽ 'xử lý quyết liệt'",
-        "Tàu dầu bị tấn công ở eo biển Hormuz",
-        "Mỹ và Iran có thể bước vào cuộc chiến"
-      ],
-      "full_summary": "Mỹ đã thực hiện vụ tấn công quân sự vào Iran sau khi hai tàu dầu bị đánh chìm ở eo biển Hormuz. Mỹ tuyên bố tấn công nhằm gây 'chi phí nặng nề' cho Iran. Iran đã cảnh báo sẽ 'xử lý quyết liệt' và có thể bước vào cuộc chiến. Sự kiện này đã gây ra lo ngại về sự leo thang căng thẳng giữa Mỹ và Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "92e1112d69a6",
-      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T02:01:08.942794+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tyler Robinson bị nghi ngờ giết nhà hoạt động bảo thủ Charlie Kirk",
-      "bullets": [
-        "Bị cáo Tyler Robinson sẽ được xét xử hay không tại phiên tòa sơ thẩm",
-        "Mới có video mới được trình chiếu tại phiên tòa sơ thẩm",
-        "Video cho thấy một người đàn ông trên nóc nhà gần hiện trường vụ bắn",
-        "Tyler Robinson bị cáo buộc giết nhà hoạt động bảo thủ Charlie Kirk"
-      ],
-      "full_summary": "Phiên tòa sơ thẩm sẽ quyết định liệu bị cáo Tyler Robinson có phải đứng trước tòa để xét xử hay không. Mới có video mới được trình chiếu tại phiên tòa sơ thẩm, cho thấy một người đàn ông trên nóc nhà gần hiện trường vụ bắn. Video này có thể liên quan đến vụ án. Tyler Robinson bị cáo buộc giết nhà hoạt động bảo thủ Charlie Kirk.",
       "comments": 0,
       "score": 0
     }
