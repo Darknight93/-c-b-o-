@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-07-09T14:39:47.226018+00:00",
+  "updated_at": "2026-07-09T19:27:26.975979+00:00",
   "articles": [
+    {
+      "id": "8cca221c4f9a",
+      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T19:27:10.675237+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Sự sụt giảm lớn trong số tàu chở dầu, khí đốt đi qua eo biển Hormuz sau các vụ tấn công",
+      "bullets": [
+        "Giảm mạnh số tàu đi qua eo biển Hormuz sau các vụ tấn công",
+        "Nhiều tàu chở dầu, khí đốt bị ảnh hưởng bởi các vụ tấn công",
+        "Dữ liệu cho thấy sự sụt giảm rõ ràng trong số tàu đi qua eo biển Hormuz",
+        "Sự kiện này gây ảnh hưởng lớn đến giao thông hàng hải quốc tế"
+      ],
+      "full_summary": "Dữ liệu mới nhất cho thấy sự sụt giảm lớn trong số tàu chở dầu, khí đốt đi qua eo biển Hormuz sau các vụ tấn công gần đây. Các vụ tấn công này đã ảnh hưởng nghiêm trọng đến giao thông hàng hải quốc tế. Số lượng tàu đi qua eo biển Hormuz đã giảm mạnh, gây ảnh hưởng lớn đến hoạt động kinh doanh của các hãng vận tải. Sự kiện này được cho là do các vụ tấn công nhằm vào các tàu chở dầu, khí đốt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a36a27bc8c34",
+      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+      "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T19:27:12.846985+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Máy bay chiến đấu F-16 rơi xuống sân bay Zakynthos",
+      "bullets": [
+        "Rơi xuống sân bay Zakynthos",
+        "Không hạ cánh đúng cách",
+        "Bùng cháy sau khi hạ cánh",
+        "Đường băng bị đóng"
+      ],
+      "full_summary": "Một máy bay chiến đấu F-16 của Hy Lạp đã rơi xuống sân bay Zakynthos, khiến đường băng bị đóng sau khi không hạ cánh đúng cách và bùng cháy. Vụ việc đã gây ra sự hoảng loạn tại sân bay đông đúc này. Các nhân viên cứu hỏa đã nhanh chóng hành động để dập tắt đám cháy. Vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "38b5c1576385",
+      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T19:27:13.806132+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Ukraine tấn công tàu của Nga gần Crimea, gây ra leo thang các cuộc tấn công vào nguồn nhiên liệu.",
+      "bullets": [
+        "Ukraine tiến hành các cuộc tấn công nhằm vào các tàu của Nga gần Crimea.",
+        "Các cuộc tấn công nhằm vào nguồn nhiên liệu và các tuyến đường vào và ra khỏi Crimea.",
+        "Ukraine đang cố gắng chặn nguồn cung cấp và các tuyến đường vào Crimea.",
+        "Các cuộc tấn công có thể là một phần của chiến dịch của Ukraine nhằm vào nguồn nhiên liệu của Nga."
+      ],
+      "full_summary": "Ukraine đã tiến hành các cuộc tấn công vào các tàu của Nga gần Crimea, gây ra leo thang các cuộc tấn công vào nguồn nhiên liệu. Các cuộc tấn công này có thể là một phần của chiến dịch của Ukraine nhằm vào nguồn nhiên liệu của Nga. Mục tiêu của Ukraine là chặn nguồn cung cấp và các tuyến đường vào và ra khỏi Crimea. Các cuộc tấn công này có thể gây ra ảnh hưởng nghiêm trọng đến nền kinh tế và nguồn cung cấp nhiên liệu của Nga.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "51cd6099048e",
+      "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
+      "url": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T19:27:14.805772+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cựu vận động viên Olympic Mỹ phủ nhận tội danh làm hỏng hồ nước phản chiếu Lincoln Memorial",
+      "bullets": [
+        "Phán quyết của tòa án sẽ ảnh hưởng đến hình ảnh của cựu vận động viên Olympic",
+        "Cựu vận động viên bị buộc tội làm hỏng hồ nước phản chiếu Lincoln Memorial",
+        "Tòa án sẽ xem xét các bằng chứng để đưa ra phán quyết cuối cùng",
+        "Cựu vận động viên Olympic Mỹ sẽ phải đối mặt với hậu quả nếu bị kết tội"
+      ],
+      "full_summary": "Cựu vận động viên Olympic Mỹ đã phủ nhận tội danh làm hỏng hồ nước phản chiếu Lincoln Memorial. Ông ta bị buộc tội đã cố ý làm hỏng hồ nước sau khi hồ nước được phục hồi. Tòa án sẽ xem xét các bằng chứng để đưa ra phán quyết cuối cùng. Phán quyết của tòa án sẽ ảnh hưởng đến hình ảnh của cựu vận động viên Olympic.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbcb9ce42563",
+      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T19:27:15.887609+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nigeria chìm trong bão chính trị vì cơ quan giả mạo",
+      "bullets": [
+        "Bất thường được phát hiện khi ngân sách 1,3 tỷ naira bị phân bổ cho cơ quan giả mạo",
+        "Tổng thống Nigeria yêu cầu điều tra sau khi cơ quan giả mạo được cấp ngân sách",
+        "Cơ quan giả mạo được cho là liên quan đến việc làm giả chữ ký và con dấu chính phủ"
+      ],
+      "full_summary": "Nigeria đang chìm trong bão chính trị sau khi một cơ quan giả mạo được phát hiện trong trụ sở chính phủ. Cơ quan này được phân bổ ngân sách 1,3 tỷ naira trong ngân sách 2026, nhưng thực chất là một cơ quan giả mạo. Tổng thống Nigeria đã yêu cầu điều tra và cơ quan này được cho là liên quan đến việc làm giả chữ ký và con dấu chính phủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89f30bac42b9",
+      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T19:27:16.998047+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hạm đội du lịch LGBTQ+ bị từ chối vào Ai Cập",
+      "bullets": [
+        "Bị từ chối vào Ai Cập sau khi bị chặn ở Thổ Nhĩ Kỳ",
+        "Hạm đội Scarlet Lady tìm kiếm các cảng thay thế",
+        "2.000 hành khách trên tàu bị ảnh hưởng",
+        "Tàu có khách nổi tiếng như diễn viên Patti LuPone"
+      ],
+      "full_summary": "Hạm đội du lịch LGBTQ+ Scarlet Lady, có 2.000 hành khách, đã bị từ chối vào Ai Cập sau khi bị chặn ở Thổ Nhĩ Kỳ. Hành khách trên tàu, bao gồm diễn viên Patti LuPone, đã nhận được thông báo rằng tàu đang tìm kiếm các cảng thay thế. Điều này đã khiến nhiều hành khách lên án và tuyên bố sẽ 'sáng chói và chi tiêu ở nơi khác'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fdb39828d8d7",
+      "title": "Mexico investigates whether US lied about role in capture of drug lord",
+      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T19:27:17.999274+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mexico điều tra nghi ngờ Mỹ nói dối về vai trò trong bắt giữ tội phạm ma túy",
+      "bullets": [
+        "Mexico điều tra nghi ngờ Mỹ nói dối về vai trò trong bắt giữ Ismael 'El Mayo' Zambada García",
+        "FBI có thể đã tham gia bắt giữ El Mayo",
+        "Mỹ đã phủ nhận tham gia hoạt động bắt giữ",
+        "Vụ việc có thể vi phạm chủ quyền của Mexico"
+      ],
+      "full_summary": "Mexico đã mở cuộc điều tra để xác minh thông tin Mỹ có tham gia bắt giữ và chuyển giao bí mật Ismael 'El Mayo' Zambada García, một thành viên hàng đầu của cartel Sinaloa, vào năm 2024. Theo báo cáo, FBI có thể đã tham gia bắt giữ El Mayo, mặc dù Mỹ đã phủ nhận tham gia hoạt động này. Vụ việc này có thể vi phạm chủ quyền của Mexico và đang gây ra sự tranh cãi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1a0c1342437a",
+      "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-09T19:27:20.792440+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hộ thẩm phán không hài lòng với thỏa thuận của Elon Musk với SEC",
+      "bullets": [
+        "Phán quyết của tòa án không thể ngăn cản thỏa thuận trị giá 1,5 triệu USD",
+        "Thỏa thuận này liên quan đến vi phạm cổ phiếu Twitter",
+        "Hộ thẩm phán cho rằng thỏa thuận này không công bằng",
+        "Thỏa thuận vẫn được chấp thuận"
+      ],
+      "full_summary": "Hộ thẩm phán đã chấp thuận thỏa thuận trị giá 1,5 triệu USD giữa Elon Musk và Ủy ban Chứng khoán và Sàn giao dịch (SEC) sau khi cho rằng thỏa thuận này không công bằng. Thỏa thuận này liên quan đến vi phạm cổ phiếu Twitter của Elon Musk. Hộ thẩm phán cho rằng tòa án không thể ngăn cản thỏa thuận này. Thỏa thuận vẫn được chấp thuận, nhưng hộ thẩm phán đã bày tỏ sự không hài lòng của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "12e48fa8f456",
+      "title": "Payloads used to dictate the terms of launch. That's finally changing.",
+      "url": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-09T19:27:25.308301+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Khai phá mới trong công nghệ phóng tên lửa",
+      "bullets": [
+        "Thay đổi cách tiếp cận trong việc phóng vệ tinh",
+        "Các nhà phát triển tên lửa tập trung vào nhu cầu thực tế",
+        "Thử nghiệm với thiết kế và quy mô mới",
+        "Cải thiện hiệu quả và giảm chi phí"
+      ],
+      "full_summary": "Các nhà phát triển tên lửa đang thay đổi cách tiếp cận trong việc phóng vệ tinh. Thay vì theo đuổi xu hướng, họ bây giờ tập trung vào nhu cầu thực tế và thử nghiệm với thiết kế và quy mô mới. Điều này giúp cải thiện hiệu quả và giảm chi phí. Ví dụ, Starship Pez dispenser đã thể hiện thiết kế và quy mô thông minh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "229786dc8672",
       "title": "At least 28 killed in China shoe factory fire, state media reports",
@@ -613,186 +792,6 @@
         "Sự kiện này đã rời khỏi Ả Rập Xê Út chỉ trong 8 tuần"
       ],
       "full_summary": "Cúp Esports đã chuyển từ Ả Rập Xê Út sang Paris chỉ trong 8 tuần. Sự kiện này vẫn còn nhiều tranh cãi. Cúp Esports đã bắt đầu diễn ra tại Paris, nhưng vẫn còn nhiều câu hỏi về việc chuyển đổi địa điểm tổ chức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "039db3d9b1d9",
-      "title": "TikTok users don't have as much agency over their FYPs as they think",
-      "url": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-08T19:13:29.090087+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Người dùng TikTok không có nhiều quyền kiểm soát FYP như họ nghĩ",
-      "bullets": [
-        "Sử dụng tính năng 'không quan tâm' để điều chỉnh FYP",
-        "Phải thường xuyên và cố ý quản lý nội dung xuất hiện trên FYP",
-        "TikTok sử dụng thuật toán để quyết định nội dung xuất hiện trên FYP",
-        "Người dùng không thể hoàn toàn kiểm soát nội dung xuất hiện trên FYP"
-      ],
-      "full_summary": "Một nghiên cứu mới cho thấy người dùng TikTok không có nhiều quyền kiểm soát FYP (phần trình diễn nổi bật) như họ nghĩ. Để có thể điều chỉnh FYP, người dùng phải sử dụng tính năng 'không quan tâm' và thường xuyên quản lý nội dung xuất hiện. Tuy nhiên, TikTok vẫn sử dụng thuật toán để quyết định nội dung xuất hiện trên FYP, khiến người dùng không thể hoàn toàn kiểm soát.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a70bb9fec726",
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T13:47:11.287353+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump tuyên bố ngừng bắn với Iran đã kết thúc",
-      "bullets": [
-        "Trump tuyên bố ngừng bắn với Iran đã kết thúc",
-        "Hai bên đã trao đổi các cuộc tấn công quân sự",
-        "Thủ tướng Iran cho biết nước này sẽ không tham gia các cuộc đàm phán",
-        "Ngoại trưởng Mỹ nói rằng Mỹ vẫn sẵn sàng đàm phán"
-      ],
-      "full_summary": "Trước cuộc họp Nato, Tổng thống Trump tuyên bố ngừng bắn với Iran đã kết thúc. Ông nói rằng các nhà đàm phán Mỹ vẫn sẵn sàng tiếp tục đàm phán với Iran nếu họ muốn. Tuy nhiên, Thủ tướng Iran đã tuyên bố nước này sẽ không tham gia các cuộc đàm phán. Hai bên đã trao đổi các cuộc tấn công quân sự trong thời gian gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88081d314cc8",
-      "title": "US strikes target Iranian military boats",
-      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T13:47:12.505710+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ tấn công tàu chiến Iran sau vụ tấn công tàu chở dầu",
-      "bullets": [
-        "Mỹ đã thực hiện vụ tấn công nhằm vào tàu chiến Iran",
-        "Vụ tấn công này là đáp trả cho các vụ tấn công vào ba tàu chở dầu tại eo biển Hormuz",
-        "Các tàu chở dầu bị tấn công đã bị hư hỏng nghiêm trọng",
-        "Mỹ đang tăng cường hiện diện quân sự tại khu vực Vịnh Ba Tư"
-      ],
-      "full_summary": "Mỹ đã thực hiện vụ tấn công nhằm vào tàu chiến Iran sau khi các tàu chở dầu bị tấn công tại eo biển Hormuz. Vụ tấn công này nhằm đáp trả các vụ tấn công vào ba tàu chở dầu. Các tàu chở dầu bị tấn công đã bị hư hỏng nghiêm trọng. Mỹ đang tăng cường hiện diện quân sự tại khu vực Vịnh Ba Tư để ngăn chặn các vụ tấn công tương tự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7c10da8c9cb2",
-      "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-      "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T13:47:13.398064+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Nigeria yêu cầu điều tra cơ quan giả mạo trong văn phòng",
-      "bullets": [
-        "Tổng thống Nigeria yêu cầu điều tra cơ quan giả mạo",
-        "Adeniyi Adeyemi bị cáo buộc tạo ra giấy tờ giả mạo",
-        "Cơ quan giả mạo được tài trợ mà chính phủ không biết",
-        "Tổng thống yêu cầu tìm hiểu sự thật"
-      ],
-      "full_summary": "Tổng thống Nigeria đã yêu cầu điều tra về việc một cơ quan giả mạo được thành lập trong văn phòng của ông. Theo báo cáo, Adeniyi Adeyemi đã tạo ra một giấy tờ giả mạo về việc bổ nhiệm và nhận được tài trợ cho cơ quan này mà chính phủ không biết. Tổng thống yêu cầu tìm hiểu sự thật và làm rõ việc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e8add58ad65c",
-      "title": "Robots available for rent: But what can they do?",
-      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T13:47:15.315924+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các robot có thể được thuê để thực hiện các nhiệm vụ",
-      "bullets": [
-        "Cung cấp robot cho thuê để giảm chi phí đầu tư",
-        "Robot có thể được sử dụng cho nhiều mục đích khác nhau",
-        "Công nghệ robot đang phát triển nhanh chóng",
-        "Rental robot có thể giúp các doanh nghiệp tiết kiệm chi phí"
-      ],
-      "full_summary": "Công nghệ robot đang phát triển nhanh chóng và nhiều công ty đang xem xét việc thuê robot để giảm chi phí đầu tư. Các robot có thể được sử dụng cho nhiều mục đích khác nhau, từ sản xuất đến dịch vụ khách hàng. Việc thuê robot có thể giúp các doanh nghiệp tiết kiệm chi phí và tập trung vào các hoạt động kinh doanh chính.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bdbd18a795f",
-      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T13:47:16.444352+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Microsoft giảm 4.800 nhân viên và thu hẹp Xbox trong cuộc tái cấu trúc lớn",
-      "bullets": [
-        "Microsoft cắt giảm 4.800 nhân viên, chiếm 2,1% lực lượng lao động của công ty.",
-        "1.600 nhân viên Xbox bị sa thải ngay lập tức.",
-        "Cuộc tái cấu trúc lớn nhằm mục đích tái cấu trúc lại hoạt động kinh doanh của Microsoft.",
-        "Xbox sẽ bị thu hẹp để tập trung vào các sản phẩm và dịch vụ khác."
-      ],
-      "full_summary": "Microsoft vừa công bố cuộc tái cấu trúc lớn, cắt giảm 4.800 nhân viên, chiếm 2,1% lực lượng lao động của công ty. 1.600 nhân viên Xbox bị sa thải ngay lập tức. Cuộc tái cấu trúc này nhằm mục đích tái cấu trúc lại hoạt động kinh doanh của Microsoft và tập trung vào các sản phẩm và dịch vụ khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "944471b2504f",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-08T13:47:23.213049+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple tăng chi tiêu cho Broadcom để sản xuất hàng tỷ chip tại Mỹ",
-      "bullets": [
-        "Apple sẽ tăng chi tiêu cho Broadcom để sản xuất nhiều chip hơn tại Mỹ",
-        "Sự hợp tác này sẽ giúp tăng cường sản xuất chip trong nước",
-        "Apple và Broadcom sẽ hợp tác để sản xuất chip với công nghệ mới",
-        "Sự hợp tác này sẽ giúp Apple giảm phụ thuộc vào nguồn cung chip từ nước ngoài"
-      ],
-      "full_summary": "Apple đã công bố kế hoạch tăng chi tiêu cho Broadcom để sản xuất hàng tỷ chip tại Mỹ. Sự hợp tác này sẽ giúp tăng cường sản xuất chip trong nước và giảm phụ thuộc vào nguồn cung chip từ nước ngoài. Apple và Broadcom sẽ hợp tác để sản xuất chip với công nghệ mới và cải thiện chất lượng sản phẩm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c18682234975",
-      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T08:13:21.790334+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Marine Le Pen tiếp tục chiến dịch tổng thống sau bản án",
-      "bullets": [
-        "Bị kết tội nhưng Marine Le Pen vẫn tiếp tục chiến dịch tổng thống",
-        "Bà đã công bố chiến dịch tranh cử tổng thống sau khi tòa án phúc thẩm xác nhận bản án",
-        "Marine Le Pen là lãnh đạo của đảng cực hữu Quốc gia Tự do",
-        "Bà từng là ứng cử viên tổng thống Pháp vào năm 2017"
-      ],
-      "full_summary": "Một tòa án phúc thẩm của Pháp vừa xác nhận bản án kết tội Marine Le Pen, lãnh đạo của đảng cực hữu Quốc gia Tự do. Mặc dù vậy, bà đã nhanh chóng công bố chiến dịch tranh cử tổng thống. Điều này cho thấy sự quyết tâm của bà trong việc trở thành tổng thống Pháp. Chiến dịch tranh cử của bà đã được bắt đầu sau khi tòa án phúc thẩm xác nhận bản án kết tội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "39100aea0e2d",
-      "title": "Nato allies announce £37bn for new missile project",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T08:13:22.786642+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "NATO đồng minh công bố 37 tỷ bảng cho dự án tên lửa mới",
-      "bullets": [
-        "Cơ quan Nato công bố kế hoạch phát triển tên lửa mới",
-        "Dự án trị giá 37 tỷ bảng do các đồng minh tài trợ",
-        "Chủ tịch Nato sẽ tổ chức cuộc họp với các lãnh đạo để thảo luận",
-        "Dự án nhằm tăng cường khả năng phòng thủ của Nato"
-      ],
-      "full_summary": "Chủ tịch Nato và các đồng minh đã công bố kế hoạch phát triển một dự án tên lửa mới trị giá 37 tỷ bảng. Dự án này nhằm tăng cường khả năng phòng thủ của Nato và sẽ được thảo luận tại cuộc họp do Chủ tịch Nato tổ chức ở Ankara. Các lãnh đạo của các quốc gia đồng minh sẽ tham gia cuộc họp để thảo luận về kế hoạch này.",
       "comments": 0,
       "score": 0
     }
