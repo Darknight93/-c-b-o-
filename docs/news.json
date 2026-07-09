@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-08T19:13:32.549747+00:00",
+  "updated_at": "2026-07-09T02:13:15.972492+00:00",
   "articles": [
+    {
+      "id": "c7c3e9bafbb0",
+      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T02:13:00.835274+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Thổ Nhĩ Kỳ tặng súng cho Starmer tại NATO",
+      "bullets": [
+        "Tặng súng và đạn cho Starmer",
+        "Súng không được mang về Anh",
+        "Bị để lại với các quan chức Anh tại Thổ Nhĩ Kỳ",
+        "Cái chết của một người trong một vụ bắn súng"
+      ],
+      "full_summary": "Chủ tịch Thổ Nhĩ Kỳ đã tặng súng và đạn cho lãnh đạo Đảng Lao động Anh, Keir Starmer, trong một sự kiện tại NATO. Tuy nhiên, súng đã không được mang về Anh và đã bị để lại với các quan chức Anh tại Thổ Nhĩ Kỳ. Sự kiện này đã gây ra sự tranh cãi và lo ngại về an ninh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b517fe6bfff6",
+      "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T02:13:01.718002+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Justin Bieber tham gia biểu diễn tại trận chung kết FIFA World Cup",
+      "bullets": [
+        "Justin Bieber tham gia biểu diễn tại trận chung kết FIFA World Cup",
+        "Justin Bieber sẽ biểu diễn cùng Madonna, Shakira và BTS",
+        "Đêm biểu diễn sẽ có phong cách như Super Bowl",
+        "Đây là một trong những sự kiện lớn sau khi Justin Bieber trở lại với các buổi biểu diễn tại Coachella"
+      ],
+      "full_summary": "Justin Bieber đã tham gia biểu diễn tại trận chung kết FIFA World Cup cùng với Madonna, Shakira và BTS. Đêm biểu diễn sẽ có phong cách như Super Bowl, đánh dấu sự trở lại của Justin Bieber sau các buổi biểu diễn tại Coachella. Đây là một trong những sự kiện lớn trong sự nghiệp của Justin Bieber.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d74c3a691339",
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T02:13:02.601865+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Giá nhà ở San Francisco đạt mức cao kỷ lục 1,7 triệu USD",
+      "bullets": [
+        "Nâng cao giá nhà lên mức kỷ lục",
+        "Cao giá nhà do lao động AI giàu có",
+        "Giá nhà trung bình đạt 1,7 triệu USD",
+        "Sự tăng giá nhà gây ảnh hưởng lớn"
+      ],
+      "full_summary": "Giá nhà ở San Francisco đã đạt mức cao kỷ lục 1,7 triệu USD. Theo số liệu mới nhất, giá nhà ở San Francisco đã tăng lên mức kỷ lục. Sự gia tăng giá nhà này được cho là do lao động AI giàu có. Điều này đã gây ảnh hưởng lớn đến thị trường bất động sản ở San Francisco.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "44bf46b8f721",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T02:13:03.589341+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nghiên cứu viên AI cho rằng AI không thông minh như mọi người nghĩ",
+      "bullets": [
+        "Yan LeCun đang phát triển hệ thống AI linh hoạt hơn",
+        "Hệ thống AI mới sẽ có khả năng thích nghi cao hơn",
+        "Nghiên cứu viên này đang cố gắng khắc phục hạn chế của AI hiện tại",
+        "Mục tiêu là tạo ra AI có thể tự học hỏi và thích nghi nhanh chóng"
+      ],
+      "full_summary": "Yan LeCun, một trong những nhà nghiên cứu AI hàng đầu, đang phát triển một hệ thống AI mới có khả năng linh hoạt hơn. Ông cho rằng AI hiện tại không thông minh như mọi người nghĩ và cần được cải thiện. Hệ thống AI mới của ông sẽ có khả năng thích nghi cao hơn và tự học hỏi nhanh chóng. Mục tiêu của ông là tạo ra AI có thể tự thích nghi và học hỏi mà không cần sự can thiệp của con người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6fc30878cfd6",
+      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+      "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T02:13:06.092680+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cơ quan chức năng Liberia bắt giữ 5 nghi phạm liên quan đến vụ buôn ma túy lớn",
+      "bullets": [
+        "Bắt giữ 5 nghi phạm liên quan đến vụ buôn ma túy lớn ở Liberia",
+        "Khám xét 200kg cocaine được giấu trong hộp gia vị Maggi",
+        "Giá trị của vụ buôn ma túy ước tính lên đến 19 triệu USD",
+        "Cơ quan chức năng Liberia đang điều tra vụ việc"
+      ],
+      "full_summary": "Cơ quan chức năng Liberia vừa bắt giữ 5 nghi phạm liên quan đến vụ buôn ma túy lớn, sau khi phát hiện 200kg cocaine được giấu trong hộp gia vị Maggi. Vụ buôn ma túy này có giá trị ước tính lên đến 19 triệu USD. Các nghi phạm bị bắt giữ sau khi cơ quan chức năng phát hiện ra vụ buôn ma túy tại sân bay quốc tế Monrovia vào ngày 8 tháng 6.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0a804d931ff0",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T02:13:07.044191+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Các nhà khảo cổ phát hiện thành phố Byzantine cổ xưa ở sa mạc phía tây Ai Cập",
+      "bullets": [
+        "Khám phá thành phố Byzantine cổ xưa ở sa mạc phía tây Ai Cập",
+        "Khám phá các khu dân cư và công trình tôn giáo từ thế kỷ 4",
+        "Tìm thấy các đồng tiền, mảnh gốm và công cụ từ thời kỳ Byzantine"
+      ],
+      "full_summary": "Các nhà khảo cổ ở Ai Cập đã khám phá thành phố Byzantine cổ xưa ở sa mạc phía tây. Thành phố này có các khu dân cư và công trình tôn giáo từ thế kỷ 4, bao gồm một nhà thờ kiểu basilica. Các nhà khảo cổ cũng tìm thấy các đồng tiền, mảnh gốm và công cụ từ thời kỳ Byzantine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69916b607e14",
+      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-09T02:13:09.856024+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Một người dùng Grok tạo ra 7.000 hình ảnh lạm dụng tình dục với cháu gái rồi tự tử",
+      "bullets": [
+        "Tố cáo X đã che chở cho kẻ lạm dụng tình dục trẻ em",
+        "Một người dùng Grok tạo ra 7.000 hình ảnh lạm dụng tình dục với cháu gái",
+        "Người dùng này chỉ báo cáo một vụ tấn công tình dục tập thể",
+        "Các cô gái trẻ tiếp tục kiện X vì sử dụng Grok tạo ra nội dung lạm dụng tình dục"
+      ],
+      "full_summary": "Một vụ kiện mới được đưa ra chống lại công ty X vì sử dụng ứng dụng Grok để tạo ra nội dung lạm dụng tình dục trẻ em. Người dùng Grok đã tạo ra 7.000 hình ảnh lạm dụng tình dục với cháu gái của mình, nhưng chỉ báo cáo một vụ tấn công tình dục tập thể. Các cô gái trẻ tiếp tục kiện X vì sử dụng Grok tạo ra nội dung lạm dụng tình dục. Vụ việc này đã gây ra sự phẫn nộ và chỉ trích đối với công ty X.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cefb416ea470",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-09T02:13:15.472338+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "MIRA: mô hình thế giới tương tác đa người chơi được đào tạo bằng Rocket League",
+      "bullets": [
+        "Được đào tạo trên trò chơi Rocket League",
+        "Tạo mô hình thế giới tương tác đa người chơi",
+        "MIRA cho phép tương tác với môi trường ảo",
+        "..."
+      ],
+      "full_summary": "MIRA (Multiplayer Interactive World Models) là một mô hình thế giới tương tác đa người chơi được đào tạo bằng trò chơi Rocket League. MIRA cho phép tương tác với môi trường ảo và tạo ra các mô hình thế giới phức tạp. MIRA được phát triển bởi một nhóm nghiên cứu và có thể được sử dụng trong các ứng dụng khác nhau.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ac96a476c138",
       "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
@@ -634,165 +793,6 @@
         "Châu Âu lo ngại về sự an toàn và bảo vệ"
       ],
       "full_summary": "NATO đang gặp khó khăn khi tái vũ trang châu Âu. Lời lẽ của Tổng thống Trump đã gây ra sự chia rẽ trong hội nghị quan trọng. Các quốc gia thành viên NATO đang tìm cách đoàn kết và đối mặt với thách thức tái vũ trang châu Âu. Châu Âu lo ngại về sự an toàn và bảo vệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2db4dc019ed8",
-      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T19:45:16.095955+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Bác sĩ Gaza bị đánh đập nặng nề trong tù Israel",
-      "bullets": [
-        "Bác sĩ Hussam Abu Safiya bị đánh đập nghiêm trọng",
-        "Tư vấn viên nói rằng bệnh nhân không thể nhận ra ông",
-        "Bác sĩ này bị giam giữ vì lý do chưa rõ",
-        "Tình hình Gaza đang trở nên căng thẳng"
-      ],
-      "full_summary": "Bác sĩ Hussam Abu Safiya, một bác sĩ người Palestine, đã bị đánh đập nặng nề trong tù Israel. Tư vấn viên của ông nói rằng bệnh nhân không thể nhận ra ông trong một cuộc gặp gần đây. Bác sĩ này bị giam giữ vì lý do chưa rõ, nhưng tình hình Gaza đang trở nên căng thẳng. Các tổ chức nhân quyền đã lên án hành động của Israel.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3f5c451d973f",
-      "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
-      "url": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T19:45:17.130368+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hungary đình chỉ chương trình tin tức công cộng để loại bỏ tuyên truyền của Orban",
-      "bullets": [
-        "Hungary ngừng phát sóng tin tức công cộng để loại bỏ tuyên truyền của Orban",
-        "Kênh truyền hình quốc gia Hungary xin lỗi vì đã nói dối",
-        "Nước này đang cố gắng loại bỏ ảnh hưởng của chính phủ trong truyền thông",
-        "Động thái này được coi là bước đầu tiên trong việc loại bỏ tuyên truyền của Orban"
-      ],
-      "full_summary": "Hungary đã đình chỉ phát sóng tin tức công cộng để loại bỏ tuyên truyền của chính phủ. Kênh truyền hình quốc gia Hungary đã xuất hiện một thông điệp xin lỗi vì đã nói dối. Động thái này được coi là bước đầu tiên trong việc loại bỏ tuyên truyền của chính phủ Orban. Nước này đang cố gắng loại bỏ ảnh hưởng của chính phủ trong truyền thông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bab75b19f188",
-      "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T19:45:18.246512+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ngoại trưởng Nam Phi bị hoãn thăm Ghana vì lo ngại biểu tình",
-      "bullets": [
-        "Hoãn thăm của Tổng thống Nam Phi vì lo ngại biểu tình",
-        "Nhiều người Ghana sợ sự hiện diện của ông sẽ dẫn đến biểu tình lớn",
-        "Chính quyền Ghana cho biết chuyến thăm bị hoãn tạm thời",
-        "Căng thẳng giữa Ghana và Nam Phi liên quan đến vấn đề di cư"
-      ],
-      "full_summary": "Chính phủ Ghana đã hoãn chuyến thăm của Tổng thống Nam Phi vì lo ngại biểu tình. Nhiều người Ghana sợ sự hiện diện của ông sẽ dẫn đến biểu tình lớn. Chính quyền Ghana cho biết chuyến thăm bị hoãn tạm thời. Căng thẳng giữa Ghana và Nam Phi liên quan đến vấn đề di cư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3a33ae5828e",
-      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T19:45:19.232642+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Catnip lotion hiệu quả như Deet trong chống muỗi.",
-      "bullets": [
-        "Nghiên cứu tại Uganda chứng minh lotion catnip hiệu quả như Deet.",
-        "Nepetalactone trong catnip có tính chất chống muỗi.",
-        "Catnip là loại thảo mộc phổ biến từ họ bạc hà.",
-        "Nghiên cứu này có thể giúp tìm ra phương pháp chống muỗi mới."
-      ],
-      "full_summary": "Một loại lotion catnip đã được chứng minh là hiệu quả như Deet trong chống muỗi trong các thử nghiệm tại Uganda. Nepetalactone, chất gây hưng phấn ở mèo, cũng có tính chất chống muỗi. Loại thảo mộc này có thể trở thành phương pháp chống muỗi mới, thay thế cho các hóa chất nhân tạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94a1b55405e7",
-      "title": "The Nintendo Switch's days are numbered—but what is that number?",
-      "url": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-07T19:45:22.546820+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Nintendo Switch có thể tiếp tục bán chạy trong nhiều năm tới",
-      "bullets": [
-        "Báo cáo của Ars Technica dự đoán Nintendo Switch có thể tiếp tục bán chạy trong ít nhất 3 năm nữa",
-        "Console 9 tuổi này vẫn có thể thu hút người dùng nhờ các tựa game mới và nâng cấp phần cứng",
-        "Nintendo có thể tiếp tục tận dụng thành công của Switch bằng cách phát hành các phiên bản mới và nâng cấp",
-        "Tuy nhiên, sự cạnh tranh từ các đối thủ như PlayStation và Xbox có thể ảnh hưởng đến doanh số của Switch"
-      ],
-      "full_summary": "Báo cáo của Ars Technica vừa công bố dự đoán về số năm còn lại của Nintendo Switch. Theo đó, console 9 tuổi này có thể tiếp tục bán chạy trong ít nhất 3 năm nữa. Điều này được cho là nhờ các tựa game mới và nâng cấp phần cứng. Nintendo có thể tiếp tục tận dụng thành công của Switch bằng cách phát hành các phiên bản mới và nâng cấp. Tuy nhiên, sự cạnh tranh từ các đối thủ như PlayStation và Xbox có thể ảnh hưởng đến doanh số của Switch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5c5e570aad34",
-      "title": "Decrypting View State Messages",
-      "url": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-07T19:45:27.669949+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mã hóa View State được giải mã",
-      "bullets": [
-        "Giải thích cách mã hóa View State trong ứng dụng web",
-        "Phân tích mã hóa và cách giải mã View State",
-        "Cung cấp ví dụ về cách thực hiện mã hóa và giải mã View State"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã giải thích cách mã hóa và giải mã View State trong ứng dụng web. View State là một tính năng của ASP.NET cho phép lưu trữ trạng thái của ứng dụng trên máy chủ. Bài viết cung cấp thông tin chi tiết về cách mã hóa và giải mã View State, bao gồm cả ví dụ về cách thực hiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3fa9a9f94e4",
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T14:13:02.907354+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một phụ nữ nghi ngờ liên quan đến vụ nổ ở Monaco đã chết tại Ukraine",
-      "bullets": [
-        "Cảnh sát đã tìm kiếm Anastasiia Berezovska sau vụ nổ làm bị thương một triệu phú Ukraine",
-        "Bà đã được xác định là nghi phạm trong vụ tấn công ở Monaco",
-        "Cơ quan chức năng Ukraine đã tìm kiếm bà ở Ukraine",
-        "Bà đã được tìm thấy chết tại Ukraine"
-      ],
-      "full_summary": "Cảnh sát đã tìm kiếm Anastasiia Berezovska sau vụ nổ làm bị thương một triệu phú Ukraine. Bà được xác định là nghi phạm trong vụ tấn công ở Monaco. Cơ quan chức năng Ukraine đã tìm kiếm bà ở Ukraine và cuối cùng đã tìm thấy bà chết. Vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c9d65ae21e41",
-      "title": "Zimbabwean football star survives gun attack in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T14:13:03.720212+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cầu thủ bóng đá Zimbabwe bị tấn công súng ở Nam Phi",
-      "bullets": [
-        "Cảnh sát Nam Phi đang điều tra vụ tấn công",
-        "Không có nghi phạm nào bị bắt giữ",
-        "Cầu thủ Zimbabwe đang được chăm sóc y tế",
-        "Cảnh sát đang điều tra nguyên nhân vụ tấn công"
-      ],
-      "full_summary": "Cầu thủ bóng đá Zimbabwe bị tấn công súng ở Nam Phi. Cảnh sát Nam Phi đang điều tra vụ tấn công và không có nghi phạm nào bị bắt giữ. Cầu thủ Zimbabwe đang được chăm sóc y tế. Cảnh sát đang điều tra nguyên nhân vụ tấn công.",
       "comments": 0,
       "score": 0
     }
