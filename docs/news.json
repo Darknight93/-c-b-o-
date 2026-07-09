@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-09T02:13:15.972492+00:00",
+  "updated_at": "2026-07-09T09:36:10.187282+00:00",
   "articles": [
+    {
+      "id": "fdcbbff025ae",
+      "title": "US and Iran trade strikes for second night in a row",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T09:35:54.614186+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ và Iran tiếp tục trả đũa nhau qua các vụ tấn công",
+      "bullets": [
+        "Mỹ và Iran đã tiếp tục tấn công nhau qua các vụ tấn công trong hai đêm liên tiếp.",
+        "Sự cố này đã khiến lưu lượng giao thông qua eo biển Hormuz giảm mạnh.",
+        "Các nước phương Tây đang lo ngại về sự leo thang căng thẳng giữa hai quốc gia này.",
+        "Tình hình đang trở nên phức tạp và khó đoán."
+      ],
+      "full_summary": "Mỹ và Iran đã tiếp tục trả đũa nhau qua các vụ tấn công trong hai đêm liên tiếp. Sự cố này đã khiến lưu lượng giao thông qua eo biển Hormuz giảm mạnh. Các nước phương Tây đang lo ngại về sự leo thang căng thẳng giữa hai quốc gia này. Tình hình đang trở nên phức tạp và khó đoán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b3a9308c9e77",
+      "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+      "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T09:35:56.583589+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cử tri Graham Platner rút khỏi cuộc đua, làm nổi bật mâu thuẫn trong Đảng Dân chủ",
+      "bullets": [
+        "Cử tri Graham Platner rút khỏi cuộc đua thượng viện gây bất ổn cho Đảng Dân chủ",
+        "Mâu thuẫn giữa cánh tả và trung dung của Đảng Dân chủ ngày càng rõ ràng",
+        "Cử tri Platner rút khỏi cuộc đua để tập trung vào sức khỏe",
+        "Mâu thuẫn này có thể ảnh hưởng đến hy vọng của Đảng Dân chủ trong cuộc bầu cử thượng viện"
+      ],
+      "full_summary": "Cử tri Graham Platner đã rút khỏi cuộc đua thượng viện, gây bất ổn cho Đảng Dân chủ. Mâu thuẫn giữa cánh tả và trung dung của Đảng Dân chủ đã trở nên rõ ràng hơn. Cử tri Platner đã rút khỏi cuộc đua để tập trung vào sức khỏe. Mâu thuẫn này có thể ảnh hưởng đến hy vọng của Đảng Dân chủ trong cuộc bầu cử thượng viện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e53b150499dc",
+      "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
+      "url": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T09:35:57.638389+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Họ có thể mất con sau khi phát hiện Marcus có thể là nạn nhân buôn người",
+      "bullets": [
+        "Họ đã nhận con nuôi Marcus",
+        "Nhưng sau đó họ được thông báo Marcus có thể là nạn nhân buôn người",
+        "Đôi vợ chồng này có thể mất con vì lý do này",
+        "Marcus là con trai mà họ đã nhận nuôi từ lâu"
+      ],
+      "full_summary": "David và Ally đã nhận nuôi Marcus, giúp hoàn thành giấc mơ có con của họ. Tuy nhiên, sau đó họ được thông báo Marcus có thể là nạn nhân buôn người. Điều này đã khiến họ lo lắng và có thể mất con vì lý do này. Họ đang cố gắng tìm hiểu thêm về việc này và bảo vệ con mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "417c14b1cc1d",
+      "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
+      "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T09:35:58.698440+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Bọ cạp vườn cho thấy hành vi giống cảm xúc",
+      "bullets": [
+        "Bọ cạp vườn thể hiện hành vi giống cảm xúc",
+        "Hành vi này trước đây chỉ được thấy ở động vật có vú",
+        "Nghiên cứu mới cho thấy bọ cạp vườn có thể có cảm xúc",
+        "Hành vi này có thể giúp hiểu thêm về hành vi của bọ cạp vườn"
+      ],
+      "full_summary": "Một nghiên cứu mới cho thấy bọ cạp vườn thể hiện hành vi giống cảm xúc, trước đây chỉ được thấy ở động vật có vú. Nghiên cứu này có thể giúp hiểu thêm về hành vi của bọ cạp vườn và liệu chúng có cảm xúc hay không. Kết quả này có thể mở ra một hướng mới trong nghiên cứu về hành vi của động vật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b87a2b660727",
+      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
+      "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T09:35:59.761987+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hội đồng Hình sự Quốc tế tiết lộ tiến bộ trong điều tra tội ác Sudan",
+      "bullets": [
+        "Khám phá tội ác ở Darfur trong 3 năm qua",
+        "ICC điều tra các tội ác nghiêm trọng",
+        "Tìm kiếm sự thật về tội ác ở Sudan",
+        "Tiến bộ trong điều tra tội ác Sudan"
+      ],
+      "full_summary": "Hội đồng Hình sự Quốc tế (ICC) vừa thông báo về tiến bộ trong điều tra tội ác ở Sudan. Các điều tra viên đang xem xét các tội ác được thực hiện ở Darfur trong 3 năm qua. ICC đang tìm kiếm sự thật về tội ác ở Sudan và sẽ tiếp tục điều tra để đảm bảo công lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3bd5e51831e",
+      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T09:36:00.708411+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google bị phạt 4,1 tỷ euro vì sử dụng Android hạn chế đối thủ",
+      "bullets": [
+        "Google bị phạt 4,1 tỷ euro vì vi phạm luật cạnh tranh",
+        "Google cho rằng quyết định này không công bằng",
+        "Google đã đầu tư mạnh mẽ để đảm bảo Android vẫn là hệ điều hành mở"
+      ],
+      "full_summary": "Tòa án châu Âu vừa ra quyết định phạt Google 4,1 tỷ euro vì sử dụng hệ điều hành Android để hạn chế đối thủ. Google cho rằng quyết định này không công bằng và sẽ kháng cáo. Google đã đầu tư mạnh mẽ để đảm bảo Android vẫn là hệ điều hành mở và cho phép các nhà phát triển tùy biến.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3a33ae5828e",
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-09T09:36:01.659524+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Catnip lotion hiệu quả như Deet trong chống muỗi",
+      "bullets": [
+        "Nghiên cứu tại Uganda chứng minh lotion catnip hiệu quả như Deet",
+        "Nepetalactone trong catnip có tính chất chống muỗi",
+        "Catnip là loại thảo mộc phổ biến từ họ bạc hà"
+      ],
+      "full_summary": "Các nhà nghiên cứu tại Uganda đã thực hiện thử nghiệm lotion catnip và phát hiện ra rằng nó có hiệu quả tương đương với Deet trong chống muỗi. Lotion catnip chứa nepetalactone, một chất có trong loại thảo mộc này, giúp chống muỗi. Điều này cho thấy catnip có tiềm năng trở thành một lựa chọn thay thế an toàn và hiệu quả cho Deet.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "121e3150eda1",
+      "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-09T09:36:05.122040+00:00",
+      "category": "politics|economy",
+      "importance": 3,
+      "headline": "Hội đồng xét xử từ chối cho phép Kalshi vi phạm luật cờ bạc New York",
+      "bullets": [
+        "Từ chối cho phép Kalshi hoạt động cờ bạc bất hợp pháp",
+        "Hội đồng xét xử xác định luật cờ bạc New York có hiệu lực",
+        "Kalshi bị yêu cầu tuân thủ luật cờ bạc New York",
+        "Hội đồng xét xử bảo vệ lợi ích của người dân New York"
+      ],
+      "full_summary": "Hội đồng xét xử đã từ chối cho phép Kalshi, một nền tảng dự đoán thị trường, vi phạm luật cờ bạc của tiểu bang New York. Theo đó, Kalshi sẽ phải tuân thủ luật cờ bạc của tiểu bang New York. Ngoại trưởng New York cho biết Kalshi đã cố gắng bỏ qua luật cờ bạc của tiểu bang. Hội đồng xét xử đã xác định luật cờ bạc của tiểu bang New York có hiệu lực và bảo vệ lợi ích của người dân New York.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d465f4b45da1",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-09T09:36:09.687102+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một phiên bản Rust của Postgres đã vượt qua 100% các thử nghiệm hồi đáp của Postgres",
+      "bullets": [
+        "Được viết lại hoàn toàn bằng Rust",
+        "Đã vượt qua tất cả các thử nghiệm hồi đáp của Postgres",
+        "Được phát triển bởi malisper",
+        "Cập nhật trên GitHub"
+      ],
+      "full_summary": "Một phiên bản mới của Postgres được viết lại hoàn toàn bằng Rust đã được phát triển và đã vượt qua tất cả các thử nghiệm hồi đáp của Postgres. Dự án này được phát triển bởi malisper và được cập nhật trên GitHub. Đây là một bước tiến quan trọng trong việc phát triển các hệ quản trị cơ sở dữ liệu mở.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "c7c3e9bafbb0",
       "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
@@ -615,184 +793,6 @@
         "Tyler Robinson bị cáo buộc giết nhà hoạt động bảo thủ Charlie Kirk"
       ],
       "full_summary": "Phiên tòa sơ thẩm sẽ quyết định liệu bị cáo Tyler Robinson có phải đứng trước tòa để xét xử hay không. Mới có video mới được trình chiếu tại phiên tòa sơ thẩm, cho thấy một người đàn ông trên nóc nhà gần hiện trường vụ bắn. Video này có thể liên quan đến vụ án. Tyler Robinson bị cáo buộc giết nhà hoạt động bảo thủ Charlie Kirk.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eefc5716aaf5",
-      "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
-      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T02:01:10.143897+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cha mẹ cảnh báo không chia sẻ hình ảnh con trên mạng xã hội",
-      "bullets": [
-        "Cảnh báo về nguy cơ hình ảnh con bị sử dụng tạo nội dung lạm dụng trẻ em",
-        "NCA cho biết nguy cơ này đang gia tăng",
-        "Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con trên mạng xã hội",
-        "Sử dụng công nghệ AI để tạo ra nội dung lạm dụng trẻ em"
-      ],
-      "full_summary": "NCA cảnh báo cha mẹ không nên chia sẻ hình ảnh con trên mạng xã hội vì nguy cơ hình ảnh con bị sử dụng tạo nội dung lạm dụng trẻ em đang gia tăng. Điều này có thể được thực hiện thông qua công nghệ AI. Cha mẹ cần cẩn thận khi chia sẻ hình ảnh con và nên cân nhắc kỹ trước khi đăng tải.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc00ccdb8b1e",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T02:01:11.086476+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta đặt mức giới hạn cho tính năng trong kính thông minh",
-      "bullets": [
-        "Meta giới hạn sử dụng tính năng tăng âm thanh trong kính thông minh",
-        "Người dùng chỉ được sử dụng tính năng này miễn phí trong 3 giờ",
-        "Sau đó, họ phải trả phí để tiếp tục sử dụng tính năng này",
-        "Tính năng này được tích hợp sẵn trong kính thông minh của Meta"
-      ],
-      "full_summary": "Meta đã thông báo sẽ giới hạn sử dụng tính năng tăng âm thanh trong kính thông minh của họ. Người dùng chỉ được sử dụng tính năng này miễn phí trong 3 giờ. Sau đó, họ phải trả phí để tiếp tục sử dụng tính năng này. Tính năng này được tích hợp sẵn trong kính thông minh của Meta.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ea12998b5d22",
-      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T02:01:12.028510+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Cơ quan nhân đạo lên án cuộc tấn công bằng máy bay không người lái ở Sudan",
-      "bullets": [
-        "Các máy bay không người lái đã tấn công trường học và trạm xăng ở El Obeid",
-        "Hơn 20 người đã thiệt mạng, bao gồm cả học sinh",
-        "Các cuộc tấn công đã trở nên tần suất hơn trong vài tháng qua"
-      ],
-      "full_summary": "Các nhân viên cứu trợ ở El Obeid, Sudan, đã mô tả tình hình là 'khủng khiếp' sau khi các máy bay không người lái tấn công thành phố này. Các cuộc tấn công đã gây ra thương vong nghiêm trọng, bao gồm cả trường học và trạm xăng. Các nhân viên cứu trợ lo ngại về tình hình an toàn của họ và người dân địa phương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0948fe9835cf",
-      "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
-      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-08T02:01:13.402738+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tổng công tố Pháp điều tra vụ xâm hại chủng tộc đối với Kylian Mbappé",
-      "bullets": [
-        "Tổng công tố Pháp mở cuộc điều tra vụ xâm hại chủng tộc đối với Kylian Mbappé",
-        "Thượng nghị sĩ Paraguay có thể bị buộc tội sau khi Liên đoàn bóng đá Pháp khiếu nại về các bài đăng trên mạng xã hội",
-        "Tổng công tố Paris đã mở cuộc điều tra sau khi Liên đoàn bóng đá Pháp khiếu nại với đơn vị quốc gia chống lại các loại tin đồn trên mạng xã hội",
-        "Các quan chức đang cân nhắc xem có nên yêu cầu thượng nghị sĩ bị buộc tội xúc phạm công chúng hoặc kích động hận thù hoặc bạo lực hay không"
-      ],
-      "full_summary": "Tổng công tố Pháp đã mở một cuộc điều tra về vụ xâm hại chủng tộc đối với Kylian Mbappé do thượng nghị sĩ Paraguay gây ra. Liên đoàn bóng đá Pháp đã khiếu nại với Tổng công tố Paris sau khi thượng nghị sĩ này đăng các bài đăng có chứa ngôn ngữ phân biệt chủng tộc trên mạng xã hội. Các quan chức đang cân nhắc xem có nên buộc tội thượng nghị sĩ này về tội xúc phạm công chúng hoặc kích động hận thù hoặc bạo lực hay không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a65a88f5b079",
-      "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-      "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-08T02:01:14.271424+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Michigan gặp bùng phát dịch ký sinh trùng gây tiêu chảy",
-      "bullets": [
-        "Cơ quan chức năng đang điều tra nguyên nhân gây ra dịch",
-        "Hơn 700 trường hợp đã được báo cáo",
-        "Số lượng bệnh nhân tăng nhanh chóng",
-        "Chính quyền đang tìm kiếm nguồn gốc chung"
-      ],
-      "full_summary": "Michigan đang trải qua một vụ bùng phát dịch ký sinh trùng gây tiêu chảy lớn, với hơn 700 trường hợp được báo cáo. Số lượng bệnh nhân tăng nhanh chóng và cơ quan chức năng đang điều tra nguyên nhân gây ra dịch. Chính quyền đang tìm kiếm nguồn gốc chung để ngăn chặn sự lây lan của dịch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8b3c996982ec",
-      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-08T02:01:15.273992+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Nhu cầu năng lượng của trung tâm dữ liệu đe dọa kế hoạch 'Sản xuất tại Mỹ' của Trump",
-      "bullets": [
-        "Tăng trưởng năng lượng của trung tâm dữ liệu gây áp lực lên hóa đơn điện của khu vực Bắc Mỹ",
-        "Chi phí năng lượng tăng cao đe dọa kế hoạch sản xuất của Trump",
-        "Kế hoạch 'Sản xuất tại Mỹ' của Trump gặp khó khăn do nhu cầu năng lượng của trung tâm dữ liệu",
-        "Nhu cầu năng lượng của trung tâm dữ liệu gây khó khăn cho các nhà sản xuất Mỹ"
-      ],
-      "full_summary": "Kế hoạch 'Sản xuất tại Mỹ' của cựu Tổng thống Trump đang gặp khó khăn do nhu cầu năng lượng của trung tâm dữ liệu tăng cao. Nhu cầu năng lượng của trung tâm dữ liệu đang gây áp lực lên hóa đơn điện của khu vực Bắc Mỹ, khiến chi phí năng lượng tăng cao. Điều này đe dọa kế hoạch sản xuất của Trump, vốn nhằm mục đích thúc đẩy sản xuất trong nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "185196dd5d77",
-      "title": "An interactive explorer for Benford's Law across real datasets",
-      "url": "https://vatsalbakshi.com/blog/benfords-law/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-08T02:01:20.278235+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nghiên cứu mới về luật Benford giúp phân tích dữ liệu thực tế",
-      "bullets": [
-        "Tạo ra một công cụ tương tác để khám phá luật Benford trên các tập dữ liệu thực tế",
-        "Phân tích dữ liệu theo luật Benford giúp phát hiện các dấu hiệu bất thường",
-        "Công cụ này cho phép người dùng tương tác và khám phá dữ liệu theo nhiều cách khác nhau"
-      ],
-      "full_summary": "Một nghiên cứu mới đã được công bố về luật Benford, một nguyên tắc toán học giúp phân tích dữ liệu thực tế. Công cụ tương tác mới này cho phép người dùng khám phá luật Benford trên các tập dữ liệu thực tế, giúp phát hiện các dấu hiệu bất thường và phân tích dữ liệu theo nhiều cách khác nhau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "59d825c12ba9",
-      "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T19:45:14.273420+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Marine Le Pen sẽ tranh cử tổng thống Pháp và kháng cáo bản án",
-      "bullets": [
-        "Marine Le Pen sẽ tranh cử tổng thống Pháp",
-        "Cô sẽ phải đeo điện tử giám sát trong một năm",
-        "Bản án của Le Pen được kháng cáo lên tòa án cao nhất",
-        "Cô lãnh đạo đảng Quốc hội Tự do"
-      ],
-      "full_summary": "Marine Le Pen, lãnh đạo đảng Quốc hội Tự do, đã quyết định tranh cử tổng thống Pháp sau khi một tòa án cho phép cô làm như vậy. Tuy nhiên, cô sẽ phải đeo điện tử giám sát trong một năm. Đây là một bước ngoặt quan trọng trong cuộc tranh cử tổng thống Pháp. Le Pen đã lãnh đạo đảng Quốc hội Tự do trong nhiều năm và đã trở thành một ứng cử viên quan trọng trong cuộc bầu cử sắp tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4d2979b9bf6f",
-      "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-      "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-07T19:45:15.167030+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "NATO gặp khó khăn khi tái vũ trang châu Âu vì lời lẽ của Trump",
-      "bullets": [
-        "NATO đang đối mặt với thách thức tái vũ trang châu Âu",
-        "Lời lẽ của Trump gây ra sự chia rẽ trong hội nghị quan trọng",
-        "Các quốc gia thành viên NATO đang tìm cách đoàn kết",
-        "Châu Âu lo ngại về sự an toàn và bảo vệ"
-      ],
-      "full_summary": "NATO đang gặp khó khăn khi tái vũ trang châu Âu. Lời lẽ của Tổng thống Trump đã gây ra sự chia rẽ trong hội nghị quan trọng. Các quốc gia thành viên NATO đang tìm cách đoàn kết và đối mặt với thách thức tái vũ trang châu Âu. Châu Âu lo ngại về sự an toàn và bảo vệ.",
       "comments": 0,
       "score": 0
     }
