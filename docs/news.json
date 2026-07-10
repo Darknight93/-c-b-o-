@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-07-10T09:22:47.247137+00:00",
+  "updated_at": "2026-07-10T14:05:50.912940+00:00",
   "articles": [
+    {
+      "id": "65c5c97f082c",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-10T14:05:34.314997+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Cơn bão Bavi sắp đe dọa Đông Á với sức tàn phá khủng khiếp",
+      "bullets": [
+        "Đi đến Đài Loan và miền Nam Trung Quốc, cơn bão Bavi dự kiến sẽ là một trong những cơn bão mạnh nhất trong nhiều thập kỷ.",
+        "Cơn bão Bavi rộng khoảng 1.000 km, được dự báo sẽ gây ra những thiệt hại nghiêm trọng.",
+        "Trước đó, cơn bão đã khiến 15 người thiệt mạng do sạt lở đất ở Philippines."
+      ],
+      "full_summary": "Cơn bão Bavi đang di chuyển về phía Đài Loan và miền Nam Trung Quốc, dự kiến sẽ là một trong những cơn bão mạnh nhất trong nhiều thập kỷ. Cơn bão rộng khoảng 1.000 km và được dự báo sẽ gây ra những thiệt hại nghiêm trọng. Trước đó, cơn bão đã khiến 15 người thiệt mạng do sạt lở đất ở Philippines. Các nhà chức trách đang chuẩn bị cho tình huống khẩn cấp để đối phó với cơn bão.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0983b925d074",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-10T14:05:35.480459+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Khách hàng gần bị hút ra ngoài cửa sổ trên chuyến bay Ryanair",
+      "bullets": [
+        "Bị thương trên chuyến bay từ Malta Air",
+        "Được đưa đi cấp cứu sau sự cố",
+        "Ryanair xác nhận sự cố trên chuyến bay",
+        "Chuyến bay được đảm bảo an toàn"
+      ],
+      "full_summary": "Một khách hàng trên chuyến bay từ Malta Air gần bị hút ra ngoài cửa sổ. Khách hàng được đưa đi cấp cứu sau sự cố. Ryanair xác nhận sự cố trên chuyến bay nhưng cho biết chuyến bay được đảm bảo an toàn. Sự cố này đã khiến nhiều người lo lắng về an toàn trên các chuyến bay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "64a6478c00f6",
+      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-10T14:05:38.030516+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Ủy ban châu Âu cảnh báo Meta về phạt vì Facebook và Instagram 'mất kiểm soát'",
+      "bullets": [
+        "Cảnh báo về tính chất 'mất kiểm soát' trên Facebook và Instagram",
+        "Các tính năng như cuộn vô tận góp phần vào 'tật nghiện'",
+        "Ủy ban châu Âu có thể phạt Meta vì vi phạm quy định về bảo vệ người tiêu dùng",
+        "Meta phải thay đổi các tính năng để giảm thiểu tác động tiêu cực"
+      ],
+      "full_summary": "Ủy ban châu Âu đã cảnh báo Meta, công ty sở hữu Facebook và Instagram, về việc phạt vì các tính năng trên hai nền tảng này có thể gây ra 'tật nghiện' và 'thói quen không lành mạnh'. Các tính năng như cuộn vô tận và các tính năng khuyến khích người dùng tiếp tục sử dụng có thể góp phần vào việc người dùng sử dụng các nền tảng này quá mức. Ủy ban châu Âu đã yêu cầu Meta phải thay đổi các tính năng này để giảm thiểu tác động tiêu cực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ffc547bf466",
+      "title": "Big tech must deal with scam ads under Ofcom proposals",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-10T14:05:39.297145+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cục phạt lớn với công ty công nghệ nếu quảng cáo lừa đảo",
+      "bullets": [
+        "Cục Ofcom đề xuất phạt nặng công ty công nghệ nếu quảng cáo lừa đảo",
+        "Hơn 50% người lớn Anh đã gặp quảng cáo lừa đảo trực tuyến",
+        "Cục Ofcom sẽ tăng cường giám sát quảng cáo trực tuyến",
+        "Mục tiêu là ngăn chặn quảng cáo lừa đảo ảnh hưởng đến người tiêu dùng"
+      ],
+      "full_summary": "Cục Ofcom của Anh đã đề xuất phạt nặng công ty công nghệ nếu quảng cáo lừa đảo. Theo Cục Ofcom, hơn 50% người lớn Anh đã gặp quảng cáo lừa đảo trực tuyến. Mục tiêu của đề xuất này là ngăn chặn quảng cáo lừa đảo ảnh hưởng đến người tiêu dùng. Cục Ofcom sẽ tăng cường giám sát quảng cáo trực tuyến để thực hiện mục tiêu này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49a7ce37d74e",
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-10T14:05:40.362652+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Các nước đang phát triển chi nhiều hơn cho nợ nước ngoài hơn cho giáo dục",
+      "bullets": [
+        "Chi phí trả nợ nước ngoài cao hơn chi phí giáo dục ở 113 nước đang phát triển",
+        "Các nước ở châu Phi cận Sahara chi 3,6 lần nhiều cho nợ nước ngoài hơn cho giáo dục",
+        "Giảm viện trợ giáo dục toàn cầu dự kiến lên đến 30%",
+        "Các nước đang phát triển chi ít hơn cho giáo dục so với trả nợ nước ngoài"
+      ],
+      "full_summary": "Theo báo cáo của UNESCO, 113 nước đang phát triển đã chi nhiều hơn cho nợ nước ngoài hơn cho giáo dục vào năm 2025. Điều này đồng nghĩa với việc các nước này đã phải trả nợ nước ngoài nhiều hơn so với chi phí giáo dục. Trong khi đó, viện trợ giáo dục toàn cầu dự kiến giảm xuống còn 30%. Điều này sẽ ảnh hưởng nghiêm trọng đến giáo dục ở các nước đang phát triển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "488a81a274a2",
+      "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-10T14:05:44.944197+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Căng thẳng về khả năng vận chuyển của Transporter",
+      "bullets": [
+        "Transporter gặp khó khăn về khả năng vận chuyển",
+        "Isar sẽ phóng từ Canada",
+        "Ariane 6 đang được phát triển mạnh mẽ",
+        "Transporter cần được tăng cường khả năng vận chuyển"
+      ],
+      "full_summary": "Transporter đang gặp khó khăn về khả năng vận chuyển, gây ra sự lo lắng trong ngành công nghiệp vũ trụ. Isar sẽ phóng từ Canada, trong khi đó Ariane 6 đang được phát triển mạnh mẽ. Transporter cần được tăng cường khả năng vận chuyển để đáp ứng nhu cầu ngày càng tăng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "88993270b049",
+      "title": "Proton AG Services is currently experiencing some issues",
+      "url": "https://status.proton.me/incidents/01lxtcq155lc",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-10T14:05:48.969378+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Dịch vụ Proton AG Services gặp vấn đề",
+      "bullets": [
+        "Đang gặp sự cố",
+        "Cập nhật tình hình trên trang trạng thái",
+        "Người dùng có thể theo dõi thông tin trên Hacker News"
+      ],
+      "full_summary": "Proton AG Services đang gặp vấn đề, người dùng có thể theo dõi tình hình trên trang trạng thái của công ty. Trạng thái hiện tại được cập nhật trên trang web của công ty và cũng được thảo luận trên Hacker News. Người dùng có thể theo dõi thông tin này để biết thêm về tình hình.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "73841068037b",
       "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
@@ -654,144 +792,6 @@
         "Marcus là con trai mà họ đã nhận nuôi từ lâu"
       ],
       "full_summary": "David và Ally đã nhận nuôi Marcus, giúp hoàn thành giấc mơ có con của họ. Tuy nhiên, sau đó họ được thông báo Marcus có thể là nạn nhân buôn người. Điều này đã khiến họ lo lắng và có thể mất con vì lý do này. Họ đang cố gắng tìm hiểu thêm về việc này và bảo vệ con mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "417c14b1cc1d",
-      "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
-      "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T09:35:58.698440+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Bọ cạp vườn cho thấy hành vi giống cảm xúc",
-      "bullets": [
-        "Bọ cạp vườn thể hiện hành vi giống cảm xúc",
-        "Hành vi này trước đây chỉ được thấy ở động vật có vú",
-        "Nghiên cứu mới cho thấy bọ cạp vườn có thể có cảm xúc",
-        "Hành vi này có thể giúp hiểu thêm về hành vi của bọ cạp vườn"
-      ],
-      "full_summary": "Một nghiên cứu mới cho thấy bọ cạp vườn thể hiện hành vi giống cảm xúc, trước đây chỉ được thấy ở động vật có vú. Nghiên cứu này có thể giúp hiểu thêm về hành vi của bọ cạp vườn và liệu chúng có cảm xúc hay không. Kết quả này có thể mở ra một hướng mới trong nghiên cứu về hành vi của động vật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b87a2b660727",
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T09:35:59.761987+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hội đồng Hình sự Quốc tế tiết lộ tiến bộ trong điều tra tội ác Sudan",
-      "bullets": [
-        "Khám phá tội ác ở Darfur trong 3 năm qua",
-        "ICC điều tra các tội ác nghiêm trọng",
-        "Tìm kiếm sự thật về tội ác ở Sudan",
-        "Tiến bộ trong điều tra tội ác Sudan"
-      ],
-      "full_summary": "Hội đồng Hình sự Quốc tế (ICC) vừa thông báo về tiến bộ trong điều tra tội ác ở Sudan. Các điều tra viên đang xem xét các tội ác được thực hiện ở Darfur trong 3 năm qua. ICC đang tìm kiếm sự thật về tội ác ở Sudan và sẽ tiếp tục điều tra để đảm bảo công lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3bd5e51831e",
-      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T09:36:00.708411+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google bị phạt 4,1 tỷ euro vì sử dụng Android hạn chế đối thủ",
-      "bullets": [
-        "Google bị phạt 4,1 tỷ euro vì vi phạm luật cạnh tranh",
-        "Google cho rằng quyết định này không công bằng",
-        "Google đã đầu tư mạnh mẽ để đảm bảo Android vẫn là hệ điều hành mở"
-      ],
-      "full_summary": "Tòa án châu Âu vừa ra quyết định phạt Google 4,1 tỷ euro vì sử dụng hệ điều hành Android để hạn chế đối thủ. Google cho rằng quyết định này không công bằng và sẽ kháng cáo. Google đã đầu tư mạnh mẽ để đảm bảo Android vẫn là hệ điều hành mở và cho phép các nhà phát triển tùy biến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3a33ae5828e",
-      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T09:36:01.659524+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Catnip lotion hiệu quả như Deet trong chống muỗi",
-      "bullets": [
-        "Nghiên cứu tại Uganda chứng minh lotion catnip hiệu quả như Deet",
-        "Nepetalactone trong catnip có tính chất chống muỗi",
-        "Catnip là loại thảo mộc phổ biến từ họ bạc hà"
-      ],
-      "full_summary": "Các nhà nghiên cứu tại Uganda đã thực hiện thử nghiệm lotion catnip và phát hiện ra rằng nó có hiệu quả tương đương với Deet trong chống muỗi. Lotion catnip chứa nepetalactone, một chất có trong loại thảo mộc này, giúp chống muỗi. Điều này cho thấy catnip có tiềm năng trở thành một lựa chọn thay thế an toàn và hiệu quả cho Deet.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "121e3150eda1",
-      "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-09T09:36:05.122040+00:00",
-      "category": "politics|economy",
-      "importance": 3,
-      "headline": "Hội đồng xét xử từ chối cho phép Kalshi vi phạm luật cờ bạc New York",
-      "bullets": [
-        "Từ chối cho phép Kalshi hoạt động cờ bạc bất hợp pháp",
-        "Hội đồng xét xử xác định luật cờ bạc New York có hiệu lực",
-        "Kalshi bị yêu cầu tuân thủ luật cờ bạc New York",
-        "Hội đồng xét xử bảo vệ lợi ích của người dân New York"
-      ],
-      "full_summary": "Hội đồng xét xử đã từ chối cho phép Kalshi, một nền tảng dự đoán thị trường, vi phạm luật cờ bạc của tiểu bang New York. Theo đó, Kalshi sẽ phải tuân thủ luật cờ bạc của tiểu bang New York. Ngoại trưởng New York cho biết Kalshi đã cố gắng bỏ qua luật cờ bạc của tiểu bang. Hội đồng xét xử đã xác định luật cờ bạc của tiểu bang New York có hiệu lực và bảo vệ lợi ích của người dân New York.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d465f4b45da1",
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-09T09:36:09.687102+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Một phiên bản Rust của Postgres đã vượt qua 100% các thử nghiệm hồi đáp của Postgres",
-      "bullets": [
-        "Được viết lại hoàn toàn bằng Rust",
-        "Đã vượt qua tất cả các thử nghiệm hồi đáp của Postgres",
-        "Được phát triển bởi malisper",
-        "Cập nhật trên GitHub"
-      ],
-      "full_summary": "Một phiên bản mới của Postgres được viết lại hoàn toàn bằng Rust đã được phát triển và đã vượt qua tất cả các thử nghiệm hồi đáp của Postgres. Dự án này được phát triển bởi malisper và được cập nhật trên GitHub. Đây là một bước tiến quan trọng trong việc phát triển các hệ quản trị cơ sở dữ liệu mở.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c7c3e9bafbb0",
-      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T02:13:00.835274+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch Thổ Nhĩ Kỳ tặng súng cho Starmer tại NATO",
-      "bullets": [
-        "Tặng súng và đạn cho Starmer",
-        "Súng không được mang về Anh",
-        "Bị để lại với các quan chức Anh tại Thổ Nhĩ Kỳ",
-        "Cái chết của một người trong một vụ bắn súng"
-      ],
-      "full_summary": "Chủ tịch Thổ Nhĩ Kỳ đã tặng súng và đạn cho lãnh đạo Đảng Lao động Anh, Keir Starmer, trong một sự kiện tại NATO. Tuy nhiên, súng đã không được mang về Anh và đã bị để lại với các quan chức Anh tại Thổ Nhĩ Kỳ. Sự kiện này đã gây ra sự tranh cãi và lo ngại về an ninh.",
       "comments": 0,
       "score": 0
     }
