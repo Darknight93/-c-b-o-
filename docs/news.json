@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-10T19:19:02.943520+00:00",
+  "updated_at": "2026-07-11T01:59:00.917596+00:00",
   "articles": [
+    {
+      "id": "ad66cae816bc",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T01:58:46.804298+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ yêu cầu Iran cam kết không bắn trúng tàu qua eo biển Hormuz",
+      "bullets": [
+        "Mỹ yêu cầu Iran cam kết không bắn trúng tàu qua eo biển Hormuz",
+        "Các quan chức Mỹ sẽ tham gia đàm phán tại Oman vào thứ Bảy",
+        "Vice-President JD Vance dự kiến tham gia đàm phán",
+        "Mục tiêu là ngăn chặn xung đột tại khu vực Biển Oman"
+      ],
+      "full_summary": "Các quan chức Mỹ dự kiến sẽ tham gia đàm phán với Iran tại Oman vào thứ Bảy. Mỹ yêu cầu Iran cam kết không bắn trúng tàu qua eo biển Hormuz. Mục tiêu của đàm phán là ngăn chặn xung đột tại khu vực Biển Oman. Các quan chức Mỹ, bao gồm Vice-President JD Vance, dự kiến sẽ tham gia đàm phán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ef14cebb0f2e",
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T01:58:47.816407+00:00",
+      "category": "politics|economy",
+      "importance": 5,
+      "headline": "Họ đang xây dựng các quốc gia riêng để thay thế nền dân chủ",
+      "bullets": [
+        "Họ đang thành lập các quốc gia mới để thay thế nền dân chủ hiện tại",
+        "Các tỷ phú đang xây dựng các quốc gia tự do với quyền bầu cử",
+        "Quyền bầu cử sẽ được trao cho những người giàu có hơn",
+        "Nền dân chủ hiện tại đang bị coi là đã hết thời"
+      ],
+      "full_summary": "Các tỷ phú đang xây dựng các quốc gia riêng để thay thế nền dân chủ hiện tại. Họ tin rằng nền dân chủ đã hết thời và cần thay thế bằng một hệ thống mới. Các quốc gia mới này sẽ cho phép những người giàu có hơn có quyền bầu cử và quyết định tương lai của đất nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fbc04936ff14",
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T01:58:48.763618+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Jordan Bardella bị đẩy lùi khỏi vị trí lãnh đạo mới",
+      "bullets": [
+        "Bị buộc phải chờ đợi lượt của mình, Jordan Bardella trở lại bóng tối",
+        "Đại diện của Marine Le Pen bị đẩy lùi khỏi vị trí lãnh đạo mới",
+        "Jordan Bardella sẽ phải chờ đợi lâu hơn để trở thành lãnh đạo mới của Pháp",
+        "Bardella bị đánh bại trong cuộc tranh luận về vị trí lãnh đạo"
+      ],
+      "full_summary": "Jordan Bardella, người được coi là người kế thừa của Marine Le Pen, đã bị đẩy lùi khỏi vị trí lãnh đạo mới. Ông ta sẽ phải chờ đợi lâu hơn để trở thành lãnh đạo mới của Pháp. Điều này có nghĩa là Bardella sẽ phải chờ đợi lượt của mình để trở thành lãnh đạo mới. Bardella đã được coi là người kế thừa của Marine Le Pen và đã được đào tạo để trở thành lãnh đạo mới của Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d30a0e3a6028",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T01:58:49.717596+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta rút lại tính năng chỉnh sửa ảnh AI sau phản ứng dữ dội",
+      "bullets": [
+        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
+        "Tính năng này gây ra phản ứng dữ dội từ người dùng",
+        "Meta rút lại tính năng sau vài ngày",
+        "Người dùng lo ngại về tính an toàn và sự kiểm soát"
+      ],
+      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, công ty đã rút lại tính năng này. Người dùng đã phản ứng dữ dội với tính năng này, lo ngại về tính an toàn và sự kiểm soát. Tính năng này cho phép người dùng chỉnh sửa ảnh AI, nhưng nhiều người dùng cho rằng nó có thể được sử dụng để tạo ra nội dung giả mạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4befa9b74565",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T01:58:50.687395+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Assassin's Creed Black Flag remake đã ra mắt sau 13 năm chờ đợi",
+      "bullets": [
+        "Trò chơi đã được tái tạo từ đầu lên với đồ họa và âm thanh mới mẻ",
+        "Cốt truyện và nhân vật vẫn giữ nguyên nhưng với trải nghiệm chơi game mới",
+        "Người chơi sẽ được khám phá thế giới rộng lớn và phiêu lưu trên biển",
+        "Đánh giá ban đầu cho thấy trò chơi đã cải thiện đáng kể so với bản gốc"
+      ],
+      "full_summary": "Assassin's Creed Black Flag remake là một trong những trò chơi được mong đợi nhất trong nhiều năm. Trò chơi đã được tái tạo từ đầu lên với đồ họa và âm thanh mới mẻ, mang lại trải nghiệm chơi game hoàn toàn mới. Cốt truyện và nhân vật vẫn giữ nguyên nhưng với cách chơi game mới, người chơi sẽ được khám phá thế giới rộng lớn và phiêu lưu trên biển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa6e5226c92b",
+      "title": "Quantum error correction can constantly recalibrate a processor",
+      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-11T01:58:54.372834+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Sự cố lỗi lượng tử có thể được điều chỉnh liên tục bằng cách tinh chỉnh thuật toán điều khiển",
+      "bullets": [
+        "Sử dụng học tập cường hóa để điều chỉnh thuật toán điều khiển dựa trên thông tin lỗi",
+        "Cải thiện đáng kể độ chính xác của máy tính lượng tử bằng cách điều chỉnh liên tục",
+        "Phát triển các thuật toán mới để khắc phục lỗi lượng tử trong các ứng dụng thực tế"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã phát triển một phương pháp mới để điều chỉnh liên tục máy tính lượng tử bằng cách sử dụng học tập cường hóa. Phương pháp này sử dụng thông tin lỗi để tinh chỉnh thuật toán điều khiển, giúp cải thiện đáng kể độ chính xác của máy tính lượng tử. Điều này có thể mở ra các ứng dụng thực tế trong tương lai, chẳng hạn như phát triển các thuật toán mới để khắc phục lỗi lượng tử trong các ứng dụng thực tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e9dc1492f31b",
+      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+      "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-11T01:58:58.707567+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cập nhật phần mềm làm hỏng thiết bị Hue Bridge Pro của Philips",
+      "bullets": [
+        "Cập nhật phần mềm gây lỗi cho thiết bị Hue Bridge Pro",
+        "Người dùng phải cấu hình lại đèn và cài đặt",
+        "Philips cung cấp thay thế miễn phí cho thiết bị bị lỗi",
+        "Người dùng phải mất thời gian để cấu hình lại hệ thống"
+      ],
+      "full_summary": "Philips đã phát hành một bản cập nhật phần mềm cho thiết bị Hue Bridge Pro, nhưng đã gây lỗi cho một số thiết bị. Người dùng bị ảnh hưởng sẽ phải cấu hình lại đèn và cài đặt của mình. Philips đã cam kết cung cấp thay thế miễn phí cho thiết bị bị lỗi. Điều này sẽ giúp người dùng giảm thiểu thời gian và công sức để cấu hình lại hệ thống.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2656e03d5613",
       "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
@@ -652,144 +791,6 @@
         "Cựu vận động viên Olympic Mỹ sẽ phải đối mặt với hậu quả nếu bị kết tội"
       ],
       "full_summary": "Cựu vận động viên Olympic Mỹ đã phủ nhận tội danh làm hỏng hồ nước phản chiếu Lincoln Memorial. Ông ta bị buộc tội đã cố ý làm hỏng hồ nước sau khi hồ nước được phục hồi. Tòa án sẽ xem xét các bằng chứng để đưa ra phán quyết cuối cùng. Phán quyết của tòa án sẽ ảnh hưởng đến hình ảnh của cựu vận động viên Olympic.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cbcb9ce42563",
-      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T19:27:15.887609+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nigeria chìm trong bão chính trị vì cơ quan giả mạo",
-      "bullets": [
-        "Bất thường được phát hiện khi ngân sách 1,3 tỷ naira bị phân bổ cho cơ quan giả mạo",
-        "Tổng thống Nigeria yêu cầu điều tra sau khi cơ quan giả mạo được cấp ngân sách",
-        "Cơ quan giả mạo được cho là liên quan đến việc làm giả chữ ký và con dấu chính phủ"
-      ],
-      "full_summary": "Nigeria đang chìm trong bão chính trị sau khi một cơ quan giả mạo được phát hiện trong trụ sở chính phủ. Cơ quan này được phân bổ ngân sách 1,3 tỷ naira trong ngân sách 2026, nhưng thực chất là một cơ quan giả mạo. Tổng thống Nigeria đã yêu cầu điều tra và cơ quan này được cho là liên quan đến việc làm giả chữ ký và con dấu chính phủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89f30bac42b9",
-      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
-      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T19:27:16.998047+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hạm đội du lịch LGBTQ+ bị từ chối vào Ai Cập",
-      "bullets": [
-        "Bị từ chối vào Ai Cập sau khi bị chặn ở Thổ Nhĩ Kỳ",
-        "Hạm đội Scarlet Lady tìm kiếm các cảng thay thế",
-        "2.000 hành khách trên tàu bị ảnh hưởng",
-        "Tàu có khách nổi tiếng như diễn viên Patti LuPone"
-      ],
-      "full_summary": "Hạm đội du lịch LGBTQ+ Scarlet Lady, có 2.000 hành khách, đã bị từ chối vào Ai Cập sau khi bị chặn ở Thổ Nhĩ Kỳ. Hành khách trên tàu, bao gồm diễn viên Patti LuPone, đã nhận được thông báo rằng tàu đang tìm kiếm các cảng thay thế. Điều này đã khiến nhiều hành khách lên án và tuyên bố sẽ 'sáng chói và chi tiêu ở nơi khác'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fdb39828d8d7",
-      "title": "Mexico investigates whether US lied about role in capture of drug lord",
-      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T19:27:17.999274+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mexico điều tra nghi ngờ Mỹ nói dối về vai trò trong bắt giữ tội phạm ma túy",
-      "bullets": [
-        "Mexico điều tra nghi ngờ Mỹ nói dối về vai trò trong bắt giữ Ismael 'El Mayo' Zambada García",
-        "FBI có thể đã tham gia bắt giữ El Mayo",
-        "Mỹ đã phủ nhận tham gia hoạt động bắt giữ",
-        "Vụ việc có thể vi phạm chủ quyền của Mexico"
-      ],
-      "full_summary": "Mexico đã mở cuộc điều tra để xác minh thông tin Mỹ có tham gia bắt giữ và chuyển giao bí mật Ismael 'El Mayo' Zambada García, một thành viên hàng đầu của cartel Sinaloa, vào năm 2024. Theo báo cáo, FBI có thể đã tham gia bắt giữ El Mayo, mặc dù Mỹ đã phủ nhận tham gia hoạt động này. Vụ việc này có thể vi phạm chủ quyền của Mexico và đang gây ra sự tranh cãi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1a0c1342437a",
-      "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-09T19:27:20.792440+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hộ thẩm phán không hài lòng với thỏa thuận của Elon Musk với SEC",
-      "bullets": [
-        "Phán quyết của tòa án không thể ngăn cản thỏa thuận trị giá 1,5 triệu USD",
-        "Thỏa thuận này liên quan đến vi phạm cổ phiếu Twitter",
-        "Hộ thẩm phán cho rằng thỏa thuận này không công bằng",
-        "Thỏa thuận vẫn được chấp thuận"
-      ],
-      "full_summary": "Hộ thẩm phán đã chấp thuận thỏa thuận trị giá 1,5 triệu USD giữa Elon Musk và Ủy ban Chứng khoán và Sàn giao dịch (SEC) sau khi cho rằng thỏa thuận này không công bằng. Thỏa thuận này liên quan đến vi phạm cổ phiếu Twitter của Elon Musk. Hộ thẩm phán cho rằng tòa án không thể ngăn cản thỏa thuận này. Thỏa thuận vẫn được chấp thuận, nhưng hộ thẩm phán đã bày tỏ sự không hài lòng của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "12e48fa8f456",
-      "title": "Payloads used to dictate the terms of launch. That's finally changing.",
-      "url": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-09T19:27:25.308301+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Khai phá mới trong công nghệ phóng tên lửa",
-      "bullets": [
-        "Thay đổi cách tiếp cận trong việc phóng vệ tinh",
-        "Các nhà phát triển tên lửa tập trung vào nhu cầu thực tế",
-        "Thử nghiệm với thiết kế và quy mô mới",
-        "Cải thiện hiệu quả và giảm chi phí"
-      ],
-      "full_summary": "Các nhà phát triển tên lửa đang thay đổi cách tiếp cận trong việc phóng vệ tinh. Thay vì theo đuổi xu hướng, họ bây giờ tập trung vào nhu cầu thực tế và thử nghiệm với thiết kế và quy mô mới. Điều này giúp cải thiện hiệu quả và giảm chi phí. Ví dụ, Starship Pez dispenser đã thể hiện thiết kế và quy mô thông minh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "229786dc8672",
-      "title": "At least 28 killed in China shoe factory fire, state media reports",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T14:39:31.379272+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ lớn tại xưởng sản xuất giày ở Trung Quốc, ít nhất 28 người thiệt mạng.",
-      "bullets": [
-        "Nổ lớn xảy ra tại xưởng sản xuất giày ở Trung Quốc.",
-        "Hàng trăm người bị mắc kẹt trong tòa nhà.",
-        "Cảnh sát đang điều tra nguyên nhân của vụ nổ."
-      ],
-      "full_summary": "Một vụ nổ lớn đã xảy ra tại xưởng sản xuất giày ở Trung Quốc, khiến ít nhất 28 người thiệt mạng. Footage cho thấy những ngọn lửa lớn đang bùng cháy và khói đen đang bốc lên cao. Cảnh sát đang điều tra nguyên nhân của vụ nổ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89e4ff026ec5",
-      "title": "Porn site company fined £630,000 over failed age checks",
-      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T14:39:32.397735+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ofcom phạt £630,000 vì các trang web không kiểm tra tuổi",
-      "bullets": [
-        "Phạt £630,000 cho công ty sở hữu trang web chứa nội dung không phù hợp",
-        "Ofcom yêu cầu thực hiện kiểm tra tuổi nghiêm ngặt hơn",
-        "Cơ quan này nói rằng các trang web không đủ đảm bảo an toàn cho trẻ em",
-        "Các trang web phải thực hiện kiểm tra tuổi ngay lập tức"
-      ],
-      "full_summary": "Ofcom đã phạt £630,000 cho công ty sở hữu trang web chứa nội dung không phù hợp vì không thực hiện kiểm tra tuổi nghiêm ngặt. Cơ quan này nói rằng các trang web không đủ đảm bảo an toàn cho trẻ em và yêu cầu thực hiện kiểm tra tuổi ngay lập tức. Kiểm tra tuổi là một phần quan trọng để ngăn chặn trẻ em truy cập vào nội dung không phù hợp.",
       "comments": 0,
       "score": 0
     }
