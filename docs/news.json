@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-07-11T07:43:56.397375+00:00",
+  "updated_at": "2026-07-11T13:02:18.875711+00:00",
   "articles": [
+    {
+      "id": "1cbe693286c6",
+      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T13:02:04.156882+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi một người được cứu sống sau khi thuyền tốc độ chìm ở miền Nam",
+      "bullets": [
+        "Hai mươi mốt người được cứu sống sau khi thuyền tốc độ chìm ở miền Nam",
+        "Có mười lăm người thiệt mạng trong vụ tai nạn",
+        "Thuyền tốc độ chìm do sóng biển mạnh ở khu vực gần đảo",
+        "Nguyên nhân vụ tai nạn vẫn đang được điều tra"
+      ],
+      "full_summary": "Một vụ tai nạn nghiêm trọng đã xảy ra khi thuyền tốc độ chìm ở khu vực gần đảo ở miền Nam Việt Nam. Có mười lăm người thiệt mạng và hai mươi mốt người được cứu sống. Vụ tai nạn xảy ra do sóng biển mạnh. Nguyên nhân vụ tai nạn vẫn đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dc95e59d9ca7",
+      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T13:02:05.111787+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cơn bão Bavi sắp đổ bộ vào Trung Quốc",
+      "bullets": [
+        "Hàng trăm nghìn người được sơ tán khỏi tỉnh Zhejiang",
+        "Thành phố Wenzhou nằm gần con đường của cơn bão",
+        "Trung Quốc chuẩn bị cho cơn bão thứ hai trong tuần",
+        "Cơn bão Bavi đang di chuyển về phía đất liền"
+      ],
+      "full_summary": "Trung Quốc đang chuẩn bị cho cơn bão Bavi, cơn bão thứ hai trong tuần, sau khi hàng trăm nghìn người được sơ tán khỏi tỉnh Zhejiang. Thành phố Wenzhou nằm gần con đường của cơn bão. Các quan chức đang chuẩn bị cho tình huống xấu nhất. Cơn bão Bavi đang di chuyển về phía đất liền và có thể gây ra thiệt hại nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d4caf9f87960",
+      "title": "US pays out $3m to victims of mysterious Havana Syndrome",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T13:02:06.125990+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Mỹ bồi thường 3 triệu USD cho nạn nhân của hiện tượng Havana bí ẩn",
+      "bullets": [
+        "Mỹ bồi thường 3 triệu USD cho các nạn nhân của hiện tượng Havana bí ẩn",
+        "Các quan chức và đại sứ Mỹ và gia đình họ bắt đầu báo cáo về một căn bệnh bí ẩn một thập kỷ trước",
+        "Hình thức và nguyên nhân của hiện tượng Havana vẫn chưa được xác định rõ ràng",
+        "Nhiều người tin rằng hiện tượng này có thể liên quan đến hoạt động của các thiết bị điện tử"
+      ],
+      "full_summary": "Mỹ đã bồi thường 3 triệu USD cho các nạn nhân của hiện tượng Havana bí ẩn. Hiện tượng này đã được báo cáo lần đầu tiên vào một thập kỷ trước bởi các quan chức và đại sứ Mỹ và gia đình họ. Mặc dù hình thức và nguyên nhân của hiện tượng này vẫn chưa được xác định rõ ràng, nhưng nhiều người tin rằng nó có thể liên quan đến hoạt động của các thiết bị điện tử. Các nạn nhân đã trải qua các triệu chứng như đau đầu, chóng mặt và mất trí nhớ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ad5787657bb",
+      "title": "Australian killer's final police interview footage released",
+      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T13:02:07.134992+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một kẻ giết người Australia qua đời mà không tiết lộ vị trí hài cốt Peter Falconio",
+      "bullets": [
+        "Cơ quan cảnh sát Australia đã công bố đoạn phim phỏng vấn cuối cùng với Bradley Murdoch",
+        "Bradley Murdoch qua đời trong tù mà không tiết lộ vị trí hài cốt Peter Falconio",
+        "Peter Falconio mất tích vào năm 2000 sau khi bị giết",
+        "Bradley Murdoch bị kết án tù vì tội giết người"
+      ],
+      "full_summary": "Bradley Murdoch, 67 tuổi, đã qua đời trong tù mà không tiết lộ vị trí hài cốt của Peter Falconio. Cơ quan cảnh sát Australia đã công bố đoạn phim phỏng vấn cuối cùng với Bradley Murdoch. Peter Falconio mất tích vào năm 2000 sau khi bị giết. Bradley Murdoch bị kết án tù vì tội giết người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cacf79fa6030",
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T13:02:08.129028+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các thiết bị làm mát không khí giả mạo quảng cáo quá mức",
+      "bullets": [
+        "ASA cho rằng quảng cáo về các thiết bị làm mát di động nhỏ không đáng tin cậy",
+        "Các thiết bị này không thể làm mát nhanh chóng như quảng cáo",
+        "ASA yêu cầu các công ty quảng cáo phải minh bạch hơn",
+        "Các thiết bị làm mát không khí giả mạo đang lan truyền trên internet"
+      ],
+      "full_summary": "Tổ chức Quản lý Quảng cáo (ASA) đã chỉ trích các quảng cáo về các thiết bị làm mát di động nhỏ, tuyên bố chúng có thể làm mát nhanh chóng. Tuy nhiên, các thiết bị này không thể làm mát nhanh chóng như quảng cáo. ASA yêu cầu các công ty quảng cáo phải minh bạch hơn về khả năng của các sản phẩm. Các thiết bị làm mát không khí giả mạo đang lan truyền trên internet.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "860c5a021c60",
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T13:02:09.182872+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cơ quan vận tải Rotterdam bị yêu cầu giảm phụ thuộc vào nhiên liệu hóa thạch",
+      "bullets": [
+        "Yêu cầu tòa án buộc Port of Rotterdam phải giảm phụ thuộc vào nhiên liệu hóa thạch",
+        "Phát hiện ra các giải pháp thay thế cho các công ty năng lượng hóa thạch",
+        "Đảm bảo giảm thiểu tác động môi trường của hoạt động vận tải",
+        "Tăng cường sử dụng năng lượng tái tạo trong hoạt động của cảng"
+      ],
+      "full_summary": "Một vụ kiện pháp lý đang gây áp lực buộc Cảng Rotterdam, cảng biển lớn nhất châu Âu, phải nhanh chóng giảm phụ thuộc vào các công ty năng lượng hóa thạch. Vụ kiện yêu cầu cảng phải tìm ra các giải pháp thay thế và giảm thiểu tác động môi trường của hoạt động vận tải. Mục tiêu là tăng cường sử dụng năng lượng tái tạo trong hoạt động của cảng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fe4f334a4f3e",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T13:02:10.224390+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nigeria tiêu diệt hơn 300 tên cướp ở bang Zamfara",
+      "bullets": [
+        "Nigeria tiêu diệt hơn 300 tên cướp",
+        "Lực lượng quân đội và dân phòng tham gia chiến đấu",
+        "Hành động diễn ra trong hai ngày ở khu vực Gummi",
+        "Nhiều tên cướp bị giết trong trận chiến"
+      ],
+      "full_summary": "Lực lượng quân đội Nigeria đã tiêu diệt hơn 300 tên cướp ở bang Zamfara. Theo thông tin từ chính quyền địa phương, các tên cướp này tham gia vào các hoạt động bắt cóc và cướp trộm bò. Lực lượng quân đội đã tiến hành một chiến dịch hai ngày tại khu vực Gummi để tiêu diệt những tên cướp này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "061f2ff3fdc7",
+      "title": "China recovered its first reusable rocket and showed a new way to do it",
+      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-11T13:02:14.024996+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 3,
+      "headline": "Trung Quốc hồi phục tên lửa tái sử dụng đầu tiên và giới thiệu phương pháp mới",
+      "bullets": [
+        "Hồi phục tên lửa tái sử dụng đầu tiên",
+        "Sử dụng phương pháp mới để tái sử dụng tên lửa",
+        "Giống như công việc của SpaceX mà Trung Quốc đang cố gắng lặp lại",
+        "Tăng cường khả năng tái sử dụng tên lửa trong tương lai"
+      ],
+      "full_summary": "Trung Quốc đã hồi phục tên lửa tái sử dụng đầu tiên của mình và giới thiệu phương pháp mới để tái sử dụng tên lửa. Phương pháp này được cho là giống như công việc của SpaceX mà Trung Quốc đang cố gắng lặp lại. Việc hồi phục tên lửa tái sử dụng sẽ giúp Trung Quốc tăng cường khả năng tái sử dụng tên lửa trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f2c81c84a68f",
+      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
+      "url": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-11T13:02:16.116817+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Tân hiệu vaccine ngừa sởi của RFK Jr. gây hại cho trẻ nhỏ Mỹ",
+      "bullets": [
+        "Gây hại cho trẻ nhỏ Mỹ",
+        "Tác động tiêu cực đến sức khỏe của trẻ em",
+        "Sự thay đổi trong vaccine ngừa sởi gây ra những hậu quả nghiêm trọng",
+        "Trẻ em dễ bị tổn thương nhất"
+      ],
+      "full_summary": "Một nghiên cứu mới chỉ ra rằng sự thay đổi trong vaccine ngừa sởi do RFK Jr. đề xuất sẽ gây hại cho trẻ nhỏ Mỹ. Các em nhỏ nhận được liều vaccine kết hợp là những người dễ bị tổn thương nhất. Nghiên cứu này cho thấy sự thay đổi trong vaccine sẽ gây ra những hậu quả nghiêm trọng đối với sức khỏe của trẻ em. Điều này đã gây ra lo ngại về sự an toàn của vaccine ngừa sởi.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "fb1a6225d7da",
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
@@ -613,183 +793,6 @@
         "Transporter cần được tăng cường khả năng vận chuyển"
       ],
       "full_summary": "Transporter đang gặp khó khăn về khả năng vận chuyển, gây ra sự lo lắng trong ngành công nghiệp vũ trụ. Isar sẽ phóng từ Canada, trong khi đó Ariane 6 đang được phát triển mạnh mẽ. Transporter cần được tăng cường khả năng vận chuyển để đáp ứng nhu cầu ngày càng tăng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88993270b049",
-      "title": "Proton AG Services is currently experiencing some issues",
-      "url": "https://status.proton.me/incidents/01lxtcq155lc",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-10T14:05:48.969378+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Dịch vụ Proton AG Services gặp vấn đề",
-      "bullets": [
-        "Đang gặp sự cố",
-        "Cập nhật tình hình trên trang trạng thái",
-        "Người dùng có thể theo dõi thông tin trên Hacker News"
-      ],
-      "full_summary": "Proton AG Services đang gặp vấn đề, người dùng có thể theo dõi tình hình trên trang trạng thái của công ty. Trạng thái hiện tại được cập nhật trên trang web của công ty và cũng được thảo luận trên Hacker News. Người dùng có thể theo dõi thông tin này để biết thêm về tình hình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "73841068037b",
-      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T09:22:32.196603+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Lãnh đạo tối cao Iran được chôn cất sau 6 ngày tang lễ",
-      "bullets": [
-        "Chôn cất Ali Khamenei tại đền thờ Imam Reza ở Mashhad",
-        "Đền thờ là nơi linh thiêng nhất của Hồi giáo Shia ở Iran",
-        "Nhiều người dân tập trung tại đền thờ để thể hiện lòng tôn kính",
-        "Lễ tang kéo dài 6 ngày để tưởng nhớ lãnh đạo tối cao"
-      ],
-      "full_summary": "Lãnh đạo tối cao Iran, Ali Khamenei, đã được chôn cất tại đền thờ Imam Reza ở Mashhad sau 6 ngày lễ tang. Đền thờ là nơi linh thiêng nhất của Hồi giáo Shia ở Iran và đã thu hút nhiều người dân đến để thể hiện lòng tôn kính. Lễ tang kéo dài 6 ngày để tưởng nhớ lãnh đạo tối cao vừa qua đời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eb87e41fd975",
-      "title": "China lands reusable rocket for first time, state media says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T09:22:33.317209+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Trung Quốc hạ cánh tên lửa tái sử dụng lần đầu tiên",
-      "bullets": [
-        "Trung Quốc thành công hạ cánh tên lửa tái sử dụng lần đầu tiên",
-        "Tên lửa này được sử dụng cho một sứ mệnh không gian",
-        "Trung Quốc đã theo bước chân các công ty SpaceX và Blue Origin của Mỹ",
-        "Đây là một bước tiến quan trọng trong công nghệ tên lửa tái sử dụng"
-      ],
-      "full_summary": "Trung Quốc đã đạt được một thành công lớn khi hạ cánh tên lửa tái sử dụng lần đầu tiên. Đây là một bước tiến quan trọng trong công nghệ tên lửa tái sử dụng, theo bước chân các công ty SpaceX và Blue Origin của Mỹ. Tên lửa này được sử dụng cho một sứ mệnh không gian và sẽ giúp giảm chi phí cho các sứ mệnh tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "97fc56776747",
-      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T09:22:35.380611+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta cho phép người dùng tạo hình ảnh AI từ ảnh hồ sơ công khai trên Instagram",
-      "bullets": [
-        "Meta cho phép người dùng tạo hình ảnh AI từ ảnh hồ sơ công khai trên Instagram",
-        "Người dùng có thể chọn bỏ qua tính năng này",
-        "Campaigner về quyền riêng tư gọi đây là 'thực đơn cho thảm họa'",
-        "Meta cho biết người dùng có thể chọn bỏ qua tính năng này"
-      ],
-      "full_summary": "Meta cho phép người dùng tạo hình ảnh AI từ ảnh hồ sơ công khai trên Instagram, nhưng các nhà vận động về quyền riêng tư đã lên tiếng chỉ trích. Họ cho rằng việc này là 'thực đơn cho thảm họa'. Meta cho biết người dùng có thể chọn bỏ qua tính năng này. Tuy nhiên, nhiều người lo ngại về việc ảnh hồ sơ công khai có thể bị sử dụng cho mục đích không tốt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e8add58ad65c",
-      "title": "Robots available for rent: But what can they do?",
-      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T09:22:36.373155+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy móc tự động có thể thuê được",
-      "bullets": [
-        "Cung cấp dịch vụ hỗ trợ tại nhà",
-        "Thay thế nhân viên trong các lĩnh vực công nghiệp",
-        "Làm việc trong môi trường khắc nghiệt",
-        "Tăng năng suất lao động"
-      ],
-      "full_summary": "Công nghệ robot đang phát triển nhanh chóng, vì vậy việc thuê một robot có thể là lựa chọn hợp lý. Các công ty đang cung cấp robot cho thuê để hỗ trợ trong các lĩnh vực khác nhau, bao gồm công nghiệp và dịch vụ. Robot có thể thay thế nhân viên trong các công việc nguy hiểm hoặc đòi hỏi nhiều sức lao động. Điều này có thể giúp tăng năng suất lao động và giảm chi phí cho các doanh nghiệp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bdbd18a795f",
-      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T09:22:37.372013+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft cắt 4.800 nhân viên và thu hẹp Xbox trong cuộc tái cấu trúc lớn",
-      "bullets": [
-        "Cắt giảm 4.800 nhân viên, chiếm 2,1% lực lượng lao động của Microsoft",
-        "1.600 nhân viên tại Xbox bị sa thải ngay lập tức",
-        "Microsoft đang thực hiện cuộc tái cấu trúc lớn để thích nghi với thị trường",
-        "Xbox sẽ bị thu hẹp để tập trung vào các sản phẩm và dịch vụ khác"
-      ],
-      "full_summary": "Microsoft vừa công bố cuộc tái cấu trúc lớn, cắt giảm 4.800 nhân viên, chiếm 2,1% lực lượng lao động của công ty. Trong đó, 1.600 nhân viên tại Xbox bị sa thải ngay lập tức. Microsoft cho biết cuộc tái cấu trúc này nhằm thích nghi với thị trường và tập trung vào các sản phẩm và dịch vụ khác. Cuộc tái cấu trúc này sẽ ảnh hưởng đến nhiều bộ phận của công ty.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0e33a384985e",
-      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
-      "url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-10T09:22:40.255487+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Homo floresiensis có thể không là người săn bắn",
-      "bullets": [
-        "Nghiên cứu cho thấy Homo floresiensis có thể là những kẻ săn mồi",
-        "Họ có thể đã ăn thịt các con Komodo và những con voi bị giết",
-        "Thói quen ăn uống của họ có thể giúp hiểu rõ hơn về quá khứ tiến hóa của họ"
-      ],
-      "full_summary": "Một nghiên cứu mới về Homo floresiensis cho thấy rằng những người này có thể không phải là những người săn bắn sử dụng lửa như trước đây nghĩ. Thay vào đó, họ có thể là những kẻ săn mồi ăn thịt các con Komodo và những con voi bị giết. Điều này có thể giúp hiểu rõ hơn về quá khứ tiến hóa của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "03e8a4fb63c0",
-      "title": "Why American ambulance rides are so expensive",
-      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-10T09:22:44.948575+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Giá vé xe cứu thương Mỹ cao vì nhiều lý do",
-      "bullets": [
-        "Nhiều tổ chức y tế độc lập và cạnh tranh",
-        "Chi phí nhân viên cao và lương thưởng",
-        "Phí bảo hiểm và quản lý cao"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã phân tích lý do khiến giá vé xe cứu thương Mỹ cao. Theo đó, có nhiều tổ chức y tế độc lập và cạnh tranh, dẫn đến chi phí nhân viên cao và lương thưởng. Ngoài ra, phí bảo hiểm và quản lý cũng đóng góp vào chi phí cao của xe cứu thương. Điều này khiến cho việc sử dụng xe cứu thương trở nên tốn kém và khó tiếp cận cho nhiều người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "62dc30424ece",
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T02:12:57.611380+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một nhân viên an ninh Ukraine bị cáo buộc giết người ở Monaco",
-      "bullets": [
-        "Bị cáo buộc giết Anastasiia Berezovska",
-        "Bị cáo buộc liên quan đến các dịch vụ an ninh Ukraine",
-        "Bị cáo buộc vứt thi thể ở khu rừng",
-        "Bị cáo buộc thay đổi câu chuyện"
-      ],
-      "full_summary": "Một nhân viên an ninh Ukraine bị cáo buộc giết Anastasiia Berezovska, người bị nghi ngờ liên quan đến vụ nổ ở Monaco. Bị cáo buộc này đã thay đổi câu chuyện của mình. Hai người đàn ông liên quan đến các dịch vụ an ninh Ukraine bị cáo buộc giết Anastasiia Berezovska và vứt thi thể ở khu rừng.",
       "comments": 0,
       "score": 0
     }
