@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-07-11T01:59:00.917596+00:00",
+  "updated_at": "2026-07-11T07:43:56.397375+00:00",
   "articles": [
+    {
+      "id": "fb1a6225d7da",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:40.859578+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nổ lò lửa ở Tây Ban Nha khiến ít nhất 12 người thiệt mạng",
+      "bullets": [
+        "Bùng phát nổ lò lửa ở Tây Ban Nha",
+        "Ít nhất 12 người thiệt mạng, 23 người mất tích",
+        "Có ít nhất 4 người Anh bị ảnh hưởng",
+        "Hành động khẩn cấp để dập lửa đang được triển khai"
+      ],
+      "full_summary": "Một đám cháy lớn đã bùng phát ở Tây Ban Nha, khiến ít nhất 12 người thiệt mạng và 23 người mất tích. Các lực lượng cứu hộ đang nỗ lực dập lửa. Theo BBC, ít nhất 4 người Anh bị ảnh hưởng. Chính phủ Tây Ban Nha đã triển khai các biện pháp khẩn cấp để kiểm soát đám cháy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0959e36c0695",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:41.785135+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
+      "bullets": [
+        "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
+        "OpenAI có kế hoạch kinh doanh thiết bị cứng",
+        "Apple cáo buộc OpenAI vi phạm bản quyền và bí mật kinh doanh",
+        "OpenAI chưa đưa ra bình luận chính thức"
+      ],
+      "full_summary": "Apple đã kiện OpenAI vì tội trộm cắp bí mật kinh doanh. Trong đơn kiện, Apple cáo buộc OpenAI có kế hoạch kinh doanh thiết bị cứng và vi phạm bản quyền, bí mật kinh doanh. Apple cho rằng kế hoạch kinh doanh của OpenAI 'đã bị nhiễm sâu'. OpenAI chưa đưa ra bình luận chính thức về vụ kiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f48b5a19858",
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:42.623427+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Một loài khủng long ăn thực vật mới được phát hiện ở Thái Lan",
+      "bullets": [
+        "Được phát hiện ở Thái Lan",
+        "Có cổ dài như sân cricket",
+        "Là loài khủng long ăn thực vật",
+        "Cư trú khoảng 150 triệu năm trước"
+      ],
+      "full_summary": "Một loài khủng long ăn thực vật mới đã được phát hiện ở Thái Lan. Loài khủng long này có tên là Uragasaurus kalasinensis và được cho là đã sống khoảng 150 triệu năm trước. Nó có cổ dài như sân cricket và được phát hiện ở Thái Lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0959e36c0695",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:43.517596+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple kiện OpenAI vì tội trộm cắp bí mật thương mại",
+      "bullets": [
+        "Apple kiện OpenAI vì tội trộm cắp bí mật thương mại",
+        "OpenAI có kế hoạch kinh doanh phần cứng đang bị nghi ngờ",
+        "Apple cáo buộc OpenAI lấy cắp bí mật thương mại",
+        "Vụ kiện của Apple nhằm vào nhân viên của OpenAI"
+      ],
+      "full_summary": "Apple đã đệ đơn kiện OpenAI vì tội trộm cắp bí mật thương mại. Theo đơn kiện, OpenAI có kế hoạch kinh doanh phần cứng đang bị nghi ngờ. Apple cáo buộc OpenAI lấy cắp bí mật thương mại của họ. Vụ kiện của Apple nhằm vào nhân viên của OpenAI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89e4ff026ec5",
+      "title": "Porn site company fined £630,000 over failed age checks",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:44.410738+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty sở hữu trang web lậu bị phạt 630.000 bảng vì không kiểm tra tuổi",
+      "bullets": [
+        "Bị phạt £630.000 vì không thực hiện kiểm tra tuổi",
+        "Cơ quan quản lý truyền thông Ofcom lên tiếng",
+        "Trang web lậu không ngăn chặn trẻ em truy cập nội dung không phù hợp",
+        "Công ty phải thực hiện kiểm tra tuổi nghiêm ngặt hơn"
+      ],
+      "full_summary": "Cơ quan quản lý truyền thông Ofcom đã phạt công ty sở hữu trang web lậu £630.000 vì không thực hiện kiểm tra tuổi. Công ty này đã không ngăn chặn trẻ em truy cập nội dung không phù hợp. Ofcom yêu cầu công ty phải thực hiện kiểm tra tuổi nghiêm ngặt hơn để bảo vệ trẻ em.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbcb9ce42563",
+      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:45.497431+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Bất thường ở Nigeria: Cơ quan giả mạo được thành lập tại trụ sở chính phủ",
+      "bullets": [
+        "Chính phủ Nigeria đã bị chỉ trích vì việc thành lập một cơ quan giả mạo",
+        "Cơ quan này đã được phân bổ 1,3 tỷ naira (£700,000) trong ngân sách 2026",
+        "Tổng thống đã yêu cầu điều tra về vụ việc này",
+        "Vụ việc đã gây ra một cơn bão chính trị trước cuộc bầu cử tổng thống sắp tới"
+      ],
+      "full_summary": "Một cơ quan giả mạo được thành lập tại trụ sở chính phủ Nigeria đã gây ra một cơn bão chính trị lớn. Cơ quan này được gọi là Hội đồng thúc đẩy can thiệp nước ngoài của Tổng thống (PFIPC) và đã được phân bổ 1,3 tỷ naira (£700,000) trong ngân sách 2026. Tổng thống đã yêu cầu điều tra về vụ việc này sau khi phát hiện ra rằng chữ ký và con dấu của ông đã bị giả mạo. Vụ việc này đã gây ra một cơn bão chính trị lớn trước cuộc bầu cử tổng thống sắp tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89f30bac42b9",
+      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:46.571421+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hạm đội du lịch LGBTQ+ bị chặn vào Ai Cập",
+      "bullets": [
+        "Bị chặn vào nước Ai Cập sau khi bị từ chối vào Thổ Nhĩ Kỳ",
+        "Hạm đội Scarlet Lady tìm kiếm bến cảng thay thế",
+        "2.000 hành khách trên tàu, bao gồm diễn viên Patti LuPone",
+        "Hành khách lên án quyết định của chính phủ Ai Cập"
+      ],
+      "full_summary": "Hạm đội du lịch LGBTQ+ Scarlet Lady đã bị từ chối vào cả Thổ Nhĩ Kỳ và Ai Cập. Hạm đội này có 2.000 hành khách, bao gồm diễn viên Broadway Patti LuPone. Hành khách đã nhận được thông báo rằng hạm đội đang tìm kiếm bến cảng thay thế. Điều này đã gây ra sự phẫn nộ trong cộng đồng LGBTQ+.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "733358b8e99a",
+      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-11T07:43:47.672197+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu đỏ: Hoạt động của con người đe dọa sự sống của nhiều loài",
+      "bullets": [
+        "Hơn 2/3 loài nhuyễn thể sống ở các miệng núi lửa dưới biển đang bị đe dọa tuyệt chủng",
+        "Nhiều loài động vật đã thích nghi để sống ở độ sâu cực lớn nhưng vẫn bị đe dọa",
+        "Hoạt động khai thác sâu dưới biển đang là nguyên nhân chính",
+        "Sự sống trên Trái Đất đang bị đe dọa bởi các hoạt động hủy diệt của con người"
+      ],
+      "full_summary": "Nghiên cứu đỏ mới đây đã chỉ ra rằng các loài động vật đã thích nghi để sống ở mọi nơi trên Trái Đất nhưng vẫn đang bị đe dọa bởi các hoạt động hủy diệt của con người. Các loài nhuyễn thể sống ở các miệng núi lửa dưới biển đang bị đe dọa tuyệt chủng do hoạt động khai thác sâu dưới biển. Điều này cho thấy rằng sự sống trên Trái Đất đang bị đe dọa bởi các hoạt động hủy diệt của con người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "232f5327cf89",
+      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-11T07:43:50.519103+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát dùng máy bay không người lái để phạt người dùng pháo nổ bất hợp pháp",
+      "bullets": [
+        "Sử dụng máy bay không người lái để theo dõi và phát hiện pháo nổ bất hợp pháp",
+        "Cảnh sát và cứu hỏa áp dụng công nghệ này để ngăn chặn và xử lý vi phạm",
+        "Các thành phố ở Mỹ tăng cường sử dụng máy bay không người lái để giám sát",
+        "Một người vi phạm đã bị phạt 100.000 USD"
+      ],
+      "full_summary": "Trong dịp kỷ niệm 250 năm ngày độc lập của Mỹ, nhiều thành phố đã sử dụng máy bay không người lái để theo dõi và phát hiện pháo nổ bất hợp pháp. Công nghệ này đã giúp cảnh sát và cứu hỏa ngăn chặn và xử lý vi phạm. Một người vi phạm đã bị phạt 100.000 USD. Sử dụng máy bay không người lái để giám sát đã trở thành một phương pháp hiệu quả để ngăn chặn pháo nổ bất hợp pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "764fd8b4fe06",
+      "title": "What's the best way to do authentication in modern applications",
+      "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-11T07:43:54.646069+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Lưu token xác thực an toàn trong ứng dụng hiện đại",
+      "bullets": [
+        "Xác định cách lưu trữ token xác thực một cách an toàn",
+        "Phân tích các phương pháp lưu trữ token xác thực",
+        "Đề xuất cách lưu trữ token xác thực hiệu quả nhất"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã đề cập đến vấn đề lưu trữ token xác thực an toàn trong ứng dụng hiện đại. Bài viết này đã phân tích các phương pháp lưu trữ token xác thực và đề xuất cách lưu trữ token xác thực hiệu quả nhất. Mục tiêu của bài viết này là giúp các nhà phát triển ứng dụng xác định cách lưu trữ token xác thực một cách an toàn và hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ad66cae816bc",
       "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
@@ -591,206 +790,6 @@
         "Bị cáo buộc thay đổi câu chuyện"
       ],
       "full_summary": "Một nhân viên an ninh Ukraine bị cáo buộc giết Anastasiia Berezovska, người bị nghi ngờ liên quan đến vụ nổ ở Monaco. Bị cáo buộc này đã thay đổi câu chuyện của mình. Hai người đàn ông liên quan đến các dịch vụ an ninh Ukraine bị cáo buộc giết Anastasiia Berezovska và vứt thi thể ở khu rừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c05be05a1b09",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T02:12:58.533283+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một nhân viên cứu trợ Palestine bị Israel bắn chết",
-      "bullets": [
-        "Một nhân viên cứu trợ Palestine bị Israel bắn chết trong cuộc chiến",
-        "Mohammed al-Wahidi là một nhân vật nhân đạo nổi tiếng trong cuộc chiến Israel-Hamas",
-        "Ông đã tổ chức chiếu bóng World Cup ở Gaza",
-        "Người dân Palestine đang khóc thương cho ông"
-      ],
-      "full_summary": "Một nhân viên cứu trợ Palestine tên Mohammed al-Wahidi đã bị Israel bắn chết trong một cuộc tấn công. Ông đã trở thành một nhân vật nhân đạo nổi tiếng trong cuộc chiến Israel-Hamas. Ông đã tổ chức chiếu bóng World Cup ở Gaza để giúp người dân Palestine thư giãn trong thời gian chiến tranh. Người dân Palestine đang khóc thương cho ông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "864f257908a9",
-      "title": "South Korean chip giant SK Hynix raises $26.5bn in US share sale",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T02:12:59.544969+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "SK Hynix tăng vốn 26,5 tỷ USD trên sàn chứng khoán Mỹ",
-      "bullets": [
-        "Tổ chức bán cổ phiếu trên sàn Nasdaq",
-        "Cổ phiếu sẽ giao dịch từ thứ 6",
-        "Là lần ra mắt lớn nhất của một công ty nước ngoài",
-        "Tăng vốn lên 26,5 tỷ USD"
-      ],
-      "full_summary": "SK Hynix, một trong những công ty bán dẫn lớn nhất Hàn Quốc, đã tổ chức bán cổ phiếu trị giá 26,5 tỷ USD trên sàn chứng khoán Mỹ. Đây là lần ra mắt lớn nhất của một công ty nước ngoài trên sàn Nasdaq. Cổ phiếu sẽ bắt đầu giao dịch từ thứ 6 tới. Việc này sẽ giúp SK Hynix tăng vốn và mở rộng hoạt động kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7bf3499b978e",
-      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
-      "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T02:13:00.402499+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Một cô bé 11 tuổi bị hiếp dâm và giết hại ở bang Ấn Độ",
-      "bullets": [
-        "Cô bé bị hiếp dâm và giết hại",
-        "Thân thể cô bé được tìm thấy trong một hồ nước",
-        "Cơ quan chức năng đang điều tra vụ án",
-        "Tình hình ở bang Ấn Độ trở nên căng thẳng"
-      ],
-      "full_summary": "Một cô bé 11 tuổi bị hiếp dâm và giết hại ở bang Ấn Độ. Thân thể cô bé được tìm thấy trong một hồ nước sau khi gia đình cô báo mất tích. Cơ quan chức năng đang điều tra vụ án và tình hình ở bang Ấn Độ trở nên căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cacf79fa6030",
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T02:13:02.531235+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các thiết bị làm mát không khí giả mạo khiến người dùng thất vọng",
-      "bullets": [
-        "ASA xác định quảng cáo về các thiết bị làm mát nhỏ không đáng tin cậy",
-        "Các thiết bị này không thể làm mát nhanh chóng như quảng cáo",
-        "Người dùng nên cẩn thận khi mua các sản phẩm này",
-        "ASA yêu cầu các công ty phải minh bạch trong quảng cáo"
-      ],
-      "full_summary": "Tổ chức Quản lý Quảng cáo (ASA) đã chỉ trích các quảng cáo về các thiết bị làm mát không khí nhỏ, cho rằng chúng không thể làm mát nhanh chóng như quảng cáo. Các thiết bị này được gọi là 'làm mát trong 90 giây' nhưng thực tế lại không hiệu quả. Người dùng nên cẩn thận khi mua các sản phẩm này và kiểm tra thông tin quảng cáo trước khi mua.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "860c5a021c60",
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T02:13:03.590776+00:00",
-      "category": "politics|economy|environment",
-      "importance": 4,
-      "headline": "Cơ quan vận tải Rotterdam bị yêu cầu giảm phụ thuộc vào nhiên liệu hóa thạch",
-      "bullets": [
-        "Yêu cầu tòa án buộc cảng Rotterdam phải cắt giảm nhanh chóng",
-        "Cảng Rotterdam được yêu cầu phải chuyển sang năng lượng tái tạo",
-        "Mục tiêu là giảm phụ thuộc vào các công ty dầu mỏ",
-        "Cảng Rotterdam đang đối mặt với áp lực tăng lên để trở nên thân thiện với môi trường"
-      ],
-      "full_summary": "Một vụ kiện đã được đưa ra yêu cầu Cảng Rotterdam phải cắt giảm nhanh chóng phụ thuộc vào các công ty dầu mỏ. Mục tiêu là chuyển sang năng lượng tái tạo và giảm tác động tiêu cực đến môi trường. Cảng Rotterdam là một trong những cảng lớn nhất ở châu Âu và đang đối mặt với áp lực tăng lên để trở nên thân thiện với môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ca9130131aee",
-      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-      "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-10T02:13:08.515847+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Patch Windows Defender có thể khiến kẻ tấn công đầy bộ nhớ cứng",
-      "bullets": [
-        "Cập nhật Windows Defender có lỗ hổng 0-day",
-        "Lỗ hổng này có thể cho phép kẻ tấn công đầy bộ nhớ cứng",
-        "Mâu thuẫn giữa NightmareEclipse và Microsoft chưa có dấu hiệu thuyên giảm",
-        "Cần có biện pháp khắc phục ngay lập tức"
-      ],
-      "full_summary": "Một bản cập nhật cho Windows Defender đã được phát hiện có lỗ hổng 0-day. Lỗ hổng này có thể cho phép kẻ tấn công đầy bộ nhớ cứng, gây ra sự cố nghiêm trọng cho hệ thống. Mâu thuẫn giữa NightmareEclipse và Microsoft chưa có dấu hiệu thuyên giảm, khiến cho việc khắc phục lỗ hổng trở nên khó khăn hơn. Cần có biện pháp khắc phục ngay lập tức để tránh những hậu quả nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8cca221c4f9a",
-      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T19:27:10.675237+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Sự sụt giảm lớn trong số tàu chở dầu, khí đốt đi qua eo biển Hormuz sau các vụ tấn công",
-      "bullets": [
-        "Giảm mạnh số tàu đi qua eo biển Hormuz sau các vụ tấn công",
-        "Nhiều tàu chở dầu, khí đốt bị ảnh hưởng bởi các vụ tấn công",
-        "Dữ liệu cho thấy sự sụt giảm rõ ràng trong số tàu đi qua eo biển Hormuz",
-        "Sự kiện này gây ảnh hưởng lớn đến giao thông hàng hải quốc tế"
-      ],
-      "full_summary": "Dữ liệu mới nhất cho thấy sự sụt giảm lớn trong số tàu chở dầu, khí đốt đi qua eo biển Hormuz sau các vụ tấn công gần đây. Các vụ tấn công này đã ảnh hưởng nghiêm trọng đến giao thông hàng hải quốc tế. Số lượng tàu đi qua eo biển Hormuz đã giảm mạnh, gây ảnh hưởng lớn đến hoạt động kinh doanh của các hãng vận tải. Sự kiện này được cho là do các vụ tấn công nhằm vào các tàu chở dầu, khí đốt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a36a27bc8c34",
-      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T19:27:12.846985+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Máy bay chiến đấu F-16 rơi xuống sân bay Zakynthos",
-      "bullets": [
-        "Rơi xuống sân bay Zakynthos",
-        "Không hạ cánh đúng cách",
-        "Bùng cháy sau khi hạ cánh",
-        "Đường băng bị đóng"
-      ],
-      "full_summary": "Một máy bay chiến đấu F-16 của Hy Lạp đã rơi xuống sân bay Zakynthos, khiến đường băng bị đóng sau khi không hạ cánh đúng cách và bùng cháy. Vụ việc đã gây ra sự hoảng loạn tại sân bay đông đúc này. Các nhân viên cứu hỏa đã nhanh chóng hành động để dập tắt đám cháy. Vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "38b5c1576385",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T19:27:13.806132+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Ukraine tấn công tàu của Nga gần Crimea, gây ra leo thang các cuộc tấn công vào nguồn nhiên liệu.",
-      "bullets": [
-        "Ukraine tiến hành các cuộc tấn công nhằm vào các tàu của Nga gần Crimea.",
-        "Các cuộc tấn công nhằm vào nguồn nhiên liệu và các tuyến đường vào và ra khỏi Crimea.",
-        "Ukraine đang cố gắng chặn nguồn cung cấp và các tuyến đường vào Crimea.",
-        "Các cuộc tấn công có thể là một phần của chiến dịch của Ukraine nhằm vào nguồn nhiên liệu của Nga."
-      ],
-      "full_summary": "Ukraine đã tiến hành các cuộc tấn công vào các tàu của Nga gần Crimea, gây ra leo thang các cuộc tấn công vào nguồn nhiên liệu. Các cuộc tấn công này có thể là một phần của chiến dịch của Ukraine nhằm vào nguồn nhiên liệu của Nga. Mục tiêu của Ukraine là chặn nguồn cung cấp và các tuyến đường vào và ra khỏi Crimea. Các cuộc tấn công này có thể gây ra ảnh hưởng nghiêm trọng đến nền kinh tế và nguồn cung cấp nhiên liệu của Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51cd6099048e",
-      "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "url": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-09T19:27:14.805772+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cựu vận động viên Olympic Mỹ phủ nhận tội danh làm hỏng hồ nước phản chiếu Lincoln Memorial",
-      "bullets": [
-        "Phán quyết của tòa án sẽ ảnh hưởng đến hình ảnh của cựu vận động viên Olympic",
-        "Cựu vận động viên bị buộc tội làm hỏng hồ nước phản chiếu Lincoln Memorial",
-        "Tòa án sẽ xem xét các bằng chứng để đưa ra phán quyết cuối cùng",
-        "Cựu vận động viên Olympic Mỹ sẽ phải đối mặt với hậu quả nếu bị kết tội"
-      ],
-      "full_summary": "Cựu vận động viên Olympic Mỹ đã phủ nhận tội danh làm hỏng hồ nước phản chiếu Lincoln Memorial. Ông ta bị buộc tội đã cố ý làm hỏng hồ nước sau khi hồ nước được phục hồi. Tòa án sẽ xem xét các bằng chứng để đưa ra phán quyết cuối cùng. Phán quyết của tòa án sẽ ảnh hưởng đến hình ảnh của cựu vận động viên Olympic.",
       "comments": 0,
       "score": 0
     }
