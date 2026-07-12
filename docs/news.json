@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-12T13:03:07.164121+00:00",
+  "updated_at": "2026-07-12T18:55:27.511480+00:00",
   "articles": [
+    {
+      "id": "5543115b7cda",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T18:55:10.940856+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Sheikh Hamad bin Khalifa Al Thani qua đời ở tuổi 74",
+      "bullets": [
+        "Lãnh đạo Qatar từ năm 1996",
+        "Cầm quyền sau một cuộc đảo chính không đổ máu",
+        "Chuyển đổi Qatar thành một cường quốc giàu tài nguyên khí đốt",
+        "Đã qua đời ở tuổi 74"
+      ],
+      "full_summary": "Sheikh Hamad bin Khalifa Al Thani, cựu Emir của Qatar, đã qua đời ở tuổi 74. Ông đã lên nắm quyền vào năm 1996 sau một cuộc đảo chính không đổ máu và đã biến Qatar thành một cường quốc giàu tài nguyên khí đốt. Ông đã lãnh đạo Qatar trong hơn 2 thập kỷ và đã đóng góp đáng kể vào sự phát triển kinh tế của quốc gia này. Sheikh Hamad bin Khalifa Al Thani được nhớ đến là một nhà lãnh đạo thông minh và có tầm nhìn xa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7a0a643aabbe",
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T18:55:11.871670+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "David Willey, nhà báo BBC, qua đời ở tuổi 93",
+      "bullets": [
+        "Là một nhà báo nước ngoài lâu năm của BBC, ông đã báo cáo về 5 giáo hoàng trong sự nghiệp.",
+        "Ông đã làm việc cho BBC trong hơn 50 năm.",
+        "David Willey được biết đến là một trong những nhà báo BBC xuất sắc nhất về Vatican.",
+        "Ông đã báo cáo về nhiều sự kiện quan trọng tại Vatican."
+      ],
+      "full_summary": "David Willey, nhà báo BBC, đã qua đời ở tuổi 93. Ông là một trong những nhà báo nước ngoài lâu năm của BBC và đã báo cáo về 5 giáo hoàng trong sự nghiệp. Ông đã làm việc cho BBC trong hơn 50 năm và được biết đến là một trong những nhà báo BBC xuất sắc nhất về Vatican. Ông đã báo cáo về nhiều sự kiện quan trọng tại Vatican.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89e4ff026ec5",
+      "title": "Porn site company fined £630,000 over failed age checks",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T18:55:13.944945+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ofcom phạt £630,000 vì website không kiểm tra tuổi của trẻ em",
+      "bullets": [
+        "Phạt £630,000 cho công ty sở hữu trang web chứa nội dung không phù hợp cho trẻ em",
+        "Ofcom chỉ trích các trang web không thực hiện kiểm tra tuổi đủ nghiêm ngặt",
+        "Mục tiêu của Ofcom là bảo vệ trẻ em khỏi nội dung không phù hợp trên internet",
+        "Các trang web cần thực hiện kiểm tra tuổi nghiêm ngặt hơn để tránh bị phạt"
+      ],
+      "full_summary": "Ofcom, cơ quan quản lý truyền thông của Anh, đã phạt £630,000 cho công ty sở hữu trang web chứa nội dung không phù hợp cho trẻ em. Ofcom chỉ trích các trang web không thực hiện kiểm tra tuổi đủ nghiêm ngặt, khiến trẻ em có thể truy cập nội dung không phù hợp. Mục tiêu của Ofcom là bảo vệ trẻ em khỏi nội dung không phù hợp trên internet. Các trang web cần thực hiện kiểm tra tuổi nghiêm ngặt hơn để tránh bị phạt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cbcb9ce42563",
+      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T18:55:15.652231+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nigeria bị phẫn nộ vì cơ quan giả mạo được thành lập tại trụ sở chính phủ",
+      "bullets": [
+        "Bị phát hiện một cơ quan liên bang giả mạo được phân bổ 1,3 tỷ naira trong ngân sách 2026",
+        "Tổng thống Nigeria đã yêu cầu điều tra sau khi cơ quan này được cấp ngân sách",
+        "Cơ quan giả mạo được cho là liên quan đến cáo buộc tham nhũng trong chính phủ Nigeria",
+        "Cáo buộc này đã gây ra một cơn bão chính trị trước cuộc tổng tuyển cử dự kiến vào tháng 1"
+      ],
+      "full_summary": "Tổng thống Nigeria đã yêu cầu điều tra sau khi phát hiện một cơ quan liên bang giả mạo được phân bổ 1,3 tỷ naira trong ngân sách 2026. Cơ quan giả mạo này được cho là liên quan đến cáo buộc tham nhũng trong chính phủ Nigeria. Cáo buộc này đã gây ra một cơn bão chính trị trước cuộc tổng tuyển cử dự kiến vào tháng 1. Tổng thống Nigeria đang chịu áp lực để giải quyết vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "232f5327cf89",
+      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-12T18:55:17.908324+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát sử dụng máy bay không người lái để ngăn chặn bắn pháo nổ",
+      "bullets": [
+        "Sử dụng máy bay không người lái để giám sát pháo nổ bất hợp pháp.",
+        "Cảnh sát và cứu hỏa sử dụng drone để bắt và ngăn chặn pháo nổ.",
+        "Các thành phố ở Mỹ đã tăng cường sử dụng drone để ngăn chặn pháo nổ.",
+        "Một người đã bị phạt 100.000 USD vì sử dụng pháo nổ bất hợp pháp."
+      ],
+      "full_summary": "Trong dịp kỷ niệm 250 năm ngày độc lập của Mỹ, nhiều thành phố đã tăng cường sử dụng máy bay không người lái để giám sát và ngăn chặn pháo nổ bất hợp pháp. Cảnh sát và cứu hỏa đã sử dụng drone để bắt và ngăn chặn những người sử dụng pháo nổ. Một người đã bị phạt 100.000 USD vì sử dụng pháo nổ bất hợp pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "87d66f7307c7",
+      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-12T18:55:18.864457+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Chuyên gia đàm phán bị bắt vì hợp tác với kẻ tấn công",
+      "bullets": [
+        "Hợp tác với kẻ tấn công để đòi tiền chuộc",
+        "Bị kết án 6 năm tù vì phản bội khách hàng",
+        "Chuyên gia đàm phán bị kết tội phản bội khách hàng",
+        "Kẻ tấn công lợi dụng chuyên gia đàm phán để đòi tiền chuộc"
+      ],
+      "full_summary": "Một chuyên gia đàm phán bị kết án 6 năm tù vì hợp tác với kẻ tấn công để đòi tiền chuộc từ khách hàng của mình. Chuyên gia này đã bị kết tội phản bội khách hàng và bị kết án nặng nề. Sự việc đã làm dấy lên lo ngại về sự an toàn của khách hàng khi thuê dịch vụ đàm phán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4f75e111fd7c",
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-12T18:55:20.078307+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tác dụng của sự vô ích trong cuộc sống",
+      "bullets": [
+        "Giải phóng tâm trí khỏi áp lực đạt được",
+        "Tìm kiếm niềm vui trong việc không có mục tiêu",
+        "Tự do từ những kỳ vọng của người khác"
+      ],
+      "full_summary": "Tác giả của bài viết đã đề xuất một quan điểm độc đáo rằng sự vô ích có thể là một nguồn cảm hứng và sự tự do trong cuộc sống. Họ cho rằng việc không có mục tiêu cụ thể có thể giúp giải phóng tâm trí khỏi áp lực đạt được và tìm kiếm niềm vui trong những hoạt động không có mục tiêu. Điều này có thể giúp người ta tự do hơn từ những kỳ vọng của người khác và tìm kiếm sự hạnh phúc trong những điều đơn giản.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "17d9205ca67b",
+      "title": "Why study Diophantine equations?",
+      "url": "https://hidden-phenomena.com/articles/modular",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-12T18:55:23.418078+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Giải thích tại sao học phương trình Diophantine",
+      "bullets": [
+        "Giải thích ứng dụng thực tế của phương trình Diophantine",
+        "Khái quát lịch sử phát triển của phương trình Diophantine",
+        "Giải thích ý nghĩa của phương trình Diophantine trong toán học hiện đại",
+        "Trình bày các phương pháp giải phương trình Diophantine"
+      ],
+      "full_summary": "Phương trình Diophantine là một lĩnh vực toán học nghiên cứu các phương trình đại số có tham số nguyên. Bài viết giải thích tại sao phương trình Diophantine lại quan trọng và ứng dụng thực tế của nó trong các lĩnh vực khác nhau. Nó cũng trình bày lịch sử phát triển của phương trình Diophantine và ý nghĩa của nó trong toán học hiện đại.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7e9bd59636b9",
       "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
@@ -631,166 +790,6 @@
         "Cải thiện hiểu biết về chu kỳ sắt và tác động của nó đến môi trường đại dương"
       ],
       "full_summary": "Một nghiên cứu mới được công bố trên Nature đã khám phá về chu kỳ sắt trong đại dương. Các nhà nghiên cứu đã xác định các pha khoáng vật tự sinh là động lực chính của chu kỳ sắt trên đại dương. Điều này sẽ giúp cải thiện hiểu biết về chu kỳ sắt và tác động của nó đến môi trường đại dương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1cbe693286c6",
-      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T13:02:04.156882+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi một người được cứu sống sau khi thuyền tốc độ chìm ở miền Nam",
-      "bullets": [
-        "Hai mươi mốt người được cứu sống sau khi thuyền tốc độ chìm ở miền Nam",
-        "Có mười lăm người thiệt mạng trong vụ tai nạn",
-        "Thuyền tốc độ chìm do sóng biển mạnh ở khu vực gần đảo",
-        "Nguyên nhân vụ tai nạn vẫn đang được điều tra"
-      ],
-      "full_summary": "Một vụ tai nạn nghiêm trọng đã xảy ra khi thuyền tốc độ chìm ở khu vực gần đảo ở miền Nam Việt Nam. Có mười lăm người thiệt mạng và hai mươi mốt người được cứu sống. Vụ tai nạn xảy ra do sóng biển mạnh. Nguyên nhân vụ tai nạn vẫn đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dc95e59d9ca7",
-      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T13:02:05.111787+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn bão Bavi sắp đổ bộ vào Trung Quốc",
-      "bullets": [
-        "Hàng trăm nghìn người được sơ tán khỏi tỉnh Zhejiang",
-        "Thành phố Wenzhou nằm gần con đường của cơn bão",
-        "Trung Quốc chuẩn bị cho cơn bão thứ hai trong tuần",
-        "Cơn bão Bavi đang di chuyển về phía đất liền"
-      ],
-      "full_summary": "Trung Quốc đang chuẩn bị cho cơn bão Bavi, cơn bão thứ hai trong tuần, sau khi hàng trăm nghìn người được sơ tán khỏi tỉnh Zhejiang. Thành phố Wenzhou nằm gần con đường của cơn bão. Các quan chức đang chuẩn bị cho tình huống xấu nhất. Cơn bão Bavi đang di chuyển về phía đất liền và có thể gây ra thiệt hại nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d4caf9f87960",
-      "title": "US pays out $3m to victims of mysterious Havana Syndrome",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T13:02:06.125990+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mỹ bồi thường 3 triệu USD cho nạn nhân của hiện tượng Havana bí ẩn",
-      "bullets": [
-        "Mỹ bồi thường 3 triệu USD cho các nạn nhân của hiện tượng Havana bí ẩn",
-        "Các quan chức và đại sứ Mỹ và gia đình họ bắt đầu báo cáo về một căn bệnh bí ẩn một thập kỷ trước",
-        "Hình thức và nguyên nhân của hiện tượng Havana vẫn chưa được xác định rõ ràng",
-        "Nhiều người tin rằng hiện tượng này có thể liên quan đến hoạt động của các thiết bị điện tử"
-      ],
-      "full_summary": "Mỹ đã bồi thường 3 triệu USD cho các nạn nhân của hiện tượng Havana bí ẩn. Hiện tượng này đã được báo cáo lần đầu tiên vào một thập kỷ trước bởi các quan chức và đại sứ Mỹ và gia đình họ. Mặc dù hình thức và nguyên nhân của hiện tượng này vẫn chưa được xác định rõ ràng, nhưng nhiều người tin rằng nó có thể liên quan đến hoạt động của các thiết bị điện tử. Các nạn nhân đã trải qua các triệu chứng như đau đầu, chóng mặt và mất trí nhớ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ad5787657bb",
-      "title": "Australian killer's final police interview footage released",
-      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T13:02:07.134992+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một kẻ giết người Australia qua đời mà không tiết lộ vị trí hài cốt Peter Falconio",
-      "bullets": [
-        "Cơ quan cảnh sát Australia đã công bố đoạn phim phỏng vấn cuối cùng với Bradley Murdoch",
-        "Bradley Murdoch qua đời trong tù mà không tiết lộ vị trí hài cốt Peter Falconio",
-        "Peter Falconio mất tích vào năm 2000 sau khi bị giết",
-        "Bradley Murdoch bị kết án tù vì tội giết người"
-      ],
-      "full_summary": "Bradley Murdoch, 67 tuổi, đã qua đời trong tù mà không tiết lộ vị trí hài cốt của Peter Falconio. Cơ quan cảnh sát Australia đã công bố đoạn phim phỏng vấn cuối cùng với Bradley Murdoch. Peter Falconio mất tích vào năm 2000 sau khi bị giết. Bradley Murdoch bị kết án tù vì tội giết người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cacf79fa6030",
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T13:02:08.129028+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các thiết bị làm mát không khí giả mạo quảng cáo quá mức",
-      "bullets": [
-        "ASA cho rằng quảng cáo về các thiết bị làm mát di động nhỏ không đáng tin cậy",
-        "Các thiết bị này không thể làm mát nhanh chóng như quảng cáo",
-        "ASA yêu cầu các công ty quảng cáo phải minh bạch hơn",
-        "Các thiết bị làm mát không khí giả mạo đang lan truyền trên internet"
-      ],
-      "full_summary": "Tổ chức Quản lý Quảng cáo (ASA) đã chỉ trích các quảng cáo về các thiết bị làm mát di động nhỏ, tuyên bố chúng có thể làm mát nhanh chóng. Tuy nhiên, các thiết bị này không thể làm mát nhanh chóng như quảng cáo. ASA yêu cầu các công ty quảng cáo phải minh bạch hơn về khả năng của các sản phẩm. Các thiết bị làm mát không khí giả mạo đang lan truyền trên internet.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "860c5a021c60",
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T13:02:09.182872+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cơ quan vận tải Rotterdam bị yêu cầu giảm phụ thuộc vào nhiên liệu hóa thạch",
-      "bullets": [
-        "Yêu cầu tòa án buộc Port of Rotterdam phải giảm phụ thuộc vào nhiên liệu hóa thạch",
-        "Phát hiện ra các giải pháp thay thế cho các công ty năng lượng hóa thạch",
-        "Đảm bảo giảm thiểu tác động môi trường của hoạt động vận tải",
-        "Tăng cường sử dụng năng lượng tái tạo trong hoạt động của cảng"
-      ],
-      "full_summary": "Một vụ kiện pháp lý đang gây áp lực buộc Cảng Rotterdam, cảng biển lớn nhất châu Âu, phải nhanh chóng giảm phụ thuộc vào các công ty năng lượng hóa thạch. Vụ kiện yêu cầu cảng phải tìm ra các giải pháp thay thế và giảm thiểu tác động môi trường của hoạt động vận tải. Mục tiêu là tăng cường sử dụng năng lượng tái tạo trong hoạt động của cảng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe4f334a4f3e",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T13:02:10.224390+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nigeria tiêu diệt hơn 300 tên cướp ở bang Zamfara",
-      "bullets": [
-        "Nigeria tiêu diệt hơn 300 tên cướp",
-        "Lực lượng quân đội và dân phòng tham gia chiến đấu",
-        "Hành động diễn ra trong hai ngày ở khu vực Gummi",
-        "Nhiều tên cướp bị giết trong trận chiến"
-      ],
-      "full_summary": "Lực lượng quân đội Nigeria đã tiêu diệt hơn 300 tên cướp ở bang Zamfara. Theo thông tin từ chính quyền địa phương, các tên cướp này tham gia vào các hoạt động bắt cóc và cướp trộm bò. Lực lượng quân đội đã tiến hành một chiến dịch hai ngày tại khu vực Gummi để tiêu diệt những tên cướp này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "061f2ff3fdc7",
-      "title": "China recovered its first reusable rocket and showed a new way to do it",
-      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-11T13:02:14.024996+00:00",
-      "category": "khoa học-kỹ thuật",
-      "importance": 3,
-      "headline": "Trung Quốc hồi phục tên lửa tái sử dụng đầu tiên và giới thiệu phương pháp mới",
-      "bullets": [
-        "Hồi phục tên lửa tái sử dụng đầu tiên",
-        "Sử dụng phương pháp mới để tái sử dụng tên lửa",
-        "Giống như công việc của SpaceX mà Trung Quốc đang cố gắng lặp lại",
-        "Tăng cường khả năng tái sử dụng tên lửa trong tương lai"
-      ],
-      "full_summary": "Trung Quốc đã hồi phục tên lửa tái sử dụng đầu tiên của mình và giới thiệu phương pháp mới để tái sử dụng tên lửa. Phương pháp này được cho là giống như công việc của SpaceX mà Trung Quốc đang cố gắng lặp lại. Việc hồi phục tên lửa tái sử dụng sẽ giúp Trung Quốc tăng cường khả năng tái sử dụng tên lửa trong tương lai.",
       "comments": 0,
       "score": 0
     }
