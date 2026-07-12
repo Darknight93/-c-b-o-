@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-12T08:05:26.353864+00:00",
+  "updated_at": "2026-07-12T13:03:07.164121+00:00",
   "articles": [
+    {
+      "id": "7e9bd59636b9",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T13:02:52.337934+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Họp đồng Anh bị thương nặng trong đám cháy rừng ở Tây Ban Nha",
+      "bullets": [
+        "Đôi vợ chồng Anh bị mắc kẹt trong đám cháy rừng ở Almeria",
+        "Cặp đôi bị thương nặng với 40% vết thương",
+        "Họ được tìm thấy trong tình trạng bất tỉnh",
+        "Đội cứu hộ đã đưa họ đến bệnh viện"
+      ],
+      "full_summary": "Một cặp đôi người Anh đã bị mắc kẹt trong đám cháy rừng ở tỉnh Almeria, Tây Ban Nha. Họ bị thương nặng với 40% vết thương và được tìm thấy trong tình trạng bất tỉnh. Đội cứu hộ đã tìm thấy họ và đưa họ đến bệnh viện. Cặp đôi đang được điều trị tại bệnh viện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d30a0e3a6028",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T13:02:53.356099+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta rút lại tính năng AI chỉnh sửa ảnh trên Instagram",
+      "bullets": [
+        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
+        "Tính năng này đã nhận được phản ứng tiêu cực từ cộng đồng",
+        "Meta đã rút lại tính năng sau vài ngày",
+        "Tính năng này cho phép người dùng chỉnh sửa ảnh bằng AI"
+      ],
+      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, công ty đã rút lại tính năng này do nhận được phản ứng tiêu cực từ cộng đồng. Tính năng này cho phép người dùng chỉnh sửa ảnh bằng AI, nhưng nhiều người dùng đã cảm thấy không thoải mái với tính năng này. Meta đã rút lại tính năng này để tránh gây ra sự cố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4befa9b74565",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T13:02:54.290262+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Assassin's Creed Black Flag remake được ra mắt sau 13 năm chờ đợi",
+      "bullets": [
+        "Trò chơi Assassin's Creed Black Flag được tái tạo lại từ đầu",
+        "Cốt truyện và nhân vật được giữ nguyên",
+        "Chế độ chơi mới và đồ họa được nâng cấp",
+        "Đánh giá của BBC: trò chơi đáng chơi"
+      ],
+      "full_summary": "Assassin's Creed Black Flag remake là một trò chơi hành động phiêu lưu được tái tạo lại từ đầu. Trò chơi có cốt truyện và nhân vật được giữ nguyên, nhưng chế độ chơi mới và đồ họa đã được nâng cấp. Theo đánh giá của BBC, trò chơi đáng chơi và có nhiều tính năng mới. Assassin's Creed Black Flag remake đã được ra mắt sau 13 năm chờ đợi và đã nhận được sự quan tâm của nhiều người chơi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e0e96a7b8d04",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T13:02:55.371525+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Cơ quan Y tế Thế giới thử nghiệm thuốc mới chống Ebola",
+      "bullets": [
+        "Bắt đầu thử nghiệm thuốc mới chống Ebola ở vùng Ituri",
+        "Hai loại thuốc đang được thử nghiệm để giảm tỷ lệ tử vong",
+        "Cơ quan Y tế Thế giới cho biết đây là một tốc độ thử nghiệm nhanh chóng",
+        "Hy vọng sẽ tìm ra thuốc chống Ebola trong vài tháng tới"
+      ],
+      "full_summary": "Cơ quan Y tế Thế giới đã bắt đầu thử nghiệm thuốc mới chống Ebola ở vùng Ituri, Democratic Republic của Congo. Đây là một tốc độ thử nghiệm nhanh chóng, chỉ 6 tuần sau khi WHO tuyên bố dịch bệnh là một tình trạng sức khỏe công cộng quốc tế quan trọng. Hai loại thuốc đang được thử nghiệm để giảm tỷ lệ tử vong. Hy vọng sẽ tìm ra thuốc chống Ebola trong vài tháng tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca88b3b341bf",
+      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+      "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-12T13:02:57.513374+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu mới giải thích lý do người Polynesia đột ngột đi biển hướng đông",
+      "bullets": [
+        "Khám phá bằng chứng khí hậu mới cho thấy lý do người Polynesia đi biển",
+        "Nghiên cứu chỉ ra rằng người Polynesia đã có khả năng đi biển từ lâu",
+        "Bằng chứng khí hậu mới cho thấy thời tiết thuận lợi cho các chuyến đi biển",
+        "Các chuyến đi biển của người Polynesia đã mở ra một kỷ nguyên mới cho lịch sử"
+      ],
+      "full_summary": "Nghiên cứu mới trên Ars Technica đã khám phá lý do người Polynesia đột ngột đi biển hướng đông sau 1.700 năm. Bằng chứng khí hậu mới cho thấy thời tiết thuận lợi cho các chuyến đi biển, giúp người Polynesia có khả năng đi biển từ lâu. Các chuyến đi biển của người Polynesia đã mở ra một kỷ nguyên mới cho lịch sử và giải thích lý do họ đã đi đến các đảo xa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7409f3364857",
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-12T13:02:59.716738+00:00",
+      "category": "technology",
+      "importance": 2,
+      "headline": "Ngôn ngữ lập trình Odin được giới lập trình viên quan tâm",
+      "bullets": [
+        "Giới thiệu ngôn ngữ lập trình mới Odin",
+        "Odin được thiết kế cho lập trình viên mới",
+        "Odin có thể giúp giảm thiểu lỗi lập trình"
+      ],
+      "full_summary": "Ngôn ngữ lập trình Odin là một ngôn ngữ lập trình mới được giới lập trình viên quan tâm. Odín được thiết kế cho lập trình viên mới, với mục tiêu giúp họ học lập trình một cách dễ dàng hơn. Odín có thể giúp giảm thiểu lỗi lập trình bằng cách cung cấp các tính năng an toàn và kiểm soát lỗi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "13814ce6c869",
+      "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
+      "url": "https://www.nature.com/articles/d41586-026-02091-6",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-12T13:03:05.496731+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Các công cụ AI hứa hẹn tăng tốc nghiên cứu khoa học",
+      "bullets": [
+        "Tìm kiếm công cụ AI phù hợp cho phòng thí nghiệm",
+        "So sánh các công cụ AI như Claude Science",
+        "Giảm thời gian và tăng hiệu suất cho nghiên cứu khoa học",
+        "Tìm hiểu ứng dụng thực tế của công nghệ AI trong khoa học"
+      ],
+      "full_summary": "Các công cụ AI cho khoa học nói chung, chẳng hạn như Claude Science, hứa hẹn tăng tốc nghiên cứu. Tuy nhiên, công cụ nào phù hợp với phòng thí nghiệm của bạn?",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b2e44540b8de",
       "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
@@ -652,146 +791,6 @@
         "Tăng cường khả năng tái sử dụng tên lửa trong tương lai"
       ],
       "full_summary": "Trung Quốc đã hồi phục tên lửa tái sử dụng đầu tiên của mình và giới thiệu phương pháp mới để tái sử dụng tên lửa. Phương pháp này được cho là giống như công việc của SpaceX mà Trung Quốc đang cố gắng lặp lại. Việc hồi phục tên lửa tái sử dụng sẽ giúp Trung Quốc tăng cường khả năng tái sử dụng tên lửa trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f2c81c84a68f",
-      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
-      "url": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-11T13:02:16.116817+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tân hiệu vaccine ngừa sởi của RFK Jr. gây hại cho trẻ nhỏ Mỹ",
-      "bullets": [
-        "Gây hại cho trẻ nhỏ Mỹ",
-        "Tác động tiêu cực đến sức khỏe của trẻ em",
-        "Sự thay đổi trong vaccine ngừa sởi gây ra những hậu quả nghiêm trọng",
-        "Trẻ em dễ bị tổn thương nhất"
-      ],
-      "full_summary": "Một nghiên cứu mới chỉ ra rằng sự thay đổi trong vaccine ngừa sởi do RFK Jr. đề xuất sẽ gây hại cho trẻ nhỏ Mỹ. Các em nhỏ nhận được liều vaccine kết hợp là những người dễ bị tổn thương nhất. Nghiên cứu này cho thấy sự thay đổi trong vaccine sẽ gây ra những hậu quả nghiêm trọng đối với sức khỏe của trẻ em. Điều này đã gây ra lo ngại về sự an toàn của vaccine ngừa sởi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb1a6225d7da",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:40.859578+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ lò lửa ở Tây Ban Nha khiến ít nhất 12 người thiệt mạng",
-      "bullets": [
-        "Bùng phát nổ lò lửa ở Tây Ban Nha",
-        "Ít nhất 12 người thiệt mạng, 23 người mất tích",
-        "Có ít nhất 4 người Anh bị ảnh hưởng",
-        "Hành động khẩn cấp để dập lửa đang được triển khai"
-      ],
-      "full_summary": "Một đám cháy lớn đã bùng phát ở Tây Ban Nha, khiến ít nhất 12 người thiệt mạng và 23 người mất tích. Các lực lượng cứu hộ đang nỗ lực dập lửa. Theo BBC, ít nhất 4 người Anh bị ảnh hưởng. Chính phủ Tây Ban Nha đã triển khai các biện pháp khẩn cấp để kiểm soát đám cháy.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0959e36c0695",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:41.785135+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
-      "bullets": [
-        "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
-        "OpenAI có kế hoạch kinh doanh thiết bị cứng",
-        "Apple cáo buộc OpenAI vi phạm bản quyền và bí mật kinh doanh",
-        "OpenAI chưa đưa ra bình luận chính thức"
-      ],
-      "full_summary": "Apple đã kiện OpenAI vì tội trộm cắp bí mật kinh doanh. Trong đơn kiện, Apple cáo buộc OpenAI có kế hoạch kinh doanh thiết bị cứng và vi phạm bản quyền, bí mật kinh doanh. Apple cho rằng kế hoạch kinh doanh của OpenAI 'đã bị nhiễm sâu'. OpenAI chưa đưa ra bình luận chính thức về vụ kiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f48b5a19858",
-      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:42.623427+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Một loài khủng long ăn thực vật mới được phát hiện ở Thái Lan",
-      "bullets": [
-        "Được phát hiện ở Thái Lan",
-        "Có cổ dài như sân cricket",
-        "Là loài khủng long ăn thực vật",
-        "Cư trú khoảng 150 triệu năm trước"
-      ],
-      "full_summary": "Một loài khủng long ăn thực vật mới đã được phát hiện ở Thái Lan. Loài khủng long này có tên là Uragasaurus kalasinensis và được cho là đã sống khoảng 150 triệu năm trước. Nó có cổ dài như sân cricket và được phát hiện ở Thái Lan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0959e36c0695",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:43.517596+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple kiện OpenAI vì tội trộm cắp bí mật thương mại",
-      "bullets": [
-        "Apple kiện OpenAI vì tội trộm cắp bí mật thương mại",
-        "OpenAI có kế hoạch kinh doanh phần cứng đang bị nghi ngờ",
-        "Apple cáo buộc OpenAI lấy cắp bí mật thương mại",
-        "Vụ kiện của Apple nhằm vào nhân viên của OpenAI"
-      ],
-      "full_summary": "Apple đã đệ đơn kiện OpenAI vì tội trộm cắp bí mật thương mại. Theo đơn kiện, OpenAI có kế hoạch kinh doanh phần cứng đang bị nghi ngờ. Apple cáo buộc OpenAI lấy cắp bí mật thương mại của họ. Vụ kiện của Apple nhằm vào nhân viên của OpenAI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89e4ff026ec5",
-      "title": "Porn site company fined £630,000 over failed age checks",
-      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:44.410738+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công ty sở hữu trang web lậu bị phạt 630.000 bảng vì không kiểm tra tuổi",
-      "bullets": [
-        "Bị phạt £630.000 vì không thực hiện kiểm tra tuổi",
-        "Cơ quan quản lý truyền thông Ofcom lên tiếng",
-        "Trang web lậu không ngăn chặn trẻ em truy cập nội dung không phù hợp",
-        "Công ty phải thực hiện kiểm tra tuổi nghiêm ngặt hơn"
-      ],
-      "full_summary": "Cơ quan quản lý truyền thông Ofcom đã phạt công ty sở hữu trang web lậu £630.000 vì không thực hiện kiểm tra tuổi. Công ty này đã không ngăn chặn trẻ em truy cập nội dung không phù hợp. Ofcom yêu cầu công ty phải thực hiện kiểm tra tuổi nghiêm ngặt hơn để bảo vệ trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cbcb9ce42563",
-      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:45.497431+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Bất thường ở Nigeria: Cơ quan giả mạo được thành lập tại trụ sở chính phủ",
-      "bullets": [
-        "Chính phủ Nigeria đã bị chỉ trích vì việc thành lập một cơ quan giả mạo",
-        "Cơ quan này đã được phân bổ 1,3 tỷ naira (£700,000) trong ngân sách 2026",
-        "Tổng thống đã yêu cầu điều tra về vụ việc này",
-        "Vụ việc đã gây ra một cơn bão chính trị trước cuộc bầu cử tổng thống sắp tới"
-      ],
-      "full_summary": "Một cơ quan giả mạo được thành lập tại trụ sở chính phủ Nigeria đã gây ra một cơn bão chính trị lớn. Cơ quan này được gọi là Hội đồng thúc đẩy can thiệp nước ngoài của Tổng thống (PFIPC) và đã được phân bổ 1,3 tỷ naira (£700,000) trong ngân sách 2026. Tổng thống đã yêu cầu điều tra về vụ việc này sau khi phát hiện ra rằng chữ ký và con dấu của ông đã bị giả mạo. Vụ việc này đã gây ra một cơn bão chính trị lớn trước cuộc bầu cử tổng thống sắp tới.",
       "comments": 0,
       "score": 0
     }
