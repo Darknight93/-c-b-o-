@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-11T18:51:06.170865+00:00",
+  "updated_at": "2026-07-12T02:02:26.063082+00:00",
   "articles": [
+    {
+      "id": "34a40f33ff0f",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T02:02:10.563440+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ thực hiện đòn tấn công mới sau vụ tấn công tàu trên eo biển Hormuz",
+      "bullets": [
+        "Mỹ thực hiện đòn tấn công mới",
+        "Iran đóng eo biển Hormuz",
+        "Tàu Cyprus bị tấn công",
+        "Tình hình leo thang căng thẳng"
+      ],
+      "full_summary": "Mỹ đã thực hiện đòn tấn công mới sau khi một tàu Cyprus bị tấn công trên eo biển Hormuz, một con đường thủy quan trọng. Iran đã đóng eo biển Hormuz, khiến giao thông bị gián đoạn. Sự việc này đã khiến tình hình leo thang căng thẳng giữa Mỹ và Iran. Các nước khác đang theo dõi tình hình và tìm cách giải quyết vấn đề.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1130b60a0f7c",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T02:02:11.722673+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "T-Rex khủng long giá 30 triệu USD sắp bán tại New York",
+      "bullets": [
+        "Sẽ có một T-Rex 67 triệu năm tuổi được bán tại New York với giá khởi điểm 30 triệu USD",
+        "Giá bán có thể khiến T-Rex trở thành hóa thạch đắt nhất mọi thời đại",
+        "Tuy nhiên, điều này cũng gây ra vấn đề cho các nhà khoa học",
+        "Nhiều người lo ngại giá cao sẽ ngăn cản việc nghiên cứu và bảo tồn hóa thạch"
+      ],
+      "full_summary": "Một T-Rex 67 triệu năm tuổi sắp được bán tại New York với giá khởi điểm 30 triệu USD. Giá bán này có thể khiến T-Rex trở thành hóa thạch đắt nhất mọi thời đại. Tuy nhiên, điều này cũng gây ra vấn đề cho các nhà khoa học vì giá cao có thể ngăn cản việc nghiên cứu và bảo tồn hóa thạch. Nhiều người lo ngại rằng giá cao sẽ khiến hóa thạch này bị bán cho người có tiền, thay vì được nghiên cứu và bảo tồn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "57ac54e4380c",
+      "title": "At least two killed in Toronto street festival shooting",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T02:02:12.780630+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người bị thương trong vụ bắn súng tại lễ hội đường phố Toronto",
+      "bullets": [
+        "Cảnh sát đã yêu cầu người dân tránh xa khu vực",
+        "Ít nhất hai người đã thiệt mạng trong vụ bắn súng",
+        "Cảnh sát đang điều tra nguyên nhân vụ việc",
+        "Khu vực đang được phong tỏa"
+      ],
+      "full_summary": "Vụ bắn súng đã xảy ra tại lễ hội đường phố ở Toronto, Canada. Ít nhất hai người đã thiệt mạng và nhiều người bị thương. Cảnh sát đang điều tra nguyên nhân vụ việc và yêu cầu người dân tránh xa khu vực. Khu vực đang được phong tỏa để đảm bảo an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2ea87ab9a50f",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T02:02:14.055682+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chủ tịch Ba Lan cam kết xây dựng đài tưởng niệm nạn nhân của diệt chủng",
+      "bullets": [
+        "Chủ tịch Ba Lan cam kết xây dựng đài tưởng niệm nạn nhân của diệt chủng",
+        "Ba Lan và Ukraine đã tranh cãi về vụ giết hại hàng nghìn thường dân trong Thế chiến thứ hai",
+        "Vụ việc đã diễn ra trong nhiều thập kỷ",
+        "Ba Lan và Ukraine đang tìm kiếm sự công nhận và bồi thường"
+      ],
+      "full_summary": "Chủ tịch Ba Lan Mateusz Morawiecki đã cam kết xây dựng đài tưởng niệm nạn nhân của diệt chủng trong Thế chiến thứ hai. Vụ việc đã diễn ra trong nhiều thập kỷ, với hàng nghìn thường dân bị giết hại bởi các dân tộc cực đoan Ukraine. Ba Lan và Ukraine đã tranh cãi về vụ việc này trong nhiều thập kỷ. Việc xây dựng đài tưởng niệm sẽ giúp công nhận và bồi thường cho những nạn nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "64a6478c00f6",
+      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T02:02:15.148598+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Ủy ban châu Âu cảnh báo Meta về phạt vì Facebook và Instagram gây nghiện",
+      "bullets": [
+        "Cảnh báo về tính chất gây nghiện của Facebook và Instagram",
+        "Chính phủ châu Âu muốn kiểm soát các tính năng gây nghiện",
+        "Ủy ban châu Âu sẽ phạt Meta nếu không tuân thủ",
+        "Meta phải thay đổi các tính năng gây nghiện trên Facebook và Instagram"
+      ],
+      "full_summary": "Ủy ban châu Âu đã cảnh báo Meta về việc phạt vì tính chất gây nghiện của Facebook và Instagram. Các tính năng như cuộn vô hạn và các tính năng tương tự đã được cho là góp phần vào việc sử dụng Facebook và Instagram một cách bừa bãi. Ủy ban châu Âu muốn kiểm soát các tính năng này và phạt Meta nếu không tuân thủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ffc547bf466",
+      "title": "Big tech must deal with scam ads under Ofcom proposals",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T02:02:16.134124+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cục quản lý truyền thông yêu cầu công nghệ lớn ngăn chặn quảng cáo lừa đảo",
+      "bullets": [
+        "Cục quản lý truyền thông yêu cầu công nghệ lớn ngăn chặn quảng cáo lừa đảo",
+        "Hơn nửa người lớn ở Anh đã gặp quảng cáo lừa đảo trên internet",
+        "Ofcom đề xuất quy định mới để ngăn chặn quảng cáo lừa đảo",
+        "Quy định mới sẽ áp dụng cho các công ty công nghệ lớn"
+      ],
+      "full_summary": "Cục quản lý truyền thông (Ofcom) của Anh đã đề xuất quy định mới để ngăn chặn quảng cáo lừa đảo trên internet. Theo Ofcom, hơn nửa người lớn ở Anh đã gặp quảng cáo lừa đảo trên internet. Để ngăn chặn tình trạng này, Ofcom yêu cầu các công ty công nghệ lớn phải ngăn chặn quảng cáo lừa đảo trên các nền tảng của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49a7ce37d74e",
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T02:02:17.252127+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Nhiều nước đang phát triển chi nhiều hơn cho nợ nước ngoài",
+      "bullets": [
+        "Chi trả nợ nước ngoài chiếm hơn chi giáo dục ở 113 nước",
+        "18 nước chi 5 lần nhiều hơn cho nợ nước ngoài so với giáo dục",
+        "Sự giảm nguồn viện trợ giáo dục dự báo sẽ giảm 30%",
+        "Các nước châu Phi chi 3,6 lần nhiều hơn cho nợ nước ngoài so với giáo dục"
+      ],
+      "full_summary": "Theo báo cáo của Unesco, nhiều nước đang phát triển chi nhiều hơn cho nợ nước ngoài so với giáo dục. 113 nước chi trả nợ nước ngoài nhiều hơn chi giáo dục năm 2025. Sự giảm nguồn viện trợ giáo dục dự báo sẽ giảm 30%. Điều này gây lo ngại về tương lai giáo dục ở các nước đang phát triển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "185bfa6db768",
+      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-12T02:02:22.500002+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Long Covid có thể gây tổn thương cho dây thần kinh kiểm soát dạ dày",
+      "bullets": [
+        "Tổn thương dây thần kinh có thể dẫn đến các vấn đề tiêu hóa",
+        "Nghiên cứu chỉ ra rằng Long Covid có thể gây tổn thương dây thần kinh",
+        "Tổn thương dây thần kinh có thể gây ra các triệu chứng như buồn nôn và đau bụng"
+      ],
+      "full_summary": "Một nghiên cứu mới đã chỉ ra rằng Long Covid có thể gây tổn thương cho dây thần kinh kiểm soát dạ dày. Điều này có thể dẫn đến các vấn đề tiêu hóa và các triệu chứng khác. Nghiên cứu này được công bố trên tạp chí International Journal of Infectious Diseases và có thể giúp hiểu rõ hơn về tác động của Long Covid lên cơ thể.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2bfa21b06170",
       "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
@@ -634,164 +793,6 @@
         "Đánh giá ban đầu cho thấy trò chơi đã cải thiện đáng kể so với bản gốc"
       ],
       "full_summary": "Assassin's Creed Black Flag remake là một trong những trò chơi được mong đợi nhất trong nhiều năm. Trò chơi đã được tái tạo từ đầu lên với đồ họa và âm thanh mới mẻ, mang lại trải nghiệm chơi game hoàn toàn mới. Cốt truyện và nhân vật vẫn giữ nguyên nhưng với cách chơi game mới, người chơi sẽ được khám phá thế giới rộng lớn và phiêu lưu trên biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa6e5226c92b",
-      "title": "Quantum error correction can constantly recalibrate a processor",
-      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-11T01:58:54.372834+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Sự cố lỗi lượng tử có thể được điều chỉnh liên tục bằng cách tinh chỉnh thuật toán điều khiển",
-      "bullets": [
-        "Sử dụng học tập cường hóa để điều chỉnh thuật toán điều khiển dựa trên thông tin lỗi",
-        "Cải thiện đáng kể độ chính xác của máy tính lượng tử bằng cách điều chỉnh liên tục",
-        "Phát triển các thuật toán mới để khắc phục lỗi lượng tử trong các ứng dụng thực tế"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã phát triển một phương pháp mới để điều chỉnh liên tục máy tính lượng tử bằng cách sử dụng học tập cường hóa. Phương pháp này sử dụng thông tin lỗi để tinh chỉnh thuật toán điều khiển, giúp cải thiện đáng kể độ chính xác của máy tính lượng tử. Điều này có thể mở ra các ứng dụng thực tế trong tương lai, chẳng hạn như phát triển các thuật toán mới để khắc phục lỗi lượng tử trong các ứng dụng thực tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e9dc1492f31b",
-      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
-      "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-11T01:58:58.707567+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cập nhật phần mềm làm hỏng thiết bị Hue Bridge Pro của Philips",
-      "bullets": [
-        "Cập nhật phần mềm gây lỗi cho thiết bị Hue Bridge Pro",
-        "Người dùng phải cấu hình lại đèn và cài đặt",
-        "Philips cung cấp thay thế miễn phí cho thiết bị bị lỗi",
-        "Người dùng phải mất thời gian để cấu hình lại hệ thống"
-      ],
-      "full_summary": "Philips đã phát hành một bản cập nhật phần mềm cho thiết bị Hue Bridge Pro, nhưng đã gây lỗi cho một số thiết bị. Người dùng bị ảnh hưởng sẽ phải cấu hình lại đèn và cài đặt của mình. Philips đã cam kết cung cấp thay thế miễn phí cho thiết bị bị lỗi. Điều này sẽ giúp người dùng giảm thiểu thời gian và công sức để cấu hình lại hệ thống.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2656e03d5613",
-      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T19:18:48.688435+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hỏa hoạn ở Tây Ban Nha khiến ít nhất 12 người chết và 23 người mất tích",
-      "bullets": [
-        "Đã xảy ra hỏa hoạn ở khu vực Los Gallardos, Almería",
-        "Ít nhất 12 người đã thiệt mạng và 23 người mất tích",
-        "Có khả năng 4 nạn nhân là người Anh"
-      ],
-      "full_summary": "Một vụ hỏa hoạn lớn đã xảy ra gần khu vực Los Gallardos, Almería, Tây Ban Nha, khiến ít nhất 12 người thiệt mạng và 23 người mất tích. Các quan chức địa phương cho biết có khả năng 4 nạn nhân là người Anh. Vụ hỏa hoạn đã được dập tắt, nhưng vẫn còn nhiều người mất tích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0600eba25f99",
-      "title": "Zulu king expresses regret after video captures tirade against his wife",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T19:18:49.667970+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Vua Zulu xin lỗi sau khi bị bắt gặp đe dọa đánh vợ",
-      "bullets": [
-        "Vua Misuzulu đe dọa đánh vợ",
-        "Vua cáo buộc vợ ngoại tình",
-        "Vụ việc gây tranh cãi trên mạng xã hội",
-        "Vua sau đó xin lỗi vì hành động của mình"
-      ],
-      "full_summary": "Vua Zulu Misuzulu đã xin lỗi sau khi một video được chia sẻ rộng rãi trên mạng xã hội, trong đó ông đe dọa đánh vợ và cáo buộc vợ ngoại tình. Vụ việc đã gây ra nhiều tranh cãi và được nhiều người quan tâm. Vua Misuzulu sau đó đã xin lỗi vì hành động của mình và cho biết ông sẽ cố gắng cải thiện mối quan hệ với vợ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ca49ceedb4ab",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T19:18:50.528852+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát nhập cư bắn chết người không phải mục tiêu",
-      "bullets": [
-        "Cảnh sát nhập cư đang truy bắt một người khác khi xảy ra vụ bắn",
-        "Lorenzo Salgado Araujo bị bắn chết trong một cuộc dừng xe",
-        "Cơ quan An ninh Quốc gia (DHS) xác nhận vụ việc",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Theo cơ quan An ninh Quốc gia (DHS), cảnh sát nhập cư đang truy bắt một người khác khi xảy ra vụ bắn Lorenzo Salgado Araujo. Vụ việc diễn ra trong một cuộc dừng xe và Lorenzo Salgado Araujo đã bị bắn chết. Cơ quan An ninh Quốc gia đang điều tra vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69f69695a574",
-      "title": "Boxy forms and odd lights: US declassifies more UFO files",
-      "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T19:18:51.585378+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mỹ công bố thêm hồ sơ về hiện tượng UFO không giải quyết được",
-      "bullets": [
-        "Mỹ công bố thêm 1.500 hồ sơ về UFO chưa được giải quyết",
-        "Các hồ sơ mới bao gồm hình ảnh và video về hiện tượng UFO",
-        "Hồ sơ sẽ được công bố theo cơ chế hàng loạt",
-        "Mỹ hứa sẽ công bố thêm hồ sơ về UFO trong tương lai"
-      ],
-      "full_summary": "Mỹ vừa công bố thêm 1.500 hồ sơ về hiện tượng UFO chưa được giải quyết. Các hồ sơ mới bao gồm hình ảnh và video về hiện tượng UFO được thu thập từ năm 1939 đến năm 2020. Đây là lần thứ tư Mỹ công bố hồ sơ về UFO chưa được giải quyết. Mỹ hứa sẽ công bố thêm hồ sơ về UFO trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f8690793947b",
-      "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
-      "url": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T19:18:52.523979+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nạn nhân 17 tuổi Mỹ tử vong sau chuyến đi thuyền",
-      "bullets": [
-        "Đã tìm thấy thi thể Nolan Wells ở gần Đảo Cày Mississippi",
-        "Nạn nhân đã đi thuyền cùng bạn bè trước đó",
-        "Cơ quan chức năng đang điều tra nguyên nhân cái chết",
-        "Nạn nhân 17 tuổi đã chết trong khi đi thuyền cùng bạn bè"
-      ],
-      "full_summary": "Thân nhân của Nolan Wells đang yêu cầu thông tin về cái chết của nạn nhân sau chuyến đi thuyền ở Mississippi. Thi thể của Nolan Wells đã được tìm thấy ở gần Đảo Cày Mississippi. Cơ quan chức năng đang điều tra nguyên nhân cái chết. Nạn nhân đã đi thuyền cùng bạn bè trước đó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3a33ae5828e",
-      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-10T19:18:53.559232+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nước xịt catnip hiệu quả như Deet chống muỗi",
-      "bullets": [
-        "Nghiên cứu tại Uganda chứng minh nước xịt catnip hiệu quả",
-        "Nepetalactone trong catnip có tính chất chống muỗi",
-        "Nước xịt catnip có thể thay thế Deet",
-        "Nghiên cứu mở ra cơ hội mới cho sản xuất thuốc chống muỗi"
-      ],
-      "full_summary": "Một nghiên cứu tại Uganda đã chứng minh nước xịt catnip có hiệu quả tương đương với Deet trong việc chống muỗi. Nepetalactone, một chất có trong catnip, đã được chứng minh có tính chất chống muỗi. Nghiên cứu này mở ra cơ hội mới cho sản xuất thuốc chống muỗi từ các nguồn tự nhiên. Điều này có thể giúp giảm chi phí và tăng hiệu quả trong việc chống muỗi.",
       "comments": 0,
       "score": 0
     }
