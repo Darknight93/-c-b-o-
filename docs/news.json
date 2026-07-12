@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-12T02:02:26.063082+00:00",
+  "updated_at": "2026-07-12T08:05:26.353864+00:00",
   "articles": [
+    {
+      "id": "b2e44540b8de",
+      "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T08:05:10.082495+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Chủ tịch Hạ viện Mỹ Lindsey Graham qua đời sau bệnh tật ngắn ngủi",
+      "bullets": [
+        "Lý do cái chết của ông Graham chưa được tiết lộ",
+        "Graham vừa trở về từ Kiev sau khi gặp Tổng thống Ukraine Volodymyr Zelensky",
+        "Ông Graham là một chính trị gia có ảnh hưởng lớn trong nước Mỹ"
+      ],
+      "full_summary": "Chủ tịch Hạ viện Mỹ Lindsey Graham đã qua đời sau một bệnh tật ngắn ngủi. Theo văn phòng của ông, ông Graham vừa trở về từ Kiev sau khi gặp Tổng thống Ukraine Volodymyr Zelensky vào ngày 7 tháng 7. Ông Graham là một chính trị gia có ảnh hưởng lớn trong nước Mỹ và đã đóng vai trò quan trọng trong nhiều vấn đề quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bb885ead915a",
+      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T08:05:11.248548+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cơn bão bất mãn nổ ra ở dự án nhà ở Venezuela sau trận động đất",
+      "bullets": [
+        "Căng thẳng gia tăng với chính phủ ủng hộ Trump",
+        "Chính quyền thừa kế Chávez gặp khó khăn trong việc ứng phó với thảm họa",
+        "Dự án nhà ở OPPE 25 bị phá hủy hoàn toàn sau trận động đất",
+        "Sự bất mãn của người dân tăng cao"
+      ],
+      "full_summary": "Dự án nhà ở OPPE 25 ở Caraballeda, Venezuela đã bị phá hủy hoàn toàn sau trận động đất. Dự án này từng là biểu tượng của cuộc cách mạng Bolivarian của Hugo Chávez. Tuy nhiên, chính quyền thừa kế Chávez đã gặp khó khăn trong việc ứng phó với thảm họa. Người dân đã nổi lên bất mãn với chính phủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f359810757b3",
+      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-12T08:05:12.263278+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người bị thương trong vụ bắn súng tại lễ hội Toronto",
+      "bullets": [
+        "Có một vụ bắn súng xảy ra tại lễ hội Salsa on St Clair ở Toronto",
+        "Hai người đã bị giết và bốn người bị thương trong vụ bắn súng",
+        "Cảnh sát đang tìm kiếm người bắn súng sau vụ bắn súng"
+      ],
+      "full_summary": "Một vụ bắn súng xảy ra tại lễ hội Salsa on St Clair ở Toronto, khiến hai người chết và bốn người bị thương. Cảnh sát cho biết vụ bắn súng bắt đầu khi hai người bắn súng vào nhau. Cảnh sát đang tìm kiếm người bắn súng và đã thu được hai súng sau vụ bắn súng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "147c46c881ea",
+      "title": "A Jupiter-size planet that escaped its star's death",
+      "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-12T08:05:13.284243+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Trái đất Jupiter thoát khỏi cái chết của ngôi sao",
+      "bullets": [
+        "Bị sao trở thành đỏ lớn",
+        "Trái đất Jupiter thoát khỏi sự tàn phá",
+        "Nguyên nhân chưa rõ ràng",
+        "Sự kiện có thể giúp hiểu thêm về thiên văn học"
+      ],
+      "full_summary": "Một hành tinh có kích thước tương đương Jupiter đã thoát khỏi cái chết của ngôi sao của nó. Ngôi sao đã trở thành đỏ lớn, nhưng hành tinh này đã tránh được sự tàn phá. Nguyên nhân của sự kiện này vẫn chưa rõ ràng. Sự kiện này có thể giúp hiểu thêm về thiên văn học và sự hình thành của các hành tinh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "73e7ad25de54",
+      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+      "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-12T08:05:14.340442+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bureau of Land Management cắt giảm sự tham gia của công chúng trong quy định chăn nuôi",
+      "bullets": [
+        "Đề xuất mới của BLM hạn chế sự tham gia của công chúng trong quy trình lập quy",
+        "Quy định chăn nuôi sẽ được tái lập lần đầu tiên kể từ năm 1995",
+        "Sự thay đổi có thể ảnh hưởng đến môi trường và cộng đồng địa phương",
+        "BLM đang tìm cách đơn giản hóa quy trình lập quy"
+      ],
+      "full_summary": "Bureau of Land Management (BLM) đang đề xuất thay đổi quy định chăn nuôi trên đất công. Đề xuất này hạn chế sự tham gia của công chúng trong quy trình lập quy, điều mà BLM chưa làm kể từ năm 1995. Sự thay đổi này có thể ảnh hưởng đến môi trường và cộng đồng địa phương. BLM đang tìm cách đơn giản hóa quy trình lập quy để giảm thiểu thời gian và chi phí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa6e5226c92b",
+      "title": "Quantum error correction can constantly recalibrate a processor",
+      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-12T08:05:15.634593+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Sự cố lỗi lượng tử có thể được điều chỉnh liên tục bằng cách điều chỉnh thuật toán điều khiển",
+      "bullets": [
+        "Sử dụng học hỏi cường độ để điều chỉnh các thuật toán điều khiển dựa trên thông tin lỗi",
+        "Cải thiện đáng kể hiệu suất của máy tính lượng tử bằng cách giảm thiểu lỗi",
+        "Mở ra khả năng tạo ra các máy tính lượng tử ổn định hơn và đáng tin cậy hơn",
+        "Được ứng dụng rộng rãi trong các lĩnh vực như mật mã và tính toán lượng tử"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã phát triển một phương pháp mới để điều chỉnh liên tục các máy tính lượng tử bằng cách sử dụng học hỏi cường độ. Phương pháp này sử dụng thông tin lỗi để điều chỉnh các thuật toán điều khiển, giúp cải thiện đáng kể hiệu suất của máy tính lượng tử. Điều này mở ra khả năng tạo ra các máy tính lượng tử ổn định hơn và đáng tin cậy hơn, được ứng dụng rộng rãi trong các lĩnh vực như mật mã và tính toán lượng tử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a729d64e5f19",
+      "title": "Check out the first images of Quest shipwreck",
+      "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-12T08:05:16.730131+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hình ảnh đầu tiên của thuyền Quest bị đắm",
+      "bullets": [
+        "Khám phá hình ảnh của thuyền Quest bị đắm",
+        "Thuyền Quest đang trở thành hệ sinh thái biển đa dạng",
+        "Thuyền bị hư hại nặng hơn dự kiến",
+        "Nghiên cứu về hệ sinh thái biển xung quanh thuyền Quest"
+      ],
+      "full_summary": "Một đội thám hiểm vừa chụp được hình ảnh đầu tiên của thuyền Quest bị đắm. Thuyền Quest đã trở thành hệ sinh thái biển đa dạng với nhiều loài động vật và thực vật. Tuy nhiên, thuyền bị hư hại nặng hơn dự kiến. Các nhà nghiên cứu đang nghiên cứu về hệ sinh thái biển xung quanh thuyền Quest để hiểu thêm về quá trình hình thành hệ sinh thái này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6bb8da5aba8e",
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-12T08:05:19.545669+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Trường đại học phải đảm bảo sinh viên tốt nghiệp tốt hơn hoặc mất hỗ trợ tài chính",
+      "bullets": [
+        "Phải đảm bảo sinh viên tốt nghiệp có thu nhập cao hơn",
+        "Phải giảm nợ sinh viên sau khi tốt nghiệp",
+        "Phải cung cấp giáo dục chất lượng cao và hiệu quả",
+        "Sẽ mất hỗ trợ tài chính nếu không đáp ứng yêu cầu"
+      ],
+      "full_summary": "Theo quy định mới của chính phủ, các trường đại học phải đảm bảo sinh viên tốt nghiệp có thu nhập cao hơn và giảm nợ sau khi tốt nghiệp. Nếu không đáp ứng yêu cầu này, các trường sẽ mất hỗ trợ tài chính. Mục tiêu của quy định này là đảm bảo sinh viên tốt nghiệp có cơ hội tốt hơn trong cuộc sống và nghề nghiệp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "56e57461f6ba",
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-12T08:05:23.448711+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 3,
+      "headline": "Một bến tàu tự động khởi động đáng tin cậy",
+      "bullets": [
+        "Giám sát hệ thống bến tàu",
+        "Kiểm tra tính ổn định của hệ thống",
+        "Thử nghiệm và cải thiện hiệu suất",
+        "Tạo ra một bến tàu tự động đáng tin cậy"
+      ],
+      "full_summary": "Một dự án nghiên cứu về một hệ thống bến tàu tự động đáng tin cậy đã được triển khai. Dự án này bao gồm việc giám sát hệ thống, kiểm tra tính ổn định và thử nghiệm để cải thiện hiệu suất. Mục tiêu của dự án là tạo ra một bến tàu tự động đáng tin cậy và hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "34a40f33ff0f",
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
@@ -614,185 +792,6 @@
         "Vụ việc đã gây ra một cơn bão chính trị trước cuộc bầu cử tổng thống sắp tới"
       ],
       "full_summary": "Một cơ quan giả mạo được thành lập tại trụ sở chính phủ Nigeria đã gây ra một cơn bão chính trị lớn. Cơ quan này được gọi là Hội đồng thúc đẩy can thiệp nước ngoài của Tổng thống (PFIPC) và đã được phân bổ 1,3 tỷ naira (£700,000) trong ngân sách 2026. Tổng thống đã yêu cầu điều tra về vụ việc này sau khi phát hiện ra rằng chữ ký và con dấu của ông đã bị giả mạo. Vụ việc này đã gây ra một cơn bão chính trị lớn trước cuộc bầu cử tổng thống sắp tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89f30bac42b9",
-      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
-      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:46.571421+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hạm đội du lịch LGBTQ+ bị chặn vào Ai Cập",
-      "bullets": [
-        "Bị chặn vào nước Ai Cập sau khi bị từ chối vào Thổ Nhĩ Kỳ",
-        "Hạm đội Scarlet Lady tìm kiếm bến cảng thay thế",
-        "2.000 hành khách trên tàu, bao gồm diễn viên Patti LuPone",
-        "Hành khách lên án quyết định của chính phủ Ai Cập"
-      ],
-      "full_summary": "Hạm đội du lịch LGBTQ+ Scarlet Lady đã bị từ chối vào cả Thổ Nhĩ Kỳ và Ai Cập. Hạm đội này có 2.000 hành khách, bao gồm diễn viên Broadway Patti LuPone. Hành khách đã nhận được thông báo rằng hạm đội đang tìm kiếm bến cảng thay thế. Điều này đã gây ra sự phẫn nộ trong cộng đồng LGBTQ+.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "733358b8e99a",
-      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
-      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T07:43:47.672197+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu đỏ: Hoạt động của con người đe dọa sự sống của nhiều loài",
-      "bullets": [
-        "Hơn 2/3 loài nhuyễn thể sống ở các miệng núi lửa dưới biển đang bị đe dọa tuyệt chủng",
-        "Nhiều loài động vật đã thích nghi để sống ở độ sâu cực lớn nhưng vẫn bị đe dọa",
-        "Hoạt động khai thác sâu dưới biển đang là nguyên nhân chính",
-        "Sự sống trên Trái Đất đang bị đe dọa bởi các hoạt động hủy diệt của con người"
-      ],
-      "full_summary": "Nghiên cứu đỏ mới đây đã chỉ ra rằng các loài động vật đã thích nghi để sống ở mọi nơi trên Trái Đất nhưng vẫn đang bị đe dọa bởi các hoạt động hủy diệt của con người. Các loài nhuyễn thể sống ở các miệng núi lửa dưới biển đang bị đe dọa tuyệt chủng do hoạt động khai thác sâu dưới biển. Điều này cho thấy rằng sự sống trên Trái Đất đang bị đe dọa bởi các hoạt động hủy diệt của con người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "232f5327cf89",
-      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
-      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-11T07:43:50.519103+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát dùng máy bay không người lái để phạt người dùng pháo nổ bất hợp pháp",
-      "bullets": [
-        "Sử dụng máy bay không người lái để theo dõi và phát hiện pháo nổ bất hợp pháp",
-        "Cảnh sát và cứu hỏa áp dụng công nghệ này để ngăn chặn và xử lý vi phạm",
-        "Các thành phố ở Mỹ tăng cường sử dụng máy bay không người lái để giám sát",
-        "Một người vi phạm đã bị phạt 100.000 USD"
-      ],
-      "full_summary": "Trong dịp kỷ niệm 250 năm ngày độc lập của Mỹ, nhiều thành phố đã sử dụng máy bay không người lái để theo dõi và phát hiện pháo nổ bất hợp pháp. Công nghệ này đã giúp cảnh sát và cứu hỏa ngăn chặn và xử lý vi phạm. Một người vi phạm đã bị phạt 100.000 USD. Sử dụng máy bay không người lái để giám sát đã trở thành một phương pháp hiệu quả để ngăn chặn pháo nổ bất hợp pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "764fd8b4fe06",
-      "title": "What's the best way to do authentication in modern applications",
-      "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-11T07:43:54.646069+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Lưu token xác thực an toàn trong ứng dụng hiện đại",
-      "bullets": [
-        "Xác định cách lưu trữ token xác thực một cách an toàn",
-        "Phân tích các phương pháp lưu trữ token xác thực",
-        "Đề xuất cách lưu trữ token xác thực hiệu quả nhất"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã đề cập đến vấn đề lưu trữ token xác thực an toàn trong ứng dụng hiện đại. Bài viết này đã phân tích các phương pháp lưu trữ token xác thực và đề xuất cách lưu trữ token xác thực hiệu quả nhất. Mục tiêu của bài viết này là giúp các nhà phát triển ứng dụng xác định cách lưu trữ token xác thực một cách an toàn và hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ad66cae816bc",
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T01:58:46.804298+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ yêu cầu Iran cam kết không bắn trúng tàu qua eo biển Hormuz",
-      "bullets": [
-        "Mỹ yêu cầu Iran cam kết không bắn trúng tàu qua eo biển Hormuz",
-        "Các quan chức Mỹ sẽ tham gia đàm phán tại Oman vào thứ Bảy",
-        "Vice-President JD Vance dự kiến tham gia đàm phán",
-        "Mục tiêu là ngăn chặn xung đột tại khu vực Biển Oman"
-      ],
-      "full_summary": "Các quan chức Mỹ dự kiến sẽ tham gia đàm phán với Iran tại Oman vào thứ Bảy. Mỹ yêu cầu Iran cam kết không bắn trúng tàu qua eo biển Hormuz. Mục tiêu của đàm phán là ngăn chặn xung đột tại khu vực Biển Oman. Các quan chức Mỹ, bao gồm Vice-President JD Vance, dự kiến sẽ tham gia đàm phán.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ef14cebb0f2e",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T01:58:47.816407+00:00",
-      "category": "politics|economy",
-      "importance": 5,
-      "headline": "Họ đang xây dựng các quốc gia riêng để thay thế nền dân chủ",
-      "bullets": [
-        "Họ đang thành lập các quốc gia mới để thay thế nền dân chủ hiện tại",
-        "Các tỷ phú đang xây dựng các quốc gia tự do với quyền bầu cử",
-        "Quyền bầu cử sẽ được trao cho những người giàu có hơn",
-        "Nền dân chủ hiện tại đang bị coi là đã hết thời"
-      ],
-      "full_summary": "Các tỷ phú đang xây dựng các quốc gia riêng để thay thế nền dân chủ hiện tại. Họ tin rằng nền dân chủ đã hết thời và cần thay thế bằng một hệ thống mới. Các quốc gia mới này sẽ cho phép những người giàu có hơn có quyền bầu cử và quyết định tương lai của đất nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fbc04936ff14",
-      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
-      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T01:58:48.763618+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Jordan Bardella bị đẩy lùi khỏi vị trí lãnh đạo mới",
-      "bullets": [
-        "Bị buộc phải chờ đợi lượt của mình, Jordan Bardella trở lại bóng tối",
-        "Đại diện của Marine Le Pen bị đẩy lùi khỏi vị trí lãnh đạo mới",
-        "Jordan Bardella sẽ phải chờ đợi lâu hơn để trở thành lãnh đạo mới của Pháp",
-        "Bardella bị đánh bại trong cuộc tranh luận về vị trí lãnh đạo"
-      ],
-      "full_summary": "Jordan Bardella, người được coi là người kế thừa của Marine Le Pen, đã bị đẩy lùi khỏi vị trí lãnh đạo mới. Ông ta sẽ phải chờ đợi lâu hơn để trở thành lãnh đạo mới của Pháp. Điều này có nghĩa là Bardella sẽ phải chờ đợi lượt của mình để trở thành lãnh đạo mới. Bardella đã được coi là người kế thừa của Marine Le Pen và đã được đào tạo để trở thành lãnh đạo mới của Pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d30a0e3a6028",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T01:58:49.717596+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta rút lại tính năng chỉnh sửa ảnh AI sau phản ứng dữ dội",
-      "bullets": [
-        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
-        "Tính năng này gây ra phản ứng dữ dội từ người dùng",
-        "Meta rút lại tính năng sau vài ngày",
-        "Người dùng lo ngại về tính an toàn và sự kiểm soát"
-      ],
-      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, công ty đã rút lại tính năng này. Người dùng đã phản ứng dữ dội với tính năng này, lo ngại về tính an toàn và sự kiểm soát. Tính năng này cho phép người dùng chỉnh sửa ảnh AI, nhưng nhiều người dùng cho rằng nó có thể được sử dụng để tạo ra nội dung giả mạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4befa9b74565",
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T01:58:50.687395+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Assassin's Creed Black Flag remake đã ra mắt sau 13 năm chờ đợi",
-      "bullets": [
-        "Trò chơi đã được tái tạo từ đầu lên với đồ họa và âm thanh mới mẻ",
-        "Cốt truyện và nhân vật vẫn giữ nguyên nhưng với trải nghiệm chơi game mới",
-        "Người chơi sẽ được khám phá thế giới rộng lớn và phiêu lưu trên biển",
-        "Đánh giá ban đầu cho thấy trò chơi đã cải thiện đáng kể so với bản gốc"
-      ],
-      "full_summary": "Assassin's Creed Black Flag remake là một trong những trò chơi được mong đợi nhất trong nhiều năm. Trò chơi đã được tái tạo từ đầu lên với đồ họa và âm thanh mới mẻ, mang lại trải nghiệm chơi game hoàn toàn mới. Cốt truyện và nhân vật vẫn giữ nguyên nhưng với cách chơi game mới, người chơi sẽ được khám phá thế giới rộng lớn và phiêu lưu trên biển.",
       "comments": 0,
       "score": 0
     }
