@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-07-12T18:55:27.511480+00:00",
+  "updated_at": "2026-07-13T02:04:23.675131+00:00",
   "articles": [
+    {
+      "id": "1f1e8ee37f01",
+      "title": "At least 27 killed in Bangkok bar fire",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:07.935876+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nổ hỏa tại quán bar ở Bangkok, ít nhất 27 người tử vong",
+      "bullets": [
+        "Cơ quan cứu hỏa đã đến hiện trường",
+        "Khách hàng đang chạy thoát khỏi đám cháy",
+        "Ít nhất 27 người đã thiệt mạng",
+        "Cơ quan chức năng đang điều tra nguyên nhân"
+      ],
+      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một quán bar ở khu vực Chatuchak, Bangkok. Ít nhất 27 người đã thiệt mạng và nhiều người khác bị thương. Cơ quan cứu hỏa đã nhanh chóng đến hiện trường để dập lửa và cứu người. Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "47f82eb69fd7",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:08.941303+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Lindsey Graham thích nghi với biến động chính trị Mỹ",
+      "bullets": [
+        "Thay đổi lập trường về Trump",
+        "Làm việc với phe cánh Trump",
+        "Thể hiện khả năng thích nghi trong chính trị Mỹ",
+        "Đứng vững trong kỷ nguyên MAGA"
+      ],
+      "full_summary": "Lindsey Graham là một nghị sĩ Mỹ đã thích nghi thành công với biến động chính trị Mỹ. Ông từng là một chỉ trích của Tổng thống Trump nhưng sau đó đã trở thành một người ủng hộ. Sự thay đổi lập trường của ông đã giúp ông đứng vững trong kỷ nguyên MAGA. Ông đã thể hiện khả năng thích nghi của mình trong chính trị Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "71bc1c35da37",
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:10.043138+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Tổng thống Hạ viện Mỹ Mitch McConnell nói không trở lại làm việc sớm",
+      "bullets": [
+        "Mitch McConnell nói sẽ không trở lại làm việc sớm vì chấn thương và viêm phổi",
+        "Ông đã không tham gia công việc trong nhiều tuần",
+        "Tổng thống Hạ viện Mỹ đã đưa ra tuyên bố đầu tiên về sức khỏe của mình",
+        "Chuyên gia y tế đang theo dõi tình hình sức khỏe của ông"
+      ],
+      "full_summary": "Tổng thống Hạ viện Mỹ Mitch McConnell đã đưa ra tuyên bố đầu tiên về sức khỏe của mình sau nhiều tuần bị nghi ngờ. Ông nói rằng sẽ không trở lại làm việc sớm do chấn thương và viêm phổi. Ông đã không tham gia công việc trong nhiều tuần và các chuyên gia y tế đang theo dõi tình hình sức khỏe của ông. Thông tin này đã gây ra nhiều đồn đoán về sức khỏe của ông.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dc95e59d9ca7",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:11.070215+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Tràn ngập người dân ở tỉnh Zhejiang khi bão mạnh đổ bộ",
+      "bullets": [
+        "Đã hủy nhiều chuyến bay và dịch vụ giao thông",
+        "Tạm dừng hoạt động của các trường học và cơ quan",
+        "Bão mạnh đã đổ bộ vào tỉnh Zhejiang",
+        "Hơn 2 triệu người đã được sơ tán"
+      ],
+      "full_summary": "Trên 2 triệu người đã được sơ tán ở tỉnh Zhejiang, Trung Quốc khi bão mạnh đổ bộ. Các trường học, cơ quan và hoạt động ngoài trời đã bị tạm dừng. Các dịch vụ giao thông cũng bị hủy bỏ. Bão mạnh đã gây ra những thiệt hại nghiêm trọng ở khu vực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53742d0f6844",
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:12.105140+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Pokémon Go tiếp tục thu hút triệu người chơi sau 10 năm",
+      "bullets": [
+        "Thể loại game di động này vẫn thu hút người chơi",
+        "Đã có hơn 10 năm kể từ khi ra mắt",
+        "Scopely cho rằng mục tiêu là mang mọi người lại gần nhau",
+        "Vice president Michael Steranka chia sẻ về thành công của Pokémon Go"
+      ],
+      "full_summary": "Pokémon Go đã tồn tại hơn 10 năm kể từ khi ra mắt và vẫn đang thu hút triệu người chơi. Theo Scopely, chủ sở hữu của game, mục tiêu của Pokémon Go luôn là mang mọi người lại gần nhau. Vice president Michael Steranka cho biết thành công của game đến từ việc kết nối người chơi với nhau. Với hơn 10 năm tồn tại, Pokémon Go đã trở thành một phần không thể thiếu trong văn hóa game di động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0959e36c0695",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:13.074758+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
+      "bullets": [
+        "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
+        "OpenAI có kế hoạch kinh doanh phần cứng đang bị nghi ngờ",
+        "Apple cho rằng kế hoạch kinh doanh của OpenAI 'bẩn đến tận gốc rễ'",
+        "OpenAI chưa đưa ra bình luận về vụ kiện"
+      ],
+      "full_summary": "Apple đã kiện OpenAI vì tội trộm cắp bí mật kinh doanh. Trong vụ kiện, Apple cho rằng kế hoạch kinh doanh phần cứng của OpenAI đang bị nghi ngờ. Apple cho rằng kế hoạch kinh doanh của OpenAI 'bẩn đến tận gốc rễ' và đã yêu cầu tòa án ngăn chặn OpenAI tiếp tục kinh doanh. OpenAI chưa đưa ra bình luận về vụ kiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cacf79fa6030",
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:14.139028+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các thiết bị làm mát không khí giả mạo gây sốt trên mạng xã hội",
+      "bullets": [
+        "ASA xác định quảng cáo về các thiết bị làm mát nhỏ không đáng tin cậy",
+        "Các thiết bị này không thể làm mát nhanh chóng như quảng cáo",
+        "ASA yêu cầu các công ty ngừng quảng cáo",
+        "Các thiết bị làm mát không khí nhỏ có thể gây nguy hiểm cho sức khỏe"
+      ],
+      "full_summary": "Tổ chức quản lý quảng cáo (ASA) đã xác định rằng các quảng cáo về các thiết bị làm mát không khí nhỏ không đáng tin cậy. Các thiết bị này được quảng cáo như có thể làm mát nhanh chóng, nhưng thực tế chúng không thể. ASA đã yêu cầu các công ty ngừng quảng cáo về các thiết bị này. Các thiết bị làm mát không khí nhỏ có thể gây nguy hiểm cho sức khỏe nếu không được sử dụng đúng cách.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "860c5a021c60",
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T02:04:15.233161+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Cơ quan vận tải Rotterdam bị yêu cầu giảm phụ thuộc vào nhiên liệu hóa thạch",
+      "bullets": [
+        "Yêu cầu tòa án buộc cảng Rotterdam phải giảm phụ thuộc vào nhiên liệu hóa thạch",
+        "Cảng Rotterdam phải chuyển sang năng lượng tái tạo và giảm khí thải",
+        "Tòa án đòi hỏi cảng Rotterdam phải có kế hoạch rõ ràng để giảm phụ thuộc vào nhiên liệu hóa thạch",
+        "Yêu cầu này nhằm thúc đẩy cảng Rotterdam trở thành một trong những cảng xanh nhất thế giới"
+      ],
+      "full_summary": "Một vụ kiện đã được đệ lên tòa án yêu cầu cảng Rotterdam phải chuyển sang năng lượng tái tạo và giảm khí thải. Cảng Rotterdam là một trong những cảng lớn nhất thế giới và đang bị áp lực phải giảm phụ thuộc vào nhiên liệu hóa thạch. Yêu cầu này nhằm thúc đẩy cảng Rotterdam trở thành một trong những cảng xanh nhất thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db7845289bdf",
+      "title": "Circular Obstacle Pathfinding (2017)",
+      "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-13T02:04:19.177071+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nghiên cứu mới về tìm đường đi tránh vật cản tròn",
+      "bullets": [
+        "Xây dựng thuật toán tìm đường đi hiệu quả",
+        "Giải quyết vấn đề tìm đường đi trong môi trường tròn",
+        "Sử dụng thuật toán để tránh vật cản tròn"
+      ],
+      "full_summary": "Một nghiên cứu mới về tìm đường đi tránh vật cản tròn đã được công bố. Thuật toán này được thiết kế để tìm đường đi hiệu quả trong môi trường tròn, tránh vật cản tròn. Nghiên cứu này có thể được ứng dụng trong các lĩnh vực như trò chơi điện tử và tự động hóa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fc531dc6ef22",
+      "title": "Profiling the \"Abundance\" housing bottleneck with real data",
+      "url": "https://laxmena.com/same-capacity-less-throughput",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-13T02:04:22.559999+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hạ tầng nhà ở Việt Nam đang gặp khó khăn về năng lực",
+      "bullets": [
+        "Nghiên cứu chỉ ra rằng năng lực hạ tầng nhà ở Việt Nam đang bị hạn chế",
+        "Số lượng dự án xây dựng nhà ở đang giảm xuống",
+        "Năng lực hạ tầng nhà ở đang ảnh hưởng đến tốc độ phát triển kinh tế"
+      ],
+      "full_summary": "Một nghiên cứu mới đây đã chỉ ra rằng hạ tầng nhà ở Việt Nam đang gặp khó khăn về năng lực. Mặc dù số lượng dự án xây dựng nhà ở đang giảm xuống, nhưng nhu cầu về nhà ở vẫn đang tăng cao. Điều này đang ảnh hưởng đến tốc độ phát triển kinh tế và chất lượng cuộc sống của người dân. Để giải quyết vấn đề này, cần có những biện pháp hiệu quả để tăng năng lực hạ tầng nhà ở.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "5543115b7cda",
       "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
@@ -594,202 +792,6 @@
         "Quy định mới sẽ áp dụng cho các công ty công nghệ lớn"
       ],
       "full_summary": "Cục quản lý truyền thông (Ofcom) của Anh đã đề xuất quy định mới để ngăn chặn quảng cáo lừa đảo trên internet. Theo Ofcom, hơn nửa người lớn ở Anh đã gặp quảng cáo lừa đảo trên internet. Để ngăn chặn tình trạng này, Ofcom yêu cầu các công ty công nghệ lớn phải ngăn chặn quảng cáo lừa đảo trên các nền tảng của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49a7ce37d74e",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T02:02:17.252127+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Nhiều nước đang phát triển chi nhiều hơn cho nợ nước ngoài",
-      "bullets": [
-        "Chi trả nợ nước ngoài chiếm hơn chi giáo dục ở 113 nước",
-        "18 nước chi 5 lần nhiều hơn cho nợ nước ngoài so với giáo dục",
-        "Sự giảm nguồn viện trợ giáo dục dự báo sẽ giảm 30%",
-        "Các nước châu Phi chi 3,6 lần nhiều hơn cho nợ nước ngoài so với giáo dục"
-      ],
-      "full_summary": "Theo báo cáo của Unesco, nhiều nước đang phát triển chi nhiều hơn cho nợ nước ngoài so với giáo dục. 113 nước chi trả nợ nước ngoài nhiều hơn chi giáo dục năm 2025. Sự giảm nguồn viện trợ giáo dục dự báo sẽ giảm 30%. Điều này gây lo ngại về tương lai giáo dục ở các nước đang phát triển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "185bfa6db768",
-      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
-      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-12T02:02:22.500002+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Long Covid có thể gây tổn thương cho dây thần kinh kiểm soát dạ dày",
-      "bullets": [
-        "Tổn thương dây thần kinh có thể dẫn đến các vấn đề tiêu hóa",
-        "Nghiên cứu chỉ ra rằng Long Covid có thể gây tổn thương dây thần kinh",
-        "Tổn thương dây thần kinh có thể gây ra các triệu chứng như buồn nôn và đau bụng"
-      ],
-      "full_summary": "Một nghiên cứu mới đã chỉ ra rằng Long Covid có thể gây tổn thương cho dây thần kinh kiểm soát dạ dày. Điều này có thể dẫn đến các vấn đề tiêu hóa và các triệu chứng khác. Nghiên cứu này được công bố trên tạp chí International Journal of Infectious Diseases và có thể giúp hiểu rõ hơn về tác động của Long Covid lên cơ thể.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2bfa21b06170",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T18:50:51.473279+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Mỹ triệu tập phóng viên New York Times",
-      "bullets": [
-        "Mời làm chứng trước tòa về báo cáo về vấn đề an ninh trên máy bay Air Force One",
-        "Báo cáo cáo buộc có vấn đề an ninh trên máy bay được tặng bởi Qatar",
-        "Các phóng viên bị triệu tập sau khi báo cáo về vấn đề an ninh trên máy bay",
-        "Tòa án Mỹ yêu cầu các phóng viên cung cấp thông tin"
-      ],
-      "full_summary": "Tổng thống Mỹ đã triệu tập hai phóng viên của New York Times để làm chứng trước tòa về báo cáo về vấn đề an ninh trên máy bay Air Force One. Báo cáo cáo buộc có vấn đề an ninh trên máy bay được tặng bởi Qatar. Các phóng viên bị triệu tập sau khi báo cáo về vấn đề an ninh trên máy bay. Việc này đã gây ra nhiều tranh cãi và lo ngại về sự tự do báo chí.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4136d57febe3",
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T18:50:52.446292+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hạ nghị sĩ Mỹ Ro Khanna bị giữ bởi người định cư Israel",
-      "bullets": [
-        "Bị giữ 90 phút tại khu vực Tây Bắc",
-        "Được cho là bị người định cư Israel vũ trang giữ lại",
-        "Khanna đang thăm khu vực Tây Bắc",
-        "Hạ nghị sĩ Mỹ Ro Khanna lên tiếng về sự việc"
-      ],
-      "full_summary": "Hạ nghị sĩ Mỹ Ro Khanna cho biết ông đã bị người định cư Israel vũ trang giữ lại trong 90 phút khi đang thăm khu vực Tây Bắc. Ông nói rằng ông đang thăm khu vực này để hiểu rõ hơn về tình hình. Sự việc đã gây ra sự chú ý lớn trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a622d2e9922",
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T18:50:53.417199+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hậu vệ Jayden Adams qua đời ở tuổi 25",
-      "bullets": [
-        "Jayden Adams qua đời ở tuổi 25",
-        "Anh từng thi đấu cho đội tuyển bóng đá Nam Phi tại World Cup",
-        "Jayden Adams chơi cho câu lạc bộ Mamelodi Sundowns",
-        "Tài năng trẻ qua đời chỉ vài tuần sau khi thi đấu tại World Cup"
-      ],
-      "full_summary": "Jayden Adams, hậu vệ của đội tuyển bóng đá Nam Phi và câu lạc bộ Mamelodi Sundowns, đã qua đời ở tuổi 25. Anh đã từng thi đấu cho đội tuyển bóng đá Nam Phi tại World Cup. Sự kiện này đã gây sốc cho thế giới bóng đá. Jayden Adams được coi là một tài năng trẻ đầy hứa hẹn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53a4d8c425b7",
-      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T18:50:54.427036+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 40 trẻ em và giáo viên bị bắt cóc được giải cứu",
-      "bullets": [
-        "Bị bắt cóc ở Nigeria đã được giải cứu",
-        "Lực lượng quân đội Nigeria đã tiến hành cuộc tấn công",
-        "Giáo viên và trẻ em đã được đưa về an toàn",
-        "Cộng đồng địa phương cảm thấy hạnh phúc và phấn khích"
-      ],
-      "full_summary": "Hơn 40 trẻ em và giáo viên bị bắt cóc ở Nigeria đã được giải cứu sau cuộc tấn công của lực lượng quân đội Nigeria. Người đứng đầu Liên đoàn giáo viên địa phương cho biết: 'Tôi cảm thấy hạnh phúc và phấn khích... Tôi cảm thấy hạnh phúc'. Cuộc tấn công đã giúp giải cứu những người bị bắt cóc và đưa họ về an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6b4ac47736cd",
-      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T18:50:55.438658+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Sóng địa chấn Venezuela khiến hơn 4.300 người thiệt mạng",
-      "bullets": [
-        "Cơn địa chấn đã giáng sát vào bang La Guaira, khiến nhiều khu phố bị phá hủy hoàn toàn.",
-        "Hơn 16.740 người bị thương và hàng nghìn người vẫn còn bị mất tích.",
-        "Chính phủ Venezuela kêu gọi sự giúp đỡ tài chính từ Liên Hợp Quốc và các quốc gia khác."
-      ],
-      "full_summary": "Cơn địa chấn mạnh 7,6 độ đã xảy ra vào ngày 24 tháng 6 tại bang La Guaira, Venezuela, khiến hơn 4.300 người thiệt mạng và hàng nghìn người bị thương. Chính phủ Venezuela đã kêu gọi sự giúp đỡ tài chính từ Liên Hợp Quốc và các quốc gia khác để hỗ trợ công tác cứu hộ và phục hồi sau cơn địa chấn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fdb39828d8d7",
-      "title": "Mexico investigates whether US lied about role in capture of drug lord",
-      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-11T18:50:56.565467+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mexico điều tra cáo buộc Mỹ gian lận về việc bắt giữ trùm ma túy",
-      "bullets": [
-        "Mexico điều tra cáo buộc Mỹ gian lận về việc bắt giữ trùm ma túy Ismael 'El Mayo' Zambada García",
-        "FBI được cho là tham gia vào việc bắt giữ trùm ma túy",
-        "Mỹ đã phủ nhận tham gia vào hoạt động bắt giữ trùm ma túy",
-        "Cáo buộc này có thể vi phạm chủ quyền của Mexico"
-      ],
-      "full_summary": "Mexico đang điều tra cáo buộc Mỹ gian lận về việc bắt giữ trùm ma túy Ismael 'El Mayo' Zambada García vào năm 2024. Theo báo cáo, FBI đã tham gia vào việc bắt giữ trùm ma túy, nhưng Mỹ đã phủ nhận tham gia vào hoạt động này. Điều này có thể vi phạm chủ quyền của Mexico và gây ra nhiều tranh cãi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "34014eca2a26",
-      "title": "AI 2040 and the Cult of Intelligence",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-11T18:51:01.271966+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "AI 2040 có thể tạo ra một thế giới mới nhưng cũng tiềm ẩn nhiều rủi ro.",
-      "bullets": [
-        "Phát triển AI có thể dẫn đến sự thay đổi lớn trong xã hội và kinh tế.",
-        "AI 2040 có thể tạo ra nhiều cơ hội mới nhưng cũng tiềm ẩn nhiều rủi ro.",
-        "Cần có các biện pháp bảo vệ để tránh các rủi ro tiềm ẩn từ AI."
-      ],
-      "full_summary": "Bài viết này thảo luận về tương lai của AI vào năm 2040 và những rủi ro tiềm ẩn mà nó mang lại. Phát triển AI có thể dẫn đến sự thay đổi lớn trong xã hội và kinh tế, tạo ra nhiều cơ hội mới nhưng cũng tiềm ẩn nhiều rủi ro. Để tránh các rủi ro này, cần có các biện pháp bảo vệ và quản lý AI một cách hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "294554eeb40f",
-      "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
-      "url": "https://www.nature.com/articles/s41586-026-10853-5",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-11T18:51:05.670686+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Khám phá mới về chu kỳ sắt trong đại dương",
-      "bullets": [
-        "Xác định các pha khoáng vật tự sinh là động lực chính của chu kỳ sắt trên đại dương",
-        "Tìm hiểu vai trò của các khoáng vật tự sinh trong việc điều chỉnh lượng sắt trong đại dương",
-        "Cải thiện hiểu biết về chu kỳ sắt và tác động của nó đến môi trường đại dương"
-      ],
-      "full_summary": "Một nghiên cứu mới được công bố trên Nature đã khám phá về chu kỳ sắt trong đại dương. Các nhà nghiên cứu đã xác định các pha khoáng vật tự sinh là động lực chính của chu kỳ sắt trên đại dương. Điều này sẽ giúp cải thiện hiểu biết về chu kỳ sắt và tác động của nó đến môi trường đại dương.",
       "comments": 0,
       "score": 0
     }
