@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-13T02:04:23.675131+00:00",
+  "updated_at": "2026-07-13T08:55:07.504078+00:00",
   "articles": [
+    {
+      "id": "9cb75f636330",
+      "title": "British couple return to village at heart of deadly Spanish wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T08:54:52.679884+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Lửa hoả hoạn ở Tây Ban Nha giết ít nhất 13 người",
+      "bullets": [
+        "Đã xảy ra vụ hoả hoạn ở tỉnh Almeria, Tây Ban Nha",
+        "Ít nhất 13 người thiệt mạng, bao gồm 5 người Anh",
+        "Vụ hoả hoạn đã gây ra thiệt hại nghiêm trọng",
+        "Cặp vợ chồng Anh đã trở về làng ở tâm của vụ hoả hoạn"
+      ],
+      "full_summary": "Một vụ hoả hoạn lớn đã xảy ra ở tỉnh Almeria, Tây Ban Nha, giết ít nhất 13 người, bao gồm 5 người Anh. Cặp vợ chồng Anh đã trở về làng ở tâm của vụ hoả hoạn. Vụ hoả hoạn đã gây ra thiệt hại nghiêm trọng và đã được kiểm soát. Các nhà chức trách đang điều tra nguyên nhân của vụ hoả hoạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "770d6bf5a96d",
+      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T08:54:53.873663+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hàng máy bay được gửi đến dập lửa ở vùng Paris",
+      "bullets": [
+        "Gửi máy bay dập lửa từ phía nam nước Pháp",
+        "Lửa ở vùng Paris đang ở quy mô đặc biệt lớn",
+        "Hàng máy bay đầu tiên được gửi đến dập lửa ở vùng Paris",
+        "Lửa đang đe dọa đến các khu dân cư và tài sản"
+      ],
+      "full_summary": "Hàng máy bay được gửi đến dập lửa ở vùng Paris để ngăn chặn các đám cháy đang lan rộng. Đây là lần đầu tiên máy bay dập lửa được gửi từ phía nam nước Pháp đến dập lửa ở vùng Paris. Các đám cháy đang ở quy mô đặc biệt lớn và đe dọa đến các khu dân cư và tài sản. Các nhà chức trách đang làm việc để ngăn chặn các đám cháy và bảo vệ người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fe4f334a4f3e",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T08:54:54.847130+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nigeria tiêu diệt hơn 300 tên cướp ở bang Zamfara",
+      "bullets": [
+        "Nigeria tiêu diệt hơn 300 thành viên nhóm cướp và bắt cóc ở bang Zamfara",
+        "Lực lượng quân đội và các nhóm tự vệ tham gia chiến đấu suốt đêm và sáng hôm sau",
+        "Hành động diễn ra trong hai ngày ở khu vực Gummi",
+        "Chính phủ cho biết đã tiêu diệt hơn 300 tên khủng bố"
+      ],
+      "full_summary": "Nigeria cho biết lực lượng quân đội đã tiêu diệt hơn 300 thành viên nhóm cướp và bắt cóc ở bang Zamfara. Hành động diễn ra trong hai ngày ở khu vực Gummi. Lực lượng quân đội và các nhóm tự vệ tham gia chiến đấu suốt đêm và sáng hôm sau. Chính phủ cho biết đã tiêu diệt hơn 300 tên khủng bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49a7ce37d74e",
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T08:54:55.777543+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Nhiều nước đang phát triển chi nhiều hơn cho nợ nước ngoài hơn cho giáo dục",
+      "bullets": [
+        "Chi tiêu nợ nước ngoài cao hơn chi tiêu giáo dục ở 113 nước đang phát triển",
+        "Các nước ở châu Phi cận Sahara chi 3,6 lần nhiều cho nợ nước ngoài hơn cho giáo dục",
+        "Aid giáo dục toàn cầu dự kiến giảm 30%",
+        "Nhiều nước đang phát triển chi ít hơn cho giáo dục so với chi tiêu nợ nước ngoài"
+      ],
+      "full_summary": "Theo Unesco, nhiều nước đang phát triển đã chi nhiều hơn cho nợ nước ngoài hơn cho giáo dục vào năm 2025. Điều này diễn ra trong bối cảnh aid giáo dục toàn cầu dự kiến giảm 30%. Các nước ở châu Phi cận Sahara chi 3,6 lần nhiều cho nợ nước ngoài hơn cho giáo dục. Sự mất cân bằng này có thể ảnh hưởng nghiêm trọng đến giáo dục và phát triển của các nước đang phát triển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6b4ac47736cd",
+      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T08:54:57.790701+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Sóng thần Venezuela làm 4.333 người chết và 16.740 người bị thương",
+      "bullets": [
+        "Đã có 4.333 người chết và 16.740 người bị thương",
+        "Ngàn người còn bị mất tích",
+        "Chính phủ Venezuela kêu gọi sự giúp đỡ tài chính từ quốc tế"
+      ],
+      "full_summary": "Một trận động đất mạnh đã xảy ra tại bang La Guaira, Venezuela, làm hàng nghìn người thiệt mạng và bị thương. Tổng thống Delcy Rodríguez và Liên Hợp Quốc đã kêu gọi sự giúp đỡ tài chính từ quốc tế để hỗ trợ quá trình khôi phục. Số người mất tích vẫn chưa được xác định rõ ràng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b6f21dab0752",
+      "title": "Quadrupling code performance with a \"useless\" if",
+      "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-13T08:54:59.287388+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tăng tốc độ mã nguồn lên 4 lần với một điều kiện vô nghĩa",
+      "bullets": [
+        "Sử dụng điều kiện vô nghĩa để giảm thiểu kiểm tra điều kiện",
+        "Tăng tốc độ mã nguồn lên 4 lần bằng cách loại bỏ kiểm tra điều kiện không cần thiết",
+        "Giảm thiểu thời gian chạy bằng cách loại bỏ kiểm tra điều kiện không cần thiết"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã giới thiệu cách tăng tốc độ mã nguồn lên 4 lần bằng cách sử dụng điều kiện vô nghĩa. Điều kiện vô nghĩa là một điều kiện được sử dụng để giảm thiểu kiểm tra điều kiện, giúp giảm thiểu thời gian chạy. Bài viết này đã chứng minh rằng sử dụng điều kiện vô nghĩa có thể tăng tốc độ mã nguồn lên 4 lần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "75239b4c4853",
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-13T08:55:03.043498+00:00",
+      "category": "technology",
+      "importance": 2,
+      "headline": "Tạo và lắp ráp PCB đầu tiên của riêng mình",
+      "bullets": [
+        "Tạo bản thiết kế PCB bằng phần mềm",
+        "In PCB trên máy in PCB",
+        "Lắp ráp các linh kiện điện tử",
+        "Kiểm tra và thử nghiệm PCB"
+      ],
+      "full_summary": "Một người dùng đã chia sẻ kinh nghiệm tạo và lắp ráp PCB đầu tiên của riêng mình. Họ đã sử dụng phần mềm để tạo bản thiết kế PCB, sau đó in nó trên máy in PCB. Cuối cùng, họ đã lắp ráp các linh kiện điện tử và kiểm tra thử nghiệm PCB.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e67d4ca426c0",
+      "title": "Deep-sea life has a secret food source scientists never expected",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm",
+      "source": "Science Daily",
+      "icon": "🔭",
+      "fetched_at": "2026-07-13T08:55:07.003859+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Áp suất sâu biển tạo ra nguồn thức ăn bí ẩn cho vi khuẩn",
+      "bullets": [
+        "Khám phá nguồn thức ăn mới cho vi khuẩn sâu biển",
+        "Áp suất sâu biển ép xuất ra chất dinh dưỡng quý giá",
+        "Nghiên cứu này có thể thay đổi cách hiểu về hệ sinh thái sâu biển",
+        "Tìm hiểu về cách lưu trữ cacbon trên Trái đất"
+      ],
+      "full_summary": "Các nhà khoa học đã phát hiện ra rằng áp suất sâu biển ép xuất ra chất dinh dưỡng quý giá từ các hạt hữu cơ rơi xuống, tạo ra nguồn thức ăn bí ẩn cho vi khuẩn sâu biển. Nghiên cứu này có thể thay đổi cách hiểu về hệ sinh thái sâu biển và cách lưu trữ cacbon trên Trái đất. Khám phá này có thể giúp chúng ta hiểu rõ hơn về cách thức hoạt động của hệ sinh thái sâu biển và cách chúng ảnh hưởng đến môi trường.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "1f1e8ee37f01",
       "title": "At least 27 killed in Bangkok bar fire",
@@ -632,166 +790,6 @@
         "Nghiên cứu về hệ sinh thái biển xung quanh thuyền Quest"
       ],
       "full_summary": "Một đội thám hiểm vừa chụp được hình ảnh đầu tiên của thuyền Quest bị đắm. Thuyền Quest đã trở thành hệ sinh thái biển đa dạng với nhiều loài động vật và thực vật. Tuy nhiên, thuyền bị hư hại nặng hơn dự kiến. Các nhà nghiên cứu đang nghiên cứu về hệ sinh thái biển xung quanh thuyền Quest để hiểu thêm về quá trình hình thành hệ sinh thái này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6bb8da5aba8e",
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-12T08:05:19.545669+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Trường đại học phải đảm bảo sinh viên tốt nghiệp tốt hơn hoặc mất hỗ trợ tài chính",
-      "bullets": [
-        "Phải đảm bảo sinh viên tốt nghiệp có thu nhập cao hơn",
-        "Phải giảm nợ sinh viên sau khi tốt nghiệp",
-        "Phải cung cấp giáo dục chất lượng cao và hiệu quả",
-        "Sẽ mất hỗ trợ tài chính nếu không đáp ứng yêu cầu"
-      ],
-      "full_summary": "Theo quy định mới của chính phủ, các trường đại học phải đảm bảo sinh viên tốt nghiệp có thu nhập cao hơn và giảm nợ sau khi tốt nghiệp. Nếu không đáp ứng yêu cầu này, các trường sẽ mất hỗ trợ tài chính. Mục tiêu của quy định này là đảm bảo sinh viên tốt nghiệp có cơ hội tốt hơn trong cuộc sống và nghề nghiệp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "56e57461f6ba",
-      "title": "A dock that wakes up reliably",
-      "url": "https://fabiensanglard.net/tb4/index.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-12T08:05:23.448711+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 3,
-      "headline": "Một bến tàu tự động khởi động đáng tin cậy",
-      "bullets": [
-        "Giám sát hệ thống bến tàu",
-        "Kiểm tra tính ổn định của hệ thống",
-        "Thử nghiệm và cải thiện hiệu suất",
-        "Tạo ra một bến tàu tự động đáng tin cậy"
-      ],
-      "full_summary": "Một dự án nghiên cứu về một hệ thống bến tàu tự động đáng tin cậy đã được triển khai. Dự án này bao gồm việc giám sát hệ thống, kiểm tra tính ổn định và thử nghiệm để cải thiện hiệu suất. Mục tiêu của dự án là tạo ra một bến tàu tự động đáng tin cậy và hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "34a40f33ff0f",
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T02:02:10.563440+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ thực hiện đòn tấn công mới sau vụ tấn công tàu trên eo biển Hormuz",
-      "bullets": [
-        "Mỹ thực hiện đòn tấn công mới",
-        "Iran đóng eo biển Hormuz",
-        "Tàu Cyprus bị tấn công",
-        "Tình hình leo thang căng thẳng"
-      ],
-      "full_summary": "Mỹ đã thực hiện đòn tấn công mới sau khi một tàu Cyprus bị tấn công trên eo biển Hormuz, một con đường thủy quan trọng. Iran đã đóng eo biển Hormuz, khiến giao thông bị gián đoạn. Sự việc này đã khiến tình hình leo thang căng thẳng giữa Mỹ và Iran. Các nước khác đang theo dõi tình hình và tìm cách giải quyết vấn đề.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1130b60a0f7c",
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T02:02:11.722673+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "T-Rex khủng long giá 30 triệu USD sắp bán tại New York",
-      "bullets": [
-        "Sẽ có một T-Rex 67 triệu năm tuổi được bán tại New York với giá khởi điểm 30 triệu USD",
-        "Giá bán có thể khiến T-Rex trở thành hóa thạch đắt nhất mọi thời đại",
-        "Tuy nhiên, điều này cũng gây ra vấn đề cho các nhà khoa học",
-        "Nhiều người lo ngại giá cao sẽ ngăn cản việc nghiên cứu và bảo tồn hóa thạch"
-      ],
-      "full_summary": "Một T-Rex 67 triệu năm tuổi sắp được bán tại New York với giá khởi điểm 30 triệu USD. Giá bán này có thể khiến T-Rex trở thành hóa thạch đắt nhất mọi thời đại. Tuy nhiên, điều này cũng gây ra vấn đề cho các nhà khoa học vì giá cao có thể ngăn cản việc nghiên cứu và bảo tồn hóa thạch. Nhiều người lo ngại rằng giá cao sẽ khiến hóa thạch này bị bán cho người có tiền, thay vì được nghiên cứu và bảo tồn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "57ac54e4380c",
-      "title": "At least two killed in Toronto street festival shooting",
-      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T02:02:12.780630+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người bị thương trong vụ bắn súng tại lễ hội đường phố Toronto",
-      "bullets": [
-        "Cảnh sát đã yêu cầu người dân tránh xa khu vực",
-        "Ít nhất hai người đã thiệt mạng trong vụ bắn súng",
-        "Cảnh sát đang điều tra nguyên nhân vụ việc",
-        "Khu vực đang được phong tỏa"
-      ],
-      "full_summary": "Vụ bắn súng đã xảy ra tại lễ hội đường phố ở Toronto, Canada. Ít nhất hai người đã thiệt mạng và nhiều người bị thương. Cảnh sát đang điều tra nguyên nhân vụ việc và yêu cầu người dân tránh xa khu vực. Khu vực đang được phong tỏa để đảm bảo an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2ea87ab9a50f",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T02:02:14.055682+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chủ tịch Ba Lan cam kết xây dựng đài tưởng niệm nạn nhân của diệt chủng",
-      "bullets": [
-        "Chủ tịch Ba Lan cam kết xây dựng đài tưởng niệm nạn nhân của diệt chủng",
-        "Ba Lan và Ukraine đã tranh cãi về vụ giết hại hàng nghìn thường dân trong Thế chiến thứ hai",
-        "Vụ việc đã diễn ra trong nhiều thập kỷ",
-        "Ba Lan và Ukraine đang tìm kiếm sự công nhận và bồi thường"
-      ],
-      "full_summary": "Chủ tịch Ba Lan Mateusz Morawiecki đã cam kết xây dựng đài tưởng niệm nạn nhân của diệt chủng trong Thế chiến thứ hai. Vụ việc đã diễn ra trong nhiều thập kỷ, với hàng nghìn thường dân bị giết hại bởi các dân tộc cực đoan Ukraine. Ba Lan và Ukraine đã tranh cãi về vụ việc này trong nhiều thập kỷ. Việc xây dựng đài tưởng niệm sẽ giúp công nhận và bồi thường cho những nạn nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "64a6478c00f6",
-      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T02:02:15.148598+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Ủy ban châu Âu cảnh báo Meta về phạt vì Facebook và Instagram gây nghiện",
-      "bullets": [
-        "Cảnh báo về tính chất gây nghiện của Facebook và Instagram",
-        "Chính phủ châu Âu muốn kiểm soát các tính năng gây nghiện",
-        "Ủy ban châu Âu sẽ phạt Meta nếu không tuân thủ",
-        "Meta phải thay đổi các tính năng gây nghiện trên Facebook và Instagram"
-      ],
-      "full_summary": "Ủy ban châu Âu đã cảnh báo Meta về việc phạt vì tính chất gây nghiện của Facebook và Instagram. Các tính năng như cuộn vô hạn và các tính năng tương tự đã được cho là góp phần vào việc sử dụng Facebook và Instagram một cách bừa bãi. Ủy ban châu Âu muốn kiểm soát các tính năng này và phạt Meta nếu không tuân thủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ffc547bf466",
-      "title": "Big tech must deal with scam ads under Ofcom proposals",
-      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T02:02:16.134124+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cục quản lý truyền thông yêu cầu công nghệ lớn ngăn chặn quảng cáo lừa đảo",
-      "bullets": [
-        "Cục quản lý truyền thông yêu cầu công nghệ lớn ngăn chặn quảng cáo lừa đảo",
-        "Hơn nửa người lớn ở Anh đã gặp quảng cáo lừa đảo trên internet",
-        "Ofcom đề xuất quy định mới để ngăn chặn quảng cáo lừa đảo",
-        "Quy định mới sẽ áp dụng cho các công ty công nghệ lớn"
-      ],
-      "full_summary": "Cục quản lý truyền thông (Ofcom) của Anh đã đề xuất quy định mới để ngăn chặn quảng cáo lừa đảo trên internet. Theo Ofcom, hơn nửa người lớn ở Anh đã gặp quảng cáo lừa đảo trên internet. Để ngăn chặn tình trạng này, Ofcom yêu cầu các công ty công nghệ lớn phải ngăn chặn quảng cáo lừa đảo trên các nền tảng của mình.",
       "comments": 0,
       "score": 0
     }
