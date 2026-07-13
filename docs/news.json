@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-13T14:14:22.134970+00:00",
+  "updated_at": "2026-07-13T19:16:21.947940+00:00",
   "articles": [
+    {
+      "id": "42474ab12a9d",
+      "title": "Trump reinstating naval blockade of Iranian ports",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T19:16:06.010447+00:00",
+      "category": "politics|economy",
+      "importance": 5,
+      "headline": "Mỹ tái lập phong tỏa hải quân ở cảng Iran",
+      "bullets": [
+        "Mỹ tái lập phong tỏa hải quân ở cảng Iran",
+        "Washington sẽ thu phí 20% cho tất cả hàng hóa qua eo biển Hormuz",
+        "Phí này sẽ được áp dụng cho tất cả tàu thuyền đi qua eo biển",
+        "Tình hình sẽ ảnh hưởng đến hoạt động thương mại quốc tế"
+      ],
+      "full_summary": "Tổng thống Mỹ đã tuyên bố tái lập phong tỏa hải quân ở cảng Iran và sẽ thu phí 20% cho tất cả hàng hóa qua eo biển Hormuz. Phí này sẽ được áp dụng cho tất cả tàu thuyền đi qua eo biển, ảnh hưởng đến hoạt động thương mại quốc tế. Tình hình này đã gây ra sự lo lắng trong cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "64a56bc27954",
+      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T19:16:07.096426+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một người Anh kể về việc sống sót trong đám cháy rừng ở Tây Ban Nha",
+      "bullets": [
+        "Lái xe qua vùng cháy để sống sót",
+        "Vợ và bạn bè bị mắc kẹt và nghi ngờ đã chết",
+        "Đám cháy rừng gây thiệt hại lớn ở Tây Ban Nha",
+        "Người Anh kể về kinh nghiệm sống sót"
+      ],
+      "full_summary": "Một người Anh, Malcolm Timbrell, đã sống sót trong đám cháy rừng ở Tây Ban Nha bằng cách lái xe qua vùng cháy. Vợ và bạn bè của ông ta bị mắc kẹt và nghi ngờ đã chết. Đám cháy rừng đã gây thiệt hại lớn ở Tây Ban Nha, khiến nhiều người thiệt mạng. Người Anh đã kể về kinh nghiệm sống sót của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89eceb0acf95",
+      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T19:16:08.185477+00:00",
+      "category": "politics|economy",
+      "importance": 3,
+      "headline": "Anh và Thụy Sĩ ký thỏa thuận giảm phí roaming và mở rộng sử dụng e-gates",
+      "bullets": [
+        "Ký thỏa thuận tăng xuất khẩu hàng hóa của Anh lên 5,2 tỷ bảng Anh mỗi năm",
+        "Thỏa thuận này sẽ giảm phí roaming giữa Anh và Thụy Sĩ",
+        "Anh sẽ cho phép công dân sử dụng e-gates khi nhập cảnh vào Thụy Sĩ"
+      ],
+      "full_summary": "Anh và Thụy Sĩ đã ký một thỏa thuận mới về dịch vụ, theo đó sẽ tăng xuất khẩu hàng hóa của Anh lên 5,2 tỷ bảng Anh mỗi năm. Thỏa thuận này cũng sẽ giảm phí roaming giữa Anh và Thụy Sĩ, giúp người dân hai quốc gia sử dụng điện thoại di động và internet một cách dễ dàng hơn. Ngoài ra, Anh sẽ cho phép công dân sử dụng e-gates khi nhập cảnh vào Thụy Sĩ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "64a6478c00f6",
+      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T19:16:09.208651+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ủy ban châu Âu cảnh báo Meta về khoản phạt vì Facebook và Instagram gây nghiện",
+      "bullets": [
+        "Cảnh báo các tính năng như lướt vĩnh viễn gây ra sử dụng bừa bãi",
+        "Đề nghị Meta thay đổi các tính năng gây nghiện",
+        "Threaten khoản phạt vì vi phạm quy định về bảo vệ người tiêu dùng"
+      ],
+      "full_summary": "Ủy ban châu Âu đang đe dọa Meta với khoản phạt vì các ứng dụng Facebook và Instagram gây nghiện. Các tính năng như lướt vĩnh viễn và các khuyến khích tương tác khác được cho là đã góp phần vào thói quen sử dụng không lành mạnh. Ủy ban châu Âu yêu cầu Meta thay đổi các tính năng này để bảo vệ người tiêu dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ffc547bf466",
+      "title": "Big tech must deal with scam ads under Ofcom proposals",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T19:16:10.160696+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các công ty công nghệ phải đối mặt với quảng cáo lừa đảo",
+      "bullets": [
+        "Ofcom đề xuất các biện pháp để ngăn chặn quảng cáo lừa đảo",
+        "Hơn 50% người lớn ở Anh đã gặp phải quảng cáo lừa đảo trực tuyến",
+        "Các công ty công nghệ phải chịu trách nhiệm về quảng cáo trên nền tảng của họ",
+        "Ofcom muốn tăng cường giám sát quảng cáo trực tuyến"
+      ],
+      "full_summary": "Ofcom cho biết hơn 50% người lớn ở Anh đã gặp phải quảng cáo lừa đảo trực tuyến. Để giải quyết vấn đề này, Ofcom đã đề xuất các biện pháp mới để ngăn chặn quảng cáo lừa đảo. Các công ty công nghệ sẽ phải chịu trách nhiệm về quảng cáo trên nền tảng của họ và tăng cường giám sát quảng cáo trực tuyến.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e1444ae76d3",
+      "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+      "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-13T19:16:11.535466+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "G4S tiếp tục bị cáo buộc liên quan đến cái chết tại trang trại Del Monte",
+      "bullets": [
+        "G4S bị cáo buộc liên quan đến cái chết của 3 người tại trang trại Del Monte",
+        "Famili của nạn nhân lên án việc tiếp tục giết người tại trang trại",
+        "G4S được Del Monte thuê thay đội bảo vệ nội bộ sau khi có các vụ giết người trước đó",
+        "Cảnh sát Kenya hợp tác với G4S để bảo vệ trang trại"
+      ],
+      "full_summary": "Mặc dù Del Monte đã thuê công ty bảo vệ G4S thay thế đội bảo vệ nội bộ sau khi có các vụ giết người trước đó, nhưng cái chết tiếp tục xảy ra tại trang trại của công ty này ở Kenya. Theo báo cáo, 3 người đã bị giết trong các vụ việc liên quan đến G4S trong vòng 1 năm qua. Các gia đình của nạn nhân và các chính trị gia đã lên án việc tiếp tục giết người tại trang trại. Cảnh sát Kenya đang hợp tác với G4S để bảo vệ trang trại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "02363c4035fb",
+      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+      "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-13T19:16:13.885516+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Thiếu bộ nhớ đẩy doanh số điện thoại di động xuống mức thấp kỷ lục",
+      "bullets": [
+        "Giảm sản lượng điện thoại di động toàn cầu",
+        "Apple và Samsung tăng lợi nhuận",
+        "Chính sách sản xuất linh hoạt giúp các nhà sản xuất vượt qua khủng hoảng",
+        "Tình hình kinh tế không chắc chắn vẫn tiếp tục ảnh hưởng đến ngành công nghiệp"
+      ],
+      "full_summary": "Thiếu bộ nhớ đã đẩy doanh số điện thoại di động toàn cầu xuống mức thấp kỷ lục. Các nhà sản xuất lớn như Apple và Samsung đã tăng lợi nhuận trong bối cảnh này. Để vượt qua khủng hoảng, họ đã triển khai các chính sách sản xuất linh hoạt. Mặc dù vậy, tình hình kinh tế không chắc chắn vẫn tiếp tục ảnh hưởng đến ngành công nghiệp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8999b28d5beb",
+      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
+      "url": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-13T19:16:14.899946+00:00",
+      "category": "politics|economy|technology|science|other",
+      "importance": 4,
+      "headline": "Colorado xem xét thêm quyền tự nhiên khí đốt vào hiến pháp",
+      "bullets": [
+        "Sẽ hạn chế các quy định xây dựng thúc đẩy sử dụng điện",
+        "Đề xuất sửa đổi hiến pháp nhằm bảo vệ ngành công nghiệp khí đốt",
+        "Colorado sẽ bỏ phiếu về việc thêm quyền tự nhiên khí đốt vào hiến pháp",
+        "Quy định mới sẽ hạn chế các quy định xây dựng thúc đẩy sử dụng điện"
+      ],
+      "full_summary": "Colorado sắp bỏ phiếu về việc thêm quyền tự nhiên khí đốt vào hiến pháp. Đề xuất sửa đổi hiến pháp nhằm bảo vệ ngành công nghiệp khí đốt. Quy định mới sẽ hạn chế các quy định xây dựng thúc đẩy sử dụng điện. Điều này có thể ảnh hưởng đến các dự án xây dựng mới và sự phát triển của ngành công nghiệp năng lượng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4d1744b16056",
+      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-13T19:16:19.610233+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tạo và phân phối ứng dụng Mac và iOS mà không cần mở Xcode",
+      "bullets": [
+        "Tạo ứng dụng Mac và iOS mà không cần biết Xcode",
+        "Sử dụng công cụ tự động hóa để xây dựng và phân phối ứng dụng",
+        "Cải thiện hiệu suất và giảm thiểu thời gian xây dựng ứng dụng",
+        "Phân phối ứng dụng trên App Store mà không cần biết Xcode"
+      ],
+      "full_summary": "Scott Willsey đã chia sẻ cách tạo và phân phối ứng dụng Mac và iOS mà không cần mở Xcode. Sử dụng công cụ tự động hóa, người dùng có thể xây dựng và phân phối ứng dụng mà không cần biết Xcode. Điều này giúp cải thiện hiệu suất và giảm thiểu thời gian xây dựng ứng dụng. Bài viết này đã thu hút sự chú ý của cộng đồng lập trình viên và đã nhận được 25 điểm trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "439bdde87fb4",
       "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
@@ -613,184 +791,6 @@
         "Một người đã bị phạt 100.000 USD vì sử dụng pháo nổ bất hợp pháp."
       ],
       "full_summary": "Trong dịp kỷ niệm 250 năm ngày độc lập của Mỹ, nhiều thành phố đã tăng cường sử dụng máy bay không người lái để giám sát và ngăn chặn pháo nổ bất hợp pháp. Cảnh sát và cứu hỏa đã sử dụng drone để bắt và ngăn chặn những người sử dụng pháo nổ. Một người đã bị phạt 100.000 USD vì sử dụng pháo nổ bất hợp pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "87d66f7307c7",
-      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-12T18:55:18.864457+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Chuyên gia đàm phán bị bắt vì hợp tác với kẻ tấn công",
-      "bullets": [
-        "Hợp tác với kẻ tấn công để đòi tiền chuộc",
-        "Bị kết án 6 năm tù vì phản bội khách hàng",
-        "Chuyên gia đàm phán bị kết tội phản bội khách hàng",
-        "Kẻ tấn công lợi dụng chuyên gia đàm phán để đòi tiền chuộc"
-      ],
-      "full_summary": "Một chuyên gia đàm phán bị kết án 6 năm tù vì hợp tác với kẻ tấn công để đòi tiền chuộc từ khách hàng của mình. Chuyên gia này đã bị kết tội phản bội khách hàng và bị kết án nặng nề. Sự việc đã làm dấy lên lo ngại về sự an toàn của khách hàng khi thuê dịch vụ đàm phán.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4f75e111fd7c",
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-12T18:55:20.078307+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tác dụng của sự vô ích trong cuộc sống",
-      "bullets": [
-        "Giải phóng tâm trí khỏi áp lực đạt được",
-        "Tìm kiếm niềm vui trong việc không có mục tiêu",
-        "Tự do từ những kỳ vọng của người khác"
-      ],
-      "full_summary": "Tác giả của bài viết đã đề xuất một quan điểm độc đáo rằng sự vô ích có thể là một nguồn cảm hứng và sự tự do trong cuộc sống. Họ cho rằng việc không có mục tiêu cụ thể có thể giúp giải phóng tâm trí khỏi áp lực đạt được và tìm kiếm niềm vui trong những hoạt động không có mục tiêu. Điều này có thể giúp người ta tự do hơn từ những kỳ vọng của người khác và tìm kiếm sự hạnh phúc trong những điều đơn giản.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "17d9205ca67b",
-      "title": "Why study Diophantine equations?",
-      "url": "https://hidden-phenomena.com/articles/modular",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-12T18:55:23.418078+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Giải thích tại sao học phương trình Diophantine",
-      "bullets": [
-        "Giải thích ứng dụng thực tế của phương trình Diophantine",
-        "Khái quát lịch sử phát triển của phương trình Diophantine",
-        "Giải thích ý nghĩa của phương trình Diophantine trong toán học hiện đại",
-        "Trình bày các phương pháp giải phương trình Diophantine"
-      ],
-      "full_summary": "Phương trình Diophantine là một lĩnh vực toán học nghiên cứu các phương trình đại số có tham số nguyên. Bài viết giải thích tại sao phương trình Diophantine lại quan trọng và ứng dụng thực tế của nó trong các lĩnh vực khác nhau. Nó cũng trình bày lịch sử phát triển của phương trình Diophantine và ý nghĩa của nó trong toán học hiện đại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7e9bd59636b9",
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T13:02:52.337934+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Họp đồng Anh bị thương nặng trong đám cháy rừng ở Tây Ban Nha",
-      "bullets": [
-        "Đôi vợ chồng Anh bị mắc kẹt trong đám cháy rừng ở Almeria",
-        "Cặp đôi bị thương nặng với 40% vết thương",
-        "Họ được tìm thấy trong tình trạng bất tỉnh",
-        "Đội cứu hộ đã đưa họ đến bệnh viện"
-      ],
-      "full_summary": "Một cặp đôi người Anh đã bị mắc kẹt trong đám cháy rừng ở tỉnh Almeria, Tây Ban Nha. Họ bị thương nặng với 40% vết thương và được tìm thấy trong tình trạng bất tỉnh. Đội cứu hộ đã tìm thấy họ và đưa họ đến bệnh viện. Cặp đôi đang được điều trị tại bệnh viện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d30a0e3a6028",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T13:02:53.356099+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta rút lại tính năng AI chỉnh sửa ảnh trên Instagram",
-      "bullets": [
-        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
-        "Tính năng này đã nhận được phản ứng tiêu cực từ cộng đồng",
-        "Meta đã rút lại tính năng sau vài ngày",
-        "Tính năng này cho phép người dùng chỉnh sửa ảnh bằng AI"
-      ],
-      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, công ty đã rút lại tính năng này do nhận được phản ứng tiêu cực từ cộng đồng. Tính năng này cho phép người dùng chỉnh sửa ảnh bằng AI, nhưng nhiều người dùng đã cảm thấy không thoải mái với tính năng này. Meta đã rút lại tính năng này để tránh gây ra sự cố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4befa9b74565",
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T13:02:54.290262+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Assassin's Creed Black Flag remake được ra mắt sau 13 năm chờ đợi",
-      "bullets": [
-        "Trò chơi Assassin's Creed Black Flag được tái tạo lại từ đầu",
-        "Cốt truyện và nhân vật được giữ nguyên",
-        "Chế độ chơi mới và đồ họa được nâng cấp",
-        "Đánh giá của BBC: trò chơi đáng chơi"
-      ],
-      "full_summary": "Assassin's Creed Black Flag remake là một trò chơi hành động phiêu lưu được tái tạo lại từ đầu. Trò chơi có cốt truyện và nhân vật được giữ nguyên, nhưng chế độ chơi mới và đồ họa đã được nâng cấp. Theo đánh giá của BBC, trò chơi đáng chơi và có nhiều tính năng mới. Assassin's Creed Black Flag remake đã được ra mắt sau 13 năm chờ đợi và đã nhận được sự quan tâm của nhiều người chơi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e0e96a7b8d04",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-12T13:02:55.371525+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Cơ quan Y tế Thế giới thử nghiệm thuốc mới chống Ebola",
-      "bullets": [
-        "Bắt đầu thử nghiệm thuốc mới chống Ebola ở vùng Ituri",
-        "Hai loại thuốc đang được thử nghiệm để giảm tỷ lệ tử vong",
-        "Cơ quan Y tế Thế giới cho biết đây là một tốc độ thử nghiệm nhanh chóng",
-        "Hy vọng sẽ tìm ra thuốc chống Ebola trong vài tháng tới"
-      ],
-      "full_summary": "Cơ quan Y tế Thế giới đã bắt đầu thử nghiệm thuốc mới chống Ebola ở vùng Ituri, Democratic Republic của Congo. Đây là một tốc độ thử nghiệm nhanh chóng, chỉ 6 tuần sau khi WHO tuyên bố dịch bệnh là một tình trạng sức khỏe công cộng quốc tế quan trọng. Hai loại thuốc đang được thử nghiệm để giảm tỷ lệ tử vong. Hy vọng sẽ tìm ra thuốc chống Ebola trong vài tháng tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ca88b3b341bf",
-      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-12T13:02:57.513374+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu mới giải thích lý do người Polynesia đột ngột đi biển hướng đông",
-      "bullets": [
-        "Khám phá bằng chứng khí hậu mới cho thấy lý do người Polynesia đi biển",
-        "Nghiên cứu chỉ ra rằng người Polynesia đã có khả năng đi biển từ lâu",
-        "Bằng chứng khí hậu mới cho thấy thời tiết thuận lợi cho các chuyến đi biển",
-        "Các chuyến đi biển của người Polynesia đã mở ra một kỷ nguyên mới cho lịch sử"
-      ],
-      "full_summary": "Nghiên cứu mới trên Ars Technica đã khám phá lý do người Polynesia đột ngột đi biển hướng đông sau 1.700 năm. Bằng chứng khí hậu mới cho thấy thời tiết thuận lợi cho các chuyến đi biển, giúp người Polynesia có khả năng đi biển từ lâu. Các chuyến đi biển của người Polynesia đã mở ra một kỷ nguyên mới cho lịch sử và giải thích lý do họ đã đi đến các đảo xa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7409f3364857",
-      "title": "Understanding the Odin Programming Language",
-      "url": "https://odinbook.com/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-12T13:02:59.716738+00:00",
-      "category": "technology",
-      "importance": 2,
-      "headline": "Ngôn ngữ lập trình Odin được giới lập trình viên quan tâm",
-      "bullets": [
-        "Giới thiệu ngôn ngữ lập trình mới Odin",
-        "Odin được thiết kế cho lập trình viên mới",
-        "Odin có thể giúp giảm thiểu lỗi lập trình"
-      ],
-      "full_summary": "Ngôn ngữ lập trình Odin là một ngôn ngữ lập trình mới được giới lập trình viên quan tâm. Odín được thiết kế cho lập trình viên mới, với mục tiêu giúp họ học lập trình một cách dễ dàng hơn. Odín có thể giúp giảm thiểu lỗi lập trình bằng cách cung cấp các tính năng an toàn và kiểm soát lỗi.",
       "comments": 0,
       "score": 0
     }
