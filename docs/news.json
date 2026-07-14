@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-14T01:50:23.879119+00:00",
+  "updated_at": "2026-07-14T07:51:14.122571+00:00",
   "articles": [
+    {
+      "id": "7a1488e82061",
+      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:00.101702+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi người chết trong vụ cháy bar ở Bangkok",
+      "bullets": [
+        "Nghiên cứu về các sai sót về an toàn sau vụ cháy",
+        "Cảnh sát điều tra nguyên nhân vụ cháy",
+        "Cư dân và nhân chứng báo cáo cửa bị khóa và thiếu biển chỉ dẫn lối thoát khẩn cấp",
+        "Số người chết tiếp tục tăng lên 30"
+      ],
+      "full_summary": "Một vụ cháy xảy ra tại một bar ở Bangkok đã khiến 30 người thiệt mạng. Nghiên cứu ban đầu cho thấy các sai sót về an toàn và thiếu biển chỉ dẫn lối thoát khẩn cấp có thể là nguyên nhân của vụ cháy. Cảnh sát đang điều tra vụ việc để xác định nguyên nhân chính xác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fb8cfeaaf328",
+      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "url": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:01.021619+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát Úc công bố ảnh mới về vụ giết người du khách Anh",
+      "bullets": [
+        "Công bố ảnh để kích thích ký ức",
+        "Hy vọng tìm được thi thể Peter Falconio",
+        "Vụ án xảy ra 25 năm trước",
+        "Cảnh sát đang tìm kiếm thông tin mới"
+      ],
+      "full_summary": "Cảnh sát Úc vừa công bố một số hình ảnh mới về vụ giết người du khách Anh Peter Falconio, xảy ra 25 năm trước. Hình ảnh này được hy vọng sẽ giúp kích thích ký ức của những người có liên quan và tìm được thi thể của nạn nhân. Vụ án này đã gây ra sự chú ý lớn từ cộng đồng quốc tế và cảnh sát đang tiếp tục tìm kiếm thông tin mới để giải quyết vụ án.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b231af268dda",
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:01.942931+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một nhà báo Anh phát hiện liên kết bí mật của Bộ trưởng Thương mại Mỹ",
+      "bullets": [
+        "Phát hiện ra Howard Lutnick liên hệ với Epstein",
+        "Simon Andriesz là người phát hiện ra thông tin này",
+        "Thông tin được tìm thấy trong hồ sơ Epstein được công bố công khai",
+        "Liên kết này gây chú ý trong cộng đồng chính trị"
+      ],
+      "full_summary": "Một nhà báo Anh tên Simon Andriesz đã phát hiện ra liên kết bí mật giữa Bộ trưởng Thương mại Mỹ Howard Lutnick và người phạm tội Jeffrey Epstein. Thông tin này được tìm thấy trong hồ sơ Epstein được công bố công khai. Simon Andriesz đã phát hiện ra thông tin này và gây chú ý trong cộng đồng chính trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fb9bebc413a6",
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:02.888619+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hộ chiếu Trump bị vô hiệu hóa, ông phải trả thuế",
+      "bullets": [
+        "Một thẩm phán Mỹ hủy bỏ thỏa thuận 1,8 tỷ USD giữa Trump và IRS",
+        "Thẩm phán cho rằng vụ kiện được đưa ra vì mục đích không đúng",
+        "Một luật sư của Trump bị đề nghị kỷ luật",
+        "Trump không còn được miễn trừ kiểm toán thuế"
+      ],
+      "full_summary": "Một thẩm phán Mỹ đã hủy bỏ thỏa thuận 1,8 tỷ USD giữa cựu Tổng thống Donald Trump và cơ quan thuế Mỹ (IRS). Thẩm phán cho rằng vụ kiện được đưa ra vì mục đích không đúng và đề nghị kỷ luật một luật sư của Trump. Điều này có nghĩa là Trump không còn được miễn trừ kiểm toán thuế. Thỏa thuận ban đầu cho phép Trump không bị kiểm toán thuế trong 10 năm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69ac4fe0498f",
+      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:03.782144+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một nhân viên chăm sóc trẻ bị buộc tội lạm dụng 136 trẻ",
+      "bullets": [
+        "Bị cáo Hamish Tait bị buộc tội lạm dụng trẻ em tại 5 cơ sở chăm sóc trẻ",
+        "Tội danh bao gồm 329 cáo buộc lạm dụng trẻ em",
+        "Tất cả cáo buộc liên quan đến thời gian 16 năm",
+        "Tất cả các cáo buộc xảy ra tại Sydney"
+      ],
+      "full_summary": "Hamish Tait, một nhân viên chăm sóc trẻ tại Sydney, bị buộc tội lạm dụng 136 trẻ em tại 5 cơ sở chăm sóc trẻ. Tất cả cáo buộc liên quan đến thời gian 16 năm. Ông Tait bị buộc tội 329 cáo buộc lạm dụng trẻ em.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a2936b147ccc",
+      "title": "US burrito giant Chipotle opening first outlet in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:04.669307+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chipotle mở cửa hàng đầu tiên tại Mexico",
+      "bullets": [
+        "Mở cửa hàng đầu tiên tại Mexico",
+        "Chipotle là một trong số ít thương hiệu thành công tại đất nước này",
+        "Các thương hiệu khác từ Mỹ đã gặp khó khăn khi mở cửa tại Mexico",
+        "Chipotle dự kiến sẽ mở cửa nhiều cửa hàng khác tại Mexico"
+      ],
+      "full_summary": "Chipotle, một thương hiệu burrito lớn của Mỹ, đã mở cửa hàng đầu tiên tại Mexico. Điều này là một dấu hiệu tích cực cho thương hiệu này, khi mà nhiều thương hiệu khác từ Mỹ đã gặp khó khăn khi mở cửa tại Mexico. Chipotle dự kiến sẽ mở cửa nhiều cửa hàng khác tại Mexico trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4befa9b74565",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:05.661045+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Assassin's Creed Black Flag được tái tạo lại từ đầu",
+      "bullets": [
+        "Khám phá lại thế giới Pirates của Assassin's Creed Black Flag",
+        "Đánh giá gameplay và đồ họa của phiên bản mới",
+        "So sánh phiên bản gốc và phiên bản mới của Assassin's Creed Black Flag",
+        "Đánh giá liệu phiên bản mới có đáng chờ đợi sau 13 năm"
+      ],
+      "full_summary": "Assassin's Creed Black Flag đã được tái tạo lại từ đầu và phát hành sau 13 năm chờ đợi. BBC đã thử nghiệm phiên bản mới và đánh giá gameplay và đồ họa. Phiên bản mới có nhiều cải tiến so với phiên bản gốc, nhưng liệu nó có đáng chờ đợi? Assassin's Creed Black Flag vẫn là một trong những trò chơi hành động phiêu lưu hay nhất trên thị trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e0e96a7b8d04",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T07:51:06.603890+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Cơ quan Y tế Thế giới thử nghiệm thuốc mới chống Ebola",
+      "bullets": [
+        "Bắt đầu thử nghiệm thuốc mới chống Ebola ở DRC",
+        "Hai loại thuốc đang được thử nghiệm tại vùng Ituri",
+        "Mục tiêu giảm tỷ lệ tử vong do bệnh Ebola",
+        "Triển khai nhanh chóng sau khi WHO tuyên bố tình trạng khẩn cấp"
+      ],
+      "full_summary": "Cơ quan Y tế Thế giới (WHO) đã bắt đầu thử nghiệm thuốc mới chống Ebola ở Cộng hòa Dân chủ Congo (DRC) sau khi một vụ bùng phát bệnh được tuyên bố là tình trạng khẩn cấp. Hai loại thuốc đang được thử nghiệm tại vùng Ituri, nơi có nhiều người nhiễm bệnh. Mục tiêu của thử nghiệm này là giảm tỷ lệ tử vong do bệnh Ebola. Đây là một bước tiến quan trọng trong việc tìm kiếm thuốc chống Ebola.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "4e6bf67f6da5",
       "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
@@ -633,166 +793,6 @@
         "Kiểm tra và thử nghiệm PCB"
       ],
       "full_summary": "Một người dùng đã chia sẻ kinh nghiệm tạo và lắp ráp PCB đầu tiên của riêng mình. Họ đã sử dụng phần mềm để tạo bản thiết kế PCB, sau đó in nó trên máy in PCB. Cuối cùng, họ đã lắp ráp các linh kiện điện tử và kiểm tra thử nghiệm PCB.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e67d4ca426c0",
-      "title": "Deep-sea life has a secret food source scientists never expected",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-07-13T08:55:07.003859+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Áp suất sâu biển tạo ra nguồn thức ăn bí ẩn cho vi khuẩn",
-      "bullets": [
-        "Khám phá nguồn thức ăn mới cho vi khuẩn sâu biển",
-        "Áp suất sâu biển ép xuất ra chất dinh dưỡng quý giá",
-        "Nghiên cứu này có thể thay đổi cách hiểu về hệ sinh thái sâu biển",
-        "Tìm hiểu về cách lưu trữ cacbon trên Trái đất"
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện ra rằng áp suất sâu biển ép xuất ra chất dinh dưỡng quý giá từ các hạt hữu cơ rơi xuống, tạo ra nguồn thức ăn bí ẩn cho vi khuẩn sâu biển. Nghiên cứu này có thể thay đổi cách hiểu về hệ sinh thái sâu biển và cách lưu trữ cacbon trên Trái đất. Khám phá này có thể giúp chúng ta hiểu rõ hơn về cách thức hoạt động của hệ sinh thái sâu biển và cách chúng ảnh hưởng đến môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f1e8ee37f01",
-      "title": "At least 27 killed in Bangkok bar fire",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T02:04:07.935876+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nổ hỏa tại quán bar ở Bangkok, ít nhất 27 người tử vong",
-      "bullets": [
-        "Cơ quan cứu hỏa đã đến hiện trường",
-        "Khách hàng đang chạy thoát khỏi đám cháy",
-        "Ít nhất 27 người đã thiệt mạng",
-        "Cơ quan chức năng đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một quán bar ở khu vực Chatuchak, Bangkok. Ít nhất 27 người đã thiệt mạng và nhiều người khác bị thương. Cơ quan cứu hỏa đã nhanh chóng đến hiện trường để dập lửa và cứu người. Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "47f82eb69fd7",
-      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T02:04:08.941303+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Lindsey Graham thích nghi với biến động chính trị Mỹ",
-      "bullets": [
-        "Thay đổi lập trường về Trump",
-        "Làm việc với phe cánh Trump",
-        "Thể hiện khả năng thích nghi trong chính trị Mỹ",
-        "Đứng vững trong kỷ nguyên MAGA"
-      ],
-      "full_summary": "Lindsey Graham là một nghị sĩ Mỹ đã thích nghi thành công với biến động chính trị Mỹ. Ông từng là một chỉ trích của Tổng thống Trump nhưng sau đó đã trở thành một người ủng hộ. Sự thay đổi lập trường của ông đã giúp ông đứng vững trong kỷ nguyên MAGA. Ông đã thể hiện khả năng thích nghi của mình trong chính trị Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "71bc1c35da37",
-      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-      "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T02:04:10.043138+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tổng thống Hạ viện Mỹ Mitch McConnell nói không trở lại làm việc sớm",
-      "bullets": [
-        "Mitch McConnell nói sẽ không trở lại làm việc sớm vì chấn thương và viêm phổi",
-        "Ông đã không tham gia công việc trong nhiều tuần",
-        "Tổng thống Hạ viện Mỹ đã đưa ra tuyên bố đầu tiên về sức khỏe của mình",
-        "Chuyên gia y tế đang theo dõi tình hình sức khỏe của ông"
-      ],
-      "full_summary": "Tổng thống Hạ viện Mỹ Mitch McConnell đã đưa ra tuyên bố đầu tiên về sức khỏe của mình sau nhiều tuần bị nghi ngờ. Ông nói rằng sẽ không trở lại làm việc sớm do chấn thương và viêm phổi. Ông đã không tham gia công việc trong nhiều tuần và các chuyên gia y tế đang theo dõi tình hình sức khỏe của ông. Thông tin này đã gây ra nhiều đồn đoán về sức khỏe của ông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dc95e59d9ca7",
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T02:04:11.070215+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Tràn ngập người dân ở tỉnh Zhejiang khi bão mạnh đổ bộ",
-      "bullets": [
-        "Đã hủy nhiều chuyến bay và dịch vụ giao thông",
-        "Tạm dừng hoạt động của các trường học và cơ quan",
-        "Bão mạnh đã đổ bộ vào tỉnh Zhejiang",
-        "Hơn 2 triệu người đã được sơ tán"
-      ],
-      "full_summary": "Trên 2 triệu người đã được sơ tán ở tỉnh Zhejiang, Trung Quốc khi bão mạnh đổ bộ. Các trường học, cơ quan và hoạt động ngoài trời đã bị tạm dừng. Các dịch vụ giao thông cũng bị hủy bỏ. Bão mạnh đã gây ra những thiệt hại nghiêm trọng ở khu vực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53742d0f6844",
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T02:04:12.105140+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Pokémon Go tiếp tục thu hút triệu người chơi sau 10 năm",
-      "bullets": [
-        "Thể loại game di động này vẫn thu hút người chơi",
-        "Đã có hơn 10 năm kể từ khi ra mắt",
-        "Scopely cho rằng mục tiêu là mang mọi người lại gần nhau",
-        "Vice president Michael Steranka chia sẻ về thành công của Pokémon Go"
-      ],
-      "full_summary": "Pokémon Go đã tồn tại hơn 10 năm kể từ khi ra mắt và vẫn đang thu hút triệu người chơi. Theo Scopely, chủ sở hữu của game, mục tiêu của Pokémon Go luôn là mang mọi người lại gần nhau. Vice president Michael Steranka cho biết thành công của game đến từ việc kết nối người chơi với nhau. Với hơn 10 năm tồn tại, Pokémon Go đã trở thành một phần không thể thiếu trong văn hóa game di động.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0959e36c0695",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T02:04:13.074758+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
-      "bullets": [
-        "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
-        "OpenAI có kế hoạch kinh doanh phần cứng đang bị nghi ngờ",
-        "Apple cho rằng kế hoạch kinh doanh của OpenAI 'bẩn đến tận gốc rễ'",
-        "OpenAI chưa đưa ra bình luận về vụ kiện"
-      ],
-      "full_summary": "Apple đã kiện OpenAI vì tội trộm cắp bí mật kinh doanh. Trong vụ kiện, Apple cho rằng kế hoạch kinh doanh phần cứng của OpenAI đang bị nghi ngờ. Apple cho rằng kế hoạch kinh doanh của OpenAI 'bẩn đến tận gốc rễ' và đã yêu cầu tòa án ngăn chặn OpenAI tiếp tục kinh doanh. OpenAI chưa đưa ra bình luận về vụ kiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cacf79fa6030",
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T02:04:14.139028+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các thiết bị làm mát không khí giả mạo gây sốt trên mạng xã hội",
-      "bullets": [
-        "ASA xác định quảng cáo về các thiết bị làm mát nhỏ không đáng tin cậy",
-        "Các thiết bị này không thể làm mát nhanh chóng như quảng cáo",
-        "ASA yêu cầu các công ty ngừng quảng cáo",
-        "Các thiết bị làm mát không khí nhỏ có thể gây nguy hiểm cho sức khỏe"
-      ],
-      "full_summary": "Tổ chức quản lý quảng cáo (ASA) đã xác định rằng các quảng cáo về các thiết bị làm mát không khí nhỏ không đáng tin cậy. Các thiết bị này được quảng cáo như có thể làm mát nhanh chóng, nhưng thực tế chúng không thể. ASA đã yêu cầu các công ty ngừng quảng cáo về các thiết bị này. Các thiết bị làm mát không khí nhỏ có thể gây nguy hiểm cho sức khỏe nếu không được sử dụng đúng cách.",
       "comments": 0,
       "score": 0
     }
