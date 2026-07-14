@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-14T07:51:14.122571+00:00",
+  "updated_at": "2026-07-14T13:16:41.877740+00:00",
   "articles": [
+    {
+      "id": "82c111113b9e",
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T13:16:27.943182+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chuyến bay Ryanair gần bị vỡ nát, người đàn ông gần bị hút ra ngoài",
+      "bullets": [
+        "Một người đàn ông gần bị hút ra khỏi máy bay Ryanair",
+        "Anh ta bị thương nghiêm trọng và sốc",
+        "Vợ anh ta kể lại kịch bản đáng sợ",
+        "Máy bay hạ cánh an toàn sau sự cố"
+      ],
+      "full_summary": "Một người đàn ông gần bị hút ra khỏi máy bay Ryanair trong một sự cố đáng sợ. Vợ anh ta, Svetlana Grković, cho biết anh ta bị thương nghiêm trọng và sốc. Sự cố xảy ra trên chuyến bay từ Bỉ đến Hy Lạp. May mắn là máy bay hạ cánh an toàn sau sự cố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9b3193ebfb99",
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T13:16:28.837022+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Houthi tấn công sân bay Abha sau vụ tấn công sân bay Sanaa",
+      "bullets": [
+        "Houthi phóng tên lửa vào sân bay Abha ở Ả Rập Xê Út",
+        "Houthi đổ lỗi cho Ả Rập Xê Út về vụ tấn công sân bay Sanaa",
+        "Houthi tuyên bố tấn công sân bay Abha để trả đũa",
+        "Vụ tấn công gây thiệt hại cho sân bay Abha"
+      ],
+      "full_summary": "Houthi, một nhóm Hồi giáo Iran hậu thuẫn, đã phóng tên lửa vào sân bay Abha ở Ả Rập Xê Út sau khi sân bay Sanaa ở Yemen bị tấn công. Houthi đổ lỗi cho Ả Rập Xê Út về vụ tấn công sân bay Sanaa và tuyên bố tấn công sân bay Abha để trả đũa. Vụ tấn công gây thiệt hại cho sân bay Abha và làm gián đoạn hoạt động hàng không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53742d0f6844",
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T13:16:29.749223+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Pokémon Go vẫn thu hút triệu người chơi sau 10 năm ra mắt",
+      "bullets": [
+        "Tháng 7/2016, Pokémon Go được phát hành trên toàn thế giới",
+        "Game đã thu hút hơn 1 tỷ người chơi trên toàn cầu",
+        "Scopely, công ty sở hữu Pokémon Go, cho biết mục tiêu là mang lại trải nghiệm kết nối cho người chơi"
+      ],
+      "full_summary": "Pokémon Go đã kỷ niệm 10 năm ra mắt và vẫn là một trong những trò chơi di động phổ biến nhất trên thế giới. Theo Scopely, công ty sở hữu Pokémon Go, mục tiêu của trò chơi là mang lại trải nghiệm kết nối cho người chơi. Michael Steranka, phó chủ tịch của Scopely, cho biết: 'Luôn luôn về việc mang lại trải nghiệm kết nối cho người chơi'. Trò chơi đã thu hút hơn 1 tỷ người chơi trên toàn cầu và vẫn đang được cập nhật thường xuyên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0959e36c0695",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T13:16:30.790153+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Apple kiện OpenAI vì tội trộm bí mật thương mại",
+      "bullets": [
+        "Apple kiện OpenAI vì tội trộm bí mật thương mại",
+        "OpenAI có kế hoạch kinh doanh thiết bị cứng",
+        "Apple cho rằng kế hoạch kinh doanh của OpenAI 'được xây dựng trên cơ sở gian lận'",
+        "Sự kiện này diễn ra sau khi Apple mua lại công ty AI của Meta"
+      ],
+      "full_summary": "Apple đã kiện OpenAI vì tội trộm bí mật thương mại. Trong một vụ kiện được nộp vào thứ Sáu, Apple cho rằng kế hoạch kinh doanh thiết bị cứng của OpenAI 'được xây dựng trên cơ sở gian lận'. Apple cũng cho rằng kế hoạch kinh doanh của OpenAI có liên quan đến công nghệ mà Apple đã mua lại từ Meta. Sự kiện này diễn ra sau khi Apple mua lại công ty AI của Meta.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cacf79fa6030",
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T13:16:31.662532+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các thiết bị làm mát không khí giả bị cấm quảng cáo",
+      "bullets": [
+        "ASA cấm quảng cáo về các thiết bị làm mát không khí nhỏ",
+        "Các thiết bị này được quảng cáo có thể làm mát nhanh chóng",
+        "Nhưng thực tế, chúng không đủ hiệu quả",
+        "ASA cho rằng quảng cáo quá tốt để trở thành sự thật"
+      ],
+      "full_summary": "Hội đồng Quảng cáo Anh (ASA) đã cấm quảng cáo về các thiết bị làm mát không khí nhỏ, được quảng cáo có thể làm mát nhanh chóng. Các thiết bị này được quảng cáo như các máy điều hòa không khí di động, nhưng thực tế, chúng không đủ hiệu quả. ASA cho rằng quảng cáo quá tốt để trở thành sự thật và đã cấm các quảng cáo này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "860c5a021c60",
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-14T13:16:32.647877+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Cục tàu Rotterdam bị yêu cầu giảm phụ thuộc vào nhiên liệu hóa thạch",
+      "bullets": [
+        "Yêu cầu tòa án buộc cảng Rotterdam phải cắt giảm nhanh hơn phụ thuộc vào các công ty nhiên liệu hóa thạch",
+        "Cảng Rotterdam là cảng container lớn nhất châu Âu, chiếm 12% thương mại quốc tế",
+        "Lawsuit này nhằm thúc đẩy cảng Rotterdam chuyển sang năng lượng tái tạo và giảm khí thải nhà kính",
+        "Cảng Rotterdam đang cố gắng đạt được mục tiêu giảm 70% khí thải nhà kính vào năm 2030"
+      ],
+      "full_summary": "Một vụ kiện đã được đệ lên tòa án yêu cầu cảng Rotterdam phải nhanh chóng cắt giảm phụ thuộc vào các công ty nhiên liệu hóa thạch. Cảng Rotterdam là cảng container lớn nhất châu Âu, chiếm 12% thương mại quốc tế. Vụ kiện này nhằm thúc đẩy cảng Rotterdam chuyển sang năng lượng tái tạo và giảm khí thải nhà kính. Cảng Rotterdam đang cố gắng đạt được mục tiêu giảm 70% khí thải nhà kính vào năm 2030.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "265188d84f6a",
+      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+      "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-14T13:16:35.821530+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "SpaceX chuẩn bị thử nghiệm Starship lần thứ 13",
+      "bullets": [
+        "Chuẩn bị thử nghiệm Starship dưới áp suất cao hơn",
+        "Thử nghiệm vệ tinh Starlink mới trong quỹ đạo",
+        "Lần thử nghiệm này đánh dấu bước tiến quan trọng cho Starship",
+        "Đội ngũ SpaceX đang chuẩn bị cho thử nghiệm này"
+      ],
+      "full_summary": "SpaceX đang chuẩn bị cho thử nghiệm Starship lần thứ 13, trong đó sẽ thử nghiệm Starship dưới áp suất cao hơn và thử nghiệm vệ tinh Starlink mới trong quỹ đạo. Đây là bước tiến quan trọng trong quá trình phát triển Starship. Đội ngũ SpaceX đang chuẩn bị cho thử nghiệm này và hy vọng sẽ đạt được kết quả tốt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1cda5cb3d5f8",
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-14T13:16:40.798210+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "C++26 phản ánh: Xóa loại bỏ đẹp",
+      "bullets": [
+        "Mô tả cách sử dụng C++26 Reflection để loại bỏ kiểu",
+        "Giải thích các bước thực hiện loại bỏ kiểu",
+        "Thử nghiệm và kiểm tra hiệu suất loại bỏ kiểu"
+      ],
+      "full_summary": "C++26 Reflection cho phép loại bỏ kiểu một cách dễ dàng và hiệu quả. Bằng cách sử dụng tính năng này, các nhà phát triển có thể loại bỏ kiểu một cách tự động và tránh các lỗi liên quan đến kiểu. Bài viết này sẽ hướng dẫn các bước thực hiện loại bỏ kiểu sử dụng C++26 Reflection và thử nghiệm hiệu suất của nó.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7a1488e82061",
       "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
@@ -635,164 +793,6 @@
         "Tham gia vào cộng đồng người học tiếng Nhật"
       ],
       "full_summary": "Một trang web mới đã ra mắt, cho phép người dùng trải nghiệm Tokyo thông qua việc đi tàu và học tiếng Nhật. Trang web này cung cấp thông tin về lịch trình tàu, bản đồ thành phố và các bài học tiếng Nhật. Người dùng có thể đi tàu Yamanote để khám phá Tokyo và học tiếng Nhật thông qua các bài học thực tế. Điều này giúp người dùng hiểu hơn về văn hóa và cuộc sống của người Nhật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "10b433d6b76f",
-      "title": "Rights for rivers and ice cream for all: top reads for the summer holidays",
-      "url": "https://www.nature.com/articles/d41586-026-02152-w",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-13T14:14:21.634815+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Tác giả Nature chia sẻ sách yêu thích trong mùa hè",
-      "bullets": [
-        "Chia sẻ sách yêu thích của mình",
-        "Tìm kiếm ý tưởng cho các tác phẩm mới",
-        "Khuyến khích mọi người đọc sách",
-        "Lựa chọn sách phù hợp cho mùa hè"
-      ],
-      "full_summary": "Tác giả của Nature đã chia sẻ sách yêu thích của mình trong mùa hè. Họ đang tìm kiếm ý tưởng cho các tác phẩm mới và khuyến khích mọi người đọc sách. Các tác giả này cũng đã lựa chọn sách phù hợp cho mùa hè, bao gồm cả sách về quyền của sông và kem lạnh cho tất cả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9cb75f636330",
-      "title": "British couple return to village at heart of deadly Spanish wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T08:54:52.679884+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Lửa hoả hoạn ở Tây Ban Nha giết ít nhất 13 người",
-      "bullets": [
-        "Đã xảy ra vụ hoả hoạn ở tỉnh Almeria, Tây Ban Nha",
-        "Ít nhất 13 người thiệt mạng, bao gồm 5 người Anh",
-        "Vụ hoả hoạn đã gây ra thiệt hại nghiêm trọng",
-        "Cặp vợ chồng Anh đã trở về làng ở tâm của vụ hoả hoạn"
-      ],
-      "full_summary": "Một vụ hoả hoạn lớn đã xảy ra ở tỉnh Almeria, Tây Ban Nha, giết ít nhất 13 người, bao gồm 5 người Anh. Cặp vợ chồng Anh đã trở về làng ở tâm của vụ hoả hoạn. Vụ hoả hoạn đã gây ra thiệt hại nghiêm trọng và đã được kiểm soát. Các nhà chức trách đang điều tra nguyên nhân của vụ hoả hoạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "770d6bf5a96d",
-      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T08:54:53.873663+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hàng máy bay được gửi đến dập lửa ở vùng Paris",
-      "bullets": [
-        "Gửi máy bay dập lửa từ phía nam nước Pháp",
-        "Lửa ở vùng Paris đang ở quy mô đặc biệt lớn",
-        "Hàng máy bay đầu tiên được gửi đến dập lửa ở vùng Paris",
-        "Lửa đang đe dọa đến các khu dân cư và tài sản"
-      ],
-      "full_summary": "Hàng máy bay được gửi đến dập lửa ở vùng Paris để ngăn chặn các đám cháy đang lan rộng. Đây là lần đầu tiên máy bay dập lửa được gửi từ phía nam nước Pháp đến dập lửa ở vùng Paris. Các đám cháy đang ở quy mô đặc biệt lớn và đe dọa đến các khu dân cư và tài sản. Các nhà chức trách đang làm việc để ngăn chặn các đám cháy và bảo vệ người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fe4f334a4f3e",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T08:54:54.847130+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nigeria tiêu diệt hơn 300 tên cướp ở bang Zamfara",
-      "bullets": [
-        "Nigeria tiêu diệt hơn 300 thành viên nhóm cướp và bắt cóc ở bang Zamfara",
-        "Lực lượng quân đội và các nhóm tự vệ tham gia chiến đấu suốt đêm và sáng hôm sau",
-        "Hành động diễn ra trong hai ngày ở khu vực Gummi",
-        "Chính phủ cho biết đã tiêu diệt hơn 300 tên khủng bố"
-      ],
-      "full_summary": "Nigeria cho biết lực lượng quân đội đã tiêu diệt hơn 300 thành viên nhóm cướp và bắt cóc ở bang Zamfara. Hành động diễn ra trong hai ngày ở khu vực Gummi. Lực lượng quân đội và các nhóm tự vệ tham gia chiến đấu suốt đêm và sáng hôm sau. Chính phủ cho biết đã tiêu diệt hơn 300 tên khủng bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49a7ce37d74e",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T08:54:55.777543+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Nhiều nước đang phát triển chi nhiều hơn cho nợ nước ngoài hơn cho giáo dục",
-      "bullets": [
-        "Chi tiêu nợ nước ngoài cao hơn chi tiêu giáo dục ở 113 nước đang phát triển",
-        "Các nước ở châu Phi cận Sahara chi 3,6 lần nhiều cho nợ nước ngoài hơn cho giáo dục",
-        "Aid giáo dục toàn cầu dự kiến giảm 30%",
-        "Nhiều nước đang phát triển chi ít hơn cho giáo dục so với chi tiêu nợ nước ngoài"
-      ],
-      "full_summary": "Theo Unesco, nhiều nước đang phát triển đã chi nhiều hơn cho nợ nước ngoài hơn cho giáo dục vào năm 2025. Điều này diễn ra trong bối cảnh aid giáo dục toàn cầu dự kiến giảm 30%. Các nước ở châu Phi cận Sahara chi 3,6 lần nhiều cho nợ nước ngoài hơn cho giáo dục. Sự mất cân bằng này có thể ảnh hưởng nghiêm trọng đến giáo dục và phát triển của các nước đang phát triển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6b4ac47736cd",
-      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-13T08:54:57.790701+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Sóng thần Venezuela làm 4.333 người chết và 16.740 người bị thương",
-      "bullets": [
-        "Đã có 4.333 người chết và 16.740 người bị thương",
-        "Ngàn người còn bị mất tích",
-        "Chính phủ Venezuela kêu gọi sự giúp đỡ tài chính từ quốc tế"
-      ],
-      "full_summary": "Một trận động đất mạnh đã xảy ra tại bang La Guaira, Venezuela, làm hàng nghìn người thiệt mạng và bị thương. Tổng thống Delcy Rodríguez và Liên Hợp Quốc đã kêu gọi sự giúp đỡ tài chính từ quốc tế để hỗ trợ quá trình khôi phục. Số người mất tích vẫn chưa được xác định rõ ràng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b6f21dab0752",
-      "title": "Quadrupling code performance with a \"useless\" if",
-      "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-13T08:54:59.287388+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Tăng tốc độ mã nguồn lên 4 lần với một điều kiện vô nghĩa",
-      "bullets": [
-        "Sử dụng điều kiện vô nghĩa để giảm thiểu kiểm tra điều kiện",
-        "Tăng tốc độ mã nguồn lên 4 lần bằng cách loại bỏ kiểm tra điều kiện không cần thiết",
-        "Giảm thiểu thời gian chạy bằng cách loại bỏ kiểm tra điều kiện không cần thiết"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã giới thiệu cách tăng tốc độ mã nguồn lên 4 lần bằng cách sử dụng điều kiện vô nghĩa. Điều kiện vô nghĩa là một điều kiện được sử dụng để giảm thiểu kiểm tra điều kiện, giúp giảm thiểu thời gian chạy. Bài viết này đã chứng minh rằng sử dụng điều kiện vô nghĩa có thể tăng tốc độ mã nguồn lên 4 lần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "75239b4c4853",
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-13T08:55:03.043498+00:00",
-      "category": "technology",
-      "importance": 2,
-      "headline": "Tạo và lắp ráp PCB đầu tiên của riêng mình",
-      "bullets": [
-        "Tạo bản thiết kế PCB bằng phần mềm",
-        "In PCB trên máy in PCB",
-        "Lắp ráp các linh kiện điện tử",
-        "Kiểm tra và thử nghiệm PCB"
-      ],
-      "full_summary": "Một người dùng đã chia sẻ kinh nghiệm tạo và lắp ráp PCB đầu tiên của riêng mình. Họ đã sử dụng phần mềm để tạo bản thiết kế PCB, sau đó in nó trên máy in PCB. Cuối cùng, họ đã lắp ráp các linh kiện điện tử và kiểm tra thử nghiệm PCB.",
       "comments": 0,
       "score": 0
     }
