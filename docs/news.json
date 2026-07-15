@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-15T13:20:39.141498+00:00",
+  "updated_at": "2026-07-15T19:00:03.518822+00:00",
   "articles": [
+    {
+      "id": "5e11634ac615",
+      "title": "French MPs approve assisted dying law with strict rules after years of argument",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T18:59:48.851374+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Đại biểu Pháp thông qua luật cho phép tử tự tại",
+      "bullets": [
+        "Chấp thuận luật cho phép tử tự tại cho người lớn mắc bệnh hiểm nghèo",
+        "Căn cứ vào các tiêu chí nghiêm ngặt",
+        "Được thông qua sau nhiều năm tranh luận",
+        "Sẽ có quy định chặt chẽ"
+      ],
+      "full_summary": "Đại biểu Pháp đã thông qua luật cho phép tử tự tại cho người lớn mắc bệnh hiểm nghèo. Luật này sẽ áp dụng các tiêu chí nghiêm ngặt để xác định người đủ điều kiện. Điều này diễn ra sau nhiều năm tranh luận về vấn đề này. Luật mới sẽ có các quy định chặt chẽ để đảm bảo quyền lợi của người bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ee607b1e5df",
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T18:59:49.860922+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Sự ủng hộ đối với Trung Quốc đang tăng lên trên toàn cầu",
+      "bullets": [
+        "Trung Quốc đang được nhiều người ủng hộ hơn Mỹ",
+        "Xi Jinping được coi là có nhiều tự tin hơn Donald Trump",
+        "Một nghiên cứu của Pew cho thấy sự thay đổi trong quan điểm của người dân toàn cầu"
+      ],
+      "full_summary": "Một nghiên cứu của Pew cho thấy sự ủng hộ đối với Trung Quốc đang tăng lên trên toàn cầu. Theo nghiên cứu này, người dân trên toàn cầu đang có nhiều tự tin hơn vào Chủ tịch Trung Quốc Xi Jinping so với cựu Tổng thống Mỹ Donald Trump. Điều này cho thấy sự thay đổi trong quan điểm của người dân toàn cầu về hai cường quốc này. Nghiên cứu này được thực hiện bởi một tổ chức tư vấn của Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b0341965db29",
+      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T18:59:50.795441+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một lãnh đạo chống di cư ở Nam Phi bị bắn trọng thương",
+      "bullets": [
+        "Một lãnh đạo của tổ chức March and March bị bắn",
+        "Lãnh đạo này qua đời sau nhiều ngày ở bệnh viện",
+        "Đội cảnh sát đặc biệt sẽ điều tra vụ việc",
+        "Vụ việc đang gây tranh cãi ở Nam Phi"
+      ],
+      "full_summary": "Một lãnh đạo của tổ chức March and March ở Nam Phi đã bị bắn trọng thương và qua đời sau nhiều ngày ở bệnh viện. Đội cảnh sát đặc biệt đã được giao nhiệm vụ điều tra vụ việc. Vụ việc đang gây tranh cãi ở Nam Phi và được nhiều người quan tâm. Lãnh đạo này được biết đến là một người ủng hộ mạnh mẽ chống di cư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4a8c9f43d664",
+      "title": "Five arrested after Hong Kong police raid independent bookshops",
+      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T18:59:51.684179+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cảnh sát Hồng Kông bắt giữ 5 người vì bán sách kích động chống đối",
+      "bullets": [
+        "Bắt giữ 5 người vì bán sách kích động chống đối",
+        "Sách được cho là kích động hận thù chống lại chính quyền",
+        "Cảnh sát Hồng Kông tiến hành cuộc đột kích vào các cửa hàng sách độc lập",
+        "Các cửa hàng sách độc lập bị cho là bán sách có nội dung kích động"
+      ],
+      "full_summary": "Cảnh sát Hồng Kông đã tiến hành cuộc đột kích vào các cửa hàng sách độc lập và bắt giữ 5 người vì bán sách được cho là kích động chống đối. Các cửa hàng sách độc lập bị cho là bán sách có nội dung kích động chống lại chính quyền. Các vụ bắt giữ diễn ra trong bối cảnh Hồng Kông đang đối mặt với các cuộc biểu tình và căng thẳng chính trị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5e1aa1e57bed",
+      "title": "SpaceX share price drops below stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T18:59:52.631875+00:00",
+      "category": "khoa học và công nghệ",
+      "importance": 3,
+      "headline": "Giá cổ phiếu SpaceX giảm xuống dưới mức ra mắt trên thị trường chứng khoán",
+      "bullets": [
+        "Giảm giá cổ phiếu SpaceX kể từ khi công ty này niêm yết trên thị trường một tháng trước",
+        "Cổ phiếu SpaceX đã trải qua sự biến động mạnh kể từ khi công ty này ra mắt",
+        "Elon Musk đang phải đối mặt với những thách thức trong việc duy trì giá cổ phiếu của SpaceX"
+      ],
+      "full_summary": "Giá cổ phiếu SpaceX đã giảm xuống dưới mức ra mắt trên thị trường chứng khoán. Kể từ khi công ty này niêm yết một tháng trước, cổ phiếu SpaceX đã trải qua sự biến động mạnh. Elon Musk đang phải đối mặt với những thách thức trong việc duy trì giá cổ phiếu của SpaceX. Các chuyên gia dự đoán rằng giá cổ phiếu sẽ tiếp tục biến động trong thời gian tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4befa9b74565",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T18:59:53.518466+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Assassin's Creed Black Flag được tái tạo lại từ đầu",
+      "bullets": [
+        "Được tái tạo lại từ đầu, Assassin's Creed Black Flag mang đến trải nghiệm mới mẻ",
+        "Câu chuyện và nhân vật được giữ nguyên, nhưng đồ họa và gameplay được cải thiện đáng kể",
+        "Người chơi có thể trải nghiệm cuộc phiêu lưu của Edward Kenway trên biển cả",
+        "Game được đánh giá cao về đồ họa và âm thanh"
+      ],
+      "full_summary": "Assassin's Creed Black Flag là một trò chơi hành động phiêu lưu được tái tạo lại từ đầu. Câu chuyện và nhân vật được giữ nguyên, nhưng đồ họa và gameplay được cải thiện đáng kể. Người chơi có thể trải nghiệm cuộc phiêu lưu của Edward Kenway trên biển cả, khám phá các hòn đảo và chiến đấu với kẻ thù. Game được đánh giá cao về đồ họa và âm thanh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "351250c07fe8",
+      "title": "How hard is it to build orbital data centers, actually?",
+      "url": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-15T18:59:56.781939+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Các trạm dữ liệu vũ trụ khó xây dựng như thế nào?",
+      "bullets": [
+        "Xây dựng trạm dữ liệu vũ trụ đòi hỏi chi phí và trọng lượng cao",
+        "Các nhà phát triển tập trung vào việc làm cho chúng rẻ và nhẹ",
+        "Sử dụng các radiator trên ISS là một ví dụ về thách thức này",
+        "Các trạm dữ liệu vũ trụ sẽ giúp lưu trữ dữ liệu một cách an toàn và hiệu quả"
+      ],
+      "full_summary": "Các trạm dữ liệu vũ trụ là một ý tưởng thú vị nhưng khó thực hiện. Các radiator trên ISS là một ví dụ về thách thức này, chúng đắt tiền và nặng. Các nhà phát triển đang tập trung vào việc làm cho các trạm dữ liệu vũ trụ rẻ và nhẹ. Điều này sẽ giúp lưu trữ dữ liệu một cách an toàn và hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1f25b396a659",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-15T19:00:00.077964+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta bị kiện vì cho rằng quyết định sa thải dựa trên AI",
+      "bullets": [
+        "Bị kiện vì cho rằng quyết định sa thải dựa trên AI",
+        "Meta phủ nhận sử dụng AI để sa thải nhân viên có khuyết tật và vấn đề sức khỏe",
+        "Lawsuit yêu cầu Meta phải công bố thông tin về quy trình sa thải",
+        "Meta từ chối bình luận thêm về vụ việc"
+      ],
+      "full_summary": "Một vụ kiện mới đã được đưa ra chống lại Meta, cáo buộc công ty này đã sử dụng trí tuệ nhân tạo (AI) để quyết định sa thải nhân viên. Tuy nhiên, Meta đã phủ nhận cáo buộc này, cho rằng quyết định sa thải được dựa trên các yếu tố khác. Lawsuit yêu cầu Meta phải công bố thông tin về quy trình sa thải để minh bạch hóa. Vụ việc đang được theo dõi chặt chẽ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "099ede8c36d5",
       "title": "Iran threatens to block more trade routes as US launches fresh strikes",
@@ -632,164 +790,6 @@
         "Nghiên cứu đảo ngược giả định về thế hệ Z"
       ],
       "full_summary": "Một nghiên cứu mới đã đảo ngược giả định rằng những người trẻ tuổi kiêng rượu là nguyên nhân khiến nhu cầu rượu yếu. Thay vào đó, người lớn tuổi đang giảm tiêu thụ rượu nhiều hơn. Điều này dẫn đến nhu cầu rượu giảm trên thị trường. Nghiên cứu này đã gây bất ngờ cho nhiều người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "82c111113b9e",
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T13:16:27.943182+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chuyến bay Ryanair gần bị vỡ nát, người đàn ông gần bị hút ra ngoài",
-      "bullets": [
-        "Một người đàn ông gần bị hút ra khỏi máy bay Ryanair",
-        "Anh ta bị thương nghiêm trọng và sốc",
-        "Vợ anh ta kể lại kịch bản đáng sợ",
-        "Máy bay hạ cánh an toàn sau sự cố"
-      ],
-      "full_summary": "Một người đàn ông gần bị hút ra khỏi máy bay Ryanair trong một sự cố đáng sợ. Vợ anh ta, Svetlana Grković, cho biết anh ta bị thương nghiêm trọng và sốc. Sự cố xảy ra trên chuyến bay từ Bỉ đến Hy Lạp. May mắn là máy bay hạ cánh an toàn sau sự cố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9b3193ebfb99",
-      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T13:16:28.837022+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Houthi tấn công sân bay Abha sau vụ tấn công sân bay Sanaa",
-      "bullets": [
-        "Houthi phóng tên lửa vào sân bay Abha ở Ả Rập Xê Út",
-        "Houthi đổ lỗi cho Ả Rập Xê Út về vụ tấn công sân bay Sanaa",
-        "Houthi tuyên bố tấn công sân bay Abha để trả đũa",
-        "Vụ tấn công gây thiệt hại cho sân bay Abha"
-      ],
-      "full_summary": "Houthi, một nhóm Hồi giáo Iran hậu thuẫn, đã phóng tên lửa vào sân bay Abha ở Ả Rập Xê Út sau khi sân bay Sanaa ở Yemen bị tấn công. Houthi đổ lỗi cho Ả Rập Xê Út về vụ tấn công sân bay Sanaa và tuyên bố tấn công sân bay Abha để trả đũa. Vụ tấn công gây thiệt hại cho sân bay Abha và làm gián đoạn hoạt động hàng không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53742d0f6844",
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T13:16:29.749223+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Pokémon Go vẫn thu hút triệu người chơi sau 10 năm ra mắt",
-      "bullets": [
-        "Tháng 7/2016, Pokémon Go được phát hành trên toàn thế giới",
-        "Game đã thu hút hơn 1 tỷ người chơi trên toàn cầu",
-        "Scopely, công ty sở hữu Pokémon Go, cho biết mục tiêu là mang lại trải nghiệm kết nối cho người chơi"
-      ],
-      "full_summary": "Pokémon Go đã kỷ niệm 10 năm ra mắt và vẫn là một trong những trò chơi di động phổ biến nhất trên thế giới. Theo Scopely, công ty sở hữu Pokémon Go, mục tiêu của trò chơi là mang lại trải nghiệm kết nối cho người chơi. Michael Steranka, phó chủ tịch của Scopely, cho biết: 'Luôn luôn về việc mang lại trải nghiệm kết nối cho người chơi'. Trò chơi đã thu hút hơn 1 tỷ người chơi trên toàn cầu và vẫn đang được cập nhật thường xuyên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0959e36c0695",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T13:16:30.790153+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple kiện OpenAI vì tội trộm bí mật thương mại",
-      "bullets": [
-        "Apple kiện OpenAI vì tội trộm bí mật thương mại",
-        "OpenAI có kế hoạch kinh doanh thiết bị cứng",
-        "Apple cho rằng kế hoạch kinh doanh của OpenAI 'được xây dựng trên cơ sở gian lận'",
-        "Sự kiện này diễn ra sau khi Apple mua lại công ty AI của Meta"
-      ],
-      "full_summary": "Apple đã kiện OpenAI vì tội trộm bí mật thương mại. Trong một vụ kiện được nộp vào thứ Sáu, Apple cho rằng kế hoạch kinh doanh thiết bị cứng của OpenAI 'được xây dựng trên cơ sở gian lận'. Apple cũng cho rằng kế hoạch kinh doanh của OpenAI có liên quan đến công nghệ mà Apple đã mua lại từ Meta. Sự kiện này diễn ra sau khi Apple mua lại công ty AI của Meta.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cacf79fa6030",
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T13:16:31.662532+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các thiết bị làm mát không khí giả bị cấm quảng cáo",
-      "bullets": [
-        "ASA cấm quảng cáo về các thiết bị làm mát không khí nhỏ",
-        "Các thiết bị này được quảng cáo có thể làm mát nhanh chóng",
-        "Nhưng thực tế, chúng không đủ hiệu quả",
-        "ASA cho rằng quảng cáo quá tốt để trở thành sự thật"
-      ],
-      "full_summary": "Hội đồng Quảng cáo Anh (ASA) đã cấm quảng cáo về các thiết bị làm mát không khí nhỏ, được quảng cáo có thể làm mát nhanh chóng. Các thiết bị này được quảng cáo như các máy điều hòa không khí di động, nhưng thực tế, chúng không đủ hiệu quả. ASA cho rằng quảng cáo quá tốt để trở thành sự thật và đã cấm các quảng cáo này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "860c5a021c60",
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T13:16:32.647877+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Cục tàu Rotterdam bị yêu cầu giảm phụ thuộc vào nhiên liệu hóa thạch",
-      "bullets": [
-        "Yêu cầu tòa án buộc cảng Rotterdam phải cắt giảm nhanh hơn phụ thuộc vào các công ty nhiên liệu hóa thạch",
-        "Cảng Rotterdam là cảng container lớn nhất châu Âu, chiếm 12% thương mại quốc tế",
-        "Lawsuit này nhằm thúc đẩy cảng Rotterdam chuyển sang năng lượng tái tạo và giảm khí thải nhà kính",
-        "Cảng Rotterdam đang cố gắng đạt được mục tiêu giảm 70% khí thải nhà kính vào năm 2030"
-      ],
-      "full_summary": "Một vụ kiện đã được đệ lên tòa án yêu cầu cảng Rotterdam phải nhanh chóng cắt giảm phụ thuộc vào các công ty nhiên liệu hóa thạch. Cảng Rotterdam là cảng container lớn nhất châu Âu, chiếm 12% thương mại quốc tế. Vụ kiện này nhằm thúc đẩy cảng Rotterdam chuyển sang năng lượng tái tạo và giảm khí thải nhà kính. Cảng Rotterdam đang cố gắng đạt được mục tiêu giảm 70% khí thải nhà kính vào năm 2030.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "265188d84f6a",
-      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-      "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-14T13:16:35.821530+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "SpaceX chuẩn bị thử nghiệm Starship lần thứ 13",
-      "bullets": [
-        "Chuẩn bị thử nghiệm Starship dưới áp suất cao hơn",
-        "Thử nghiệm vệ tinh Starlink mới trong quỹ đạo",
-        "Lần thử nghiệm này đánh dấu bước tiến quan trọng cho Starship",
-        "Đội ngũ SpaceX đang chuẩn bị cho thử nghiệm này"
-      ],
-      "full_summary": "SpaceX đang chuẩn bị cho thử nghiệm Starship lần thứ 13, trong đó sẽ thử nghiệm Starship dưới áp suất cao hơn và thử nghiệm vệ tinh Starlink mới trong quỹ đạo. Đây là bước tiến quan trọng trong quá trình phát triển Starship. Đội ngũ SpaceX đang chuẩn bị cho thử nghiệm này và hy vọng sẽ đạt được kết quả tốt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1cda5cb3d5f8",
-      "title": "Beautiful Type Erasure with C++26 Reflection",
-      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-14T13:16:40.798210+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "C++26 phản ánh: Xóa loại bỏ đẹp",
-      "bullets": [
-        "Mô tả cách sử dụng C++26 Reflection để loại bỏ kiểu",
-        "Giải thích các bước thực hiện loại bỏ kiểu",
-        "Thử nghiệm và kiểm tra hiệu suất loại bỏ kiểu"
-      ],
-      "full_summary": "C++26 Reflection cho phép loại bỏ kiểu một cách dễ dàng và hiệu quả. Bằng cách sử dụng tính năng này, các nhà phát triển có thể loại bỏ kiểu một cách tự động và tránh các lỗi liên quan đến kiểu. Bài viết này sẽ hướng dẫn các bước thực hiện loại bỏ kiểu sử dụng C++26 Reflection và thử nghiệm hiệu suất của nó.",
       "comments": 0,
       "score": 0
     }
