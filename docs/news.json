@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-15T07:54:36.454885+00:00",
+  "updated_at": "2026-07-15T13:20:39.141498+00:00",
   "articles": [
+    {
+      "id": "099ede8c36d5",
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T13:20:24.872434+00:00",
+      "category": "politics|economy",
+      "importance": 5,
+      "headline": "Iran đe dọa chặn thêm tuyến đường thương mại sau khi Mỹ thực hiện vụ tấn công mới",
+      "bullets": [
+        "Mỹ hứa sẽ tấn công các cây cầu và nhà máy điện của Iran nếu nước này không quay lại đàm phán",
+        "Iran đe dọa sẽ chặn thêm tuyến đường thương mại nếu Mỹ tiếp tục tấn công",
+        "Mỹ và Iran đang trong một cuộc chiến thương mại gay gắt",
+        "Tình hình đang trở nên nghiêm trọng và có thể ảnh hưởng đến toàn cầu"
+      ],
+      "full_summary": "Mỹ và Iran đang trong một cuộc chiến thương mại gay gắt. Mỹ đã thực hiện vụ tấn công mới vào các cơ sở của Iran và hứa sẽ tấn công các cây cầu và nhà máy điện nếu nước này không quay lại đàm phán. Iran đã đe dọa sẽ chặn thêm tuyến đường thương mại nếu Mỹ tiếp tục tấn công. Tình hình đang trở nên nghiêm trọng và có thể ảnh hưởng đến toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e01121548ecb",
+      "title": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T13:20:25.854968+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nổ súng ở Biển Đen: Nga tấn công Ukraine, Ukraine phản công tàu dầu",
+      "bullets": [
+        "Nga tấn công các mục tiêu ở Odessa và Sumy",
+        "Ukraine tấn công 20 tàu của Nga trên Biển Đen",
+        "Các vụ tấn công khiến 6 người thiệt mạng",
+        "Căng thẳng giữa hai quốc gia tiếp tục gia tăng"
+      ],
+      "full_summary": "Nga đã tấn công các mục tiêu ở Odessa và Sumy, trong khi Ukraine phản công bằng cách tấn công 20 tàu dầu của Nga trên Biển Đen. Các vụ tấn công khiến 6 người thiệt mạng. Căng thẳng giữa hai quốc gia tiếp tục gia tăng, với các cuộc tấn công không ngừng nghỉ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7c56b687992c",
+      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T13:20:26.873931+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Giám đốc Meloni bị thất bại bất ngờ trong cuộc bỏ phiếu về cải cách bầu cử Ý",
+      "bullets": [
+        "Meloni bị thất bại trong cuộc bỏ phiếu về cải cách bầu cử Ý",
+        "Đáp ứng đòi hỏi từ đối lập là Meloni phải từ chức trước cuộc bầu cử tổng thống năm sau",
+        "Meloni vẫn chưa công bố kế hoạch đối phó với thất bại này",
+        "Thất bại này sẽ ảnh hưởng đến khả năng của Meloni trong cuộc bầu cử tổng thống năm sau"
+      ],
+      "full_summary": "Giám đốc Ý Giorgia Meloni đã bị thất bại bất ngờ trong cuộc bỏ phiếu về cải cách bầu cử. Cuộc bỏ phiếu này đã được tổ chức để thông qua một số thay đổi về bầu cử. Tuy nhiên, Meloni đã bị thất bại trong việc thông qua các thay đổi này. Thất bại này đã dẫn đến các cuộc gọi từ đối lập đòi Meloni phải từ chức trước cuộc bầu cử tổng thống năm sau. Meloni vẫn chưa công bố kế hoạch đối phó với thất bại này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ea0aad7cb1a1",
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T13:20:27.816900+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tòa án Kenya bác bỏ yêu cầu hợp pháp hóa cây thuốc phiện",
+      "bullets": [
+        "Bác bỏ yêu cầu của các Rastafarians về việc hợp pháp hóa cây thuốc phiện",
+        "Tòa án Kenya cho rằng cần phải có một cuộc tranh luận quốc gia rộng lớn hơn về chính sách thuốc phiện",
+        "Tòa án Kenya đã công nhận nhu cầu cần phải có một cuộc tranh luận rộng lớn hơn về chính sách thuốc phiện"
+      ],
+      "full_summary": "Tòa án Kenya đã bác bỏ yêu cầu của các Rastafarians về việc hợp pháp hóa cây thuốc phiện. Tòa án cho rằng cần phải có một cuộc tranh luận quốc gia rộng lớn hơn về chính sách thuốc phiện. Điều này cho thấy rằng vấn đề này vẫn còn đang được tranh luận và chưa có quyết định cuối cùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5ef248ac9e8e",
+      "title": "Air India crash report likely to be ready in October, say investigators",
+      "url": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T13:20:28.795499+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Vụ tai nạn máy bay Air India có thể có báo cáo trong tháng 10",
+      "bullets": [
+        "Chuyên gia điều tra cho biết họ đang làm việc để có báo cáo về vụ tai nạn máy bay",
+        "Báo cáo dự kiến sẽ được công bố vào tháng 10",
+        "Vụ tai nạn đã khiến 260 người thiệt mạng, chỉ có một hành khách sống sót"
+      ],
+      "full_summary": "Vụ tai nạn máy bay Air India đã khiến 260 người thiệt mạng, bao gồm 241 người trên máy bay, chỉ có một hành khách sống sót. Chuyên gia điều tra đang làm việc để có báo cáo về vụ tai nạn máy bay. Báo cáo dự kiến sẽ được công bố vào tháng 10. Vụ tai nạn đã gây ra sự chú ý lớn trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d30a0e3a6028",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-15T13:20:29.684066+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta rút lại tính năng chỉnh sửa ảnh AI sau phản ứng tiêu cực",
+      "bullets": [
+        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
+        "Tính năng này đã gây ra phản ứng tiêu cực từ cộng đồng",
+        "Meta đã rút lại tính năng sau vài ngày",
+        "Cộng đồng đang chờ đợi phản hồi từ Meta về việc này"
+      ],
+      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng tính năng này đã gây ra phản ứng tiêu cực từ cộng đồng. Trong vài ngày, phản ứng tiêu cực đã tăng lên và Meta đã rút lại tính năng. Cộng đồng đang chờ đợi phản hồi từ Meta về việc này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "665e3ef6d3ee",
+      "title": "A most improbable astronaut just went to space",
+      "url": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-15T13:20:31.844371+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Người không thể tin được vừa bay vào vũ trụ",
+      "bullets": [
+        "Đã từng bỏ cuộc tham vọng trở thành phi hành gia",
+        "Giờ đã thực hiện chuyến bay không gian đầu tiên",
+        "Sự kiện bất ngờ khiến nhiều người bất ngờ",
+        "Câu chuyện đầy cảm hứng về sự kiên nhẫn và nỗ lực"
+      ],
+      "full_summary": "Một người đàn ông từng nói rằng mình đã bỏ cuộc tham vọng trở thành phi hành gia, nhưng cuối cùng đã thực hiện chuyến bay không gian đầu tiên. Câu chuyện đầy cảm hứng của anh ấy đã khiến nhiều người bất ngờ và tự hỏi làm thế nào anh ấy đã đạt được mục tiêu này. Sự kiên nhẫn và nỗ lực của anh ấy đã giúp anh ấy vượt qua mọi khó khăn và trở thành một trong những phi hành gia không thể tin được.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9a75c48e0f1d",
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-15T13:20:37.378415+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Tần suất đi ngủ có ảnh hưởng lớn hơn thời gian ngủ đến nguy cơ tử vong",
+      "bullets": [
+        "Nghiên cứu cho thấy tần suất đi ngủ có ảnh hưởng lớn hơn thời gian ngủ đến nguy cơ tử vong",
+        "Tần suất đi ngủ ổn định có thể giảm nguy cơ tử vong",
+        "Thời gian ngủ không phải là yếu tố quan trọng nhất ảnh hưởng đến sức khỏe",
+        "Nghiên cứu được công bố trên tạp chí Sleep"
+      ],
+      "full_summary": "Một nghiên cứu mới được công bố trên tạp chí Sleep cho thấy tần suất đi ngủ có ảnh hưởng lớn hơn thời gian ngủ đến nguy cơ tử vong. Nghiên cứu này đã phân tích dữ liệu từ hơn 1.000 người và kết luận rằng tần suất đi ngủ ổn định có thể giảm nguy cơ tử vong. Điều này cho thấy rằng thời gian ngủ không phải là yếu tố quan trọng nhất ảnh hưởng đến sức khỏe, mà tần suất đi ngủ là yếu tố quan trọng hơn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "92628fb49360",
       "title": "China economic growth falls sharply, missing target",
@@ -632,166 +790,6 @@
         "Thử nghiệm và kiểm tra hiệu suất loại bỏ kiểu"
       ],
       "full_summary": "C++26 Reflection cho phép loại bỏ kiểu một cách dễ dàng và hiệu quả. Bằng cách sử dụng tính năng này, các nhà phát triển có thể loại bỏ kiểu một cách tự động và tránh các lỗi liên quan đến kiểu. Bài viết này sẽ hướng dẫn các bước thực hiện loại bỏ kiểu sử dụng C++26 Reflection và thử nghiệm hiệu suất của nó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7a1488e82061",
-      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:00.101702+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi người chết trong vụ cháy bar ở Bangkok",
-      "bullets": [
-        "Nghiên cứu về các sai sót về an toàn sau vụ cháy",
-        "Cảnh sát điều tra nguyên nhân vụ cháy",
-        "Cư dân và nhân chứng báo cáo cửa bị khóa và thiếu biển chỉ dẫn lối thoát khẩn cấp",
-        "Số người chết tiếp tục tăng lên 30"
-      ],
-      "full_summary": "Một vụ cháy xảy ra tại một bar ở Bangkok đã khiến 30 người thiệt mạng. Nghiên cứu ban đầu cho thấy các sai sót về an toàn và thiếu biển chỉ dẫn lối thoát khẩn cấp có thể là nguyên nhân của vụ cháy. Cảnh sát đang điều tra vụ việc để xác định nguyên nhân chính xác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb8cfeaaf328",
-      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
-      "url": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:01.021619+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát Úc công bố ảnh mới về vụ giết người du khách Anh",
-      "bullets": [
-        "Công bố ảnh để kích thích ký ức",
-        "Hy vọng tìm được thi thể Peter Falconio",
-        "Vụ án xảy ra 25 năm trước",
-        "Cảnh sát đang tìm kiếm thông tin mới"
-      ],
-      "full_summary": "Cảnh sát Úc vừa công bố một số hình ảnh mới về vụ giết người du khách Anh Peter Falconio, xảy ra 25 năm trước. Hình ảnh này được hy vọng sẽ giúp kích thích ký ức của những người có liên quan và tìm được thi thể của nạn nhân. Vụ án này đã gây ra sự chú ý lớn từ cộng đồng quốc tế và cảnh sát đang tiếp tục tìm kiếm thông tin mới để giải quyết vụ án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b231af268dda",
-      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:01.942931+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một nhà báo Anh phát hiện liên kết bí mật của Bộ trưởng Thương mại Mỹ",
-      "bullets": [
-        "Phát hiện ra Howard Lutnick liên hệ với Epstein",
-        "Simon Andriesz là người phát hiện ra thông tin này",
-        "Thông tin được tìm thấy trong hồ sơ Epstein được công bố công khai",
-        "Liên kết này gây chú ý trong cộng đồng chính trị"
-      ],
-      "full_summary": "Một nhà báo Anh tên Simon Andriesz đã phát hiện ra liên kết bí mật giữa Bộ trưởng Thương mại Mỹ Howard Lutnick và người phạm tội Jeffrey Epstein. Thông tin này được tìm thấy trong hồ sơ Epstein được công bố công khai. Simon Andriesz đã phát hiện ra thông tin này và gây chú ý trong cộng đồng chính trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb9bebc413a6",
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:02.888619+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hộ chiếu Trump bị vô hiệu hóa, ông phải trả thuế",
-      "bullets": [
-        "Một thẩm phán Mỹ hủy bỏ thỏa thuận 1,8 tỷ USD giữa Trump và IRS",
-        "Thẩm phán cho rằng vụ kiện được đưa ra vì mục đích không đúng",
-        "Một luật sư của Trump bị đề nghị kỷ luật",
-        "Trump không còn được miễn trừ kiểm toán thuế"
-      ],
-      "full_summary": "Một thẩm phán Mỹ đã hủy bỏ thỏa thuận 1,8 tỷ USD giữa cựu Tổng thống Donald Trump và cơ quan thuế Mỹ (IRS). Thẩm phán cho rằng vụ kiện được đưa ra vì mục đích không đúng và đề nghị kỷ luật một luật sư của Trump. Điều này có nghĩa là Trump không còn được miễn trừ kiểm toán thuế. Thỏa thuận ban đầu cho phép Trump không bị kiểm toán thuế trong 10 năm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69ac4fe0498f",
-      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:03.782144+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một nhân viên chăm sóc trẻ bị buộc tội lạm dụng 136 trẻ",
-      "bullets": [
-        "Bị cáo Hamish Tait bị buộc tội lạm dụng trẻ em tại 5 cơ sở chăm sóc trẻ",
-        "Tội danh bao gồm 329 cáo buộc lạm dụng trẻ em",
-        "Tất cả cáo buộc liên quan đến thời gian 16 năm",
-        "Tất cả các cáo buộc xảy ra tại Sydney"
-      ],
-      "full_summary": "Hamish Tait, một nhân viên chăm sóc trẻ tại Sydney, bị buộc tội lạm dụng 136 trẻ em tại 5 cơ sở chăm sóc trẻ. Tất cả cáo buộc liên quan đến thời gian 16 năm. Ông Tait bị buộc tội 329 cáo buộc lạm dụng trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a2936b147ccc",
-      "title": "US burrito giant Chipotle opening first outlet in Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:04.669307+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chipotle mở cửa hàng đầu tiên tại Mexico",
-      "bullets": [
-        "Mở cửa hàng đầu tiên tại Mexico",
-        "Chipotle là một trong số ít thương hiệu thành công tại đất nước này",
-        "Các thương hiệu khác từ Mỹ đã gặp khó khăn khi mở cửa tại Mexico",
-        "Chipotle dự kiến sẽ mở cửa nhiều cửa hàng khác tại Mexico"
-      ],
-      "full_summary": "Chipotle, một thương hiệu burrito lớn của Mỹ, đã mở cửa hàng đầu tiên tại Mexico. Điều này là một dấu hiệu tích cực cho thương hiệu này, khi mà nhiều thương hiệu khác từ Mỹ đã gặp khó khăn khi mở cửa tại Mexico. Chipotle dự kiến sẽ mở cửa nhiều cửa hàng khác tại Mexico trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4befa9b74565",
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:05.661045+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Assassin's Creed Black Flag được tái tạo lại từ đầu",
-      "bullets": [
-        "Khám phá lại thế giới Pirates của Assassin's Creed Black Flag",
-        "Đánh giá gameplay và đồ họa của phiên bản mới",
-        "So sánh phiên bản gốc và phiên bản mới của Assassin's Creed Black Flag",
-        "Đánh giá liệu phiên bản mới có đáng chờ đợi sau 13 năm"
-      ],
-      "full_summary": "Assassin's Creed Black Flag đã được tái tạo lại từ đầu và phát hành sau 13 năm chờ đợi. BBC đã thử nghiệm phiên bản mới và đánh giá gameplay và đồ họa. Phiên bản mới có nhiều cải tiến so với phiên bản gốc, nhưng liệu nó có đáng chờ đợi? Assassin's Creed Black Flag vẫn là một trong những trò chơi hành động phiêu lưu hay nhất trên thị trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e0e96a7b8d04",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T07:51:06.603890+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Cơ quan Y tế Thế giới thử nghiệm thuốc mới chống Ebola",
-      "bullets": [
-        "Bắt đầu thử nghiệm thuốc mới chống Ebola ở DRC",
-        "Hai loại thuốc đang được thử nghiệm tại vùng Ituri",
-        "Mục tiêu giảm tỷ lệ tử vong do bệnh Ebola",
-        "Triển khai nhanh chóng sau khi WHO tuyên bố tình trạng khẩn cấp"
-      ],
-      "full_summary": "Cơ quan Y tế Thế giới (WHO) đã bắt đầu thử nghiệm thuốc mới chống Ebola ở Cộng hòa Dân chủ Congo (DRC) sau khi một vụ bùng phát bệnh được tuyên bố là tình trạng khẩn cấp. Hai loại thuốc đang được thử nghiệm tại vùng Ituri, nơi có nhiều người nhiễm bệnh. Mục tiêu của thử nghiệm này là giảm tỷ lệ tử vong do bệnh Ebola. Đây là một bước tiến quan trọng trong việc tìm kiếm thuốc chống Ebola.",
       "comments": 0,
       "score": 0
     }
