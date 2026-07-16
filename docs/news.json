@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-07-16T13:27:03.611336+00:00",
+  "updated_at": "2026-07-16T19:00:29.747045+00:00",
   "articles": [
+    {
+      "id": "18ed56ce39da",
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T19:00:14.671570+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trẻ vị thành niên bị cáo buộc gây rối tại Ba Lan vì Nga",
+      "bullets": [
+        "Bị cáo bị bắt vì âm mưu gây rối tại Ba Lan",
+        "Mục tiêu là kích động căng thẳng sắc tộc giữa Ba Lan và Ukraine",
+        "An ninh Ba Lan đang điều tra vụ việc",
+        "Nguồn tin cho rằng vụ việc liên quan đến Nga"
+      ],
+      "full_summary": "Một thanh niên Ba Lan bị cáo buộc gây rối tại Ba Lan vì Nga. Theo an ninh Ba Lan, mục tiêu của vụ việc là kích động căng thẳng sắc tộc giữa Ba Lan và Ukraine. Vụ việc đang được điều tra. Nguồn tin cho rằng vụ việc liên quan đến Nga.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e3b8d93112b6",
+      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T19:00:15.611969+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cán bộ Nhà Trắng bị cáo buộc lợi dụng thông tin nội bộ để đánh bạc",
+      "bullets": [
+        "Sử dụng thông tin nội bộ về bài phát biểu để đặt cược",
+        "Đã kiếm được gần 100.000 USD trên Kalshi",
+        "Cáo buộc đang được điều tra",
+        "Cán bộ bị cáo buộc vi phạm quy định nội bộ"
+      ],
+      "full_summary": "Một cán bộ Nhà Trắng bị cáo buộc sử dụng thông tin nội bộ về bài phát biểu của Tổng thống Trump để đặt cược trên Kalshi và kiếm được gần 100.000 USD. Cáo buộc đang được điều tra. Cán bộ này bị cáo buộc vi phạm quy định nội bộ và có thể phải đối mặt với hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b33bb78e2a2f",
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T19:00:16.863202+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Lũ lụt tàn phá Texas, ít nhất 1 người tử vong",
+      "bullets": [
+        "Xảy ra lũ lụt ở khu vực bị ảnh hưởng nặng nề năm ngoái",
+        "Khu vực này đã gây ra hơn 130 cái chết, bao gồm cả vụ Camp Mystic",
+        "Lũ lụt đang tàn phá khu vực này lần nữa",
+        "Ít nhất 1 người đã thiệt mạng trong vụ lũ lụt"
+      ],
+      "full_summary": "Khu vực Texas đang bị tàn phá bởi lũ lụt, nơi đã gây ra hơn 130 cái chết vào năm ngoái. Lũ lụt đang tàn phá khu vực này lần nữa, khiến ít nhất 1 người thiệt mạng. Khu vực này đã bị ảnh hưởng nặng nề bởi lũ lụt vào năm ngoái và hiện đang phải đối mặt với tình trạng khẩn cấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9581bf960f2",
+      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T19:00:18.299564+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hai hacker thanh niên bị kết án vì tấn công mạng vào TfL",
+      "bullets": [
+        "Bị kết án vì tội tấn công mạng vào hệ thống của Transport for London",
+        "Hai hacker thanh niên gây thiệt hại lớn cho hệ thống giao thông công cộng",
+        "Owen Flowers và Thalha Jubair bị kết án vì hành động này",
+        "Hành động của họ gây ra thiệt hại lớn cho tài chính của TfL"
+      ],
+      "full_summary": "Hai hacker thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì tội tấn công mạng vào hệ thống của Transport for London. Hành động của họ gây ra thiệt hại lớn cho tài chính của TfL. Cặp đôi này đã sống lifestream tấn công mạng của họ trên internet.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4e6cd8426c32",
+      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T19:00:20.572606+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính phủ Anh cắt giảm viện trợ với mức giảm 90% đối với một số quốc gia châu Phi",
+      "bullets": [
+        "Cắt giảm viện trợ của Anh đối với một số quốc gia châu Phi lên đến 90%",
+        "Số liệu của Bộ Ngoại giao Anh cho thấy sự giảm mạnh trong hỗ trợ song phương",
+        "Cơ quan này cho rằng những con số này gửi đi thông điệp toàn cầu về vai trò của Anh trên sân khấu quốc tế"
+      ],
+      "full_summary": "Theo báo cáo hàng năm của Bộ Ngoại giao Anh, cắt giảm ngân sách viện trợ sẽ ảnh hưởng đến các quốc gia châu Phi. Mức giảm lên đến 90% được cho là do chính sách của chính phủ Anh. Những số liệu này đã gây ra sự tranh cãi về vai trò của Anh trên sân khấu quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3d69420bfe27",
+      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+      "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-16T19:00:27.550523+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hàng trăm người biểu tình trước trụ sở Bethesda phản đối sa thải nhân viên Xbox",
+      "bullets": [
+        "Biểu tình nhằm ngăn chặn chu kỳ sa thải liên tục tại Xbox",
+        "Hội đoàn muốn quay lại đàm phán hợp đồng lao động",
+        "Người biểu tình yêu cầu công ty phải thay đổi chính sách nhân sự",
+        "Hội đoàn hy vọng sẽ đạt được thỏa thuận tốt hơn cho nhân viên"
+      ],
+      "full_summary": "Hàng trăm người biểu tình đã tập trung trước trụ sở của Bethesda để phản đối sa thải nhân viên Xbox. Họ muốn ngăn chặn chu kỳ sa thải liên tục và quay lại đàm phán hợp đồng lao động. Người biểu tình yêu cầu công ty phải thay đổi chính sách nhân sự và hy vọng sẽ đạt được thỏa thuận tốt hơn cho nhân viên.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "285ba802f9cb",
       "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
@@ -673,126 +792,6 @@
         "Vụ tai nạn đã khiến 260 người thiệt mạng, chỉ có một hành khách sống sót"
       ],
       "full_summary": "Vụ tai nạn máy bay Air India đã khiến 260 người thiệt mạng, bao gồm 241 người trên máy bay, chỉ có một hành khách sống sót. Chuyên gia điều tra đang làm việc để có báo cáo về vụ tai nạn máy bay. Báo cáo dự kiến sẽ được công bố vào tháng 10. Vụ tai nạn đã gây ra sự chú ý lớn trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d30a0e3a6028",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T13:20:29.684066+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta rút lại tính năng chỉnh sửa ảnh AI sau phản ứng tiêu cực",
-      "bullets": [
-        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
-        "Tính năng này đã gây ra phản ứng tiêu cực từ cộng đồng",
-        "Meta đã rút lại tính năng sau vài ngày",
-        "Cộng đồng đang chờ đợi phản hồi từ Meta về việc này"
-      ],
-      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng tính năng này đã gây ra phản ứng tiêu cực từ cộng đồng. Trong vài ngày, phản ứng tiêu cực đã tăng lên và Meta đã rút lại tính năng. Cộng đồng đang chờ đợi phản hồi từ Meta về việc này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "665e3ef6d3ee",
-      "title": "A most improbable astronaut just went to space",
-      "url": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-15T13:20:31.844371+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Người không thể tin được vừa bay vào vũ trụ",
-      "bullets": [
-        "Đã từng bỏ cuộc tham vọng trở thành phi hành gia",
-        "Giờ đã thực hiện chuyến bay không gian đầu tiên",
-        "Sự kiện bất ngờ khiến nhiều người bất ngờ",
-        "Câu chuyện đầy cảm hứng về sự kiên nhẫn và nỗ lực"
-      ],
-      "full_summary": "Một người đàn ông từng nói rằng mình đã bỏ cuộc tham vọng trở thành phi hành gia, nhưng cuối cùng đã thực hiện chuyến bay không gian đầu tiên. Câu chuyện đầy cảm hứng của anh ấy đã khiến nhiều người bất ngờ và tự hỏi làm thế nào anh ấy đã đạt được mục tiêu này. Sự kiên nhẫn và nỗ lực của anh ấy đã giúp anh ấy vượt qua mọi khó khăn và trở thành một trong những phi hành gia không thể tin được.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a75c48e0f1d",
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-15T13:20:37.378415+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tần suất đi ngủ có ảnh hưởng lớn hơn thời gian ngủ đến nguy cơ tử vong",
-      "bullets": [
-        "Nghiên cứu cho thấy tần suất đi ngủ có ảnh hưởng lớn hơn thời gian ngủ đến nguy cơ tử vong",
-        "Tần suất đi ngủ ổn định có thể giảm nguy cơ tử vong",
-        "Thời gian ngủ không phải là yếu tố quan trọng nhất ảnh hưởng đến sức khỏe",
-        "Nghiên cứu được công bố trên tạp chí Sleep"
-      ],
-      "full_summary": "Một nghiên cứu mới được công bố trên tạp chí Sleep cho thấy tần suất đi ngủ có ảnh hưởng lớn hơn thời gian ngủ đến nguy cơ tử vong. Nghiên cứu này đã phân tích dữ liệu từ hơn 1.000 người và kết luận rằng tần suất đi ngủ ổn định có thể giảm nguy cơ tử vong. Điều này cho thấy rằng thời gian ngủ không phải là yếu tố quan trọng nhất ảnh hưởng đến sức khỏe, mà tần suất đi ngủ là yếu tố quan trọng hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "92628fb49360",
-      "title": "China economic growth falls sharply, missing target",
-      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T07:54:21.419725+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Tăng trưởng kinh tế Trung Quốc giảm mạnh",
-      "bullets": [
-        "Giảm mạnh do nhu cầu yếu trong nước",
-        "Sự cố Iran ảnh hưởng đến giá dầu",
-        "Sản xuất xuất khẩu vẫn mạnh mẽ",
-        "Mục tiêu tăng trưởng không đạt được"
-      ],
-      "full_summary": "Tăng trưởng kinh tế Trung Quốc giảm mạnh trong quý vừa qua, không đạt mục tiêu dự kiến. Nguyên nhân là do nhu cầu yếu trong nước và sự cố Iran ảnh hưởng đến giá dầu. Mặc dù sản xuất xuất khẩu vẫn mạnh mẽ, nhưng không đủ bù đắp cho sự suy giảm trong nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88789c343268",
-      "title": "China detains US scientist who studied North Korea nuclear tests",
-      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T07:54:22.450822+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Châu Á giữ tù nhà khoa học Mỹ nghiên cứu thử nghiệm hạt nhân Triều Tiên",
-      "bullets": [
-        "Giữ tù nhà khoa học Mỹ Chen Youlin",
-        "Tố cáo ông là gián điệp",
-        "Chưa rõ lý do chính xác",
-        "Hơn 2 năm bị giam giữ"
-      ],
-      "full_summary": "Châu Á đã giữ tù nhà khoa học Mỹ Chen Youlin trong hơn 2 năm vì tội gián điệp. Theo gia đình ông, ông bị giam giữ sai. Ông đã nghiên cứu thử nghiệm hạt nhân của Triều Tiên trước khi bị bắt. Lý do chính xác của việc giữ tù ông vẫn chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "64a6478c00f6",
-      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T07:54:23.420743+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ủy ban EU cảnh báo Meta về phạt vì Facebook và Instagram gây nghiện",
-      "bullets": [
-        "Cảnh báo về các tính năng gây nghiện trên Facebook và Instagram",
-        "Ủy ban EU đề nghị Meta thay đổi các tính năng gây nghiện",
-        "Meta có thể bị phạt vì không tuân thủ quy định về bảo vệ người dùng",
-        "Các tính năng như lướt ngang vô hạn được coi là nguyên nhân gây nghiện"
-      ],
-      "full_summary": "Ủy ban EU đã cảnh báo Meta về việc phạt vì các tính năng gây nghiện trên Facebook và Instagram. Các tính năng như lướt ngang vô hạn và các tính năng khác được coi là nguyên nhân gây nghiện và thói quen không lành mạnh. Ủy ban EU đề nghị Meta thay đổi các tính năng này để bảo vệ người dùng.",
       "comments": 0,
       "score": 0
     }
