@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-07-16T01:57:09.008981+00:00",
+  "updated_at": "2026-07-16T08:00:12.522067+00:00",
   "articles": [
+    {
+      "id": "506229ce99f8",
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T07:59:58.223660+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Iran tấn công cơ sở quân sự sau loạt đòn bắn của Mỹ",
+      "bullets": [
+        "Mỹ đã thực hiện loạt đòn bắn vào các cơ sở quân sự của Iran",
+        "Ít phút sau, Iran đã phản công bằng các vụ nổ tại các cơ sở quân sự",
+        "Các quốc gia láng giềng ở Vịnh đã báo cáo về các vụ tấn công",
+        "Hình ảnh và âm thanh của các vụ nổ đã được ghi nhận"
+      ],
+      "full_summary": "Mỹ đã thực hiện loạt đòn bắn vào các cơ sở quân sự của Iran, sau đó Iran đã phản công bằng các vụ nổ tại các cơ sở quân sự. Các quốc gia láng giềng ở Vịnh đã báo cáo về các vụ tấn công. Hiện tại, tình hình vẫn đang được theo dõi và cập nhật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3bfb92b511d1",
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T07:59:59.180182+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Diễn viên Sam Neill qua đời vì viêm phổi",
+      "bullets": [
+        "Được xác nhận qua đại diện",
+        "Đã qua đời tại Sydney vào thứ Hai",
+        "Mất sớm và bất ngờ theo lời gia đình",
+        "Đã có thông báo về cái chết"
+      ],
+      "full_summary": "Diễn viên kiêm đạo diễn Sam Neill đã qua đời vì viêm phổi, theo đại diện của ông. Ông qua đời tại Sydney vào thứ Hai. Gia đình ông cho biết cái chết của ông là 'sớm và bất ngờ'. Thông tin về cái chết của ông đã được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "91eb89c2ac75",
+      "title": "Ofcom launches investigation into TikTok child safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T08:00:00.121992+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "TikTok bị điều tra vì lo ngại an toàn trẻ em",
+      "bullets": [
+        "TikTok bị điều tra vì lo ngại an toàn trẻ em",
+        "Ofcom đã chỉ trích TikTok không đủ an toàn cho trẻ em",
+        "TikTok cần cải thiện để bảo vệ trẻ em",
+        "Điều tra sẽ xem xét các biện pháp bảo vệ trẻ em trên nền tảng"
+      ],
+      "full_summary": "Tổ chức quản lý truyền thông Ofcom đã quyết định điều tra TikTok vì lo ngại an toàn trẻ em. Điều này diễn ra sau khi Ofcom thực hiện một cuộc đánh giá vào tháng 5, chỉ trích TikTok không đủ an toàn cho trẻ em. Ofcom sẽ xem xét các biện pháp bảo vệ trẻ em trên nền tảng và yêu cầu TikTok cải thiện để bảo vệ trẻ em. Điều tra này sẽ giúp đảm bảo an toàn cho trẻ em khi sử dụng TikTok.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ccdb7ccbd644",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T08:00:01.185326+00:00",
+      "category": "politics|other",
+      "importance": 4,
+      "headline": "Morocco sử dụng phần mềm Pegasus để theo dõi các mục tiêu",
+      "bullets": [
+        "Bí thư mật vụ Morocco tiết lộ sử dụng phần mềm Pegasus từ năm 2017",
+        "Phần mềm này được sử dụng để theo dõi các nhà báo, nhà hoạt động nhân quyền và quan chức nước ngoài",
+        "Pegasus cho phép người điều khiển truy cập vào mọi thông tin trên điện thoại mục tiêu"
+      ],
+      "full_summary": "Một cựu thành viên của cơ quan tình báo nội địa Morocco đã tiết lộ rằng quốc gia này đã sử dụng phần mềm Pegasus để theo dõi các mục tiêu, bao gồm các nhà báo, nhà hoạt động nhân quyền và quan chức nước ngoài. Phần mềm Pegasus, được sản xuất bởi NSO Group của Israel, cho phép người điều khiển truy cập vào mọi thông tin trên điện thoại mục tiêu, bao gồm email, tin nhắn và ảnh. Điều này cho thấy Morocco đã sử dụng phần mềm này để theo dõi các mục tiêu từ năm 2017.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db72ce696e9a",
+      "title": "New US Ebola patient arrives in Germany for treatment",
+      "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T08:00:02.095781+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người Mỹ nhiễm Ebola đến Đức điều trị",
+      "bullets": [
+        "Người Mỹ nhiễm Ebola được chở đến Đức",
+        "Chính phủ Trump cấm công dân Mỹ đi Mỹ bằng chuyến bay thương mại",
+        "Người bệnh được điều trị tại bệnh viện ở Berlin",
+        "Sự cố Ebola ở Cộng hòa Dân chủ Congo tiếp tục gây lo ngại"
+      ],
+      "full_summary": "Một người Mỹ nhiễm Ebola đã được chở đến Đức để điều trị. Đây là lần thứ hai một người Mỹ nhiễm Ebola được chở đến Đức để điều trị. Trong khi đó, chính phủ Trump đã cấm công dân Mỹ ở Cộng hòa Dân chủ Congo đi Mỹ bằng chuyến bay thương mại. Sự cố Ebola ở Cộng hòa Dân chủ Congo tiếp tục gây lo ngại và cần được theo dõi chặt chẽ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e0e96a7b8d04",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-16T08:00:03.212112+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Cứu bệnh nhân Ebola bằng thuốc mới tại Cộng hòa Dân chủ Congo",
+      "bullets": [
+        "Bắt đầu thử nghiệm thuốc mới để điều trị Ebola tại khu vực Ituri",
+        "Hợp tác quốc tế để tìm ra phương pháp điều trị hiệu quả",
+        "Mục tiêu giảm tỷ lệ tử vong do Ebola",
+        "Thử nghiệm được tiến hành nhanh chóng sau khi WHO công bố tình trạng khẩn cấp"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đang tiến hành thử nghiệm thuốc mới để điều trị Ebola. Đây là một nỗ lực hợp tác quốc tế nhằm tìm ra phương pháp điều trị hiệu quả cho bệnh nhân Ebola. Mục tiêu của thử nghiệm này là giảm tỷ lệ tử vong do Ebola. Thử nghiệm được tiến hành nhanh chóng sau khi WHO công bố tình trạng khẩn cấp vào ngày 17 tháng 5.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "383f54e98455",
       "title": "Argentina face action after waving Falklands banner",
@@ -673,124 +792,6 @@
         "Các cơ quan chức năng Tây Ban Nha đang điều tra nguyên nhân của vụ việc"
       ],
       "full_summary": "Một đám cháy rừng lớn đã xảy ra ở Tây Ban Nha, khiến 13 người thiệt mạng, trong đó có 7 công dân Anh. Các nạn nhân bao gồm cả người nước ngoài và người dân địa phương. Các cơ quan chức năng Tây Ban Nha đang điều tra nguyên nhân của vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c197394e0a36",
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T01:46:24.417291+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nghiên cứu đề xuất giới hạn thời gian sử dụng mạng xã hội cho thanh thiếu niên",
-      "bullets": [
-        "Đề xuất giới hạn sử dụng mạng xã hội cho thanh thiếu niên từ 12h đêm",
-        "Trẻ em có thể chọn bỏ qua giới hạn này",
-        "Các nhà vận động đã chỉ trích biện pháp này là không đầy đủ"
-      ],
-      "full_summary": "Một nghiên cứu mới tại Vương quốc Anh đề xuất giới hạn thời gian sử dụng mạng xã hội cho thanh thiếu niên từ 12h đêm. Theo đề xuất, các thanh thiếu niên có thể chọn bỏ qua giới hạn này. Các nhà vận động đã chỉ trích biện pháp này là không đầy đủ và không giải quyết được vấn đề sử dụng mạng xã hội một cách hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49a7ce37d74e",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T01:46:25.601608+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Nhiều nước đang phát triển chi nhiều tiền hơn cho nợ nước ngoài",
-      "bullets": [
-        "Chi tiêu cho nợ nước ngoài cao hơn giáo dục ở 113 quốc gia",
-        "Các nước châu Phi chi 3,6 lần nhiều tiền cho nợ nước ngoài hơn giáo dục",
-        "Aid toàn cầu cho giáo dục dự kiến giảm 30%",
-        "Nhiều nước chi ít tiền cho giáo dục hơn cho nợ nước ngoài"
-      ],
-      "full_summary": "Theo báo cáo của UNESCO, nhiều nước đang phát triển chi nhiều tiền hơn cho nợ nước ngoài hơn cho giáo dục. Điều này diễn ra trong bối cảnh aid toàn cầu cho giáo dục dự kiến giảm 30%. Tại châu Phi, các nước chi 3,6 lần nhiều tiền cho nợ nước ngoài hơn cho giáo dục. Điều này cho thấy tình trạng khó khăn của nhiều nước đang phát triển trong việc cân bằng giữa chi tiêu cho nợ nước ngoài và giáo dục.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f48a501cd5b8",
-      "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
-      "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T01:46:26.774810+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn giận dữ tăng cao ở Venezuela sau phản ứng yếu kém của chính phủ",
-      "bullets": [
-        "Căng thẳng xã hội gia tăng do sự bất mãn của công chúng đối với sự hỗ trợ thiên tai yếu kém",
-        "Chính phủ Venezuela bị chỉ trích vì phản ứng chậm chạp và không hiệu quả",
-        "Một người mẹ đau khổ đã chỉ trích con trai cựu tổng thống Nicolás Maduro",
-        "Sự ủng hộ của công chúng đối với chính phủ đang suy giảm"
-      ],
-      "full_summary": "Căng thẳng xã hội đang tăng cao ở Venezuela sau khi cơn địa chấn giết chết gần 4.500 người. Công chúng đang bất mãn với phản ứng yếu kém của chính phủ trong việc hỗ trợ thiên tai. Một người mẹ đau khổ đã chỉ trích con trai cựu tổng thống Nicolás Maduro khi ông đến thăm một khu nhà ở bị hư hại. Sự ủng hộ của công chúng đối với chính phủ đang suy giảm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dc0609640d34",
-      "title": "US military sent explosive drone boats into combat for the first time",
-      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-15T01:46:30.660235+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Lực lượng Mỹ sử dụng tàu drone nổ đầu tiên trong chiến đấu",
-      "bullets": [
-        "Mỹ đã sử dụng tàu drone nổ tấn công cảng hải quân Iran",
-        "Tàu drone này là một phần của chiến dịch quân sự của Mỹ",
-        "Chiến dịch này diễn ra trong bối cảnh căng thẳng giữa Mỹ và Iran tăng cao",
-        "Mỹ đã sử dụng công nghệ mới để tăng cường khả năng tấn công của mình"
-      ],
-      "full_summary": "Lực lượng quân sự Mỹ đã sử dụng tàu drone nổ tấn công cảng hải quân Iran. Đây là lần đầu tiên Mỹ sử dụng tàu drone nổ trong chiến đấu. Tàu drone này được thiết kế để tự hủy sau khi thực hiện nhiệm vụ, giúp giảm thiểu thiệt hại cho các lực lượng của Mỹ. Chiến dịch này diễn ra trong bối cảnh căng thẳng giữa Mỹ và Iran tăng cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c39591cf4300",
-      "title": "Casio FX-870P Emulator",
-      "url": "https://github.com/urbancamo/fx870p-emulator",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-15T01:46:35.752510+00:00",
-      "category": "technology",
-      "importance": 2,
-      "headline": "Casio FX-870P Emulator Được Phát Triển",
-      "bullets": [
-        "Được phát triển bởi urbancamo trên GitHub",
-        "Cung cấp khả năng emul hóa máy tính Casio FX-870P",
-        "Có sẵn trên GitHub với mã nguồn mở"
-      ],
-      "full_summary": "Một emul hóa cho máy tính Casio FX-870P đã được phát triển bởi urbancamo và được công bố trên GitHub. Emul hóa này cho phép người dùng chạy các chương trình và ứng dụng trên máy tính Casio FX-870P trên thiết bị khác. Mã nguồn mở của emul hóa này có sẵn trên GitHub cho phép cộng đồng đóng góp và cải thiện.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "34ac38df4782",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-14T19:07:27.000435+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trump bỏ đe dọa đánh thuế 20% cho hàng hóa qua eo biển Hormuz",
-      "bullets": [
-        "Trump hủy bỏ đe dọa đánh thuế 20% cho hàng hóa qua eo biển Hormuz",
-        "Hoa Kỳ tiếp tục chiến dịch để phá vỡ sự kiểm soát của Iran trên eo biển",
-        "Eo biển Hormuz là một trong những tuyến đường hàng hải quan trọng nhất trên thế giới",
-        "Chiến dịch của Hoa Kỳ nhằm mục đích ngăn chặn Iran tăng cường quyền kiểm soát trên eo biển"
-      ],
-      "full_summary": "Ngoại trưởng Hoa Kỳ Mike Pompeo đã tuyên bố rằng Hoa Kỳ sẽ tiếp tục chiến dịch để phá vỡ sự kiểm soát của Iran trên eo biển Hormuz. Trump đã hủy bỏ đe dọa đánh thuế 20% cho hàng hóa qua eo biển Hormuz sau khi chỉ 24 giờ trước đó. Chiến dịch của Hoa Kỳ nhằm mục đích ngăn chặn Iran tăng cường quyền kiểm soát trên eo biển Hormuz, một trong những tuyến đường hàng hải quan trọng nhất trên thế giới.",
       "comments": 0,
       "score": 0
     }
