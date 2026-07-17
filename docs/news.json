@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-17T07:57:25.007531+00:00",
+  "updated_at": "2026-07-17T13:12:37.361182+00:00",
   "articles": [
+    {
+      "id": "9da5955c6dd4",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T13:12:21.657202+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump cáo buộc Trung Quốc can thiệp bầu cử Mỹ năm 2020",
+      "bullets": [
+        "Trump cáo buộc Trung Quốc can thiệp bầu cử Mỹ năm 2020",
+        "Trung Quốc bác bỏ cáo buộc này là hoàn toàn không có căn cứ",
+        "Các Dân chủ Mỹ cho rằng Trump đang chuẩn bị cho việc xâm phạm bầu cử giữa kỳ năm nay",
+        "Trung Quốc và Mỹ đang trong một cuộc tranh cãi gay gắt về vấn đề bầu cử"
+      ],
+      "full_summary": "Trung tâm Thông tin BBC cho biết cựu Tổng thống Mỹ Donald Trump cáo buộc Trung Quốc đã can thiệp bầu cử Mỹ năm 2020. Ông Trump cũng đặt câu hỏi về an ninh bầu cử trước cuộc bầu cử giữa kỳ năm nay. Trung Quốc đã bác bỏ cáo buộc này là hoàn toàn không có căn cứ. Các Dân chủ Mỹ cho rằng Trump đang chuẩn bị cho việc xâm phạm bầu cử giữa kỳ năm nay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5e1aa1e57bed",
+      "title": "SpaceX share price drops below stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T13:12:22.799564+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Giá cổ phiếu SpaceX giảm xuống dưới mức ra mắt trên thị trường chứng khoán",
+      "bullets": [
+        "Giảm giá cổ phiếu SpaceX kể từ khi công ty này lên sàn một tháng trước",
+        "Động thái này cho thấy sự bất ổn của thị trường chứng khoán",
+        "Elon Musk phải đối mặt với thách thức lớn về quản lý tài chính",
+        "Sự bất ổn này có thể ảnh hưởng đến tương lai của SpaceX"
+      ],
+      "full_summary": "Giá cổ phiếu SpaceX đã giảm xuống dưới mức ra mắt trên thị trường chứng khoán kể từ khi công ty này lên sàn một tháng trước. Sự giảm giá này cho thấy sự bất ổn của thị trường chứng khoán và Elon Musk phải đối mặt với thách thức lớn về quản lý tài chính. Điều này có thể ảnh hưởng đến tương lai của SpaceX và sự phát triển của công ty.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c197394e0a36",
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T13:12:23.819269+00:00",
+      "category": "society",
+      "importance": 3,
+      "headline": "Chính phủ Anh đề xuất giới hạn thời gian sử dụng mạng xã hội cho thanh thiếu niên",
+      "bullets": [
+        "Đề xuất áp dụng giới hạn thời gian sử dụng mạng xã hội vào ban đêm cho thanh thiếu niên 16-17 tuổi",
+        "Chính phủ cho rằng quy định này sẽ cải thiện cuộc sống của giới trẻ",
+        "Nhà vận động cho rằng đây là một cơ hội bị bỏ lỡ",
+        "Quy định mới sẽ được đưa ra thảo luận tại Quốc hội Anh"
+      ],
+      "full_summary": "Chính phủ Anh đã đề xuất giới hạn thời gian sử dụng mạng xã hội vào ban đêm cho thanh thiếu niên 16-17 tuổi. Mục đích của quy định này là cải thiện cuộc sống của giới trẻ, nhưng các nhà vận động lại cho rằng đây là một cơ hội bị bỏ lỡ. Họ cho rằng quy định này không giải quyết được vấn đề gốc rễ của việc lạm dụng mạng xã hội. Quy định mới sẽ được đưa ra thảo luận tại Quốc hội Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4befa9b74565",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T13:12:24.951746+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Assassin's Creed Black Flag được tái tạo lại hoàn toàn sau 13 năm chờ đợi",
+      "bullets": [
+        "Trò chơi Assassin's Creed Black Flag đã được tái tạo lại từ đầu lên",
+        "Nội dung và hình ảnh đã được cập nhật lại hoàn toàn",
+        "Người chơi có thể trải nghiệm lại thế giới của các hải tặc",
+        "Đánh giá của BBC: trò chơi vẫn còn nhiều điểm thú vị"
+      ],
+      "full_summary": "Assassin's Creed Black Flag đã được tái tạo lại hoàn toàn sau 13 năm chờ đợi. Trò chơi này đã được cập nhật lại nội dung và hình ảnh để mang lại trải nghiệm mới mẻ cho người chơi. Theo đánh giá của BBC, trò chơi vẫn còn nhiều điểm thú vị và đáng chơi. Tuy nhiên, vẫn còn một số điểm hạn chế cần được cải thiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2c41aa8bcaff",
+      "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
+      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T13:12:26.055882+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hòan cảnh Argentina chiến thắng Anh với banner liên quan đến cuộc chiến Falkland",
+      "bullets": [
+        "Argentina chiến thắng Anh với tỷ số 2-1 trong trận bán kết World Cup",
+        "Các cầu thủ Argentina thể hiện sự tự hào với banner nói 'Las Malvinas son Argentinas'",
+        "Bên Anh kêu gọi FIFA điều tra vụ việc",
+        "Argentina sẽ đối đầu với Tây Ban Nha trong trận chung kết World Cup"
+      ],
+      "full_summary": "Argentina đã giành chiến thắng 2-1 trước Anh trong trận bán kết World Cup, sau khi dẫn trước 1-0 với 5 phút còn lại. Các cầu thủ Argentina đã thể hiện sự tự hào với banner nói 'Las Malvinas son Argentinas', liên quan đến cuộc chiến Falkland năm 1982. Vụ việc đã gây ra phản ứng từ phía Anh, với người đứng đầu bộ phận kinh tế kêu gọi FIFA điều tra. Argentina sẽ đối đầu với Tây Ban Nha trong trận chung kết World Cup vào Chủ nhật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "64875f472174",
+      "title": "The report oil companies are worried about: Climate attribution science",
+      "url": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-17T13:12:28.490167+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu xác định tác động của biến đổi khí hậu đang phát triển",
+      "bullets": [
+        "Xác định tác động của biến đổi khí hậu đối với thiên tai đang trở nên chính xác hơn",
+        "Các nhà khoa học đang cải thiện khả năng liên kết thiệt hại do thời tiết với biến đổi khí hậu",
+        "Báo cáo mới cho thấy khả năng xác định tác động của biến đổi khí hậu đối với thiên tai đang phát triển",
+        "Tuy nhiên, vẫn còn nhiều hạn chế trong việc xác định tác động của biến đổi khí hậu"
+      ],
+      "full_summary": "Một báo cáo mới của Viện Khoa học Quốc gia cho thấy khả năng xác định tác động của biến đổi khí hậu đối với thiên tai đang trở nên chính xác hơn. Các nhà khoa học đang cải thiện khả năng liên kết thiệt hại do thời tiết với biến đổi khí hậu. Báo cáo này sẽ giúp các công ty dầu khí và chính phủ hiểu rõ hơn về tác động của biến đổi khí hậu đối với thiên tai. Tuy nhiên, vẫn còn nhiều hạn chế trong việc xác định tác động của biến đổi khí hậu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e7c5c456ac79",
+      "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+      "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-17T13:12:31.127911+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "SpaceX hủy phóng Starship vì một số động cơ không hoạt động",
+      "bullets": [
+        "SpaceX hủy phóng Starship",
+        "Một số động cơ không hoạt động",
+        "Đang xả nhiên liệu",
+        "Sẽ thử phóng lại trong vài ngày"
+      ],
+      "full_summary": "SpaceX đã hủy phóng Starship do một số động cơ không hoạt động. Theo thông báo trên Twitter, họ đang xả nhiên liệu và hy vọng sẽ thử phóng lại trong vài ngày. Điều này cho thấy sự phức tạp của quá trình phóng Starship và cần phải khắc phục các vấn đề kỹ thuật trước khi tiếp tục.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5ac430e43099",
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-17T13:12:36.291905+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Rebble ra bản cập nhật lớn mới",
+      "bullets": [
+        "Cập nhật mới mang đến nhiều tính năng và cải tiến",
+        "Hỗ trợ thêm cho các ứng dụng và dịch vụ",
+        "Cải thiện hiệu suất và bảo mật",
+        "Tính năng mới cho phép người dùng tùy chỉnh giao diện"
+      ],
+      "full_summary": "Rebble vừa phát hành bản cập nhật lớn mới mang đến nhiều tính năng và cải tiến. Bản cập nhật này hỗ trợ thêm cho các ứng dụng và dịch vụ, cải thiện hiệu suất và bảo mật. Người dùng cũng có thể tùy chỉnh giao diện theo ý muốn của mình. Cập nhật này được xem là bước tiến quan trọng cho hệ sinh thái của Pebble.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "781ce3fa70bd",
       "title": "More than 500 Rohingya vanished at sea - what happened?",
@@ -635,166 +795,6 @@
         "Sự cố Ebola ở Cộng hòa Dân chủ Congo tiếp tục gây lo ngại"
       ],
       "full_summary": "Một người Mỹ nhiễm Ebola đã được chở đến Đức để điều trị. Đây là lần thứ hai một người Mỹ nhiễm Ebola được chở đến Đức để điều trị. Trong khi đó, chính phủ Trump đã cấm công dân Mỹ ở Cộng hòa Dân chủ Congo đi Mỹ bằng chuyến bay thương mại. Sự cố Ebola ở Cộng hòa Dân chủ Congo tiếp tục gây lo ngại và cần được theo dõi chặt chẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e0e96a7b8d04",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T08:00:03.212112+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Cứu bệnh nhân Ebola bằng thuốc mới tại Cộng hòa Dân chủ Congo",
-      "bullets": [
-        "Bắt đầu thử nghiệm thuốc mới để điều trị Ebola tại khu vực Ituri",
-        "Hợp tác quốc tế để tìm ra phương pháp điều trị hiệu quả",
-        "Mục tiêu giảm tỷ lệ tử vong do Ebola",
-        "Thử nghiệm được tiến hành nhanh chóng sau khi WHO công bố tình trạng khẩn cấp"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo đang tiến hành thử nghiệm thuốc mới để điều trị Ebola. Đây là một nỗ lực hợp tác quốc tế nhằm tìm ra phương pháp điều trị hiệu quả cho bệnh nhân Ebola. Mục tiêu của thử nghiệm này là giảm tỷ lệ tử vong do Ebola. Thử nghiệm được tiến hành nhanh chóng sau khi WHO công bố tình trạng khẩn cấp vào ngày 17 tháng 5.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "383f54e98455",
-      "title": "Argentina face action after waving Falklands banner",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T01:56:54.030121+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Argentina có thể bị Fifa kỷ luật vì waving băng rôn ủng hộ Falkland Islands",
-      "bullets": [
-        "Argentina có thể bị Fifa kỷ luật vì waving băng rôn ủng hộ Falkland Islands",
-        "Băng rôn này thể hiện chủ quyền của Argentina đối với Falkland Islands",
-        "Fifa có thể áp dụng các biện pháp kỷ luật đối với đội bóng Argentina",
-        "Argentina sẽ phải đối mặt với hậu quả nếu không rút băng rôn"
-      ],
-      "full_summary": "Argentina có thể bị Fifa kỷ luật vì waving băng rôn ủng hộ Falkland Islands trong trận đấu World Cup. Băng rôn này thể hiện chủ quyền của Argentina đối với Falkland Islands, một chủ đề nhạy cảm giữa Argentina và Anh. Fifa có thể áp dụng các biện pháp kỷ luật đối với đội bóng Argentina nếu họ không rút băng rôn. Argentina sẽ phải đối mặt với hậu quả nếu không rút băng rôn, bao gồm cả việc bị loại khỏi giải đấu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1ad3180c3d96",
-      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T01:56:54.945860+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cầu Morandi ở Genoa sụp đổ, gây thương vong nghiêm trọng",
-      "bullets": [
-        "Sập một phần lớn cầu Morandi ở Genoa, Italy",
-        "Gây thương vong nghiêm trọng cho 43 người",
-        "Nghiên cứu đang được tiến hành để xác định nguyên nhân",
-        "Hàng trăm người bị mắc kẹt sau sự cố"
-      ],
-      "full_summary": "Một phần lớn cầu Morandi ở Genoa, Italy đã sụp đổ vào năm 2018, gây thương vong nghiêm trọng cho 43 người. Sự cố này đã khiến hàng trăm người bị mắc kẹt. Nghiên cứu đang được tiến hành để xác định nguyên nhân của sự cố. Các gia đình của những nạn nhân đang chờ đợi bản án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b2b483cad958",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T01:56:55.973687+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hoa Kỳ sắp triển khai kiểm tra thiếu hụt testosterone trong quân đội",
-      "bullets": [
-        "Hoa Kỳ sẽ bắt đầu kiểm tra thiếu hụt testosterone trong quân đội",
-        "Hegseth cho biết chương trình này sẽ cung cấp cho binh sĩ sự chăm sóc y tế tốt nhất thế giới",
-        "Chương trình này được thiết kế để đảm bảo sức khỏe và hiệu suất của binh sĩ",
-        "Mục tiêu của chương trình là cung cấp cho binh sĩ sự chăm sóc y tế tốt nhất có thể"
-      ],
-      "full_summary": "Hoa Kỳ sắp triển khai kiểm tra thiếu hụt testosterone trong quân đội. Theo Hegseth, chương trình này sẽ cung cấp cho binh sĩ sự chăm sóc y tế tốt nhất thế giới. Chương trình này được thiết kế để đảm bảo sức khỏe và hiệu suất của binh sĩ. Mục tiêu của chương trình là cung cấp cho binh sĩ sự chăm sóc y tế tốt nhất có thể.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0fa10ea5b572",
-      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
-      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T01:56:56.874581+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Một loài khỉ mới với môi cam được phát hiện ở rừng DRC",
-      "bullets": [
-        "Các nhà khoa học mô tả cảm giác 'đáng kinh ngạc' khi nhìn vào khuôn mặt của một loài động vật ít người biết đến.",
-        "Loài khỉ mới được phát hiện ở rừng DRC.",
-        "Các nhà khoa học đã mô tả cảm giác 'đáng kinh ngạc' khi nhìn vào khuôn mặt của loài khỉ mới.",
-        "Loài khỉ mới có môi cam.",
-        "..."
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện một loài khỉ mới với môi cam ở rừng DRC. Họ mô tả cảm giác 'đáng kinh ngạc' khi nhìn vào khuôn mặt của loài động vật ít người biết đến. Các nhà khoa học đã mô tả cảm giác 'đáng kinh ngạc' khi nhìn vào khuôn mặt của loài khỉ mới. Loài khỉ mới được phát hiện ở rừng DRC.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53742d0f6844",
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T01:56:57.835586+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Pokémon Go tiếp tục thu hút triệu người chơi sau 10 năm",
-      "bullets": [
-        "Tập trung vào việc kết nối người chơi",
-        "Cung cấp trải nghiệm chơi game đa dạng",
-        "Đạt được thành công lớn trên toàn thế giới"
-      ],
-      "full_summary": "Pokémon Go đã kỷ niệm 10 năm ra mắt và vẫn tiếp tục thu hút triệu người chơi trên toàn thế giới. Theo Michael Steranka, phó chủ tịch tại Scopely, chủ sở hữu của trò chơi, mục tiêu của Pokémon Go luôn là mang lại trải nghiệm kết nối cho người chơi. Trò chơi đã đạt được thành công lớn trên toàn thế giới và vẫn tiếp tục phát triển mạnh mẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0959e36c0695",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T01:56:59.124899+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
-      "bullets": [
-        "Apple kiện OpenAI vì tội trộm cắp bí mật kinh doanh",
-        "OpenAI được cho là đã sử dụng bí mật kinh doanh của Apple",
-        "Apple cho rằng OpenAI đang phát triển sản phẩm cạnh tranh",
-        "Apple yêu cầu bồi thường và cấm OpenAI sử dụng bí mật kinh doanh"
-      ],
-      "full_summary": "Apple đã kiện OpenAI vì tội trộm cắp bí mật kinh doanh. Theo Apple, OpenAI đang phát triển một bộ phận kinh doanh cứng đầu và cạnh tranh. Apple cho rằng OpenAI đã sử dụng bí mật kinh doanh của mình để phát triển sản phẩm cạnh tranh. Apple yêu cầu bồi thường và cấm OpenAI sử dụng bí mật kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6195984c50e9",
-      "title": "How global heating supercharged floods in West Africa, displacing thousands",
-      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T01:57:00.225178+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nóng lên toàn cầu khiến lũ lụt ở Tây Phi trở nên tồi tệ hơn",
-      "bullets": [
-        "Nóng lên toàn cầu đã khiến mưa lũ ở Tây Phi trở nên tồi tệ hơn",
-        "Hàng nghìn người bị di dời khỏi nhà sau sự kiện lũ lụt",
-        "Các nhà khoa học cảnh báo cần giảm khí thải nhanh hơn để thích nghi với tình trạng mới",
-        "Sự kiện lũ lụt ở Tây Phi được cho là do biến đổi khí hậu gây ra"
-      ],
-      "full_summary": "Các vụ lũ lụt ở Tây Phi đã khiến hàng chục người chết, hàng trăm người được cứu và hàng nghìn người bị di dời khỏi nhà. Các nhà khoa học đã kết luận rằng mưa lũ gây ra sự kiện này đã được tăng cường bởi sự phá huỷ khí hậu. Họ cảnh báo rằng cần phải giảm khí thải nhanh hơn để thích nghi với tình trạng mới.",
       "comments": 0,
       "score": 0
     }
