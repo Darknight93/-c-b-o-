@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-17T13:12:37.361182+00:00",
+  "updated_at": "2026-07-17T18:57:22.544210+00:00",
   "articles": [
+    {
+      "id": "0e91d83a65ce",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T18:57:08.312389+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "EU đề xuất giảm tốc độ cắt giảm khí thải carbon cho doanh nghiệp",
+      "bullets": [
+        "Đề xuất của EU nhằm giảm tốc độ cắt giảm khí thải carbon cho các doanh nghiệp",
+        "Sẽ làm thay đổi hệ thống giao dịch khí thải carbon của EU",
+        "Giúp các doanh nghiệp có thêm thời gian giảm thiểu khí thải carbon",
+        "Cố gắng cân bằng giữa mục tiêu bảo vệ môi trường và phát triển kinh tế"
+      ],
+      "full_summary": "Ngoại trưởng EU đã đề xuất giảm tốc độ cắt giảm khí thải carbon cho các doanh nghiệp trong hệ thống giao dịch khí thải carbon của EU. Mục tiêu là giảm thiểu tác động tiêu cực đến kinh tế trong bối cảnh suy thoái kinh tế toàn cầu. Đề xuất này được đưa ra sau khi nhiều quốc gia EU phản ánh về tác động tiêu cực của chính sách khí thải carbon lên kinh tế. Tuy nhiên, vẫn chưa rõ liệu đề xuất này sẽ được thông qua hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9e56c2d5446",
+      "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T18:57:09.292897+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Một chiếc điều hòa gây hỏa hoạn tại nhà trẻ, khiến 11 người thiệt mạng",
+      "bullets": [
+        "11 người, bao gồm trẻ em, đã tử vong trong vụ hỏa hoạn",
+        "19 người bị thương trong vụ hỏa hoạn",
+        "Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn",
+        "Một chiếc điều hòa bị cho là nguyên nhân gây ra vụ hỏa hoạn"
+      ],
+      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một nhà trẻ ở [tỉnh/thành phố], khiến 11 người thiệt mạng và 19 người bị thương. Theo thông tin ban đầu, một chiếc điều hòa bị cho là nguyên nhân gây ra vụ hỏa hoạn. Cơ quan chức năng đang điều tra nguyên nhân của vụ hỏa hoạn và tìm kiếm những người có liên quan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ef9625bd23de",
+      "title": "China hits out at British Steel nationalisation",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T18:57:10.314508+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Chính phủ Anh quốc hóa British Steel để bảo vệ năng lực quốc gia",
+      "bullets": [
+        "Chính phủ Anh quốc tuyên bố quốc hữu hóa British Steel nhằm đảm bảo năng lực quốc gia quan trọng",
+        "British Steel là một trong những công ty thép lớn nhất tại Anh quốc",
+        "Quốc hữu hóa sẽ giúp công ty tránh khỏi tình trạng phá sản",
+        "Chính phủ Anh quốc hy vọng quốc hữu hóa sẽ giúp công ty phục hồi"
+      ],
+      "full_summary": "Chính phủ Anh quốc đã quyết định quốc hữu hóa British Steel để bảo vệ năng lực quốc gia quan trọng. British Steel là một trong những công ty thép lớn nhất tại Anh quốc và đang đối mặt với tình trạng phá sản. Chính phủ Anh quốc hy vọng quốc hữu hóa sẽ giúp công ty phục hồi và tránh khỏi tình trạng phá sản. Tuy nhiên, Trung Quốc đã lên tiếng chỉ trích quyết định này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a49f89293d49",
+      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T18:57:11.408964+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một tàu chở dầu bị cướp lần thứ hai trong ba tháng ở Yemen",
+      "bullets": [
+        "Một tàu chở dầu bị cướp bởi nghi phạm hải tặc Somalia",
+        "Có nhiều vụ tấn công không thành công ở khu vực này",
+        "Hải tặc dường như đang trở lại ở khu vực này",
+        "Có nhiều tàu bị tấn công nhưng không thành công"
+      ],
+      "full_summary": "Một tàu chở dầu bị cướp bởi nghi phạm hải tặc Somalia ở Yemen lần thứ hai trong ba tháng. Đây là một dấu hiệu cho thấy hải tặc đang trở lại ở khu vực này. Có nhiều vụ tấn công không thành công ở khu vực này, khiến nhiều người lo ngại về sự trở lại của hải tặc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "acd8bcc88df8",
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T18:57:12.323219+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Động đất mạnh 7,3 độ xảy ra ngoài khơi Mexico",
+      "bullets": [
+        "Động đất mạnh 7,3 độ xảy ra ngoài khơi Mexico",
+        "Tsunami Warning Center Mỹ đã phát cảnh báo",
+        "Động đất gây sóng 0,3m ở Puerto Madero và Chiapas",
+        "Không có thông tin về thương vong hoặc thiệt hại"
+      ],
+      "full_summary": "Một trận động đất mạnh 7,3 độ đã xảy ra ngoài khơi Mexico, khiến Tsunami Warning Center Mỹ phát cảnh báo. Các sóng cao 0,3m đã được ghi nhận ở Puerto Madero và Chiapas. Hiện tại, không có thông tin về thương vong hoặc thiệt hại. Các cơ quan chức năng đang tiếp tục theo dõi tình hình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "be872102a241",
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T18:57:13.353190+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Công ty Trung Quốc tuyên bố AI mới có thể cạnh tranh với OpenAI và Anthropic",
+      "bullets": [
+        "Trình bày mô hình AI mới khổng lồ",
+        "Số liệu cho thấy mô hình này có thể vượt qua các đối thủ hàng đầu",
+        "Công ty Trung Quốc hy vọng mô hình này sẽ trở thành một trong những AI mạnh nhất thế giới",
+        "Mô hình này có thể được sử dụng trong nhiều lĩnh vực khác nhau"
+      ],
+      "full_summary": "Công ty Trung Quốc đã công bố mô hình AI mới khổng lồ, tuyên bố rằng nó có thể cạnh tranh với các công ty hàng đầu của Mỹ như OpenAI và Anthropic. Mô hình này được gọi là Kimi K3 và được thiết kế để có khả năng xử lý dữ liệu lớn. Công ty Trung Quốc hy vọng mô hình này sẽ trở thành một trong những AI mạnh nhất thế giới và có thể được sử dụng trong nhiều lĩnh vực khác nhau.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1eb4d1655524",
+      "title": "Troubling new details emerge on diabetes ouster controversy",
+      "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-17T18:57:16.543866+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hội đồng tiểu đường Mỹ ngăn chặn bài viết phản biện",
+      "bullets": [
+        "Ngăn chặn xuất bản bài viết phản biện về tiểu đường",
+        "Tác giả đăng bài lên mạng trước",
+        "Vụ việc gây tranh cãi về sự kiểm soát thông tin",
+        "Tác giả lên án hành động của Hội đồng tiểu đường Mỹ"
+      ],
+      "full_summary": "Hội đồng tiểu đường Mỹ đã ngăn chặn xuất bản một số bài viết phản biện về tiểu đường. Các tác giả đã đăng bài lên mạng trước khi xuất bản. Vụ việc gây tranh cãi về sự kiểm soát thông tin và quyền tự do ngôn luận. Các tác giả lên án hành động của Hội đồng tiểu đường Mỹ là vi phạm quyền tự do ngôn luận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c31e9f9c2cd8",
+      "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-17T18:57:19.760498+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "FCC chủ tịch nhận quà đắt giá từ Paramount",
+      "bullets": [
+        "Nhận ít nhất 63.000 USD tiền vé từ CBS hoặc công ty mẹ của nó",
+        "FCC cần phê duyệt các thỏa thuận của Paramount",
+        "Quyết định này gây tranh cãi và đặt ra câu hỏi về sự công bằng",
+        "FCC chưa đưa ra bình luận chính thức về vấn đề này"
+      ],
+      "full_summary": "FCC chủ tịch đã nhận ít nhất 63.000 USD tiền vé từ CBS hoặc công ty mẹ của nó, khi công ty này cần phê duyệt các thỏa thuận. Quyết định này gây tranh cãi và đặt ra câu hỏi về sự công bằng. FCC chưa đưa ra bình luận chính thức về vấn đề này. Điều này đặt ra câu hỏi về sự độc lập và công bằng của FCC trong việc phê duyệt các thỏa thuận.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "9da5955c6dd4",
       "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
@@ -636,165 +796,6 @@
         "Tổng thống Macron cảnh báo sẽ không có sự khoan nhượng đối với những kẻ đốt phá"
       ],
       "full_summary": "Tổng thống Macron cảnh báo sẽ không có sự khoan nhượng đối với những kẻ đốt phá. Một người cứu hỏa tình nguyện bị nghi ngờ gây ra đám cháy rừng ở Pháp. Nước Pháp đang phải đối mặt với một loạt các cơn sóng nhiệt bất thường. Chính phủ Pháp sẽ không khoan nhượng với những kẻ đốt phá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9aa833f49c7f",
-      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
-      "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T13:26:52.866418+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Uganda đã giải quyết xong ca bệnh Ebola cuối cùng",
-      "bullets": [
-        "Uganda đã giải quyết xong ca bệnh Ebola cuối cùng",
-        "Hầu hết các trường hợp gần đây liên quan đến du khách từ Cộng hòa Dân chủ Congo",
-        "Uganda đã kiểm soát được dịch bệnh Ebola",
-        "Không có thông tin về số ca bệnh mới"
-      ],
-      "full_summary": "Uganda đã giải quyết xong ca bệnh Ebola cuối cùng. Đây là một trong những bước tiến quan trọng trong việc kiểm soát dịch bệnh Ebola ở khu vực. Hầu hết các trường hợp gần đây liên quan đến du khách từ Cộng hòa Dân chủ Congo. Uganda đã thực hiện các biện pháp mạnh mẽ để ngăn chặn sự lây lan của dịch bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7183cef6efe3",
-      "title": "Eleven people die in fire at Algerian children's care home",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T13:26:53.854558+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "11 người chết trong vụ hỏa hoạn tại nhà trẻ ở Algérie",
-      "bullets": [
-        "11 người chết, 19 người bị thương trong vụ hỏa hoạn",
-        "Vụ hỏa hoạn xảy ra tại nhà trẻ ở Algérie",
-        "Nghiên cứu nguyên nhân vụ hỏa hoạn đang được tiến hành",
-        "Cơ quan chức năng đang hỗ trợ nạn nhân"
-      ],
-      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại một nhà trẻ ở Algérie, khiến 11 người chết và 19 người bị thương. Vụ hỏa hoạn đã được báo cáo vào ngày 16 tháng 7. Cơ quan chức năng đang tiến hành điều tra nguyên nhân vụ hỏa hoạn và hỗ trợ nạn nhân. Vụ việc đang được theo dõi chặt chẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "41c3379c2a0e",
-      "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
-      "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-16T13:27:01.366059+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Kỹ sư xác định và giải thích từng máy tính 90 của Jurassic Park",
-      "bullets": [
-        "Xác định từng loại máy tính Unix, Windows và Mac trong phim",
-        "Giải thích công nghệ và thiết kế của từng máy tính",
-        "Phim Jurassic Park đã sử dụng các máy tính 90 như một phần của bối cảnh",
-        "Kỹ sư đã chia sẻ kiến thức của mình trên mạng xã hội"
-      ],
-      "full_summary": "Một kỹ sư đã xác định và giải thích từng máy tính 90 được sử dụng trong phim Jurassic Park. Họ đã phân loại các máy tính thành Unix, Windows và Mac và giải thích công nghệ và thiết kế của từng loại. Phim Jurassic Park đã sử dụng các máy tính 90 như một phần của bối cảnh, tạo ra một hình ảnh chân thực về thời đại của các nhân vật. Kỹ sư đã chia sẻ kiến thức của mình trên mạng xã hội, thu hút sự chú ý của nhiều người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "506229ce99f8",
-      "title": "Iran targets military bases as US launches wave of strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T07:59:58.223660+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Iran tấn công cơ sở quân sự sau loạt đòn bắn của Mỹ",
-      "bullets": [
-        "Mỹ đã thực hiện loạt đòn bắn vào các cơ sở quân sự của Iran",
-        "Ít phút sau, Iran đã phản công bằng các vụ nổ tại các cơ sở quân sự",
-        "Các quốc gia láng giềng ở Vịnh đã báo cáo về các vụ tấn công",
-        "Hình ảnh và âm thanh của các vụ nổ đã được ghi nhận"
-      ],
-      "full_summary": "Mỹ đã thực hiện loạt đòn bắn vào các cơ sở quân sự của Iran, sau đó Iran đã phản công bằng các vụ nổ tại các cơ sở quân sự. Các quốc gia láng giềng ở Vịnh đã báo cáo về các vụ tấn công. Hiện tại, tình hình vẫn đang được theo dõi và cập nhật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3bfb92b511d1",
-      "title": "Actor Sam Neill died from pneumonia, agent confirms",
-      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T07:59:59.180182+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Diễn viên Sam Neill qua đời vì viêm phổi",
-      "bullets": [
-        "Được xác nhận qua đại diện",
-        "Đã qua đời tại Sydney vào thứ Hai",
-        "Mất sớm và bất ngờ theo lời gia đình",
-        "Đã có thông báo về cái chết"
-      ],
-      "full_summary": "Diễn viên kiêm đạo diễn Sam Neill đã qua đời vì viêm phổi, theo đại diện của ông. Ông qua đời tại Sydney vào thứ Hai. Gia đình ông cho biết cái chết của ông là 'sớm và bất ngờ'. Thông tin về cái chết của ông đã được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "91eb89c2ac75",
-      "title": "Ofcom launches investigation into TikTok child safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T08:00:00.121992+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "TikTok bị điều tra vì lo ngại an toàn trẻ em",
-      "bullets": [
-        "TikTok bị điều tra vì lo ngại an toàn trẻ em",
-        "Ofcom đã chỉ trích TikTok không đủ an toàn cho trẻ em",
-        "TikTok cần cải thiện để bảo vệ trẻ em",
-        "Điều tra sẽ xem xét các biện pháp bảo vệ trẻ em trên nền tảng"
-      ],
-      "full_summary": "Tổ chức quản lý truyền thông Ofcom đã quyết định điều tra TikTok vì lo ngại an toàn trẻ em. Điều này diễn ra sau khi Ofcom thực hiện một cuộc đánh giá vào tháng 5, chỉ trích TikTok không đủ an toàn cho trẻ em. Ofcom sẽ xem xét các biện pháp bảo vệ trẻ em trên nền tảng và yêu cầu TikTok cải thiện để bảo vệ trẻ em. Điều tra này sẽ giúp đảm bảo an toàn cho trẻ em khi sử dụng TikTok.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ccdb7ccbd644",
-      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T08:00:01.185326+00:00",
-      "category": "politics|other",
-      "importance": 4,
-      "headline": "Morocco sử dụng phần mềm Pegasus để theo dõi các mục tiêu",
-      "bullets": [
-        "Bí thư mật vụ Morocco tiết lộ sử dụng phần mềm Pegasus từ năm 2017",
-        "Phần mềm này được sử dụng để theo dõi các nhà báo, nhà hoạt động nhân quyền và quan chức nước ngoài",
-        "Pegasus cho phép người điều khiển truy cập vào mọi thông tin trên điện thoại mục tiêu"
-      ],
-      "full_summary": "Một cựu thành viên của cơ quan tình báo nội địa Morocco đã tiết lộ rằng quốc gia này đã sử dụng phần mềm Pegasus để theo dõi các mục tiêu, bao gồm các nhà báo, nhà hoạt động nhân quyền và quan chức nước ngoài. Phần mềm Pegasus, được sản xuất bởi NSO Group của Israel, cho phép người điều khiển truy cập vào mọi thông tin trên điện thoại mục tiêu, bao gồm email, tin nhắn và ảnh. Điều này cho thấy Morocco đã sử dụng phần mềm này để theo dõi các mục tiêu từ năm 2017.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "db72ce696e9a",
-      "title": "New US Ebola patient arrives in Germany for treatment",
-      "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T08:00:02.095781+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người Mỹ nhiễm Ebola đến Đức điều trị",
-      "bullets": [
-        "Người Mỹ nhiễm Ebola được chở đến Đức",
-        "Chính phủ Trump cấm công dân Mỹ đi Mỹ bằng chuyến bay thương mại",
-        "Người bệnh được điều trị tại bệnh viện ở Berlin",
-        "Sự cố Ebola ở Cộng hòa Dân chủ Congo tiếp tục gây lo ngại"
-      ],
-      "full_summary": "Một người Mỹ nhiễm Ebola đã được chở đến Đức để điều trị. Đây là lần thứ hai một người Mỹ nhiễm Ebola được chở đến Đức để điều trị. Trong khi đó, chính phủ Trump đã cấm công dân Mỹ ở Cộng hòa Dân chủ Congo đi Mỹ bằng chuyến bay thương mại. Sự cố Ebola ở Cộng hòa Dân chủ Congo tiếp tục gây lo ngại và cần được theo dõi chặt chẽ.",
       "comments": 0,
       "score": 0
     }
