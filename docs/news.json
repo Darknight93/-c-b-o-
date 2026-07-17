@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-07-16T19:00:29.747045+00:00",
+  "updated_at": "2026-07-17T02:00:49.529166+00:00",
   "articles": [
+    {
+      "id": "8f74d875a19f",
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T02:00:35.154360+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ tấn công Iran, gây nổ ở nhiều nơi",
+      "bullets": [
+        "Mỹ đã tấn công Iran, gây nổ ở nhiều nơi",
+        "Hàng không quân Mỹ đã ném bom các cây cầu ở Iran",
+        "Iran cáo buộc Mỹ đã tấn công các mục tiêu quan trọng",
+        "Mỹ đã chiếm giữ một tàu ở eo biển Hormuz"
+      ],
+      "full_summary": "Mỹ đã tấn công Iran, gây nổ ở nhiều nơi. Theo Iran, các đòn tấn công của Mỹ đã nhắm vào các cây cầu ở nước này. Mỹ đã chiếm giữ một tàu ở eo biển Hormuz. Sự kiện này được coi là một bước ngoặt mới trong quan hệ giữa Mỹ và Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fd3172340e8e",
+      "title": "Fifa 'assessing match reports' over Falklands banner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T02:00:36.189743+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Fifa đang xem xét kỷ luật Argentina vì biểu ngữ ủng hộ chủ quyền Falkland",
+      "bullets": [
+        "Fifa đang xem xét các báo cáo trận đấu trước khi quyết định xử phạt Argentina",
+        "Các cầu thủ Argentina đã treo biểu ngữ ủng hộ chủ quyền Falkland Islands",
+        "Falkland Islands là một vùng lãnh thổ đang tranh chấp giữa Argentina và Anh",
+        "Fifa có thể sẽ áp dụng các hình phạt nếu Argentina không rút lại biểu ngữ"
+      ],
+      "full_summary": "Fifa đang xem xét kỷ luật Argentina vì các cầu thủ đội bóng này đã treo biểu ngữ ủng hộ chủ quyền Falkland Islands. Falkland Islands là một vùng lãnh thổ đang tranh chấp giữa Argentina và Anh. Nếu Fifa quyết định xử phạt, Argentina có thể sẽ phải đối mặt với các hình phạt nghiêm trọng. Việc này đã gây ra sự chú ý lớn trong cộng đồng bóng đá quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d92fb8c9112d",
+      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T02:00:37.187717+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổng thống Mỹ tố Israel cố ý kéo dài chiến tranh Iran",
+      "bullets": [
+        "Tổng thống Mỹ cáo buộc một số chính trị gia Israel cố ý kéo dài chiến tranh Iran",
+        "Tổng thống Mỹ cho rằng Israel đang cố ý chi phối dư luận Mỹ",
+        "Tổng thống Mỹ muốn chấm dứt chiến tranh Iran một cách nhanh chóng",
+        "Tổng thống Mỹ nghi ngờ Israel đang cố ý gây ra xung đột"
+      ],
+      "full_summary": "Tổng thống Mỹ đã cáo buộc một số chính trị gia Israel cố ý kéo dài chiến tranh Iran. Ông cho rằng Israel đang cố ý chi phối dư luận Mỹ để kéo dài chiến tranh. Tổng thống Mỹ muốn chấm dứt chiến tranh Iran một cách nhanh chóng. Ông nghi ngờ Israel đang cố ý gây ra xung đột.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11943fcaf9be",
+      "title": "Trump Media to sell early access to key social posts",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T02:00:38.088544+00:00",
+      "category": "economy|technology",
+      "importance": 3,
+      "headline": "Trump Media cung cấp quyền truy cập sớm vào bài đăng quan trọng với các nhà giao dịch Wall Street",
+      "bullets": [
+        "Cung cấp quyền truy cập sớm vào bài đăng quan trọng của Trump Media",
+        "Dịch vụ này dành cho các nhà giao dịch Wall Street",
+        "Phí trả cho quyền truy cập sớm",
+        "Giúp các nhà giao dịch đưa ra quyết định nhanh chóng hơn"
+      ],
+      "full_summary": "Trump Media đang ra mắt một dịch vụ trả phí cho phép các nhà giao dịch Wall Street truy cập sớm vào các bài đăng quan trọng của công ty. Dịch vụ này sẽ giúp các nhà giao dịch đưa ra quyết định nhanh chóng hơn trong việc đầu tư. Trump Media hy vọng dịch vụ này sẽ giúp công ty thu được lợi nhuận từ việc cung cấp thông tin sớm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d30a0e3a6028",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T02:00:39.929603+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta rút bỏ tính năng chỉnh sửa ảnh AI sau phản ứng dữ dội",
+      "bullets": [
+        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
+        "Tính năng này đã nhận được phản ứng dữ dội từ cộng đồng",
+        "Meta đã rút bỏ tính năng sau vài ngày",
+        "Cộng đồng lo ngại về tác động tiêu cực của AI"
+      ],
+      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng tính năng này đã nhận được phản ứng dữ dội từ cộng đồng. Các người dùng lo ngại về tác động tiêu cực của AI đối với xã hội. Sau vài ngày, Meta đã rút bỏ tính năng này. Đây là một ví dụ về sự cần thiết của việc kiểm soát công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "60d04152def0",
+      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-17T02:00:43.945550+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "HP bị phạt 1,4 tỷ rupee vì hành vi độc quyền trong các sản phẩm in",
+      "bullets": [
+        "HP bị phạt 1,4 tỷ rupee vì hành vi độc quyền trong các sản phẩm in",
+        "Các nhà bán lẻ đe dọa sẽ bỏ sản phẩm in của HP và chuyển sang hàng giả",
+        "HP bị cáo buộc vi phạm các quy định cạnh tranh",
+        "Phạt tiền này nhằm ngăn chặn hành vi độc quyền trong tương lai"
+      ],
+      "full_summary": "Công ty HP vừa bị phạt 1,4 tỷ rupee vì hành vi độc quyền trong các sản phẩm in, mực in, máy tính. Các nhà bán lẻ đe dọa sẽ bỏ sản phẩm in của HP và chuyển sang hàng giả nếu công ty này không thay đổi. Phạt tiền này nhằm ngăn chặn hành vi độc quyền trong tương lai và bảo vệ quyền lợi của các nhà bán lẻ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "050e0b210211",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-17T02:00:46.715273+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nhân viên Hyundai đình công vì lo ngại robot humanoid",
+      "bullets": [
+        "Đình công vì lo ngại mất việc do robot humanoid",
+        "Hyundai dự định triển khai 25.000 robot Atlas từ năm 2028",
+        "Robot sẽ được triển khai tại các nhà máy ở Mỹ trước tiên",
+        "Sự kiện gây lo ngại về tương lai công việc của con người"
+      ],
+      "full_summary": "Nhân viên tại nhà máy của Hyundai ở Mỹ đã đình công vì lo ngại mất việc do sự triển khai của robot humanoid. Theo kế hoạch, Hyundai sẽ triển khai 25.000 robot Atlas từ năm 2028, bắt đầu từ các nhà máy ở Mỹ. Sự kiện này gây lo ngại về tương lai công việc của con người. Các nhân viên đang yêu cầu Hyundai đảm bảo việc làm và lợi ích cho họ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "18ed56ce39da",
       "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
@@ -654,144 +794,6 @@
         "Game được đánh giá cao về đồ họa và âm thanh"
       ],
       "full_summary": "Assassin's Creed Black Flag là một trò chơi hành động phiêu lưu được tái tạo lại từ đầu. Câu chuyện và nhân vật được giữ nguyên, nhưng đồ họa và gameplay được cải thiện đáng kể. Người chơi có thể trải nghiệm cuộc phiêu lưu của Edward Kenway trên biển cả, khám phá các hòn đảo và chiến đấu với kẻ thù. Game được đánh giá cao về đồ họa và âm thanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "351250c07fe8",
-      "title": "How hard is it to build orbital data centers, actually?",
-      "url": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-15T18:59:56.781939+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Các trạm dữ liệu vũ trụ khó xây dựng như thế nào?",
-      "bullets": [
-        "Xây dựng trạm dữ liệu vũ trụ đòi hỏi chi phí và trọng lượng cao",
-        "Các nhà phát triển tập trung vào việc làm cho chúng rẻ và nhẹ",
-        "Sử dụng các radiator trên ISS là một ví dụ về thách thức này",
-        "Các trạm dữ liệu vũ trụ sẽ giúp lưu trữ dữ liệu một cách an toàn và hiệu quả"
-      ],
-      "full_summary": "Các trạm dữ liệu vũ trụ là một ý tưởng thú vị nhưng khó thực hiện. Các radiator trên ISS là một ví dụ về thách thức này, chúng đắt tiền và nặng. Các nhà phát triển đang tập trung vào việc làm cho các trạm dữ liệu vũ trụ rẻ và nhẹ. Điều này sẽ giúp lưu trữ dữ liệu một cách an toàn và hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1f25b396a659",
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-15T19:00:00.077964+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta bị kiện vì cho rằng quyết định sa thải dựa trên AI",
-      "bullets": [
-        "Bị kiện vì cho rằng quyết định sa thải dựa trên AI",
-        "Meta phủ nhận sử dụng AI để sa thải nhân viên có khuyết tật và vấn đề sức khỏe",
-        "Lawsuit yêu cầu Meta phải công bố thông tin về quy trình sa thải",
-        "Meta từ chối bình luận thêm về vụ việc"
-      ],
-      "full_summary": "Một vụ kiện mới đã được đưa ra chống lại Meta, cáo buộc công ty này đã sử dụng trí tuệ nhân tạo (AI) để quyết định sa thải nhân viên. Tuy nhiên, Meta đã phủ nhận cáo buộc này, cho rằng quyết định sa thải được dựa trên các yếu tố khác. Lawsuit yêu cầu Meta phải công bố thông tin về quy trình sa thải để minh bạch hóa. Vụ việc đang được theo dõi chặt chẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "099ede8c36d5",
-      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T13:20:24.872434+00:00",
-      "category": "politics|economy",
-      "importance": 5,
-      "headline": "Iran đe dọa chặn thêm tuyến đường thương mại sau khi Mỹ thực hiện vụ tấn công mới",
-      "bullets": [
-        "Mỹ hứa sẽ tấn công các cây cầu và nhà máy điện của Iran nếu nước này không quay lại đàm phán",
-        "Iran đe dọa sẽ chặn thêm tuyến đường thương mại nếu Mỹ tiếp tục tấn công",
-        "Mỹ và Iran đang trong một cuộc chiến thương mại gay gắt",
-        "Tình hình đang trở nên nghiêm trọng và có thể ảnh hưởng đến toàn cầu"
-      ],
-      "full_summary": "Mỹ và Iran đang trong một cuộc chiến thương mại gay gắt. Mỹ đã thực hiện vụ tấn công mới vào các cơ sở của Iran và hứa sẽ tấn công các cây cầu và nhà máy điện nếu nước này không quay lại đàm phán. Iran đã đe dọa sẽ chặn thêm tuyến đường thương mại nếu Mỹ tiếp tục tấn công. Tình hình đang trở nên nghiêm trọng và có thể ảnh hưởng đến toàn cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e01121548ecb",
-      "title": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T13:20:25.854968+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nổ súng ở Biển Đen: Nga tấn công Ukraine, Ukraine phản công tàu dầu",
-      "bullets": [
-        "Nga tấn công các mục tiêu ở Odessa và Sumy",
-        "Ukraine tấn công 20 tàu của Nga trên Biển Đen",
-        "Các vụ tấn công khiến 6 người thiệt mạng",
-        "Căng thẳng giữa hai quốc gia tiếp tục gia tăng"
-      ],
-      "full_summary": "Nga đã tấn công các mục tiêu ở Odessa và Sumy, trong khi Ukraine phản công bằng cách tấn công 20 tàu dầu của Nga trên Biển Đen. Các vụ tấn công khiến 6 người thiệt mạng. Căng thẳng giữa hai quốc gia tiếp tục gia tăng, với các cuộc tấn công không ngừng nghỉ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7c56b687992c",
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T13:20:26.873931+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Giám đốc Meloni bị thất bại bất ngờ trong cuộc bỏ phiếu về cải cách bầu cử Ý",
-      "bullets": [
-        "Meloni bị thất bại trong cuộc bỏ phiếu về cải cách bầu cử Ý",
-        "Đáp ứng đòi hỏi từ đối lập là Meloni phải từ chức trước cuộc bầu cử tổng thống năm sau",
-        "Meloni vẫn chưa công bố kế hoạch đối phó với thất bại này",
-        "Thất bại này sẽ ảnh hưởng đến khả năng của Meloni trong cuộc bầu cử tổng thống năm sau"
-      ],
-      "full_summary": "Giám đốc Ý Giorgia Meloni đã bị thất bại bất ngờ trong cuộc bỏ phiếu về cải cách bầu cử. Cuộc bỏ phiếu này đã được tổ chức để thông qua một số thay đổi về bầu cử. Tuy nhiên, Meloni đã bị thất bại trong việc thông qua các thay đổi này. Thất bại này đã dẫn đến các cuộc gọi từ đối lập đòi Meloni phải từ chức trước cuộc bầu cử tổng thống năm sau. Meloni vẫn chưa công bố kế hoạch đối phó với thất bại này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ea0aad7cb1a1",
-      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
-      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T13:20:27.816900+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tòa án Kenya bác bỏ yêu cầu hợp pháp hóa cây thuốc phiện",
-      "bullets": [
-        "Bác bỏ yêu cầu của các Rastafarians về việc hợp pháp hóa cây thuốc phiện",
-        "Tòa án Kenya cho rằng cần phải có một cuộc tranh luận quốc gia rộng lớn hơn về chính sách thuốc phiện",
-        "Tòa án Kenya đã công nhận nhu cầu cần phải có một cuộc tranh luận rộng lớn hơn về chính sách thuốc phiện"
-      ],
-      "full_summary": "Tòa án Kenya đã bác bỏ yêu cầu của các Rastafarians về việc hợp pháp hóa cây thuốc phiện. Tòa án cho rằng cần phải có một cuộc tranh luận quốc gia rộng lớn hơn về chính sách thuốc phiện. Điều này cho thấy rằng vấn đề này vẫn còn đang được tranh luận và chưa có quyết định cuối cùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ef248ac9e8e",
-      "title": "Air India crash report likely to be ready in October, say investigators",
-      "url": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T13:20:28.795499+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Vụ tai nạn máy bay Air India có thể có báo cáo trong tháng 10",
-      "bullets": [
-        "Chuyên gia điều tra cho biết họ đang làm việc để có báo cáo về vụ tai nạn máy bay",
-        "Báo cáo dự kiến sẽ được công bố vào tháng 10",
-        "Vụ tai nạn đã khiến 260 người thiệt mạng, chỉ có một hành khách sống sót"
-      ],
-      "full_summary": "Vụ tai nạn máy bay Air India đã khiến 260 người thiệt mạng, bao gồm 241 người trên máy bay, chỉ có một hành khách sống sót. Chuyên gia điều tra đang làm việc để có báo cáo về vụ tai nạn máy bay. Báo cáo dự kiến sẽ được công bố vào tháng 10. Vụ tai nạn đã gây ra sự chú ý lớn trên toàn thế giới.",
       "comments": 0,
       "score": 0
     }
