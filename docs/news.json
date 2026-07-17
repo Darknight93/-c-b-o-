@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-17T02:00:49.529166+00:00",
+  "updated_at": "2026-07-17T07:57:25.007531+00:00",
   "articles": [
+    {
+      "id": "781ce3fa70bd",
+      "title": "More than 500 Rohingya vanished at sea - what happened?",
+      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T07:57:11.457112+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 500 người Rohingya biến mất trên biển",
+      "bullets": [
+        "Bị bắt giữ và đưa đi nơi khác",
+        "Được đưa lên tàu thuyền",
+        "Đi từ Myanmar vào ngày 29 tháng 6",
+        "Không rõ số phận"
+      ],
+      "full_summary": "Hai tàu thuyền chở khoảng 530 người Rohingya đã biến mất sau khi rời Myanmar vào ngày 29 tháng 6. Theo BBC, số người này đã được bắt giữ và đưa đi nơi khác. Hiện chưa rõ số phận của họ. Sự việc đã gây ra lo ngại về tình hình người Rohingya tại Myanmar.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0c8723ff94a0",
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T07:57:12.562189+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhật Bản nới lỏng quy định về thừa kế ngai vàng nhưng vẫn cấm phụ nữ trở thành hoàng hậu",
+      "bullets": [
+        "Cải thiện quy định về thừa kế ngai vàng",
+        "Cho phép nhận lại thành viên hoàng gia nam từ xa",
+        "Thay đổi luật về thừa kế ngai vàng",
+        "Không thay đổi quy định cấm phụ nữ trở thành hoàng hậu"
+      ],
+      "full_summary": "Nhật Bản đã thông qua luật mới về thừa kế ngai vàng, cho phép nhận lại thành viên hoàng gia nam từ xa. Luật mới này cho phép các thành viên hoàng gia nam từ xa được nhận lại vào hoàng gia khi họ đủ 15 tuổi. Tuy nhiên, luật này vẫn không thay đổi quy định cấm phụ nữ trở thành hoàng hậu. Điều này đã gây ra nhiều tranh cãi trong xã hội Nhật Bản.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a79ffa2d56d6",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T07:57:13.464394+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Philippines lên án video simian trên phương tiện truyền thông Trung Quốc",
+      "bullets": [
+        "Trung Quốc bị chỉ trích vì video AI thể hiện một con khỉ mặc trang phục Philippines",
+        "Video cho thấy con khỉ hát về tuyên bố chủ quyền của Philippines ở Biển Đông",
+        "Philippines lên án hành động này là phân biệt chủng tộc",
+        "Trung Quốc không đưa ra bình luận chính thức về vấn đề này"
+      ],
+      "full_summary": "Trung Quốc đã bị chỉ trích vì một video AI thể hiện một con khỉ mặc trang phục Philippines hát về tuyên bố chủ quyền của Philippines ở Biển Đông. Video này được đăng tải trên trang tin China Daily. Philippines đã lên án hành động này là phân biệt chủng tộc. Trung Quốc chưa đưa ra bình luận chính thức về vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e86bb1095ed3",
+      "title": "School bus crash kills at least 20 pupils in Uganda",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T07:57:14.347308+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Ở Uganda, xe buýt trường học va chạm, ít nhất 20 học sinh tử vong",
+      "bullets": [
+        "Va chạm xảy ra do lỗi kỹ thuật",
+        "Ít nhất 20 học sinh tử vong, nhiều người bị thương",
+        "Hàng chục người bị thương, bao gồm cả nhân viên trường học",
+        "Cảnh sát đang điều tra nguyên nhân vụ tai nạn"
+      ],
+      "full_summary": "Một vụ tai nạn xe buýt trường học nghiêm trọng đã xảy ra ở Uganda, khiến ít nhất 20 học sinh tử vong và hàng chục người bị thương. Vụ tai nạn được cho là do lỗi kỹ thuật. Cảnh sát đang điều tra nguyên nhân vụ tai nạn. Đây là một trong những vụ tai nạn nghiêm trọng nhất trong lịch sử Uganda.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f5a15c401a8",
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T07:57:16.376093+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Uganda kêu gọi bỏ cấm đi lại vì Ebola sau khi bệnh nhân cuối cùng được chữa khỏi",
+      "bullets": [
+        "Uganda bắt đầu vận động các quốc gia bỏ cấm đi lại vì Ebola",
+        "Hành khách không còn bị cách ly sau khi không phát hiện thêm ca nhiễm Ebola trong 42 ngày",
+        "Số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo",
+        "Uganda bắt đầu đếm ngược 42 ngày để được công bố hết dịch Ebola"
+      ],
+      "full_summary": "Uganda đã bắt đầu vận động các quốc gia bỏ cấm đi lại vì Ebola sau khi bệnh nhân cuối cùng được chữa khỏi. Theo World Health Organization, Uganda bắt đầu đếm ngược 42 ngày để được công bố hết dịch Ebola. Tuy nhiên, số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo, khiến lo ngại về sự lây lan của dịch bệnh vẫn còn đó.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e58e5a7d229a",
+      "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-17T07:57:17.354612+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Khí thải từ cháy rừng Canada gây ô nhiễm không khí ở 20 bang Mỹ",
+      "bullets": [
+        "Gây ra cảnh báo chất lượng không khí ở hơn 20 bang",
+        "Tens of millions người Mỹ phải ở trong nhà",
+        "Khí thải từ cháy rừng Ontario lan rộng sang Mỹ",
+        "Tác động nghiêm trọng đến chất lượng không khí ở các thành phố lớn"
+      ],
+      "full_summary": "Khí thải từ cháy rừng ở Canada đang lan rộng sang Mỹ, gây ra cảnh báo chất lượng không khí ở hơn 20 bang. Hàng triệu người Mỹ phải ở trong nhà do không khí ô nhiễm. Các thành phố lớn như Chicago, Detroit và Minneapolis cũng bị ảnh hưởng nghiêm trọng. Các chuyên gia cảnh báo tình hình có thể tiếp tục xấu đi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bc34f6cabba8",
+      "title": "Two Trump health nominees crash and burn in tense Senate hearing",
+      "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-17T07:57:19.951866+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hai ứng cử viên sức khỏe của Trump thất bại trong cuộc điều tra của Thượng viện",
+      "bullets": [
+        "Họ không thể trả lời các câu hỏi của các thượng nghị sĩ",
+        "Các ứng cử viên không thể chứng minh năng lực của mình",
+        "Thượng nghị sĩ tìm kiếm sự minh bạch trong quá trình đề cử"
+      ],
+      "full_summary": "Hai ứng cử viên sức khỏe của Tổng thống Trump đã thất bại trong cuộc điều tra của Thượng viện. Họ không thể trả lời các câu hỏi của các thượng nghị sĩ và không thể chứng minh năng lực của mình. Các thượng nghị sĩ tìm kiếm sự minh bạch trong quá trình đề cử và muốn đảm bảo rằng những ứng cử viên này có đủ năng lực để đảm nhận vị trí quan trọng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8f74d875a19f",
       "title": "Blasts reported in Iran as US launches new wave of strikes",
@@ -656,144 +795,6 @@
         "Sự kiện lũ lụt ở Tây Phi được cho là do biến đổi khí hậu gây ra"
       ],
       "full_summary": "Các vụ lũ lụt ở Tây Phi đã khiến hàng chục người chết, hàng trăm người được cứu và hàng nghìn người bị di dời khỏi nhà. Các nhà khoa học đã kết luận rằng mưa lũ gây ra sự kiện này đã được tăng cường bởi sự phá huỷ khí hậu. Họ cảnh báo rằng cần phải giảm khí thải nhanh hơn để thích nghi với tình trạng mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e4d627acd62e",
-      "title": "Judge: Trump can’t deport researchers just for working in content moderation",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-16T01:57:05.288493+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tòa án ngăn Trump trục xuất nhà nghiên cứu vì công việc kiểm duyệt nội dung",
-      "bullets": [
-        "Kết án cấm Tổng thống Trump từ chối thị thực và trục xuất nhà nghiên cứu",
-        "Các nhà nghiên cứu về thông tin sai lệch khen ngợi quyết định này",
-        "Tòa án cho rằng công việc kiểm duyệt nội dung không phải là lý do đủ để trục xuất",
-        "Quyết định này được coi là một bước tiến trong việc bảo vệ quyền tự do của nhà nghiên cứu"
-      ],
-      "full_summary": "Một tòa án đã ra quyết định cấm Tổng thống Trump từ chối thị thực và trục xuất các nhà nghiên cứu vì công việc kiểm duyệt nội dung. Quyết định này được đưa ra sau khi các nhà nghiên cứu về thông tin sai lệch kêu gọi bảo vệ quyền tự do của họ. Tòa án cho rằng công việc kiểm duyệt nội dung không phải là lý do đủ để trục xuất và rằng quyết định này sẽ giúp bảo vệ quyền tự do của nhà nghiên cứu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e11634ac615",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T18:59:48.851374+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Đại biểu Pháp thông qua luật cho phép tử tự tại",
-      "bullets": [
-        "Chấp thuận luật cho phép tử tự tại cho người lớn mắc bệnh hiểm nghèo",
-        "Căn cứ vào các tiêu chí nghiêm ngặt",
-        "Được thông qua sau nhiều năm tranh luận",
-        "Sẽ có quy định chặt chẽ"
-      ],
-      "full_summary": "Đại biểu Pháp đã thông qua luật cho phép tử tự tại cho người lớn mắc bệnh hiểm nghèo. Luật này sẽ áp dụng các tiêu chí nghiêm ngặt để xác định người đủ điều kiện. Điều này diễn ra sau nhiều năm tranh luận về vấn đề này. Luật mới sẽ có các quy định chặt chẽ để đảm bảo quyền lợi của người bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ee607b1e5df",
-      "title": "More people around the world now favour China over the US, Pew study suggests",
-      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T18:59:49.860922+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Sự ủng hộ đối với Trung Quốc đang tăng lên trên toàn cầu",
-      "bullets": [
-        "Trung Quốc đang được nhiều người ủng hộ hơn Mỹ",
-        "Xi Jinping được coi là có nhiều tự tin hơn Donald Trump",
-        "Một nghiên cứu của Pew cho thấy sự thay đổi trong quan điểm của người dân toàn cầu"
-      ],
-      "full_summary": "Một nghiên cứu của Pew cho thấy sự ủng hộ đối với Trung Quốc đang tăng lên trên toàn cầu. Theo nghiên cứu này, người dân trên toàn cầu đang có nhiều tự tin hơn vào Chủ tịch Trung Quốc Xi Jinping so với cựu Tổng thống Mỹ Donald Trump. Điều này cho thấy sự thay đổi trong quan điểm của người dân toàn cầu về hai cường quốc này. Nghiên cứu này được thực hiện bởi một tổ chức tư vấn của Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b0341965db29",
-      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T18:59:50.795441+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một lãnh đạo chống di cư ở Nam Phi bị bắn trọng thương",
-      "bullets": [
-        "Một lãnh đạo của tổ chức March and March bị bắn",
-        "Lãnh đạo này qua đời sau nhiều ngày ở bệnh viện",
-        "Đội cảnh sát đặc biệt sẽ điều tra vụ việc",
-        "Vụ việc đang gây tranh cãi ở Nam Phi"
-      ],
-      "full_summary": "Một lãnh đạo của tổ chức March and March ở Nam Phi đã bị bắn trọng thương và qua đời sau nhiều ngày ở bệnh viện. Đội cảnh sát đặc biệt đã được giao nhiệm vụ điều tra vụ việc. Vụ việc đang gây tranh cãi ở Nam Phi và được nhiều người quan tâm. Lãnh đạo này được biết đến là một người ủng hộ mạnh mẽ chống di cư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4a8c9f43d664",
-      "title": "Five arrested after Hong Kong police raid independent bookshops",
-      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T18:59:51.684179+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Cảnh sát Hồng Kông bắt giữ 5 người vì bán sách kích động chống đối",
-      "bullets": [
-        "Bắt giữ 5 người vì bán sách kích động chống đối",
-        "Sách được cho là kích động hận thù chống lại chính quyền",
-        "Cảnh sát Hồng Kông tiến hành cuộc đột kích vào các cửa hàng sách độc lập",
-        "Các cửa hàng sách độc lập bị cho là bán sách có nội dung kích động"
-      ],
-      "full_summary": "Cảnh sát Hồng Kông đã tiến hành cuộc đột kích vào các cửa hàng sách độc lập và bắt giữ 5 người vì bán sách được cho là kích động chống đối. Các cửa hàng sách độc lập bị cho là bán sách có nội dung kích động chống lại chính quyền. Các vụ bắt giữ diễn ra trong bối cảnh Hồng Kông đang đối mặt với các cuộc biểu tình và căng thẳng chính trị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e1aa1e57bed",
-      "title": "SpaceX share price drops below stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T18:59:52.631875+00:00",
-      "category": "khoa học và công nghệ",
-      "importance": 3,
-      "headline": "Giá cổ phiếu SpaceX giảm xuống dưới mức ra mắt trên thị trường chứng khoán",
-      "bullets": [
-        "Giảm giá cổ phiếu SpaceX kể từ khi công ty này niêm yết trên thị trường một tháng trước",
-        "Cổ phiếu SpaceX đã trải qua sự biến động mạnh kể từ khi công ty này ra mắt",
-        "Elon Musk đang phải đối mặt với những thách thức trong việc duy trì giá cổ phiếu của SpaceX"
-      ],
-      "full_summary": "Giá cổ phiếu SpaceX đã giảm xuống dưới mức ra mắt trên thị trường chứng khoán. Kể từ khi công ty này niêm yết một tháng trước, cổ phiếu SpaceX đã trải qua sự biến động mạnh. Elon Musk đang phải đối mặt với những thách thức trong việc duy trì giá cổ phiếu của SpaceX. Các chuyên gia dự đoán rằng giá cổ phiếu sẽ tiếp tục biến động trong thời gian tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4befa9b74565",
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-15T18:59:53.518466+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Assassin's Creed Black Flag được tái tạo lại từ đầu",
-      "bullets": [
-        "Được tái tạo lại từ đầu, Assassin's Creed Black Flag mang đến trải nghiệm mới mẻ",
-        "Câu chuyện và nhân vật được giữ nguyên, nhưng đồ họa và gameplay được cải thiện đáng kể",
-        "Người chơi có thể trải nghiệm cuộc phiêu lưu của Edward Kenway trên biển cả",
-        "Game được đánh giá cao về đồ họa và âm thanh"
-      ],
-      "full_summary": "Assassin's Creed Black Flag là một trò chơi hành động phiêu lưu được tái tạo lại từ đầu. Câu chuyện và nhân vật được giữ nguyên, nhưng đồ họa và gameplay được cải thiện đáng kể. Người chơi có thể trải nghiệm cuộc phiêu lưu của Edward Kenway trên biển cả, khám phá các hòn đảo và chiến đấu với kẻ thù. Game được đánh giá cao về đồ họa và âm thanh.",
       "comments": 0,
       "score": 0
     }
