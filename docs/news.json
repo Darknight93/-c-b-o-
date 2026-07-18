@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-07-18T07:38:24.940175+00:00",
+  "updated_at": "2026-07-18T12:58:15.922035+00:00",
   "articles": [
+    {
+      "id": "93557554b693",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:57:59.342710+00:00",
+      "category": "politics|other",
+      "importance": 4,
+      "headline": "Ukraina tấn công kho hàng trực tuyến của Nga",
+      "bullets": [
+        "Ukraina tấn công kho hàng của Wildberries gần Moscow",
+        "Kho hàng ở Tambov cũng bị tấn công",
+        "Lãnh đạo Ukraine mô tả chúng là 'cơ sở logistics quan trọng'",
+        "Cơ sở này cung cấp 'phần tử bị trừng phạt'"
+      ],
+      "full_summary": "Ukraina đã tấn công kho hàng trực tuyến của Wildberries ở gần Moscow và ở Tambov. Lãnh đạo Ukraine mô tả các cơ sở này là 'cơ sở logistics quan trọng' cung cấp 'phần tử bị trừng phạt'. Các cuộc tấn công này được cho là nhằm vào các cơ sở cung cấp các thành phần bị trừng phạt. Các cuộc tấn công này đã gây ra thiệt hại và tử vong.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "98ad1850ad34",
+      "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:58:00.238897+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Lào không xác định nguyên nhân tử vong của du khách liên quan đến methanol",
+      "bullets": [
+        "Lãnh đạo Lào nói không có bằng chứng về ngộ độc",
+        "Chưa tiến hành khám nghiệm tử thi",
+        "Lãnh đạo Lào không xác định nguyên nhân tử vong",
+        "Tình huống đang được điều tra"
+      ],
+      "full_summary": "Lãnh đạo Lào nói không thể xác định nguyên nhân tử vong của 3 du khách liên quan đến methanol. Họ cho biết không có bằng chứng về ngộ độc và chưa tiến hành khám nghiệm tử thi. Điều này đã gây ra sự hoang mang trong cộng đồng du lịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11943fcaf9be",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:58:01.132357+00:00",
+      "category": "economy|technology",
+      "importance": 3,
+      "headline": "Trump Media cung cấp thông tin cập nhật nhanh về bài đăng ảnh hưởng",
+      "bullets": [
+        "Cung cấp thông tin cập nhật nhanh về bài đăng ảnh hưởng của Trump Media",
+        "Dành cho các nhà giao dịch trên Wall Street",
+        "Tính phí cho dịch vụ này",
+        "Hỗ trợ các nhà đầu tư đưa ra quyết định nhanh chóng"
+      ],
+      "full_summary": "Trump Media đang ra mắt một dịch vụ cung cấp thông tin cập nhật nhanh về bài đăng ảnh hưởng của công ty. Dịch vụ này sẽ giúp các nhà giao dịch trên Wall Street đưa ra quyết định nhanh chóng hơn. Dịch vụ sẽ tính phí và chỉ cung cấp thông tin cập nhật nhanh về bài đăng ảnh hưởng của Trump Media.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d30a0e3a6028",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:58:02.213628+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta rút lại tính năng chỉnh sửa ảnh AI sau phản ứng dữ dội",
+      "bullets": [
+        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
+        "Tính năng này đã nhận được phản ứng dữ dội từ cộng đồng",
+        "Meta rút lại tính năng sau vài ngày",
+        "Tính năng này cho phép người dùng chỉnh sửa nội dung trên Instagram"
+      ],
+      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, họ đã rút lại tính năng này sau phản ứng dữ dội từ cộng đồng. Tính năng này cho phép người dùng chỉnh sửa nội dung trên Instagram, nhưng nhiều người đã chỉ trích rằng nó có thể được sử dụng để tạo ra nội dung giả. Meta đã không đưa ra bình luận cụ thể về lý do tại sao họ đã rút lại tính năng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4e6cd8426c32",
+      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:58:03.873178+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạ viện Anh cắt giảm viện trợ khiến một số nước châu Phi giảm 90%",
+      "bullets": [
+        "Cắt giảm viện trợ khiến một số nước châu Phi giảm 90%",
+        "Báo cáo của Bộ Ngoại giao Anh tiết lộ mức giảm viện trợ",
+        "Cơ quan này cho biết cắt giảm sẽ ảnh hưởng đến các nước châu Phi trong 3 năm tới",
+        "Tổng số tiền viện trợ giảm xuống còn 10% so với trước đây"
+      ],
+      "full_summary": "Báo cáo của Bộ Ngoại giao Anh tiết lộ rằng cắt giảm viện trợ của Anh sẽ khiến một số nước châu Phi giảm 90% viện trợ. Điều này được cho là sẽ gửi đi thông điệp về vai trò của Anh trên sân khấu quốc tế. Báo cáo này cũng tiết lộ mức giảm viện trợ sẽ ảnh hưởng đến các nước châu Phi trong 3 năm tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ccdb7ccbd644",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:58:04.817830+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Morocco sử dụng phần mềm Pegasus để theo dõi các mục tiêu",
+      "bullets": [
+        "Sử dụng phần mềm Pegasus để theo dõi các nhà báo và bảo vệ nhân quyền",
+        "Thực hiện các cuộc tấn công mạng từ năm 2017",
+        "Mục tiêu bao gồm các quan chức Pháp và Tây Ban Nha",
+        "Phần mềm Pegasus cho phép truy cập vào điện thoại di động của mục tiêu"
+      ],
+      "full_summary": "Một cựu thành viên của cơ quan tình báo nội địa Morocco đã tiết lộ rằng nước này đã sử dụng phần mềm Pegasus để theo dõi các nhà báo, bảo vệ nhân quyền, quan chức Pháp và Tây Ban Nha từ năm 2017. Phần mềm Pegasus cho phép người sử dụng truy cập vào mọi thứ trên điện thoại di động của mục tiêu, bao gồm email, tin nhắn và ảnh. Điều này cho thấy Morocco đã thực hiện các cuộc tấn công mạng rộng rãi và bí mật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5b7b030f8651",
+      "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+      "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:58:06.476511+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chính phủ Mỹ ủng hộ cầu thủ Argentina về băng rôn Falklands",
+      "bullets": [
+        "Bí thư nhiệm vụ FIFA của Nhà Trắng bảo vệ cầu thủ Argentina",
+        "Mỹ tin tưởng vào quyền tự do ngôn luận",
+        "Băng rôn của Argentina thể hiện chủ quyền đối với Falklands",
+        "Cầu thủ Argentina thể hiện sự kiên quyết về chủ quyền"
+      ],
+      "full_summary": "Bí thư nhiệm vụ FIFA của Nhà Trắng đã lên tiếng bảo vệ cầu thủ Argentina sau khi họ thể hiện băng rôn ủng hộ chủ quyền đối với Falklands Islands. Băng rôn này được thể hiện sau trận đấu bán kết World Cup giữa Argentina và Anh. Chính phủ Mỹ cho rằng họ tin tưởng vào quyền tự do ngôn luận và ủng hộ cầu thủ Argentina thể hiện quan điểm của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1da552a525ce",
+      "title": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
+      "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T12:58:07.799797+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cựu tù nhân chính trị Cuba được phép sang Mỹ",
+      "bullets": [
+        "Được phép sang Mỹ sau khi hết án tù",
+        "Là một nghệ sĩ bất đồng chính kiến được Amnesty International công nhận",
+        "Bị kết án 5 năm tù vì xúc phạm biểu tượng quốc gia",
+        "Đã bị giam giữ sau các cuộc biểu tình năm 2021"
+      ],
+      "full_summary": "Luis Manuel Otero Alcántara, một nghệ sĩ bất đồng chính kiến nổi tiếng của Cuba, đã được phép sang Mỹ. Ông đã bị kết án 5 năm tù vì xúc phạm biểu tượng quốc gia và đã bị giam giữ sau các cuộc biểu tình năm 2021. Sau khi hết án tù, nơi ở của ông đã không rõ ràng cho đến khi được phép sang Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a1497cf0c9d6",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-18T12:58:13.084364+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Logo của công ty AI trông giống hậu môn vì lý do gì?",
+      "bullets": [
+        "Các logo công ty AI thường có thiết kế đơn giản và giống hình dạng cơ bản.",
+        "Nhiều người cho rằng thiết kế này là do sự hạn chế về khả năng sáng tạo của nhà thiết kế.",
+        "Một số người khác tin rằng thiết kế này là một cách để thể hiện sự đơn giản và tinh tế."
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã thu hút sự chú ý của cộng đồng khi đề cập đến việc tại sao các logo công ty AI lại trông giống hậu môn. Theo bài viết, thiết kế đơn giản và giống hình dạng cơ bản là lý do chính khiến các logo công ty AI trông giống hậu môn. Tuy nhiên, cũng có những ý kiến khác nhau về vấn đề này, với một số người cho rằng thiết kế này là một cách để thể hiện sự đơn giản và tinh tế.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "eb396f6d1316",
       "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
@@ -616,185 +795,6 @@
         "Sẽ thử phóng lại trong vài ngày"
       ],
       "full_summary": "SpaceX đã hủy phóng Starship do một số động cơ không hoạt động. Theo thông báo trên Twitter, họ đang xả nhiên liệu và hy vọng sẽ thử phóng lại trong vài ngày. Điều này cho thấy sự phức tạp của quá trình phóng Starship và cần phải khắc phục các vấn đề kỹ thuật trước khi tiếp tục.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ac430e43099",
-      "title": "Pebble Mega Update – July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-17T13:12:36.291905+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Rebble ra bản cập nhật lớn mới",
-      "bullets": [
-        "Cập nhật mới mang đến nhiều tính năng và cải tiến",
-        "Hỗ trợ thêm cho các ứng dụng và dịch vụ",
-        "Cải thiện hiệu suất và bảo mật",
-        "Tính năng mới cho phép người dùng tùy chỉnh giao diện"
-      ],
-      "full_summary": "Rebble vừa phát hành bản cập nhật lớn mới mang đến nhiều tính năng và cải tiến. Bản cập nhật này hỗ trợ thêm cho các ứng dụng và dịch vụ, cải thiện hiệu suất và bảo mật. Người dùng cũng có thể tùy chỉnh giao diện theo ý muốn của mình. Cập nhật này được xem là bước tiến quan trọng cho hệ sinh thái của Pebble.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "781ce3fa70bd",
-      "title": "More than 500 Rohingya vanished at sea - what happened?",
-      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T07:57:11.457112+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 500 người Rohingya biến mất trên biển",
-      "bullets": [
-        "Bị bắt giữ và đưa đi nơi khác",
-        "Được đưa lên tàu thuyền",
-        "Đi từ Myanmar vào ngày 29 tháng 6",
-        "Không rõ số phận"
-      ],
-      "full_summary": "Hai tàu thuyền chở khoảng 530 người Rohingya đã biến mất sau khi rời Myanmar vào ngày 29 tháng 6. Theo BBC, số người này đã được bắt giữ và đưa đi nơi khác. Hiện chưa rõ số phận của họ. Sự việc đã gây ra lo ngại về tình hình người Rohingya tại Myanmar.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0c8723ff94a0",
-      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T07:57:12.562189+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhật Bản nới lỏng quy định về thừa kế ngai vàng nhưng vẫn cấm phụ nữ trở thành hoàng hậu",
-      "bullets": [
-        "Cải thiện quy định về thừa kế ngai vàng",
-        "Cho phép nhận lại thành viên hoàng gia nam từ xa",
-        "Thay đổi luật về thừa kế ngai vàng",
-        "Không thay đổi quy định cấm phụ nữ trở thành hoàng hậu"
-      ],
-      "full_summary": "Nhật Bản đã thông qua luật mới về thừa kế ngai vàng, cho phép nhận lại thành viên hoàng gia nam từ xa. Luật mới này cho phép các thành viên hoàng gia nam từ xa được nhận lại vào hoàng gia khi họ đủ 15 tuổi. Tuy nhiên, luật này vẫn không thay đổi quy định cấm phụ nữ trở thành hoàng hậu. Điều này đã gây ra nhiều tranh cãi trong xã hội Nhật Bản.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a79ffa2d56d6",
-      "title": "Philippines condemns monkey video on Chinese media as racist",
-      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T07:57:13.464394+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Philippines lên án video simian trên phương tiện truyền thông Trung Quốc",
-      "bullets": [
-        "Trung Quốc bị chỉ trích vì video AI thể hiện một con khỉ mặc trang phục Philippines",
-        "Video cho thấy con khỉ hát về tuyên bố chủ quyền của Philippines ở Biển Đông",
-        "Philippines lên án hành động này là phân biệt chủng tộc",
-        "Trung Quốc không đưa ra bình luận chính thức về vấn đề này"
-      ],
-      "full_summary": "Trung Quốc đã bị chỉ trích vì một video AI thể hiện một con khỉ mặc trang phục Philippines hát về tuyên bố chủ quyền của Philippines ở Biển Đông. Video này được đăng tải trên trang tin China Daily. Philippines đã lên án hành động này là phân biệt chủng tộc. Trung Quốc chưa đưa ra bình luận chính thức về vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e86bb1095ed3",
-      "title": "School bus crash kills at least 20 pupils in Uganda",
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T07:57:14.347308+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Ở Uganda, xe buýt trường học va chạm, ít nhất 20 học sinh tử vong",
-      "bullets": [
-        "Va chạm xảy ra do lỗi kỹ thuật",
-        "Ít nhất 20 học sinh tử vong, nhiều người bị thương",
-        "Hàng chục người bị thương, bao gồm cả nhân viên trường học",
-        "Cảnh sát đang điều tra nguyên nhân vụ tai nạn"
-      ],
-      "full_summary": "Một vụ tai nạn xe buýt trường học nghiêm trọng đã xảy ra ở Uganda, khiến ít nhất 20 học sinh tử vong và hàng chục người bị thương. Vụ tai nạn được cho là do lỗi kỹ thuật. Cảnh sát đang điều tra nguyên nhân vụ tai nạn. Đây là một trong những vụ tai nạn nghiêm trọng nhất trong lịch sử Uganda.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f5a15c401a8",
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T07:57:16.376093+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Uganda kêu gọi bỏ cấm đi lại vì Ebola sau khi bệnh nhân cuối cùng được chữa khỏi",
-      "bullets": [
-        "Uganda bắt đầu vận động các quốc gia bỏ cấm đi lại vì Ebola",
-        "Hành khách không còn bị cách ly sau khi không phát hiện thêm ca nhiễm Ebola trong 42 ngày",
-        "Số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo",
-        "Uganda bắt đầu đếm ngược 42 ngày để được công bố hết dịch Ebola"
-      ],
-      "full_summary": "Uganda đã bắt đầu vận động các quốc gia bỏ cấm đi lại vì Ebola sau khi bệnh nhân cuối cùng được chữa khỏi. Theo World Health Organization, Uganda bắt đầu đếm ngược 42 ngày để được công bố hết dịch Ebola. Tuy nhiên, số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo, khiến lo ngại về sự lây lan của dịch bệnh vẫn còn đó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e58e5a7d229a",
-      "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T07:57:17.354612+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Khí thải từ cháy rừng Canada gây ô nhiễm không khí ở 20 bang Mỹ",
-      "bullets": [
-        "Gây ra cảnh báo chất lượng không khí ở hơn 20 bang",
-        "Tens of millions người Mỹ phải ở trong nhà",
-        "Khí thải từ cháy rừng Ontario lan rộng sang Mỹ",
-        "Tác động nghiêm trọng đến chất lượng không khí ở các thành phố lớn"
-      ],
-      "full_summary": "Khí thải từ cháy rừng ở Canada đang lan rộng sang Mỹ, gây ra cảnh báo chất lượng không khí ở hơn 20 bang. Hàng triệu người Mỹ phải ở trong nhà do không khí ô nhiễm. Các thành phố lớn như Chicago, Detroit và Minneapolis cũng bị ảnh hưởng nghiêm trọng. Các chuyên gia cảnh báo tình hình có thể tiếp tục xấu đi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bc34f6cabba8",
-      "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-      "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-17T07:57:19.951866+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hai ứng cử viên sức khỏe của Trump thất bại trong cuộc điều tra của Thượng viện",
-      "bullets": [
-        "Họ không thể trả lời các câu hỏi của các thượng nghị sĩ",
-        "Các ứng cử viên không thể chứng minh năng lực của mình",
-        "Thượng nghị sĩ tìm kiếm sự minh bạch trong quá trình đề cử"
-      ],
-      "full_summary": "Hai ứng cử viên sức khỏe của Tổng thống Trump đã thất bại trong cuộc điều tra của Thượng viện. Họ không thể trả lời các câu hỏi của các thượng nghị sĩ và không thể chứng minh năng lực của mình. Các thượng nghị sĩ tìm kiếm sự minh bạch trong quá trình đề cử và muốn đảm bảo rằng những ứng cử viên này có đủ năng lực để đảm nhận vị trí quan trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f74d875a19f",
-      "title": "Blasts reported in Iran as US launches new wave of strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T02:00:35.154360+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ tấn công Iran, gây nổ ở nhiều nơi",
-      "bullets": [
-        "Mỹ đã tấn công Iran, gây nổ ở nhiều nơi",
-        "Hàng không quân Mỹ đã ném bom các cây cầu ở Iran",
-        "Iran cáo buộc Mỹ đã tấn công các mục tiêu quan trọng",
-        "Mỹ đã chiếm giữ một tàu ở eo biển Hormuz"
-      ],
-      "full_summary": "Mỹ đã tấn công Iran, gây nổ ở nhiều nơi. Theo Iran, các đòn tấn công của Mỹ đã nhắm vào các cây cầu ở nước này. Mỹ đã chiếm giữ một tàu ở eo biển Hormuz. Sự kiện này được coi là một bước ngoặt mới trong quan hệ giữa Mỹ và Iran.",
       "comments": 0,
       "score": 0
     }
