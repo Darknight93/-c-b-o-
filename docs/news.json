@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-17T18:57:22.544210+00:00",
+  "updated_at": "2026-07-18T01:50:27.459954+00:00",
   "articles": [
+    {
+      "id": "670d25959f13",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T01:50:13.357762+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Trump đe dọa áp thuế mới lên Canada vì khói từ đám cháy",
+      "bullets": [
+        "Trump đe dọa áp thuế mới lên Canada vì khói từ đám cháy",
+        "Chủ tịch Mark Carney nói Mỹ và Canada đều có trách nhiệm chung trong việc chống biến đổi khí hậu",
+        "Các chuyên gia cho rằng tình trạng cháy rừng đang tồi tệ hơn do biến đổi khí hậu",
+        "Mỹ và Canada cần cùng nhau chống lại biến đổi khí hậu"
+      ],
+      "full_summary": "Chủ tịch Mark Carney nói rằng Mỹ và Canada đều có trách nhiệm chung trong việc chống biến đổi khí hậu, nguyên nhân gây ra tình trạng cháy rừng tồi tệ hơn. Tuy nhiên, Tổng thống Trump đã đe dọa áp thuế mới lên Canada vì khói từ đám cháy ảnh hưởng đến các thành phố ở Mỹ. Các chuyên gia cho rằng Mỹ và Canada cần cùng nhau chống lại biến đổi khí hậu để giảm thiểu tác động của cháy rừng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9fb48f594b7b",
+      "title": "US strikes hit Iran for seventh consecutive night",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T01:50:14.203188+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ tiếp tục tấn công Iran lần thứ bảy liên tiếp",
+      "bullets": [
+        "Mỹ tiến hành các cuộc tấn công nhằm giảm sức mạnh quân sự Iran",
+        "Iran báo cáo có vụ nổ gần eo biển Hormuz",
+        "Mỹ cho biết mục tiêu là giảm sức mạnh quân sự Iran",
+        "Iran đang phản ứng với các cuộc tấn công của Mỹ"
+      ],
+      "full_summary": "Mỹ tiếp tục tiến hành các cuộc tấn công nhằm vào lực lượng vũ trang Iran. Theo thông tin từ Bộ chỉ huy Mỹ, mục tiêu là giảm sức mạnh quân sự Iran. Iran báo cáo có vụ nổ gần eo biển Hormuz. Các cuộc tấn công này diễn ra lần thứ bảy liên tiếp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "497c033baeea",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T01:50:15.150339+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cán bộ quân đội Ukraine phẫn nộ khi Bộ trưởng Quốc phòng bị sa thải",
+      "bullets": [
+        "Căng thẳng nổ ra ở Ukraine sau khi Bộ trưởng Quốc phòng Mykhailo Fedorov bị sa thải",
+        "Hàng trăm binh sĩ biểu tình phản đối quyết định này",
+        "Các binh sĩ cho biết họ không đồng ý với việc sa thải Bộ trưởng Quốc phòng"
+      ],
+      "full_summary": "Các binh sĩ Ukraine đã biểu tình phản đối việc Bộ trưởng Quốc phòng Mykhailo Fedorov bị sa thải. Họ cho biết họ không đồng ý với quyết định này và đang yêu cầu được giải thích rõ ràng. Căng thẳng đã nổ ra ở Ukraine sau khi thông tin về việc sa thải Bộ trưởng Quốc phòng được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ff42aa6396f",
+      "title": "White House defends Argentina team over Falklands banner",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T01:50:16.169735+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bắc Mỹ bảo vệ đội bóng Argentina trước cáo buộc",
+      "bullets": [
+        "Đại diện Nhà Trắng lên tiếng phản bác cáo buộc",
+        "Fifa sẽ điều tra vụ việc theo yêu cầu của chính phủ Anh",
+        "Vụ việc gây bất đồng giữa Argentina và Anh",
+        "Đài chính phủ Anh kêu gọi Fifa điều tra vụ việc"
+      ],
+      "full_summary": "Bắc Mỹ đã lên tiếng bảo vệ đội bóng Argentina sau khi họ sử dụng băng rôn có liên quan đến tranh chấp giữa Argentina và Anh. Vụ việc đã gây ra sự bất đồng và chính phủ Anh đã kêu gọi Fifa điều tra vụ việc. Đại diện Nhà Trắng cho biết họ sẽ không can thiệp vào vụ việc này. Vụ việc đã trở thành một điểm nóng trong thời gian gần đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cdbe8bcac673",
+      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T01:50:17.210677+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nga tăng cường đàn áp đối thủ, một người bị phạt, một người bị giam giữ",
+      "bullets": [
+        "Nga phạt Boris Nadezhdin vì chỉ trích chiến tranh",
+        "Blogger Ilya Remeslo bị giữ ở nhà tù",
+        "Nadezhdin bị cấm tham gia bầu cử",
+        "Nga tăng cường đàn áp đối thủ trong thời gian chiến tranh"
+      ],
+      "full_summary": "Nga tiếp tục đàn áp các đối thủ của họ, đặc biệt là những người chỉ trích chiến tranh. Boris Nadezhdin, một người chỉ trích chiến tranh, đã bị phạt vì tham gia vào các hoạt động chính trị. Trong khi đó, blogger Ilya Remeslo đã bị giữ ở nhà tù vì tội danh chưa rõ. Điều này cho thấy Nga đang tăng cường đàn áp các đối thủ của họ trong thời gian chiến tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "91eb89c2ac75",
+      "title": "TikTok faces Ofcom investigation over child age checks",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T01:50:18.120203+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "TikTok bị Ofcom điều tra vì kiểm tra tuổi trẻ em không đủ an toàn",
+      "bullets": [
+        "TikTok sẽ bị điều tra vì không kiểm tra tuổi trẻ em một cách đầy đủ",
+        "Ofcom đã chỉ trích TikTok trong một đánh giá vào tháng 5 vì không an toàn cho trẻ em",
+        "TikTok đã không thực hiện được yêu cầu của Ofcom về việc kiểm tra tuổi trẻ em",
+        "TikTok sẽ phải đối mặt với một cuộc điều tra của Ofcom"
+      ],
+      "full_summary": "TikTok đang phải đối mặt với một cuộc điều tra của Ofcom vì không thực hiện được yêu cầu về việc kiểm tra tuổi trẻ em. Trong một đánh giá vào tháng 5, Ofcom đã chỉ trích TikTok vì không an toàn cho trẻ em. Ofcom đã yêu cầu TikTok thực hiện các biện pháp để kiểm tra tuổi trẻ em, nhưng TikTok đã không thực hiện được yêu cầu này. Bây giờ, TikTok sẽ phải đối mặt với một cuộc điều tra của Ofcom để xem xét liệu họ đã thực hiện được yêu cầu này hay chưa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "814bc7012cb3",
+      "title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T01:50:22.530897+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Taco Bell bị phát hiện có chứa ký sinh trùng gây tiêu chảy",
+      "bullets": [
+        "CDC xác định nguồn gốc ký sinh trùng là rau xà lách từ Mexico",
+        "Taco Bell có 5 nhà hàng ở 5 bang bị ảnh hưởng",
+        "Federal cảnh báo người tiêu dùng không ăn xà lách từ Taco Bell",
+        "Nghiên cứu của FDA chỉ ra một nhà cung cấp duy nhất của xà lách"
+      ],
+      "full_summary": "Các cơ quan y tế liên bang đã xác định nguồn gốc ký sinh trùng gây tiêu chảy là rau xà lách từ Mexico được phục vụ tại các nhà hàng Taco Bell ở 5 bang Indiana, Kentucky, Michigan, Ohio và West Virginia. CDC đã cảnh báo người tiêu dùng không ăn xà lách từ Taco Bell. Nghiên cứu của FDA chỉ ra một nhà cung cấp duy nhất của xà lách.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "92b678467b30",
+      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
+      "url": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-18T01:50:26.301201+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Fubo tăng giá gói dịch vụ 15 USD sau khi khôi phục một số kênh NBCU",
+      "bullets": [
+        "Tăng giá gói dịch vụ Fubo 15 USD",
+        "Khôi phục một số kênh NBCU đã bị mất",
+        "Các kênh Versant vẫn chưa được khôi phục",
+        "Fubo vẫn chưa công bố kế hoạch khôi phục các kênh Versant"
+      ],
+      "full_summary": "Fubo, một nền tảng truyền hình trực tuyến, đã tăng giá gói dịch vụ 15 USD sau khi khôi phục một số kênh NBCU đã bị mất vào tháng 11. Tuy nhiên, các kênh Versant vẫn chưa được khôi phục. Điều này đã gây ra sự không hài lòng cho các khách hàng của Fubo. Fubo vẫn chưa công bố kế hoạch khôi phục các kênh Versant.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0e91d83a65ce",
       "title": "EU proposes slowing down cuts to carbon emissions for businesses",
@@ -637,165 +796,6 @@
         "Cán bộ bị cáo buộc vi phạm quy định nội bộ"
       ],
       "full_summary": "Một cán bộ Nhà Trắng bị cáo buộc sử dụng thông tin nội bộ về bài phát biểu của Tổng thống Trump để đặt cược trên Kalshi và kiếm được gần 100.000 USD. Cáo buộc đang được điều tra. Cán bộ này bị cáo buộc vi phạm quy định nội bộ và có thể phải đối mặt với hậu quả nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b33bb78e2a2f",
-      "title": "At least one dead in Texas floods ravaging same area where campers died",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T19:00:16.863202+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Lũ lụt tàn phá Texas, ít nhất 1 người tử vong",
-      "bullets": [
-        "Xảy ra lũ lụt ở khu vực bị ảnh hưởng nặng nề năm ngoái",
-        "Khu vực này đã gây ra hơn 130 cái chết, bao gồm cả vụ Camp Mystic",
-        "Lũ lụt đang tàn phá khu vực này lần nữa",
-        "Ít nhất 1 người đã thiệt mạng trong vụ lũ lụt"
-      ],
-      "full_summary": "Khu vực Texas đang bị tàn phá bởi lũ lụt, nơi đã gây ra hơn 130 cái chết vào năm ngoái. Lũ lụt đang tàn phá khu vực này lần nữa, khiến ít nhất 1 người thiệt mạng. Khu vực này đã bị ảnh hưởng nặng nề bởi lũ lụt vào năm ngoái và hiện đang phải đối mặt với tình trạng khẩn cấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f9581bf960f2",
-      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T19:00:18.299564+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hai hacker thanh niên bị kết án vì tấn công mạng vào TfL",
-      "bullets": [
-        "Bị kết án vì tội tấn công mạng vào hệ thống của Transport for London",
-        "Hai hacker thanh niên gây thiệt hại lớn cho hệ thống giao thông công cộng",
-        "Owen Flowers và Thalha Jubair bị kết án vì hành động này",
-        "Hành động của họ gây ra thiệt hại lớn cho tài chính của TfL"
-      ],
-      "full_summary": "Hai hacker thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì tội tấn công mạng vào hệ thống của Transport for London. Hành động của họ gây ra thiệt hại lớn cho tài chính của TfL. Cặp đôi này đã sống lifestream tấn công mạng của họ trên internet.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4e6cd8426c32",
-      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T19:00:20.572606+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chính phủ Anh cắt giảm viện trợ với mức giảm 90% đối với một số quốc gia châu Phi",
-      "bullets": [
-        "Cắt giảm viện trợ của Anh đối với một số quốc gia châu Phi lên đến 90%",
-        "Số liệu của Bộ Ngoại giao Anh cho thấy sự giảm mạnh trong hỗ trợ song phương",
-        "Cơ quan này cho rằng những con số này gửi đi thông điệp toàn cầu về vai trò của Anh trên sân khấu quốc tế"
-      ],
-      "full_summary": "Theo báo cáo hàng năm của Bộ Ngoại giao Anh, cắt giảm ngân sách viện trợ sẽ ảnh hưởng đến các quốc gia châu Phi. Mức giảm lên đến 90% được cho là do chính sách của chính phủ Anh. Những số liệu này đã gây ra sự tranh cãi về vai trò của Anh trên sân khấu quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3d69420bfe27",
-      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-      "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-16T19:00:27.550523+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hàng trăm người biểu tình trước trụ sở Bethesda phản đối sa thải nhân viên Xbox",
-      "bullets": [
-        "Biểu tình nhằm ngăn chặn chu kỳ sa thải liên tục tại Xbox",
-        "Hội đoàn muốn quay lại đàm phán hợp đồng lao động",
-        "Người biểu tình yêu cầu công ty phải thay đổi chính sách nhân sự",
-        "Hội đoàn hy vọng sẽ đạt được thỏa thuận tốt hơn cho nhân viên"
-      ],
-      "full_summary": "Hàng trăm người biểu tình đã tập trung trước trụ sở của Bethesda để phản đối sa thải nhân viên Xbox. Họ muốn ngăn chặn chu kỳ sa thải liên tục và quay lại đàm phán hợp đồng lao động. Người biểu tình yêu cầu công ty phải thay đổi chính sách nhân sự và hy vọng sẽ đạt được thỏa thuận tốt hơn cho nhân viên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "285ba802f9cb",
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T13:26:48.691117+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Giám đốc đường cao tốc bị kết án 12 năm vì vụ sập cầu Genoa",
-      "bullets": [
-        "Bị kết án 12 năm tù",
-        "Vụ sập cầu Genoa năm 2018 gây thiệt hại lớn",
-        "43 người chết trong vụ tai nạn",
-        "Giám đốc đường cao tốc bị kết tội"
-      ],
-      "full_summary": "Giám đốc đường cao tốc Italia Giovanni Castellucci bị kết án 12 năm tù vì vụ sập cầu Genoa năm 2018. Vụ tai nạn gây thiệt hại lớn và 43 người chết. Đây là một trong những vụ tai nạn giao thông nghiêm trọng nhất ở Italia trong nhiều năm qua.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5f291c0fab0e",
-      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
-      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T13:26:49.661539+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ngoại trưởng Ukraine bị sa thải gây phẫn nộ trong xã hội và quân đội",
-      "bullets": [
-        "Cựu ngoại trưởng Mykhailo Fedorov bị sa thải mà không có lý do giải thích",
-        "Sự kiện gây phẫn nộ trong xã hội và quân đội Ukraine",
-        "Chính phủ Ukraine chưa công bố lý do sa thải Fedorov",
-        "Tình hình đang trở nên căng thẳng"
-      ],
-      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky đã sa thải ngoại trưởng Mykhailo Fedorov mà không có lý do giải thích. Sự kiện này gây phẫn nộ trong xã hội và quân đội Ukraine. Chính phủ Ukraine chưa công bố lý do sa thải Fedorov, khiến tình hình trở nên căng thẳng. Các cuộc biểu tình đã nổ ra ở các thành phố Ukraine để phản đối quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e1c8a37a372d",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T13:26:50.849980+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 800 đám cháy rừng ở Canada đang bùng phát, cảnh báo chất lượng không khí lan rộng vào Mỹ",
-      "bullets": [
-        "Cảnh báo chất lượng không khí ở Michigan, Minneapolis và Minnesota được xác định là 'hazardous'",
-        "Hơn 800 đám cháy rừng đang bùng phát ở Canada",
-        "Cảnh báo chất lượng không khí đang lan rộng vào các bang ở Mỹ",
-        "Các cơ quan chức năng đang cố gắng kiểm soát đám cháy rừng"
-      ],
-      "full_summary": "Các đám cháy rừng ở Canada đang bùng phát mạnh mẽ, với hơn 800 đám cháy đang cháy ở các khu vực khác nhau. Cảnh báo chất lượng không khí đã được phát đi ở Michigan, Minneapolis và Minnesota, với chất lượng không khí được xác định là 'hazardous'. Các cơ quan chức năng đang cố gắng kiểm soát đám cháy rừng và ngăn chặn sự lan rộng của khói bụi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "51a1ad872aef",
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T13:26:51.980511+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một người cứu hỏa tình nguyện bị nghi ngờ gây ra đám cháy rừng ở Pháp",
-      "bullets": [
-        "Bị nghi ngờ gây ra đám cháy rừng ở Pháp",
-        "Chính phủ Pháp sẽ không khoan nhượng với những kẻ đốt phá",
-        "Nước Pháp đang phải đối mặt với một loạt các cơn sóng nhiệt bất thường",
-        "Tổng thống Macron cảnh báo sẽ không có sự khoan nhượng đối với những kẻ đốt phá"
-      ],
-      "full_summary": "Tổng thống Macron cảnh báo sẽ không có sự khoan nhượng đối với những kẻ đốt phá. Một người cứu hỏa tình nguyện bị nghi ngờ gây ra đám cháy rừng ở Pháp. Nước Pháp đang phải đối mặt với một loạt các cơn sóng nhiệt bất thường. Chính phủ Pháp sẽ không khoan nhượng với những kẻ đốt phá.",
       "comments": 0,
       "score": 0
     }
