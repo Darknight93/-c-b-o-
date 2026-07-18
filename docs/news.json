@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-18T01:50:27.459954+00:00",
+  "updated_at": "2026-07-18T07:38:24.940175+00:00",
   "articles": [
+    {
+      "id": "eb396f6d1316",
+      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T07:38:10.369633+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hoạt động gia tăng chống lại chính phủ Ấn Độ",
+      "bullets": [
+        "Cựu lãnh đạo Đảng Janta Party bắt đầu tuyệt thực",
+        "Abhijeet Dipke bị đưa đến bệnh viện vì tuyệt thực 20 ngày",
+        "Hoạt động này được thực hiện để ủng hộ nhà khoa học Sonam Wangchuk",
+        "Abhijeet Dipke bắt đầu tuyệt thực vĩnh viễn thay thế cho Sonam Wangchuk"
+      ],
+      "full_summary": "Abhijeet Dipke, cựu lãnh đạo Đảng Janta Party, đã bắt đầu tuyệt thực vĩnh viễn để ủng hộ nhà khoa học Sonam Wangchuk. Abhijeet Dipke đã bị đưa đến bệnh viện vì tuyệt thực 20 ngày trước đó. Điều này là một phần của hoạt động gia tăng chống lại chính phủ Ấn Độ. Abhijeet Dipke đã bắt đầu tuyệt thực vĩnh viễn thay thế cho Sonam Wangchuk.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6a1bdf34cd45",
+      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T07:38:11.374522+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Skyroot Aerospace phóng tên lửa thương mại đầu tiên của Ấn Độ vào quỹ đạo",
+      "bullets": [
+        "Phát triển tên lửa Vikram-1 thành công",
+        "Là tên lửa thương mại đầu tiên của Ấn Độ",
+        "Được phóng bởi công ty vũ trụ Skyroot Aerospace",
+        "Đạt được mục tiêu vào quỹ đạo"
+      ],
+      "full_summary": "Skyroot Aerospace, một công ty vũ trụ Ấn Độ, đã thành công trong việc phóng tên lửa thương mại đầu tiên của Ấn Độ, Vikram-1, vào quỹ đạo. Đây là một bước tiến quan trọng trong lĩnh vực công nghệ vũ trụ của Ấn Độ. Tên lửa Vikram-1 được thiết kế để mang các vệ tinh vào quỹ đạo và sẽ giúp Ấn Độ tăng cường khả năng phóng tên lửa thương mại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9581bf960f2",
+      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T07:38:12.288164+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hai hacker thanh niên bị kết án vì tấn công mạng vào TfL",
+      "bullets": [
+        "Bị kết án vì tội tấn công mạng vào hệ thống của Transport for London",
+        "Hai hacker thanh niên gây ra thiệt hại lớn cho TfL",
+        "Cáo trạng cáo buộc họ livestream quá trình tấn công",
+        "Họ bị kết án vì tội xâm phạm an ninh mạng"
+      ],
+      "full_summary": "Hai hacker thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì tội tấn công mạng vào hệ thống của Transport for London (TfL). Họ gây ra thiệt hại lớn cho TfL và còn livestream quá trình tấn công. Cáo trạng cáo buộc họ xâm phạm an ninh mạng và gây ra hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53742d0f6844",
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T07:38:13.338175+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Pokémon Go tiếp tục thu hút triệu người chơi sau 10 năm",
+      "bullets": [
+        "Cập nhật lại trò chơi này",
+        "Đạt được thành công về mặt xã hội",
+        "Cung cấp trải nghiệm đa dạng cho người chơi",
+        "Tiếp tục phát triển sau 10 năm"
+      ],
+      "full_summary": "Trò chơi Pokémon Go đã đạt được thành công lớn sau 10 năm ra mắt. Theo Michael Steranka, phó chủ tịch của Scopely, chủ sở hữu của trò chơi, mục tiêu của trò chơi là mang lại cho người chơi một trải nghiệm xã hội. Trò chơi đã đạt được thành công về mặt xã hội và tiếp tục thu hút triệu người chơi. Trò chơi cũng cung cấp trải nghiệm đa dạng cho người chơi, từ đi dạo đến khám phá các địa điểm mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9e2ea96b4862",
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T07:38:14.890369+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Poster phim Ghana trở thành tác phẩm nghệ thuật được sưu tầm",
+      "bullets": [
+        "Tạo ra những poster phim đầy màu sắc và không chính xác",
+        "Những tác phẩm này thường gây tranh cãi và thậm chí dẫn đến đe dọa, xúc phạm và tấn công",
+        "Những nghệ sĩ tạo poster này muốn thu hút người xem",
+        "Những tác phẩm này đang trở thành một phần của văn hóa nghệ thuật ở Ghana"
+      ],
+      "full_summary": "Ở Ghana, những nghệ sĩ tạo poster phim đã trở thành một phần quan trọng của văn hóa nghệ thuật. Họ tạo ra những poster đầy màu sắc và không chính xác, thu hút người xem. Những tác phẩm này thường gây tranh cãi và thậm chí dẫn đến đe dọa, xúc phạm và tấn công. Nhưng những nghệ sĩ này vẫn tiếp tục tạo ra những tác phẩm nghệ thuật độc đáo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5afbf62fbff9",
+      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-18T07:38:15.862018+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi bảy nhân viên y tế Mỹ bị cách ly tại Kenya vì dịch Ebola",
+      "bullets": [
+        "Bảy nhân viên y tế Mỹ bị cách ly tại cơ sở cách ly ở Kenya",
+        "Họ là những người đầu tiên bị cách ly tại cơ sở này",
+        "Cơ sở cách ly đã gây ra phản ứng dữ dội ở Kenya và đang bị tòa án tạm dừng hoạt động",
+        "Nhưng Mỹ vẫn tiếp tục xây dựng cơ sở cách ly"
+      ],
+      "full_summary": "Bảy nhân viên y tế Mỹ đã bị cách ly tại cơ sở cách ly ở Kenya sau khi Mỹ áp dụng các hạn chế đi lại. Họ đã từng tham gia chiến dịch chống dịch Ebola ở Congo. Cơ sở cách ly này đã gây ra phản ứng dữ dội ở Kenya và đang bị tòa án tạm dừng hoạt động. Mặc dù vậy, Mỹ vẫn tiếp tục xây dựng cơ sở cách ly.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "56c954d7e011",
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-18T07:38:19.019956+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Google hỗ trợ vệ tinh phát hiện cháy rừng mới",
+      "bullets": [
+        "Khởi động chương trình FireSat",
+        "Đoán định cháy rừng mà vệ tinh khác bỏ qua",
+        "Hỗ trợ ngăn chặn cháy rừng ở Mỹ và Canada",
+        "Tăng cường giám sát cháy rừng toàn cầu"
+      ],
+      "full_summary": "Chương trình FireSat do Google hậu thuẫn vừa được khởi động. Các vệ tinh này có khả năng phát hiện cháy rừng mà các vệ tinh khác không thể. Chương trình này nhằm hỗ trợ ngăn chặn cháy rừng ở Mỹ và Canada, nơi đang bị ảnh hưởng bởi khói từ các đám cháy rừng. Các vệ tinh này sẽ tăng cường giám sát cháy rừng toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b5ec54402e63",
+      "title": "I started a “dirt notebook”",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-18T07:38:23.881839+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Tôi bắt đầu một cuốn sổ ghi chép về những điều không sạch",
+      "bullets": [
+        "Tôi bắt đầu một cuốn sổ ghi chép về những điều không sạch",
+        "Tôi ghi lại những điều không sạch trong cuộc sống hàng ngày",
+        "Tôi hy vọng cuốn sổ này sẽ giúp tôi nhìn nhận lại bản thân"
+      ],
+      "full_summary": "Tôi bắt đầu một cuốn sổ ghi chép về những điều không sạch, một ý tưởng mà tôi đã có từ lâu. Tôi hy vọng cuốn sổ này sẽ giúp tôi nhìn nhận lại bản thân và cải thiện bản thân. Tôi sẽ ghi lại những điều không sạch trong cuộc sống hàng ngày, từ những hành động nhỏ đến những quyết định lớn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "670d25959f13",
       "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
@@ -636,166 +795,6 @@
         "Mỹ đã chiếm giữ một tàu ở eo biển Hormuz"
       ],
       "full_summary": "Mỹ đã tấn công Iran, gây nổ ở nhiều nơi. Theo Iran, các đòn tấn công của Mỹ đã nhắm vào các cây cầu ở nước này. Mỹ đã chiếm giữ một tàu ở eo biển Hormuz. Sự kiện này được coi là một bước ngoặt mới trong quan hệ giữa Mỹ và Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fd3172340e8e",
-      "title": "Fifa 'assessing match reports' over Falklands banner",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T02:00:36.189743+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Fifa đang xem xét kỷ luật Argentina vì biểu ngữ ủng hộ chủ quyền Falkland",
-      "bullets": [
-        "Fifa đang xem xét các báo cáo trận đấu trước khi quyết định xử phạt Argentina",
-        "Các cầu thủ Argentina đã treo biểu ngữ ủng hộ chủ quyền Falkland Islands",
-        "Falkland Islands là một vùng lãnh thổ đang tranh chấp giữa Argentina và Anh",
-        "Fifa có thể sẽ áp dụng các hình phạt nếu Argentina không rút lại biểu ngữ"
-      ],
-      "full_summary": "Fifa đang xem xét kỷ luật Argentina vì các cầu thủ đội bóng này đã treo biểu ngữ ủng hộ chủ quyền Falkland Islands. Falkland Islands là một vùng lãnh thổ đang tranh chấp giữa Argentina và Anh. Nếu Fifa quyết định xử phạt, Argentina có thể sẽ phải đối mặt với các hình phạt nghiêm trọng. Việc này đã gây ra sự chú ý lớn trong cộng đồng bóng đá quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d92fb8c9112d",
-      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T02:00:37.187717+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổng thống Mỹ tố Israel cố ý kéo dài chiến tranh Iran",
-      "bullets": [
-        "Tổng thống Mỹ cáo buộc một số chính trị gia Israel cố ý kéo dài chiến tranh Iran",
-        "Tổng thống Mỹ cho rằng Israel đang cố ý chi phối dư luận Mỹ",
-        "Tổng thống Mỹ muốn chấm dứt chiến tranh Iran một cách nhanh chóng",
-        "Tổng thống Mỹ nghi ngờ Israel đang cố ý gây ra xung đột"
-      ],
-      "full_summary": "Tổng thống Mỹ đã cáo buộc một số chính trị gia Israel cố ý kéo dài chiến tranh Iran. Ông cho rằng Israel đang cố ý chi phối dư luận Mỹ để kéo dài chiến tranh. Tổng thống Mỹ muốn chấm dứt chiến tranh Iran một cách nhanh chóng. Ông nghi ngờ Israel đang cố ý gây ra xung đột.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11943fcaf9be",
-      "title": "Trump Media to sell early access to key social posts",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T02:00:38.088544+00:00",
-      "category": "economy|technology",
-      "importance": 3,
-      "headline": "Trump Media cung cấp quyền truy cập sớm vào bài đăng quan trọng với các nhà giao dịch Wall Street",
-      "bullets": [
-        "Cung cấp quyền truy cập sớm vào bài đăng quan trọng của Trump Media",
-        "Dịch vụ này dành cho các nhà giao dịch Wall Street",
-        "Phí trả cho quyền truy cập sớm",
-        "Giúp các nhà giao dịch đưa ra quyết định nhanh chóng hơn"
-      ],
-      "full_summary": "Trump Media đang ra mắt một dịch vụ trả phí cho phép các nhà giao dịch Wall Street truy cập sớm vào các bài đăng quan trọng của công ty. Dịch vụ này sẽ giúp các nhà giao dịch đưa ra quyết định nhanh chóng hơn trong việc đầu tư. Trump Media hy vọng dịch vụ này sẽ giúp công ty thu được lợi nhuận từ việc cung cấp thông tin sớm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d30a0e3a6028",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-17T02:00:39.929603+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta rút bỏ tính năng chỉnh sửa ảnh AI sau phản ứng dữ dội",
-      "bullets": [
-        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
-        "Tính năng này đã nhận được phản ứng dữ dội từ cộng đồng",
-        "Meta đã rút bỏ tính năng sau vài ngày",
-        "Cộng đồng lo ngại về tác động tiêu cực của AI"
-      ],
-      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng tính năng này đã nhận được phản ứng dữ dội từ cộng đồng. Các người dùng lo ngại về tác động tiêu cực của AI đối với xã hội. Sau vài ngày, Meta đã rút bỏ tính năng này. Đây là một ví dụ về sự cần thiết của việc kiểm soát công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "60d04152def0",
-      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-17T02:00:43.945550+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "HP bị phạt 1,4 tỷ rupee vì hành vi độc quyền trong các sản phẩm in",
-      "bullets": [
-        "HP bị phạt 1,4 tỷ rupee vì hành vi độc quyền trong các sản phẩm in",
-        "Các nhà bán lẻ đe dọa sẽ bỏ sản phẩm in của HP và chuyển sang hàng giả",
-        "HP bị cáo buộc vi phạm các quy định cạnh tranh",
-        "Phạt tiền này nhằm ngăn chặn hành vi độc quyền trong tương lai"
-      ],
-      "full_summary": "Công ty HP vừa bị phạt 1,4 tỷ rupee vì hành vi độc quyền trong các sản phẩm in, mực in, máy tính. Các nhà bán lẻ đe dọa sẽ bỏ sản phẩm in của HP và chuyển sang hàng giả nếu công ty này không thay đổi. Phạt tiền này nhằm ngăn chặn hành vi độc quyền trong tương lai và bảo vệ quyền lợi của các nhà bán lẻ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "050e0b210211",
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-17T02:00:46.715273+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nhân viên Hyundai đình công vì lo ngại robot humanoid",
-      "bullets": [
-        "Đình công vì lo ngại mất việc do robot humanoid",
-        "Hyundai dự định triển khai 25.000 robot Atlas từ năm 2028",
-        "Robot sẽ được triển khai tại các nhà máy ở Mỹ trước tiên",
-        "Sự kiện gây lo ngại về tương lai công việc của con người"
-      ],
-      "full_summary": "Nhân viên tại nhà máy của Hyundai ở Mỹ đã đình công vì lo ngại mất việc do sự triển khai của robot humanoid. Theo kế hoạch, Hyundai sẽ triển khai 25.000 robot Atlas từ năm 2028, bắt đầu từ các nhà máy ở Mỹ. Sự kiện này gây lo ngại về tương lai công việc của con người. Các nhân viên đang yêu cầu Hyundai đảm bảo việc làm và lợi ích cho họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "18ed56ce39da",
-      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T19:00:14.671570+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trẻ vị thành niên bị cáo buộc gây rối tại Ba Lan vì Nga",
-      "bullets": [
-        "Bị cáo bị bắt vì âm mưu gây rối tại Ba Lan",
-        "Mục tiêu là kích động căng thẳng sắc tộc giữa Ba Lan và Ukraine",
-        "An ninh Ba Lan đang điều tra vụ việc",
-        "Nguồn tin cho rằng vụ việc liên quan đến Nga"
-      ],
-      "full_summary": "Một thanh niên Ba Lan bị cáo buộc gây rối tại Ba Lan vì Nga. Theo an ninh Ba Lan, mục tiêu của vụ việc là kích động căng thẳng sắc tộc giữa Ba Lan và Ukraine. Vụ việc đang được điều tra. Nguồn tin cho rằng vụ việc liên quan đến Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3b8d93112b6",
-      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-16T19:00:15.611969+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cán bộ Nhà Trắng bị cáo buộc lợi dụng thông tin nội bộ để đánh bạc",
-      "bullets": [
-        "Sử dụng thông tin nội bộ về bài phát biểu để đặt cược",
-        "Đã kiếm được gần 100.000 USD trên Kalshi",
-        "Cáo buộc đang được điều tra",
-        "Cán bộ bị cáo buộc vi phạm quy định nội bộ"
-      ],
-      "full_summary": "Một cán bộ Nhà Trắng bị cáo buộc sử dụng thông tin nội bộ về bài phát biểu của Tổng thống Trump để đặt cược trên Kalshi và kiếm được gần 100.000 USD. Cáo buộc đang được điều tra. Cán bộ này bị cáo buộc vi phạm quy định nội bộ và có thể phải đối mặt với hậu quả nghiêm trọng.",
       "comments": 0,
       "score": 0
     }
