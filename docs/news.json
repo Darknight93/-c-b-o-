@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-19T02:00:13.197827+00:00",
+  "updated_at": "2026-07-19T08:04:29.584314+00:00",
   "articles": [
+    {
+      "id": "11496eba1f42",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-19T08:04:14.108494+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ và Iran tiếp tục trả đũa sau vụ giết hại 2 binh sĩ Mỹ",
+      "bullets": [
+        "Mỹ tấn công các mục tiêu Iran lần thứ 8 liên tiếp",
+        "Iran cho biết đã phóng máy bay không người lái tấn công quân đội Mỹ tại Kuwait",
+        "Vụ tấn công xảy ra sau khi 2 binh sĩ Mỹ bị giết hại tại Jordan",
+        "Hành động của Mỹ và Iran gây lo ngại về sự leo thang căng thẳng"
+      ],
+      "full_summary": "Mỹ và Iran tiếp tục trả đũa sau khi 2 binh sĩ Mỹ bị giết hại tại Jordan. Mỹ đã tấn công các mục tiêu Iran lần thứ 8 liên tiếp, trong khi Iran cho biết đã phóng máy bay không người lái tấn công quân đội Mỹ tại Kuwait. Vụ tấn công này gây lo ngại về sự leo thang căng thẳng giữa hai quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ed628325da0",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-19T08:04:15.123335+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Luis Manuel Otero Alcántara rời Cuba sang Mỹ sau 5 năm tù",
+      "bullets": [
+        "Luis Manuel Otero Alcántara rời Cuba sang Mỹ",
+        "Anh ta bị bắt trong cuộc biểu tình chống chính phủ lớn nhất Cuba trong nhiều thập kỷ",
+        "Anh ta đã trải qua 5 năm tù",
+        "Lý do rời Cuba chưa được tiết lộ"
+      ],
+      "full_summary": "Luis Manuel Otero Alcántara, một nhà bất đồng chính kiến Cuba, đã rời khỏi Cuba sang Mỹ sau khi trải qua 5 năm tù. Anh ta bị bắt vào năm 2021 trong cuộc biểu tình chống chính phủ lớn nhất Cuba trong nhiều thập kỷ. Các cuộc biểu tình này đã diễn ra trên toàn quốc và đã dẫn đến nhiều người bị bắt giữ. Lý do cụ thể của việc rời Cuba của Luis Manuel Otero Alcántara chưa được tiết lộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "be872102a241",
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-19T08:04:16.314169+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty Trung Quốc tuyên bố AI mới vượt trội OpenAI và Anthropic",
+      "bullets": [
+        "Trình bày mô hình AI mới lớn",
+        "Tuyên bố mô hình này có thể cạnh tranh với các công ty hàng đầu Mỹ",
+        "Mô hình AI mới được gọi là Kimi K3",
+        "Công ty Trung Quốc tự hào về khả năng vượt trội của AI"
+      ],
+      "full_summary": "Công ty Trung Quốc vừa công bố mô hình AI mới lớn, được gọi là Kimi K3. Họ tuyên bố rằng mô hình này có thể cạnh tranh với các công ty hàng đầu Mỹ như OpenAI và Anthropic. Mô hình AI mới này được công bố trong bối cảnh cuộc đua AI đang trở nên gay gắt hơn bao giờ hết. Công ty Trung Quốc tự hào về khả năng vượt trội của AI này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3ee91dee03f",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-19T08:04:18.580821+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Sao Tome và Principe tổ chức bầu cử tổng thống đầy căng thẳng",
+      "bullets": [
+        "Hơn 142.000 cử tri đăng ký bỏ phiếu trong cuộc bầu cử",
+        "Khoảng 15% cử tri sống ở nước ngoài",
+        "Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng",
+        "Bầu cử diễn ra trong bối cảnh quốc gia châu Phi này muốn khẳng định uy tín dân chủ"
+      ],
+      "full_summary": "Sao Tome và Principe tổ chức bầu cử tổng thống đầy căng thẳng. Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng để giành được nhiệm kỳ thứ hai. Ông đã rời khỏi đảng của mình và trở thành độc lập. Bầu cử diễn ra trong bối cảnh quốc gia châu Phi này muốn khẳng định uy tín dân chủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "20064a06be09",
+      "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
+      "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-19T08:04:19.508285+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 4,
+      "headline": "Cơ quan Phát triển Không gian của Bộ Quốc phòng Mỹ chậm tiến triển",
+      "bullets": [
+        "Chính phủ Mỹ đang đối mặt với thách thức trong việc phát triển cơ sở hạ tầng không gian",
+        "Cơ quan Phát triển Không gian của Bộ Quốc phòng Mỹ chưa đạt được tiến bộ như mong đợi",
+        "Các tên lửa đang được phóng vào lực lượng liên hợp hàng ngày trong Chiến dịch Epic Fury"
+      ],
+      "full_summary": "Cơ quan Phát triển Không gian của Bộ Quốc phòng Mỹ được thành lập để thúc đẩy công nghệ không gian quân sự, nhưng đến nay cơ quan này vẫn chưa đạt được tiến bộ như mong đợi. Các tên lửa đang được phóng vào lực lượng liên hợp hàng ngày trong Chiến dịch Epic Fury, gây ra nhiều thách thức cho cơ quan này. Chính phủ Mỹ đang phải đối mặt với nhiều thách thức trong việc phát triển cơ sở hạ tầng không gian.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1eb4d1655524",
+      "title": "Troubling new details emerge on diabetes ouster controversy",
+      "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-19T08:04:21.078373+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hội đồng tiểu đường Mỹ ngăn chặn bài viết phản biện",
+      "bullets": [
+        "Ngăn chặn xuất bản bài viết phản biện về tiểu đường",
+        "Tác giả đăng bài dưới dạng bản thảo trước",
+        "Bất thường trong quy trình xuất bản của Hội đồng tiểu đường Mỹ",
+        "Đã có nhiều tranh cãi về quyết định của Hội đồng tiểu đường Mỹ"
+      ],
+      "full_summary": "Hội đồng tiểu đường Mỹ đã ngăn chặn xuất bản một số bài viết phản biện về tiểu đường. Các tác giả đã đăng bài dưới dạng bản thảo trước. Điều này đã gây ra nhiều tranh cãi về quy trình xuất bản của Hội đồng tiểu đường Mỹ. Các chuyên gia đã chỉ trích Hội đồng tiểu đường Mỹ vì đã ngăn chặn các ý kiến trái chiều.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c2cdb4e574a8",
+      "title": "I built a browser-based P2P file transfer tool using WebRTC",
+      "url": "https://airdows.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-19T08:04:23.961408+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Tạo công cụ chuyển file ngang hàng dựa trên WebRTC",
+      "bullets": [
+        "Tạo một công cụ chuyển file ngang hàng dựa trên WebRTC",
+        "Công cụ này cho phép người dùng chuyển file trực tiếp giữa các máy tính",
+        "Công cụ được xây dựng trên nền tảng WebRTC và có thể sử dụng trên trình duyệt",
+        "Công cụ này có thể mở rộng và tùy chỉnh để đáp ứng nhu cầu của người dùng"
+      ],
+      "full_summary": "Một nhà phát triển đã xây dựng một công cụ chuyển file ngang hàng dựa trên WebRTC, cho phép người dùng chuyển file trực tiếp giữa các máy tính mà không cần qua trung gian. Công cụ này được xây dựng trên nền tảng WebRTC và có thể sử dụng trên trình duyệt. Nhà phát triển đã chia sẻ công cụ này trên Hacker News và nhận được sự quan tâm của cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1690c623113a",
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-19T08:04:26.137472+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mô hình truyền hình mới tiết kiệm hơn IPTV",
+      "bullets": [
+        "Tạo ra một hệ thống truyền hình cáp miễn phí",
+        "Sử dụng công nghệ mã hóa để bảo vệ nội dung",
+        "Cung cấp trải nghiệm xem phim giống IPTV"
+      ],
+      "full_summary": "Một dự án mã nguồn mở mới được phát triển, Castor, hứa hẹn sẽ thay thế IPTV bằng một mô hình truyền hình mới, tiết kiệm hơn và dễ sử dụng. Dự án này sử dụng công nghệ mã hóa để bảo vệ nội dung và cung cấp trải nghiệm xem phim giống IPTV. Castor được phát triển bởi một lập trình viên và đã thu hút được sự quan tâm của cộng đồng lập trình viên trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "74ad62f8442d",
       "title": "Tate brothers arrested in US after more charges laid against them in UK",
@@ -635,164 +793,6 @@
         "Tăng cường giám sát cháy rừng toàn cầu"
       ],
       "full_summary": "Chương trình FireSat do Google hậu thuẫn vừa được khởi động. Các vệ tinh này có khả năng phát hiện cháy rừng mà các vệ tinh khác không thể. Chương trình này nhằm hỗ trợ ngăn chặn cháy rừng ở Mỹ và Canada, nơi đang bị ảnh hưởng bởi khói từ các đám cháy rừng. Các vệ tinh này sẽ tăng cường giám sát cháy rừng toàn cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b5ec54402e63",
-      "title": "I started a “dirt notebook”",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-18T07:38:23.881839+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Tôi bắt đầu một cuốn sổ ghi chép về những điều không sạch",
-      "bullets": [
-        "Tôi bắt đầu một cuốn sổ ghi chép về những điều không sạch",
-        "Tôi ghi lại những điều không sạch trong cuộc sống hàng ngày",
-        "Tôi hy vọng cuốn sổ này sẽ giúp tôi nhìn nhận lại bản thân"
-      ],
-      "full_summary": "Tôi bắt đầu một cuốn sổ ghi chép về những điều không sạch, một ý tưởng mà tôi đã có từ lâu. Tôi hy vọng cuốn sổ này sẽ giúp tôi nhìn nhận lại bản thân và cải thiện bản thân. Tôi sẽ ghi lại những điều không sạch trong cuộc sống hàng ngày, từ những hành động nhỏ đến những quyết định lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "670d25959f13",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T01:50:13.357762+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Trump đe dọa áp thuế mới lên Canada vì khói từ đám cháy",
-      "bullets": [
-        "Trump đe dọa áp thuế mới lên Canada vì khói từ đám cháy",
-        "Chủ tịch Mark Carney nói Mỹ và Canada đều có trách nhiệm chung trong việc chống biến đổi khí hậu",
-        "Các chuyên gia cho rằng tình trạng cháy rừng đang tồi tệ hơn do biến đổi khí hậu",
-        "Mỹ và Canada cần cùng nhau chống lại biến đổi khí hậu"
-      ],
-      "full_summary": "Chủ tịch Mark Carney nói rằng Mỹ và Canada đều có trách nhiệm chung trong việc chống biến đổi khí hậu, nguyên nhân gây ra tình trạng cháy rừng tồi tệ hơn. Tuy nhiên, Tổng thống Trump đã đe dọa áp thuế mới lên Canada vì khói từ đám cháy ảnh hưởng đến các thành phố ở Mỹ. Các chuyên gia cho rằng Mỹ và Canada cần cùng nhau chống lại biến đổi khí hậu để giảm thiểu tác động của cháy rừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9fb48f594b7b",
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T01:50:14.203188+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ tiếp tục tấn công Iran lần thứ bảy liên tiếp",
-      "bullets": [
-        "Mỹ tiến hành các cuộc tấn công nhằm giảm sức mạnh quân sự Iran",
-        "Iran báo cáo có vụ nổ gần eo biển Hormuz",
-        "Mỹ cho biết mục tiêu là giảm sức mạnh quân sự Iran",
-        "Iran đang phản ứng với các cuộc tấn công của Mỹ"
-      ],
-      "full_summary": "Mỹ tiếp tục tiến hành các cuộc tấn công nhằm vào lực lượng vũ trang Iran. Theo thông tin từ Bộ chỉ huy Mỹ, mục tiêu là giảm sức mạnh quân sự Iran. Iran báo cáo có vụ nổ gần eo biển Hormuz. Các cuộc tấn công này diễn ra lần thứ bảy liên tiếp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "497c033baeea",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T01:50:15.150339+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cán bộ quân đội Ukraine phẫn nộ khi Bộ trưởng Quốc phòng bị sa thải",
-      "bullets": [
-        "Căng thẳng nổ ra ở Ukraine sau khi Bộ trưởng Quốc phòng Mykhailo Fedorov bị sa thải",
-        "Hàng trăm binh sĩ biểu tình phản đối quyết định này",
-        "Các binh sĩ cho biết họ không đồng ý với việc sa thải Bộ trưởng Quốc phòng"
-      ],
-      "full_summary": "Các binh sĩ Ukraine đã biểu tình phản đối việc Bộ trưởng Quốc phòng Mykhailo Fedorov bị sa thải. Họ cho biết họ không đồng ý với quyết định này và đang yêu cầu được giải thích rõ ràng. Căng thẳng đã nổ ra ở Ukraine sau khi thông tin về việc sa thải Bộ trưởng Quốc phòng được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ff42aa6396f",
-      "title": "White House defends Argentina team over Falklands banner",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T01:50:16.169735+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bắc Mỹ bảo vệ đội bóng Argentina trước cáo buộc",
-      "bullets": [
-        "Đại diện Nhà Trắng lên tiếng phản bác cáo buộc",
-        "Fifa sẽ điều tra vụ việc theo yêu cầu của chính phủ Anh",
-        "Vụ việc gây bất đồng giữa Argentina và Anh",
-        "Đài chính phủ Anh kêu gọi Fifa điều tra vụ việc"
-      ],
-      "full_summary": "Bắc Mỹ đã lên tiếng bảo vệ đội bóng Argentina sau khi họ sử dụng băng rôn có liên quan đến tranh chấp giữa Argentina và Anh. Vụ việc đã gây ra sự bất đồng và chính phủ Anh đã kêu gọi Fifa điều tra vụ việc. Đại diện Nhà Trắng cho biết họ sẽ không can thiệp vào vụ việc này. Vụ việc đã trở thành một điểm nóng trong thời gian gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cdbe8bcac673",
-      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T01:50:17.210677+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nga tăng cường đàn áp đối thủ, một người bị phạt, một người bị giam giữ",
-      "bullets": [
-        "Nga phạt Boris Nadezhdin vì chỉ trích chiến tranh",
-        "Blogger Ilya Remeslo bị giữ ở nhà tù",
-        "Nadezhdin bị cấm tham gia bầu cử",
-        "Nga tăng cường đàn áp đối thủ trong thời gian chiến tranh"
-      ],
-      "full_summary": "Nga tiếp tục đàn áp các đối thủ của họ, đặc biệt là những người chỉ trích chiến tranh. Boris Nadezhdin, một người chỉ trích chiến tranh, đã bị phạt vì tham gia vào các hoạt động chính trị. Trong khi đó, blogger Ilya Remeslo đã bị giữ ở nhà tù vì tội danh chưa rõ. Điều này cho thấy Nga đang tăng cường đàn áp các đối thủ của họ trong thời gian chiến tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "91eb89c2ac75",
-      "title": "TikTok faces Ofcom investigation over child age checks",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T01:50:18.120203+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "TikTok bị Ofcom điều tra vì kiểm tra tuổi trẻ em không đủ an toàn",
-      "bullets": [
-        "TikTok sẽ bị điều tra vì không kiểm tra tuổi trẻ em một cách đầy đủ",
-        "Ofcom đã chỉ trích TikTok trong một đánh giá vào tháng 5 vì không an toàn cho trẻ em",
-        "TikTok đã không thực hiện được yêu cầu của Ofcom về việc kiểm tra tuổi trẻ em",
-        "TikTok sẽ phải đối mặt với một cuộc điều tra của Ofcom"
-      ],
-      "full_summary": "TikTok đang phải đối mặt với một cuộc điều tra của Ofcom vì không thực hiện được yêu cầu về việc kiểm tra tuổi trẻ em. Trong một đánh giá vào tháng 5, Ofcom đã chỉ trích TikTok vì không an toàn cho trẻ em. Ofcom đã yêu cầu TikTok thực hiện các biện pháp để kiểm tra tuổi trẻ em, nhưng TikTok đã không thực hiện được yêu cầu này. Bây giờ, TikTok sẽ phải đối mặt với một cuộc điều tra của Ofcom để xem xét liệu họ đã thực hiện được yêu cầu này hay chưa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "814bc7012cb3",
-      "title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T01:50:22.530897+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Taco Bell bị phát hiện có chứa ký sinh trùng gây tiêu chảy",
-      "bullets": [
-        "CDC xác định nguồn gốc ký sinh trùng là rau xà lách từ Mexico",
-        "Taco Bell có 5 nhà hàng ở 5 bang bị ảnh hưởng",
-        "Federal cảnh báo người tiêu dùng không ăn xà lách từ Taco Bell",
-        "Nghiên cứu của FDA chỉ ra một nhà cung cấp duy nhất của xà lách"
-      ],
-      "full_summary": "Các cơ quan y tế liên bang đã xác định nguồn gốc ký sinh trùng gây tiêu chảy là rau xà lách từ Mexico được phục vụ tại các nhà hàng Taco Bell ở 5 bang Indiana, Kentucky, Michigan, Ohio và West Virginia. CDC đã cảnh báo người tiêu dùng không ăn xà lách từ Taco Bell. Nghiên cứu của FDA chỉ ra một nhà cung cấp duy nhất của xà lách.",
       "comments": 0,
       "score": 0
     }
