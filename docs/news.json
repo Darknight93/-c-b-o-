@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-19T18:55:37.895174+00:00",
+  "updated_at": "2026-07-20T02:21:01.838947+00:00",
   "articles": [
+    {
+      "id": "3ea708900b0f",
+      "title": "Norway opens new memorial for victims of 2011 Breivik massacre",
+      "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T02:20:45.700780+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nga khánh thành đài tưởng niệm nạn nhân vụ tấn công Breivik năm 2011",
+      "bullets": [
+        "Khánh thành đài tưởng niệm mới ở thủ đô Oslo",
+        "Đài tưởng niệm được thiết kế với nghệ thuật đặc biệt",
+        "Đài tưởng niệm nhằm tưởng nhớ nạn nhân vụ tấn công năm 2011",
+        "Đài tưởng niệm được mở cửa trước ngày kỷ niệm 15 năm vụ tấn công"
+      ],
+      "full_summary": "Nga vừa khánh thành đài tưởng niệm mới ở thủ đô Oslo để tưởng nhớ nạn nhân vụ tấn công Breivik năm 2011. Đài tưởng niệm được thiết kế với nghệ thuật đặc biệt và được mở cửa trước ngày kỷ niệm 15 năm vụ tấn công. Vụ tấn công năm 2011 đã gây ra thương vong nghiêm trọng và để lại nhiều vết thương tâm lý cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11943fcaf9be",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T02:20:46.758212+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Trump Media sẽ cung cấp nội dung ảnh hưởng trực tiếp đến thị trường tài chính",
+      "bullets": [
+        "Trump Media sẽ phát hành một dịch vụ trả phí cung cấp nội dung ảnh hưởng trực tiếp đến thị trường tài chính",
+        "Dịch vụ này sẽ cung cấp cho các nhà giao dịch trên Wall Street thông tin cập nhật nhanh chóng",
+        "Nội dung sẽ bao gồm các bài đăng xã hội của Trump Media được xác định là ảnh hưởng trực tiếp đến thị trường",
+        "Dịch vụ này sẽ được cung cấp thông qua một ứng dụng riêng biệt"
+      ],
+      "full_summary": "Trump Media đang chuẩn bị ra mắt một dịch vụ mới cung cấp cho các nhà giao dịch trên Wall Street thông tin cập nhật nhanh chóng về các bài đăng xã hội ảnh hưởng trực tiếp đến thị trường tài chính. Dịch vụ này sẽ được cung cấp thông qua một ứng dụng riêng biệt và sẽ bao gồm các bài đăng xã hội của Trump Media được xác định là ảnh hưởng trực tiếp đến thị trường. Điều này sẽ giúp các nhà giao dịch có thể cập nhật thông tin nhanh chóng và đưa ra quyết định chính xác hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d30a0e3a6028",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T02:20:48.722385+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta hủy bỏ tính năng chỉnh sửa ảnh AI sau phản ứng dữ dội",
+      "bullets": [
+        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
+        "Tính năng này gây ra phản ứng dữ dội từ cộng đồng",
+        "Meta đã hủy bỏ tính năng sau vài ngày",
+        "Cộng đồng lo ngại về tác động tiêu cực của AI"
+      ],
+      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, công ty đã hủy bỏ tính năng này. Tính năng này cho phép người dùng chỉnh sửa ảnh bằng trí tuệ nhân tạo, nhưng nó đã gây ra phản ứng dữ dội từ cộng đồng. Các chuyên gia lo ngại về tác động tiêu cực của AI đối với xã hội và nền tảng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5afbf62fbff9",
+      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T02:20:50.004197+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi lăm người Mỹ bị cách ly vì Ebola ở Kenya",
+      "bullets": [
+        "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya",
+        "Cơ sở cách ly gây ra phản ứng dữ dội ở Kenya và đang bị tòa án đình chỉ",
+        "Người Mỹ bị cách ly đã từng tham gia chống dịch Ebola tại Cộng hòa Dân chủ Congo",
+        "Họ phải tuân thủ quy định mới của chính phủ Mỹ về hạn chế di chuyển"
+      ],
+      "full_summary": "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya sau khi chính phủ Mỹ giới thiệu hạn chế di chuyển. Họ đã từng tham gia chống dịch Ebola tại Cộng hòa Dân chủ Congo. Cơ sở cách ly này đã gây ra phản ứng dữ dội ở Kenya và đang bị tòa án đình chỉ. Mặc dù vậy, công trình xây dựng vẫn tiếp tục, theo các quan chức Mỹ và hình ảnh vệ tinh được Reuters đánh giá.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4e6cd8426c32",
+      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T02:20:51.095781+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ngoại giao Anh cắt giảm hỗ trợ cho một số nước châu Phi",
+      "bullets": [
+        "Cắt giảm hỗ trợ cho một số nước châu Phi lên tới 90%",
+        "Báo cáo của Bộ Ngoại giao Anh tiết lộ chi tiết về cắt giảm ngân sách hỗ trợ",
+        "Cắt giảm hỗ trợ sẽ ảnh hưởng đến vai trò của Anh trên trường quốc tế",
+        "Lực lượng đối lập chỉ trích quyết định cắt giảm hỗ trợ của chính phủ Anh"
+      ],
+      "full_summary": "Theo báo cáo của Bộ Ngoại giao Anh, cắt giảm ngân sách hỗ trợ sẽ khiến hỗ trợ cho một số nước châu Phi giảm tới 90%. Điều này được cho là sẽ ảnh hưởng đến vai trò của Anh trên trường quốc tế. Lực lượng đối lập đã chỉ trích quyết định cắt giảm hỗ trợ của chính phủ Anh. Cắt giảm hỗ trợ sẽ có tác động nghiêm trọng đến các nước châu Phi đang cần sự hỗ trợ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1a22ce241ad",
+      "title": "We want Texans to know their rights",
+      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-20T02:20:54.099031+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tổ chức bảo vệ quyền riêng tư ở Texas giáo dục người dân về quyền của họ",
+      "bullets": [
+        "Giáo dục người dân về quyền của họ trong việc truy cập thông tin sức khỏe",
+        "Phản đối việc giám sát và thu thập dữ liệu liên quan đến phá thai",
+        "Tôn trọng quyền riêng tư và tự do của phụ nữ",
+        "Khuyến khích người dân tham gia vào các cuộc tranh luận về quyền riêng tư"
+      ],
+      "full_summary": "Tổ chức Electronic Frontier Foundation (EFF) ở Texas đã công bố một bản hỏi đáp về quyền riêng tư và sức khỏe của phụ nữ. Họ muốn giáo dục người dân về quyền của họ trong việc truy cập thông tin sức khỏe và phản đối việc giám sát và thu thập dữ liệu liên quan đến phá thai. EFF tin rằng quyền riêng tư và tự do của phụ nữ cần được tôn trọng và khuyến khích người dân tham gia vào các cuộc tranh luận về quyền riêng tư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f6ef2fee3b3b",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-20T02:20:57.072977+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một emulátor mới cho CPU Itanium của Intel có thể khởi động Windows",
+      "bullets": [
+        "Tạo ra một emulátor Itanium mới cho phép khởi động Windows",
+        "Emulátor này hỗ trợ các tính năng của CPU Itanium",
+        "Cải thiện khả năng tương thích của hệ điều hành Windows với CPU Itanium"
+      ],
+      "full_summary": "Một lập trình viên đã tạo ra một emulátor mới cho CPU Itanium của Intel, cho phép khởi động hệ điều hành Windows trên các thiết bị không hỗ trợ CPU này. Emulátor này hỗ trợ các tính năng của CPU Itanium và cải thiện khả năng tương thích của hệ điều hành Windows với CPU Itanium. Điều này có thể giúp mở rộng khả năng tương thích của hệ điều hành Windows với các thiết bị cũ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b1321a7a5f91",
+      "title": "The mysterious hum heard around the world may finally have an explanation",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+      "source": "Science Daily",
+      "icon": "🔭",
+      "fetched_at": "2026-07-20T02:21:00.048948+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Nghi vấn âm thanh bí ẩn trên toàn cầu có thể đã được giải đáp",
+      "bullets": [
+        "Các nhà nghiên cứu đã thử nghiệm lý giải về khả năng nghe âm thanh thấp của con người",
+        "Họ cũng kiểm tra xem liệu âm thanh có thể được tạo ra bên trong tai của người nghe hay không",
+        "Kết quả cho thấy nhiều trường hợp có thể liên quan đến tinnitus có tần số thấp"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã tìm ra một giải thích tiềm năng cho âm thanh bí ẩn được gọi là The Hum, đã được báo cáo trên toàn cầu trong nhiều thập kỷ. Họ đã thử nghiệm hai lý giải phổ biến, bao gồm khả năng nghe âm thanh thấp của con người và âm thanh được tạo ra bên trong tai của người nghe, nhưng kết quả cho thấy cả hai lý giải này không phù hợp với hầu hết các tham gia. Kết quả cho thấy nhiều trường hợp có thể liên quan đến tinnitus có tần số thấp.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "68dc2cf37237",
       "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
@@ -631,165 +789,6 @@
         "Người dân ở Indiana, Kentucky, Michigan, Ohio và West Virginia nên tránh ăn rau xà lách của Taco Bell"
       ],
       "full_summary": "Tập đoàn Taco Bell vừa xác định nguồn gây bệnh cyclosporiasis tại 5 bang ở Mỹ là rau xà lách. Các bang bị ảnh hưởng bao gồm Indiana, Kentucky, Michigan, Ohio và West Virginia. Người dân ở các bang này nên tránh ăn rau xà lách của Taco Bell để tránh bị nhiễm bệnh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0749cd9f30a",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-19T02:00:09.420042+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một trang web về Codex Resets đã xuất hiện",
-      "bullets": [
-        "Mở ra trang web Codex Resets",
-        "Trang web này liên quan đến một sự kiện lớn trong lĩnh vực công nghệ",
-        "Người dùng có thể tìm hiểu thêm thông tin về Codex Resets tại trang web này"
-      ],
-      "full_summary": "Một trang web mới về Codex Resets đã được tạo ra, nơi người dùng có thể tìm hiểu thêm về sự kiện này. Trang web này có liên quan đến lĩnh vực công nghệ và đang thu hút sự chú ý của nhiều người dùng. Người dùng có thể truy cập trang web này để tìm hiểu thêm thông tin về Codex Resets.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "983020314438",
-      "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
-      "url": "https://www.nature.com/articles/d41586-026-02263-4",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-19T02:00:12.697669+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Mô hình đường mía được phát hiện trong không gian",
-      "bullets": [
-        "Khám phá mô hình đường mía bốn nguyên tử carbon trong không gian",
-        "Tìm thấy công thức trên tường tiết lộ tên nhà toán học Maya",
-        "Khám phá này mở ra khả năng có sự sống ngoài Trái Đất",
-        "Mô hình đường mía có thể là dấu hiệu của sự sống ngoài Trái Đất"
-      ],
-      "full_summary": "Các nhà khoa học vừa phát hiện ra mô hình đường mía bốn nguyên tử carbon trong không gian. Mô hình này được tìm thấy trong một nghiên cứu về các phân tử trong không gian. Ngoài ra, một công thức được tìm thấy trên tường tiết lộ tên nhà toán học Maya. Khám phá này mở ra khả năng có sự sống ngoài Trái Đất và mô hình đường mía có thể là dấu hiệu của sự sống ngoài Trái Đất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8374dfba8823",
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T18:52:39.928358+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hai binh sĩ Mỹ bị giết, một người mất tích sau vụ tấn công của Iran",
-      "bullets": [
-        "Jordan bắt được 10 tên lửa Iran",
-        "Tên lửa tấn công vào không phận Jordan",
-        "Hai binh sĩ Mỹ bị giết, một người mất tích",
-        "Vụ tấn công diễn ra vào đêm qua"
-      ],
-      "full_summary": "Jordan cho biết đã bắt được 10 tên lửa Iran được phóng vào không phận nước này. Sau đó, Iran đã tấn công một căn cứ quân sự ở Jordan, khiến hai binh sĩ Mỹ bị giết và một người mất tích. Vụ tấn công diễn ra vào đêm qua, khi Jordan cho biết đã bắt được tên lửa Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9a73446a67df",
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T18:52:40.850289+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch Hungary đồng ý từ chức sau khi Quốc hội bỏ phiếu",
-      "bullets": [
-        "Đồng ý từ chức",
-        "Tamás Sulyok là người được coi là người trung thành với Orbán",
-        "Quốc hội Hungary bỏ phiếu để loại bỏ ông",
-        "Sulyok có đến tối thứ Bảy để đồng ý kết thúc nhiệm kỳ"
-      ],
-      "full_summary": "Chủ tịch Hungary Tamás Sulyok đã đồng ý từ chức sau khi Quốc hội bỏ phiếu để loại bỏ ông. Ông Sulyok được coi là người trung thành với Thủ tướng Viktor Orbán. Quyết định này được đưa ra sau khi Quốc hội bỏ phiếu để loại bỏ ông. Điều này có thể dẫn đến việc thay đổi chính trị ở Hungary.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ea19a489c520",
-      "title": "German politician resigns over surrogacy child controversy",
-      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T18:52:41.822293+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chính trị gia Đức từ chức vì vụ tranh cãi về con nuôi",
-      "bullets": [
-        "Chính trị gia Đức Jens Spahn từ chức",
-        "Ông bị chỉ trích vì sử dụng con nuôi",
-        "Trước đó, ông ủng hộ cấm sử dụng con nuôi",
-        "Vụ việc gây tranh cãi trong dư luận"
-      ],
-      "full_summary": "Chính trị gia Đức Jens Spahn đã từ chức sau khi bị chỉ trích vì sử dụng con nuôi. Ông Spahn trước đó đã ủng hộ cấm sử dụng con nuôi, nhưng sau đó lại sử dụng dịch vụ này. Vụ việc gây tranh cãi trong dư luận và được coi là một sự bất thường. Jens Spahn từng là một ứng cử viên sáng giá cho chức vụ Thủ tướng Đức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f5a15c401a8",
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T18:52:42.732837+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Uganda kêu gọi bỏ cấm đi lại vì Ebola sau khi bệnh nhân cuối cùng được điều trị",
-      "bullets": [
-        "Uganda bắt đầu vận động các quốc gia bỏ cấm đi lại vì Ebola",
-        "Bệnh nhân cuối cùng được điều trị khỏi Ebola",
-        "Uganda bắt đầu đếm ngược 42 ngày để được công bố hết dịch Ebola",
-        "Số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo lân cận"
-      ],
-      "full_summary": "Uganda đã bắt đầu vận động các quốc gia bỏ cấm đi lại vì Ebola sau khi bệnh nhân cuối cùng được điều trị khỏi bệnh. Bệnh nhân này là một công dân Cộng hòa Dân chủ Congo và được điều trị tại bệnh viện Mulago ở Kampala. Để được công bố hết dịch Ebola, Uganda cần phải không có ca nhiễm mới trong 42 ngày kể từ ngày 16/7. Số ca nhiễm Ebola vẫn tiếp tục tăng ở Cộng hòa Dân chủ Congo lân cận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3957f9640ab9",
-      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T18:52:43.956515+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Khí thải từ cháy rừng ở Canada và Minnesota gây ô nhiễm không khí ở Mỹ",
-      "bullets": [
-        "Cảnh báo ô nhiễm không khí vẫn còn hiệu lực ở nhiều khu vực của Mỹ",
-        "Mưa có thể cải thiện tình hình ở miền trung Đại Tây Dương và Bắc Đông",
-        "Các khu vực ở miền trung và khu vực Hồ Đại Tây Dương sẽ tiếp tục gặp khó khăn về chất lượng không khí",
-        "Mưa giông có thể mang lại một số lợi ích nhưng cũng mang lại rủi ro như lũ lụt và gió mạnh"
-      ],
-      "full_summary": "Cảnh báo ô nhiễm không khí vẫn còn hiệu lực ở nhiều khu vực của Mỹ do khí thải từ cháy rừng ở Canada và Minnesota. Mưa có thể cải thiện tình hình ở miền trung Đại Tây Dương và Bắc Đông, nhưng các khu vực ở miền trung và khu vực Hồ Đại Tây Dương sẽ tiếp tục gặp khó khăn về chất lượng không khí. Các chuyên gia dự đoán rằng tình hình sẽ không cải thiện cho đến khi mưa giông đến.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e077d791f273",
-      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-18T18:52:45.046581+00:00",
-      "category": "politics|economy|other",
-      "importance": 5,
-      "headline": "Cuba đang đứng trước cuộc khủng hoảng do thiếu điện và can thiệp của Mỹ",
-      "bullets": [
-        "Cuba đang phải đối mặt với cuộc khủng hoảng do thiếu điện kéo dài.",
-        "Hàng loạt cuộc biểu tình đang nổ ra trên toàn đảo.",
-        "Chính phủ Cuba đang phải đối mặt với áp lực từ Mỹ để thay đổi chính sách.",
-        "Cuba đang phải vật lộn để duy trì hệ thống điện năng lượng của mình."
-      ],
-      "full_summary": "Cuba đang đứng trước cuộc khủng hoảng nghiêm trọng do thiếu điện kéo dài. Cuộc khủng hoảng này đã khiến hàng loạt cuộc biểu tình nổ ra trên toàn đảo. Chính phủ Cuba đang phải đối mặt với áp lực từ Mỹ để thay đổi chính sách. Hệ thống điện năng lượng của Cuba đang đứng trước nguy cơ sụp đổ.",
       "comments": 0,
       "score": 0
     }
