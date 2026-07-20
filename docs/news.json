@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-07-20T02:21:01.838947+00:00",
+  "updated_at": "2026-07-20T08:46:02.578838+00:00",
   "articles": [
+    {
+      "id": "caa80093013f",
+      "title": "Food delivery rider wins China's top literary prize",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T08:45:47.983731+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người giao hàng ăn trúng giải thưởng văn học hàng đầu Trung Quốc",
+      "bullets": [
+        "Trúng giải thưởng văn học hàng đầu Trung Quốc",
+        "Là một trong số những công nhân lao động phổ thông nổi tiếng với tác phẩm văn học",
+        "Tác phẩm của Wang Jibing được công nhận rộng rãi",
+        "Là một ví dụ về sự thay đổi trong quan điểm về lao động phổ thông"
+      ],
+      "full_summary": "Wang Jibing, một người giao hàng ăn, đã giành giải thưởng văn học hàng đầu Trung Quốc. Đây là một trong số những công nhân lao động phổ thông nổi tiếng với tác phẩm văn học. Tác phẩm của Wang Jibing đã được công nhận rộng rãi và được coi là một ví dụ về sự thay đổi trong quan điểm về lao động phổ thông.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f5a15c401a8",
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T08:45:50.085635+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Uganda kêu gọi dỡ bỏ hạn chế đi lại sau khi bệnh nhân Ebola cuối cùng được điều trị",
+      "bullets": [
+        "Uganda bắt đầu vận động các quốc gia dỡ bỏ hạn chế đi lại liên quan đến Ebola",
+        "Số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo",
+        "Uganda bắt đầu thời gian đếm ngược 42 ngày để được công nhận không có Ebola",
+        "Không có ca nhiễm mới được phát hiện trong 42 ngày thì Uganda sẽ được công nhận không có Ebola"
+      ],
+      "full_summary": "Uganda đã bắt đầu vận động các quốc gia dỡ bỏ hạn chế đi lại liên quan đến Ebola sau khi bệnh nhân Ebola cuối cùng được điều trị khỏi. Theo World Health Organization (WHO), Uganda cần phải không có ca nhiễm mới trong 42 ngày thì mới được công nhận không có Ebola. Số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo. Điều này cho thấy Uganda vẫn đang ở trong tình trạng cảnh báo cao về Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cde3e43bd3e3",
+      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
+      "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T08:45:51.144272+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Brazil xóa bỏ hoạt động khai thác vàng bất hợp pháp gây tàn phá khu vực của người bản địa",
+      "bullets": [
+        "Brazil triển khai chiến dịch xóa bỏ hoạt động khai thác vàng bất hợp pháp",
+        "Hoạt động khai thác vàng bất hợp pháp gây tàn phá khu vực của người bản địa",
+        "Lực lượng Brazil tấn công các khu định cư bất hợp pháp của người khai thác vàng",
+        "Mục tiêu cuối cùng là bảo vệ khu vực của người bản địa khỏi khai thác vàng bất hợp pháp"
+      ],
+      "full_summary": "Brazil đang triển khai chiến dịch xóa bỏ hoạt động khai thác vàng bất hợp pháp gây tàn phá khu vực của người bản địa. Các khu định cư bất hợp pháp của người khai thác vàng đã bị tàn phá nghiêm trọng, gây ra những hậu quả nghiêm trọng cho môi trường và cộng đồng người bản địa. Lực lượng Brazil đang nỗ lực xóa bỏ hoạt động khai thác vàng bất hợp pháp và bảo vệ khu vực của người bản địa khỏi khai thác vàng bất hợp pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d1d5f1a14a91",
+      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-20T08:45:52.177994+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Thuyền chở hành khách bị chìm ngoài khơi Guyana, hàng chục người mất tích",
+      "bullets": [
+        "Bắt đầu cuộc điều tra hình sự sau khi danh sách hành khách không chính xác",
+        "Cơ quan chức năng đang tiến hành tìm kiếm cứu hộ",
+        "Hàng chục người mất tích sau khi thuyền chở hành khách bị chìm",
+        "Đã phát hiện chất ma túy trên người thuyền trưởng và một thành viên thủy thủ đoàn"
+      ],
+      "full_summary": "Một thuyền chở hành khách đã bị chìm ngoài khơi Guyana, gây ra một trong những tai nạn hàng hải tồi tệ nhất của nước này. Cuộc điều tra hình sự đã được bắt đầu sau khi danh sách hành khách không chính xác và phát hiện chất ma túy trên người thuyền trưởng và một thành viên thủy thủ đoàn. Hàng chục người mất tích và đang tiến hành tìm kiếm cứu hộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "044a992b6113",
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-20T08:45:53.780500+00:00",
+      "category": "khoa học",
+      "importance": 5,
+      "headline": "Động thái lịch sử: Tên lửa tư nhân đầu tiên của Ấn Độ đạt quỹ đạo",
+      "bullets": [
+        "Đạt được quỹ đạo trong lần thử nghiệm đầu tiên",
+        "Tên lửa tư nhân đầu tiên của Ấn Độ được phát triển bởi công ty riêng",
+        "Lần phóng đầu tiên thành công của tên lửa tư nhân Ấn Độ",
+        "Đánh dấu bước tiến quan trọng trong công nghệ tên lửa Ấn Độ"
+      ],
+      "full_summary": "Tên lửa tư nhân đầu tiên của Ấn Độ đã đạt được quỹ đạo trong lần thử nghiệm đầu tiên. Điều này đánh dấu một bước tiến quan trọng trong công nghệ tên lửa Ấn Độ. Người phát triển tên lửa đã mô tả việc đạt được quỹ đạo là một điều không thể tin được. Đây là một thành công lịch sử đối với Ấn Độ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f90ecbcd7a32",
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-20T08:45:59.066582+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Máy tính xác suất lớn nhất chuyển nhiễu thành câu trả lời",
+      "bullets": [
+        "Là máy tính xác suất lớn nhất thế giới",
+        "Chuyển nhiễu thành câu trả lời thông qua thuật toán",
+        "Sử dụng trong nhiều ứng dụng khác nhau"
+      ],
+      "full_summary": "Máy tính xác suất lớn nhất thế giới đã được tạo ra, nó có khả năng chuyển nhiễu thành câu trả lời thông qua thuật toán. Máy tính này có thể được sử dụng trong nhiều ứng dụng khác nhau, bao gồm cả lĩnh vực khoa học và công nghệ. Nó giúp con người có thể giải quyết các vấn đề phức tạp một cách nhanh chóng và hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3ea708900b0f",
       "title": "Norway opens new memorial for victims of 2011 Breivik massacre",
@@ -670,125 +789,6 @@
         "Họ đã bị bắt giữ tại Mỹ"
       ],
       "full_summary": "Hai anh em Tate đã bị bắt giữ tại Mỹ sau khi bị truy tố thêm tại Anh. Cơ quan truy tố Anh cho biết họ sẽ yêu cầu extradite họ từ Mỹ. Luật sư của họ đã bác bỏ các cáo buộc mới là 'slander'. Các cáo buộc mới này là một phần của vụ án liên quan đến một sự cố tại Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "487c9543eaea",
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T01:59:58.513981+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Nhiều người Nga chuyển sang tiền mặt do chiến tranh",
-      "bullets": [
-        "Cấm sử dụng mạng di động",
-        "Nhiều doanh nghiệp trốn thuế",
-        "Tình trạng kinh tế chậm lại",
-        "Sự bất ổn trong cuộc chiến kéo dài"
-      ],
-      "full_summary": "Người dân Nga đang phải đối mặt với nhiều khó khăn do chiến tranh kéo dài. Nhiều người đã chuyển sang sử dụng tiền mặt do không thể truy cập mạng di động. Điều này đã khiến nhiều doanh nghiệp tìm cách trốn thuế, làm cho tình trạng kinh tế chậm lại trở nên nghiêm trọng hơn. Chiến tranh đã kéo dài hơn 4 năm và vẫn chưa có dấu hiệu dừng lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1a6f23ca5f10",
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T01:59:59.422491+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hàng không châu Âu gặp khó khăn vì hệ thống kiểm soát biên giới mới",
-      "bullets": [
-        "Giờ chờ đợi tại kiểm soát hộ chiếu tăng gấp ba lần",
-        "Ryanair cảnh báo hành khách chuẩn bị chờ đợi lâu hơn",
-        "Hệ thống kiểm soát biên giới mới gây khó khăn cho các chuyến bay",
-        "Hành khách phải chuẩn bị chờ đợi lâu hơn khi đi châu Âu"
-      ],
-      "full_summary": "Một hệ thống kiểm soát biên giới mới của EU đã gây khó khăn cho các chuyến bay, khiến giờ chờ đợi tại kiểm soát hộ chiếu tăng gấp ba lần. Ryanair đã cảnh báo hành khách chuẩn bị chờ đợi lâu hơn khi đi châu Âu. Hệ thống này đã được triển khai và đang gây khó khăn cho các chuyến bay.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e1aa1e57bed",
-      "title": "SpaceX share price drops below stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T02:00:00.330718+00:00",
-      "category": "kinh tế",
-      "importance": 3,
-      "headline": "Giá cổ phiếu SpaceX giảm mạnh sau lần ra mắt",
-      "bullets": [
-        "Giảm mạnh sau lần ra mắt trên thị trường chứng khoán",
-        "Hoạt động giao dịch cổ phiếu SpaceX biến động mạnh",
-        "Cổ phiếu SpaceX đã giảm giá kể từ khi công ty này ra mắt",
-        "Elon Musk đang đối mặt với áp lực về giá cổ phiếu"
-      ],
-      "full_summary": "Cổ phiếu SpaceX đã giảm mạnh kể từ khi công ty này ra mắt trên thị trường chứng khoán một tháng trước. Hoạt động giao dịch cổ phiếu biến động mạnh, gây áp lực cho Elon Musk. Giá cổ phiếu đã giảm mạnh kể từ khi công ty này ra mắt, khiến nhiều người đặt câu hỏi về tương lai của SpaceX.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "430a2cc1a7ac",
-      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
-      "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T02:00:02.681539+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mưa lũ và khói từ Canada đe dọa Bắc Đông Mỹ",
-      "bullets": [
-        "Khói từ cháy rừng Canada trở lại New York",
-        "Mưa lớn gây lũ lụt ở một số khu vực",
-        "Sự cố thời tiết nghiêm trọng ở Bắc Đông Mỹ",
-        "Tình trạng ô nhiễm không khí trở lại mức không an toàn"
-      ],
-      "full_summary": "Cơn bão mưa lớn đang đe dọa Bắc Đông Mỹ, nơi mà khói từ cháy rừng Canada đã trở lại, khiến không khí trở nên ô nhiễm. Mưa lớn đã gây ra lũ lụt ở một số khu vực, khiến người dân phải đối mặt với tình huống khẩn cấp. Sự cố thời tiết nghiêm trọng này đang diễn ra trong bối cảnh không khí vẫn còn bị ảnh hưởng bởi khói từ cháy rừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1a46929e322",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-19T02:00:03.799334+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Tính toán AI có giúp giảm thủ tục xác minh trước hay làm nó tồi tệ hơn?",
-      "bullets": [
-        "Xây dựng một chương trình thử nghiệm sử dụng AI để quyết định bồi thường bảo hiểm",
-        "Giảm thiểu thời gian chờ đợi và tăng cường hiệu suất cho hệ thống xác minh trước",
-        "Cần đánh giá hiệu quả và độ chính xác của AI trong việc xử lý hồ sơ bồi thường",
-        "Làm thế nào để đảm bảo AI không tạo ra những sai lầm và bất công trong hệ thống"
-      ],
-      "full_summary": "Chính phủ đang thử nghiệm một chương trình sử dụng trí tuệ nhân tạo (AI) để quyết định bồi thường bảo hiểm. Mục tiêu của chương trình này là giảm thiểu thời gian chờ đợi và tăng cường hiệu suất cho hệ thống xác minh trước. Tuy nhiên, vẫn còn nhiều câu hỏi về hiệu quả và độ chính xác của AI trong việc xử lý hồ sơ bồi thường. Để đảm bảo AI không tạo ra những sai lầm và bất công trong hệ thống, cần phải đánh giá và kiểm tra kỹ lưỡng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0952717f8398",
-      "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
-      "url": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-19T02:00:06.218111+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Taco Bell có rau xà lách chứa vi khuẩn gây bệnh",
-      "bullets": [
-        "Xác định nguồn gây bệnh cyclosporiasis tại 5 bang",
-        "Tập đoàn Taco Bell yêu cầu ngừng sử dụng rau xà lách",
-        "Người dân ở Indiana, Kentucky, Michigan, Ohio và West Virginia nên tránh ăn rau xà lách của Taco Bell"
-      ],
-      "full_summary": "Tập đoàn Taco Bell vừa xác định nguồn gây bệnh cyclosporiasis tại 5 bang ở Mỹ là rau xà lách. Các bang bị ảnh hưởng bao gồm Indiana, Kentucky, Michigan, Ohio và West Virginia. Người dân ở các bang này nên tránh ăn rau xà lách của Taco Bell để tránh bị nhiễm bệnh.",
       "comments": 0,
       "score": 0
     }
