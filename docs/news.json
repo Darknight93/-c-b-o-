@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-21T08:12:58.244064+00:00",
+  "updated_at": "2026-07-21T13:22:20.302567+00:00",
   "articles": [
+    {
+      "id": "725d02902b5f",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T13:22:05.173529+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Israel rút quân khỏi khu vực Lebanon sau thỏa thuận do Mỹ brocker",
+      "bullets": [
+        "Israel sẽ rút quân khỏi một phần nhỏ Lebanon",
+        "Lực lượng Lebanon sẽ triển khai ở khu vực này",
+        "Thỏa thuận được Mỹ brocker sau xung đột với Hezbollah",
+        "Khu vực này sẽ trở thành 'vùng thử nghiệm'"
+      ],
+      "full_summary": "Lực lượng Israel sẽ rút quân khỏi một phần nhỏ Lebanon sau thỏa thuận được Mỹ brocker. Thỏa thuận này được ký kết sau xung đột với Hezbollah. Lực lượng Lebanon sẽ triển khai ở khu vực này, được gọi là 'vùng thử nghiệm'. Điều này sẽ đánh dấu một bước tiến trong việc ổn định khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ccdd96992c2",
+      "title": "Row escalates in Ukraine over army chief's future",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T13:22:06.246961+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Các nhà chức trách Ukraine đối mặt với áp lực từ biểu tình đòi thay thế chỉ huy quân đội",
+      "bullets": [
+        "Các biểu tình đòi Oleksandr Syrskyi phải rời khỏi vị trí chỉ huy quân đội",
+        "Bầu cử mới được đề xuất để thay thế ông Syrskyi",
+        "Mykhailo Fedorov được yêu cầu trở lại làm Bộ trưởng Quốc phòng",
+        "Các nhà chức trách Ukraine phải đáp ứng yêu cầu của biểu tình trước ngày 14 tháng 7"
+      ],
+      "full_summary": "Các biểu tình ở Ukraine đang gia tăng áp lực đối với chính phủ đòi thay thế chỉ huy quân đội Oleksandr Syrskyi. Các biểu tình yêu cầu ông Syrskyi rời khỏi vị trí chỉ huy quân đội và đề xuất bầu cử mới để chọn người kế nhiệm. Đồng thời, các biểu tình cũng yêu cầu Mykhailo Fedorov trở lại làm Bộ trưởng Quốc phòng. Các nhà chức trách Ukraine đã phải đáp ứng yêu cầu của biểu tình trước ngày 14 tháng 7.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3682dc99b8a3",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T13:22:07.211324+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người bị thương trong cuộc biểu tình ở Bologna sau khi một người đàn ông tử vong",
+      "bullets": [
+        "Hàng ngàn người xuống đường đòi công lý cho một người đàn ông sinh ra ở Maroc",
+        "Người đàn ông tử vong trong khi bị cảnh sát giam giữ",
+        "Các cuộc biểu tình gây ra nhiều thương vong",
+        "Cảnh sát đang điều tra nguyên nhân cái chết"
+      ],
+      "full_summary": "Hàng ngàn người đã xuống đường ở Bologna, Italy, để đòi công lý cho một người đàn ông Morocco sinh ra đã tử vong trong khi bị cảnh sát giam giữ. Sự việc xảy ra vào Chủ nhật và đã gây ra nhiều cuộc biểu tình. Các cuộc biểu tình đã gây ra nhiều thương vong và cảnh sát đang điều tra nguyên nhân cái chết. Người đàn ông tử vong được cho là đã bị cảnh sát giam giữ trước khi tử vong.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53db515bf4a6",
+      "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T13:22:08.394801+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Giám đốc khai thác bất hợp pháp ở Ghana lĩnh 20 năm tù",
+      "bullets": [
+        "Lãnh đạo khai thác Bernard Antwi Boasiako bị kết án 20 năm tù",
+        "Ông bị phạt hơn 10.000 USD vì tội khai thác bất hợp pháp",
+        "Kết quả này gây sốc và phẫn nộ trong dư luận Ghana",
+        "Giám đốc khai thác bị kết tội liên quan đến hoạt động khai thác bất hợp pháp"
+      ],
+      "full_summary": "Giám đốc khai thác Bernard Antwi Boasiako, còn được biết đến với tên gọi 'Chairman Wontumi', đã bị kết án 20 năm tù và phạt hơn 10.000 USD vì tội khai thác bất hợp pháp. Kết quả này gây sốc và phẫn nộ trong dư luận Ghana. Ông bị kết tội liên quan đến hoạt động khai thác bất hợp pháp ở Ghana. Đây là một trong những trường hợp nghiêm trọng nhất trong lịch sử của đất nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "08634638a3f9",
+      "title": "India's 'cockroach' protest continues a day after police crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T13:22:09.379975+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cảnh sát Ấn Độ đàn áp biểu tình, gây thương vong nghiêm trọng",
+      "bullets": [
+        "Cảnh sát Ấn Độ đàn áp biểu tình ở Delhi",
+        "Ít nhất 60 người biểu tình bị thương",
+        "118 cảnh sát bị thương trong cuộc đàn áp",
+        "Bạo lực diễn ra trên diện rộng ở Delhi"
+      ],
+      "full_summary": "Một cuộc biểu tình ở Delhi đã diễn ra bạo lực vào ngày thứ hai, khiến ít nhất 60 người biểu tình bị thương. Cảnh sát Ấn Độ đã đàn áp biểu tình, khiến 118 cảnh sát bị thương. Cuộc biểu tình đã diễn ra trên diện rộng ở Delhi, gây ra thương vong nghiêm trọng. Các nhà chức trách đang cố gắng khống chế tình hình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "538e42e83f26",
+      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+      "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T13:22:10.390539+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Bộ trưởng AI được tăng quyền nhưng bộ công nghệ bị bãi bỏ",
+      "bullets": [
+        "Kanishka Narayan được bổ nhiệm vào nội các",
+        "Không còn giữ chức vụ Bộ trưởng Công nghệ",
+        "Narayan sẽ tiếp tục giữ chức Bộ trưởng AI",
+        "Cabinet của Burnham đang trải qua một số thay đổi"
+      ],
+      "full_summary": "Bộ trưởng AI Kanishka Narayan sẽ tham gia nội các nhưng không còn giữ chức vụ Bộ trưởng Công nghệ. Thay vào đó, ông sẽ tiếp tục giữ chức vụ Bộ trưởng AI. Đây là một phần trong một số thay đổi lớn trong nội các của Burnham. Các thay đổi này nhằm tăng cường vai trò của Bộ trưởng AI và giảm thiểu vai trò của bộ công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca3eb54930da",
+      "title": "First Nations groups devastated by Canada’s wildfires say government did not help",
+      "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T13:22:14.426996+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hỏa hoạn Canada bỏ mặc các cộng đồng dân tộc bản địa",
+      "bullets": [
+        "Căng thẳng leo thang khi các cộng đồng dân tộc bản địa Ontario bị bỏ mặc trong hỏa hoạn",
+        "Chính phủ Canada không cung cấp hỗ trợ hoặc cảnh báo khẩn cấp cho các cộng đồng dân tộc bản địa",
+        "Hơn 2.000 người đã được sơ tán khỏi các cộng đồng dân tộc bản địa Ontario",
+        "Hỏa hoạn đã phá hủy hoàn toàn hai cộng đồng dân tộc bản địa"
+      ],
+      "full_summary": "Hỏa hoạn đang diễn ra nhanh chóng đã phá hủy hoàn toàn hai cộng đồng dân tộc bản địa ở Ontario, Canada. Các nhà lãnh đạo của các cộng đồng dân tộc bản địa cho biết họ đã bị bỏ mặc tự sơ tán trước khi nhà cửa bị cháy. Chính phủ Ontario đã yêu cầu 13 cộng đồng dân tộc bản địa sơ tán do hỏa hoạn, trong đó đa số là các cộng đồng dân tộc bản địa. Tổng thống Doug Ford cho biết gần 2.000 người đã được sơ tán đến các thành phố như Toronto và Niagara Falls.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b235554fc93c",
+      "title": "New US homeownership measure puts people first",
+      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-21T13:22:19.237097+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Mỹ giới thiệu chỉ số mới nhằm hỗ trợ sở hữu nhà cho người dân",
+      "bullets": [
+        "Giới thiệu chỉ số mới để đo lường khả năng sở hữu nhà ở Mỹ",
+        "Chỉ số này đặt người dân lên đầu tiên trong các quyết định về nhà ở",
+        "Mục tiêu là tạo điều kiện thuận lợi cho người dân mua nhà",
+        "Chỉ số này sẽ giúp các chính sách về nhà ở trở nên hiệu quả hơn"
+      ],
+      "full_summary": "Bản tin từ Ngân hàng Trung ương Minneapolis cho biết Mỹ đã giới thiệu một chỉ số mới nhằm hỗ trợ sở hữu nhà cho người dân. Chỉ số này sẽ đo lường khả năng sở hữu nhà ở Mỹ và đặt người dân lên đầu tiên trong các quyết định về nhà ở. Mục tiêu của chỉ số này là tạo điều kiện thuận lợi cho người dân mua nhà và giúp các chính sách về nhà ở trở nên hiệu quả hơn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "81d31ab84591",
       "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
@@ -635,165 +795,6 @@
         "Là một ví dụ về sự thay đổi trong quan điểm về lao động phổ thông"
       ],
       "full_summary": "Wang Jibing, một người giao hàng ăn, đã giành giải thưởng văn học hàng đầu Trung Quốc. Đây là một trong số những công nhân lao động phổ thông nổi tiếng với tác phẩm văn học. Tác phẩm của Wang Jibing đã được công nhận rộng rãi và được coi là một ví dụ về sự thay đổi trong quan điểm về lao động phổ thông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f5a15c401a8",
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T08:45:50.085635+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Uganda kêu gọi dỡ bỏ hạn chế đi lại sau khi bệnh nhân Ebola cuối cùng được điều trị",
-      "bullets": [
-        "Uganda bắt đầu vận động các quốc gia dỡ bỏ hạn chế đi lại liên quan đến Ebola",
-        "Số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo",
-        "Uganda bắt đầu thời gian đếm ngược 42 ngày để được công nhận không có Ebola",
-        "Không có ca nhiễm mới được phát hiện trong 42 ngày thì Uganda sẽ được công nhận không có Ebola"
-      ],
-      "full_summary": "Uganda đã bắt đầu vận động các quốc gia dỡ bỏ hạn chế đi lại liên quan đến Ebola sau khi bệnh nhân Ebola cuối cùng được điều trị khỏi. Theo World Health Organization (WHO), Uganda cần phải không có ca nhiễm mới trong 42 ngày thì mới được công nhận không có Ebola. Số ca nhiễm Ebola tiếp tục tăng ở Cộng hòa Dân chủ Congo. Điều này cho thấy Uganda vẫn đang ở trong tình trạng cảnh báo cao về Ebola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cde3e43bd3e3",
-      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
-      "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T08:45:51.144272+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Brazil xóa bỏ hoạt động khai thác vàng bất hợp pháp gây tàn phá khu vực của người bản địa",
-      "bullets": [
-        "Brazil triển khai chiến dịch xóa bỏ hoạt động khai thác vàng bất hợp pháp",
-        "Hoạt động khai thác vàng bất hợp pháp gây tàn phá khu vực của người bản địa",
-        "Lực lượng Brazil tấn công các khu định cư bất hợp pháp của người khai thác vàng",
-        "Mục tiêu cuối cùng là bảo vệ khu vực của người bản địa khỏi khai thác vàng bất hợp pháp"
-      ],
-      "full_summary": "Brazil đang triển khai chiến dịch xóa bỏ hoạt động khai thác vàng bất hợp pháp gây tàn phá khu vực của người bản địa. Các khu định cư bất hợp pháp của người khai thác vàng đã bị tàn phá nghiêm trọng, gây ra những hậu quả nghiêm trọng cho môi trường và cộng đồng người bản địa. Lực lượng Brazil đang nỗ lực xóa bỏ hoạt động khai thác vàng bất hợp pháp và bảo vệ khu vực của người bản địa khỏi khai thác vàng bất hợp pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d1d5f1a14a91",
-      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T08:45:52.177994+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Thuyền chở hành khách bị chìm ngoài khơi Guyana, hàng chục người mất tích",
-      "bullets": [
-        "Bắt đầu cuộc điều tra hình sự sau khi danh sách hành khách không chính xác",
-        "Cơ quan chức năng đang tiến hành tìm kiếm cứu hộ",
-        "Hàng chục người mất tích sau khi thuyền chở hành khách bị chìm",
-        "Đã phát hiện chất ma túy trên người thuyền trưởng và một thành viên thủy thủ đoàn"
-      ],
-      "full_summary": "Một thuyền chở hành khách đã bị chìm ngoài khơi Guyana, gây ra một trong những tai nạn hàng hải tồi tệ nhất của nước này. Cuộc điều tra hình sự đã được bắt đầu sau khi danh sách hành khách không chính xác và phát hiện chất ma túy trên người thuyền trưởng và một thành viên thủy thủ đoàn. Hàng chục người mất tích và đang tiến hành tìm kiếm cứu hộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "044a992b6113",
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-20T08:45:53.780500+00:00",
-      "category": "khoa học",
-      "importance": 5,
-      "headline": "Động thái lịch sử: Tên lửa tư nhân đầu tiên của Ấn Độ đạt quỹ đạo",
-      "bullets": [
-        "Đạt được quỹ đạo trong lần thử nghiệm đầu tiên",
-        "Tên lửa tư nhân đầu tiên của Ấn Độ được phát triển bởi công ty riêng",
-        "Lần phóng đầu tiên thành công của tên lửa tư nhân Ấn Độ",
-        "Đánh dấu bước tiến quan trọng trong công nghệ tên lửa Ấn Độ"
-      ],
-      "full_summary": "Tên lửa tư nhân đầu tiên của Ấn Độ đã đạt được quỹ đạo trong lần thử nghiệm đầu tiên. Điều này đánh dấu một bước tiến quan trọng trong công nghệ tên lửa Ấn Độ. Người phát triển tên lửa đã mô tả việc đạt được quỹ đạo là một điều không thể tin được. Đây là một thành công lịch sử đối với Ấn Độ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f90ecbcd7a32",
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-20T08:45:59.066582+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Máy tính xác suất lớn nhất chuyển nhiễu thành câu trả lời",
-      "bullets": [
-        "Là máy tính xác suất lớn nhất thế giới",
-        "Chuyển nhiễu thành câu trả lời thông qua thuật toán",
-        "Sử dụng trong nhiều ứng dụng khác nhau"
-      ],
-      "full_summary": "Máy tính xác suất lớn nhất thế giới đã được tạo ra, nó có khả năng chuyển nhiễu thành câu trả lời thông qua thuật toán. Máy tính này có thể được sử dụng trong nhiều ứng dụng khác nhau, bao gồm cả lĩnh vực khoa học và công nghệ. Nó giúp con người có thể giải quyết các vấn đề phức tạp một cách nhanh chóng và hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3ea708900b0f",
-      "title": "Norway opens new memorial for victims of 2011 Breivik massacre",
-      "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T02:20:45.700780+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nga khánh thành đài tưởng niệm nạn nhân vụ tấn công Breivik năm 2011",
-      "bullets": [
-        "Khánh thành đài tưởng niệm mới ở thủ đô Oslo",
-        "Đài tưởng niệm được thiết kế với nghệ thuật đặc biệt",
-        "Đài tưởng niệm nhằm tưởng nhớ nạn nhân vụ tấn công năm 2011",
-        "Đài tưởng niệm được mở cửa trước ngày kỷ niệm 15 năm vụ tấn công"
-      ],
-      "full_summary": "Nga vừa khánh thành đài tưởng niệm mới ở thủ đô Oslo để tưởng nhớ nạn nhân vụ tấn công Breivik năm 2011. Đài tưởng niệm được thiết kế với nghệ thuật đặc biệt và được mở cửa trước ngày kỷ niệm 15 năm vụ tấn công. Vụ tấn công năm 2011 đã gây ra thương vong nghiêm trọng và để lại nhiều vết thương tâm lý cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11943fcaf9be",
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T02:20:46.758212+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Trump Media sẽ cung cấp nội dung ảnh hưởng trực tiếp đến thị trường tài chính",
-      "bullets": [
-        "Trump Media sẽ phát hành một dịch vụ trả phí cung cấp nội dung ảnh hưởng trực tiếp đến thị trường tài chính",
-        "Dịch vụ này sẽ cung cấp cho các nhà giao dịch trên Wall Street thông tin cập nhật nhanh chóng",
-        "Nội dung sẽ bao gồm các bài đăng xã hội của Trump Media được xác định là ảnh hưởng trực tiếp đến thị trường",
-        "Dịch vụ này sẽ được cung cấp thông qua một ứng dụng riêng biệt"
-      ],
-      "full_summary": "Trump Media đang chuẩn bị ra mắt một dịch vụ mới cung cấp cho các nhà giao dịch trên Wall Street thông tin cập nhật nhanh chóng về các bài đăng xã hội ảnh hưởng trực tiếp đến thị trường tài chính. Dịch vụ này sẽ được cung cấp thông qua một ứng dụng riêng biệt và sẽ bao gồm các bài đăng xã hội của Trump Media được xác định là ảnh hưởng trực tiếp đến thị trường. Điều này sẽ giúp các nhà giao dịch có thể cập nhật thông tin nhanh chóng và đưa ra quyết định chính xác hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d30a0e3a6028",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T02:20:48.722385+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Meta hủy bỏ tính năng chỉnh sửa ảnh AI sau phản ứng dữ dội",
-      "bullets": [
-        "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram",
-        "Tính năng này gây ra phản ứng dữ dội từ cộng đồng",
-        "Meta đã hủy bỏ tính năng sau vài ngày",
-        "Cộng đồng lo ngại về tác động tiêu cực của AI"
-      ],
-      "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, công ty đã hủy bỏ tính năng này. Tính năng này cho phép người dùng chỉnh sửa ảnh bằng trí tuệ nhân tạo, nhưng nó đã gây ra phản ứng dữ dội từ cộng đồng. Các chuyên gia lo ngại về tác động tiêu cực của AI đối với xã hội và nền tảng này.",
       "comments": 0,
       "score": 0
     }
