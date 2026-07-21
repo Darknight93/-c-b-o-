@@ -1,6 +1,201 @@
 {
-  "updated_at": "2026-07-21T13:22:20.302567+00:00",
+  "updated_at": "2026-07-21T19:07:57.792003+00:00",
   "articles": [
+    {
+      "id": "be875ab7acef",
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:42.622292+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi lăm người thiệt mạng do các cuộc tấn công của Israel tại Gaza",
+      "bullets": [
+        "Hai mươi lăm người bị giết trong các cuộc tấn công của Israel tại Gaza",
+        "Một gia đình gồm sáu người bị giết trong một cuộc tấn công",
+        "Cơ quan y tế nói rằng các cuộc tấn công đã gây ra thương vong lớn",
+        "Lực lượng quân sự Israel cho biết họ đã nhắm vào một thành viên của Hamas"
+      ],
+      "full_summary": "Các cuộc tấn công của Israel tại Gaza đã khiến 12 người thiệt mạng, bao gồm cả một gia đình gồm sáu người. Theo cơ quan y tế, một cuộc tấn công đã giết chết Firas al-Masri, vợ và bốn đứa con của ông. Lực lượng quân sự Israel cho biết họ đã nhắm vào một thành viên của Hamas trong cuộc tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "696e948ce951",
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:43.639462+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai chiến sĩ cứu hỏa Pháp thiệt mạng trong trận hỏa hoạn gần sân bay Bordeaux",
+      "bullets": [
+        "Nổ ra hỏa hoạn gần khu vực đậu xe sân bay Bordeaux-Mérignac"
+      ],
+      "full_summary": "Hai chiến sĩ cứu hỏa Pháp đã thiệt mạng khi nỗ lực dập tắt hỏa hoạn gần sân bay Bordeaux-Mérignac. Hỏa hoạn được cho là bắt nguồn từ một đám cháy rừng. Các lực lượng cứu hỏa đang cố gắng kiểm soát đám cháy. Sự cố này đã gây ra sự lo lắng cho công chúng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f1c6298867a9",
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:44.633700+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Amazon bị đốt cháy ít nhất kể từ năm 1985",
+      "bullets": [
+        "Bị đốt cháy ít nhất kể từ năm 1985",
+        "Số lượng đất bị đốt cháy giảm mạnh",
+        "MapBiomas ghi nhận kết quả này lần đầu tiên",
+        "Hiện tượng này cho thấy nỗ lực bảo vệ rừng",
+        "Sự suy giảm này được ghi nhận lần đầu tiên kể từ năm 1985"
+      ],
+      "full_summary": "Brazil báo cáo rằng Amazon bị đốt cháy ít nhất kể từ năm 1985. Số lượng đất bị đốt cháy giảm mạnh, chỉ 6.9% so với cùng kỳ năm ngoái. MapBiomas ghi nhận kết quả này lần đầu tiên. Hiện tượng này cho thấy nỗ lực bảo vệ rừng đang có hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11943fcaf9be",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:45.720846+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Trump Media sẽ cung cấp nội dung ảnh hưởng đến thị trường với phí",
+      "bullets": [
+        "Sẽ cung cấp nội dung ảnh hưởng đến thị trường với phí cho các nhà giao dịch trên Wall Street",
+        "Dịch vụ nhanh chóng và trả phí sẽ giúp các nhà giao dịch tiếp cận nội dung quan trọng",
+        "Trump Media đang cố gắng thu hút các nhà giao dịch bằng cách cung cấp nội dung độc quyền"
+      ],
+      "full_summary": "Trump Media đang chuẩn bị ra mắt một dịch vụ trả phí mới, cho phép các nhà giao dịch trên Wall Street truy cập nhanh chóng vào các bài đăng ảnh hưởng đến thị trường. Dịch vụ này sẽ cung cấp nội dung độc quyền và giúp các nhà giao dịch tiếp cận thông tin quan trọng một cách nhanh chóng. Mục tiêu của Trump Media là thu hút các nhà giao dịch bằng cách cung cấp nội dung độc quyền và giúp họ đưa ra quyết định kinh doanh tốt hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0f61a66e8411",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:46.769607+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Một trong ba người không thể mua thực phẩm lành mạnh toàn cầu",
+      "bullets": [
+        "Hơn 2,69 tỷ người không thể mua thực phẩm đa dạng đáp ứng nhu cầu năng lượng và chất dinh dưỡng",
+        "Số người đói toàn cầu giảm trong ba năm liên tiếp nhưng vẫn cần hành động để giảm chi phí hoa quả, rau củ và sữa",
+        "UN cảnh báo sẽ cần rất nhiều công sức để đạt mục tiêu không đói toàn cầu vào năm 2030"
+      ],
+      "full_summary": "Theo báo cáo mới của năm cơ quan Liên Hợp Quốc, một trong ba người trên thế giới không thể mua thực phẩm lành mạnh. Số người đói toàn cầu đã giảm trong ba năm liên tiếp, nhưng vẫn còn 2,69 tỷ người không thể mua thực phẩm đa dạng đáp ứng nhu cầu năng lượng và chất dinh dưỡng. Báo cáo này cảnh báo sẽ cần rất nhiều công sức để đạt mục tiêu không đói toàn cầu vào năm 2030.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9e2ea96b4862",
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:48.039105+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bìa phim Ghana trở thành tác phẩm nghệ thuật sưu tầm",
+      "bullets": [
+        "Tạo ra những hình ảnh không liên quan đến nội dung phim",
+        "Những hình ảnh này thu hút người xem và trở thành nghệ thuật sưu tầm",
+        "Tác giả phải đối mặt với phản ứng tiêu cực từ khán giả",
+        "Những hình ảnh này vẫn được bảo tồn và trở thành một phần của văn hóa Ghana"
+      ],
+      "full_summary": "Tại Ghana, những tấm bìa phim được vẽ tay đã trở thành một phần quan trọng của văn hóa địa phương. Những hình ảnh này thường không liên quan đến nội dung phim, nhưng vẫn thu hút được sự chú ý của người xem. Một số tác giả đã phải đối mặt với phản ứng tiêu cực từ khán giả, nhưng những hình ảnh này vẫn được bảo tồn và trở thành một phần của nghệ thuật sưu tầm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5afbf62fbff9",
+      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:48.986278+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai mươi sáu người Mỹ bị cách ly tại Kenya vì dịch Ebola",
+      "bullets": [
+        "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya",
+        "Cơ sở cách ly gây ra phản ứng dữ dội ở Kenya và đang bị đình chỉ bởi tòa án",
+        "Nhân viên cứu trợ Mỹ bị cách ly vì đã đi du lịch sau khi Mỹ áp đặt hạn chế du lịch",
+        "Cơ sở cách ly được xây dựng bất chấp lệnh đình chỉ của tòa án"
+      ],
+      "full_summary": "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya sau khi Mỹ áp đặt hạn chế du lịch. Họ đã đi đến Cộng hòa Dân chủ Congo để chống lại dịch Ebola. Cơ sở cách ly đã gây ra phản ứng dữ dội ở Kenya và đang bị đình chỉ bởi tòa án. Mặc dù vậy, công trình xây dựng vẫn tiếp tục.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4e6cd8426c32",
+      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T19:07:49.976282+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chính sách viện trợ của Anh giảm mạnh đối với một số quốc gia châu Phi",
+      "bullets": [
+        "Giảm viện trợ cho một số quốc gia châu Phi lên đến 90%",
+        "Báo cáo hàng năm của Bộ Ngoại giao Anh tiết lộ chi tiết về cắt giảm ngân sách viện trợ",
+        "Cơ quan này cho biết số liệu này gửi đi thông điệp toàn cầu về vai trò của Anh trên sân khấu quốc tế"
+      ],
+      "full_summary": "Chính phủ Anh đã cắt giảm mạnh ngân sách viện trợ, khiến giảm viện trợ cho một số quốc gia châu Phi lên đến 90%. Báo cáo hàng năm của Bộ Ngoại giao Anh tiết lộ chi tiết về cắt giảm ngân sách viện trợ. Cơ quan này cho biết số liệu này gửi đi thông điệp toàn cầu về vai trò của Anh trên sân khấu quốc tế. Các nhà phê bình cho rằng những con số này cho thấy Anh không còn muốn đóng vai trò lãnh đạo trên sân khấu quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a824e4b4c66b",
+      "title": "Steam Deck sales are losing steam since May's price hike",
+      "url": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-21T19:07:52.581093+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Bán Steam Deck giảm mạnh sau khi tăng giá tháng 5",
+      "bullets": [
+        "Giảm 80% doanh số so với năm 2025",
+        "Bán chạy hơn trước khi tăng giá",
+        "Steam Deck không còn được ưa chuộng",
+        "Tác động tiêu cực từ việc tăng giá"
+      ],
+      "full_summary": "Theo Ars Technica, doanh số bán Steam Deck đã giảm mạnh kể từ khi tăng giá vào tháng 5. Theo phân tích từ bảng xếp hạng bán chạy, doanh số đã giảm 80% so với năm 2025. Điều này cho thấy rằng việc tăng giá đã khiến người dùng quay lưng với sản phẩm này. Steam Deck không còn được ưa chuộng như trước đây và tác động tiêu cực từ việc tăng giá đang được quan sát.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c985fe603867",
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-21T19:07:56.148279+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "ChatGPT mở cửa quảng cáo",
+      "bullets": [
+        "Khai thác quảng cáo trên ChatGPT",
+        "Đường link quảng cáo: https://ads.openai.com/",
+        "Số điểm: 3",
+        "Số bình luận: 0"
+      ],
+      "full_summary": "ChatGPT đã mở cửa cho quảng cáo trên nền tảng của mình. Người dùng có thể truy cập đường link quảng cáo tại https://ads.openai.com/. Bài đăng này đã nhận được 3 điểm trên Hacker News nhưng chưa có bình luận nào.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "725d02902b5f",
       "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
@@ -597,204 +792,6 @@
         "Al-Hayya từng là người đàm phán hàng đầu của Hamas tại Qatar"
       ],
       "full_summary": "Hamas đã chọn Khalil al-Hayya làm lãnh đạo mới sau khi Yahya Sinwar bị giết bởi lực lượng Israel vào năm 2024. Al-Hayya từng là người đàm phán hàng đầu của Hamas tại Qatar. Sự thay đổi lãnh đạo này diễn ra trong bối cảnh căng thẳng giữa Israel và Hamas vẫn đang tiếp diễn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1a46929e322",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-20T19:29:35.011488+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Chính phủ thử nghiệm AI quyết định bảo hiểm y tế",
-      "bullets": [
-        "Sử dụng AI để quyết định bảo hiểm y tế",
-        "Chương trình thử nghiệm của chính phủ",
-        "Tiềm năng cải thiện quy trình thủ tục",
-        "Rủi ro sai lầm trong quyết định"
-      ],
-      "full_summary": "Chính phủ đang thử nghiệm một chương trình sử dụng trí tuệ nhân tạo (AI) để quyết định bảo hiểm y tế. Chương trình này nhằm mục đích cải thiện quy trình thủ tục và giảm thiểu thời gian chờ đợi. Tuy nhiên, cũng có rủi ro sai lầm trong quyết định của AI. Kết quả của chương trình thử nghiệm sẽ cho thấy liệu AI có thể giúp cải thiện quy trình thủ tục hay không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fed83ff1696e",
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T13:52:24.979889+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Trump tuyên bố tấn công Iran để vinh danh quân nhân Mỹ",
-      "bullets": [
-        "Trump tuyên bố tấn công Iran để vinh danh quân nhân Mỹ bị giết",
-        "Iran đáp trả bằng các cuộc tấn công ở Syria và Jordan",
-        "Hai tàu biển bị nổ ở eo biển Hormuz",
-        "Tình hình ở Trung Đông trở nên căng thẳng"
-      ],
-      "full_summary": "Cựu Tổng thống Mỹ Donald Trump tuyên bố các cuộc tấn công của Mỹ ở Iran là để vinh danh quân nhân Mỹ bị giết. Tuy nhiên, Iran đã đáp trả bằng các cuộc tấn công ở Syria và Jordan. Hai tàu biển cũng bị nổ ở eo biển Hormuz, khiến tình hình ở Trung Đông trở nên căng thẳng. Các cuộc tấn công này đã làm gia tăng căng thẳng giữa Mỹ và Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a1bcb16969e6",
-      "title": "Boy, 13, dies during World Cup celebrations in Spain",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T13:52:26.046407+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trẻ vị thành niên tử vong trong lúc tham gia lễ hội World Cup tại Tây Ban Nha",
-      "bullets": [
-        "Một cậu bé 13 tuổi tử vong trong lúc tham gia lễ hội World Cup tại Tây Ban Nha",
-        "Hai người trẻ bị thương khi đài phun nước tại Salamanca sụp đổ một phần",
-        "Sự cố xảy ra trong lúc người dân Tây Ban Nha đang tham gia lễ hội World Cup",
-        "Cảnh sát đang điều tra nguyên nhân của vụ việc"
-      ],
-      "full_summary": "Một cậu bé 13 tuổi đã tử vong trong lúc tham gia lễ hội World Cup tại Tây Ban Nha. Sự cố xảy ra khi cậu bé tham gia lễ hội tại Salamanca. Hai người trẻ bị thương khi đài phun nước tại Salamanca sụp đổ một phần. Cảnh sát đang điều tra nguyên nhân của vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "087aaefa7674",
-      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-      "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T13:52:27.060377+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Chồng JD Vance thông báo vợ và con trai khỏe mạnh sau sinh",
-      "bullets": [
-        "Sinh được một cậu bé tên Alec Neel Vance",
-        "Cặp vợ chồng đã chào đón đứa con thứ tư",
-        "Cả gia đình hiện đang khỏe mạnh và hạnh phúc"
-      ],
-      "full_summary": "Chồng JD Vance, một chính trị gia Mỹ, vừa thông báo rằng vợ và con trai của ông đã khỏe mạnh sau khi sinh đứa con thứ tư. Cậu bé được sinh vào sáng Chủ nhật. Cặp vợ chồng đã chào đón đứa con thứ tư sau nhiều năm xây dựng gia đình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "20e65dde0418",
-      "title": "Utah firefighter and four family members killed in flash flooding",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T13:52:27.987784+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một gia đình Utah bị lũ lụt cuốn trôi",
-      "bullets": [
-        "Bị lũ lụt cuốn trôi trong một chuyến đi",
-        "Bốn thành viên gia đình thiệt mạng",
-        "Chỉ còn lại con gái duy nhất sống sót",
-        "Đã có nhiều vụ lũ lụt nghiêm trọng ở Utah"
-      ],
-      "full_summary": "Một gia đình Utah đã bị lũ lụt cuốn trôi trong một chuyến đi. Bốn thành viên gia đình, bao gồm cả cha, mẹ và ba con trai, đã thiệt mạng. Chỉ còn lại con gái duy nhất sống sót. Vụ lũ lụt này đã xảy ra trong một thời gian dài mưa ở Utah.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa082443ad39",
-      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-      "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T13:52:29.093337+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Em út của Lamine Yamal được khán giả yêu mến sau chiến thắng World Cup",
-      "bullets": [
-        "Lamine Yamal và em út đã được chụp ảnh cùng nhau sau chiến thắng của Tây Ban Nha",
-        "Em út của Yamal đã thu hút sự chú ý của khán giả với vẻ ngoài đáng yêu",
-        "Lamine Yamal đã chia sẻ hình ảnh với em út trên mạng xã hội",
-        "Hình ảnh của em út đã trở thành một trong những hình ảnh nổi bật của World Cup"
-      ],
-      "full_summary": "Lamine Yamal, cầu thủ Tây Ban Nha, đã được khán giả yêu mến sau chiến thắng của đội bóng. Em út của anh ta, một cậu bé 3 tuổi, đã thu hút sự chú ý của khán giả với vẻ ngoài đáng yêu. Lamine Yamal đã chia sẻ hình ảnh với em út trên mạng xã hội, khiến khán giả cảm thấy ấm áp. Hình ảnh của em út đã trở thành một trong những hình ảnh nổi bật của World Cup.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "39b1e6242317",
-      "title": "AliExpress gets record €550m fine from EU for allowing sale of illegal products",
-      "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T13:52:29.989485+00:00",
-      "category": "economy",
-      "importance": 5,
-      "headline": "AliExpress bị phạt kỷ lục 550 triệu euro vì bán hàng bất hợp pháp",
-      "bullets": [
-        "Bị phạt kỷ lục 550 triệu euro",
-        "Phạt nặng do cho phép bán hàng bất hợp pháp",
-        "Được áp dụng theo Đạo luật Dịch vụ số",
-        "Được điều tra trong 2 năm"
-      ],
-      "full_summary": "AliExpress đã bị phạt kỷ lục 550 triệu euro vì cho phép bán hàng bất hợp pháp. Đây là mức phạt cao nhất được áp dụng theo Đạo luật Dịch vụ số. Một cuộc điều tra kéo dài 2 năm đã được thực hiện để xác định hành vi bất hợp pháp của công ty. Phạt nặng này sẽ ảnh hưởng đến hoạt động kinh doanh của AliExpress.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e1aa1e57bed",
-      "title": "SpaceX share price drops below stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T13:52:31.137654+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Giá cổ phiếu SpaceX giảm xuống dưới mức ra mắt trên thị trường chứng khoán",
-      "bullets": [
-        "Giảm giá cổ phiếu SpaceX kể từ khi công ty này niêm yết trên sàn một tháng trước",
-        "Sự bất ổn trên thị trường khiến cổ phiếu SpaceX trở thành tâm điểm chú ý",
-        "Elon Musk phải đối mặt với những thách thức mới trong việc quản lý công ty",
-        "Giá cổ phiếu SpaceX tiếp tục biến động mạnh"
-      ],
-      "full_summary": "Cổ phiếu SpaceX đã trải qua một tháng đầy biến động kể từ khi công ty này niêm yết trên thị trường chứng khoán. Giá cổ phiếu đã giảm xuống dưới mức ra mắt, khiến Elon Musk phải đối mặt với những thách thức mới trong việc quản lý công ty. Sự bất ổn trên thị trường chứng khoán đã khiến cổ phiếu SpaceX trở thành tâm điểm chú ý của các nhà đầu tư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f65ce016ad39",
-      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-      "url": "https://yang-ai-lab.github.io/Inertia-1/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-20T13:52:36.082678+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mô hình Inertia-1: Một bước tiến mới trong nghiên cứu mô hình động học",
-      "bullets": [
-        "Xây dựng một nền tảng mô hình động học thống nhất",
-        "Phát triển mô hình Inertia-1 với khả năng mở rộng",
-        "Tìm kiếm sự hợp tác trong cộng đồng nghiên cứu AI"
-      ],
-      "full_summary": "Mô hình Inertia-1 là một dự án nghiên cứu mới của Yang AI Lab, nhằm xây dựng một nền tảng mô hình động học thống nhất. Dự án này sử dụng mô hình Inertia-1 để phát triển khả năng mở rộng và tìm kiếm sự hợp tác trong cộng đồng nghiên cứu AI. Mô hình này có thể được ứng dụng trong nhiều lĩnh vực như trí tuệ nhân tạo, khoa học dữ liệu và học máy.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "caa80093013f",
-      "title": "Food delivery rider wins China's top literary prize",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T08:45:47.983731+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người giao hàng ăn trúng giải thưởng văn học hàng đầu Trung Quốc",
-      "bullets": [
-        "Trúng giải thưởng văn học hàng đầu Trung Quốc",
-        "Là một trong số những công nhân lao động phổ thông nổi tiếng với tác phẩm văn học",
-        "Tác phẩm của Wang Jibing được công nhận rộng rãi",
-        "Là một ví dụ về sự thay đổi trong quan điểm về lao động phổ thông"
-      ],
-      "full_summary": "Wang Jibing, một người giao hàng ăn, đã giành giải thưởng văn học hàng đầu Trung Quốc. Đây là một trong số những công nhân lao động phổ thông nổi tiếng với tác phẩm văn học. Tác phẩm của Wang Jibing đã được công nhận rộng rãi và được coi là một ví dụ về sự thay đổi trong quan điểm về lao động phổ thông.",
       "comments": 0,
       "score": 0
     }
