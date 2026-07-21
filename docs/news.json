@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-20T19:29:36.643570+00:00",
+  "updated_at": "2026-07-21T01:59:14.623016+00:00",
   "articles": [
+    {
+      "id": "64d986ad5839",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T01:59:00.585877+00:00",
+      "category": "politics|economy",
+      "importance": 5,
+      "headline": "Trump tăng thuế 50% đối với Canada",
+      "bullets": [
+        "Trump áp đặt thuế 50% đối với Canada",
+        "Mỹ và Canada tăng căng thẳng thương mại",
+        "Mục tiêu của Canada là 'tăng cường' đàm phán thương mại",
+        "Tình hình thương mại Mỹ-Canada trở nên tồi tệ hơn"
+      ],
+      "full_summary": "Chủ tịch Mỹ Donald Trump đã tăng thuế 50% đối với Canada, gây ra căng thẳng thương mại lớn giữa hai nước láng giềng. Ông Trump cho biết quyết định này nhằm bảo vệ các công ty Mỹ. Trong khi đó, Thủ tướng Canada Justin Trudeau cam kết sẽ 'tăng cường' đàm phán thương mại để giải quyết vấn đề này. Các cuộc đàm phán giữa Mỹ và Canada đã diễn ra trong nhiều tháng nhưng vẫn chưa đạt được kết quả mong muốn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "63d3b1cc0c1e",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T01:59:01.621385+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Mỹ tấn công Iran để ngăn chặn khả năng tấn công tàu qua eo biển Hormuz",
+      "bullets": [
+        "Mỹ thực hiện các cuộc tấn công mới nhằm vào khả năng tấn công của Iran",
+        "Mục tiêu của Mỹ là giảm khả năng tấn công của Iran qua eo biển Hormuz",
+        "Cựu Tổng thống Trump cảnh báo Iran về việc trả thù vì cái chết của binh sĩ Mỹ"
+      ],
+      "full_summary": "Mỹ đã thực hiện các cuộc tấn công mới vào Iran với mục tiêu giảm khả năng tấn công của Iran qua eo biển Hormuz. Cựu Tổng thống Trump cảnh báo Iran về việc trả thù vì cái chết của binh sĩ Mỹ. Các cuộc tấn công này được thực hiện để ngăn chặn khả năng tấn công của Iran vào các tàu qua eo biển Hormuz, một trong những tuyến đường biển quan trọng nhất trên thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bf377dca0d7f",
+      "title": "Tate brothers appear in US court for extradition proceedings",
+      "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T01:59:02.470338+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai anh em Tate bị bắt để xét xử về tội ác tình dục",
+      "bullets": [
+        "Bị bắt giữ vào ngày thứ 7",
+        "Bị cáo buộc tội dâm ô và buôn bán người",
+        "Đã bị đưa ra xét xử tại tòa án Mỹ",
+        "Hai anh em này phủ nhận mọi cáo buộc"
+      ],
+      "full_summary": "Hai anh em Tate đã bị bắt giữ vào ngày thứ 7 để xét xử về tội ác tình dục. Họ bị cáo buộc tội dâm ô và buôn bán người, nhưng hai anh em này phủ nhận mọi cáo buộc. Vào ngày thứ 6, Anh đã công bố hàng chục tội danh mới, bao gồm cả tội dâm ô và buôn bán người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50989ec326aa",
+      "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
+      "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T01:59:03.395689+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Công ty phải cân bằng kỹ năng công nghệ và truyền thống khi đào tạo nhân viên trẻ",
+      "bullets": [
+        "Khả năng thích nghi với công nghệ mới là yêu cầu cơ bản đối với nhân viên trẻ",
+        "Công ty cần đào tạo kỹ năng mềm để nhân viên trẻ có thể làm việc hiệu quả",
+        "Kỹ năng truyền thống như viết tay và tính toán bằng tay vẫn còn quan trọng",
+        "Đào tạo kỹ năng đa dạng giúp nhân viên trẻ có thể thích nghi với môi trường làm việc thay đổi"
+      ],
+      "full_summary": "Các công ty đang phải cân bằng giữa việc đào tạo kỹ năng công nghệ mới và kỹ năng truyền thống cho nhân viên trẻ. Để thích nghi với môi trường làm việc thay đổi, nhân viên trẻ cần được đào tạo về khả năng thích nghi với công nghệ mới, kỹ năng mềm và kỹ năng truyền thống. Việc đào tạo kỹ năng đa dạng giúp nhân viên trẻ có thể thích nghi với môi trường làm việc thay đổi và đạt được thành công trong sự nghiệp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d3655dc83cb4",
+      "title": "Thousands of websites taken down for illegal World Cup streams",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T01:59:04.302189+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hàng nghìn trang web bị tắt vì lướt bóng đá trái phép",
+      "bullets": [
+        "Bị đóng hơn 1.000 trang web lướt bóng đá trái phép tại Mỹ",
+        "Cùng lúc, Colombia cũng đã chặn khoảng 1.000 trang web tương tự",
+        "Các trang web này không có giấy phép để phát sóng World Cup",
+        "Động thái này nhằm ngăn chặn việc lướt bóng đá trái phép"
+      ],
+      "full_summary": "Trong suốt thời gian diễn ra World Cup, hơn 1.000 trang web lướt bóng đá trái phép đã bị tắt ở Mỹ. Cùng lúc, Colombia cũng đã chặn khoảng 1.000 trang web tương tự. Các trang web này không có giấy phép để phát sóng World Cup. Động thái này nhằm ngăn chặn việc lướt bóng đá trái phép.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4fe9e4b200a4",
+      "title": "Ofcom unable to take further legal action against suicide forum",
+      "url": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T01:59:05.303038+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ủy ban truyền thông Anh không thể tiếp tục xử lý diễn đàn tự sát",
+      "bullets": [
+        "Ủy ban truyền thông Anh cho biết không còn phương án pháp lý nào để xử lý diễn đàn tự sát",
+        "Diễn đàn này không bị cấm dưới luật An toàn trực tuyến",
+        "Ủy ban truyền thông Anh không thể thực hiện hành động pháp lý nào khác",
+        "Diễn đàn tự sát vẫn tiếp tục hoạt động"
+      ],
+      "full_summary": "Ủy ban truyền thông Anh (Ofcom) cho biết không thể tiếp tục xử lý diễn đàn tự sát do không còn phương án pháp lý nào. Điều này là do diễn đàn này không bị cấm dưới luật An toàn trực tuyến. Ofcom không thể thực hiện hành động pháp lý nào khác để xử lý diễn đàn này. Diễn đàn tự sát vẫn tiếp tục hoạt động.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84fc32bc99ca",
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-21T01:59:09.659946+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Máy bay không người lái giúp ngăn cháy rừng ở Mỹ",
+      "bullets": [
+        "Thử nghiệm máy bay không người lái để ngăn cháy rừng ở California",
+        "XPRIZE tổ chức cuộc thi để kiểm tra khả năng của máy bay không người lái",
+        "Máy bay không người lái có thể giúp ngăn cháy rừng sớm",
+        "Hỗ trợ cho việc phòng cháy rừng ở Mỹ"
+      ],
+      "full_summary": "Mỹ đang phải đối mặt với nạn cháy rừng gần như quanh năm. Để giải quyết vấn đề này, California và XPRIZE đang thử nghiệm sử dụng máy bay không người lái để ngăn cháy rừng. Máy bay không người lái sẽ được sử dụng để phát hiện và ngăn cháy rừng sớm, giúp giảm thiểu thiệt hại. Cuộc thi XPRIZE sẽ kiểm tra khả năng của máy bay không người lái trong việc ngăn cháy rừng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bdb7e8077b22",
+      "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
+      "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-21T01:59:12.369291+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Giá game PlayStation tăng cao khi không dùng đĩa vật lý",
+      "bullets": [
+        "Giá game đĩa vật lý vẫn rẻ hơn nhiều so với giảm giá sâu của game kỹ thuật số",
+        "Người dùng thường chọn mua game đĩa cũ thay vì mua game kỹ thuật số",
+        "Giá game PlayStation tăng cao khi người dùng chuyển sang mua game kỹ thuật số",
+        "Giá game đĩa vật lý vẫn là lựa chọn tốt cho người dùng muốn tiết kiệm"
+      ],
+      "full_summary": "Sony đã công bố kế hoạch không sử dụng đĩa vật lý cho PlayStation, dẫn đến giá game tăng cao. Theo nghiên cứu của Ars Technica, giá game đĩa vật lý vẫn rẻ hơn nhiều so với giảm giá sâu của game kỹ thuật số. Người dùng thường chọn mua game đĩa cũ thay vì mua game kỹ thuật số, điều này đã làm tăng giá game PlayStation. Giá game đĩa vật lý vẫn là lựa chọn tốt cho người dùng muốn tiết kiệm.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "446c6b5e1175",
       "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
@@ -633,163 +792,6 @@
         "Là diễn viên nổi tiếng trong bộ phim Neighbours"
       ],
       "full_summary": "Nam diễn viên Terence Donovan đã qua đời ở tuổi 90. Ông qua đời vào tối thứ 6 ở Melbourne, Úc. Con trai của ông, diễn viên Jason Donovan, đã đăng thông báo qua mạng xã hội. Terence Donovan là một diễn viên nổi tiếng trong bộ phim Neighbours.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f9581bf960f2",
-      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T18:55:25.712251+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hai hacker thanh niên bị kết án vì tấn công mạng vào TfL",
-      "bullets": [
-        "Bị kết án vì tấn công mạng vào hệ thống của Transport for London",
-        "Tấn công mạng gây thiệt hại lớn cho TfL",
-        "Hai hacker thanh niên đã bị kết án vì tội danh này"
-      ],
-      "full_summary": "Hai hacker thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì tội danh tấn công mạng vào hệ thống của Transport for London. Tấn công mạng này đã gây thiệt hại lớn cho TfL. Hai hacker thanh niên đã bị kết án vì tội danh này và sẽ phải đối mặt với hậu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53742d0f6844",
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T18:55:27.837297+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Pokémon Go tiếp tục thu hút triệu người chơi sau 10 năm",
-      "bullets": [
-        "Tính đến nay, game vẫn thu hút triệu người chơi trên toàn thế giới",
-        "Scopely cho biết mục tiêu của game luôn là mang lại sự kết nối giữa người chơi",
-        "Game đã trở thành một phần không thể thiếu trong văn hóa trò chơi điện tử",
-        "Pokémon Go vẫn đang được cập nhật và cải thiện để đáp ứng nhu cầu của người chơi"
-      ],
-      "full_summary": "Pokémon Go đã tròn 10 năm kể từ khi ra mắt và vẫn tiếp tục thu hút triệu người chơi trên toàn thế giới. Michael Steranka, phó tổng giám đốc tại Scopely, cho biết mục tiêu của game luôn là mang lại sự kết nối giữa người chơi. Game đã trở thành một phần không thể thiếu trong văn hóa trò chơi điện tử và vẫn đang được cập nhật và cải thiện để đáp ứng nhu cầu của người chơi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9e2ea96b4862",
-      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T18:55:28.888646+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bìa phim Ghana trở thành tác phẩm nghệ thuật có giá trị",
-      "bullets": [
-        "Tạo ra những poster phim đầy màu sắc và hấp dẫn",
-        "Poster thường không trung thực với nội dung phim",
-        "Tác giả phải đối mặt với phản ứng tiêu cực từ khán giả"
-      ],
-      "full_summary": "Ở Ghana, những poster phim được vẽ tay đã trở thành một hiện tượng nghệ thuật. Những tác phẩm này thường không trung thực với nội dung phim, nhưng lại hấp dẫn và thu hút sự chú ý. Tuy nhiên, những tác giả tạo ra những poster này cũng phải đối mặt với phản ứng tiêu cực từ khán giả. Một số người đã đe dọa, chửi bới và thậm chí còn tấn công những người tạo ra những poster này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "56c954d7e011",
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-19T18:55:31.054761+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Google hỗ trợ vệ tinh phát hiện cháy rừng",
-      "bullets": [
-        "Thiết lập FireSat bắt đầu hoạt động",
-        "Vệ tinh có khả năng phát hiện cháy rừng mà các vệ tinh khác không thể",
-        "Cháy rừng đang hoành hành ở Mỹ và Canada",
-        "Google hỗ trợ dự án phát triển vệ tinh này"
-      ],
-      "full_summary": "Dự án FireSat do Google hỗ trợ đã bắt đầu hoạt động. Dự án này được thiết kế để phát hiện cháy rừng mà các vệ tinh khác không thể. Cháy rừng đang hoành hành ở Mỹ và Canada, gây khó khăn cho các nỗ lực chữa cháy. Dự án FireSat được kỳ vọng sẽ giúp giảm thiểu thiệt hại do cháy rừng gây ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ddf2304856e5",
-      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
-      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-19T18:55:34.397915+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát Texas chi 4,5 triệu USD cho 4 xe Chevrolet Tahoe",
-      "bullets": [
-        "Cảnh sát Texas chi 4,5 triệu USD cho 4 xe Chevrolet Tahoe",
-        "Xe Tahoe có giá 1,125 triệu USD mỗi xe",
-        "Số tiền này được sử dụng cho các xe cảnh sát và xe cứu hộ",
-        "Chi phí này đã gây tranh cãi trong cộng đồng"
-      ],
-      "full_summary": "Cảnh sát Texas đã chi 4,5 triệu USD cho 4 xe Chevrolet Tahoe. Mỗi xe Tahoe có giá 1,125 triệu USD. Số tiền này được sử dụng cho các xe cảnh sát và xe cứu hộ. Chi phí này đã gây tranh cãi trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bdd53434238c",
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T13:00:14.926607+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nga thực hiện cuộc tấn công tên lửa lớn vào các thành phố Ukraine",
-      "bullets": [
-        "Tấn công khiến 4 người chết, ít nhất 36 người bị thương",
-        "Hai thành phố lớn nhất Ukraine bị tấn công",
-        "Kyiv tiếp tục tấn công cơ sở hạ tầng của Nga"
-      ],
-      "full_summary": "Nga đã thực hiện một cuộc tấn công tên lửa lớn vào hai thành phố lớn nhất Ukraine, Kyiv và Kharkiv. Cuộc tấn công này đã khiến 4 người chết và ít nhất 36 người bị thương. Trong khi đó, Ukraine tiếp tục tấn công cơ sở hạ tầng của Nga. Cuộc tấn công này là một phần của cuộc xung đột giữa Ukraine và Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "36a7a62ab3c3",
-      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T13:00:15.948956+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Thuyền chở 116 hành khách chìm ngoài khơi Guyana, 53 người được cứu",
-      "bullets": [
-        "53 người đã được cứu",
-        "Thuyền chở 116 hành khách đã chìm giữa Georgetown và Port Kaituma",
-        "Chưa rõ số người còn lại",
-        "Các cơ quan chức năng đang tiến hành cứu hộ"
-      ],
-      "full_summary": "Một chiếc thuyền chở 116 hành khách đã chìm ngoài khơi bờ biển Guyana. Theo các báo cáo ban đầu, 53 người đã được cứu. Vụ việc xảy ra giữa Georgetown và Port Kaituma. Các cơ quan chức năng đang tiến hành cứu hộ và điều tra nguyên nhân vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "91eb89c2ac75",
-      "title": "TikTok faces Ofcom investigation over child age checks",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T13:00:17.160940+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "TikTok sẽ bị điều tra vì kiểm tra độ tuổi trẻ em không đủ an toàn",
-      "bullets": [
-        "TikTok sẽ bị Cơ quan quản lý truyền thông Vương quốc Anh (Ofcom) điều tra về việc kiểm tra độ tuổi trẻ em trên nền tảng.",
-        "Cơ quan này đã chỉ trích TikTok vào tháng 5 vì nền tảng này không đủ an toàn cho trẻ em.",
-        "TikTok đã bị chỉ trích vì không thực hiện kiểm tra độ tuổi trẻ em một cách hiệu quả.",
-        "Điều tra này sẽ giúp xác định liệu nền tảng này có đáp ứng được yêu cầu an toàn cho trẻ em hay không."
-      ],
-      "full_summary": "Cơ quan quản lý truyền thông Vương quốc Anh (Ofcom) đã quyết định điều tra TikTok về việc kiểm tra độ tuổi trẻ em trên nền tảng. Điều này diễn ra sau khi cơ quan này chỉ trích TikTok vào tháng 5 vì nền tảng này không đủ an toàn cho trẻ em. Cụ thể, cơ quan này cho rằng TikTok không thực hiện kiểm tra độ tuổi trẻ em một cách hiệu quả. Điều tra này sẽ giúp xác định liệu nền tảng này có đáp ứng được yêu cầu an toàn cho trẻ em hay không.",
       "comments": 0,
       "score": 0
     }
