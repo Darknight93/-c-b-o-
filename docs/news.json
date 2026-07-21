@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-21T01:59:14.623016+00:00",
+  "updated_at": "2026-07-21T08:12:58.244064+00:00",
   "articles": [
+    {
+      "id": "81d31ab84591",
+      "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T08:12:43.441964+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cựu quân nhân đốt cháy trước tòa nhà liên bang Manhattan",
+      "bullets": [
+        "Cựu quân nhân Andrew Arrabaca bị bắt vì đốt cháy trước tòa nhà liên bang Manhattan",
+        "Anh ta được phát hiện mang hai cưa, một machete, ba kéo và pháo hoa",
+        "FBI cho biết Arrabaca có ý định gây hại",
+        "Anh ta bị bắt và đang được điều tra"
+      ],
+      "full_summary": "Cựu quân nhân Andrew Arrabaca, 43 tuổi, bị bắt vì đốt cháy trước tòa nhà liên bang Manhattan. Theo FBI, anh ta được phát hiện mang hai cưa, một machete, ba kéo và pháo hoa. Động thái này được cho là có ý định gây hại. Arrabaca đang bị bắt và đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "36a7a62ab3c3",
+      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T08:12:44.428097+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hai chục người chết sau khi tàu chở khách lật úp ở Guyana",
+      "bullets": [
+        "Hai mươi bảy người đã thiệt mạng",
+        "Bảy mươi ba người còn mất tích",
+        "Đài chính phủ đã mở cuộc điều tra",
+        "Chính phủ hy vọng sẽ tìm thấy thêm người sống sót"
+      ],
+      "full_summary": "Một vụ tai nạn tàu chở khách đã xảy ra ở Guyana, khiến ít nhất hai mươi bảy người thiệt mạng và bảy mươi ba người mất tích. Chính phủ đã mở cuộc điều tra và hy vọng sẽ tìm thấy thêm người sống sót. Vụ tai nạn đã gây ra sự lo lắng lớn ở Guyana.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "be872102a241",
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T08:12:45.388561+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công ty Trung Quốc tuyên bố mô hình AI mới vượt qua OpenAI và Anthropic",
+      "bullets": [
+        "Tuyên bố mô hình AI mới có khả năng vượt qua các công ty hàng đầu Mỹ",
+        "Mô hình AI mới có tên Kimi K3, được công bố bởi công ty Trung Quốc",
+        "Công ty cho biết mô hình AI mới có khả năng xử lý thông tin lớn và phức tạp",
+        "Mô hình AI mới được thiết kế để cạnh tranh với các công ty hàng đầu thế giới"
+      ],
+      "full_summary": "Công ty Trung Quốc vừa công bố một mô hình AI mới có tên Kimi K3, mô hình này được công bố để cạnh tranh với các công ty hàng đầu thế giới như OpenAI và Anthropic. Công ty cho biết mô hình AI mới có khả năng xử lý thông tin lớn và phức tạp, vượt qua các mô hình AI hiện có. Mô hình AI mới được thiết kế để cạnh tranh với các công ty hàng đầu thế giới và có khả năng thay đổi ngành công nghiệp AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "91eb89c2ac75",
+      "title": "TikTok faces Ofcom investigation over child age checks",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T08:12:46.286273+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "TikTok có thể bị điều tra vì kiểm soát độ tuổi không đủ an toàn cho trẻ em",
+      "bullets": [
+        "TikTok sẽ bị Ofcom điều tra về kiểm soát độ tuổi",
+        "Cơ quan quản lý đã chỉ trích TikTok vì không an toàn cho trẻ em vào tháng 5",
+        "TikTok cần phải cải thiện hệ thống kiểm soát độ tuổi",
+        "Điều tra sẽ giúp đảm bảo an toàn cho trẻ em trên nền tảng này"
+      ],
+      "full_summary": "TikTok đang đối mặt với một cuộc điều tra của cơ quan quản lý Ofcom vì vấn đề kiểm soát độ tuổi không đủ an toàn cho trẻ em. Vào tháng 5, cơ quan quản lý đã chỉ trích TikTok vì không an toàn cho trẻ em. Điều tra này sẽ giúp đảm bảo an toàn cho trẻ em trên nền tảng này. Cơ quan quản lý đang yêu cầu TikTok cải thiện hệ thống kiểm soát độ tuổi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f9581bf960f2",
+      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T08:12:47.324043+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hai hacker thanh niên bị kết án vì tấn công mạng vào TfL",
+      "bullets": [
+        "Bị kết án vì tấn công mạng vào hệ thống của Transport for London",
+        "Tấn công mạng gây thiệt hại lớn cho TfL",
+        "Hai hacker thanh niên bị kết án vì hành vi này",
+        "Tấn công mạng được live stream trên mạng xã hội"
+      ],
+      "full_summary": "Hai hacker thanh niên Owen Flowers và Thalha Jubair đã bị kết án vì tấn công mạng vào hệ thống của Transport for London (TfL). Tấn công mạng này đã gây thiệt hại lớn cho TfL. Hai hacker thanh niên đã bị kết án vì hành vi này. Tấn công mạng được live stream trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3ee91dee03f",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-21T08:12:48.502532+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "São Tomé và Príncipe chuẩn bị bầu cử tổng thống đầy căng thẳng",
+      "bullets": [
+        "Voters ở São Tomé và Príncipe đi bầu cử tổng thống vào ngày Chủ nhật",
+        "Carlos Vila Nova hy vọng đánh bại cựu đảng của mình để giành nhiệm kỳ thứ hai",
+        "Khoảng 142.000 cử tri đã đăng ký bỏ phiếu trong cuộc bầu cử ở quốc gia châu Phi nhỏ bé này",
+        "15% cử tri sống ở nước ngoài"
+      ],
+      "full_summary": "São Tomé và Príncipe chuẩn bị bước vào một cuộc bầu cử tổng thống đầy căng thẳng. Vào Chủ nhật, khoảng 142.000 cử tri đã đăng ký bỏ phiếu sẽ đi bầu cử. Carlos Vila Nova, người đang nắm giữ chức vụ tổng thống, hy vọng sẽ đánh bại cựu đảng của mình để giành nhiệm kỳ thứ hai. Đây là một cơ hội để quốc gia châu Phi này thể hiện khả năng dân chủ của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1517467a44eb",
+      "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+      "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-21T08:12:52.040678+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh sát Pennsylvania bị buộc tội che giấu camera và chụp ảnh tù nhân khỏa thân",
+      "bullets": [
+        "Cảnh sát Pennsylvania bị buộc tội che giấu camera và chụp ảnh tù nhân khỏa thân",
+        "Nạn nhân bị chụp ảnh bằng điện thoại iPhone của cảnh sát",
+        "Các camera khác đã ghi lại cảnh này và cảnh sát bị buộc tội che giấu bằng chứng",
+        "Cảnh sát bị buộc tội hành hạ và cản trở công lý"
+      ],
+      "full_summary": "Một cảnh sát ở Pennsylvania bị buộc tội hành hạ và cản trở công lý vì đã che giấu camera và chụp ảnh tù nhân khỏa thân. Nạn nhân bị chụp ảnh bằng điện thoại iPhone của cảnh sát. Các camera khác đã ghi lại cảnh này và cảnh sát bị buộc tội che giấu bằng chứng. Cảnh sát sẽ phải đối mặt với các cáo buộc nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "296b7d0b54aa",
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-21T08:12:57.743901+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Một người dùng chạy game Doom trên CPU tùy chỉnh của mình",
+      "bullets": [
+        "Chạy game Doom trên CPU tùy chỉnh thành công",
+        "Bài viết gây chú ý trên Hacker News",
+        "Người dùng chia sẻ kinh nghiệm và kỹ thuật",
+        "Bài viết thu hút sự quan tâm của cộng đồng lập trình viên"
+      ],
+      "full_summary": "Một người dùng đã thành công chạy game Doom trên CPU tùy chỉnh của mình và chia sẻ kinh nghiệm trên blog. Bài viết đã gây chú ý trên Hacker News và thu hút sự quan tâm của cộng đồng lập trình viên. Người dùng đã chia sẻ kỹ thuật và kinh nghiệm của mình, giúp cộng đồng hiểu rõ hơn về khả năng của CPU tùy chỉnh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "64d986ad5839",
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
@@ -634,164 +794,6 @@
         "Cộng đồng lo ngại về tác động tiêu cực của AI"
       ],
       "full_summary": "Meta đã phát hành tính năng chỉnh sửa ảnh AI trên Instagram, nhưng sau vài ngày, công ty đã hủy bỏ tính năng này. Tính năng này cho phép người dùng chỉnh sửa ảnh bằng trí tuệ nhân tạo, nhưng nó đã gây ra phản ứng dữ dội từ cộng đồng. Các chuyên gia lo ngại về tác động tiêu cực của AI đối với xã hội và nền tảng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5afbf62fbff9",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T02:20:50.004197+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi lăm người Mỹ bị cách ly vì Ebola ở Kenya",
-      "bullets": [
-        "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya",
-        "Cơ sở cách ly gây ra phản ứng dữ dội ở Kenya và đang bị tòa án đình chỉ",
-        "Người Mỹ bị cách ly đã từng tham gia chống dịch Ebola tại Cộng hòa Dân chủ Congo",
-        "Họ phải tuân thủ quy định mới của chính phủ Mỹ về hạn chế di chuyển"
-      ],
-      "full_summary": "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya sau khi chính phủ Mỹ giới thiệu hạn chế di chuyển. Họ đã từng tham gia chống dịch Ebola tại Cộng hòa Dân chủ Congo. Cơ sở cách ly này đã gây ra phản ứng dữ dội ở Kenya và đang bị tòa án đình chỉ. Mặc dù vậy, công trình xây dựng vẫn tiếp tục, theo các quan chức Mỹ và hình ảnh vệ tinh được Reuters đánh giá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4e6cd8426c32",
-      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T02:20:51.095781+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ngoại giao Anh cắt giảm hỗ trợ cho một số nước châu Phi",
-      "bullets": [
-        "Cắt giảm hỗ trợ cho một số nước châu Phi lên tới 90%",
-        "Báo cáo của Bộ Ngoại giao Anh tiết lộ chi tiết về cắt giảm ngân sách hỗ trợ",
-        "Cắt giảm hỗ trợ sẽ ảnh hưởng đến vai trò của Anh trên trường quốc tế",
-        "Lực lượng đối lập chỉ trích quyết định cắt giảm hỗ trợ của chính phủ Anh"
-      ],
-      "full_summary": "Theo báo cáo của Bộ Ngoại giao Anh, cắt giảm ngân sách hỗ trợ sẽ khiến hỗ trợ cho một số nước châu Phi giảm tới 90%. Điều này được cho là sẽ ảnh hưởng đến vai trò của Anh trên trường quốc tế. Lực lượng đối lập đã chỉ trích quyết định cắt giảm hỗ trợ của chính phủ Anh. Cắt giảm hỗ trợ sẽ có tác động nghiêm trọng đến các nước châu Phi đang cần sự hỗ trợ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1a22ce241ad",
-      "title": "We want Texans to know their rights",
-      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-20T02:20:54.099031+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tổ chức bảo vệ quyền riêng tư ở Texas giáo dục người dân về quyền của họ",
-      "bullets": [
-        "Giáo dục người dân về quyền của họ trong việc truy cập thông tin sức khỏe",
-        "Phản đối việc giám sát và thu thập dữ liệu liên quan đến phá thai",
-        "Tôn trọng quyền riêng tư và tự do của phụ nữ",
-        "Khuyến khích người dân tham gia vào các cuộc tranh luận về quyền riêng tư"
-      ],
-      "full_summary": "Tổ chức Electronic Frontier Foundation (EFF) ở Texas đã công bố một bản hỏi đáp về quyền riêng tư và sức khỏe của phụ nữ. Họ muốn giáo dục người dân về quyền của họ trong việc truy cập thông tin sức khỏe và phản đối việc giám sát và thu thập dữ liệu liên quan đến phá thai. EFF tin rằng quyền riêng tư và tự do của phụ nữ cần được tôn trọng và khuyến khích người dân tham gia vào các cuộc tranh luận về quyền riêng tư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f6ef2fee3b3b",
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-20T02:20:57.072977+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một emulátor mới cho CPU Itanium của Intel có thể khởi động Windows",
-      "bullets": [
-        "Tạo ra một emulátor Itanium mới cho phép khởi động Windows",
-        "Emulátor này hỗ trợ các tính năng của CPU Itanium",
-        "Cải thiện khả năng tương thích của hệ điều hành Windows với CPU Itanium"
-      ],
-      "full_summary": "Một lập trình viên đã tạo ra một emulátor mới cho CPU Itanium của Intel, cho phép khởi động hệ điều hành Windows trên các thiết bị không hỗ trợ CPU này. Emulátor này hỗ trợ các tính năng của CPU Itanium và cải thiện khả năng tương thích của hệ điều hành Windows với CPU Itanium. Điều này có thể giúp mở rộng khả năng tương thích của hệ điều hành Windows với các thiết bị cũ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b1321a7a5f91",
-      "title": "The mysterious hum heard around the world may finally have an explanation",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-07-20T02:21:00.048948+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Nghi vấn âm thanh bí ẩn trên toàn cầu có thể đã được giải đáp",
-      "bullets": [
-        "Các nhà nghiên cứu đã thử nghiệm lý giải về khả năng nghe âm thanh thấp của con người",
-        "Họ cũng kiểm tra xem liệu âm thanh có thể được tạo ra bên trong tai của người nghe hay không",
-        "Kết quả cho thấy nhiều trường hợp có thể liên quan đến tinnitus có tần số thấp"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã tìm ra một giải thích tiềm năng cho âm thanh bí ẩn được gọi là The Hum, đã được báo cáo trên toàn cầu trong nhiều thập kỷ. Họ đã thử nghiệm hai lý giải phổ biến, bao gồm khả năng nghe âm thanh thấp của con người và âm thanh được tạo ra bên trong tai của người nghe, nhưng kết quả cho thấy cả hai lý giải này không phù hợp với hầu hết các tham gia. Kết quả cho thấy nhiều trường hợp có thể liên quan đến tinnitus có tần số thấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "68dc2cf37237",
-      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T18:55:22.431683+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Matty Healy kết hôn với người mẫu Gabbriette Bechtel ở Los Angeles",
-      "bullets": [
-        "Kết hôn vào ngày nào đó",
-        "Gabbriette Bechtel là người mẫu nổi tiếng",
-        "Matty Healy từng hẹn hò với Taylor Swift",
-        "Hôn nhân diễn ra ở Los Angeles"
-      ],
-      "full_summary": "Matty Healy, thành viên của ban nhạc The 1975, đã kết hôn với người mẫu Gabbriette Bechtel ở Los Angeles. Cặp đôi được đồn đoán có mối quan hệ từ năm 2023 sau khi Healy kết thúc mối quan hệ với Taylor Swift. Thông tin về hôn nhân của họ vẫn chưa được tiết lộ chi tiết. Cặp đôi đã chọn Los Angeles làm nơi tổ chức hôn lễ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fba9dd3e8852",
-      "title": "Health officials identify source of US explosive diarrhoea outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T18:55:23.454561+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mỹ xác định nguồn gốc dịch tả nấm gây sốt",
-      "bullets": [
-        "Xác định nguồn gốc dịch tả nấm gây sốt ở Mỹ",
-        "Tác nhân gây bệnh là rong tảo Cyclospora",
-        "Nguồn gốc là rau xà lách từ Taylor Farms",
-        "Bán tại Taco Bell và Walmart"
-      ],
-      "full_summary": "Cơ quan Quản lý Thực phẩm và Dược phẩm Mỹ (FDA) xác định nguồn gốc của dịch tả nấm gây sốt ở Mỹ là rau xà lách được cung cấp bởi Taylor Farms và bán tại các cửa hàng Taco Bell và Walmart. Dịch tả nấm gây sốt đã ảnh hưởng đến hàng trăm người ở Mỹ. FDA đã xác định rằng nguồn gốc của dịch là rong tảo Cyclospora. Các trường hợp nhiễm trùng đã được báo cáo ở nhiều bang khác nhau của Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8eb23a68a84c",
-      "title": "Neighbours actor Terence Donovan dies aged 90",
-      "url": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-19T18:55:24.664367+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nam diễn viên Terence Donovan qua đời ở tuổi 90",
-      "bullets": [
-        "Đã qua đời",
-        "Là cha của diễn viên Jason Donovan",
-        "Bị mất mạng vào tối thứ 6 ở Melbourne, Úc",
-        "Là diễn viên nổi tiếng trong bộ phim Neighbours"
-      ],
-      "full_summary": "Nam diễn viên Terence Donovan đã qua đời ở tuổi 90. Ông qua đời vào tối thứ 6 ở Melbourne, Úc. Con trai của ông, diễn viên Jason Donovan, đã đăng thông báo qua mạng xã hội. Terence Donovan là một diễn viên nổi tiếng trong bộ phim Neighbours.",
       "comments": 0,
       "score": 0
     }
