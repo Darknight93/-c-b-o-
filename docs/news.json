@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-07-21T19:07:57.792003+00:00",
+  "updated_at": "2026-07-22T01:57:54.664479+00:00",
   "articles": [
+    {
+      "id": "9f4923b5ed8c",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-22T01:57:39.796838+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Ukraine sa thải chỉ huy quân đội cấp cao",
+      "bullets": [
+        "Sa thải tướng Oleksandr Syrskyi sau phản ứng dữ dội",
+        "Bất bình vì cách xử lý của Tổng thống Zelensky",
+        "Tướng Syrskyi bị chỉ trích vì không ngăn chặn cuộc tấn công của Nga",
+        "Tổng thống Zelensky phải đối mặt với áp lực từ công chúng"
+      ],
+      "full_summary": "Tổng thống Ukraine Volodymyr Zelensky đã sa thải tướng Oleksandr Syrskyi, chỉ huy quân đội cấp cao, sau nhiều ngày phản ứng dữ dội từ công chúng. Nguyên nhân là do Tổng thống Zelensky đã cách chức Bộ trưởng Quốc phòng Mykhailo Fedorov, người được yêu thích. Tướng Syrskyi đã bị chỉ trích vì không ngăn chặn cuộc tấn công của Nga. Sự kiện này đã gây ra áp lực lớn cho Tổng thống Zelensky.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "168f8cfe77f0",
+      "title": "Will AI help you do your job or replace you?",
+      "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-22T01:57:40.910881+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tự động hóa công việc: AI thay thế hay hỗ trợ người lao động?",
+      "bullets": [
+        "Thị trường lao động đang thay đổi nhanh chóng do sự phát triển của trí tuệ nhân tạo.",
+        "Nhiều công ty AI tuyên bố công cụ của họ có thể thay thế lao động con người.",
+        "Biểu đồ của BBC cho thấy thực tế là AI đang hỗ trợ và thay thế một số công việc nhất định.",
+        "Sự thay đổi này có thể mang lại nhiều lợi ích nhưng cũng đặt ra nhiều thách thức cho người lao động."
+      ],
+      "full_summary": "Các công ty trí tuệ nhân tạo đang tuyên bố rằng công cụ của họ có thể thay thế lao động con người. Tuy nhiên, biểu đồ của BBC cho thấy thực tế là AI đang hỗ trợ và thay thế một số công việc nhất định. Điều này có thể mang lại nhiều lợi ích nhưng cũng đặt ra nhiều thách thức cho người lao động. Việc tự động hóa công việc đang thay đổi nhanh chóng và người lao động cần phải thích nghi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "39b1e6242317",
+      "title": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
+      "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-22T01:57:42.059501+00:00",
+      "category": "economy",
+      "importance": 5,
+      "headline": "AliExpress bị phạt kỷ lục 550 triệu euro vì cho phép bán hàng giả",
+      "bullets": [
+        "Cho phép bán hàng giả, hàng độc hại trên trang thương mại điện tử",
+        "Bị EU phạt kỷ lục 550 triệu euro",
+        "Cấm bán hàng độc hại, hàng giả trên trang AliExpress",
+        "Sẽ phải thực hiện các biện pháp để ngăn chặn hàng giả"
+      ],
+      "full_summary": "Tổ chức Thương mại và Công nghiệp châu Âu (EU) vừa phạt AliExpress kỷ lục 550 triệu euro vì cho phép bán hàng giả, hàng độc hại trên trang thương mại điện tử. Theo EU, AliExpress đã cho phép bán hàng độc hại, hàng giả trên trang thương mại điện tử của mình. Điều này đã vi phạm các quy định của EU về an toàn và bảo vệ người tiêu dùng. AliExpress sẽ phải thực hiện các biện pháp để ngăn chặn hàng giả và hàng độc hại trên trang thương mại điện tử của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5e9106d43afd",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-22T01:57:43.065707+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một nhân viên y tế ở London được theo dõi vì nghi ngờ nhiễm Ebola",
+      "bullets": [
+        "Được sơ tán khỏi Cộng hòa Dân chủ Congo vì nghi ngờ nhiễm Ebola",
+        "Đã được điều trị tại bệnh viện chuyên khoa ở London",
+        "Đã tiếp xúc với bệnh nhân mắc Ebola trong quá trình làm việc tại DRC",
+        "Được theo dõi bởi cơ quan y tế Anh"
+      ],
+      "full_summary": "Một nhân viên y tế người Anh đã được sơ tán khỏi Cộng hòa Dân chủ Congo vì nghi ngờ nhiễm Ebola. Người này đã được điều trị tại bệnh viện chuyên khoa ở London và đang được theo dõi bởi cơ quan y tế Anh. Người này đã tiếp xúc với bệnh nhân mắc Ebola trong quá trình làm việc tại DRC, nơi đang xảy ra một vụ bùng phát của bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5863d15e186d",
+      "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-22T01:57:44.168173+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Trump tuyên bố áp thuế 100% đối với thuốc thông thường từ năm 2028",
+      "bullets": [
+        "Trump sẽ áp thuế 100% đối với thuốc thông thường được sản xuất ở nước ngoài từ 1/8/2028",
+        "Thuế sẽ tăng lên 200% sau một năm",
+        "Giá xăng ở Mỹ tiếp tục tăng lên hơn 4 USD/gallon",
+        "Giá dầu Brent hiện tại là 90,92 USD/thùng"
+      ],
+      "full_summary": "Thủ tướng Mỹ Donald Trump vừa tuyên bố sẽ áp thuế 100% đối với thuốc thông thường được sản xuất ở nước ngoài từ ngày 1/8/2028. Sau một năm, thuế sẽ tăng lên 200%. Điều này đã gây ra lo ngại về giá thuốc và giá xăng ở Mỹ. Giá xăng hiện tại đã tăng lên hơn 4 USD/gallon, trong khi giá dầu Brent đang ở mức 90,92 USD/thùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0162b53ac4f8",
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-22T01:57:45.188842+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Canada hủy lễ khai mạc cầu quốc tế Gordie Howe vì căng thẳng thương mại",
+      "bullets": [
+        "Canada hủy lễ khai mạc cầu quốc tế Gordie Howe vì Trump áp thuế 50% vào hàng hóa Canada",
+        "Trump áp thuế 50% vào hầu hết hàng hóa Canada vì cáo buộc Canada phân biệt đối xử với xe hơi, rượu và sản phẩm sữa",
+        "Căng thẳng giữa Mỹ và Canada gia tăng sau khi Trump công bố quyết định này",
+        "Cầu quốc tế Gordie Howe kết nối Detroit và Windsor, Ontario"
+      ],
+      "full_summary": "Hôm nay, lễ khai mạc cầu quốc tế Gordie Howe giữa Detroit và Windsor, Ontario đã bị hủy bỏ. Nguyên nhân là do Tổng thống Mỹ Donald Trump công bố áp thuế 50% vào hầu hết hàng hóa Canada. Trump cáo buộc Canada phân biệt đối xử với xe hơi, rượu và sản phẩm sữa. Căng thẳng giữa Mỹ và Canada đã gia tăng sau quyết định này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e014711cfc53",
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-22T01:57:51.158318+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Hộ trợ tác giả Anthropic đạt 1,5 tỷ USD, 350 tác giả từ chối",
+      "bullets": [
+        "Hộ trợ Anthropic đạt 1,5 tỷ USD",
+        "350 tác giả từ chối tham gia",
+        "Tòa án chấp thuận thỏa thuận",
+        "Tác giả không thể từ chối sau khi ký"
+      ],
+      "full_summary": "Tòa án đã chấp thuận thỏa thuận 1,5 tỷ USD của Anthropic với các tác giả. Chỉ có 350 tác giả từ chối tham gia thỏa thuận này. Anthropic đã ngăn các tác giả từ chối tham gia thỏa thuận vào phút cuối. Thỏa thuận này là một trong những thỏa thuận lớn nhất trong lịch sử.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "be875ab7acef",
       "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
@@ -652,146 +792,6 @@
         "Hỗ trợ cho việc phòng cháy rừng ở Mỹ"
       ],
       "full_summary": "Mỹ đang phải đối mặt với nạn cháy rừng gần như quanh năm. Để giải quyết vấn đề này, California và XPRIZE đang thử nghiệm sử dụng máy bay không người lái để ngăn cháy rừng. Máy bay không người lái sẽ được sử dụng để phát hiện và ngăn cháy rừng sớm, giúp giảm thiểu thiệt hại. Cuộc thi XPRIZE sẽ kiểm tra khả năng của máy bay không người lái trong việc ngăn cháy rừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bdb7e8077b22",
-      "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
-      "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-21T01:59:12.369291+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Giá game PlayStation tăng cao khi không dùng đĩa vật lý",
-      "bullets": [
-        "Giá game đĩa vật lý vẫn rẻ hơn nhiều so với giảm giá sâu của game kỹ thuật số",
-        "Người dùng thường chọn mua game đĩa cũ thay vì mua game kỹ thuật số",
-        "Giá game PlayStation tăng cao khi người dùng chuyển sang mua game kỹ thuật số",
-        "Giá game đĩa vật lý vẫn là lựa chọn tốt cho người dùng muốn tiết kiệm"
-      ],
-      "full_summary": "Sony đã công bố kế hoạch không sử dụng đĩa vật lý cho PlayStation, dẫn đến giá game tăng cao. Theo nghiên cứu của Ars Technica, giá game đĩa vật lý vẫn rẻ hơn nhiều so với giảm giá sâu của game kỹ thuật số. Người dùng thường chọn mua game đĩa cũ thay vì mua game kỹ thuật số, điều này đã làm tăng giá game PlayStation. Giá game đĩa vật lý vẫn là lựa chọn tốt cho người dùng muốn tiết kiệm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "446c6b5e1175",
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T19:29:22.008857+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Houthis áp dụng cấm vận biển đối với Ả Rập Xê Út",
-      "bullets": [
-        "Houthis tuyên bố cấm vận biển bắt đầu ngay lập tức",
-        "Cấm vận là một phản ứng đối với phong tỏa cảng và sân bay của Ả Rập Xê Út tại Yemen",
-        "Houthis cho rằng phong tỏa là một hình thức trừng phạt",
-        "Cấm vận có thể ảnh hưởng đến hoạt động thương mại của Ả Rập Xê Út"
-      ],
-      "full_summary": "Houthis, một nhóm vũ trang tại Yemen, đã tuyên bố áp dụng cấm vận biển đối với Ả Rập Xê Út. Cấm vận này là một phản ứng đối với phong tỏa cảng và sân bay của Ả Rập Xê Út tại Yemen. Houthis cho rằng phong tỏa là một hình thức trừng phạt và họ muốn phản đối nó bằng cách áp dụng cấm vận biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0f41e3686c86",
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T19:29:23.018167+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nổ súng Nga giết 10 người trên tàu buôn ở Biển Đen",
-      "bullets": [
-        "Tấn công của Nga vào khu vực Odessa khiến 28 người chết trong tháng 7",
-        "Hàng chục người bị thương trong các vụ tấn công",
-        "Nga tiếp tục tăng cường tấn công tàu buôn ở Biển Đen",
-        "Tình hình ở khu vực Odessa đang trở nên căng thẳng"
-      ],
-      "full_summary": "Các vụ tấn công của Nga vào khu vực Odessa đã khiến 28 người chết trong tháng 7, bao gồm cả 10 người trên tàu buôn. Các vụ tấn công đã khiến hàng chục người bị thương. Nga tiếp tục tăng cường tấn công tàu buôn ở Biển Đen, khiến tình hình ở khu vực Odessa trở nên căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6856edfec7ad",
-      "title": "Rare identical quadruplets born in Australia",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T19:29:24.233482+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhiệt độ bất ngờ: Bốn chị em sinh đôi tự nhiên ở Úc",
-      "bullets": [
-        "Bốn chị em sinh đôi tự nhiên được sinh ra ở Úc",
-        "Cha mẹ bất ngờ với việc mang thai",
-        "Hai mẹ con và bốn chị em được chăm sóc tại bệnh viện",
-        "Bốn chị em đều là gái"
-      ],
-      "full_summary": "Bốn chị em sinh đôi tự nhiên vừa được sinh ra ở Úc. Cha mẹ của chúng bất ngờ với việc mang thai. Bốn chị em đều là gái và được chăm sóc tại bệnh viện. Sự kiện này đã gây bất ngờ cho cả gia đình và nhân viên y tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f36ae546a178",
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T19:29:25.350951+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "El Mayo bị kết án tù chung thân vì tội buôn bán ma túy",
-      "bullets": [
-        "Họ bị kết án tù chung thân",
-        "Được yêu cầu bồi thường 15 tỷ USD",
-        "Là đồng sáng lập của Cartel Sinaloa",
-        "Bị kết án vì tội buôn bán ma túy vào Mỹ"
-      ],
-      "full_summary": "Ismael Zambada, người được biết đến với tên gọi El Mayo, đã bị kết án tù chung thân vì tội buôn bán ma túy. Ông là đồng sáng lập của Cartel Sinaloa, một trong những tổ chức buôn bán ma túy nổi tiếng nhất Mexico. Theo BBC, El Mayo đã thừa nhận đã gửi một lượng lớn ma túy vào Mỹ và bị yêu cầu bồi thường 15 tỷ USD.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "29a8e4bd4b2f",
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T19:29:26.390151+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh sát chặn hàng nghìn người biểu tình đòi cải cách giáo dục",
-      "bullets": [
-        "Cảnh sát ngăn chặn cuộc biểu tình của hàng nghìn người",
-        "Nhiều người biểu tình bị thương trong các vụ va chạm",
-        "Người biểu tình đòi cải cách giáo dục và các vấn đề khác",
-        "Cảnh sát đã ngăn chặn cuộc biểu tình trước cổng parliament"
-      ],
-      "full_summary": "Cảnh sát Ấn Độ đã ngăn chặn hàng nghìn người biểu tình đòi cải cách giáo dục trước cổng parliament. Nhiều người biểu tình đã bị thương trong các vụ va chạm với cảnh sát. Người biểu tình đòi cải cách giáo dục và các vấn đề khác. Mục đích của cuộc biểu tình là để thể hiện sự bất mãn của họ đối với hệ thống giáo dục hiện tại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a7d1e78d6d7e",
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-20T19:29:27.339172+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hamas chọn Khalil al-Hayya làm lãnh đạo mới",
-      "bullets": [
-        "Hamas đã chọn Khalil al-Hayya làm lãnh đạo mới",
-        "Al-Hayya thay thế Yahya Sinwar sau khi bị Israel giết",
-        "Sinwar bị giết vào năm 2024",
-        "Al-Hayya từng là người đàm phán hàng đầu của Hamas tại Qatar"
-      ],
-      "full_summary": "Hamas đã chọn Khalil al-Hayya làm lãnh đạo mới sau khi Yahya Sinwar bị giết bởi lực lượng Israel vào năm 2024. Al-Hayya từng là người đàm phán hàng đầu của Hamas tại Qatar. Sự thay đổi lãnh đạo này diễn ra trong bối cảnh căng thẳng giữa Israel và Hamas vẫn đang tiếp diễn.",
       "comments": 0,
       "score": 0
     }
