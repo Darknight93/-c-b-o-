@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-07-22T19:02:06.454162+00:00",
+  "updated_at": "2026-07-23T02:05:48.701860+00:00",
   "articles": [
+    {
+      "id": "cc8463dda311",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T02:05:33.997830+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Máy bay không người lái Ukraine tấn công kho hàng Wildberries",
+      "bullets": [
+        "Tấn công kho hàng của Wildberries",
+        "Kho hàng bị hư hại nghiêm trọng",
+        "Wildberries là nhà bán lẻ trực tuyến lớn nhất Nga",
+        "Ukraine sử dụng máy bay không người lái để tấn công"
+      ],
+      "full_summary": "Máy bay không người lái Ukraine đã tấn công kho hàng của Wildberries, nhà bán lẻ trực tuyến lớn nhất Nga, trong vài ngày qua. Các kho hàng bị hư hại nghiêm trọng. Wildberries đã trở thành mục tiêu của Ukraine sau khi Nga tham gia vào cuộc xung đột ở Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "09ccff448cfa",
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T02:05:34.913807+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai mươi người trong gia đình Peru thiệt mạng trong vụ hỏa hoạn",
+      "bullets": [
+        "Cảnh sát đang điều tra nguyên nhân vụ cháy tại Lima",
+        "Nghi ngờ vụ cháy có thể do hành động khủng bố",
+        "10 thành viên trong gia đình đã thiệt mạng",
+        "Cơ quan chức năng đang điều tra"
+      ],
+      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại Lima, Peru, khiến 10 thành viên trong cùng một gia đình thiệt mạng. Cảnh sát đang điều tra nguyên nhân vụ cháy, nghi ngờ có thể do hành động khủng bố. Vụ việc đang gây sự chú ý của dư luận và cơ quan chức năng đang tiến hành điều tra để tìm hiểu nguyên nhân thực sự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6e156e26e57e",
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T02:05:35.969156+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Chính phủ Canada đối mặt với thuế mới từ Mỹ",
+      "bullets": [
+        "Mỹ áp thuế mới lên Canada vì hệ thống quản lý sữa",
+        "Hệ thống này khiến Mỹ không thể bán sữa vào Canada",
+        "Mỹ muốn mở rộng thị trường sữa của mình",
+        "Canada phản đối việc này"
+      ],
+      "full_summary": "Chính phủ Canada đang đối mặt với thuế mới từ Mỹ do hệ thống quản lý sữa của Canada gây ra. Hệ thống này khiến Mỹ không thể bán sữa vào Canada, điều này khiến Mỹ muốn mở rộng thị trường sữa của mình. Tuy nhiên, Canada phản đối việc này và cho rằng hệ thống quản lý sữa của mình là cần thiết để bảo vệ ngành công nghiệp sữa của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3af5f66029c6",
+      "title": "Google burning through cash with spiralling AI costs",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T02:05:36.876702+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Google dự kiến chi 190 tỷ USD cho đầu tư AI",
+      "bullets": [
+        "Chi phí phát triển trí tuệ nhân tạo của Google đang tăng vọt",
+        "Công ty này dự kiến chi 190 tỷ USD cho đầu tư AI",
+        "Sự tăng trưởng của AI đang gây ra áp lực tài chính cho Google"
+      ],
+      "full_summary": "Google đã công bố kế hoạch chi 190 tỷ USD cho đầu tư AI vào năm nay. Điều này cho thấy chi phí phát triển trí tuệ nhân tạo của công ty đang tăng vọt. Sự tăng trưởng của AI đang gây ra áp lực tài chính cho Google, nhưng công ty này vẫn tin rằng việc đầu tư này sẽ mang lại lợi nhuận trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "538e42e83f26",
+      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+      "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T02:05:37.811186+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chính phủ Anh tăng cường vai trò của bộ trưởng AI nhưng bãi bỏ bộ phận công nghệ",
+      "bullets": [
+        "Tăng cường vai trò của bộ trưởng AI Kanishka Narayan trong nội các",
+        "Bãi bỏ bộ phận công nghệ và không còn có bộ trưởng công nghệ",
+        "Kanishka Narayan sẽ tiếp tục tham gia nội các nhưng không còn lãnh đạo bộ phận công nghệ",
+        "Cơ quan này sẽ được sáp nhập vào một bộ phận khác"
+      ],
+      "full_summary": "Chính phủ Anh đã thông báo về một số thay đổi lớn trong nội các. Bộ trưởng AI Kanishka Narayan sẽ tiếp tục tham gia nội các nhưng không còn lãnh đạo bộ phận công nghệ. Bộ phận công nghệ sẽ được bãi bỏ và sáp nhập vào một bộ phận khác. Điều này đã gây ra nhiều tranh cãi trong cộng đồng công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3ee91dee03f",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T02:05:38.995292+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Sao Tome và Principe bầu cử tổng thống trong bầu cử đầy căng thẳng",
+      "bullets": [
+        "Hơn 142.000 cử tri đăng ký bỏ phiếu trong bầu cử của quốc gia châu Phi nhỏ bé",
+        "Tổng thống đương nhiệm Carlos Vila Nova hy vọng đánh bại đảng cũ và giành được nhiệm kỳ thứ hai",
+        "Cử tri Sao Tome và Principe sẽ đi bầu cử tổng thống vào Chủ nhật",
+        "Bầu cử được coi là cơ hội để quốc gia này khẳng định uy tín về dân chủ"
+      ],
+      "full_summary": "Sao Tome và Principe đã sẵn sàng cho bầu cử tổng thống đầy căng thẳng. Tổng thống đương nhiệm Carlos Vila Nova hy vọng đánh bại đảng cũ và giành được nhiệm kỳ thứ hai. Cử tri sẽ đi bầu cử vào Chủ nhật, và bầu cử được coi là cơ hội để quốc gia này khẳng định uy tín về dân chủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "417d9bf711aa",
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-23T02:05:41.815653+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Microsoft hỗ trợ chơi game Xbox gốc trên máy tính Windows",
+      "bullets": [
+        "Cung cấp khả năng tương thích ngược cho 4 tựa game đầu tiên",
+        "Có thể chạy trên card đồ họa 11 tuổi",
+        "Tăng cường trải nghiệm chơi game cho người dùng Windows",
+        "Phát triển thêm tính năng tương thích ngược cho các tựa game khác"
+      ],
+      "full_summary": "Microsoft vừa công bố hỗ trợ chơi game Xbox gốc trên máy tính Windows. Người dùng có thể chơi 4 tựa game đầu tiên trên Windows với card đồ họa chỉ 11 tuổi. Tính năng này sẽ giúp tăng cường trải nghiệm chơi game cho người dùng Windows. Microsoft đang tiếp tục phát triển thêm tính năng tương thích ngược cho các tựa game khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3d5f48645591",
+      "title": "Run large language models at home, BitTorrent‑style",
+      "url": "https://petals.dev/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-23T02:05:45.922820+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chạy mô hình ngôn ngữ lớn tại nhà như chia sẻ tập tin BitTorrent",
+      "bullets": [
+        "Mô tả cách chạy mô hình ngôn ngữ lớn tại nhà mà không cần đến đám mây",
+        "Giới thiệu công cụ Petals.dev cho phép tải xuống và chạy mô hình ngôn ngữ lớn",
+        "Mô tả cách thức hoạt động của Petals.dev và lợi ích của nó"
+      ],
+      "full_summary": "Petals.dev là một công cụ cho phép người dùng tải xuống và chạy mô hình ngôn ngữ lớn tại nhà mà không cần đến đám mây. Công cụ này hoạt động dựa trên cơ chế chia sẻ tập tin BitTorrent, cho phép người dùng chia sẻ và tải xuống mô hình ngôn ngữ lớn một cách nhanh chóng và hiệu quả. Điều này có thể giúp giảm chi phí và tăng tốc độ xử lý dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d3ebd3fde763",
       "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
@@ -636,162 +794,6 @@
         "Cầu quốc tế Gordie Howe kết nối Detroit và Windsor, Ontario"
       ],
       "full_summary": "Hôm nay, lễ khai mạc cầu quốc tế Gordie Howe giữa Detroit và Windsor, Ontario đã bị hủy bỏ. Nguyên nhân là do Tổng thống Mỹ Donald Trump công bố áp thuế 50% vào hầu hết hàng hóa Canada. Trump cáo buộc Canada phân biệt đối xử với xe hơi, rượu và sản phẩm sữa. Căng thẳng giữa Mỹ và Canada đã gia tăng sau quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e014711cfc53",
-      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-22T01:57:51.158318+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hộ trợ tác giả Anthropic đạt 1,5 tỷ USD, 350 tác giả từ chối",
-      "bullets": [
-        "Hộ trợ Anthropic đạt 1,5 tỷ USD",
-        "350 tác giả từ chối tham gia",
-        "Tòa án chấp thuận thỏa thuận",
-        "Tác giả không thể từ chối sau khi ký"
-      ],
-      "full_summary": "Tòa án đã chấp thuận thỏa thuận 1,5 tỷ USD của Anthropic với các tác giả. Chỉ có 350 tác giả từ chối tham gia thỏa thuận này. Anthropic đã ngăn các tác giả từ chối tham gia thỏa thuận vào phút cuối. Thỏa thuận này là một trong những thỏa thuận lớn nhất trong lịch sử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "be875ab7acef",
-      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-21T19:07:42.622292+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi lăm người thiệt mạng do các cuộc tấn công của Israel tại Gaza",
-      "bullets": [
-        "Hai mươi lăm người bị giết trong các cuộc tấn công của Israel tại Gaza",
-        "Một gia đình gồm sáu người bị giết trong một cuộc tấn công",
-        "Cơ quan y tế nói rằng các cuộc tấn công đã gây ra thương vong lớn",
-        "Lực lượng quân sự Israel cho biết họ đã nhắm vào một thành viên của Hamas"
-      ],
-      "full_summary": "Các cuộc tấn công của Israel tại Gaza đã khiến 12 người thiệt mạng, bao gồm cả một gia đình gồm sáu người. Theo cơ quan y tế, một cuộc tấn công đã giết chết Firas al-Masri, vợ và bốn đứa con của ông. Lực lượng quân sự Israel cho biết họ đã nhắm vào một thành viên của Hamas trong cuộc tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "696e948ce951",
-      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-21T19:07:43.639462+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai chiến sĩ cứu hỏa Pháp thiệt mạng trong trận hỏa hoạn gần sân bay Bordeaux",
-      "bullets": [
-        "Nổ ra hỏa hoạn gần khu vực đậu xe sân bay Bordeaux-Mérignac"
-      ],
-      "full_summary": "Hai chiến sĩ cứu hỏa Pháp đã thiệt mạng khi nỗ lực dập tắt hỏa hoạn gần sân bay Bordeaux-Mérignac. Hỏa hoạn được cho là bắt nguồn từ một đám cháy rừng. Các lực lượng cứu hỏa đang cố gắng kiểm soát đám cháy. Sự cố này đã gây ra sự lo lắng cho công chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f1c6298867a9",
-      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
-      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-21T19:07:44.633700+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Amazon bị đốt cháy ít nhất kể từ năm 1985",
-      "bullets": [
-        "Bị đốt cháy ít nhất kể từ năm 1985",
-        "Số lượng đất bị đốt cháy giảm mạnh",
-        "MapBiomas ghi nhận kết quả này lần đầu tiên",
-        "Hiện tượng này cho thấy nỗ lực bảo vệ rừng",
-        "Sự suy giảm này được ghi nhận lần đầu tiên kể từ năm 1985"
-      ],
-      "full_summary": "Brazil báo cáo rằng Amazon bị đốt cháy ít nhất kể từ năm 1985. Số lượng đất bị đốt cháy giảm mạnh, chỉ 6.9% so với cùng kỳ năm ngoái. MapBiomas ghi nhận kết quả này lần đầu tiên. Hiện tượng này cho thấy nỗ lực bảo vệ rừng đang có hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11943fcaf9be",
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-21T19:07:45.720846+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Trump Media sẽ cung cấp nội dung ảnh hưởng đến thị trường với phí",
-      "bullets": [
-        "Sẽ cung cấp nội dung ảnh hưởng đến thị trường với phí cho các nhà giao dịch trên Wall Street",
-        "Dịch vụ nhanh chóng và trả phí sẽ giúp các nhà giao dịch tiếp cận nội dung quan trọng",
-        "Trump Media đang cố gắng thu hút các nhà giao dịch bằng cách cung cấp nội dung độc quyền"
-      ],
-      "full_summary": "Trump Media đang chuẩn bị ra mắt một dịch vụ trả phí mới, cho phép các nhà giao dịch trên Wall Street truy cập nhanh chóng vào các bài đăng ảnh hưởng đến thị trường. Dịch vụ này sẽ cung cấp nội dung độc quyền và giúp các nhà giao dịch tiếp cận thông tin quan trọng một cách nhanh chóng. Mục tiêu của Trump Media là thu hút các nhà giao dịch bằng cách cung cấp nội dung độc quyền và giúp họ đưa ra quyết định kinh doanh tốt hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0f61a66e8411",
-      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-21T19:07:46.769607+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Một trong ba người không thể mua thực phẩm lành mạnh toàn cầu",
-      "bullets": [
-        "Hơn 2,69 tỷ người không thể mua thực phẩm đa dạng đáp ứng nhu cầu năng lượng và chất dinh dưỡng",
-        "Số người đói toàn cầu giảm trong ba năm liên tiếp nhưng vẫn cần hành động để giảm chi phí hoa quả, rau củ và sữa",
-        "UN cảnh báo sẽ cần rất nhiều công sức để đạt mục tiêu không đói toàn cầu vào năm 2030"
-      ],
-      "full_summary": "Theo báo cáo mới của năm cơ quan Liên Hợp Quốc, một trong ba người trên thế giới không thể mua thực phẩm lành mạnh. Số người đói toàn cầu đã giảm trong ba năm liên tiếp, nhưng vẫn còn 2,69 tỷ người không thể mua thực phẩm đa dạng đáp ứng nhu cầu năng lượng và chất dinh dưỡng. Báo cáo này cảnh báo sẽ cần rất nhiều công sức để đạt mục tiêu không đói toàn cầu vào năm 2030.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9e2ea96b4862",
-      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-21T19:07:48.039105+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bìa phim Ghana trở thành tác phẩm nghệ thuật sưu tầm",
-      "bullets": [
-        "Tạo ra những hình ảnh không liên quan đến nội dung phim",
-        "Những hình ảnh này thu hút người xem và trở thành nghệ thuật sưu tầm",
-        "Tác giả phải đối mặt với phản ứng tiêu cực từ khán giả",
-        "Những hình ảnh này vẫn được bảo tồn và trở thành một phần của văn hóa Ghana"
-      ],
-      "full_summary": "Tại Ghana, những tấm bìa phim được vẽ tay đã trở thành một phần quan trọng của văn hóa địa phương. Những hình ảnh này thường không liên quan đến nội dung phim, nhưng vẫn thu hút được sự chú ý của người xem. Một số tác giả đã phải đối mặt với phản ứng tiêu cực từ khán giả, nhưng những hình ảnh này vẫn được bảo tồn và trở thành một phần của nghệ thuật sưu tầm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5afbf62fbff9",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-21T19:07:48.986278+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai mươi sáu người Mỹ bị cách ly tại Kenya vì dịch Ebola",
-      "bullets": [
-        "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya",
-        "Cơ sở cách ly gây ra phản ứng dữ dội ở Kenya và đang bị đình chỉ bởi tòa án",
-        "Nhân viên cứu trợ Mỹ bị cách ly vì đã đi du lịch sau khi Mỹ áp đặt hạn chế du lịch",
-        "Cơ sở cách ly được xây dựng bất chấp lệnh đình chỉ của tòa án"
-      ],
-      "full_summary": "Bảy nhân viên cứu trợ Mỹ bị cách ly tại cơ sở cách ly ở Kenya sau khi Mỹ áp đặt hạn chế du lịch. Họ đã đi đến Cộng hòa Dân chủ Congo để chống lại dịch Ebola. Cơ sở cách ly đã gây ra phản ứng dữ dội ở Kenya và đang bị đình chỉ bởi tòa án. Mặc dù vậy, công trình xây dựng vẫn tiếp tục.",
       "comments": 0,
       "score": 0
     }
