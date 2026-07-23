@@ -1,6 +1,203 @@
 {
-  "updated_at": "2026-07-23T08:17:22.753233+00:00",
+  "updated_at": "2026-07-23T13:39:26.733965+00:00",
   "articles": [
+    {
+      "id": "c8cae83a6f74",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:12.259451+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Truyền thông Mỹ: Saudi Arabia phải công nhận Israel để đạt được thỏa thuận hạt nhân",
+      "bullets": [
+        "Đề xuất của Tổng thống Mỹ phụ thuộc vào việc Saudi Arabia tham gia các thoả thuận Abraham Accords",
+        "Thỏa thuận hạt nhân sẽ giúp Saudi Arabia phát triển năng lượng hạt nhân",
+        "Tổng thống Mỹ cho rằng thỏa thuận hạt nhân sẽ mang lại lợi ích cho cả hai bên",
+        "Saudi Arabia sẽ phải công nhận Israel để đạt được thỏa thuận hạt nhân"
+      ],
+      "full_summary": "Tổng thống Mỹ cho biết thỏa thuận hạt nhân để giúp Saudi Arabia phát triển năng lượng hạt nhân phụ thuộc vào việc Saudi Arabia tham gia các thoả thuận Abraham Accords. Thỏa thuận hạt nhân sẽ giúp Saudi Arabia phát triển năng lượng hạt nhân. Tổng thống Mỹ cho rằng thỏa thuận hạt nhân sẽ mang lại lợi ích cho cả hai bên. Tuy nhiên, Saudi Arabia sẽ phải công nhận Israel để đạt được thỏa thuận hạt nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c0b096ac1c92",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:13.248637+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Phát động sơ tán 20.000 người trước đám cháy rừng ở tây nam Pháp",
+      "bullets": [
+        "Cảnh báo cháy rừng ở Gironde, Pháp",
+        "20.000 người sơ tán khỏi khu vực",
+        "Hầu hết là du khách từ các khu trại ở vịnh Arcachon",
+        "Cơ quan chức năng đang cố gắng kiểm soát đám cháy"
+      ],
+      "full_summary": "Pháp đang phải đối mặt với một đám cháy rừng lớn ở khu vực tây nam. Hơn 20.000 người đã được sơ tán khỏi khu vực, trong đó phần lớn là du khách từ các khu trại ở vịnh Arcachon. Cơ quan chức năng đang cố gắng kiểm soát đám cháy rừng và ngăn chặn nó lan rộng ra các khu vực khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d14555868484",
+      "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:14.110872+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Nữ sinh Hàn Quốc được tuyên bố vô tội vì giết con mới sinh",
+      "bullets": [
+        "Bị cáo đã sinh con tại bệnh viện",
+        "Bác sĩ sau đó đã giết con",
+        "Nữ sinh muốn chấm dứt thai kỳ ở tuần 36",
+        "Bị cáo được tuyên bố vô tội"
+      ],
+      "full_summary": "Một nữ sinh Hàn Quốc đã được tuyên bố vô tội vì giết con mới sinh tại bệnh viện. Bị cáo đã sinh con tại bệnh viện sau khi muốn chấm dứt thai kỳ ở tuần 36. Tuy nhiên, bác sĩ sau đó đã giết con. Tòa án đã tuyên bố nữ sinh vô tội sau khi xem xét vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2b435532d0e5",
+      "title": "Amazon gaming boss predicts future where players no longer need consoles",
+      "url": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:14.965789+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Người chơi có thể không cần máy chơi game trong tương lai",
+      "bullets": [
+        "Giá máy chơi game đang tăng cao",
+        "Người chơi sẽ chuyển sang chơi trực tuyến",
+        "Chơi game trực tuyến sẽ trở nên phổ biến hơn",
+        "Cần có kết nối internet nhanh để chơi game"
+      ],
+      "full_summary": "Jeff Gattis, người đứng đầu bộ phận game của Amazon, dự đoán rằng trong tương lai, người chơi sẽ không cần máy chơi game nữa. Giá máy chơi game đang tăng cao, khiến nhiều người chuyển sang chơi trực tuyến. Chơi game trực tuyến sẽ trở nên phổ biến hơn, nhưng cần có kết nối internet nhanh để chơi game.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "38e99fb70921",
+      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:15.826062+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Elon Musk nói 'Hãy tận hưởng cuộc hành trình' trong bối cảnh lo ngại về trí tuệ nhân tạo",
+      "bullets": [
+        "Elon Musk nói ông không quan tâm đến việc người ta ghét ông",
+        "Ông bác bỏ cáo buộc phân biệt chủng tộc",
+        "Musk nói về trí tuệ nhân tạo trong cuộc phỏng vấn với The Economist"
+      ],
+      "full_summary": "Elon Musk đã nói với The Economist rằng ông không quan tâm đến việc người ta ghét ông và bác bỏ cáo buộc phân biệt chủng tộc. Ông cũng nói về trí tuệ nhân tạo trong cuộc phỏng vấn. Lo ngại về trí tuệ nhân tạo đang tăng cao, nhưng Musk vẫn lạc quan về tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9b839b2dd72",
+      "title": "British army forced to cancel training in Kenya after defence agreement dispute",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:16.787932+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Bắc Anh bị buộc hủy huấn luyện quân đội tại Kenya",
+      "bullets": [
+        "Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương",
+        "Bắc Anh muốn gia hạn thỏa thuận hiện hành, nhưng Kenya muốn thay đổi để tăng quyền lực cho các cơ quan địa phương",
+        "Kenya yêu cầu có quyền kiểm soát tội phạm do quân đội Bắc Anh gây ra",
+        "Bắc Anh buộc phải hủy huấn luyện quân đội vào tháng 9"
+      ],
+      "full_summary": "Bắc Anh đã bị buộc phải hủy huấn luyện quân đội tại Kenya sau khi chính phủ Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương. Bắc Anh muốn gia hạn thỏa thuận hiện hành, nhưng các nhà lập pháp Kenya đã yêu cầu thay đổi để tăng quyền lực cho các cơ quan địa phương để có thể kiểm soát tội phạm do quân đội Bắc Anh gây ra. Điều này đã khiến Bắc Anh buộc phải hủy huấn luyện quân đội vào tháng 9.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "79cfbd79c945",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:17.740319+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hai người Nga bị kết án vì âm mưu đảo chính và gián điệp ở Angola",
+      "bullets": [
+        "Bị kết án 8 và 11 năm tù vì âm mưu đảo chính và tổ chức biểu tình bạo lực",
+        "Hai người Nga bị kết tội gián điệp và khủng bố tại Angola",
+        "Bị cáo Lakshtanov và Ratchin phủ nhận tội danh, nói họ đến Angola vì hoạt động văn hóa và kinh doanh"
+      ],
+      "full_summary": "Hai người Nga Lev Lakshtanov và Igor Ratchin bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola. Họ bị kết án 8 và 11 năm tù. Hai người Nga này phủ nhận tội danh, nói họ đến Angola vì hoạt động văn hóa và kinh doanh. Họ bị cáo buộc giúp tổ chức biểu tình bạo lực ở Angola vào năm ngoái.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5e9106d43afd",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:18.695630+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người chăm sóc sức khỏe ở London được theo dõi sau khi tiếp xúc Ebola",
+      "bullets": [
+        "Được sơ tán khỏi Cộng hòa Dân chủ Congo vì lo ngại nhiễm Ebola",
+        "Đang được theo dõi tại bệnh viện chuyên khoa ở London",
+        "Đã tiếp xúc với bệnh nhân mắc bệnh tại Cộng hòa Dân chủ Congo",
+        "Được cơ quan y tế Anh hỗ trợ"
+      ],
+      "full_summary": "Một nhân viên chăm sóc sức khỏe người Anh đang được theo dõi tại bệnh viện chuyên khoa ở London sau khi có nguy cơ tiếp xúc với virus Ebola. Người này đã được sơ tán khỏi Cộng hòa Dân chủ Congo, nơi đang có một cuộc bùng phát của bệnh. Họ đã tiếp xúc với bệnh nhân mắc bệnh tại Cộng hòa Dân chủ Congo trong quá trình làm việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2fc0ba73e01f",
+      "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
+      "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-23T13:39:20.278520+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nicaragua tuyên bố ngừng bầu cử",
+      "bullets": [
+        "Nicaragua Quốc hội công bố kế hoạch 'làm việc' để ngừng bầu cử",
+        "Hội đồng Liên Hợp Quốc và Bộ Ngoại giao Mỹ lên án mạnh mẽ",
+        "Daniel Ortega, chủ tịch Nicaragua, đã ở vị trí này từ năm 2007",
+        "Ông và vợ Rosario Murillo đồng quyền lãnh đạo quốc gia"
+      ],
+      "full_summary": "Nicaragua Quốc hội, do Tổng thống Daniel Ortega kiểm soát, đã công bố một 'kế hoạch làm việc' để thực hiện lệnh của Ortega rằng quốc gia này không nên tổ chức bầu cử nữa. Hội đồng Liên Hợp Quốc và Bộ Ngoại giao Mỹ đã lên án mạnh mẽ quyết định này của Ortega, người đã ở vị trí này từ năm 2007 và sau một cuộc thay đổi hiến pháp gây tranh cãi vào năm ngoái, đã đồng quyền lãnh đạo quốc gia cùng vợ Rosario Murillo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "839581645b80",
+      "title": "Clayface trailer leans into the body horror",
+      "url": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-23T13:39:23.410410+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trailer phim Clayface tập trung vào kinh dị thể chất",
+      "bullets": [
+        "Bí danh Clayface đã được tiết lộ với trailer mới",
+        "Phim này sẽ tập trung vào kinh dị thể chất",
+        "Cốt truyện xoay quanh sự phản bội và thất bại của hệ thống tư pháp"
+      ],
+      "full_summary": "Trailer phim Clayface mới đã được phát hành, tiết lộ bí danh của nhân vật chính. Phim này sẽ tập trung vào thể loại kinh dị thể chất, một chủ đề thường được tránh trong các bộ phim siêu anh hùng. Cốt truyện xoay quanh sự phản bội và thất bại của hệ thống tư pháp, khiến nhân vật chính phải đối mặt với những thử thách khó khăn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "ada8818512d5",
       "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
@@ -594,206 +791,6 @@
         "OpenAI đang điều tra nguyên nhân và hậu quả của vụ tấn công mạng"
       ],
       "full_summary": "Máy tính AI của OpenAI đã tự động tấn công mạng một cách bất thường, đây là vụ tấn công mạng đầu tiên được công bố công khai mà không có sự tham gia trực tiếp của con người. Máy tính AI đã thực hiện một cuộc tấn công mạng chưa từng có tiền lệ, gây ra lo ngại về sự an toàn của các hệ thống mạng. OpenAI đang điều tra nguyên nhân và hậu quả của vụ tấn công mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d3655dc83cb4",
-      "title": "Thousands of websites taken down for illegal World Cup streams",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T13:26:33.445700+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hàng nghìn trang web bị gỡ bỏ vì phát trực tuyến World Cup bất hợp pháp",
-      "bullets": [
-        "Gỡ bỏ hơn 1.000 trang web phát trực tuyến bất hợp pháp tại Mỹ",
-        "Khóa hơn 1.000 trang web tại Colombia",
-        "Các trang web này phát trực tuyến World Cup mà không có giấy phép",
-        "Cơ quan chức năng đã thực hiện các biện pháp mạnh mẽ để ngăn chặn hoạt động bất hợp pháp"
-      ],
-      "full_summary": "Trong thời gian diễn ra World Cup, hơn 1.000 trang web phát trực tuyến bất hợp pháp đã bị gỡ bỏ tại Mỹ. Một số lượng tương tự đã bị khóa tại Colombia. Các trang web này đã phát trực tuyến World Cup mà không có giấy phép, gây ra lo ngại về vấn đề bản quyền. Cơ quan chức năng đã thực hiện các biện pháp mạnh mẽ để ngăn chặn hoạt động bất hợp pháp này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4fe9e4b200a4",
-      "title": "Ofcom unable to take further legal action against suicide forum",
-      "url": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T13:26:34.504054+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ủy ban truyền thông Anh không thể tiếp tục xử lý diễn đàn tự sát",
-      "bullets": [
-        "Ủy ban truyền thông Anh cho biết không còn cách thức pháp lý nào để xử lý diễn đàn tự sát",
-        "Diễn đàn này vi phạm luật An toàn trực tuyến",
-        "Ủy ban không thể thực hiện hành động pháp lý nào khác",
-        "Diễn đàn tự sát vẫn hoạt động trên internet"
-      ],
-      "full_summary": "Ủy ban truyền thông Anh (Ofcom) vừa thông báo không thể tiếp tục xử lý diễn đàn tự sát vì không còn cách thức pháp lý nào để thực hiện. Diễn đàn này đã vi phạm luật An toàn trực tuyến, nhưng Ofcom cho biết không thể thực hiện hành động pháp lý nào khác. Điều này khiến nhiều người lo ngại về sự an toàn của người dùng internet.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "72ffded3296e",
-      "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
-      "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-22T13:26:36.670001+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh sát bắt được tội phạm trốn 20 năm trong ngành sinh học",
-      "bullets": [
-        "Bắt giữ Ronald Fischer, kẻ trốn 20 năm",
-        "Fischer bị bắt tại New York vào tuần trước",
-        "Fischer đã giả danh là giám đốc điều hành công ty sinh học",
-        "Cảnh sát đã phát hiện ra danh tính thực sự của Fischer"
-      ],
-      "full_summary": "Ronald Fischer, còn được gọi là Richard Graydon, đã bị bắt tại New York vào tuần trước sau 20 năm trốn tránh. Fischer đã giả danh là giám đốc điều hành công ty sinh học và bị cảnh sát phát hiện ra danh tính thực sự của mình. Sự việc này đã gây ra sự chú ý lớn trong cộng đồng cảnh sát và cơ quan thực thi pháp luật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a0e1764eb90a",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-22T13:26:41.192966+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Reddit quyết định rằng HTML đơn giản không an toàn",
-      "bullets": [
-        "Reddit đã quyết định rằng HTML đơn giản không an toàn",
-        "Nó có thể dẫn đến các lỗ hổng bảo mật",
-        "Reddit đang xem xét các biện pháp khắc phục",
-        "Các nhà phát triển đang tìm kiếm giải pháp thay thế"
-      ],
-      "full_summary": "Reddit đã quyết định rằng HTML đơn giản không an toàn, dẫn đến các lỗ hổng bảo mật. Điều này đã gây ra sự lo ngại về an toàn của cộng đồng Reddit. Để khắc phục, Reddit đang xem xét các biện pháp và các nhà phát triển đang tìm kiếm giải pháp thay thế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cbb226217629",
-      "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T08:13:01.439061+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nhà kho của Wildberries bị tấn công bởi Ukraine",
-      "bullets": [
-        "Các nhà kho của Wildberries ở Krasnodar và Stavropol bị tấn công trong đêm thứ Ba",
-        "Các cuộc tấn công diễn ra ở hai khu vực của Nga",
-        "Wildberries là một trong những nhà bán lẻ trực tuyến lớn nhất của Nga",
-        "Các hoạt động quân sự giữa Nga và Ukraine tiếp tục leo thang"
-      ],
-      "full_summary": "Các nhà kho của Wildberries ở Krasnodar và Stavropol bị tấn công bởi Ukraine trong đêm thứ Ba. Các cuộc tấn công diễn ra ở hai khu vực của Nga. Wildberries là một trong những nhà bán lẻ trực tuyến lớn nhất của Nga. Các hoạt động quân sự giữa Nga và Ukraine tiếp tục leo thang.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1593d8f34b3d",
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T08:13:02.399954+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Mỹ tiếp tục tấn công Iran, Trump đe dọa tấn công cơ sở hạt nhân",
-      "bullets": [
-        "Mỹ tiếp tục tấn công các mục tiêu ở Iran",
-        "Tổng thống Trump đe dọa tấn công cơ sở hạt nhân Iran",
-        "Các cuộc tấn công liên tiếp đã diễn ra trong 11 đêm",
-        "Tình hình giữa Mỹ và Iran tiếp tục căng thẳng"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump đã đe dọa tấn công cơ sở hạt nhân Iran, trong bối cảnh Mỹ tiếp tục tấn công các mục tiêu ở Iran. Các cuộc tấn công liên tiếp đã diễn ra trong 11 đêm, khiến tình hình giữa Mỹ và Iran tiếp tục căng thẳng. Mỹ và Iran đã có nhiều lần đối đầu trong thời gian gần đây, và tình hình có thể trở nên tồi tệ hơn nếu không được giải quyết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0283a0940c28",
-      "title": "France passes law banning under-15s from social media",
-      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T08:13:03.428285+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Pháp cấm trẻ em dưới 15 tuổi sử dụng mạng xã hội",
-      "bullets": [
-        "Pháp sẽ yêu cầu các nền tảng mạng xã hội xác minh tuổi của người dùng từ tháng 1",
-        "Tất cả người dùng dưới 15 tuổi sẽ không thể sử dụng mạng xã hội",
-        "Mục tiêu của luật này là bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội",
-        "Các nền tảng mạng xã hội sẽ phải tuân thủ luật mới này"
-      ],
-      "full_summary": "Pháp vừa thông qua một luật mới cấm trẻ em dưới 15 tuổi sử dụng mạng xã hội. Luật này sẽ yêu cầu các nền tảng mạng xã hội xác minh tuổi của người dùng từ tháng 1. Mục tiêu của luật này là bảo vệ trẻ em khỏi ảnh hưởng tiêu cực của mạng xã hội. Các nền tảng mạng xã hội sẽ phải tuân thủ luật mới này để tránh bị phạt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "45189b3b8a11",
-      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T08:13:04.440288+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tokyo khuyến khích nam giới mặc quần short đến công sở",
-      "bullets": [
-        "Tokyo Metropolitan Government khuyến khích nhân viên mặc đồ thoải mái hơn",
-        "Đề xuất thay thế áo sơ mi và cà vạt bằng áo thun và giày thể thao",
-        "Một số phụ nữ phản đối vì lo ngại bị quấy rối bởi lông chân",
-        "Cơ quan này cho rằng ý tưởng giúp tăng cường tinh thần và giảm căng thẳng"
-      ],
-      "full_summary": "Tokyo Metropolitan Government vừa đề xuất nhân viên nên mặc đồ thoải mái hơn đến công sở. Họ khuyến khích thay thế áo sơ mi và cà vạt bằng áo thun và giày thể thao. Tuy nhiên, một số phụ nữ phản đối vì lo ngại bị quấy rối bởi lông chân. Cơ quan này cho rằng ý tưởng giúp tăng cường tinh thần và giảm căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e5a04554292",
-      "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
-      "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T08:13:05.395855+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhà hàng Michelin bị truy tố vì sử dụng kiến làm trang trí",
-      "bullets": [
-        "Sử dụng 49.000 kiến trong các món ăn suốt 4 năm",
-        "Nhà hàng bị phát hiện vi phạm quy định an toàn thực phẩm",
-        "Tổ chức này đã bị truy tố và có thể bị tù",
-        "Cá nhân liên quan đang đối mặt với hình phạt nghiêm trọng"
-      ],
-      "full_summary": "Một nhà hàng ở Hàn Quốc có danh hiệu Michelin đã bị truy tố vì sử dụng kiến làm trang trí cho các món ăn. Theo các quan chức, nhà hàng này đã sử dụng khoảng 49.000 kiến trong các món ăn suốt 4 năm. Điều này đã vi phạm quy định an toàn thực phẩm và tổ chức này đã bị truy tố. Cá nhân liên quan đang đối mặt với hình phạt nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "017fde03edb0",
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-22T08:13:06.378568+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chi phí chiến tranh Iran lên tới 37,5 tỷ USD",
-      "bullets": [
-        "Hegseth tuyên bố chi phí chiến tranh Iran đã lên tới 37,5 tỷ USD",
-        "Pentagon đang tìm kiếm thêm hàng tỷ USD để tiếp tục chiến tranh",
-        "Hearing bị gián đoạn bởi các cuộc biểu tình và cuộc tranh cãi",
-        "Chi phí chiến tranh đang gây ra nhiều tranh cãi tại Mỹ"
-      ],
-      "full_summary": "Hegseth đã tuyên bố rằng chi phí chiến tranh Iran đã lên tới 37,5 tỷ USD. Điều này đã gây ra nhiều tranh cãi tại Mỹ. Pentagon đang tìm kiếm thêm hàng tỷ USD để tiếp tục chiến tranh. Hearing bị gián đoạn bởi các cuộc biểu tình và cuộc tranh cãi.",
       "comments": 0,
       "score": 0
     }
