@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-07-24T08:12:45.149964+00:00",
+  "updated_at": "2026-07-24T13:22:25.010009+00:00",
   "articles": [
+    {
+      "id": "3aa13dce46cf",
+      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T13:22:10.414248+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hàng chục ngàn người bị sơ tán khỏi khu du lịch Pháp và gần Madrid do cháy rừng lan rộng",
+      "bullets": [
+        "Các quan chức đã ra lệnh sơ tán toàn bộ bán đảo Cap Ferret",
+        "Cháy rừng đã hoành hành trong khu vực trong nhiều ngày",
+        "Hàng ngàn người đã bị sơ tán khỏi khu vực gần Madrid",
+        "Cháy rừng đang lan rộng và gây ra nhiều thiệt hại"
+      ],
+      "full_summary": "Cháy rừng đang hoành hành ở khu vực Cap Ferret, Pháp và gần Madrid, Tây Ban Nha. Các quan chức đã ra lệnh sơ tán toàn bộ bán đảo Cap Ferret để ngăn chặn cháy rừng lan rộng. Hàng ngàn người đã bị sơ tán khỏi khu vực gần Madrid. Cháy rừng đang gây ra nhiều thiệt hại và nguy hiểm cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fafea0acd914",
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T13:22:11.589240+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hoa Kỳ và Iran tiếp tục đánh đổi đòn trong vịnh Ba Tư",
+      "bullets": [
+        "Hoa Kỳ và Iran đã trao đổi thêm các cuộc tấn công trong vịnh Ba Tư.",
+        "Iran lên án kế hoạch của Hoa Kỳ sử dụng tài sản Iran bị phong tỏa để bồi thường cho thiệt hại.",
+        "Fears về sự leo thang đang gia tăng.",
+        "Các quốc gia khác đang theo dõi tình hình."
+      ],
+      "full_summary": "Hoa Kỳ và Iran tiếp tục đánh đổi đòn trong vịnh Ba Tư, khiến lo ngại về sự leo thang gia tăng. Iran lên án kế hoạch của Hoa Kỳ sử dụng tài sản Iran bị phong tỏa để bồi thường cho thiệt hại. Kế hoạch này được đưa ra sau khi Hoa Kỳ cáo buộc Iran đã tấn công các tàu dầu của Mỹ. Fears về sự leo thang đang gia tăng và các quốc gia khác đang theo dõi tình hình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "14aac6165aff",
+      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T13:22:12.589426+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Nam Phi thắng kiện tạm dừng điều tra luận tội vì vụ 'Farmgate'",
+      "bullets": [
+        "Tạm dừng điều tra luận tội",
+        "Chủ tịch Ramaphosa bị điều tra vì vụ trộm tiền tại trang trại tư nhân",
+        "Vụ việc diễn ra từ năm 2020",
+        "Chủ tịch Ramaphosa sẽ tiếp tục điều hành đất nước"
+      ],
+      "full_summary": "Chủ tịch Nam Phi, Cyril Ramaphosa, vừa thắng kiện tạm dừng điều tra luận tội vì vụ 'Farmgate'. Vụ việc bắt đầu từ năm 2020 khi có thông tin trộm tiền tại trang trại tư nhân của Ramaphosa. Điều tra này đã gây ra nhiều tranh cãi và ảnh hưởng đến uy tín của Ramaphosa. Tuy nhiên, sau khi thắng kiện, Ramaphosa sẽ tiếp tục điều hành đất nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "63d90e6d2617",
+      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+      "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T13:22:13.548124+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chủ tịch công ty lớn ở Hàn Quốc phải trả cho vợ cũ 644 triệu USD",
+      "bullets": [
+        "Phải trả cho vợ cũ 644 triệu USD",
+        "Chủ tịch công ty lớn ở Hàn Quốc",
+        "Divorce gây xôn xao trong xã hội",
+        "Tỷ phú Hàn Quốc phải chịu trách nhiệm"
+      ],
+      "full_summary": "Chủ tịch công ty lớn ở Hàn Quốc đã phải trả cho vợ cũ 644 triệu USD trong vụ ly hôn gây xôn xao trong xã hội. Vụ ly hôn này đã gây chú ý lớn ở Hàn Quốc và được coi là vụ ly hôn đắt giá nhất trong lịch sử. Chủ tịch công ty này đã phải chịu trách nhiệm về số tiền lớn này sau khi tòa án quyết định.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "81dacdf1da18",
+      "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T13:22:14.465690+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Một giáo sư Tanzania bị bắt vì tham gia biểu tình chống chính phủ",
+      "bullets": [
+        "Bị bắt vì tham gia biểu tình đòi cải cách dân chủ",
+        "Đã bị giam giữ hơn 130 người liên quan đến các cuộc biểu tình",
+        "Giáo sư này bị buộc tội khủng bố",
+        "Các cuộc biểu tình được lên kế hoạch để đòi cải cách dân chủ"
+      ],
+      "full_summary": "Một giáo sư Tanzania đã bị bắt vì tham gia biểu tình chống chính phủ. Ông ta bị buộc tội khủng bố và đã bị giam giữ cùng với hơn 130 người khác liên quan đến các cuộc biểu tình. Các cuộc biểu tình được lên kế hoạch để đòi cải cách dân chủ và các quyền tự do khác. Điều này đã gây ra lo ngại về tình hình chính trị tại Tanzania.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fc04c9771815",
+      "title": "Why Jimothy the raccoon has become a mega meme online",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T13:22:15.595574+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Rắc rối Jimothy - một con cáo trở thành meme online",
+      "bullets": [
+        "Bắt đầu từ video được chia sẻ trên Instagram",
+        "Video gây chú ý và lan truyền nhanh chóng trên mạng xã hội",
+        "Jimothy trở thành biểu tượng của internet và được nhiều người yêu thích",
+        "Meme về Jimothy lan rộng trên các nền tảng khác nhau"
+      ],
+      "full_summary": "Một video về một con cáo tên Jimothy được chia sẻ trên Instagram đã trở thành nguồn gốc của một meme online lớn. Video này được chia sẻ bởi cư dân Seattle Kiana Hall và nhanh chóng lan truyền trên mạng xã hội. Jimothy đã trở thành biểu tượng của internet và được nhiều người yêu thích. Meme về Jimothy đã lan rộng trên các nền tảng khác nhau, bao gồm Twitter, TikTok và Instagram.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52b57d45f993",
+      "title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
+      "url": "https://militarywatchmagazine.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-24T13:22:19.474329+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hạm đội Mỹ mất 8 máy bay không người lái MQ-9 Reaper trong một cuộc tấn công của Iran",
+      "bullets": [
+        "Iran tiến hành một cuộc tấn công nhằm vào hạm đội Mỹ",
+        "8 máy bay không người lái MQ-9 Reaper của Mỹ bị phá hủy",
+        "Chi tiết về cuộc tấn công và thiệt hại chưa được công bố",
+        "Mỹ và Iran đang trong một cuộc đối đầu căng thẳng"
+      ],
+      "full_summary": "Hạm đội Mỹ vừa mất 8 máy bay không người lái MQ-9 Reaper trong một cuộc tấn công của Iran. Mặc dù chi tiết về cuộc tấn công và thiệt hại chưa được công bố, nhưng đây là một bước ngoặt đáng kể trong cuộc đối đầu giữa Mỹ và Iran. Cuộc tấn công này đã gây ra sự lo ngại về sự an toàn của hạm đội Mỹ tại khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8dc6b5a5ab14",
+      "title": "Why is programming so captivating, yet so agonizing?",
+      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-24T13:22:22.237382+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Lập trình hấp dẫn nhưng đầy đau đầu",
+      "bullets": [
+        "Khám phá lý do lập trình hấp dẫn",
+        "Nghiên cứu về tính chất đau đầu của lập trình",
+        "So sánh giữa sự hấp dẫn và đau đầu trong lập trình",
+        "Tìm hiểu nguyên nhân khiến lập trình viên đau đầu"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã khám phá lý do lập trình hấp dẫn nhưng đầy đau đầu. Bài viết này đã nghiên cứu về tính chất đau đầu của lập trình và so sánh giữa sự hấp dẫn và đau đầu trong lập trình. Kết quả cho thấy lập trình viên thường đau đầu do sự phức tạp và đòi hỏi cao của công việc. Bài viết này hy vọng sẽ giúp lập trình viên hiểu rõ hơn về lý do khiến họ đau đầu và tìm ra giải pháp để giảm bớt căng thẳng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d09703783352",
       "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
@@ -634,163 +794,6 @@
         "Cần có kết nối internet nhanh để chơi game"
       ],
       "full_summary": "Jeff Gattis, người đứng đầu bộ phận game của Amazon, dự đoán rằng trong tương lai, người chơi sẽ không cần máy chơi game nữa. Giá máy chơi game đang tăng cao, khiến nhiều người chuyển sang chơi trực tuyến. Chơi game trực tuyến sẽ trở nên phổ biến hơn, nhưng cần có kết nối internet nhanh để chơi game.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "38e99fb70921",
-      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:15.826062+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Elon Musk nói 'Hãy tận hưởng cuộc hành trình' trong bối cảnh lo ngại về trí tuệ nhân tạo",
-      "bullets": [
-        "Elon Musk nói ông không quan tâm đến việc người ta ghét ông",
-        "Ông bác bỏ cáo buộc phân biệt chủng tộc",
-        "Musk nói về trí tuệ nhân tạo trong cuộc phỏng vấn với The Economist"
-      ],
-      "full_summary": "Elon Musk đã nói với The Economist rằng ông không quan tâm đến việc người ta ghét ông và bác bỏ cáo buộc phân biệt chủng tộc. Ông cũng nói về trí tuệ nhân tạo trong cuộc phỏng vấn. Lo ngại về trí tuệ nhân tạo đang tăng cao, nhưng Musk vẫn lạc quan về tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b9b839b2dd72",
-      "title": "British army forced to cancel training in Kenya after defence agreement dispute",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:16.787932+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Bắc Anh bị buộc hủy huấn luyện quân đội tại Kenya",
-      "bullets": [
-        "Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương",
-        "Bắc Anh muốn gia hạn thỏa thuận hiện hành, nhưng Kenya muốn thay đổi để tăng quyền lực cho các cơ quan địa phương",
-        "Kenya yêu cầu có quyền kiểm soát tội phạm do quân đội Bắc Anh gây ra",
-        "Bắc Anh buộc phải hủy huấn luyện quân đội vào tháng 9"
-      ],
-      "full_summary": "Bắc Anh đã bị buộc phải hủy huấn luyện quân đội tại Kenya sau khi chính phủ Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương. Bắc Anh muốn gia hạn thỏa thuận hiện hành, nhưng các nhà lập pháp Kenya đã yêu cầu thay đổi để tăng quyền lực cho các cơ quan địa phương để có thể kiểm soát tội phạm do quân đội Bắc Anh gây ra. Điều này đã khiến Bắc Anh buộc phải hủy huấn luyện quân đội vào tháng 9.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79cfbd79c945",
-      "title": "Two Russian men jailed in Angola for terrorism and spying",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:17.740319+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hai người Nga bị kết án vì âm mưu đảo chính và gián điệp ở Angola",
-      "bullets": [
-        "Bị kết án 8 và 11 năm tù vì âm mưu đảo chính và tổ chức biểu tình bạo lực",
-        "Hai người Nga bị kết tội gián điệp và khủng bố tại Angola",
-        "Bị cáo Lakshtanov và Ratchin phủ nhận tội danh, nói họ đến Angola vì hoạt động văn hóa và kinh doanh"
-      ],
-      "full_summary": "Hai người Nga Lev Lakshtanov và Igor Ratchin bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola. Họ bị kết án 8 và 11 năm tù. Hai người Nga này phủ nhận tội danh, nói họ đến Angola vì hoạt động văn hóa và kinh doanh. Họ bị cáo buộc giúp tổ chức biểu tình bạo lực ở Angola vào năm ngoái.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e9106d43afd",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:18.695630+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người chăm sóc sức khỏe ở London được theo dõi sau khi tiếp xúc Ebola",
-      "bullets": [
-        "Được sơ tán khỏi Cộng hòa Dân chủ Congo vì lo ngại nhiễm Ebola",
-        "Đang được theo dõi tại bệnh viện chuyên khoa ở London",
-        "Đã tiếp xúc với bệnh nhân mắc bệnh tại Cộng hòa Dân chủ Congo",
-        "Được cơ quan y tế Anh hỗ trợ"
-      ],
-      "full_summary": "Một nhân viên chăm sóc sức khỏe người Anh đang được theo dõi tại bệnh viện chuyên khoa ở London sau khi có nguy cơ tiếp xúc với virus Ebola. Người này đã được sơ tán khỏi Cộng hòa Dân chủ Congo, nơi đang có một cuộc bùng phát của bệnh. Họ đã tiếp xúc với bệnh nhân mắc bệnh tại Cộng hòa Dân chủ Congo trong quá trình làm việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2fc0ba73e01f",
-      "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
-      "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:20.278520+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Nicaragua tuyên bố ngừng bầu cử",
-      "bullets": [
-        "Nicaragua Quốc hội công bố kế hoạch 'làm việc' để ngừng bầu cử",
-        "Hội đồng Liên Hợp Quốc và Bộ Ngoại giao Mỹ lên án mạnh mẽ",
-        "Daniel Ortega, chủ tịch Nicaragua, đã ở vị trí này từ năm 2007",
-        "Ông và vợ Rosario Murillo đồng quyền lãnh đạo quốc gia"
-      ],
-      "full_summary": "Nicaragua Quốc hội, do Tổng thống Daniel Ortega kiểm soát, đã công bố một 'kế hoạch làm việc' để thực hiện lệnh của Ortega rằng quốc gia này không nên tổ chức bầu cử nữa. Hội đồng Liên Hợp Quốc và Bộ Ngoại giao Mỹ đã lên án mạnh mẽ quyết định này của Ortega, người đã ở vị trí này từ năm 2007 và sau một cuộc thay đổi hiến pháp gây tranh cãi vào năm ngoái, đã đồng quyền lãnh đạo quốc gia cùng vợ Rosario Murillo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "839581645b80",
-      "title": "Clayface trailer leans into the body horror",
-      "url": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-23T13:39:23.410410+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trailer phim Clayface tập trung vào kinh dị thể chất",
-      "bullets": [
-        "Bí danh Clayface đã được tiết lộ với trailer mới",
-        "Phim này sẽ tập trung vào kinh dị thể chất",
-        "Cốt truyện xoay quanh sự phản bội và thất bại của hệ thống tư pháp"
-      ],
-      "full_summary": "Trailer phim Clayface mới đã được phát hành, tiết lộ bí danh của nhân vật chính. Phim này sẽ tập trung vào thể loại kinh dị thể chất, một chủ đề thường được tránh trong các bộ phim siêu anh hùng. Cốt truyện xoay quanh sự phản bội và thất bại của hệ thống tư pháp, khiến nhân vật chính phải đối mặt với những thử thách khó khăn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ada8818512d5",
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T08:17:07.746987+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Houthi tấn công tàu dầu, Mỹ đáp trả Iran",
-      "bullets": [
-        "Houthi tấn công tàu dầu ở Biển Đỏ",
-        "Mỹ thực hiện thêm các cuộc tấn công vào Iran",
-        "Houthi tuyên bố phong tỏa hàng hải đối với Ả Rập Xê Út",
-        "Đây là cuộc tấn công đầu tiên ở Biển Đỏ sau khi Houthi tuyên bố phong tỏa hàng hải"
-      ],
-      "full_summary": "Houthi, một nhóm được Iran hậu thuẫn, đã tấn công các tàu dầu ở Biển Đỏ. Đây là cuộc tấn công đầu tiên ở khu vực này sau khi Houthi tuyên bố phong tỏa hàng hải đối với Ả Rập Xê Út. Trong khi đó, Mỹ đã thực hiện thêm các cuộc tấn công vào Iran. Các cuộc tấn công này diễn ra trong bối cảnh căng thẳng giữa Iran và các nước phương Tây tiếp tục gia tăng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c8d8af083fc",
-      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T08:17:08.705415+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hoạt động viên Ấn Độ vẫn sống sót sau 26 ngày tuyệt thực",
-      "bullets": [
-        "Tuyệt thực 26 ngày, ông Sonam Wangchuk đã mất 11kg",
-        "Là tâm điểm của cuộc biểu tình tại Delhi",
-        "Hoạt động viên này đã gây chú ý với phong trào Cockroach Janta Party (CJP)",
-        "Tình hình sức khỏe của ông đang được theo dõi chặt chẽ"
-      ],
-      "full_summary": "Hoạt động viên Ấn Độ Sonam Wangchuk đã tuyệt thực 26 ngày, mất 11kg. Ông là tâm điểm của cuộc biểu tình tại Delhi, dẫn đầu phong trào Cockroach Janta Party (CJP). Tình hình sức khỏe của ông đang được theo dõi chặt chẽ. Mục tiêu của ông là gây chú ý đến các vấn đề xã hội và chính trị tại Ấn Độ.",
       "comments": 0,
       "score": 0
     }
