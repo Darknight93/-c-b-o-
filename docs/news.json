@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-07-24T13:22:25.010009+00:00",
+  "updated_at": "2026-07-24T19:15:54.732911+00:00",
   "articles": [
+    {
+      "id": "8633dd4505a5",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:38.480822+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hàng chục người bị giết trong tấn công của Nga tại triển lãm drone gần Kiev",
+      "bullets": [
+        "Nga đã tấn công triển lãm drone bằng tên lửa hành trình",
+        "Sự kiện diễn ra vào giữa trưa khi có nhiều thành viên quan trọng của ngành công nghiệp quốc phòng Ukraine tham dự",
+        "Tổng cộng 10 người đã thiệt mạng trong vụ tấn công",
+        "Nhiều người bị thương và bị mắc kẹt trong vụ tấn công"
+      ],
+      "full_summary": "Một sự kiện triển lãm drone gần Kiev đã bị tấn công bởi Nga vào giữa trưa. Sự kiện này có sự tham dự của nhiều thành viên quan trọng của ngành công nghiệp quốc phòng Ukraine. Tổng cộng 10 người đã thiệt mạng và nhiều người bị thương trong vụ tấn công. Vụ tấn công này đã gây ra sự lo lắng và quan ngại về tình hình an ninh tại Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "23bb56a2af88",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:39.656949+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Trump hứ hẹn điều tra EU vì phạt các công ty công nghệ Mỹ",
+      "bullets": [
+        "Trump tuyên bố phạt Google, Apple, Meta và Amazon của EU nên bị đảo ngược hoàn toàn",
+        "Các công ty công nghệ Mỹ bị phạt vì vi phạm luật cạnh tranh của EU",
+        "Trump cho rằng các quyết định của EU là không công bằng",
+        "Ngoại trưởng Mỹ sẽ điều tra các quyết định của EU về phạt các công ty công nghệ"
+      ],
+      "full_summary": "Chủ tịch Mỹ Trump tuyên bố sẽ điều tra Liên minh châu Âu (EU) vì phạt các công ty công nghệ Mỹ, bao gồm Google, Apple, Meta và Amazon. Ông cho rằng các quyết định của EU là không công bằng và phạt các công ty này quá nặng nề. Ngoại trưởng Mỹ sẽ điều tra các quyết định của EU về phạt các công ty công nghệ này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "844c107590a8",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:40.749873+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Nhiều người chết trong vụ bắn súng tại khu vực Tây Bắc",
+      "bullets": [
+        "Bốn người Palestine và hai người Israel bị giết trong vụ bắn súng",
+        "Người dân Palestine cho rằng họ bị tấn công bởi các định cư",
+        "Lực lượng quân đội Israel cho rằng một người Palestine đã lấy vũ khí và bắn vào các du khách",
+        "Vụ việc đang gây tranh cãi và bất ổn tại khu vực"
+      ],
+      "full_summary": "Vào ngày hôm qua, một vụ bắn súng đã xảy ra tại khu vực Tây Bắc, khiến bốn người Palestine và hai người Israel thiệt mạng. Người dân Palestine cho rằng họ bị tấn công bởi các định cư, trong khi lực lượng quân đội Israel cho rằng một người Palestine đã lấy vũ khí và bắn vào các du khách. Vụ việc đang gây tranh cãi và bất ổn tại khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "794df1075abb",
+      "title": "Nigeria's president approves largest military expansion in recent times",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:41.842171+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nigeria tăng cường quân đội để đối phó với các nhóm vũ trang",
+      "bullets": [
+        "Ngoại trưởng Nigeria đã phê duyệt một kế hoạch mở rộng quân đội lớn nhất trong thời gian gần đây",
+        "Mục tiêu là tăng cường khả năng chống lại các nhóm vũ trang tấn công thường xuyên",
+        "Các nhóm vũ trang đã gây ra nhiều vụ tấn công vào dân thường",
+        "Chính phủ đang chịu áp lực lớn để giải quyết vấn đề này"
+      ],
+      "full_summary": "Ngoại trưởng Nigeria đã phê duyệt một kế hoạch mở rộng quân đội lớn nhất trong thời gian gần đây để đối phó với các nhóm vũ trang tấn công thường xuyên. Mục tiêu là tăng cường khả năng chống lại các nhóm vũ trang và bảo vệ dân thường. Các nhóm vũ trang đã gây ra nhiều vụ tấn công vào dân thường, gây ra sự lo lắng lớn cho chính phủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "83b9aee3107c",
+      "title": "PlayStation Network down, leaving thousands of gamers unable to play",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:43.907198+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mạng lưới PlayStation bị gián đoạn, khiến hàng nghìn game thủ không thể chơi",
+      "bullets": [
+        "Sony đang cố gắng giải quyết vấn đề này càng sớm càng tốt",
+        "Nhiều người dùng PlayStation không thể truy cập vào mạng lưới",
+        "Sony chưa công bố nguyên nhân gây ra sự cố"
+      ],
+      "full_summary": "Mạng lưới PlayStation đã bị gián đoạn, khiến hàng nghìn game thủ không thể chơi. Sony đã thông báo rằng họ đang cố gắng giải quyết vấn đề này càng sớm càng tốt. Tuy nhiên, họ chưa công bố nguyên nhân gây ra sự cố. Người dùng PlayStation đang chờ đợi thông báo từ Sony về thời gian giải quyết vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3af5f66029c6",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:44.991709+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Giá cổ phiếu Google và Tesla giảm mạnh do chi tiêu cho AI",
+      "bullets": [
+        "Giảm giá cổ phiếu Google và Tesla sau khi chi tiêu cho AI tăng mạnh",
+        "Các công ty công nghệ lớn đang cạnh tranh để nắm bắt công nghệ AI mới",
+        "Nhà đầu tư đang chờ đợi lợi ích tài chính từ công nghệ AI",
+        "Cơn bão thị trường đang làm xáo trộn các thị trường tài chính"
+      ],
+      "full_summary": "Giá cổ phiếu của Google và Tesla đã giảm mạnh sau khi chi tiêu cho công nghệ trí tuệ nhân tạo (AI) tăng mạnh. Các công ty công nghệ lớn đang cạnh tranh để nắm bắt công nghệ AI mới, nhưng nhà đầu tư đang chờ đợi lợi ích tài chính từ công nghệ này. Cơn bão thị trường đang làm xáo trộn các thị trường tài chính, khiến nhiều người lo lắng về tương lai của các công ty công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "38e99fb70921",
+      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:46.024916+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Elon Musk nói 'Hãy tận hưởng chuyến đi' trong bối cảnh lo ngại về trí tuệ nhân tạo",
+      "bullets": [
+        "Elon Musk nói ông không quan tâm đến việc người ta ghét ông",
+        "Ông phủ nhận là một người phân biệt chủng tộc",
+        "Musk cho biết ông không lo ngại về trí tuệ nhân tạo",
+        "Ông nói 'Hãy tận hưởng chuyến đi'"
+      ],
+      "full_summary": "Elon Musk đã nói với The Economist rằng ông không quan tâm đến việc người ta ghét ông. Ông cũng phủ nhận là một người phân biệt chủng tộc. Trong bối cảnh lo ngại về trí tuệ nhân tạo, Musk cho biết ông không lo ngại về vấn đề này. Thay vào đó, ông khuyên mọi người 'Hãy tận hưởng chuyến đi'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1755a01dc3ec",
+      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T19:15:50.091142+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Cơn bão ở Guyana: 72 người chết trong vụ chìm tàu cao tốc",
+      "bullets": [
+        "Xác nhận 72 người chết trong vụ chìm tàu cao tốc",
+        "Cứu được 76 người trong số 179 người trên tàu",
+        "Đội cứu hộ đang cố gắng cứu vớt tàu và thu hồi các thi thể",
+        "Số người chết có thể lên đến 100, trở thành thảm họa biển lớn nhất trong lịch sử Guyana"
+      ],
+      "full_summary": "Một chiếc tàu cao tốc của Guyana đã chìm xuống biển, khiến 72 người thiệt mạng. 76 người đã được cứu sống trong số 179 người trên tàu. Đội cứu hộ đang nỗ lực cứu vớt tàu và thu hồi các thi thể. Số người chết có thể lên đến 100, trở thành thảm họa biển lớn nhất trong lịch sử Guyana.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0fb2271a29b1",
+      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-24T19:15:54.232760+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Trạm vệ tinh phục vụ robot tiên tiến nhất thế giới được phát hiện",
+      "bullets": [
+        "Khám phá vệ tinh phục vụ robot tiên tiến nhất thế giới",
+        "Vệ tinh có khả năng sửa chữa và bảo trì các thiết bị trên vũ trụ",
+        "Đây là một trong những công nghệ khó thực hiện nhất",
+        "Vệ tinh có thể mở ra kỷ nguyên mới cho các sứ mệnh vũ trụ"
+      ],
+      "full_summary": "Một trạm vệ tinh phục vụ robot tiên tiến nhất thế giới đã được phát hiện. Vệ tinh này có khả năng sửa chữa và bảo trì các thiết bị trên vũ trụ, giúp mở ra kỷ nguyên mới cho các sứ mệnh vũ trụ. Đây là một trong những công nghệ khó thực hiện nhất, nhưng nó có thể mang lại nhiều lợi ích cho các sứ mệnh vũ trụ trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3aa13dce46cf",
       "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
@@ -615,185 +794,6 @@
         "Bị tử vong"
       ],
       "full_summary": "Mamadou Djouma Bah, 17 tuổi, bị bắt và kết án tù vì gian lận thi ở Guinea. Sau đó, anh ta bị bệnh bạch cầu và đã qua đời. Điều này đã gây ra sự phẫn nộ trong cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d7c4969e9aa3",
-      "title": "Google fined €890m by EU for favouring its own apps over rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T19:03:22.072628+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Google bị phạt €890 triệu vì ưu ái ứng dụng của mình",
-      "bullets": [
-        "Bị phạt €890 triệu vì vi phạm quy định mới của EU",
-        "Là biện pháp trừng phạt nghiêm trọng đầu tiên đối với Google",
-        "Vi phạm quy định về ứng dụng trên thiết bị di động",
-        "Google phải thay đổi cách thức hoạt động của mình"
-      ],
-      "full_summary": "Google vừa bị phạt €890 triệu vì ưu ái ứng dụng của mình trên thiết bị di động. Đây là biện pháp trừng phạt nghiêm trọng đầu tiên đối với công ty này sau khi EU áp dụng quy định mới về ứng dụng trên thiết bị di động. Google bị phạt vì vi phạm quy định về ứng dụng trên thiết bị di động và phải thay đổi cách thức hoạt động của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d3655dc83cb4",
-      "title": "Thousands of websites taken down for illegal World Cup streams",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T19:03:23.138406+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hơn 2.000 trang web bị chặn vì phát sóng World Cup bất hợp pháp",
-      "bullets": [
-        "Bị chặn hơn 1.000 trang web tại Mỹ",
-        "Cùng lúc, Colombia cũng chặn khoảng 1.000 trang web tương tự",
-        "Các trang web này vi phạm bản quyền trong thời gian diễn ra giải đấu",
-        "Các cơ quan chức năng liên tục theo dõi và chặn các trang web bất hợp pháp"
-      ],
-      "full_summary": "Trong thời gian diễn ra giải vô địch bóng đá thế giới, các cơ quan chức năng tại Mỹ và Colombia đã chặn hơn 2.000 trang web bất hợp pháp. Các trang web này vi phạm bản quyền khi phát sóng giải đấu mà không được phép. Các cơ quan chức năng liên tục theo dõi và chặn các trang web bất hợp pháp để bảo vệ quyền lợi của chủ sở hữu bản quyền.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d791c708fd11",
-      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
-      "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T19:03:24.513437+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Một thị trưởng Mexico bị ám sát sau khi sống sót",
-      "bullets": [
-        "Bị ám sát ở bang Morelos",
-        "Là thị trưởng thứ 14 bị giết kể từ khi Claudia Sheinbaum nhậm chức",
-        "Đã sống sót sau một vụ ám sát trước đó vào tháng 1",
-        "Là thành viên của đảng Green, đồng minh của đảng Morena"
-      ],
-      "full_summary": "Thị trưởng Valentín Lavín Romero đã bị ám sát ở bang Morelos, Mexico. Ông là thành viên của đảng Green và đồng minh của đảng Morena. Ông đã sống sót sau một vụ ám sát trước đó vào tháng 1 nhưng không may đã bị giết. Đây là vụ ám sát thị trưởng thứ 14 kể từ khi Claudia Sheinbaum nhậm chức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "04a8a7f9e7fe",
-      "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
-      "url": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-23T19:03:26.646533+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Bệnh nhân bị nhiễm khuẩn đường tiết niệu, sau đó biến đổi và xâm nhập vào não.",
-      "bullets": [
-        "Bị nhiễm khuẩn đường tiết niệu, sau đó biến đổi thành một loại khuẩn mới.",
-        "Loại khuẩn mới này đã xâm nhập vào não của bệnh nhân.",
-        "Bệnh nhân bị mất thị lực ở một mắt do biến chứng.",
-        "Đây là một trường hợp báo cáo mới về sự xuất hiện của tính kháng khuẩn đa dạng."
-      ],
-      "full_summary": "Một trường hợp mới được báo cáo về sự xuất hiện của tính kháng khuẩn đa dạng, được gọi là heterovirulence. Một phụ nữ đã bị nhiễm khuẩn đường tiết niệu và sau đó biến đổi thành một loại khuẩn mới. Loại khuẩn mới này đã xâm nhập vào não của bệnh nhân và gây ra biến chứng nghiêm trọng, bao gồm mất thị lực ở một mắt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c50cb52d96e0",
-      "title": "Geekbench 7",
-      "url": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-23T19:03:34.476837+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Geekbench 7 được phát hành với cải tiến hiệu suất",
-      "bullets": [
-        "Cung cấp hiệu suất benchmark nhanh hơn",
-        "Tối ưu hóa giao diện người dùng",
-        "Hỗ trợ nhiều loại thiết bị hơn"
-      ],
-      "full_summary": "Geekbench 7 là phiên bản mới nhất của công cụ benchmark hiệu suất máy tính. Công cụ này cung cấp hiệu suất benchmark nhanh hơn và tối ưu hóa giao diện người dùng. Geekbench 7 cũng hỗ trợ nhiều loại thiết bị hơn, bao gồm cả thiết bị di động và máy tính để bàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c8cae83a6f74",
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:12.259451+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Truyền thông Mỹ: Saudi Arabia phải công nhận Israel để đạt được thỏa thuận hạt nhân",
-      "bullets": [
-        "Đề xuất của Tổng thống Mỹ phụ thuộc vào việc Saudi Arabia tham gia các thoả thuận Abraham Accords",
-        "Thỏa thuận hạt nhân sẽ giúp Saudi Arabia phát triển năng lượng hạt nhân",
-        "Tổng thống Mỹ cho rằng thỏa thuận hạt nhân sẽ mang lại lợi ích cho cả hai bên",
-        "Saudi Arabia sẽ phải công nhận Israel để đạt được thỏa thuận hạt nhân"
-      ],
-      "full_summary": "Tổng thống Mỹ cho biết thỏa thuận hạt nhân để giúp Saudi Arabia phát triển năng lượng hạt nhân phụ thuộc vào việc Saudi Arabia tham gia các thoả thuận Abraham Accords. Thỏa thuận hạt nhân sẽ giúp Saudi Arabia phát triển năng lượng hạt nhân. Tổng thống Mỹ cho rằng thỏa thuận hạt nhân sẽ mang lại lợi ích cho cả hai bên. Tuy nhiên, Saudi Arabia sẽ phải công nhận Israel để đạt được thỏa thuận hạt nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c0b096ac1c92",
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:13.248637+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Phát động sơ tán 20.000 người trước đám cháy rừng ở tây nam Pháp",
-      "bullets": [
-        "Cảnh báo cháy rừng ở Gironde, Pháp",
-        "20.000 người sơ tán khỏi khu vực",
-        "Hầu hết là du khách từ các khu trại ở vịnh Arcachon",
-        "Cơ quan chức năng đang cố gắng kiểm soát đám cháy"
-      ],
-      "full_summary": "Pháp đang phải đối mặt với một đám cháy rừng lớn ở khu vực tây nam. Hơn 20.000 người đã được sơ tán khỏi khu vực, trong đó phần lớn là du khách từ các khu trại ở vịnh Arcachon. Cơ quan chức năng đang cố gắng kiểm soát đám cháy rừng và ngăn chặn nó lan rộng ra các khu vực khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d14555868484",
-      "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:14.110872+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Nữ sinh Hàn Quốc được tuyên bố vô tội vì giết con mới sinh",
-      "bullets": [
-        "Bị cáo đã sinh con tại bệnh viện",
-        "Bác sĩ sau đó đã giết con",
-        "Nữ sinh muốn chấm dứt thai kỳ ở tuần 36",
-        "Bị cáo được tuyên bố vô tội"
-      ],
-      "full_summary": "Một nữ sinh Hàn Quốc đã được tuyên bố vô tội vì giết con mới sinh tại bệnh viện. Bị cáo đã sinh con tại bệnh viện sau khi muốn chấm dứt thai kỳ ở tuần 36. Tuy nhiên, bác sĩ sau đó đã giết con. Tòa án đã tuyên bố nữ sinh vô tội sau khi xem xét vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2b435532d0e5",
-      "title": "Amazon gaming boss predicts future where players no longer need consoles",
-      "url": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T13:39:14.965789+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Người chơi có thể không cần máy chơi game trong tương lai",
-      "bullets": [
-        "Giá máy chơi game đang tăng cao",
-        "Người chơi sẽ chuyển sang chơi trực tuyến",
-        "Chơi game trực tuyến sẽ trở nên phổ biến hơn",
-        "Cần có kết nối internet nhanh để chơi game"
-      ],
-      "full_summary": "Jeff Gattis, người đứng đầu bộ phận game của Amazon, dự đoán rằng trong tương lai, người chơi sẽ không cần máy chơi game nữa. Giá máy chơi game đang tăng cao, khiến nhiều người chuyển sang chơi trực tuyến. Chơi game trực tuyến sẽ trở nên phổ biến hơn, nhưng cần có kết nối internet nhanh để chơi game.",
       "comments": 0,
       "score": 0
     }
