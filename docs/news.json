@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-07-24T02:00:39.161294+00:00",
+  "updated_at": "2026-07-24T08:12:45.149964+00:00",
   "articles": [
+    {
+      "id": "d09703783352",
+      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T08:12:28.667554+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Họp đàm giữa chính phủ Ấn Độ và nhà hoạt động Sonam Wangchuk",
+      "bullets": [
+        "Chính phủ Ấn Độ và nhà hoạt động Sonam Wangchuk sẽ họp đàm",
+        "Họp đàm diễn ra sau khi Sonam Wangchuk kết thúc cuộc tuyệt thực 26 ngày",
+        "Cuộc tuyệt thực của Sonam Wangchuk nhằm phản đối chính sách giáo dục của chính phủ Ấn Độ",
+        "Họp đàm sẽ giúp tìm ra giải pháp cho cuộc khủng hoảng giáo dục tại Ấn Độ"
+      ],
+      "full_summary": "Chính phủ Ấn Độ và nhà hoạt động Sonam Wangchuk sẽ họp đàm để tìm ra giải pháp cho cuộc khủng hoảng giáo dục tại Ấn Độ. Cuộc họp diễn ra sau khi Sonam Wangchuk kết thúc cuộc tuyệt thực 26 ngày. Ông đã tuyệt thực để phản đối chính sách giáo dục của chính phủ Ấn Độ. Cuộc họp này sẽ giúp tìm ra giải pháp cho cuộc khủng hoảng giáo dục tại Ấn Độ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "538e42e83f26",
+      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+      "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T08:12:29.653489+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chính phủ Anh tăng cường vai trò bộ trưởng công nghệ AI",
+      "bullets": [
+        "Tăng cường vai trò bộ trưởng công nghệ AI Kanishka Narayan",
+        "Không còn bộ trưởng công nghệ",
+        "Bộ trưởng Narayan sẽ tham gia nội các",
+        "Cập nhật cấu trúc nội các của Anh"
+      ],
+      "full_summary": "Bộ trưởng công nghệ AI Kanishka Narayan của Anh sẽ tham gia nội các nhưng không còn lãnh đạo bộ trưởng công nghệ. Điều này là kết quả của cuộc cải tổ nội các do thị trưởng Burnham lãnh đạo. Bộ trưởng Narayan sẽ tiếp tục giữ vai trò quan trọng trong việc thúc đẩy công nghệ AI. Cấu trúc nội các của Anh sẽ được cập nhật theo hướng mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3ee91dee03f",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-24T08:12:30.738054+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "São Tomé và Príncipe chuẩn bị bầu cử tổng thống đầy căng thẳng",
+      "bullets": [
+        "Hơn 142.000 cử tri đăng ký bỏ phiếu trong cuộc bầu cử",
+        "Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng",
+        "Voters ở São Tomé và Príncipe đi bầu cử tổng thống vào ngày Chủ nhật",
+        "Đảng của Vila Nova đã bị ông ta rời bỏ để trở thành độc lập"
+      ],
+      "full_summary": "São Tomé và Príncipe chuẩn bị cho cuộc bầu cử tổng thống đầy căng thẳng. Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng để giành được nhiệm kỳ thứ hai. Ông ta rời bỏ đảng của mình để trở thành độc lập. Các cử tri ở São Tomé và Príncipe sẽ đi bầu cử tổng thống vào ngày Chủ nhật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "668efd44031d",
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-24T08:12:31.739534+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Đạo luật Kill Switch cho phép Bộ An ninh Nội địa ngừng hoạt động AI bất thường",
+      "bullets": [
+        "Cho phép Bộ trưởng An ninh Nội địa quyết định ngừng hoạt động AI bất thường",
+        "Đạo luật Kill Switch được đề xuất để ngăn chặn AI tự động hóa gây hại",
+        "Chính phủ Trump muốn có quyền kiểm soát AI tự động hóa",
+        "Đạo luật đang được xem xét tại Quốc hội"
+      ],
+      "full_summary": "Đạo luật Kill Switch được đề xuất để cho phép Bộ trưởng An ninh Nội địa quyết định ngừng hoạt động AI bất thường. Đạo luật này được đề xuất để ngăn chặn AI tự động hóa gây hại. Chính phủ Trump muốn có quyền kiểm soát AI tự động hóa và ngăn chặn các hệ thống AI không được kiểm soát.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89194290b018",
+      "title": "Final Coyote vs. Acme trailer drops at SDCC",
+      "url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-24T08:12:32.851805+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trailer cuối cùng của Coyote vs. Acme được công bố tại SDCC",
+      "bullets": [
+        "Công bố trailer cuối cùng của phim Coyote vs. Acme tại hội nghị SDCC",
+        "Phim do Zach Cregger đạo diễn, có sự tham gia của nhân vật Resident Evil",
+        "Trailer phim gây ấn tượng với khán giả tại hội nghị",
+        "Phim dự kiến sẽ được phát hành trong tương lai gần"
+      ],
+      "full_summary": "Trailer cuối cùng của phim Coyote vs. Acme đã được công bố tại hội nghị San Diego Comic-Con (SDCC). Phim do Zach Cregger đạo diễn và có sự tham gia của nhân vật Resident Evil. Trailer phim gây ấn tượng với khán giả tại hội nghị và dự kiến sẽ được phát hành trong tương lai gần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "24ae674d9ae8",
+      "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-24T08:12:33.918045+00:00",
+      "category": "politics|economy|technology",
+      "importance": 5,
+      "headline": "Google bị phạt 1 tỷ USD vì vi phạm Đạo luật Thị trường số",
+      "bullets": [
+        "Phạt nặng Google 1 tỷ USD vì vi phạm Đạo luật Thị trường số",
+        "Google trở thành công ty công nghệ thứ ba bị phạt nặng theo Đạo luật Thị trường số",
+        "Nước Mỹ chuẩn bị đối mặt với cuộc chiến chống lại chính sách của Tổng thống Trump",
+        "Đạo luật Thị trường số nhằm hạn chế sự thống trị của các công ty công nghệ lớn"
+      ],
+      "full_summary": "Google vừa bị phạt 1 tỷ USD vì vi phạm Đạo luật Thị trường số của Liên minh Châu Âu. Đây là lần thứ ba công ty này bị phạt nặng theo Đạo luật này. Nước Mỹ đang chuẩn bị đối mặt với cuộc chiến chống lại chính sách của Tổng thống Trump. Đạo luật Thị trường số nhằm hạn chế sự thống trị của các công ty công nghệ lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1ffebd4adefe",
+      "title": "Sony's decision to ditch discs was practically inevitable, data shows",
+      "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-24T08:12:35.121184+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Sony bỏ đĩa game vì người dùng chọn mua game kỹ thuật số",
+      "bullets": [
+        "Người dùng Mỹ chọn mua game kỹ thuật số nhiều hơn",
+        "Số liệu Circana cho thấy người dùng bỏ đĩa game dần dần",
+        "Sony không thể duy trì thị phần đĩa game",
+        "Phát triển game kỹ thuật số ngày càng phổ biến"
+      ],
+      "full_summary": "Theo số liệu của Circana, người dùng Mỹ đã chọn mua game kỹ thuật số nhiều hơn trong nhiều năm qua. Điều này cho thấy thị trường đĩa game đã dần dần suy giảm. Sony đã không thể duy trì thị phần đĩa game và cuối cùng đã quyết định bỏ đĩa game. Phát triển game kỹ thuật số ngày càng phổ biến và Sony đã chọn theo xu hướng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ee4f30f35412",
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-24T08:12:36.516343+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "C++26 đã hỗ trợ thêm cho idiom PImpl",
+      "bullets": [
+        "Giới thiệu về idiom PImpl và cách sử dụng",
+        "Lợi ích của việc sử dụng PImpl trong lập trình C++",
+        "Sử dụng std::indirect_type trong C++26",
+        "Cải thiện hiệu suất và bảo mật ứng dụng"
+      ],
+      "full_summary": "C++26 đã hỗ trợ thêm cho idiom PImpl, giúp lập trình viên tách biệt mã nguồn và mã binary. Điều này giúp cải thiện hiệu suất và bảo mật ứng dụng. Sử dụng std::indirect_type trong C++26 cho phép lập trình viên dễ dàng sử dụng PImpl. Idoim PImpl giúp giảm thiểu việc truy cập trực tiếp vào các thành phần của một lớp, giúp bảo vệ tính toàn vẹn của dữ liệu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c82f451a385e",
+      "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
+      "url": "https://www.nature.com/articles/d41586-026-02275-0",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-24T08:12:41.382699+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Homer's Odyssey cho thấy cách người Hy Lạp thời đồ đồng hiểu thế giới",
+      "bullets": [
+        "Phát hiện ra các loại cây và thảo mộc",
+        "Hiểu biết về các hiện tượng thiên nhiên như nhật thực",
+        "Tìm hiểu về tâm lý và hành vi con người",
+        "Sáng tạo ra các con tàu thông minh"
+      ],
+      "full_summary": "Homer's Odyssey là một trong những tác phẩm văn học cổ điển nổi tiếng nhất. Trong tác phẩm này, người ta có thể thấy được cách người Hy Lạp thời đồ đồng hiểu về thế giới xung quanh họ. Họ đã phát hiện ra các loại cây và thảo mộc, hiểu biết về các hiện tượng thiên nhiên như nhật thực và tìm hiểu về tâm lý và hành vi con người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4ddbc7026231",
+      "title": "Humanity spoke thousands of languages at the dawn of farming — now many of them are lost",
+      "url": "https://www.nature.com/articles/d41586-026-02279-w",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-24T08:12:44.649632+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nhiều ngôn ngữ cổ bị mất dần sau khi con người chuyển sang lối sống nông nghiệp",
+      "bullets": [
+        "Phát hiện cho thấy có tới 10.000 ngôn ngữ tồn tại cách đây 15.000 năm",
+        "Lối sống di cư có thể đã góp phần tạo nên sự đa dạng ngôn ngữ",
+        "Tuy nhiên, sự đa dạng ngôn ngữ đã giảm nhanh chóng sau khi con người chuyển sang nông nghiệp"
+      ],
+      "full_summary": "Một nghiên cứu mới trên tạp chí Nature cho thấy có tới 10.000 ngôn ngữ tồn tại cách đây 15.000 năm, nhưng số lượng này đã giảm nhanh chóng sau khi con người chuyển sang lối sống nông nghiệp. Phát hiện này cho thấy sự đa dạng ngôn ngữ đã đạt đến đỉnh điểm khi con người vẫn còn sống theo lối sống di cư. Tuy nhiên, khi con người chuyển sang nông nghiệp, sự đa dạng ngôn ngữ đã giảm nhanh chóng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "2e9fe1a72808",
       "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
@@ -592,204 +791,6 @@
         "Tình hình sức khỏe của ông đang được theo dõi chặt chẽ"
       ],
       "full_summary": "Hoạt động viên Ấn Độ Sonam Wangchuk đã tuyệt thực 26 ngày, mất 11kg. Ông là tâm điểm của cuộc biểu tình tại Delhi, dẫn đầu phong trào Cockroach Janta Party (CJP). Tình hình sức khỏe của ông đang được theo dõi chặt chẽ. Mục tiêu của ông là gây chú ý đến các vấn đề xã hội và chính trị tại Ấn Độ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0f61a66e8411",
-      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T08:17:09.732022+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một trong ba người trên thế giới không thể mua thực phẩm lành mạnh",
-      "bullets": [
-        "Hơn 2,69 tỷ người không thể mua thực phẩm đa dạng đáp ứng nhu cầu năng lượng và chất dinh dưỡng",
-        "Số lượng đó đang giảm nhưng vẫn còn rất lớn",
-        "Các chuyên gia kêu gọi hành động để giảm chi phí thực phẩm",
-        "Mục tiêu giảm đói nghèo toàn cầu đến năm 2030 đang gặp khó khăn"
-      ],
-      "full_summary": "Theo báo cáo mới của Liên Hợp Quốc, một trong ba người trên thế giới không thể mua thực phẩm lành mạnh. Số lượng người đó đang giảm nhưng vẫn còn rất lớn, lên đến 2,69 tỷ người. Các chuyên gia kêu gọi hành động để giảm chi phí thực phẩm, giúp mọi người có thể mua được thực phẩm đa dạng đáp ứng nhu cầu năng lượng và chất dinh dưỡng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9e2ea96b4862",
-      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T08:17:10.934481+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bìa phim Ghana trở thành tác phẩm nghệ thuật sưu tầm",
-      "bullets": [
-        "Tạo ra những poster phim đầy màu sắc và phi thực tế",
-        "Thể hiện sự sáng tạo và độc đáo trong nghệ thuật đồ họa",
-        "Poster phim trở thành một phần của văn hóa và lịch sử Ghana",
-        "Những nghệ sĩ tạo poster phim trở thành những người sáng tạo độc lập"
-      ],
-      "full_summary": "Ở Ghana, những poster phim được thiết kế để thu hút người xem đã trở thành một phần quan trọng của văn hóa và lịch sử. Những poster này thường không chính xác về nội dung phim, nhưng chúng lại thể hiện sự sáng tạo và độc đáo trong nghệ thuật đồ họa. Những nghệ sĩ tạo poster phim đã trở thành những người sáng tạo độc lập, tự do thể hiện ý tưởng và phong cách của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5afbf62fbff9",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T08:17:12.076887+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi người Mỹ bị cách ly vì Ebola tại Kenya",
-      "bullets": [
-        "Bảy nhân viên cứu trợ Mỹ bị cách ly vì Ebola tại Kenya",
-        "Họ đang ở trong một cơ sở cách ly mới sau khi chính phủ Mỹ áp đặt các hạn chế đi lại",
-        "Cơ sở cách ly này đã gây ra sự phản đối lớn ở Kenya và đang là tâm điểm của một vụ án",
-        "Hội đồng tòa án đã ra lệnh ngừng việc xây dựng cơ sở cách ly"
-      ],
-      "full_summary": "Bảy nhân viên cứu trợ Mỹ đang bị cách ly vì Ebola tại Kenya. Họ đã từng ở Cộng hòa Dân chủ Congo để chống lại dịch bệnh. Chính phủ Mỹ đã áp đặt các hạn chế đi lại đối với họ. Cơ sở cách ly này đã gây ra sự phản đối lớn ở Kenya và đang là tâm điểm của một vụ án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "effe72ca30ef",
-      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T08:17:13.838422+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Sperm whales thay đổi âm thanh khi tàu thuyền gần đó",
-      "bullets": [
-        "Nghiên cứu viên phát hiện âm thanh đặc trưng của cá voi vây khi tàu thuyền gần đó",
-        "Các nhà khoa học có thể dự đoán khi tàu thuyền gần bằng cách phân tích âm thanh của cá voi",
-        "Nghiên cứu được thực hiện bởi Project Ceti sau 4 năm theo dõi âm thanh của 15 cá voi vây",
-        "Mục tiêu của dự án là giải mã ngôn ngữ của cá voi vây"
-      ],
-      "full_summary": "Các nhà khoa học đã phát hiện ra rằng cá voi vây thay đổi âm thanh khi tàu thuyền gần đó. Họ đã theo dõi âm thanh của 15 cá voi vây trong 4 năm ở đảo Dominica và phát hiện ra một mẫu âm thanh đặc trưng khi tàu thuyền gần đó. Mẫu âm thanh này cho phép các nhà khoa học dự đoán khi tàu thuyền gần và có thể giúp bảo vệ môi trường biển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5bdc2138f9d8",
-      "title": "Orcas team up to ram sunfish until they explode",
-      "url": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-23T08:17:14.809529+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Cá heo tập hợp để đâm cá chình cho nổ",
-      "bullets": [
-        "Họ nghĩ đây có thể giúp cá heo non dễ tìm thức ăn hơn",
-        "Hoặc đơn giản chỉ là chơi đùa",
-        "Cá heo thường tấn công cá chình ở vùng nước sâu",
-        "Phenomenon này được ghi nhận lần đầu tiên"
-      ],
-      "full_summary": "Một nhóm cá heo đã được quan sát tập hợp lại để tấn công cá chình ở vùng nước sâu. Họ sử dụng chiến thuật này để đâm cá chình cho nổ. Điều này có thể giúp cá heo non dễ tìm thức ăn hơn hoặc đơn giản chỉ là chơi đùa. Hiện tượng này được ghi nhận lần đầu tiên và đang được các nhà khoa học nghiên cứu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6c23fae05e94",
-      "title": "Restructuring GitHub's bug bounty program",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-23T08:17:19.935174+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "GitHub sắp sửa đổi chương trình tiền thưởng cho lỗi",
-      "bullets": [
-        "GitHub sắp sửa đổi chương trình tiền thưởng cho lỗi để tăng cường bảo mật",
-        "Chương trình sẽ tập trung vào các lỗ hổng nghiêm trọng hơn",
-        "GitHub sẽ cung cấp thông tin chi tiết hơn về các lỗ hổng đã được sửa chữa"
-      ],
-      "full_summary": "GitHub đã công bố kế hoạch sửa đổi chương trình tiền thưởng cho lỗi (bug bounty program) của mình. Mục tiêu của chương trình này là khuyến khích các nhà phát triển và người dùng tìm kiếm và báo cáo các lỗ hổng bảo mật. Theo GitHub, chương trình sẽ tập trung vào các lỗ hổng nghiêm trọng hơn và cung cấp thông tin chi tiết hơn về các lỗ hổng đã được sửa chữa. Điều này sẽ giúp tăng cường bảo mật cho các dự án và ứng dụng của GitHub.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cc8463dda311",
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T02:05:33.997830+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Máy bay không người lái Ukraine tấn công kho hàng Wildberries",
-      "bullets": [
-        "Tấn công kho hàng của Wildberries",
-        "Kho hàng bị hư hại nghiêm trọng",
-        "Wildberries là nhà bán lẻ trực tuyến lớn nhất Nga",
-        "Ukraine sử dụng máy bay không người lái để tấn công"
-      ],
-      "full_summary": "Máy bay không người lái Ukraine đã tấn công kho hàng của Wildberries, nhà bán lẻ trực tuyến lớn nhất Nga, trong vài ngày qua. Các kho hàng bị hư hại nghiêm trọng. Wildberries đã trở thành mục tiêu của Ukraine sau khi Nga tham gia vào cuộc xung đột ở Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "09ccff448cfa",
-      "title": "Fire kills 10 members of same family in Peru, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T02:05:34.913807+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai mươi người trong gia đình Peru thiệt mạng trong vụ hỏa hoạn",
-      "bullets": [
-        "Cảnh sát đang điều tra nguyên nhân vụ cháy tại Lima",
-        "Nghi ngờ vụ cháy có thể do hành động khủng bố",
-        "10 thành viên trong gia đình đã thiệt mạng",
-        "Cơ quan chức năng đang điều tra"
-      ],
-      "full_summary": "Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại Lima, Peru, khiến 10 thành viên trong cùng một gia đình thiệt mạng. Cảnh sát đang điều tra nguyên nhân vụ cháy, nghi ngờ có thể do hành động khủng bố. Vụ việc đang gây sự chú ý của dư luận và cơ quan chức năng đang tiến hành điều tra để tìm hiểu nguyên nhân thực sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6e156e26e57e",
-      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T02:05:35.969156+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Chính phủ Canada đối mặt với thuế mới từ Mỹ",
-      "bullets": [
-        "Mỹ áp thuế mới lên Canada vì hệ thống quản lý sữa",
-        "Hệ thống này khiến Mỹ không thể bán sữa vào Canada",
-        "Mỹ muốn mở rộng thị trường sữa của mình",
-        "Canada phản đối việc này"
-      ],
-      "full_summary": "Chính phủ Canada đang đối mặt với thuế mới từ Mỹ do hệ thống quản lý sữa của Canada gây ra. Hệ thống này khiến Mỹ không thể bán sữa vào Canada, điều này khiến Mỹ muốn mở rộng thị trường sữa của mình. Tuy nhiên, Canada phản đối việc này và cho rằng hệ thống quản lý sữa của mình là cần thiết để bảo vệ ngành công nghiệp sữa của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3af5f66029c6",
-      "title": "Google burning through cash with spiralling AI costs",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T02:05:36.876702+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Google dự kiến chi 190 tỷ USD cho đầu tư AI",
-      "bullets": [
-        "Chi phí phát triển trí tuệ nhân tạo của Google đang tăng vọt",
-        "Công ty này dự kiến chi 190 tỷ USD cho đầu tư AI",
-        "Sự tăng trưởng của AI đang gây ra áp lực tài chính cho Google"
-      ],
-      "full_summary": "Google đã công bố kế hoạch chi 190 tỷ USD cho đầu tư AI vào năm nay. Điều này cho thấy chi phí phát triển trí tuệ nhân tạo của công ty đang tăng vọt. Sự tăng trưởng của AI đang gây ra áp lực tài chính cho Google, nhưng công ty này vẫn tin rằng việc đầu tư này sẽ mang lại lợi nhuận trong tương lai.",
       "comments": 0,
       "score": 0
     }
