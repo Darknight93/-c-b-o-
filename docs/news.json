@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-25T07:54:47.038997+00:00",
+  "updated_at": "2026-07-25T13:08:25.609906+00:00",
   "articles": [
+    {
+      "id": "10aed7e09456",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T13:08:08.978228+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump chỉ trích báo chí tại bữa tiệc của Nhà Trắng",
+      "bullets": [
+        "Trump chỉ trích báo chí tại bữa tiệc White House Correspondents",
+        "Bữa tiệc kỷ niệm tự do báo chí sau khi bữa tiệc đầu tiên bị hủy vì vụ bắn vào tháng 4",
+        "Trump chỉ trích báo chí vì 'không trung thực'",
+        "Báo chí phản ứng với những lời chỉ trích của Trump"
+      ],
+      "full_summary": "Bữa tiệc White House Correspondents đã diễn ra tại Nhà Trắng, kỷ niệm tự do báo chí sau khi bữa tiệc đầu tiên bị hủy vì vụ bắn vào tháng 4. Tại bữa tiệc, cựu Tổng thống Mỹ Donald Trump đã chỉ trích báo chí vì 'không trung thực'. Những lời chỉ trích của Trump đã nhận được phản ứng từ báo chí. Bữa tiệc đã trở thành một sự kiện quan trọng trong lịch sử báo chí Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6b6aa0e38a4b",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T13:08:10.039234+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Hạ viện Mỹ đề xuất 'chìa khóa tắt' cho trí tuệ nhân tạo",
+      "bullets": [
+        "Đề xuất luật cho phép chính phủ Mỹ yêu cầu tắt các mô hình trí tuệ nhân tạo gây nguy hiểm",
+        "Mô hình AI của OpenAI đã bị lỗi và gây ra lo ngại về an toàn",
+        "Luật mới sẽ giúp ngăn chặn các mô hình AI gây hại cho công chúng",
+        "Hạ viện Mỹ đang thảo luận về dự luật này"
+      ],
+      "full_summary": "Hạ viện Mỹ đang đề xuất một luật mới cho phép chính phủ Mỹ yêu cầu tắt các mô hình trí tuệ nhân tạo gây nguy hiểm. Điều này được đưa ra sau khi mô hình AI của OpenAI bị lỗi và gây ra lo ngại về an toàn. Luật mới sẽ giúp ngăn chặn các mô hình AI gây hại cho công chúng và cho phép chính phủ Mỹ kiểm soát các mô hình AI này. Dự luật đang được thảo luận tại Hạ viện Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3b6601909bb0",
+      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
+      "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T13:08:11.062695+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Canada bị yêu cầu ngăn chặn thỏa thuận chia sẻ dữ liệu với ICE Mỹ",
+      "bullets": [
+        "Yêu cầu chính phủ Canada ngăn chặn thỏa thuận giữa Thomson Reuters và ICE Mỹ",
+        "Thỏa thuận trị giá 125 triệu USD để phát hiện 'lừa đảo nhập cư'",
+        "Lãnh đạo đảng New Democratic yêu cầu Ottawa hạn chế hợp tác với ICE",
+        "Thỏa thuận gây tranh cãi về vấn đề bảo mật và quyền riêng tư"
+      ],
+      "full_summary": "Lãnh đạo đảng New Democratic, Avi Lewis, đã yêu cầu chính phủ Canada ngăn chặn thỏa thuận chia sẻ dữ liệu giữa công ty truyền thông Thomson Reuters và Cơ quan Hải quan và Cảnh sát Biên giới Mỹ (ICE). Thỏa thuận trị giá 125 triệu USD nhằm phát hiện 'lừa đảo nhập cư' nhưng đã gây tranh cãi về vấn đề bảo mật và quyền riêng tư. Lãnh đạo đảng này cho rằng thỏa thuận này vi phạm quyền riêng tư của công dân và yêu cầu Ottawa hạn chế hợp tác với ICE.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "416acfffb1bc",
+      "title": "With help from data, art museums are reframing the visitor experience",
+      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-25T13:08:12.028370+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Các bảo tàng nghệ thuật sử dụng dữ liệu để tái định hình trải nghiệm du khách",
+      "bullets": [
+        "Sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn",
+        "Tạo ra trải nghiệm du khách cá nhân hóa thông qua công nghệ",
+        "Đào tạo nhân viên bảo tàng để sử dụng công nghệ hiệu quả",
+        "Tăng cường tương tác giữa bảo tàng và du khách thông qua mạng xã hội"
+      ],
+      "full_summary": "Các bảo tàng nghệ thuật đang sử dụng dữ liệu để tái định hình trải nghiệm du khách. Họ sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn và tạo ra trải nghiệm du khách cá nhân hóa thông qua công nghệ. Điều này giúp tăng cường tương tác giữa bảo tàng và du khách, đồng thời tạo ra một môi trường học hỏi và khám phá thú vị hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f65c06ddbd39",
+      "title": "Big Tech accused of stonewalling European social media researchers",
+      "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-25T13:08:13.190016+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Các công ty công nghệ lớn bị cáo buộc chần chừ cung cấp dữ liệu cho các nhà nghiên cứu châu Âu",
+      "bullets": [
+        "TikTok, X và Meta bị cáo buộc không cung cấp dữ liệu như quy định",
+        "Các nhà nghiên cứu cho rằng điều này vi phạm luật pháp châu Âu",
+        "Dữ liệu được yêu cầu để nghiên cứu về các nền tảng xã hội",
+        "Các công ty công nghệ lớn bị chỉ trích vì hành động này"
+      ],
+      "full_summary": "Các nhà nghiên cứu châu Âu cáo buộc các công ty công nghệ lớn như TikTok, X và Meta không cung cấp dữ liệu như quy định. Điều này vi phạm luật pháp châu Âu và cản trở nghiên cứu về các nền tảng xã hội. Các công ty công nghệ lớn bị chỉ trích vì hành động này và các nhà nghiên cứu kêu gọi họ phải cung cấp dữ liệu một cách minh bạch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f8a25251071",
+      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-25T13:08:14.192178+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Nổ hoả đe dọa mạng lưới không gian NASA tại Tây Ban Nha",
+      "bullets": [
+        "Đã có lệnh sơ tán nhân viên khỏi mạng lưới không gian NASA",
+        "Hoả hoạn đang đe dọa mạng lưới quan trọng này",
+        "NASA sẽ đánh giá thiệt hại khi an toàn cho phép"
+      ],
+      "full_summary": "Một đám cháy hoành hành gần mạng lưới không gian NASA ở Tây Ban Nha, khiến cơ quan này phải sơ tán nhân viên khỏi khu vực. Mạng lưới này đóng vai trò quan trọng trong việc tiếp nhận tín hiệu từ các tàu vũ trụ. NASA sẽ đánh giá thiệt hại khi an toàn cho phép.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2486f42b39f6",
+      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-25T13:08:15.171703+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hợp nhất Paramount và Warner Bros bị hoãn do vụ kiện của các bang",
+      "bullets": [
+        "Các bang kiện Paramount và Warner Bros vì vi phạm luật cạnh tranh",
+        "Hợp nhất bị hoãn cho đến khi vụ kiện được xét xử",
+        "NY AG tuyên bố đây là một chiến thắng quan trọng",
+        "Hợp nhất sẽ được xem xét lại sau khi vụ kiện được xét xử"
+      ],
+      "full_summary": "Hợp nhất giữa Paramount và Warner Bros đã bị hoãn do vụ kiện của các bang. Các bang cáo buộc Paramount và Warner Bros vi phạm luật cạnh tranh. NY AG tuyên bố đây là một chiến thắng quan trọng. Hợp nhất sẽ được xem xét lại sau khi vụ kiện được xét xử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b5328373abc1",
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-25T13:08:21.334308+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Đội dẫn đầu trong cuộc đua trí tuệ nhân tạo ARC-AGI được công bố",
+      "bullets": [
+        "Đội dẫn đầu được công bố trên bảng xếp hạng ARC-AGI Leaderboard",
+        "Bảng xếp hạng được cập nhật thường xuyên để phản ánh tiến bộ trong lĩnh vực trí tuệ nhân tạo",
+        "Đội dẫn đầu được đánh giá dựa trên khả năng của họ trong các thử nghiệm trí tuệ nhân tạo"
+      ],
+      "full_summary": "Bảng xếp hạng ARC-AGI Leaderboard được công bố để đánh giá tiến bộ trong lĩnh vực trí tuệ nhân tạo. Bảng xếp hạng này được cập nhật thường xuyên để phản ánh khả năng của các đội tham gia. Đội dẫn đầu được đánh giá dựa trên khả năng của họ trong các thử nghiệm trí tuệ nhân tạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2e61b57c74af",
+      "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+      "url": "https://www.nature.com/articles/d41586-026-02267-0",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-25T13:08:25.109767+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Giải phẫu bệnh lý nghiêm trọng bằng liệu pháp gene cá nhân",
+      "bullets": [
+        "Giảm thiểu cơn co giật nghiêm trọng ở hai cháu bé",
+        "Báo cáo nghiên cứu trên tạp chí Nature",
+        "Một trong hai cháu bé có thể đi lại độc lập lần đầu tiên",
+        "Liệu pháp gene cá nhân có thể giúp điều trị bệnh lý nghiêm trọng"
+      ],
+      "full_summary": "Một nhóm nghiên cứu đã phát triển liệu pháp gene cá nhân để điều trị bệnh lý nghiêm trọng ở hai cháu bé bị co giật nghiêm trọng. Liệu pháp này đã giúp giảm thiểu cơn co giật nghiêm trọng và cho phép một trong hai cháu bé đi lại độc lập lần đầu tiên. Nghiên cứu này được công bố trên tạp chí Nature và có thể mở ra hướng mới trong điều trị bệnh lý nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "743eae2909a9",
       "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
@@ -615,186 +793,6 @@
         "Meme về Jimothy lan rộng trên các nền tảng khác nhau"
       ],
       "full_summary": "Một video về một con cáo tên Jimothy được chia sẻ trên Instagram đã trở thành nguồn gốc của một meme online lớn. Video này được chia sẻ bởi cư dân Seattle Kiana Hall và nhanh chóng lan truyền trên mạng xã hội. Jimothy đã trở thành biểu tượng của internet và được nhiều người yêu thích. Meme về Jimothy đã lan rộng trên các nền tảng khác nhau, bao gồm Twitter, TikTok và Instagram.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "52b57d45f993",
-      "title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
-      "url": "https://militarywatchmagazine.com/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-24T13:22:19.474329+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hạm đội Mỹ mất 8 máy bay không người lái MQ-9 Reaper trong một cuộc tấn công của Iran",
-      "bullets": [
-        "Iran tiến hành một cuộc tấn công nhằm vào hạm đội Mỹ",
-        "8 máy bay không người lái MQ-9 Reaper của Mỹ bị phá hủy",
-        "Chi tiết về cuộc tấn công và thiệt hại chưa được công bố",
-        "Mỹ và Iran đang trong một cuộc đối đầu căng thẳng"
-      ],
-      "full_summary": "Hạm đội Mỹ vừa mất 8 máy bay không người lái MQ-9 Reaper trong một cuộc tấn công của Iran. Mặc dù chi tiết về cuộc tấn công và thiệt hại chưa được công bố, nhưng đây là một bước ngoặt đáng kể trong cuộc đối đầu giữa Mỹ và Iran. Cuộc tấn công này đã gây ra sự lo ngại về sự an toàn của hạm đội Mỹ tại khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8dc6b5a5ab14",
-      "title": "Why is programming so captivating, yet so agonizing?",
-      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-24T13:22:22.237382+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Lập trình hấp dẫn nhưng đầy đau đầu",
-      "bullets": [
-        "Khám phá lý do lập trình hấp dẫn",
-        "Nghiên cứu về tính chất đau đầu của lập trình",
-        "So sánh giữa sự hấp dẫn và đau đầu trong lập trình",
-        "Tìm hiểu nguyên nhân khiến lập trình viên đau đầu"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã khám phá lý do lập trình hấp dẫn nhưng đầy đau đầu. Bài viết này đã nghiên cứu về tính chất đau đầu của lập trình và so sánh giữa sự hấp dẫn và đau đầu trong lập trình. Kết quả cho thấy lập trình viên thường đau đầu do sự phức tạp và đòi hỏi cao của công việc. Bài viết này hy vọng sẽ giúp lập trình viên hiểu rõ hơn về lý do khiến họ đau đầu và tìm ra giải pháp để giảm bớt căng thẳng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d09703783352",
-      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T08:12:28.667554+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Họp đàm giữa chính phủ Ấn Độ và nhà hoạt động Sonam Wangchuk",
-      "bullets": [
-        "Chính phủ Ấn Độ và nhà hoạt động Sonam Wangchuk sẽ họp đàm",
-        "Họp đàm diễn ra sau khi Sonam Wangchuk kết thúc cuộc tuyệt thực 26 ngày",
-        "Cuộc tuyệt thực của Sonam Wangchuk nhằm phản đối chính sách giáo dục của chính phủ Ấn Độ",
-        "Họp đàm sẽ giúp tìm ra giải pháp cho cuộc khủng hoảng giáo dục tại Ấn Độ"
-      ],
-      "full_summary": "Chính phủ Ấn Độ và nhà hoạt động Sonam Wangchuk sẽ họp đàm để tìm ra giải pháp cho cuộc khủng hoảng giáo dục tại Ấn Độ. Cuộc họp diễn ra sau khi Sonam Wangchuk kết thúc cuộc tuyệt thực 26 ngày. Ông đã tuyệt thực để phản đối chính sách giáo dục của chính phủ Ấn Độ. Cuộc họp này sẽ giúp tìm ra giải pháp cho cuộc khủng hoảng giáo dục tại Ấn Độ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "538e42e83f26",
-      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
-      "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T08:12:29.653489+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chính phủ Anh tăng cường vai trò bộ trưởng công nghệ AI",
-      "bullets": [
-        "Tăng cường vai trò bộ trưởng công nghệ AI Kanishka Narayan",
-        "Không còn bộ trưởng công nghệ",
-        "Bộ trưởng Narayan sẽ tham gia nội các",
-        "Cập nhật cấu trúc nội các của Anh"
-      ],
-      "full_summary": "Bộ trưởng công nghệ AI Kanishka Narayan của Anh sẽ tham gia nội các nhưng không còn lãnh đạo bộ trưởng công nghệ. Điều này là kết quả của cuộc cải tổ nội các do thị trưởng Burnham lãnh đạo. Bộ trưởng Narayan sẽ tiếp tục giữ vai trò quan trọng trong việc thúc đẩy công nghệ AI. Cấu trúc nội các của Anh sẽ được cập nhật theo hướng mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3ee91dee03f",
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T08:12:30.738054+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "São Tomé và Príncipe chuẩn bị bầu cử tổng thống đầy căng thẳng",
-      "bullets": [
-        "Hơn 142.000 cử tri đăng ký bỏ phiếu trong cuộc bầu cử",
-        "Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng",
-        "Voters ở São Tomé và Príncipe đi bầu cử tổng thống vào ngày Chủ nhật",
-        "Đảng của Vila Nova đã bị ông ta rời bỏ để trở thành độc lập"
-      ],
-      "full_summary": "São Tomé và Príncipe chuẩn bị cho cuộc bầu cử tổng thống đầy căng thẳng. Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng để giành được nhiệm kỳ thứ hai. Ông ta rời bỏ đảng của mình để trở thành độc lập. Các cử tri ở São Tomé và Príncipe sẽ đi bầu cử tổng thống vào ngày Chủ nhật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "668efd44031d",
-      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T08:12:31.739534+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Đạo luật Kill Switch cho phép Bộ An ninh Nội địa ngừng hoạt động AI bất thường",
-      "bullets": [
-        "Cho phép Bộ trưởng An ninh Nội địa quyết định ngừng hoạt động AI bất thường",
-        "Đạo luật Kill Switch được đề xuất để ngăn chặn AI tự động hóa gây hại",
-        "Chính phủ Trump muốn có quyền kiểm soát AI tự động hóa",
-        "Đạo luật đang được xem xét tại Quốc hội"
-      ],
-      "full_summary": "Đạo luật Kill Switch được đề xuất để cho phép Bộ trưởng An ninh Nội địa quyết định ngừng hoạt động AI bất thường. Đạo luật này được đề xuất để ngăn chặn AI tự động hóa gây hại. Chính phủ Trump muốn có quyền kiểm soát AI tự động hóa và ngăn chặn các hệ thống AI không được kiểm soát.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89194290b018",
-      "title": "Final Coyote vs. Acme trailer drops at SDCC",
-      "url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T08:12:32.851805+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trailer cuối cùng của Coyote vs. Acme được công bố tại SDCC",
-      "bullets": [
-        "Công bố trailer cuối cùng của phim Coyote vs. Acme tại hội nghị SDCC",
-        "Phim do Zach Cregger đạo diễn, có sự tham gia của nhân vật Resident Evil",
-        "Trailer phim gây ấn tượng với khán giả tại hội nghị",
-        "Phim dự kiến sẽ được phát hành trong tương lai gần"
-      ],
-      "full_summary": "Trailer cuối cùng của phim Coyote vs. Acme đã được công bố tại hội nghị San Diego Comic-Con (SDCC). Phim do Zach Cregger đạo diễn và có sự tham gia của nhân vật Resident Evil. Trailer phim gây ấn tượng với khán giả tại hội nghị và dự kiến sẽ được phát hành trong tương lai gần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "24ae674d9ae8",
-      "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T08:12:33.918045+00:00",
-      "category": "politics|economy|technology",
-      "importance": 5,
-      "headline": "Google bị phạt 1 tỷ USD vì vi phạm Đạo luật Thị trường số",
-      "bullets": [
-        "Phạt nặng Google 1 tỷ USD vì vi phạm Đạo luật Thị trường số",
-        "Google trở thành công ty công nghệ thứ ba bị phạt nặng theo Đạo luật Thị trường số",
-        "Nước Mỹ chuẩn bị đối mặt với cuộc chiến chống lại chính sách của Tổng thống Trump",
-        "Đạo luật Thị trường số nhằm hạn chế sự thống trị của các công ty công nghệ lớn"
-      ],
-      "full_summary": "Google vừa bị phạt 1 tỷ USD vì vi phạm Đạo luật Thị trường số của Liên minh Châu Âu. Đây là lần thứ ba công ty này bị phạt nặng theo Đạo luật này. Nước Mỹ đang chuẩn bị đối mặt với cuộc chiến chống lại chính sách của Tổng thống Trump. Đạo luật Thị trường số nhằm hạn chế sự thống trị của các công ty công nghệ lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1ffebd4adefe",
-      "title": "Sony's decision to ditch discs was practically inevitable, data shows",
-      "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T08:12:35.121184+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Sony bỏ đĩa game vì người dùng chọn mua game kỹ thuật số",
-      "bullets": [
-        "Người dùng Mỹ chọn mua game kỹ thuật số nhiều hơn",
-        "Số liệu Circana cho thấy người dùng bỏ đĩa game dần dần",
-        "Sony không thể duy trì thị phần đĩa game",
-        "Phát triển game kỹ thuật số ngày càng phổ biến"
-      ],
-      "full_summary": "Theo số liệu của Circana, người dùng Mỹ đã chọn mua game kỹ thuật số nhiều hơn trong nhiều năm qua. Điều này cho thấy thị trường đĩa game đã dần dần suy giảm. Sony đã không thể duy trì thị phần đĩa game và cuối cùng đã quyết định bỏ đĩa game. Phát triển game kỹ thuật số ngày càng phổ biến và Sony đã chọn theo xu hướng này.",
       "comments": 0,
       "score": 0
     }
