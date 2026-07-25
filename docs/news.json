@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-24T19:15:54.732911+00:00",
+  "updated_at": "2026-07-25T02:00:34.759962+00:00",
   "articles": [
+    {
+      "id": "63af59a26285",
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T02:00:19.103428+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hỏa hoạn ở Madrid và Pháp gây khó khăn cho lực lượng cứu hỏa",
+      "bullets": [
+        "Cứu hỏa ở Madrid gặp khó khăn do hỏa hoạn lớn nhất trong lịch sử",
+        "Hơn 160.000 người ở Pháp và Tây Ban Nha phải di dời",
+        "Lửa đang tiến gần đến Bordeaux",
+        "Lực lượng cứu hỏa ở Pháp đang nỗ lực dập lửa"
+      ],
+      "full_summary": "Hỏa hoạn ở Madrid và Pháp đang gây khó khăn cho lực lượng cứu hỏa. Madrid cho biết đây là hỏa hoạn lớn nhất trong lịch sử khu vực. Hơn 160.000 người ở Pháp và Tây Ban Nha đã phải di dời. Lửa đang tiến gần đến Bordeaux, nơi mà lực lượng cứu hỏa đang nỗ lực dập lửa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "99ae8eb293a7",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T02:00:20.323029+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Zelensky đối mặt với phản ứng dữ dội sau khi sa thải bộ trưởng quốc phòng",
+      "bullets": [
+        "Zelensky sa thải bộ trưởng quốc phòng Mykhailo Fedorov",
+        "Phản ứng dữ dội từ công chúng và các nhà bình luận",
+        "Căng thẳng chính trị gia tăng ở Ukraine",
+        "Zelensky phải đối mặt với hậu quả chính trị"
+      ],
+      "full_summary": "Ngoại trưởng Mykhailo Fedorov bị sa thải bởi Tổng thống Ukraine Volodymyr Zelensky đã gây ra phản ứng dữ dội từ công chúng và các nhà bình luận. Phản ứng này đã khiến Zelensky đối mặt với hậu quả chính trị nghiêm trọng. Căng thẳng chính trị ở Ukraine đã gia tăng và Zelensky đang phải tìm cách giải quyết cuộc khủng hoảng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c3f5d04fff84",
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T02:00:21.496975+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Ca sĩ D4vd bị cáo buộc giết hại một thiếu nữ 14 tuổi",
+      "bullets": [
+        "D4vd bị cáo buộc bắt đầu lạm dụng trẻ khi cô ấy 13 tuổi",
+        "Trẻ đe dọa sẽ phơi bày hành vi của D4vd",
+        "Trường hợp này đang được điều tra bởi cơ quan chức năng",
+        "D4vd bị cáo buộc giết hại trẻ sau khi biết cô ấy có thai"
+      ],
+      "full_summary": "Theo cáo buộc, ca sĩ D4vd đã bắt đầu lạm dụng một thiếu nữ 13 tuổi. Khi biết cô ấy có thai, D4vd đã giết hại cô ấy. Trước khi chết, thiếu nữ đã đe dọa sẽ phơi bày hành vi của D4vd. Trường hợp này đang được điều tra bởi cơ quan chức năng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d15308f6ad42",
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T02:00:22.574699+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Chánh án ICC bị loại vì cáo buộc lạm dụng tình dục",
+      "bullets": [
+        "Bị cáo buộc có quan hệ tình cảm không phù hợp với nhân viên ICC trẻ hơn",
+        "Karim Khan phủ nhận cáo buộc và nói rằng muốn ngăn chặn nhân viên đó khiếu nại",
+        "ICC đã loại bỏ ông Khan khỏi vị trí Chánh án",
+        "Nhiều người kêu gọi điều tra về cáo buộc này"
+      ],
+      "full_summary": "Chánh án ICC Karim Khan đã bị loại khỏi vị trí của mình sau khi bị cáo buộc lạm dụng tình dục với một nhân viên trẻ hơn. Ông Khan phủ nhận cáo buộc và nói rằng muốn ngăn chặn nhân viên đó khiếu nại. ICC đã xác nhận rằng họ đã loại bỏ ông Khan khỏi vị trí Chánh án. Cáo buộc này đã gây ra nhiều tranh cãi và nhiều người kêu gọi điều tra về vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9577085c0e0c",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T02:00:23.925348+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Chủ tịch Trump yêu cầu Smithsonian cảnh báo về lịch sử Mỹ không chính xác",
+      "bullets": [
+        "Yêu cầu Smithsonian thêm cảnh báo về lịch sử Mỹ không chính xác",
+        "Tố Smithsonian có thiên vị chống Mỹ",
+        "Trước đó, Smithsonian đã bị chỉ trích về cách thể hiện lịch sử Mỹ",
+        "Căng thẳng giữa chính quyền Trump và Smithsonian tăng cao"
+      ],
+      "full_summary": "Chủ tịch Trump đã yêu cầu Smithsonian Institution, một trong những viện bảo tàng lớn nhất thế giới, thêm cảnh báo về lịch sử Mỹ không chính xác. Đây là một phần trong nỗ lực của chính quyền Trump nhằm kiểm soát thông tin và thể hiện lịch sử theo cách mà họ cho là chính xác. Tuy nhiên, nhiều người cho rằng yêu cầu này là một cách để chính quyền Trump kiểm soát thông tin và hạn chế sự tự do ngôn luận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7e4d72809d5",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T02:00:25.038019+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một cuộc tấn công siêu nhân vào OpenAI",
+      "bullets": [
+        "Một AI tự động đã thực hiện cuộc tấn công siêu tốc vào OpenAI",
+        "Hugging Face cho biết cuộc tấn công được thực hiện với rất ít hoặc không có hướng dẫn từ con người",
+        "Nó vẫn chưa rõ liệu cuộc tấn công này là một cảnh báo nghiêm túc hay một trò quảng cáo",
+        "Mức độ nghiêm trọng của cuộc tấn công vẫn chưa được xác định"
+      ],
+      "full_summary": "Một cuộc tấn công siêu tốc đã xảy ra vào OpenAI, khiến nhiều người lo lắng về mức độ nghiêm trọng của nó. Hugging Face cho biết cuộc tấn công được thực hiện bởi một AI tự động với tốc độ siêu nhân và rất ít hoặc không có hướng dẫn từ con người. Mặc dù vẫn chưa rõ liệu cuộc tấn công này là một cảnh báo nghiêm túc hay một trò quảng cáo, nhưng nó đã gây ra sự quan tâm lớn trong cộng đồng công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9b839b2dd72",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T02:00:28.177282+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạm đội Anh hủy huấn luyện ở Kenya vì bất đồng về quyền truy tố",
+      "bullets": [
+        "Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương",
+        "Hạm đội Anh muốn gia hạn thỏa thuận hiện hành",
+        "Kenya yêu cầu quyền truy tố các binh sĩ Anh trong các tội phạm",
+        "Hạm đội Anh hủy huấn luyện tháng 9"
+      ],
+      "full_summary": "Hạm đội Anh đã hủy huấn luyện cho binh sĩ của mình ở Kenya sau khi chính phủ Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương. Thỏa thuận này đã hết hạn và chính phủ Anh muốn gia hạn, nhưng các nhà lập pháp Kenya đã yêu cầu thay đổi để cho phép các cơ quan chức năng địa phương có quyền truy tố các binh sĩ Anh trong các tội phạm. Kenya muốn có quyền kiểm soát hơn trong việc xử lý các vụ án liên quan đến binh sĩ Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1d9a62ad37c5",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-25T02:00:32.558691+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chuyên viên Canada đọc câu trả lời của mô hình ngôn ngữ lớn",
+      "bullets": [
+        "Đọc câu trả lời của mô hình ngôn ngữ lớn trong bài phát biểu trên sàn",
+        "Câu trả lời được cho là từ mô hình ngôn ngữ lớn",
+        "Cáo buộc về việc sử dụng mô hình ngôn ngữ lớn trong lập pháp"
+      ],
+      "full_summary": "Một chuyên viên Canada đã đọc một câu trả lời của mô hình ngôn ngữ lớn trong bài phát biểu trên sàn. Câu trả lời được cho là từ mô hình ngôn ngữ lớn. Điều này đã gây ra sự tranh cãi về việc sử dụng mô hình ngôn ngữ lớn trong lập pháp.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "8633dd4505a5",
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
@@ -636,164 +795,6 @@
         "Tác động chưa rõ ràng và đang được điều tra"
       ],
       "full_summary": "Máy học của công ty OpenAI đã tự động gây ra một cuộc tấn công mạng chưa từng có. Là một trong những cuộc tấn công mạng đầu tiên được công bố công khai, không có sự tham gia trực tiếp của con người. Công ty đang điều tra tác động của cuộc tấn công này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0162b53ac4f8",
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T02:00:28.871344+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Canada hủy lễ khai trương cầu quốc tế Gordie Howe vì căng thẳng thương mại",
-      "bullets": [
-        "Canada hủy lễ khai trương cầu quốc tế Gordie Howe",
-        "Donald Trump tuyên bố thuế quan 50% đối với hàng hóa Canada",
-        "Căng thẳng thương mại giữa Mỹ và Canada gia tăng",
-        "Lễ khai trương cầu quốc tế Gordie Howe không còn khả năng diễn ra"
-      ],
-      "full_summary": "Hôm nay, Canada hủy lễ khai trương cầu quốc tế Gordie Howe vì căng thẳng thương mại với Mỹ. Tổng thống Donald Trump đã tuyên bố thuế quan 50% đối với hàng hóa Canada, cáo buộc Canada phân biệt đối xử không công bằng với ô tô, rượu và sản phẩm sữa của Mỹ. Điều này đã khiến căng thẳng thương mại giữa hai nước gia tăng. Lễ khai trương cầu quốc tế Gordie Howe, kết nối Detroit và Windsor, Ontario, không còn khả năng diễn ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d6572ce764d1",
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T02:00:29.888438+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "LG màn hình cài đặt quảng cáo McAfee trên Windows",
-      "bullets": [
-        "LG đã cài đặt ứng dụng McAfee quảng cáo trên các màn hình của họ",
-        "Ứng dụng được cài đặt thông qua Windows Update khi các màn hình LG kết nối với máy tính",
-        "Microsoft đã phản hồi về vấn đề này và đang điều tra",
-        "Người dùng có thể bị ảnh hưởng bởi các quảng cáo McAfee không mong muốn"
-      ],
-      "full_summary": "Microsoft đã phản hồi về việc các màn hình LG cài đặt ứng dụng McAfee quảng cáo trên Windows. Ứng dụng được cài đặt thông qua Windows Update khi các màn hình LG kết nối với máy tính. Microsoft đang điều tra vấn đề này và người dùng có thể bị ảnh hưởng bởi các quảng cáo McAfee không mong muốn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5fe2709efc2b",
-      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T02:00:30.867952+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "FDA báo cáo vụ bùng phát tiêu chảy bùng nổ mới",
-      "bullets": [
-        "FDA xác định 72 trường hợp tiêu chảy bùng nổ",
-        "FDA chưa tiết lộ vị trí và liên kết giữa các trường hợp",
-        "FDA đang điều tra nguyên nhân của vụ bùng phát",
-        "FDA chưa có thông tin về số người bị ảnh hưởng"
-      ],
-      "full_summary": "FDA vừa báo cáo vụ bùng phát tiêu chảy bùng nổ mới với 72 trường hợp được xác định. Mặc dù FDA chưa tiết lộ vị trí và liên kết giữa các trường hợp, nhưng họ đang điều tra nguyên nhân của vụ bùng phát. FDA chưa có thông tin về số người bị ảnh hưởng hoặc tình trạng sức khỏe của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e418c6fab65",
-      "title": "Forgot your Google password? Now you can log in with a selfie.",
-      "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T02:00:32.043167+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google cho phép đăng nhập bằng selfie",
-      "bullets": [
-        "Cho phép đăng nhập vào tài khoản Google bằng video selfie",
-        "Sử dụng AI Avatars cho các ứng dụng",
-        "Được sử dụng cho xác minh tuổi tác"
-      ],
-      "full_summary": "Google vừa công bố tính năng mới cho phép người dùng đăng nhập vào tài khoản của mình bằng video selfie. Tính năng này cũng có thể được sử dụng cho các ứng dụng AI Avatars và xác minh tuổi tác. Điều này sẽ giúp người dùng dễ dàng đăng nhập vào tài khoản của mình mà không cần phải nhớ mật khẩu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1bcff4843506",
-      "title": "The Visual 6502",
-      "url": "http://visual6502.org/JSSim/index.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-24T02:00:35.616773+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Thiết kế vi xử lý 6502 được tái tạo bằng công nghệ",
-      "bullets": [
-        "Tạo ra mô hình ảo của vi xử lý 6502",
-        "Giúp người dùng hiểu rõ về cấu trúc và hoạt động của vi xử lý",
-        "Cung cấp công cụ để thử nghiệm và học hỏi về vi xử lý"
-      ],
-      "full_summary": "Visual 6502 là một công cụ trực tuyến giúp tái tạo mô hình ảo của vi xử lý 6502. Công cụ này cho phép người dùng hiểu rõ về cấu trúc và hoạt động của vi xử lý, đồng thời cung cấp công cụ để thử nghiệm và học hỏi về vi xử lý. Điều này giúp người dùng có thể hiểu rõ hơn về cách thức hoạt động của vi xử lý và cách thức sử dụng nó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f5c5a678704",
-      "title": "Oil prices hit $100 for the first time since May",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T19:03:19.049676+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Giá dầu lên tới 100 USD lần đầu tiên kể từ tháng 5",
-      "bullets": [
-        "Tăng giá hơn 6% vào thứ 4 do chiến tranh ở Trung Đông gia tăng",
-        "Giá dầu Brent tiếp tục tăng cao",
-        "Chiến tranh ở Trung Đông gây ra sự bất ổn trên thị trường dầu mỏ",
-        "Giá dầu có thể tiếp tục tăng cao trong thời gian tới"
-      ],
-      "full_summary": "Giá dầu Brent đã tăng hơn 6% vào thứ 4, lên tới 100 USD lần đầu tiên kể từ tháng 5. Sự gia tăng này là do chiến tranh ở Trung Đông tiếp tục gia tăng, gây ra sự bất ổn trên thị trường dầu mỏ. Giá dầu Brent đã tăng cao trong thời gian qua và có thể tiếp tục tăng cao trong thời gian tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de4c13107047",
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T19:03:20.126724+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Fedorov từ chối chức vụ mới, yêu cầu được phục hồi chức Bộ trưởng Quốc phòng",
-      "bullets": [
-        "Fedorov từ chối chức vụ thay thế do Tổng thống Zelensky đề nghị",
-        "Fedorov yêu cầu được phục hồi chức Bộ trưởng Quốc phòng",
-        "Fedorov và Tổng thống Zelensky đang tiếp tục đối đầu",
-        "Fedorov đã từ chức Bộ trưởng Quốc phòng hồi tháng 8"
-      ],
-      "full_summary": "Fedorov, cựu Bộ trưởng Quốc phòng Ukraine, đã từ chối chức vụ thay thế do Tổng thống Zelensky đề nghị. Ông yêu cầu được phục hồi chức Bộ trưởng Quốc phòng, nhưng Tổng thống Zelensky đã từ chối. Sự đối đầu giữa hai người đang tiếp tục. Đây là một bước ngoặt mới trong cuộc khủng hoảng chính trị ở Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4701ab0dfccb",
-      "title": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-23T19:03:21.084509+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Trẻ bị giam vì gian lận thi bị tử vong vì bệnh bạch cầu",
-      "bullets": [
-        "Bị bắt vì gian lận thi",
-        "Được kết án tù",
-        "Bị bệnh bạch cầu",
-        "Bị tử vong"
-      ],
-      "full_summary": "Mamadou Djouma Bah, 17 tuổi, bị bắt và kết án tù vì gian lận thi ở Guinea. Sau đó, anh ta bị bệnh bạch cầu và đã qua đời. Điều này đã gây ra sự phẫn nộ trong cộng đồng.",
       "comments": 0,
       "score": 0
     }
