@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-07-25T13:08:25.609906+00:00",
+  "updated_at": "2026-07-25T18:57:04.758440+00:00",
   "articles": [
+    {
+      "id": "96300ea9ab0f",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T18:56:48.937926+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hơn 250.000 người tị nạn vì cháy rừng ở Pháp và Tây Ban Nha",
+      "bullets": [
+        "Cảnh sát Pháp chưa kiểm soát được đám cháy gần Bordeaux",
+        "Chính phủ Tây Ban Nha cảnh báo 'giờ phức tạp' sắp tới",
+        "Hơn 250.000 người phải rời khỏi khu vực bị ảnh hưởng",
+        "Các lực lượng cứu hỏa đang nỗ lực dập lửa"
+      ],
+      "full_summary": "Ở Pháp và Tây Ban Nha, các đám cháy rừng đang gây ra sự tàn phá lớn. Hơn 250.000 người đã phải rời khỏi khu vực bị ảnh hưởng. Chính phủ Tây Ban Nha cảnh báo 'giờ phức tạp' sắp tới, trong khi cảnh sát Pháp cho biết họ chưa kiểm soát được đám cháy gần Bordeaux. Các lực lượng cứu hỏa đang nỗ lực dập lửa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0be6f20673f2",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T18:56:50.032308+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hội chợ chống Modi ở Ấn Độ bị hủy sau khi bộ trưởng giáo dục từ chức",
+      "bullets": [
+        "Bộ trưởng giáo dục Ấn Độ từ chức sau khi bị chỉ trích nặng nề",
+        "Hội chợ CJP là biểu hiện nổi bật của sự phẫn nộ công chúng chống chính phủ Modi",
+        "Hội chợ CJP đã gây ra sự phẫn nộ công chúng ở Ấn Độ trong nhiều năm gần đây"
+      ],
+      "full_summary": "Hội chợ CJP ở Ấn Độ đã bị hủy sau khi bộ trưởng giáo dục từ chức. Hội chợ này là biểu hiện nổi bật của sự phẫn nộ công chúng chống chính phủ Modi. Bộ trưởng giáo dục Ấn Độ đã từ chức sau khi bị chỉ trích nặng nề. Hội chợ CJP đã gây ra sự phẫn nộ công chúng ở Ấn Độ trong nhiều năm gần đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a3ee91dee03f",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-25T18:56:51.151213+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Sao Tome và Principe tổ chức bầu cử tổng thống đầy căng thẳng",
+      "bullets": [
+        "Hơn 142.000 cử tri đăng ký bỏ phiếu trong cuộc bầu cử ở quốc gia châu Phi nhỏ bé này",
+        "Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng để đảm bảo nhiệm kỳ thứ hai",
+        "Một số cử tri sống ở nước ngoài",
+        "Cuộc bầu cử nhằm tăng cường uy tín dân chủ của quốc gia này"
+      ],
+      "full_summary": "Sao Tome và Principe chuẩn bị tổ chức bầu cử tổng thống đầy căng thẳng. Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng để đảm bảo nhiệm kỳ thứ hai. Ông Vila Nova đã rời khỏi đảng của mình và trở thành ứng cử viên độc lập. Cuộc bầu cử này nhằm tăng cường uy tín dân chủ của quốc gia này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e8050cd78e2b",
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-25T18:56:52.273034+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "SpaceX chuẩn bị bắt Starship trở lại tại trạm phóng",
+      "bullets": [
+        "SpaceX sẽ thử bắt Starship trở lại tại trạm phóng trên chuyến bay tiếp theo",
+        "Chuyến bay thứ 13 của Starship đã kết thúc một cách đầy hứa hẹn",
+        "SpaceX đang chuẩn bị cho một thử nghiệm mới để cải thiện hiệu suất của Starship",
+        "Mục tiêu của SpaceX là tăng cường khả năng tái sử dụng của Starship"
+      ],
+      "full_summary": "SpaceX đã hoàn thành chuyến bay thứ 13 của Starship một cách đầy hứa hẹn. Dù vậy, công ty vẫn đang tìm cách cải thiện hiệu suất của Starship. Trong chuyến bay tiếp theo, SpaceX sẽ thử bắt Starship trở lại tại trạm phóng, một thử nghiệm mới để tăng cường khả năng tái sử dụng của Starship. Mục tiêu của SpaceX là giảm thiểu chi phí và tăng cường hiệu suất của Starship.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2e099724d526",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-25T18:56:53.443518+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Mô hình AI Opus 5 của Anthropic không phải bước nhảy vọt về khả năng",
+      "bullets": [
+        "Cải thiện nhanh chóng của mô hình AI không phải lúc nào cũng cần thiết",
+        "Các lựa chọn rẻ hơn thường đủ tốt",
+        "Nhiều người dùng không cần các mô hình AI mạnh nhất",
+        "Token hiệu suất là ưu tiên chính của Opus 5"
+      ],
+      "full_summary": "Mô hình AI Opus 5 của Anthropic không phải bước nhảy vọt về khả năng như nhiều người dự đoán. Thay vào đó, nó tập trung vào token hiệu suất, giúp giảm chi phí và tăng hiệu quả. Điều này có nghĩa là các lựa chọn rẻ hơn thường đủ tốt cho nhiều người dùng, và họ không cần phải sử dụng các mô hình AI mạnh nhất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6be903f83449",
+      "title": "Tile's Security Is So Bad It's a Feature for Stalkers",
+      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-25T18:56:55.744973+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tile bị rò rỉ thông tin người dùng vì bảo mật kém",
+      "bullets": [
+        "Ghi nhận Tile rò rỉ thông tin người dùng",
+        "Bảo mật kém khiến Tile dễ bị xâm phạm",
+        "Sự cố này gây lo ngại về quyền riêng tư",
+        "Nhiều người dùng lo ngại về thông tin cá nhân"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã tiết lộ rằng Tile, một công ty sản xuất thiết bị theo dõi, có vấn đề về bảo mật. Điều này khiến thông tin người dùng bị rò rỉ, gây lo ngại về quyền riêng tư. Sự cố này đã thu hút sự chú ý của cộng đồng Hacker News, với nhiều người dùng lo ngại về thông tin cá nhân của họ. Bài viết đã chỉ ra rằng bảo mật kém của Tile khiến cho việc theo dõi người dùng trở nên dễ dàng hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "15d04845b1ae",
+      "title": "The Universe can outrun light without breaking Einstein’s rules",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+      "source": "Science Daily",
+      "icon": "🔭",
+      "fetched_at": "2026-07-25T18:57:01.784959+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Vũ trụ có thể chạy nhanh hơn ánh sáng mà không vi phạm các quy tắc của Einstein",
+      "bullets": [
+        "Hãy biết rằng, sự giãn nở vũ trụ cho phép các thiên hà cách xa di chuyển nhanh hơn ánh sáng.",
+        "Hãy nhớ rằng, chúng ta vẫn có thể nhìn thấy ánh sáng cổ xưa mà các thiên hà phát ra khi chúng còn gần hơn.",
+        "Hãy chờ đợi, sự giãn nở vũ trụ sẽ đẩy hầu hết các thiên hà ra khỏi nhóm địa phương, khiến vũ trụ trông gần như trống rỗng."
+      ],
+      "full_summary": "Sự giãn nở vũ trụ cho phép các thiên hà cách xa di chuyển nhanh hơn ánh sáng mà không vi phạm các quy tắc của Einstein. Điều này có nghĩa là chúng ta vẫn có thể nhìn thấy ánh sáng cổ xưa mà các thiên hà phát ra khi chúng còn gần hơn. Tuy nhiên, sự giãn nở vũ trụ sẽ tiếp tục tăng tốc và cuối cùng đẩy hầu hết các thiên hà ra khỏi nhóm địa phương, khiến vũ trụ trông gần như trống rỗng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "10aed7e09456",
       "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -653,146 +791,6 @@
         "Số người chết có thể lên đến 100, trở thành thảm họa biển lớn nhất trong lịch sử Guyana"
       ],
       "full_summary": "Một chiếc tàu cao tốc của Guyana đã chìm xuống biển, khiến 72 người thiệt mạng. 76 người đã được cứu sống trong số 179 người trên tàu. Đội cứu hộ đang nỗ lực cứu vớt tàu và thu hồi các thi thể. Số người chết có thể lên đến 100, trở thành thảm họa biển lớn nhất trong lịch sử Guyana.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0fb2271a29b1",
-      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-24T19:15:54.232760+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Trạm vệ tinh phục vụ robot tiên tiến nhất thế giới được phát hiện",
-      "bullets": [
-        "Khám phá vệ tinh phục vụ robot tiên tiến nhất thế giới",
-        "Vệ tinh có khả năng sửa chữa và bảo trì các thiết bị trên vũ trụ",
-        "Đây là một trong những công nghệ khó thực hiện nhất",
-        "Vệ tinh có thể mở ra kỷ nguyên mới cho các sứ mệnh vũ trụ"
-      ],
-      "full_summary": "Một trạm vệ tinh phục vụ robot tiên tiến nhất thế giới đã được phát hiện. Vệ tinh này có khả năng sửa chữa và bảo trì các thiết bị trên vũ trụ, giúp mở ra kỷ nguyên mới cho các sứ mệnh vũ trụ. Đây là một trong những công nghệ khó thực hiện nhất, nhưng nó có thể mang lại nhiều lợi ích cho các sứ mệnh vũ trụ trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3aa13dce46cf",
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T13:22:10.414248+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hàng chục ngàn người bị sơ tán khỏi khu du lịch Pháp và gần Madrid do cháy rừng lan rộng",
-      "bullets": [
-        "Các quan chức đã ra lệnh sơ tán toàn bộ bán đảo Cap Ferret",
-        "Cháy rừng đã hoành hành trong khu vực trong nhiều ngày",
-        "Hàng ngàn người đã bị sơ tán khỏi khu vực gần Madrid",
-        "Cháy rừng đang lan rộng và gây ra nhiều thiệt hại"
-      ],
-      "full_summary": "Cháy rừng đang hoành hành ở khu vực Cap Ferret, Pháp và gần Madrid, Tây Ban Nha. Các quan chức đã ra lệnh sơ tán toàn bộ bán đảo Cap Ferret để ngăn chặn cháy rừng lan rộng. Hàng ngàn người đã bị sơ tán khỏi khu vực gần Madrid. Cháy rừng đang gây ra nhiều thiệt hại và nguy hiểm cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fafea0acd914",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T13:22:11.589240+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hoa Kỳ và Iran tiếp tục đánh đổi đòn trong vịnh Ba Tư",
-      "bullets": [
-        "Hoa Kỳ và Iran đã trao đổi thêm các cuộc tấn công trong vịnh Ba Tư.",
-        "Iran lên án kế hoạch của Hoa Kỳ sử dụng tài sản Iran bị phong tỏa để bồi thường cho thiệt hại.",
-        "Fears về sự leo thang đang gia tăng.",
-        "Các quốc gia khác đang theo dõi tình hình."
-      ],
-      "full_summary": "Hoa Kỳ và Iran tiếp tục đánh đổi đòn trong vịnh Ba Tư, khiến lo ngại về sự leo thang gia tăng. Iran lên án kế hoạch của Hoa Kỳ sử dụng tài sản Iran bị phong tỏa để bồi thường cho thiệt hại. Kế hoạch này được đưa ra sau khi Hoa Kỳ cáo buộc Iran đã tấn công các tàu dầu của Mỹ. Fears về sự leo thang đang gia tăng và các quốc gia khác đang theo dõi tình hình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "14aac6165aff",
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T13:22:12.589426+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch Nam Phi thắng kiện tạm dừng điều tra luận tội vì vụ 'Farmgate'",
-      "bullets": [
-        "Tạm dừng điều tra luận tội",
-        "Chủ tịch Ramaphosa bị điều tra vì vụ trộm tiền tại trang trại tư nhân",
-        "Vụ việc diễn ra từ năm 2020",
-        "Chủ tịch Ramaphosa sẽ tiếp tục điều hành đất nước"
-      ],
-      "full_summary": "Chủ tịch Nam Phi, Cyril Ramaphosa, vừa thắng kiện tạm dừng điều tra luận tội vì vụ 'Farmgate'. Vụ việc bắt đầu từ năm 2020 khi có thông tin trộm tiền tại trang trại tư nhân của Ramaphosa. Điều tra này đã gây ra nhiều tranh cãi và ảnh hưởng đến uy tín của Ramaphosa. Tuy nhiên, sau khi thắng kiện, Ramaphosa sẽ tiếp tục điều hành đất nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "63d90e6d2617",
-      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-      "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T13:22:13.548124+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Chủ tịch công ty lớn ở Hàn Quốc phải trả cho vợ cũ 644 triệu USD",
-      "bullets": [
-        "Phải trả cho vợ cũ 644 triệu USD",
-        "Chủ tịch công ty lớn ở Hàn Quốc",
-        "Divorce gây xôn xao trong xã hội",
-        "Tỷ phú Hàn Quốc phải chịu trách nhiệm"
-      ],
-      "full_summary": "Chủ tịch công ty lớn ở Hàn Quốc đã phải trả cho vợ cũ 644 triệu USD trong vụ ly hôn gây xôn xao trong xã hội. Vụ ly hôn này đã gây chú ý lớn ở Hàn Quốc và được coi là vụ ly hôn đắt giá nhất trong lịch sử. Chủ tịch công ty này đã phải chịu trách nhiệm về số tiền lớn này sau khi tòa án quyết định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "81dacdf1da18",
-      "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T13:22:14.465690+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Một giáo sư Tanzania bị bắt vì tham gia biểu tình chống chính phủ",
-      "bullets": [
-        "Bị bắt vì tham gia biểu tình đòi cải cách dân chủ",
-        "Đã bị giam giữ hơn 130 người liên quan đến các cuộc biểu tình",
-        "Giáo sư này bị buộc tội khủng bố",
-        "Các cuộc biểu tình được lên kế hoạch để đòi cải cách dân chủ"
-      ],
-      "full_summary": "Một giáo sư Tanzania đã bị bắt vì tham gia biểu tình chống chính phủ. Ông ta bị buộc tội khủng bố và đã bị giam giữ cùng với hơn 130 người khác liên quan đến các cuộc biểu tình. Các cuộc biểu tình được lên kế hoạch để đòi cải cách dân chủ và các quyền tự do khác. Điều này đã gây ra lo ngại về tình hình chính trị tại Tanzania.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fc04c9771815",
-      "title": "Why Jimothy the raccoon has become a mega meme online",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T13:22:15.595574+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Rắc rối Jimothy - một con cáo trở thành meme online",
-      "bullets": [
-        "Bắt đầu từ video được chia sẻ trên Instagram",
-        "Video gây chú ý và lan truyền nhanh chóng trên mạng xã hội",
-        "Jimothy trở thành biểu tượng của internet và được nhiều người yêu thích",
-        "Meme về Jimothy lan rộng trên các nền tảng khác nhau"
-      ],
-      "full_summary": "Một video về một con cáo tên Jimothy được chia sẻ trên Instagram đã trở thành nguồn gốc của một meme online lớn. Video này được chia sẻ bởi cư dân Seattle Kiana Hall và nhanh chóng lan truyền trên mạng xã hội. Jimothy đã trở thành biểu tượng của internet và được nhiều người yêu thích. Meme về Jimothy đã lan rộng trên các nền tảng khác nhau, bao gồm Twitter, TikTok và Instagram.",
       "comments": 0,
       "score": 0
     }
