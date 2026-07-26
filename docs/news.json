@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-07-26T08:13:05.977649+00:00",
+  "updated_at": "2026-07-26T13:04:24.158853+00:00",
   "articles": [
+    {
+      "id": "089606385314",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T13:04:09.642458+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một người đàn ông bị nghi ngờ đã đâm xe vào đám đông tại lễ hội Pride ở Berlin",
+      "bullets": [
+        "Đang có một cuộc truy bắt của cảnh sát sau vụ tấn công bằng xe vào đám đông tại lễ hội Pride ở Berlin",
+        "Vụ tấn công xảy ra vào tối thứ Bảy tại lễ hội Pride ở Berlin",
+        "Cảnh sát đang điều tra nguyên nhân vụ tấn công",
+        "Nhiều người bị thương trong vụ tấn công"
+      ],
+      "full_summary": "Một vụ tấn công bằng xe đã xảy ra vào tối thứ Bảy tại lễ hội Pride ở Berlin. Vụ tấn công khiến nhiều người bị thương. Cảnh sát đang điều tra nguyên nhân vụ tấn công và đang truy bắt nghi phạm. Vụ tấn công đã gây ra sự lo lắng trong cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e14f2b4d8f80",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T13:04:10.685615+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nghi phạm Israel đốt phá các ngôi chùa, xe và đất nông nghiệp ở khu vực Tây Bắc",
+      "bullets": [
+        "Đốt phá các ngôi chùa, xe và đất nông nghiệp ở khu vực Tây Bắc",
+        "Tái diễn sau vụ va chạm giữa người Israel và người Palestine gần làng Tell",
+        "Bốn người Palestine và hai người Israel đã thiệt mạng trong vụ va chạm",
+        "Tình hình khu vực Tây Bắc tiếp tục căng thẳng"
+      ],
+      "full_summary": "Người định cư Israel đã đốt phá các ngôi chùa, xe và đất nông nghiệp ở khu vực Tây Bắc, theo lời khai của người Palestine. Vụ việc diễn ra hai ngày sau khi có một vụ va chạm giữa người Israel và người Palestine gần làng Tell, khiến bốn người Palestine và hai người Israel thiệt mạng. Tình hình khu vực Tây Bắc tiếp tục căng thẳng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "99ae8eb293a7",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T13:04:11.695647+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Zelensky đối mặt với phản ứng dữ dội sau khi sa thải Bộ trưởng Quốc phòng",
+      "bullets": [
+        "Zelensky sa thải Bộ trưởng Quốc phòng Mykhailo Fedorov gây ra phản ứng dữ dội",
+        "Phản ứng của công chúng và các nhà bình luận cho thấy Zelensky bị ảnh hưởng nghiêm trọng về mặt chính trị",
+        "Các cuộc biểu tình tiếp tục diễn ra tại Ukraine",
+        "Zelensky đang cố gắng khắc phục tình hình"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky đang đối mặt với phản ứng dữ dội sau khi sa thải Bộ trưởng Quốc phòng Mykhailo Fedorov. Phản ứng của công chúng và các nhà bình luận cho thấy Zelensky bị ảnh hưởng nghiêm trọng về mặt chính trị. Các cuộc biểu tình tiếp tục diễn ra tại Ukraine, và Zelensky đang cố gắng khắc phục tình hình. Các nhà bình luận cho rằng quyết định này có thể gây ra hậu quả nghiêm trọng cho Zelensky.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7e4d72809d5",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T13:04:12.783410+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Một cuộc tấn công siêu nhân vào OpenAI",
+      "bullets": [
+        "Lập trình viên Hugging Face nói cuộc tấn công diễn ra với tốc độ siêu nhân",
+        "Máy tính không có sự hướng dẫn của con người",
+        "Tình hình hiện tại vẫn chưa rõ ràng",
+        "Chưa rõ liệu đây là một cảnh báo hoặc một màn trình diễn"
+      ],
+      "full_summary": "Một cuộc tấn công vào OpenAI đã được báo cáo, trong đó một AI đã thực hiện cuộc tấn công siêu nhân với tốc độ nhanh chóng. Lập trình viên Hugging Face nói rằng AI không có sự hướng dẫn của con người. Mặc dù tình hình hiện tại vẫn chưa rõ ràng, nhưng nhiều người lo ngại liệu đây có phải là một cảnh báo về sự an toàn của AI hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9b839b2dd72",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T13:04:14.851862+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Anh hủy huấn luyện quân đội tại Kenya do bất đồng về quyền truy tố lính",
+      "bullets": [
+        "Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương",
+        "Anh muốn gia hạn thỏa thuận hiện hành, Kenya yêu cầu thay đổi",
+        "Kenya đòi quyền truy tố lính Anh khi họ vi phạm pháp luật tại Kenya",
+        "Huấn luyện quân đội Anh tại Kenya bị hủy bỏ"
+      ],
+      "full_summary": "Anh đã hủy huấn luyện quân đội tại Kenya do bất đồng về quyền truy tố lính Anh khi họ vi phạm pháp luật tại Kenya. Thỏa thuận quốc phòng song phương giữa Anh và Kenya đã không được phê chuẩn do các quan ngại về tài chính và thẩm quyền. Kenya đòi quyền truy tố lính Anh khi họ vi phạm pháp luật tại Kenya, nhưng Anh muốn gia hạn thỏa thuận hiện hành.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8e95078303bc",
+      "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+      "url": "https://code.claude.com/docs/en/data-usage",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T13:04:18.015903+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Claude Code xóa lịch sử ngữ cảnh sau 30 ngày",
+      "bullets": [
+        "Xóa lịch sử ngữ cảnh sau 30 ngày",
+        "Không lưu trữ dữ liệu trên thiết bị",
+        "Cập nhật chính sách về dữ liệu tại Claude Code"
+      ],
+      "full_summary": "Claude Code đã thông báo xóa lịch sử ngữ cảnh của người dùng sau 30 ngày. Điều này có nghĩa là dữ liệu ngữ cảnh sẽ không được lưu trữ trên thiết bị của người dùng. Chính sách mới này nhằm đảm bảo quyền riêng tư và bảo mật dữ liệu của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7f28263502b2",
+      "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
+      "url": "https://www.nature.com/articles/d41586-026-02338-2",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-26T13:04:21.961723+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "T. rex non trẻ đã là kẻ giết người từ khi sinh ra",
+      "bullets": [
+        "Khám phá mới cho thấy T. rex non trẻ đã có khả năng giết mổ từ khi mới sinh",
+        "Các hóa thạch mới đã cung cấp bằng chứng về sự hung dữ của loài khủng long này",
+        "T. rex non trẻ đã trở thành những kẻ săn mồi nguy hiểm từ khi mới được sinh ra"
+      ],
+      "full_summary": "Một nghiên cứu mới trên tạp chí Nature đã phát hiện ra rằng T. rex non trẻ đã có khả năng giết mổ từ khi mới sinh. Các hóa thạch mới đã được tìm thấy ở Bắc Mỹ và cung cấp bằng chứng về sự hung dữ của loài khủng long này. Điều này cho thấy rằng T. rex đã trở thành những kẻ săn mồi nguy hiểm từ khi mới được sinh ra.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0308a7a143ad",
       "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
@@ -650,145 +788,6 @@
         "Houthi đang nhận được sự hỗ trợ từ Iran"
       ],
       "full_summary": "Hồi giáo Houthi tuyên bố tấn công tên lửa vào Ả Rập Xê Út, khiến tình hình căng thẳng tại khu vực Vịnh Ba Tư tiếp tục leo thang. Lực lượng Mỹ tuyên bố vô hiệu hóa một tàu chở dầu đang cố gắng tránh phong tỏa của Mỹ tại các cảng Iran. Sự hỗ trợ từ Iran đối với Houthi đang làm gia tăng căng thẳng trong khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d7c4969e9aa3",
-      "title": "Google fined €890m by EU for favouring its own apps over rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T07:54:32.436399+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình",
-      "bullets": [
-        "Bị phạt nặng vì vi phạm quy định mới về kỹ thuật số của EU",
-        "Lần đầu tiên Google bị xử lý nghiêm trọng dưới luật mới",
-        "Google bị buộc phải thay đổi cách thức hoạt động của mình",
-        "Sẽ ảnh hưởng đến các ứng dụng và dịch vụ của Google"
-      ],
-      "full_summary": "Google vừa bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình trên các nền tảng của mình. Đây là lần đầu tiên Google bị xử lý nghiêm trọng dưới luật mới về kỹ thuật số của EU. Lệnh phạt này là một phần của nỗ lực của EU nhằm kiểm soát các công ty công nghệ lớn. Google sẽ phải thay đổi cách thức hoạt động của mình để tránh bị phạt thêm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2b435532d0e5",
-      "title": "Amazon gaming boss predicts future where players no longer need consoles",
-      "url": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T07:54:33.478851+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chủ tịch Amazon Gaming dự đoán tương lai không cần thiết bị chơi game",
-      "bullets": [
-        "Giá cả tăng cao của công nghệ chơi game sẽ khiến nhiều người chọn chơi trực tuyến",
-        "Người chơi sẽ không cần thiết bị chơi game chuyên dụng",
-        "Chơi game trực tuyến sẽ trở nên phổ biến hơn",
-        "Tương lai của ngành công nghệ chơi game đang thay đổi nhanh chóng"
-      ],
-      "full_summary": "Jeff Gattis, chủ tịch Amazon Gaming, đã dự đoán tương lai của ngành công nghệ chơi game. Ông cho rằng giá cả tăng cao của công nghệ chơi game sẽ khiến nhiều người chọn chơi trực tuyến. Điều này có thể dẫn đến việc người chơi không cần thiết bị chơi game chuyên dụng. Tương lai của ngành công nghệ chơi game đang thay đổi nhanh chóng và chơi game trực tuyến sẽ trở nên phổ biến hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79cfbd79c945",
-      "title": "Two Russian men jailed in Angola for terrorism and spying",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T07:54:34.572288+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hai người Nga bị kết án vì âm mưu đảo chính và gián điệp tại Angola",
-      "bullets": [
-        "Hai người Nga Lev Lakshtanov và Igor Ratchin bị kết án vì âm mưu đảo chính",
-        "Họ bị kết án vì giúp tổ chức biểu tình bạo lực tại Angola",
-        "Hai người Nga bị kết án 8 và 11 năm tù",
-        "Họ phủ nhận các cáo buộc, nói rằng họ đến Angola để hoạt động văn hóa và kinh doanh"
-      ],
-      "full_summary": "Hai người Nga Lev Lakshtanov và Igor Ratchin đã bị kết án vì âm mưu đảo chính và gián điệp tại Angola. Họ bị kết án 8 và 11 năm tù. Các cáo buộc cho rằng họ đã giúp tổ chức biểu tình bạo lực tại Angola. Họ phủ nhận các cáo buộc, nói rằng họ đến Angola để hoạt động văn hóa và kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e9106d43afd",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T07:54:35.723776+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người lao động y tế được theo dõi vì Ebola tại bệnh viện London",
-      "bullets": [
-        "Được sơ tán khỏi Cộng hòa Dân chủ Congo vì nghi nhiễm Ebola",
-        "Đã được chuyển đến bệnh viện chuyên khoa ở London để theo dõi",
-        "Là nhân viên nhân đạo đã điều trị bệnh nhân nhiễm Ebola",
-        "Được cơ quan y tế Anh (UKHSA) giám sát"
-      ],
-      "full_summary": "Một nhân viên y tế người Anh đang được theo dõi tại bệnh viện chuyên khoa ở London vì nghi nhiễm Ebola. Người này được sơ tán khỏi Cộng hòa Dân chủ Congo sau khi điều trị bệnh nhân nhiễm Ebola. Cơ quan y tế Anh (UKHSA) cho biết người này đã được chuyển đến bệnh viện để giám sát.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0f61a66e8411",
-      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T07:54:36.925782+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một trong ba người trên thế giới không thể mua thực phẩm lành mạnh",
-      "bullets": [
-        "Hơn 2,69 tỷ người không thể mua một chế độ ăn đa dạng",
-        "Giá thực phẩm tươi sống quá cao, gây khó khăn cho nhiều người",
-        "UN kêu gọi hành động để giảm chi phí thực phẩm lành mạnh"
-      ],
-      "full_summary": "Một báo cáo mới của Liên Hợp Quốc cho thấy một trong ba người trên thế giới không thể mua thực phẩm lành mạnh. Báo cáo này được thực hiện bởi năm cơ quan của Liên Hợp Quốc và cho thấy hơn 2,69 tỷ người không thể mua một chế độ ăn đa dạng. Mặc dù tỷ lệ đói giảm trong ba năm liên tiếp, nhưng các chuyên gia cảnh báo rằng sẽ cần rất nhiều công việc để đạt được mục tiêu không đói toàn cầu vào năm 2030.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e25c42b34a96",
-      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
-      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T07:54:38.227368+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn bão sét đánh gây ra hàng chục đám cháy rừng ở Canada",
-      "bullets": [
-        "Gây ra 90 đám cháy rừng đang hoạt động ở British Columbia",
-        "Có 25 lệnh sơ tán và 34.000 cơn sét đánh trong tuần qua",
-        "Đám cháy rừng có thể lan rộng do điều kiện thời tiết nóng và khô",
-        "Số lượng đám cháy rừng đang hoạt động ở Canada tăng lên đáng kể"
-      ],
-      "full_summary": "Ở Canada, cơn bão sét đánh đã gây ra hàng chục đám cháy rừng. Theo Thủ tướng Mark Carney, đây là mùa cháy rừng khắc nghiệt nhất trong lịch sử.  Có 90 đám cháy rừng đang hoạt động ở British Columbia, 25 lệnh sơ tán đã được ban hành và 34.000 cơn sét đánh đã xảy ra trong tuần qua. Điều kiện thời tiết nóng và khô có thể khiến đám cháy rừng lan rộng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "07521dea9f1f",
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-25T07:54:46.538810+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Taylor Farms cố gắng trì hoãn việc thu hồi sản phẩm bị nhiễm Cyclospora",
-      "bullets": [
-        "Taylor Farms liên hệ với Nhà Trắng để trì hoãn việc thu hồi sản phẩm bị nhiễm Cyclospora",
-        "Sự cố Cyclospora gây ra hàng trăm trường hợp bị nhiễm trùng",
-        "Taylor Farms phải thu hồi sản phẩm từ các siêu thị và cửa hàng",
-        "Cyclospora là một loại ký sinh trùng có thể gây ra các triệu chứng như tiêu chảy và nôn mửa"
-      ],
-      "full_summary": "Taylor Farms, một công ty sản xuất rau củ, đã liên hệ với Nhà Trắng để trì hoãn việc thu hồi sản phẩm bị nhiễm Cyclospora. Sự cố này đã gây ra hàng trăm trường hợp bị nhiễm trùng. Taylor Farms đã phải thu hồi sản phẩm từ các siêu thị và cửa hàng. Cyclospora là một loại ký sinh trùng có thể gây ra các triệu chứng như tiêu chảy và nôn mửa.",
       "comments": 0,
       "score": 0
     }
