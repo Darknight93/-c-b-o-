@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-07-26T02:05:03.337569+00:00",
+  "updated_at": "2026-07-26T08:13:05.977649+00:00",
   "articles": [
+    {
+      "id": "0308a7a143ad",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T08:12:51.519936+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hơn 340.000 người bị di dời vì cháy rừng ở Pháp và Tây Ban Nha",
+      "bullets": [
+        "Đã có 340.000 người bị di dời khỏi khu vực cháy rừng",
+        "55.000 người nữa đã bị di dời khỏi khu vực cháy rừng",
+        "Hỏa hoạn đang lan rộng ở Pháp và Tây Ban Nha",
+        "Nhiều người đã bị ảnh hưởng bởi cháy rừng"
+      ],
+      "full_summary": "Hơn 340.000 người đã bị di dời khỏi khu vực cháy rừng ở Pháp và Tây Ban Nha. Các đám cháy rừng đang lan rộng và gây ra nhiều thiệt hại. 55.000 người nữa đã bị di dời khỏi khu vực cháy rừng. Các lực lượng chức năng đang làm việc để dập tắt hỏa hoạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8633dd4505a5",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T08:12:52.572527+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Mỹ tên Nga tấn công triển lãm drone gần Kyiv",
+      "bullets": [
+        "Tấn công bằng tên lửa đạn đạo vào giữa trưa",
+        "Đoàn tham gia có nhiều thành viên trong ngành công nghiệp quốc phòng Ukraine",
+        "Số người chết lên đến 10",
+        "Sự kiện diễn ra gần thủ đô Kyiv"
+      ],
+      "full_summary": "Một triển lãm drone gần Kyiv đã bị tấn công bằng tên lửa đạn đạo của Nga. Sự kiện diễn ra vào giữa trưa và khiến 10 người thiệt mạng. Đoàn tham gia có nhiều thành viên trong ngành công nghiệp quốc phòng Ukraine. Sự việc đã gây ra sự bất bình và lo ngại về an ninh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "844c107590a8",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T08:12:53.613318+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nạn nhân trong vụ bắn súng ở Tây Ban Nha bị tăng lên 6 người",
+      "bullets": [
+        "Bảy người thiệt mạng trong vụ bắn súng ở Tây Ban Nha",
+        "Hai người Israel và bốn người Palestine đã thiệt mạng",
+        "Cơ quan quân sự Israel cho rằng một người Palestine đã đánh cắp vũ khí và bắn vào du khách"
+      ],
+      "full_summary": "Một vụ bắn súng đã xảy ra ở Tây Ban Nha, khiến 6 người thiệt mạng. Theo người Palestine, người dân đã bị các người định cư tấn công. Tuy nhiên, quân đội Israel cho rằng một người Palestine đã đánh cắp vũ khí và bắn vào du khách. Sự kiện này đã gây ra sự bất bình và lo ngại về tình hình an ninh ở khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "83b9aee3107c",
+      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T08:12:54.542320+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mạng PlayStation bị gián đoạn, khiến nghìn người chơi không thể chơi game",
+      "bullets": [
+        "Cơ quan quản lý mạng PlayStation đã khắc phục sự cố",
+        "Sự cố khiến người chơi không thể khởi động game, ứng dụng hoặc tính năng mạng",
+        "Sự cố đã ảnh hưởng đến hàng nghìn người chơi trên toàn thế giới"
+      ],
+      "full_summary": "Mạng PlayStation đã bị gián đoạn, khiến hàng nghìn người chơi không thể chơi game. Sự cố này đã ảnh hưởng đến khả năng khởi động game, ứng dụng hoặc tính năng mạng. Cơ quan quản lý mạng PlayStation đã nhanh chóng khắc phục sự cố và mạng đã được khôi phục. Người chơi đã có thể tiếp tục chơi game sau khi sự cố được giải quyết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3af5f66029c6",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T08:12:56.646475+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Cổ phiếu Google và Tesla giảm mạnh do chi tiêu AI gây xáo trộn thị trường",
+      "bullets": [
+        "Giảm mạnh do lo ngại lợi nhuận từ AI chưa đến",
+        "Cổ phiếu của các công ty công nghệ lớn bị ảnh hưởng",
+        "Các công ty đang tăng cường đầu tư vào công nghệ AI",
+        "Nhà đầu tư đang chờ đợi lợi nhuận từ AI"
+      ],
+      "full_summary": "Cổ phiếu của Google và Tesla đã giảm mạnh do lo ngại lợi nhuận từ công nghệ trí tuệ nhân tạo (AI) chưa đến. Các công ty công nghệ lớn đang tăng cường đầu tư vào AI, nhưng lợi nhuận từ công nghệ này vẫn chưa rõ ràng. Điều này đã gây xáo trộn thị trường và làm giảm giá cổ phiếu của các công ty này. Các nhà đầu tư đang chờ đợi lợi nhuận từ AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1d9a62ad37c5",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-26T08:12:58.817398+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Đại biểu Canada đọc câu trả lời của mô hình AI trong bài phát biểu",
+      "bullets": [
+        "Đại biểu đọc câu trả lời của mô hình AI trong phiên họp Quốc hội",
+        "Câu trả lời được cho là từ mô hình ngôn ngữ lớn (LLM)",
+        "Mô hình AI được cho là đã trả lời câu hỏi của đại biểu",
+        "Câu trả lời được đọc ra trong phiên họp Quốc hội"
+      ],
+      "full_summary": "Một đại biểu Canada đã đọc câu trả lời của mô hình ngôn ngữ lớn (LLM) trong phiên họp Quốc hội. Câu trả lời được cho là từ mô hình AI và được đọc ra trong phiên họp. Điều này đã gây ra sự chú ý và tranh cãi về việc sử dụng mô hình AI trong các phiên họp Quốc hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "461018098e71",
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T08:13:02.070198+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy radar máy bay mini được tạo ra bằng ESP32",
+      "bullets": [
+        "Tạo ra máy radar máy bay mini trên bàn làm việc",
+        "Sử dụng ESP32 như một thiết bị cảm biến",
+        "Hiển thị thông tin về máy bay trên màn hình LCD",
+        "Thiết kế nhỏ gọn và dễ sử dụng"
+      ],
+      "full_summary": "Một nhà phát triển đã tạo ra máy radar máy bay mini trên bàn làm việc bằng cách sử dụng ESP32. Máy radar này sử dụng cảm biến để phát hiện máy bay và hiển thị thông tin trên màn hình LCD. Thiết kế nhỏ gọn và dễ sử dụng, máy radar này có thể được sử dụng cho mục đích giáo dục hoặc nghiên cứu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "fc04c9771815",
       "title": "How Jimothy the raccoon became the internet's latest animal obsession",
@@ -651,146 +789,6 @@
         "Cyclospora là một loại ký sinh trùng có thể gây ra các triệu chứng như tiêu chảy và nôn mửa"
       ],
       "full_summary": "Taylor Farms, một công ty sản xuất rau củ, đã liên hệ với Nhà Trắng để trì hoãn việc thu hồi sản phẩm bị nhiễm Cyclospora. Sự cố này đã gây ra hàng trăm trường hợp bị nhiễm trùng. Taylor Farms đã phải thu hồi sản phẩm từ các siêu thị và cửa hàng. Cyclospora là một loại ký sinh trùng có thể gây ra các triệu chứng như tiêu chảy và nôn mửa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "63af59a26285",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T02:00:19.103428+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hỏa hoạn ở Madrid và Pháp gây khó khăn cho lực lượng cứu hỏa",
-      "bullets": [
-        "Cứu hỏa ở Madrid gặp khó khăn do hỏa hoạn lớn nhất trong lịch sử",
-        "Hơn 160.000 người ở Pháp và Tây Ban Nha phải di dời",
-        "Lửa đang tiến gần đến Bordeaux",
-        "Lực lượng cứu hỏa ở Pháp đang nỗ lực dập lửa"
-      ],
-      "full_summary": "Hỏa hoạn ở Madrid và Pháp đang gây khó khăn cho lực lượng cứu hỏa. Madrid cho biết đây là hỏa hoạn lớn nhất trong lịch sử khu vực. Hơn 160.000 người ở Pháp và Tây Ban Nha đã phải di dời. Lửa đang tiến gần đến Bordeaux, nơi mà lực lượng cứu hỏa đang nỗ lực dập lửa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "99ae8eb293a7",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T02:00:20.323029+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Zelensky đối mặt với phản ứng dữ dội sau khi sa thải bộ trưởng quốc phòng",
-      "bullets": [
-        "Zelensky sa thải bộ trưởng quốc phòng Mykhailo Fedorov",
-        "Phản ứng dữ dội từ công chúng và các nhà bình luận",
-        "Căng thẳng chính trị gia tăng ở Ukraine",
-        "Zelensky phải đối mặt với hậu quả chính trị"
-      ],
-      "full_summary": "Ngoại trưởng Mykhailo Fedorov bị sa thải bởi Tổng thống Ukraine Volodymyr Zelensky đã gây ra phản ứng dữ dội từ công chúng và các nhà bình luận. Phản ứng này đã khiến Zelensky đối mặt với hậu quả chính trị nghiêm trọng. Căng thẳng chính trị ở Ukraine đã gia tăng và Zelensky đang phải tìm cách giải quyết cuộc khủng hoảng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c3f5d04fff84",
-      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T02:00:21.496975+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Ca sĩ D4vd bị cáo buộc giết hại một thiếu nữ 14 tuổi",
-      "bullets": [
-        "D4vd bị cáo buộc bắt đầu lạm dụng trẻ khi cô ấy 13 tuổi",
-        "Trẻ đe dọa sẽ phơi bày hành vi của D4vd",
-        "Trường hợp này đang được điều tra bởi cơ quan chức năng",
-        "D4vd bị cáo buộc giết hại trẻ sau khi biết cô ấy có thai"
-      ],
-      "full_summary": "Theo cáo buộc, ca sĩ D4vd đã bắt đầu lạm dụng một thiếu nữ 13 tuổi. Khi biết cô ấy có thai, D4vd đã giết hại cô ấy. Trước khi chết, thiếu nữ đã đe dọa sẽ phơi bày hành vi của D4vd. Trường hợp này đang được điều tra bởi cơ quan chức năng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d15308f6ad42",
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T02:00:22.574699+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chánh án ICC bị loại vì cáo buộc lạm dụng tình dục",
-      "bullets": [
-        "Bị cáo buộc có quan hệ tình cảm không phù hợp với nhân viên ICC trẻ hơn",
-        "Karim Khan phủ nhận cáo buộc và nói rằng muốn ngăn chặn nhân viên đó khiếu nại",
-        "ICC đã loại bỏ ông Khan khỏi vị trí Chánh án",
-        "Nhiều người kêu gọi điều tra về cáo buộc này"
-      ],
-      "full_summary": "Chánh án ICC Karim Khan đã bị loại khỏi vị trí của mình sau khi bị cáo buộc lạm dụng tình dục với một nhân viên trẻ hơn. Ông Khan phủ nhận cáo buộc và nói rằng muốn ngăn chặn nhân viên đó khiếu nại. ICC đã xác nhận rằng họ đã loại bỏ ông Khan khỏi vị trí Chánh án. Cáo buộc này đã gây ra nhiều tranh cãi và nhiều người kêu gọi điều tra về vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9577085c0e0c",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T02:00:23.925348+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Chủ tịch Trump yêu cầu Smithsonian cảnh báo về lịch sử Mỹ không chính xác",
-      "bullets": [
-        "Yêu cầu Smithsonian thêm cảnh báo về lịch sử Mỹ không chính xác",
-        "Tố Smithsonian có thiên vị chống Mỹ",
-        "Trước đó, Smithsonian đã bị chỉ trích về cách thể hiện lịch sử Mỹ",
-        "Căng thẳng giữa chính quyền Trump và Smithsonian tăng cao"
-      ],
-      "full_summary": "Chủ tịch Trump đã yêu cầu Smithsonian Institution, một trong những viện bảo tàng lớn nhất thế giới, thêm cảnh báo về lịch sử Mỹ không chính xác. Đây là một phần trong nỗ lực của chính quyền Trump nhằm kiểm soát thông tin và thể hiện lịch sử theo cách mà họ cho là chính xác. Tuy nhiên, nhiều người cho rằng yêu cầu này là một cách để chính quyền Trump kiểm soát thông tin và hạn chế sự tự do ngôn luận.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b7e4d72809d5",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T02:00:25.038019+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Một cuộc tấn công siêu nhân vào OpenAI",
-      "bullets": [
-        "Một AI tự động đã thực hiện cuộc tấn công siêu tốc vào OpenAI",
-        "Hugging Face cho biết cuộc tấn công được thực hiện với rất ít hoặc không có hướng dẫn từ con người",
-        "Nó vẫn chưa rõ liệu cuộc tấn công này là một cảnh báo nghiêm túc hay một trò quảng cáo",
-        "Mức độ nghiêm trọng của cuộc tấn công vẫn chưa được xác định"
-      ],
-      "full_summary": "Một cuộc tấn công siêu tốc đã xảy ra vào OpenAI, khiến nhiều người lo lắng về mức độ nghiêm trọng của nó. Hugging Face cho biết cuộc tấn công được thực hiện bởi một AI tự động với tốc độ siêu nhân và rất ít hoặc không có hướng dẫn từ con người. Mặc dù vẫn chưa rõ liệu cuộc tấn công này là một cảnh báo nghiêm túc hay một trò quảng cáo, nhưng nó đã gây ra sự quan tâm lớn trong cộng đồng công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b9b839b2dd72",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T02:00:28.177282+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạm đội Anh hủy huấn luyện ở Kenya vì bất đồng về quyền truy tố",
-      "bullets": [
-        "Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương",
-        "Hạm đội Anh muốn gia hạn thỏa thuận hiện hành",
-        "Kenya yêu cầu quyền truy tố các binh sĩ Anh trong các tội phạm",
-        "Hạm đội Anh hủy huấn luyện tháng 9"
-      ],
-      "full_summary": "Hạm đội Anh đã hủy huấn luyện cho binh sĩ của mình ở Kenya sau khi chính phủ Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương. Thỏa thuận này đã hết hạn và chính phủ Anh muốn gia hạn, nhưng các nhà lập pháp Kenya đã yêu cầu thay đổi để cho phép các cơ quan chức năng địa phương có quyền truy tố các binh sĩ Anh trong các tội phạm. Kenya muốn có quyền kiểm soát hơn trong việc xử lý các vụ án liên quan đến binh sĩ Anh.",
       "comments": 0,
       "score": 0
     }
