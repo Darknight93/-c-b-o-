@@ -1,6 +1,124 @@
 {
-  "updated_at": "2026-07-26T13:04:24.158853+00:00",
+  "updated_at": "2026-07-26T19:00:55.363538+00:00",
   "articles": [
+    {
+      "id": "d7c4969e9aa3",
+      "title": "Google fined €890m by EU for favouring its own apps over rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T19:00:42.112684+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình",
+      "bullets": [
+        "Bị phạt nặng vì vi phạm quy định mới của EU về kỹ thuật số",
+        "Là hành động trừng phạt lớn đầu tiên đối với Google",
+        "Google bị buộc phải thay đổi cách thức hoạt động của mình",
+        "Phạt nặng để bảo vệ các ứng dụng của đối thủ"
+      ],
+      "full_summary": "Google vừa bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình trên các nền tảng của mình. Đây là hành động trừng phạt lớn đầu tiên đối với công ty này sau khi EU áp dụng quy định mới về kỹ thuật số. Google sẽ phải thay đổi cách thức hoạt động của mình để bảo vệ các ứng dụng của đối thủ. Hành động này nhằm bảo vệ sự cạnh tranh và công bằng trong thị trường kỹ thuật số.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2b435532d0e5",
+      "title": "Amazon gaming boss predicts future where players no longer need consoles",
+      "url": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T19:00:43.138570+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chủ tịch Amazon dự đoán tương lai chơi game không cần máy console",
+      "bullets": [
+        "Giá sản phẩm công nghệ chơi game tăng cao",
+        "Sẽ có nhiều người chơi game trực tuyến",
+        "Cập nhật game qua internet thay vì mua máy mới",
+        "Tương lai chơi game sẽ thay đổi"
+      ],
+      "full_summary": "Jeff Gattis, người đứng đầu bộ phận game của Amazon, dự đoán rằng trong tương lai, người chơi sẽ không cần đến các máy console để chơi game. Ông cho rằng giá sản phẩm công nghệ chơi game đang tăng cao, khiến nhiều người chuyển sang chơi game trực tuyến. Điều này sẽ giúp người chơi cập nhật game qua internet thay vì mua máy mới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "79cfbd79c945",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T19:00:44.299116+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hai người Nga bị kết án vì âm mưu đảo chính và gián điệp tại Angola",
+      "bullets": [
+        "Bị kết án 8 và 11 năm tù vì âm mưu đảo chính và tổ chức biểu tình bạo lực",
+        "Hai người Nga bị cáo buộc giúp tổ chức biểu tình bạo lực tại Angola năm ngoái",
+        "Lakshtanov và Ratchin phủ nhận tội danh, nói họ đến Angola cho hoạt động văn hóa và kinh doanh",
+        "Hai người Nga bị kết án sau khi bị tòa án Angola kết tội gián điệp và khủng bố"
+      ],
+      "full_summary": "Hai người Nga, Lev Lakshtanov và Igor Ratchin, bị kết án 8 và 11 năm tù vì âm mưu đảo chính và tổ chức biểu tình bạo lực tại Angola. Họ bị cáo buộc giúp tổ chức biểu tình bạo lực tại Angola năm ngoái. Hai người Nga phủ nhận tội danh, nói họ đến Angola cho hoạt động văn hóa và kinh doanh. Họ đã bị kết án sau khi bị tòa án Angola kết tội gián điệp và khủng bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5e9106d43afd",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T19:00:45.255251+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người nhân đạo bị giám sát vì nghi nhiễm Ebola sau làm việc tại DRC",
+      "bullets": [
+        "Được sơ tán khỏi Cộng hòa Dân chủ Congo",
+        "Bị nghi nhiễm virus Ebola",
+        "Được giám sát tại bệnh viện chuyên khoa ở London",
+        "Đã được sơ tán từ Cộng hòa Dân chủ Congo"
+      ],
+      "full_summary": "Một nhân viên y tế người Anh đang được giám sát tại bệnh viện chuyên khoa ở London vì nghi nhiễm virus Ebola. Người này đã được sơ tán khỏi Cộng hòa Dân chủ Congo sau khi làm việc tại khu vực có dịch bệnh. Cơ quan An ninh Y tế Anh (UKHSA) cho biết người này đã được sơ tán vì có nguy cơ tiếp xúc với virus Ebola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0f61a66e8411",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T19:00:46.396230+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một trong ba người trên thế giới không thể mua được chế độ ăn uống lành mạnh.",
+      "bullets": [
+        "Hơn 2,69 tỷ người không thể mua được chế độ ăn uống đa dạng đáp ứng nhu cầu năng lượng và chất dinh dưỡng.",
+        "Số lượng người đói toàn cầu giảm trong ba năm liên tiếp nhưng vẫn còn nhiều người không thể mua được thực phẩm lành mạnh.",
+        "Báo cáo của Liên Hợp Quốc kêu gọi hành động để giảm chi phí của trái cây, rau củ và sữa."
+      ],
+      "full_summary": "Một báo cáo mới của Liên Hợp Quốc cho thấy một trong ba người trên thế giới không thể mua được chế độ ăn uống lành mạnh. Số lượng người đói toàn cầu giảm trong ba năm liên tiếp nhưng vẫn còn 2,69 tỷ người không thể mua được thực phẩm lành mạnh. Báo cáo này kêu gọi hành động để giảm chi phí của trái cây, rau củ và sữa để đạt được mục tiêu không có đói toàn cầu vào năm 2030.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6fd79fa3bd5d",
+      "title": "Calling all open source maintainers working with Ruby",
+      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T19:00:51.385282+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Các nhà phát triển Ruby đang kêu gọi sự giúp đỡ",
+      "bullets": [
+        "Họ đang tìm kiếm các nhà phát triển Ruby để giúp bảo trì các dự án mã nguồn mở",
+        "Mục tiêu là nâng cao chất lượng và bảo mật của các dự án này",
+        "Các nhà phát triển được yêu cầu tham gia vào cuộc thảo luận trên Rubyforum"
+      ],
+      "full_summary": "Các nhà phát triển Ruby đang kêu gọi sự giúp đỡ để bảo trì các dự án mã nguồn mở. Họ đang tìm kiếm các nhà phát triển có kinh nghiệm để giúp nâng cao chất lượng và bảo mật của các dự án này. Mục tiêu là tạo ra các dự án mã nguồn mở tốt hơn và an toàn hơn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "089606385314",
       "title": "What we know so far about the Berlin Pride ramming attack",
@@ -670,124 +788,6 @@
         "Tăng cường tương tác giữa bảo tàng và du khách thông qua mạng xã hội"
       ],
       "full_summary": "Các bảo tàng nghệ thuật đang sử dụng dữ liệu để tái định hình trải nghiệm du khách. Họ sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn và tạo ra trải nghiệm du khách cá nhân hóa thông qua công nghệ. Điều này giúp tăng cường tương tác giữa bảo tàng và du khách, đồng thời tạo ra một môi trường học hỏi và khám phá thú vị hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f65c06ddbd39",
-      "title": "Big Tech accused of stonewalling European social media researchers",
-      "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-25T13:08:13.190016+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Các công ty công nghệ lớn bị cáo buộc chần chừ cung cấp dữ liệu cho các nhà nghiên cứu châu Âu",
-      "bullets": [
-        "TikTok, X và Meta bị cáo buộc không cung cấp dữ liệu như quy định",
-        "Các nhà nghiên cứu cho rằng điều này vi phạm luật pháp châu Âu",
-        "Dữ liệu được yêu cầu để nghiên cứu về các nền tảng xã hội",
-        "Các công ty công nghệ lớn bị chỉ trích vì hành động này"
-      ],
-      "full_summary": "Các nhà nghiên cứu châu Âu cáo buộc các công ty công nghệ lớn như TikTok, X và Meta không cung cấp dữ liệu như quy định. Điều này vi phạm luật pháp châu Âu và cản trở nghiên cứu về các nền tảng xã hội. Các công ty công nghệ lớn bị chỉ trích vì hành động này và các nhà nghiên cứu kêu gọi họ phải cung cấp dữ liệu một cách minh bạch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f8a25251071",
-      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-25T13:08:14.192178+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Nổ hoả đe dọa mạng lưới không gian NASA tại Tây Ban Nha",
-      "bullets": [
-        "Đã có lệnh sơ tán nhân viên khỏi mạng lưới không gian NASA",
-        "Hoả hoạn đang đe dọa mạng lưới quan trọng này",
-        "NASA sẽ đánh giá thiệt hại khi an toàn cho phép"
-      ],
-      "full_summary": "Một đám cháy hoành hành gần mạng lưới không gian NASA ở Tây Ban Nha, khiến cơ quan này phải sơ tán nhân viên khỏi khu vực. Mạng lưới này đóng vai trò quan trọng trong việc tiếp nhận tín hiệu từ các tàu vũ trụ. NASA sẽ đánh giá thiệt hại khi an toàn cho phép.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2486f42b39f6",
-      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-25T13:08:15.171703+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Hợp nhất Paramount và Warner Bros bị hoãn do vụ kiện của các bang",
-      "bullets": [
-        "Các bang kiện Paramount và Warner Bros vì vi phạm luật cạnh tranh",
-        "Hợp nhất bị hoãn cho đến khi vụ kiện được xét xử",
-        "NY AG tuyên bố đây là một chiến thắng quan trọng",
-        "Hợp nhất sẽ được xem xét lại sau khi vụ kiện được xét xử"
-      ],
-      "full_summary": "Hợp nhất giữa Paramount và Warner Bros đã bị hoãn do vụ kiện của các bang. Các bang cáo buộc Paramount và Warner Bros vi phạm luật cạnh tranh. NY AG tuyên bố đây là một chiến thắng quan trọng. Hợp nhất sẽ được xem xét lại sau khi vụ kiện được xét xử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b5328373abc1",
-      "title": "ARC-AGI Leaderboard",
-      "url": "https://arcprize.org/leaderboard",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-25T13:08:21.334308+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Đội dẫn đầu trong cuộc đua trí tuệ nhân tạo ARC-AGI được công bố",
-      "bullets": [
-        "Đội dẫn đầu được công bố trên bảng xếp hạng ARC-AGI Leaderboard",
-        "Bảng xếp hạng được cập nhật thường xuyên để phản ánh tiến bộ trong lĩnh vực trí tuệ nhân tạo",
-        "Đội dẫn đầu được đánh giá dựa trên khả năng của họ trong các thử nghiệm trí tuệ nhân tạo"
-      ],
-      "full_summary": "Bảng xếp hạng ARC-AGI Leaderboard được công bố để đánh giá tiến bộ trong lĩnh vực trí tuệ nhân tạo. Bảng xếp hạng này được cập nhật thường xuyên để phản ánh khả năng của các đội tham gia. Đội dẫn đầu được đánh giá dựa trên khả năng của họ trong các thử nghiệm trí tuệ nhân tạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e61b57c74af",
-      "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-      "url": "https://www.nature.com/articles/d41586-026-02267-0",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-25T13:08:25.109767+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Giải phẫu bệnh lý nghiêm trọng bằng liệu pháp gene cá nhân",
-      "bullets": [
-        "Giảm thiểu cơn co giật nghiêm trọng ở hai cháu bé",
-        "Báo cáo nghiên cứu trên tạp chí Nature",
-        "Một trong hai cháu bé có thể đi lại độc lập lần đầu tiên",
-        "Liệu pháp gene cá nhân có thể giúp điều trị bệnh lý nghiêm trọng"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã phát triển liệu pháp gene cá nhân để điều trị bệnh lý nghiêm trọng ở hai cháu bé bị co giật nghiêm trọng. Liệu pháp này đã giúp giảm thiểu cơn co giật nghiêm trọng và cho phép một trong hai cháu bé đi lại độc lập lần đầu tiên. Nghiên cứu này được công bố trên tạp chí Nature và có thể mở ra hướng mới trong điều trị bệnh lý nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "743eae2909a9",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T07:54:31.370990+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hồi giáo Houthi tuyên bố tấn công tên lửa vào Ả Rập Xê Út",
-      "bullets": [
-        "Hồi giáo Houthi tuyên bố tấn công tên lửa vào Ả Rập Xê Út",
-        "Lực lượng Mỹ tuyên bố vô hiệu hóa một tàu chở dầu đang cố gắng tránh phong tỏa của Mỹ tại các cảng Iran",
-        "Tình hình căng thẳng tại khu vực Vịnh Ba Tư tiếp tục leo thang",
-        "Houthi đang nhận được sự hỗ trợ từ Iran"
-      ],
-      "full_summary": "Hồi giáo Houthi tuyên bố tấn công tên lửa vào Ả Rập Xê Út, khiến tình hình căng thẳng tại khu vực Vịnh Ba Tư tiếp tục leo thang. Lực lượng Mỹ tuyên bố vô hiệu hóa một tàu chở dầu đang cố gắng tránh phong tỏa của Mỹ tại các cảng Iran. Sự hỗ trợ từ Iran đối với Houthi đang làm gia tăng căng thẳng trong khu vực.",
       "comments": 0,
       "score": 0
     }
