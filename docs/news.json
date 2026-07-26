@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-25T18:57:04.758440+00:00",
+  "updated_at": "2026-07-26T02:05:03.337569+00:00",
   "articles": [
+    {
+      "id": "fc04c9771815",
+      "title": "How Jimothy the raccoon became the internet's latest animal obsession",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-26T02:04:46.723251+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Con gặm nhấm Jimothy trở thành tâm điểm chú ý trên internet",
+      "bullets": [
+        "Bắt đầu từ video được chia sẻ trên Instagram bởi cư dân Seattle Kiana Hall",
+        "Video đó nhanh chóng trở thành viral và thu hút sự chú ý của cộng đồng",
+        "Jimothy trở thành biểu tượng mới của internet với nhiều người hâm mộ",
+        "Video về con gặm nhấm này đã được chia sẻ rộng rãi trên các nền tảng mạng xã hội"
+      ],
+      "full_summary": "Video về con gặm nhấm Jimothy được chia sẻ trên Instagram đã trở thành tâm điểm chú ý trên internet. Video đó được chia sẻ bởi cư dân Seattle Kiana Hall và nhanh chóng trở thành viral. Jimothy trở thành biểu tượng mới của internet với nhiều người hâm mộ. Video về con gặm nhấm này đã được chia sẻ rộng rãi trên các nền tảng mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bd8c5d6ccc06",
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-26T02:04:47.972453+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Được nhìn thấy lần đầu tiên: Trailer Blade Runner 2099 tại SDCC",
+      "bullets": [
+        "Bí ẩn về tương lai của Blade Runner đã được tiết lộ",
+        "Trailer mới cho bộ phim kinh điển được công chiếu tại SDCC",
+        "Cảnh phim cho thấy một thế giới hậu tận thế đầy bí ẩn",
+        "Được mong chờ từ lâu, bộ phim đang gây tò mò cho khán giả"
+      ],
+      "full_summary": "Trailer mới của Blade Runner 2099 đã được công chiếu tại SDCC, cho thấy một thế giới hậu tận thế đầy bí ẩn. Bộ phim kinh điển đang gây tò mò cho khán giả và được mong chờ từ lâu. Trailer mới cho thấy cảnh phim đầy màu sắc và đầy bí ẩn, khiến khán giả càng thêm tò mò.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8456f3ce5c8c",
+      "title": "Possible invasive species superspreader event near Strait of Hormuz",
+      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T02:04:49.027158+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghi ngờ sự kiện lan truyền loài ngoại lai gần eo biển Hormuz",
+      "bullets": [
+        "Các nhà khoa học cảnh báo về sự kiện lan truyền loài ngoại lai",
+        "Sự kiện này có thể gây ra hậu quả nghiêm trọng cho hệ sinh thái",
+        "Nguồn gốc của loài ngoại lai vẫn chưa được xác định",
+        "Các nhà khoa học đang nghiên cứu để hiểu rõ hơn về tình hình"
+      ],
+      "full_summary": "Các nhà khoa học đã cảnh báo về sự kiện lan truyền loài ngoại lai gần eo biển Hormuz. Sự kiện này có thể gây ra hậu quả nghiêm trọng cho hệ sinh thái và gây ra những tác động tiêu cực đến môi trường. Nguồn gốc của loài ngoại lai vẫn chưa được xác định, nhưng các nhà khoa học đang nghiên cứu để hiểu rõ hơn về tình hình. Sự kiện này đã thu hút sự chú ý của cộng đồng khoa học và đang được theo dõi chặt chẽ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "485da066e08e",
+      "title": "Systems and Delays",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T02:04:50.153806+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Máy tính gặp sự cố, gây chậm trễ nghiêm trọng",
+      "bullets": [
+        "Máy tính gặp sự cố",
+        "Gây chậm trễ cho nhiều người dùng",
+        "Cần phải sửa chữa ngay lập tức",
+        "..."
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã báo cáo về các vấn đề về hệ thống và chậm trễ. Bài viết cho biết các hệ thống đã gặp sự cố, gây ra chậm trễ nghiêm trọng cho nhiều người dùng. Điều này đã gây ra sự bất tiện cho nhiều người và cần phải được sửa chữa ngay lập tức. Người dùng đang chờ đợi giải pháp để giải quyết vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d1dfd82a3d8b",
+      "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
+      "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T02:04:51.478410+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hệ thống GNU Hurd được nâng cấp với nhiều tính năng mới",
+      "bullets": [
+        "Cập nhật hệ thống tệp 9pfs",
+        "Thêm OpenNTPD để đồng bộ thời gian",
+        "Tạo danh sách thiết bị /dev động",
+        "Cập nhật các tính năng khác"
+      ],
+      "full_summary": "Hệ thống GNU Hurd đã được nâng cấp với nhiều tính năng mới, bao gồm hệ thống tệp 9pfs, OpenNTPD và tạo danh sách thiết bị /dev động. Những cập nhật này sẽ giúp hệ thống trở nên ổn định và hiệu quả hơn. Những người phát triển của hệ thống tin rằng những thay đổi này sẽ mang lại trải nghiệm tốt hơn cho người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7d2d21f0d729",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T02:04:52.619189+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "DeepSeek tạm dừng gây vốn sau bình luận về kẽ hở tính toán so với Mỹ",
+      "bullets": [
+        "DeepSeek tạm dừng gây vốn sau bình luận về kẽ hở tính toán so với Mỹ",
+        "Bình luận của DeepSeek về kẽ hở tính toán so với Mỹ đã bị rò rỉ",
+        "DeepSeek đang cố gắng thu hút vốn để phát triển công nghệ",
+        "Bình luận của DeepSeek đã gây ra sự quan ngại về khả năng cạnh tranh của công nghệ Việt Nam"
+      ],
+      "full_summary": "DeepSeek, một công ty công nghệ Việt Nam, đã tạm dừng gây vốn sau khi bình luận về kẽ hở tính toán so với Mỹ được rò rỉ. Bình luận này đã gây ra sự quan ngại về khả năng cạnh tranh của công nghệ Việt Nam. DeepSeek đang cố gắng thu hút vốn để phát triển công nghệ và giảm kẽ hở tính toán so với Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c13d67073208",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-26T02:04:54.354115+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Cloudflare giới thiệu các tùy chọn AI mới cho khách hàng",
+      "bullets": [
+        "Cung cấp các giải pháp AI để tối ưu hóa lưu lượng truy cập",
+        "Tăng cường khả năng bảo vệ và kiểm soát lưu lượng truy cập",
+        "Cho phép khách hàng tự động hóa các quy trình và cải thiện hiệu suất"
+      ],
+      "full_summary": "Cloudflare vừa công bố các tùy chọn AI mới cho khách hàng. Các giải pháp này sẽ giúp tối ưu hóa lưu lượng truy cập, tăng cường khả năng bảo vệ và kiểm soát lưu lượng truy cập. Cloudflare cho biết các tùy chọn này sẽ cho phép khách hàng tự động hóa các quy trình và cải thiện hiệu suất.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "35d1c0665acb",
+      "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+      "url": "https://www.nature.com/articles/s41586-026-10911-y",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-26T02:04:56.652610+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Nghiên cứu mới về hệ thống phòng thủ của não",
+      "bullets": [
+        "Khám phá hệ thống mã hóa mối đe dọa trong não giúp cơ thể phản ứng lại",
+        "Hệ thống này được tìm thấy trong vùng não gọi là vùng septum",
+        "Nghiên cứu này có thể giúp hiểu rõ hơn về phản ứng tự vệ của cơ thể"
+      ],
+      "full_summary": "Một nhóm nghiên cứu mới đã phát hiện ra rằng hệ thống mã hóa mối đe dọa trong não giúp cơ thể phản ứng lại. Hệ thống này được tìm thấy trong vùng não gọi là vùng septum. Nghiên cứu này có thể giúp hiểu rõ hơn về phản ứng tự vệ của cơ thể và cách nó được điều khiển.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c82f451a385e",
+      "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
+      "url": "https://www.nature.com/articles/d41586-026-02275-0",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-07-26T02:04:59.731360+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Odyssey tiết lộ cách người Hy Lạp cổ đại hiểu thế giới",
+      "bullets": [
+        "Giải thích về các hiện tượng thiên nhiên",
+        "Khám phá về khoa học thực vật",
+        "Đánh giá về tâm lý học trong thời đại đồ đồng",
+        "Khám phá về các hiện tượng thiên văn"
+      ],
+      "full_summary": "Từ con tàu thông minh đến các dấu hiệu về nhật thực, The Odyssey của Homer đã tiết lộ cách người Hy Lạp cổ đại hiểu thế giới. Các nhà nghiên cứu đã tìm thấy các bằng chứng về kiến thức khoa học của người Hy Lạp cổ đại trong tác phẩm này. Họ đã khám phá về các hiện tượng thiên nhiên, khoa học thực vật và tâm lý học trong thời đại đồ đồng. Các phát hiện này đã mở ra một cái nhìn mới về cách người Hy Lạp cổ đại đã hiểu và giải thích thế giới xung quanh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "96300ea9ab0f",
       "title": "More than 250,000 flee wildfires in France and Spain",
@@ -613,184 +791,6 @@
         "Hạm đội Anh hủy huấn luyện tháng 9"
       ],
       "full_summary": "Hạm đội Anh đã hủy huấn luyện cho binh sĩ của mình ở Kenya sau khi chính phủ Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương. Thỏa thuận này đã hết hạn và chính phủ Anh muốn gia hạn, nhưng các nhà lập pháp Kenya đã yêu cầu thay đổi để cho phép các cơ quan chức năng địa phương có quyền truy tố các binh sĩ Anh trong các tội phạm. Kenya muốn có quyền kiểm soát hơn trong việc xử lý các vụ án liên quan đến binh sĩ Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1d9a62ad37c5",
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-25T02:00:32.558691+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chuyên viên Canada đọc câu trả lời của mô hình ngôn ngữ lớn",
-      "bullets": [
-        "Đọc câu trả lời của mô hình ngôn ngữ lớn trong bài phát biểu trên sàn",
-        "Câu trả lời được cho là từ mô hình ngôn ngữ lớn",
-        "Cáo buộc về việc sử dụng mô hình ngôn ngữ lớn trong lập pháp"
-      ],
-      "full_summary": "Một chuyên viên Canada đã đọc một câu trả lời của mô hình ngôn ngữ lớn trong bài phát biểu trên sàn. Câu trả lời được cho là từ mô hình ngôn ngữ lớn. Điều này đã gây ra sự tranh cãi về việc sử dụng mô hình ngôn ngữ lớn trong lập pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8633dd4505a5",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:38.480822+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Hàng chục người bị giết trong tấn công của Nga tại triển lãm drone gần Kiev",
-      "bullets": [
-        "Nga đã tấn công triển lãm drone bằng tên lửa hành trình",
-        "Sự kiện diễn ra vào giữa trưa khi có nhiều thành viên quan trọng của ngành công nghiệp quốc phòng Ukraine tham dự",
-        "Tổng cộng 10 người đã thiệt mạng trong vụ tấn công",
-        "Nhiều người bị thương và bị mắc kẹt trong vụ tấn công"
-      ],
-      "full_summary": "Một sự kiện triển lãm drone gần Kiev đã bị tấn công bởi Nga vào giữa trưa. Sự kiện này có sự tham dự của nhiều thành viên quan trọng của ngành công nghiệp quốc phòng Ukraine. Tổng cộng 10 người đã thiệt mạng và nhiều người bị thương trong vụ tấn công. Vụ tấn công này đã gây ra sự lo lắng và quan ngại về tình hình an ninh tại Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23bb56a2af88",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:39.656949+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Trump hứ hẹn điều tra EU vì phạt các công ty công nghệ Mỹ",
-      "bullets": [
-        "Trump tuyên bố phạt Google, Apple, Meta và Amazon của EU nên bị đảo ngược hoàn toàn",
-        "Các công ty công nghệ Mỹ bị phạt vì vi phạm luật cạnh tranh của EU",
-        "Trump cho rằng các quyết định của EU là không công bằng",
-        "Ngoại trưởng Mỹ sẽ điều tra các quyết định của EU về phạt các công ty công nghệ"
-      ],
-      "full_summary": "Chủ tịch Mỹ Trump tuyên bố sẽ điều tra Liên minh châu Âu (EU) vì phạt các công ty công nghệ Mỹ, bao gồm Google, Apple, Meta và Amazon. Ông cho rằng các quyết định của EU là không công bằng và phạt các công ty này quá nặng nề. Ngoại trưởng Mỹ sẽ điều tra các quyết định của EU về phạt các công ty công nghệ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "844c107590a8",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:40.749873+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nhiều người chết trong vụ bắn súng tại khu vực Tây Bắc",
-      "bullets": [
-        "Bốn người Palestine và hai người Israel bị giết trong vụ bắn súng",
-        "Người dân Palestine cho rằng họ bị tấn công bởi các định cư",
-        "Lực lượng quân đội Israel cho rằng một người Palestine đã lấy vũ khí và bắn vào các du khách",
-        "Vụ việc đang gây tranh cãi và bất ổn tại khu vực"
-      ],
-      "full_summary": "Vào ngày hôm qua, một vụ bắn súng đã xảy ra tại khu vực Tây Bắc, khiến bốn người Palestine và hai người Israel thiệt mạng. Người dân Palestine cho rằng họ bị tấn công bởi các định cư, trong khi lực lượng quân đội Israel cho rằng một người Palestine đã lấy vũ khí và bắn vào các du khách. Vụ việc đang gây tranh cãi và bất ổn tại khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "794df1075abb",
-      "title": "Nigeria's president approves largest military expansion in recent times",
-      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:41.842171+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nigeria tăng cường quân đội để đối phó với các nhóm vũ trang",
-      "bullets": [
-        "Ngoại trưởng Nigeria đã phê duyệt một kế hoạch mở rộng quân đội lớn nhất trong thời gian gần đây",
-        "Mục tiêu là tăng cường khả năng chống lại các nhóm vũ trang tấn công thường xuyên",
-        "Các nhóm vũ trang đã gây ra nhiều vụ tấn công vào dân thường",
-        "Chính phủ đang chịu áp lực lớn để giải quyết vấn đề này"
-      ],
-      "full_summary": "Ngoại trưởng Nigeria đã phê duyệt một kế hoạch mở rộng quân đội lớn nhất trong thời gian gần đây để đối phó với các nhóm vũ trang tấn công thường xuyên. Mục tiêu là tăng cường khả năng chống lại các nhóm vũ trang và bảo vệ dân thường. Các nhóm vũ trang đã gây ra nhiều vụ tấn công vào dân thường, gây ra sự lo lắng lớn cho chính phủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "83b9aee3107c",
-      "title": "PlayStation Network down, leaving thousands of gamers unable to play",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:43.907198+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mạng lưới PlayStation bị gián đoạn, khiến hàng nghìn game thủ không thể chơi",
-      "bullets": [
-        "Sony đang cố gắng giải quyết vấn đề này càng sớm càng tốt",
-        "Nhiều người dùng PlayStation không thể truy cập vào mạng lưới",
-        "Sony chưa công bố nguyên nhân gây ra sự cố"
-      ],
-      "full_summary": "Mạng lưới PlayStation đã bị gián đoạn, khiến hàng nghìn game thủ không thể chơi. Sony đã thông báo rằng họ đang cố gắng giải quyết vấn đề này càng sớm càng tốt. Tuy nhiên, họ chưa công bố nguyên nhân gây ra sự cố. Người dùng PlayStation đang chờ đợi thông báo từ Sony về thời gian giải quyết vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3af5f66029c6",
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:44.991709+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Giá cổ phiếu Google và Tesla giảm mạnh do chi tiêu cho AI",
-      "bullets": [
-        "Giảm giá cổ phiếu Google và Tesla sau khi chi tiêu cho AI tăng mạnh",
-        "Các công ty công nghệ lớn đang cạnh tranh để nắm bắt công nghệ AI mới",
-        "Nhà đầu tư đang chờ đợi lợi ích tài chính từ công nghệ AI",
-        "Cơn bão thị trường đang làm xáo trộn các thị trường tài chính"
-      ],
-      "full_summary": "Giá cổ phiếu của Google và Tesla đã giảm mạnh sau khi chi tiêu cho công nghệ trí tuệ nhân tạo (AI) tăng mạnh. Các công ty công nghệ lớn đang cạnh tranh để nắm bắt công nghệ AI mới, nhưng nhà đầu tư đang chờ đợi lợi ích tài chính từ công nghệ này. Cơn bão thị trường đang làm xáo trộn các thị trường tài chính, khiến nhiều người lo lắng về tương lai của các công ty công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "38e99fb70921",
-      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:46.024916+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Elon Musk nói 'Hãy tận hưởng chuyến đi' trong bối cảnh lo ngại về trí tuệ nhân tạo",
-      "bullets": [
-        "Elon Musk nói ông không quan tâm đến việc người ta ghét ông",
-        "Ông phủ nhận là một người phân biệt chủng tộc",
-        "Musk cho biết ông không lo ngại về trí tuệ nhân tạo",
-        "Ông nói 'Hãy tận hưởng chuyến đi'"
-      ],
-      "full_summary": "Elon Musk đã nói với The Economist rằng ông không quan tâm đến việc người ta ghét ông. Ông cũng phủ nhận là một người phân biệt chủng tộc. Trong bối cảnh lo ngại về trí tuệ nhân tạo, Musk cho biết ông không lo ngại về vấn đề này. Thay vào đó, ông khuyên mọi người 'Hãy tận hưởng chuyến đi'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1755a01dc3ec",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-24T19:15:50.091142+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Cơn bão ở Guyana: 72 người chết trong vụ chìm tàu cao tốc",
-      "bullets": [
-        "Xác nhận 72 người chết trong vụ chìm tàu cao tốc",
-        "Cứu được 76 người trong số 179 người trên tàu",
-        "Đội cứu hộ đang cố gắng cứu vớt tàu và thu hồi các thi thể",
-        "Số người chết có thể lên đến 100, trở thành thảm họa biển lớn nhất trong lịch sử Guyana"
-      ],
-      "full_summary": "Một chiếc tàu cao tốc của Guyana đã chìm xuống biển, khiến 72 người thiệt mạng. 76 người đã được cứu sống trong số 179 người trên tàu. Đội cứu hộ đang nỗ lực cứu vớt tàu và thu hồi các thi thể. Số người chết có thể lên đến 100, trở thành thảm họa biển lớn nhất trong lịch sử Guyana.",
       "comments": 0,
       "score": 0
     }
