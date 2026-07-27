@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-07-27T02:12:18.139647+00:00",
+  "updated_at": "2026-07-27T09:37:02.361848+00:00",
   "articles": [
+    {
+      "id": "4db8f168b4a7",
+      "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T09:36:47.508337+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một vụ bắn súng tại lễ hội ẩm thực gần Seattle khiến 3 người chết và nhiều bị thương.",
+      "bullets": [
+        "Có một nghi phạm bị bắt giữ.",
+        "3 người đã chết và nhiều người bị thương.",
+        "Một cháu bé 2 tuổi cũng bị thương.",
+        "Thị trưởng Seattle Katie Wilson xác nhận nghi phạm đang trong sự quản lý."
+      ],
+      "full_summary": "Một vụ bắn súng bất ngờ xảy ra tại lễ hội ẩm thực gần Seattle's Space Needle, khiến 3 người chết và nhiều người bị thương. Một cháu bé 2 tuổi cũng bị thương trong vụ việc. Thị trưởng Seattle Katie Wilson đã xác nhận một nghi phạm đang trong sự quản lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69485e5ec0ed",
+      "title": "Millions see leaked copy of The Odyssey movie on X",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T09:36:48.413153+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Universal xóa bản sao bootleg chất lượng cao của phim Odyssey trên X",
+      "bullets": [
+        "X phát hành bản sao bootleg chất lượng cao của phim Odyssey",
+        "Universal xóa bản sao bootleg khỏi X",
+        "Phim Odyssey được sản xuất bởi Universal",
+        "Bản sao bootleg được chia sẻ trên nền tảng X"
+      ],
+      "full_summary": "Một bản sao bootleg chất lượng cao của phim Odyssey đã xuất hiện trên nền tảng X. Universal đã nhanh chóng xóa bản sao bootleg khỏi nền tảng này. Bản sao bootleg này đã được nhiều người xem trước khi được xóa. Việc này cho thấy sự bất an của các studio phim về việc chia sẻ nội dung không hợp pháp trên các nền tảng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2e997fd2a8dd",
+      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T09:36:49.430633+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Infantino khuyên chỉ trích nên cầu nguyện hoặc xem bóng đá",
+      "bullets": [
+        "Infantino chỉ trích những người chỉ trích về việc lan truyền tin đồn sai sự thật",
+        "Ông khuyên họ nên cầu nguyện hoặc xem một trận đấu bóng đá",
+        "Infantino đang đối mặt với nhiều chỉ trích sau World Cup 2022",
+        "Ông bị chỉ trích vì những quyết định quản lý FIFA"
+      ],
+      "full_summary": "Gianni Infantino, chủ tịch FIFA, đã chỉ trích những người chỉ trích ông về việc lan truyền tin đồn sai sự thật. Ông khuyên họ nên cầu nguyện hoặc xem một trận đấu bóng đá thay vì lan truyền tin đồn. Infantino đang đối mặt với nhiều chỉ trích sau World Cup 2022 do những quyết định quản lý FIFA của ông.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9fc3d5dc9754",
+      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
+      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T09:36:51.345338+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ứng dụng giúp người yêu chim dễ dàng xác định loài",
+      "bullets": [
+        "Sử dụng ứng dụng để xác định loài chim đã trở thành phổ biến",
+        "Ứng dụng giúp người mới bắt đầu tìm hiểu về chim dễ dàng hơn",
+        "Ứng dụng giúp người yêu chim theo dõi và ghi chép về hành vi của chim"
+      ],
+      "full_summary": "Ứng dụng Shazam-like giúp người yêu chim xác định loài chim một cách dễ dàng. Các ứng dụng này đã trở thành phổ biến trong cộng đồng người yêu chim. Các ứng dụng này giúp người mới bắt đầu tìm hiểu về chim dễ dàng hơn và theo dõi hành vi của chim. Điều này đã giúp tăng cường sự tham gia của người mới vào cộng đồng người yêu chim.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6b6aa0e38a4b",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T09:36:52.331305+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Hạ viện Mỹ muốn tạo nút 'tắt' cho AI khi chúng gây nguy hiểm",
+      "bullets": [
+        "Đề xuất luật mới cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI gây hại",
+        "Mô hình AI của OpenAI đã bị lỗi và gây ra lo ngại về an toàn",
+        "Đề xuất luật nhằm ngăn chặn các mô hình AI gây thiệt hại cho công chúng",
+        "Hạ viện Mỹ đang xem xét đề xuất luật này"
+      ],
+      "full_summary": "Hạ viện Mỹ đang xem xét một đề xuất luật mới cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI gây hại. Điều này được đưa ra sau khi mô hình AI của OpenAI bị lỗi và gây ra lo ngại về an toàn. Đề xuất luật nhằm ngăn chặn các mô hình AI gây thiệt hại cho công chúng. Nếu được thông qua, đề xuất luật này sẽ cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI mà họ coi là gây hại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d8d66bad55f5",
+      "title": "Uganda begins emergency food handouts after 19 die from hunger",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T09:36:53.399161+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Uganda bắt đầu phân phối lương thực khẩn cấp sau 19 người chết vì đói",
+      "bullets": [
+        "Uganda bắt đầu phân phối lương thực khẩn cấp cho người dân vùng Karamoja",
+        "Ít nhất 19 người đã chết vì đói do hạn hán kéo dài",
+        "1,5 triệu người ở Karamoja đang đối mặt với tình trạng thiếu lương thực và suy dinh dưỡng",
+        "Cơn hạn hán đã làm thất bại vụ mùa và gây ra tình trạng thiếu lương thực nghiêm trọng"
+      ],
+      "full_summary": "Uganda đã bắt đầu phân phối lương thực khẩn cấp cho người dân vùng Karamoja sau khi ít nhất 19 người chết vì đói do hạn hán kéo dài. Vùng Karamoja đang đối mặt với tình trạng thiếu lương thực nghiêm trọng do vụ mùa thất bại và không có mưa trong mùa. 1,5 triệu người ở Karamoja đang đối mặt với tình trạng thiếu lương thực và suy dinh dưỡng. Chính phủ Uganda đang nỗ lực phân phối lương thực khẩn cấp để giúp người dân vùng Karamoja vượt qua khó khăn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "416acfffb1bc",
+      "title": "With help from data, art museums are reframing the visitor experience",
+      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-27T09:36:56.212875+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Các viện nghệ thuật đang tái định hình trải nghiệm du khách thông qua dữ liệu và công nghệ",
+      "bullets": [
+        "Sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn",
+        "Tối ưu hóa trải nghiệm du khách thông qua phân tích dữ liệu",
+        "Áp dụng công nghệ mới để tái tạo và trình diễn nghệ thuật",
+        "Tăng cường tương tác giữa du khách và nghệ thuật thông qua ứng dụng di động"
+      ],
+      "full_summary": "Các viện nghệ thuật đang bắt đầu sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn và tối ưu hóa trải nghiệm du khách. Thông qua phân tích dữ liệu, các viện nghệ thuật có thể hiểu được nhu cầu và sở thích của du khách và tạo ra các chương trình và sự kiện phù hợp. Công nghệ mới cũng đang được áp dụng để tái tạo và trình diễn nghệ thuật, giúp du khách có thể trải nghiệm nghệ thuật một cách chân thực hơn. Điều này đang giúp tăng cường tương tác giữa du khách và nghệ thuật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eeaa321cd070",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-27T09:37:00.158225+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Bài viết giải thích cách PostgreSQL hoạt động",
+      "bullets": [
+        "Giải thích cơ chế hoạt động của PostgreSQL",
+        "Hướng dẫn cách sử dụng PostgreSQL",
+        "Phân tích hiệu suất của PostgreSQL",
+        "So sánh PostgreSQL với các cơ sở dữ liệu khác"
+      ],
+      "full_summary": "Bài viết PGSimCity là một dự án mở giúp người dùng hiểu rõ hơn về cách PostgreSQL hoạt động. Nó sử dụng một mô hình 3D để minh họa các khái niệm cơ bản của cơ sở dữ liệu. Bài viết này giúp người dùng hiểu rõ hơn về cách PostgreSQL quản lý dữ liệu và thực hiện các truy vấn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0bcbe8e075cf",
       "title": "Berlin Pride attack suspect shot and killed during police operation",
@@ -631,163 +790,6 @@
         "Cập nhật các tính năng khác"
       ],
       "full_summary": "Hệ thống GNU Hurd đã được nâng cấp với nhiều tính năng mới, bao gồm hệ thống tệp 9pfs, OpenNTPD và tạo danh sách thiết bị /dev động. Những cập nhật này sẽ giúp hệ thống trở nên ổn định và hiệu quả hơn. Những người phát triển của hệ thống tin rằng những thay đổi này sẽ mang lại trải nghiệm tốt hơn cho người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7d2d21f0d729",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-26T02:04:52.619189+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "DeepSeek tạm dừng gây vốn sau bình luận về kẽ hở tính toán so với Mỹ",
-      "bullets": [
-        "DeepSeek tạm dừng gây vốn sau bình luận về kẽ hở tính toán so với Mỹ",
-        "Bình luận của DeepSeek về kẽ hở tính toán so với Mỹ đã bị rò rỉ",
-        "DeepSeek đang cố gắng thu hút vốn để phát triển công nghệ",
-        "Bình luận của DeepSeek đã gây ra sự quan ngại về khả năng cạnh tranh của công nghệ Việt Nam"
-      ],
-      "full_summary": "DeepSeek, một công ty công nghệ Việt Nam, đã tạm dừng gây vốn sau khi bình luận về kẽ hở tính toán so với Mỹ được rò rỉ. Bình luận này đã gây ra sự quan ngại về khả năng cạnh tranh của công nghệ Việt Nam. DeepSeek đang cố gắng thu hút vốn để phát triển công nghệ và giảm kẽ hở tính toán so với Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c13d67073208",
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-26T02:04:54.354115+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Cloudflare giới thiệu các tùy chọn AI mới cho khách hàng",
-      "bullets": [
-        "Cung cấp các giải pháp AI để tối ưu hóa lưu lượng truy cập",
-        "Tăng cường khả năng bảo vệ và kiểm soát lưu lượng truy cập",
-        "Cho phép khách hàng tự động hóa các quy trình và cải thiện hiệu suất"
-      ],
-      "full_summary": "Cloudflare vừa công bố các tùy chọn AI mới cho khách hàng. Các giải pháp này sẽ giúp tối ưu hóa lưu lượng truy cập, tăng cường khả năng bảo vệ và kiểm soát lưu lượng truy cập. Cloudflare cho biết các tùy chọn này sẽ cho phép khách hàng tự động hóa các quy trình và cải thiện hiệu suất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "35d1c0665acb",
-      "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-      "url": "https://www.nature.com/articles/s41586-026-10911-y",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-26T02:04:56.652610+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Nghiên cứu mới về hệ thống phòng thủ của não",
-      "bullets": [
-        "Khám phá hệ thống mã hóa mối đe dọa trong não giúp cơ thể phản ứng lại",
-        "Hệ thống này được tìm thấy trong vùng não gọi là vùng septum",
-        "Nghiên cứu này có thể giúp hiểu rõ hơn về phản ứng tự vệ của cơ thể"
-      ],
-      "full_summary": "Một nhóm nghiên cứu mới đã phát hiện ra rằng hệ thống mã hóa mối đe dọa trong não giúp cơ thể phản ứng lại. Hệ thống này được tìm thấy trong vùng não gọi là vùng septum. Nghiên cứu này có thể giúp hiểu rõ hơn về phản ứng tự vệ của cơ thể và cách nó được điều khiển.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c82f451a385e",
-      "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
-      "url": "https://www.nature.com/articles/d41586-026-02275-0",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-07-26T02:04:59.731360+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Odyssey tiết lộ cách người Hy Lạp cổ đại hiểu thế giới",
-      "bullets": [
-        "Giải thích về các hiện tượng thiên nhiên",
-        "Khám phá về khoa học thực vật",
-        "Đánh giá về tâm lý học trong thời đại đồ đồng",
-        "Khám phá về các hiện tượng thiên văn"
-      ],
-      "full_summary": "Từ con tàu thông minh đến các dấu hiệu về nhật thực, The Odyssey của Homer đã tiết lộ cách người Hy Lạp cổ đại hiểu thế giới. Các nhà nghiên cứu đã tìm thấy các bằng chứng về kiến thức khoa học của người Hy Lạp cổ đại trong tác phẩm này. Họ đã khám phá về các hiện tượng thiên nhiên, khoa học thực vật và tâm lý học trong thời đại đồ đồng. Các phát hiện này đã mở ra một cái nhìn mới về cách người Hy Lạp cổ đại đã hiểu và giải thích thế giới xung quanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "96300ea9ab0f",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T18:56:48.937926+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hơn 250.000 người tị nạn vì cháy rừng ở Pháp và Tây Ban Nha",
-      "bullets": [
-        "Cảnh sát Pháp chưa kiểm soát được đám cháy gần Bordeaux",
-        "Chính phủ Tây Ban Nha cảnh báo 'giờ phức tạp' sắp tới",
-        "Hơn 250.000 người phải rời khỏi khu vực bị ảnh hưởng",
-        "Các lực lượng cứu hỏa đang nỗ lực dập lửa"
-      ],
-      "full_summary": "Ở Pháp và Tây Ban Nha, các đám cháy rừng đang gây ra sự tàn phá lớn. Hơn 250.000 người đã phải rời khỏi khu vực bị ảnh hưởng. Chính phủ Tây Ban Nha cảnh báo 'giờ phức tạp' sắp tới, trong khi cảnh sát Pháp cho biết họ chưa kiểm soát được đám cháy gần Bordeaux. Các lực lượng cứu hỏa đang nỗ lực dập lửa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0be6f20673f2",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T18:56:50.032308+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hội chợ chống Modi ở Ấn Độ bị hủy sau khi bộ trưởng giáo dục từ chức",
-      "bullets": [
-        "Bộ trưởng giáo dục Ấn Độ từ chức sau khi bị chỉ trích nặng nề",
-        "Hội chợ CJP là biểu hiện nổi bật của sự phẫn nộ công chúng chống chính phủ Modi",
-        "Hội chợ CJP đã gây ra sự phẫn nộ công chúng ở Ấn Độ trong nhiều năm gần đây"
-      ],
-      "full_summary": "Hội chợ CJP ở Ấn Độ đã bị hủy sau khi bộ trưởng giáo dục từ chức. Hội chợ này là biểu hiện nổi bật của sự phẫn nộ công chúng chống chính phủ Modi. Bộ trưởng giáo dục Ấn Độ đã từ chức sau khi bị chỉ trích nặng nề. Hội chợ CJP đã gây ra sự phẫn nộ công chúng ở Ấn Độ trong nhiều năm gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a3ee91dee03f",
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T18:56:51.151213+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Sao Tome và Principe tổ chức bầu cử tổng thống đầy căng thẳng",
-      "bullets": [
-        "Hơn 142.000 cử tri đăng ký bỏ phiếu trong cuộc bầu cử ở quốc gia châu Phi nhỏ bé này",
-        "Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng để đảm bảo nhiệm kỳ thứ hai",
-        "Một số cử tri sống ở nước ngoài",
-        "Cuộc bầu cử nhằm tăng cường uy tín dân chủ của quốc gia này"
-      ],
-      "full_summary": "Sao Tome và Principe chuẩn bị tổ chức bầu cử tổng thống đầy căng thẳng. Tổng thống đương nhiệm Carlos Vila Nova hy vọng giành chiến thắng để đảm bảo nhiệm kỳ thứ hai. Ông Vila Nova đã rời khỏi đảng của mình và trở thành ứng cử viên độc lập. Cuộc bầu cử này nhằm tăng cường uy tín dân chủ của quốc gia này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e8050cd78e2b",
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-25T18:56:52.273034+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "SpaceX chuẩn bị bắt Starship trở lại tại trạm phóng",
-      "bullets": [
-        "SpaceX sẽ thử bắt Starship trở lại tại trạm phóng trên chuyến bay tiếp theo",
-        "Chuyến bay thứ 13 của Starship đã kết thúc một cách đầy hứa hẹn",
-        "SpaceX đang chuẩn bị cho một thử nghiệm mới để cải thiện hiệu suất của Starship",
-        "Mục tiêu của SpaceX là tăng cường khả năng tái sử dụng của Starship"
-      ],
-      "full_summary": "SpaceX đã hoàn thành chuyến bay thứ 13 của Starship một cách đầy hứa hẹn. Dù vậy, công ty vẫn đang tìm cách cải thiện hiệu suất của Starship. Trong chuyến bay tiếp theo, SpaceX sẽ thử bắt Starship trở lại tại trạm phóng, một thử nghiệm mới để tăng cường khả năng tái sử dụng của Starship. Mục tiêu của SpaceX là giảm thiểu chi phí và tăng cường hiệu suất của Starship.",
       "comments": 0,
       "score": 0
     }
