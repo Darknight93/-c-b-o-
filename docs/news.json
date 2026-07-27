@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-26T19:00:55.363538+00:00",
+  "updated_at": "2026-07-27T02:12:18.139647+00:00",
   "articles": [
+    {
+      "id": "0bcbe8e075cf",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T02:12:03.953507+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một nghi phạm tấn công Pride ở Berlin bị bắn chết",
+      "bullets": [
+        "Cảnh sát bắn chết Abdul Ballout",
+        "Nạn nhân dùng dao tấn công cảnh sát",
+        "Tình huống xảy ra tại một khu vực phía tây Berlin",
+        "Cảnh sát đang điều tra vụ việc"
+      ],
+      "full_summary": "Một nghi phạm tấn công Pride ở Berlin đã bị bắn chết sau khi dùng dao tấn công cảnh sát. Sự việc xảy ra tại một khu vực phía tây Berlin. Cảnh sát cho biết Abdul Ballout đã cố gắng tấn công họ bằng dao trước khi bị bắn chết. Vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f3d0c3bc6f84",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T02:12:05.043214+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Netanyahu tố NYC thị trưởng Mamdani 'kêu gọi hận thù'",
+      "bullets": [
+        "Netanyahu cáo buộc NYC thị trưởng Mamdani 'kêu gọi hận thù'",
+        "Mamdani rút lại lời đe dọa bắt giữ Netanyahu",
+        "Netanyahu bị ICC ra lệnh bắt giữ vì tội ác chiến tranh",
+        "Mamdani không có quyền bắt giữ Netanyahu"
+      ],
+      "full_summary": "Netanyahu cáo buộc NYC thị trưởng Eric Adams (không phải Mamdani) 'kêu gọi hận thù' sau khi ông này rút lại lời đe dọa bắt giữ ông Netanyahu. Lời đe dọa này liên quan đến lệnh bắt giữ của Tòa án Hình sự Quốc tế (ICC) đối với Netanyahu vì tội ác chiến tranh. Tuy nhiên, Mamdani không có quyền bắt giữ Netanyahu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "235a089ac58a",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T02:12:06.951944+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Chủ tịch Ukraine sắp đến thăm Anh, nhận được sự ủng hộ từ Thủ tướng",
+      "bullets": [
+        "Thủ tướng Anh cam kết tiếp tục hỗ trợ Ukraine",
+        "Chủ tịch Ukraine sẽ là khách quốc tế đầu tiên thăm Anh dưới thời Thủ tướng mới",
+        "Ngoại trưởng Anh sẽ cùng tham dự cuộc gặp giữa Thủ tướng Anh và Chủ tịch Ukraine",
+        "Sự kiện này diễn ra trước khi Chủ tịch Ukraine đến thăm Anh"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky sắp đến thăm Anh, đây sẽ là chuyến thăm quốc tế đầu tiên của ông dưới thời Thủ tướng mới Andy Burnham. Thủ tướng Anh cam kết tiếp tục hỗ trợ Ukraine trong cuộc xung đột với Nga. Ngoại trưởng Anh sẽ cùng tham dự cuộc gặp giữa Thủ tướng Anh và Chủ tịch Ukraine. Sự kiện này diễn ra trước khi Chủ tịch Ukraine đến thăm Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "23bb56a2af88",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T02:12:07.991703+00:00",
+      "category": "politics|technology",
+      "importance": 3,
+      "headline": "Trump đe dọa điều tra EU vì phạt công ty công nghệ Mỹ",
+      "bullets": [
+        "Trump yêu cầu đảo ngược hoàn toàn các khoản phạt đối với Google",
+        "Ông chỉ trích các khoản phạt đối với Apple, Meta và Amazon",
+        "Fines này được áp dụng bởi các cơ quan chức năng của Liên minh châu Âu",
+        "Trump cho rằng các khoản phạt này không công bằng"
+      ],
+      "full_summary": "Tổng thống Mỹ Donald Trump đã tuyên bố sẽ điều tra Liên minh châu Âu (EU) vì phạt các công ty công nghệ lớn của Mỹ, bao gồm Google, Apple, Meta và Amazon. Ông cho rằng các khoản phạt này không công bằng và yêu cầu đảo ngược hoàn toàn. Các khoản phạt này được áp dụng bởi các cơ quan chức năng của EU vì vi phạm các quy định về cạnh tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "90446345cb50",
+      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T02:12:08.926036+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ba người Venezuela kiện hai công ty hàng không vì bị đưa đến tù El Salvador",
+      "bullets": [
+        "Ba người Venezuela kiện CSI Aviation và GlobalX vì bị đưa đến tù El Salvador",
+        "Các công ty hàng không bị cáo buộc vi phạm quyền dân sự và gây ra tổn thương tinh thần",
+        "Vụ việc liên quan đến chính sách di trú của chính quyền Trump",
+        "Các nạn nhân bị đưa đến tù El Salvador vào năm ngoái"
+      ],
+      "full_summary": "Ba người Venezuela đang kiện hai công ty hàng không CSI Aviation và GlobalX vì đã vận chuyển họ đến tù El Salvador vào năm ngoái. Các công ty hàng không bị cáo buộc vi phạm quyền dân sự và gây ra tổn thương tinh thần. Vụ việc liên quan đến chính sách di trú của chính quyền Trump. Các nạn nhân đang yêu cầu bồi thường và công lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f8a25251071",
+      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-27T02:12:12.234990+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Hỏa hoạn ở Tây Ban Nha khiến NASA phải sơ tán mạng lưới không gian sâu",
+      "bullets": [
+        "Tây Ban Nha đang đối mặt với một đám cháy lớn",
+        "Đám cháy đã buộc NASA sơ tán mạng lưới Deep Space Network",
+        "Tính chất và mức độ của thiệt hại chưa được xác định",
+        "NASA sẽ đánh giá thiệt hại khi an toàn cho phép"
+      ],
+      "full_summary": "Một đám cháy lớn đang lan rộng ở Tây Ban Nha đã buộc NASA sơ tán mạng lưới Deep Space Network. Mạng lưới này đóng vai trò quan trọng trong việc tiếp nhận tín hiệu từ các tàu vũ trụ. NASA chưa thể đánh giá thiệt hại do đám cháy gây ra. Khi an toàn cho phép, NASA sẽ tiến hành đánh giá và khắc phục thiệt hại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5edb5377e837",
+      "title": "Fonts In Use – Find out where a font is used",
+      "url": "https://fontsinuse.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-27T02:12:16.509152+00:00",
+      "category": "technology",
+      "importance": 2,
+      "headline": "Tìm kiếm ứng dụng của phông chữ",
+      "bullets": [
+        "Khám phá ứng dụng của phông chữ trên Fontsinuse.com",
+        "Tìm kiếm phông chữ theo tên hoặc nhà thiết kế",
+        "Xem các dự án sử dụng phông chữ"
+      ],
+      "full_summary": "Fontsinuse.com là trang web cho phép người dùng tìm kiếm và khám phá ứng dụng của phông chữ. Trang web này cung cấp danh sách các dự án sử dụng phông chữ, bao gồm tên dự án, nhà thiết kế và ngày phát hành. Người dùng có thể tìm kiếm phông chữ theo tên hoặc nhà thiết kế để xem các dự án sử dụng phông chữ đó.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d7c4969e9aa3",
       "title": "Google fined €890m by EU for favouring its own apps over rivals",
@@ -649,145 +788,6 @@
         "Mục tiêu của SpaceX là tăng cường khả năng tái sử dụng của Starship"
       ],
       "full_summary": "SpaceX đã hoàn thành chuyến bay thứ 13 của Starship một cách đầy hứa hẹn. Dù vậy, công ty vẫn đang tìm cách cải thiện hiệu suất của Starship. Trong chuyến bay tiếp theo, SpaceX sẽ thử bắt Starship trở lại tại trạm phóng, một thử nghiệm mới để tăng cường khả năng tái sử dụng của Starship. Mục tiêu của SpaceX là giảm thiểu chi phí và tăng cường hiệu suất của Starship.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e099724d526",
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-25T18:56:53.443518+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mô hình AI Opus 5 của Anthropic không phải bước nhảy vọt về khả năng",
-      "bullets": [
-        "Cải thiện nhanh chóng của mô hình AI không phải lúc nào cũng cần thiết",
-        "Các lựa chọn rẻ hơn thường đủ tốt",
-        "Nhiều người dùng không cần các mô hình AI mạnh nhất",
-        "Token hiệu suất là ưu tiên chính của Opus 5"
-      ],
-      "full_summary": "Mô hình AI Opus 5 của Anthropic không phải bước nhảy vọt về khả năng như nhiều người dự đoán. Thay vào đó, nó tập trung vào token hiệu suất, giúp giảm chi phí và tăng hiệu quả. Điều này có nghĩa là các lựa chọn rẻ hơn thường đủ tốt cho nhiều người dùng, và họ không cần phải sử dụng các mô hình AI mạnh nhất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6be903f83449",
-      "title": "Tile's Security Is So Bad It's a Feature for Stalkers",
-      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-25T18:56:55.744973+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Tile bị rò rỉ thông tin người dùng vì bảo mật kém",
-      "bullets": [
-        "Ghi nhận Tile rò rỉ thông tin người dùng",
-        "Bảo mật kém khiến Tile dễ bị xâm phạm",
-        "Sự cố này gây lo ngại về quyền riêng tư",
-        "Nhiều người dùng lo ngại về thông tin cá nhân"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã tiết lộ rằng Tile, một công ty sản xuất thiết bị theo dõi, có vấn đề về bảo mật. Điều này khiến thông tin người dùng bị rò rỉ, gây lo ngại về quyền riêng tư. Sự cố này đã thu hút sự chú ý của cộng đồng Hacker News, với nhiều người dùng lo ngại về thông tin cá nhân của họ. Bài viết đã chỉ ra rằng bảo mật kém của Tile khiến cho việc theo dõi người dùng trở nên dễ dàng hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "15d04845b1ae",
-      "title": "The Universe can outrun light without breaking Einstein’s rules",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-07-25T18:57:01.784959+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Vũ trụ có thể chạy nhanh hơn ánh sáng mà không vi phạm các quy tắc của Einstein",
-      "bullets": [
-        "Hãy biết rằng, sự giãn nở vũ trụ cho phép các thiên hà cách xa di chuyển nhanh hơn ánh sáng.",
-        "Hãy nhớ rằng, chúng ta vẫn có thể nhìn thấy ánh sáng cổ xưa mà các thiên hà phát ra khi chúng còn gần hơn.",
-        "Hãy chờ đợi, sự giãn nở vũ trụ sẽ đẩy hầu hết các thiên hà ra khỏi nhóm địa phương, khiến vũ trụ trông gần như trống rỗng."
-      ],
-      "full_summary": "Sự giãn nở vũ trụ cho phép các thiên hà cách xa di chuyển nhanh hơn ánh sáng mà không vi phạm các quy tắc của Einstein. Điều này có nghĩa là chúng ta vẫn có thể nhìn thấy ánh sáng cổ xưa mà các thiên hà phát ra khi chúng còn gần hơn. Tuy nhiên, sự giãn nở vũ trụ sẽ tiếp tục tăng tốc và cuối cùng đẩy hầu hết các thiên hà ra khỏi nhóm địa phương, khiến vũ trụ trông gần như trống rỗng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "10aed7e09456",
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T13:08:08.978228+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump chỉ trích báo chí tại bữa tiệc của Nhà Trắng",
-      "bullets": [
-        "Trump chỉ trích báo chí tại bữa tiệc White House Correspondents",
-        "Bữa tiệc kỷ niệm tự do báo chí sau khi bữa tiệc đầu tiên bị hủy vì vụ bắn vào tháng 4",
-        "Trump chỉ trích báo chí vì 'không trung thực'",
-        "Báo chí phản ứng với những lời chỉ trích của Trump"
-      ],
-      "full_summary": "Bữa tiệc White House Correspondents đã diễn ra tại Nhà Trắng, kỷ niệm tự do báo chí sau khi bữa tiệc đầu tiên bị hủy vì vụ bắn vào tháng 4. Tại bữa tiệc, cựu Tổng thống Mỹ Donald Trump đã chỉ trích báo chí vì 'không trung thực'. Những lời chỉ trích của Trump đã nhận được phản ứng từ báo chí. Bữa tiệc đã trở thành một sự kiện quan trọng trong lịch sử báo chí Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6b6aa0e38a4b",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T13:08:10.039234+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Hạ viện Mỹ đề xuất 'chìa khóa tắt' cho trí tuệ nhân tạo",
-      "bullets": [
-        "Đề xuất luật cho phép chính phủ Mỹ yêu cầu tắt các mô hình trí tuệ nhân tạo gây nguy hiểm",
-        "Mô hình AI của OpenAI đã bị lỗi và gây ra lo ngại về an toàn",
-        "Luật mới sẽ giúp ngăn chặn các mô hình AI gây hại cho công chúng",
-        "Hạ viện Mỹ đang thảo luận về dự luật này"
-      ],
-      "full_summary": "Hạ viện Mỹ đang đề xuất một luật mới cho phép chính phủ Mỹ yêu cầu tắt các mô hình trí tuệ nhân tạo gây nguy hiểm. Điều này được đưa ra sau khi mô hình AI của OpenAI bị lỗi và gây ra lo ngại về an toàn. Luật mới sẽ giúp ngăn chặn các mô hình AI gây hại cho công chúng và cho phép chính phủ Mỹ kiểm soát các mô hình AI này. Dự luật đang được thảo luận tại Hạ viện Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3b6601909bb0",
-      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
-      "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-25T13:08:11.062695+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Canada bị yêu cầu ngăn chặn thỏa thuận chia sẻ dữ liệu với ICE Mỹ",
-      "bullets": [
-        "Yêu cầu chính phủ Canada ngăn chặn thỏa thuận giữa Thomson Reuters và ICE Mỹ",
-        "Thỏa thuận trị giá 125 triệu USD để phát hiện 'lừa đảo nhập cư'",
-        "Lãnh đạo đảng New Democratic yêu cầu Ottawa hạn chế hợp tác với ICE",
-        "Thỏa thuận gây tranh cãi về vấn đề bảo mật và quyền riêng tư"
-      ],
-      "full_summary": "Lãnh đạo đảng New Democratic, Avi Lewis, đã yêu cầu chính phủ Canada ngăn chặn thỏa thuận chia sẻ dữ liệu giữa công ty truyền thông Thomson Reuters và Cơ quan Hải quan và Cảnh sát Biên giới Mỹ (ICE). Thỏa thuận trị giá 125 triệu USD nhằm phát hiện 'lừa đảo nhập cư' nhưng đã gây tranh cãi về vấn đề bảo mật và quyền riêng tư. Lãnh đạo đảng này cho rằng thỏa thuận này vi phạm quyền riêng tư của công dân và yêu cầu Ottawa hạn chế hợp tác với ICE.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "416acfffb1bc",
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-25T13:08:12.028370+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Các bảo tàng nghệ thuật sử dụng dữ liệu để tái định hình trải nghiệm du khách",
-      "bullets": [
-        "Sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn",
-        "Tạo ra trải nghiệm du khách cá nhân hóa thông qua công nghệ",
-        "Đào tạo nhân viên bảo tàng để sử dụng công nghệ hiệu quả",
-        "Tăng cường tương tác giữa bảo tàng và du khách thông qua mạng xã hội"
-      ],
-      "full_summary": "Các bảo tàng nghệ thuật đang sử dụng dữ liệu để tái định hình trải nghiệm du khách. Họ sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn và tạo ra trải nghiệm du khách cá nhân hóa thông qua công nghệ. Điều này giúp tăng cường tương tác giữa bảo tàng và du khách, đồng thời tạo ra một môi trường học hỏi và khám phá thú vị hơn.",
       "comments": 0,
       "score": 0
     }
