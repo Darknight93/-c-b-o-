@@ -1,6 +1,183 @@
 {
-  "updated_at": "2026-07-27T09:37:02.361848+00:00",
+  "updated_at": "2026-07-27T14:15:20.720306+00:00",
   "articles": [
+    {
+      "id": "de2200bc1af1",
+      "title": "Oil price dives as US and Iran pause attacks",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T14:15:04.508277+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Giá dầu giảm mạnh khi Mỹ và Iran tạm dừng tấn công",
+      "bullets": [
+        "Mỹ tuyên bố tạm dừng tấn công Iran để tạo không gian cho đàm phán",
+        "Hành động này đã làm tăng hy vọng về một giải pháp cho xung đột",
+        "Giá dầu thế giới đã giảm mạnh sau thông tin này",
+        "Nhiều quốc gia đang chờ đợi phản ứng tiếp theo của Mỹ và Iran"
+      ],
+      "full_summary": "Mỹ và Iran đã tạm dừng các cuộc tấn công nhằm vào nhau, tạo cơ hội cho các cuộc đàm phán giải quyết xung đột. Việc này đã làm giảm giá dầu thế giới. Các quốc gia trên thế giới đang chờ đợi phản ứng tiếp theo của Mỹ và Iran. Sự kiện này đã tạo ra hy vọng về một giải pháp cho xung đột giữa hai quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b2078bbf1a31",
+      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T14:15:05.534519+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một kẻ tấn công Pride Berlin bị nghi ngờ đã không bị giam giữ",
+      "bullets": [
+        "Nghi phạm bị nghi ngờ đã có tiền sử tội phạm nhưng không bị giam giữ",
+        "Sự việc đã gây ra sự giận dữ, sốc và đau thương trong cộng đồng",
+        "Cơ quan chức năng đang điều tra nguyên nhân vụ tấn công",
+        "Nhiều người đang đặt câu hỏi về việc nghi phạm không bị giam giữ"
+      ],
+      "full_summary": "Một vụ tấn công tại Pride Berlin đã gây ra sự giận dữ, sốc và đau thương trong cộng đồng. Nghi phạm bị nghi ngờ đã có tiền sử tội phạm nhưng không bị giam giữ. Cơ quan chức năng đang điều tra nguyên nhân vụ tấn công. Nhiều người đang đặt câu hỏi về việc nghi phạm không bị giam giữ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "235008421d24",
+      "title": "More than 600 US military service members injured since Iran War began in February",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T14:15:06.851048+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 600 quân nhân Mỹ bị thương kể từ khi chiến tranh Iran bắt đầu",
+      "bullets": [
+        "Bị thương trong Chiến dịch Fury",
+        "Bị thương trong các hoạt động quân sự ở nước ngoài",
+        "Số liệu mới nhất kể từ tháng 2",
+        "Số liệu bao gồm cả thương vong"
+      ],
+      "full_summary": "Theo BBC World, số lượng quân nhân Mỹ bị thương kể từ khi chiến tranh Iran bắt đầu đã vượt quá 600 người. Số liệu này bao gồm cả thương vong trong Chiến dịch Fury và các hoạt động quân sự ở nước ngoài. Số liệu mới nhất được công bố kể từ tháng 2.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4445f5f8ba59",
+      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T14:15:07.895733+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Bali cấm 2 người Hà Lan vì tổ chức chạy bộ phân biệt đối xử",
+      "bullets": [
+        "Cấm 2 người Hà Lan tổ chức chạy bộ phân biệt đối xử",
+        "Họ bị cáo buộc vi phạm luật nhập cư",
+        "Tổ chức chạy bộ bị cáo buộc ưu tiên người nước ngoài",
+        "Bali xử lý nghiêm các trường hợp phân biệt đối xử"
+      ],
+      "full_summary": "Bali đã cấm 2 người Hà Lan vì tổ chức chạy bộ phân biệt đối xử. Họ bị cáo buộc ưu tiên người nước ngoài và vi phạm luật nhập cư. Sự việc đã gây ra sự phẫn nộ trong cộng đồng địa phương. Chính quyền Bali đã xử lý nghiêm các trường hợp phân biệt đối xử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "18c54b7a0831",
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T14:15:08.830715+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ca sĩ Carly Simon công bố chẩn đoán bệnh Parkinson",
+      "bullets": [
+        "Công bố chẩn đoán bệnh Parkinson",
+        "Bị mắc ung thư da, đã được điều trị",
+        "Vẫn quyết tâm tiếp tục hát",
+        "Sẽ tiếp tục hoạt động nghệ thuật"
+      ],
+      "full_summary": "Ca sĩ Carly Simon vừa công bố chẩn đoán bệnh Parkinson và đã được điều trị cho bệnh ung thư da. Mặc dù vậy, cô vẫn quyết tâm tiếp tục hát và hoạt động nghệ thuật. Cô đã trở thành một biểu tượng âm nhạc nổi tiếng và được yêu thích trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "013fad0fe07d",
+      "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+      "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T14:15:09.965384+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hlv Pirlo bị sa thải vì liên quan đến công ty cược Nga",
+      "bullets": [
+        "Bị sa thải vì liên quan đến công ty cược Nga",
+        "Đội bóng Ý không thể vào World Cup lần thứ ba liên tiếp",
+        "Lực lượng bóng đá Ý tiếp tục rối loạn",
+        "Sự việc gây ra phản ứng dữ dội"
+      ],
+      "full_summary": "Hlv Andrea Pirlo bị sa thải vì liên quan đến công ty cược Nga. Sự việc này gây ra phản ứng dữ dợi trong cộng đồng bóng đá Ý. Italy đã không thể vào World Cup lần thứ ba liên tiếp, khiến lực lượng bóng đá Ý tiếp tục rối loạn. Sự việc này cũng cho thấy sự thiếu ổn định trong quản lý bóng đá Ý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1755a01dc3ec",
+      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-27T14:15:11.542647+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một chuyến tàu Guyana bị chìm, 72 người thiệt mạng",
+      "bullets": [
+        "Cứu hộ đang cố gắng cứu vớt tất cả người trên tàu",
+        "72 người đã thiệt mạng, 76 người được cứu",
+        "Tàu chìm có khoảng 179 người trên tàu khi xảy ra tai nạn"
+      ],
+      "full_summary": "Một chuyến tàu của Guyana đã bị chìm ngoài khơi bờ biển, khiến 72 người thiệt mạng. Cứu hộ đang cố gắng cứu vớt tất cả người trên tàu và thu hồi các thi thể. Số người thiệt mạng có thể lên tới 100, khiến đây là thảm họa biển tồi tệ nhất trong lịch sử Guyana.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bb6b63122ca4",
+      "title": "Should you wash your solar panels?",
+      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-27T14:15:15.785384+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Rửa sạch tấm pin năng lượng mặt trời có cần thiết không?",
+      "bullets": [
+        "Rửa sạch tấm pin năng lượng mặt trời có thể làm giảm hiệu suất",
+        "Sử dụng nước sạch và mềm để rửa tấm pin",
+        "Tránh rửa tấm pin khi trời mưa hoặc ẩm ướt"
+      ],
+      "full_summary": "Một bài viết trên Hacker News đã thảo luận về việc rửa sạch tấm pin năng lượng mặt trời. Theo đó, rửa sạch tấm pin có thể làm giảm hiệu suất của nó, nhưng cũng có thể giúp loại bỏ bụi và các vật thể bên ngoài. Để rửa sạch tấm pin, người dùng nên sử dụng nước sạch và mềm, và tránh rửa tấm pin khi trời mưa hoặc ẩm ướt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4dde25f66170",
+      "title": "How is the Bun Rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-27T14:15:20.220137+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Đoàn ngũ đang thực hiện lại Bun bằng Rust",
+      "bullets": [
+        "Đoàn ngũ đang phát triển lại Bun bằng ngôn ngữ lập trình Rust",
+        "Bun là một công cụ lập trình được thiết kế để giúp các nhà phát triển tạo ra các ứng dụng AI",
+        "Đoàn ngũ đang gặp phải một số khó khăn trong quá trình phát triển lại Bun"
+      ],
+      "full_summary": "Đoàn ngũ đang thực hiện lại Bun bằng Rust, một ngôn ngữ lập trình mới, để giúp cải thiện hiệu suất và tính ổn định của công cụ. Tuy nhiên, họ đang gặp phải một số khó khăn trong quá trình phát triển lại Bun, bao gồm việc tích hợp các tính năng mới và sửa lỗi các vấn đề tồn đọng. Mặc dù vậy, đoàn ngũ vẫn lạc quan về khả năng hoàn thành dự án trong thời gian sớm.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "4db8f168b4a7",
       "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
@@ -611,185 +788,6 @@
         "Cơ quan quân sự Israel cho rằng một người Palestine đã đánh cắp vũ khí và bắn vào du khách"
       ],
       "full_summary": "Một vụ bắn súng đã xảy ra ở Tây Ban Nha, khiến 6 người thiệt mạng. Theo người Palestine, người dân đã bị các người định cư tấn công. Tuy nhiên, quân đội Israel cho rằng một người Palestine đã đánh cắp vũ khí và bắn vào du khách. Sự kiện này đã gây ra sự bất bình và lo ngại về tình hình an ninh ở khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "83b9aee3107c",
-      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-26T08:12:54.542320+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mạng PlayStation bị gián đoạn, khiến nghìn người chơi không thể chơi game",
-      "bullets": [
-        "Cơ quan quản lý mạng PlayStation đã khắc phục sự cố",
-        "Sự cố khiến người chơi không thể khởi động game, ứng dụng hoặc tính năng mạng",
-        "Sự cố đã ảnh hưởng đến hàng nghìn người chơi trên toàn thế giới"
-      ],
-      "full_summary": "Mạng PlayStation đã bị gián đoạn, khiến hàng nghìn người chơi không thể chơi game. Sự cố này đã ảnh hưởng đến khả năng khởi động game, ứng dụng hoặc tính năng mạng. Cơ quan quản lý mạng PlayStation đã nhanh chóng khắc phục sự cố và mạng đã được khôi phục. Người chơi đã có thể tiếp tục chơi game sau khi sự cố được giải quyết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3af5f66029c6",
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-26T08:12:56.646475+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Cổ phiếu Google và Tesla giảm mạnh do chi tiêu AI gây xáo trộn thị trường",
-      "bullets": [
-        "Giảm mạnh do lo ngại lợi nhuận từ AI chưa đến",
-        "Cổ phiếu của các công ty công nghệ lớn bị ảnh hưởng",
-        "Các công ty đang tăng cường đầu tư vào công nghệ AI",
-        "Nhà đầu tư đang chờ đợi lợi nhuận từ AI"
-      ],
-      "full_summary": "Cổ phiếu của Google và Tesla đã giảm mạnh do lo ngại lợi nhuận từ công nghệ trí tuệ nhân tạo (AI) chưa đến. Các công ty công nghệ lớn đang tăng cường đầu tư vào AI, nhưng lợi nhuận từ công nghệ này vẫn chưa rõ ràng. Điều này đã gây xáo trộn thị trường và làm giảm giá cổ phiếu của các công ty này. Các nhà đầu tư đang chờ đợi lợi nhuận từ AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1d9a62ad37c5",
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-26T08:12:58.817398+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Đại biểu Canada đọc câu trả lời của mô hình AI trong bài phát biểu",
-      "bullets": [
-        "Đại biểu đọc câu trả lời của mô hình AI trong phiên họp Quốc hội",
-        "Câu trả lời được cho là từ mô hình ngôn ngữ lớn (LLM)",
-        "Mô hình AI được cho là đã trả lời câu hỏi của đại biểu",
-        "Câu trả lời được đọc ra trong phiên họp Quốc hội"
-      ],
-      "full_summary": "Một đại biểu Canada đã đọc câu trả lời của mô hình ngôn ngữ lớn (LLM) trong phiên họp Quốc hội. Câu trả lời được cho là từ mô hình AI và được đọc ra trong phiên họp. Điều này đã gây ra sự chú ý và tranh cãi về việc sử dụng mô hình AI trong các phiên họp Quốc hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "461018098e71",
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-26T08:13:02.070198+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy radar máy bay mini được tạo ra bằng ESP32",
-      "bullets": [
-        "Tạo ra máy radar máy bay mini trên bàn làm việc",
-        "Sử dụng ESP32 như một thiết bị cảm biến",
-        "Hiển thị thông tin về máy bay trên màn hình LCD",
-        "Thiết kế nhỏ gọn và dễ sử dụng"
-      ],
-      "full_summary": "Một nhà phát triển đã tạo ra máy radar máy bay mini trên bàn làm việc bằng cách sử dụng ESP32. Máy radar này sử dụng cảm biến để phát hiện máy bay và hiển thị thông tin trên màn hình LCD. Thiết kế nhỏ gọn và dễ sử dụng, máy radar này có thể được sử dụng cho mục đích giáo dục hoặc nghiên cứu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fc04c9771815",
-      "title": "How Jimothy the raccoon became the internet's latest animal obsession",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-26T02:04:46.723251+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Con gặm nhấm Jimothy trở thành tâm điểm chú ý trên internet",
-      "bullets": [
-        "Bắt đầu từ video được chia sẻ trên Instagram bởi cư dân Seattle Kiana Hall",
-        "Video đó nhanh chóng trở thành viral và thu hút sự chú ý của cộng đồng",
-        "Jimothy trở thành biểu tượng mới của internet với nhiều người hâm mộ",
-        "Video về con gặm nhấm này đã được chia sẻ rộng rãi trên các nền tảng mạng xã hội"
-      ],
-      "full_summary": "Video về con gặm nhấm Jimothy được chia sẻ trên Instagram đã trở thành tâm điểm chú ý trên internet. Video đó được chia sẻ bởi cư dân Seattle Kiana Hall và nhanh chóng trở thành viral. Jimothy trở thành biểu tượng mới của internet với nhiều người hâm mộ. Video về con gặm nhấm này đã được chia sẻ rộng rãi trên các nền tảng mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bd8c5d6ccc06",
-      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-26T02:04:47.972453+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Được nhìn thấy lần đầu tiên: Trailer Blade Runner 2099 tại SDCC",
-      "bullets": [
-        "Bí ẩn về tương lai của Blade Runner đã được tiết lộ",
-        "Trailer mới cho bộ phim kinh điển được công chiếu tại SDCC",
-        "Cảnh phim cho thấy một thế giới hậu tận thế đầy bí ẩn",
-        "Được mong chờ từ lâu, bộ phim đang gây tò mò cho khán giả"
-      ],
-      "full_summary": "Trailer mới của Blade Runner 2099 đã được công chiếu tại SDCC, cho thấy một thế giới hậu tận thế đầy bí ẩn. Bộ phim kinh điển đang gây tò mò cho khán giả và được mong chờ từ lâu. Trailer mới cho thấy cảnh phim đầy màu sắc và đầy bí ẩn, khiến khán giả càng thêm tò mò.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8456f3ce5c8c",
-      "title": "Possible invasive species superspreader event near Strait of Hormuz",
-      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-26T02:04:49.027158+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghi ngờ sự kiện lan truyền loài ngoại lai gần eo biển Hormuz",
-      "bullets": [
-        "Các nhà khoa học cảnh báo về sự kiện lan truyền loài ngoại lai",
-        "Sự kiện này có thể gây ra hậu quả nghiêm trọng cho hệ sinh thái",
-        "Nguồn gốc của loài ngoại lai vẫn chưa được xác định",
-        "Các nhà khoa học đang nghiên cứu để hiểu rõ hơn về tình hình"
-      ],
-      "full_summary": "Các nhà khoa học đã cảnh báo về sự kiện lan truyền loài ngoại lai gần eo biển Hormuz. Sự kiện này có thể gây ra hậu quả nghiêm trọng cho hệ sinh thái và gây ra những tác động tiêu cực đến môi trường. Nguồn gốc của loài ngoại lai vẫn chưa được xác định, nhưng các nhà khoa học đang nghiên cứu để hiểu rõ hơn về tình hình. Sự kiện này đã thu hút sự chú ý của cộng đồng khoa học và đang được theo dõi chặt chẽ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "485da066e08e",
-      "title": "Systems and Delays",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-26T02:04:50.153806+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Máy tính gặp sự cố, gây chậm trễ nghiêm trọng",
-      "bullets": [
-        "Máy tính gặp sự cố",
-        "Gây chậm trễ cho nhiều người dùng",
-        "Cần phải sửa chữa ngay lập tức",
-        "..."
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã báo cáo về các vấn đề về hệ thống và chậm trễ. Bài viết cho biết các hệ thống đã gặp sự cố, gây ra chậm trễ nghiêm trọng cho nhiều người dùng. Điều này đã gây ra sự bất tiện cho nhiều người và cần phải được sửa chữa ngay lập tức. Người dùng đang chờ đợi giải pháp để giải quyết vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d1dfd82a3d8b",
-      "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
-      "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-26T02:04:51.478410+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hệ thống GNU Hurd được nâng cấp với nhiều tính năng mới",
-      "bullets": [
-        "Cập nhật hệ thống tệp 9pfs",
-        "Thêm OpenNTPD để đồng bộ thời gian",
-        "Tạo danh sách thiết bị /dev động",
-        "Cập nhật các tính năng khác"
-      ],
-      "full_summary": "Hệ thống GNU Hurd đã được nâng cấp với nhiều tính năng mới, bao gồm hệ thống tệp 9pfs, OpenNTPD và tạo danh sách thiết bị /dev động. Những cập nhật này sẽ giúp hệ thống trở nên ổn định và hiệu quả hơn. Những người phát triển của hệ thống tin rằng những thay đổi này sẽ mang lại trải nghiệm tốt hơn cho người dùng.",
       "comments": 0,
       "score": 0
     }
