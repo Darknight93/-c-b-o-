@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-28T01:53:27.384055+00:00",
+  "updated_at": "2026-07-28T08:21:19.876488+00:00",
   "articles": [
+    {
+      "id": "b82e899f37c3",
+      "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T08:21:04.540130+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh sát Ecuador đấu tranh chống tội phạm ma túy",
+      "bullets": [
+        "Đoàn cảnh sát Ecuador đấu tranh chống tội phạm ma túy",
+        "Cảnh sát phải đối mặt với sự gia tăng tội phạm ma túy",
+        "Cảnh sát Ecuador đấu tranh chống tội phạm ma túy và tham nhũng",
+        "Cảnh sát Ecuador đấu tranh chống tội phạm ma túy và vũ khí"
+      ],
+      "full_summary": "BBC đã theo dõi đoàn cảnh sát Ecuador trong một ngày để thấy họ đấu tranh chống tội phạm ma túy. Sự gia tăng tội phạm ma túy đã khiến cảnh sát phải đối mặt với nhiều thách thức. Cảnh sát Ecuador phải đấu tranh chống tội phạm ma túy và tham nhũng, cũng như đối mặt với vũ khí. Sự gia tăng tội phạm ma túy đã khiến Ecuador trở thành một trong những quốc gia có tội phạm ma túy cao nhất ở Nam Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6111518e11d6",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T08:21:05.569970+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Johnson & Johnson đề nghị bồi thường tối đa 5,5 tỷ USD cho các vụ kiện liên quan đến bột tắm",
+      "bullets": [
+        "Đề nghị bồi thường nhằm chấm dứt cuộc chiến pháp lý kéo dài về cáo buộc bột talc gây ung thư",
+        "Johnson & Johnson sẽ phải trả tối đa 5,5 tỷ USD cho các nạn nhân",
+        "Các vụ kiện liên quan đến bột talc của Johnson & Johnson đã kéo dài nhiều năm"
+      ],
+      "full_summary": "Johnson & Johnson đã đề nghị bồi thường tối đa 5,5 tỷ USD để chấm dứt cuộc chiến pháp lý kéo dài về cáo buộc bột talc gây ung thư. Các vụ kiện liên quan đến bột talc của Johnson & Johnson đã kéo dài nhiều năm và ảnh hưởng đến hàng nghìn người. Đề nghị bồi thường này nhằm mục đích giải quyết các vụ kiện và chấm dứt cuộc chiến pháp lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7e4d72809d5",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T08:21:06.597381+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy tính siêu nhân xâm nhập OpenAI với tốc độ siêu nhân",
+      "bullets": [
+        "Xâm nhập vào OpenAI với tốc độ siêu nhân",
+        "Được thực hiện bởi AI với ít hoặc không có hướng dẫn con người",
+        "Hacking được thực hiện tại tốc độ siêu nhân",
+        "Xâm nhập vào hệ thống AI của OpenAI"
+      ],
+      "full_summary": "Một nhóm hacker đã xâm nhập vào hệ thống AI của OpenAI với tốc độ siêu nhân. Theo Hugging Face, cuộc tấn công này được thực hiện bởi một AI với ít hoặc không có hướng dẫn con người. Điều này đã gây ra lo ngại về sự an toàn của các hệ thống AI. Mặc dù OpenAI đã không xác nhận cuộc tấn công này, nhưng nó đã cho thấy sự cần thiết của việc tăng cường bảo mật cho các hệ thống AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d7c4969e9aa3",
+      "title": "Google fined €890m by EU for favouring its own apps over rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T08:21:07.882670+00:00",
+      "category": "công nghệ",
+      "importance": 5,
+      "headline": "Google bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình",
+      "bullets": [
+        "Bị phạt nặng vì vi phạm quy định mới về kỹ thuật số của EU",
+        "Là hành động trừng phạt đầu tiên nghiêm trọng đối với Google",
+        "Google bị buộc phải thay đổi cách thức hoạt động của mình",
+        "Sẽ có ảnh hưởng lớn đến thị trường ứng dụng và công nghệ"
+      ],
+      "full_summary": "Google vừa bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình trong khi đối xử không công bằng với các đối thủ cạnh tranh. Đây là hành động trừng phạt đầu tiên nghiêm trọng đối với Google dưới sự giám sát của EU. Theo quy định mới về kỹ thuật số của EU, các công ty công nghệ phải đối xử công bằng với các đối thủ cạnh tranh. Google sẽ phải thay đổi cách thức hoạt động của mình để tuân thủ quy định mới này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "79cfbd79c945",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T08:21:08.906193+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hai người Nga bị kết án vì âm mưu đảo chính và gián điệp ở Angola",
+      "bullets": [
+        "Bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực",
+        "Đã bị kết án 8 và 11 năm tù",
+        "Đã phủ nhận tội danh, tuyên bố là du khách và doanh nhân",
+        "Bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực"
+      ],
+      "full_summary": "Hai người Nga Lev Lakshtanov và Igor Ratchin đã bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola. Họ bị kết án 8 và 11 năm tù. Hai người này đã phủ nhận tội danh, tuyên bố là du khách và doanh nhân. Họ bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b9b839b2dd72",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T08:21:09.857449+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Anh hủy huấn luyện quân đội tại Kenya do bất đồng về quyền truy tố binh sĩ",
+      "bullets": [
+        "Kenya từ chối ký lại thỏa thuận quốc phòng với Anh",
+        "Anh muốn gia hạn thỏa thuận hiện hành, nhưng Kenya yêu cầu thay đổi",
+        "Kenya muốn tăng quyền truy tố binh sĩ Anh khi họ vi phạm pháp luật tại Kenya"
+      ],
+      "full_summary": "Anh đã hủy huấn luyện quân đội tại Kenya sau khi chính phủ Kenya từ chối ký lại thỏa thuận quốc phòng. Thỏa thuận này đã hết hạn và Anh muốn gia hạn, nhưng các nhà lập pháp Kenya yêu cầu thay đổi để tăng quyền truy tố binh sĩ Anh khi họ vi phạm pháp luật tại Kenya. Kenya muốn đảm bảo rằng binh sĩ Anh sẽ bị truy tố theo pháp luật Kenya nếu họ gây ra bất kỳ tội lỗi nào.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5e9106d43afd",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T08:21:10.775432+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một nhân viên y tế được theo dõi khả năng nhiễm Ebola ở London",
+      "bullets": [
+        "Được sơ tán khỏi Cộng hòa Dân chủ Congo",
+        "Được theo dõi tại bệnh viện chuyên khoa ở London",
+        "Có khả năng tiếp xúc với virus Ebola",
+        "Được điều trị tại bệnh viện chuyên khoa"
+      ],
+      "full_summary": "Một nhân viên y tế người Anh đang được theo dõi tại bệnh viện chuyên khoa ở London vì khả năng nhiễm virus Ebola. Người này đã được sơ tán khỏi Cộng hòa Dân chủ Congo, nơi đang xảy ra dịch bệnh. Họ đã tiếp xúc với bệnh nhân bị nhiễm Ebola trong quá trình làm việc tại khu vực này. Hiện tại, người này đang được điều trị tại bệnh viện chuyên khoa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0f292bde2d73",
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-28T08:21:13.014183+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "FCC bỏ cấm router ngoại quốc, Starlink được miễn",
+      "bullets": [
+        "Cơ quan quản lý truyền thông Mỹ (FCC) đã miễn Starlink khỏi lệnh cấm router được sản xuất ở nước ngoài",
+        "Starlink có nhà máy tại Texas nhưng cũng sản xuất router tại Việt Nam",
+        "Trước đó, FCC đã ban hành lệnh cấm router được sản xuất ở nước ngoài",
+        "Sự miễn trừ này sẽ giúp Starlink mở rộng hoạt động kinh doanh"
+      ],
+      "full_summary": "Cơ quan quản lý truyền thông Mỹ (FCC) đã miễn Starlink khỏi lệnh cấm router được sản xuất ở nước ngoài. Điều này có nghĩa là Starlink, công ty của Elon Musk, không còn bị hạn chế trong việc sản xuất và bán router ở Mỹ. Starlink có nhà máy tại Texas nhưng cũng sản xuất router tại Việt Nam. Sự miễn trừ này sẽ giúp Starlink mở rộng hoạt động kinh doanh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ac457b15ec75",
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "url": "https://arsastronomica.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-28T08:21:17.602682+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Tổ chức xuất bản các bản dịch tiếng Anh của các văn bản thiên văn hiếm",
+      "bullets": [
+        "Xuất bản các bản dịch tiếng Anh của các văn bản thiên văn Hebrew và Latin hiếm",
+        "Tổ chức Ars Astronomica cung cấp các bản dịch miễn phí",
+        "Các bản dịch bao gồm các tác phẩm của các nhà thiên văn học nổi tiếng",
+        "Tổ chức này giúp phổ biến kiến thức thiên văn cổ đại"
+      ],
+      "full_summary": "Tổ chức Ars Astronomica đã xuất bản các bản dịch tiếng Anh của các văn bản thiên văn hiếm, bao gồm cả các văn bản Hebrew và Latin. Các bản dịch này được cung cấp miễn phí và bao gồm các tác phẩm của các nhà thiên văn học nổi tiếng. Tổ chức này giúp phổ biến kiến thức thiên văn cổ đại và cung cấp cho người đọc một cái nhìn sâu sắc hơn về lịch sử của thiên văn học.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "27a1a6f4c9d5",
       "title": "Trump says Iran war talks taking place during lull in strikes",
@@ -613,186 +791,6 @@
         "Hạ viện Mỹ đang xem xét đề xuất luật này"
       ],
       "full_summary": "Hạ viện Mỹ đang xem xét một đề xuất luật mới cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI gây hại. Điều này được đưa ra sau khi mô hình AI của OpenAI bị lỗi và gây ra lo ngại về an toàn. Đề xuất luật nhằm ngăn chặn các mô hình AI gây thiệt hại cho công chúng. Nếu được thông qua, đề xuất luật này sẽ cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI mà họ coi là gây hại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8d66bad55f5",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T09:36:53.399161+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Uganda bắt đầu phân phối lương thực khẩn cấp sau 19 người chết vì đói",
-      "bullets": [
-        "Uganda bắt đầu phân phối lương thực khẩn cấp cho người dân vùng Karamoja",
-        "Ít nhất 19 người đã chết vì đói do hạn hán kéo dài",
-        "1,5 triệu người ở Karamoja đang đối mặt với tình trạng thiếu lương thực và suy dinh dưỡng",
-        "Cơn hạn hán đã làm thất bại vụ mùa và gây ra tình trạng thiếu lương thực nghiêm trọng"
-      ],
-      "full_summary": "Uganda đã bắt đầu phân phối lương thực khẩn cấp cho người dân vùng Karamoja sau khi ít nhất 19 người chết vì đói do hạn hán kéo dài. Vùng Karamoja đang đối mặt với tình trạng thiếu lương thực nghiêm trọng do vụ mùa thất bại và không có mưa trong mùa. 1,5 triệu người ở Karamoja đang đối mặt với tình trạng thiếu lương thực và suy dinh dưỡng. Chính phủ Uganda đang nỗ lực phân phối lương thực khẩn cấp để giúp người dân vùng Karamoja vượt qua khó khăn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "416acfffb1bc",
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-27T09:36:56.212875+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Các viện nghệ thuật đang tái định hình trải nghiệm du khách thông qua dữ liệu và công nghệ",
-      "bullets": [
-        "Sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn",
-        "Tối ưu hóa trải nghiệm du khách thông qua phân tích dữ liệu",
-        "Áp dụng công nghệ mới để tái tạo và trình diễn nghệ thuật",
-        "Tăng cường tương tác giữa du khách và nghệ thuật thông qua ứng dụng di động"
-      ],
-      "full_summary": "Các viện nghệ thuật đang bắt đầu sử dụng dữ liệu để tạo ra bộ sưu tập nghệ thuật đa dạng hơn và tối ưu hóa trải nghiệm du khách. Thông qua phân tích dữ liệu, các viện nghệ thuật có thể hiểu được nhu cầu và sở thích của du khách và tạo ra các chương trình và sự kiện phù hợp. Công nghệ mới cũng đang được áp dụng để tái tạo và trình diễn nghệ thuật, giúp du khách có thể trải nghiệm nghệ thuật một cách chân thực hơn. Điều này đang giúp tăng cường tương tác giữa du khách và nghệ thuật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eeaa321cd070",
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-27T09:37:00.158225+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Bài viết giải thích cách PostgreSQL hoạt động",
-      "bullets": [
-        "Giải thích cơ chế hoạt động của PostgreSQL",
-        "Hướng dẫn cách sử dụng PostgreSQL",
-        "Phân tích hiệu suất của PostgreSQL",
-        "So sánh PostgreSQL với các cơ sở dữ liệu khác"
-      ],
-      "full_summary": "Bài viết PGSimCity là một dự án mở giúp người dùng hiểu rõ hơn về cách PostgreSQL hoạt động. Nó sử dụng một mô hình 3D để minh họa các khái niệm cơ bản của cơ sở dữ liệu. Bài viết này giúp người dùng hiểu rõ hơn về cách PostgreSQL quản lý dữ liệu và thực hiện các truy vấn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0bcbe8e075cf",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T02:12:03.953507+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một nghi phạm tấn công Pride ở Berlin bị bắn chết",
-      "bullets": [
-        "Cảnh sát bắn chết Abdul Ballout",
-        "Nạn nhân dùng dao tấn công cảnh sát",
-        "Tình huống xảy ra tại một khu vực phía tây Berlin",
-        "Cảnh sát đang điều tra vụ việc"
-      ],
-      "full_summary": "Một nghi phạm tấn công Pride ở Berlin đã bị bắn chết sau khi dùng dao tấn công cảnh sát. Sự việc xảy ra tại một khu vực phía tây Berlin. Cảnh sát cho biết Abdul Ballout đã cố gắng tấn công họ bằng dao trước khi bị bắn chết. Vụ việc đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f3d0c3bc6f84",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T02:12:05.043214+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Netanyahu tố NYC thị trưởng Mamdani 'kêu gọi hận thù'",
-      "bullets": [
-        "Netanyahu cáo buộc NYC thị trưởng Mamdani 'kêu gọi hận thù'",
-        "Mamdani rút lại lời đe dọa bắt giữ Netanyahu",
-        "Netanyahu bị ICC ra lệnh bắt giữ vì tội ác chiến tranh",
-        "Mamdani không có quyền bắt giữ Netanyahu"
-      ],
-      "full_summary": "Netanyahu cáo buộc NYC thị trưởng Eric Adams (không phải Mamdani) 'kêu gọi hận thù' sau khi ông này rút lại lời đe dọa bắt giữ ông Netanyahu. Lời đe dọa này liên quan đến lệnh bắt giữ của Tòa án Hình sự Quốc tế (ICC) đối với Netanyahu vì tội ác chiến tranh. Tuy nhiên, Mamdani không có quyền bắt giữ Netanyahu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "235a089ac58a",
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T02:12:06.951944+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Chủ tịch Ukraine sắp đến thăm Anh, nhận được sự ủng hộ từ Thủ tướng",
-      "bullets": [
-        "Thủ tướng Anh cam kết tiếp tục hỗ trợ Ukraine",
-        "Chủ tịch Ukraine sẽ là khách quốc tế đầu tiên thăm Anh dưới thời Thủ tướng mới",
-        "Ngoại trưởng Anh sẽ cùng tham dự cuộc gặp giữa Thủ tướng Anh và Chủ tịch Ukraine",
-        "Sự kiện này diễn ra trước khi Chủ tịch Ukraine đến thăm Anh"
-      ],
-      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky sắp đến thăm Anh, đây sẽ là chuyến thăm quốc tế đầu tiên của ông dưới thời Thủ tướng mới Andy Burnham. Thủ tướng Anh cam kết tiếp tục hỗ trợ Ukraine trong cuộc xung đột với Nga. Ngoại trưởng Anh sẽ cùng tham dự cuộc gặp giữa Thủ tướng Anh và Chủ tịch Ukraine. Sự kiện này diễn ra trước khi Chủ tịch Ukraine đến thăm Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23bb56a2af88",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T02:12:07.991703+00:00",
-      "category": "politics|technology",
-      "importance": 3,
-      "headline": "Trump đe dọa điều tra EU vì phạt công ty công nghệ Mỹ",
-      "bullets": [
-        "Trump yêu cầu đảo ngược hoàn toàn các khoản phạt đối với Google",
-        "Ông chỉ trích các khoản phạt đối với Apple, Meta và Amazon",
-        "Fines này được áp dụng bởi các cơ quan chức năng của Liên minh châu Âu",
-        "Trump cho rằng các khoản phạt này không công bằng"
-      ],
-      "full_summary": "Tổng thống Mỹ Donald Trump đã tuyên bố sẽ điều tra Liên minh châu Âu (EU) vì phạt các công ty công nghệ lớn của Mỹ, bao gồm Google, Apple, Meta và Amazon. Ông cho rằng các khoản phạt này không công bằng và yêu cầu đảo ngược hoàn toàn. Các khoản phạt này được áp dụng bởi các cơ quan chức năng của EU vì vi phạm các quy định về cạnh tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "90446345cb50",
-      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T02:12:08.926036+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ba người Venezuela kiện hai công ty hàng không vì bị đưa đến tù El Salvador",
-      "bullets": [
-        "Ba người Venezuela kiện CSI Aviation và GlobalX vì bị đưa đến tù El Salvador",
-        "Các công ty hàng không bị cáo buộc vi phạm quyền dân sự và gây ra tổn thương tinh thần",
-        "Vụ việc liên quan đến chính sách di trú của chính quyền Trump",
-        "Các nạn nhân bị đưa đến tù El Salvador vào năm ngoái"
-      ],
-      "full_summary": "Ba người Venezuela đang kiện hai công ty hàng không CSI Aviation và GlobalX vì đã vận chuyển họ đến tù El Salvador vào năm ngoái. Các công ty hàng không bị cáo buộc vi phạm quyền dân sự và gây ra tổn thương tinh thần. Vụ việc liên quan đến chính sách di trú của chính quyền Trump. Các nạn nhân đang yêu cầu bồi thường và công lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2f8a25251071",
-      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-27T02:12:12.234990+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Hỏa hoạn ở Tây Ban Nha khiến NASA phải sơ tán mạng lưới không gian sâu",
-      "bullets": [
-        "Tây Ban Nha đang đối mặt với một đám cháy lớn",
-        "Đám cháy đã buộc NASA sơ tán mạng lưới Deep Space Network",
-        "Tính chất và mức độ của thiệt hại chưa được xác định",
-        "NASA sẽ đánh giá thiệt hại khi an toàn cho phép"
-      ],
-      "full_summary": "Một đám cháy lớn đang lan rộng ở Tây Ban Nha đã buộc NASA sơ tán mạng lưới Deep Space Network. Mạng lưới này đóng vai trò quan trọng trong việc tiếp nhận tín hiệu từ các tàu vũ trụ. NASA chưa thể đánh giá thiệt hại do đám cháy gây ra. Khi an toàn cho phép, NASA sẽ tiến hành đánh giá và khắc phục thiệt hại.",
       "comments": 0,
       "score": 0
     }
