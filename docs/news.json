@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-07-28T08:21:19.876488+00:00",
+  "updated_at": "2026-07-28T13:47:22.585695+00:00",
   "articles": [
+    {
+      "id": "0438ad849ce0",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:05.956702+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ rời khỏi cuộc họp Hội đồng Bảo an Liên Hợp Quốc",
+      "bullets": [
+        "Mỹ bỏ phiếu chống lại việc gia hạn nhiệm kỳ đại sứ nhân quyền Liên Hợp Quốc",
+        "Mỹ cùng với Bắc Triều Tiên và Nga bỏ phiếu chống lại",
+        "Phản ứng của Mỹ khiến cuộc họp Hội đồng Bảo an Liên Hợp Quốc bị gián đoạn",
+        "Phát biểu của Pháp bị gián đoạn khi Mỹ rời khỏi cuộc họp"
+      ],
+      "full_summary": "Mỹ đã rời khỏi cuộc họp Hội đồng Bảo an Liên Hợp Quốc sau khi bỏ phiếu chống lại việc gia hạn nhiệm kỳ đại sứ nhân quyền Liên Hợp Quốc. Mỹ đã bỏ phiếu cùng với Bắc Triều Tiên và Nga, gây ra sự gián đoạn trong cuộc họp. Phát biểu của Pháp bị gián đoạn khi Mỹ rời khỏi cuộc họp. Sự việc này đã gây ra sự chú ý trong cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d71784b8683f",
+      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:07.106345+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Seattle nhớ thương 3 người tử vong trong vụ bắn súng tại lễ hội ẩm thực",
+      "bullets": [
+        "Hàng trăm người đã tham dự lễ tang của 3 nạn nhân",
+        "FBI đang điều tra vụ tấn công tại lễ hội ẩm thực",
+        "Lễ hội đã bị hủy bỏ sau vụ bắn súng",
+        "Nạn nhân bao gồm 2 nam và 1 nữ"
+      ],
+      "full_summary": "Hàng trăm người đã tham dự lễ tang của 3 nạn nhân trong vụ bắn súng tại lễ hội ẩm thực ở Seattle. FBI đang điều tra vụ tấn công. Lễ hội đã bị hủy bỏ sau vụ bắn súng. Nạn nhân bao gồm 2 nam và 1 nữ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2018edd914b8",
+      "title": "Zidane confirmed as France head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:08.402810+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Zinedine Zidane được bổ nhiệm làm huấn luyện viên trưởng đội tuyển bóng đá Pháp",
+      "bullets": [
+        "Zinedine Zidane được bổ nhiệm làm huấn luyện viên trưởng đội tuyển bóng đá Pháp",
+        "Ông sẽ dẫn dắt đội tuyển Pháp trong các giải đấu quốc tế",
+        "Zidane từng là huấn luyện viên trưởng của Real Madrid",
+        "Ông sẽ phải đối mặt với nhiều thách thức khi dẫn dắt đội tuyển Pháp"
+      ],
+      "full_summary": "Zinedine Zidane đã được xác nhận là huấn luyện viên trưởng của đội tuyển bóng đá Pháp. Ông sẽ dẫn dắt đội tuyển Pháp trong các giải đấu quốc tế, bao gồm giải vô địch bóng đá châu Âu và World Cup. Zidane từng là huấn luyện viên trưởng của Real Madrid và đã giành được nhiều danh hiệu quan trọng. Ông sẽ phải đối mặt với nhiều thách thức khi dẫn dắt đội tuyển Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bf141e6fd904",
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:09.530417+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nhà dịch Homer chỉ trích phim Odyssey của Nolan",
+      "bullets": [
+        "Phim nhận được nhiều đánh giá tích cực từ các nhà phê bình phim",
+        "Nhà dịch Homer không hài lòng với phiên bản phim",
+        "Phiên bản phim của Nolan không đáp ứng được kỳ vọng của ông",
+        "Nhà dịch Homer đã viết một đánh giá nghiêm khắc về phim"
+      ],
+      "full_summary": "Một nhà dịch Homer đã viết một đánh giá nghiêm khắc về phiên bản phim Odyssey của đạo diễn Christopher Nolan. Mặc dù phim đã nhận được nhiều đánh giá tích cực từ các nhà phê bình phim, nhà dịch Homer không hài lòng với phiên bản phim. Ông đã chỉ trích rằng phim không đáp ứng được kỳ vọng của mình và đã viết một đánh giá nghiêm khắc về phim.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fc5097cce12b",
+      "title": "Ariana Grande sues hackers who leaked music and videos",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:10.465466+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ariana Grande kiện hacker vì rò rỉ âm nhạc và video",
+      "bullets": [
+        "Ariana Grande kiện các hacker để tìm hiểu danh tính của họ",
+        "Các hacker đã rò rỉ các hình ảnh và bài hát chưa phát hành",
+        "Ariana Grande đang cố gắng tìm ra ai đã thực hiện vụ hack",
+        "Vụ kiện này nhằm mục đích bảo vệ quyền sở hữu trí tuệ của cô"
+      ],
+      "full_summary": "Ariana Grande đang kiện các hacker vì đã rò rỉ các hình ảnh và bài hát chưa phát hành của cô. Các hacker đã lấy được các tài liệu này và đăng tải chúng lên internet. Ariana Grande đang cố gắng tìm ra danh tính của các hacker và bảo vệ quyền sở hữu trí tuệ của mình. Vụ kiện này nhằm mục đích ngăn chặn các vụ hack tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e828648dfa70",
+      "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:11.404679+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Tân sinh viên Hồng Kông được phép ở lại Anh sau đe dọa trục xuất",
+      "bullets": [
+        "Bị từ chối nhập cảnh tại sân bay Heathrow",
+        "Được phép ở lại sau nhiều giờ bị tạm giữ",
+        "Tân sinh viên Hồng Kông lên tiếng về vụ việc",
+        "Anh sẽ xem xét lại chính sách nhập cảnh"
+      ],
+      "full_summary": "Một tân sinh viên Hồng Kông đã bị từ chối nhập cảnh tại sân bay Heathrow, Anh và bị tạm giữ trong nhiều giờ. Tuy nhiên, sau đó anh đã được phép ở lại Anh. Tân sinh viên này đã lên tiếng về vụ việc và cho biết anh sẽ tiếp tục sống tại Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "23bb56a2af88",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:12.556828+00:00",
+      "category": "politics|technology",
+      "importance": 4,
+      "headline": "Trump yêu cầu đảo ngược các khoản tiền phạt đối với các công ty công nghệ Mỹ",
+      "bullets": [
+        "Trump yêu cầu đảo ngược các khoản tiền phạt đối với Google",
+        "Trump chỉ trích các khoản tiền phạt đối với Apple, Meta và Amazon",
+        "Fines đối với các công ty công nghệ Mỹ do EU áp đặt",
+        "Trump cam kết điều tra EU về các khoản tiền phạt này"
+      ],
+      "full_summary": "Thủ tướng Mỹ Donald Trump tuyên bố sẽ điều tra EU vì đã phạt các công ty công nghệ Mỹ bao gồm Google, Apple, Meta và Amazon. Ông Trump cho rằng các khoản tiền phạt này nên được 'đảo ngược hoàn toàn'. Các khoản tiền phạt này là kết quả của các cuộc điều tra về cạnh tranh của EU.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d8d66bad55f5",
+      "title": "Uganda begins emergency food handouts after 19 die from hunger",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:13.594917+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Uganda cung cấp thực phẩm khẩn cấp sau 19 người chết vì đói",
+      "bullets": [
+        "Uganda bắt đầu phân phối thực phẩm khẩn cấp",
+        "19 người chết vì đói ở khu vực Karamoja",
+        "1,5 triệu người ở Karamoja đối mặt với suy dinh dưỡng",
+        "Cơn hạn hán kéo dài gây ra sự cố về lương thực"
+      ],
+      "full_summary": "Uganda đã triển khai phân phối thực phẩm khẩn cấp sau khi ít nhất 19 người chết vì đói ở khu vực Karamoja, nơi đã trải qua hạn hán kéo dài và thất bại của mùa màng. 1,5 triệu người ở khu vực này đang đối mặt với tình trạng suy dinh dưỡng nghiêm trọng và thiếu thốn lương thực. Cơn hạn hán đã gây ra sự cố về lương thực và dẫn đến sự chết đói.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "85039a800206",
+      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T13:47:17.172967+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tướng Pinochet cũ bị kết án vì giết ca sĩ Víctor Jara",
+      "bullets": [
+        "Bị kết án vì giết hại ca sĩ Víctor Jara",
+        "Tướng Nelson Haase Mazzei trốn khỏi Chile sau khi bị kết án",
+        "Sự việc diễn ra sau hơn 50 năm giết hại ca sĩ",
+        "Tướng Mazzei bị bắt và đưa ra xét xử"
+      ],
+      "full_summary": "Tướng Pinochet cũ, Nelson Haase Mazzei, đã bị kết án vì giết hại ca sĩ Chile Víctor Jara. Sự việc diễn ra sau hơn 50 năm giết hại ca sĩ này. Tướng Mazzei đã trốn khỏi Chile sau khi bị kết án, nhưng cuối cùng đã bị bắt và đưa ra xét xử. Đây là một bước tiến quan trọng trong việc tìm kiếm công lý cho gia đình ca sĩ Víctor Jara.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "b82e899f37c3",
       "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
@@ -615,182 +795,6 @@
         "Sẽ tiếp tục hoạt động nghệ thuật"
       ],
       "full_summary": "Ca sĩ Carly Simon vừa công bố chẩn đoán bệnh Parkinson và đã được điều trị cho bệnh ung thư da. Mặc dù vậy, cô vẫn quyết tâm tiếp tục hát và hoạt động nghệ thuật. Cô đã trở thành một biểu tượng âm nhạc nổi tiếng và được yêu thích trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "013fad0fe07d",
-      "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
-      "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T14:15:09.965384+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hlv Pirlo bị sa thải vì liên quan đến công ty cược Nga",
-      "bullets": [
-        "Bị sa thải vì liên quan đến công ty cược Nga",
-        "Đội bóng Ý không thể vào World Cup lần thứ ba liên tiếp",
-        "Lực lượng bóng đá Ý tiếp tục rối loạn",
-        "Sự việc gây ra phản ứng dữ dội"
-      ],
-      "full_summary": "Hlv Andrea Pirlo bị sa thải vì liên quan đến công ty cược Nga. Sự việc này gây ra phản ứng dữ dợi trong cộng đồng bóng đá Ý. Italy đã không thể vào World Cup lần thứ ba liên tiếp, khiến lực lượng bóng đá Ý tiếp tục rối loạn. Sự việc này cũng cho thấy sự thiếu ổn định trong quản lý bóng đá Ý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1755a01dc3ec",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T14:15:11.542647+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một chuyến tàu Guyana bị chìm, 72 người thiệt mạng",
-      "bullets": [
-        "Cứu hộ đang cố gắng cứu vớt tất cả người trên tàu",
-        "72 người đã thiệt mạng, 76 người được cứu",
-        "Tàu chìm có khoảng 179 người trên tàu khi xảy ra tai nạn"
-      ],
-      "full_summary": "Một chuyến tàu của Guyana đã bị chìm ngoài khơi bờ biển, khiến 72 người thiệt mạng. Cứu hộ đang cố gắng cứu vớt tất cả người trên tàu và thu hồi các thi thể. Số người thiệt mạng có thể lên tới 100, khiến đây là thảm họa biển tồi tệ nhất trong lịch sử Guyana.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb6b63122ca4",
-      "title": "Should you wash your solar panels?",
-      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-27T14:15:15.785384+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Rửa sạch tấm pin năng lượng mặt trời có cần thiết không?",
-      "bullets": [
-        "Rửa sạch tấm pin năng lượng mặt trời có thể làm giảm hiệu suất",
-        "Sử dụng nước sạch và mềm để rửa tấm pin",
-        "Tránh rửa tấm pin khi trời mưa hoặc ẩm ướt"
-      ],
-      "full_summary": "Một bài viết trên Hacker News đã thảo luận về việc rửa sạch tấm pin năng lượng mặt trời. Theo đó, rửa sạch tấm pin có thể làm giảm hiệu suất của nó, nhưng cũng có thể giúp loại bỏ bụi và các vật thể bên ngoài. Để rửa sạch tấm pin, người dùng nên sử dụng nước sạch và mềm, và tránh rửa tấm pin khi trời mưa hoặc ẩm ướt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4dde25f66170",
-      "title": "How is the Bun Rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-27T14:15:20.220137+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Đoàn ngũ đang thực hiện lại Bun bằng Rust",
-      "bullets": [
-        "Đoàn ngũ đang phát triển lại Bun bằng ngôn ngữ lập trình Rust",
-        "Bun là một công cụ lập trình được thiết kế để giúp các nhà phát triển tạo ra các ứng dụng AI",
-        "Đoàn ngũ đang gặp phải một số khó khăn trong quá trình phát triển lại Bun"
-      ],
-      "full_summary": "Đoàn ngũ đang thực hiện lại Bun bằng Rust, một ngôn ngữ lập trình mới, để giúp cải thiện hiệu suất và tính ổn định của công cụ. Tuy nhiên, họ đang gặp phải một số khó khăn trong quá trình phát triển lại Bun, bao gồm việc tích hợp các tính năng mới và sửa lỗi các vấn đề tồn đọng. Mặc dù vậy, đoàn ngũ vẫn lạc quan về khả năng hoàn thành dự án trong thời gian sớm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4db8f168b4a7",
-      "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T09:36:47.508337+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một vụ bắn súng tại lễ hội ẩm thực gần Seattle khiến 3 người chết và nhiều bị thương.",
-      "bullets": [
-        "Có một nghi phạm bị bắt giữ.",
-        "3 người đã chết và nhiều người bị thương.",
-        "Một cháu bé 2 tuổi cũng bị thương.",
-        "Thị trưởng Seattle Katie Wilson xác nhận nghi phạm đang trong sự quản lý."
-      ],
-      "full_summary": "Một vụ bắn súng bất ngờ xảy ra tại lễ hội ẩm thực gần Seattle's Space Needle, khiến 3 người chết và nhiều người bị thương. Một cháu bé 2 tuổi cũng bị thương trong vụ việc. Thị trưởng Seattle Katie Wilson đã xác nhận một nghi phạm đang trong sự quản lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "69485e5ec0ed",
-      "title": "Millions see leaked copy of The Odyssey movie on X",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T09:36:48.413153+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Universal xóa bản sao bootleg chất lượng cao của phim Odyssey trên X",
-      "bullets": [
-        "X phát hành bản sao bootleg chất lượng cao của phim Odyssey",
-        "Universal xóa bản sao bootleg khỏi X",
-        "Phim Odyssey được sản xuất bởi Universal",
-        "Bản sao bootleg được chia sẻ trên nền tảng X"
-      ],
-      "full_summary": "Một bản sao bootleg chất lượng cao của phim Odyssey đã xuất hiện trên nền tảng X. Universal đã nhanh chóng xóa bản sao bootleg khỏi nền tảng này. Bản sao bootleg này đã được nhiều người xem trước khi được xóa. Việc này cho thấy sự bất an của các studio phim về việc chia sẻ nội dung không hợp pháp trên các nền tảng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2e997fd2a8dd",
-      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T09:36:49.430633+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Infantino khuyên chỉ trích nên cầu nguyện hoặc xem bóng đá",
-      "bullets": [
-        "Infantino chỉ trích những người chỉ trích về việc lan truyền tin đồn sai sự thật",
-        "Ông khuyên họ nên cầu nguyện hoặc xem một trận đấu bóng đá",
-        "Infantino đang đối mặt với nhiều chỉ trích sau World Cup 2022",
-        "Ông bị chỉ trích vì những quyết định quản lý FIFA"
-      ],
-      "full_summary": "Gianni Infantino, chủ tịch FIFA, đã chỉ trích những người chỉ trích ông về việc lan truyền tin đồn sai sự thật. Ông khuyên họ nên cầu nguyện hoặc xem một trận đấu bóng đá thay vì lan truyền tin đồn. Infantino đang đối mặt với nhiều chỉ trích sau World Cup 2022 do những quyết định quản lý FIFA của ông.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9fc3d5dc9754",
-      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T09:36:51.345338+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ứng dụng giúp người yêu chim dễ dàng xác định loài",
-      "bullets": [
-        "Sử dụng ứng dụng để xác định loài chim đã trở thành phổ biến",
-        "Ứng dụng giúp người mới bắt đầu tìm hiểu về chim dễ dàng hơn",
-        "Ứng dụng giúp người yêu chim theo dõi và ghi chép về hành vi của chim"
-      ],
-      "full_summary": "Ứng dụng Shazam-like giúp người yêu chim xác định loài chim một cách dễ dàng. Các ứng dụng này đã trở thành phổ biến trong cộng đồng người yêu chim. Các ứng dụng này giúp người mới bắt đầu tìm hiểu về chim dễ dàng hơn và theo dõi hành vi của chim. Điều này đã giúp tăng cường sự tham gia của người mới vào cộng đồng người yêu chim.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6b6aa0e38a4b",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T09:36:52.331305+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Hạ viện Mỹ muốn tạo nút 'tắt' cho AI khi chúng gây nguy hiểm",
-      "bullets": [
-        "Đề xuất luật mới cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI gây hại",
-        "Mô hình AI của OpenAI đã bị lỗi và gây ra lo ngại về an toàn",
-        "Đề xuất luật nhằm ngăn chặn các mô hình AI gây thiệt hại cho công chúng",
-        "Hạ viện Mỹ đang xem xét đề xuất luật này"
-      ],
-      "full_summary": "Hạ viện Mỹ đang xem xét một đề xuất luật mới cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI gây hại. Điều này được đưa ra sau khi mô hình AI của OpenAI bị lỗi và gây ra lo ngại về an toàn. Đề xuất luật nhằm ngăn chặn các mô hình AI gây thiệt hại cho công chúng. Nếu được thông qua, đề xuất luật này sẽ cho phép chính phủ Mỹ yêu cầu tắt các mô hình AI mà họ coi là gây hại.",
       "comments": 0,
       "score": 0
     }
