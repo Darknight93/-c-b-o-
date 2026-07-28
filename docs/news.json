@@ -1,6 +1,163 @@
 {
-  "updated_at": "2026-07-28T13:47:22.585695+00:00",
+  "updated_at": "2026-07-28T19:13:01.796949+00:00",
   "articles": [
+    {
+      "id": "79a1e2c9213b",
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T19:12:47.549642+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều đám cháy rừng bùng phát ở tây nam nước Pháp",
+      "bullets": [
+        "Cứu hỏa chuẩn bị đối mặt với nhiệt độ tăng cao",
+        "Đám cháy ở Gironde đang gây khó khăn cho việc kiểm soát",
+        "Nhiều người dân bị di dời khỏi khu vực bị ảnh hưởng",
+        "Cơn sóng nhiệt mới có thể làm phức tạp việc dập lửa"
+      ],
+      "full_summary": "Cứu hỏa đang đối mặt với thách thức lớn khi nhiều đám cháy rừng bùng phát ở tây nam nước Pháp. Nhiệt độ có thể tăng cao lên 40 độ C vào thứ Ba, khiến việc kiểm soát đám cháy trở nên khó khăn hơn. Nhiều người dân đã bị di dời khỏi khu vực bị ảnh hưởng. Cơn sóng nhiệt mới có thể làm phức tạp việc dập lửa và khiến tình hình trở nên nghiêm trọng hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a0dd136f618d",
+      "title": "Uefa reacts with fury to Infantino World Cup plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T19:12:48.493878+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Uefa phản ứng dữ dội trước kế hoạch của Fifa",
+      "bullets": [
+        "Uefa phản đối mạnh mẽ kế hoạch của Fifa",
+        "Fifa đề xuất đầu tư tư nhân vào các giải đấu của mình",
+        "Uefa lo ngại về sự can thiệp của tư nhân vào bóng đá châu Âu",
+        "Kế hoạch của Fifa gây tranh cãi trong cộng đồng bóng đá"
+      ],
+      "full_summary": "Uefa đã phản ứng dữ dội trước kế hoạch của Fifa nhằm tìm kiếm đầu tư tư nhân vào các giải đấu của mình, bao gồm cả World Cup. Uefa lo ngại về sự can thiệp của tư nhân vào bóng đá châu Âu và cho rằng kế hoạch này có thể gây hại cho sự phát triển của bóng đá. Fifa đề xuất đầu tư tư nhân vào các giải đấu của mình để tăng cường tài chính và phát triển bóng đá toàn cầu. Tuy nhiên, kế hoạch này đã gây tranh cãi trong cộng đồng bóng đá.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "96ce98a3e4f0",
+      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T19:12:49.697053+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Ghana đang thương tiếc người đàn ông cao nhất của họ",
+      "bullets": [
+        "Chết vì bệnh lý liên quan đến chứng tăng trưởng quá mức",
+        "Sulemana Abdul Samed được chẩn đoán mắc chứng tăng trưởng quá mức nhiều năm trước",
+        "Ông được biết đến với tính cách nhân hậu và nổi tiếng ở Ghana"
+      ],
+      "full_summary": "Sulemana Abdul Samed, người được chẩn đoán mắc chứng tăng trưởng quá mức, đã qua đời ở tuổi 33. Ông được biết đến với tính cách nhân hậu và nổi tiếng ở Ghana. Sulemana Abdul Samed đã được nhiều người biết đến vì chiều cao của mình. Ông đã qua đời sau khi bị bệnh lý liên quan đến chứng tăng trưởng quá mức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3dec83558618",
+      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T19:12:50.583915+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "14 con voi bị tử vong bí ẩn ở Kenya",
+      "bullets": [
+        "Báo cáo 14 con voi bị tử vong ở khu vực phía nam Kenya",
+        "Số lượng tử vong cao nhất trong nhiều thập kỷ",
+        "Cơ quan chức năng đang tiến hành điều tra khẩn cấp",
+        "Nguyên nhân tử vong vẫn chưa được xác định"
+      ],
+      "full_summary": "Một vụ tử vong bí ẩn đã xảy ra ở khu vực phía nam Kenya, nơi 14 con voi đã bị tử vong. Đây là số lượng tử vong cao nhất trong nhiều thập kỷ. Cơ quan chức năng đang tiến hành điều tra khẩn cấp để xác định nguyên nhân tử vong. Tuy nhiên, vẫn chưa có thông tin cụ thể về vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9fc3d5dc9754",
+      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
+      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T19:12:51.546627+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Ứng dụng di động giúp người đam mê chim bay trở nên hứng thú hơn",
+      "bullets": [
+        "Sử dụng ứng dụng để nhận diện loài chim trở nên dễ dàng hơn",
+        "Ứng dụng giúp người đam mê chim bay tìm kiếm thông tin và chia sẻ kinh nghiệm",
+        "Ứng dụng thu hút nhiều người mới tham gia vào sở thích này",
+        "Người đam mê chim bay chia sẻ ứng dụng đã thay đổi cách họ tiếp cận sở thích lâu đời"
+      ],
+      "full_summary": "Ứng dụng di động giúp người đam mê chim bay nhận diện loài chim một cách dễ dàng hơn. Người đam mê chim bay có thể sử dụng ứng dụng để tìm kiếm thông tin và chia sẻ kinh nghiệm. Các ứng dụng này đã thu hút nhiều người mới tham gia vào sở thích này. Người đam mê chim bay cho biết ứng dụng đã thay đổi cách họ tiếp cận sở thích lâu đời của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0f61a66e8411",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-28T19:12:52.495256+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Một trong ba người trên thế giới không thể mua thực phẩm lành mạnh",
+      "bullets": [
+        "Hơn 2,69 tỷ người không thể mua thực phẩm đa dạng đáp ứng nhu cầu năng lượng và dinh dưỡng",
+        "Số lượng đó giảm 1% so với năm ngoái",
+        "Các chuyên gia kêu gọi hành động để giảm chi phí hoa quả, rau củ và sữa"
+      ],
+      "full_summary": "Theo báo cáo mới của Liên Hợp Quốc, một trong ba người trên thế giới không thể mua thực phẩm lành mạnh. Báo cáo này được thực hiện bởi năm tổ chức Liên Hợp Quốc và cho thấy 2,69 tỷ người không thể mua thực phẩm đa dạng đáp ứng nhu cầu năng lượng và dinh dưỡng. Số lượng đó giảm 1% so với năm ngoái, nhưng vẫn còn rất nhiều việc phải làm để đạt được mục tiêu không có đói nghèo vào năm 2030.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a4db0dbbee85",
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+      "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-28T19:12:56.792165+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cập nhật iOS và macOS 26.6: Chuẩn bị cho iOS và macOS 27 sắp tới",
+      "bullets": [
+        "Cập nhật mới này có thể là bản cập nhật cuối cùng trước khi Apple phát hành bản cập nhật lớn vào mùa thu",
+        "Bản cập nhật này sẽ giúp chuẩn bị cho iOS và macOS 27",
+        "Bản cập nhật này không có nhiều tính năng mới đáng kể",
+        "Bản cập nhật này sẽ giúp cải thiện hiệu suất và bảo mật"
+      ],
+      "full_summary": "Hôm nay, Apple đã phát hành bản cập nhật iOS và macOS 26.6. Bản cập nhật này có thể là bản cập nhật cuối cùng trước khi Apple phát hành bản cập nhật lớn vào mùa thu. Bản cập nhật này sẽ giúp chuẩn bị cho iOS và macOS 27 và không có nhiều tính năng mới đáng kể. Bản cập nhật này sẽ giúp cải thiện hiệu suất và bảo mật.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4136a28fa8a8",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-28T19:13:01.296797+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cập nhật Steel Bank Common Lisp phiên bản 2.6.7",
+      "bullets": [
+        "Cập nhật phiên bản mới của Steel Bank Common Lisp",
+        "Phiên bản 2.6.7 mang lại các tính năng và cải tiến mới",
+        "Mở rộng khả năng sử dụng của ngôn ngữ lập trình Lisp"
+      ],
+      "full_summary": "Steel Bank Common Lisp (SBCL) đã phát hành phiên bản 2.6.7. Phiên bản mới này mang lại các tính năng và cải tiến mới cho ngôn ngữ lập trình Lisp. SBCL là một môi trường thực thi Lisp mạnh mẽ và linh hoạt, được sử dụng rộng rãi trong các ứng dụng và dự án khác nhau.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0438ad849ce0",
       "title": "US walks out of UN Security Council meeting during France's remarks",
@@ -636,165 +793,6 @@
         "Tạo nên cơn sốt trên internet"
       ],
       "full_summary": "Một video vô tình được chia sẻ trên Instagram bởi cư dân Seattle Kiana Hall đã trở thành hiện tượng trên mạng xã hội. Video này về một con gấu mèo tên Jimothy đã thu hút sự chú ý của nhiều người. Con gấu mèo này đã trở thành thú vị nhất trên internet và tạo nên cơn sốt trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3af5f66029c6",
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T19:16:38.970950+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Cổ phiếu Google và Tesla sụt giảm do đầu tư vào AI",
-      "bullets": [
-        "Giảm giá cổ phiếu của Google và Tesla",
-        "Nghi ngờ về lợi ích tài chính từ công nghệ AI",
-        "Công ty công nghệ lớn đầu tư vào AI",
-        "Tâm lý đầu tư bất ổn trên thị trường"
-      ],
-      "full_summary": "Cổ phiếu của Google và Tesla đã giảm giá do lo ngại về lợi ích tài chính từ công nghệ trí tuệ nhân tạo (AI). Các công ty công nghệ lớn đang đầu tư mạnh vào AI để tận dụng làn sóng công nghệ mới. Tuy nhiên, các nhà đầu tư đang đặt câu hỏi về thời điểm lợi ích tài chính sẽ xuất hiện. Sự bất ổn trên thị trường đang khiến tâm lý đầu tư trở nên khó đoán.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd951e143569",
-      "title": "Shots fired near US consulate in Canada for second time in four months",
-      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T19:16:40.529214+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nổ súng gần trụ sở lãnh sự Mỹ tại Toronto",
-      "bullets": [
-        "Nổ súng gần trụ sở lãnh sự Mỹ tại Toronto",
-        "Không có người bị thương trong vụ tấn công",
-        "Không xác định được nghi phạm",
-        "Một chiếc sedan trắng được nhìn thấy trốn thoát khỏi hiện trường"
-      ],
-      "full_summary": "Vào sáng thứ hai, đã có vụ nổ súng gần trụ sở lãnh sự Mỹ tại Toronto. Không có người bị thương trong vụ tấn công này. Đây là vụ tấn công thứ hai gần trụ sở này trong vòng 4 tháng. Cảnh sát Toronto cho biết họ đã nghe thấy tiếng súng và nhìn thấy một chiếc sedan trắng trốn thoát khỏi hiện trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5f12d7e6a92d",
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-27T19:16:46.034260+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Phát triển Python độc lập và di động",
-      "bullets": [
-        "Tạo ra bản phân phối Python độc lập và di động",
-        "Giúp dễ dàng xây dựng và phân phối ứng dụng Python",
-        "Cung cấp khả năng tùy chỉnh và mở rộng"
-      ],
-      "full_summary": "Gregory Szorc đã công bố phương pháp xây dựng bản phân phối Python độc lập và di động. Phương pháp này cho phép dễ dàng xây dựng và phân phối ứng dụng Python mà không cần phụ thuộc vào môi trường hệ thống. Điều này sẽ giúp tăng cường khả năng tùy chỉnh và mở rộng của ứng dụng Python.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de2200bc1af1",
-      "title": "Oil price dives as US and Iran pause attacks",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T14:15:04.508277+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Giá dầu giảm mạnh khi Mỹ và Iran tạm dừng tấn công",
-      "bullets": [
-        "Mỹ tuyên bố tạm dừng tấn công Iran để tạo không gian cho đàm phán",
-        "Hành động này đã làm tăng hy vọng về một giải pháp cho xung đột",
-        "Giá dầu thế giới đã giảm mạnh sau thông tin này",
-        "Nhiều quốc gia đang chờ đợi phản ứng tiếp theo của Mỹ và Iran"
-      ],
-      "full_summary": "Mỹ và Iran đã tạm dừng các cuộc tấn công nhằm vào nhau, tạo cơ hội cho các cuộc đàm phán giải quyết xung đột. Việc này đã làm giảm giá dầu thế giới. Các quốc gia trên thế giới đang chờ đợi phản ứng tiếp theo của Mỹ và Iran. Sự kiện này đã tạo ra hy vọng về một giải pháp cho xung đột giữa hai quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b2078bbf1a31",
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T14:15:05.534519+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một kẻ tấn công Pride Berlin bị nghi ngờ đã không bị giam giữ",
-      "bullets": [
-        "Nghi phạm bị nghi ngờ đã có tiền sử tội phạm nhưng không bị giam giữ",
-        "Sự việc đã gây ra sự giận dữ, sốc và đau thương trong cộng đồng",
-        "Cơ quan chức năng đang điều tra nguyên nhân vụ tấn công",
-        "Nhiều người đang đặt câu hỏi về việc nghi phạm không bị giam giữ"
-      ],
-      "full_summary": "Một vụ tấn công tại Pride Berlin đã gây ra sự giận dữ, sốc và đau thương trong cộng đồng. Nghi phạm bị nghi ngờ đã có tiền sử tội phạm nhưng không bị giam giữ. Cơ quan chức năng đang điều tra nguyên nhân vụ tấn công. Nhiều người đang đặt câu hỏi về việc nghi phạm không bị giam giữ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "235008421d24",
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T14:15:06.851048+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hơn 600 quân nhân Mỹ bị thương kể từ khi chiến tranh Iran bắt đầu",
-      "bullets": [
-        "Bị thương trong Chiến dịch Fury",
-        "Bị thương trong các hoạt động quân sự ở nước ngoài",
-        "Số liệu mới nhất kể từ tháng 2",
-        "Số liệu bao gồm cả thương vong"
-      ],
-      "full_summary": "Theo BBC World, số lượng quân nhân Mỹ bị thương kể từ khi chiến tranh Iran bắt đầu đã vượt quá 600 người. Số liệu này bao gồm cả thương vong trong Chiến dịch Fury và các hoạt động quân sự ở nước ngoài. Số liệu mới nhất được công bố kể từ tháng 2.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4445f5f8ba59",
-      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T14:15:07.895733+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bali cấm 2 người Hà Lan vì tổ chức chạy bộ phân biệt đối xử",
-      "bullets": [
-        "Cấm 2 người Hà Lan tổ chức chạy bộ phân biệt đối xử",
-        "Họ bị cáo buộc vi phạm luật nhập cư",
-        "Tổ chức chạy bộ bị cáo buộc ưu tiên người nước ngoài",
-        "Bali xử lý nghiêm các trường hợp phân biệt đối xử"
-      ],
-      "full_summary": "Bali đã cấm 2 người Hà Lan vì tổ chức chạy bộ phân biệt đối xử. Họ bị cáo buộc ưu tiên người nước ngoài và vi phạm luật nhập cư. Sự việc đã gây ra sự phẫn nộ trong cộng đồng địa phương. Chính quyền Bali đã xử lý nghiêm các trường hợp phân biệt đối xử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "18c54b7a0831",
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T14:15:08.830715+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ca sĩ Carly Simon công bố chẩn đoán bệnh Parkinson",
-      "bullets": [
-        "Công bố chẩn đoán bệnh Parkinson",
-        "Bị mắc ung thư da, đã được điều trị",
-        "Vẫn quyết tâm tiếp tục hát",
-        "Sẽ tiếp tục hoạt động nghệ thuật"
-      ],
-      "full_summary": "Ca sĩ Carly Simon vừa công bố chẩn đoán bệnh Parkinson và đã được điều trị cho bệnh ung thư da. Mặc dù vậy, cô vẫn quyết tâm tiếp tục hát và hoạt động nghệ thuật. Cô đã trở thành một biểu tượng âm nhạc nổi tiếng và được yêu thích trên toàn thế giới.",
       "comments": 0,
       "score": 0
     }
