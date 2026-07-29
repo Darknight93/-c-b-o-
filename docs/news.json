@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-07-28T19:13:01.796949+00:00",
+  "updated_at": "2026-07-29T01:56:13.664659+00:00",
   "articles": [
+    {
+      "id": "3daf85373d0f",
+      "title": "Watch: The moment quake hit Japan",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:55:58.837616+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Động đất mạnh xảy ra ở đảo Kyushu, Nhật Bản",
+      "bullets": [
+        "Động đất mạnh xảy ra ở đảo Kyushu, Nhật Bản vào ngày 28 tháng 7",
+        "Video ghi lại các địa điểm trên khu vực bị ảnh hưởng",
+        "Động đất gây thiệt hại và làm rung lắc các tòa nhà",
+        "Các cơ quan chức năng đang tiến hành điều tra nguyên nhân"
+      ],
+      "full_summary": "Một trận động đất mạnh đã xảy ra ở đảo Kyushu, Nhật Bản vào ngày 28 tháng 7. Video ghi lại các địa điểm trên khu vực bị ảnh hưởng, cho thấy các tòa nhà bị rung lắc và thiệt hại. Các cơ quan chức năng đang tiến hành điều tra nguyên nhân của trận động đất mạnh này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5dfebed2afde",
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:55:59.765841+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Iran và Mỹ đã trao đổi các cuộc tấn công, chấm dứt tạm thời thời gian yên bình",
+      "bullets": [
+        "Iran đã phóng nhiều tên lửa đạn đạo",
+        "Lực lượng Mỹ đã bắn hạ các tên lửa",
+        "Cả hai bên đều đã thực hiện các cuộc tấn công",
+        "Tình hình đang trở nên căng thẳng hơn"
+      ],
+      "full_summary": "Mỹ và Iran đã trao đổi các cuộc tấn công sau khi lực lượng Mỹ cho biết đã bắt được nhiều tên lửa đạn đạo được phóng từ Iran. Điều này đã chấm dứt tạm thời thời gian yên bình sau một thời gian ngắn. Các cuộc tấn công đã khiến tình hình trở nên căng thẳng hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6803a8402a91",
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:56:00.750837+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Các băng đảng ma túy Mexico thuê Nigeria để sản xuất ma túy",
+      "bullets": [
+        "Tạo ra mạng lưới sản xuất ma túy ở Tây Phi",
+        "Nigeria đang trở thành điểm đến hấp dẫn cho các băng đảng ma túy",
+        "Các băng đảng đang thuê các địa điểm ở Nigeria để sản xuất ma túy",
+        "Ma túy được sản xuất ở Nigeria sau đó được xuất khẩu sang các quốc gia khác"
+      ],
+      "full_summary": "Các băng đảng ma túy Mexico đang thuê các địa điểm ở Nigeria để sản xuất ma túy. Tây Phi đang trở thành điểm đến hấp dẫn cho các băng đảng ma túy do sự thiếu kiểm soát của chính phủ và sự sẵn có của các nguyên liệu cần thiết. Các băng đảng đang thuê các địa điểm ở Nigeria để sản xuất ma túy, sau đó xuất khẩu nó sang các quốc gia khác. Điều này đã dẫn đến sự gia tăng của ma túy trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d71e922d34d6",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:56:01.752533+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hành động mới của Mỹ cấm nhập khẩu robot humanoid Trung Quốc",
+      "bullets": [
+        "Cấm nhập khẩu robot humanoid mới từ Trung Quốc",
+        "Mỹ và Trung Quốc đang cạnh tranh về công nghệ robot và trí tuệ nhân tạo",
+        "Sự cạnh tranh này đang diễn ra trên toàn thế giới",
+        "Mỹ muốn dẫn đầu trong lĩnh vực này"
+      ],
+      "full_summary": "Hành động mới của chính quyền Trump cấm nhập khẩu robot humanoid mới từ Trung Quốc. Mỹ và Trung Quốc đang cạnh tranh về công nghệ robot và trí tuệ nhân tạo. Sự cạnh tranh này đang diễn ra trên toàn thế giới, với Mỹ muốn dẫn đầu trong lĩnh vực này. Việc cấm nhập khẩu robot humanoid mới từ Trung Quốc là một phần của nỗ lực này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d4c66c12972d",
+      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:56:02.850487+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh báo sử dụng bộ chuyển nguồn điện nguy hiểm khi du lịch",
+      "bullets": [
+        "Tránh mua bộ chuyển nguồn điện không đảm bảo chất lượng",
+        "Kiểm tra kỹ bộ chuyển nguồn điện trước khi sử dụng",
+        "Chọn bộ chuyển nguồn điện từ các thương hiệu uy tín",
+        "Hãy cẩn thận khi sử dụng bộ chuyển nguồn điện ở nước ngoài"
+      ],
+      "full_summary": "Electrical Safety First đã cảnh báo người dân Anh không nên sử dụng bộ chuyển nguồn điện không đảm bảo chất lượng khi du lịch nước ngoài. Bộ nhóm này cho rằng nhiều bộ chuyển nguồn điện không đáp ứng được các tiêu chuẩn an toàn. Người dân nên chọn bộ chuyển nguồn điện từ các thương hiệu uy tín và kiểm tra kỹ bộ chuyển nguồn điện trước khi sử dụng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bfb87dcdf8b4",
+      "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:56:04.001008+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "ChatGPT bị xâm nhập, hàng trăm chuyên gia an ninh mạng được triệu tập khẩn cấp",
+      "bullets": [
+        "Xâm nhập ChatGPT gây ra sự cố nghiêm trọng cho công ty công nghệ",
+        "Hàng trăm chuyên gia an ninh mạng được triệu tập khẩn cấp để giải quyết vấn đề",
+        "Chi tiết cuộc gọi khẩn cấp đã được tiết lộ",
+        "Sự cố này cho thấy sự yếu kém của hệ thống bảo mật"
+      ],
+      "full_summary": "Một cuộc gọi khẩn cấp với hàng trăm chuyên gia an ninh mạng đã được tổ chức sau khi ChatGPT bị xâm nhập. Chi tiết cuộc gọi này đã được tiết lộ, cho thấy sự yếu kém của hệ thống bảo mật. Sự cố này đã gây ra sự cố nghiêm trọng cho công ty công nghệ và đã được giải quyết sau nhiều giờ. Các chuyên gia an ninh mạng đã phải làm việc chăm chỉ để giải quyết vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "15bacd6b0910",
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:56:04.994527+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "15 con voi chết bất thường tại công viên quốc gia Amboseli",
+      "bullets": [
+        "Khám phá chất độc hại trong cơ thể một số con voi",
+        "10 con voi có dấu hiệu liệt nửa người trước khi chết",
+        "Cơ quan bảo vệ động vật Kenya đang điều tra nguyên nhân",
+        "Tổng cộng 15 con voi chết trong tháng qua"
+      ],
+      "full_summary": "Cơ quan bảo vệ động vật Kenya đang điều tra nguyên nhân 15 con voi chết bất thường tại công viên quốc gia Amboseli. Theo Kenya Wildlife Service, 10 con voi đã có dấu hiệu liệt nửa người trước khi chết. Một số con voi được phát hiện có chất độc hại trong cơ thể. Cơ quan này đang làm việc để tìm hiểu nguyên nhân gây ra cái chết của những con voi này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c13b26e3705b",
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T01:56:06.024310+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Canada cắt giảm chi tiêu du lịch Mỹ sau khi Trump trở lại",
+      "bullets": [
+        "Canada giảm chi tiêu du lịch Mỹ 3,3 tỷ USD",
+        "Người Canada thay thế Mỹ bằng các điểm đến quốc tế khác",
+        "Đáp lại chính sách của Trump, người Canada không giảm chi tiêu du lịch",
+        "Thay vào đó, họ chọn các điểm đến khác để du lịch"
+      ],
+      "full_summary": "Mới đây, dữ liệu cho thấy người Canada đã cắt giảm chi tiêu du lịch Mỹ 3,3 tỷ USD trong năm 2025 so với năm trước. Điều này là do chính sách của Tổng thống Mỹ Donald Trump đối với láng giềng Canada tiếp tục gây tổn hại cho nền kinh tế. Thay vì giảm chi tiêu du lịch, người Canada đã chọn các điểm đến quốc tế khác để thay thế Mỹ. Điều này được coi là một hình thức phản đối đối với chính sách của Trump.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "22c784ddc942",
+      "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-29T01:56:09.759678+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "eBay phải bồi thường 46 triệu USD cho các nhà báo bị quấy rối",
+      "bullets": [
+        "eBay đã gửi mặt nạ lợn máu và các món quà macabre đến nhà của các nhà báo",
+        "Các nhà báo đã kiện eBay vì hành vi quấy rối",
+        "eBay đã đồng ý bồi thường 46 triệu USD",
+        "Các cựu giám đốc của eBay cũng phải bồi thường"
+      ],
+      "full_summary": "eBay đã phải bồi thường 46 triệu USD cho các nhà báo sau khi họ bị quấy rối bằng cách gửi mặt nạ lợn máu và các món quà macabre đến nhà của họ. Các nhà báo đã kiện eBay vì hành vi quấy rối này. eBay đã đồng ý bồi thường 46 triệu USD. Các cựu giám đốc của eBay cũng phải bồi thường.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "79a1e2c9213b",
       "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
@@ -613,186 +793,6 @@
         "Hỏa hoạn đang gây ra nhiều thiệt hại nghiêm trọng"
       ],
       "full_summary": "Hỏa hoạn dữ dội đang diễn ra tại khu vực này đã khiến hơn 300.000 người phải di dời khỏi nhà. Nhiều người đã chứng kiến cảnh 'vách lửa' và cho biết họ đang cảm thấy căng thẳng và lo lắng. Hỏa hoạn đang gây ra nhiều thiệt hại nghiêm trọng và cộng đồng đang phải đối mặt với nhiều thách thức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "97d4fc1aba0a",
-      "title": "Is it time to stop using glue and labels on paper?",
-      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T01:53:18.335292+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Được phép tái chế giấy mà không cần keo dán nhãn",
-      "bullets": [
-        "Cải tiến công nghệ giúp giấy tái chế mà không cần keo dán nhãn",
-        "Kéo dán nhãn và keo có thể ngăn giấy không được tái chế",
-        "Các công nghệ mới đang được phát triển để thay thế keo dán nhãn",
-        "Tái chế giấy có thể giúp giảm thiểu rác thải và bảo vệ môi trường"
-      ],
-      "full_summary": "Các nhà khoa học đang phát triển công nghệ mới giúp giấy tái chế mà không cần keo dán nhãn. Kéo dán nhãn và keo có thể ngăn giấy không được tái chế, nhưng các công nghệ mới đang được phát triển để thay thế. Tái chế giấy có thể giúp giảm thiểu rác thải và bảo vệ môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "557e0f6fe028",
-      "title": "Some people's chats with Claude AI found publicly available online",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T01:53:19.302252+00:00",
-      "category": "công nghệ",
-      "importance": 3,
-      "headline": "Một số cuộc trò chuyện với AI Claude bị công khai trên internet",
-      "bullets": [
-        "Bị phát hiện có hàng trăm cuộc trò chuyện với chatbot của Anthropic bị công khai",
-        "Các cuộc trò chuyện này có thể truy cập mà không cần đăng ký",
-        "Bất kỳ ai cũng có thể xem những cuộc trò chuyện này",
-        "Anthropic chưa bình luận về vấn đề này"
-      ],
-      "full_summary": "Một số cuộc trò chuyện với AI Claude của Anthropic đã bị phát hiện công khai trên internet. Hàng trăm cuộc trò chuyện này có thể truy cập mà không cần đăng ký. Điều này khiến cho những thông tin nhạy cảm có thể bị lộ. Anthropic chưa bình luận về vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "531f2adf5089",
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-28T01:53:21.982936+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Microsoft giới thiệu công cụ bảo mật AI vượt trội so với đối thủ",
-      "bullets": [
-        "Microsoft giới thiệu công cụ bảo mật AI mới",
-        "Công cụ này có chi phí thấp hơn so với đối thủ",
-        "Công cụ bảo mật AI của Microsoft cho kết quả vượt trội",
-        "Công cụ này có thể giúp ngăn chặn các cuộc tấn công mạng"
-      ],
-      "full_summary": "Microsoft vừa công bố công cụ bảo mật AI mới, công cụ này được cho là có chi phí thấp hơn so với các đối thủ cạnh tranh. Công cụ bảo mật AI của Microsoft được thiết kế để giúp ngăn chặn các cuộc tấn công mạng và bảo vệ dữ liệu của người dùng. Công cụ này được cho là có kết quả vượt trội so với các công cụ bảo mật AI khác trên thị trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "be4f7f1c4171",
-      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-28T01:53:26.321312+00:00",
-      "category": "kỹ thuật",
-      "importance": 4,
-      "headline": "Verizon ký hợp đồng 1 tỷ USD với Google về sợi dây đen",
-      "bullets": [
-        "Ký hợp đồng 1 tỷ USD về sợi dây đen với Google",
-        "Tập trung vào lợi nhuận từ trí tuệ nhân tạo",
-        "Sắp xây dựng các trung tâm dữ liệu mini",
-        "Hưởng lợi từ các trung tâm dữ liệu cũ được cải tạo"
-      ],
-      "full_summary": "Verizon vừa ký hợp đồng 1 tỷ USD với Google về việc cung cấp sợi dây đen cho các trung tâm dữ liệu của Google. Hợp đồng này được coi là bước đầu tiên trong một loạt các thỏa thuận tương tự. Verizon hy vọng sẽ thu được lợi nhuận từ trí tuệ nhân tạo thông qua các trung tâm dữ liệu mini và các trung tâm dữ liệu cũ được cải tạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dd65754d1448",
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T19:16:33.734053+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều đám cháy rừng lớn xảy ra ở châu Âu",
-      "bullets": [
-        "Tàn phá hơn 162 dặm vuông đất ở Pháp",
-        "Cảnh báo cháy rừng nghiêm trọng ở khu vực Madrid",
-        "Các đội cứu hỏa đang nỗ lực dập lửa",
-        "Nhiều người bị ảnh hưởng bởi các đám cháy rừng"
-      ],
-      "full_summary": "Các đám cháy rừng lớn đang xảy ra ở châu Âu, bao gồm cả Pháp và Tây Ban Nha. Đám cháy gần Bordeaux đã tàn phá hơn 162 dặm vuông đất trong vòng bốn ngày. Cảnh báo cháy rừng nghiêm trọng cũng được đưa ra ở khu vực Madrid, nơi đang chứng kiến những đám cháy rừng tồi tệ nhất trong lịch sử. Các đội cứu hỏa đang nỗ lực dập lửa và giúp đỡ những người bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e85ff68e3221",
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T19:16:34.752293+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran đe dọa Ukraine sau vụ tấn công tàu trên Biển Caspi",
-      "bullets": [
-        "Ukraine bác bỏ đe dọa của Iran",
-        "Tehran lên án vụ tấn công tàu trên Biển Caspi",
-        "Ngoại trưởng Iran nói vụ tấn công 'không thể không đáp trả'",
-        "Vụ tấn công tàu trên Biển Caspi liên quan đến các cuộc chiến tranh"
-      ],
-      "full_summary": "Iran đã phản ứng dữ dội với vụ tấn công tàu trên Biển Caspi, với Ngoại trưởng Iran nói rằng nó 'không thể không đáp trả'. Tuy nhiên, Ukraine đã bác bỏ đe dọa của Iran. Vụ tấn công tàu trên Biển Caspi đã liên quan đến các cuộc chiến tranh. Ngoại trưởng Iran đã lên án vụ tấn công tàu trên Biển Caspi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f52c6b544dc4",
-      "title": "Shots fired at US consulate in Toronto for a second time this year",
-      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T19:16:35.744378+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một kẻ tấn công bắn vào lãnh sự quán Mỹ tại Toronto lần thứ hai trong năm",
-      "bullets": [
-        "Bắn vào lãnh sự quán Mỹ",
-        "Cảnh sát truy bắt nhưng không bắt được nghi phạm",
-        "Cảnh sát đã truy đuổi bằng xe hơi nhưng thất bại",
-        "Nghi phạm vẫn đang bị truy nã"
-      ],
-      "full_summary": "Một kẻ tấn công đã bắn vào lãnh sự quán Mỹ tại Toronto, Canada. Đây là lần thứ hai trong năm nay. Cảnh sát đã truy đuổi bằng xe hơi nhưng không bắt được nghi phạm. Ba người đã bị bắt vào tháng 6 sau một vụ tấn công tương tự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "83b9aee3107c",
-      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T19:16:36.757942+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mạng lưới PlayStation bị gián đoạn, khiến nhiều game thủ gặp khó khăn",
-      "bullets": [
-        "Cả hệ thống PlayStation bị ngừng hoạt động",
-        "Hàng nghìn game thủ không thể chơi game",
-        "Các ứng dụng và tính năng mạng lưới bị ảnh hưởng",
-        "Cơ quan quản lý đã nhanh chóng khắc phục sự cố"
-      ],
-      "full_summary": "Mạng lưới PlayStation bị gián đoạn khiến hàng nghìn game thủ không thể chơi game, truy cập ứng dụng và tính năng mạng lưới. Sự cố này đã được khắc phục sau khi cơ quan quản lý nhanh chóng can thiệp. Hiện tại, mạng lưới đã hoạt động trở lại bình thường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fc04c9771815",
-      "title": "How Jimothy the raccoon became the internet's latest animal obsession",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-27T19:16:37.899392+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Con gấu mèo Jimothy trở thành thú vị nhất trên internet",
-      "bullets": [
-        "Được chia sẻ trên Instagram bởi cư dân Seattle Kiana Hall",
-        "Video vô tình trở thành hiện tượng trên mạng xã hội",
-        "Con gấu mèo Jimothy thu hút sự chú ý của nhiều người",
-        "Tạo nên cơn sốt trên internet"
-      ],
-      "full_summary": "Một video vô tình được chia sẻ trên Instagram bởi cư dân Seattle Kiana Hall đã trở thành hiện tượng trên mạng xã hội. Video này về một con gấu mèo tên Jimothy đã thu hút sự chú ý của nhiều người. Con gấu mèo này đã trở thành thú vị nhất trên internet và tạo nên cơn sốt trên mạng xã hội.",
       "comments": 0,
       "score": 0
     }
