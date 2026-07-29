@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-29T01:56:13.664659+00:00",
+  "updated_at": "2026-07-29T08:27:08.185534+00:00",
   "articles": [
+    {
+      "id": "e91cb2b39938",
+      "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T08:26:53.791677+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Đất chấn động ở Nhật Bản, ít nhất 13 người thiệt mạng",
+      "bullets": [
+        "Đã xảy ra trận động đất mạnh ở đảo Kyushu",
+        "Ít nhất 13 người đã thiệt mạng",
+        "Đội cứu hộ đang cố gắng giải cứu những người bị kẹt dưới đống đổ nát",
+        "Cơn động đất đã gây ra thiệt hại lớn"
+      ],
+      "full_summary": "Đất chấn động mạnh ở đảo Kyushu, Nhật Bản, khiến ít nhất 13 người thiệt mạng. Đội cứu hộ đang cố gắng giải cứu những người bị kẹt dưới đống đổ nát. Cơn động đất đã gây ra thiệt hại lớn và nhiều người bị thương. Đội cứu hộ đang làm việc gấp rút để giải cứu những người còn sống sót.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7b27dadc023d",
+      "title": "Four women accuse Jared Leto of criminal sexual conduct",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T08:26:54.757718+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Diễn viên Jared Leto bị cáo buộc hành vi lạm dụng tình dục",
+      "bullets": [
+        "Bốn phụ nữ cáo buộc Jared Leto có hành vi lạm dụng tình dục",
+        "10 phụ nữ nói họ bị Jared Leto đối xử không tốt khi còn là học sinh",
+        "Jared Leto là diễn viên và ca sĩ nổi tiếng",
+        "Các cáo buộc này đang được điều tra"
+      ],
+      "full_summary": "Diễn viên và ca sĩ Jared Leto đang đối mặt với cáo buộc lạm dụng tình dục từ 10 phụ nữ. Họ nói rằng họ bị Jared Leto đối xử không tốt khi còn là học sinh. Các cáo buộc này đang được điều tra. Jared Leto là một trong những diễn viên và ca sĩ nổi tiếng nhất hiện nay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40aefd5258ee",
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T08:26:55.657585+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Zelensky và Netanyahu gặp Trump trong lúc chiến tranh ở Ukraine và Iran tiếp diễn",
+      "bullets": [
+        "Zelensky và Netanyahu gặp Trump tại Nhà Trắng",
+        "Hai lãnh đạo bày tỏ sự lạc quan sau các cuộc họp song phương",
+        "Chiến tranh ở Ukraine và Iran tiếp tục diễn ra",
+        "Căng thẳng quốc tế vẫn đang ở mức cao"
+      ],
+      "full_summary": "Zelensky, Tổng thống Ukraine, và Netanyahu, Thủ tướng Israel, đã gặp Trump tại Nhà Trắng trong lúc chiến tranh ở Ukraine và Iran tiếp diễn. Hai lãnh đạo bày tỏ sự lạc quan sau các cuộc họp song phương. Chiến tranh ở Ukraine và Iran tiếp tục diễn ra, gây ra sự căng thẳng quốc tế. Sự kiện này đã thu hút sự chú ý của cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "557e0f6fe028",
+      "title": "Some people's chats with Claude AI found to be publicly available online",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T08:26:56.688915+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nhiều cuộc trò chuyện với chatbot Claude bị công khai trực tuyến",
+      "bullets": [
+        "Bị phát hiện có hàng trăm cuộc trò chuyện với chatbot Claude của Anthropic bị công khai trực tuyến",
+        "Các cuộc trò chuyện này có thể truy cập mà không cần đăng nhập hoặc xác thực",
+        "Anthropic đã xác nhận sự cố và đang tìm cách giải quyết",
+        "Sự cố này đã gây lo ngại về bảo mật dữ liệu người dùng"
+      ],
+      "full_summary": "Một sự cố bảo mật đã được phát hiện khi hàng trăm cuộc trò chuyện với chatbot Claude của Anthropic bị công khai trực tuyến. Các cuộc trò chuyện này có thể truy cập mà không cần đăng nhập hoặc xác thực. Anthropic đã xác nhận sự cố và đang tìm cách giải quyết. Sự cố này đã gây lo ngại về bảo mật dữ liệu người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "97d4fc1aba0a",
+      "title": "Is it time to stop using glue and labels on paper?",
+      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T08:26:57.697204+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 3,
+      "headline": "Nghiên cứu mới giúp giấy tái chế mà không cần keo dán",
+      "bullets": [
+        "Tìm ra công nghệ mới giúp giấy tái chế mà không cần keo dán",
+        "Keo dán và nhãn dán cản trở quá trình tái chế giấy",
+        "Nghiên cứu đang tập trung vào việc thay thế keo dán bằng công nghệ mới",
+        "Mục tiêu cuối cùng là giảm thiểu rác thải giấy"
+      ],
+      "full_summary": "Một nghiên cứu mới đang được thực hiện để tìm ra cách giúp giấy tái chế mà không cần keo dán. Keo dán và nhãn dán thường cản trở quá trình tái chế giấy, khiến cho giấy không thể được tái sử dụng. Nghiên cứu đang tập trung vào việc thay thế keo dán bằng công nghệ mới, giúp giảm thiểu rác thải giấy và bảo vệ môi trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "83b9aee3107c",
+      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T08:26:58.569215+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mạng lưới PlayStation bị gián đoạn, khiến nghìn game thủ không thể chơi",
+      "bullets": [
+        "Cơ quan quản lý mạng lưới PlayStation đã khắc phục sự cố",
+        "Sự cố khiến game thủ không thể khởi động các trò chơi, ứng dụng hoặc tính năng mạng lưới",
+        "Cơ quan này đã không công bố nguyên nhân gây ra sự cố"
+      ],
+      "full_summary": "Mạng lưới PlayStation đã bị gián đoạn khiến nghìn game thủ không thể chơi. Sự cố này khiến game thủ không thể khởi động các trò chơi, ứng dụng hoặc tính năng mạng lưới. Cơ quan quản lý mạng lưới PlayStation đã khắc phục sự cố nhưng chưa công bố nguyên nhân gây ra sự cố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b8060bde57eb",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T08:26:59.532854+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hỏa hoạn ở Bắc Mỹ và châu Âu có thể gây hậu quả dài hạn",
+      "bullets": [
+        "Xảy ra hàng nghìn vụ hỏa hoạn ở Bắc Mỹ và châu Âu",
+        "Hậu quả của các đám cháy này có thể kéo dài nhiều năm",
+        "Hoa Kỳ và Canada bị ảnh hưởng nghiêm trọng bởi khói độc",
+        "Các chính trị gia lên tiếng chỉ trích về tình hình"
+      ],
+      "full_summary": "Hỏa hoạn ở Bắc Mỹ và châu Âu đã gây ra nhiều thiệt hại về người và tài sản. Theo nghiên cứu, hậu quả của các đám cháy này có thể kéo dài nhiều năm, ảnh hưởng đến sức khỏe và cuộc sống của người dân. Các chính trị gia đã lên tiếng chỉ trích về tình hình và yêu cầu các biện pháp khắc phục.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c84e17377b4",
+      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+      "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-29T08:27:00.985281+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Audi ra mắt SUV flagship mới giá 87.700 USD",
+      "bullets": [
+        "Sẽ được bán tại Mỹ vào quý 4 với giá khởi điểm 87.700 USD",
+        "SUV flagship mới của Audi có kích thước lớn",
+        "Sẽ đi kèm với nhiều tính năng hiện đại"
+      ],
+      "full_summary": "Audi đã công bố một chiếc SUV flagship mới, được thiết kế dành cho thị trường Mỹ. Chiếc SUV này sẽ có giá khởi điểm 87.700 USD khi bán ra vào quý 4. Với kích thước lớn, chiếc SUV này sẽ đi kèm với nhiều tính năng hiện đại, đáp ứng nhu cầu của khách hàng Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff789618a220",
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-29T08:27:04.853098+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google cho biết AI chưa làm giảm số lượng việc làm",
+      "bullets": [
+        "Giám sát 15 triệu tương tác AI thực tế",
+        "Hầu hết công việc không bị ảnh hưởng bởi AI",
+        "Nghiên cứu của Google chỉ ra AI chưa thay thế con người",
+        "Sự tự động hóa không đáng kể trong hầu hết các công việc"
+      ],
+      "full_summary": "Theo nghiên cứu của Google, mặc dù AI đã trở thành một chủ đề nóng trong thời gian gần đây, nhưng số lượng việc làm vẫn chưa bị giảm đáng kể. Dữ liệu từ Google cho thấy, trong 15 triệu tương tác AI thực tế, hầu hết công việc không bị ảnh hưởng bởi AI. Điều này cho thấy, AI chưa thay thế con người trong nhiều lĩnh vực. Nghiên cứu của Google chỉ ra rằng, sự tự động hóa không đáng kể trong hầu hết các công việc.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3daf85373d0f",
       "title": "Watch: The moment quake hit Japan",
@@ -614,185 +792,6 @@
         "Bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực"
       ],
       "full_summary": "Hai người Nga Lev Lakshtanov và Igor Ratchin đã bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola. Họ bị kết án 8 và 11 năm tù. Hai người này đã phủ nhận tội danh, tuyên bố là du khách và doanh nhân. Họ bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b9b839b2dd72",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T08:21:09.857449+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Anh hủy huấn luyện quân đội tại Kenya do bất đồng về quyền truy tố binh sĩ",
-      "bullets": [
-        "Kenya từ chối ký lại thỏa thuận quốc phòng với Anh",
-        "Anh muốn gia hạn thỏa thuận hiện hành, nhưng Kenya yêu cầu thay đổi",
-        "Kenya muốn tăng quyền truy tố binh sĩ Anh khi họ vi phạm pháp luật tại Kenya"
-      ],
-      "full_summary": "Anh đã hủy huấn luyện quân đội tại Kenya sau khi chính phủ Kenya từ chối ký lại thỏa thuận quốc phòng. Thỏa thuận này đã hết hạn và Anh muốn gia hạn, nhưng các nhà lập pháp Kenya yêu cầu thay đổi để tăng quyền truy tố binh sĩ Anh khi họ vi phạm pháp luật tại Kenya. Kenya muốn đảm bảo rằng binh sĩ Anh sẽ bị truy tố theo pháp luật Kenya nếu họ gây ra bất kỳ tội lỗi nào.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e9106d43afd",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T08:21:10.775432+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một nhân viên y tế được theo dõi khả năng nhiễm Ebola ở London",
-      "bullets": [
-        "Được sơ tán khỏi Cộng hòa Dân chủ Congo",
-        "Được theo dõi tại bệnh viện chuyên khoa ở London",
-        "Có khả năng tiếp xúc với virus Ebola",
-        "Được điều trị tại bệnh viện chuyên khoa"
-      ],
-      "full_summary": "Một nhân viên y tế người Anh đang được theo dõi tại bệnh viện chuyên khoa ở London vì khả năng nhiễm virus Ebola. Người này đã được sơ tán khỏi Cộng hòa Dân chủ Congo, nơi đang xảy ra dịch bệnh. Họ đã tiếp xúc với bệnh nhân bị nhiễm Ebola trong quá trình làm việc tại khu vực này. Hiện tại, người này đang được điều trị tại bệnh viện chuyên khoa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0f292bde2d73",
-      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-28T08:21:13.014183+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "FCC bỏ cấm router ngoại quốc, Starlink được miễn",
-      "bullets": [
-        "Cơ quan quản lý truyền thông Mỹ (FCC) đã miễn Starlink khỏi lệnh cấm router được sản xuất ở nước ngoài",
-        "Starlink có nhà máy tại Texas nhưng cũng sản xuất router tại Việt Nam",
-        "Trước đó, FCC đã ban hành lệnh cấm router được sản xuất ở nước ngoài",
-        "Sự miễn trừ này sẽ giúp Starlink mở rộng hoạt động kinh doanh"
-      ],
-      "full_summary": "Cơ quan quản lý truyền thông Mỹ (FCC) đã miễn Starlink khỏi lệnh cấm router được sản xuất ở nước ngoài. Điều này có nghĩa là Starlink, công ty của Elon Musk, không còn bị hạn chế trong việc sản xuất và bán router ở Mỹ. Starlink có nhà máy tại Texas nhưng cũng sản xuất router tại Việt Nam. Sự miễn trừ này sẽ giúp Starlink mở rộng hoạt động kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ac457b15ec75",
-      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-      "url": "https://arsastronomica.com/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-28T08:21:17.602682+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tổ chức xuất bản các bản dịch tiếng Anh của các văn bản thiên văn hiếm",
-      "bullets": [
-        "Xuất bản các bản dịch tiếng Anh của các văn bản thiên văn Hebrew và Latin hiếm",
-        "Tổ chức Ars Astronomica cung cấp các bản dịch miễn phí",
-        "Các bản dịch bao gồm các tác phẩm của các nhà thiên văn học nổi tiếng",
-        "Tổ chức này giúp phổ biến kiến thức thiên văn cổ đại"
-      ],
-      "full_summary": "Tổ chức Ars Astronomica đã xuất bản các bản dịch tiếng Anh của các văn bản thiên văn hiếm, bao gồm cả các văn bản Hebrew và Latin. Các bản dịch này được cung cấp miễn phí và bao gồm các tác phẩm của các nhà thiên văn học nổi tiếng. Tổ chức này giúp phổ biến kiến thức thiên văn cổ đại và cung cấp cho người đọc một cái nhìn sâu sắc hơn về lịch sử của thiên văn học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27a1a6f4c9d5",
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T01:53:13.142233+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trả lời phỏng vấn, Tổng thống Mỹ nói có khả năng xảy ra xung đột với Iran",
-      "bullets": [
-        "Tổng thống Mỹ nói đang có cuộc đàm phán với Iran",
-        "Iran phủ nhận đang tiến hành đàm phán trực tiếp",
-        "Tổng thống Mỹ nói có khả năng xảy ra xung đột",
-        "Hai bên đang trong giai đoạn lặng lẽ sau loạt tấn công"
-      ],
-      "full_summary": "Tổng thống Mỹ đã nói rằng đang có cuộc đàm phán với Iran trong giai đoạn lặng lẽ sau loạt tấn công. Tuy nhiên, Iran đã phủ nhận việc tiến hành đàm phán trực tiếp. Tổng thống Mỹ cũng nói rằng có khả năng xảy ra xung đột. Hiện tại, hai bên đang trong giai đoạn lặng lẽ sau loạt tấn công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "92e1c8093b5c",
-      "title": "China's new challenge as natural disasters strike - fake AI videos",
-      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T01:53:14.319725+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Fake video giả mạo về thiên tai lan truyền trên mạng xã hội",
-      "bullets": [
-        "Các cơn bão và lũ lụt gần đây đã khiến các video giả mạo lan truyền trên mạng xã hội",
-        "Các video này thường được tạo ra bởi trí tuệ nhân tạo (AI)",
-        "Các nhà chức trách đang cố gắng ngăn chặn sự lan truyền của các video giả mạo này",
-        "Cơ quan chức năng đang cảnh báo người dùng về nguy cơ của các video giả mạo"
-      ],
-      "full_summary": "Các cơn bão và lũ lụt gần đây đã khiến các video giả mạo về thiên tai lan truyền trên mạng xã hội. Các video này thường được tạo ra bởi trí tuệ nhân tạo (AI) và được sử dụng để lừa đảo hoặc gây hoang mang. Các nhà chức trách đang cố gắng ngăn chặn sự lan truyền của các video giả mạo này và cảnh báo người dùng về nguy cơ của chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ddb8588a3ce5",
-      "title": "A Japanese town wrestles with identity after protests over its first mosque",
-      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T01:53:15.324988+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Thành phố Nhật Bản đấu tranh với bản sắc sau khi phản đối nhà thờ Hồi giáo đầu tiên",
-      "bullets": [
-        "Phản đối xây dựng nhà thờ Hồi giáo đầu tiên ở Nhật Bản",
-        "Thành phố phải cân nhắc giữa bảo tồn bản sắc địa phương và đa dạng hóa văn hóa",
-        "Sự gia tăng lao động nước ngoài đặt ra thách thức cho việc tích hợp",
-        "Nhật Bản đang tìm kiếm cách cân bằng giữa bảo tồn bản sắc địa phương và đa dạng hóa văn hóa"
-      ],
-      "full_summary": "Thành phố Nhật Bản đã phải đối mặt với cuộc tranh luận về việc xây dựng nhà thờ Hồi giáo đầu tiên. Sự phản đối đã đặt ra thách thức cho việc tích hợp văn hóa và tôn giáo đa dạng vào cộng đồng địa phương. Nhật Bản đang tìm kiếm cách cân bằng giữa bảo tồn bản sắc địa phương và đa dạng hóa văn hóa trong bối cảnh gia tăng lao động nước ngoài.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6ed0537c611d",
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T01:53:16.348634+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Ca sĩ Mỹ D4vd bị truy tố vì tội giết hại một thiếu niên 14 tuổi",
-      "bullets": [
-        "Bị cáo D4vd bị buộc tội giết hại Celeste Rivas Hernandez",
-        "Thân thể Celeste được tìm thấy trong một chiếc Tesla đăng ký tại địa chỉ của D4vd",
-        "D4vd sẽ phải đối mặt với phiên tòa xét xử",
-        "Tình tiết vụ án đang được điều tra"
-      ],
-      "full_summary": "Ca sĩ Mỹ D4vd sắp phải đối mặt với phiên tòa xét xử vì tội giết hại Celeste Rivas Hernandez, một thiếu niên 14 tuổi. Thân thể Celeste được tìm thấy trong một chiếc Tesla đăng ký tại địa chỉ của D4vd. D4vd sẽ phải đối mặt với phiên tòa xét xử và tình tiết vụ án đang được điều tra. Thông tin chi tiết về vụ án vẫn chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "80eb3d95a75c",
-      "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T01:53:17.369780+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hỏa hoạn dữ dội khiến hơn 300.000 người phải di dời",
-      "bullets": [
-        "Hơn 300.000 người phải di dời khỏi khu vực hoả hoạn",
-        "Nhiều người cho biết họ đã chứng kiến 'vách lửa'",
-        "Căng thẳng và lo lắng lan rộng trong cộng đồng",
-        "Hỏa hoạn đang gây ra nhiều thiệt hại nghiêm trọng"
-      ],
-      "full_summary": "Hỏa hoạn dữ dội đang diễn ra tại khu vực này đã khiến hơn 300.000 người phải di dời khỏi nhà. Nhiều người đã chứng kiến cảnh 'vách lửa' và cho biết họ đang cảm thấy căng thẳng và lo lắng. Hỏa hoạn đang gây ra nhiều thiệt hại nghiêm trọng và cộng đồng đang phải đối mặt với nhiều thách thức.",
       "comments": 0,
       "score": 0
     }
