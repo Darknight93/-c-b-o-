@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-29T08:27:08.185534+00:00",
+  "updated_at": "2026-07-29T13:52:21.324499+00:00",
   "articles": [
+    {
+      "id": "fb50c5c735bf",
+      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T13:52:02.945426+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Động đất mạnh ở Nhật Bản, 13 người thiệt mạng",
+      "bullets": [
+        "Động đất mạnh gây thiệt hại lớn ở Nhật Bản",
+        "Hơn 100 aftershock xảy ra sau động đất mạnh",
+        "Các quan chức cảnh báo người dân phải cảnh giác",
+        "Aftershock có thể đạt cường độ 7"
+      ],
+      "full_summary": "Một trận động đất mạnh đã xảy ra ở Nhật Bản, khiến 13 người thiệt mạng. Hơn 100 aftershock đã xảy ra sau đó. Các quan chức cảnh báo người dân phải cảnh giác vì aftershock có thể đạt cường độ 7.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d81929e26ca0",
+      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T13:52:04.076672+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người ở Tây Ban Nha trở về nhà nhưng đợt nóng mới làm tăng nguy cơ cháy rừng",
+      "bullets": [
+        "Nhiều người ở Tây Ban Nha đã trở về nhà sau đợt cháy rừng",
+        "Nhưng một đợt nóng mới đang đến và làm tăng nguy cơ cháy rừng",
+        "Một số đám cháy vẫn tiếp tục bùng phát ở Tây Ban Nha và Pháp"
+      ],
+      "full_summary": "Tây Ban Nha và Pháp đang chuẩn bị cho đợt nóng thứ tư trong mùa hè này. Mặc dù nhiều người đã trở về nhà sau đợt cháy rừng, nhưng một đợt nóng mới đang đến và làm tăng nguy cơ cháy rừng. Một số đám cháy vẫn tiếp tục bùng phát ở Tây Ban Nha và Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6828ea620d67",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T13:52:05.193736+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Fauci từ chối trả lời câu hỏi về nguồn gốc Covid trước Quốc hội Mỹ",
+      "bullets": [
+        "Fauci từ chối trả lời câu hỏi về nguồn gốc Covid",
+        "Ông được yêu cầu trả lời trước Quốc hội Mỹ",
+        "Fauci viện lý do được phép im lặng",
+        "Câu hỏi về nguồn gốc Covid gây tranh cãi"
+      ],
+      "full_summary": "Anthony Fauci, cựu quan chức y tế hàng đầu của Mỹ, đã từ chối trả lời câu hỏi về nguồn gốc Covid trước Quốc hội Mỹ. Ông được yêu cầu trả lời trước Quốc hội về những vấn đề liên quan đến đại dịch. Tuy nhiên, Fauci đã viện lý do được phép im lặng. Câu hỏi về nguồn gốc Covid đã gây tranh cãi trong thời gian dài.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "205c4c5be51d",
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T13:52:06.464723+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nga truy tố sáng lập Telegram vì hỗ trợ khủng bố",
+      "bullets": [
+        "Nga cáo buộc Telegram không xóa tài khoản và kênh tuyển mộ của tình báo Ukraine",
+        "FSB cho rằng ứng dụng này đang hỗ trợ khủng bố",
+        "Telegram phủ nhận cáo buộc và cho rằng họ đang tuân thủ luật pháp Nga",
+        "Sáng lập Telegram Pavel Durov bị truy tố"
+      ],
+      "full_summary": "Nga cáo buộc sáng lập Telegram Pavel Durov vì hỗ trợ khủng bố. FSB cho rằng ứng dụng này không xóa tài khoản và kênh tuyển mộ của tình báo Ukraine. Telegram phủ nhận cáo buộc và cho rằng họ đang tuân thủ luật pháp Nga. Sáng lập Telegram Pavel Durov bị truy tố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "54e96c51a967",
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T13:52:07.563265+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Ca sĩ Glen Hansard qua đời trong tai nạn giao thông",
+      "bullets": [
+        "Glen Hansard qua đời ở tuổi 56",
+        "Anh ta từng đoạt giải Oscar cho bài hát hay nhất cho phim Once",
+        "Phim Once là một bộ phim nhạc kịch có ngân sách thấp",
+        "Glen Hansard được biết đến với nhiều tác phẩm âm nhạc nổi tiếng"
+      ],
+      "full_summary": "Ca sĩ Glen Hansard, người từng đoạt giải Oscar cho bài hát hay nhất cho phim Once, đã qua đời ở tuổi 56. Theo thông tin từ BBC, Glen Hansard đã qua đời trong một tai nạn giao thông. Anh ta được biết đến với nhiều tác phẩm âm nhạc nổi tiếng và đã đóng góp vào nhiều bộ phim nhạc kịch. Glen Hansard đã giành được giải Oscar cho bài hát hay nhất cho phim Once vào năm 2007.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f0f610c74865",
+      "title": "Is AI facing a big financial reckoning?",
+      "url": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T13:52:09.937253+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Giá trị chip giảm mạnh khiến nhà đầu tư lo ngại về tương lai của AI",
+      "bullets": [
+        "Giá trị của các công ty sản xuất chip giảm mạnh",
+        "Nhà đầu tư lo ngại về sự suy giảm của đà tăng trưởng AI",
+        "Sự sụt giảm giá trị của các công ty chip ảnh hưởng đến thị trường AI",
+        "Tình hình tài chính của các công ty AI đang trở nên không chắc chắn"
+      ],
+      "full_summary": "Giá trị của các công ty sản xuất chip đã giảm mạnh, khiến nhà đầu tư lo ngại về sự suy giảm của đà tăng trưởng AI. Sự sụt giảm giá trị của các công ty chip ảnh hưởng đến thị trường AI và khiến các nhà đầu tư trở nên không chắc chắn về tương lai của các công ty AI. Điều này có thể dẫn đến một cuộc suy thoái tài chính lớn đối với các công ty AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "474e766e32fc",
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-29T13:52:11.005061+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Các trung tâm dữ liệu sẽ phải trả hàng trăm triệu bảng tiền đặt cọc",
+      "bullets": [
+        "Sẽ tính phí £237,500 đến £712,500 mỗi megawatt cho các dự án mới",
+        "Các trung tâm dữ liệu sẽ phải trả tiền đặt cọc cho nhu cầu điện năng",
+        "Phí này sẽ được áp dụng cho các dự án sắp tới",
+        "Mục đích là để kiểm soát nhu cầu điện năng và giảm thiểu tác động môi trường"
+      ],
+      "full_summary": "Ủy ban quản lý năng lượng đã đề xuất mức phí từ £237,500 đến £712,500 mỗi megawatt cho các trung tâm dữ liệu mới. Mục đích của phí này là để kiểm soát nhu cầu điện năng và giảm thiểu tác động môi trường. Các trung tâm dữ liệu sẽ phải trả tiền đặt cọc cho nhu cầu điện năng của mình. Phí này sẽ được áp dụng cho các dự án sắp tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "597335246cdd",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-29T13:52:14.416412+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Google SynthID khó phá vỡ nhưng không giải quyết thông tin sai lệch AI",
+      "bullets": [
+        "Google SynthID chống lại việc sao chép hình ảnh AI",
+        "Nghiên cứu cho thấy SynthID khó phá vỡ hơn các phương pháp khác",
+        "Tuy nhiên, việc dán nhãn nội dung AI không giải quyết được thông tin sai lệch",
+        "Sẽ khó xác định thông tin nào là thật trên Internet trong tương lai"
+      ],
+      "full_summary": "Google đã giới thiệu SynthID, một công nghệ chống sao chép hình ảnh AI. Theo nghiên cứu, SynthID khó phá vỡ hơn các phương pháp khác. Tuy nhiên, việc dán nhãn nội dung AI không giải quyết được thông tin sai lệch. Điều này cho thấy sẽ khó xác định thông tin nào là thật trên Internet trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "95a23178062c",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-29T13:52:19.369081+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Sách hướng dẫn không đảm bảo điều hướng các tác nhân",
+      "bullets": [
+        "Thực hiện phân tích về hiệu quả của sách hướng dẫn trong điều hướng các tác nhân",
+        "Kết quả cho thấy sách hướng dẫn dài không thể tin cậy điều hướng các tác nhân",
+        "Nghiên cứu này đã được công bố trên ArXiv"
+      ],
+      "full_summary": "Một nghiên cứu mới đã được công bố trên ArXiv, cho thấy sách hướng dẫn dài không thể tin cậy điều hướng các tác nhân. Nghiên cứu này đã phân tích hiệu quả của sách hướng dẫn trong điều hướng các tác nhân và kết quả cho thấy sách hướng dẫn dài không thể tin cậy. Điều này có thể ảnh hưởng đến việc điều hướng các tác nhân trong nhiều lĩnh vực khác nhau.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "e91cb2b39938",
       "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
@@ -613,185 +791,6 @@
         "Vụ kiện này nhằm mục đích bảo vệ quyền sở hữu trí tuệ của cô"
       ],
       "full_summary": "Ariana Grande đang kiện các hacker vì đã rò rỉ các hình ảnh và bài hát chưa phát hành của cô. Các hacker đã lấy được các tài liệu này và đăng tải chúng lên internet. Ariana Grande đang cố gắng tìm ra danh tính của các hacker và bảo vệ quyền sở hữu trí tuệ của mình. Vụ kiện này nhằm mục đích ngăn chặn các vụ hack tương tự trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e828648dfa70",
-      "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T13:47:11.404679+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tân sinh viên Hồng Kông được phép ở lại Anh sau đe dọa trục xuất",
-      "bullets": [
-        "Bị từ chối nhập cảnh tại sân bay Heathrow",
-        "Được phép ở lại sau nhiều giờ bị tạm giữ",
-        "Tân sinh viên Hồng Kông lên tiếng về vụ việc",
-        "Anh sẽ xem xét lại chính sách nhập cảnh"
-      ],
-      "full_summary": "Một tân sinh viên Hồng Kông đã bị từ chối nhập cảnh tại sân bay Heathrow, Anh và bị tạm giữ trong nhiều giờ. Tuy nhiên, sau đó anh đã được phép ở lại Anh. Tân sinh viên này đã lên tiếng về vụ việc và cho biết anh sẽ tiếp tục sống tại Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "23bb56a2af88",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T13:47:12.556828+00:00",
-      "category": "politics|technology",
-      "importance": 4,
-      "headline": "Trump yêu cầu đảo ngược các khoản tiền phạt đối với các công ty công nghệ Mỹ",
-      "bullets": [
-        "Trump yêu cầu đảo ngược các khoản tiền phạt đối với Google",
-        "Trump chỉ trích các khoản tiền phạt đối với Apple, Meta và Amazon",
-        "Fines đối với các công ty công nghệ Mỹ do EU áp đặt",
-        "Trump cam kết điều tra EU về các khoản tiền phạt này"
-      ],
-      "full_summary": "Thủ tướng Mỹ Donald Trump tuyên bố sẽ điều tra EU vì đã phạt các công ty công nghệ Mỹ bao gồm Google, Apple, Meta và Amazon. Ông Trump cho rằng các khoản tiền phạt này nên được 'đảo ngược hoàn toàn'. Các khoản tiền phạt này là kết quả của các cuộc điều tra về cạnh tranh của EU.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8d66bad55f5",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T13:47:13.594917+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Uganda cung cấp thực phẩm khẩn cấp sau 19 người chết vì đói",
-      "bullets": [
-        "Uganda bắt đầu phân phối thực phẩm khẩn cấp",
-        "19 người chết vì đói ở khu vực Karamoja",
-        "1,5 triệu người ở Karamoja đối mặt với suy dinh dưỡng",
-        "Cơn hạn hán kéo dài gây ra sự cố về lương thực"
-      ],
-      "full_summary": "Uganda đã triển khai phân phối thực phẩm khẩn cấp sau khi ít nhất 19 người chết vì đói ở khu vực Karamoja, nơi đã trải qua hạn hán kéo dài và thất bại của mùa màng. 1,5 triệu người ở khu vực này đang đối mặt với tình trạng suy dinh dưỡng nghiêm trọng và thiếu thốn lương thực. Cơn hạn hán đã gây ra sự cố về lương thực và dẫn đến sự chết đói.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "85039a800206",
-      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
-      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T13:47:17.172967+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tướng Pinochet cũ bị kết án vì giết ca sĩ Víctor Jara",
-      "bullets": [
-        "Bị kết án vì giết hại ca sĩ Víctor Jara",
-        "Tướng Nelson Haase Mazzei trốn khỏi Chile sau khi bị kết án",
-        "Sự việc diễn ra sau hơn 50 năm giết hại ca sĩ",
-        "Tướng Mazzei bị bắt và đưa ra xét xử"
-      ],
-      "full_summary": "Tướng Pinochet cũ, Nelson Haase Mazzei, đã bị kết án vì giết hại ca sĩ Chile Víctor Jara. Sự việc diễn ra sau hơn 50 năm giết hại ca sĩ này. Tướng Mazzei đã trốn khỏi Chile sau khi bị kết án, nhưng cuối cùng đã bị bắt và đưa ra xét xử. Đây là một bước tiến quan trọng trong việc tìm kiếm công lý cho gia đình ca sĩ Víctor Jara.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b82e899f37c3",
-      "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T08:21:04.540130+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh sát Ecuador đấu tranh chống tội phạm ma túy",
-      "bullets": [
-        "Đoàn cảnh sát Ecuador đấu tranh chống tội phạm ma túy",
-        "Cảnh sát phải đối mặt với sự gia tăng tội phạm ma túy",
-        "Cảnh sát Ecuador đấu tranh chống tội phạm ma túy và tham nhũng",
-        "Cảnh sát Ecuador đấu tranh chống tội phạm ma túy và vũ khí"
-      ],
-      "full_summary": "BBC đã theo dõi đoàn cảnh sát Ecuador trong một ngày để thấy họ đấu tranh chống tội phạm ma túy. Sự gia tăng tội phạm ma túy đã khiến cảnh sát phải đối mặt với nhiều thách thức. Cảnh sát Ecuador phải đấu tranh chống tội phạm ma túy và tham nhũng, cũng như đối mặt với vũ khí. Sự gia tăng tội phạm ma túy đã khiến Ecuador trở thành một trong những quốc gia có tội phạm ma túy cao nhất ở Nam Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6111518e11d6",
-      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T08:21:05.569970+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Johnson & Johnson đề nghị bồi thường tối đa 5,5 tỷ USD cho các vụ kiện liên quan đến bột tắm",
-      "bullets": [
-        "Đề nghị bồi thường nhằm chấm dứt cuộc chiến pháp lý kéo dài về cáo buộc bột talc gây ung thư",
-        "Johnson & Johnson sẽ phải trả tối đa 5,5 tỷ USD cho các nạn nhân",
-        "Các vụ kiện liên quan đến bột talc của Johnson & Johnson đã kéo dài nhiều năm"
-      ],
-      "full_summary": "Johnson & Johnson đã đề nghị bồi thường tối đa 5,5 tỷ USD để chấm dứt cuộc chiến pháp lý kéo dài về cáo buộc bột talc gây ung thư. Các vụ kiện liên quan đến bột talc của Johnson & Johnson đã kéo dài nhiều năm và ảnh hưởng đến hàng nghìn người. Đề nghị bồi thường này nhằm mục đích giải quyết các vụ kiện và chấm dứt cuộc chiến pháp lý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b7e4d72809d5",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T08:21:06.597381+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy tính siêu nhân xâm nhập OpenAI với tốc độ siêu nhân",
-      "bullets": [
-        "Xâm nhập vào OpenAI với tốc độ siêu nhân",
-        "Được thực hiện bởi AI với ít hoặc không có hướng dẫn con người",
-        "Hacking được thực hiện tại tốc độ siêu nhân",
-        "Xâm nhập vào hệ thống AI của OpenAI"
-      ],
-      "full_summary": "Một nhóm hacker đã xâm nhập vào hệ thống AI của OpenAI với tốc độ siêu nhân. Theo Hugging Face, cuộc tấn công này được thực hiện bởi một AI với ít hoặc không có hướng dẫn con người. Điều này đã gây ra lo ngại về sự an toàn của các hệ thống AI. Mặc dù OpenAI đã không xác nhận cuộc tấn công này, nhưng nó đã cho thấy sự cần thiết của việc tăng cường bảo mật cho các hệ thống AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d7c4969e9aa3",
-      "title": "Google fined €890m by EU for favouring its own apps over rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T08:21:07.882670+00:00",
-      "category": "công nghệ",
-      "importance": 5,
-      "headline": "Google bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình",
-      "bullets": [
-        "Bị phạt nặng vì vi phạm quy định mới về kỹ thuật số của EU",
-        "Là hành động trừng phạt đầu tiên nghiêm trọng đối với Google",
-        "Google bị buộc phải thay đổi cách thức hoạt động của mình",
-        "Sẽ có ảnh hưởng lớn đến thị trường ứng dụng và công nghệ"
-      ],
-      "full_summary": "Google vừa bị phạt 890 triệu euro vì ưu tiên ứng dụng của mình trong khi đối xử không công bằng với các đối thủ cạnh tranh. Đây là hành động trừng phạt đầu tiên nghiêm trọng đối với Google dưới sự giám sát của EU. Theo quy định mới về kỹ thuật số của EU, các công ty công nghệ phải đối xử công bằng với các đối thủ cạnh tranh. Google sẽ phải thay đổi cách thức hoạt động của mình để tuân thủ quy định mới này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79cfbd79c945",
-      "title": "Two Russian men jailed in Angola for terrorism and spying",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T08:21:08.906193+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hai người Nga bị kết án vì âm mưu đảo chính và gián điệp ở Angola",
-      "bullets": [
-        "Bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực",
-        "Đã bị kết án 8 và 11 năm tù",
-        "Đã phủ nhận tội danh, tuyên bố là du khách và doanh nhân",
-        "Bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực"
-      ],
-      "full_summary": "Hai người Nga Lev Lakshtanov và Igor Ratchin đã bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola. Họ bị kết án 8 và 11 năm tù. Hai người này đã phủ nhận tội danh, tuyên bố là du khách và doanh nhân. Họ bị kết án vì âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola.",
       "comments": 0,
       "score": 0
     }
