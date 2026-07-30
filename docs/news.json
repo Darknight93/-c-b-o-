@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-30T13:42:37.966895+00:00",
+  "updated_at": "2026-07-30T19:14:18.621817+00:00",
   "articles": [
+    {
+      "id": "314fa89326b5",
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T19:14:04.147954+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Iran có thể kiểm soát xung đột để gây sức ép lên Mỹ mà tránh chiến tranh toàn diện",
+      "bullets": [
+        "Iran có thể kiểm soát xung đột để gây sức ép lên Mỹ",
+        "Hành động này có thể giúp Iran đạt được mục tiêu chiến lược",
+        "Iran có thể tránh chiến tranh toàn diện và hậu quả nghiêm trọng",
+        "Tuy nhiên, chiến lược này cũng có thể dẫn đến hậu quả không lường trước được"
+      ],
+      "full_summary": "Iran có thể tin rằng họ có thể kiểm soát xung đột với Mỹ một cách cẩn thận để duy trì áp lực mà không phải đối mặt với chiến tranh toàn diện. Điều này có thể cho phép họ đạt được mục tiêu chiến lược mà không phải trả giá cao. Tuy nhiên, chiến lược này cũng có thể dẫn đến hậu quả không lường trước được và gây ra những bất ổn trong khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "de3b109e9a45",
+      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T19:14:05.159798+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người tị nạn lội qua biển từ Morocco đến Ceuta",
+      "bullets": [
+        "Hàng trăm người tị nạn lội qua biển từ Morocco đến Ceuta",
+        "Lãnh đạo địa phương kêu gọi chính phủ Tây Ban Nha can thiệp",
+        "Sự xâm nhập quá mức đang làm cạn kiệt nguồn lực",
+        "Chính phủ Tây Ban Nha chưa có phản hồi chính thức"
+      ],
+      "full_summary": "Hàng trăm người tị nạn đã lội qua biển từ Morocco đến Ceuta, một lãnh thổ thuộc Tây Ban Nha. Lãnh đạo địa phương cho biết sự xâm nhập quá mức đang làm cạn kiệt nguồn lực và kêu gọi chính phủ Tây Ban Nha can thiệp. Tuy nhiên, chính phủ Tây Ban Nha chưa có phản hồi chính thức.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b6979c360e16",
+      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T19:14:06.211306+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Một vụ tấn công tên lửa Nga giết hại ít nhất 5 thành viên gia đình",
+      "bullets": [
+        "Giết hại ít nhất 6 người, bao gồm 3 trẻ em",
+        "Một cô bé 6 tuổi và hai chàng trai 11 và 17 tuổi là những nạn nhân",
+        "Vụ tấn công diễn ra ở một ngôi làng gần thành phố trung tâm Kryvyi Rih",
+        "Chủ tịch Ukraine Zelensky lên tiếng về vụ tấn công"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky cho biết ít nhất 5 thành viên gia đình đã bị giết hại trong một vụ tấn công tên lửa của Nga. Vụ tấn công diễn ra ở một ngôi làng gần thành phố trung tâm Kryvyi Rih, khiến ít nhất 6 người thiệt mạng, bao gồm 3 trẻ em. Một cô bé 6 tuổi và hai chàng trai 11 và 17 tuổi là những nạn nhân. Zelensky lên tiếng về vụ tấn công, nhưng thông tin chi tiết về vụ việc vẫn chưa được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "39acda8f3a81",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T19:14:07.221458+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiệt độ cao và thiếu mưa gây khó khăn cho nhà máy điện hạt nhân ở Hungary",
+      "bullets": [
+        "Gây khó khăn cho hoạt động của nhà máy điện hạt nhân ở Hungary",
+        "Cắt giảm sản lượng điện ở Romania, Bulgaria và Serbia",
+        "Tăng cường nguy cơ thiếu nước ở các khu vực",
+        "Gây thiệt hại cho nền kinh tế ở các quốc gia châu Âu"
+      ],
+      "full_summary": "Nhiệt độ cao và thiếu mưa đã gây khó khăn cho hoạt động của nhà máy điện hạt nhân ở Hungary. Nhà máy này đã phải ngừng hoạt động do mực nước sông Danube thấp kỷ lục. Các quốc gia khác như Romania, Bulgaria và Serbia cũng đang đối mặt với hậu quả của chuỗi nhiệt độ cao kéo dài và thiếu mưa. Điều này đã gây thiệt hại cho nền kinh tế và tăng cường nguy cơ thiếu nước ở các khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2f5da98877a6",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T19:14:08.236007+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "15 con voi chết do thuốc trừ sâu chứa cyanua ở Kenya",
+      "bullets": [
+        "Cyanua trong thuốc trừ sâu đã giết 15 con voi ở Kenya",
+        "Các quan chức Kenya nghi ngờ thuốc trừ sâu gây ra vụ việc",
+        "Foul play đã được loại trừ khỏi vụ việc",
+        "Số lượng voi chết kỷ lục trong khu vực này trong nhiều thập kỷ"
+      ],
+      "full_summary": "Các quan chức Kenya vừa xác định nguyên nhân gây ra số lượng voi chết kỷ lục trong khu vực này. Theo BBC, 15 con voi đã chết do dùng thuốc trừ sâu chứa cyanua. Các quan chức nghi ngờ thuốc trừ sâu gây ra vụ việc và đã loại trừ foul play. Số lượng voi chết kỷ lục trong khu vực này trong nhiều thập kỷ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0e7b444ce633",
+      "title": "Father of teen school shooter sentenced to 15 years in prison",
+      "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T19:14:09.223121+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cha bé trai sát hại học sinh bị phạt 15 năm tù",
+      "bullets": [
+        "Cha bé bị kết tội liên quan đến vụ tấn công chết người tại trường học năm 2024",
+        "Hộ chiếu bị kết án 15 năm tù",
+        "Tòa án chỉ trích cha bé đã thất bại trong việc chăm sóc",
+        "Cha bé bị kết tội trước đó vào năm nay"
+      ],
+      "full_summary": "Một tòa án đã kết án cha của một học sinh 15 năm tù vì liên quan đến vụ tấn công chết người tại trường học năm 2024. Cha bé bị kết tội và bị chỉ trích vì đã thất bại trong việc chăm sóc. Vụ án đã gây ra sự chú ý lớn và được coi là một trong những vụ án nghiêm trọng nhất trong lịch sử.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d7487cf5240c",
+      "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
+      "url": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T19:14:10.306751+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Xbox gặp sự cố nghiêm trọng khiến người dùng gặp khó khăn khi đăng nhập và chơi game.",
+      "bullets": [
+        "Người dùng Xbox gặp khó khăn khi đăng nhập vào tài khoản.",
+        "Sự cố khiến người dùng không thể xem thư viện game của mình.",
+        "Xbox bị lỗi khiến người dùng không thể khởi động game."
+      ],
+      "full_summary": "Một sự cố nghiêm trọng đã xảy ra trên hệ thống Xbox khiến người dùng gặp khó khăn khi đăng nhập vào tài khoản, xem thư viện game và khởi động game. Người đứng đầu công nghệ của Xbox đã mô tả sự cố này là 'không chấp nhận được'. Sự cố này đã ảnh hưởng đến trải nghiệm người dùng và gây ra sự bất mãn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "421a79f26b48",
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
@@ -656,145 +795,6 @@
         "Aftershock có thể đạt cường độ 7"
       ],
       "full_summary": "Một trận động đất mạnh đã xảy ra ở Nhật Bản, khiến 13 người thiệt mạng. Hơn 100 aftershock đã xảy ra sau đó. Các quan chức cảnh báo người dân phải cảnh giác vì aftershock có thể đạt cường độ 7.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d81929e26ca0",
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T13:52:04.076672+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người ở Tây Ban Nha trở về nhà nhưng đợt nóng mới làm tăng nguy cơ cháy rừng",
-      "bullets": [
-        "Nhiều người ở Tây Ban Nha đã trở về nhà sau đợt cháy rừng",
-        "Nhưng một đợt nóng mới đang đến và làm tăng nguy cơ cháy rừng",
-        "Một số đám cháy vẫn tiếp tục bùng phát ở Tây Ban Nha và Pháp"
-      ],
-      "full_summary": "Tây Ban Nha và Pháp đang chuẩn bị cho đợt nóng thứ tư trong mùa hè này. Mặc dù nhiều người đã trở về nhà sau đợt cháy rừng, nhưng một đợt nóng mới đang đến và làm tăng nguy cơ cháy rừng. Một số đám cháy vẫn tiếp tục bùng phát ở Tây Ban Nha và Pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6828ea620d67",
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T13:52:05.193736+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Fauci từ chối trả lời câu hỏi về nguồn gốc Covid trước Quốc hội Mỹ",
-      "bullets": [
-        "Fauci từ chối trả lời câu hỏi về nguồn gốc Covid",
-        "Ông được yêu cầu trả lời trước Quốc hội Mỹ",
-        "Fauci viện lý do được phép im lặng",
-        "Câu hỏi về nguồn gốc Covid gây tranh cãi"
-      ],
-      "full_summary": "Anthony Fauci, cựu quan chức y tế hàng đầu của Mỹ, đã từ chối trả lời câu hỏi về nguồn gốc Covid trước Quốc hội Mỹ. Ông được yêu cầu trả lời trước Quốc hội về những vấn đề liên quan đến đại dịch. Tuy nhiên, Fauci đã viện lý do được phép im lặng. Câu hỏi về nguồn gốc Covid đã gây tranh cãi trong thời gian dài.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "205c4c5be51d",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T13:52:06.464723+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nga truy tố sáng lập Telegram vì hỗ trợ khủng bố",
-      "bullets": [
-        "Nga cáo buộc Telegram không xóa tài khoản và kênh tuyển mộ của tình báo Ukraine",
-        "FSB cho rằng ứng dụng này đang hỗ trợ khủng bố",
-        "Telegram phủ nhận cáo buộc và cho rằng họ đang tuân thủ luật pháp Nga",
-        "Sáng lập Telegram Pavel Durov bị truy tố"
-      ],
-      "full_summary": "Nga cáo buộc sáng lập Telegram Pavel Durov vì hỗ trợ khủng bố. FSB cho rằng ứng dụng này không xóa tài khoản và kênh tuyển mộ của tình báo Ukraine. Telegram phủ nhận cáo buộc và cho rằng họ đang tuân thủ luật pháp Nga. Sáng lập Telegram Pavel Durov bị truy tố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "54e96c51a967",
-      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T13:52:07.563265+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Ca sĩ Glen Hansard qua đời trong tai nạn giao thông",
-      "bullets": [
-        "Glen Hansard qua đời ở tuổi 56",
-        "Anh ta từng đoạt giải Oscar cho bài hát hay nhất cho phim Once",
-        "Phim Once là một bộ phim nhạc kịch có ngân sách thấp",
-        "Glen Hansard được biết đến với nhiều tác phẩm âm nhạc nổi tiếng"
-      ],
-      "full_summary": "Ca sĩ Glen Hansard, người từng đoạt giải Oscar cho bài hát hay nhất cho phim Once, đã qua đời ở tuổi 56. Theo thông tin từ BBC, Glen Hansard đã qua đời trong một tai nạn giao thông. Anh ta được biết đến với nhiều tác phẩm âm nhạc nổi tiếng và đã đóng góp vào nhiều bộ phim nhạc kịch. Glen Hansard đã giành được giải Oscar cho bài hát hay nhất cho phim Once vào năm 2007.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0f610c74865",
-      "title": "Is AI facing a big financial reckoning?",
-      "url": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T13:52:09.937253+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Giá trị chip giảm mạnh khiến nhà đầu tư lo ngại về tương lai của AI",
-      "bullets": [
-        "Giá trị của các công ty sản xuất chip giảm mạnh",
-        "Nhà đầu tư lo ngại về sự suy giảm của đà tăng trưởng AI",
-        "Sự sụt giảm giá trị của các công ty chip ảnh hưởng đến thị trường AI",
-        "Tình hình tài chính của các công ty AI đang trở nên không chắc chắn"
-      ],
-      "full_summary": "Giá trị của các công ty sản xuất chip đã giảm mạnh, khiến nhà đầu tư lo ngại về sự suy giảm của đà tăng trưởng AI. Sự sụt giảm giá trị của các công ty chip ảnh hưởng đến thị trường AI và khiến các nhà đầu tư trở nên không chắc chắn về tương lai của các công ty AI. Điều này có thể dẫn đến một cuộc suy thoái tài chính lớn đối với các công ty AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "474e766e32fc",
-      "title": "Data centres could pay hundreds of millions in deposits for power demands",
-      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T13:52:11.005061+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Các trung tâm dữ liệu sẽ phải trả hàng trăm triệu bảng tiền đặt cọc",
-      "bullets": [
-        "Sẽ tính phí £237,500 đến £712,500 mỗi megawatt cho các dự án mới",
-        "Các trung tâm dữ liệu sẽ phải trả tiền đặt cọc cho nhu cầu điện năng",
-        "Phí này sẽ được áp dụng cho các dự án sắp tới",
-        "Mục đích là để kiểm soát nhu cầu điện năng và giảm thiểu tác động môi trường"
-      ],
-      "full_summary": "Ủy ban quản lý năng lượng đã đề xuất mức phí từ £237,500 đến £712,500 mỗi megawatt cho các trung tâm dữ liệu mới. Mục đích của phí này là để kiểm soát nhu cầu điện năng và giảm thiểu tác động môi trường. Các trung tâm dữ liệu sẽ phải trả tiền đặt cọc cho nhu cầu điện năng của mình. Phí này sẽ được áp dụng cho các dự án sắp tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "597335246cdd",
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-29T13:52:14.416412+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google SynthID khó phá vỡ nhưng không giải quyết thông tin sai lệch AI",
-      "bullets": [
-        "Google SynthID chống lại việc sao chép hình ảnh AI",
-        "Nghiên cứu cho thấy SynthID khó phá vỡ hơn các phương pháp khác",
-        "Tuy nhiên, việc dán nhãn nội dung AI không giải quyết được thông tin sai lệch",
-        "Sẽ khó xác định thông tin nào là thật trên Internet trong tương lai"
-      ],
-      "full_summary": "Google đã giới thiệu SynthID, một công nghệ chống sao chép hình ảnh AI. Theo nghiên cứu, SynthID khó phá vỡ hơn các phương pháp khác. Tuy nhiên, việc dán nhãn nội dung AI không giải quyết được thông tin sai lệch. Điều này cho thấy sẽ khó xác định thông tin nào là thật trên Internet trong tương lai.",
       "comments": 0,
       "score": 0
     }
