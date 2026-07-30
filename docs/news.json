@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-07-30T01:48:30.623146+00:00",
+  "updated_at": "2026-07-30T08:11:44.623167+00:00",
   "articles": [
+    {
+      "id": "d39b8c85da00",
+      "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T08:11:30.952852+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hoa Kỳ cắt giảm viện trợ, nhiều thanh niên châu Phi coi đây là cơ hội",
+      "bullets": [
+        "Hơn một phần tư thanh niên châu Phi tin rằng cắt giảm viện trợ có thể mang lại lợi ích",
+        "Nhiều người cho rằng việc mất nguồn tiền nước ngoài sẽ buộc lãnh đạo phải giải quyết các thách thức của mình",
+        "Một số người lo ngại về sự tăng cường ảnh hưởng của nước ngoài",
+        "Một trong mười thanh niên châu Phi không chắc chắn về tác động của việc cắt giảm viện trợ"
+      ],
+      "full_summary": "Một cuộc khảo sát gần 5.000 người trên lục địa châu Phi cho thấy hơn một phần tư thanh niên châu Phi tin rằng cắt giảm viện trợ của Hoa Kỳ có thể mang lại lợi ích. Họ cho rằng việc mất nguồn tiền nước ngoài sẽ buộc lãnh đạo phải giải quyết các thách thức của mình. Tuy nhiên, một số người cũng lo ngại về sự tăng cường ảnh hưởng của nước ngoài.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "15bacd6b0910",
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T08:11:31.866631+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "15 con voi bị tử vong bất ngờ tại công viên quốc gia Amboseli",
+      "bullets": [
+        "Khám phá ra chất độc hại trong cơ thể một số con voi",
+        "Cơ quan quản lý động vật hoang dã Kenya đang điều tra nguyên nhân",
+        "10 con voi bị liệt nửa người trước khi tử vong trong vòng 2 ngày"
+      ],
+      "full_summary": "Cơ quan quản lý động vật hoang dã Kenya đang điều tra nguyên nhân tử vong của 15 con voi tại công viên quốc gia Amboseli. Các con voi bị tử vong trong tháng qua, một số con voi bị liệt nửa người trước khi chết. Chất độc hại đã được phát hiện trong cơ thể một số con voi. Cơ quan quản lý đang làm việc để xác định nguyên nhân và ngăn chặn tình trạng này trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c13b26e3705b",
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T08:11:32.978666+00:00",
+      "category": "politics|economy",
+      "importance": 4,
+      "headline": "Canada giảm chi tiêu du lịch sang Mỹ sau khi Trump trở lại",
+      "bullets": [
+        "Giảm 3,3 tỷ đô la chi tiêu du lịch sang Mỹ",
+        "Thay thế bằng các chuyến đi quốc tế khác",
+        "Phản ứng với chính sách của Trump",
+        "Không giảm chi tiêu du lịch tổng thể"
+      ],
+      "full_summary": "Theo dữ liệu mới, người Canada đã giảm 3,3 tỷ đô la chi tiêu du lịch sang Mỹ trong năm 2025 so với năm trước. Điều này được cho là do chính sách của Tổng thống Trump tiếp tục gây tổn thất kinh tế. Người Canada đã thay thế các chuyến đi đến Mỹ bằng các điểm đến quốc tế khác, thể hiện sự phản đối với chính sách thuế của Trump và những suy nghĩ về việc sáp nhập Canada.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e21a479bce73",
+      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T08:11:33.846229+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Javier Milei tố cáo đảng Dân chủ Mỹ tài trợ chiến dịch chống Argentina tại World Cup",
+      "bullets": [
+        "Tố cáo đảng Dân chủ Mỹ tài trợ chiến dịch chống Argentina tại World Cup",
+        "Tố cáo Brazil và Mexico tham gia chiến dịch chống Argentina",
+        "Xin lỗi vì không có thông tin về các điểm khác",
+        "Không có thông tin về các điểm khác"
+      ],
+      "full_summary": "Tổng thống Argentina Javier Milei cáo buộc đảng Dân chủ Mỹ tài trợ chiến dịch chống Argentina tại World Cup. Ông cũng cáo buộc Brazil và Mexico tham gia chiến dịch này. Theo ông, chiến dịch này nhằm ngăn chặn ý tưởng tự do của Argentina. Ông cho rằng những người chỉ trích Argentina trên mạng không muốn ý tưởng tự do của Argentina thành công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "87eb876878a2",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-30T08:11:34.789944+00:00",
+      "category": "khoa học công nghệ",
+      "importance": 4,
+      "headline": "Mythos phát hiện lỗ hổng nghiêm trọng trong thuật toán PQC HAWK",
+      "bullets": [
+        "Phát hiện lỗ hổng nghiêm trọng trong thuật toán PQC HAWK",
+        "HAWK đã vượt qua nhiều thử nghiệm trong nhiều năm mà không phát hiện ra lỗ hổng này",
+        "Lỗ hổng này khiến HAWK không thể tiếp tục tham gia vào cuộc cạnh tranh",
+        "Mythos đã giúp phát hiện ra lỗ hổng này sau nhiều năm thử nghiệm"
+      ],
+      "full_summary": "Mythos đã phát hiện ra một lỗ hổng nghiêm trọng trong thuật toán PQC HAWK, khiến nó không thể tiếp tục tham gia vào cuộc cạnh tranh. Lỗ hổng này đã được phát hiện sau nhiều năm thử nghiệm mà HAWK đã vượt qua mà không bị phát hiện. Điều này cho thấy rằng việc thử nghiệm và kiểm tra mã hóa là rất quan trọng để đảm bảo an toàn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "80c2ad481e49",
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-30T08:11:36.259005+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cửa hàng Comcast bị cáo buộc trừng phạt nhân viên bằng cách ném bánh vào mặt họ",
+      "bullets": [
+        "Bị cáo buộc trừng phạt nhân viên bằng cách ném bánh vào mặt họ",
+        "Lawsuit cáo buộc Comcast có hành vi bất cẩn",
+        "Cable TV lớn này phủ nhận cáo buộc, nói rằng vụ việc đã bị hiểu lầm",
+        "Các nhân viên đã bị trừng phạt vì doanh số bán hàng thấp"
+      ],
+      "full_summary": "Một vụ kiện cáo buộc một cửa hàng của Comcast trừng phạt nhân viên bằng cách ném bánh vào mặt họ vì doanh số bán hàng thấp. Vụ việc được cáo buộc đã xảy ra vào năm 2026. Comcast phủ nhận cáo buộc, nói rằng vụ việc đã bị hiểu lầm. Các nhân viên đã bị trừng phạt vì doanh số bán hàng thấp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cf9847582c79",
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-30T08:11:41.294688+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sự phấn khích về hiệu suất làm việc có thể chỉ là ảo giác",
+      "bullets": [
+        "Đánh giá hiệu suất làm việc thường không phản ánh đúng thực tế",
+        "Sự phấn khích về hiệu suất có thể dẫn đến việc bỏ qua các vấn đề thực sự",
+        "Nghiên cứu cho thấy hiệu suất làm việc không phải là yếu tố quyết định thành công",
+        "Cần xem xét lại cách đánh giá hiệu suất làm việc"
+      ],
+      "full_summary": "Một nghiên cứu mới cho thấy sự phấn khích về hiệu suất làm việc có thể chỉ là ảo giác. Đánh giá hiệu suất làm việc thường không phản ánh đúng thực tế và có thể dẫn đến việc bỏ qua các vấn đề thực sự. Nghiên cứu cho thấy hiệu suất làm việc không phải là yếu tố quyết định thành công. Thay vào đó, các yếu tố như sự sáng tạo, khả năng thích nghi và khả năng lãnh đạo có tầm quan trọng hơn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "9c91b9cfe4ec",
       "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
@@ -654,145 +793,6 @@
         "Các chính trị gia lên tiếng chỉ trích về tình hình"
       ],
       "full_summary": "Hỏa hoạn ở Bắc Mỹ và châu Âu đã gây ra nhiều thiệt hại về người và tài sản. Theo nghiên cứu, hậu quả của các đám cháy này có thể kéo dài nhiều năm, ảnh hưởng đến sức khỏe và cuộc sống của người dân. Các chính trị gia đã lên tiếng chỉ trích về tình hình và yêu cầu các biện pháp khắc phục.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c84e17377b4",
-      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-      "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-29T08:27:00.985281+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Audi ra mắt SUV flagship mới giá 87.700 USD",
-      "bullets": [
-        "Sẽ được bán tại Mỹ vào quý 4 với giá khởi điểm 87.700 USD",
-        "SUV flagship mới của Audi có kích thước lớn",
-        "Sẽ đi kèm với nhiều tính năng hiện đại"
-      ],
-      "full_summary": "Audi đã công bố một chiếc SUV flagship mới, được thiết kế dành cho thị trường Mỹ. Chiếc SUV này sẽ có giá khởi điểm 87.700 USD khi bán ra vào quý 4. Với kích thước lớn, chiếc SUV này sẽ đi kèm với nhiều tính năng hiện đại, đáp ứng nhu cầu của khách hàng Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff789618a220",
-      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-29T08:27:04.853098+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google cho biết AI chưa làm giảm số lượng việc làm",
-      "bullets": [
-        "Giám sát 15 triệu tương tác AI thực tế",
-        "Hầu hết công việc không bị ảnh hưởng bởi AI",
-        "Nghiên cứu của Google chỉ ra AI chưa thay thế con người",
-        "Sự tự động hóa không đáng kể trong hầu hết các công việc"
-      ],
-      "full_summary": "Theo nghiên cứu của Google, mặc dù AI đã trở thành một chủ đề nóng trong thời gian gần đây, nhưng số lượng việc làm vẫn chưa bị giảm đáng kể. Dữ liệu từ Google cho thấy, trong 15 triệu tương tác AI thực tế, hầu hết công việc không bị ảnh hưởng bởi AI. Điều này cho thấy, AI chưa thay thế con người trong nhiều lĩnh vực. Nghiên cứu của Google chỉ ra rằng, sự tự động hóa không đáng kể trong hầu hết các công việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3daf85373d0f",
-      "title": "Watch: The moment quake hit Japan",
-      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:55:58.837616+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Động đất mạnh xảy ra ở đảo Kyushu, Nhật Bản",
-      "bullets": [
-        "Động đất mạnh xảy ra ở đảo Kyushu, Nhật Bản vào ngày 28 tháng 7",
-        "Video ghi lại các địa điểm trên khu vực bị ảnh hưởng",
-        "Động đất gây thiệt hại và làm rung lắc các tòa nhà",
-        "Các cơ quan chức năng đang tiến hành điều tra nguyên nhân"
-      ],
-      "full_summary": "Một trận động đất mạnh đã xảy ra ở đảo Kyushu, Nhật Bản vào ngày 28 tháng 7. Video ghi lại các địa điểm trên khu vực bị ảnh hưởng, cho thấy các tòa nhà bị rung lắc và thiệt hại. Các cơ quan chức năng đang tiến hành điều tra nguyên nhân của trận động đất mạnh này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5dfebed2afde",
-      "title": "Iran and US trade strikes, shattering brief lull in fighting",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:55:59.765841+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Iran và Mỹ đã trao đổi các cuộc tấn công, chấm dứt tạm thời thời gian yên bình",
-      "bullets": [
-        "Iran đã phóng nhiều tên lửa đạn đạo",
-        "Lực lượng Mỹ đã bắn hạ các tên lửa",
-        "Cả hai bên đều đã thực hiện các cuộc tấn công",
-        "Tình hình đang trở nên căng thẳng hơn"
-      ],
-      "full_summary": "Mỹ và Iran đã trao đổi các cuộc tấn công sau khi lực lượng Mỹ cho biết đã bắt được nhiều tên lửa đạn đạo được phóng từ Iran. Điều này đã chấm dứt tạm thời thời gian yên bình sau một thời gian ngắn. Các cuộc tấn công đã khiến tình hình trở nên căng thẳng hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6803a8402a91",
-      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:56:00.750837+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Các băng đảng ma túy Mexico thuê Nigeria để sản xuất ma túy",
-      "bullets": [
-        "Tạo ra mạng lưới sản xuất ma túy ở Tây Phi",
-        "Nigeria đang trở thành điểm đến hấp dẫn cho các băng đảng ma túy",
-        "Các băng đảng đang thuê các địa điểm ở Nigeria để sản xuất ma túy",
-        "Ma túy được sản xuất ở Nigeria sau đó được xuất khẩu sang các quốc gia khác"
-      ],
-      "full_summary": "Các băng đảng ma túy Mexico đang thuê các địa điểm ở Nigeria để sản xuất ma túy. Tây Phi đang trở thành điểm đến hấp dẫn cho các băng đảng ma túy do sự thiếu kiểm soát của chính phủ và sự sẵn có của các nguyên liệu cần thiết. Các băng đảng đang thuê các địa điểm ở Nigeria để sản xuất ma túy, sau đó xuất khẩu nó sang các quốc gia khác. Điều này đã dẫn đến sự gia tăng của ma túy trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d71e922d34d6",
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:56:01.752533+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hành động mới của Mỹ cấm nhập khẩu robot humanoid Trung Quốc",
-      "bullets": [
-        "Cấm nhập khẩu robot humanoid mới từ Trung Quốc",
-        "Mỹ và Trung Quốc đang cạnh tranh về công nghệ robot và trí tuệ nhân tạo",
-        "Sự cạnh tranh này đang diễn ra trên toàn thế giới",
-        "Mỹ muốn dẫn đầu trong lĩnh vực này"
-      ],
-      "full_summary": "Hành động mới của chính quyền Trump cấm nhập khẩu robot humanoid mới từ Trung Quốc. Mỹ và Trung Quốc đang cạnh tranh về công nghệ robot và trí tuệ nhân tạo. Sự cạnh tranh này đang diễn ra trên toàn thế giới, với Mỹ muốn dẫn đầu trong lĩnh vực này. Việc cấm nhập khẩu robot humanoid mới từ Trung Quốc là một phần của nỗ lực này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d4c66c12972d",
-      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:56:02.850487+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cảnh báo sử dụng bộ chuyển nguồn điện nguy hiểm khi du lịch",
-      "bullets": [
-        "Tránh mua bộ chuyển nguồn điện không đảm bảo chất lượng",
-        "Kiểm tra kỹ bộ chuyển nguồn điện trước khi sử dụng",
-        "Chọn bộ chuyển nguồn điện từ các thương hiệu uy tín",
-        "Hãy cẩn thận khi sử dụng bộ chuyển nguồn điện ở nước ngoài"
-      ],
-      "full_summary": "Electrical Safety First đã cảnh báo người dân Anh không nên sử dụng bộ chuyển nguồn điện không đảm bảo chất lượng khi du lịch nước ngoài. Bộ nhóm này cho rằng nhiều bộ chuyển nguồn điện không đáp ứng được các tiêu chuẩn an toàn. Người dân nên chọn bộ chuyển nguồn điện từ các thương hiệu uy tín và kiểm tra kỹ bộ chuyển nguồn điện trước khi sử dụng.",
       "comments": 0,
       "score": 0
     }
