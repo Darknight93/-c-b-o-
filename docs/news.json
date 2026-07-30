@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-07-29T19:02:47.135374+00:00",
+  "updated_at": "2026-07-30T01:48:30.623146+00:00",
   "articles": [
+    {
+      "id": "9c91b9cfe4ec",
+      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T01:48:08.621869+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Zendaya và Tom Holland cùng diễn trong Spider-Man: Brand New Day",
+      "bullets": [
+        "Zendaya và Tom Holland đã cùng diễn trong bộ phim Spider-Man: Brand New Day",
+        "Cặp đôi đã xuất hiện tại buổi ra mắt phim tại London",
+        "Zendaya chia sẻ về kinh nghiệm làm việc với Tom Holland",
+        "Zendaya và Tom Holland được cho là đã trở thành bạn bè thân thiết"
+      ],
+      "full_summary": "Zendaya và Tom Holland đã cùng diễn trong bộ phim Spider-Man: Brand New Day. Cặp đôi đã xuất hiện tại buổi ra mắt phim tại London và được giới truyền thông chú ý. Trong một cuộc phỏng vấn, Zendaya đã chia sẻ về kinh nghiệm làm việc với Tom Holland và cho biết họ đã trở thành bạn bè thân thiết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "917a626a6bef",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T01:48:09.959854+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người dân từ chối di dời trước đám cháy rừng ở Pháp",
+      "bullets": [
+        "Cảnh sát đang đấu tranh với đám cháy rừng ở vùng Gironde.",
+        "Hàng trăm người dân bị yêu cầu di dời nhưng vẫn ở lại.",
+        "Nhiệt độ cao 40 độ C khiến việc chữa cháy trở nên khó khăn.",
+        "Cảnh sát đang cố gắng thuyết phục người dân rời khỏi khu vực."
+      ],
+      "full_summary": "Cảnh sát đang đấu tranh với đám cháy rừng ở vùng Gironde, Pháp. Nhiều người dân bị yêu cầu di dời nhưng vẫn ở lại, khiến việc chữa cháy trở nên khó khăn. Nhiệt độ cao 40 độ C khiến việc chữa cháy trở nên khó khăn hơn. Cảnh sát đang cố gắng thuyết phục người dân rời khỏi khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "468546ea72fc",
+      "title": "Salman Rushdie attacker convicted of terror offences",
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T01:48:11.317751+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hadi Matar bị kết tội tấn công nhà văn Salman Rushdie",
+      "bullets": [
+        "Matar bị kết tội cố gắng giúp Hezbollah",
+        "Matar tấn công nhà văn Salman Rushdie",
+        "Matar bị kết tội tội danh khủng bố",
+        "Matar bị kết tội cố gắng giết nhà văn Salman Rushdie"
+      ],
+      "full_summary": "Hadi Matar, 28 tuổi, đã bị kết tội tội danh khủng bố vì đã cố gắng giúp Hezbollah bằng cách tấn công nhà văn Salman Rushdie. Matar đã bị kết tội tội danh khủng bố và bị kết tội cố gắng giết nhà văn Salman Rushdie. Matar đã bị kết tội tội danh khủng bố vì đã cố gắng giúp Hezbollah. Matar đã bị kết tội tội danh khủng bố vì đã tấn công nhà văn Salman Rushdie.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "709ad09e92ed",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T01:48:12.566925+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Trump cân nhắc kiểm soát AI sau các vụ hack vào OpenAI",
+      "bullets": [
+        "Trump đang xem xét các biện pháp kiểm soát AI sau các vụ hack vào OpenAI",
+        "Các vụ hack vào OpenAI đã làm thay đổi thái độ của chính quyền Trump",
+        "Chính quyền Trump trước đây đã có một cách tiếp cận linh hoạt hơn đối với công nghệ AI",
+        "Trump đang xem xét các biện pháp để ngăn chặn các vụ hack tương tự"
+      ],
+      "full_summary": "Chính quyền Trump đang xem xét các biện pháp kiểm soát AI sau các vụ hack vào OpenAI. Các vụ hack vào OpenAI đã làm thay đổi thái độ của chính quyền Trump, từ một cách tiếp cận linh hoạt hơn đối với công nghệ AI. Trump đang xem xét các biện pháp để ngăn chặn các vụ hack tương tự và đảm bảo an toàn cho công nghệ AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c879107d5308",
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T01:48:13.920128+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "FIFA mở vụ điều tra kỷ luật Argentina vì hành vi gây rối sau World Cup",
+      "bullets": [
+        "FIFA mở vụ điều tra kỷ luật Argentina vì hành vi gây rối sau trận chung kết World Cup",
+        "Argentina bị cáo buộc gây rối trong suốt giải đấu",
+        "FIFA sẽ xem xét kỷ luật Argentina",
+        "Argentina có thể bị phạt vì hành vi gây rối"
+      ],
+      "full_summary": "FIFA đã mở vụ điều tra kỷ luật Argentina vì hành vi gây rối sau trận chung kết World Cup và trong suốt giải đấu. Argentina bị cáo buộc gây rối trong suốt giải đấu và FIFA sẽ xem xét kỷ luật Argentina. Nếu Argentina bị phạt, họ có thể sẽ phải đối mặt với hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "709ad09e92ed",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T01:48:15.262682+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Trump xem xét kiểm soát AI sau các sự cố hack của OpenAI",
+      "bullets": [
+        "Trump đang cân nhắc kiểm soát AI để ngăn chặn các sự cố hack",
+        "Các sự cố hack gần đây của OpenAI đã làm thay đổi thái độ của chính quyền Trump",
+        "Chính quyền Trump trước đây đã có một cách tiếp cận khá tự do với công nghệ AI",
+        "Trump đang xem xét các biện pháp kiểm soát để đảm bảo an toàn cho công nghệ AI"
+      ],
+      "full_summary": "Chính quyền của Tổng thống Trump đang xem xét việc kiểm soát công nghệ trí tuệ nhân tạo (AI) sau các sự cố hack gần đây của công ty OpenAI. Các sự cố hack đã làm thay đổi thái độ của chính quyền Trump, từ cách tiếp cận tự do trước đây sang một cách tiếp cận mạnh mẽ hơn. Trump đang cân nhắc các biện pháp kiểm soát để đảm bảo an toàn cho công nghệ AI và ngăn chặn các sự cố tương tự trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "628d18510dc4",
+      "title": "Meta shares fall as frustration grows over AI spending plans",
+      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-30T01:48:16.683644+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta giảm giá trị sau khi công bố kế hoạch chi tiêu lớn cho trí tuệ nhân tạo",
+      "bullets": [
+        "Meta công bố kế hoạch bán công cụ trí tuệ nhân tạo cho các công ty khác",
+        "Mark Zuckerberg cho biết Meta sẽ tăng cường chi tiêu cho AI",
+        "Giá cổ phiếu Meta giảm do lo ngại về chi phí phát triển AI",
+        "Kế hoạch của Meta gây ra sự bất mãn trong giới đầu tư"
+      ],
+      "full_summary": "Meta công bố kế hoạch bán công cụ trí tuệ nhân tạo cho các công ty khác, gây ra sự bất mãn trong giới đầu tư. Giá cổ phiếu Meta giảm do lo ngại về chi phí phát triển AI. Mark Zuckerberg cho biết Meta sẽ tăng cường chi tiêu cho AI. Kế hoạch này được xem là một phần của nỗ lực của Meta để trở thành một công ty dẫn đầu trong lĩnh vực trí tuệ nhân tạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "13b7c9418ad0",
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-30T01:48:20.917166+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Cấm robot nước ngoài: Mỹ có thể mất lợi thế cạnh tranh",
+      "bullets": [
+        "Cấm robot nước ngoài khiến các công ty Mỹ khó tiếp cận công nghệ tiên tiến",
+        "Quy định mới gây khó khăn cho các nhà sản xuất robot Mỹ",
+        "Bất lợi cho nền kinh tế Mỹ trong cuộc cạnh tranh toàn cầu",
+        "Có thể khiến Mỹ tụt hậu trong lĩnh vực công nghệ"
+      ],
+      "full_summary": "Mỹ vừa ban hành quy định cấm nhập khẩu robot từ nước ngoài. Mặc dù mục tiêu là bảo vệ ngành công nghiệp robot Mỹ, nhưng quy định này có thể gây khó khăn cho các công ty Mỹ trong việc tiếp cận công nghệ tiên tiến. Điều này có thể khiến Mỹ tụt hậu trong lĩnh vực công nghệ và mất lợi thế cạnh tranh trên thị trường toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f3cd7e695150",
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-30T01:48:25.239158+00:00",
+      "category": "politics|technology",
+      "importance": 4,
+      "headline": "Elon Musk chống lại lệnh cấm ứng dụng Grok của Minnesota",
+      "bullets": [
+        "Elon Musk kiện Minnesota vì lệnh cấm ứng dụng Grok",
+        "Musk cho rằng lệnh cấm là không hiến định",
+        "XAi cố gắng kiện ra tòa để tránh trách nhiệm về Grok",
+        "Musk bảo vệ Grok và cho rằng nó không vi phạm quy định"
+      ],
+      "full_summary": "Elon Musk, người sáng lập XAI, đang kiện Minnesota vì lệnh cấm ứng dụng Grok. Musk cho rằng lệnh cấm là không hiến định và cố gắng kiện ra tòa để tránh trách nhiệm về Grok. Ông bảo vệ Grok và cho rằng nó không vi phạm quy định. Điều này đã gây ra tranh cãi về quyền tự do ngôn luận và trách nhiệm của các công ty công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "88db9369960c",
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -613,185 +793,6 @@
         "Hãy cẩn thận khi sử dụng bộ chuyển nguồn điện ở nước ngoài"
       ],
       "full_summary": "Electrical Safety First đã cảnh báo người dân Anh không nên sử dụng bộ chuyển nguồn điện không đảm bảo chất lượng khi du lịch nước ngoài. Bộ nhóm này cho rằng nhiều bộ chuyển nguồn điện không đáp ứng được các tiêu chuẩn an toàn. Người dân nên chọn bộ chuyển nguồn điện từ các thương hiệu uy tín và kiểm tra kỹ bộ chuyển nguồn điện trước khi sử dụng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bfb87dcdf8b4",
-      "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:56:04.001008+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "ChatGPT bị xâm nhập, hàng trăm chuyên gia an ninh mạng được triệu tập khẩn cấp",
-      "bullets": [
-        "Xâm nhập ChatGPT gây ra sự cố nghiêm trọng cho công ty công nghệ",
-        "Hàng trăm chuyên gia an ninh mạng được triệu tập khẩn cấp để giải quyết vấn đề",
-        "Chi tiết cuộc gọi khẩn cấp đã được tiết lộ",
-        "Sự cố này cho thấy sự yếu kém của hệ thống bảo mật"
-      ],
-      "full_summary": "Một cuộc gọi khẩn cấp với hàng trăm chuyên gia an ninh mạng đã được tổ chức sau khi ChatGPT bị xâm nhập. Chi tiết cuộc gọi này đã được tiết lộ, cho thấy sự yếu kém của hệ thống bảo mật. Sự cố này đã gây ra sự cố nghiêm trọng cho công ty công nghệ và đã được giải quyết sau nhiều giờ. Các chuyên gia an ninh mạng đã phải làm việc chăm chỉ để giải quyết vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "15bacd6b0910",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:56:04.994527+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "15 con voi chết bất thường tại công viên quốc gia Amboseli",
-      "bullets": [
-        "Khám phá chất độc hại trong cơ thể một số con voi",
-        "10 con voi có dấu hiệu liệt nửa người trước khi chết",
-        "Cơ quan bảo vệ động vật Kenya đang điều tra nguyên nhân",
-        "Tổng cộng 15 con voi chết trong tháng qua"
-      ],
-      "full_summary": "Cơ quan bảo vệ động vật Kenya đang điều tra nguyên nhân 15 con voi chết bất thường tại công viên quốc gia Amboseli. Theo Kenya Wildlife Service, 10 con voi đã có dấu hiệu liệt nửa người trước khi chết. Một số con voi được phát hiện có chất độc hại trong cơ thể. Cơ quan này đang làm việc để tìm hiểu nguyên nhân gây ra cái chết của những con voi này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c13b26e3705b",
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T01:56:06.024310+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Canada cắt giảm chi tiêu du lịch Mỹ sau khi Trump trở lại",
-      "bullets": [
-        "Canada giảm chi tiêu du lịch Mỹ 3,3 tỷ USD",
-        "Người Canada thay thế Mỹ bằng các điểm đến quốc tế khác",
-        "Đáp lại chính sách của Trump, người Canada không giảm chi tiêu du lịch",
-        "Thay vào đó, họ chọn các điểm đến khác để du lịch"
-      ],
-      "full_summary": "Mới đây, dữ liệu cho thấy người Canada đã cắt giảm chi tiêu du lịch Mỹ 3,3 tỷ USD trong năm 2025 so với năm trước. Điều này là do chính sách của Tổng thống Mỹ Donald Trump đối với láng giềng Canada tiếp tục gây tổn hại cho nền kinh tế. Thay vì giảm chi tiêu du lịch, người Canada đã chọn các điểm đến quốc tế khác để thay thế Mỹ. Điều này được coi là một hình thức phản đối đối với chính sách của Trump.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "22c784ddc942",
-      "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-29T01:56:09.759678+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "eBay phải bồi thường 46 triệu USD cho các nhà báo bị quấy rối",
-      "bullets": [
-        "eBay đã gửi mặt nạ lợn máu và các món quà macabre đến nhà của các nhà báo",
-        "Các nhà báo đã kiện eBay vì hành vi quấy rối",
-        "eBay đã đồng ý bồi thường 46 triệu USD",
-        "Các cựu giám đốc của eBay cũng phải bồi thường"
-      ],
-      "full_summary": "eBay đã phải bồi thường 46 triệu USD cho các nhà báo sau khi họ bị quấy rối bằng cách gửi mặt nạ lợn máu và các món quà macabre đến nhà của họ. Các nhà báo đã kiện eBay vì hành vi quấy rối này. eBay đã đồng ý bồi thường 46 triệu USD. Các cựu giám đốc của eBay cũng phải bồi thường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79a1e2c9213b",
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T19:12:47.549642+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều đám cháy rừng bùng phát ở tây nam nước Pháp",
-      "bullets": [
-        "Cứu hỏa chuẩn bị đối mặt với nhiệt độ tăng cao",
-        "Đám cháy ở Gironde đang gây khó khăn cho việc kiểm soát",
-        "Nhiều người dân bị di dời khỏi khu vực bị ảnh hưởng",
-        "Cơn sóng nhiệt mới có thể làm phức tạp việc dập lửa"
-      ],
-      "full_summary": "Cứu hỏa đang đối mặt với thách thức lớn khi nhiều đám cháy rừng bùng phát ở tây nam nước Pháp. Nhiệt độ có thể tăng cao lên 40 độ C vào thứ Ba, khiến việc kiểm soát đám cháy trở nên khó khăn hơn. Nhiều người dân đã bị di dời khỏi khu vực bị ảnh hưởng. Cơn sóng nhiệt mới có thể làm phức tạp việc dập lửa và khiến tình hình trở nên nghiêm trọng hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a0dd136f618d",
-      "title": "Uefa reacts with fury to Infantino World Cup plan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T19:12:48.493878+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Uefa phản ứng dữ dội trước kế hoạch của Fifa",
-      "bullets": [
-        "Uefa phản đối mạnh mẽ kế hoạch của Fifa",
-        "Fifa đề xuất đầu tư tư nhân vào các giải đấu của mình",
-        "Uefa lo ngại về sự can thiệp của tư nhân vào bóng đá châu Âu",
-        "Kế hoạch của Fifa gây tranh cãi trong cộng đồng bóng đá"
-      ],
-      "full_summary": "Uefa đã phản ứng dữ dội trước kế hoạch của Fifa nhằm tìm kiếm đầu tư tư nhân vào các giải đấu của mình, bao gồm cả World Cup. Uefa lo ngại về sự can thiệp của tư nhân vào bóng đá châu Âu và cho rằng kế hoạch này có thể gây hại cho sự phát triển của bóng đá. Fifa đề xuất đầu tư tư nhân vào các giải đấu của mình để tăng cường tài chính và phát triển bóng đá toàn cầu. Tuy nhiên, kế hoạch này đã gây tranh cãi trong cộng đồng bóng đá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "96ce98a3e4f0",
-      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T19:12:49.697053+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ghana đang thương tiếc người đàn ông cao nhất của họ",
-      "bullets": [
-        "Chết vì bệnh lý liên quan đến chứng tăng trưởng quá mức",
-        "Sulemana Abdul Samed được chẩn đoán mắc chứng tăng trưởng quá mức nhiều năm trước",
-        "Ông được biết đến với tính cách nhân hậu và nổi tiếng ở Ghana"
-      ],
-      "full_summary": "Sulemana Abdul Samed, người được chẩn đoán mắc chứng tăng trưởng quá mức, đã qua đời ở tuổi 33. Ông được biết đến với tính cách nhân hậu và nổi tiếng ở Ghana. Sulemana Abdul Samed đã được nhiều người biết đến vì chiều cao của mình. Ông đã qua đời sau khi bị bệnh lý liên quan đến chứng tăng trưởng quá mức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3dec83558618",
-      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T19:12:50.583915+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "14 con voi bị tử vong bí ẩn ở Kenya",
-      "bullets": [
-        "Báo cáo 14 con voi bị tử vong ở khu vực phía nam Kenya",
-        "Số lượng tử vong cao nhất trong nhiều thập kỷ",
-        "Cơ quan chức năng đang tiến hành điều tra khẩn cấp",
-        "Nguyên nhân tử vong vẫn chưa được xác định"
-      ],
-      "full_summary": "Một vụ tử vong bí ẩn đã xảy ra ở khu vực phía nam Kenya, nơi 14 con voi đã bị tử vong. Đây là số lượng tử vong cao nhất trong nhiều thập kỷ. Cơ quan chức năng đang tiến hành điều tra khẩn cấp để xác định nguyên nhân tử vong. Tuy nhiên, vẫn chưa có thông tin cụ thể về vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9fc3d5dc9754",
-      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-28T19:12:51.546627+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Ứng dụng di động giúp người đam mê chim bay trở nên hứng thú hơn",
-      "bullets": [
-        "Sử dụng ứng dụng để nhận diện loài chim trở nên dễ dàng hơn",
-        "Ứng dụng giúp người đam mê chim bay tìm kiếm thông tin và chia sẻ kinh nghiệm",
-        "Ứng dụng thu hút nhiều người mới tham gia vào sở thích này",
-        "Người đam mê chim bay chia sẻ ứng dụng đã thay đổi cách họ tiếp cận sở thích lâu đời"
-      ],
-      "full_summary": "Ứng dụng di động giúp người đam mê chim bay nhận diện loài chim một cách dễ dàng hơn. Người đam mê chim bay có thể sử dụng ứng dụng để tìm kiếm thông tin và chia sẻ kinh nghiệm. Các ứng dụng này đã thu hút nhiều người mới tham gia vào sở thích này. Người đam mê chim bay cho biết ứng dụng đã thay đổi cách họ tiếp cận sở thích lâu đời của mình.",
       "comments": 0,
       "score": 0
     }
