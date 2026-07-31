@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-07-30T19:14:18.621817+00:00",
+  "updated_at": "2026-07-31T02:05:50.341373+00:00",
   "articles": [
+    {
+      "id": "3b219dd49c6d",
+      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:35.563896+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hamas đồng ý giải giáp sau kế hoạch Hội đồng Hòa bình của Trump",
+      "bullets": [
+        "Hamas xác nhận đồng ý kế hoạch Hội đồng Hòa bình",
+        "Israel chưa có bình luận về vấn đề này",
+        "Kế hoạch Hội đồng Hòa bình được công bố bởi Tổng thống Trump",
+        "Hamas sẽ giải giáp sau khi đạt được thỏa thuận"
+      ],
+      "full_summary": "Một quan chức cao cấp của Hamas xác nhận họ đã đồng ý kế hoạch Hội đồng Hòa bình do Tổng thống Trump công bố. Tuy nhiên, Israel chưa có bình luận về vấn đề này. Kế hoạch Hội đồng Hòa bình được công bố nhằm mục đích giải quyết xung đột ở khu vực này. Hamas sẽ giải giáp sau khi đạt được thỏa thuận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c48f55e4fcf3",
+      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:36.680630+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cơn lốc tuyết ở Pakistan khiến 10 người leo núi mất tích",
+      "bullets": [
+        "Cơ quan cứu hộ đang tìm kiếm nhóm 10 người leo núi bị mắc kẹt trong cơn lốc tuyết ở Pakistan",
+        "Nhóm gồm 1 người Mỹ, 1 người Trung Quốc, 1 người Oman và 5 người Nepal",
+        "Cơn lốc tuyết xảy ra ở khu vực K2, một trong những ngọn núi cao nhất thế giới",
+        "Các cơ quan cứu hộ đang nỗ lực tìm kiếm và cứu hộ nhóm người bị mắc kẹt"
+      ],
+      "full_summary": "Một nhóm 10 người leo núi bị mắc kẹt trong cơn lốc tuyết ở Pakistan. Cơ quan cứu hộ đang tìm kiếm và cứu hộ nhóm người này. Nhóm gồm 1 người Mỹ, 1 người Trung Quốc, 1 người Oman và 5 người Nepal. Cơn lốc tuyết xảy ra ở khu vực K2, một trong những ngọn núi cao nhất thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4dcb37ee7aa8",
+      "title": "Uefa to boycott World Cups if Fifa plans approved",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:37.684674+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Uefa từ chối tham gia World Cup nếu Fifa không thay đổi",
+      "bullets": [
+        "Uefa yêu cầu Fifa phải từ bỏ kế hoạch đầu tư vào World Cup",
+        "55 hiệp hội thành viên Uefa bỏ phiếu ủng hộ việc từ chối tham gia World Cup",
+        "Fifa và Chủ tịch Gianni Infantino phải thay đổi kế hoạch đầu tư",
+        "Uefa khẳng định World Cup không phải là một tài sản thương mại"
+      ],
+      "full_summary": "Uefa tuyên bố sẽ từ chối tham gia World Cup nếu Fifa và Chủ tịch Gianni Infantino không thay đổi kế hoạch đầu tư vào giải đấu. 55 hiệp hội thành viên Uefa đã bỏ phiếu ủng hộ việc từ chối tham gia World Cup. Uefa yêu cầu Fifa phải từ bỏ kế hoạch đầu tư và khẳng định World Cup không phải là một tài sản thương mại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "34552a0a88b4",
+      "title": "Anthropic says AI models hacked three firms during cyber tests",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:38.798239+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Công ty Anthropic nói AI đã xâm nhập mạng của 3 công ty trong thử nghiệm",
+      "bullets": [
+        "Xâm nhập mạng của 3 công ty trong thử nghiệm",
+        "Là một phần của thử nghiệm về an ninh mạng",
+        "Ghi nhận sau khi OpenAI nói về các AI độc lập xâm nhập mạng của các công ty khác",
+        "Cần xem xét lại các biện pháp an ninh mạng"
+      ],
+      "full_summary": "Công ty Anthropic đã công bố rằng trong thử nghiệm về an ninh mạng, các mô hình AI của họ đã xâm nhập mạng của 3 công ty. Điều này xảy ra chỉ vài ngày sau khi công ty OpenAI nói về các AI độc lập xâm nhập mạng của các công ty khác. Các thử nghiệm này nhằm đánh giá khả năng của các mô hình AI trong việc xâm nhập mạng và đánh giá an ninh mạng. Kết quả này cho thấy cần xem xét lại các biện pháp an ninh mạng để ngăn chặn các cuộc tấn công này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f5f28dcdb524",
+      "title": "Three things we learned about AI from Big Tech earnings",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:39.749926+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công nghệ trí tuệ nhân tạo nhận được đầu tư lớn từ các công ty công nghệ lớn",
+      "bullets": [
+        "Các công ty công nghệ lớn đang đầu tư hàng tỷ đô la vào trí tuệ nhân tạo mới",
+        "Trí tuệ nhân tạo có thể mang lại lợi nhuận lớn cho các công ty công nghệ",
+        "Tuy nhiên, vẫn còn nhiều rủi ro và thách thức cần được giải quyết",
+        "Các công ty cần phải cân nhắc kỹ lưỡng trước khi đầu tư vào trí tuệ nhân tạo"
+      ],
+      "full_summary": "Các công ty công nghệ lớn đang đầu tư hàng tỷ đô la vào trí tuệ nhân tạo mới. Điều này cho thấy sự quan tâm lớn của họ đối với công nghệ này. Tuy nhiên, vẫn còn nhiều rủi ro và thách thức cần được giải quyết trước khi trí tuệ nhân tạo có thể mang lại lợi nhuận lớn cho các công ty công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6055381d33af",
+      "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:40.707427+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cảnh sát hỗ trợ các hacker trẻ sử dụng kỹ năng cho mục đích tốt đẹp",
+      "bullets": [
+        "Hỗ trợ các hacker trẻ sử dụng kỹ năng cho mục đích tốt đẹp",
+        "Cảnh sát hợp tác với Cyber Prevent để ngăn chặn tội phạm mạng",
+        "Chương trình hướng dẫn các hacker trẻ về cách sử dụng kỹ năng một cách hợp pháp",
+        "Mục tiêu ngăn chặn các thanh niên trẻ bị lôi kéo vào tội phạm mạng"
+      ],
+      "full_summary": "Cảnh sát đang hợp tác với chương trình Cyber Prevent để ngăn chặn tội phạm mạng bằng cách hỗ trợ các hacker trẻ sử dụng kỹ năng của họ cho mục đích tốt đẹp. Chương trình này tập trung vào các thanh niên trẻ, chủ yếu là nam giới, đang có nguy cơ bị lôi kéo vào tội phạm mạng. Cảnh sát và Cyber Prevent đang hợp tác để hướng dẫn các hacker trẻ cách sử dụng kỹ năng một cách hợp pháp và ngăn chặn tội phạm mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a0aa2de12ffd",
+      "title": "India wants to join the strawberry superpowers",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:41.615247+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Ấn Độ muốn trở thành siêu cường dâu tây",
+      "bullets": [
+        "Ấn Độ đang cố gắng đa dạng hóa nguồn cung dâu tây",
+        "Họ đang tìm kiếm giống dâu tây bản địa để thay thế nhập khẩu",
+        "Mục tiêu là giảm phụ thuộc vào dâu tây nhập khẩu từ Mỹ và châu Âu",
+        "Điều này sẽ giúp tăng cường sự ổn định và giảm chi phí cho ngành nông nghiệp"
+      ],
+      "full_summary": "Ấn Độ đang cố gắng đa dạng hóa nguồn cung dâu tây để giảm phụ thuộc vào nhập khẩu từ Mỹ và châu Âu. Họ đang tìm kiếm giống dâu tây bản địa để thay thế nhập khẩu. Mục tiêu là tăng cường sự ổn định và giảm chi phí cho ngành nông nghiệp. Điều này sẽ giúp Ấn Độ trở thành một trong những siêu cường dâu tây trên thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "88ea2e405858",
+      "title": "US government map of Africa mislabels every country at global conference",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T02:05:43.241816+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bộ Ngoại giao Mỹ bị chỉ trích vì bản đồ châu Phi sai lệch",
+      "bullets": [
+        "Bản đồ của Bộ Ngoại giao Mỹ sai tên các quốc gia châu Phi tại hội nghị toàn cầu ở Brazil",
+        "Bản đồ sai lệch được công bố tại hội nghị Aids 2026 ở Rio de Janeiro",
+        "Bộ Ngoại giao Mỹ đã xin lỗi và nhận trách nhiệm về sự cố"
+      ],
+      "full_summary": "Bản đồ sai lệch của Bộ Ngoại giao Mỹ được công bố tại hội nghị Aids 2026 ở Rio de Janeiro, gây ra sự chú ý lớn. Bản đồ này đã sai tên các quốc gia châu Phi, khiến nhiều người tham dự hội nghị phải chụp ảnh và đăng tải trên mạng xã hội. Bộ Ngoại giao Mỹ đã xin lỗi và nhận trách nhiệm về sự cố này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "20e3d5bb73d9",
+      "title": "Customize Ars your way with an Ars Pro subscription",
+      "url": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-07-31T02:05:47.566693+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ars Pro mang đến trải nghiệm đọc tin tức tùy chỉnh",
+      "bullets": [
+        "Đăng ký Ars Pro để loại bỏ quảng cáo và theo dõi",
+        "Tùy chọn bố cục đọc tin tức theo ý muốn",
+        "Đọc tin tức mà không bị ảnh hưởng bởi quảng cáo",
+        "Đảm bảo quyền riêng tư với việc loại bỏ theo dõi"
+      ],
+      "full_summary": "Ars Technica đã giới thiệu Ars Pro, một loại đăng ký mới cho phép người dùng tùy chỉnh bố cục đọc tin tức, loại bỏ quảng cáo và theo dõi. Với Ars Pro, người dùng có thể đọc tin tức mà không bị ảnh hưởng bởi quảng cáo và đảm bảo quyền riêng tư của mình. Đây là một bước tiến quan trọng trong việc mang đến trải nghiệm đọc tin tức tốt hơn cho người dùng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "314fa89326b5",
       "title": "Why limited war with the US may suit Iran better than peace",
@@ -616,185 +795,6 @@
         "Musk bảo vệ Grok và cho rằng nó không vi phạm quy định"
       ],
       "full_summary": "Elon Musk, người sáng lập XAI, đang kiện Minnesota vì lệnh cấm ứng dụng Grok. Musk cho rằng lệnh cấm là không hiến định và cố gắng kiện ra tòa để tránh trách nhiệm về Grok. Ông bảo vệ Grok và cho rằng nó không vi phạm quy định. Điều này đã gây ra tranh cãi về quyền tự do ngôn luận và trách nhiệm của các công ty công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "88db9369960c",
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T19:02:29.990218+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Saudi Arabia đứng giữa lựa chọn đối phó với chiến tranh Mỹ-Iran",
-      "bullets": [
-        "Saudi Arabia cân nhắc tăng cường phản công",
-        "Nước này phải đối mặt với lựa chọn giữa tăng cường phản công và giảm thiểu xung đột",
-        "Saudi Arabia đang cố gắng duy trì sự trung lập trong cuộc xung đột",
-        "Nước này phải cân nhắc lợi ích và rủi ro của từng lựa chọn"
-      ],
-      "full_summary": "Saudi Arabia đang đứng giữa lựa chọn đối phó với chiến tranh Mỹ-Iran. Nước này phải cân nhắc giữa tăng cường phản công và giảm thiểu xung đột. Saudi Arabia đang cố gắng duy trì sự trung lập trong cuộc xung đột, nhưng phải đối mặt với nhiều thách thức. Nước này phải cân nhắc lợi ích và rủi ro của từng lựa chọn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b7e4d72809d5",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T19:02:32.427339+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Máy học AI bị xâm nhập nhanh như siêu nhân",
-      "bullets": [
-        "Hacking Face tuyên bố vụ xâm nhập được thực hiện nhanh như siêu nhân",
-        "Máy tính AI không có sự hướng dẫn của con người",
-        "Nguồn gốc và mục đích của vụ xâm nhập vẫn chưa rõ",
-        "Động thái này gây lo ngại về an ninh mạng"
-      ],
-      "full_summary": "Hugging Face đã tuyên bố vụ xâm nhập vào máy tính AI của họ được thực hiện nhanh như siêu nhân, không có sự hướng dẫn của con người. Nguồn gốc và mục đích của vụ xâm nhập vẫn chưa rõ. Động thái này gây lo ngại về an ninh mạng và khả năng bảo vệ thông tin nhạy cảm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d8d66bad55f5",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T19:02:33.643621+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Uganda bắt đầu phân phối lương thực khẩn cấp sau 19 người chết vì đói",
-      "bullets": [
-        "Uganda phân phối lương thực khẩn cấp cho 1,5 triệu người",
-        "19 người chết vì đói do hạn hán kéo dài ở vùng Karamoja",
-        "Crops thất bại do thiếu mưa trong mùa",
-        "Số người bị suy dinh dưỡng đang tăng lên"
-      ],
-      "full_summary": "Uganda đã bắt đầu phân phối lương thực khẩn cấp cho 1,5 triệu người ở vùng Karamoja sau khi 19 người chết vì đói do hạn hán kéo dài. Vùng này đã trải qua mùa mưa thất bại, khiến crops không thể phát triển. Số người bị suy dinh dưỡng đang tăng lên, gây ra tình trạng khẩn cấp về lương thực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "79cfbd79c945",
-      "title": "Two Russian men jailed in Angola for terrorism and spying",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T19:02:35.107163+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hai người Nga bị kết án vì âm mưu đảo chính và gián điệp ở Angola",
-      "bullets": [
-        "Hai người Nga bị kết án 8 và 11 năm tù",
-        "Lakshtanov và Ratchin bị kết tội âm mưu đảo chính và tổ chức biểu tình bạo lực",
-        "Họ bị kết án vì âm mưu đảo chính và gián điệp ở Angola",
-        "Họ phủ nhận các cáo buộc, nói rằng họ đến Angola để hoạt động văn hóa và kinh doanh"
-      ],
-      "full_summary": "Hai người Nga, Lev Lakshtanov và Igor Ratchin, đã bị kết án vì âm mưu đảo chính và gián điệp ở Angola. Họ bị kết tội âm mưu đảo chính và tổ chức biểu tình bạo lực ở Angola vào năm ngoái. Lakshtanov và Ratchin đã phủ nhận các cáo buộc, nói rằng họ đến Angola để hoạt động văn hóa và kinh doanh. Họ đã bị kết án 8 và 11 năm tù.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b9b839b2dd72",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T19:02:36.115917+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hạm đội Anh hủy huấn luyện quân sự tại Kenya",
-      "bullets": [
-        "Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương",
-        "Hạm đội Anh muốn gia hạn thỏa thuận hiện hành",
-        "Luật sư Kenya yêu cầu tăng quyền truy tố binh sĩ Anh",
-        "Hạm đội Anh hủy huấn luyện quân sự vào tháng 9"
-      ],
-      "full_summary": "Hạm đội Anh đã bị buộc phải hủy huấn luyện quân sự cho binh sĩ tại Kenya sau khi chính phủ Kenya từ chối phê chuẩn thỏa thuận quốc phòng song phương. Chính phủ Anh muốn gia hạn thỏa thuận hiện hành, nhưng các luật sư Kenya yêu cầu tăng quyền truy tố binh sĩ Anh đối với các tội phạm được thực hiện trong nước. Sự bất đồng này đã dẫn đến việc hủy huấn luyện quân sự vào tháng 9.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5e9106d43afd",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T19:02:37.297007+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một nhân viên y tế đang được theo dõi vì Ebola tại bệnh viện London",
-      "bullets": [
-        "Được sơ tán khỏi Cộng hòa Dân chủ Congo vì nghi ngờ tiếp xúc Ebola",
-        "Đang được theo dõi tại bệnh viện chuyên khoa ở London",
-        "Đã điều trị cho bệnh nhân bị nhiễm Ebola tại Cộng hòa Dân chủ Congo"
-      ],
-      "full_summary": "Một nhân viên y tế người Anh đang được theo dõi tại bệnh viện chuyên khoa ở London vì nghi ngờ tiếp xúc với virus Ebola. Người này đã được sơ tán khỏi Cộng hòa Dân chủ Congo, nơi đang xảy ra dịch bệnh. Họ đã điều trị cho bệnh nhân bị nhiễm Ebola tại Cộng hòa Dân chủ Congo trước khi được sơ tán về Anh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9b605bcc833a",
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-29T19:02:41.530041+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Anthropic nhanh chóng tìm ra lỗi trước khi Microsoft có thể sửa chữa",
-      "bullets": [
-        "Tìm ra lỗi nhanh hơn Microsoft sửa chữa",
-        "Microsoft đang cố gắng sửa lỗi trước khi hacker tìm ra",
-        "Sự cạnh tranh trong việc phát hiện lỗi đang gia tăng",
-        "Anhropic đang dẫn đầu trong việc tìm ra lỗi"
-      ],
-      "full_summary": "Anthropic đang tìm ra lỗi nhanh hơn Microsoft có thể sửa chữa. Điều này đã khiến Microsoft phải chạy đua để sửa lỗi trước khi hacker tìm ra. Sự cạnh tranh trong việc phát hiện lỗi đang gia tăng, với Anthropic dẫn đầu. Điều này cho thấy sự tiến bộ của công nghệ trong việc tìm ra lỗi và sửa chữa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e80e066b2d95",
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-29T19:02:44.016439+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Máy học giúp giải mã ngôn ngữ bị mất tích, nhưng hiểu biết con người là chìa khóa",
-      "bullets": [
-        "Phát hiện các mẫu phức tạp trong ngôn ngữ bị mất tích",
-        "Giúp các nhà ngôn ngữ học xác định các từ và ngữ pháp",
-        "Cung cấp thông tin về lịch sử và văn hóa của các nền văn minh cổ đại",
-        "Làm tăng hiệu suất và độ chính xác trong việc giải mã ngôn ngữ bị mất tích"
-      ],
-      "full_summary": "Máy học đã được sử dụng để giải mã các ngôn ngữ bị mất tích, bao gồm cả tiếng Linear A và tiếng Etruscan. Các nhà nghiên cứu đã sử dụng các thuật toán máy học để phát hiện các mẫu phức tạp trong ngôn ngữ bị mất tích và giúp các nhà ngôn ngữ học xác định các từ và ngữ pháp. Điều này đã cung cấp thông tin về lịch sử và văn hóa của các nền văn minh cổ đại. Tuy nhiên, các nhà nghiên cứu cũng lưu ý rằng hiểu biết con người là chìa khóa trong việc giải mã ngôn ngữ bị mất tích.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb50c5c735bf",
-      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-29T13:52:02.945426+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Động đất mạnh ở Nhật Bản, 13 người thiệt mạng",
-      "bullets": [
-        "Động đất mạnh gây thiệt hại lớn ở Nhật Bản",
-        "Hơn 100 aftershock xảy ra sau động đất mạnh",
-        "Các quan chức cảnh báo người dân phải cảnh giác",
-        "Aftershock có thể đạt cường độ 7"
-      ],
-      "full_summary": "Một trận động đất mạnh đã xảy ra ở Nhật Bản, khiến 13 người thiệt mạng. Hơn 100 aftershock đã xảy ra sau đó. Các quan chức cảnh báo người dân phải cảnh giác vì aftershock có thể đạt cường độ 7.",
       "comments": 0,
       "score": 0
     }
