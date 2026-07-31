@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-07-31T02:05:50.341373+00:00",
+  "updated_at": "2026-07-31T08:39:00.745525+00:00",
   "articles": [
+    {
+      "id": "0b6c9ef144d0",
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T08:38:44.675206+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hamas có thể rút khỏi vũ khí, mở đường cho hòa bình ở Gaza",
+      "bullets": [
+        "Hamas có kế hoạch rút khỏi vũ khí",
+        "Kế hoạch này có thể giúp tiến triển kế hoạch hòa bình do Trump đề xuất",
+        "Nếu thành công, kế hoạch này sẽ loại bỏ rào cản lớn nhất cho hòa bình ở Gaza",
+        "Kế hoạch này có thể giúp chấm dứt chiến tranh ở Gaza"
+      ],
+      "full_summary": "Nếu kế hoạch rút vũ khí của Hamas thành công, nó sẽ đánh dấu bước đầu tiên đáng tin cậy để chấm dứt chiến tranh ở Gaza. Kế hoạch này có thể giúp tiến triển kế hoạch hòa bình do Trump đề xuất. Kế hoạch rút vũ khí của Hamas sẽ loại bỏ rào cản lớn nhất cho hòa bình ở Gaza. Nếu thành công, kế hoạch này sẽ giúp chấm dứt chiến tranh ở Gaza.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "69964494dbf5",
+      "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T08:38:45.725821+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Hơn 49.000 người nhập cư vào lãnh thổ Ceuta của Tây Ban Nha",
+      "bullets": [
+        "Hàng nghìn người nhập cư bất hợp pháp vào lãnh thổ Ceuta vào thứ Năm và thứ Sáu.",
+        "Lãnh thổ này thuộc sở hữu của Tây Ban Nha.",
+        "Số lượng người nhập cư tăng mạnh trong thời gian gần đây.",
+        "Các quan chức đang xử lý tình hình."
+      ],
+      "full_summary": "Hàng nghìn người nhập cư bất hợp pháp đã vào lãnh thổ Ceuta của Tây Ban Nha vào thứ Năm và thứ Sáu. Theo các quan chức, khoảng 49.000 người đã vào lãnh thổ này. Lãnh thổ Ceuta là một trong những điểm đến phổ biến của người nhập cư. Các quan chức đang cố gắng xử lý tình hình và đảm bảo an ninh cho lãnh thổ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ed933033eb75",
+      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T08:38:46.729617+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cựu cầu thủ AC Milan, Baresi qua đời ở tuổi 66",
+      "bullets": [
+        "Baresi qua đời ở tuổi 66",
+        "Cựu cầu thủ AC Milan và đội tuyển Italy",
+        "Được biết đến với tài năng phòng ngự xuất sắc",
+        "Là một trong những cầu thủ vĩ đại nhất lịch sử AC Milan"
+      ],
+      "full_summary": "Franco Baresi, cựu cầu thủ AC Milan và đội tuyển Italy, đã qua đời ở tuổi 66. Ông được biết đến với tài năng phòng ngự xuất sắc và là một trong những cầu thủ vĩ đại nhất lịch sử AC Milan. Baresi đã chơi cho AC Milan trong 20 năm và giành được nhiều danh hiệu quan trọng. Ông cũng là một phần của đội tuyển Italy giành chức vô địch World Cup năm 1982.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aabba1aee81c",
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T08:38:47.857658+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nạn nhân Yung Filly bị tấn công ở Perth, Úc",
+      "bullets": [
+        "Yung Filly bị kết tội 2 tội đánh người",
+        "Không bị kết tội về tội hiếp dâm",
+        "Tòa án kết luận vụ việc vào năm 2024",
+        "Youtuber này bị kết tội về hành vi tấn công"
+      ],
+      "full_summary": "Youtuber người Anh Yung Filly vừa được tòa án Úc tuyên bố không phạm tội hiếp dâm. Tuy nhiên, anh ta đã bị kết tội 2 tội đánh người. Vụ việc xảy ra vào năm 2024 tại Perth. Yung Filly là một rapper và người sáng tạo nội dung trên YouTube.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d86c0a49136b",
+      "title": "Fifa says 'nobody selling football' as plan continues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T08:38:48.924065+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Fifa tiếp tục tiến trình thảo luận sau đe dọa từ Uefa",
+      "bullets": [
+        "Fifa sẽ tiếp tục tiến trình thảo luận",
+        "Uefa đe dọa sẽ bỏ cuộc World Cup",
+        "Fifa không bán quyền sở hữu bóng đá",
+        "Quy trình thảo luận sẽ tiếp tục diễn ra"
+      ],
+      "full_summary": "Fifa đã tuyên bố sẽ tiếp tục tiến trình thảo luận sau khi Uefa đe dọa sẽ bỏ cuộc World Cup. Điều này diễn ra sau khi Uefa cảnh báo sẽ không tham gia các giải đấu của Fifa nếu không có sự thay đổi. Fifa cho biết không có ai bán quyền sở hữu bóng đá và quy trình thảo luận sẽ tiếp tục diễn ra. Mục tiêu của Fifa là tìm kiếm sự đồng thuận giữa các thành viên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "474e766e32fc",
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T08:38:50.034671+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "Các trung tâm dữ liệu có thể phải trả hàng trăm triệu bảng tiền đặt cọc",
+      "bullets": [
+        "Sẽ có một khoản phí từ £237,500 đến £712,500 mỗi megawatt cho các dự án sắp tới.",
+        "Các trung tâm dữ liệu sẽ phải trả tiền để đáp ứng nhu cầu điện năng.",
+        "Quy định mới nhằm đảm bảo nguồn cung cấp điện năng cho các dự án.",
+        "Các trung tâm dữ liệu có thể phải trả tiền đặt cọc hàng trăm triệu bảng."
+      ],
+      "full_summary": "Các trung tâm dữ liệu có thể phải trả hàng trăm triệu bảng tiền đặt cọc để đáp ứng nhu cầu điện năng. Quy định mới của cơ quan quản lý yêu cầu các dự án sắp tới phải trả khoản phí từ £237,500 đến £712,500 mỗi megawatt. Mục đích của quy định này là đảm bảo nguồn cung cấp điện năng cho các dự án. Các trung tâm dữ liệu sẽ phải trả tiền để đáp ứng nhu cầu điện năng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e5a281d56890",
+      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T08:38:51.192791+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Sự bùng phát Ebola nhanh nhất trong lịch sử đang diễn ra tại DRC",
+      "bullets": [
+        "Số ca bệnh Ebola đã tăng lên 3.360, khiến DRC trở thành tâm dịch lớn nhất",
+        "Số ca tử vong đã đạt 1.487, chiếm 45% số ca bệnh",
+        "Vaccine chống Ebola vẫn chưa sẵn sàng, khiến việc kiểm soát dịch bệnh trở nên khó khăn hơn",
+        "Sự xung đột tại khu vực đã gây khó khăn cho các biện pháp phòng chống dịch"
+      ],
+      "full_summary": "Sự bùng phát Ebola tại Cộng hòa Dân chủ Congo đang trở thành dịch bệnh nhanh nhất trong lịch sử. Số ca bệnh đã tăng lên 3.360, khiến DRC trở thành tâm dịch lớn nhất. Số ca tử vong đã đạt 1.487, chiếm 45% số ca bệnh. Vaccine chống Ebola vẫn chưa sẵn sàng, khiến việc kiểm soát dịch bệnh trở nên khó khăn hơn. Sự xung đột tại khu vực đã gây khó khăn cho các biện pháp phòng chống dịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f3039068e0f4",
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-31T08:38:57.210398+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "DeepSeek-V4-Flash cập nhật mới",
+      "bullets": [
+        "Cập nhật mới về DeepSeek-V4-Flash",
+        "Thông tin chi tiết tại trang api-docs.deepseek.com",
+        "Được thảo luận trên Hacker News"
+      ],
+      "full_summary": "DeepSeek-V4-Flash cập nhật mới, thông tin chi tiết có thể được tìm thấy trên trang api-docs.deepseek.com. Bài viết này đã thu hút sự chú ý của cộng đồng Hacker News với 163 điểm và 56 bình luận.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fc2de55bc86c",
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-31T08:39:00.245343+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chia sẻ phiên làm việc không thể mang theo",
+      "bullets": [
+        "Giải thích về vấn đề không thể chia sẻ phiên làm việc trên các nền tảng",
+        "Mô tả các hạn chế và nguyên nhân của vấn đề này",
+        "Khảo sát các giải pháp để giải quyết vấn đề chia sẻ phiên làm việc"
+      ],
+      "full_summary": "Bài viết này giải thích về vấn đề không thể chia sẻ phiên làm việc trên các nền tảng. Vấn đề này xuất phát từ các hạn chế về bảo mật và quyền riêng tư. Để giải quyết vấn đề này, các nhà phát triển đã đề xuất các giải pháp như chia sẻ phiên làm việc qua các ứng dụng chuyên dụng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3b219dd49c6d",
       "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
@@ -615,186 +793,6 @@
         "Cần xem xét lại cách đánh giá hiệu suất làm việc"
       ],
       "full_summary": "Một nghiên cứu mới cho thấy sự phấn khích về hiệu suất làm việc có thể chỉ là ảo giác. Đánh giá hiệu suất làm việc thường không phản ánh đúng thực tế và có thể dẫn đến việc bỏ qua các vấn đề thực sự. Nghiên cứu cho thấy hiệu suất làm việc không phải là yếu tố quyết định thành công. Thay vào đó, các yếu tố như sự sáng tạo, khả năng thích nghi và khả năng lãnh đạo có tầm quan trọng hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9c91b9cfe4ec",
-      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T01:48:08.621869+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Zendaya và Tom Holland cùng diễn trong Spider-Man: Brand New Day",
-      "bullets": [
-        "Zendaya và Tom Holland đã cùng diễn trong bộ phim Spider-Man: Brand New Day",
-        "Cặp đôi đã xuất hiện tại buổi ra mắt phim tại London",
-        "Zendaya chia sẻ về kinh nghiệm làm việc với Tom Holland",
-        "Zendaya và Tom Holland được cho là đã trở thành bạn bè thân thiết"
-      ],
-      "full_summary": "Zendaya và Tom Holland đã cùng diễn trong bộ phim Spider-Man: Brand New Day. Cặp đôi đã xuất hiện tại buổi ra mắt phim tại London và được giới truyền thông chú ý. Trong một cuộc phỏng vấn, Zendaya đã chia sẻ về kinh nghiệm làm việc với Tom Holland và cho biết họ đã trở thành bạn bè thân thiết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "917a626a6bef",
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T01:48:09.959854+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người dân từ chối di dời trước đám cháy rừng ở Pháp",
-      "bullets": [
-        "Cảnh sát đang đấu tranh với đám cháy rừng ở vùng Gironde.",
-        "Hàng trăm người dân bị yêu cầu di dời nhưng vẫn ở lại.",
-        "Nhiệt độ cao 40 độ C khiến việc chữa cháy trở nên khó khăn.",
-        "Cảnh sát đang cố gắng thuyết phục người dân rời khỏi khu vực."
-      ],
-      "full_summary": "Cảnh sát đang đấu tranh với đám cháy rừng ở vùng Gironde, Pháp. Nhiều người dân bị yêu cầu di dời nhưng vẫn ở lại, khiến việc chữa cháy trở nên khó khăn. Nhiệt độ cao 40 độ C khiến việc chữa cháy trở nên khó khăn hơn. Cảnh sát đang cố gắng thuyết phục người dân rời khỏi khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "468546ea72fc",
-      "title": "Salman Rushdie attacker convicted of terror offences",
-      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T01:48:11.317751+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hadi Matar bị kết tội tấn công nhà văn Salman Rushdie",
-      "bullets": [
-        "Matar bị kết tội cố gắng giúp Hezbollah",
-        "Matar tấn công nhà văn Salman Rushdie",
-        "Matar bị kết tội tội danh khủng bố",
-        "Matar bị kết tội cố gắng giết nhà văn Salman Rushdie"
-      ],
-      "full_summary": "Hadi Matar, 28 tuổi, đã bị kết tội tội danh khủng bố vì đã cố gắng giúp Hezbollah bằng cách tấn công nhà văn Salman Rushdie. Matar đã bị kết tội tội danh khủng bố và bị kết tội cố gắng giết nhà văn Salman Rushdie. Matar đã bị kết tội tội danh khủng bố vì đã cố gắng giúp Hezbollah. Matar đã bị kết tội tội danh khủng bố vì đã tấn công nhà văn Salman Rushdie.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "709ad09e92ed",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T01:48:12.566925+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Trump cân nhắc kiểm soát AI sau các vụ hack vào OpenAI",
-      "bullets": [
-        "Trump đang xem xét các biện pháp kiểm soát AI sau các vụ hack vào OpenAI",
-        "Các vụ hack vào OpenAI đã làm thay đổi thái độ của chính quyền Trump",
-        "Chính quyền Trump trước đây đã có một cách tiếp cận linh hoạt hơn đối với công nghệ AI",
-        "Trump đang xem xét các biện pháp để ngăn chặn các vụ hack tương tự"
-      ],
-      "full_summary": "Chính quyền Trump đang xem xét các biện pháp kiểm soát AI sau các vụ hack vào OpenAI. Các vụ hack vào OpenAI đã làm thay đổi thái độ của chính quyền Trump, từ một cách tiếp cận linh hoạt hơn đối với công nghệ AI. Trump đang xem xét các biện pháp để ngăn chặn các vụ hack tương tự và đảm bảo an toàn cho công nghệ AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c879107d5308",
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T01:48:13.920128+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "FIFA mở vụ điều tra kỷ luật Argentina vì hành vi gây rối sau World Cup",
-      "bullets": [
-        "FIFA mở vụ điều tra kỷ luật Argentina vì hành vi gây rối sau trận chung kết World Cup",
-        "Argentina bị cáo buộc gây rối trong suốt giải đấu",
-        "FIFA sẽ xem xét kỷ luật Argentina",
-        "Argentina có thể bị phạt vì hành vi gây rối"
-      ],
-      "full_summary": "FIFA đã mở vụ điều tra kỷ luật Argentina vì hành vi gây rối sau trận chung kết World Cup và trong suốt giải đấu. Argentina bị cáo buộc gây rối trong suốt giải đấu và FIFA sẽ xem xét kỷ luật Argentina. Nếu Argentina bị phạt, họ có thể sẽ phải đối mặt với hậu quả nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "709ad09e92ed",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T01:48:15.262682+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Trump xem xét kiểm soát AI sau các sự cố hack của OpenAI",
-      "bullets": [
-        "Trump đang cân nhắc kiểm soát AI để ngăn chặn các sự cố hack",
-        "Các sự cố hack gần đây của OpenAI đã làm thay đổi thái độ của chính quyền Trump",
-        "Chính quyền Trump trước đây đã có một cách tiếp cận khá tự do với công nghệ AI",
-        "Trump đang xem xét các biện pháp kiểm soát để đảm bảo an toàn cho công nghệ AI"
-      ],
-      "full_summary": "Chính quyền của Tổng thống Trump đang xem xét việc kiểm soát công nghệ trí tuệ nhân tạo (AI) sau các sự cố hack gần đây của công ty OpenAI. Các sự cố hack đã làm thay đổi thái độ của chính quyền Trump, từ cách tiếp cận tự do trước đây sang một cách tiếp cận mạnh mẽ hơn. Trump đang cân nhắc các biện pháp kiểm soát để đảm bảo an toàn cho công nghệ AI và ngăn chặn các sự cố tương tự trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "628d18510dc4",
-      "title": "Meta shares fall as frustration grows over AI spending plans",
-      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T01:48:16.683644+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta giảm giá trị sau khi công bố kế hoạch chi tiêu lớn cho trí tuệ nhân tạo",
-      "bullets": [
-        "Meta công bố kế hoạch bán công cụ trí tuệ nhân tạo cho các công ty khác",
-        "Mark Zuckerberg cho biết Meta sẽ tăng cường chi tiêu cho AI",
-        "Giá cổ phiếu Meta giảm do lo ngại về chi phí phát triển AI",
-        "Kế hoạch của Meta gây ra sự bất mãn trong giới đầu tư"
-      ],
-      "full_summary": "Meta công bố kế hoạch bán công cụ trí tuệ nhân tạo cho các công ty khác, gây ra sự bất mãn trong giới đầu tư. Giá cổ phiếu Meta giảm do lo ngại về chi phí phát triển AI. Mark Zuckerberg cho biết Meta sẽ tăng cường chi tiêu cho AI. Kế hoạch này được xem là một phần của nỗ lực của Meta để trở thành một công ty dẫn đầu trong lĩnh vực trí tuệ nhân tạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "13b7c9418ad0",
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-30T01:48:20.917166+00:00",
-      "category": "politics|economy|technology",
-      "importance": 4,
-      "headline": "Cấm robot nước ngoài: Mỹ có thể mất lợi thế cạnh tranh",
-      "bullets": [
-        "Cấm robot nước ngoài khiến các công ty Mỹ khó tiếp cận công nghệ tiên tiến",
-        "Quy định mới gây khó khăn cho các nhà sản xuất robot Mỹ",
-        "Bất lợi cho nền kinh tế Mỹ trong cuộc cạnh tranh toàn cầu",
-        "Có thể khiến Mỹ tụt hậu trong lĩnh vực công nghệ"
-      ],
-      "full_summary": "Mỹ vừa ban hành quy định cấm nhập khẩu robot từ nước ngoài. Mặc dù mục tiêu là bảo vệ ngành công nghiệp robot Mỹ, nhưng quy định này có thể gây khó khăn cho các công ty Mỹ trong việc tiếp cận công nghệ tiên tiến. Điều này có thể khiến Mỹ tụt hậu trong lĩnh vực công nghệ và mất lợi thế cạnh tranh trên thị trường toàn cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f3cd7e695150",
-      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-30T01:48:25.239158+00:00",
-      "category": "politics|technology",
-      "importance": 4,
-      "headline": "Elon Musk chống lại lệnh cấm ứng dụng Grok của Minnesota",
-      "bullets": [
-        "Elon Musk kiện Minnesota vì lệnh cấm ứng dụng Grok",
-        "Musk cho rằng lệnh cấm là không hiến định",
-        "XAi cố gắng kiện ra tòa để tránh trách nhiệm về Grok",
-        "Musk bảo vệ Grok và cho rằng nó không vi phạm quy định"
-      ],
-      "full_summary": "Elon Musk, người sáng lập XAI, đang kiện Minnesota vì lệnh cấm ứng dụng Grok. Musk cho rằng lệnh cấm là không hiến định và cố gắng kiện ra tòa để tránh trách nhiệm về Grok. Ông bảo vệ Grok và cho rằng nó không vi phạm quy định. Điều này đã gây ra tranh cãi về quyền tự do ngôn luận và trách nhiệm của các công ty công nghệ.",
       "comments": 0,
       "score": 0
     }
