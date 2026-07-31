@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-07-31T08:39:00.745525+00:00",
+  "updated_at": "2026-07-31T13:47:33.143997+00:00",
   "articles": [
+    {
+      "id": "ee61948a283c",
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T13:47:18.268257+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hạ án 15 năm tù cho cựu tổng thống Peru vì tội tham nhũng",
+      "bullets": [
+        "Hạ án bản án 15 năm tù cho cựu tổng thống Peru Ollanta Humala",
+        "Bản án trước đây liên quan đến tội phạm rửa tiền",
+        "Cựu tổng thống và vợ bị kết tội cùng nhau",
+        "Bản án bị hủy bỏ vào năm 2026"
+      ],
+      "full_summary": "Cựu tổng thống Peru Ollanta Humala đã bị hủy bỏ bản án 15 năm tù vì tội tham nhũng. Ông Humala và vợ đã bị kết tội cùng nhau về tội phạm rửa tiền vào năm 2025. Tuy nhiên, vào năm 2026, bản án của họ đã bị hủy bỏ. Điều này đã gây ra sự bất bình trong công chúng Peru.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "628d18510dc4",
+      "title": "Meta shares fall as frustration grows over AI spending plans",
+      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T13:47:20.526784+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Meta dự định bán công nghệ trí tuệ nhân tạo cho các công ty khác",
+      "bullets": [
+        "Meta sẽ bán công nghệ trí tuệ nhân tạo đầu tiên",
+        "CEO Mark Zuckerberg công bố kế hoạch này",
+        "Hành động này gây ra sự bất mãn trong công chúng",
+        "Sự sụt giảm giá cổ phiếu Meta liên quan đến kế hoạch này"
+      ],
+      "full_summary": "Meta dự định bán công nghệ trí tuệ nhân tạo cho các công ty khác lần đầu tiên. CEO Mark Zuckerberg đã công bố kế hoạch này. Tuy nhiên, hành động này đã gây ra sự bất mãn trong công chúng. Sự sụt giảm giá cổ phiếu Meta cũng liên quan đến kế hoạch này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1349d1273d9e",
+      "title": "At least 41 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T13:47:21.778344+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Ít nhất 41 người thiệt mạng trong vụ xâm nhập Ceuta từ Morocco",
+      "bullets": [
+        "Hàng ngàn người vượt biên từ Morocco vào Ceuta",
+        "Ít nhất 41 người thiệt mạng trong quá trình vượt biên",
+        "Chính phủ Tây Ban Nha bị chỉ trích vì phản ứng chậm chạp",
+        "Nhiều nước EU lên án hành động của Tây Ban Nha"
+      ],
+      "full_summary": "Ít nhất 41 người đã thiệt mạng trong khi cố gắng vượt biên vào lãnh thổ Ceuta của Tây Ban Nha từ Morocco. Vụ xâm nhập hàng nghìn người vào Ceuta đã khiến chính phủ Tây Ban Nha bị chỉ trích và gây ra cuộc khủng hoảng chính trị. Nhiều nước EU cũng lên án hành động của Tây Ban Nha, coi đó là 'vi phạm chủ quyền lãnh thổ'.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "de127aece270",
+      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T13:47:22.929821+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tổng giám mục Canterbury cam kết hỗ trợ quỹ £100 triệu giúp cộng đồng bị ảnh hưởng bởi nô lệ",
+      "bullets": [
+        "Tổng giám mục Canterbury bày tỏ lời xin lỗi vì sự tham gia của Giáo hội Anh trong chế độ nô lệ",
+        "Cô cam kết hỗ trợ quỹ £100 triệu cho các cộng đồng bị ảnh hưởng",
+        "Tổng giám mục Canterbury thăm lâu đài Cape Coast, nơi hàng nghìn người châu Phi bị giam giữ trước khi bị đưa sang châu Mỹ"
+      ],
+      "full_summary": "Tổng giám mục Canterbury, Dame Sarah Mullally, đã đến thăm Ghana và bày tỏ lời xin lỗi vì sự tham gia của Giáo hội Anh trong chế độ nô lệ. Cô cam kết hỗ trợ quỹ £100 triệu cho các cộng đồng bị ảnh hưởng. Trong chuyến thăm lâu đài Cape Coast, nơi hàng nghìn người châu Phi bị giam giữ trước khi bị đưa sang châu Mỹ, Tổng giám mục Canterbury đã bày tỏ lời xin lỗi và khẳng định cam kết của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f142ba2ff8e2",
+      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
+      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T13:47:23.966042+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "15 con voi ở Kenya nghi bị ngộ độc cyanide",
+      "bullets": [
+        "Nghi ngờ ngộ độc cyanide do ăn phải thuốc trừ sâu",
+        "Thuốc trừ sâu được sử dụng để bảo vệ vườn cà chua",
+        "Cơ quan bảo vệ động vật Kenya đang điều tra nguyên nhân"
+      ],
+      "full_summary": "15 con voi ở Kenya gần khu bảo tồn đã chết vì nghi ngờ ngộ độc cyanide. Theo Cơ quan bảo vệ động vật Kenya, mẫu phân tích từ các thi thể đã tìm thấy dấu vết của cyanide, một chất hóa học được sử dụng trong nông nghiệp để kiểm soát động vật săn mồi và diệt côn trùng. Cơ quan này đang điều tra nguyên nhân và nghi ngờ rằng các con voi đã ăn phải thuốc trừ sâu được sử dụng để bảo vệ vườn cà chua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b8060bde57eb",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-07-31T13:47:25.034802+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Hỏa hoạn ở Bắc Mỹ và châu Âu có thể để lại hậu quả dài lâu",
+      "bullets": [
+        "Nghiên cứu cho thấy hậu quả của các đám cháy rừng có thể kéo dài nhiều năm.",
+        "Hàng nghìn người phải di dời do các đám cháy rừng ở Bắc Mỹ và châu Âu.",
+        "Khói độc từ các đám cháy rừng đã lan rộng vào các thành phố lớn.",
+        "Hậu quả của các đám cháy rừng bao gồm cả hậu quả sinh học, cảm xúc và xã hội."
+      ],
+      "full_summary": "Các đám cháy rừng vừa xảy ra ở Bắc Mỹ và châu Âu đã gây ra nhiều thiệt hại về người và tài sản. Nghiên cứu cho thấy hậu quả của các đám cháy rừng này có thể kéo dài nhiều năm. Hàng nghìn người đã phải di dời do các đám cháy rừng và khí độc từ các đám cháy rừng đã lan rộng vào các thành phố lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "60cee5adfae0",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-07-31T13:47:29.288754+00:00",
+      "category": "technology",
+      "importance": 2,
+      "headline": "Công ty Tasklet đang tuyển kỹ sư hỗ trợ khách hàng",
+      "bullets": [
+        "Tìm kiếm kỹ sư hỗ trợ khách hàng có kinh nghiệm",
+        "Phối hợp với đội ngũ bán hàng và kỹ thuật",
+        "Đảm bảo trải nghiệm khách hàng tốt nhất",
+        "Hỗ trợ khách hàng trong việc sử dụng sản phẩm"
+      ],
+      "full_summary": "Công ty Tasklet đang tuyển kỹ sư hỗ trợ khách hàng có kinh nghiệm. Kỹ sư này sẽ phối hợp với đội ngũ bán hàng và kỹ thuật để đảm bảo trải nghiệm khách hàng tốt nhất. Họ sẽ hỗ trợ khách hàng trong việc sử dụng sản phẩm và giải quyết các vấn đề có thể xảy ra.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0b6c9ef144d0",
       "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
@@ -654,145 +792,6 @@
         "Người yêu chim có thể chia sẻ hình ảnh và nhận được phản hồi từ cộng đồng"
       ],
       "full_summary": "Ứng dụng di động đã giúp người yêu chim dễ dàng nhận biết loài chim, thay đổi cách họ tham gia vào sở thích yêu chim. Các ứng dụng này cho phép người dùng chụp ảnh chim và nhận được thông tin về loài chim. Điều này đã thu hút nhiều người mới tham gia vào sở thích yêu chim. Người yêu chim có thể chia sẻ hình ảnh và nhận được phản hồi từ cộng đồng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d39b8c85da00",
-      "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T08:11:30.952852+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hoa Kỳ cắt giảm viện trợ, nhiều thanh niên châu Phi coi đây là cơ hội",
-      "bullets": [
-        "Hơn một phần tư thanh niên châu Phi tin rằng cắt giảm viện trợ có thể mang lại lợi ích",
-        "Nhiều người cho rằng việc mất nguồn tiền nước ngoài sẽ buộc lãnh đạo phải giải quyết các thách thức của mình",
-        "Một số người lo ngại về sự tăng cường ảnh hưởng của nước ngoài",
-        "Một trong mười thanh niên châu Phi không chắc chắn về tác động của việc cắt giảm viện trợ"
-      ],
-      "full_summary": "Một cuộc khảo sát gần 5.000 người trên lục địa châu Phi cho thấy hơn một phần tư thanh niên châu Phi tin rằng cắt giảm viện trợ của Hoa Kỳ có thể mang lại lợi ích. Họ cho rằng việc mất nguồn tiền nước ngoài sẽ buộc lãnh đạo phải giải quyết các thách thức của mình. Tuy nhiên, một số người cũng lo ngại về sự tăng cường ảnh hưởng của nước ngoài.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "15bacd6b0910",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T08:11:31.866631+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "15 con voi bị tử vong bất ngờ tại công viên quốc gia Amboseli",
-      "bullets": [
-        "Khám phá ra chất độc hại trong cơ thể một số con voi",
-        "Cơ quan quản lý động vật hoang dã Kenya đang điều tra nguyên nhân",
-        "10 con voi bị liệt nửa người trước khi tử vong trong vòng 2 ngày"
-      ],
-      "full_summary": "Cơ quan quản lý động vật hoang dã Kenya đang điều tra nguyên nhân tử vong của 15 con voi tại công viên quốc gia Amboseli. Các con voi bị tử vong trong tháng qua, một số con voi bị liệt nửa người trước khi chết. Chất độc hại đã được phát hiện trong cơ thể một số con voi. Cơ quan quản lý đang làm việc để xác định nguyên nhân và ngăn chặn tình trạng này trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c13b26e3705b",
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T08:11:32.978666+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Canada giảm chi tiêu du lịch sang Mỹ sau khi Trump trở lại",
-      "bullets": [
-        "Giảm 3,3 tỷ đô la chi tiêu du lịch sang Mỹ",
-        "Thay thế bằng các chuyến đi quốc tế khác",
-        "Phản ứng với chính sách của Trump",
-        "Không giảm chi tiêu du lịch tổng thể"
-      ],
-      "full_summary": "Theo dữ liệu mới, người Canada đã giảm 3,3 tỷ đô la chi tiêu du lịch sang Mỹ trong năm 2025 so với năm trước. Điều này được cho là do chính sách của Tổng thống Trump tiếp tục gây tổn thất kinh tế. Người Canada đã thay thế các chuyến đi đến Mỹ bằng các điểm đến quốc tế khác, thể hiện sự phản đối với chính sách thuế của Trump và những suy nghĩ về việc sáp nhập Canada.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e21a479bce73",
-      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
-      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-07-30T08:11:33.846229+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Javier Milei tố cáo đảng Dân chủ Mỹ tài trợ chiến dịch chống Argentina tại World Cup",
-      "bullets": [
-        "Tố cáo đảng Dân chủ Mỹ tài trợ chiến dịch chống Argentina tại World Cup",
-        "Tố cáo Brazil và Mexico tham gia chiến dịch chống Argentina",
-        "Xin lỗi vì không có thông tin về các điểm khác",
-        "Không có thông tin về các điểm khác"
-      ],
-      "full_summary": "Tổng thống Argentina Javier Milei cáo buộc đảng Dân chủ Mỹ tài trợ chiến dịch chống Argentina tại World Cup. Ông cũng cáo buộc Brazil và Mexico tham gia chiến dịch này. Theo ông, chiến dịch này nhằm ngăn chặn ý tưởng tự do của Argentina. Ông cho rằng những người chỉ trích Argentina trên mạng không muốn ý tưởng tự do của Argentina thành công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "87eb876878a2",
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-30T08:11:34.789944+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 4,
-      "headline": "Mythos phát hiện lỗ hổng nghiêm trọng trong thuật toán PQC HAWK",
-      "bullets": [
-        "Phát hiện lỗ hổng nghiêm trọng trong thuật toán PQC HAWK",
-        "HAWK đã vượt qua nhiều thử nghiệm trong nhiều năm mà không phát hiện ra lỗ hổng này",
-        "Lỗ hổng này khiến HAWK không thể tiếp tục tham gia vào cuộc cạnh tranh",
-        "Mythos đã giúp phát hiện ra lỗ hổng này sau nhiều năm thử nghiệm"
-      ],
-      "full_summary": "Mythos đã phát hiện ra một lỗ hổng nghiêm trọng trong thuật toán PQC HAWK, khiến nó không thể tiếp tục tham gia vào cuộc cạnh tranh. Lỗ hổng này đã được phát hiện sau nhiều năm thử nghiệm mà HAWK đã vượt qua mà không bị phát hiện. Điều này cho thấy rằng việc thử nghiệm và kiểm tra mã hóa là rất quan trọng để đảm bảo an toàn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "80c2ad481e49",
-      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-07-30T08:11:36.259005+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cửa hàng Comcast bị cáo buộc trừng phạt nhân viên bằng cách ném bánh vào mặt họ",
-      "bullets": [
-        "Bị cáo buộc trừng phạt nhân viên bằng cách ném bánh vào mặt họ",
-        "Lawsuit cáo buộc Comcast có hành vi bất cẩn",
-        "Cable TV lớn này phủ nhận cáo buộc, nói rằng vụ việc đã bị hiểu lầm",
-        "Các nhân viên đã bị trừng phạt vì doanh số bán hàng thấp"
-      ],
-      "full_summary": "Một vụ kiện cáo buộc một cửa hàng của Comcast trừng phạt nhân viên bằng cách ném bánh vào mặt họ vì doanh số bán hàng thấp. Vụ việc được cáo buộc đã xảy ra vào năm 2026. Comcast phủ nhận cáo buộc, nói rằng vụ việc đã bị hiểu lầm. Các nhân viên đã bị trừng phạt vì doanh số bán hàng thấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cf9847582c79",
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-07-30T08:11:41.294688+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Sự phấn khích về hiệu suất làm việc có thể chỉ là ảo giác",
-      "bullets": [
-        "Đánh giá hiệu suất làm việc thường không phản ánh đúng thực tế",
-        "Sự phấn khích về hiệu suất có thể dẫn đến việc bỏ qua các vấn đề thực sự",
-        "Nghiên cứu cho thấy hiệu suất làm việc không phải là yếu tố quyết định thành công",
-        "Cần xem xét lại cách đánh giá hiệu suất làm việc"
-      ],
-      "full_summary": "Một nghiên cứu mới cho thấy sự phấn khích về hiệu suất làm việc có thể chỉ là ảo giác. Đánh giá hiệu suất làm việc thường không phản ánh đúng thực tế và có thể dẫn đến việc bỏ qua các vấn đề thực sự. Nghiên cứu cho thấy hiệu suất làm việc không phải là yếu tố quyết định thành công. Thay vào đó, các yếu tố như sự sáng tạo, khả năng thích nghi và khả năng lãnh đạo có tầm quan trọng hơn.",
       "comments": 0,
       "score": 0
     }
