@@ -1,6 +1,244 @@
 {
-  "updated_at": "2026-08-02T08:10:15.767728+00:00",
+  "updated_at": "2026-08-02T13:05:10.599421+00:00",
   "articles": [
+    {
+      "id": "037425178eb3",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-02T13:04:54.116125+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trả lại quyết định tấn công Iran, Mỹ chờ đàm phán nhanh chóng",
+      "bullets": [
+        "Trump hủy kế hoạch tấn công Iran",
+        "Iran và các nước Trung Đông đề nghị Mỹ chờ đàm phán",
+        "Các bên đã đạt được 'phương diện' của một thỏa thuận",
+        "Mỹ sẽ chờ đàm phán đạt kết quả nhanh chóng"
+      ],
+      "full_summary": "Chủ tịch Mỹ Donald Trump đã hủy kế hoạch tấn công Iran sau khi các nước Trung Đông đề nghị Mỹ chờ đàm phán. Trump cho biết các bên đã đạt được 'phương diện' của một thỏa thuận, nhưng cần đàm phán nhanh chóng để đạt được kết quả. Điều này đã ngăn chặn một cuộc tấn công có thể xảy ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b30312b3bb34",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-02T13:04:55.192411+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hỏa hoạn trên tàu ở Indonesia khiến 5 người thiệt mạng",
+      "bullets": [
+        "Nổ hỏa trên tàu chở ít nhất 250 người",
+        "Tàu bị cháy ở khu vực đảo Madura",
+        "Đã có 5 người chết, 41 người mất tích",
+        "Cứu hộ đang được triển khai"
+      ],
+      "full_summary": "Một chiếc tàu chở ít nhất 250 người đã gặp hỏa hoạn ở khu vực đảo Madura, Indonesia. Theo báo cáo, đã có 5 người chết và 41 người mất tích. Cứu hộ đang được triển khai để tìm kiếm những người còn lại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f5f28dcdb524",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-02T13:04:56.223691+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Amazon và Apple tiết lộ thêm về kế hoạch AI",
+      "bullets": [
+        "Nghiên cứu về trí tuệ nhân tạo đang nhận được hàng tỷ đô la đầu tư",
+        "Cả Amazon và Apple đều đang phát triển các công nghệ AI mới",
+        "Cơ hội và thách thức của công nghệ AI đang được thảo luận",
+        "Sự cạnh tranh trong lĩnh vực AI đang gia tăng"
+      ],
+      "full_summary": "Amazon và Apple vừa tiết lộ thêm về kế hoạch AI của họ. Cả hai công ty đều đang đầu tư hàng tỷ đô la vào nghiên cứu và phát triển công nghệ trí tuệ nhân tạo. Điều này cho thấy sự cạnh tranh trong lĩnh vực AI đang gia tăng. Cơ hội và thách thức của công nghệ AI đang được thảo luận rộng rãi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6055381d33af",
+      "title": "How police are trying to divert teen hackers away from crime",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-02T13:04:57.267491+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cảnh sát hướng dẫn các hacker trẻ tránh tội phạm mạng",
+      "bullets": [
+        "Phát triển chương trình Cyber Prevent để ngăn chặn các hacker trẻ",
+        "Đặc biệt hướng tới các chàng trai và nam thanh niên có nguy cơ bị lôi kéo vào tội phạm mạng",
+        "Cung cấp kiến thức và kỹ năng để họ sử dụng năng lượng của mình vào mục đích tốt đẹp hơn",
+        "Hỗ trợ họ trở thành những chuyên gia an ninh mạng có ích cho xã hội"
+      ],
+      "full_summary": "Cảnh sát đang triển khai chương trình Cyber Prevent để ngăn chặn các hacker trẻ tránh tội phạm mạng. Chương trình này đặc biệt hướng tới các chàng trai và nam thanh niên có nguy cơ bị lôi kéo vào tội phạm mạng. Mục tiêu của chương trình là cung cấp kiến thức và kỹ năng để họ sử dụng năng lượng của mình vào mục đích tốt đẹp hơn, hỗ trợ họ trở thành những chuyên gia an ninh mạng có ích cho xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a0aa2de12ffd",
+      "title": "India wants to join the strawberry superpowers",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-02T13:04:58.140285+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "Ấn Độ muốn trở thành một trong những siêu cường dâu tây",
+      "bullets": [
+        "Ấn Độ đang cố gắng đa dạng hóa nguồn cung dâu tây",
+        "Họ đang nghiên cứu các giống dâu tây mới để giảm phụ thuộc vào nhập khẩu",
+        "Mục tiêu là trở thành một trong những nước sản xuất dâu tây hàng đầu thế giới"
+      ],
+      "full_summary": "Ấn Độ đang cố gắng đa dạng hóa nguồn cung dâu tây để giảm phụ thuộc vào nhập khẩu từ Mỹ và châu Âu. Họ đang nghiên cứu các giống dâu tây mới để tăng sản lượng và chất lượng. Mục tiêu là trở thành một trong những nước sản xuất dâu tây hàng đầu thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ab3f4ecbef57",
+      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-02T13:04:59.093442+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Máy bay du lịch rơi xuống Peru, 13 người thiệt mạng",
+      "bullets": [
+        "Máy bay Cessna Grand Caravan rơi xuống một cánh đồng gần thành phố Nazca",
+        "13 người, bao gồm khách du lịch nước ngoài, đã thiệt mạng trong vụ tai nạn",
+        "Vụ tai nạn xảy ra khi máy bay đang bay trên khu vực Nazca Lines ở Peru"
+      ],
+      "full_summary": "Một máy bay du lịch đã rơi xuống một cánh đồng gần thành phố Nazca ở Peru, khiến 13 người thiệt mạng. Vụ tai nạn xảy ra khi máy bay đang bay trên khu vực Nazca Lines, một di sản thế giới nổi tiếng. Các quan chức địa phương cho biết 11 khách du lịch và 2 phi công đã thiệt mạng trong vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "dd00aee294eb",
+      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-02T13:05:00.109341+00:00",
+      "category": "sức khỏe",
+      "importance": 4,
+      "headline": "Chính phủ Mỹ cắt giảm viện trợ khiến thuốc phòng ngừa HIV không đến được với người cần thiết",
+      "bullets": [
+        "Cắt giảm viện trợ khiến thuốc phòng ngừa HIV không đến được với người cần thiết",
+        "Lenacapavir có thể giảm số ca nhiễm HIV toàn cầu",
+        "WHO khuyến nghị tăng cường tiếp cận thuốc phòng ngừa HIV",
+        "Thuốc PrEP có hiệu quả 99% trong việc ngăn ngừa HIV"
+      ],
+      "full_summary": "Các chuyên gia tại Hội nghị AIDS 2026 ở Rio de Janeiro cho rằng các sáng kiến mới trong phòng ngừa HIV có thể giảm số ca nhiễm HIV toàn cầu đáng kể. Tuy nhiên, do cắt giảm viện trợ của Mỹ, những người cần thuốc phòng ngừa HIV sẽ không thể tiếp cận được. Một năm trước, Tổ chức Y tế Thế giới khuyến nghị các chính phủ tăng cường tiếp cận thuốc phòng ngừa HIV, bao gồm lenacapavir, một phiên bản tiêm của thuốc PrEP.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42d2a1693856",
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-02T13:05:01.218915+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "CEO Reddit nghi ngờ giá trị của AI Google",
+      "bullets": [
+        "Reddit cân nhắc chấm dứt thỏa thuận cấp phép với Google",
+        "CEO Reddit nghi ngờ hiệu quả của AI Google",
+        "Reddit đang tìm kiếm lợi ích từ AI Google",
+        "Thỏa thuận cấp phép giữa Reddit và Google có thể kết thúc sớm"
+      ],
+      "full_summary": "CEO Reddit, Steve Huffman, đã đặt câu hỏi về giá trị của AI Google trong một cuộc phỏng vấn gần đây. Ông nghi ngờ hiệu quả của AI Google và cho biết Reddit đang cân nhắc chấm dứt thỏa thuận cấp phép với Google. Thỏa thuận này cho phép Google sử dụng dữ liệu của Reddit để đào tạo AI. Nếu Reddit chấm dứt thỏa thuận này, nó có thể ảnh hưởng đến lợi ích của Google từ AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a9f375ccdc74",
+      "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+      "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-02T13:05:02.213628+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một dòng dõi bí ẩn ở châu Phi đã để lại dấu ấn trong DNA của chúng ta",
+      "bullets": [
+        "Đã tìm thấy dòng dõi bí ẩn ở châu Phi đã đóng góp vào bộ gen của con người",
+        "Dòng dõi này không có hậu duệ hiện đại nhưng đã để lại dấu ấn lớn",
+        "Nghiên cứu cho thấy dòng dõi này có ảnh hưởng lớn đến bộ gen của con người",
+        "Kết quả nghiên cứu này đã mở ra một tầm nhìn mới về lịch sử tiến hóa của loài người"
+      ],
+      "full_summary": "Nghiên cứu mới đã phát hiện ra một dòng dõi bí ẩn ở châu Phi đã đóng góp vào bộ gen của con người. Dòng dõi này không có hậu duệ hiện đại nhưng đã để lại dấu ấn lớn trong DNA của chúng ta. Nghiên cứu cho thấy dòng dõi này có ảnh hưởng lớn đến bộ gen của con người và đã mở ra một tầm nhìn mới về lịch sử tiến hóa của loài người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65bd3889120b",
+      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-02T13:05:03.361005+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Bác sĩ phát hiện cổ tay đàn ông bị mất khớp",
+      "bullets": [
+        "Phát hiện trường hợp Milwaukee Shoulder Syndrome",
+        "Bệnh được mô tả lần đầu vào năm 1981",
+        "Cơ quan y tế xác định cổ tay bị mất khớp",
+        "Bác sĩ phải tìm cách điều trị cho bệnh nhân"
+      ],
+      "full_summary": "Bệnh Milwaukee Shoulder Syndrome được mô tả lần đầu vào năm 1981, dựa trên các trường hợp của bốn phụ nữ. Cổ tay của bệnh nhân bị mất khớp, gây đau nhức. Bác sĩ phải tìm cách điều trị cho bệnh nhân một cách nhanh chóng và hiệu quả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fb693fbe7319",
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-02T13:05:04.305107+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "RISC OS Open kỷ niệm 20 năm hoạt động",
+      "bullets": [
+        "Khởi động dự án mã nguồn mở RISC OS",
+        "Phát triển hệ điều hành cho các thiết bị RISC",
+        "Tăng cường cộng đồng lập trình viên và người dùng",
+        "Đạt được thành công trong việc bảo trì và phát triển mã nguồn mở"
+      ],
+      "full_summary": "RISC OS Open vừa kỷ niệm 20 năm hoạt động. Dự án này được thành lập vào năm 2006 với mục tiêu phát triển và bảo trì mã nguồn mở của hệ điều hành RISC OS. Trong 20 năm qua, dự án đã đạt được nhiều thành công, bao gồm việc phát triển hệ điều hành cho các thiết bị RISC và tăng cường cộng đồng lập trình viên và người dùng. Dự án RISC OS Open tiếp tục hoạt động và phát triển mã nguồn mở của hệ điều hành RISC OS.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49c2e0498332",
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-02T13:05:07.744180+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Wikimedia Foundation từ chối công nhận công đoàn và thuê luật sư chống công đoàn",
+      "bullets": [
+        "Wikimedia Foundation từ chối công nhận công đoàn của nhân viên",
+        "Hiring luật sư chống công đoàn để đối phó với yêu cầu của công đoàn",
+        "Yêu cầu của công đoàn nhằm cải thiện điều kiện làm việc và quyền lợi cho nhân viên",
+        "Tình hình đang gây tranh cãi trong cộng đồng Wikipedia"
+      ],
+      "full_summary": "Wikimedia Foundation vừa từ chối công nhận công đoàn của nhân viên, khiến cho yêu cầu của công đoàn nhằm cải thiện điều kiện làm việc và quyền lợi cho nhân viên trở nên khó khăn hơn. Điều này đã gây ra tranh cãi trong cộng đồng Wikipedia. Để đối phó với yêu cầu của công đoàn, Wikimedia Foundation đã thuê một luật sư chống công đoàn. Tình hình đang trở nên phức tạp và gây lo ngại cho nhiều người.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3e03552947d9",
       "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
@@ -552,244 +790,6 @@
         "Vấn đề nhập cư ở Ceuta tiếp tục gây tranh cãi"
       ],
       "full_summary": "Italy đã tạm dừng thỏa thuận Schengen với Tây Ban Nha sau khi Prime Minister Giorgia Meloni mô tả tình hình ở Ceuta là 'đáng kinh hoàng'. Bà Meloni lên án phản ứng 'tự tiện' của Tây Ban Nha đối với tình hình nhập cư ở Ceuta. Tây Ban Nha đã mở cửa biên giới với Ceuta để tiếp nhận người tị nạn từ Morocco. Vấn đề nhập cư ở Ceuta tiếp tục gây tranh cãi giữa các quốc gia EU.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eeb9d1e08f57",
-      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-01T13:02:40.788414+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Uefa mất niềm tin vào lãnh đạo Fifa của Infantino",
-      "bullets": [
-        "Uefa tuyên bố Infantino đã thất bại trong việc thực hiện các cam kết của mình",
-        "Infantino được bầu làm chủ tịch Fifa 10 năm trước",
-        "Uefa cho rằng Infantino đã không thể cải thiện tình hình bóng đá thế giới",
-        "Uefa đang xem xét các bước tiếp theo để đối phó với Infantino"
-      ],
-      "full_summary": "Uefa đã tuyên bố mất niềm tin vào lãnh đạo Fifa của Infantino sau khi ông thất bại trong việc thực hiện các cam kết của mình. Infantino được bầu làm chủ tịch Fifa 10 năm trước và đã hứa sẽ cải thiện tình hình bóng đá thế giới. Tuy nhiên, Uefa cho rằng Infantino đã không thể thực hiện được những cam kết này. Uefa đang xem xét các bước tiếp theo để đối phó với Infantino.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "26ffbdf71314",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-01T13:02:41.728392+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nirmal Purja bị chết trong vụ lở tuyết ở Pakistan",
-      "bullets": [
-        "Bị lở tuyết ở Pakistan",
-        "Là một nhà leo núi nổi tiếng",
-        "Đã leo 14 đỉnh núi cao nhất thế giới",
-        "Bị chết khi đang leo núi"
-      ],
-      "full_summary": "Nirmal Purja, một nhà leo núi người Nepal, đã bị chết trong vụ lở tuyết ở Pakistan. Ông đã nổi tiếng vì đã leo 14 đỉnh núi cao nhất thế giới chỉ trong 6 tháng. Vụ lở tuyết đã xảy ra khi ông đang leo núi. Chi tiết về vụ lở tuyết vẫn chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f12329ef902",
-      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-01T13:02:42.719032+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chủ tịch Tây Ban Nha chỉ trích phản ứng ích kỷ của EU về khủng hoảng Ceuta",
-      "bullets": [
-        "Chủ tịch Tây Ban Nha Pedro Sánchez yêu cầu họp khẩn của bộ trưởng nội vụ EU",
-        "Hơn 50.000 người vượt biên vào Ceuta từ Morocco, ít nhất 67 người thiệt mạng",
-        "Sánchez chỉ trích phản ứng 'ích kỷ, cực đoan và bất hợp pháp' của một số quốc gia EU"
-      ],
-      "full_summary": "Chủ tịch Tây Ban Nha Pedro Sánchez đã yêu cầu họp khẩn của bộ trưởng nội vụ EU sau phản ứng 'ích kỷ, cực đoan và bất hợp pháp' của một số quốc gia EU đối với khủng hoảng biên giới ở Ceuta. Hơn 50.000 người đã vượt biên vào Ceuta từ Morocco trong hai ngày, với ít nhất 67 người thiệt mạng. Sánchez đã chỉ trích phản ứng của một số quốc gia EU, mô tả nó là 'ích kỷ, cực đoan và bất hợp pháp'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e5a281d56890",
-      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-01T13:02:43.693430+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Sự bùng phát Ebola ở DRC nhanh nhất trong lịch sử",
-      "bullets": [
-        "Tăng nhanh chóng lên 3.360 trường hợp nhiễm Ebola",
-        "Số người chết đạt 1.487, tỷ lệ tử vong khoảng 45%",
-        "Vaccine chống Bundibugyo vẫn chưa sẵn sàng, sức khỏe đang bị ảnh hưởng",
-        "Sự xung đột ở nhiều khu vực đã gây khó khăn cho các biện pháp phòng chống dịch"
-      ],
-      "full_summary": "Sự bùng phát Ebola ở Cộng hòa Dân chủ Congo đang trở thành nhanh nhất trong lịch sử. Số trường hợp nhiễm Ebola đã tăng lên 3.360, số người chết đạt 1.487 và tỷ lệ tử vong khoảng 45%. Vaccine chống Bundibugyo vẫn chưa sẵn sàng, khiến sức khỏe đang bị ảnh hưởng. Sự xung đột ở nhiều khu vực đã gây khó khăn cho các biện pháp phòng chống dịch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2fd0858fdba4",
-      "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-01T13:02:44.633359+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hệ thống sạc xe tự hành Waymo bị cấm hoạt động qua đêm",
-      "bullets": [
-        "Một tòa án đã ra lệnh cấm Waymo sạc xe qua đêm tại Santa Monica",
-        "Các cư dân địa phương đã khiếu nại về tiếng ồn do xe tự hành gây ra",
-        "Waymo phải ngừng hoạt động sạc xe qua đêm để tránh gây phiền nhiễu cho cư dân"
-      ],
-      "full_summary": "Một tòa án tại Santa Monica đã ra lệnh cấm Waymo, một công ty xe tự hành lớn, hoạt động sạc xe qua đêm. Điều này là do các cư dân địa phương khiếu nại về tiếng ồn do xe tự hành gây ra. Các xe tự hành của Waymo sẽ phải ngừng hoạt động sạc xe qua đêm để tránh gây phiền nhiễu cho cư dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1a7e4505fa31",
-      "title": "Defcon's new badge is a security key you can see inside",
-      "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-01T13:02:45.552434+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Defcon mới có thẻ bảo mật cho phép hacker kiểm tra và sử dụng",
-      "bullets": [
-        "Hacker có thể tháo rời thẻ để kiểm tra nội dung",
-        "Thẻ bảo mật có thể được sử dụng sau khi kiểm tra",
-        "Sự kiện diễn ra tại hội nghị an ninh Defcon",
-        "Nội dung thẻ bảo mật có thể được nhìn thấy rõ ràng"
-      ],
-      "full_summary": "Hội nghị an ninh Defcon vừa công bố thẻ bảo mật mới cho phép hacker kiểm tra nội dung. Thẻ bảo mật có thể được tháo rời để nhìn thấy nội dung bên trong. Điều này cho phép hacker kiểm tra và sử dụng thẻ sau khi kiểm tra. Sự kiện diễn ra tại hội nghị an ninh Defcon.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7aca6f7f659e",
-      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-01T13:02:46.555566+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Côn trùng tìm nguồn mùi bằng cách theo dõi sợi dây không nhìn thấy",
-      "bullets": [
-        "Theo dõi mùi trong không khí hỗn loạn đòi hỏi sự hướng dẫn tinh tế và trí nhớ sắc nét",
-        "Côn trùng tìm nguồn mùi bằng cách sử dụng hệ thống cảm nhận phức tạp",
-        "Hệ thống này bao gồm các thụ thể mùi và các cơ quan cảm nhận khác",
-        "Côn trùng có thể theo dõi mùi trong không khí hỗn loạn nhờ vào khả năng tính toán tinh tế"
-      ],
-      "full_summary": "Các nhà khoa học đã nghiên cứu cách côn trùng tìm nguồn mùi và phát hiện ra rằng chúng sử dụng hệ thống cảm nhận phức tạp để theo dõi mùi trong không khí hỗn loạn. Hệ thống này bao gồm các thụ thể mùi và các cơ quan cảm nhận khác, giúp côn trùng có thể tính toán và theo dõi mùi một cách tinh tế. Kết quả nghiên cứu này có thể giúp chúng ta hiểu rõ hơn về cách côn trùng tìm nguồn thức ăn và có thể áp dụng vào các ứng dụng thực tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "86545105feeb",
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-01T13:02:47.571532+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "RipGrep có thể gặp lỗi khi tìm kiếm dữ liệu lớn",
-      "bullets": [
-        "RipGrep musl binaries có thể gặp lỗi segfault",
-        "Lỗi xảy ra khi thực hiện tìm kiếm dữ liệu lớn",
-        "Đã có báo cáo về vấn đề này trên GitHub",
-        "Đội phát triển đang tìm cách giải quyết"
-      ],
-      "full_summary": "RipGrep, công cụ tìm kiếm văn bản mạnh mẽ, có thể gặp lỗi segfault khi thực hiện tìm kiếm dữ liệu lớn. Lỗi này đã được báo cáo trên GitHub và đang được đội phát triển giải quyết. Các bản dùng thử của RipGrep musl binaries có thể gặp lỗi này khi tìm kiếm dữ liệu lớn. Đội phát triển đang tìm cách giải quyết vấn đề này để đảm bảo tính ổn định của công cụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "789410c54a63",
-      "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
-      "url": "https://freeaipromptgen.com/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-01T13:02:48.517182+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công cụ tự động tạo câu hỏi cho AI miễn phí ra mắt",
-      "bullets": [
-        "Ra mắt công cụ tự động tạo câu hỏi cho AI miễn phí",
-        "Công cụ này được thiết kế cho các nhà phát triển và người dùng",
-        "Công cụ có thể được sử dụng để tạo ra các câu hỏi cho các mô hình AI",
-        "Công cụ được phát triển bởi một nhóm người dùng Hacker News"
-      ],
-      "full_summary": "Một nhóm người dùng Hacker News đã ra mắt công cụ tự động tạo câu hỏi cho AI miễn phí. Công cụ này được thiết kế cho các nhà phát triển và người dùng, cho phép họ tạo ra các câu hỏi cho các mô hình AI. Công cụ này có thể được sử dụng để tạo ra các câu hỏi cho các mô hình AI, giúp cải thiện hiệu suất và độ chính xác của chúng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af8e968ed936",
-      "title": "How to Do Great Work (2023)",
-      "url": "https://paulgraham.com/greatwork.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-01T13:02:50.633266+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Làm việc xuất sắc: Bí quyết thành công",
-      "bullets": [
-        "Xây dựng mục tiêu rõ ràng và tập trung vào chúng",
-        "Tìm kiếm phản hồi và học hỏi từ những người xung quanh",
-        "Tự đánh giá và cải thiện bản thân liên tục",
-        "Tìm kiếm sự hỗ trợ và hợp tác từ đồng nghiệp"
-      ],
-      "full_summary": "Blogger Paul Graham đã chia sẻ bí quyết làm việc xuất sắc trong bài viết của mình. Ông cho rằng việc xây dựng mục tiêu rõ ràng và tập trung vào chúng là bước đầu tiên quan trọng. Sau đó, việc tìm kiếm phản hồi và học hỏi từ những người xung quanh sẽ giúp chúng ta cải thiện bản thân. Cuối cùng, việc tự đánh giá và cải thiện liên tục sẽ giúp chúng ta đạt được thành công.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a09cd5187579",
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-01T08:08:13.130270+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Fifa đã hủy kế hoạch đầu tư World Cup gây tranh cãi",
-      "bullets": [
-        "Fifa đã hủy bỏ kế hoạch bán cổ phần trong các giải đấu lớn",
-        "Gianni Infantino đã gặp phải sự phản đối mạnh mẽ từ các thành viên",
-        "Fifa sẽ tiếp tục quản lý các giải đấu một cách độc lập",
-        "Kế hoạch này đã gây ra nhiều tranh cãi trong cộng đồng bóng đá"
-      ],
-      "full_summary": "Fifa đã quyết định hủy bỏ kế hoạch bán cổ phần trong các giải đấu lớn của mình sau khi gặp phải sự phản đối mạnh mẽ từ các thành viên. Kế hoạch này được đề xuất bởi chủ tịch Gianni Infantino nhưng đã gây ra nhiều tranh cãi trong cộng đồng bóng đá. FIfa sẽ tiếp tục quản lý các giải đấu một cách độc lập và độc lập. Điều này sẽ giúp bảo vệ quyền lợi của các thành viên và đảm bảo tính công bằng trong các giải đấu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb847163ae0f",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-01T08:08:14.107011+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nạn nhân Palestine bị trả thù bởi người định cư Israel",
-      "bullets": [
-        "Tăng cường bạo lực của người định cư Israel đối với người Palestine",
-        "Các khu định cư và trại quân sự đang mở rộng ở khu vực Tây Bắc",
-        "Tình hình ở khu vực này đang trở nên căng thẳng hơn",
-        "Các tổ chức nhân quyền kêu gọi chấm dứt bạo lực"
-      ],
-      "full_summary": "Một người định cư Israel đã nói với BBC rằng các cuộc tấn công vào người Palestine là sự trả thù hợp lý. Bạo lực của người định cư Israel đối với người Palestine đang tăng lên ở khu vực Tây Bắc, khi các khu định cư và trại quân sự đang mở rộng. Các tổ chức nhân quyền đã kêu gọi chấm dứt bạo lực và tìm kiếm giải pháp hòa bình.",
       "comments": 0,
       "score": 0
     }
