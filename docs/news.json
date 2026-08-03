@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-08-03T09:30:08.413153+00:00",
+  "updated_at": "2026-08-03T14:22:29.768479+00:00",
   "articles": [
+    {
+      "id": "de2a5c182f9a",
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T14:22:16.381000+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Vua Maroc xác nhận đường cao tốc lớn được đặt tên theo Trump",
+      "bullets": [
+        "Đường cao tốc đi qua Tây Sahara, một khu vực tranh chấp",
+        "Morocco tuyên bố chủ quyền đối với Tây Sahara",
+        "Nhiều quốc gia không công nhận chủ quyền của Morocco",
+        "Tây Sahara là một vấn đề gây tranh cãi trong nhiều thập kỷ"
+      ],
+      "full_summary": "Vua Maroc đã xác nhận rằng một đường cao tốc lớn sẽ được đặt tên theo cựu Tổng thống Mỹ Donald Trump. Đường cao tốc này đi qua Tây Sahara, một khu vực tranh chấp giữa Morocco và các quốc gia khác. Morocco tuyên bố chủ quyền đối với Tây Sahara, nhưng nhiều quốc gia không công nhận chủ quyền này. Vấn đề này đã gây tranh cãi trong nhiều thập kỷ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "17cefb4268eb",
+      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T14:22:18.464310+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Giá Xbox Series X tăng vọt 43% ở Anh vì chi phí chip nhớ tăng cao",
+      "bullets": [
+        "Tăng giá £170",
+        "Chi phí chip nhớ tăng cao",
+        "Xbox Series X tăng giá 43%",
+        "Thị trường console bị ảnh hưởng bởi giá chip"
+      ],
+      "full_summary": "Xbox Series X đã tăng giá đáng kể ở Anh, với một phiên bản tăng giá 43% do chi phí chip nhớ tăng cao. Giá tăng £170 đã khiến người tiêu dùng phải cân nhắc lại việc mua sắm. Chi phí chip nhớ tăng cao đã ảnh hưởng đến thị trường console, khiến các nhà sản xuất phải điều chỉnh giá bán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "709ad09e92ed",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T14:22:19.434170+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Trump xem xét kiểm soát AI sau các vụ hack vào OpenAI",
+      "bullets": [
+        "Trump đang xem xét kiểm soát AI sau các vụ hack vào OpenAI",
+        "Các vụ hack vào OpenAI đã gây ra lo ngại về an ninh AI",
+        "Chính quyền của Trump trước đây đã có một cách tiếp cận lỏng lẻo hơn đối với công nghệ AI",
+        "Trump đang xem xét các biện pháp kiểm soát để ngăn chặn các vụ hack tương tự"
+      ],
+      "full_summary": "Chính quyền của Tổng thống Mỹ Donald Trump đang xem xét việc kiểm soát công nghệ trí tuệ nhân tạo (AI) sau các vụ hack vào OpenAI. Các vụ hack vào OpenAI đã gây ra lo ngại về an ninh AI và đã làm thay đổi cách tiếp cận của chính quyền Trump đối với công nghệ này. Trước đây, chính quyền của Trump đã có một cách tiếp cận lỏng lẻo hơn đối với công nghệ AI, nhưng sau các vụ hack, họ đang xem xét các biện pháp kiểm soát để ngăn chặn các vụ hack tương tự.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9ff5cbd87f72",
+      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+      "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T14:22:20.493933+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Chủ tịch Ceuta cáo buộc Morocco kích động di cư qua biên giới",
+      "bullets": [
+        "Hàng nghìn người di cư qua biên giới Ceuta-Morocco",
+        "Chủ tịch Juan Jesús Vivas cáo buộc Morocco kích động",
+        "Hơn 48.000 người được trả lại cho Morocco",
+        "Crisis di cư gây ra cuộc khủng hoảng chính trị tại EU"
+      ],
+      "full_summary": "Chủ tịch Ceuta Juan Jesús Vivas cáo buộc Morocco kích động di cư qua biên giới, nói rằng đây là một cuộc tấn công vào chủ quyền lãnh thổ của Tây Ban Nha. Hơn 48.000 người đã được trả lại cho Morocco sau khi hàng nghìn người di cư qua biên giới. Sự kiện này đã gây ra cuộc khủng hoảng chính trị tại EU và một số quốc gia thành viên đã yêu cầu sự đoàn kết của Liên minh châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1a460e3b1cf4",
+      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+      "url": "https://dmarcguard.io/blog/spf-record-syntax/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-03T14:22:23.662630+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "SPF Record Syntax được mô tả chi tiết",
+      "bullets": [
+        "Giải thích cơ chế, đặc điểm của SPF Record Syntax",
+        "Xác định các loại từ khóa và sửa đổi trong SPF Record Syntax",
+        "Giải thích về các macro trong SPF Record Syntax",
+        "Cung cấp ví dụ về cách sử dụng SPF Record Syntax"
+      ],
+      "full_summary": "SPF Record Syntax là một phần quan trọng của hệ thống bảo mật email. Bài viết này giải thích chi tiết về cơ chế, đặc điểm và cách sử dụng SPF Record Syntax. Các từ khóa và sửa đổi trong SPF Record Syntax được xác định và giải thích rõ ràng. Bài viết cũng cung cấp ví dụ về cách sử dụng SPF Record Syntax trong thực tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9e58e6f50a6d",
+      "title": "Scientists may have found aging’s hidden trigger for brain disease",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
+      "source": "Science Daily",
+      "icon": "🔭",
+      "fetched_at": "2026-08-03T14:22:28.705327+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Tìm ra chìa khóa tuổi tác làm tăng nguy cơ bệnh não",
+      "bullets": [
+        "Xác định protein EPS8 tích tụ với tuổi tác",
+        "EPS8 kích thích các protein độc hại tạo thành các khối",
+        "Giảm hoạt động của EPS8 ngăn chặn các khối độc hại",
+        "Bảo toàn chức năng thần kinh"
+      ],
+      "full_summary": "Các nhà khoa học đã tìm ra một chìa khóa phân tử có thể giải thích tại sao tuổi tác làm tăng nguy cơ mắc các bệnh não như ALS và Huntington. Protein EPS8 tích tụ với tuổi tác và kích thích tín hiệu để các protein độc hại tạo thành các khối, gây hại cho các tế bào thần kinh và làm giảm tuổi thọ. Giảm hoạt động của EPS8 đã ngăn chặn các khối độc hại và bảo toàn chức năng thần kinh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "170011fc8a0e",
       "title": "Trump suggests new talks with Iran to begin on Monday",
@@ -672,125 +792,6 @@
         "Đạt được thành công trong việc bảo trì và phát triển mã nguồn mở"
       ],
       "full_summary": "RISC OS Open vừa kỷ niệm 20 năm hoạt động. Dự án này được thành lập vào năm 2006 với mục tiêu phát triển và bảo trì mã nguồn mở của hệ điều hành RISC OS. Trong 20 năm qua, dự án đã đạt được nhiều thành công, bao gồm việc phát triển hệ điều hành cho các thiết bị RISC và tăng cường cộng đồng lập trình viên và người dùng. Dự án RISC OS Open tiếp tục hoạt động và phát triển mã nguồn mở của hệ điều hành RISC OS.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "49c2e0498332",
-      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-02T13:05:07.744180+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Wikimedia Foundation từ chối công nhận công đoàn và thuê luật sư chống công đoàn",
-      "bullets": [
-        "Wikimedia Foundation từ chối công nhận công đoàn của nhân viên",
-        "Hiring luật sư chống công đoàn để đối phó với yêu cầu của công đoàn",
-        "Yêu cầu của công đoàn nhằm cải thiện điều kiện làm việc và quyền lợi cho nhân viên",
-        "Tình hình đang gây tranh cãi trong cộng đồng Wikipedia"
-      ],
-      "full_summary": "Wikimedia Foundation vừa từ chối công nhận công đoàn của nhân viên, khiến cho yêu cầu của công đoàn nhằm cải thiện điều kiện làm việc và quyền lợi cho nhân viên trở nên khó khăn hơn. Điều này đã gây ra tranh cãi trong cộng đồng Wikipedia. Để đối phó với yêu cầu của công đoàn, Wikimedia Foundation đã thuê một luật sư chống công đoàn. Tình hình đang trở nên phức tạp và gây lo ngại cho nhiều người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3e03552947d9",
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T08:10:02.200426+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Gianni Infantino đối mặt với áp lực sau kế hoạch World Cup bùng nổ",
-      "bullets": [
-        "Infantino chịu áp lực từ các thành viên FIFA",
-        "Kế hoạch đầu tư World Cup bị coi là không minh bạch",
-        "FIFA đang đối mặt với những thách thức lớn",
-        "Infantino có thể mất chức chủ tịch FIFA"
-      ],
-      "full_summary": "Gianni Infantino đang đối mặt với áp lực lớn sau khi kế hoạch đầu tư World Cup bị coi là không minh bạch. Kế hoạch này đã bị coi là một trong những sai lầm lớn nhất trong lịch sử FIFA. Infantino đang phải đối mặt với những thách thức lớn để duy trì vị trí chủ tịch FIFA. Các thành viên FIFA đang kêu gọi Infantino phải chịu trách nhiệm về những sai lầm này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9e7d925a60c7",
-      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T08:10:03.132010+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Snapchat và các nền tảng nổi tiếng chống lại nội dung AI giả mạo",
-      "bullets": [
-        "Snapchat, YouTube, LinkedIn và Substack đang hợp tác để chống lại sự lan rộng của nội dung AI giả mạo",
-        "Các nền tảng này đang sử dụng các công nghệ mới để phát hiện và loại bỏ nội dung AI giả mạo",
-        "Mục tiêu của họ là giảm thiểu sự lan truyền của nội dung AI giả mạo trên các nền tảng của họ",
-        "Các nền tảng này cũng đang hợp tác để chia sẻ kiến thức và kinh nghiệm trong việc chống lại nội dung AI giả mạo"
-      ],
-      "full_summary": "Snapchat, YouTube, LinkedIn và Substack đang hợp tác để chống lại sự lan rộng của nội dung AI giả mạo. Các nền tảng này đang sử dụng các công nghệ mới để phát hiện và loại bỏ nội dung AI giả mạo. Mục tiêu của họ là giảm thiểu sự lan truyền của nội dung AI giả mạo trên các nền tảng của họ. Các nền tảng này cũng đang hợp tác để chia sẻ kiến thức và kinh nghiệm trong việc chống lại nội dung AI giả mạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53a360b574c8",
-      "title": "AI firms must answer for rogue bots, says boss of hacked company",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T08:10:04.133704+00:00",
-      "category": "công nghệ",
-      "importance": 3,
-      "headline": "Công ty AI phải chịu trách nhiệm về các bot bị hack",
-      "bullets": [
-        "Clement Delangue cảnh báo các cuộc tấn công mạng trở nên bình thường",
-        "Công ty bị hack yêu cầu các công ty AI phải chịu trách nhiệm về các bot bị hack",
-        "Delangue muốn ngăn chặn các cuộc tấn công mạng trở nên phổ biến",
-        "Các công ty AI phải chịu trách nhiệm về các tác động tiêu cực của các bot bị hack"
-      ],
-      "full_summary": "Clement Delangue, người đứng đầu công ty bị hack, đã cảnh báo rằng các cuộc tấn công mạng trở nên bình thường. Ông muốn ngăn chặn các cuộc tấn công mạng trở nên phổ biến và yêu cầu các công ty AI phải chịu trách nhiệm về các bot bị hack. Các công ty AI phải chịu trách nhiệm về các tác động tiêu cực của các bot bị hack.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d7487cf5240c",
-      "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
-      "url": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T08:10:05.053722+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Xbox bị lỗi nghiêm trọng khiến người dùng gặp khó khăn trong việc đăng nhập và chơi game",
-      "bullets": [
-        "Người dùng Xbox gặp khó khăn trong việc đăng nhập vào tài khoản",
-        "Không thể xem thư viện game và khởi động game",
-        "Cơ quan điều hành Xbox thừa nhận lỗi là không chấp nhận được"
-      ],
-      "full_summary": "Một cuộc mất kết nối nghiêm trọng đã xảy ra trên hệ thống Xbox, khiến người dùng gặp khó khăn trong việc đăng nhập vào tài khoản, xem thư viện game và khởi động game. Người dùng không thể truy cập vào các trò chơi của mình và gặp nhiều vấn đề. Cơ quan điều hành Xbox đã thừa nhận lỗi này là không chấp nhận được và đang cố gắng giải quyết vấn đề.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8197d680b04f",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T08:10:06.136760+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Sắc lệnh chống LGBTQ+ gia tăng ở Tây Phi",
-      "bullets": [
-        "Tây Phi đang có xu hướng tăng cường các luật chống LGBTQ+",
-        "Sénégal tăng mức án tù tối đa cho quan hệ đồng tính lên 10 năm",
-        "Niger cấm quan hệ tình dục đồng tính lần đầu tiên",
-        "Các nhà hoạt động cho rằng chính trị gia đang sử dụng LGBTQ+ như 'mục tiêu dễ dàng để duy trì quyền lực'"
-      ],
-      "full_summary": "Các nhà hoạt động ở Tây Phi cảnh báo rằng số lượng các luật chống LGBTQ+ đang gia tăng. Trong tháng 3, Sénégal đã tăng mức án tù tối đa cho quan hệ đồng tính lên 10 năm và cấm 'tán thành' đồng tính. Niger cũng đã cấm quan hệ tình dục đồng tính lần đầu tiên. Các nhà hoạt động cho rằng chính trị gia đang sử dụng LGBTQ+ như 'mục tiêu dễ dàng để duy trì quyền lực'.",
       "comments": 0,
       "score": 0
     }
