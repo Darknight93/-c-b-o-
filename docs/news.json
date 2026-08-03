@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-08-03T02:05:57.584134+00:00",
+  "updated_at": "2026-08-03T09:30:08.413153+00:00",
   "articles": [
+    {
+      "id": "170011fc8a0e",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T09:29:53.473478+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump đề xuất đàm phán mới với Iran bắt đầu từ thứ Hai",
+      "bullets": [
+        "Trump đề xuất đàm phán mới với Iran",
+        "Tehran chưa phản hồi đề xuất này",
+        "Trump từng nói rằng kết thúc chiến tranh thông qua đàm phán đang gần",
+        "Các cuộc tấn công lại diễn ra sau đó"
+      ],
+      "full_summary": "Tổng thống Trump đề xuất bắt đầu đàm phán mới với Iran từ thứ Hai. Tuy nhiên, Tehran chưa phản hồi đề xuất này. Trước đó, Trump từng nói rằng kết thúc chiến tranh thông qua đàm phán đang gần, nhưng các cuộc tấn công lại diễn ra sau đó. Đàm phán giữa Iran và Mỹ đã nhiều lần bị gián đoạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3623a2415470",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T09:29:54.540683+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Con trai tôi bị bắn vì đứng lên cho công lý ở Kashmir",
+      "bullets": [
+        "Tình trạng biểu tình bùng phát ở Kashmir do Pakistan",
+        "Lực lượng an ninh và biểu tình viên đối đầu dữ dội",
+        "Báo chí BBC có được quyền truy cập vào Rawalakot",
+        "Nhiều người thiệt mạng trong các cuộc đụng độ"
+      ],
+      "full_summary": "BBC đã có được quyền truy cập độc quyền vào Rawalakot, nơi diễn ra các cuộc đụng độ dữ dội giữa lực lượng an ninh và biểu tình viên ở Kashmir do Pakistan quản lý. Một người cha đã chia sẻ câu chuyện về con trai mình bị bắn trong các cuộc biểu tình. Các cuộc biểu tình đã bùng phát ở Kashmir do Pakistan quản lý sau khi một người đàn ông bị bắn chết trong một vụ biểu tình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "226d472ea005",
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T09:29:55.542448+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Aung San Suu Kyi gặp ICRC sau 2,5 năm",
+      "bullets": [
+        "Suu Kyi gặp một quan chức ICRC",
+        "Hình ảnh mới được quân đội Myanmar công bố",
+        "Suu Kyi được cho là khỏe mạnh",
+        "Đây là lần tiếp xúc ngoài đầu tiên của bà sau 2,5 năm"
+      ],
+      "full_summary": "Aung San Suu Kyi, cựu Tổng thống Myanmar, đã gặp một quan chức của Tổ chức Chữ thập đỏ Quốc tế (ICRC) trong một cuộc gặp đầu tiên được xác nhận ngoài trời sau 2,5 năm. Quân đội Myanmar đã công bố hình ảnh mới của cuộc gặp này. Theo các hình ảnh, Suu Kyi được cho là khỏe mạnh. Điều này là một tin tức quan trọng đối với những người theo dõi tình hình chính trị tại Myanmar.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "43fe86df47a5",
+      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T09:29:56.544840+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai công nhân thiệt mạng trong vụ nổ tại trung tâm thương mại Nhật Bản",
+      "bullets": [
+        "Hai nữ công nhân bị gửi trở lại trung tâm thương mại Aeon Mall sau động đất",
+        "Cơ quan chức năng đang điều tra nguyên nhân vụ nổ",
+        "Nhà tuyển dụng xin lỗi vì đã yêu cầu hai công nhân trở lại trung tâm thương mại",
+        "Vụ nổ khiến hai công nhân thiệt mạng"
+      ],
+      "full_summary": "Hai nữ công nhân đã thiệt mạng trong vụ nổ tại trung tâm thương mại Aeon Mall ở Nhật Bản sau khi được gửi trở lại nơi làm việc sau động đất. Cơ quan chức năng đang điều tra nguyên nhân vụ nổ. Nhà tuyển dụng của hai công nhân đã xin lỗi vì đã yêu cầu họ trở lại trung tâm thương mại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "442d6699b4a8",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T09:29:57.687735+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hoa Kỳ và Nhật Bản hợp tác để ổn định đồng yên",
+      "bullets": [
+        "Hợp tác để ổn định đồng yên",
+        "Thề không ngần ngại can thiệp thị trường",
+        "Cố gắng ngăn chặn sự suy yếu của đồng yên",
+        "Đảm bảo ổn định kinh tế khu vực"
+      ],
+      "full_summary": "Hoa Kỳ và Nhật Bản đã hợp tác để ổn định đồng yên trong một động thái hiếm hoi. Hai quốc gia này đã cam kết sẽ không ngần ngại can thiệp thị trường nếu cần thiết. Họ cũng cố gắng ngăn chặn sự suy yếu của đồng yên và đảm bảo ổn định kinh tế khu vực. Đây là một động thái quan trọng nhằm duy trì sự ổn định kinh tế toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fa80cdcbfd02",
+      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+      "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T09:30:00.404804+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nepal khóc thương các nhà leo núi",
+      "bullets": [
+        "Mourners đang ướm tiếc cho các nhà leo núi",
+        "Tổ chức đang tổ chức các nghi lễ tang lễ",
+        "Nhiều người dân đang bày tỏ sự thương tiếc",
+        "Nepal đang đối mặt với thiệt hại lớn"
+      ],
+      "full_summary": "Nepal đang khóc thương các nhà leo núi sau một vụ lở tuyết đã giết chết một số nhà leo núi hàng đầu của đất nước. Các tổ chức đang tổ chức các nghi lễ tang lễ và nhiều người dân đang bày tỏ sự thương tiếc. Nirmal Purja, một nhà leo núi nổi tiếng, đã qua đời trong vụ lở tuyết. Các nhà leo núi khác cũng đã thiệt mạng trong vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "150167d02f6b",
+      "title": "Show HN: I created a project management system",
+      "url": "https://is.team",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-03T09:30:05.500210+00:00",
+      "category": "technology",
+      "importance": 2,
+      "headline": "Một hệ thống quản lý dự án mới được tạo ra",
+      "bullets": [
+        "Tạo ra một hệ thống quản lý dự án",
+        "Hệ thống có thể được truy cập trực tuyến",
+        "Cho phép quản lý dự án một cách hiệu quả"
+      ],
+      "full_summary": "Một nhà phát triển đã tạo ra một hệ thống quản lý dự án mới, cho phép người dùng quản lý dự án một cách hiệu quả. Hệ thống này có thể được truy cập trực tuyến và cho phép người dùng theo dõi tiến độ dự án.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "628d18510dc4",
       "title": "Meta shares fall as frustration grows over AI spending plans",
@@ -652,145 +791,6 @@
         "Các nhà hoạt động cho rằng chính trị gia đang sử dụng LGBTQ+ như 'mục tiêu dễ dàng để duy trì quyền lực'"
       ],
       "full_summary": "Các nhà hoạt động ở Tây Phi cảnh báo rằng số lượng các luật chống LGBTQ+ đang gia tăng. Trong tháng 3, Sénégal đã tăng mức án tù tối đa cho quan hệ đồng tính lên 10 năm và cấm 'tán thành' đồng tính. Niger cũng đã cấm quan hệ tình dục đồng tính lần đầu tiên. Các nhà hoạt động cho rằng chính trị gia đang sử dụng LGBTQ+ như 'mục tiêu dễ dàng để duy trì quyền lực'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c13b26e3705b",
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T08:10:08.219416+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Hoa Kỳ mất 3,3 tỷ USD doanh thu du lịch từ Canada",
-      "bullets": [
-        "Canada giảm 3,3 tỷ USD doanh thu du lịch Hoa Kỳ",
-        "Người Canada thay thế du lịch Hoa Kỳ bằng các điểm đến quốc tế khác",
-        "Báo cáo chỉ ra Canada không giảm tổng doanh thu du lịch",
-        "Thay vào đó, người Canada chọn các điểm đến khác để du lịch"
-      ],
-      "full_summary": "Theo số liệu mới, người Canada đã giảm 3,3 tỷ USD doanh thu du lịch Hoa Kỳ trong năm 2025. Điều này cho thấy chính sách của Tổng thống Mỹ Donald Trump đối với Canada đang gây ra hậu quả kinh tế. Người Canada không giảm tổng doanh thu du lịch mà thay vào đó chọn các điểm đến quốc tế khác để du lịch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "28563feff82c",
-      "title": "Australia's social media ban has failed",
-      "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-02T08:10:11.485541+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Úc thất bại trong việc cấm mạng xã hội đối với lứa tuổi trẻ",
-      "bullets": [
-        "Cấm mạng xã hội đối với lứa tuổi trẻ không hiệu quả",
-        "Nghiên cứu cho thấy nhiều người trẻ vẫn tiếp tục sử dụng mạng xã hội",
-        "Úc phản hồi rằng quy định vẫn cần được tuân thủ",
-        "Nghiên cứu chỉ ra rằng nhiều người trẻ vẫn có thể tìm cách truy cập mạng xã hội"
-      ],
-      "full_summary": "Một nghiên cứu mới đây cho thấy rằng quy định cấm mạng xã hội đối với lứa tuổi trẻ ở Úc không hiệu quả. Mặc dù quy định đã được áp dụng, nhưng nhiều người trẻ vẫn tiếp tục sử dụng mạng xã hội. Úc đã phản hồi rằng quy định vẫn cần được tuân thủ, nhưng nghiên cứu chỉ ra rằng nhiều người trẻ vẫn có thể tìm cách truy cập mạng xã hội. Điều này đặt ra câu hỏi về hiệu quả của quy định và liệu nó có thể được thực thi một cách hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "08d85469fdca",
-      "title": "When random.bytes() runs but doesn't work",
-      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-02T08:10:15.267550+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Random.bytes() không hoạt động khi chạy",
-      "bullets": [
-        "Giải thích lý do tại sao random.bytes() không hoạt động",
-        "Xác định các vấn đề tiềm ẩn khi sử dụng random.bytes()",
-        "Cung cấp giải pháp khắc phục cho các vấn đề liên quan đến random.bytes()"
-      ],
-      "full_summary": "Bài viết trên Hacker News giải thích lý do tại sao random.bytes() không hoạt động khi chạy. Nó cũng xác định các vấn đề tiềm ẩn khi sử dụng random.bytes() và cung cấp giải pháp khắc phục cho các vấn đề liên quan. Bài viết này sẽ giúp người đọc hiểu rõ hơn về cách sử dụng random.bytes() một cách hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6e3379c04d5c",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T02:03:40.672895+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Crisis nhập cư ở Tây Ban Nha gây bão chính trị trên mạng xã hội",
-      "bullets": [
-        "Chính phủ Tây Ban Nha bị chỉ trích vì cách xử lý vấn đề nhập cư",
-        "Mạng xã hội đã lan truyền hình ảnh người tị nạn bị bạo lực",
-        "Căng thẳng chính trị ở châu Âu tăng lên sau các vụ vượt biên",
-        "Châu Âu đang đối mặt với cuộc khủng hoảng nhập cư nghiêm trọng"
-      ],
-      "full_summary": "Căng thẳng chính trị ở châu Âu đã tăng lên sau các vụ vượt biên ở Ceuta, Tây Ban Nha. Chính phủ Tây Ban Nha đã bị chỉ trích vì cách xử lý vấn đề nhập cư. Mạng xã hội đã lan truyền hình ảnh người tị nạn bị bạo lực, gây ra sự phẫn nộ trong công chúng. Cuộc khủng hoảng nhập cư ở châu Âu đang trở nên nghiêm trọng hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fa3557a0486c",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T02:03:41.774392+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hội đồng EU họp khẩn để thảo luận về tình trạng di cư qua Ceuta",
-      "bullets": [
-        "Hội đồng EU họp khẩn để thảo luận về tình trạng di cư qua Ceuta",
-        "Các nước EU tranh cãi với Tây Ban Nha về lượng di dân vào enklav Ceuta",
-        "Tây Ban Nha phản ứng gay gắt trước các lời chỉ trích từ các nước EU khác",
-        "Số lượng di dân vào Ceuta đang tăng nhanh chóng trong thời gian gần đây"
-      ],
-      "full_summary": "Hội đồng EU đã họp khẩn để thảo luận về tình trạng di cư qua Ceuta, nơi mà số lượng di dân đang tăng nhanh chóng. Các nước EU tranh cãi với Tây Ban Nha về cách xử lý tình trạng di cư này. Tây Ban Nha phản ứng gay gắt trước các lời chỉ trích từ các nước EU khác. Tình hình đang trở nên căng thẳng và cần được giải quyết một cách khẩn cấp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "07e61deeecc7",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T02:03:42.741013+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Máy bay du lịch rơi xuống Peru, 13 người tử vong",
-      "bullets": [
-        "Rơi xuống khu di tích Nazca Lines",
-        "Có 13 người thiệt mạng trong vụ tai nạn",
-        "Máy bay đang bay trên không khi xảy ra vụ rơi",
-        "Vụ tai nạn đang được điều tra"
-      ],
-      "full_summary": "Một chiếc máy bay du lịch đã rơi xuống khu di tích Nazca Lines ở Peru, khiến 13 người thiệt mạng. Vụ tai nạn xảy ra khi máy bay đang bay trên không. Các cơ quan chức năng đang điều tra nguyên nhân của vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "043cea5ec721",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T02:03:43.865329+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Mạng lưới Foxtrot tuyển sát thủ trẻ để giết người trên khắp châu Âu",
-      "bullets": [
-        "Tổ chức Foxtrot được cho là chịu trách nhiệm về khoảng 35 vụ giết người tại châu Âu",
-        "Mạng lưới này sử dụng chiến thuật dịch vụ bạo lực để thực hiện các vụ giết người",
-        "Các sát thủ trẻ được tuyển dụng để thực hiện các vụ giết người cho mạng lưới Foxtrot",
-        "Nghi phạm vẫn chưa được xác định và đang được điều tra bởi các cơ quan chức năng"
-      ],
-      "full_summary": "Mạng lưới Foxtrot được cho là chịu trách nhiệm về khoảng 35 vụ giết người tại châu Âu. Tổ chức này sử dụng chiến thuật dịch vụ bạo lực để thực hiện các vụ giết người. Các sát thủ trẻ được tuyển dụng để thực hiện các vụ giết người cho mạng lưới Foxtrot. Các cơ quan chức năng đang điều tra để xác định nghi phạm và ngăn chặn các vụ giết người tiếp theo.",
       "comments": 0,
       "score": 0
     }
