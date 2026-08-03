@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-08-03T14:22:29.768479+00:00",
+  "updated_at": "2026-08-03T19:22:18.160945+00:00",
   "articles": [
+    {
+      "id": "356f5c4c173a",
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:01.784711+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Máy bay không người lái Ukraine tấn công bãi biển đông đúc ở Nga",
+      "bullets": [
+        "Tấn công khiến 7 người chết, 40 người bị thương",
+        "Ba đứa trẻ bị giết khi máy bay không người lái rơi tại khu du lịch nổi tiếng",
+        "Sự cố xảy ra tại bãi biển Black Sea",
+        "Nga cáo buộc Ukraine là kẻ tấn công"
+      ],
+      "full_summary": "Một máy bay không người lái của Ukraine đã tấn công một bãi biển đông đúc ở Nga, khiến 7 người chết và 40 người bị thương. Ba đứa trẻ là những người thiệt mạng trong vụ tấn công. Sự cố xảy ra tại khu du lịch nổi tiếng ở Black Sea. Nga cáo buộc Ukraine là kẻ tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cdaf4f2f368d",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:02.772299+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sông Rhine đạt mức nước thấp kỷ lục, gây ảnh hưởng nghiêm trọng",
+      "bullets": [
+        "Giảm lưu lượng vận chuyển hàng hóa trên sông Rhine",
+        "Sụt giảm sản lượng điện năng do thiếu nước",
+        "Căng thẳng về nước gây ảnh hưởng đến các con sông khác",
+        "Sông Danube và Po cũng gặp tình trạng nước thấp"
+      ],
+      "full_summary": "Sông Rhine đã đạt mức nước thấp kỷ lục do tình trạng hạn hán nghiêm trọng. Điều này đã gây ảnh hưởng nghiêm trọng đến hoạt động vận chuyển hàng hóa và sản lượng điện năng. Các con sông khác như Danube và Po cũng gặp tình trạng nước thấp, gây căng thẳng về nguồn nước. Các quốc gia châu Âu đang phải đối mặt với thách thức lớn về nguồn nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b696dc5085d3",
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:03.744006+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hàng tàu dầu gặp nguy hiểm ở Trung Đông",
+      "bullets": [
+        "Tăng cường tấn công vào các tuyến đường vận chuyển thay thế",
+        "Tàu dầu phải đối mặt với tình hình phức tạp hơn",
+        "Analysts lo ngại về sự an toàn của hàng dầu",
+        "Tình hình này nghiêm trọng hơn kể từ khi chiến tranh Iran bắt đầu"
+      ],
+      "full_summary": "Các cuộc tấn công mới vào các tuyến đường vận chuyển thay thế đã khiến tàu dầu phải đối mặt với tình hình phức tạp hơn. Các chuyên gia lo ngại về sự an toàn của hàng dầu. Tình hình này nghiêm trọng hơn kể từ khi chiến tranh Iran bắt đầu. Các tuyến đường vận chuyển thay thế đang trở thành mục tiêu của các cuộc tấn công.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52fcfa26f70b",
+      "title": "Russian anti-war politician says he has fled the country",
+      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:04.739389+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chuyên gia chống chiến tranh Nga thoát khỏi nước này",
+      "bullets": [
+        "Được chỉ định là một đại diện nước ngoài, Boris Nadezhdin đã trốn khỏi Nga",
+        "Ông đã đăng một video trước Eiffel Tower",
+        "Nội dung video chưa rõ ràng",
+        "Nguồn tin cho rằng ông đang tìm kiếm sự an toàn"
+      ],
+      "full_summary": "Boris Nadezhdin, một chuyên gia chống chiến tranh Nga, đã trốn khỏi nước này sau khi được chỉ định là một đại diện nước ngoài. Ông đã đăng một video trước Eiffel Tower, nhưng nội dung video chưa rõ ràng. Nguồn tin cho rằng ông đang tìm kiếm sự an toàn. Hiện tại, tình hình vẫn chưa rõ ràng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9e7d925a60c7",
+      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:05.858561+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Snapchat và các nền tảng khác chống lại nội dung AI giả mạo",
+      "bullets": [
+        "Cải thiện thuật toán để phát hiện nội dung AI giả mạo",
+        "Cấm sử dụng hình ảnh và video AI giả mạo",
+        "Tăng cường cảnh báo cho người dùng về nội dung AI giả mạo",
+        "Hợp tác với các tổ chức để phát triển công nghệ chống lại AI giả mạo"
+      ],
+      "full_summary": "Snapchat, YouTube, LinkedIn và Substack đang hợp tác để chống lại sự lan rộng của nội dung AI giả mạo. Các nền tảng này đang cải thiện thuật toán để phát hiện nội dung AI giả mạo và cấm sử dụng hình ảnh và video AI giả mạo. Họ cũng tăng cường cảnh báo cho người dùng về nội dung AI giả mạo và hợp tác với các tổ chức để phát triển công nghệ chống lại AI giả mạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "53a360b574c8",
+      "title": "AI firms must answer for rogue bots, says boss of hacked company",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:07.315999+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Công ty AI phải chịu trách nhiệm về các bot độc hại",
+      "bullets": [
+        "Clement Delangue cảnh báo các cuộc tấn công mạng không nên trở thành bình thường",
+        "Công ty bị tấn công phải chịu trách nhiệm về các bot độc hại",
+        "Các công ty AI phải đảm bảo an toàn cho dữ liệu của khách hàng",
+        "Các quy định mới có thể được áp dụng để kiểm soát các bot độc hại"
+      ],
+      "full_summary": "Clement Delangue, người đứng đầu công ty bị tấn công mạng, cảnh báo các cuộc tấn công mạng không nên trở thành bình thường. Ông cho biết công ty của mình đã bị tấn công bởi các bot độc hại và phải chịu trách nhiệm về vấn đề này. Các công ty AI phải đảm bảo an toàn cho dữ liệu của khách hàng và các quy định mới có thể được áp dụng để kiểm soát các bot độc hại.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d7487cf5240c",
+      "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
+      "url": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:08.249798+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Xbox gặp lỗi nghiêm trọng ảnh hưởng đến trải nghiệm chơi game",
+      "bullets": [
+        "Xbox gặp lỗi nghiêm trọng khiến người dùng gặp khó khăn khi đăng nhập",
+        "Người dùng gặp vấn đề khi xem thư viện game và khởi chạy trò chơi",
+        "Lỗi nghiêm trọng ảnh hưởng đến trải nghiệm chơi game của người dùng Xbox"
+      ],
+      "full_summary": "Một lỗi nghiêm trọng đã xảy ra trên nền tảng Xbox, khiến người dùng gặp khó khăn khi đăng nhập, xem thư viện game và khởi chạy trò chơi. Lỗi này đã ảnh hưởng đến trải nghiệm chơi game của người dùng Xbox. Theo người đứng đầu bộ phận công nghệ của Xbox, lỗi này không nên ảnh hưởng đến trò chơi đĩa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5544233979e1",
+      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-03T19:22:09.387911+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ủy ban Châu Âu đề nghị tăng cường biên giới sau vụ khủng hoảng Ceuta",
+      "bullets": [
+        "Đề nghị xây dựng hàng rào vật lý ở các điểm quan trọng",
+        "Tăng cường giám sát và sử dụng công nghệ để kiểm soát biên giới",
+        "Tăng cường việc trả lại người nhập cư không hợp lệ",
+        "Đề nghị các quốc gia thành viên hợp tác để tăng cường kiểm soát biên giới"
+      ],
+      "full_summary": "Ủy ban Châu Âu đã đề nghị tăng cường biên giới sau vụ khủng hoảng ở Ceuta, nơi hàng ngàn người đã đến và rời đi nhanh chóng. Chủ tịch Ủy ban Châu Âu Ursula von der Leyen đã gửi thư cho Thủ tướng Tây Ban Nha Pedro Sánchez, đề nghị tăng cường giám sát và sử dụng hàng rào vật lý ở các điểm quan trọng. Bà von der Leyen cũng đề nghị tăng cường việc trả lại người nhập cư không hợp lệ và hợp tác giữa các quốc gia thành viên để tăng cường kiểm soát biên giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f40b911f4f73",
+      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-03T19:22:12.793973+00:00",
+      "category": "kinh tế|khoa học",
+      "importance": 4,
+      "headline": "SpaceX chuẩn bị mua 130.000 ha đất ngập nước ở Louisiana",
+      "bullets": [
+        "Chuẩn bị xây dựng một trạm phóng ở Louisiana",
+        "Cung cấp nhiều lợi thế cho các chương trình phóng tên lửa",
+        "Sẽ tạo ra nhiều việc làm và đầu tư cho địa phương",
+        "Tăng cường khả năng phóng tên lửa của SpaceX"
+      ],
+      "full_summary": "SpaceX sắp mua 130.000 ha đất ngập nước ở Louisiana để xây dựng một trạm phóng tên lửa. Địa điểm này sẽ cung cấp nhiều lợi thế cho các chương trình phóng tên lửa của SpaceX, bao gồm khả năng phóng tên lửa cao hơn và giảm thiểu chi phí. Việc này cũng sẽ tạo ra nhiều việc làm và đầu tư cho địa phương, giúp thúc đẩy kinh tế địa phương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bd23b920ee6f",
+      "title": "Use Task Runners for Common Coding Tasks",
+      "url": "https://hamvocke.com/blog/task-runners/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-03T19:22:17.660758+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Sử dụng các công cụ chạy tác vụ để thực hiện các nhiệm vụ lập trình phổ biến",
+      "bullets": [
+        "Giới thiệu về các công cụ chạy tác vụ",
+        "Lợi ích của việc sử dụng các công cụ chạy tác vụ",
+        "Các ví dụ về cách sử dụng các công cụ chạy tác vụ",
+        "Tìm hiểu thêm về các công cụ chạy tác vụ"
+      ],
+      "full_summary": "Bài viết này giới thiệu về các công cụ chạy tác vụ, giúp người lập trình thực hiện các nhiệm vụ phổ biến một cách hiệu quả. Các công cụ chạy tác vụ giúp giảm thiểu thời gian và tăng cường năng suất. Bài viết cung cấp các ví dụ cụ thể về cách sử dụng các công cụ chạy tác vụ và khuyến khích người đọc tìm hiểu thêm về các công cụ này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "de2a5c182f9a",
       "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
@@ -594,204 +793,6 @@
         "Mỹ sẽ chờ đàm phán đạt kết quả nhanh chóng"
       ],
       "full_summary": "Chủ tịch Mỹ Donald Trump đã hủy kế hoạch tấn công Iran sau khi các nước Trung Đông đề nghị Mỹ chờ đàm phán. Trump cho biết các bên đã đạt được 'phương diện' của một thỏa thuận, nhưng cần đàm phán nhanh chóng để đạt được kết quả. Điều này đã ngăn chặn một cuộc tấn công có thể xảy ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b30312b3bb34",
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T13:04:55.192411+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Hỏa hoạn trên tàu ở Indonesia khiến 5 người thiệt mạng",
-      "bullets": [
-        "Nổ hỏa trên tàu chở ít nhất 250 người",
-        "Tàu bị cháy ở khu vực đảo Madura",
-        "Đã có 5 người chết, 41 người mất tích",
-        "Cứu hộ đang được triển khai"
-      ],
-      "full_summary": "Một chiếc tàu chở ít nhất 250 người đã gặp hỏa hoạn ở khu vực đảo Madura, Indonesia. Theo báo cáo, đã có 5 người chết và 41 người mất tích. Cứu hộ đang được triển khai để tìm kiếm những người còn lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f5f28dcdb524",
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T13:04:56.223691+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Amazon và Apple tiết lộ thêm về kế hoạch AI",
-      "bullets": [
-        "Nghiên cứu về trí tuệ nhân tạo đang nhận được hàng tỷ đô la đầu tư",
-        "Cả Amazon và Apple đều đang phát triển các công nghệ AI mới",
-        "Cơ hội và thách thức của công nghệ AI đang được thảo luận",
-        "Sự cạnh tranh trong lĩnh vực AI đang gia tăng"
-      ],
-      "full_summary": "Amazon và Apple vừa tiết lộ thêm về kế hoạch AI của họ. Cả hai công ty đều đang đầu tư hàng tỷ đô la vào nghiên cứu và phát triển công nghệ trí tuệ nhân tạo. Điều này cho thấy sự cạnh tranh trong lĩnh vực AI đang gia tăng. Cơ hội và thách thức của công nghệ AI đang được thảo luận rộng rãi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6055381d33af",
-      "title": "How police are trying to divert teen hackers away from crime",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T13:04:57.267491+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cảnh sát hướng dẫn các hacker trẻ tránh tội phạm mạng",
-      "bullets": [
-        "Phát triển chương trình Cyber Prevent để ngăn chặn các hacker trẻ",
-        "Đặc biệt hướng tới các chàng trai và nam thanh niên có nguy cơ bị lôi kéo vào tội phạm mạng",
-        "Cung cấp kiến thức và kỹ năng để họ sử dụng năng lượng của mình vào mục đích tốt đẹp hơn",
-        "Hỗ trợ họ trở thành những chuyên gia an ninh mạng có ích cho xã hội"
-      ],
-      "full_summary": "Cảnh sát đang triển khai chương trình Cyber Prevent để ngăn chặn các hacker trẻ tránh tội phạm mạng. Chương trình này đặc biệt hướng tới các chàng trai và nam thanh niên có nguy cơ bị lôi kéo vào tội phạm mạng. Mục tiêu của chương trình là cung cấp kiến thức và kỹ năng để họ sử dụng năng lượng của mình vào mục đích tốt đẹp hơn, hỗ trợ họ trở thành những chuyên gia an ninh mạng có ích cho xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a0aa2de12ffd",
-      "title": "India wants to join the strawberry superpowers",
-      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T13:04:58.140285+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "Ấn Độ muốn trở thành một trong những siêu cường dâu tây",
-      "bullets": [
-        "Ấn Độ đang cố gắng đa dạng hóa nguồn cung dâu tây",
-        "Họ đang nghiên cứu các giống dâu tây mới để giảm phụ thuộc vào nhập khẩu",
-        "Mục tiêu là trở thành một trong những nước sản xuất dâu tây hàng đầu thế giới"
-      ],
-      "full_summary": "Ấn Độ đang cố gắng đa dạng hóa nguồn cung dâu tây để giảm phụ thuộc vào nhập khẩu từ Mỹ và châu Âu. Họ đang nghiên cứu các giống dâu tây mới để tăng sản lượng và chất lượng. Mục tiêu là trở thành một trong những nước sản xuất dâu tây hàng đầu thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ab3f4ecbef57",
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T13:04:59.093442+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Máy bay du lịch rơi xuống Peru, 13 người thiệt mạng",
-      "bullets": [
-        "Máy bay Cessna Grand Caravan rơi xuống một cánh đồng gần thành phố Nazca",
-        "13 người, bao gồm khách du lịch nước ngoài, đã thiệt mạng trong vụ tai nạn",
-        "Vụ tai nạn xảy ra khi máy bay đang bay trên khu vực Nazca Lines ở Peru"
-      ],
-      "full_summary": "Một máy bay du lịch đã rơi xuống một cánh đồng gần thành phố Nazca ở Peru, khiến 13 người thiệt mạng. Vụ tai nạn xảy ra khi máy bay đang bay trên khu vực Nazca Lines, một di sản thế giới nổi tiếng. Các quan chức địa phương cho biết 11 khách du lịch và 2 phi công đã thiệt mạng trong vụ tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dd00aee294eb",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T13:05:00.109341+00:00",
-      "category": "sức khỏe",
-      "importance": 4,
-      "headline": "Chính phủ Mỹ cắt giảm viện trợ khiến thuốc phòng ngừa HIV không đến được với người cần thiết",
-      "bullets": [
-        "Cắt giảm viện trợ khiến thuốc phòng ngừa HIV không đến được với người cần thiết",
-        "Lenacapavir có thể giảm số ca nhiễm HIV toàn cầu",
-        "WHO khuyến nghị tăng cường tiếp cận thuốc phòng ngừa HIV",
-        "Thuốc PrEP có hiệu quả 99% trong việc ngăn ngừa HIV"
-      ],
-      "full_summary": "Các chuyên gia tại Hội nghị AIDS 2026 ở Rio de Janeiro cho rằng các sáng kiến mới trong phòng ngừa HIV có thể giảm số ca nhiễm HIV toàn cầu đáng kể. Tuy nhiên, do cắt giảm viện trợ của Mỹ, những người cần thuốc phòng ngừa HIV sẽ không thể tiếp cận được. Một năm trước, Tổ chức Y tế Thế giới khuyến nghị các chính phủ tăng cường tiếp cận thuốc phòng ngừa HIV, bao gồm lenacapavir, một phiên bản tiêm của thuốc PrEP.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "42d2a1693856",
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-02T13:05:01.218915+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "CEO Reddit nghi ngờ giá trị của AI Google",
-      "bullets": [
-        "Reddit cân nhắc chấm dứt thỏa thuận cấp phép với Google",
-        "CEO Reddit nghi ngờ hiệu quả của AI Google",
-        "Reddit đang tìm kiếm lợi ích từ AI Google",
-        "Thỏa thuận cấp phép giữa Reddit và Google có thể kết thúc sớm"
-      ],
-      "full_summary": "CEO Reddit, Steve Huffman, đã đặt câu hỏi về giá trị của AI Google trong một cuộc phỏng vấn gần đây. Ông nghi ngờ hiệu quả của AI Google và cho biết Reddit đang cân nhắc chấm dứt thỏa thuận cấp phép với Google. Thỏa thuận này cho phép Google sử dụng dữ liệu của Reddit để đào tạo AI. Nếu Reddit chấm dứt thỏa thuận này, nó có thể ảnh hưởng đến lợi ích của Google từ AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a9f375ccdc74",
-      "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-      "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-02T13:05:02.213628+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Một dòng dõi bí ẩn ở châu Phi đã để lại dấu ấn trong DNA của chúng ta",
-      "bullets": [
-        "Đã tìm thấy dòng dõi bí ẩn ở châu Phi đã đóng góp vào bộ gen của con người",
-        "Dòng dõi này không có hậu duệ hiện đại nhưng đã để lại dấu ấn lớn",
-        "Nghiên cứu cho thấy dòng dõi này có ảnh hưởng lớn đến bộ gen của con người",
-        "Kết quả nghiên cứu này đã mở ra một tầm nhìn mới về lịch sử tiến hóa của loài người"
-      ],
-      "full_summary": "Nghiên cứu mới đã phát hiện ra một dòng dõi bí ẩn ở châu Phi đã đóng góp vào bộ gen của con người. Dòng dõi này không có hậu duệ hiện đại nhưng đã để lại dấu ấn lớn trong DNA của chúng ta. Nghiên cứu cho thấy dòng dõi này có ảnh hưởng lớn đến bộ gen của con người và đã mở ra một tầm nhìn mới về lịch sử tiến hóa của loài người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65bd3889120b",
-      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-02T13:05:03.361005+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Bác sĩ phát hiện cổ tay đàn ông bị mất khớp",
-      "bullets": [
-        "Phát hiện trường hợp Milwaukee Shoulder Syndrome",
-        "Bệnh được mô tả lần đầu vào năm 1981",
-        "Cơ quan y tế xác định cổ tay bị mất khớp",
-        "Bác sĩ phải tìm cách điều trị cho bệnh nhân"
-      ],
-      "full_summary": "Bệnh Milwaukee Shoulder Syndrome được mô tả lần đầu vào năm 1981, dựa trên các trường hợp của bốn phụ nữ. Cổ tay của bệnh nhân bị mất khớp, gây đau nhức. Bác sĩ phải tìm cách điều trị cho bệnh nhân một cách nhanh chóng và hiệu quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb693fbe7319",
-      "title": "Twenty Years of RISC OS Open",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-02T13:05:04.305107+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "RISC OS Open kỷ niệm 20 năm hoạt động",
-      "bullets": [
-        "Khởi động dự án mã nguồn mở RISC OS",
-        "Phát triển hệ điều hành cho các thiết bị RISC",
-        "Tăng cường cộng đồng lập trình viên và người dùng",
-        "Đạt được thành công trong việc bảo trì và phát triển mã nguồn mở"
-      ],
-      "full_summary": "RISC OS Open vừa kỷ niệm 20 năm hoạt động. Dự án này được thành lập vào năm 2006 với mục tiêu phát triển và bảo trì mã nguồn mở của hệ điều hành RISC OS. Trong 20 năm qua, dự án đã đạt được nhiều thành công, bao gồm việc phát triển hệ điều hành cho các thiết bị RISC và tăng cường cộng đồng lập trình viên và người dùng. Dự án RISC OS Open tiếp tục hoạt động và phát triển mã nguồn mở của hệ điều hành RISC OS.",
       "comments": 0,
       "score": 0
     }
