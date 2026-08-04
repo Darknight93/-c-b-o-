@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-04T13:53:19.514049+00:00",
+  "updated_at": "2026-08-04T19:21:58.215894+00:00",
   "articles": [
+    {
+      "id": "f72e4157db96",
+      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T19:21:42.799372+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Máy bay không người lái Nga truy đuổi người bán hàng rong Ukraine",
+      "bullets": [
+        "Nga sử dụng máy bay không người lái để truy đuổi người bán hàng rong Ukraine",
+        "Video cho thấy người dân Ukraine bị máy bay không người lái truy đuổi",
+        "Ukraine coi hành động này là tội ác chiến tranh",
+        "Nga chưa công bố bình luận về hành động này"
+      ],
+      "full_summary": "Một video cho thấy một người bán hàng rong Ukraine bị một máy bay không người lái Nga truy đuổi. Hành động này đã khiến người dân Ukraine cảm thấy sợ hãi. Ukraine đã cáo buộc Nga về tội ác chiến tranh. Nga chưa công bố bình luận về hành động này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3d369f3a3df3",
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T19:21:43.848390+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Giá dầu giảm do hy vọng mở lại eo biển Hormuz",
+      "bullets": [
+        "Giá dầu thế giới giảm mạnh",
+        "Hai quan chức Mỹ cho biết cuộc đàm phán đã tiến triển",
+        "Cho phép hàng hóa được vận chuyển trở lại",
+        "Tình hình eo biển Hormuz đang có dấu hiệu cải thiện"
+      ],
+      "full_summary": "Giá dầu thế giới đã giảm mạnh do hy vọng mở lại eo biển Hormuz. Thứ trưởng Ngoại giao Mỹ Marco Rubio và Thứ trưởng Tài chính Scott Bessent cho biết cuộc đàm phán đã tiến triển, cho phép hàng hóa được vận chuyển trở lại. Điều này đã giúp giảm căng thẳng trên thị trường dầu mỏ. Tuy nhiên, vẫn chưa rõ liệu eo biển Hormuz có thể mở lại ngay lập tức hay không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2fd003a6c146",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T19:21:44.818611+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 70.000 người nhập cư đã được trả về Morocco",
+      "bullets": [
+        "Hơn 70.000 người nhập cư đã được trả về Morocco",
+        "Nhiều người đã được hồi hương sau cuộc di cư bất hợp pháp",
+        "Phản ứng của Tây Ban Nha được EU khen ngợi",
+        "Ceuta đang đối mặt với tình trạng khẩn cấp về di cư"
+      ],
+      "full_summary": "Tây Ban Nha cho biết đã trả về hơn 70.000 người nhập cư bất hợp pháp đến Ceuta trong tuần trước. Điều này diễn ra sau cuộc di cư lớn nhất trong lịch sử của Ceuta. EU đã khen ngợi phản ứng nhanh chóng của Tây Ban Nha. Tuy nhiên, vẫn còn hơn 2.000 người đang chờ được hồi hương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "913f9abb522f",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T19:21:45.918135+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Honderát hai mươi hai người Palestine bị giết trong vụ tấn công của Israel năm 2023",
+      "bullets": [
+        "Honderát hai mươi hai người Palestine đã bị giết trong vụ tấn công của Israel",
+        "Các thi thể đã được tìm thấy dưới đống đổ nát ở thành phố Gaza",
+        "Hai gia đình lớn đã mất người trong vụ tấn công",
+        "Một đám tang lớn đã được tổ chức để chôn cất các nạn nhân"
+      ],
+      "full_summary": "Một đám tang lớn đã được tổ chức ở Gaza để chôn cất 112 người Palestine đã bị giết trong vụ tấn công của Israel năm 2023. Các thi thể đã được tìm thấy dưới đống đổ nát ở thành phố Gaza sau nhiều tháng tìm kiếm. Hai gia đình lớn đã mất người trong vụ tấn công. Một đám tang lớn đã được tổ chức để chôn cất các nạn nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0ad684022a7c",
+      "title": "Apple issues new challenge against UK order for access to private user data",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T19:21:46.937169+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Apple kháng cáo yêu cầu của UK truy cập dữ liệu cá nhân",
+      "bullets": [
+        "Apple kháng cáo yêu cầu của Home Office truy cập dữ liệu cá nhân người dùng",
+        "Vụ tranh chấp liên quan đến vấn đề bảo mật dữ liệu",
+        "Apple đã nhiều lần từ chối cung cấp dữ liệu cá nhân cho cơ quan chức năng",
+        "Vụ việc đang tiếp tục được tranh luận"
+      ],
+      "full_summary": "Apple đã kháng cáo yêu cầu của Home Office truy cập dữ liệu cá nhân người dùng. Vụ tranh chấp này liên quan đến vấn đề bảo mật dữ liệu và đã được tranh luận trong thời gian dài. Apple đã nhiều lần từ chối cung cấp dữ liệu cá nhân cho cơ quan chức năng, nhưng Home Office vẫn tiếp tục yêu cầu. Vụ việc đang tiếp tục được tranh luận và chưa có kết quả cuối cùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9ff5cbd87f72",
+      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+      "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T19:21:48.065907+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Lãnh đạo Ceuta cáo buộc Morocco kích động làn sóng di cư",
+      "bullets": [
+        "Cao ủy Juan Jesús Vivas cáo buộc Morocco kích động làn sóng di cư vào Ceuta",
+        "Khoảng 69.500 người đã trở về Morocco trong những ngày gần đây",
+        "Hơn 2.500 người vẫn còn ở Ceuta sau khi vượt biên",
+        "Tây Ban Nha yêu cầu sự ủng hộ của Liên minh Châu Âu"
+      ],
+      "full_summary": "Lãnh đạo Ceuta cáo buộc Morocco kích động làn sóng di cư vào lãnh thổ Tây Ban Nha. Theo ông Juan Jesús Vivas, làn sóng di cư được cho là được Morocco kích động hoặc cho phép. Tây Ban Nha đã yêu cầu sự ủng hộ của Liên minh Châu Âu trong việc giải quyết cuộc khủng hoảng di cư. Khoảng 69.500 người đã trở về Morocco trong những ngày gần đây, nhưng hơn 2.500 người vẫn còn ở Ceuta.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4f8932b02722",
+      "title": "China is Tesla's cash cow, but for how much longer?",
+      "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-04T19:21:51.019706+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tesla có thể mất nguồn thu lớn từ Trung Quốc",
+      "bullets": [
+        "Trung Quốc là nguồn thu lớn nhất của Tesla",
+        "Nhà máy Tesla ở Thượng Hải hoạt động sôi động",
+        "Nhà máy này có thể bị cắt giảm hoặc đóng cửa",
+        "Sự thay đổi có thể ảnh hưởng đến lợi nhuận của Tesla"
+      ],
+      "full_summary": "Theo báo cáo, nhà máy Tesla ở Thượng Hải đang hoạt động sôi động và đóng góp lớn vào lợi nhuận của công ty. Tuy nhiên, có thể rằng nhà máy này sẽ bị cắt giảm hoặc đóng cửa trong tương lai. Sự thay đổi này có thể ảnh hưởng đến lợi nhuận của Tesla và khiến công ty phải tìm kiếm nguồn thu mới. Việc này cũng đặt ra câu hỏi về tương lai của Tesla ở Trung Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "49f117ae671b",
+      "title": "Web security is too hard",
+      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-04T19:21:56.416111+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "An ninh mạng quá khó khăn",
+      "bullets": [
+        "Nhiều người cho rằng an ninh mạng quá khó khăn để bảo vệ.",
+        "Bất kỳ lỗi nhỏ nào cũng có thể gây ra sự cố nghiêm trọng.",
+        "Cần có sự hợp tác giữa các công ty và chính phủ để cải thiện an ninh mạng."
+      ],
+      "full_summary": "Một bài viết trên Hacker News cho rằng an ninh mạng quá khó khăn để bảo vệ. Nhiều người cho rằng bất kỳ lỗi nhỏ nào cũng có thể gây ra sự cố nghiêm trọng. Để cải thiện an ninh mạng, cần có sự hợp tác giữa các công ty và chính phủ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f9c98988fb84",
       "title": "More than 150 migrants rescued after boat catches fire in Channel",
@@ -636,165 +795,6 @@
         "Hợp tác với các tổ chức để phát triển công nghệ chống lại AI giả mạo"
       ],
       "full_summary": "Snapchat, YouTube, LinkedIn và Substack đang hợp tác để chống lại sự lan rộng của nội dung AI giả mạo. Các nền tảng này đang cải thiện thuật toán để phát hiện nội dung AI giả mạo và cấm sử dụng hình ảnh và video AI giả mạo. Họ cũng tăng cường cảnh báo cho người dùng về nội dung AI giả mạo và hợp tác với các tổ chức để phát triển công nghệ chống lại AI giả mạo.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "53a360b574c8",
-      "title": "AI firms must answer for rogue bots, says boss of hacked company",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T19:22:07.315999+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Công ty AI phải chịu trách nhiệm về các bot độc hại",
-      "bullets": [
-        "Clement Delangue cảnh báo các cuộc tấn công mạng không nên trở thành bình thường",
-        "Công ty bị tấn công phải chịu trách nhiệm về các bot độc hại",
-        "Các công ty AI phải đảm bảo an toàn cho dữ liệu của khách hàng",
-        "Các quy định mới có thể được áp dụng để kiểm soát các bot độc hại"
-      ],
-      "full_summary": "Clement Delangue, người đứng đầu công ty bị tấn công mạng, cảnh báo các cuộc tấn công mạng không nên trở thành bình thường. Ông cho biết công ty của mình đã bị tấn công bởi các bot độc hại và phải chịu trách nhiệm về vấn đề này. Các công ty AI phải đảm bảo an toàn cho dữ liệu của khách hàng và các quy định mới có thể được áp dụng để kiểm soát các bot độc hại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d7487cf5240c",
-      "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
-      "url": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T19:22:08.249798+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Xbox gặp lỗi nghiêm trọng ảnh hưởng đến trải nghiệm chơi game",
-      "bullets": [
-        "Xbox gặp lỗi nghiêm trọng khiến người dùng gặp khó khăn khi đăng nhập",
-        "Người dùng gặp vấn đề khi xem thư viện game và khởi chạy trò chơi",
-        "Lỗi nghiêm trọng ảnh hưởng đến trải nghiệm chơi game của người dùng Xbox"
-      ],
-      "full_summary": "Một lỗi nghiêm trọng đã xảy ra trên nền tảng Xbox, khiến người dùng gặp khó khăn khi đăng nhập, xem thư viện game và khởi chạy trò chơi. Lỗi này đã ảnh hưởng đến trải nghiệm chơi game của người dùng Xbox. Theo người đứng đầu bộ phận công nghệ của Xbox, lỗi này không nên ảnh hưởng đến trò chơi đĩa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5544233979e1",
-      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T19:22:09.387911+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ủy ban Châu Âu đề nghị tăng cường biên giới sau vụ khủng hoảng Ceuta",
-      "bullets": [
-        "Đề nghị xây dựng hàng rào vật lý ở các điểm quan trọng",
-        "Tăng cường giám sát và sử dụng công nghệ để kiểm soát biên giới",
-        "Tăng cường việc trả lại người nhập cư không hợp lệ",
-        "Đề nghị các quốc gia thành viên hợp tác để tăng cường kiểm soát biên giới"
-      ],
-      "full_summary": "Ủy ban Châu Âu đã đề nghị tăng cường biên giới sau vụ khủng hoảng ở Ceuta, nơi hàng ngàn người đã đến và rời đi nhanh chóng. Chủ tịch Ủy ban Châu Âu Ursula von der Leyen đã gửi thư cho Thủ tướng Tây Ban Nha Pedro Sánchez, đề nghị tăng cường giám sát và sử dụng hàng rào vật lý ở các điểm quan trọng. Bà von der Leyen cũng đề nghị tăng cường việc trả lại người nhập cư không hợp lệ và hợp tác giữa các quốc gia thành viên để tăng cường kiểm soát biên giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f40b911f4f73",
-      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
-      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-03T19:22:12.793973+00:00",
-      "category": "kinh tế|khoa học",
-      "importance": 4,
-      "headline": "SpaceX chuẩn bị mua 130.000 ha đất ngập nước ở Louisiana",
-      "bullets": [
-        "Chuẩn bị xây dựng một trạm phóng ở Louisiana",
-        "Cung cấp nhiều lợi thế cho các chương trình phóng tên lửa",
-        "Sẽ tạo ra nhiều việc làm và đầu tư cho địa phương",
-        "Tăng cường khả năng phóng tên lửa của SpaceX"
-      ],
-      "full_summary": "SpaceX sắp mua 130.000 ha đất ngập nước ở Louisiana để xây dựng một trạm phóng tên lửa. Địa điểm này sẽ cung cấp nhiều lợi thế cho các chương trình phóng tên lửa của SpaceX, bao gồm khả năng phóng tên lửa cao hơn và giảm thiểu chi phí. Việc này cũng sẽ tạo ra nhiều việc làm và đầu tư cho địa phương, giúp thúc đẩy kinh tế địa phương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bd23b920ee6f",
-      "title": "Use Task Runners for Common Coding Tasks",
-      "url": "https://hamvocke.com/blog/task-runners/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-03T19:22:17.660758+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Sử dụng các công cụ chạy tác vụ để thực hiện các nhiệm vụ lập trình phổ biến",
-      "bullets": [
-        "Giới thiệu về các công cụ chạy tác vụ",
-        "Lợi ích của việc sử dụng các công cụ chạy tác vụ",
-        "Các ví dụ về cách sử dụng các công cụ chạy tác vụ",
-        "Tìm hiểu thêm về các công cụ chạy tác vụ"
-      ],
-      "full_summary": "Bài viết này giới thiệu về các công cụ chạy tác vụ, giúp người lập trình thực hiện các nhiệm vụ phổ biến một cách hiệu quả. Các công cụ chạy tác vụ giúp giảm thiểu thời gian và tăng cường năng suất. Bài viết cung cấp các ví dụ cụ thể về cách sử dụng các công cụ chạy tác vụ và khuyến khích người đọc tìm hiểu thêm về các công cụ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de2a5c182f9a",
-      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T14:22:16.381000+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Vua Maroc xác nhận đường cao tốc lớn được đặt tên theo Trump",
-      "bullets": [
-        "Đường cao tốc đi qua Tây Sahara, một khu vực tranh chấp",
-        "Morocco tuyên bố chủ quyền đối với Tây Sahara",
-        "Nhiều quốc gia không công nhận chủ quyền của Morocco",
-        "Tây Sahara là một vấn đề gây tranh cãi trong nhiều thập kỷ"
-      ],
-      "full_summary": "Vua Maroc đã xác nhận rằng một đường cao tốc lớn sẽ được đặt tên theo cựu Tổng thống Mỹ Donald Trump. Đường cao tốc này đi qua Tây Sahara, một khu vực tranh chấp giữa Morocco và các quốc gia khác. Morocco tuyên bố chủ quyền đối với Tây Sahara, nhưng nhiều quốc gia không công nhận chủ quyền này. Vấn đề này đã gây tranh cãi trong nhiều thập kỷ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "17cefb4268eb",
-      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T14:22:18.464310+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Giá Xbox Series X tăng vọt 43% ở Anh vì chi phí chip nhớ tăng cao",
-      "bullets": [
-        "Tăng giá £170",
-        "Chi phí chip nhớ tăng cao",
-        "Xbox Series X tăng giá 43%",
-        "Thị trường console bị ảnh hưởng bởi giá chip"
-      ],
-      "full_summary": "Xbox Series X đã tăng giá đáng kể ở Anh, với một phiên bản tăng giá 43% do chi phí chip nhớ tăng cao. Giá tăng £170 đã khiến người tiêu dùng phải cân nhắc lại việc mua sắm. Chi phí chip nhớ tăng cao đã ảnh hưởng đến thị trường console, khiến các nhà sản xuất phải điều chỉnh giá bán.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "709ad09e92ed",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T14:22:19.434170+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Trump xem xét kiểm soát AI sau các vụ hack vào OpenAI",
-      "bullets": [
-        "Trump đang xem xét kiểm soát AI sau các vụ hack vào OpenAI",
-        "Các vụ hack vào OpenAI đã gây ra lo ngại về an ninh AI",
-        "Chính quyền của Trump trước đây đã có một cách tiếp cận lỏng lẻo hơn đối với công nghệ AI",
-        "Trump đang xem xét các biện pháp kiểm soát để ngăn chặn các vụ hack tương tự"
-      ],
-      "full_summary": "Chính quyền của Tổng thống Mỹ Donald Trump đang xem xét việc kiểm soát công nghệ trí tuệ nhân tạo (AI) sau các vụ hack vào OpenAI. Các vụ hack vào OpenAI đã gây ra lo ngại về an ninh AI và đã làm thay đổi cách tiếp cận của chính quyền Trump đối với công nghệ này. Trước đây, chính quyền của Trump đã có một cách tiếp cận lỏng lẻo hơn đối với công nghệ AI, nhưng sau các vụ hack, họ đang xem xét các biện pháp kiểm soát để ngăn chặn các vụ hack tương tự.",
       "comments": 0,
       "score": 0
     }
