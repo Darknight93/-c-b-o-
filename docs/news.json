@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-04T08:25:50.376810+00:00",
+  "updated_at": "2026-08-04T13:53:19.514049+00:00",
   "articles": [
+    {
+      "id": "f9c98988fb84",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T13:53:05.050600+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hơn 150 người tị nạn được cứu sau khi tàu bị cháy",
+      "bullets": [
+        "Cứu hộ cứu hơn 150 người tị nạn sau khi tàu bị cháy trên eo biển Anh",
+        "Tàu đang cố gắng vượt qua eo biển Anh khi động cơ bị cháy",
+        "Các cơ quan chức năng Pháp đang điều tra nguyên nhân vụ việc"
+      ],
+      "full_summary": "Một tàu chở người tị nạn đang cố gắng vượt qua eo biển Anh đã bị cháy, khiến hơn 150 người được cứu. Theo các cơ quan chức năng Pháp, động cơ của tàu đã bị cháy. Các cơ quan chức năng đang điều tra nguyên nhân vụ việc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "be08eb1ee80a",
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T13:53:06.012095+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một tên lửa SpaceX sắp va chạm với Mặt Trăng",
+      "bullets": [
+        "Đoán tính chất va chạm có thể mang lại lợi ích cho khoa học",
+        "Mặt Trăng đã chịu nhiều va chạm trong hàng triệu năm qua",
+        "Các nhà thiên văn học đang theo dõi vụ va chạm này",
+        "Có thể vụ va chạm này sẽ mang lại thông tin mới về Mặt Trăng"
+      ],
+      "full_summary": "Một tên lửa SpaceX sắp va chạm với Mặt Trăng, nhưng các nhà thiên văn học tin rằng vụ va chạm này có thể mang lại lợi ích cho khoa học. Mặt Trăng đã chịu nhiều va chạm trong hàng triệu năm qua, và vụ va chạm này có thể mang lại thông tin mới về cấu trúc và thành phần của Mặt Trăng. Các nhà thiên văn học đang theo dõi vụ va chạm này để thu thập dữ liệu và hiểu rõ hơn về Mặt Trăng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "45fc7b5aa0a1",
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T13:53:07.074325+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Công ty của Trump bán quyền truy cập nhanh vào bài đăng ảnh hưởng trên mạng xã hội",
+      "bullets": [
+        "Bán quyền truy cập nhanh vào bài đăng ảnh hưởng trên mạng xã hội Truth Social",
+        "Dịch vụ được cung cấp cho các công ty chứng khoán trên Wall Street",
+        "Giá cả của dịch vụ không được công bố công khai",
+        "Dịch vụ gây tranh cãi về tính minh bạch"
+      ],
+      "full_summary": "Công ty Trump Media & Technology Group (TMTG) đã thiết lập một dịch vụ trả phí để cung cấp quyền truy cập nhanh vào các tài khoản ảnh hưởng nhất trên mạng xã hội Truth Social. Dịch vụ này được cung cấp cho các công ty chứng khoán trên Wall Street. Giá cả của dịch vụ không được công bố công khai, gây tranh cãi về tính minh bạch. Điều này đã gây ra lo ngại về sự không công bằng trong thị trường chứng khoán.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d0e372393869",
+      "title": "Guatemala volcano eruption sends lava spewing into the air",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T13:53:08.040222+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Núi lửa Fuego phun trào mạnh ở Guatemala",
+      "bullets": [
+        "Phun trào núi lửa Fuego gây thiệt hại lớn ở Guatemala",
+        "Lava núi lửa phun cao vào không khí",
+        "Núi lửa Fuego là một trong những núi lửa hoạt động nhất ở Trung Mỹ",
+        "Núi lửa gây ra nhiều vụ phun trào trong những năm gần đây"
+      ],
+      "full_summary": "Núi lửa Fuego ở Guatemala đã phun trào mạnh, gây thiệt hại lớn. Lava núi lửa phun cao vào không khí, đe dọa đến an toàn của người dân. Núi lửa Fuego là một trong những núi lửa hoạt động nhất ở Trung Mỹ và rất phổ biến với các nhà leo núi. Trong những năm gần đây, núi lửa đã gây ra nhiều vụ phun trào.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1e3c7b54b78f",
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T13:53:09.081847+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một binh sĩ bắn chết 4 người tại bán đảo Crimea",
+      "bullets": [
+        "Bắn vào binh sĩ và dân thường",
+        "Được bắt giữ sau khi gây án",
+        "Sự việc xảy ra tại bán đảo Crimea",
+        "Giám đốc quân sự được Moscow chỉ định lên tiếng"
+      ],
+      "full_summary": "Một binh sĩ đã bắn chết 4 người tại bán đảo Crimea, sau đó được bắt giữ. Sự việc xảy ra tại bán đảo Crimea, nơi mà Moscow đã thiết lập một chính quyền. Giám đốc quân sự được Moscow chỉ định đã lên tiếng về vụ việc. Các chi tiết về vụ việc đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "26047886d5af",
+      "title": "World's oldest president reshuffles army as his absence stokes unease",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T13:53:09.949491+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Cameroon vắng mặt 2 tháng, gây lo lắng",
+      "bullets": [
+        "Chủ tịch Cameroon vắng mặt 2 tháng",
+        "Đội ngũ của ông phủ nhận tin đồn về sức khỏe",
+        "Ông đã thay đổi bộ chỉ huy quân đội",
+        "Tình hình gây lo lắng cho người dân Cameroon"
+      ],
+      "full_summary": "Chủ tịch Cameroon đã vắng mặt 2 tháng, gây lo lắng cho người dân nước này. Đội ngũ của ông phủ nhận tin đồn về sức khỏe, nhưng tình hình vẫn chưa rõ ràng. Trong thời gian vắng mặt, ông đã thay đổi bộ chỉ huy quân đội, gây lo lắng cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "59d7b9986ffe",
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-04T13:53:14.068643+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Lego tạo mô hình Hubble Space Telescope nhỏ gọn",
+      "bullets": [
+        "Tạo ra mô hình Hubble Space Telescope bằng Lego chi tiết và nhỏ gọn",
+        "Mô hình có kích thước minifigure, dễ dàng đặt trên bàn làm việc",
+        "Lego mô phỏng chi tiết của kính thiên văn không gian Hubble",
+        "Mô hình này là một sản phẩm độc đáo và thú vị"
+      ],
+      "full_summary": "Lego đã tạo ra một mô hình Hubble Space Telescope nhỏ gọn và chi tiết bằng cách sử dụng các khối Lego. Mô hình này có kích thước minifigure và có thể đặt trên bàn làm việc. Mô hình này mô phỏng chi tiết của kính thiên văn không gian Hubble, bao gồm cả các chi tiết về thiết kế và cấu trúc. Đây là một sản phẩm độc đáo và thú vị dành cho những người yêu thích Lego và khoa học.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d598bd63a79f",
+      "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+      "url": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-04T13:53:15.488844+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Xe Volkswagen Jetta Sport giá phải chăng vẫn còn tồn tại",
+      "bullets": [
+        "Cung cấp giá bán thấp nhất trong phân khúc",
+        "Động cơ mạnh mẽ và tiết kiệm nhiên liệu",
+        "Đồ nội thất cơ bản nhưng đủ tiện nghi",
+        "Giá bán cạnh tranh so với các mẫu xe khác"
+      ],
+      "full_summary": "Volkswagen Jetta Sport 2026 là một lựa chọn giá phải chăng trong phân khúc xe sedan. Mặc dù giá bán chỉ 25.305 USD, nhưng xe vẫn cung cấp động cơ mạnh mẽ và tiết kiệm nhiên liệu. Tuy nhiên, đồ nội thất cơ bản nhưng đủ tiện nghi. Giá bán cạnh tranh so với các mẫu xe khác trong phân khúc.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7c972d4b1e4c",
       "title": "Analysis: Trump challenged by cold reality from top allies",
@@ -636,166 +795,6 @@
         "Trump đang xem xét các biện pháp kiểm soát để ngăn chặn các vụ hack tương tự"
       ],
       "full_summary": "Chính quyền của Tổng thống Mỹ Donald Trump đang xem xét việc kiểm soát công nghệ trí tuệ nhân tạo (AI) sau các vụ hack vào OpenAI. Các vụ hack vào OpenAI đã gây ra lo ngại về an ninh AI và đã làm thay đổi cách tiếp cận của chính quyền Trump đối với công nghệ này. Trước đây, chính quyền của Trump đã có một cách tiếp cận lỏng lẻo hơn đối với công nghệ AI, nhưng sau các vụ hack, họ đang xem xét các biện pháp kiểm soát để ngăn chặn các vụ hack tương tự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9ff5cbd87f72",
-      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
-      "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T14:22:20.493933+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chủ tịch Ceuta cáo buộc Morocco kích động di cư qua biên giới",
-      "bullets": [
-        "Hàng nghìn người di cư qua biên giới Ceuta-Morocco",
-        "Chủ tịch Juan Jesús Vivas cáo buộc Morocco kích động",
-        "Hơn 48.000 người được trả lại cho Morocco",
-        "Crisis di cư gây ra cuộc khủng hoảng chính trị tại EU"
-      ],
-      "full_summary": "Chủ tịch Ceuta Juan Jesús Vivas cáo buộc Morocco kích động di cư qua biên giới, nói rằng đây là một cuộc tấn công vào chủ quyền lãnh thổ của Tây Ban Nha. Hơn 48.000 người đã được trả lại cho Morocco sau khi hàng nghìn người di cư qua biên giới. Sự kiện này đã gây ra cuộc khủng hoảng chính trị tại EU và một số quốc gia thành viên đã yêu cầu sự đoàn kết của Liên minh châu Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1a460e3b1cf4",
-      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
-      "url": "https://dmarcguard.io/blog/spf-record-syntax/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-03T14:22:23.662630+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "SPF Record Syntax được mô tả chi tiết",
-      "bullets": [
-        "Giải thích cơ chế, đặc điểm của SPF Record Syntax",
-        "Xác định các loại từ khóa và sửa đổi trong SPF Record Syntax",
-        "Giải thích về các macro trong SPF Record Syntax",
-        "Cung cấp ví dụ về cách sử dụng SPF Record Syntax"
-      ],
-      "full_summary": "SPF Record Syntax là một phần quan trọng của hệ thống bảo mật email. Bài viết này giải thích chi tiết về cơ chế, đặc điểm và cách sử dụng SPF Record Syntax. Các từ khóa và sửa đổi trong SPF Record Syntax được xác định và giải thích rõ ràng. Bài viết cũng cung cấp ví dụ về cách sử dụng SPF Record Syntax trong thực tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9e58e6f50a6d",
-      "title": "Scientists may have found aging’s hidden trigger for brain disease",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-08-03T14:22:28.705327+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Tìm ra chìa khóa tuổi tác làm tăng nguy cơ bệnh não",
-      "bullets": [
-        "Xác định protein EPS8 tích tụ với tuổi tác",
-        "EPS8 kích thích các protein độc hại tạo thành các khối",
-        "Giảm hoạt động của EPS8 ngăn chặn các khối độc hại",
-        "Bảo toàn chức năng thần kinh"
-      ],
-      "full_summary": "Các nhà khoa học đã tìm ra một chìa khóa phân tử có thể giải thích tại sao tuổi tác làm tăng nguy cơ mắc các bệnh não như ALS và Huntington. Protein EPS8 tích tụ với tuổi tác và kích thích tín hiệu để các protein độc hại tạo thành các khối, gây hại cho các tế bào thần kinh và làm giảm tuổi thọ. Giảm hoạt động của EPS8 đã ngăn chặn các khối độc hại và bảo toàn chức năng thần kinh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "170011fc8a0e",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T09:29:53.473478+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump đề xuất đàm phán mới với Iran bắt đầu từ thứ Hai",
-      "bullets": [
-        "Trump đề xuất đàm phán mới với Iran",
-        "Tehran chưa phản hồi đề xuất này",
-        "Trump từng nói rằng kết thúc chiến tranh thông qua đàm phán đang gần",
-        "Các cuộc tấn công lại diễn ra sau đó"
-      ],
-      "full_summary": "Tổng thống Trump đề xuất bắt đầu đàm phán mới với Iran từ thứ Hai. Tuy nhiên, Tehran chưa phản hồi đề xuất này. Trước đó, Trump từng nói rằng kết thúc chiến tranh thông qua đàm phán đang gần, nhưng các cuộc tấn công lại diễn ra sau đó. Đàm phán giữa Iran và Mỹ đã nhiều lần bị gián đoạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3623a2415470",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T09:29:54.540683+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Con trai tôi bị bắn vì đứng lên cho công lý ở Kashmir",
-      "bullets": [
-        "Tình trạng biểu tình bùng phát ở Kashmir do Pakistan",
-        "Lực lượng an ninh và biểu tình viên đối đầu dữ dội",
-        "Báo chí BBC có được quyền truy cập vào Rawalakot",
-        "Nhiều người thiệt mạng trong các cuộc đụng độ"
-      ],
-      "full_summary": "BBC đã có được quyền truy cập độc quyền vào Rawalakot, nơi diễn ra các cuộc đụng độ dữ dội giữa lực lượng an ninh và biểu tình viên ở Kashmir do Pakistan quản lý. Một người cha đã chia sẻ câu chuyện về con trai mình bị bắn trong các cuộc biểu tình. Các cuộc biểu tình đã bùng phát ở Kashmir do Pakistan quản lý sau khi một người đàn ông bị bắn chết trong một vụ biểu tình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "226d472ea005",
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T09:29:55.542448+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Aung San Suu Kyi gặp ICRC sau 2,5 năm",
-      "bullets": [
-        "Suu Kyi gặp một quan chức ICRC",
-        "Hình ảnh mới được quân đội Myanmar công bố",
-        "Suu Kyi được cho là khỏe mạnh",
-        "Đây là lần tiếp xúc ngoài đầu tiên của bà sau 2,5 năm"
-      ],
-      "full_summary": "Aung San Suu Kyi, cựu Tổng thống Myanmar, đã gặp một quan chức của Tổ chức Chữ thập đỏ Quốc tế (ICRC) trong một cuộc gặp đầu tiên được xác nhận ngoài trời sau 2,5 năm. Quân đội Myanmar đã công bố hình ảnh mới của cuộc gặp này. Theo các hình ảnh, Suu Kyi được cho là khỏe mạnh. Điều này là một tin tức quan trọng đối với những người theo dõi tình hình chính trị tại Myanmar.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "43fe86df47a5",
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T09:29:56.544840+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hai công nhân thiệt mạng trong vụ nổ tại trung tâm thương mại Nhật Bản",
-      "bullets": [
-        "Hai nữ công nhân bị gửi trở lại trung tâm thương mại Aeon Mall sau động đất",
-        "Cơ quan chức năng đang điều tra nguyên nhân vụ nổ",
-        "Nhà tuyển dụng xin lỗi vì đã yêu cầu hai công nhân trở lại trung tâm thương mại",
-        "Vụ nổ khiến hai công nhân thiệt mạng"
-      ],
-      "full_summary": "Hai nữ công nhân đã thiệt mạng trong vụ nổ tại trung tâm thương mại Aeon Mall ở Nhật Bản sau khi được gửi trở lại nơi làm việc sau động đất. Cơ quan chức năng đang điều tra nguyên nhân vụ nổ. Nhà tuyển dụng của hai công nhân đã xin lỗi vì đã yêu cầu họ trở lại trung tâm thương mại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "442d6699b4a8",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-03T09:29:57.687735+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Hoa Kỳ và Nhật Bản hợp tác để ổn định đồng yên",
-      "bullets": [
-        "Hợp tác để ổn định đồng yên",
-        "Thề không ngần ngại can thiệp thị trường",
-        "Cố gắng ngăn chặn sự suy yếu của đồng yên",
-        "Đảm bảo ổn định kinh tế khu vực"
-      ],
-      "full_summary": "Hoa Kỳ và Nhật Bản đã hợp tác để ổn định đồng yên trong một động thái hiếm hoi. Hai quốc gia này đã cam kết sẽ không ngần ngại can thiệp thị trường nếu cần thiết. Họ cũng cố gắng ngăn chặn sự suy yếu của đồng yên và đảm bảo ổn định kinh tế khu vực. Đây là một động thái quan trọng nhằm duy trì sự ổn định kinh tế toàn cầu.",
       "comments": 0,
       "score": 0
     }
