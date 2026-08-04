@@ -1,6 +1,206 @@
 {
-  "updated_at": "2026-08-03T19:22:18.160945+00:00",
+  "updated_at": "2026-08-04T01:51:56.540923+00:00",
   "articles": [
+    {
+      "id": "bd3789243c70",
+      "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:41.524578+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hai người chết do dịch tả nổ ruột đầu tiên ở Mỹ",
+      "bullets": [
+        "Báo cáo hai trường hợp tử vong do dịch tả nổ ruột đầu tiên ở Mỹ",
+        "Dịch tả nổ ruột thường không gây tử vong, theo quan chức y tế",
+        "Nguyên nhân gây ra dịch tả nổ ruột là do ký sinh trùng trong thực phẩm hoặc nước bị nhiễm bẩn",
+        "Dịch tả nổ ruột không phải là bệnh truyền nhiễm nghiêm trọng"
+      ],
+      "full_summary": "Mỹ vừa báo cáo hai trường hợp tử vong do dịch tả nổ ruột, một bệnh thường không gây tử vong. Dịch tả nổ ruột do ký sinh trùng gây ra và có thể lây lan qua thực phẩm hoặc nước bị nhiễm bẩn. Quan chức y tế cho biết dịch tả nổ ruột không phải là bệnh truyền nhiễm nghiêm trọng. Tuy nhiên, hai trường hợp tử vong ở Mỹ cho thấy cần phải có biện pháp phòng ngừa và điều trị sớm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7ad9ccfc32a5",
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:42.520696+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch EU kêu gọi tăng cường kiểm soát biên giới sau sự kiện nhập cư ở Ceuta",
+      "bullets": [
+        "Von der Leyen kêu gọi các quốc gia thành viên EU tăng cường kiểm soát biên giới",
+        "Các bộ trưởng nội vụ EU sẽ họp khẩn để thảo luận về vấn đề nhập cư",
+        "Sự kiện nhập cư ở Ceuta gây ra lo ngại về an ninh và quản lý biên giới",
+        "EU cần phải có hành động để ngăn chặn các vụ nhập cư bất hợp pháp"
+      ],
+      "full_summary": "Chủ tịch Ủy ban châu Âu Ursula von der Leyen đã kêu gọi các quốc gia thành viên EU tăng cường kiểm soát biên giới sau sự kiện nhập cư ở Ceuta. Các bộ trưởng nội vụ EU sẽ họp khẩn để thảo luận về vấn đề nhập cư. Sự kiện nhập cư ở Ceuta gây ra lo ngại về an ninh và quản lý biên giới. EU cần phải có hành động để ngăn chặn các vụ nhập cư bất hợp pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "29524d648e49",
+      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:43.452924+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Infantino đối mặt đe dọa từ các đối thủ",
+      "bullets": [
+        "Threaten 'non co-operation' với Fifa",
+        "Yêu cầu Infantino từ chức",
+        "Đe dọa không hợp tác với Fifa",
+        "Mong muốn thay đổi lãnh đạo Fifa"
+      ],
+      "full_summary": "Các đối thủ của Infantino đang đe dọa 'không hợp tác' với Fifa nếu ông không từ chức. Theo nguồn tin Uefa, họ sẽ không hợp tác với Fifa nếu Infantino tiếp tục lãnh đạo tổ chức này. Điều này có thể gây ra nhiều vấn đề cho Fifa và các giải đấu bóng đá quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27e6f27455da",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:44.426249+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nghiên cứu AI gặp khó khăn khi tính toán chi phí",
+      "bullets": [
+        "Các nhà cung cấp dịch vụ AI gặp khó khăn khi tính toán chi phí",
+        "Người mua dịch vụ AI gặp khó khăn khi kiểm soát chi phí",
+        "Các nhà cung cấp AI không biết cách định giá dịch vụ",
+        "Nghiên cứu AI gặp khó khăn khi áp dụng mô hình kinh tế"
+      ],
+      "full_summary": "Các nhà cung cấp dịch vụ AI đang gặp khó khăn khi tính toán chi phí và định giá dịch vụ. Người mua dịch vụ AI cũng gặp khó khăn khi kiểm soát chi phí. Điều này là do các mô hình kinh tế truyền thống không thể áp dụng được vào các mô hình AI. Các nhà nghiên cứu đang tìm kiếm các giải pháp mới để giải quyết vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f5f28dcdb524",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:45.420567+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Amazon và Apple tiết lộ kế hoạch AI mới",
+      "bullets": [
+        "Đưa ra các dự án AI mới với đầu tư hàng tỷ USD",
+        "Tìm kiếm lợi nhuận từ công nghệ trí tuệ nhân tạo",
+        "Xây dựng các sản phẩm và dịch vụ AI mới",
+        "Đánh giá hiệu quả của các dự án AI mới"
+      ],
+      "full_summary": "Amazon và Apple đang đầu tư hàng tỷ USD vào công nghệ trí tuệ nhân tạo mới. Các công ty này đang tìm kiếm lợi nhuận từ các sản phẩm và dịch vụ AI mới. Tuy nhiên, hiệu quả của các dự án này vẫn còn được đánh giá.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6055381d33af",
+      "title": "How police are trying to divert teen hackers away from crime",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:46.298475+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cảnh sát hướng dẫn thanh niên tránh tội phạm mạng",
+      "bullets": [
+        "Hướng dẫn thanh niên tránh tội phạm mạng",
+        "Cảnh sát tạo chương trình để ngăn chặn tội phạm mạng",
+        "Chương trình Cyber Prevent hướng dẫn thanh niên",
+        "Cảnh sát ngăn chặn tội phạm mạng ở tuổi trẻ"
+      ],
+      "full_summary": "Cảnh sát đang tạo chương trình để ngăn chặn tội phạm mạng ở thanh niên. Chương trình Cyber Prevent hướng dẫn thanh niên tránh tội phạm mạng. Cảnh sát tạo chương trình để ngăn chặn tội phạm mạng ở tuổi trẻ. Chương trình này nhằm ngăn chặn tội phạm mạng ở thanh niên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a0aa2de12ffd",
+      "title": "India wants to join the strawberry superpowers",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:47.200231+00:00",
+      "category": "khoa học",
+      "importance": 3,
+      "headline": "Ấn Độ muốn trở thành một trong những cường quốc dâu tây",
+      "bullets": [
+        "Ấn Độ đang cố gắng phát triển giống dâu tây bản địa",
+        "Giống dâu tây nhập khẩu từ Mỹ và châu Âu đang bị phụ thuộc",
+        "Nông dân Ấn Độ hy vọng sẽ giảm chi phí sản xuất",
+        "Tình trạng nhập khẩu dâu tây có thể giảm dần"
+      ],
+      "full_summary": "Ấn Độ đang cố gắng phát triển giống dâu tây bản địa để giảm phụ thuộc vào giống nhập khẩu từ Mỹ và châu Âu. Nông dân Ấn Độ hy vọng sẽ giảm chi phí sản xuất và tăng sản lượng dâu tây. Việc này cũng có thể giúp Ấn Độ trở thành một trong những cường quốc dâu tây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a5a03f084fa4",
+      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-04T01:51:48.281823+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nhiều người chết trong cuộc khủng hoảng di dân ở Ceuta",
+      "bullets": [
+        "Hàng chục người chết khi cố gắng đến Ceuta",
+        "Khoảng 50.000 người đã vượt biên từ Maroc",
+        "Crisis đã gây ra sự bất đồng trong Liên minh châu Âu",
+        "Tổng thống Tây Ban Nha bị chỉ trích vì cách xử lý"
+      ],
+      "full_summary": "Cuộc khủng hoảng di dân ở Ceuta đã gây ra nhiều cái chết và gây ra sự bất đồng trong Liên minh châu Âu. Khoảng 50.000 người đã vượt biên từ Maroc và nhiều người đã chết khi cố gắng đến Ceuta. Tổng thống Tây Ban Nha bị chỉ trích vì cách xử lý và nhiều quốc gia EU đã chỉ trích Tây Ban Nha. Cuộc khủng hoảng này đã làm nổi bật sự bất đồng trong Liên minh châu Âu về vấn đề di dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "232348c1da06",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-04T01:51:51.538178+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Máy bay không người lái Ukraine được trang bị trí tuệ nhân tạo mới",
+      "bullets": [
+        "Cung cấp trí tuệ nhân tạo cho 50.000 máy bay không người lái",
+        "Hợp đồng trị giá 100 triệu USD giữa Mỹ và Ukraine",
+        "Máy bay không người lái có khả năng tự tìm và tấn công mục tiêu",
+        "Sẽ giúp Ukraine chuẩn bị cho các cuộc tấn công bầy đàn trong tương lai"
+      ],
+      "full_summary": "Một công ty Mỹ đã cung cấp trí tuệ nhân tạo cho máy bay không người lái Ukraine, giúp chúng có khả năng tự tìm và tấn công mục tiêu. Hợp đồng trị giá 100 triệu USD giữa Mỹ và Ukraine sẽ cung cấp trí tuệ nhân tạo cho 50.000 máy bay không người lái. Điều này sẽ giúp Ukraine chuẩn bị cho các cuộc tấn công bầy đàn trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ef3b86871b85",
+      "title": "How headlights got brighter, whiter, and more blinding after dark",
+      "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-04T01:51:55.463907+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Đèn pha ô tô ngày càng sáng hơn, trắng hơn nhưng gây chói mắt",
+      "bullets": [
+        "Tăng cường công nghệ LED và LED chip giúp đèn pha sáng hơn",
+        "Sử dụng công nghệ chiếu sáng trắng giúp giảm chói mắt",
+        "Các nhà sản xuất ô tô áp dụng tiêu chuẩn chiếu sáng mới để giảm chói mắt",
+        "Mặc dù cải tiến nhưng vẫn còn tranh cãi về vấn đề chói mắt"
+      ],
+      "full_summary": "Đèn pha ô tô đã trở nên sáng hơn và trắng hơn nhờ công nghệ LED và LED chip. Tuy nhiên, điều này cũng dẫn đến vấn đề chói mắt. Các nhà sản xuất ô tô đang áp dụng tiêu chuẩn chiếu sáng mới để giảm chói mắt, nhưng vẫn còn tranh cãi về vấn đề này. Mặc dù vậy, đèn pha ô tô vẫn đang được cải tiến để trở nên sáng hơn và an toàn hơn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "356f5c4c173a",
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
@@ -595,204 +795,6 @@
         "Công cụ Mu hỗ trợ các đại lý trong việc quản lý và phân tích dữ liệu"
       ],
       "full_summary": "Công cụ Mu là một công cụ mới được tạo bởi Micro và đã được công bố trên Hacker News. Công cụ này được thiết kế để hỗ trợ các đại lý trong việc quản lý và phân tích dữ liệu. Công cụ Mu có sẵn trên GitHub và đã thu hút sự quan tâm của cộng đồng lập trình viên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "599c14bf1403",
-      "title": "Eating less protein could slow aging, major review finds",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
-      "source": "Science Daily",
-      "icon": "🔭",
-      "fetched_at": "2026-08-03T02:05:57.083968+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Ăn ít protein có thể chậm lại quá trình lão hóa",
-      "bullets": [
-        "Giảm protein giúp cải thiện chuyển hóa",
-        "Giảm viêm và tổn thương tế bào",
-        "Hoạt hóa các con đường liên quan đến lão hóa khỏe mạnh và tuổi thọ dài hơn"
-      ],
-      "full_summary": "Một đánh giá toàn diện hơn 350 nghiên cứu cho thấy bùng nổ protein có thể đang quảng cáo quá mức nhu cầu thực tế của con người. Ăn ít protein có vẻ cải thiện chuyển hóa, giảm viêm và tổn thương tế bào, đồng thời kích hoạt các con đường liên quan đến lão hóa khỏe mạnh và tuổi thọ dài hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9fe088b5644c",
-      "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T18:59:17.247226+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai máy bay cứu hỏa đâm va ở Hy Lạp, 2 người thiệt mạng",
-      "bullets": [
-        "Đâm va giữa hai máy bay cứu hỏa ở Hy Lạp",
-        "Một người đàn ông Đan Mạch và một người Hy Lạp thiệt mạng",
-        "Một phi công Anh và một người Hy Lạp khác sống sót",
-        "Cơ quan chức năng đang điều tra nguyên nhân tai nạn"
-      ],
-      "full_summary": "Một vụ đâm va giữa hai máy bay cứu hỏa ở Hy Lạp đã khiến hai người thiệt mạng, trong khi một phi công Anh và một người Hy Lạp khác sống sót. Vụ việc xảy ra vào ngày 31 tháng 7. Cơ quan chức năng đang điều tra nguyên nhân tai nạn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aaf9e0450a17",
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T18:59:18.369201+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Israel tấn công Gaza sau khi Hamas đồng ý thoái vũ khí",
-      "bullets": [
-        "Israel tiến hành các cuộc tấn công vào Gaza City, Khan Younis và Deir el-Balah",
-        "Ít nhất 13 người thiệt mạng trong các cuộc tấn công",
-        "Hamas đồng ý thoái vũ khí theo một thỏa thuận",
-        "Israel cho biết đang nhắm vào các nhân viên quân sự"
-      ],
-      "full_summary": "Israel đã tiến hành các cuộc tấn công vào Gaza sau khi Hamas đồng ý thoái vũ khí. Các cuộc tấn công đã khiến ít nhất 13 người thiệt mạng. Israel cho biết đang nhắm vào các nhân viên quân sự, trong khi Hamas đã đồng ý thoái vũ khí theo một thỏa thuận. Các cuộc tấn công đã diễn ra tại Gaza City, Khan Younis và Deir el-Balah.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4318b8aaab8a",
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T18:59:19.420373+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nga tấn công cơ sở dầu mỏ và sân bay Ukraine",
-      "bullets": [
-        "Nga tấn công các cảng và tàu thuyền Ukraine ở Biển Đen",
-        "Mỹ và các đồng minh tiếp tục hỗ trợ Ukraine",
-        "Moscow báo cáo 8 người chết trong các vụ tấn công",
-        "Ukraine nói một nhà máy dầu mỏ và sân bay lớn bị tấn công"
-      ],
-      "full_summary": "Nga cho biết đã tấn công các cảng và tàu thuyền Ukraine ở Biển Đen. Trong khi đó, Moscow báo cáo 8 người chết trong các vụ tấn công. Ukraine nói một nhà máy dầu mỏ và sân bay lớn bị tấn công. Các vụ tấn công diễn ra trong bối cảnh xung đột giữa Ukraine và Nga tiếp tục leo thang.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9815a3b5505c",
-      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T18:59:20.568995+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Uganda dựng tượng đài anh trai Thủ tướng Israel đã hy sinh trong cuộc giải cứu Entebbe",
-      "bullets": [
-        "Uganda vừa dựng tượng đài Yonatan Netanyahu, anh trai Thủ tướng Israel Benjamin Netanyahu.",
-        "Yonatan Netanyahu là người lính Israel duy nhất hy sinh trong cuộc giải cứu Entebbe.",
-        "Cuộc giải cứu Entebbe diễn ra vào năm 1976 nhằm giải cứu hơn 100 tù nhân.",
-        "Yonatan Netanyahu đã lãnh đạo nhiệm vụ giải cứu nhưng đã thiệt mạng."
-      ],
-      "full_summary": "Uganda vừa dựng tượng đài Yonatan Netanyahu, anh trai Thủ tướng Israel Benjamin Netanyahu, người đã hy sinh trong cuộc giải cứu Entebbe vào năm 1976. Cuộc giải cứu này nhằm giải cứu hơn 100 tù nhân và Yonatan Netanyahu đã lãnh đạo nhiệm vụ nhưng đã thiệt mạng. Sự kiện này đã ghi dấu trong lịch sử Israel và được coi là một trong những hành động dũng cảm nhất trong lịch sử quân đội Israel.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "517751473a0d",
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T18:59:21.733555+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hàng chục ngàn người Morocco bị mắc kẹt tại Ceuta",
-      "bullets": [
-        "Bị mắc kẹt tại Ceuta sau khi nhập cảnh bất hợp pháp",
-        "Hàng ngàn người Morocco đang chờ đợi giải quyết tình trạng của mình",
-        "Nhiều người hy vọng được tái định cư tại Tây Ban Nha",
-        "Tình hình đang trở nên phức tạp và khó kiểm soát"
-      ],
-      "full_summary": "Hàng chục ngàn người Morocco đã nhập cảnh bất hợp pháp vào Ceuta, một khu vực lãnh thổ của Tây Ban Nha ở Bắc Phi. Họ đang chờ đợi giải quyết tình trạng của mình, nhưng tình hình đang trở nên phức tạp và khó kiểm soát. Nhiều người hy vọng được tái định cư tại Tây Ban Nha, nhưng không rõ tương lai của họ sẽ như thế nào.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f12329ef902",
-      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T18:59:22.832500+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ủy ban EU họp khẩn về tình trạng di cư vào Ceuta",
-      "bullets": [
-        "Sẽ tổ chức họp khẩn về vấn đề di cư vào Ceuta",
-        "Hơn 50.000 người di cư vào lãnh thổ Ceuta",
-        "Các quốc gia EU vẫn còn bất đồng về vấn đề này",
-        "Ủy ban EU sẽ họp vào thứ Hai"
-      ],
-      "full_summary": "Ủy ban EU đã quyết định tổ chức họp khẩn về tình trạng di cư vào lãnh thổ Ceuta ở Bắc Phi. Vào thứ Hai, các bộ trưởng nội vụ của EU sẽ họp để thảo luận về vấn đề này. Sự kiện này diễn ra sau khi hơn 50.000 người di cư vào lãnh thổ Ceuta, gây ra sự bất đồng giữa các quốc gia thành viên EU.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1a7e4505fa31",
-      "title": "Defcon's new badge is a security key you can see inside",
-      "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-02T18:59:24.649827+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Defcon mới có thẻ bảo mật có thể nhìn thấy bên trong",
-      "bullets": [
-        "Thẻ bảo mật Defcon mới có thể tháo rời để kiểm tra",
-        "Hacker có thể kiểm tra thẻ mà không ảnh hưởng đến chức năng",
-        "Thẻ bảo mật mới của Defcon có thể sử dụng lại sau khi kiểm tra"
-      ],
-      "full_summary": "Defcon mới đã ra mắt thẻ bảo mật có thể tháo rời, cho phép hacker kiểm tra thẻ mà không ảnh hưởng đến chức năng. Thẻ bảo mật mới này có thể sử dụng lại sau khi kiểm tra, cho phép hacker tiếp tục tham gia các hoạt động tại Defcon. Việc này cho thấy sự thay đổi trong cách tiếp cận bảo mật của Defcon.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9de456eb4238",
-      "title": "The physics of fizz: why some bubbles are louder than others",
-      "url": "https://www.nature.com/articles/d41586-026-02334-6",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-08-02T18:59:31.459084+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Các bong bóng khí tạo ra âm thanh lớn hơn nhờ tốc độ và hình dạng",
-      "bullets": [
-        "Các nhà khoa học sử dụng máy quay tốc độ cao và micro dưới nước để nghiên cứu âm thanh của bong bóng khí",
-        "Tốc độ và hình dạng của bong bóng khí quyết định âm thanh mà chúng tạo ra",
-        "Các bong bóng khí lớn hơn tạo ra âm thanh lớn hơn",
-        "Các nhà khoa học đã phát hiện ra mối liên hệ giữa tốc độ và âm thanh của bong bóng khí"
-      ],
-      "full_summary": "Các nhà khoa học đã sử dụng máy quay tốc độ cao và micro dưới nước để nghiên cứu âm thanh của bong bóng khí. Họ đã phát hiện ra rằng tốc độ và hình dạng của bong bóng khí quyết định âm thanh mà chúng tạo ra. Các bong bóng khí lớn hơn tạo ra âm thanh lớn hơn và các nhà khoa học đã phát hiện ra mối liên hệ giữa tốc độ và âm thanh của bong bóng khí. Kết quả nghiên cứu này sẽ giúp chúng ta hiểu rõ hơn về âm thanh của bong bóng khí.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "037425178eb3",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-02T13:04:54.116125+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trả lại quyết định tấn công Iran, Mỹ chờ đàm phán nhanh chóng",
-      "bullets": [
-        "Trump hủy kế hoạch tấn công Iran",
-        "Iran và các nước Trung Đông đề nghị Mỹ chờ đàm phán",
-        "Các bên đã đạt được 'phương diện' của một thỏa thuận",
-        "Mỹ sẽ chờ đàm phán đạt kết quả nhanh chóng"
-      ],
-      "full_summary": "Chủ tịch Mỹ Donald Trump đã hủy kế hoạch tấn công Iran sau khi các nước Trung Đông đề nghị Mỹ chờ đàm phán. Trump cho biết các bên đã đạt được 'phương diện' của một thỏa thuận, nhưng cần đàm phán nhanh chóng để đạt được kết quả. Điều này đã ngăn chặn một cuộc tấn công có thể xảy ra.",
       "comments": 0,
       "score": 0
     }
