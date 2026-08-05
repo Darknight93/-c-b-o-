@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-08-05T08:23:59.493699+00:00",
+  "updated_at": "2026-08-05T13:49:54.510440+00:00",
   "articles": [
+    {
+      "id": "86ffaa370eaf",
+      "title": "Drone carrying explosives found at German airport, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:38.053842+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Máy bay không người lái chứa vũ khí được tìm thấy tại sân bay Đức",
+      "bullets": [
+        "Lái xe máy bay không người lái tìm thấy gần máy bay hàng hóa Ukraine",
+        "Máy bay không người lái chứa vũ khí được phát hiện trước khi một vật thể khác va chạm với máy bay hàng hóa",
+        "Va chạm xảy ra ở giữa không trung",
+        "Cảnh sát đang điều tra vụ việc"
+      ],
+      "full_summary": "Một máy bay không người lái chứa vũ khí đã được tìm thấy tại sân bay Đức. Vật thể này được phát hiện gần máy bay hàng hóa Ukraine trước khi một vật thể khác va chạm với máy bay hàng hóa ở giữa không trung. Cảnh sát đang điều tra vụ việc để xác định nguyên nhân và trách nhiệm. Vụ việc đang gây lo ngại về an ninh hàng không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "942988c214d9",
+      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:39.114527+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Một tên lửa SpaceX rơi trúng Mặt Trăng mang lại cơ hội khoa học",
+      "bullets": [
+        "Phát hiện dữ liệu về cấu trúc địa chất Mặt Trăng",
+        "Giúp các nhà khoa học hiểu rõ hơn về quá trình hình thành Mặt Trăng",
+        "Cung cấp thông tin quan trọng cho các sứ mệnh không gian tương lai",
+        "Là một món quà khoa học độc đáo cho các nhà địa chất học"
+      ],
+      "full_summary": "Một tên lửa SpaceX đã va chạm với Mặt Trăng, gây ra một sự kiện khoa học độc đáo. Sự kiện này mang lại cơ hội cho các nhà khoa học thu thập dữ liệu về cấu trúc địa chất Mặt Trăng. Dữ liệu này sẽ giúp các nhà khoa học hiểu rõ hơn về quá trình hình thành Mặt Trăng và cung cấp thông tin quan trọng cho các sứ mệnh không gian tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7b707f1b683e",
+      "title": "Pakistan restricts international media reporting",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:40.167884+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Pakistan cấm báo chí nước ngoài hoạt động ngoài ba thành phố lớn",
+      "bullets": [
+        "Cấm người làm việc cho báo chí nước ngoài cần xin phép trước khi hoạt động",
+        "Quy định áp dụng cho cả người nước ngoài và người Pakistan",
+        "Hạn chế hoạt động báo chí ở các khu vực ngoài ba thành phố lớn",
+        "Quy định nhằm kiểm soát thông tin và bảo vệ an ninh quốc gia"
+      ],
+      "full_summary": "Pakistan vừa ban hành quy định mới hạn chế hoạt động báo chí nước ngoài. Theo quy định, người làm việc cho báo chí nước ngoài cần xin phép trước khi hoạt động ở bất kỳ khu vực nào ngoài ba thành phố lớn của Pakistan. Quy định này áp dụng cho cả người nước ngoài và người Pakistan, nhằm kiểm soát thông tin và bảo vệ an ninh quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b90ce95b9fce",
+      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:41.344250+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người đàn ông Italy tìm lại vé số €1 triệu trong thùng rác",
+      "bullets": [
+        "Tìm thấy vé số €1 triệu trong thùng rác",
+        "Người đàn ông Italy vô tình vứt vé số",
+        "Số may mắn được gia đình nhắc nhở",
+        "Người đàn ông giành chiến thắng nhờ sự may mắn"
+      ],
+      "full_summary": "Người đàn ông Italy vô tình vứt vé số €1 triệu vào thùng rác. Sau khi gia đình nhắc nhở số may mắn, anh ta đã tìm thấy vé số và giành chiến thắng. Vé số được vứt vào thùng rác sau khi người đàn ông Italy vô tình không nhận ra nó là vé số may mắn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "29219c0c9f3b",
+      "title": "Mexican influencer shot dead during livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:42.596620+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người nổi tiếng Mexico bị bắn chết trong livestream",
+      "bullets": [
+        "Bị bắn chết ở gần",
+        "Người bị bắn tên là César Gastélum",
+        "Là một người nổi tiếng trên mạng xã hội",
+        "Được biết đến với các bài đăng hài và lối sống"
+      ],
+      "full_summary": "César Gastélum, một người nổi tiếng Mexico, đã bị bắn chết ở gần trong một livestream. Người bắn tên là một người đàn ông trên xe máy. César được biết đến với các bài đăng hài và lối sống trên mạng xã hội. Sự kiện này đã gây sốc cho cộng đồng mạng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "db4365e2019b",
+      "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:43.807046+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiệt đới kỷ lục ở Hàn Quốc, nhiệt độ lên đến 42,5 độ C",
+      "bullets": [
+        "Tối đa 19 người tử vong do ảnh hưởng của nhiệt đới",
+        "Nhiệt độ kỷ lục cao nhất từ khi bắt đầu ghi nhận",
+        "Nhiệt độ cao ảnh hưởng đến nhiều khu vực ở Hàn Quốc",
+        "Các biện pháp phòng ngừa được triển khai để giảm thiểu thiệt hại"
+      ],
+      "full_summary": "Một cơn nhiệt đới kỷ lục đang ảnh hưởng đến Hàn Quốc, với nhiệt độ lên đến 42,5 độ C. Đây là ngày nóng nhất từ khi bắt đầu ghi nhận. Tối đa 19 người đã tử vong do ảnh hưởng của nhiệt đới. Để giảm thiểu thiệt hại, các biện pháp phòng ngừa đã được triển khai trên toàn quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7c24cad4d3d",
+      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:44.901716+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Disney đồng ý cho TikToker sử dụng phim và chương trình TV của họ trong video",
+      "bullets": [
+        "Disney ký thỏa thuận cho phép một số người sáng tạo sử dụng cảnh từ phim và chương trình TV của họ",
+        "Thỏa thuận này sẽ giúp tăng cường nội dung đa dạng trên nền tảng TikTok",
+        "Người sáng tạo có thể sử dụng các cảnh từ Disney để tạo ra nội dung độc đáo và thu hút",
+        "Thỏa thuận này dự kiến sẽ mang lại lợi ích cho cả Disney và các nhà sáng tạo nội dung"
+      ],
+      "full_summary": "Disney đã ký một thỏa thuận với TikTok, cho phép một số người sáng tạo sử dụng cảnh từ phim và chương trình TV của họ trong các video trên nền tảng này. Thỏa thuận này sẽ giúp tăng cường nội dung đa dạng trên TikTok và mang lại lợi ích cho cả Disney và các nhà sáng tạo nội dung. Người sáng tạo có thể sử dụng các cảnh từ Disney để tạo ra nội dung độc đáo và thu hút.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "27e6f27455da",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:45.894205+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nghiên cứu về tokenomics gặp khó khăn trong việc quản lý chi phí AI",
+      "bullets": [
+        "Các nhà cung cấp dịch vụ AI gặp khó khăn trong việc xác định giá cả",
+        "Người mua dịch vụ AI gặp khó khăn trong việc kiểm soát chi phí",
+        "Tokenomics gặp khó khăn trong việc thiết lập hệ thống giá cả hợp lý"
+      ],
+      "full_summary": "Các nhà cung cấp dịch vụ AI đang gặp khó khăn trong việc xác định giá cả cho các dịch vụ của mình. Người mua dịch vụ AI cũng gặp khó khăn trong việc kiểm soát chi phí. Nghiên cứu về tokenomics đang cố gắng tìm ra giải pháp để thiết lập hệ thống giá cả hợp lý. Mục tiêu là tạo ra một hệ thống giá cả minh bạch và công bằng cho cả nhà cung cấp và người mua.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a5a03f084fa4",
+      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T13:49:48.212232+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nhiều người chết khi cố gắng vượt biên vào Ceuta",
+      "bullets": [
+        "Hàng chục người chết trong nỗ lực vượt biên",
+        "50.000 người vượt biên từ Maroc trong tuần trước",
+        "Crisis chính trị nổ ra ở Tây Ban Nha",
+        "Nước ngoài chỉ trích EU về vấn đề này"
+      ],
+      "full_summary": "Vụ việc xảy ra khi hàng chục nghìn người vượt biên từ Maroc vào lãnh thổ Ceuta của Tây Ban Nha. Nhiều người đã thiệt mạng trong nỗ lực vượt biên. Sự việc đã dẫn đến một cuộc khủng hoảng chính trị ở Tây Ban Nha và bị chỉ trích từ các nước khác trong EU.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "bc7425e849a2",
+      "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
+      "url": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-05T13:49:53.417010+00:00",
+      "category": "sức khỏe|chính trị",
+      "importance": 4,
+      "headline": "Chính phủ Trump trì hoãn công bố vụ bùng phát nôn mửa bùng phát",
+      "bullets": [
+        "Chính phủ Trump đã biết về các ca tử vong trong vụ bùng phát nôn mửa",
+        "Chính phủ trì hoãn công bố thông tin về vụ bùng phát",
+        "Đại diện chính phủ hứa sẽ cập nhật thông tin trong tuần này"
+      ],
+      "full_summary": "Chính phủ Trump đã biết về các ca tử vong trong vụ bùng phát nôn mửa nhưng đã trì hoãn công bố thông tin. Một đại diện chính phủ đã hứa sẽ cập nhật thông tin về vụ bùng phát vào cuối tuần này. Vụ bùng phát nôn mửa đã gây ra lo ngại về sức khỏe công cộng.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d5f8296b941d",
       "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
@@ -594,205 +792,6 @@
         "Mô hình này là một sản phẩm độc đáo và thú vị"
       ],
       "full_summary": "Lego đã tạo ra một mô hình Hubble Space Telescope nhỏ gọn và chi tiết bằng cách sử dụng các khối Lego. Mô hình này có kích thước minifigure và có thể đặt trên bàn làm việc. Mô hình này mô phỏng chi tiết của kính thiên văn không gian Hubble, bao gồm cả các chi tiết về thiết kế và cấu trúc. Đây là một sản phẩm độc đáo và thú vị dành cho những người yêu thích Lego và khoa học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d598bd63a79f",
-      "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
-      "url": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-04T13:53:15.488844+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Xe Volkswagen Jetta Sport giá phải chăng vẫn còn tồn tại",
-      "bullets": [
-        "Cung cấp giá bán thấp nhất trong phân khúc",
-        "Động cơ mạnh mẽ và tiết kiệm nhiên liệu",
-        "Đồ nội thất cơ bản nhưng đủ tiện nghi",
-        "Giá bán cạnh tranh so với các mẫu xe khác"
-      ],
-      "full_summary": "Volkswagen Jetta Sport 2026 là một lựa chọn giá phải chăng trong phân khúc xe sedan. Mặc dù giá bán chỉ 25.305 USD, nhưng xe vẫn cung cấp động cơ mạnh mẽ và tiết kiệm nhiên liệu. Tuy nhiên, đồ nội thất cơ bản nhưng đủ tiện nghi. Giá bán cạnh tranh so với các mẫu xe khác trong phân khúc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7c972d4b1e4c",
-      "title": "Analysis: Trump challenged by cold reality from top allies",
-      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:34.793664+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump đối mặt với sự thật lạnh lùng từ các đồng minh hàng đầu",
-      "bullets": [
-        "Trump bị đánh bại bởi hai thất bại đau đớn trong vòng vài ngày",
-        "Các đồng minh hàng đầu của ông ta phản đối các quyết định của mình",
-        "Sự kiện này cho thấy Trump không còn kiểm soát được chính trị Mỹ",
-        "Sự thật lạnh lùng này buộc Trump phải xem xét lại chiến lược của mình"
-      ],
-      "full_summary": "Tổng thống Trump đã phải đối mặt với hai thất bại đau đớn trong vòng vài ngày. Các đồng minh hàng đầu của ông ta đã phản đối các quyết định của mình, cho thấy sự bất ổn trong chính trị Mỹ. Điều này cho thấy Trump không còn kiểm soát được chính trị Mỹ như trước đây. Sự thật lạnh lùng này buộc Trump phải xem xét lại chiến lược của mình và tìm cách thích nghi với tình hình mới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5ab2f3aa48ab",
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:35.794731+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nổ súng ở Moscow, Ukraine tiếp tục tấn công kho đạn",
-      "bullets": [
-        "Tấn công kho đạn ở Moscow, St Petersburg và Tver",
-        "Ít nhất 5 người chết trong các vụ tấn công",
-        "Trả đòn, Nga tiến công Ukraine",
-        "Tổng số thương vong đang được cập nhật"
-      ],
-      "full_summary": "Các kho đạn ở Moscow, St Petersburg và Tver đã bị tấn công bởi Ukraine. Ít nhất 5 người đã thiệt mạng trong các vụ tấn công này. Trong khi đó, Nga cũng tiến công Ukraine, khiến ít nhất một người thiệt mạng. Các vụ tấn công này đang gây ra sự bất ổn ở khu vực.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4fd58df93ad6",
-      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:36.825388+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ariana Grande rút lui khỏi ánh đèn sau những lời bình luận về cơ thể",
-      "bullets": [
-        "Cô đã rút lui khỏi ánh đèn sau những lần xuất hiện dẫn đến sự giám sát công chúng không ngừng",
-        "Cô đã nói rằng cô không thể chịu đựng được những lời bình luận về cơ thể",
-        "Sự giám sát công chúng sẽ tiếp tục đối với cô"
-      ],
-      "full_summary": "Ariana Grande đã nói rằng cô đã rút lui khỏi ánh đèn sau những lần xuất hiện dẫn đến sự giám sát công chúng không ngừng. Cô đã nói rằng cô không thể chịu đựng được những lời bình luận về cơ thể. Sự giám sát công chúng sẽ tiếp tục đối với cô, bất kể cô đã rút lui hay chưa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e84d44491947",
-      "title": "France wildfires reveal hundreds of WW2 shells in village",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:37.837652+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nổ đạn pháo WW2 tại Pháp do cháy rừng gây ra",
-      "bullets": [
-        "Nổ đạn pháo WW2 tại Pháp do cháy rừng gây ra",
-        "Cháy rừng ở Le Porge khiến hàng trăm đạn pháo WW2 bị nổ",
-        "Các vụ nổ được cho là do đạn pháo cũ bị cháy rừng kích hoạt",
-        "Các quan chức đang điều tra nguyên nhân vụ nổ đạn pháo"
-      ],
-      "full_summary": "Cháy rừng ở Le Porge, Pháp, đã khiến hàng trăm đạn pháo WW2 bị nổ. Các vụ nổ được cho là do đạn pháo cũ bị cháy rừng kích hoạt. Các quan chức đang điều tra nguyên nhân vụ nổ đạn pháo. Vụ việc đã thu hút sự chú ý của dư luận và các quan chức địa phương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e3c9de78fcb5",
-      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:38.989663+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người Nigeria bỏ lại vợ và con ở Nam Phi",
-      "bullets": [
-        "Bỏ lại gia đình và cuộc sống ở Nam Phi",
-        "Là một trong hàng chục nghìn người Nigeria rời khỏi Nam Phi",
-        "Richard Itoro chia sẻ lý do rời khỏi đất nước",
-        "Cảm xúc đau đớn khi phải bỏ lại vợ và con ở lại"
-      ],
-      "full_summary": "Richard Itoro, một người Nigeria, là một trong hàng chục nghìn người Nigeria rời khỏi Nam Phi. Ông chia sẻ lý do rời khỏi đất nước là do cảm xúc đau đớn khi phải bỏ lại vợ và con ở lại. Ông đã sống ở Nam Phi trong nhiều năm và đã xây dựng một cuộc sống mới, nhưng cuối cùng ông không thể chịu đựng được áp lực và quyết định rời khỏi. Ông hy vọng rằng một ngày nào đó ông sẽ được đoàn tụ với gia đình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "517751473a0d",
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:40.048114+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hàng chục nghìn người Morocco vượt biên sang Ceuta",
-      "bullets": [
-        "Vượt biên sang Ceuta",
-        "Tìm kiếm cơ hội mới",
-        "Khó khăn trong việc định cư",
-        "Tình hình biên giới bất ổn"
-      ],
-      "full_summary": "Hàng chục nghìn người Morocco đã vượt biên sang Ceuta, một khu vực thuộc Tây Ban Nha ở Bắc Phi. Họ đang tìm kiếm cơ hội mới sau khi bị trục xuất khỏi Tây Ban Nha 7 năm trước. Tuy nhiên, họ đang gặp khó khăn trong việc định cư và tình hình biên giới đang bất ổn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8197d680b04f",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:41.516053+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tăng cường luật chống LGBTQ+ ở Tây Phi",
-      "bullets": [
-        "Cộng đồng LGBTQ+ ở Tây Phi đang đối mặt với những luật mới hạn chế quyền của họ",
-        "Sénégal tăng mức án tù tối đa cho quan hệ đồng tính lên 10 năm",
-        "Niger cấm quan hệ tình dục đồng tính lần đầu tiên",
-        "Các nhà hoạt động cho rằng chính trị gia đang sử dụng LGBTQ+ như 'người dễ bị tổn thương nhất để duy trì quyền lực'"
-      ],
-      "full_summary": "Các nhà hoạt động ở Tây Phi cảnh báo rằng số lượng luật chống LGBTQ+ đang tăng lên. Trong tháng 3, Sénégal đã tăng mức án tù tối đa cho quan hệ đồng tính lên 10 năm và cấm 'tuyên truyền' về đồng tính luyến ái. Niger đã cấm 'quan hệ tình dục với một người có cùng giới tính' vào tháng 2, lần đầu tiên loại hình này bị cấm ở quốc gia này. Các nhà hoạt động cho rằng chính trị gia đang sử dụng LGBTQ+ như 'người dễ bị tổn thương nhất để duy trì quyền lực'.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dd00aee294eb",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T08:25:43.732120+00:00",
-      "category": "y tế|khoa học",
-      "importance": 4,
-      "headline": "Nghiên cứu mới về thuốc phòng ngừa HIV bị ảnh hưởng bởi cắt giảm hỗ trợ của Mỹ",
-      "bullets": [
-        "Cắt giảm hỗ trợ của Mỹ khiến thuốc phòng ngừa HIV không thể tiếp cận với những người cần nhất",
-        "Lenacapavir, một loại thuốc phòng ngừa HIV tiêm, có thể giảm số ca mới mắc HIV toàn cầu",
-        "WHO khuyến nghị các chính phủ ưu tiên mở rộng tiếp cận thuốc phòng ngừa HIV",
-        "Thuốc PrEP có hiệu quả 99% trong việc ngăn ngừa HIV"
-      ],
-      "full_summary": "Một loại thuốc phòng ngừa HIV tiêm mới có thể giảm số ca mới mắc HIV toàn cầu, nhưng cắt giảm hỗ trợ của Mỹ sẽ khiến thuốc này không thể tiếp cận với những người cần nhất. Theo các chuyên gia tại Hội nghị AIDS 2026 tại Rio de Janeiro, Brazil, WHO đã khuyến nghị các chính phủ ưu tiên mở rộng tiếp cận thuốc phòng ngừa HIV. Tuy nhiên, cắt giảm hỗ trợ của Mỹ sẽ khiến thuốc này không thể tiếp cận với những người cần nhất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "86bf0a0153ea",
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-04T08:25:49.876623+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Một bản vá lỗi mới cho Windows XP 2002 trên Itanium gây tranh cãi",
-      "bullets": [
-        "Cập nhật một bản vá lỗi mới cho hệ điều hành Windows XP 2002",
-        "Bản vá lỗi dành cho máy tính Itanium",
-        "Gây tranh cãi trên cộng đồng Hacker News",
-        "Có 52 bình luận và 97 điểm"
-      ],
-      "full_summary": "Một bản vá lỗi mới cho Windows XP 2002 trên Itanium đã được phát hành, gây tranh cãi trên cộng đồng Hacker News. Bản vá lỗi này được phát hành trên trang VirtuallyFun và đã thu hút sự chú ý của cộng đồng. Có 52 bình luận và 97 điểm trên trang Hacker News, cho thấy sự quan tâm của người dùng.",
       "comments": 0,
       "score": 0
     }
