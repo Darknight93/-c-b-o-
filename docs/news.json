@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-08-05T01:52:35.038656+00:00",
+  "updated_at": "2026-08-05T08:23:59.493699+00:00",
   "articles": [
+    {
+      "id": "d5f8296b941d",
+      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T08:23:44.886725+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh sát đột kích trụ sở Starbucks Hàn Quốc vì 'Ngày Tank'",
+      "bullets": [
+        "Khám phá vụ việc 'Ngày Tank' của Starbucks gây phẫn nộ",
+        "Người dân Hàn Quốc khiếu nại vì công ty coi thường vụ Gwangju Uprising",
+        "Cảnh sát điều tra cáo buộc vi phạm luật quảng cáo",
+        "Sự việc gây tranh cãi về thương hiệu Starbucks tại Hàn Quốc"
+      ],
+      "full_summary": "Cảnh sát Hàn Quốc đã đột kích trụ sở của Starbucks để điều tra cáo buộc công ty coi thường vụ Gwangju Uprising, một sự kiện lịch sử gây thương vong lớn. Người dân đã khiếu nại vì họ cho rằng quảng cáo 'Ngày Tank' của Starbucks đã làm nhạo nhịn sự kiện này. Cảnh sát đang điều tra cáo buộc vi phạm luật quảng cáo. Sự việc đã gây tranh cãi về thương hiệu Starbucks tại Hàn Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "286f9c11000a",
+      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+      "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T08:23:45.858374+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một tay đấm gây tử vong cho một phụ nữ Scotland",
+      "bullets": [
+        "Một tay đấm đã gây tử vong cho Elisabeth Jane Ross từ Edinburgh",
+        "Sharif Ahmadzai, 26 tuổi, đang bị giam giữ liên quan đến vụ án",
+        "Anh ta đã xuất hiện tại tòa án để đối mặt với cáo buộc"
+      ],
+      "full_summary": "Sharif Ahmadzai, 26 tuổi, đã xuất hiện tại tòa án để đối mặt với cáo buộc liên quan đến cái chết của Elisabeth Jane Ross từ Edinburgh. Elisabeth Jane Ross đã qua đời sau một vụ tấn công. Sharif Ahmadzai đang bị giam giữ và sẽ đối mặt với cáo buộc. Vụ án đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "17cefb4268eb",
+      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T08:23:46.913369+00:00",
+      "category": "công nghệ",
+      "importance": 3,
+      "headline": "Giá Xbox Series X tăng vọt £170 do chi phí chip nhớ tăng cao",
+      "bullets": [
+        "Giá Xbox Series X tăng lên 43% tại Anh",
+        "Chi phí chip nhớ tăng cao là nguyên nhân chính",
+        "Xbox Series X giờ đây đắt hơn đáng kể tại Anh",
+        "Tình hình này khiến người dùng phải suy nghĩ lại"
+      ],
+      "full_summary": "Giá Xbox Series X tại Anh đã tăng vọt £170 do chi phí chip nhớ tăng cao. Điều này khiến giá của một số mô hình tăng lên 43%. Nguyên nhân chính là chi phí chip nhớ tăng cao. Người dùng giờ đây phải suy nghĩ lại về việc mua Xbox Series X.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9e7d925a60c7",
+      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T08:23:47.898530+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Snapchat cùng các nền tảng nổi tiếng chống lại nội dung AI giả mạo",
+      "bullets": [
+        "Snapchat đang cố gắng ngăn chặn nội dung AI giả mạo trên nền tảng của mình",
+        "YouTube, LinkedIn và Substack cũng đang hợp tác để chống lại nội dung AI giả mạo",
+        "Các nền tảng này đang sử dụng các công nghệ mới để phát hiện và loại bỏ nội dung AI giả mạo",
+        "Mục tiêu của họ là ngăn chặn sự lây lan của nội dung AI giả mạo trên internet"
+      ],
+      "full_summary": "Snapchat, YouTube, LinkedIn và Substack đang hợp tác để chống lại sự lây lan của nội dung AI giả mạo. Các nền tảng này đang sử dụng các công nghệ mới để phát hiện và loại bỏ nội dung AI giả mạo. Mục tiêu của họ là ngăn chặn sự lây lan của nội dung AI giả mạo trên internet và bảo vệ người dùng khỏi các nội dung sai lệch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c96a47c3e9ed",
+      "title": "El Niño could push 50m people into acute hunger before end of next year",
+      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T08:23:49.228733+00:00",
+      "category": "khí hậu|tình hình thế giới",
+      "importance": 5,
+      "headline": "El Niño có thể đẩy 50 triệu người vào tình trạng đói khát cấp độ",
+      "bullets": [
+        "Đi đến 45 quốc gia đang gặp khủng hoảng lương thực nghiêm trọng",
+        "Đi đến 50 triệu người có thể bị đẩy vào tình trạng đói khát cấp độ vào cuối năm sau",
+        "Đi đến hàng trăm triệu người đang đối mặt với mức độ đói khát nguy hiểm"
+      ],
+      "full_summary": "Theo dự báo của UN, El Niño đang phát triển nhanh chóng có thể đẩy 50 triệu người vào tình trạng đói khát cấp độ trước cuối năm sau. Điều này sẽ xảy ra trong khi hàng trăm triệu người đang đối mặt với mức độ đói khát nguy hiểm do hạn hán ở một số khu vực châu Phi và áp lực giá lương thực từ cuộc chiến ở Iran. Các chuyên gia dự báo tình hình sẽ càng trở nên tồi tệ hơn ở 45 quốc gia đang gặp khủng hoảng lương thực nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e9077feb94e7",
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-05T08:23:50.266208+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người tị nạn chết trong cuộc vượt biển sang Ceuta",
+      "bullets": [
+        "Hàng ngàn người tị nạn vượt biển sang Ceuta",
+        "Có ít nhất 88 người chết trong quá trình vượt biển",
+        "Các quan chức EU khẳng định không có nguy cơ cho khu vực Schengen",
+        "Các quan chức EU họp khẩn để thảo luận về tình hình"
+      ],
+      "full_summary": "Cuộc vượt biển sang Ceuta đã gây ra nhiều thương vong. Khoảng 72.000 người tị nạn đã vượt biên vào Ceuta trong tuần qua, nhưng sau đó phần lớn đã trở về. Các quan chức EU đã họp khẩn để thảo luận về tình hình và khẳng định không có nguy cơ cho khu vực Schengen.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4bdcdc1f49d5",
+      "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-05T08:23:55.451364+00:00",
+      "category": "politics|economy|technology",
+      "importance": 4,
+      "headline": "Trump đã hủy dự án Bình đẳng kỹ thuật số, nhưng Mỹ phải phục hồi một phần",
+      "bullets": [
+        "Hồi tố đã phục hồi chương trình trị giá 1,25 tỷ USD",
+        "Hộ chiếu đã hủy bỏ các tiêu chí phân biệt chủng tộc trong dự án",
+        "Tòa án đã xác định các tiêu chí phân biệt chủng tộc là bất hợp pháp",
+        "Mỹ vẫn có thể loại bỏ các tiêu chí phân biệt chủng tộc trong dự án"
+      ],
+      "full_summary": "Dự án Bình đẳng kỹ thuật số trị giá 1,25 tỷ USD đã bị Tổng thống Trump hủy bỏ. Tuy nhiên, tòa án đã buộc Mỹ phải phục hồi một phần dự án. Hộ chiếu đã hủy bỏ các tiêu chí phân biệt chủng tộc trong dự án, nhưng tòa án đã xác định các tiêu chí này là bất hợp pháp. Mỹ vẫn có thể loại bỏ các tiêu chí phân biệt chủng tộc trong dự án.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "01191ee09548",
       "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
@@ -655,146 +793,6 @@
         "Có 52 bình luận và 97 điểm"
       ],
       "full_summary": "Một bản vá lỗi mới cho Windows XP 2002 trên Itanium đã được phát hành, gây tranh cãi trên cộng đồng Hacker News. Bản vá lỗi này được phát hành trên trang VirtuallyFun và đã thu hút sự chú ý của cộng đồng. Có 52 bình luận và 97 điểm trên trang Hacker News, cho thấy sự quan tâm của người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bd3789243c70",
-      "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T01:51:41.524578+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hai người chết do dịch tả nổ ruột đầu tiên ở Mỹ",
-      "bullets": [
-        "Báo cáo hai trường hợp tử vong do dịch tả nổ ruột đầu tiên ở Mỹ",
-        "Dịch tả nổ ruột thường không gây tử vong, theo quan chức y tế",
-        "Nguyên nhân gây ra dịch tả nổ ruột là do ký sinh trùng trong thực phẩm hoặc nước bị nhiễm bẩn",
-        "Dịch tả nổ ruột không phải là bệnh truyền nhiễm nghiêm trọng"
-      ],
-      "full_summary": "Mỹ vừa báo cáo hai trường hợp tử vong do dịch tả nổ ruột, một bệnh thường không gây tử vong. Dịch tả nổ ruột do ký sinh trùng gây ra và có thể lây lan qua thực phẩm hoặc nước bị nhiễm bẩn. Quan chức y tế cho biết dịch tả nổ ruột không phải là bệnh truyền nhiễm nghiêm trọng. Tuy nhiên, hai trường hợp tử vong ở Mỹ cho thấy cần phải có biện pháp phòng ngừa và điều trị sớm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7ad9ccfc32a5",
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T01:51:42.520696+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Chủ tịch EU kêu gọi tăng cường kiểm soát biên giới sau sự kiện nhập cư ở Ceuta",
-      "bullets": [
-        "Von der Leyen kêu gọi các quốc gia thành viên EU tăng cường kiểm soát biên giới",
-        "Các bộ trưởng nội vụ EU sẽ họp khẩn để thảo luận về vấn đề nhập cư",
-        "Sự kiện nhập cư ở Ceuta gây ra lo ngại về an ninh và quản lý biên giới",
-        "EU cần phải có hành động để ngăn chặn các vụ nhập cư bất hợp pháp"
-      ],
-      "full_summary": "Chủ tịch Ủy ban châu Âu Ursula von der Leyen đã kêu gọi các quốc gia thành viên EU tăng cường kiểm soát biên giới sau sự kiện nhập cư ở Ceuta. Các bộ trưởng nội vụ EU sẽ họp khẩn để thảo luận về vấn đề nhập cư. Sự kiện nhập cư ở Ceuta gây ra lo ngại về an ninh và quản lý biên giới. EU cần phải có hành động để ngăn chặn các vụ nhập cư bất hợp pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "29524d648e49",
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T01:51:43.452924+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Infantino đối mặt đe dọa từ các đối thủ",
-      "bullets": [
-        "Threaten 'non co-operation' với Fifa",
-        "Yêu cầu Infantino từ chức",
-        "Đe dọa không hợp tác với Fifa",
-        "Mong muốn thay đổi lãnh đạo Fifa"
-      ],
-      "full_summary": "Các đối thủ của Infantino đang đe dọa 'không hợp tác' với Fifa nếu ông không từ chức. Theo nguồn tin Uefa, họ sẽ không hợp tác với Fifa nếu Infantino tiếp tục lãnh đạo tổ chức này. Điều này có thể gây ra nhiều vấn đề cho Fifa và các giải đấu bóng đá quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27e6f27455da",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T01:51:44.426249+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Nghiên cứu AI gặp khó khăn khi tính toán chi phí",
-      "bullets": [
-        "Các nhà cung cấp dịch vụ AI gặp khó khăn khi tính toán chi phí",
-        "Người mua dịch vụ AI gặp khó khăn khi kiểm soát chi phí",
-        "Các nhà cung cấp AI không biết cách định giá dịch vụ",
-        "Nghiên cứu AI gặp khó khăn khi áp dụng mô hình kinh tế"
-      ],
-      "full_summary": "Các nhà cung cấp dịch vụ AI đang gặp khó khăn khi tính toán chi phí và định giá dịch vụ. Người mua dịch vụ AI cũng gặp khó khăn khi kiểm soát chi phí. Điều này là do các mô hình kinh tế truyền thống không thể áp dụng được vào các mô hình AI. Các nhà nghiên cứu đang tìm kiếm các giải pháp mới để giải quyết vấn đề này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f5f28dcdb524",
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T01:51:45.420567+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Amazon và Apple tiết lộ kế hoạch AI mới",
-      "bullets": [
-        "Đưa ra các dự án AI mới với đầu tư hàng tỷ USD",
-        "Tìm kiếm lợi nhuận từ công nghệ trí tuệ nhân tạo",
-        "Xây dựng các sản phẩm và dịch vụ AI mới",
-        "Đánh giá hiệu quả của các dự án AI mới"
-      ],
-      "full_summary": "Amazon và Apple đang đầu tư hàng tỷ USD vào công nghệ trí tuệ nhân tạo mới. Các công ty này đang tìm kiếm lợi nhuận từ các sản phẩm và dịch vụ AI mới. Tuy nhiên, hiệu quả của các dự án này vẫn còn được đánh giá.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6055381d33af",
-      "title": "How police are trying to divert teen hackers away from crime",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T01:51:46.298475+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Cảnh sát hướng dẫn thanh niên tránh tội phạm mạng",
-      "bullets": [
-        "Hướng dẫn thanh niên tránh tội phạm mạng",
-        "Cảnh sát tạo chương trình để ngăn chặn tội phạm mạng",
-        "Chương trình Cyber Prevent hướng dẫn thanh niên",
-        "Cảnh sát ngăn chặn tội phạm mạng ở tuổi trẻ"
-      ],
-      "full_summary": "Cảnh sát đang tạo chương trình để ngăn chặn tội phạm mạng ở thanh niên. Chương trình Cyber Prevent hướng dẫn thanh niên tránh tội phạm mạng. Cảnh sát tạo chương trình để ngăn chặn tội phạm mạng ở tuổi trẻ. Chương trình này nhằm ngăn chặn tội phạm mạng ở thanh niên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a0aa2de12ffd",
-      "title": "India wants to join the strawberry superpowers",
-      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-04T01:51:47.200231+00:00",
-      "category": "khoa học",
-      "importance": 3,
-      "headline": "Ấn Độ muốn trở thành một trong những cường quốc dâu tây",
-      "bullets": [
-        "Ấn Độ đang cố gắng phát triển giống dâu tây bản địa",
-        "Giống dâu tây nhập khẩu từ Mỹ và châu Âu đang bị phụ thuộc",
-        "Nông dân Ấn Độ hy vọng sẽ giảm chi phí sản xuất",
-        "Tình trạng nhập khẩu dâu tây có thể giảm dần"
-      ],
-      "full_summary": "Ấn Độ đang cố gắng phát triển giống dâu tây bản địa để giảm phụ thuộc vào giống nhập khẩu từ Mỹ và châu Âu. Nông dân Ấn Độ hy vọng sẽ giảm chi phí sản xuất và tăng sản lượng dâu tây. Việc này cũng có thể giúp Ấn Độ trở thành một trong những cường quốc dâu tây.",
       "comments": 0,
       "score": 0
     }
