@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-08-07T02:16:02.329021+00:00",
+  "updated_at": "2026-08-07T07:03:21.597721+00:00",
   "articles": [
+    {
+      "id": "7b3554b7aa70",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T07:03:06.826611+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump lại cố gắng hạn chế quyền công dân sinh ra tại Mỹ",
+      "bullets": [
+        "Cấm du lịch sinh con tại Mỹ",
+        "Nới rộng định nghĩa về người không đủ điều kiện nhận quyền công dân sinh ra tại Mỹ",
+        "Thay đổi cách xác định người có thể nhận quyền công dân",
+        "Tăng cường kiểm soát nhập cảnh vào Mỹ"
+      ],
+      "full_summary": "Chủ tịch Mỹ Donald Trump đã ban hành hai lệnh hành pháp mới nhằm hạn chế quyền công dân sinh ra tại Mỹ. Theo đó, ông Trump sẽ cấm du lịch sinh con tại Mỹ và nới rộng định nghĩa về người không đủ điều kiện nhận quyền công dân sinh ra tại Mỹ. Những người này bao gồm cả những người không phải là công dân Mỹ hoặc không phải là người sống tại Mỹ. Các lệnh hành pháp này được đưa ra trong bối cảnh tranh cãi về quyền công dân sinh ra tại Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4142d10aa513",
+      "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
+      "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T07:03:07.893469+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Morocco đặt tên con đường 1 tỷ USD theo tên Trump sau vụ xâm nhập Ceuta",
+      "bullets": [
+        "Washington và Rabat đang bị đặt câu hỏi về mối quan hệ thân thiết",
+        "Morocco công bố sẽ gia nhập Hội đồng Hòa bình của Trump",
+        "Trump gửi lời chúc mừng cho vua Mohammed VI sau 27 năm trị vì",
+        "Vua Mohammed VI đặt tên con đường 1 tỷ USD theo tên Trump"
+      ],
+      "full_summary": "Sau vụ xâm nhập Ceuta, mối quan hệ thân thiết giữa Washington và Rabat đang bị đặt câu hỏi. Morocco đã công bố sẽ gia nhập Hội đồng Hòa bình của Trump và vua Mohammed VI đã gửi lời chúc mừng cho Trump sau 27 năm trị vì. Thậm chí, vua Mohammed VI còn đặt tên con đường 1 tỷ USD theo tên Trump, gây tranh cãi về ảnh hưởng của Trump đối với Morocco.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "8ee32c0eee2f",
+      "title": "Mexican influencer shot dead while streaming live on social media",
+      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T07:03:08.986322+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tử vong của nhà ảnh hưởng Mexico trong khi livestream",
+      "bullets": [
+        "Được bắn bởi người lái xe máy",
+        "Đang livestream ngoài một nhà hàng ở bang Sinaloa",
+        "Là một người nổi tiếng trên TikTok với hơn 600.000 người theo dõi"
+      ],
+      "full_summary": "César Gastélum, một người nổi tiếng Mexico, đã bị bắn chết trong khi livestream trên mạng xã hội. Ông đang làm video comedy với hai người bạn ngoài một nhà hàng ở thành phố Culiacán. Sự việc xảy ra ở bang Sinaloa, nơi có mức độ bạo lực của các băng đảng rất cao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1ee4e5c4053e",
+      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+      "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-07T07:03:11.240776+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Máy bay chở hàng Ukraine bị tấn công bằng máy bay không người lái nổ",
+      "bullets": [
+        "Máy bay không người lái nổ được phát hiện ở sân bay Leipzig, Đức",
+        "Máy bay không người lái được cho là nhắm vào máy bay chở hàng Ukraine",
+        "Cơ quan chức năng Đức đã giải quyết máy bay không người lái nổ",
+        "Cơ quan chức năng đang tìm kiếm máy bay không người lái thứ hai"
+      ],
+      "full_summary": "Một máy bay không người lái nổ đã được phát hiện ở sân bay Leipzig, Đức, gần máy bay chở hàng Ukraine. Cơ quan chức năng Đức cho biết máy bay không người lái được cho là nhắm vào máy bay chở hàng Ukraine. Máy bay không người lái nổ đã được giải quyết, nhưng cơ quan chức năng đang tìm kiếm máy bay không người lái thứ hai có thể đang ở sân bay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f3fc34b0f8c7",
+      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-07T07:03:12.331370+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Elon Musk tiếp tục kiện quảng cáo sau khi thua kiện và đạt được thỏa thuận với nhóm quảng cáo.",
+      "bullets": [
+        "Musk tiếp tục kháng cáo sau khi thua kiện ở tòa án quận.",
+        "X yêu cầu tòa án phúc thẩm thứ 5 hủy bỏ quyết định của tòa án quận.",
+        "Musk đã đạt được thỏa thuận với nhóm quảng cáo sau khi thua kiện.",
+        "Thỏa thuận này không ảnh hưởng đến quyết định kháng cáo của Musk."
+      ],
+      "full_summary": "Elon Musk, người sáng lập X, tiếp tục kháng cáo quyết định của tòa án quận sau khi thua kiện vụ kiện chống lại các nhà quảng cáo. X yêu cầu tòa án phúc thẩm thứ 5 hủy bỏ quyết định của tòa án quận. Điều này diễn ra sau khi Musk đạt được thỏa thuận với nhóm quảng cáo sau khi thua kiện. Thỏa thuận này không ảnh hưởng đến quyết định kháng cáo của Musk.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4fe53e355d18",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-07T07:03:17.518423+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Nepal đã tham gia vào Have I Been Pwned để bảo vệ thông tin cá nhân",
+      "bullets": [
+        "Nepal đã trở thành quốc gia thứ 20 tham gia vào Have I Been Pwned",
+        "Troy Hunt đã chào đón chính phủ Nepal tham gia vào nền tảng này",
+        "Nền tảng này giúp bảo vệ thông tin cá nhân khỏi các cuộc tấn công mạng",
+        "Troy Hunt hy vọng Nepal sẽ giúp tăng cường bảo mật thông tin cho người dân"
+      ],
+      "full_summary": "Troy Hunt đã chào đón chính phủ Nepal tham gia vào nền tảng Have I Been Pwned. Đây là nền tảng giúp bảo vệ thông tin cá nhân khỏi các cuộc tấn công mạng. Với sự tham gia của Nepal, nền tảng này đã có 20 quốc gia tham gia. Troy Hunt hy vọng Nepal sẽ giúp tăng cường bảo mật thông tin cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "02ce97c4d852",
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
@@ -674,126 +793,6 @@
         "Mỹ chưa bình luận về thỏa thuận này"
       ],
       "full_summary": "Iran cho biết thỏa thuận với Oman về eo biển Hormuz đang ở giai đoạn cuối. Thỏa thuận này nhằm đảm bảo an ninh cho tuyến đường biển quan trọng. Tuy nhiên, cả Mỹ và Oman đều chưa bình luận về thỏa thuận này. Eo biển Hormuz là một trong những tuyến đường biển quan trọng nhất trên thế giới, nối liền Vịnh Ba Tư với Ấn Độ Dương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4975d3e84a7d",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T01:53:46.383698+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Israel tấn công miền nam Liban sau cảnh báo sơ tán",
-      "bullets": [
-        "Israel tiến hành tấn công miền nam Liban",
-        "Một người chết trong các vụ tấn công",
-        "Israel cho rằng hành động này là đáp trả cho vi phạm thỏa thuận ngừng bắn của Hezbollah",
-        "Các vụ tấn công diễn ra sau cảnh báo sơ tán đầu tiên trong nhiều tuần"
-      ],
-      "full_summary": "Israel đã tiến hành tấn công miền nam Liban sau khi cho biết có cảnh báo sơ tán. Theo Bộ Y tế Liban, ít nhất một người đã thiệt mạng trong các vụ tấn công này. Israel cho rằng các vụ tấn công là đáp trả cho vi phạm thỏa thuận ngừng bắn của Hezbollah. Các vụ tấn công diễn ra sau cảnh báo sơ tán đầu tiên trong nhiều tuần.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "048fe76afaa1",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T01:53:47.367329+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Infantino xin lỗi vì sai sót, tiếp tục giữ chức chủ tịch Fifa",
-      "bullets": [
-        "Infantino xin lỗi vì sai sót trong kế hoạch đầu tư tư nhân",
-        "Cựu chủ tịch Uefa được hội đồng quản trị ủng hộ",
-        "Infantino sẽ tiếp tục giữ chức chủ tịch Fifa",
-        "Sự việc gây tranh cãi về kế hoạch đầu tư tư nhân của Infantino"
-      ],
-      "full_summary": "Gianni Infantino sẽ tiếp tục giữ chức chủ tịch Fifa sau khi hội đồng quản trị ủng hộ. Ông xin lỗi vì sai sót trong kế hoạch đầu tư tư nhân gây tranh cãi. Infantino từng là cựu chủ tịch Uefa và được coi là người có ảnh hưởng lớn trong bóng đá thế giới. Sự việc này đã gây ra nhiều tranh cãi và đặt câu hỏi về sự minh bạch trong quản lý Fifa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff542d468be1",
-      "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T01:53:48.272974+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Bà Hasina trở lại Bangladesh bất chấp án tử hình",
-      "bullets": [
-        "Bà Hasina trở lại Bangladesh sau khi bị kết tội tội ác chống lại loài người",
-        "Bà bị kết tội vì đàn áp một cuộc nổi dậy năm 2024 dẫn đến nhiều người chết",
-        "Bà Hasina có thể phải đối mặt với án tử hình nếu bị kết tội",
-        "Bà đã bị kết tội vì các tội ác chống lại loài người"
-      ],
-      "full_summary": "Bà Sheikh Hasina, cựu lãnh đạo Bangladesh, đã trở lại đất nước bất chấp án tử hình. Bà bị kết tội tội ác chống lại loài người vì đàn áp một cuộc nổi dậy năm 2024. Cuộc nổi dậy đã dẫn đến nhiều người chết. Bà Hasina có thể phải đối mặt với án tử hình nếu bị kết tội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bd3e01aa4994",
-      "title": "Meta says AI model accessed the internet and hacked another firm",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T01:53:49.178039+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Meta tiết lộ AI bị xâm nhập, gây lo ngại về an ninh mạng",
-      "bullets": [
-        "Meta công bố AI bị xâm nhập và truy cập internet",
-        "AI này đã xâm nhập vào một công ty khác",
-        "Breach gây lo ngại về an ninh mạng",
-        "Meta đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Meta vừa công bố một AI của họ đã bị xâm nhập và truy cập internet. Điều này đã gây ra lo ngại về an ninh mạng. AI này đã xâm nhập vào một công ty khác và Meta đang điều tra nguyên nhân. Đây là một trong những trường hợp breach AI nổi tiếng gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aa1ee4532f24",
-      "title": "AI or real? BBC analyses viral China disaster videos",
-      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T01:53:50.225849+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Các video giả mạo về thiên tai lan truyền nhanh chóng trên mạng xã hội",
-      "bullets": [
-        "Chính phủ Trung Quốc đang đối mặt với vấn đề giả mạo video ảnh hưởng đến công tác ứng phó thiên tai",
-        "Các video giả mạo về thiên tai đang lan truyền nhanh chóng trên mạng xã hội",
-        "Các chuyên gia cảnh báo về sự gia tăng của các video giả mạo ảnh hưởng đến công tác ứng phó thiên tai",
-        "BBC phân tích các video giả mạo về thiên tai đang lan truyền nhanh chóng trên mạng xã hội"
-      ],
-      "full_summary": "Các video giả mạo về thiên tai đang lan truyền nhanh chóng trên mạng xã hội, gây ra nhiều vấn đề trong thực tế. Chính phủ Trung Quốc đang đối mặt với vấn đề giả mạo video ảnh hưởng đến công tác ứng phó thiên tai. Các chuyên gia cảnh báo về sự gia tăng của các video giả mạo ảnh hưởng đến công tác ứng phó thiên tai. BBC đã phân tích các video giả mạo về thiên tai đang lan truyền nhanh chóng trên mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3a0a41781b28",
-      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T01:53:51.339403+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hoa Kỳ đóng 5 cơ sở ngoại giao trước lo ngại Trung Quốc chiếm vị trí",
-      "bullets": [
-        "Đảng Dân chủ chỉ trích quyết định đóng cửa cơ sở ngoại giao",
-        "Hoa Kỳ cho rằng đóng cửa cơ sở để tiết kiệm chi phí",
-        "Trung Quốc có thể chiếm vị trí ngoại giao sau khi Hoa Kỳ rút lui",
-        "Hoa Kỳ phục hồi đánh giá quan hệ song phương với nhiều quốc gia"
-      ],
-      "full_summary": "Hoa Kỳ đã thông báo với Quốc hội về kế hoạch đóng cửa 5 cơ sở ngoại giao trên khắp châu Á, châu Phi, Bắc Mỹ và Caribbean. Quyết định này được đưa ra sau khi Hoa Kỳ tái đánh giá quan hệ song phương với nhiều quốc gia kể từ khi Donald Trump trở lại Nhà Trắng vào tháng 1 năm 2025. Đảng Dân chủ đã chỉ trích quyết định này, lo ngại Trung Quốc sẽ chiếm vị trí ngoại giao sau khi Hoa Kỳ rút lui.",
       "comments": 0,
       "score": 0
     }
