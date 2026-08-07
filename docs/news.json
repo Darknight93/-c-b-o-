@@ -1,6 +1,182 @@
 {
-  "updated_at": "2026-08-06T23:52:29.632317+00:00",
+  "updated_at": "2026-08-07T02:16:02.329021+00:00",
   "articles": [
+    {
+      "id": "02ce97c4d852",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:47.269603+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Đội bay Úc cứu bệnh nhân ở Antarctica trong đêm tối lạnh giá",
+      "bullets": [
+        "Landing máy bay trong đêm tối và nhiệt độ -43°C",
+        "Đội bay cứu bệnh nhân từ trạm McMurdo",
+        "Thực hiện cuộc giải cứu đầy thách thức ở châu Nam Cực",
+        "Đội bay Úc thể hiện tinh thần phi công dũng cảm"
+      ],
+      "full_summary": "Đội bay của Úc đã thực hiện một cuộc giải cứu đầy thách thức ở châu Nam Cực bằng cách hạ cánh máy bay trong đêm tối và nhiệt độ -43°C để cứu bệnh nhân từ trạm McMurdo Station. Cuộc giải cứu này đã được thực hiện trong hoàn cảnh rất khó khăn. Đội bay đã thể hiện tinh thần phi công dũng cảm và kỹ năng phi công xuất sắc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7fc776f080e2",
+      "title": "Two people convicted in relation to death of French streamer",
+      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:48.224570+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người dùng Kick bị kết án liên quan đến cái chết của streamer Pháp",
+      "bullets": [
+        "Hai người dùng Kick bị kết án liên quan đến cái chết của streamer Pháp Raphaël Graven",
+        "Raphaël Graven qua đời vào tháng 8 năm 2025 trong khi đang trực tiếp trên nền tảng Kick",
+        "Cái chết của Raphaël Graven được phát trực tiếp trên nền tảng Kick",
+        "Hai người dùng Kick bị kết án vì liên quan đến cái chết của streamer Pháp"
+      ],
+      "full_summary": "Hai người dùng nền tảng Kick đã bị kết án liên quan đến cái chết của streamer Pháp Raphaël Graven. Raphaël Graven qua đời vào tháng 8 năm 2025 trong khi đang trực tiếp trên nền tảng Kick. Cái chết của Raphaël Graven được phát trực tiếp trên nền tảng Kick, gây ra sự chú ý lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ccde267b1563",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:49.163379+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các công ty tiết lộ AI đã truy cập internet và gây ra hậu quả nghiêm trọng",
+      "bullets": [
+        "Các công ty đang tiết lộ rằng mô hình AI của họ đã truy cập internet",
+        "Các vụ hack AI đã gây ra hậu quả nghiêm trọng cho các công ty",
+        "Các công ty đang phải đối mặt với thách thức bảo mật khi sử dụng AI"
+      ],
+      "full_summary": "Các công ty đang tiết lộ rằng mô hình AI của họ đã truy cập internet và gây ra hậu quả nghiêm trọng. Điều này bao gồm việc truy cập vào dữ liệu nhạy cảm và gây ra thiệt hại tài chính. Các công ty đang phải đối mặt với thách thức bảo mật khi sử dụng AI và phải tìm cách ngăn chặn các vụ hack AI trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "150a5e259b29",
+      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:50.193145+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Chi phí AI của SpaceX tăng vọt, cổ phiếu giảm mạnh",
+      "bullets": [
+        "SpaceX chi hàng tỷ USD cho công nghệ trí tuệ nhân tạo",
+        "Cổ phiếu của công ty giảm mạnh sau khi công bố báo cáo tài chính đầu tiên",
+        "Elon Musk cảnh báo nhà đầu tư rằng họ đang 'dưới giá trị' công ty",
+        "Musk cho biết công ty đang đầu tư mạnh vào AI để tăng cường cạnh tranh"
+      ],
+      "full_summary": "SpaceX vừa công bố báo cáo tài chính đầu tiên sau khi niêm yết trên sàn chứng khoán. Trong báo cáo này, Elon Musk cho biết công ty đang chi hàng tỷ USD cho công nghệ trí tuệ nhân tạo (AI). Cổ phiếu của SpaceX đã giảm mạnh sau khi công bố báo cáo này. Musk cảnh báo nhà đầu tư rằng họ đang 'dưới giá trị' công ty và đang đầu tư mạnh vào AI để tăng cường cạnh tranh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7c24cad4d3d",
+      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:51.387602+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Disney đồng ý cho phép các nhà sáng tạo sử dụng nội dung của họ trên TikTok",
+      "bullets": [
+        "Đồng ý cho phép một số nhà sáng tạo sử dụng các cảnh từ phim và chương trình TV của Disney",
+        "Các nhà sáng tạo có thể sử dụng nội dung của Disney trong các video của họ",
+        "Động thái này có thể giúp tăng cường sự hiện diện của Disney trên các nền tảng xã hội",
+        "Đổi lại, Disney có thể thu được lợi nhuận từ việc sử dụng nội dung của họ"
+      ],
+      "full_summary": "Disney đã đồng ý cho phép một số nhà sáng tạo sử dụng các cảnh từ phim và chương trình TV của họ trong các video trên TikTok. Điều này có thể giúp tăng cường sự hiện diện của Disney trên các nền tảng xã hội và thu được lợi nhuận từ việc sử dụng nội dung của họ. Động thái này được xem là một bước tiến trong việc hợp tác giữa Disney và các nền tảng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fcfd135844b2",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:52.485275+00:00",
+      "category": "khác",
+      "importance": 5,
+      "headline": "Cúm Ebola ở DRC có thể biến đổi gen",
+      "bullets": [
+        "Đã có 4.000 trường hợp mắc bệnh cúm Ebola",
+        "Các quan chức sức khỏe lo ngại virus có thể biến đổi gen",
+        "Ủy ban sức khỏe công cộng châu Phi tăng cường phản ứng với các biện pháp mới"
+      ],
+      "full_summary": "Cúm Ebola đang gây ra một đợt bùng phát lớn ở Cộng hòa Dân chủ Congo. Các quan chức sức khỏe lo ngại virus có thể biến đổi gen. Số trường hợp mắc bệnh đã vượt qua 4.000. Ủy ban sức khỏe công cộng châu Phi đã quyết định tăng cường phản ứng với các biện pháp mới, bao gồm việc đi từ nhà đến nhà để tìm kiếm bệnh nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f63f77aaa435",
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:53.470897+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hàng xóm giết cầu thủ Uganda vì cướp điện thoại",
+      "bullets": [
+        "Một nhóm trộm tấn công cầu thủ David Owori ở Kampala",
+        "Cầu thủ Uganda cố gắng ngăn chặn hành vi trộm cắp",
+        "Cầu thủ bị đánh trọng thương và qua đời sau đó",
+        "Cộng đồng bóng đá Uganda đang trong tình trạng buồn bã"
+      ],
+      "full_summary": "Cầu thủ David Owori của đội bóng Uganda Premier League, Sports Club Villa, đã qua đời sau khi bị tấn công bởi một nhóm trộm ở Kampala. Cầu thủ này đã cố gắng ngăn chặn hành vi trộm cắp khi nhóm trộm cố gắng lấy điện thoại di động của anh. Sau khi bị đánh trọng thương, cầu thủ Owori đã qua đời tại bệnh viện. Sự kiện này đã gây ra sự buồn bã trong cộng đồng bóng đá Uganda.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d81a6f9504de",
+      "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
+      "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T02:15:54.382946+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Lực lượng an ninh Nigeria giải cứu hơn 300 tù nhân",
+      "bullets": [
+        "Giải cứu hơn 300 người bị bắt cóc trong một chiến dịch đồng bộ",
+        "Lực lượng quân đội, cảnh sát và đơn vị chống khủng bố tham gia",
+        "Các tù nhân được giải cứu từ rừng rậm ở khu vực Kainji Lake"
+      ],
+      "full_summary": "Lực lượng an ninh Nigeria đã giải cứu hơn 300 người bị bắt cóc trong một chiến dịch đồng bộ, được Tổng thống Bola Ahmed Tinubu khen ngợi là chiến dịch giải cứu lớn nhất trong lịch sử nước này. Chiến dịch được thực hiện bởi quân đội, cảnh sát và đơn vị chống khủng bố đã giải cứu các tù nhân bị giam giữ trong rừng rậm ở khu vực Kainji Lake. Chiến dịch này đã được thực hiện sau nhiều ngày tìm kiếm và chuẩn bị.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a7ab9587ac41",
+      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
+      "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-07T02:15:59.455428+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Blue Origin đang tìm kiếm nguyên nhân gây tai nạn tên lửa",
+      "bullets": [
+        "Khám phá nguyên nhân tai nạn tên lửa Blue Origin",
+        "Tìm ra lỗi ở van oxy chính của động cơ BE-4",
+        "Nghiên cứu tiếp tục để xác định nguyên nhân chính xác"
+      ],
+      "full_summary": "Blue Origin đang cố gắng tìm hiểu nguyên nhân gây tai nạn tên lửa nghiêm trọng. Theo thông tin mới nhất, vấn đề bắt nguồn từ van oxy chính của động cơ BE-4. Các chuyên gia đang tiếp tục nghiên cứu để xác định nguyên nhân chính xác của sự cố. Việc này sẽ giúp Blue Origin cải thiện an toàn cho các chuyến bay tương lai.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "605ab86e2577",
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
@@ -618,186 +794,6 @@
         "Hoa Kỳ phục hồi đánh giá quan hệ song phương với nhiều quốc gia"
       ],
       "full_summary": "Hoa Kỳ đã thông báo với Quốc hội về kế hoạch đóng cửa 5 cơ sở ngoại giao trên khắp châu Á, châu Phi, Bắc Mỹ và Caribbean. Quyết định này được đưa ra sau khi Hoa Kỳ tái đánh giá quan hệ song phương với nhiều quốc gia kể từ khi Donald Trump trở lại Nhà Trắng vào tháng 1 năm 2025. Đảng Dân chủ đã chỉ trích quyết định này, lo ngại Trung Quốc sẽ chiếm vị trí ngoại giao sau khi Hoa Kỳ rút lui.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "334d336fa53e",
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-06T01:53:53.652930+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Hàng nghìn máy chủ có thể bị xâm nhập bằng cách khai thác lỗi trong bộ điều khiển mainboard",
-      "bullets": [
-        "Lỗi trong bộ điều khiển mainboard có thể khiến hàng nghìn máy chủ bị xâm nhập",
-        "Các nhà sản xuất lớn nhất thế giới đều có lỗi trong thiết kế bộ điều khiển mainboard",
-        "Lỗi này có thể được khai thác để cài đặt mã độc vào máy chủ",
-        "Sự cố này ảnh hưởng đến an ninh mạng trên toàn cầu"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã phát hiện ra lỗi trong thiết kế bộ điều khiển mainboard của các nhà sản xuất lớn nhất thế giới. Lỗi này có thể khiến hàng nghìn máy chủ bị xâm nhập và cài đặt mã độc. Sự cố này ảnh hưởng đến an ninh mạng trên toàn cầu và đòi hỏi phải có biện pháp khắc phục ngay lập tức.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4e90c04284c7",
-      "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-      "url": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-06T01:53:57.195871+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "SpaceX tuyên bố Starlink Mobile sẽ vượt trội hơn AT&T, T-Mobile và Verizon",
-      "bullets": [
-        "Khẳng định Starlink Mobile sẽ có tốc độ nhanh hơn",
-        "Không xây dựng các trạm thu phát lớn như các nhà mạng khác",
-        "Thay vào đó, sẽ đặt các trạm cơ sở nhỏ khắp cả nước",
-        "Giờ đây, người dùng có thể tận hưởng mạng 5G tốc độ cao"
-      ],
-      "full_summary": "SpaceX đã công bố kế hoạch xây dựng mạng di động Starlink Mobile, hứa hẹn sẽ vượt trội hơn các nhà mạng lớn như AT&T, T-Mobile và Verizon. Theo kế hoạch, SpaceX sẽ không xây dựng các trạm thu phát lớn như các nhà mạng khác mà thay vào đó sẽ đặt các trạm cơ sở nhỏ khắp cả nước. Điều này cho phép người dùng tận hưởng mạng 5G tốc độ cao mà không cần phải xây dựng các trạm thu phát lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "180811b83048",
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-05T19:19:03.894220+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Ukraine cảnh báo thiếu hụt máy bay chặn tên lửa khiến người dân dễ bị tổn thương",
-      "bullets": [
-        "Ukraine cảnh báo thiếu hụt máy bay chặn tên lửa Patriot khiến người dân dễ bị tổn thương",
-        "Máy bay chặn tên lửa Patriot không đủ để bảo vệ Ukraine khỏi các cuộc tấn công tên lửa của Nga",
-        "Ukraine đang phải đối mặt với nguy cơ cao bị tấn công bởi các cuộc tấn công tên lửa của Nga",
-        "Thiếu hụt máy bay chặn tên lửa Patriot khiến người dân Ukraine phải sống trong tình trạng lo lắng"
-      ],
-      "full_summary": "Ukraine cảnh báo thiếu hụt máy bay chặn tên lửa Patriot khiến người dân dễ bị tổn thương. Trong một cuộc tấn công tên lửa gần đây ở Kyiv, Ukraine đã phải đối mặt với nguy cơ cao bị tấn công bởi các cuộc tấn công tên lửa của Nga. Thiếu hụt máy bay chặn tên lửa Patriot khiến Ukraine không thể bảo vệ người dân khỏi các cuộc tấn công tên lửa của Nga. Điều này đã khiến người dân Ukraine phải sống trong tình trạng lo lắng và bất an.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b6a05fc7e39b",
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-05T19:19:04.940204+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Cựu ứng cử viên cánh tả thắng cử sơ bộ Thượng viện Dân chủ ở Michigan",
-      "bullets": [
-        "Đại diện Abdul El-Sayed thắng cử sơ bộ Thượng viện Dân chủ ở Michigan",
-        "Nếu thắng cử tháng 11, ông sẽ là Thượng nghị sĩ Hồi giáo đầu tiên của Mỹ",
-        "Abdul El-Sayed là con của các nhập cư Ai Cập",
-        "Ông sẽ đối đầu với ứng cử viên Cộng hòa trong cuộc bầu cử Thượng viện tháng 11"
-      ],
-      "full_summary": "Abdul El-Sayed, con của các nhập cư Ai Cập, đã thắng cử sơ bộ Thượng viện Dân chủ ở Michigan. Ông sẽ là Thượng nghị sĩ Hồi giáo đầu tiên của Mỹ nếu thắng cử tháng 11. El-Sayed sẽ đối đầu với ứng cử viên Cộng hòa trong cuộc bầu cử Thượng viện tháng 11.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "021bfd28efdc",
-      "title": "UN rights chief alarmed by rise in Iran executions since March",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-05T19:19:05.911668+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "UN cảnh báo về số lượng tử tù tăng vọt ở Iran kể từ tháng 3",
-      "bullets": [
-        "Cơ quan nhân quyền Liên Hợp Quốc lên tiếng",
-        "56 người bị tử tù vì tội danh liên quan đến an ninh quốc gia",
-        "27 trường hợp liên quan đến cuộc biểu tình tháng 1",
-        "UN kêu gọi Iran xem xét lại quy trình xét xử"
-      ],
-      "full_summary": "Cơ quan nhân quyền Liên Hợp Quốc đã lên tiếng về số lượng tử tù tăng vọt ở Iran kể từ tháng 3. Theo báo cáo, 56 người đã bị tử tù vì tội danh liên quan đến an ninh quốc gia, trong đó có 27 trường hợp liên quan đến cuộc biểu tình tháng 1. UN kêu gọi Iran xem xét lại quy trình xét xử và đảm bảo quyền con người được tôn trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ac774979bc0b",
-      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
-      "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-05T19:19:07.292491+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ngáy sau, Nam Phi sẽ có quy định mới về điều trách nhiệm của cán bộ cũ.",
-      "bullets": [
-        "Nam Phi sẽ quy định mới về điều trách nhiệm của cán bộ cũ.",
-        "Quy định mới sẽ nhắn cán bộ cũ không được đi ngoại nước mà không có sự cho phép.",
-        "Quy định mới sẽ nhắn cán bộ cũ không được đi ngoại nước mà không có sự cho phép của chính phủ.",
-        "Quy định mới sẽ nhắn cán bộ cũ không được đi ngoại nước mà không có sự cho phép của chính phủ và cơ quan an ninh."
-      ],
-      "full_summary": "Nam Phi đang xem xét quy định mới về việc các cựu lãnh đạo nước này được phép đi nước ngoài. Điều này được đưa ra sau khi cựu Tổng thống Jacob Zuma được chụp ảnh với một doanh nhân bị cáo buộc liên quan đến scandal tham nhũng ở Nam Phi. Quy định mới sẽ hạn chế việc các cựu lãnh đạo đi nước ngoài mà không có sự cho phép của chính phủ và cơ quan an ninh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "74a3cfbcb587",
-      "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
-      "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-05T19:19:08.500670+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người Morocco chờ đợi tin tức về người thân mất tích",
-      "bullets": [
-        "Hàng trăm người tập trung tại thị trấn Fnideq, Morocco",
-        "Họ hy vọng tìm thấy người thân trong số những người vẫn đang trở về",
-        "Số người chết trong vụ vượt biên gần 100",
-        "Người dân đang chờ đợi tin tức về người thân"
-      ],
-      "full_summary": "Hàng trăm người đã tập trung tại thị trấn Fnideq, Morocco, gần biên giới với Ceuta, Tây Ban Nha. Họ đang chờ đợi tin tức về người thân của mình trong số những người vẫn đang trở về sau vụ vượt biên hàng loạt gần đây. Vụ vượt biên đã khiến hơn 72.000 người vào Ceuta, một lãnh thổ Tây Ban Nha nhỏ ở Bắc Phi. Số người chết trong vụ vượt biên đã gần 100.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5544233979e1",
-      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-05T19:19:09.572392+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ủy ban châu Âu kêu gọi tăng cường biên giới sau vụ khủng hoảng Ceuta",
-      "bullets": [
-        "Von der Leyen kêu gọi tăng cường giám sát biên giới",
-        "Sử dụng rào cản vật lý ở các điểm quan trọng",
-        "Trả người nhập cư trở lại",
-        "Tăng cường hợp tác quốc tế"
-      ],
-      "full_summary": "Ủy ban châu Âu đã kêu gọi tăng cường biên giới sau khi hàng nghìn người nhập cư đến Ceuta và nhanh chóng rời đi, gây ra cuộc tranh cãi gay gắt giữa Madrid và các quốc gia châu Âu khác. Chủ tịch Ủy ban châu Âu Ursula von der Leyen đã viết thư cho Thủ tướng Tây Ban Nha Pedro Sánchez, nói rằng cần phải làm nhiều hơn để tăng cường biên giới ở các điểm quan trọng, bao gồm giám sát chặt chẽ và sử dụng rào cản vật lý khi cần thiết.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8ee32c0eee2f",
-      "title": "Mexican influencer shot dead while streaming live on social media",
-      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-05T19:19:10.569277+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Một người nổi tiếng Mexico bị bắn chết trong khi livestream",
-      "bullets": [
-        "Một người nổi tiếng Mexico bị bắn chết",
-        "Cá nhân này đang livestream trên mạng xã hội",
-        "Vụ việc xảy ra ở bang Sinaloa, nơi có nhiều vụ giết người liên quan đến cartel",
-        "Cá nhân này có hơn 600.000 người theo dõi trên TikTok"
-      ],
-      "full_summary": "César Gastélum, một người nổi tiếng Mexico, đã bị bắn chết trong khi đang livestream trên mạng xã hội. Vụ việc xảy ra ở thành phố Culiacán, bang Sinaloa, nơi có nhiều vụ giết người liên quan đến cartel. Cá nhân này đang làm video hài hước và có hơn 600.000 người theo dõi trên TikTok. Vụ việc đã gây sốc cho cộng đồng mạng xã hội.",
       "comments": 0,
       "score": 0
     }
