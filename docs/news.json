@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-08-07T07:03:21.597721+00:00",
+  "updated_at": "2026-08-07T12:45:09.598030+00:00",
   "articles": [
+    {
+      "id": "bbc4da856a1f",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T12:44:54.015062+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ba quốc gia ký hiệp ước phòng thủ, cảnh báo tấn công chung",
+      "bullets": [
+        "Pakistan tuyên bố tấn công vào bất kỳ quốc gia nào trong ba sẽ coi là tấn công chung",
+        "Hiệp ước phòng thủ giữa Saudi Arabia, Thổ Nhĩ Kỳ và Pakistan nhằm đối phó với xung đột ở Trung Đông",
+        "Ba quốc gia cam kết hỗ trợ lẫn nhau trong trường hợp bị tấn công",
+        "Hợp tác quân sự giữa ba quốc gia nhằm tăng cường an ninh và ổn định khu vực"
+      ],
+      "full_summary": "Saudi Arabia, Thổ Nhĩ Kỳ và Pakistan đã ký một hiệp ước phòng thủ mới, cảnh báo rằng tấn công vào bất kỳ quốc gia nào trong ba sẽ coi là tấn công chung. Hiệp ước này được ký kết nhằm đối phó với xung đột đang diễn ra ở Trung Đông. Pakistan tuyên bố rằng sẽ hỗ trợ Thổ Nhĩ Kỳ và Saudi Arabia trong trường hợp bị tấn công, và ba quốc gia cam kết tăng cường hợp tác quân sự để tăng cường an ninh và ổn định khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4742e5695eec",
+      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T12:44:55.125164+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Hãng Đức RWE nhận 1,2 tỷ USD để ngừng dự án năng lượng gió",
+      "bullets": [
+        "Hợp đồng trị giá 1,2 tỷ USD giữa Mỹ và RWE đã được ký kết",
+        "Dự án năng lượng gió sẽ bị hủy bỏ",
+        "Mỹ đã ký nhiều hợp đồng tương tự trong thời gian gần đây",
+        "Năng lượng gió từng bị chỉ trích bởi cựu Tổng thống Trump"
+      ],
+      "full_summary": "Hãng năng lượng Đức RWE đã đạt được thỏa thuận trị giá 1,2 tỷ USD với chính phủ Mỹ để ngừng các dự án năng lượng gió ngoài khơi. Đây là một trong nhiều thỏa thuận hủy bỏ dự án năng lượng gió mà Mỹ đã ký kết trong thời gian gần đây. Năng lượng gió từng bị chỉ trích bởi cựu Tổng thống Trump, nhưng đã trở thành nguồn năng lượng quan trọng trong nhiều quốc gia. Thỏa thuận này cho thấy sự thay đổi trong chính sách năng lượng của Mỹ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "43e81bcdc9a0",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T12:44:56.230097+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tình trạng bất mãn của thanh niên ở Jharkhand gia tăng",
+      "bullets": [
+        "Nhiều thanh niên ở Jharkhand biểu tình vì vấn đề việc làm và tuyển dụng",
+        "Tình trạng bất mãn ở đây được cho là do sự ảnh hưởng của phong trào CJP ở Delhi",
+        "Lãnh đạo chính phủ Jharkhand đang cố gắng giải quyết vấn đề này",
+        "Phong trào thanh niên ở Jharkhand đang thu hút sự chú ý quốc tế"
+      ],
+      "full_summary": "Sau khi phong trào CJP gây sóng gió ở Delhi, một phong trào mới của thanh niên đang bắt đầu ở Jharkhand. Phong trào này tập trung vào vấn đề việc làm và tuyển dụng. Lãnh đạo chính phủ Jharkhand đang cố gắng giải quyết vấn đề này, nhưng tình trạng bất mãn của thanh niên vẫn tiếp tục gia tăng. Phong trào này đang thu hút sự chú ý quốc tế và được cho là có thể ảnh hưởng đến chính trị của Jharkhand.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aa1ee4532f24",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T12:44:57.404983+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các video giả về tai nạn ở Trung Quốc lan truyền nhanh chóng",
+      "bullets": [
+        "Phát hiện ra các video giả về thiên tai ở Trung Quốc",
+        "Các video giả gây ra sự nhầm lẫn và lo lắng cho người dân",
+        "BBC phân tích các video giả để xác định sự thật",
+        "Cần phải cẩn thận khi chia sẻ thông tin trên mạng xã hội"
+      ],
+      "full_summary": "Các video giả về thiên tai ở Trung Quốc đang lan truyền nhanh chóng trên mạng xã hội. Điều này gây ra sự nhầm lẫn và lo lắng cho người dân. BBC đã phân tích các video giả để xác định sự thật và cảnh báo người dân cần phải cẩn thận khi chia sẻ thông tin trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3a0a41781b28",
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T12:44:58.460839+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ sắp đóng 5 cơ sở ngoại giao trên toàn cầu",
+      "bullets": [
+        "Mỹ sẽ đóng 5 cơ sở ngoại giao ở Canada, Grenada, Nhật Bản, Indonesia và Cameroon",
+        "Cơ sở đóng cửa do lý do chi phí và sau khi đánh giá lại quan hệ song phương",
+        "Tình trạng này khiến Mỹ để lại khoảng trống ngoại giao có thể bị Trung Quốc lấp đầy",
+        "Hạ viện Mỹ được thông báo về kế hoạch đóng cửa cơ sở ngoại giao"
+      ],
+      "full_summary": "Mỹ sắp đóng 5 cơ sở ngoại giao trên toàn cầu, bao gồm Canada, Grenada, Nhật Bản, Indonesia và Cameroon. Lý do được đưa ra là chi phí và sau khi đánh giá lại quan hệ song phương. Tình trạng này khiến Mỹ để lại khoảng trống ngoại giao có thể bị Trung Quốc lấp đầy. Hạ viện Mỹ được thông báo về kế hoạch đóng cửa cơ sở ngoại giao.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84205980e45a",
+      "title": "Haitians face arrest and deportation after US removes TPS protections",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-07T12:44:59.485470+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Haiti bị Mỹ gỡ bỏ bảo vệ tạm thời, nguy cơ bị bắt và trục xuất",
+      "bullets": [
+        "Mỹ gỡ bỏ bảo vệ tạm thời cho người Haiti",
+        "Hàng trăm nghìn người Haiti có nguy cơ bị bắt và trục xuất",
+        "Nước Haiti đang gặp nhiều vấn đề về tội phạm, bạo lực và bất ổn chính trị",
+        "Tòa án tối cao Mỹ đã mở đường cho việc trục xuất người Haiti"
+      ],
+      "full_summary": "Hàng trăm nghìn người Haiti đang đối mặt với nguy cơ bị bắt và trục xuất khỏi Mỹ sau khi chính phủ Mỹ gỡ bỏ bảo vệ tạm thời cho họ. Điều này diễn ra mặc dù nước Haiti đang gặp nhiều vấn đề về tội phạm, bạo lực và bất ổn chính trị. Tòa án tối cao Mỹ đã mở đường cho việc trục xuất người Haiti sau khi bác bỏ thẩm quyền xét xử của tòa án về chương trình bảo vệ tạm thời.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "24c398250342",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-07T12:45:03.315687+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Anthropic sẽ tự thiết kế phần cứng để vận hành Claude",
+      "bullets": [
+        "Tự thiết kế phần cứng để giảm phụ thuộc vào Nvidia",
+        "Racing để tăng quy mô với OpenAI",
+        "Đảm bảo nguồn cung cấp chip cho các sản phẩm AI",
+        "Tăng cường độc lập trong phát triển công nghệ"
+      ],
+      "full_summary": "Anthropic và OpenAI đang cạnh tranh để tăng quy mô trong khi giảm phụ thuộc vào Nvidia. Để đạt được mục tiêu này, Anthropic sẽ tự thiết kế phần cứng để vận hành Claude. Điều này sẽ giúp họ đảm bảo nguồn cung cấp chip cho các sản phẩm AI và tăng cường độc lập trong phát triển công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "24353d5805cd",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-07T12:45:07.875662+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các nhà nghiên cứu công bố hệ thống inference LLM cao tốc vLLM",
+      "bullets": [
+        "Xây dựng hệ thống inference LLM cao tốc vLLM",
+        "Giảm thời gian inference xuống còn 1/10",
+        "Tăng tốc độ inference lên 10 lần",
+        "Áp dụng trong các ứng dụng AI thực tế"
+      ],
+      "full_summary": "Các nhà nghiên cứu đã công bố hệ thống inference LLM cao tốc vLLM, giúp giảm thời gian inference xuống còn 1/10 và tăng tốc độ inference lên 10 lần. Hệ thống này được xây dựng để áp dụng trong các ứng dụng AI thực tế. Các nhà nghiên cứu hy vọng rằng hệ thống này sẽ giúp đẩy nhanh quá trình phát triển của AI và đưa nó đến gần hơn với con người.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "7b3554b7aa70",
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
@@ -633,166 +793,6 @@
         "Các quốc gia phương Tây tiếp tục lên án các hành động của Nga và kêu gọi ngừng bắn."
       ],
       "full_summary": "Nga đã tăng cường tấn công bờ biển Ukraine trong những ngày gần đây, khiến nhiều tàu bị cháy đen và cảng bị phá hủy. Các cuộc tấn công diễn ra trên khắp bờ biển Ukraine, khiến nhiều người dân phải sống trong lo lắng. Nga tiếp tục sử dụng vũ khí mạnh để tấn công Ukraine, gây ra nhiều thiệt hại. Các quốc gia phương Tây tiếp tục lên án các hành động của Nga và kêu gọi ngừng bắn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4f99237b1079",
-      "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T08:21:27.202201+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tổng biên tập Ấn Độ bị kết tội về tội hiếp dâm",
-      "bullets": [
-        "Một tòa án ở Goa đã đảo ngược phán quyết năm 2021 của tòa án sơ thẩm",
-        "Tòa án đã kết tội Tarun Tejpal về tội hiếp dâm xảy ra vào năm 2013",
-        "Phán quyết này là kết quả của vụ án kéo dài nhiều năm",
-        "Tòa án đã bác bỏ việc Tejpal vô tội"
-      ],
-      "full_summary": "Tổng biên tập Ấn Độ Tarun Tejpal đã bị kết tội về tội hiếp dâm xảy ra vào năm 2013. Một tòa án ở Goa đã đảo ngược phán quyết năm 2021 của tòa án sơ thẩm, kết tội Tejpal về tội hiếp dâm. Phán quyết này là kết quả của vụ án kéo dài nhiều năm. Tejpal đã bị kết tội sau khi bị cáo buộc hiếp dâm một nhân viên nữ của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0a645819db27",
-      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T08:21:28.231609+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một cầu thủ bóng đá Uganda bị đánh chết bởi băng đảng",
-      "bullets": [
-        "Một cầu thủ bóng đá Uganda bị đánh chết bởi băng đảng",
-        "Cầu thủ 27 tuổi bị giết sau khi chống lại một vụ cướp",
-        "Cảnh sát nghi ngờ băng đảng đã cố gắng cướp tài sản của anh ta",
-        "Cảnh sát đang điều tra vụ việc"
-      ],
-      "full_summary": "Một cầu thủ bóng đá Uganda 27 tuổi đã bị đánh chết bởi băng đảng sau khi anh ta chống lại một vụ cướp. Cảnh sát nghi ngờ băng đảng đã cố gắng cướp tài sản của anh ta. Vụ việc đang được điều tra. Cầu thủ bóng đá đã trở thành nạn nhân của một vụ tấn công bất ngờ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f2ae4a089de",
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T08:21:29.215576+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Rihanna đang thu âm album mới",
-      "bullets": [
-        "Rihanna đang thu âm album mới",
-        "Cô ấy đã không phát hành album đầy đủ kể từ năm 2016",
-        "A$AP Rocky cho biết Rihanna đang 'nấu ăn'",
-        "Cô ấy có thể sẽ phát hành album mới trong tương lai"
-      ],
-      "full_summary": "Rihanna đang thu âm album mới, theo lời của người bạn trai A$AP Rocky. Cô ấy đã không phát hành album đầy đủ kể từ năm 2016. A$AP Rocky cho biết Rihanna đang 'nấu ăn', có nghĩa là cô ấy đang làm việc chăm chỉ để tạo ra âm nhạc mới. Điều này đã tạo ra sự tò mò và hy vọng cho người hâm mộ về việc Rihanna sẽ phát hành album mới trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "608ba770a128",
-      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
-      "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T08:21:30.467094+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một tay đấm gây tử vong cho nhân viên cứu trợ Scotland",
-      "bullets": [
-        "Sharif Ahmadzai bị cáo buộc tội giết người",
-        "Anh ta bị buộc tội trộm cắp và sử dụng vũ khí",
-        "Vụ án được xét xử tại tòa án Scotland",
-        "Ahmadzai là một tay đấm Afghanistan 26 tuổi"
-      ],
-      "full_summary": "Sharif Ahmadzai, một tay đấm 26 tuổi từ Afghanistan, đã trở lại tòa án Scotland để đối mặt với các cáo buộc giết người, trộm cắp và sử dụng vũ khí. Vụ án liên quan đến cái chết của một nhân viên cứu trợ Scotland. Ahmadzai bị buộc tội giết người với ý định, trộm cắp và sử dụng vũ khí.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e70fc15e4af7",
-      "title": "Nigerian security forces rescue more than 300 abductees",
-      "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T08:21:31.499373+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Lực lượng an ninh Nigeria giải cứu hơn 300 người bị bắt cóc",
-      "bullets": [
-        "Giải cứu được thực hiện trong một cuộc vận động đồng bộ lớn nhất của lực lượng an ninh Nigeria",
-        "Hơn 300 người bị bắt cóc đã được giải cứu",
-        "Cuộc giải cứu được thực hiện bởi các lực lượng an ninh Nigeria phối hợp",
-        "Chi tiết về cuộc giải cứu đang được điều tra"
-      ],
-      "full_summary": "Lực lượng an ninh Nigeria đã thực hiện một cuộc giải cứu lớn, giải cứu hơn 300 người bị bắt cóc trong một ngày. Đây là cuộc vận động đồng bộ lớn nhất của lực lượng an ninh Nigeria. Cuộc giải cứu được thực hiện bởi các lực lượng an ninh Nigeria phối hợp. Chi tiết về cuộc giải cứu đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "31ba1cc28636",
-      "title": "How tech is helping in the battle against wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T08:21:34.230310+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Công nghệ hỗ trợ ngăn ngừa cháy rừng nhưng vẫn cần lực lượng cứu hỏa",
-      "bullets": [
-        "Đoán đoán và cảnh báo cháy rừng trước khi xảy ra",
-        "Hỗ trợ các lực lượng cứu hỏa bằng cách cung cấp thông tin thời tiết và địa hình",
-        "Tìm kiếm và xác định vị trí cháy rừng nhanh chóng",
-        "Hỗ trợ các lực lượng cứu hỏa trong việc dập lửa"
-      ],
-      "full_summary": "Công nghệ đang được sử dụng để ngăn ngừa và kiểm soát cháy rừng. Các hệ thống giám sát và cảnh báo cháy rừng có thể đoán trước và cảnh báo cháy rừng trước khi xảy ra. Tuy nhiên, vẫn cần có lực lượng cứu hỏa để dập lửa và ngăn chặn cháy rừng lan rộng. Công nghệ đang hỗ trợ các lực lượng cứu hỏa bằng cách cung cấp thông tin thời tiết và địa hình, giúp họ tìm kiếm và xác định vị trí cháy rừng nhanh chóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd3507730f9a",
-      "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
-      "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-06T08:21:39.179894+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Mùa bão Đại Tây Dương năm nay có vẻ không ấn tượng",
-      "bullets": [
-        "Các mô hình dự đoán một sự kiện ngoài tầm thường",
-        "Mùa bão có vẻ không hoạt động",
-        "Có thể có một cái giá phải trả cho tình trạng này",
-        "Các mô hình dự đoán một sự kiện ngoài tầm thường"
-      ],
-      "full_summary": "Theo Ars Technica, mùa bão Đại Tây Dương năm nay có vẻ không ấn tượng. Các mô hình dự đoán một sự kiện ngoài tầm thường. Điều này có thể có một cái giá phải trả, nhưng chưa rõ là gì. Các mô hình dự đoán một sự kiện ngoài tầm thường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "955dda531614",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-06T01:53:45.424672+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Iran sắp đạt thỏa thuận với Oman về eo biển Hormuz",
-      "bullets": [
-        "Iran đang thảo luận với Oman về thỏa thuận về eo biển Hormuz",
-        "Thỏa thuận này nhằm đảm bảo an ninh cho tuyến đường biển quan trọng",
-        "Hai bên chưa công bố thông tin chi tiết về thỏa thuận",
-        "Mỹ chưa bình luận về thỏa thuận này"
-      ],
-      "full_summary": "Iran cho biết thỏa thuận với Oman về eo biển Hormuz đang ở giai đoạn cuối. Thỏa thuận này nhằm đảm bảo an ninh cho tuyến đường biển quan trọng. Tuy nhiên, cả Mỹ và Oman đều chưa bình luận về thỏa thuận này. Eo biển Hormuz là một trong những tuyến đường biển quan trọng nhất trên thế giới, nối liền Vịnh Ba Tư với Ấn Độ Dương.",
       "comments": 0,
       "score": 0
     }
