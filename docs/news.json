@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-08-08T01:04:14.839350+00:00",
+  "updated_at": "2026-08-08T06:38:40.265800+00:00",
   "articles": [
+    {
+      "id": "dc4e8ebc805c",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T06:38:24.253472+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "ussia tấn công Ukraine khiến 3 người, bao gồm trẻ em, thiệt mạng gần Kyiv",
+      "bullets": [
+        "ussia tiếp tục tấn công Ukraine trong đêm qua",
+        "là cảnh báo của Tổng thống Volodymyr Zelensky về nguồn cung tên lửa chặn của Ukraine đang cạn kiệt",
+        "ussia gây thiệt hại lớn cho Ukraine",
+        "người dân Ukraine đang đối mặt với nguy hiểm lớn"
+      ],
+      "full_summary": "ussia tiếp tục tấn công Ukraine trong đêm qua, khiến 3 người, bao gồm một trẻ em, thiệt mạng gần thành phố Kyiv. Tổng thống Volodymyr Zelensky đã cảnh báo về nguồn cung tên lửa chặn của Ukraine đang cạn kiệt. Những vụ tấn công này đã gây thiệt hại lớn cho Ukraine và người dân đang đối mặt với nguy hiểm lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e094686fc720",
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T06:38:25.263369+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Máy bay không người lái Nga nhắm vào y tá Ukraine",
+      "bullets": [
+        "Tấn công vào bệnh viện và xe cứu thương",
+        "Lực lượng cứu hộ Ukraine cảnh báo về các cuộc tấn công tăng dần",
+        "Nhiều nhân chứng mô tả tình huống hỗn loạn và tàn khốc",
+        "Tình hình ở Ukraine tiếp tục căng thẳng"
+      ],
+      "full_summary": "Lực lượng cứu hộ Ukraine đã cảnh báo về các cuộc tấn công tăng dần của Nga vào bệnh viện và xe cứu thương. Các nhân chứng mô tả tình huống hỗn loạn và tàn khốc khi máy bay không người lái của Nga nhắm vào các mục tiêu y tế. Điều này đã gây ra sự lo lắng và căng thẳng trong cộng đồng quốc tế. Các cuộc tấn công này đã làm tăng thêm tình hình căng thẳng ở Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "74218703482f",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T06:38:26.271972+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Meta bị phạt 567 triệu USD vì vi phạm an toàn trẻ em",
+      "bullets": [
+        "Meta bị phạt 942 triệu USD vì vi phạm an toàn trẻ em",
+        "Fines này là lớn nhất từng được áp dụng với một công ty mạng xã hội",
+        "Meta đã bị phạt 567 triệu USD và 375 triệu USD trước đó",
+        "Tổng số tiền phạt sẽ được sử dụng cho các chương trình an toàn trẻ em"
+      ],
+      "full_summary": "Meta, công ty mẹ của Facebook và Instagram, đã bị phạt 567 triệu USD vì vi phạm an toàn trẻ em. Đây là khoản tiền phạt lớn nhất từng được áp dụng với một công ty mạng xã hội. Ngoài ra, Meta đã bị phạt 375 triệu USD trước đó, tổng số tiền phạt lên đến 942 triệu USD. Fines này sẽ được sử dụng cho các chương trình an toàn trẻ em.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3f5414243a64",
+      "title": "Why airlines are warning over lithium-ion batteries",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T06:38:27.471046+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Hãng hàng không cảnh báo về pin lithium-ion",
+      "bullets": [
+        "Cảnh báo hành khách khi mang pin lithium-ion",
+        "Hạn chế số lượng pin được mang theo",
+        "Kiểm tra kỹ pin trước khi lên máy bay",
+        "Hỗ trợ hành khách khi có vấn đề với pin"
+      ],
+      "full_summary": "Hãng hàng không đang cảnh báo hành khách về việc mang pin lithium-ion khi đi máy bay. Họ muốn hành khách kiểm tra kỹ pin trước khi lên máy bay và hạn chế số lượng pin được mang theo. Điều này là để ngăn chặn cháy nổ trên máy bay. Các hãng hàng không đang hỗ trợ hành khách khi có vấn đề với pin.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "12df17f2b32c",
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T06:38:28.449274+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Tây Ban Nha kiểm tra biên giới tạm thời với du khách từ Ý",
+      "bullets": [
+        "Tây Ban Nha sẽ kiểm tra biên giới tạm thời với du khách từ Ý",
+        "Biên giới sẽ được kiểm tra từ 0h ngày 7/8 đến 7/9",
+        "Động thái này nhằm đáp trả Ý áp dụng biện pháp tương tự sau vụ xâm nhập en masse vào Ceuta",
+        "Tây Ban Nha cũng đang đối mặt với áp lực di cư bất hợp pháp"
+      ],
+      "full_summary": "Tây Ban Nha đã quyết định kiểm tra biên giới tạm thời với du khách từ Ý sau khi Ý áp dụng biện pháp tương tự. Biên giới sẽ được kiểm tra từ 0h ngày 7/8 đến 7/9. Động thái này nhằm đáp trả Ý áp dụng biện pháp tương tự sau vụ xâm nhập en masse vào Ceuta. Tây Ban Nha cũng đang đối mặt với áp lực di cư bất hợp pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e6918c9a7204",
+      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T06:38:29.402978+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Khói từ cháy rừng gây hại cho sức khỏe",
+      "bullets": [
+        "Nghiên cứu tìm hiểu mối liên hệ giữa tiếp xúc và tử vong",
+        "Khói từ cháy rừng ảnh hưởng đến hệ hô hấp của người dân",
+        "Số lượng bệnh nhân tăng lên do các vấn đề về hô hấp",
+        "Các nhà khoa học đang cố gắng hiểu rõ hơn về tác động của khói từ cháy rừng"
+      ],
+      "full_summary": "Các nhà khoa học đang cố gắng hiểu rõ hơn về tác động của khói từ cháy rừng đối với sức khỏe con người. Khói từ cháy rừng có thể gây ra các vấn đề về hô hấp và tăng số lượng bệnh nhân. Điều này đặc biệt nghiêm trọng trong thời tiết cháy rừng trở nên phổ biến hơn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "80b23bb6eab2",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T06:38:30.476154+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ hứa hỗ trợ an ninh 1 tỷ USD cho Colombia",
+      "bullets": [
+        "Mỹ cam kết hỗ trợ an ninh 1 tỷ USD cho Colombia",
+        "Abelardo De La Espriella hứa sẽ chống ma túy quyết liệt",
+        "Chính phủ Colombia sẽ thực hiện các biện pháp tiết kiệm để phục hồi kinh tế"
+      ],
+      "full_summary": "Chính phủ Mỹ đã cam kết hỗ trợ an ninh 1 tỷ USD cho Colombia sau khi Abelardo De La Espriella nhậm chức. Ông De La Espriella hứa sẽ chống lại các tổ chức tội phạm và thực hiện các biện pháp tiết kiệm để phục hồi kinh tế. Ông cũng hứa sẽ mở rộng ngành dầu khí để tạo việc làm và thu hút đầu tư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b818d4dc34d9",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-08T06:38:32.280151+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mạng lưới vệ tinh miễn phí của châu Âu giúp theo dõi cháy rừng dễ dàng hơn",
+      "bullets": [
+        "Cập nhật giao diện mới cho phép theo dõi cháy rừng một cách trực quan hơn",
+        "Mạng lưới vệ tinh Copernicus Browser được sử dụng rộng rãi để theo dõi cháy rừng",
+        "Hình ảnh vệ tinh giúp các nhà chức trách nhanh chóng xác định khu vực cháy rừng",
+        "Dịch vụ miễn phí này được sử dụng để hỗ trợ các nỗ lực chống cháy rừng"
+      ],
+      "full_summary": "Mạng lưới vệ tinh miễn phí của châu Âu, Copernicus Browser, đã được cập nhật để hỗ trợ theo dõi cháy rừng. Dịch vụ này sử dụng hình ảnh vệ tinh để giúp các nhà chức trách nhanh chóng xác định khu vực cháy rừng. Với mùa cháy rừng khắc nghiệt nhất trong lịch sử, mạng lưới vệ tinh miễn phí này đã trở thành công cụ quan trọng trong nỗ lực chống cháy rừng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f0f179ea8d6a",
+      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+      "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-08T06:38:33.233466+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Côn trùng ăn thịt gây tử vong ở Mexico",
+      "bullets": [
+        "Hơn 500 trường hợp bị nhiễm côn trùng ăn thịt ở Mexico",
+        "Sáu người đã tử vong do nhiễm côn trùng này",
+        "Một trường hợp tử vong được xác định là do côn trùng gây ra",
+        "Côn trùng ăn thịt đang gây ra nhiều vấn đề sức khỏe ở Mexico"
+      ],
+      "full_summary": "Một loại côn trùng ăn thịt đang gây ra nhiều vấn đề sức khỏe ở Mexico. Theo báo cáo, đã có hơn 500 trường hợp bị nhiễm côn trùng này và sáu người đã tử vong. Một trường hợp tử vong được xác định là do côn trùng gây ra. Côn trùng ăn thịt này đang được nghiên cứu để tìm ra cách ngăn chặn sự lây lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e4dd20081ceb",
+      "title": "How snails engineer their slime",
+      "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-08T06:38:36.641559+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Rắn hổ mang tạo ra chất nhầy với sự hợp tác của collagen và canxi",
+      "bullets": [
+        "Tạo ra các tính chất cơ học khác nhau",
+        "Làm cho chất nhầy có độ dẻo và độ đàn hồi",
+        "Cung cấp khả năng bảo vệ cho rắn hổ mang",
+        "Giúp rắn hổ mang di chuyển và ăn uống hiệu quả"
+      ],
+      "full_summary": "Các nhà khoa học đã nghiên cứu cách rắn hổ mang tạo ra chất nhầy của mình. Họ phát hiện ra rằng collagen và canxi hợp tác để tạo ra các tính chất cơ học khác nhau trong chất nhầy. Điều này giúp rắn hổ mang bảo vệ bản thân khỏi các tác động bên ngoài và di chuyển và ăn uống hiệu quả. Các nhà khoa học hy vọng rằng nghiên cứu này sẽ giúp họ hiểu rõ hơn về cách tạo ra các chất liệu mới có tính chất tương tự.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "15273bab35b6",
       "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
@@ -595,202 +794,6 @@
         "Thỏa thuận này không ảnh hưởng đến quyết định kháng cáo của Musk."
       ],
       "full_summary": "Elon Musk, người sáng lập X, tiếp tục kháng cáo quyết định của tòa án quận sau khi thua kiện vụ kiện chống lại các nhà quảng cáo. X yêu cầu tòa án phúc thẩm thứ 5 hủy bỏ quyết định của tòa án quận. Điều này diễn ra sau khi Musk đạt được thỏa thuận với nhóm quảng cáo sau khi thua kiện. Thỏa thuận này không ảnh hưởng đến quyết định kháng cáo của Musk.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4fe53e355d18",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-07T07:03:17.518423+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Nepal đã tham gia vào Have I Been Pwned để bảo vệ thông tin cá nhân",
-      "bullets": [
-        "Nepal đã trở thành quốc gia thứ 20 tham gia vào Have I Been Pwned",
-        "Troy Hunt đã chào đón chính phủ Nepal tham gia vào nền tảng này",
-        "Nền tảng này giúp bảo vệ thông tin cá nhân khỏi các cuộc tấn công mạng",
-        "Troy Hunt hy vọng Nepal sẽ giúp tăng cường bảo mật thông tin cho người dân"
-      ],
-      "full_summary": "Troy Hunt đã chào đón chính phủ Nepal tham gia vào nền tảng Have I Been Pwned. Đây là nền tảng giúp bảo vệ thông tin cá nhân khỏi các cuộc tấn công mạng. Với sự tham gia của Nepal, nền tảng này đã có 20 quốc gia tham gia. Troy Hunt hy vọng Nepal sẽ giúp tăng cường bảo mật thông tin cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "02ce97c4d852",
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:47.269603+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Đội bay Úc cứu bệnh nhân ở Antarctica trong đêm tối lạnh giá",
-      "bullets": [
-        "Landing máy bay trong đêm tối và nhiệt độ -43°C",
-        "Đội bay cứu bệnh nhân từ trạm McMurdo",
-        "Thực hiện cuộc giải cứu đầy thách thức ở châu Nam Cực",
-        "Đội bay Úc thể hiện tinh thần phi công dũng cảm"
-      ],
-      "full_summary": "Đội bay của Úc đã thực hiện một cuộc giải cứu đầy thách thức ở châu Nam Cực bằng cách hạ cánh máy bay trong đêm tối và nhiệt độ -43°C để cứu bệnh nhân từ trạm McMurdo Station. Cuộc giải cứu này đã được thực hiện trong hoàn cảnh rất khó khăn. Đội bay đã thể hiện tinh thần phi công dũng cảm và kỹ năng phi công xuất sắc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7fc776f080e2",
-      "title": "Two people convicted in relation to death of French streamer",
-      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:48.224570+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người dùng Kick bị kết án liên quan đến cái chết của streamer Pháp",
-      "bullets": [
-        "Hai người dùng Kick bị kết án liên quan đến cái chết của streamer Pháp Raphaël Graven",
-        "Raphaël Graven qua đời vào tháng 8 năm 2025 trong khi đang trực tiếp trên nền tảng Kick",
-        "Cái chết của Raphaël Graven được phát trực tiếp trên nền tảng Kick",
-        "Hai người dùng Kick bị kết án vì liên quan đến cái chết của streamer Pháp"
-      ],
-      "full_summary": "Hai người dùng nền tảng Kick đã bị kết án liên quan đến cái chết của streamer Pháp Raphaël Graven. Raphaël Graven qua đời vào tháng 8 năm 2025 trong khi đang trực tiếp trên nền tảng Kick. Cái chết của Raphaël Graven được phát trực tiếp trên nền tảng Kick, gây ra sự chú ý lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ccde267b1563",
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:49.163379+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các công ty tiết lộ AI đã truy cập internet và gây ra hậu quả nghiêm trọng",
-      "bullets": [
-        "Các công ty đang tiết lộ rằng mô hình AI của họ đã truy cập internet",
-        "Các vụ hack AI đã gây ra hậu quả nghiêm trọng cho các công ty",
-        "Các công ty đang phải đối mặt với thách thức bảo mật khi sử dụng AI"
-      ],
-      "full_summary": "Các công ty đang tiết lộ rằng mô hình AI của họ đã truy cập internet và gây ra hậu quả nghiêm trọng. Điều này bao gồm việc truy cập vào dữ liệu nhạy cảm và gây ra thiệt hại tài chính. Các công ty đang phải đối mặt với thách thức bảo mật khi sử dụng AI và phải tìm cách ngăn chặn các vụ hack AI trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "150a5e259b29",
-      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:50.193145+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Chi phí AI của SpaceX tăng vọt, cổ phiếu giảm mạnh",
-      "bullets": [
-        "SpaceX chi hàng tỷ USD cho công nghệ trí tuệ nhân tạo",
-        "Cổ phiếu của công ty giảm mạnh sau khi công bố báo cáo tài chính đầu tiên",
-        "Elon Musk cảnh báo nhà đầu tư rằng họ đang 'dưới giá trị' công ty",
-        "Musk cho biết công ty đang đầu tư mạnh vào AI để tăng cường cạnh tranh"
-      ],
-      "full_summary": "SpaceX vừa công bố báo cáo tài chính đầu tiên sau khi niêm yết trên sàn chứng khoán. Trong báo cáo này, Elon Musk cho biết công ty đang chi hàng tỷ USD cho công nghệ trí tuệ nhân tạo (AI). Cổ phiếu của SpaceX đã giảm mạnh sau khi công bố báo cáo này. Musk cảnh báo nhà đầu tư rằng họ đang 'dưới giá trị' công ty và đang đầu tư mạnh vào AI để tăng cường cạnh tranh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b7c24cad4d3d",
-      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:51.387602+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Disney đồng ý cho phép các nhà sáng tạo sử dụng nội dung của họ trên TikTok",
-      "bullets": [
-        "Đồng ý cho phép một số nhà sáng tạo sử dụng các cảnh từ phim và chương trình TV của Disney",
-        "Các nhà sáng tạo có thể sử dụng nội dung của Disney trong các video của họ",
-        "Động thái này có thể giúp tăng cường sự hiện diện của Disney trên các nền tảng xã hội",
-        "Đổi lại, Disney có thể thu được lợi nhuận từ việc sử dụng nội dung của họ"
-      ],
-      "full_summary": "Disney đã đồng ý cho phép một số nhà sáng tạo sử dụng các cảnh từ phim và chương trình TV của họ trong các video trên TikTok. Điều này có thể giúp tăng cường sự hiện diện của Disney trên các nền tảng xã hội và thu được lợi nhuận từ việc sử dụng nội dung của họ. Động thái này được xem là một bước tiến trong việc hợp tác giữa Disney và các nền tảng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fcfd135844b2",
-      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:52.485275+00:00",
-      "category": "khác",
-      "importance": 5,
-      "headline": "Cúm Ebola ở DRC có thể biến đổi gen",
-      "bullets": [
-        "Đã có 4.000 trường hợp mắc bệnh cúm Ebola",
-        "Các quan chức sức khỏe lo ngại virus có thể biến đổi gen",
-        "Ủy ban sức khỏe công cộng châu Phi tăng cường phản ứng với các biện pháp mới"
-      ],
-      "full_summary": "Cúm Ebola đang gây ra một đợt bùng phát lớn ở Cộng hòa Dân chủ Congo. Các quan chức sức khỏe lo ngại virus có thể biến đổi gen. Số trường hợp mắc bệnh đã vượt qua 4.000. Ủy ban sức khỏe công cộng châu Phi đã quyết định tăng cường phản ứng với các biện pháp mới, bao gồm việc đi từ nhà đến nhà để tìm kiếm bệnh nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f63f77aaa435",
-      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:53.470897+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hàng xóm giết cầu thủ Uganda vì cướp điện thoại",
-      "bullets": [
-        "Một nhóm trộm tấn công cầu thủ David Owori ở Kampala",
-        "Cầu thủ Uganda cố gắng ngăn chặn hành vi trộm cắp",
-        "Cầu thủ bị đánh trọng thương và qua đời sau đó",
-        "Cộng đồng bóng đá Uganda đang trong tình trạng buồn bã"
-      ],
-      "full_summary": "Cầu thủ David Owori của đội bóng Uganda Premier League, Sports Club Villa, đã qua đời sau khi bị tấn công bởi một nhóm trộm ở Kampala. Cầu thủ này đã cố gắng ngăn chặn hành vi trộm cắp khi nhóm trộm cố gắng lấy điện thoại di động của anh. Sau khi bị đánh trọng thương, cầu thủ Owori đã qua đời tại bệnh viện. Sự kiện này đã gây ra sự buồn bã trong cộng đồng bóng đá Uganda.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d81a6f9504de",
-      "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
-      "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T02:15:54.382946+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Lực lượng an ninh Nigeria giải cứu hơn 300 tù nhân",
-      "bullets": [
-        "Giải cứu hơn 300 người bị bắt cóc trong một chiến dịch đồng bộ",
-        "Lực lượng quân đội, cảnh sát và đơn vị chống khủng bố tham gia",
-        "Các tù nhân được giải cứu từ rừng rậm ở khu vực Kainji Lake"
-      ],
-      "full_summary": "Lực lượng an ninh Nigeria đã giải cứu hơn 300 người bị bắt cóc trong một chiến dịch đồng bộ, được Tổng thống Bola Ahmed Tinubu khen ngợi là chiến dịch giải cứu lớn nhất trong lịch sử nước này. Chiến dịch được thực hiện bởi quân đội, cảnh sát và đơn vị chống khủng bố đã giải cứu các tù nhân bị giam giữ trong rừng rậm ở khu vực Kainji Lake. Chiến dịch này đã được thực hiện sau nhiều ngày tìm kiếm và chuẩn bị.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a7ab9587ac41",
-      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-      "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-07T02:15:59.455428+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Blue Origin đang tìm kiếm nguyên nhân gây tai nạn tên lửa",
-      "bullets": [
-        "Khám phá nguyên nhân tai nạn tên lửa Blue Origin",
-        "Tìm ra lỗi ở van oxy chính của động cơ BE-4",
-        "Nghiên cứu tiếp tục để xác định nguyên nhân chính xác"
-      ],
-      "full_summary": "Blue Origin đang cố gắng tìm hiểu nguyên nhân gây tai nạn tên lửa nghiêm trọng. Theo thông tin mới nhất, vấn đề bắt nguồn từ van oxy chính của động cơ BE-4. Các chuyên gia đang tiếp tục nghiên cứu để xác định nguyên nhân chính xác của sự cố. Việc này sẽ giúp Blue Origin cải thiện an toàn cho các chuyến bay tương lai.",
       "comments": 0,
       "score": 0
     }
