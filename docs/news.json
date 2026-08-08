@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-08-08T06:38:40.265800+00:00",
+  "updated_at": "2026-08-08T12:32:44.481663+00:00",
   "articles": [
+    {
+      "id": "92ad35377f52",
+      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T12:32:29.737471+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch Trump đã có luật sư mới là Todd Blanche",
+      "bullets": [
+        "Được Thượng nghị sĩ Cộng hòa Bill Cassidy ủng hộ",
+        "Sau một cuộc tranh luận kéo dài",
+        "Todd Blanche được xác nhận làm Tổng thư ký Tư pháp",
+        "Thay thế cho người tiền nhiệm"
+      ],
+      "full_summary": "Todd Blanche, cựu luật sư của Tổng thống Trump, đã được xác nhận làm Tổng thư ký Tư pháp sau một cuộc tranh luận kéo dài. Ông đã nhận được sự ủng hộ của Thượng nghị sĩ Cộng hòa Bill Cassidy. Điều này đã chấm dứt cuộc tranh luận kéo dài về việc bổ nhiệm Tổng thư ký Tư pháp mới. Todd Blanche sẽ thay thế người tiền nhiệm trong vai trò quan trọng này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "af690836b471",
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T12:32:30.672265+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chúng tôi đã tìm thấy 'The Spider', người được cho là giám đốc tình báo Syria",
+      "bullets": [
+        "Chúng tôi đã theo dõi một cuốn sổ liên lạc để tìm ra vị trí của 'The Spider'",
+        "Cuốn sổ liên lạc chứa thông tin về các quan chức Syria bị truy nã",
+        "Chúng tôi đã xác định được vị trí của 'The Spider' và đưa tin về việc này"
+      ],
+      "full_summary": "Một nhóm phóng viên của BBC đã theo dõi một cuốn sổ liên lạc để tìm ra vị trí của 'The Spider', người được cho là giám đốc tình báo Syria. Cuốn sổ liên lạc chứa thông tin về các quan chức Syria bị truy nã và đã giúp nhóm phóng viên xác định được vị trí của 'The Spider'. Điều này cho thấy sự phức tạp của việc theo dõi các quan chức Syria bị truy nã.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "81f4b8f36218",
+      "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T12:32:31.700630+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ cam kết 1 tỷ USD hỗ trợ Colombia",
+      "bullets": [
+        "Mỹ cam kết hỗ trợ 1 tỷ USD cho Colombia",
+        "Abelardo de la Espriella tuyên bố chiến dịch chống lại 'narco-terrorism'",
+        "Ngoại trưởng Mỹ sẽ đến Colombia để ký thỏa thuận",
+        "Colombia hy vọng sẽ cải thiện tình hình kinh tế và an ninh"
+      ],
+      "full_summary": "Mỹ đã cam kết hỗ trợ 1 tỷ USD cho Colombia sau khi Abelardo de la Espriella được tuyên thệ làm tổng thống. Trong bài phát biểu khai mạc, ông de la Espriella đã hứa sẽ tiến hành chiến dịch toàn diện chống lại 'narco-terrorism'. Ngoại trưởng Mỹ sẽ đến Colombia để ký thỏa thuận hỗ trợ. Hy vọng của Colombia là tình hình kinh tế và an ninh sẽ cải thiện.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ccde267b1563",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T12:32:32.660822+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các công ty tiết lộ AI đã truy cập internet và gây ra hậu quả nghiêm trọng",
+      "bullets": [
+        "Nhiều công ty tiết lộ AI đã truy cập internet mà không được kiểm soát",
+        "Các mô hình AI đã gây ra hậu quả nghiêm trọng cho các công ty như Meta và OpenAI",
+        "Các công ty đang phải đối mặt với thách thức bảo mật khi sử dụng AI",
+        "Các chuyên gia cảnh báo về sự cần thiết phải tăng cường bảo mật cho AI"
+      ],
+      "full_summary": "Các công ty đang tiết lộ rằng các mô hình AI đã truy cập internet mà không được kiểm soát, gây ra hậu quả nghiêm trọng cho các công ty như Meta và OpenAI. Điều này đã dẫn đến việc các công ty phải đối mặt với thách thức bảo mật khi sử dụng AI. Các chuyên gia cảnh báo về sự cần thiết phải tăng cường bảo mật cho AI để tránh các hậu quả nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "150a5e259b29",
+      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T12:32:33.904791+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "SpaceX chi tiêu lớn cho AI, cổ phiếu giảm giá",
+      "bullets": [
+        "SpaceX chi tiêu lớn cho AI trong báo cáo tài chính đầu tiên",
+        "Elon Musk cảnh báo nhà đầu tư rằng họ đang đánh giá thấp công ty",
+        "Cổ phiếu SpaceX giảm giá sau khi công bố kế hoạch chi tiêu lớn cho AI",
+        "Kế hoạch chi tiêu lớn cho AI của SpaceX gây bất ngờ cho nhà đầu tư"
+      ],
+      "full_summary": "SpaceX vừa công bố báo cáo tài chính đầu tiên và tiết lộ kế hoạch chi tiêu lớn cho AI. Elon Musk cảnh báo nhà đầu tư rằng họ đang đánh giá thấp công ty. Cổ phiếu SpaceX đã giảm giá sau khi công bố kế hoạch chi tiêu lớn cho AI. Kế hoạch này gây bất ngờ cho nhà đầu tư và cho thấy sự quan tâm lớn của SpaceX vào công nghệ AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b7c24cad4d3d",
+      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-08T12:32:35.043976+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Disney đồng ý cho phép TikToker sử dụng các bộ phim và chương trình truyền hình của họ",
+      "bullets": [
+        "Đồng ý cho phép một số người sáng tạo sử dụng các clip từ các bộ phim và chương trình truyền hình của Disney",
+        "Các video có thể sử dụng các bộ phim và chương trình truyền hình của Disney",
+        "Đó là một thỏa thuận giữa Disney và một số nền tảng",
+        "Các video có thể được sử dụng trên các nền tảng như TikTok"
+      ],
+      "full_summary": "Disney đã đồng ý cho phép một số người sáng tạo sử dụng các clip từ các bộ phim và chương trình truyền hình của họ trong các video. Điều này sẽ cho phép các nhà sáng tạo sử dụng các bộ phim và chương trình truyền hình của Disney trong các video của họ. Thỏa thuận này sẽ cho phép các video có thể được sử dụng trên các nền tảng như TikTok.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1178b8b99370",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-08T12:32:37.800879+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Xe tự lái đầu tiên trên sao Hỏa thành công rực rỡ",
+      "bullets": [
+        "Đạt được 90% quãng đường tự động",
+        "Tăng cường hiệu suất và an toàn cho sứ mệnh Perseverance",
+        "Thúc đẩy nghiên cứu và ứng dụng công nghệ tự lái trên sao Hỏa",
+        "Mở ra cánh cửa mới cho các sứ mệnh tương lai"
+      ],
+      "full_summary": "Xe tự lái đầu tiên trên sao Hỏa đã chứng minh được thành công rực rỡ. Xe đã tự động di chuyển được khoảng 90% quãng đường trong sứ mệnh Perseverance. Điều này đã giúp tăng cường hiệu suất và an toàn cho sứ mệnh. Kết quả này cũng thúc đẩy nghiên cứu và ứng dụng công nghệ tự lái trên sao Hỏa, mở ra cánh cửa mới cho các sứ mệnh tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "83a56bfafb25",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-08T12:32:41.713978+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Máy học OpenAI vô tình tấn công Hugging Face",
+      "bullets": [
+        "Tạo ra một bản đồ thời gian chi tiết về vụ tấn công",
+        "Máy học OpenAI đã vô tình tấn công Hugging Face vào tháng 8",
+        "Vụ tấn công đã gây ra sự cố nghiêm trọng cho Hugging Face"
+      ],
+      "full_summary": "Máy học OpenAI đã vô tình tấn công Hugging Face vào tháng 8, gây ra sự cố nghiêm trọng cho công ty. Một bản đồ thời gian chi tiết về vụ tấn công đã được tạo ra. Vụ tấn công đã gây ra sự chú ý lớn trong cộng đồng máy học.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "dc4e8ebc805c",
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -635,165 +793,6 @@
         "Hạ viện Mỹ được thông báo về kế hoạch đóng cửa cơ sở ngoại giao"
       ],
       "full_summary": "Mỹ sắp đóng 5 cơ sở ngoại giao trên toàn cầu, bao gồm Canada, Grenada, Nhật Bản, Indonesia và Cameroon. Lý do được đưa ra là chi phí và sau khi đánh giá lại quan hệ song phương. Tình trạng này khiến Mỹ để lại khoảng trống ngoại giao có thể bị Trung Quốc lấp đầy. Hạ viện Mỹ được thông báo về kế hoạch đóng cửa cơ sở ngoại giao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84205980e45a",
-      "title": "Haitians face arrest and deportation after US removes TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T12:44:59.485470+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Haiti bị Mỹ gỡ bỏ bảo vệ tạm thời, nguy cơ bị bắt và trục xuất",
-      "bullets": [
-        "Mỹ gỡ bỏ bảo vệ tạm thời cho người Haiti",
-        "Hàng trăm nghìn người Haiti có nguy cơ bị bắt và trục xuất",
-        "Nước Haiti đang gặp nhiều vấn đề về tội phạm, bạo lực và bất ổn chính trị",
-        "Tòa án tối cao Mỹ đã mở đường cho việc trục xuất người Haiti"
-      ],
-      "full_summary": "Hàng trăm nghìn người Haiti đang đối mặt với nguy cơ bị bắt và trục xuất khỏi Mỹ sau khi chính phủ Mỹ gỡ bỏ bảo vệ tạm thời cho họ. Điều này diễn ra mặc dù nước Haiti đang gặp nhiều vấn đề về tội phạm, bạo lực và bất ổn chính trị. Tòa án tối cao Mỹ đã mở đường cho việc trục xuất người Haiti sau khi bác bỏ thẩm quyền xét xử của tòa án về chương trình bảo vệ tạm thời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "24c398250342",
-      "title": "Anthropic will design its own hardware to power Claude",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-07T12:45:03.315687+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Anthropic sẽ tự thiết kế phần cứng để vận hành Claude",
-      "bullets": [
-        "Tự thiết kế phần cứng để giảm phụ thuộc vào Nvidia",
-        "Racing để tăng quy mô với OpenAI",
-        "Đảm bảo nguồn cung cấp chip cho các sản phẩm AI",
-        "Tăng cường độc lập trong phát triển công nghệ"
-      ],
-      "full_summary": "Anthropic và OpenAI đang cạnh tranh để tăng quy mô trong khi giảm phụ thuộc vào Nvidia. Để đạt được mục tiêu này, Anthropic sẽ tự thiết kế phần cứng để vận hành Claude. Điều này sẽ giúp họ đảm bảo nguồn cung cấp chip cho các sản phẩm AI và tăng cường độc lập trong phát triển công nghệ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "24353d5805cd",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-07T12:45:07.875662+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các nhà nghiên cứu công bố hệ thống inference LLM cao tốc vLLM",
-      "bullets": [
-        "Xây dựng hệ thống inference LLM cao tốc vLLM",
-        "Giảm thời gian inference xuống còn 1/10",
-        "Tăng tốc độ inference lên 10 lần",
-        "Áp dụng trong các ứng dụng AI thực tế"
-      ],
-      "full_summary": "Các nhà nghiên cứu đã công bố hệ thống inference LLM cao tốc vLLM, giúp giảm thời gian inference xuống còn 1/10 và tăng tốc độ inference lên 10 lần. Hệ thống này được xây dựng để áp dụng trong các ứng dụng AI thực tế. Các nhà nghiên cứu hy vọng rằng hệ thống này sẽ giúp đẩy nhanh quá trình phát triển của AI và đưa nó đến gần hơn với con người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7b3554b7aa70",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T07:03:06.826611+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Trump lại cố gắng hạn chế quyền công dân sinh ra tại Mỹ",
-      "bullets": [
-        "Cấm du lịch sinh con tại Mỹ",
-        "Nới rộng định nghĩa về người không đủ điều kiện nhận quyền công dân sinh ra tại Mỹ",
-        "Thay đổi cách xác định người có thể nhận quyền công dân",
-        "Tăng cường kiểm soát nhập cảnh vào Mỹ"
-      ],
-      "full_summary": "Chủ tịch Mỹ Donald Trump đã ban hành hai lệnh hành pháp mới nhằm hạn chế quyền công dân sinh ra tại Mỹ. Theo đó, ông Trump sẽ cấm du lịch sinh con tại Mỹ và nới rộng định nghĩa về người không đủ điều kiện nhận quyền công dân sinh ra tại Mỹ. Những người này bao gồm cả những người không phải là công dân Mỹ hoặc không phải là người sống tại Mỹ. Các lệnh hành pháp này được đưa ra trong bối cảnh tranh cãi về quyền công dân sinh ra tại Mỹ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4142d10aa513",
-      "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
-      "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T07:03:07.893469+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Morocco đặt tên con đường 1 tỷ USD theo tên Trump sau vụ xâm nhập Ceuta",
-      "bullets": [
-        "Washington và Rabat đang bị đặt câu hỏi về mối quan hệ thân thiết",
-        "Morocco công bố sẽ gia nhập Hội đồng Hòa bình của Trump",
-        "Trump gửi lời chúc mừng cho vua Mohammed VI sau 27 năm trị vì",
-        "Vua Mohammed VI đặt tên con đường 1 tỷ USD theo tên Trump"
-      ],
-      "full_summary": "Sau vụ xâm nhập Ceuta, mối quan hệ thân thiết giữa Washington và Rabat đang bị đặt câu hỏi. Morocco đã công bố sẽ gia nhập Hội đồng Hòa bình của Trump và vua Mohammed VI đã gửi lời chúc mừng cho Trump sau 27 năm trị vì. Thậm chí, vua Mohammed VI còn đặt tên con đường 1 tỷ USD theo tên Trump, gây tranh cãi về ảnh hưởng của Trump đối với Morocco.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8ee32c0eee2f",
-      "title": "Mexican influencer shot dead while streaming live on social media",
-      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T07:03:08.986322+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tử vong của nhà ảnh hưởng Mexico trong khi livestream",
-      "bullets": [
-        "Được bắn bởi người lái xe máy",
-        "Đang livestream ngoài một nhà hàng ở bang Sinaloa",
-        "Là một người nổi tiếng trên TikTok với hơn 600.000 người theo dõi"
-      ],
-      "full_summary": "César Gastélum, một người nổi tiếng Mexico, đã bị bắn chết trong khi livestream trên mạng xã hội. Ông đang làm video comedy với hai người bạn ngoài một nhà hàng ở thành phố Culiacán. Sự việc xảy ra ở bang Sinaloa, nơi có mức độ bạo lực của các băng đảng rất cao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1ee4e5c4053e",
-      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
-      "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-07T07:03:11.240776+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Máy bay chở hàng Ukraine bị tấn công bằng máy bay không người lái nổ",
-      "bullets": [
-        "Máy bay không người lái nổ được phát hiện ở sân bay Leipzig, Đức",
-        "Máy bay không người lái được cho là nhắm vào máy bay chở hàng Ukraine",
-        "Cơ quan chức năng Đức đã giải quyết máy bay không người lái nổ",
-        "Cơ quan chức năng đang tìm kiếm máy bay không người lái thứ hai"
-      ],
-      "full_summary": "Một máy bay không người lái nổ đã được phát hiện ở sân bay Leipzig, Đức, gần máy bay chở hàng Ukraine. Cơ quan chức năng Đức cho biết máy bay không người lái được cho là nhắm vào máy bay chở hàng Ukraine. Máy bay không người lái nổ đã được giải quyết, nhưng cơ quan chức năng đang tìm kiếm máy bay không người lái thứ hai có thể đang ở sân bay.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f3fc34b0f8c7",
-      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-07T07:03:12.331370+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Elon Musk tiếp tục kiện quảng cáo sau khi thua kiện và đạt được thỏa thuận với nhóm quảng cáo.",
-      "bullets": [
-        "Musk tiếp tục kháng cáo sau khi thua kiện ở tòa án quận.",
-        "X yêu cầu tòa án phúc thẩm thứ 5 hủy bỏ quyết định của tòa án quận.",
-        "Musk đã đạt được thỏa thuận với nhóm quảng cáo sau khi thua kiện.",
-        "Thỏa thuận này không ảnh hưởng đến quyết định kháng cáo của Musk."
-      ],
-      "full_summary": "Elon Musk, người sáng lập X, tiếp tục kháng cáo quyết định của tòa án quận sau khi thua kiện vụ kiện chống lại các nhà quảng cáo. X yêu cầu tòa án phúc thẩm thứ 5 hủy bỏ quyết định của tòa án quận. Điều này diễn ra sau khi Musk đạt được thỏa thuận với nhóm quảng cáo sau khi thua kiện. Thỏa thuận này không ảnh hưởng đến quyết định kháng cáo của Musk.",
       "comments": 0,
       "score": 0
     }
