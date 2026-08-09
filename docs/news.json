@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-08-09T01:08:19.039230+00:00",
+  "updated_at": "2026-08-09T06:42:28.854003+00:00",
   "articles": [
+    {
+      "id": "3deba5198de3",
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T06:42:12.002971+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel bị cáo buộc sử dụng khảo cổ học để chiếm đoạt đất ở khu vực Tây Bắc",
+      "bullets": [
+        "Israel đang lên kế hoạch chiếm đoạt đất lớn ở khu vực lịch sử của người Palestine ở Tây Bắc",
+        "Các địa điểm khảo cổ quan trọng ở Tây Bắc đang bị Israel sử dụng để ủng hộ chủ quyền",
+        "Các nhà chức trách Palestine cáo buộc Israel đang sử dụng khảo cổ học để che giấu các hành động chiếm đoạt đất",
+        "Các tổ chức nhân quyền lo ngại về việc Israel đang vi phạm các quyền của người Palestine"
+      ],
+      "full_summary": "Israel đang bị cáo buộc sử dụng khảo cổ học để chiếm đoạt đất ở khu vực Tây Bắc. Các địa điểm khảo cổ quan trọng ở Tây Bắc đang bị Israel sử dụng để ủng hộ chủ quyền. Các nhà chức trách Palestine cáo buộc Israel đang sử dụng khảo cổ học để che giấu các hành động chiếm đoạt đất. Các tổ chức nhân quyền lo ngại về việc Israel đang vi phạm các quyền của người Palestine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ff529b09d597",
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T06:42:13.989531+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nhiều người bị bắt vì cháy rừng ở Pháp",
+      "bullets": [
+        "Bắt giữ hàng trăm người liên quan đến cháy rừng",
+        "Chính phủ đang cố gắng xác định nguyên nhân gây ra đám cháy",
+        "Cháy rừng ở Pháp gây thiệt hại nặng nề",
+        "Nghiên cứu đang được tiến hành để xác định trách nhiệm"
+      ],
+      "full_summary": "Chính phủ Pháp đang cố gắng xác định nguyên nhân gây ra đám cháy rừng ở nước này. Hàng trăm người đã bị bắt giữ liên quan đến vụ cháy. Chính phủ đang tiến hành nghiên cứu để xác định trách nhiệm và ngăn chặn các vụ cháy tương tự trong tương lai. Cháy rừng ở Pháp gây thiệt hại nặng nề và ảnh hưởng đến môi trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "086f912c172a",
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T06:42:14.975106+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Blogger Perez Hilton bị thương nặng trong livestream",
+      "bullets": [
+        "Bị thương tự hại trong livestream",
+        "Đang được điều trị tại bệnh viện",
+        "Tình trạng sức khỏe nghiêm trọng nhưng ổn định",
+        "Cơ quan chức năng đang điều tra nguyên nhân"
+      ],
+      "full_summary": "Blogger Perez Hilton đã bị thương nặng trong một livestream gần đây. Theo gia đình, ông đang được điều trị tại bệnh viện và tình trạng sức khỏe nghiêm trọng nhưng ổn định. Các báo cáo cho biết ông đã tự hại bản thân trong livestream, nhưng chưa có thông tin chi tiết về nguyên nhân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1b00294b021a",
+      "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T06:42:16.133814+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nổ lớn tại kho hàng ở LA, tạo mùi hôi khó chịu",
+      "bullets": [
+        "Nổ lớn tại kho hàng ở LA",
+        "Kho hàng chứa hàng tấn thịt và hải sản bị cháy",
+        "Mùi hôi từ đống thức ăn bị cháy gây khó chịu",
+        "Côn trùng và động vật gặm nhấm xuất hiện tại hiện trường"
+      ],
+      "full_summary": "Một vụ nổ lớn đã xảy ra tại kho hàng ở Los Angeles, Mỹ, khiến hàng tấn thịt và hải sản bị cháy. Mùi hôi từ đống thức ăn bị cháy gây khó chịu và thu hút nhiều côn trùng, động vật gặm nhấm. Vụ nổ đã gây ra thiệt hại lớn và đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84e62c8329d8",
+      "title": "Judge approves Trump effort to end South Sudan TPS protections",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T06:42:17.190394+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hộ chiếu tạm thời của người Sudan sẽ hết hiệu lực",
+      "bullets": [
+        "Hộ chiếu tạm thời của người Sudan sẽ hết hiệu lực",
+        "Tòa án liên bang đã bác bỏ yêu cầu của các tổ chức bảo vệ người nhập cư",
+        "Hàng trăm công dân Sudan đang sống ở Mỹ sẽ phải tìm cách khác",
+        "Quyết định này dựa trên một phán quyết của tòa án tối cao"
+      ],
+      "full_summary": "Một phán quyết của tòa án liên bang ở Massachusetts đã cho phép chính phủ Mỹ rút lại hộ chiếu tạm thời (TPS) cho hàng trăm công dân Sudan đang sống ở Mỹ. Quyết định này dựa trên một phán quyết của tòa án tối cao cho phép chính phủ Mỹ rút lại hộ chiếu tạm thời cho người Haiti và Syria. Các tổ chức bảo vệ người nhập cư đã cố gắng ngăn chặn quyết định này nhưng đã bị tòa án bác bỏ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "13b0e7bc521a",
+      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+      "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-09T06:42:19.314598+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Máy bay Concorde chạm trán bóng tối của Mặt Trăng",
+      "bullets": [
+        "Được trang bị kính thiên văn, máy bay Concorde thực hiện hình ảnh dài nhất của vầng hào quang Mặt Trời.",
+        "Máy bay bay vượt qua bóng tối của Mặt Trăng để chụp ảnh Mặt Trời.",
+        "Kết quả hình ảnh giúp các nhà khoa học hiểu rõ hơn về Mặt Trời.",
+        "Máy bay Concorde đã thực hiện một hành trình không gian đặc biệt."
+      ],
+      "full_summary": "Máy bay Concorde đã thực hiện một hành trình không gian đặc biệt để chụp ảnh Mặt Trời trong thời gian bóng tối của Mặt Trăng. Máy bay được trang bị kính thiên văn để thực hiện hình ảnh dài nhất của vầng hào quang Mặt Trời. Kết quả hình ảnh giúp các nhà khoa học hiểu rõ hơn về Mặt Trời và các quá trình diễn ra trong vũ trụ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c41b30c29fc6",
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-09T06:42:20.254353+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Quake có gói nhiệm vụ mới cho kỷ niệm 30 năm",
+      "bullets": [
+        "Thêm 19 bản đồ mới tiếp tục câu chuyện",
+        "Cập nhật các cơ chế mới cho người chơi",
+        "Gói nhiệm vụ này được phát hành chính thức",
+        "Tiếp tục câu chuyện từ các gói nhiệm vụ trước đó"
+      ],
+      "full_summary": "Một gói nhiệm vụ mới cho trò chơi Quake đã được phát hành để kỷ niệm 30 năm. Gói này bao gồm 19 bản đồ mới và các cơ chế mới cho người chơi. Câu chuyện tiếp tục từ các gói nhiệm vụ trước đó của MachineGames. Gói nhiệm vụ này được phát hành chính thức và sẽ mang đến cho người chơi trải nghiệm mới mẻ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f19e25137fcb",
+      "title": "Illinois just told every operating system to start reporting your kid's age",
+      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-09T06:42:23.282181+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Illinois yêu cầu các hệ điều hành báo cáo tuổi của trẻ em",
+      "bullets": [
+        "Illinois đã thông qua luật yêu cầu các hệ điều hành báo cáo tuổi của trẻ em",
+        "Các hệ điều hành sẽ phải cung cấp thông tin này cho chính phủ Illinois",
+        "Mục đích của luật này là để xác minh độ tuổi của trẻ em khi truy cập các ứng dụng",
+        "Các công ty công nghệ đang phản đối luật này"
+      ],
+      "full_summary": "Illinois đã thông qua luật yêu cầu các hệ điều hành báo cáo tuổi của trẻ em. Mục đích của luật này là để xác minh độ tuổi của trẻ em khi truy cập các ứng dụng. Các hệ điều hành sẽ phải cung cấp thông tin này cho chính phủ Illinois. Các công ty công nghệ đang phản đối luật này vì lo ngại về quyền riêng tư.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6058d5b9aa5b",
+      "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+      "url": "https://www.nature.com/articles/d41586-026-02488-3",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-08-09T06:42:27.210271+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "DNA sửa chữa có thể giúp kéo dài tuổi thọ",
+      "bullets": [
+        "Cụ thể, nghiên cứu về cá voi và chuột lùn đang khám phá cách DNA sửa chữa có thể kéo dài tuổi thọ",
+        "DNA sửa chữa có thể giúp ngăn chặn các biến đổi gen gây ra bởi tuổi tác",
+        "Nghiên cứu cũng cho thấy COVID-19 có thể khiến các virus lây nhiễm bị kích hoạt trở lại",
+        "Các nhà khoa học đang nghiên cứu DNA sửa chữa để tìm ra bí quyết kéo dài tuổi thọ"
+      ],
+      "full_summary": "Nghiên cứu về DNA sửa chữa đang trở thành một trong những lĩnh vực được quan tâm nhất trong khoa học hiện nay. Các nhà khoa học đang nghiên cứu về DNA sửa chữa ở các loài động vật như cá voi và chuột lùn để tìm ra bí quyết kéo dài tuổi thọ. Nghiên cứu cho thấy DNA sửa chữa có thể giúp ngăn chặn các biến đổi gen gây ra bởi tuổi tác, từ đó kéo dài tuổi thọ. Tuy nhiên, nghiên cứu cũng cho thấy COVID-19 có thể khiến các virus lây nhiễm bị kích hoạt trở lại, điều này có thể ảnh hưởng đến quá trình nghiên cứu.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "0d8d4335f9d6",
       "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -613,186 +793,6 @@
         "Chính phủ Colombia sẽ thực hiện các biện pháp tiết kiệm để phục hồi kinh tế"
       ],
       "full_summary": "Chính phủ Mỹ đã cam kết hỗ trợ an ninh 1 tỷ USD cho Colombia sau khi Abelardo De La Espriella nhậm chức. Ông De La Espriella hứa sẽ chống lại các tổ chức tội phạm và thực hiện các biện pháp tiết kiệm để phục hồi kinh tế. Ông cũng hứa sẽ mở rộng ngành dầu khí để tạo việc làm và thu hút đầu tư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b818d4dc34d9",
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-08T06:38:32.280151+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Mạng lưới vệ tinh miễn phí của châu Âu giúp theo dõi cháy rừng dễ dàng hơn",
-      "bullets": [
-        "Cập nhật giao diện mới cho phép theo dõi cháy rừng một cách trực quan hơn",
-        "Mạng lưới vệ tinh Copernicus Browser được sử dụng rộng rãi để theo dõi cháy rừng",
-        "Hình ảnh vệ tinh giúp các nhà chức trách nhanh chóng xác định khu vực cháy rừng",
-        "Dịch vụ miễn phí này được sử dụng để hỗ trợ các nỗ lực chống cháy rừng"
-      ],
-      "full_summary": "Mạng lưới vệ tinh miễn phí của châu Âu, Copernicus Browser, đã được cập nhật để hỗ trợ theo dõi cháy rừng. Dịch vụ này sử dụng hình ảnh vệ tinh để giúp các nhà chức trách nhanh chóng xác định khu vực cháy rừng. Với mùa cháy rừng khắc nghiệt nhất trong lịch sử, mạng lưới vệ tinh miễn phí này đã trở thành công cụ quan trọng trong nỗ lực chống cháy rừng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f0f179ea8d6a",
-      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-      "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-08T06:38:33.233466+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Côn trùng ăn thịt gây tử vong ở Mexico",
-      "bullets": [
-        "Hơn 500 trường hợp bị nhiễm côn trùng ăn thịt ở Mexico",
-        "Sáu người đã tử vong do nhiễm côn trùng này",
-        "Một trường hợp tử vong được xác định là do côn trùng gây ra",
-        "Côn trùng ăn thịt đang gây ra nhiều vấn đề sức khỏe ở Mexico"
-      ],
-      "full_summary": "Một loại côn trùng ăn thịt đang gây ra nhiều vấn đề sức khỏe ở Mexico. Theo báo cáo, đã có hơn 500 trường hợp bị nhiễm côn trùng này và sáu người đã tử vong. Một trường hợp tử vong được xác định là do côn trùng gây ra. Côn trùng ăn thịt này đang được nghiên cứu để tìm ra cách ngăn chặn sự lây lan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e4dd20081ceb",
-      "title": "How snails engineer their slime",
-      "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-08T06:38:36.641559+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Rắn hổ mang tạo ra chất nhầy với sự hợp tác của collagen và canxi",
-      "bullets": [
-        "Tạo ra các tính chất cơ học khác nhau",
-        "Làm cho chất nhầy có độ dẻo và độ đàn hồi",
-        "Cung cấp khả năng bảo vệ cho rắn hổ mang",
-        "Giúp rắn hổ mang di chuyển và ăn uống hiệu quả"
-      ],
-      "full_summary": "Các nhà khoa học đã nghiên cứu cách rắn hổ mang tạo ra chất nhầy của mình. Họ phát hiện ra rằng collagen và canxi hợp tác để tạo ra các tính chất cơ học khác nhau trong chất nhầy. Điều này giúp rắn hổ mang bảo vệ bản thân khỏi các tác động bên ngoài và di chuyển và ăn uống hiệu quả. Các nhà khoa học hy vọng rằng nghiên cứu này sẽ giúp họ hiểu rõ hơn về cách tạo ra các chất liệu mới có tính chất tương tự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "15273bab35b6",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T01:03:59.551539+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người chết trong vụ bắn súng ở Thái Lan",
-      "bullets": [
-        "Một thanh niên 14 tuổi bắn chết 8 người",
-        "Vụ việc xảy ra tại nhà và trường học của nạn nhân",
-        "Nạn nhân sau đó tự bắn chết mình",
-        "Chính phủ Thái Lan hứa sẽ tăng cường luật về súng"
-      ],
-      "full_summary": "Một vụ bắn súng nghiêm trọng đã xảy ra ở Thái Lan, khiến 8 người thiệt mạng. Nạn nhân là một thanh niên 14 tuổi, đã bắn chết nhiều người tại nhà và trường học của mình trước khi tự bắn chết mình. Sự việc đã gây ra sự phẫn nộ và lo lắng trong xã hội Thái Lan. Chính phủ Thái Lan đã hứa sẽ tăng cường luật về súng để ngăn chặn những vụ việc tương tự xảy ra trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cd2689cac1bd",
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T01:04:00.417773+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Học sinh Thái Lan kể chuyện bị bắn vào lớp học",
-      "bullets": [
-        "Bị bắn vào lớp học khiến 5 giáo viên thiệt mạng",
-        "Học sinh sợ không còn gặp lại mẹ sau vụ tấn công",
-        "Cô bé chứng kiến vụ án mạng khiến nhiều người kinh hoàng",
-        "Vụ việc đang được điều tra để tìm ra thủ phạm"
-      ],
-      "full_summary": "Một học sinh Thái Lan đã kể lại kinh nghiệm của mình khi bị bắn vào lớp học khiến 5 giáo viên thiệt mạng. Cô bé đã chứng kiến vụ án mạng khiến nhiều người kinh hoàng. Học sinh sợ không còn gặp lại mẹ sau vụ tấn công. Vụ việc đang được điều tra để tìm ra thủ phạm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aa3e531370bb",
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T01:04:01.681207+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Đại bàng hiếm hiếm Serbia bị bắt cóc được giải cứu",
-      "bullets": [
-        "Đại bàng Feliks bị bắt cóc khi lần đầu tiên bay lượn",
-        "Đại bàng bị đưa đến Trung Đông và bị đòi tiền chuộc",
-        "Đại bàng được giải cứu sau nhiều nỗ lực",
-        "Đại bàng được thả về hoang dã"
-      ],
-      "full_summary": "Đại bàng hiếm hiếm Serbia tên Feliks bị bắt cóc khi lần đầu tiên bay lượn. Đại bàng bị đưa đến Trung Đông và bị đòi tiền chuộc bởi những kẻ săn bắt. Sau nhiều nỗ lực, đại bàng đã được giải cứu và thả về hoang dã.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e2ef1a047406",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T01:04:02.874344+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hunter Biden nói xin tha tội không tốt cho Mỹ và di sản của cha",
-      "bullets": [
-        "Hunter Biden từ chối tham gia chính trị",
-        "Cha ông bị ung thư đã lan rộng",
-        "Hunter Biden không hứng thú chạy đua tranh cử",
-        "Ông nói xin tha tội không tốt cho Mỹ và di sản của cha"
-      ],
-      "full_summary": "Hunter Biden đã có một cuộc phỏng vấn rộng rãi với BBC, trong đó ông từ chối tham gia chính trị và nói rằng cha ông bị ung thư đã lan rộng. Ông cũng cho biết ông không hứng thú chạy đua tranh cử. Hunter Biden nói rằng xin tha tội cho ông không tốt cho Mỹ và di sản của cha.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e9e92bb57d0f",
-      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T01:04:04.503003+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Sáng lập viên Katseye rời nhóm sau Manon Bannerman",
-      "bullets": [
-        "Sophia Laforteza rời nhóm Katseye",
-        "Manon Bannerman đã đi vào nghỉ",
-        "Là thành viên thứ hai rời nhóm trong năm nay",
-        "Katseye vẫn chưa công bố kế hoạch tiếp theo"
-      ],
-      "full_summary": "Sáng lập viên Sophia Laforteza đã rời nhóm Katseye sau khi Manon Bannerman đi vào nghỉ. Đây là lần thứ hai trong năm nay một thành viên rời nhóm Katseye. Katseye vẫn chưa công bố kế hoạch tiếp theo sau sự ra đi của Sophia Laforteza.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "237a000b7cb6",
-      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T01:04:05.520267+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Andre Lavoie đang bán cổ phiếu SpaceX vì lợi nhuận",
-      "bullets": [
-        "Lavoie đã bán một phần cổ phiếu SpaceX",
-        "Anh ta gia nhập công ty năm 2009",
-        "Lavoie hy vọng bán cổ phiếu nhiều hơn",
-        "Cổ phiếu SpaceX tăng giá sau thành công của Starlink"
-      ],
-      "full_summary": "Andre Lavoie, một kỹ sư của SpaceX, đã bán một phần cổ phiếu của công ty vì lợi nhuận. Anh ta gia nhập công ty năm 2009 và đã chờ đợi nhiều năm để bán cổ phiếu. Lavoie hy vọng bán cổ phiếu nhiều hơn để kiếm lợi nhuận. Cổ phiếu SpaceX tăng giá sau thành công của Starlink, một mạng vệ tinh của công ty.",
       "comments": 0,
       "score": 0
     }
