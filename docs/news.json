@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-08T18:26:14.778408+00:00",
+  "updated_at": "2026-08-09T01:08:19.039230+00:00",
   "articles": [
+    {
+      "id": "0d8d4335f9d6",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T01:08:04.190925+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hồi hợp đồng mới qua eo Hormuz, Iran cảnh báo không mở đường",
+      "bullets": [
+        "Cả hai bên cho biết tiến triển trong đàm phán về tuyến đường mới qua eo Hormuz",
+        "Một bước ngoặt vẫn chưa rõ ràng",
+        "Iran cảnh báo thỏa thuận không mở đường qua eo Hormuz",
+        "Oman cho biết đàm phán đang có tiến triển tích cực"
+      ],
+      "full_summary": "Hôm nay, Oman cho biết đàm phán về tuyến đường mới qua eo Hormuz đang có tiến triển tích cực. Tuy nhiên, Iran cảnh báo thỏa thuận không mở đường qua eo Hormuz. Cả hai bên cho biết tiến triển trong đàm phán nhưng một bước ngoặt vẫn chưa rõ ràng. Đàm phán đang diễn ra để tìm ra tuyến đường mới qua eo Hormuz.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "54935686cfc1",
+      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T01:08:05.411717+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người điều khiển xe đạp điện ở Paris phải đeo đồ bảo hộ",
+      "bullets": [
+        "Cấm người điều khiển xe đạp điện không đeo đồ bảo hộ",
+        "Phạt tiền người điều khiển xe đạp điện không tuân thủ quy định",
+        "Số vụ tai nạn xe đạp điện tăng nhanh ở Paris",
+        "Cảnh sát tăng cường kiểm soát xe đạp điện"
+      ],
+      "full_summary": "Cảnh sát ở Paris đã tăng cường kiểm soát xe đạp điện sau khi số vụ tai nạn liên quan đến loại phương tiện này tăng nhanh. Người điều khiển xe đạp điện ở Paris sẽ phải đeo đồ bảo hộ hoặc sẽ bị phạt tiền. Quy định mới nhằm mục đích giảm thiểu số vụ tai nạn xe đạp điện ở thành phố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aa1ee4532f24",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T01:08:06.565236+00:00",
+      "category": "khoa học",
+      "importance": 4,
+      "headline": "Các video giả về thảm họa ở Trung Quốc lan truyền nhanh chóng",
+      "bullets": [
+        "Phát hiện ra các video giả về thảm họa ở Trung Quốc",
+        "Các video giả gây ra vấn đề thực tế trên mạng xã hội",
+        "BBC phân tích các video giả để xác định sự thật",
+        "Các sự kiện thời tiết cực đoan đang trở nên phổ biến hơn"
+      ],
+      "full_summary": "BBC đã phân tích các video về thảm họa ở Trung Quốc đang lan truyền nhanh chóng trên mạng xã hội. Các video giả về thảm họa đang gây ra vấn đề thực tế và làm cho việc xác định sự thật trở nên khó khăn hơn. Các sự kiện thời tiết cực đoan đang trở nên phổ biến hơn, và việc chia sẻ các video giả về thảm họa đang trở thành một vấn đề lớn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3a0a41781b28",
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T01:08:07.526246+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hoa Kỳ đóng 5 văn phòng đại diện ở nước ngoài",
+      "bullets": [
+        "Hoa Kỳ sẽ đóng 5 văn phòng đại diện ở Canada, Grenada, Nhật Bản, Indonesia và Cameroon",
+        "Bắc Mỹ và châu Phi sẽ bị ảnh hưởng bởi quyết định này",
+        "Cơ quan Ngoại giao Hoa Kỳ cho rằng việc đóng cửa này là để tiết kiệm chi phí"
+      ],
+      "full_summary": "Cơ quan Ngoại giao Hoa Kỳ đã thông báo với Quốc hội về kế hoạch đóng 5 văn phòng đại diện ở nước ngoài. Các văn phòng này sẽ đóng cửa ở Canada, Grenada, Nhật Bản, Indonesia và Cameroon. Quyết định này được đưa ra sau khi Tổng thống Donald Trump trở lại Nhà Trắng vào tháng 1 năm 2025. Một số nhà quan sát lo ngại rằng việc đóng cửa này sẽ để lại một khoảng trống mà Trung Quốc có thể lấp đầy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0f0845fb52dd",
+      "title": "US police officer accused of killing three people in Mexico arrested at border",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T01:08:08.555553+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cảnh sát Mỹ bị bắt vì giết 3 người ở Mexico",
+      "bullets": [
+        "Bị bắt tại biên giới Mexico",
+        "Đã bị truy tố vì giết 3 người và làm mẹ của con",
+        "Tất cả đều liên quan đến tranh chấp quyền nuôi con",
+        "Cảnh sát Mỹ bị buộc tội giết người và giết phụ nữ vì lý do giới tính"
+      ],
+      "full_summary": "Cảnh sát Mỹ Chad Eberle đã bị bắt tại biên giới Mexico vì liên quan đến vụ giết 3 người và làm mẹ của con ở thành phố Saltillo. Các quan chức cho biết vụ việc liên quan đến tranh chấp quyền nuôi con. Theo luật Mexico, Eberle bị buộc tội giết người và giết phụ nữ vì lý do giới tính. Vụ việc đã thu hút sự chú ý của công chúng và đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "529c4767029a",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-09T01:08:09.645211+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "DeepMind đã tạo ra mô hình dự báo bão chính xác với dữ liệu thời tiết thấp hơn",
+      "bullets": [
+        "Tạo ra mô hình dự báo bão WeatherNext mở nguồn",
+        "Giúp các nhà dự báo có thêm một ngày để chuẩn bị",
+        "Dự báo chính xác với dữ liệu thời tiết thấp hơn",
+        "Đánh giá cao bởi các nhà khoa học thời tiết"
+      ],
+      "full_summary": "DeepMind đã phát triển mô hình dự báo bão WeatherNext, một mô hình mở nguồn có thể dự báo bão chính xác với dữ liệu thời tiết thấp hơn. Mô hình này đã giúp các nhà dự báo có thêm một ngày để chuẩn bị cho các bão, giảm thiểu thiệt hại và nguy hiểm cho người dân. Các nhà khoa học thời tiết đánh giá cao mô hình này và hy vọng nó sẽ được áp dụng rộng rãi trong tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "98140daff335",
+      "title": "Dithered QR Codes",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-09T01:08:14.151114+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mã QR bị làm mờ, gây khó khăn cho việc quét",
+      "bullets": [
+        "Mã QR bị làm mờ bằng cách sử dụng kỹ thuật dithering",
+        "Kỹ thuật này gây khó khăn cho việc quét mã QR bằng máy quét",
+        "Mã QR bị làm mờ có thể được sử dụng để ngăn chặn việc quét mã",
+        "Kỹ thuật này có thể được sử dụng trong nhiều ứng dụng khác nhau"
+      ],
+      "full_summary": "Một kỹ thuật mới được phát hiện có thể làm mờ mã QR, gây khó khăn cho việc quét. Kỹ thuật này được gọi là dithering và có thể được sử dụng để ngăn chặn việc quét mã QR. Điều này có thể có tác động lớn đến nhiều ứng dụng khác nhau, bao gồm thanh toán không tiếp xúc và xác thực danh tính.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "62277c841223",
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "url": "https://www.nature.com/articles/s41586-026-10953-2",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-08-09T01:08:18.539047+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Mô hình AI tiên tiến dự đoán bão nhiệt đới hiệu quả hơn",
+      "bullets": [
+        "Tổ chức dự đoán bão nhiệt đới bằng trí tuệ nhân tạo",
+        "Phát triển mô hình dự đoán chính xác hơn",
+        "Cải thiện khả năng dự đoán thời tiết",
+        "Giúp giảm thiệt hại do bão nhiệt đới"
+      ],
+      "full_summary": "Các nhà khoa học đã phát triển một mô hình dự đoán bão nhiệt đới sử dụng trí tuệ nhân tạo, giúp tăng cường độ chính xác của dự đoán. Mô hình này sử dụng dữ liệu thời tiết và hình ảnh vệ tinh để dự đoán vị trí và cường độ của bão nhiệt đới. Kết quả cho thấy mô hình này có khả năng dự đoán chính xác hơn so với các phương pháp truyền thống. Điều này sẽ giúp giảm thiệt hại do bão nhiệt đới và cứu sống nhiều người.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "79450dc266fc",
       "title": "Messi's father Jorge dies aged 68 after illness",
@@ -634,165 +793,6 @@
         "Cổ phiếu SpaceX tăng giá sau thành công của Starlink"
       ],
       "full_summary": "Andre Lavoie, một kỹ sư của SpaceX, đã bán một phần cổ phiếu của công ty vì lợi nhuận. Anh ta gia nhập công ty năm 2009 và đã chờ đợi nhiều năm để bán cổ phiếu. Lavoie hy vọng bán cổ phiếu nhiều hơn để kiếm lợi nhuận. Cổ phiếu SpaceX tăng giá sau thành công của Starlink, một mạng vệ tinh của công ty.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9c531ff9f0b3",
-      "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
-      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T01:04:06.396999+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Công ty Electronic Arts bán cho nhóm Saudi với giá 55 tỷ USD",
-      "bullets": [
-        "Bán công ty The Sims và EA FC cho nhóm Saudi",
-        "Công ty sẽ chuyển sang sở hữu tư nhân",
-        "Được bán với giá 55 tỷ USD nhưng có nợ nần lớn",
-        "Sẽ ảnh hưởng đến tương lai của các sản phẩm điện tử"
-      ],
-      "full_summary": "Công ty Electronic Arts (EA) đã bán cho nhóm đầu tư Saudi với giá 55 tỷ USD. Đây là một trong những thương vụ mua bán lớn nhất trong ngành công nghệ. Công ty EA sẽ chuyển sang sở hữu tư nhân và sẽ phải đối mặt với nợ nần lớn. Điều này sẽ ảnh hưởng đến tương lai của các sản phẩm điện tử của EA, bao gồm The Sims và EA FC.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c41b30c29fc6",
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-08T01:04:10.862442+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Quake có gói nhiệm vụ kỷ niệm 30 năm mới với bản đồ và cơ chế mới",
-      "bullets": [
-        "Thêm 19 bản đồ mới tiếp tục câu chuyện từ các gói nhiệm vụ khác của MachineGames",
-        "Gói nhiệm vụ kỷ niệm 30 năm của Quake có nhiều cơ chế mới",
-        "Nhiều thông tin chưa được tiết lộ về gói nhiệm vụ mới này"
-      ],
-      "full_summary": "Gói nhiệm vụ kỷ niệm 30 năm của Quake đã được phát hành, bao gồm 19 bản đồ mới và nhiều cơ chế mới. Gói nhiệm vụ này tiếp tục câu chuyện từ các gói nhiệm vụ khác của MachineGames. Nhiều thông tin chưa được tiết lộ về gói nhiệm vụ mới này, nhưng nó hứa hẹn sẽ mang lại trải nghiệm mới mẻ cho người chơi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e7d97da7fe08",
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T18:43:29.753365+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nghi phạm 14 tuổi bắn chết 7 người tại nhà và trường học",
-      "bullets": [
-        "Bắn chết 2 cụ ông",
-        "Gây thương tích cho nhiều người",
-        "Bắn chết 5 thầy cô giáo",
-        "Cảnh sát đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Một nghi phạm 14 tuổi đã bắn chết 7 người tại nhà và trường học ở Thái Lan. Nghi phạm đã giết chết 2 cụ ông trước khi đến trường và bắn chết 5 thầy cô giáo. Cảnh sát đang điều tra nguyên nhân vụ việc. Nghi phạm đã bị bắt giữ và đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fc75e66e1473",
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T18:43:30.748945+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tây Ban Nha đe dọa đáp trả nếu Ý không dỡ bỏ kiểm soát biên giới",
-      "bullets": [
-        "Tây Ban Nha đe dọa đáp trả Ý nếu Ý không dỡ bỏ kiểm soát biên giới",
-        "Italy từ chối chấp nhận 'đe dọa hoặc áp đặt' sau khi có nhiều người tị nạn qua biên giới Ceuta",
-        "Biên giới Ceuta đã trở thành điểm nóng sau khi có nhiều người tị nạn từ Morocco qua",
-        "Tây Ban Nha và Ý đang có mâu thuẫn về vấn đề kiểm soát biên giới"
-      ],
-      "full_summary": "Tây Ban Nha đang đe dọa đáp trả Ý nếu Ý không dỡ bỏ kiểm soát biên giới sau khi có nhiều người tị nạn qua biên giới Ceuta. Italy đã từ chối chấp nhận 'đe dọa hoặc áp đặt' sau khi có nhiều người tị nạn qua biên giới. Biên giới Ceuta đã trở thành điểm nóng sau khi có nhiều người tị nạn từ Morocco qua. Tây Ban Nha và Ý đang có mâu thuẫn về vấn đề kiểm soát biên giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84e0f0354936",
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T18:43:31.763836+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh sát Tây Ban Nha bắt giữ 78 người trong một mạng lưới buôn lậu lớn",
-      "bullets": [
-        "Bắt giữ 78 người liên quan đến mạng lưới buôn lậu",
-        "Mạng lưới buôn lậu vận chuyển ma túy từ Tây Ban Nha sang Algérie",
-        "Sử dụng chuyến đi trở lại để buôn lậu người và vũ khí",
-        "Nghi phạm bị bắt giữ bởi cảnh sát Tây Ban Nha"
-      ],
-      "full_summary": "Cảnh sát Tây Ban Nha đã bắt giữ 78 người liên quan đến một mạng lưới buôn lậu lớn. Mạng lưới này vận chuyển ma túy từ Tây Ban Nha sang Algérie, sau đó sử dụng chuyến đi trở lại để buôn lậu người và vũ khí. Điều này cho thấy sự phức tạp của các hoạt động buôn lậu và cần có biện pháp mạnh mẽ để ngăn chặn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1255ebd285d2",
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T18:43:32.771129+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Mexico và Peru khôi phục quan hệ ngoại giao sau vụ xin tị nạn",
-      "bullets": [
-        "Mexico và Peru khôi phục quan hệ ngoại giao",
-        "Quan hệ giữa hai nước bị gián đoạn sau khi cựu Thủ tướng Peru xin tị nạn",
-        "Cựu Thủ tướng Peru Betssy Chávez xin tị nạn tại embassy Mexico",
-        "Quan hệ ngoại giao được khôi phục sau nhiều tháng"
-      ],
-      "full_summary": "Mexico và Peru đã khôi phục quan hệ ngoại giao sau khi cựu Thủ tướng Peru Betssy Chávez xin tị nạn tại embassy Mexico vào tháng 11 năm 2025. Quan hệ giữa hai nước bị gián đoạn sau khi cựu Thủ tướng Peru xin tị nạn. Sau nhiều tháng, Mexico và Peru đã quyết định khôi phục quan hệ ngoại giao.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84e62c8329d8",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T18:43:33.773843+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hộ chiếu tạm thời của người Sudan sẽ hết hạn",
-      "bullets": [
-        "Hộ chiếu tạm thời của người Sudan ở Mỹ sắp hết hạn",
-        "Tòa án liên bang bác bỏ yêu cầu của các tổ chức bảo vệ quyền của người nhập cư",
-        "Phán quyết này dựa trên quyết định của tòa án tối cao về việc xóa hộ chiếu tạm thời của người Haiti và Syria",
-        "Hàng trăm người Sudan đang sống tại Mỹ sẽ bị ảnh hưởng bởi quyết định này"
-      ],
-      "full_summary": "Một tòa án liên bang ở Massachusetts đã bác bỏ yêu cầu của các tổ chức bảo vệ quyền của người nhập cư để giữ hộ chiếu tạm thời cho người Sudan đang sống tại Mỹ. Phán quyết này dựa trên quyết định của tòa án tối cao về việc xóa hộ chiếu tạm thời của người Haiti và Syria. Hàng trăm người Sudan đang sống tại Mỹ sẽ bị ảnh hưởng bởi quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0ff3bf0323ee",
-      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-07T18:43:34.733324+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "ELN phiến quân chuẩn bị quay lại chiến tranh",
-      "bullets": [
-        "Cựu Tổng thống Colombia hứa hẹn một cuộc tấn công quân sự mới",
-        "ELN chuẩn bị chiến đấu trở lại",
-        "Tình hình Colombia đang rơi vào khủng hoảng",
-        "Tình trạng xung đột có thể tái diễn"
-      ],
-      "full_summary": "Khi Tổng thống mới Abelardo de la Espriella nhậm chức, nước Colombia đang đứng trước nguy cơ chiến tranh. ELN, một tổ chức phiến quân cánh tả cuối cùng của Colombia, đang chuẩn bị chiến đấu trở lại. Họ đã thiết lập trạm quân sự bí mật trong rừng, sẵn sàng đối đầu với quân đội Colombia. Tình hình Colombia đang rơi vào khủng hoảng, và nguy cơ xung đột tái diễn ngày càng cao.",
       "comments": 0,
       "score": 0
     }
