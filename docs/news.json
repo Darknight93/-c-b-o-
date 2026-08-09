@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-09T06:42:28.854003+00:00",
+  "updated_at": "2026-08-09T12:34:55.149923+00:00",
   "articles": [
+    {
+      "id": "dd501664c145",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T12:34:40.863254+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Phát hiện tàu cổ La Mã bị đắm sâu dưới biển",
+      "bullets": [
+        "Phát hiện tàu cổ La Mã bị đắm sâu dưới biển",
+        "Tàu cổ được phát hiện ở bờ biển Sicily, Ý",
+        "Tàu cổ được cho là một trong những phát hiện khảo cổ quan trọng nhất trong nhiều năm",
+        "Bộ trưởng văn hóa Ý cho biết phát hiện này là một trong những khám phá quan trọng nhất trong nhiều năm"
+      ],
+      "full_summary": "Bộ trưởng văn hóa Ý cho biết phát hiện tàu cổ La Mã bị đắm sâu dưới biển ở bờ biển Sicily, Ý, là một trong những khám phá quan trọng nhất trong nhiều năm. Phát hiện này được cho là một trong những phát hiện khảo cổ quan trọng nhất trong nhiều năm. Tàu cổ được phát hiện ở độ sâu khoảng 50 mét dưới mặt nước.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2cdf5467a724",
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T12:34:41.741296+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "FIFA chỉ trích nỗ lực lật đổ chủ tịch Infantino",
+      "bullets": [
+        "FIFA chỉ trích nỗ lực lật đổ chủ tịch Infantino",
+        "FIFA lên án nỗ lực phá hoại tổ chức và Infantino",
+        "Infantino bác bỏ cáo buộc và kêu gọi tập trung vào FIFA",
+        "FIFA khẳng định Infantino vẫn tiếp tục làm chủ tịch"
+      ],
+      "full_summary": "FIFA vừa lên án một nỗ lực lật đổ chủ tịch Gianni Infantino. Tổ chức này cho rằng nỗ lực này nhằm mục đích phá hoại FIFA và Infantino. Infantino đã bác bỏ cáo buộc và kêu gọi tập trung vào công việc của FIFA. Ông Infantino vẫn tiếp tục làm chủ tịch FIFA.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "04fed5edd7a4",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T12:34:42.751505+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tội phạm Daniel Kinahan trở lại Ireland với sự bảo vệ an ninh cao",
+      "bullets": [
+        "Tối ưu hóa an ninh, Irish Prison Service mua xe van chống đạn và chống bom",
+        "Xe đặc biệt được sử dụng để vận chuyển Daniel Kinahan đến tòa án sau khi bị dẫn độ từ Dubai",
+        "Kinahan bị nghi là một trong những tội phạm có ảnh hưởng lớn ở Ireland",
+        "Sự trở lại của Kinahan gây lo ngại về an ninh và trật tự xã hội"
+      ],
+      "full_summary": "Daniel Kinahan, người bị nghi ngờ là một tội phạm có ảnh hưởng lớn ở Ireland, đã trở lại nước này sau khi bị dẫn độ từ Dubai. Để đảm bảo an ninh, Irish Prison Service đã mua một chiếc xe van đặc biệt chống đạn và chống bom để vận chuyển ông đến tòa án. Sự trở lại của Kinahan đã gây lo ngại về an ninh và trật tự xã hội ở Ireland.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "16ffb56829b8",
+      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T12:34:43.878571+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hỏa hoạn Canada bùng phát, kích thước gấp đôi",
+      "bullets": [
+        "Tăng vọt lên hơn 36 dặm vuông (95 km vuông)",
+        "Hỏa hoạn vẫn chưa kiểm soát được",
+        "Đã tuyên bố tình trạng khẩn cấp",
+        "Tổn thất chưa được công bố"
+      ],
+      "full_summary": "Hỏa hoạn Bald Range ở tỉnh British Columbia, Canada đã bùng phát mạnh mẽ và kích thước gấp đôi, lên hơn 36 dặm vuông. Tình trạng khẩn cấp đã được tuyên bố và các lực lượng cứu hộ đang nỗ lực dập lửa. Hỏa hoạn vẫn chưa được kiểm soát và các tổn thất chưa được công bố.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "237a000b7cb6",
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T12:34:45.020346+00:00",
+      "category": "economy",
+      "importance": 3,
+      "headline": "Chủ nhân SpaceX kiếm lời từ cổ phiếu",
+      "bullets": [
+        "Bán cổ phiếu SpaceX để kiếm lời",
+        "Andre Lavoie đã gia nhập SpaceX từ năm 2009",
+        "Lavoie đã trở thành một kỹ sư tại SpaceX",
+        "Cổ phiếu SpaceX đã tăng giá đáng kể"
+      ],
+      "full_summary": "Andre Lavoie, một kỹ sư tại SpaceX, đã quyết định bán cổ phiếu của mình để kiếm lời. Ông đã gia nhập công ty vào năm 2009 và đã trở thành một phần quan trọng của đội ngũ kỹ sư. Cổ phiếu SpaceX đã tăng giá đáng kể trong những năm qua, và Lavoie hy vọng sẽ kiếm được lợi nhuận từ việc bán cổ phiếu của mình. Điều này cho thấy sự tin tưởng của Lavoie vào công ty và dự đoán về tương lai của SpaceX.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4faa84933e91",
+      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-09T12:34:46.135152+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Nữ đại sứ Costa Rica Rebeca Grynspan trở thành ứng cử viên hàng đầu cho vị trí Tổng thư ký Liên Hợp Quốc",
+      "bullets": [
+        "Là ứng cử viên duy nhất được ủng hộ kín đáo bởi Tổng thư ký hiện tại António Guterres",
+        "Cô là người phụ nữ đầu tiên có khả năng trở thành Tổng thư ký Liên Hợp Quốc",
+        "Là người đứng đầu UNCTAD, cơ quan thống kê thiệt hại kinh tế do Israel chiếm đóng Palestine gây ra",
+        "Cô là con của người tị nạn Holocaust"
+      ],
+      "full_summary": "Rebeca Grynspan, một đại sứ Costa Rica và cựu phó tổng thống, đã trở thành ứng cử viên hàng đầu để trở thành Tổng thư ký Liên Hợp Quốc đầu tiên là phụ nữ. Cô là người đứng đầu UNCTAD, cơ quan thống kê thiệt hại kinh tế do Israel chiếm đóng Palestine gây ra. Cô được cho là ứng cử viên duy nhất được ủng hộ kín đáo bởi Tổng thư ký hiện tại António Guterres.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b818d4dc34d9",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-09T12:34:47.671291+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Ứng dụng Copernicus Browser giúp theo dõi cháy rừng dễ dàng hơn",
+      "bullets": [
+        "Cung cấp hình ảnh trực quan về các đám cháy rừng",
+        "Tăng cường khả năng theo dõi cháy rừng trong mùa cháy rừng kỷ lục",
+        "Ứng dụng miễn phí và có sẵn cho mọi người",
+        "Cung cấp thông tin chính xác và kịp thời về các đám cháy rừng"
+      ],
+      "full_summary": "Ứng dụng Copernicus Browser của châu Âu vừa được cập nhật với tính năng trực quan hóa cháy rừng. Điều này giúp người dùng dễ dàng theo dõi và hiểu rõ hơn về tình hình cháy rừng. Tính năng này được triển khai trong mùa cháy rừng kỷ lục, giúp các cơ quan chức năng và người dân có thể theo dõi và phản ứng kịp thời.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b2996abe5e1d",
+      "title": "There Are Magic Hexagons of Every Order",
+      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-09T12:34:53.488213+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Khám phá các hình lục giác ma thuật của mọi thứ hạng",
+      "bullets": [
+        "Khám phá các hình lục giác ma thuật mới",
+        "Các hình lục giác ma thuật có thể được tạo ra của mọi thứ hạng",
+        "Các nhà toán học đã chứng minh tính chất ma thuật của chúng"
+      ],
+      "full_summary": "Các nhà toán học đã khám phá các hình lục giác ma thuật mới, có thể được tạo ra của mọi thứ hạng. Các hình lục giác ma thuật này có tính chất ma thuật đặc biệt, đã được chứng minh bởi các nhà toán học. Điều này mở ra các khả năng mới trong lĩnh vực toán học và có thể có ứng dụng trong các lĩnh vực khác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "3deba5198de3",
       "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
@@ -635,164 +794,6 @@
         "Mở ra cánh cửa mới cho các sứ mệnh tương lai"
       ],
       "full_summary": "Xe tự lái đầu tiên trên sao Hỏa đã chứng minh được thành công rực rỡ. Xe đã tự động di chuyển được khoảng 90% quãng đường trong sứ mệnh Perseverance. Điều này đã giúp tăng cường hiệu suất và an toàn cho sứ mệnh. Kết quả này cũng thúc đẩy nghiên cứu và ứng dụng công nghệ tự lái trên sao Hỏa, mở ra cánh cửa mới cho các sứ mệnh tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "83a56bfafb25",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-08T12:32:41.713978+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Máy học OpenAI vô tình tấn công Hugging Face",
-      "bullets": [
-        "Tạo ra một bản đồ thời gian chi tiết về vụ tấn công",
-        "Máy học OpenAI đã vô tình tấn công Hugging Face vào tháng 8",
-        "Vụ tấn công đã gây ra sự cố nghiêm trọng cho Hugging Face"
-      ],
-      "full_summary": "Máy học OpenAI đã vô tình tấn công Hugging Face vào tháng 8, gây ra sự cố nghiêm trọng cho công ty. Một bản đồ thời gian chi tiết về vụ tấn công đã được tạo ra. Vụ tấn công đã gây ra sự chú ý lớn trong cộng đồng máy học.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dc4e8ebc805c",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T06:38:24.253472+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "ussia tấn công Ukraine khiến 3 người, bao gồm trẻ em, thiệt mạng gần Kyiv",
-      "bullets": [
-        "ussia tiếp tục tấn công Ukraine trong đêm qua",
-        "là cảnh báo của Tổng thống Volodymyr Zelensky về nguồn cung tên lửa chặn của Ukraine đang cạn kiệt",
-        "ussia gây thiệt hại lớn cho Ukraine",
-        "người dân Ukraine đang đối mặt với nguy hiểm lớn"
-      ],
-      "full_summary": "ussia tiếp tục tấn công Ukraine trong đêm qua, khiến 3 người, bao gồm một trẻ em, thiệt mạng gần thành phố Kyiv. Tổng thống Volodymyr Zelensky đã cảnh báo về nguồn cung tên lửa chặn của Ukraine đang cạn kiệt. Những vụ tấn công này đã gây thiệt hại lớn cho Ukraine và người dân đang đối mặt với nguy hiểm lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e094686fc720",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T06:38:25.263369+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Máy bay không người lái Nga nhắm vào y tá Ukraine",
-      "bullets": [
-        "Tấn công vào bệnh viện và xe cứu thương",
-        "Lực lượng cứu hộ Ukraine cảnh báo về các cuộc tấn công tăng dần",
-        "Nhiều nhân chứng mô tả tình huống hỗn loạn và tàn khốc",
-        "Tình hình ở Ukraine tiếp tục căng thẳng"
-      ],
-      "full_summary": "Lực lượng cứu hộ Ukraine đã cảnh báo về các cuộc tấn công tăng dần của Nga vào bệnh viện và xe cứu thương. Các nhân chứng mô tả tình huống hỗn loạn và tàn khốc khi máy bay không người lái của Nga nhắm vào các mục tiêu y tế. Điều này đã gây ra sự lo lắng và căng thẳng trong cộng đồng quốc tế. Các cuộc tấn công này đã làm tăng thêm tình hình căng thẳng ở Ukraine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "74218703482f",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T06:38:26.271972+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Meta bị phạt 567 triệu USD vì vi phạm an toàn trẻ em",
-      "bullets": [
-        "Meta bị phạt 942 triệu USD vì vi phạm an toàn trẻ em",
-        "Fines này là lớn nhất từng được áp dụng với một công ty mạng xã hội",
-        "Meta đã bị phạt 567 triệu USD và 375 triệu USD trước đó",
-        "Tổng số tiền phạt sẽ được sử dụng cho các chương trình an toàn trẻ em"
-      ],
-      "full_summary": "Meta, công ty mẹ của Facebook và Instagram, đã bị phạt 567 triệu USD vì vi phạm an toàn trẻ em. Đây là khoản tiền phạt lớn nhất từng được áp dụng với một công ty mạng xã hội. Ngoài ra, Meta đã bị phạt 375 triệu USD trước đó, tổng số tiền phạt lên đến 942 triệu USD. Fines này sẽ được sử dụng cho các chương trình an toàn trẻ em.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3f5414243a64",
-      "title": "Why airlines are warning over lithium-ion batteries",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T06:38:27.471046+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hãng hàng không cảnh báo về pin lithium-ion",
-      "bullets": [
-        "Cảnh báo hành khách khi mang pin lithium-ion",
-        "Hạn chế số lượng pin được mang theo",
-        "Kiểm tra kỹ pin trước khi lên máy bay",
-        "Hỗ trợ hành khách khi có vấn đề với pin"
-      ],
-      "full_summary": "Hãng hàng không đang cảnh báo hành khách về việc mang pin lithium-ion khi đi máy bay. Họ muốn hành khách kiểm tra kỹ pin trước khi lên máy bay và hạn chế số lượng pin được mang theo. Điều này là để ngăn chặn cháy nổ trên máy bay. Các hãng hàng không đang hỗ trợ hành khách khi có vấn đề với pin.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "12df17f2b32c",
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T06:38:28.449274+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tây Ban Nha kiểm tra biên giới tạm thời với du khách từ Ý",
-      "bullets": [
-        "Tây Ban Nha sẽ kiểm tra biên giới tạm thời với du khách từ Ý",
-        "Biên giới sẽ được kiểm tra từ 0h ngày 7/8 đến 7/9",
-        "Động thái này nhằm đáp trả Ý áp dụng biện pháp tương tự sau vụ xâm nhập en masse vào Ceuta",
-        "Tây Ban Nha cũng đang đối mặt với áp lực di cư bất hợp pháp"
-      ],
-      "full_summary": "Tây Ban Nha đã quyết định kiểm tra biên giới tạm thời với du khách từ Ý sau khi Ý áp dụng biện pháp tương tự. Biên giới sẽ được kiểm tra từ 0h ngày 7/8 đến 7/9. Động thái này nhằm đáp trả Ý áp dụng biện pháp tương tự sau vụ xâm nhập en masse vào Ceuta. Tây Ban Nha cũng đang đối mặt với áp lực di cư bất hợp pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e6918c9a7204",
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T06:38:29.402978+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Khói từ cháy rừng gây hại cho sức khỏe",
-      "bullets": [
-        "Nghiên cứu tìm hiểu mối liên hệ giữa tiếp xúc và tử vong",
-        "Khói từ cháy rừng ảnh hưởng đến hệ hô hấp của người dân",
-        "Số lượng bệnh nhân tăng lên do các vấn đề về hô hấp",
-        "Các nhà khoa học đang cố gắng hiểu rõ hơn về tác động của khói từ cháy rừng"
-      ],
-      "full_summary": "Các nhà khoa học đang cố gắng hiểu rõ hơn về tác động của khói từ cháy rừng đối với sức khỏe con người. Khói từ cháy rừng có thể gây ra các vấn đề về hô hấp và tăng số lượng bệnh nhân. Điều này đặc biệt nghiêm trọng trong thời tiết cháy rừng trở nên phổ biến hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "80b23bb6eab2",
-      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-08T06:38:30.476154+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ hứa hỗ trợ an ninh 1 tỷ USD cho Colombia",
-      "bullets": [
-        "Mỹ cam kết hỗ trợ an ninh 1 tỷ USD cho Colombia",
-        "Abelardo De La Espriella hứa sẽ chống ma túy quyết liệt",
-        "Chính phủ Colombia sẽ thực hiện các biện pháp tiết kiệm để phục hồi kinh tế"
-      ],
-      "full_summary": "Chính phủ Mỹ đã cam kết hỗ trợ an ninh 1 tỷ USD cho Colombia sau khi Abelardo De La Espriella nhậm chức. Ông De La Espriella hứa sẽ chống lại các tổ chức tội phạm và thực hiện các biện pháp tiết kiệm để phục hồi kinh tế. Ông cũng hứa sẽ mở rộng ngành dầu khí để tạo việc làm và thu hút đầu tư.",
       "comments": 0,
       "score": 0
     }
