@@ -1,6 +1,203 @@
 {
-  "updated_at": "2026-08-10T12:52:17.957907+00:00",
+  "updated_at": "2026-08-10T18:46:03.072715+00:00",
   "articles": [
+    {
+      "id": "09d7a914b3b5",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:47.135928+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Bà Trump không quan tâm đến việc Netanyahu từ chối kế hoạch Gaza",
+      "bullets": [
+        "Netanyahu từ chối kế hoạch Gaza 15 điểm của Trump",
+        "Bà Trump coi đây là lời hứa trong chiến dịch bầu cử",
+        "Cơ quan này không quan tâm đến việc từ chối này",
+        "Kế hoạch Gaza vẫn có thể được xem xét sau này"
+      ],
+      "full_summary": "Bà Trump không quan tâm đến việc Netanyahu từ chối kế hoạch Gaza 15 điểm. Cơ quan này coi đây là lời hứa trong chiến dịch bầu cử. Kế hoạch Gaza vẫn có thể được xem xét sau này. Cơ quan này không quan tâm đến việc từ chối này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ed3fda28b645",
+      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:48.214696+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 12.000 người phải di dời vì cháy rừng ở Canada",
+      "bullets": [
+        "Đã có hơn 12.000 người phải di dời khỏi khu vực Okanagan",
+        "Cháy rừng đã nhanh chóng lan rộng qua khu vực này",
+        "Nhiều người đang lo lắng về số phận của nhà cửa",
+        "Các cơ quan chức năng đang cố gắng dập lửa"
+      ],
+      "full_summary": "Một đám cháy rừng lớn đã nhanh chóng lan rộng qua khu vực Okanagan ở Canada, khiến hơn 12.000 người phải di dời. Cháy rừng đã gây ra sự tàn phá lớn và nhiều người đang lo lắng về số phận của nhà cửa. Các cơ quan chức năng đang cố gắng dập lửa và đảm bảo an toàn cho người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0b801f48dc4a",
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:49.170414+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "WHO cảnh báo Ebola virus đang vượt trước các nỗ lực chống dịch",
+      "bullets": [
+        "WHO cảnh báo Ebola virus đang bùng phát mạnh",
+        "Tỷ lệ nhiễm bệnh cao, khiến các cơ quan chức năng gặp khó khăn",
+        "Các nỗ lực chống dịch đang gặp khó khăn",
+        "WHO đang nỗ lực để ngăn chặn sự lây lan của virus"
+      ],
+      "full_summary": "WHO cảnh báo Ebola virus đang bùng phát mạnh và vượt trước các nỗ lực chống dịch. Tỷ lệ nhiễm bệnh cao, khiến các cơ quan chức năng gặp khó khăn. Các nỗ lực chống dịch đang gặp khó khăn, nhưng WHO đang nỗ lực để ngăn chặn sự lây lan của virus.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "22067fc0f2cf",
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:50.217557+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hội đồng bầu cử Nga cấm đảng chống chiến tranh tham gia bầu cử",
+      "bullets": [
+        "Cấm đảng đối lập cánh tả tham gia bầu cử quốc hội",
+        "Tòa án Moscow đưa ra quyết định cuối cùng",
+        "Đảng đối lập cánh tả chỉ có một đảng chống chiến tranh",
+        "Bầu cử quốc hội diễn ra vào tháng tới"
+      ],
+      "full_summary": "Một tòa án ở Moscow đã quyết định cấm đảng đối lập cánh tả, chỉ có một đảng chống chiến tranh ở Nga, tham gia bầu cử quốc hội vào tháng tới. Đây là một quyết định gây tranh cãi và đã gây ra lo ngại về việc hạn chế tự do chính trị ở Nga. Đảng đối lập cánh tả đã kêu gọi các cử tri bỏ phiếu chống lại chiến tranh và đã trở thành một trong những đối thủ cạnh tranh chính của đảng cầm quyền.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "50a2b63ec911",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:51.181116+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hệ thống tàu mới kết nối Phần Lan và Thụy Điển sau nhiều thập kỷ",
+      "bullets": [
+        "Kết nối đường sắt từ Bồ Đào Nha đến Lapland",
+        "Dự kiến là hành trình tàu dài nhất ở châu Âu",
+        "Tàu sẽ chạy từ Phần Lan đến Thụy Điển",
+        "Mở đường cho du khách khám phá Bắc Âu"
+      ],
+      "full_summary": "Một hệ thống tàu mới sẽ kết nối Phần Lan và Thụy Điển sau nhiều thập kỷ. Hệ thống này sẽ cho phép hành khách đi tàu từ Bồ Đào Nha đến Lapland, một hành trình được dự kiến là dài nhất ở châu Âu. Tàu sẽ chạy từ Phần Lan đến Thụy Điển, mở đường cho du khách khám phá Bắc Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84e62c8329d8",
+      "title": "Judge approves Trump effort to end South Sudan TPS protections",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:52.302338+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hộ chiếu tạm thời của người Nam Sudan ở Mỹ sắp hết hạn",
+      "bullets": [
+        "Hộ chiếu tạm thời của người Nam Sudan ở Mỹ sắp hết hạn",
+        "Tòa án liên bang đã bác bỏ yêu cầu của các tổ chức bảo vệ quyền của người nhập cư",
+        "Phán quyết này dựa trên quyết định của tòa án tối cao về việc loại bỏ bảo vệ cho người Haiti và Syria",
+        "Hàng trăm người Nam Sudan đang sống tại Mỹ sẽ không còn được bảo vệ"
+      ],
+      "full_summary": "Một phán quyết mới của tòa án liên bang cho phép chính phủ Mỹ loại bỏ hộ chiếu tạm thời (TPS) cho hàng trăm người Nam Sudan đang sống tại Mỹ. Phán quyết này dựa trên quyết định của tòa án tối cao về việc loại bỏ bảo vệ cho người Haiti và Syria. Các tổ chức bảo vệ quyền của người nhập cư đã cố gắng ngăn chặn việc loại bỏ hộ chiếu tạm thời, nhưng tòa án đã bác bỏ yêu cầu của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b816f8985a74",
+      "title": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:53.286133+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất 7,4 độ ở Colombia khiến hơn 70 người thiệt mạng",
+      "bullets": [
+        "Cơn động đất khiến hơn chục tòa nhà sụp đổ",
+        "Nhiều người bị mắc kẹt trong các tòa nhà đổ nát ở Cali",
+        "Thành phố Cali yêu cầu hỗ trợ từ các thành phố khác để cứu hộ"
+      ],
+      "full_summary": "Một cơn động đất mạnh 7,4 độ đã xảy ra tại Colombia, khiến hơn 70 người thiệt mạng và hàng chục tòa nhà sụp đổ. Thành phố Cali, một trong những thành phố lớn nhất Colombia, đã yêu cầu hỗ trợ từ các thành phố khác để cứu hộ. Nhiều người bị mắc kẹt trong các tòa nhà đổ nát và đang chờ đợi sự giúp đỡ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11eeb6c9648b",
+      "title": "Dozens dead after powerful earthquake strikes western Colombia",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:54.313878+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất mạnh 7,4 độ làm 80 người chết ở Colombia",
+      "bullets": [
+        "Động đất mạnh 7,4 độ xảy ra tại khu vực phía tây Colombia",
+        "Hàng chục tòa nhà bị sập hoặc hư hỏng nghiêm trọng",
+        "Tổng cộng 80 người đã thiệt mạng sau sự kiện này"
+      ],
+      "full_summary": "Động đất mạnh 7,4 độ đã xảy ra tại khu vực phía tây Colombia vào sáng thứ Hai, làm hàng chục tòa nhà bị sập hoặc hư hỏng nghiêm trọng. Sự kiện này đã khiến 80 người thiệt mạng và nhiều người khác bị thương. Động đất cũng được cảm nhận ở Venezuela, nơi đang còn đang phải đối mặt với hậu quả của hai trận động đất chết chóc vào tháng 6.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0c864e22dfcd",
+      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T18:45:55.415284+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một nhà làm phim Kurd kể về việc bị ICE ép ăn vô nhân đạo",
+      "bullets": [
+        "Bị giam trong một buồng cô lập và bị ép ăn bằng ống thông",
+        "Được giam trong 6 tháng và bị buộc phải ăn bằng cách sử dụng lực mạnh",
+        "Cảm giác đau đớn và sợ hãi vẫn còn tồn tại sau khi ra khỏi trại giam",
+        "Tình trạng sức khỏe của Choli đã bị suy yếu nghiêm trọng"
+      ],
+      "full_summary": "Gabar Choli, một nhà làm phim Kurd, đã kể về kinh nghiệm của mình khi bị giam trong một trại giam của ICE ở Texas. Ông đã bị giam trong 6 tháng và bị buộc phải ăn bằng cách sử dụng lực mạnh. Choli đã bị ép ăn bằng ống thông và đã bị giam trong một buồng cô lập. Ông đã cảm thấy đau đớn và sợ hãi trong suốt thời gian đó và tình trạng sức khỏe của ông đã bị suy yếu nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e38c742d7f86",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-10T18:46:01.341085+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Claude đã chứng minh khả năng tính toán Riemann Zeta",
+      "bullets": [
+        "Xác định giá trị của Riemann Zeta tại các số nguyên tố",
+        "Tính toán chính xác với độ chính xác cao",
+        "Sử dụng kiến thức toán học tiên tiến để đạt được kết quả này"
+      ],
+      "full_summary": "Claude, một mô hình AI được phát triển bởi Anthropic, đã chứng minh khả năng tính toán Riemann Zeta với độ chính xác cao. Điều này cho thấy khả năng tính toán phức tạp của Claude, một trong những mô hình AI mạnh nhất hiện nay. Mô hình này đã sử dụng kiến thức toán học tiên tiến để đạt được kết quả này, mở ra khả năng ứng dụng rộng rãi trong nhiều lĩnh vực khác nhau.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "104a9ee1ca92",
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -594,206 +791,6 @@
         "Hậu quả của hạn hán ảnh hưởng đến cuộc sống hàng ngày"
       ],
       "full_summary": "Do thời tiết nóng và cơ sở hạ tầng già, Puerto Rico đã phải hạn chế nước sinh hoạt cho hàng trăm nghìn người. Hạn chế này gây ra căng thẳng về nguồn nước và ảnh hưởng đến cuộc sống hàng ngày của người dân. Hậu quả của hạn hán đang trở thành vấn đề lớn ở Puerto Rico.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "74218703482f",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T18:29:32.655629+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Meta bị phạt 12.000 tỷ đồng vì vi phạm an toàn trẻ em",
-      "bullets": [
-        "Meta bị phạt 567 triệu USD vì vi phạm an toàn trẻ em",
-        "Tổng số tiền phạt là 942 triệu USD",
-        "Meta đã bị phạt 375 triệu USD trước đó",
-        "Rulings này là lớn nhất về an toàn trẻ em đối với một công ty mạng xã hội"
-      ],
-      "full_summary": "Meta đã bị phạt 567 triệu USD vì vi phạm an toàn trẻ em. Tổng số tiền phạt là 942 triệu USD, bao gồm cả 375 triệu USD mà công ty đã bị phạt trước đó. Rulings này là lớn nhất về an toàn trẻ em đối với một công ty mạng xã hội.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3f5414243a64",
-      "title": "Why airlines are warning over lithium-ion batteries",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T18:29:33.654562+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Hãng hàng không cảnh báo hành khách về pin lithium-ion",
-      "bullets": [
-        "Cấm mang pin lithium-ion trên máy bay nếu không được phép",
-        "Hành khách cần kiểm tra kích thước và trọng lượng pin",
-        "Pin lithium-ion có thể gây cháy nổ khi bị va chạm",
-        "Hãng hàng không khuyến cáo hành khách sử dụng pin an toàn"
-      ],
-      "full_summary": "Hãng hàng không đang cảnh báo hành khách về việc mang pin lithium-ion khi đi máy bay. Họ cho rằng pin lithium-ion có thể gây cháy nổ khi bị va chạm hoặc nhiệt độ cao. Hành khách cần kiểm tra kích thước và trọng lượng pin trước khi mang lên máy bay. Nếu không được phép, họ nên cấm mang pin lithium-ion.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "12df17f2b32c",
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T18:29:34.634240+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tây Ban Nha sẽ kiểm tra biên giới tạm thời với khách từ Ý",
-      "bullets": [
-        "Tây Ban Nha sẽ áp dụng kiểm tra biên giới tạm thời từ ngày 7/8",
-        "Kiểm tra sẽ diễn ra trong 7 tháng tới, đến ngày 7/9",
-        "Lý do là áp lực di cư bất hợp pháp ở Ý",
-        "Italy cũng đã áp dụng biện pháp tương tự sau khi có làn sóng di cư lớn"
-      ],
-      "full_summary": "Tây Ban Nha đã quyết định áp dụng kiểm tra biên giới tạm thời với khách từ Ý. Đây là biện pháp đáp lại việc Ý áp dụng biện pháp tương tự sau khi có làn sóng di cư lớn vào Ceuta. Kiểm tra sẽ diễn ra trong 7 tháng tới, đến ngày 7/9. Tây Ban Nha cho rằng đây là biện pháp cần thiết để đối phó với áp lực di cư bất hợp pháp ở Ý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "80b23bb6eab2",
-      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T18:29:36.305167+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ hứa hỗ trợ an ninh 1 tỷ đô la cho Colombia",
-      "bullets": [
-        "Mỹ hứa hỗ trợ an ninh 1 tỷ đô la cho Colombia",
-        "Abelardo De La Espriella cam kết chống ma túy và tái cấu trúc kinh tế",
-        "Ông De La Espriella hứa sẽ giảm 40% bộ máy nhà nước",
-        "Mỹ sẽ hỗ trợ Colombia trong cuộc chiến chống tội phạm và khủng bố"
-      ],
-      "full_summary": "Mỹ đã hứa hỗ trợ an ninh 1 tỷ đô la cho chính phủ Colombia sau khi Abelardo De La Espriella nhậm chức. Ông De La Espriella cam kết chống ma túy và tái cấu trúc kinh tế, bao gồm việc giảm 40% bộ máy nhà nước. Ông cũng hứa sẽ khôi phục ngành dầu khí. Hỗ trợ của Mỹ sẽ giúp Colombia trong cuộc chiến chống tội phạm và khủng bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ae34f25cb8ca",
-      "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-      "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-09T18:29:40.378132+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Google bị phát hiện AI tạo nội dung giả mạo trong mọi văn phòng ở Mỹ",
-      "bullets": [
-        "Google bị phát hiện sử dụng AI tạo nội dung giả mạo",
-        "Nội dung giả mạo xuất hiện trong mọi văn phòng ở Mỹ",
-        "Hacker News công bố thông tin và video minh họa",
-        "Sự việc gây tranh cãi và bất bình trong cộng đồng công nghệ"
-      ],
-      "full_summary": "Google đã bị phát hiện sử dụng AI tạo nội dung giả mạo trong mọi văn phòng ở Mỹ. Thông tin này được công bố trên Hacker News và minh họa bằng video. Sự việc gây tranh cãi và bất bình trong cộng đồng công nghệ, đặt ra câu hỏi về tính trung thực của nội dung được tạo ra bởi AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "dd501664c145",
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T12:34:40.863254+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Phát hiện tàu cổ La Mã bị đắm sâu dưới biển",
-      "bullets": [
-        "Phát hiện tàu cổ La Mã bị đắm sâu dưới biển",
-        "Tàu cổ được phát hiện ở bờ biển Sicily, Ý",
-        "Tàu cổ được cho là một trong những phát hiện khảo cổ quan trọng nhất trong nhiều năm",
-        "Bộ trưởng văn hóa Ý cho biết phát hiện này là một trong những khám phá quan trọng nhất trong nhiều năm"
-      ],
-      "full_summary": "Bộ trưởng văn hóa Ý cho biết phát hiện tàu cổ La Mã bị đắm sâu dưới biển ở bờ biển Sicily, Ý, là một trong những khám phá quan trọng nhất trong nhiều năm. Phát hiện này được cho là một trong những phát hiện khảo cổ quan trọng nhất trong nhiều năm. Tàu cổ được phát hiện ở độ sâu khoảng 50 mét dưới mặt nước.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2cdf5467a724",
-      "title": "Fifa criticises campaign to oust president Infantino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T12:34:41.741296+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "FIFA chỉ trích nỗ lực lật đổ chủ tịch Infantino",
-      "bullets": [
-        "FIFA chỉ trích nỗ lực lật đổ chủ tịch Infantino",
-        "FIFA lên án nỗ lực phá hoại tổ chức và Infantino",
-        "Infantino bác bỏ cáo buộc và kêu gọi tập trung vào FIFA",
-        "FIFA khẳng định Infantino vẫn tiếp tục làm chủ tịch"
-      ],
-      "full_summary": "FIFA vừa lên án một nỗ lực lật đổ chủ tịch Gianni Infantino. Tổ chức này cho rằng nỗ lực này nhằm mục đích phá hoại FIFA và Infantino. Infantino đã bác bỏ cáo buộc và kêu gọi tập trung vào công việc của FIFA. Ông Infantino vẫn tiếp tục làm chủ tịch FIFA.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "04fed5edd7a4",
-      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T12:34:42.751505+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tội phạm Daniel Kinahan trở lại Ireland với sự bảo vệ an ninh cao",
-      "bullets": [
-        "Tối ưu hóa an ninh, Irish Prison Service mua xe van chống đạn và chống bom",
-        "Xe đặc biệt được sử dụng để vận chuyển Daniel Kinahan đến tòa án sau khi bị dẫn độ từ Dubai",
-        "Kinahan bị nghi là một trong những tội phạm có ảnh hưởng lớn ở Ireland",
-        "Sự trở lại của Kinahan gây lo ngại về an ninh và trật tự xã hội"
-      ],
-      "full_summary": "Daniel Kinahan, người bị nghi ngờ là một tội phạm có ảnh hưởng lớn ở Ireland, đã trở lại nước này sau khi bị dẫn độ từ Dubai. Để đảm bảo an ninh, Irish Prison Service đã mua một chiếc xe van đặc biệt chống đạn và chống bom để vận chuyển ông đến tòa án. Sự trở lại của Kinahan đã gây lo ngại về an ninh và trật tự xã hội ở Ireland.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "16ffb56829b8",
-      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T12:34:43.878571+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hỏa hoạn Canada bùng phát, kích thước gấp đôi",
-      "bullets": [
-        "Tăng vọt lên hơn 36 dặm vuông (95 km vuông)",
-        "Hỏa hoạn vẫn chưa kiểm soát được",
-        "Đã tuyên bố tình trạng khẩn cấp",
-        "Tổn thất chưa được công bố"
-      ],
-      "full_summary": "Hỏa hoạn Bald Range ở tỉnh British Columbia, Canada đã bùng phát mạnh mẽ và kích thước gấp đôi, lên hơn 36 dặm vuông. Tình trạng khẩn cấp đã được tuyên bố và các lực lượng cứu hộ đang nỗ lực dập lửa. Hỏa hoạn vẫn chưa được kiểm soát và các tổn thất chưa được công bố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "237a000b7cb6",
-      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T12:34:45.020346+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "Chủ nhân SpaceX kiếm lời từ cổ phiếu",
-      "bullets": [
-        "Bán cổ phiếu SpaceX để kiếm lời",
-        "Andre Lavoie đã gia nhập SpaceX từ năm 2009",
-        "Lavoie đã trở thành một kỹ sư tại SpaceX",
-        "Cổ phiếu SpaceX đã tăng giá đáng kể"
-      ],
-      "full_summary": "Andre Lavoie, một kỹ sư tại SpaceX, đã quyết định bán cổ phiếu của mình để kiếm lời. Ông đã gia nhập công ty vào năm 2009 và đã trở thành một phần quan trọng của đội ngũ kỹ sư. Cổ phiếu SpaceX đã tăng giá đáng kể trong những năm qua, và Lavoie hy vọng sẽ kiếm được lợi nhuận từ việc bán cổ phiếu của mình. Điều này cho thấy sự tin tưởng của Lavoie vào công ty và dự đoán về tương lai của SpaceX.",
       "comments": 0,
       "score": 0
     }
