@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-08-10T07:16:41.999347+00:00",
+  "updated_at": "2026-08-10T12:52:17.957907+00:00",
   "articles": [
+    {
+      "id": "104a9ee1ca92",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:02.409768+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "ussia bị tấn công bằng máy bay không người lái Ukraine",
+      "bullets": [
+        "Tối qua, Ukraine tiến hành một cuộc tấn công bằng máy bay không người lái vào khu vực Tatarstan của Nga",
+        "Cả 13 người đã thiệt mạng và 75 người bị thương trong vụ tấn công",
+        "Đây là một trong những vụ tấn công bằng máy bay không người lái của Ukraine vào Nga kể từ khi Nga xâm lược Ukraine",
+        "Vụ tấn công đã gây ra sự phẫn nộ ở Nga"
+      ],
+      "full_summary": "Một cuộc tấn công bằng máy bay không người lái của Ukraine đã xảy ra vào khu vực Tatarstan của Nga, khiến ít nhất 13 người thiệt mạng và 75 người bị thương. Đây là một trong những vụ tấn công bằng máy bay không người lái của Ukraine vào Nga kể từ khi Nga xâm lược Ukraine. Vụ tấn công đã gây ra sự phẫn nộ ở Nga và cho thấy Ukraine vẫn tiếp tục tiến hành các hoạt động quân sự chống lại Nga.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "938b95d0c20b",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:03.316694+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Tràn ngập mưa lớn, Trung Quốc di dời 1 triệu người khỏi nhà",
+      "bullets": [
+        "Đông bắc Trung Quốc bị ảnh hưởng bởi cơn bão Dolphin",
+        "Cơn bão mang mưa lớn và gió mạnh, bao gồm cả thành phố Shanghai",
+        "Trung Quốc đã di dời 1 triệu người khỏi nhà để tránh cơn bão",
+        "Cơn bão Dolphin đã đổ bộ vào đất liền"
+      ],
+      "full_summary": "Cơn bão Dolphin đã đổ bộ vào đông bắc Trung Quốc, mang theo mưa lớn và gió mạnh. Cơn bão đã ảnh hưởng đến thành phố Shanghai và nhiều khu vực khác. Để tránh thiệt hại, Trung Quốc đã di dời 1 triệu người khỏi nhà. Cơn bão Dolphin được dự đoán sẽ tiếp tục gây ảnh hưởng trong những ngày tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "725fb7aeadb5",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:04.394219+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một cựu nghị sĩ Thái Lan khai nhận giết quan chức",
+      "bullets": [
+        "Xuất hiện trên YouTube khai nhận đã bắn chết quan chức",
+        "Cựu nghị sĩ Chalong Riewrang gọi livestream để nói về hành động",
+        "Sự việc đang được điều tra bởi cơ quan chức năng Thái Lan",
+        "Cáo buộc giết người đang được đưa ra đối với cựu nghị sĩ"
+      ],
+      "full_summary": "Cựu nghị sĩ Thái Lan Chalong Riewrang đã gọi một livestream trên YouTube để khai nhận đã bắn chết một quan chức. Ông Riewrang đã nói về hành động của mình trong livestream. Sự việc đang được điều tra bởi cơ quan chức năng Thái Lan. Cáo buộc giết người đang được đưa ra đối với cựu nghị sĩ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6c7143e0fefc",
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:05.308029+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Một lãnh đạo nổi tiếng của phe đối lập bị giết trong chiến dịch quân sự ở Colombia",
+      "bullets": [
+        "Bị tiêu diệt trong một cuộc tấn công quân sự",
+        "Là mục tiêu của một chiến dịch quân sự sau khi Tổng thống Colombia nhậm chức",
+        "Hernando Forero Mosquera là lãnh đạo của một nhóm đối lập",
+        "Chiến dịch quân sự diễn ra chỉ vài ngày sau khi Tổng thống mới nhậm chức"
+      ],
+      "full_summary": "Một cuộc tấn công quân sự ở Colombia đã dẫn đến cái chết của Hernando Forero Mosquera, người được cho là lãnh đạo của một nhóm đối lập. Chiến dịch quân sự diễn ra chỉ vài ngày sau khi Tổng thống mới nhậm chức. Điều này cho thấy Tổng thống mới đang tập trung vào việc kiểm soát các nhóm vũ trang. Chiến dịch quân sự này được thực hiện để ngăn chặn các hoạt động của các nhóm đối lập.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f0e9bef5e0d1",
+      "title": "World's oceans hit record-high July temperatures",
+      "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:06.165038+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Nước biển toàn cầu đạt nhiệt độ cao kỷ lục vào tháng 7",
+      "bullets": [
+        "Đạt nhiệt độ cao kỷ lục",
+        "Bị ảnh hưởng bởi El Niño",
+        "Nhiệt độ cao gây thiệt hại",
+        "Sự kiện diễn ra trên toàn cầu"
+      ],
+      "full_summary": "Nước biển toàn cầu đã đạt nhiệt độ cao kỷ lục vào tháng 7, một phần do El Niño đang phát triển. Điều này đã được ghi nhận bởi các quan trắc khí tượng. Nhiệt độ cao kỷ lục này đã gây ra nhiều thiệt hại trên toàn cầu, bao gồm cả các vụ cháy rừng ở châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a9f024ee528b",
+      "title": "India police fire tear gas at protesters seeking exam reforms",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:07.092717+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát Ấn Độ phun hơi cay vào những người biểu tình đòi cải cách kỳ thi",
+      "bullets": [
+        "Hàng nghìn sinh viên và người tìm việc tập trung tại bang Jharkhand",
+        "Các cuộc biểu tình diễn ra sau những cuộc biểu tình 'gián lận' ở Delhi",
+        "Cảnh sát dùng hơi cay để dập tắt các cuộc biểu tình",
+        "Mục tiêu của các cuộc biểu tình là cải cách hệ thống kỳ thi"
+      ],
+      "full_summary": "Hàng nghìn sinh viên và người tìm việc đã tập trung tại bang Jharkhand, Ấn Độ, để biểu tình đòi cải cách hệ thống kỳ thi. Các cuộc biểu tình diễn ra sau những cuộc biểu tình 'gián lận' ở Delhi. Cảnh sát đã dùng hơi cay để dập tắt các cuộc biểu tình. Mục tiêu của các cuộc biểu tình là cải cách hệ thống kỳ thi để đảm bảo công bằng và công lý.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b81f4e9ca6c4",
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:07.983607+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một xác chết trong vali ở Úc được phát hiện là một đồ chơi",
+      "bullets": [
+        "Phát hiện một xác chết trong vali ở Úc",
+        "Phân tích pháp y xác định xác chết không phải là người",
+        "Xác định đồ chơi có hình dạng rất giống người",
+        "Cảnh sát đã giải quyết vụ việc"
+      ],
+      "full_summary": "Một xác chết được phát hiện trong vali ở Úc đã được phân tích pháp y và phát hiện ra rằng đó không phải là một người. Thay vào đó, đó là một đồ chơi có hình dạng rất giống người. Cảnh sát đã giải quyết vụ việc và xác định nguyên nhân. Vụ việc đã gây chú ý trong cộng đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aa1ee4532f24",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:09.023435+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Video giả về thiên tai lan truyền trên mạng xã hội ở Trung Quốc",
+      "bullets": [
+        "Được chia sẻ nhanh chóng trên mạng xã hội",
+        "Cùng với sự gia tăng của các sự kiện thời tiết cực đoan",
+        "Gây ra những vấn đề thực tế ở Trung Quốc",
+        "BBC phân tích các video giả về thiên tai"
+      ],
+      "full_summary": "Theo BBC Technology, các video giả về thiên tai đang được chia sẻ nhanh chóng trên mạng xã hội, gây ra những vấn đề thực tế ở Trung Quốc. Các video này thường mô tả các sự kiện thời tiết cực đoan, nhưng thực tế chúng là giả. Điều này đang gây ra sự nhầm lẫn và hoang mang trong cộng đồng. BBC đã phân tích các video này để xác định xem chúng có phải là thật hay giả.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3a0a41781b28",
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T12:52:10.165440+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ sắp đóng 5 cơ sở ngoại giao trước lo ngại Trung Quốc lấp chỗ trống",
+      "bullets": [
+        "Mỹ sẽ đóng 5 cơ sở ngoại giao tại Canada, Grenada, Nhật Bản, Indonesia và Cameroon",
+        "Cơ quan Ngoại giao Mỹ lý giải đóng cửa vì lý do kinh phí",
+        "Chính quyền Mỹ lo ngại Trung Quốc sẽ lấp chỗ trống ngoại giao",
+        "Cơ quan Ngoại giao Mỹ đã thông báo cho Quốc hội về kế hoạch đóng cửa"
+      ],
+      "full_summary": "Cơ quan Ngoại giao Mỹ thông báo sẽ đóng 5 cơ sở ngoại giao tại các quốc gia khác nhau trên thế giới. Lý do được đưa ra là vì lý do kinh phí và sau khi tái đánh giá quan hệ song phương với các quốc gia kể từ khi Donald Trump trở lại Nhà Trắng vào tháng 1 năm 2025. Việc đóng cửa cơ sở ngoại giao này đã gây ra lo ngại rằng Trung Quốc sẽ lấp chỗ trống ngoại giao. Cơ quan Ngoại giao Mỹ đã thông báo cho Quốc hội về kế hoạch đóng cửa này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "529c4767029a",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-10T12:52:13.002341+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "DeepMind đã tạo ra mô hình dự đoán bão hiệu quả với dữ liệu thời tiết thấp hơn",
+      "bullets": [
+        "Tạo ra dự đoán bão chính xác với dữ liệu thời tiết thấp hơn",
+        "Mô hình WeatherNext của DeepMind đã được mở nguồn",
+        "Cung cấp cho nhà dự báo thêm một ngày để chuẩn bị",
+        "Đã gây bất ngờ cho các nhà khoa học thời tiết"
+      ],
+      "full_summary": "DeepMind đã tạo ra mô hình dự đoán bão hiệu quả với dữ liệu thời tiết thấp hơn. Mô hình WeatherNext của DeepMind đã được mở nguồn và đã được sử dụng để tạo ra dự đoán bão chính xác. Điều này đã cung cấp cho nhà dự báo thêm một ngày để chuẩn bị, giúp giảm thiểu thiệt hại do bão gây ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2093c1e67b25",
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-10T12:52:17.457771+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Máy tính Parametron Nhật Bản ra mắt năm 1954 không dùng bóng đèn hoặc transistor",
+      "bullets": [
+        "Ra mắt máy tính Parametron đầu tiên",
+        "Sử dụng nguyên lý từ trường để xử lý thông tin",
+        "Không sử dụng bóng đèn hoặc transistor",
+        "Được phát triển bởi công ty điện tử Nhật Bản"
+      ],
+      "full_summary": "Máy tính Parametron là một trong những máy tính đầu tiên được phát triển tại Nhật Bản. Nó được ra mắt vào năm 1954 và sử dụng nguyên lý từ trường để xử lý thông tin. Máy tính này không sử dụng bóng đèn hoặc transistor, một điểm độc đáo trong thời đại đó. Parametron được phát triển bởi công ty điện tử Nhật Bản và là một bước tiến quan trọng trong lịch sử công nghệ.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "d89f1e56f38a",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -574,225 +794,6 @@
         "Cổ phiếu SpaceX đã tăng giá đáng kể"
       ],
       "full_summary": "Andre Lavoie, một kỹ sư tại SpaceX, đã quyết định bán cổ phiếu của mình để kiếm lời. Ông đã gia nhập công ty vào năm 2009 và đã trở thành một phần quan trọng của đội ngũ kỹ sư. Cổ phiếu SpaceX đã tăng giá đáng kể trong những năm qua, và Lavoie hy vọng sẽ kiếm được lợi nhuận từ việc bán cổ phiếu của mình. Điều này cho thấy sự tin tưởng của Lavoie vào công ty và dự đoán về tương lai của SpaceX.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4faa84933e91",
-      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T12:34:46.135152+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nữ đại sứ Costa Rica Rebeca Grynspan trở thành ứng cử viên hàng đầu cho vị trí Tổng thư ký Liên Hợp Quốc",
-      "bullets": [
-        "Là ứng cử viên duy nhất được ủng hộ kín đáo bởi Tổng thư ký hiện tại António Guterres",
-        "Cô là người phụ nữ đầu tiên có khả năng trở thành Tổng thư ký Liên Hợp Quốc",
-        "Là người đứng đầu UNCTAD, cơ quan thống kê thiệt hại kinh tế do Israel chiếm đóng Palestine gây ra",
-        "Cô là con của người tị nạn Holocaust"
-      ],
-      "full_summary": "Rebeca Grynspan, một đại sứ Costa Rica và cựu phó tổng thống, đã trở thành ứng cử viên hàng đầu để trở thành Tổng thư ký Liên Hợp Quốc đầu tiên là phụ nữ. Cô là người đứng đầu UNCTAD, cơ quan thống kê thiệt hại kinh tế do Israel chiếm đóng Palestine gây ra. Cô được cho là ứng cử viên duy nhất được ủng hộ kín đáo bởi Tổng thư ký hiện tại António Guterres.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b818d4dc34d9",
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-09T12:34:47.671291+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Ứng dụng Copernicus Browser giúp theo dõi cháy rừng dễ dàng hơn",
-      "bullets": [
-        "Cung cấp hình ảnh trực quan về các đám cháy rừng",
-        "Tăng cường khả năng theo dõi cháy rừng trong mùa cháy rừng kỷ lục",
-        "Ứng dụng miễn phí và có sẵn cho mọi người",
-        "Cung cấp thông tin chính xác và kịp thời về các đám cháy rừng"
-      ],
-      "full_summary": "Ứng dụng Copernicus Browser của châu Âu vừa được cập nhật với tính năng trực quan hóa cháy rừng. Điều này giúp người dùng dễ dàng theo dõi và hiểu rõ hơn về tình hình cháy rừng. Tính năng này được triển khai trong mùa cháy rừng kỷ lục, giúp các cơ quan chức năng và người dân có thể theo dõi và phản ứng kịp thời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b2996abe5e1d",
-      "title": "There Are Magic Hexagons of Every Order",
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-09T12:34:53.488213+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Khám phá các hình lục giác ma thuật của mọi thứ hạng",
-      "bullets": [
-        "Khám phá các hình lục giác ma thuật mới",
-        "Các hình lục giác ma thuật có thể được tạo ra của mọi thứ hạng",
-        "Các nhà toán học đã chứng minh tính chất ma thuật của chúng"
-      ],
-      "full_summary": "Các nhà toán học đã khám phá các hình lục giác ma thuật mới, có thể được tạo ra của mọi thứ hạng. Các hình lục giác ma thuật này có tính chất ma thuật đặc biệt, đã được chứng minh bởi các nhà toán học. Điều này mở ra các khả năng mới trong lĩnh vực toán học và có thể có ứng dụng trong các lĩnh vực khác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3deba5198de3",
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T06:42:12.002971+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Israel bị cáo buộc sử dụng khảo cổ học để chiếm đoạt đất ở khu vực Tây Bắc",
-      "bullets": [
-        "Israel đang lên kế hoạch chiếm đoạt đất lớn ở khu vực lịch sử của người Palestine ở Tây Bắc",
-        "Các địa điểm khảo cổ quan trọng ở Tây Bắc đang bị Israel sử dụng để ủng hộ chủ quyền",
-        "Các nhà chức trách Palestine cáo buộc Israel đang sử dụng khảo cổ học để che giấu các hành động chiếm đoạt đất",
-        "Các tổ chức nhân quyền lo ngại về việc Israel đang vi phạm các quyền của người Palestine"
-      ],
-      "full_summary": "Israel đang bị cáo buộc sử dụng khảo cổ học để chiếm đoạt đất ở khu vực Tây Bắc. Các địa điểm khảo cổ quan trọng ở Tây Bắc đang bị Israel sử dụng để ủng hộ chủ quyền. Các nhà chức trách Palestine cáo buộc Israel đang sử dụng khảo cổ học để che giấu các hành động chiếm đoạt đất. Các tổ chức nhân quyền lo ngại về việc Israel đang vi phạm các quyền của người Palestine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ff529b09d597",
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T06:42:13.989531+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều người bị bắt vì cháy rừng ở Pháp",
-      "bullets": [
-        "Bắt giữ hàng trăm người liên quan đến cháy rừng",
-        "Chính phủ đang cố gắng xác định nguyên nhân gây ra đám cháy",
-        "Cháy rừng ở Pháp gây thiệt hại nặng nề",
-        "Nghiên cứu đang được tiến hành để xác định trách nhiệm"
-      ],
-      "full_summary": "Chính phủ Pháp đang cố gắng xác định nguyên nhân gây ra đám cháy rừng ở nước này. Hàng trăm người đã bị bắt giữ liên quan đến vụ cháy. Chính phủ đang tiến hành nghiên cứu để xác định trách nhiệm và ngăn chặn các vụ cháy tương tự trong tương lai. Cháy rừng ở Pháp gây thiệt hại nặng nề và ảnh hưởng đến môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "086f912c172a",
-      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T06:42:14.975106+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Blogger Perez Hilton bị thương nặng trong livestream",
-      "bullets": [
-        "Bị thương tự hại trong livestream",
-        "Đang được điều trị tại bệnh viện",
-        "Tình trạng sức khỏe nghiêm trọng nhưng ổn định",
-        "Cơ quan chức năng đang điều tra nguyên nhân"
-      ],
-      "full_summary": "Blogger Perez Hilton đã bị thương nặng trong một livestream gần đây. Theo gia đình, ông đang được điều trị tại bệnh viện và tình trạng sức khỏe nghiêm trọng nhưng ổn định. Các báo cáo cho biết ông đã tự hại bản thân trong livestream, nhưng chưa có thông tin chi tiết về nguyên nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1b00294b021a",
-      "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T06:42:16.133814+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nổ lớn tại kho hàng ở LA, tạo mùi hôi khó chịu",
-      "bullets": [
-        "Nổ lớn tại kho hàng ở LA",
-        "Kho hàng chứa hàng tấn thịt và hải sản bị cháy",
-        "Mùi hôi từ đống thức ăn bị cháy gây khó chịu",
-        "Côn trùng và động vật gặm nhấm xuất hiện tại hiện trường"
-      ],
-      "full_summary": "Một vụ nổ lớn đã xảy ra tại kho hàng ở Los Angeles, Mỹ, khiến hàng tấn thịt và hải sản bị cháy. Mùi hôi từ đống thức ăn bị cháy gây khó chịu và thu hút nhiều côn trùng, động vật gặm nhấm. Vụ nổ đã gây ra thiệt hại lớn và đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84e62c8329d8",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T06:42:17.190394+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hộ chiếu tạm thời của người Sudan sẽ hết hiệu lực",
-      "bullets": [
-        "Hộ chiếu tạm thời của người Sudan sẽ hết hiệu lực",
-        "Tòa án liên bang đã bác bỏ yêu cầu của các tổ chức bảo vệ người nhập cư",
-        "Hàng trăm công dân Sudan đang sống ở Mỹ sẽ phải tìm cách khác",
-        "Quyết định này dựa trên một phán quyết của tòa án tối cao"
-      ],
-      "full_summary": "Một phán quyết của tòa án liên bang ở Massachusetts đã cho phép chính phủ Mỹ rút lại hộ chiếu tạm thời (TPS) cho hàng trăm công dân Sudan đang sống ở Mỹ. Quyết định này dựa trên một phán quyết của tòa án tối cao cho phép chính phủ Mỹ rút lại hộ chiếu tạm thời cho người Haiti và Syria. Các tổ chức bảo vệ người nhập cư đã cố gắng ngăn chặn quyết định này nhưng đã bị tòa án bác bỏ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "13b0e7bc521a",
-      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-      "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-09T06:42:19.314598+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Máy bay Concorde chạm trán bóng tối của Mặt Trăng",
-      "bullets": [
-        "Được trang bị kính thiên văn, máy bay Concorde thực hiện hình ảnh dài nhất của vầng hào quang Mặt Trời.",
-        "Máy bay bay vượt qua bóng tối của Mặt Trăng để chụp ảnh Mặt Trời.",
-        "Kết quả hình ảnh giúp các nhà khoa học hiểu rõ hơn về Mặt Trời.",
-        "Máy bay Concorde đã thực hiện một hành trình không gian đặc biệt."
-      ],
-      "full_summary": "Máy bay Concorde đã thực hiện một hành trình không gian đặc biệt để chụp ảnh Mặt Trời trong thời gian bóng tối của Mặt Trăng. Máy bay được trang bị kính thiên văn để thực hiện hình ảnh dài nhất của vầng hào quang Mặt Trời. Kết quả hình ảnh giúp các nhà khoa học hiểu rõ hơn về Mặt Trời và các quá trình diễn ra trong vũ trụ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c41b30c29fc6",
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-09T06:42:20.254353+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Quake có gói nhiệm vụ mới cho kỷ niệm 30 năm",
-      "bullets": [
-        "Thêm 19 bản đồ mới tiếp tục câu chuyện",
-        "Cập nhật các cơ chế mới cho người chơi",
-        "Gói nhiệm vụ này được phát hành chính thức",
-        "Tiếp tục câu chuyện từ các gói nhiệm vụ trước đó"
-      ],
-      "full_summary": "Một gói nhiệm vụ mới cho trò chơi Quake đã được phát hành để kỷ niệm 30 năm. Gói này bao gồm 19 bản đồ mới và các cơ chế mới cho người chơi. Câu chuyện tiếp tục từ các gói nhiệm vụ trước đó của MachineGames. Gói nhiệm vụ này được phát hành chính thức và sẽ mang đến cho người chơi trải nghiệm mới mẻ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f19e25137fcb",
-      "title": "Illinois just told every operating system to start reporting your kid's age",
-      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-09T06:42:23.282181+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Illinois yêu cầu các hệ điều hành báo cáo tuổi của trẻ em",
-      "bullets": [
-        "Illinois đã thông qua luật yêu cầu các hệ điều hành báo cáo tuổi của trẻ em",
-        "Các hệ điều hành sẽ phải cung cấp thông tin này cho chính phủ Illinois",
-        "Mục đích của luật này là để xác minh độ tuổi của trẻ em khi truy cập các ứng dụng",
-        "Các công ty công nghệ đang phản đối luật này"
-      ],
-      "full_summary": "Illinois đã thông qua luật yêu cầu các hệ điều hành báo cáo tuổi của trẻ em. Mục đích của luật này là để xác minh độ tuổi của trẻ em khi truy cập các ứng dụng. Các hệ điều hành sẽ phải cung cấp thông tin này cho chính phủ Illinois. Các công ty công nghệ đang phản đối luật này vì lo ngại về quyền riêng tư.",
       "comments": 0,
       "score": 0
     }
