@@ -1,6 +1,163 @@
 {
-  "updated_at": "2026-08-10T01:10:04.996800+00:00",
+  "updated_at": "2026-08-10T07:16:41.999347+00:00",
   "articles": [
+    {
+      "id": "d89f1e56f38a",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T07:16:27.294323+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Israel từ chối kế hoạch 15 điểm của Trump cho Gaza",
+      "bullets": [
+        "Israel từ chối rút quân khỏi Gaza",
+        "Hamas cần được giải giới một cách chân thành",
+        "Netanyahu nhấn mạnh Israel sẽ không rút quân khỏi Gaza",
+        "Kế hoạch của Trump bị Israel từ chối"
+      ],
+      "full_summary": "Chính phủ Israel đã từ chối kế hoạch 15 điểm của cựu Tổng thống Mỹ Donald Trump nhằm giải quyết xung đột ở Gaza. Thủ tướng Benjamin Netanyahu cho biết quân đội Israel sẽ không rút khỏi Gaza cho đến khi Hamas được giải giới một cách chân thành. Kế hoạch của Trump bao gồm việc mở cửa biên giới Gaza và tăng cường kinh tế cho khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2df66619b3e0",
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T07:16:28.373818+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Công nghệ AI hứa hẹn thời gian rảnh rỗi nhưng nhân viên làm việc 90 giờ/tuần",
+      "bullets": [
+        "Nhân viên công ty công nghệ làm việc tới 90 giờ/tuần",
+        "Công ty công nghệ không thể hiện được lợi ích của công nghệ AI",
+        "Tech leaders nói AI giúp giảm giờ làm nhưng thực tế khác",
+        "Nhân viên công ty công nghệ phản đối tuyên bố của lãnh đạo"
+      ],
+      "full_summary": "Các công ty công nghệ nói rằng công nghệ trí tuệ nhân tạo (AI) sẽ giúp người dùng có nhiều thời gian rảnh rỗi hơn. Tuy nhiên, nhân viên của những công ty này lại làm việc tới 90 giờ/tuần. Điều này cho thấy rằng công ty công nghệ không thể hiện được lợi ích của công nghệ AI. Các lãnh đạo công nghệ nói rằng AI sẽ giúp giảm giờ làm nhưng thực tế lại khác.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fcfd135844b2",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T07:16:29.439264+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Sốt xuất huyết ở Cộng hòa Dân chủ Congo có thể biến đổi gen",
+      "bullets": [
+        "Hơn 4.000 trường hợp nhiễm Ebola đã được xác nhận",
+        "Cơ quan giám sát sức khỏe châu Phi lên kế hoạch tăng cường mọi mặt trong chiến dịch",
+        "Cán bộ sẽ đi từ nhà này sang nhà khác để tìm kiếm bệnh nhân"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đang phải đối mặt với một cuộc bùng phát Ebola lớn, với hơn 4.000 trường hợp nhiễm bệnh đã được xác nhận. Cơ quan giám sát sức khỏe châu Phi lo ngại rằng virus có thể đang biến đổi gen, vì vậy họ đã quyết định tăng cường mọi mặt trong chiến dịch. Để tìm kiếm bệnh nhân, cán bộ sẽ đi từ nhà này sang nhà khác, một biện pháp mạnh mẽ để ngăn chặn sự lây lan của virus.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f63f77aaa435",
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T07:16:30.429899+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cầu thủ bóng đá Uganda bị giết bởi cướp",
+      "bullets": [
+        "Một cướp đã tấn công cầu thủ David Owori",
+        "Cầu thủ này cố gắng ngăn chặn cướp lấy điện thoại",
+        "Cầu thủ David Owori đã tử vong sau khi bị tấn công",
+        "Cộng đồng bóng đá Uganda đang trong tình trạng tang thương"
+      ],
+      "full_summary": "Cầu thủ bóng đá nổi tiếng David Owori đã tử vong sau khi bị tấn công bởi cướp ở Kampala, Uganda. Ông là cầu thủ của đội bóng Sports Club Villa và đã từng đại diện cho đội tuyển quốc gia. Sự cố xảy ra vào đêm thứ hai khi David Owori cố gắng ngăn chặn cướp lấy điện thoại và tài sản cá nhân của mình. Ông đã được đưa đến bệnh viện nhưng đã tử vong.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e6918c9a7204",
+      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-10T07:16:31.425911+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Khói từ cháy rừng gây hại sức khỏe nghiêm trọng",
+      "bullets": [
+        "Các nhà khoa học đang cố gắng hiểu mối liên hệ phức tạp giữa tiếp xúc với khói và tử vong",
+        "Khói từ cháy rừng gây ra các vấn đề về hô hấp và dị ứng",
+        "Mưa khói ảnh hưởng đến hàng nghìn người ở Canada"
+      ],
+      "full_summary": "Các nhà khoa học đang cố gắng hiểu mối liên hệ phức tạp giữa tiếp xúc với khói từ cháy rừng và tử vong. Khói từ cháy rừng đã gây ra các vấn đề về hô hấp và dị ứng ở hàng nghìn người ở Canada. Các chuyên gia đang nghiên cứu để tìm hiểu cách giảm thiểu tác động của khói từ cháy rừng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1178b8b99370",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-10T07:16:32.342488+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Xe tự lái đầu tiên trên sao Hoả thành công rực rỡ",
+      "bullets": [
+        "Đạt được 90% quãng đường tự lái trên sao Hoả",
+        "Xe tự lái đã hỗ trợ sứ mệnh Perseverance",
+        "Kết quả cho thấy tiềm năng của công nghệ tự lái trong không gian",
+        "Tiến bộ này mở ra cơ hội cho các sứ mệnh tương lai"
+      ],
+      "full_summary": "Xe tự lái đầu tiên trên sao Hoả đã đạt được thành công rực rỡ. Xe tự lái đã hỗ trợ sứ mệnh Perseverance của NASA, đạt được 90% quãng đường tự lái trên sao Hoả. Kết quả này cho thấy tiềm năng của công nghệ tự lái trong không gian và mở ra cơ hội cho các sứ mệnh tương lai.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca78138e899a",
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-10T07:16:37.494265+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Bạn có thể tạo một quả địa cầu bằng cách gấp hình ảnh vệ tinh",
+      "bullets": [
+        "Tạo một quả địa cầu bằng cách gấp hình ảnh vệ tinh",
+        "Sử dụng công nghệ để tạo hình ảnh vệ tinh",
+        "Gấp hình ảnh vệ tinh thành một quả địa cầu",
+        "Tạo một quả địa cầu có thể được gấp lại"
+      ],
+      "full_summary": "Folding Globes cho phép người dùng tạo một quả địa cầu bằng cách gấp hình ảnh vệ tinh. Công nghệ này sử dụng hình ảnh vệ tinh để tạo một bản đồ có thể được gấp lại. Người dùng có thể tạo một quả địa cầu có kích thước tùy chỉnh và gấp lại dễ dàng. Đây là một công nghệ thú vị và sáng tạo.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9c2d63354630",
+      "title": "How a steady drip-drip can erode the hardest stone",
+      "url": "https://www.nature.com/articles/d41586-026-02360-4",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-08-10T07:16:41.499209+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Nước mưa nhỏ có thể làm mòn đá cứng",
+      "bullets": [
+        "Giám sát sự biến dạng bề mặt khi bị rơi nước giúp hiểu rõ sức mạnh tẩy mòn của nước",
+        "Nghiên cứu về nước mưa và đá cứng mang lại hiểu biết mới về quá trình tẩy mòn",
+        "Kết quả nghiên cứu có thể được ứng dụng trong nhiều lĩnh vực khác nhau"
+      ],
+      "full_summary": "Một nhóm nghiên cứu đã thực hiện một nghiên cứu về tác động của nước mưa nhỏ lên bề mặt đá cứng. Kết quả cho thấy nước mưa nhỏ có thể làm mòn đá cứng qua thời gian. Nghiên cứu này mang lại hiểu biết mới về quá trình tẩy mòn và có thể được ứng dụng trong nhiều lĩnh vực khác nhau như xây dựng, khai thác mỏ và môi trường.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f1dc61f75b67",
       "title": "Evidence that South African special forces murdered top detective shared with BBC",
@@ -636,165 +793,6 @@
         "Các công ty công nghệ đang phản đối luật này"
       ],
       "full_summary": "Illinois đã thông qua luật yêu cầu các hệ điều hành báo cáo tuổi của trẻ em. Mục đích của luật này là để xác minh độ tuổi của trẻ em khi truy cập các ứng dụng. Các hệ điều hành sẽ phải cung cấp thông tin này cho chính phủ Illinois. Các công ty công nghệ đang phản đối luật này vì lo ngại về quyền riêng tư.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6058d5b9aa5b",
-      "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-      "url": "https://www.nature.com/articles/d41586-026-02488-3",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-08-09T06:42:27.210271+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "DNA sửa chữa có thể giúp kéo dài tuổi thọ",
-      "bullets": [
-        "Cụ thể, nghiên cứu về cá voi và chuột lùn đang khám phá cách DNA sửa chữa có thể kéo dài tuổi thọ",
-        "DNA sửa chữa có thể giúp ngăn chặn các biến đổi gen gây ra bởi tuổi tác",
-        "Nghiên cứu cũng cho thấy COVID-19 có thể khiến các virus lây nhiễm bị kích hoạt trở lại",
-        "Các nhà khoa học đang nghiên cứu DNA sửa chữa để tìm ra bí quyết kéo dài tuổi thọ"
-      ],
-      "full_summary": "Nghiên cứu về DNA sửa chữa đang trở thành một trong những lĩnh vực được quan tâm nhất trong khoa học hiện nay. Các nhà khoa học đang nghiên cứu về DNA sửa chữa ở các loài động vật như cá voi và chuột lùn để tìm ra bí quyết kéo dài tuổi thọ. Nghiên cứu cho thấy DNA sửa chữa có thể giúp ngăn chặn các biến đổi gen gây ra bởi tuổi tác, từ đó kéo dài tuổi thọ. Tuy nhiên, nghiên cứu cũng cho thấy COVID-19 có thể khiến các virus lây nhiễm bị kích hoạt trở lại, điều này có thể ảnh hưởng đến quá trình nghiên cứu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0d8d4335f9d6",
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T01:08:04.190925+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hồi hợp đồng mới qua eo Hormuz, Iran cảnh báo không mở đường",
-      "bullets": [
-        "Cả hai bên cho biết tiến triển trong đàm phán về tuyến đường mới qua eo Hormuz",
-        "Một bước ngoặt vẫn chưa rõ ràng",
-        "Iran cảnh báo thỏa thuận không mở đường qua eo Hormuz",
-        "Oman cho biết đàm phán đang có tiến triển tích cực"
-      ],
-      "full_summary": "Hôm nay, Oman cho biết đàm phán về tuyến đường mới qua eo Hormuz đang có tiến triển tích cực. Tuy nhiên, Iran cảnh báo thỏa thuận không mở đường qua eo Hormuz. Cả hai bên cho biết tiến triển trong đàm phán nhưng một bước ngoặt vẫn chưa rõ ràng. Đàm phán đang diễn ra để tìm ra tuyến đường mới qua eo Hormuz.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "54935686cfc1",
-      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T01:08:05.411717+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người điều khiển xe đạp điện ở Paris phải đeo đồ bảo hộ",
-      "bullets": [
-        "Cấm người điều khiển xe đạp điện không đeo đồ bảo hộ",
-        "Phạt tiền người điều khiển xe đạp điện không tuân thủ quy định",
-        "Số vụ tai nạn xe đạp điện tăng nhanh ở Paris",
-        "Cảnh sát tăng cường kiểm soát xe đạp điện"
-      ],
-      "full_summary": "Cảnh sát ở Paris đã tăng cường kiểm soát xe đạp điện sau khi số vụ tai nạn liên quan đến loại phương tiện này tăng nhanh. Người điều khiển xe đạp điện ở Paris sẽ phải đeo đồ bảo hộ hoặc sẽ bị phạt tiền. Quy định mới nhằm mục đích giảm thiểu số vụ tai nạn xe đạp điện ở thành phố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aa1ee4532f24",
-      "title": "AI or real? BBC analyses viral China disaster videos",
-      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T01:08:06.565236+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Các video giả về thảm họa ở Trung Quốc lan truyền nhanh chóng",
-      "bullets": [
-        "Phát hiện ra các video giả về thảm họa ở Trung Quốc",
-        "Các video giả gây ra vấn đề thực tế trên mạng xã hội",
-        "BBC phân tích các video giả để xác định sự thật",
-        "Các sự kiện thời tiết cực đoan đang trở nên phổ biến hơn"
-      ],
-      "full_summary": "BBC đã phân tích các video về thảm họa ở Trung Quốc đang lan truyền nhanh chóng trên mạng xã hội. Các video giả về thảm họa đang gây ra vấn đề thực tế và làm cho việc xác định sự thật trở nên khó khăn hơn. Các sự kiện thời tiết cực đoan đang trở nên phổ biến hơn, và việc chia sẻ các video giả về thảm họa đang trở thành một vấn đề lớn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3a0a41781b28",
-      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T01:08:07.526246+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hoa Kỳ đóng 5 văn phòng đại diện ở nước ngoài",
-      "bullets": [
-        "Hoa Kỳ sẽ đóng 5 văn phòng đại diện ở Canada, Grenada, Nhật Bản, Indonesia và Cameroon",
-        "Bắc Mỹ và châu Phi sẽ bị ảnh hưởng bởi quyết định này",
-        "Cơ quan Ngoại giao Hoa Kỳ cho rằng việc đóng cửa này là để tiết kiệm chi phí"
-      ],
-      "full_summary": "Cơ quan Ngoại giao Hoa Kỳ đã thông báo với Quốc hội về kế hoạch đóng 5 văn phòng đại diện ở nước ngoài. Các văn phòng này sẽ đóng cửa ở Canada, Grenada, Nhật Bản, Indonesia và Cameroon. Quyết định này được đưa ra sau khi Tổng thống Donald Trump trở lại Nhà Trắng vào tháng 1 năm 2025. Một số nhà quan sát lo ngại rằng việc đóng cửa này sẽ để lại một khoảng trống mà Trung Quốc có thể lấp đầy.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0f0845fb52dd",
-      "title": "US police officer accused of killing three people in Mexico arrested at border",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-09T01:08:08.555553+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cảnh sát Mỹ bị bắt vì giết 3 người ở Mexico",
-      "bullets": [
-        "Bị bắt tại biên giới Mexico",
-        "Đã bị truy tố vì giết 3 người và làm mẹ của con",
-        "Tất cả đều liên quan đến tranh chấp quyền nuôi con",
-        "Cảnh sát Mỹ bị buộc tội giết người và giết phụ nữ vì lý do giới tính"
-      ],
-      "full_summary": "Cảnh sát Mỹ Chad Eberle đã bị bắt tại biên giới Mexico vì liên quan đến vụ giết 3 người và làm mẹ của con ở thành phố Saltillo. Các quan chức cho biết vụ việc liên quan đến tranh chấp quyền nuôi con. Theo luật Mexico, Eberle bị buộc tội giết người và giết phụ nữ vì lý do giới tính. Vụ việc đã thu hút sự chú ý của công chúng và đang được điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "529c4767029a",
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-09T01:08:09.645211+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "DeepMind đã tạo ra mô hình dự báo bão chính xác với dữ liệu thời tiết thấp hơn",
-      "bullets": [
-        "Tạo ra mô hình dự báo bão WeatherNext mở nguồn",
-        "Giúp các nhà dự báo có thêm một ngày để chuẩn bị",
-        "Dự báo chính xác với dữ liệu thời tiết thấp hơn",
-        "Đánh giá cao bởi các nhà khoa học thời tiết"
-      ],
-      "full_summary": "DeepMind đã phát triển mô hình dự báo bão WeatherNext, một mô hình mở nguồn có thể dự báo bão chính xác với dữ liệu thời tiết thấp hơn. Mô hình này đã giúp các nhà dự báo có thêm một ngày để chuẩn bị cho các bão, giảm thiểu thiệt hại và nguy hiểm cho người dân. Các nhà khoa học thời tiết đánh giá cao mô hình này và hy vọng nó sẽ được áp dụng rộng rãi trong tương lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "98140daff335",
-      "title": "Dithered QR Codes",
-      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-09T01:08:14.151114+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mã QR bị làm mờ, gây khó khăn cho việc quét",
-      "bullets": [
-        "Mã QR bị làm mờ bằng cách sử dụng kỹ thuật dithering",
-        "Kỹ thuật này gây khó khăn cho việc quét mã QR bằng máy quét",
-        "Mã QR bị làm mờ có thể được sử dụng để ngăn chặn việc quét mã",
-        "Kỹ thuật này có thể được sử dụng trong nhiều ứng dụng khác nhau"
-      ],
-      "full_summary": "Một kỹ thuật mới được phát hiện có thể làm mờ mã QR, gây khó khăn cho việc quét. Kỹ thuật này được gọi là dithering và có thể được sử dụng để ngăn chặn việc quét mã QR. Điều này có thể có tác động lớn đến nhiều ứng dụng khác nhau, bao gồm thanh toán không tiếp xúc và xác thực danh tính.",
       "comments": 0,
       "score": 0
     }
