@@ -1,6 +1,224 @@
 {
-  "updated_at": "2026-08-11T12:46:29.285333+00:00",
+  "updated_at": "2026-08-11T18:52:27.629903+00:00",
   "articles": [
+    {
+      "id": "91517b773560",
+      "title": "Russia releases former US Marine reported in poor health",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:12.017501+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nga thả tù cựu binh sĩ Mỹ vì lý do nhân đạo",
+      "bullets": [
+        "Nga thả tù Robert Gilman, cựu binh sĩ Mỹ, sau khi ông bị bắt giữ vào năm 2022",
+        "Gilman được cho là đã rơi vào trạng thái hôn mê",
+        "Chính quyền Trump cho biết ông đã được thả vì lý do nhân đạo",
+        "Gilman được cho là đang ở trong tình trạng sức khỏe kém"
+      ],
+      "full_summary": "Chính quyền Nga đã thả tù cựu binh sĩ Mỹ Robert Gilman, người bị bắt giữ vào năm 2022. Theo báo cáo, Gilman đã rơi vào trạng thái hôn mê và được chính quyền Trump cho biết đã được thả vì lý do nhân đạo. Điều này được cho là đã xảy ra sau khi các quan chức Mỹ và Nga đàm phán về việc thả tù nhân. Gilman được cho là đang ở trong tình trạng sức khỏe kém.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cc9b3eb27acd",
+      "title": "Watch: Family escapes home during Colombia earthquake",
+      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:12.910848+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất Colombia làm 169 người thiệt mạng",
+      "bullets": [
+        "Động đất xảy ra tại Colombia",
+        "Tình trạng khẩn cấp được tuyên bố",
+        "Hàng trăm người bị thương",
+        "Số người chết vẫn đang tăng dần"
+      ],
+      "full_summary": "Động đất mạnh 6,2 độ đã xảy ra tại Colombia, khiến ít nhất 169 người thiệt mạng và hàng trăm người bị thương. Chính phủ Colombia đã tuyên bố tình trạng khẩn cấp và triển khai các biện pháp cứu hộ. Động đất mạnh nhất trong nhiều năm đã gây ra thiệt hại lớn tại nhiều khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "18d55094b65f",
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:13.809732+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Lê-ban bỏ tử hình",
+      "bullets": [
+        "Bỏ bỏ tử hình",
+        "Lê-ban trở thành quốc gia đầu tiên ở Trung Đông không còn tử hình",
+        "Luật mới cần được nội các phê duyệt",
+        "Tử hình sẽ bị cấm hoàn toàn"
+      ],
+      "full_summary": "Hạ viện Lê-ban đã bỏ phiếu thông qua luật cấm tử hình. Luật này sau đó sẽ được nội các phê duyệt trước khi có hiệu lực. Với việc thông qua luật này, Lê-ban sẽ trở thành quốc gia đầu tiên ở Trung Đông không còn tử hình. Đây là một bước tiến quan trọng trong việc bảo vệ quyền con người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7e17f8ddffc3",
+      "title": "France bans unsolicited telemarketing calls",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:14.720319+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Pháp cấm gọi điện quảng cáo không được yêu cầu",
+      "bullets": [
+        "Cấm các công ty gọi điện quảng cáo không được người dùng đồng ý",
+        "Bắt đầu áp dụng từ tháng 7 năm 2024",
+        "Một tổ chức tiêu dùng gọi đây là 'cách mạng nhỏ'"
+      ],
+      "full_summary": "Pháp đã ban hành lệnh cấm các cuộc gọi điện quảng cáo không được yêu cầu. Lệnh này bắt đầu áp dụng từ tháng 7 năm 2024. Một tổ chức tiêu dùng đã gọi đây là 'cách mạng nhỏ'. Điều này sẽ giúp người dùng tránh được các cuộc gọi điện phiền nhiễu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "af44bc238069",
+      "title": "Former judge removed by Orbán elected Hungarian president",
+      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:15.713112+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Chủ tịch mới Hungary là cựu thẩm phán bị Orbán loại bỏ",
+      "bullets": [
+        "Bị loại bỏ khỏi chức vụ thẩm phán, ông đã được bầu làm tổng thống Hungary",
+        "Chính phủ mới Hungary đang dỡ bỏ di sản của Viktor Orbán",
+        "Chính phủ mới của Hungary đã nhanh chóng thay đổi nhiều chính sách",
+        "Tổng thống mới sẽ phải đối mặt với nhiều thách thức trong nhiệm kỳ"
+      ],
+      "full_summary": "Chủ tịch mới Hungary là cựu thẩm phán József Szájer, người trước đó bị Viktor Orbán loại bỏ khỏi chức vụ thẩm phán. Ông đã được bầu làm tổng thống Hungary sau khi chính phủ mới của Hungary nhanh chóng thay đổi nhiều chính sách. Chính phủ mới của Hungary đang dỡ bỏ di sản của Viktor Orbán và sẽ phải đối mặt với nhiều thách thức trong nhiệm kỳ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aa1ee4532f24",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:16.674156+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Video giả về thiên tai lan truyền nhanh chóng trên mạng xã hội Trung Quốc",
+      "bullets": [
+        "Chính phủ Trung Quốc đang đối mặt với vấn đề lan truyền video giả về thiên tai",
+        "Các video giả gây ra sự nhầm lẫn và làm tăng thêm nỗi sợ hãi cho người dân",
+        "BBC phân tích các video giả để xác định đâu là thật và đâu là giả",
+        "Cần có sự kiểm soát chặt chẽ hơn đối với nội dung được đăng tải trên mạng xã hội"
+      ],
+      "full_summary": "BBC đã phân tích các video về thiên tai đang lan truyền nhanh chóng trên mạng xã hội Trung Quốc. Các video giả về thiên tai đang gây ra sự nhầm lẫn và làm tăng thêm nỗi sợ hãi cho người dân. Chính phủ Trung Quốc đang đối mặt với vấn đề này và cần có sự kiểm soát chặt chẽ hơn đối với nội dung được đăng tải trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fcfd135844b2",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:17.841240+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Sự biến đổi của virus Ebola có thể gây ra sự bùng phát lớn ở DRC",
+      "bullets": [
+        "Đã có hơn 4.000 trường hợp nhiễm Ebola",
+        "Cơ quan giám sát sức khỏe châu Phi sẽ đi từ nhà đến nhà để tìm kiếm bệnh nhân",
+        "Sự thay đổi của virus Ebola khiến các quan chức lo ngại",
+        "Hành động tăng cường toàn diện để đối phó với dịch bệnh"
+      ],
+      "full_summary": "Một số trường hợp nhiễm Ebola đã vượt quá 4.000 và cơ quan giám sát sức khỏe châu Phi đang lo ngại rằng virus có thể đang biến đổi. Để đối phó với tình hình, họ đã quyết định tăng cường toàn diện mọi mặt và đi từ nhà đến nhà để tìm kiếm bệnh nhân. Đây là một bước ngoặt lớn trong chiến dịch chống dịch.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3a0a41781b28",
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:18.928364+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hoa Kỳ sẽ đóng 5 vụ đại sứ quán",
+      "bullets": [
+        "Đóng cửa 5 vụ đại sứ quán ở Canada, Grenada, Nhật Bản, Indonesia và Cameroon",
+        "Báo cáo cho biết lý do đóng cửa vì chi phí",
+        "Cơ quan ngoại giao Mỹ lo ngại Trung Quốc sẽ lấp đầy khoảng trống ngoại giao",
+        "Cơ quan lập pháp Mỹ được thông báo về kế hoạch đóng cửa"
+      ],
+      "full_summary": "Hoa Kỳ sắp đóng cửa 5 vụ đại sứ quán ở các quốc gia khác nhau trên thế giới. Cơ quan ngoại giao Mỹ cho biết lý do đóng cửa là vì chi phí. Tuy nhiên, nhiều người lo ngại rằng Trung Quốc sẽ lấp đầy khoảng trống ngoại giao. Cơ quan lập pháp Mỹ đã được thông báo về kế hoạch đóng cửa.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f63f77aaa435",
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-11T18:52:19.962312+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hàng xóm giết cầu thủ Uganda vì cướp điện thoại",
+      "bullets": [
+        "Một nhóm trộm đã tấn công cầu thủ Uganda David Owori",
+        "Cầu thủ đã cố gắng ngăn chặn họ lấy điện thoại và tài sản khác",
+        "Owori đã bị thương nặng và qua đời tại bệnh viện",
+        "Cộng đồng bóng đá Uganda đang trong thời gian chôn giã"
+      ],
+      "full_summary": "Cầu thủ Uganda David Owori đã tử vong sau khi bị nhóm trộm tấn công tại thủ đô Kampala. Owori, người đã từng chơi cho đội tuyển quốc gia và câu lạc bộ Sports Club Villa, đã cố gắng ngăn chặn nhóm trộm lấy điện thoại và tài sản khác. Tuy nhiên, anh đã bị thương nặng và qua đời tại bệnh viện. Sự kiện này đã gây sốc cho cộng đồng bóng đá Uganda và đang được điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40ab43406c87",
+      "title": "Tracking extreme heat by the hour makes climate change seem even worse",
+      "url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-11T18:52:22.051325+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Nhiệt độ nóng có thể tăng gấp ba lần trong vài thập kỷ tới",
+      "bullets": [
+        "Tăng cường nhiệt độ nóng có thể xảy ra nhanh chóng",
+        "Nhiệt độ nóng có thể trở thành phổ biến hơn",
+        "Khí hậu thay đổi có thể gây ra những thay đổi lớn",
+        "Nghiên cứu dự đoán nhiệt độ nóng có thể tăng lên nhanh chóng"
+      ],
+      "full_summary": "Theo Ars Technica, nghiên cứu mới cho thấy nhiệt độ nóng có thể tăng gấp ba lần trong vài thập kỷ tới. Điều này có nghĩa là những giờ nóng của mùa hè có thể trở thành phổ biến hơn. Nghiên cứu dự đoán rằng nhiệt độ nóng có thể tăng lên nhanh chóng, gây ra những thay đổi lớn trong khí hậu. Điều này cho thấy khí hậu thay đổi đang trở thành một vấn đề nghiêm trọng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "01ed58edb8ff",
+      "title": "Mojo 1.0 Is Here",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-11T18:52:27.129727+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Modular ra mắt Mojo 1.0, công cụ xây dựng ứng dụng mới",
+      "bullets": [
+        "Ra mắt Mojo 1.0, công cụ xây dựng ứng dụng mới",
+        "Cung cấp các tính năng xây dựng ứng dụng nhanh chóng và dễ dàng",
+        "Hỗ trợ xây dựng các ứng dụng đa nền tảng"
+      ],
+      "full_summary": "Modular đã ra mắt Mojo 1.0, một công cụ xây dựng ứng dụng mới giúp người dùng xây dựng ứng dụng nhanh chóng và dễ dàng. Công cụ này hỗ trợ xây dựng các ứng dụng đa nền tảng và cung cấp các tính năng xây dựng ứng dụng nhanh chóng. Mojo 1.0 được thiết kế để giúp người dùng tạo ra các ứng dụng chuyên nghiệp mà không cần phải có kinh nghiệm lập trình.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "a3a1ebd94ae5",
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
@@ -574,223 +792,6 @@
         "Các cơ quan chức năng đang cố gắng dập lửa"
       ],
       "full_summary": "Một đám cháy rừng lớn đã nhanh chóng lan rộng qua khu vực Okanagan ở Canada, khiến hơn 12.000 người phải di dời. Cháy rừng đã gây ra sự tàn phá lớn và nhiều người đang lo lắng về số phận của nhà cửa. Các cơ quan chức năng đang cố gắng dập lửa và đảm bảo an toàn cho người dân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0b801f48dc4a",
-      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T18:45:49.170414+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "WHO cảnh báo Ebola virus đang vượt trước các nỗ lực chống dịch",
-      "bullets": [
-        "WHO cảnh báo Ebola virus đang bùng phát mạnh",
-        "Tỷ lệ nhiễm bệnh cao, khiến các cơ quan chức năng gặp khó khăn",
-        "Các nỗ lực chống dịch đang gặp khó khăn",
-        "WHO đang nỗ lực để ngăn chặn sự lây lan của virus"
-      ],
-      "full_summary": "WHO cảnh báo Ebola virus đang bùng phát mạnh và vượt trước các nỗ lực chống dịch. Tỷ lệ nhiễm bệnh cao, khiến các cơ quan chức năng gặp khó khăn. Các nỗ lực chống dịch đang gặp khó khăn, nhưng WHO đang nỗ lực để ngăn chặn sự lây lan của virus.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "22067fc0f2cf",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T18:45:50.217557+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hội đồng bầu cử Nga cấm đảng chống chiến tranh tham gia bầu cử",
-      "bullets": [
-        "Cấm đảng đối lập cánh tả tham gia bầu cử quốc hội",
-        "Tòa án Moscow đưa ra quyết định cuối cùng",
-        "Đảng đối lập cánh tả chỉ có một đảng chống chiến tranh",
-        "Bầu cử quốc hội diễn ra vào tháng tới"
-      ],
-      "full_summary": "Một tòa án ở Moscow đã quyết định cấm đảng đối lập cánh tả, chỉ có một đảng chống chiến tranh ở Nga, tham gia bầu cử quốc hội vào tháng tới. Đây là một quyết định gây tranh cãi và đã gây ra lo ngại về việc hạn chế tự do chính trị ở Nga. Đảng đối lập cánh tả đã kêu gọi các cử tri bỏ phiếu chống lại chiến tranh và đã trở thành một trong những đối thủ cạnh tranh chính của đảng cầm quyền.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "50a2b63ec911",
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T18:45:51.181116+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hệ thống tàu mới kết nối Phần Lan và Thụy Điển sau nhiều thập kỷ",
-      "bullets": [
-        "Kết nối đường sắt từ Bồ Đào Nha đến Lapland",
-        "Dự kiến là hành trình tàu dài nhất ở châu Âu",
-        "Tàu sẽ chạy từ Phần Lan đến Thụy Điển",
-        "Mở đường cho du khách khám phá Bắc Âu"
-      ],
-      "full_summary": "Một hệ thống tàu mới sẽ kết nối Phần Lan và Thụy Điển sau nhiều thập kỷ. Hệ thống này sẽ cho phép hành khách đi tàu từ Bồ Đào Nha đến Lapland, một hành trình được dự kiến là dài nhất ở châu Âu. Tàu sẽ chạy từ Phần Lan đến Thụy Điển, mở đường cho du khách khám phá Bắc Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84e62c8329d8",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T18:45:52.302338+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hộ chiếu tạm thời của người Nam Sudan ở Mỹ sắp hết hạn",
-      "bullets": [
-        "Hộ chiếu tạm thời của người Nam Sudan ở Mỹ sắp hết hạn",
-        "Tòa án liên bang đã bác bỏ yêu cầu của các tổ chức bảo vệ quyền của người nhập cư",
-        "Phán quyết này dựa trên quyết định của tòa án tối cao về việc loại bỏ bảo vệ cho người Haiti và Syria",
-        "Hàng trăm người Nam Sudan đang sống tại Mỹ sẽ không còn được bảo vệ"
-      ],
-      "full_summary": "Một phán quyết mới của tòa án liên bang cho phép chính phủ Mỹ loại bỏ hộ chiếu tạm thời (TPS) cho hàng trăm người Nam Sudan đang sống tại Mỹ. Phán quyết này dựa trên quyết định của tòa án tối cao về việc loại bỏ bảo vệ cho người Haiti và Syria. Các tổ chức bảo vệ quyền của người nhập cư đã cố gắng ngăn chặn việc loại bỏ hộ chiếu tạm thời, nhưng tòa án đã bác bỏ yêu cầu của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b816f8985a74",
-      "title": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T18:45:53.286133+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Động đất 7,4 độ ở Colombia khiến hơn 70 người thiệt mạng",
-      "bullets": [
-        "Cơn động đất khiến hơn chục tòa nhà sụp đổ",
-        "Nhiều người bị mắc kẹt trong các tòa nhà đổ nát ở Cali",
-        "Thành phố Cali yêu cầu hỗ trợ từ các thành phố khác để cứu hộ"
-      ],
-      "full_summary": "Một cơn động đất mạnh 7,4 độ đã xảy ra tại Colombia, khiến hơn 70 người thiệt mạng và hàng chục tòa nhà sụp đổ. Thành phố Cali, một trong những thành phố lớn nhất Colombia, đã yêu cầu hỗ trợ từ các thành phố khác để cứu hộ. Nhiều người bị mắc kẹt trong các tòa nhà đổ nát và đang chờ đợi sự giúp đỡ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11eeb6c9648b",
-      "title": "Dozens dead after powerful earthquake strikes western Colombia",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T18:45:54.313878+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Động đất mạnh 7,4 độ làm 80 người chết ở Colombia",
-      "bullets": [
-        "Động đất mạnh 7,4 độ xảy ra tại khu vực phía tây Colombia",
-        "Hàng chục tòa nhà bị sập hoặc hư hỏng nghiêm trọng",
-        "Tổng cộng 80 người đã thiệt mạng sau sự kiện này"
-      ],
-      "full_summary": "Động đất mạnh 7,4 độ đã xảy ra tại khu vực phía tây Colombia vào sáng thứ Hai, làm hàng chục tòa nhà bị sập hoặc hư hỏng nghiêm trọng. Sự kiện này đã khiến 80 người thiệt mạng và nhiều người khác bị thương. Động đất cũng được cảm nhận ở Venezuela, nơi đang còn đang phải đối mặt với hậu quả của hai trận động đất chết chóc vào tháng 6.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0c864e22dfcd",
-      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T18:45:55.415284+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một nhà làm phim Kurd kể về việc bị ICE ép ăn vô nhân đạo",
-      "bullets": [
-        "Bị giam trong một buồng cô lập và bị ép ăn bằng ống thông",
-        "Được giam trong 6 tháng và bị buộc phải ăn bằng cách sử dụng lực mạnh",
-        "Cảm giác đau đớn và sợ hãi vẫn còn tồn tại sau khi ra khỏi trại giam",
-        "Tình trạng sức khỏe của Choli đã bị suy yếu nghiêm trọng"
-      ],
-      "full_summary": "Gabar Choli, một nhà làm phim Kurd, đã kể về kinh nghiệm của mình khi bị giam trong một trại giam của ICE ở Texas. Ông đã bị giam trong 6 tháng và bị buộc phải ăn bằng cách sử dụng lực mạnh. Choli đã bị ép ăn bằng ống thông và đã bị giam trong một buồng cô lập. Ông đã cảm thấy đau đớn và sợ hãi trong suốt thời gian đó và tình trạng sức khỏe của ông đã bị suy yếu nghiêm trọng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e38c742d7f86",
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-10T18:46:01.341085+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Claude đã chứng minh khả năng tính toán Riemann Zeta",
-      "bullets": [
-        "Xác định giá trị của Riemann Zeta tại các số nguyên tố",
-        "Tính toán chính xác với độ chính xác cao",
-        "Sử dụng kiến thức toán học tiên tiến để đạt được kết quả này"
-      ],
-      "full_summary": "Claude, một mô hình AI được phát triển bởi Anthropic, đã chứng minh khả năng tính toán Riemann Zeta với độ chính xác cao. Điều này cho thấy khả năng tính toán phức tạp của Claude, một trong những mô hình AI mạnh nhất hiện nay. Mô hình này đã sử dụng kiến thức toán học tiên tiến để đạt được kết quả này, mở ra khả năng ứng dụng rộng rãi trong nhiều lĩnh vực khác nhau.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "104a9ee1ca92",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T12:52:02.409768+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "ussia bị tấn công bằng máy bay không người lái Ukraine",
-      "bullets": [
-        "Tối qua, Ukraine tiến hành một cuộc tấn công bằng máy bay không người lái vào khu vực Tatarstan của Nga",
-        "Cả 13 người đã thiệt mạng và 75 người bị thương trong vụ tấn công",
-        "Đây là một trong những vụ tấn công bằng máy bay không người lái của Ukraine vào Nga kể từ khi Nga xâm lược Ukraine",
-        "Vụ tấn công đã gây ra sự phẫn nộ ở Nga"
-      ],
-      "full_summary": "Một cuộc tấn công bằng máy bay không người lái của Ukraine đã xảy ra vào khu vực Tatarstan của Nga, khiến ít nhất 13 người thiệt mạng và 75 người bị thương. Đây là một trong những vụ tấn công bằng máy bay không người lái của Ukraine vào Nga kể từ khi Nga xâm lược Ukraine. Vụ tấn công đã gây ra sự phẫn nộ ở Nga và cho thấy Ukraine vẫn tiếp tục tiến hành các hoạt động quân sự chống lại Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "938b95d0c20b",
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T12:52:03.316694+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Tràn ngập mưa lớn, Trung Quốc di dời 1 triệu người khỏi nhà",
-      "bullets": [
-        "Đông bắc Trung Quốc bị ảnh hưởng bởi cơn bão Dolphin",
-        "Cơn bão mang mưa lớn và gió mạnh, bao gồm cả thành phố Shanghai",
-        "Trung Quốc đã di dời 1 triệu người khỏi nhà để tránh cơn bão",
-        "Cơn bão Dolphin đã đổ bộ vào đất liền"
-      ],
-      "full_summary": "Cơn bão Dolphin đã đổ bộ vào đông bắc Trung Quốc, mang theo mưa lớn và gió mạnh. Cơn bão đã ảnh hưởng đến thành phố Shanghai và nhiều khu vực khác. Để tránh thiệt hại, Trung Quốc đã di dời 1 triệu người khỏi nhà. Cơn bão Dolphin được dự đoán sẽ tiếp tục gây ảnh hưởng trong những ngày tới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "725fb7aeadb5",
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-10T12:52:04.394219+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một cựu nghị sĩ Thái Lan khai nhận giết quan chức",
-      "bullets": [
-        "Xuất hiện trên YouTube khai nhận đã bắn chết quan chức",
-        "Cựu nghị sĩ Chalong Riewrang gọi livestream để nói về hành động",
-        "Sự việc đang được điều tra bởi cơ quan chức năng Thái Lan",
-        "Cáo buộc giết người đang được đưa ra đối với cựu nghị sĩ"
-      ],
-      "full_summary": "Cựu nghị sĩ Thái Lan Chalong Riewrang đã gọi một livestream trên YouTube để khai nhận đã bắn chết một quan chức. Ông Riewrang đã nói về hành động của mình trong livestream. Sự việc đang được điều tra bởi cơ quan chức năng Thái Lan. Cáo buộc giết người đang được đưa ra đối với cựu nghị sĩ.",
       "comments": 0,
       "score": 0
     }
