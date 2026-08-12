@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-08-12T01:16:52.027081+00:00",
+  "updated_at": "2026-08-12T07:13:41.842219+00:00",
   "articles": [
+    {
+      "id": "a1eb934d9e52",
+      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:26.297943+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Trump xác nhận đã chuyển máy bay sau hội nghị NATO vì nghi ngờ mối đe dọa",
+      "bullets": [
+        "Trump xác nhận đã chuyển máy bay sau hội nghị NATO",
+        "Cựu Tổng thống Mỹ không thông báo cho nhân viên Nhà Trắng và phóng viên",
+        "Máy bay mới có thể an toàn hơn trước mối đe dọa tiềm ẩn",
+        "Thông tin này được tiết lộ sau khi báo chí đặt câu hỏi về lý do chuyển máy bay"
+      ],
+      "full_summary": "Cựu Tổng thống Mỹ Donald Trump xác nhận đã chuyển máy bay sau hội nghị NATO vì nghi ngờ mối đe dọa. Theo báo cáo, ông Trump đã rời khỏi máy bay ban đầu mà không thông báo cho nhân viên Nhà Trắng và phóng viên. Máy bay mới có thể an toàn hơn trước mối đe dọa tiềm ẩn. Thông tin này được tiết lộ sau khi báo chí đặt câu hỏi về lý do chuyển máy bay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b01128dbaae4",
+      "title": "Baby Shark boy set to make K-pop debut",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:27.299576+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Trẻ trai từ video YouTube nổi tiếng nhất thế giới chuẩn bị ra mắt K-pop",
+      "bullets": [
+        "Sẽ ra mắt như một ngôi sao K-pop",
+        "17 tuổi, muốn theo đuổi sự nghiệp âm nhạc",
+        "Từ video Baby Shark nổi tiếng",
+        "Sẽ thử sức trong ngành giải trí Hàn Quốc"
+      ],
+      "full_summary": "Trẻ trai từ video YouTube nổi tiếng nhất thế giới, Baby Shark, đang chuẩn bị ra mắt như một ngôi sao K-pop. Anh ta đã 17 tuổi và muốn theo đuổi sự nghiệp âm nhạc. Video Baby Shark đã trở thành một hiện tượng trên YouTube, thu hút hàng triệu lượt xem. Bây giờ, trẻ trai này sẽ thử sức trong ngành giải trí Hàn Quốc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ada479ca2a26",
+      "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:28.179954+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Thuyền chìm ở Hồ Kariba, Zimbabwe với 95 người trên tàu",
+      "bullets": [
+        "Chìm tàu sau khi bị sóng mạnh đâm vào",
+        "Có 95 người trên tàu khi thuyền chìm",
+        "Thuyền chìm ở Hồ Kariba, Zimbabwe",
+        "Lực lượng cứu hộ đang tìm kiếm người bị nạn"
+      ],
+      "full_summary": "Một thuyền chìm ở Hồ Kariba, Zimbabwe với 95 người trên tàu. Theo BBC, thuyền chìm sau khi bị sóng mạnh đâm vào. Lực lượng cứu hộ đang tìm kiếm người bị nạn. Sự cố này đã gây ra lo ngại về an toàn trên hồ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "cfcbfc03ba28",
+      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:29.110688+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nvidia nhận 500 tỷ USD từ Wall Street để phát triển công nghệ AI",
+      "bullets": [
+        "Nvidia sẽ sử dụng số tiền này để xây dựng trung tâm dữ liệu mới",
+        "Trung tâm dữ liệu sẽ chứa và vận hành hàng dặm chip xử lý dữ liệu AI",
+        "Số tiền này sẽ giúp Nvidia đẩy mạnh sự phát triển của công nghệ AI"
+      ],
+      "full_summary": "Nvidia đã nhận được khoản đầu tư 500 tỷ USD từ các công ty Wall Street để phát triển công nghệ AI. Số tiền này sẽ được sử dụng để xây dựng trung tâm dữ liệu mới, chứa và vận hành hàng dặm chip xử lý dữ liệu AI. Việc này sẽ giúp Nvidia đẩy mạnh sự phát triển của công nghệ AI và tăng cường khả năng xử lý dữ liệu của mình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "74218703482f",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:30.077989+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Meta bị phạt 567 triệu USD vì vi phạm an toàn trẻ em",
+      "bullets": [
+        "Meta bị phạt 567 triệu USD vì vi phạm an toàn trẻ em",
+        "Tổng số tiền phạt lên đến 942 triệu USD",
+        "Meta phải tuân thủ các quy định về an toàn trẻ em",
+        "Rulings này nhằm đảm bảo an toàn cho trẻ em trên mạng xã hội"
+      ],
+      "full_summary": "Meta đã bị phạt 567 triệu USD vì vi phạm an toàn trẻ em. Đây là khoản phạt lớn nhất mà Meta phải chịu trong một vụ việc liên quan đến an toàn trẻ em. Ngoài ra, Meta đã bị phạt 375 triệu USD trước đó, tổng số tiền phạt lên đến 942 triệu USD. Rulings này nhằm đảm bảo an toàn cho trẻ em trên mạng xã hội.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84e62c8329d8",
+      "title": "Judge approves Trump effort to end South Sudan TPS protections",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:31.198817+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hạ viện Mỹ cho phép kết thúc bảo vệ TPS cho người Sudan",
+      "bullets": [
+        "Hạ viện Mỹ đã cho phép chính quyền Trump kết thúc bảo vệ TPS cho người Sudan",
+        "Hàng trăm công dân Sudan đang sống tại Mỹ sẽ bị ảnh hưởng bởi quyết định này",
+        "Các tổ chức bảo vệ quyền của người nhập cư đã cố gắng ngăn chặn quyết định này",
+        "Hạ viện Massachusetts đã bác bỏ yêu cầu của các tổ chức này"
+      ],
+      "full_summary": "Hạ viện Mỹ đã cho phép chính quyền Trump kết thúc bảo vệ TPS cho người Sudan. Quyết định này được đưa ra sau khi tòa án tối cao cho phép chính phủ Mỹ rút bảo vệ cho người Haiti và Syria. Hàng trăm công dân Sudan đang sống tại Mỹ sẽ bị ảnh hưởng bởi quyết định này. Các tổ chức bảo vệ quyền của người nhập cư đã cố gắng ngăn chặn quyết định này nhưng đã bị bác bỏ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1091c817d057",
+      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:32.275757+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hãng hàng không Canada hủy chuyến bay vì trẻ nhỏ không đội dây an toàn",
+      "bullets": [
+        "Hủy chuyến bay vì trẻ nhỏ không đội dây an toàn",
+        "Trẻ nhỏ đứng trong ghế khi máy bay chuẩn bị cất cánh",
+        "Crew không thể buộc trẻ nhỏ vào ghế an toàn",
+        "Hai hành khách phải xuống máy bay"
+      ],
+      "full_summary": "Một hãng hàng không Canada đã hủy chuyến bay từ Victoria đến Toronto vì một trẻ nhỏ không đội dây an toàn. Trẻ nhỏ đứng trong ghế khi máy bay đang chuẩn bị cất cánh. Crew đã cố gắng buộc trẻ nhỏ vào ghế an toàn nhưng không thành công. Do đó, máy bay đã trở về sân bay và hai hành khách phải xuống máy bay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b816f8985a74",
+      "title": "Colombia quake leaves more than 110 dead – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-12T07:13:33.954586+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Sóng địa chấn mạnh 7,4 độ gây thiệt hại nghiêm trọng tại Colombia",
+      "bullets": [
+        "Gây ra hơn 110 người chết và nhiều người bị mắc kẹt",
+        "Hàng chục công trình xây dựng bị sập tại thành phố Cali",
+        "Đội cứu hộ từ Bogota và Medellin được yêu cầu hỗ trợ",
+        "Nhiều người bị thương và mất nhà cửa"
+      ],
+      "full_summary": "Một trận động đất mạnh 7,4 độ đã xảy ra tại Colombia, gây ra thiệt hại nghiêm trọng. Thành phố Cali, một trong những thành phố lớn nhất Colombia, bị ảnh hưởng nặng nề khi hơn 20 công trình xây dựng bị sập. Người dân bị mắc kẹt và nhiều người bị thương. Đội cứu hộ từ Bogota và Medellin đã được yêu cầu hỗ trợ trong việc tìm kiếm và cứu hộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "05c2081f85a1",
+      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+      "url": "https://github.com/sgkdev/bad_garbage",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-12T07:13:39.353053+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Bí mật bảo mật Unix bị xâm phạm",
+      "bullets": [
+        "Một lỗ hổng bảo mật mới được phát hiện trong hệ điều hành Unix",
+        "Lỗ hổng này cho phép kẻ tấn công xâm phạm container",
+        "Lỗ hổng được gọi là CVE-2026-53361 AF_Unix GC vs. MSG_PEEK",
+        "Một ví dụ về lỗ hổng này được triển khai trên GitHub"
+      ],
+      "full_summary": "Một lỗ hổng bảo mật mới được phát hiện trong hệ điều hành Unix, cho phép kẻ tấn công xâm phạm container. Lỗ hổng này được gọi là CVE-2026-53361 AF_Unix GC vs. MSG_PEEK. Một ví dụ về lỗ hổng này được triển khai trên GitHub để minh họa cho vấn đề này.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "eb96d42f3ae6",
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -615,184 +794,6 @@
         "Dự án chi tiêu lớn về trí tuệ nhân tạo gây lo ngại"
       ],
       "full_summary": "Cổ phiếu SpaceX đã giảm mạnh sau khi công ty công bố báo cáo tài chính đầu tiên. Trong đó, Elon Musk cho biết công ty sẽ chi tiêu lớn vào trí tuệ nhân tạo. Điều này đã gây lo ngại cho các nhà đầu tư. Họ cho rằng chi tiêu lớn vào trí tuệ nhân tạo có thể ảnh hưởng đến hiệu quả kinh doanh của công ty.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "12df17f2b32c",
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-11T06:54:08.873490+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Tây Ban Nha sẽ kiểm tra biên giới tạm thời với du khách từ Ý",
-      "bullets": [
-        "Tây Ban Nha sẽ áp dụng kiểm tra biên giới tạm thời với du khách từ Ý",
-        "Rôma đã áp dụng biện pháp tương tự sau khi có làn sóng di cư lớn vào Ceuta",
-        "Kiểm tra biên giới sẽ bắt đầu từ nửa đêm thứ Bảy và kéo dài đến ngày 7 tháng 9"
-      ],
-      "full_summary": "Tây Ban Nha đã quyết định áp dụng kiểm tra biên giới tạm thời với du khách từ Ý. Đây là biện pháp đáp trả sau khi Rôma áp dụng biện pháp tương tự sau khi có làn sóng di cư lớn vào Ceuta. Tây Ban Nha cho biết, biện pháp này nhằm đối phó với áp lực di cư bất hợp pháp liên tục ở Ý.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "efdc8660f9f3",
-      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-11T06:54:09.838209+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ross Scott thảo luận về phong trào Stop Killing Games",
-      "bullets": [
-        "Phong trào Stop Killing Games xuất hiện để phản đối các trò chơi điện tử có nội dung bạo lực",
-        "Ross Scott là một trong những người ủng hộ phong trào này",
-        "Phong trào đang gây chú ý trong cộng đồng game thủ toàn cầu"
-      ],
-      "full_summary": "Ross Scott đã tham gia một cuộc thảo luận trực tuyến để bàn luận về phong trào Stop Killing Games. Phong trào này xuất hiện để phản đối các trò chơi điện tử có nội dung bạo lực và Ross Scott là một trong những người ủng hộ phong trào này. Cuộc thảo luận trực tuyến đã thu hút sự chú ý của cộng đồng game thủ toàn cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "562905a5974e",
-      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-      "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-11T06:54:10.942796+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Trump ký sắc lệnh sai trái về vắc-xin, ủng hộ loại không tồn tại",
-      "bullets": [
-        "Ký sắc lệnh cắt giảm nguồn cung vắc-xin",
-        "Tuyên bố vắc-xin MMR 'rất độc hại'",
-        "Liên kết vắc-xin với chứng rối loạn tự kỷ",
-        "Đề xuất vắc-xin không tồn tại"
-      ],
-      "full_summary": "Cựu Tổng thống Mỹ Donald Trump đã ký một sắc lệnh gây tranh cãi, cắt giảm nguồn cung vắc-xin và ủng hộ loại vắc-xin không tồn tại. Ông Trump đã tuyên bố vắc-xin MMR 'rất độc hại' và liên kết nó với chứng rối loạn tự kỷ, mặc dù các bằng chứng khoa học đã bác bỏ những tuyên bố này. Sắc lệnh này đã gây ra sự phẫn nộ trong cộng đồng y tế và các chuyên gia sức khỏe.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bd6197a1b1b6",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-11T06:54:12.659774+00:00",
-      "category": "politics|economy|technology|science",
-      "importance": 5,
-      "headline": "Amazon hỗ trợ nhà máy điện gây ô nhiễm khí hậu lớn nhất Mỹ",
-      "bullets": [
-        "Amazon đầu tư vào nhà máy điện khí lớn nhất Mỹ",
-        "Nhà máy điện khí có thể trở thành nguồn ô nhiễm khí hậu lớn nhất Mỹ",
-        "Amazon tuyên bố xây dựng trung tâm dữ liệu không có lưới điện",
-        "Tập đoàn công nghệ này vẫn cam kết giảm thiểu khí hậu"
-      ],
-      "full_summary": "Amazon vừa công bố đầu tư vào nhà máy điện khí lớn nhất Mỹ, một dự án có thể trở thành nguồn ô nhiễm khí hậu lớn nhất nước này. Mặc dù Amazon tuyên bố xây dựng trung tâm dữ liệu không có lưới điện để giảm thiểu khí hậu, nhưng việc đầu tư vào nhà máy điện khí lại gây ra nhiều tranh cãi. Điều này khiến nhiều người đặt câu hỏi về cam kết giảm thiểu khí hậu của Amazon.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4afaf21f29e6",
-      "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
-      "url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-11T06:54:14.798817+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Taylor Farms thu hồi sản phẩm jalapeño do vi khuẩn Salmonella",
-      "bullets": [
-        "Thu hồi sản phẩm jalapeño ở 26 bang",
-        "Sản phẩm thu hồi được bán tại các siêu thị lớn",
-        "Vi khuẩn Salmonella liên quan đến dịch bệnh Cyclospora",
-        "Taylor Farms tiến hành thu hồi sản phẩm để đảm bảo an toàn thực phẩm"
-      ],
-      "full_summary": "Taylor Farms đã tiến hành thu hồi sản phẩm jalapeño do phát hiện vi khuẩn Salmonella. Sản phẩm này được bán tại 26 bang và các siêu thị lớn. Sự cố này được liên kết với dịch bệnh Cyclospora. Để đảm bảo an toàn thực phẩm, Taylor Farms đã thu hồi sản phẩm này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2754c90afab4",
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-11T06:54:19.310919+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Nghiên cứu mới về H3-metal cho phép chạy nhanh hơn trên Apple Silicon",
-      "bullets": [
-        "Tạo ra một mô hình mini Max-H3 inference",
-        "Là một phần của dự án H3-metal",
-        "Cho phép chạy nhanh hơn trên Apple Silicon",
-        "Cung cấp một giải pháp cho các vấn đề về hiệu suất"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã phát triển một mô hình mini Max-H3 inference mới cho phép chạy nhanh hơn trên Apple Silicon. Dự án H3-metal được tạo ra để giải quyết các vấn đề về hiệu suất trên các thiết bị Apple Silicon. Mô hình mới này được thiết kế để chạy nhanh hơn và hiệu quả hơn so với các mô hình trước đó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "cb0b6a2ba3fa",
-      "title": "Canada flight cancelled after child refuses to wear seat belt",
-      "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-11T01:08:53.889890+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một chuyến bay bị hủy vì trẻ em không đeo dây an toàn",
-      "bullets": [
-        "Một chuyến bay từ Canada bị hủy vì trẻ em không đeo dây an toàn",
-        "Trẻ em từ chối đeo dây an toàn khiến phi công không thể tiếp tục chuyến bay",
-        "Vụ việc gây ra tranh luận về an toàn và kỷ luật trên máy bay thương mại",
-        "Cơ quan chức năng đang điều tra nguyên nhân vụ việc"
-      ],
-      "full_summary": "Một chuyến bay từ Canada bị hủy vì một trẻ em từ chối đeo dây an toàn. Trẻ em từ chối đeo dây an toàn khiến phi công không thể tiếp tục chuyến bay. Vụ việc gây ra tranh luận về an toàn và kỷ luật trên máy bay thương mại. Cơ quan chức năng đang điều tra nguyên nhân vụ việc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5c70e7ba764c",
-      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-11T01:08:54.827085+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông từng thuộc băng đảng sẽ đứng trước tòa vì tội giết Tupac",
-      "bullets": [
-        "Sẽ xét xử một người đàn ông từng thuộc băng đảng vì tội giết Tupac",
-        "Tupac đã bị giết 30 năm trước và danh tiếng của anh ta đã tăng lên",
-        "Sự kiện này sẽ được xét xử sau nhiều thập kỷ",
-        "Tupac đã trở thành một biểu tượng văn hóa lớn"
-      ],
-      "full_summary": "Một người đàn ông từng thuộc băng đảng sẽ đứng trước tòa vì tội giết Tupac, người đã bị giết 30 năm trước. Sự kiện này sẽ được xét xử sau nhiều thập kỷ. Tupac đã trở thành một biểu tượng văn hóa lớn và danh tiếng của anh ta đã tăng lên sau khi anh ta qua đời.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eef912aae9e1",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-11T01:08:56.017468+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Trump ký lệnh hạn chế tiêm vắc-xin cho trẻ em",
-      "bullets": [
-        "Trump ký sắc lệnh hạn chế tiêm vắc-xin cho trẻ em",
-        "Sắc lệnh này khuyến nghị chia nhỏ liều vắc-xin MMR",
-        "Hội đồng Nhi khoa Mỹ lên án đề xuất này là 'mạo hiểm'",
-        "Nhiều chuyên gia lo ngại về tác động tiêu cực của sắc lệnh này"
-      ],
-      "full_summary": "Chủ tịch Mỹ Donald Trump vừa ký sắc lệnh hạn chế tiêm vắc-xin cho trẻ em. Sắc lệnh này khuyến nghị chia nhỏ liều vắc-xin MMR (nhổ màng bọc, sốt xuất huyết và sởi) để giảm số lần tiêm. Tuy nhiên, Hội đồng Nhi khoa Mỹ lên án đề xuất này là 'mạo hiểm' và lo ngại về tác động tiêu cực của sắc lệnh này.",
       "comments": 0,
       "score": 0
     }
