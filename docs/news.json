@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-08-13T12:53:32.688658+00:00",
+  "updated_at": "2026-08-13T18:53:25.277805+00:00",
   "articles": [
+    {
+      "id": "2f3644dd8a9c",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:10.362121+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Romania ngừng hoạt động nhà máy điện hạt nhân duy nhất",
+      "bullets": [
+        "Ngừng hoạt động nhà máy điện hạt nhân Cernavodă",
+        "Nhà máy này sản xuất 20% điện năng của Romania",
+        "Giảm mực nước sông Danube do nhiệt độ cao",
+        "Không dự kiến khởi động lại nhà máy trong 10 ngày tới"
+      ],
+      "full_summary": "Romania đã ngừng hoạt động nhà máy điện hạt nhân duy nhất, Cernavodă, do nhiệt độ cao gây giảm mực nước sông Danube. Nhà máy này sản xuất 20% điện năng của Romania. Không có thông tin về lý do chính xác cho quyết định này. Không dự kiến khởi động lại nhà máy trong 10 ngày tới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7d4982bf95fa",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:11.449028+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Hàng ngàn thủy thủ trên tàu sân bay Mỹ phải chịu đựng tình trạng thiếu thực phẩm và nước",
+      "bullets": [
+        "Thiếu thực phẩm và nước uống trên tàu USS Abraham Lincoln",
+        "Phần lớn hệ thống vệ sinh trên tàu bị hư hỏng",
+        "Một số thủy thủ cân nhắc nhảy xuống biển",
+        "Tình trạng trên đã kéo dài hơn 250 ngày"
+      ],
+      "full_summary": "Hàng ngàn thủy thủ trên tàu sân bay USS Abraham Lincoln của Mỹ đã phải chịu đựng tình trạng thiếu thực phẩm và nước uống. Các vấn đề về vệ sinh cũng đã trở nên nghiêm trọng khi phần lớn hệ thống vệ sinh trên tàu bị hư hỏng. Một số thủy thủ đã cân nhắc nhảy xuống biển. Tình trạng trên đã kéo dài hơn 250 ngày.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "80cca21a13d2",
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:12.532676+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Một người bị phạt vì sử dụng còi sương mù để đánh thức gấu Bắc Cực đang ngủ",
+      "bullets": [
+        "Một người bị phạt vì sử dụng còi sương mù để đánh thức gấu Bắc Cực đang ngủ",
+        "Gấu Bắc Cực đang ngủ bị đánh thức bởi tiếng còi sương mù",
+        "Người này vi phạm quy định địa phương cấm gây rối, thu hút hoặc đuổi theo gấu Bắc Cực không cần thiết",
+        "Quy định địa phương cấm gây rối, thu hút hoặc đuổi theo gấu Bắc Cực không cần thiết"
+      ],
+      "full_summary": "Một người đã bị phạt vì sử dụng còi sương mù để đánh thức gấu Bắc Cực đang ngủ. Quy định địa phương cấm gây rối, thu hút hoặc đuổi theo gấu Bắc Cực không cần thiết. Người này đã vi phạm quy định này và bị phạt. Sự việc này đã thu hút sự chú ý của nhiều người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3c5567162ead",
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:13.460640+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mangione có thể chấp nhận thỏa thuận tội phạm liên bang",
+      "bullets": [
+        "Mangione bị buộc tội theo dõi dẫn đến cái chết",
+        "Có hai tội danh liên bang",
+        "Mangione có thể chấp nhận thỏa thuận tội phạm",
+        "Cáo buộc có thể dẫn đến án tù chung thân"
+      ],
+      "full_summary": "Mangione có thể chấp nhận thỏa thuận tội phạm liên bang sau khi bị buộc tội theo dõi dẫn đến cái chết. Mangione bị buộc tội theo dõi dẫn đến cái chết và có hai tội danh liên bang. Cáo buộc này có thể dẫn đến án tù chung thân. Mangione sẽ gặp các quan chức liên bang để thảo luận về thỏa thuận tội phạm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "24ffc2299444",
+      "title": "Air India to test all pilots for banned substances",
+      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:14.641935+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Air India thử nghiệm tất cả phi công về chất cấm sau vụ rơi máy bay",
+      "bullets": [
+        "Thử nghiệm tất cả phi công của Air India về chất cấm",
+        "Vụ máy bay rơi khiến nhiều hành khách bị thương",
+        "Vụ việc xảy ra sau khi máy bay mất độ cao đột ngột",
+        "Air India sẽ kiểm tra tất cả phi công về chất cấm"
+      ],
+      "full_summary": "Air India sẽ thử nghiệm tất cả phi công về chất cấm sau vụ máy bay rơi khiến nhiều hành khách bị thương. Vụ việc xảy ra sau khi máy bay mất độ cao đột ngột. Air India muốn đảm bảo an toàn cho hành khách và sẽ kiểm tra tất cả phi công về chất cấm. Đây là một bước đi quan trọng để đảm bảo an toàn bay.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9eda3d426816",
+      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:15.569775+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Bumble bỏ quy tắc trò chuyện của phụ nữ trước",
+      "bullets": [
+        "Bỏ quy tắc 'phụ nữ trước' trong trò chuyện",
+        "Bumble thử nghiệm thành công quy tắc mới",
+        "Người dùng muốn thay đổi cách trò chuyện",
+        "Bumble thay đổi quy tắc để đáp ứng nhu cầu người dùng"
+      ],
+      "full_summary": "Bumble, ứng dụng hẹn hò, đã bỏ quy tắc 'phụ nữ trước' trong trò chuyện. Điều này là kết quả của một thử nghiệm thành công và nhu cầu thay đổi của người dùng. Người dùng muốn có nhiều lựa chọn hơn trong cách trò chuyện. Bumble cho biết họ sẽ tiếp tục theo dõi phản hồi của người dùng và điều chỉnh quy tắc nếu cần.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6867cfd16891",
+      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:16.602809+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Cảnh sát Mỹ bị sa thải vì theo dõi đối tác tình cảm",
+      "bullets": [
+        "Bị sa thải vì sử dụng camera đọc biển số xe để theo dõi đối tác tình cảm",
+        "Cảnh sát Mỹ đã sử dụng công nghệ để theo dõi người thân",
+        "Flock, công ty cung cấp công nghệ này, đã thừa nhận đã chậm trễ trong việc xử lý vấn đề",
+        "Công ty đã hứa sẽ cải thiện quy trình xử lý"
+      ],
+      "full_summary": "Một số cảnh sát Mỹ đã bị sa thải vì sử dụng camera đọc biển số xe để theo dõi đối tác tình cảm. Công ty Flock, cung cấp công nghệ này, đã thừa nhận đã chậm trễ trong việc xử lý vấn đề. Flock đã hứa sẽ cải thiện quy trình xử lý và tăng cường giám sát.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "83ff2191eb5a",
+      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-13T18:53:18.732760+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Cựu thống đốc Mexico bị buộc tội liên quan đến vụ mất tích 43 sinh viên",
+      "bullets": [
+        "Bị cáo Ángel Aguirre bị buộc tội bắt cóc và cản trở công lý",
+        "Cựu thống đốc Guerrero bị buộc tội phá hủy băng ghi âm có thể giúp giải quyết vụ mất tích",
+        "Vụ mất tích của 43 sinh viên đã trở thành biểu tượng của sự tàn bạo của các băng đảng và sự bất chấp của chính phủ Mexico",
+        "Ángel Aguirre bị bắt vào tuần trước"
+      ],
+      "full_summary": "Cựu thống đốc Guerrero Ángel Aguirre đã bị buộc tội liên quan đến vụ mất tích 43 sinh viên vào năm 2014. Ông bị cáo buộc tội bắt cóc và cản trở công lý vì đã chỉ đạo phá hủy băng ghi âm có thể giúp giải quyết vụ mất tích. Vụ mất tích của 43 sinh viên đã trở thành biểu tượng của sự tàn bạo của các băng đảng và sự bất chấp của chính phủ Mexico.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b456e74a549d",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-13T18:53:21.362136+00:00",
+      "category": "công nghệ",
+      "importance": 4,
+      "headline": "Claude đã thêm dấu hiệu bí mật vào các văn bản",
+      "bullets": [
+        "Claude đã thêm dấu hiệu bí mật vào các văn bản đã được xử lý",
+        "Dấu hiệu này không thể nhìn thấy được ngay bây giờ",
+        "Dấu hiệu này có thể phát hiện được sau này",
+        "Claude có thể được sử dụng để theo dõi các văn bản đã được chỉnh sửa"
+      ],
+      "full_summary": "Claude, một công cụ AI, đã thêm dấu hiệu bí mật vào các văn bản đã được xử lý. Dấu hiệu này không thể nhìn thấy được ngay bây giờ nhưng có thể phát hiện được sau này. Điều này có thể được sử dụng để theo dõi các văn bản đã được chỉnh sửa.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "9cc63c9239c2",
       "title": "UK defends seizing shadow fleet tanker after Putin threat",
@@ -613,185 +793,6 @@
         "Lakers là một trong những đội bóng nổi tiếng nhất NBA"
       ],
       "full_summary": "Lakers sẽ được bán cho một chủ sở hữu mới với giá kỷ lục 12,5 tỷ USD. Đây là một trong những thương vụ mua bán lớn nhất trong lịch sử NBA. Giá bán này cao hơn nhiều so với giá mà Mark Walter mua cổ phần đa số vào năm ngoái. Lakers là một trong những đội bóng nổi tiếng nhất NBA và đã có nhiều thành tựu trong lịch sử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "17787f14efaf",
-      "title": "US inflation eases as food and fuel costs cool",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T18:52:32.015925+00:00",
-      "category": "economy",
-      "importance": 3,
-      "headline": "Tỷ lệ lạm phát Mỹ giảm xuống 3,4% trong tháng 7",
-      "bullets": [
-        "Giảm 0,2% so với tháng 6",
-        "Chi phí thực phẩm chậm lại",
-        "Giá nhà ở vẫn giữ giá cao"
-      ],
-      "full_summary": "Tỷ lệ lạm phát hàng năm của Mỹ đã giảm xuống 3,4% vào tháng 7, với chi phí thực phẩm chậm lại và giá nhà ở vẫn giữ giá cao. Điều này cho thấy sự giảm nhiệt trong chi phí thực phẩm và nhiên liệu. Tuy nhiên, giá nhà ở vẫn là một yếu tố quan trọng ảnh hưởng đến lạm phát.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "357b44f60f4d",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T18:52:33.037136+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hàng nghìn người Canada kêu gọi trục xuất đại sứ Mỹ",
-      "bullets": [
-        "Kêu gọi trục xuất đại sứ Mỹ Pete Hoekstra",
-        "Đại sứ bị cáo buộc can thiệp vào công việc nội bộ Canada",
-        "Hàng nghìn người Canada đã ký tên vào một bản kiến nghị trực tuyến",
-        "Bản kiến nghị cáo buộc đại sứ Mỹ can thiệp vào các vấn đề nội bộ Canada"
-      ],
-      "full_summary": "Hàng nghìn người Canada đã ký tên vào một bản kiến nghị trực tuyến kêu gọi trục xuất đại sứ Mỹ Pete Hoekstra. Họ cáo buộc đại sứ Mỹ can thiệp vào công việc nội bộ Canada. Bản kiến nghị đã thu hút hơn 60.000 chữ ký. Điều này đã gây ra sự chú ý lớn trong cộng đồng Canada.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5cedb3301edb",
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T18:52:33.962358+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Discord bị yêu cầu tạm dừng phát trực tiếp ở Brazil",
-      "bullets": [
-        "Discord bị yêu cầu tạm dừng phát trực tiếp ở Brazil",
-        "Ủy ban bảo vệ dữ liệu Brazil đưa ra yêu cầu này",
-        "Discord cam kết đảm bảo an toàn cho người dùng",
-        "Công ty đang xem xét kỹ lưỡng yêu cầu này"
-      ],
-      "full_summary": "Ủy ban bảo vệ dữ liệu Brazil đã yêu cầu Discord tạm dừng phát trực tiếp. Discord cho biết đang xem xét kỹ lưỡng yêu cầu này và cam kết đảm bảo an toàn cho người dùng. Công ty này không cung cấp thêm thông tin về lý do yêu cầu này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2df66619b3e0",
-      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T18:52:34.986349+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Công nghệ AI hứa hẹn thời gian rảnh rỗi nhưng nhân viên vẫn làm 90 giờ/tuần",
-      "bullets": [
-        "Lãnh đạo công nghệ nói AI giúp giảm giờ làm nhưng nhân viên lại làm nhiều hơn",
-        "Các công ty công nghệ không thể hiện được lợi ích của công nghệ AI",
-        "Nhân viên phải làm nhiều giờ để duy trì hiệu suất công việc",
-        "Lý do thực tế không phù hợp với tuyên bố của lãnh đạo công nghệ"
-      ],
-      "full_summary": "Các lãnh đạo công nghệ cho rằng công nghệ trí tuệ nhân tạo (AI) sẽ giúp con người có nhiều thời gian rảnh rỗi hơn. Tuy nhiên, nhân viên của họ lại phải làm nhiều giờ hơn, lên đến 90 giờ/tuần. Điều này cho thấy rằng các công ty công nghệ không thể hiện được lợi ích thực sự của công nghệ AI. Lý do thực tế không phù hợp với tuyên bố của lãnh đạo công nghệ, gây ra sự bất đồng giữa họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b717cbed74ba",
-      "title": "Formula E finds a new home on Disney+, ESPN+",
-      "url": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-12T18:52:43.249856+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Formula E chuyển đến Disney+, ESPN+ từ tháng 12",
-      "bullets": [
-        "Bắt đầu từ mùa giải 2026-27, Formula E sẽ được phát sóng trên Disney+, ESPN+",
-        "GEN4 sẽ xuất hiện trong mùa giải mới",
-        "Kết quả của thỏa thuận này sẽ mang lại sự thay đổi lớn cho Formula E",
-        "Mùa giải mới sẽ bắt đầu vào tháng 12"
-      ],
-      "full_summary": "Formula E đã tìm được một nhà cung cấp mới cho việc phát sóng, đó là Disney+, ESPN+. Thỏa thuận này sẽ bắt đầu từ mùa giải 2026-27, khi GEN4 được giới thiệu. Điều này sẽ mang lại sự thay đổi lớn cho Formula E, giúp tăng cường sự phổ biến của giải đấu này. Mùa giải mới sẽ bắt đầu vào tháng 12.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "39a15cb021eb",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T12:52:40.903695+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Người phụ nữ được cứu sống sau trận động đất ở Colombia",
-      "bullets": [
-        "Được cứu sống sau 36 giờ bị kẹt dưới đống đổ nát",
-        "Cứu hộ đã mất 10 giờ để tìm thấy người phụ nữ",
-        "Người phụ nữ 32 tuổi được đưa ra ngoài an toàn",
-        "Cứu hộ tiếp tục tìm kiếm những người còn bị mắc kẹt"
-      ],
-      "full_summary": "Một trận động đất đã xảy ra ở Colombia, khiến nhiều người bị thương và mắc kẹt dưới đống đổ nát. Sau 36 giờ tìm kiếm, một nhóm cứu hộ đã tìm thấy một người phụ nữ 32 tuổi và đưa cô ra ngoài an toàn. Cứu hộ đã mất 10 giờ để tìm thấy người phụ nữ và tiếp tục tìm kiếm những người còn bị mắc kẹt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7fc14694c353",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T12:52:41.789023+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhiều người Do Thái bao vây hai gia đình Palestine",
-      "bullets": [
-        "Người dân Palestine bị bao vây từ Chủ nhật",
-        "Lực lượng an ninh Israel rút khỏi khu vực",
-        "Khoảng một chục người Do Thái vẫn còn ở đó",
-        "Hai gia đình Palestine bị cô lập"
-      ],
-      "full_summary": "Hai gia đình Palestine đang bị bao vây bởi một nhóm người Do Thái ở một ngôi làng ở Tây Ban Nha. Lực lượng an ninh Israel đã rút khỏi khu vực, nhưng một chục người Do Thái vẫn còn ở đó. Hai gia đình Palestine đang bị cô lập và không thể rời khỏi nhà. Sự việc xảy ra kể từ Chủ nhật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "affff1cda06f",
-      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T12:52:42.800523+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nước thấp của sông Đan ube phát hiện hài cốt lính Mỹ và xe máy",
-      "bullets": [
-        "Phát hiện hài cốt lính Mỹ và xe máy trong Thế chiến II",
-        "Xe máy được bảo quản tốt, có thể xác định",
-        "Cùng hài cốt có thẻ nhận dạng lính Mỹ",
-        "Nước thấp của sông Đan ube tiết lộ nhiều bí mật"
-      ],
-      "full_summary": "Nước thấp của sông Đan ube đã tiết lộ nhiều bí mật về Thế chiến II, bao gồm hài cốt và xe máy của lính Mỹ. Các nhà khảo cổ đã phát hiện hài cốt và xe máy được bảo quản tốt, có thể xác định. Xe máy được xác định là một chiếc xe máy thời chiến, có thể là một trong những chiếc xe máy đầu tiên được sử dụng trong Thế chiến II. Các nhà khảo cổ đang nghiên cứu hài cốt và xe máy để hiểu thêm về lịch sử.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d2b22a5606dd",
-      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-12T12:52:43.793384+00:00",
-      "category": "politics|economy",
-      "importance": 4,
-      "headline": "Zhu Rongji qua đời, người giúp Trung Quốc trở thành cường quốc thương mại",
-      "bullets": [
-        "Củng cố nền kinh tế Trung Quốc thông qua các cải cách mạnh mẽ",
-        "Giúp Trung Quốc gia nhập WTO",
-        "Khuyến khích tăng trưởng kinh tế mạnh mẽ",
-        "Thúc đẩy Trung Quốc trở thành cường quốc thương mại"
-      ],
-      "full_summary": "Zhu Rongji, cựu Thủ tướng Trung Quốc, qua đời ở tuổi 97. Ông đã đóng vai trò quan trọng trong việc giúp Trung Quốc trở thành cường quốc thương mại. Zhu đã lãnh đạo các cải cách kinh tế mạnh mẽ và giúp Trung Quốc gia nhập Tổ chức Thương mại Thế giới (WTO). Những nỗ lực của ông đã thúc đẩy tăng trưởng kinh tế mạnh mẽ và giúp Trung Quốc trở thành một trong những nền kinh tế lớn nhất thế giới.",
       "comments": 0,
       "score": 0
     }
