@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-14T07:13:44.350160+00:00",
+  "updated_at": "2026-08-14T12:48:20.705811+00:00",
   "articles": [
+    {
+      "id": "4d2799cede52",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T12:48:05.766342+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Một người đàn ông bị bắt giữ sau khi tìm thấy 8 tác phẩm của Matisse ở Brazil",
+      "bullets": [
+        "Tìm thấy 8 tác phẩm của Matisse tại một căn nhà ở khu vực São Paulo",
+        "Một người đàn ông bị bắt giữ liên quan đến vụ trộm cắp",
+        "Các tác phẩm được tìm thấy sau nhiều năm mất tích",
+        "Cảnh sát Brazil đã thực hiện vụ bắt giữ"
+      ],
+      "full_summary": "Một người đàn ông bị bắt giữ sau khi cảnh sát Brazil tìm thấy 8 tác phẩm của nhà họa sĩ nổi tiếng Henri Matisse tại một căn nhà ở khu vực São Paulo. Các tác phẩm được tìm thấy sau nhiều năm mất tích và vụ bắt giữ được thực hiện sau khi điều tra. Vụ việc cho thấy cảnh sát Brazil đã thực hiện một cuộc điều tra thành công để tìm thấy các tác phẩm bị trộm cắp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ef9d8448815c",
+      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T12:48:07.046408+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Bầu cử tổng thống Zambia bị dừng vì bạo lực",
+      "bullets": [
+        "Bạo lực xảy ra tại khu vực bỏ phiếu",
+        "Hành động này khiến cho các phiếu bầu bị đánh cắp",
+        "Ủy ban bầu cử Zambia tạm dừng quá trình kiểm phiếu",
+        "Lý do chính là để đảm bảo an toàn cho nhân viên bầu cử"
+      ],
+      "full_summary": "Ủy ban bầu cử Zambia đã tạm dừng quá trình kiểm phiếu bầu cử tổng thống do bạo lực xảy ra tại khu vực bỏ phiếu. Các nhân viên bầu cử bị tấn công và phiếu bầu bị đánh cắp. Ủy ban này cho biết hành động này đã khiến cho quá trình bầu cử bị ảnh hưởng nghiêm trọng. Việc kiểm phiếu sẽ được tiếp tục sau khi tình hình được ổn định.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "32aedffb0946",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T12:48:07.971484+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Chuyên gia Mỹ được giải cứu sau khi bị bắt cóc tại Niger",
+      "bullets": [
+        "Bị bắt cóc ngoài nhà ở thủ đô vào tháng 10",
+        "Bây giờ đang được các quan chức Mỹ tiếp cận",
+        "Tình huống được một tổ chức Kitô giáo xác nhận",
+        "Chi tiết chưa được tiết lộ"
+      ],
+      "full_summary": "Một chuyên gia Mỹ tên Kevin Rideout đã bị bắt cóc ngoài nhà ở thủ đô Niger vào tháng 10. Bây giờ ông đã được giải cứu và đang được các quan chức Mỹ tiếp cận. Một tổ chức Kitô giáo đã xác nhận tình huống này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ffc926680b28",
+      "title": "Amazon is using Twitch to train generative AI",
+      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T12:48:09.147275+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Amazon sử dụng Twitch để huấn luyện AI tạo mẫu",
+      "bullets": [
+        "Amazon cho phép sử dụng nội dung kênh Twitch để huấn luyện AI",
+        "Người dùng Twitch chỉ trích quyết định này",
+        "Twitch là nền tảng trực tuyến nổi tiếng cho các trò chơi điện tử",
+        "Nội dung kênh Twitch sẽ được sử dụng để huấn luyện AI tạo mẫu"
+      ],
+      "full_summary": "Amazon đang sử dụng nền tảng Twitch để huấn luyện AI tạo mẫu. Người dùng Twitch đã chỉ trích quyết định này, cho rằng nội dung kênh của họ sẽ được sử dụng mà không có sự đồng ý. Twitch là nền tảng trực tuyến nổi tiếng cho các trò chơi điện tử, nơi người dùng có thể phát trực tiếp các trò chơi của mình. Việc sử dụng nội dung kênh Twitch để huấn luyện AI tạo mẫu đã gây ra sự tranh cãi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "46eb0aec6594",
+      "title": "American missionary kidnapped in Niger freed after nine months",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T12:48:10.240311+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mục sư Mỹ bị bắt cóc ở Niger được thả sau 9 tháng",
+      "bullets": [
+        "Bị bắt cóc vào tháng 10, mục sư Mỹ Kevin Rideout đã được thả",
+        "Ông được cho là trong tình trạng sức khỏe tốt",
+        "Được chăm sóc bởi các quan chức Mỹ",
+        "Sẽ được đoàn tụ với gia đình"
+      ],
+      "full_summary": "Mục sư Mỹ Kevin Rideout bị bắt cóc ở Niger vào tháng 10 đã được thả. Ông được cho là trong tình trạng sức khỏe tốt và đang được chăm sóc bởi các quan chức Mỹ. Tổ chức SIM International đã xác nhận thông tin này và cho biết ông sẽ được đoàn tụ với gia đình. Sự việc này diễn ra sau 9 tháng kể từ khi ông bị bắt cóc.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d4e460a1a18d",
+      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-14T12:48:11.164472+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 4,
+      "headline": "Rocket Lab thể hiện sự linh hoạt, Blue Origin có kế hoạch hai bệ phóng",
+      "bullets": [
+        "Rocket Lab đã chứng minh khả năng linh hoạt của mình",
+        "Blue Origin đang xây dựng kế hoạch hai bệ phóng",
+        "Căng thẳng về khả năng phóng tên lửa đang gia tăng",
+        "Các công ty tên lửa đang phải đối mặt với khó khăn về khả năng phóng"
+      ],
+      "full_summary": "Rocket Lab đã chứng minh khả năng linh hoạt của mình bằng cách phóng tên lửa từ một bệ phóng khác nhau. Trong khi đó, Blue Origin đang xây dựng kế hoạch hai bệ phóng để tăng khả năng phóng tên lửa. Căng thẳng về khả năng phóng tên lửa đang gia tăng do nhu cầu phóng tên lửa tăng cao. Các công ty tên lửa đang phải đối mặt với khó khăn về khả năng phóng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3d1f4dc55396",
+      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-14T12:48:12.098831+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Samsung Galaxy Z Fold 8 Ultra: Một chiếc điện thoại gập với giá siêu cao",
+      "bullets": [
+        "Cập nhật ít thay đổi về thiết kế và hiệu suất",
+        "Cấu hình mạnh mẽ và màn hình chất lượng cao",
+        "Giá bán cao ngất ngưởng, không phải là lựa chọn phổ biến"
+      ],
+      "full_summary": "Samsung Galaxy Z Fold 8 Ultra là một chiếc điện thoại gập mới từ Samsung, với thiết kế và hiệu suất không thay đổi nhiều so với năm trước. Mặc dù vậy, chiếc điện thoại này vẫn sở hữu cấu hình mạnh mẽ và màn hình chất lượng cao. Tuy nhiên, giá bán của nó rất cao, khiến nó không phải là lựa chọn phổ biến cho nhiều người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9f058d2e99ed",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-14T12:48:17.842288+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Các tổ chức sử dụng AI: ChatGPT trở thành công cụ hữu ích",
+      "bullets": [
+        "Sử dụng ChatGPT để hỗ trợ công việc văn phòng",
+        "Tạo ra các ứng dụng và dịch vụ dựa trên AI",
+        "Giúp cải thiện hiệu suất và giảm chi phí",
+        "Tăng cường khả năng tương tác với khách hàng"
+      ],
+      "full_summary": "Báo cáo mới đây của OpenAI cho thấy các tổ chức đang sử dụng ChatGPT để hỗ trợ công việc văn phòng, tạo ra các ứng dụng và dịch vụ dựa trên AI, giúp cải thiện hiệu suất và giảm chi phí. Các tổ chức cũng sử dụng ChatGPT để tăng cường khả năng tương tác với khách hàng. Báo cáo này cung cấp bằng chứng về cách các tổ chức đang sử dụng AI để đạt được lợi ích kinh doanh.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "94b22131a7ba",
       "title": "'Unprecedented' rains in Japan kill six people",
@@ -635,165 +794,6 @@
         "Tuân thủ pháp luật trong việc ngăn chặn tàu của đội tàu bóng tối"
       ],
       "full_summary": "Anh quốc cho biết đang ngăn chặn và ngăn cản tàu của đội tàu bóng tối theo pháp luật. Hành động này được thực hiện sau khi Putin đe dọa Anh quốc. Đội tàu bóng tối được cho là đang vận chuyển hàng hóa cho Nga.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4f721e2a06aa",
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T12:53:18.090667+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nhiều binh sĩ sẽ được gửi đến làng Qusra bị phong tỏa bởi người định cư Israel",
-      "bullets": [
-        "Các gia đình Palestine ở làng Qusra nói họ bị mắc kẹt trong nhà từ Chủ nhật.",
-        "Nước và điện đã bị cắt off.",
-        "Các binh sĩ sẽ được gửi đến để hỗ trợ người dân.",
-        "Bế tắc đang diễn ra giữa Israel và Palestine."
-      ],
-      "full_summary": "Các gia đình Palestine ở làng Qusra nói họ bị mắc kẹt trong nhà từ Chủ nhật. Nước và điện đã bị cắt off. Các binh sĩ sẽ được gửi đến để hỗ trợ người dân. Bế tắc đang diễn ra giữa Israel và Palestine.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "585f1f878ca4",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T12:53:19.056552+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Eurovision 2027 sẽ được tổ chức tại Burgas, Bulgaria",
-      "bullets": [
-        "Bulgaria đã được chọn làm chủ nhà của Eurovision 2027",
-        "Sự kiện này diễn ra sau khi ca sĩ Bulgaria Dara giành chiến thắng tại cuộc thi năm nay",
-        "Burgas nằm ở vị trí Black Sea và được cho là một địa điểm lý tưởng cho sự kiện này",
-        "Eurovision 2027 dự kiến sẽ thu hút sự tham gia của nhiều quốc gia trên thế giới"
-      ],
-      "full_summary": "Eurovision Song Contest 2027 sẽ được tổ chức tại Burgas, Bulgaria, sau khi ca sĩ Bulgaria Dara giành chiến thắng tại cuộc thi năm nay. Đây là lần đầu tiên Bulgaria được chọn làm chủ nhà của sự kiện này. Burgas nằm ở vị trí Black Sea và được cho là một địa điểm lý tưởng cho sự kiện này. Eurovision 2027 dự kiến sẽ thu hút sự tham gia của nhiều quốc gia trên thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "af5843371ac3",
-      "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T12:53:20.109351+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Bà đệ nhất sứ giả Pháp bị cáo buộc đưa phụ nữ vào nhà riêng",
-      "bullets": [
-        "Bà đệ nhất sứ giả Pháp Bruno Foucher bị cáo buộc đưa phụ nữ vào nhà riêng",
-        "Các điều tra viên đang xem xét khả năng vi phạm an ninh",
-        "Tình huống này đã gây ra sự bất ổn trong cộng đồng quốc tế",
-        "Bà đệ nhất sứ giả Pháp có thể phải đối mặt với hình phạt kỷ luật"
-      ],
-      "full_summary": "Bà đệ nhất sứ giả Pháp Bruno Foucher bị cáo buộc đưa phụ nữ vào nhà riêng tại Cộng hòa Trung Phi. Các điều tra viên đang xem xét khả năng vi phạm an ninh. Tình huống này đã gây ra sự bất ổn trong cộng đồng quốc tế. Bà đệ nhất sứ giả Pháp có thể phải đối mặt với hình phạt kỷ luật.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "35d4af9572ab",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T12:53:21.236490+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Twitch người dùng phẫn nộ vì Amazon sử dụng nội dung của họ để huấn luyện AI",
-      "bullets": [
-        "Phát hiện Amazon sử dụng dữ liệu người dùng Twitch để huấn luyện AI",
-        "Người dùng chỉ được biết thông tin này sau khi Amazon đã sử dụng dữ liệu của họ",
-        "Nhiều người dùng chỉ được biết thông tin này sau khi Amazon đã sử dụng dữ liệu của họ",
-        "Twitch đã cho phép Amazon sử dụng dữ liệu người dùng mà không cần sự đồng ý"
-      ],
-      "full_summary": "Người dùng Twitch đã phẫn nộ vì Amazon sử dụng nội dung của họ để huấn luyện AI. Theo BBC, Amazon đã sử dụng dữ liệu người dùng Twitch để huấn luyện AI mà không cần sự đồng ý của họ. Nhiều người dùng chỉ được biết thông tin này sau khi Amazon đã sử dụng dữ liệu của họ. Điều này đã gây ra sự phẫn nộ trong cộng đồng người dùng Twitch.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27e6f27455da",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T12:53:22.163156+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Chính sách tokenomics đối với trí tuệ nhân tạo gặp khó khăn",
-      "bullets": [
-        "Các nhà cung cấp dịch vụ AI gặp khó khăn trong việc kiểm soát chi phí",
-        "Người mua dịch vụ AI gặp khó khăn trong việc kiểm soát chi phí",
-        "Các nhà cung cấp dịch vụ AI không chắc chắn về giá cả",
-        "Các nhà cung cấp dịch vụ AI cần tìm cách cân bằng lợi ích và chi phí"
-      ],
-      "full_summary": "Các nhà cung cấp dịch vụ trí tuệ nhân tạo (AI) đang gặp khó khăn trong việc thiết lập chính sách tokenomics. Người mua dịch vụ AI cũng gặp khó khăn trong việc kiểm soát chi phí. Các nhà cung cấp dịch vụ AI không chắc chắn về giá cả và cần tìm cách cân bằng lợi ích và chi phí. Điều này ảnh hưởng đến sự phát triển của công nghệ AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bf643209bf4d",
-      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T12:53:23.226616+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hakainde Hichilema đối mặt với bóng tối của đối thủ cũ Edgar Lungu",
-      "bullets": [
-        "Hakainde Hichilema đang chạy đua cho nhiệm kỳ thứ hai",
-        "Bầu cử tại Zambia diễn ra trong bóng tối của đối thủ cũ Edgar Lungu",
-        "Hichilema đã đánh bại Lungu trong cuộc bầu cử năm 2021",
-        "Cái chết của Lungu năm 2025 vẫn còn gây tranh cãi"
-      ],
-      "full_summary": "Hakainde Hichilema đang chạy đua cho nhiệm kỳ thứ hai tại Zambia. Tuy nhiên, bầu cử tại quốc gia này đang diễn ra trong bóng tối của đối thủ cũ Edgar Lungu, người đã qua đời năm 2025. Lungu và Hichilema đã từng có một cuộc tranh cãi gay gắt trong quá khứ. Bầu cử tại Zambia diễn ra vào thứ Năm, và kết quả sẽ được công bố sau đó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1091c817d057",
-      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
-      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T12:53:25.510266+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hãng hàng không Canada hủy chuyến bay vì trẻ nhỏ không đội dây an toàn",
-      "bullets": [
-        "Hủy chuyến bay vì trẻ nhỏ không đội dây an toàn",
-        "Trẻ nhỏ đứng trên ghế trong khi máy bay đang di chuyển",
-        "Crew và phụ huynh không thể buộc trẻ nhỏ vào chỗ ngồi",
-        "Máy bay phải trở về sân bay để hai hành khách rời đi"
-      ],
-      "full_summary": "Một hãng hàng không Canada đã hủy chuyến bay từ Victoria đến Toronto vì trẻ nhỏ không đội dây an toàn. Trẻ nhỏ đứng trên ghế trong khi máy bay đang di chuyển, khiến crew và phụ huynh không thể buộc trẻ nhỏ vào chỗ ngồi. Vì vậy, máy bay phải trở về sân bay để hai hành khách rời đi. Đây là một tình huống bất ngờ và bất an trên chuyến bay.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6323277ecae0",
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-13T12:53:29.653292+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Deutsche Bank trở thành ngân hàng đầu tiên ở châu Âu được phép thanh toán bằng nhân dân tệ",
-      "bullets": [
-        "Đức trở thành ngân hàng đầu tiên ở châu Âu được phép thanh toán bằng nhân dân tệ",
-        "Deutsche Bank sẽ hỗ trợ thanh toán bằng nhân dân tệ cho các khách hàng",
-        "Nó sẽ giúp tăng cường giao dịch quốc tế bằng nhân dân tệ"
-      ],
-      "full_summary": "Deutsche Bank đã trở thành ngân hàng đầu tiên ở châu Âu được phép thanh toán bằng nhân dân tệ. Điều này sẽ giúp tăng cường giao dịch quốc tế bằng nhân dân tệ và hỗ trợ cho các khách hàng của ngân hàng. Việc này cũng sẽ giúp mở rộng phạm vi sử dụng nhân dân tệ trên toàn thế giới.",
       "comments": 0,
       "score": 0
     }
