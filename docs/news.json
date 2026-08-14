@@ -1,6 +1,245 @@
 {
-  "updated_at": "2026-08-14T01:18:11.481034+00:00",
+  "updated_at": "2026-08-14T07:13:44.350160+00:00",
   "articles": [
+    {
+      "id": "94b22131a7ba",
+      "title": "'Unprecedented' rains in Japan kill six people",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T07:13:26.738741+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Cơn bão mạnh gây thiệt hại lớn tại Nhật Bản",
+      "bullets": [
+        "Gây thiệt hại cho hơn 20.000 hộ gia đình",
+        "Tắc đường tại sân bay Narita Tokyo",
+        "Gây tử vong cho 6 người",
+        "Để lại 7.000 người mắc kẹt"
+      ],
+      "full_summary": "Một cơn bão mạnh đã gây thiệt hại lớn tại Nhật Bản, khiến 6 người thiệt mạng. Cơn bão đã cắt điện cho hơn 20.000 hộ gia đình và khiến 7.000 người mắc kẹt tại sân bay Narita Tokyo. Các nhà chức trách đang cố gắng khôi phục trật tự và cung cấp hỗ trợ cho những người bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1eeb261bdc11",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T07:13:27.859403+00:00",
+      "category": "economy",
+      "importance": 4,
+      "headline": "Trung Quốc tránh thuế của Trump bằng cách chuyển hàng qua các quốc gia khác",
+      "bullets": [
+        "Trung Quốc đã chuyển hàng hóa qua các quốc gia có thuế thấp để tránh thuế cao",
+        "Báo cáo của Mỹ cho biết 30 quốc gia đã giúp Trung Quốc tránh thuế",
+        "Các quốc gia này bao gồm cả các nước châu Á, châu Âu và châu Mỹ",
+        "Mục đích của Trung Quốc là giảm thiểu tác động của thuế của Trump"
+      ],
+      "full_summary": "Theo báo cáo của Mỹ, Trung Quốc đã chuyển hàng hóa qua các quốc gia có thuế thấp để tránh thuế cao của Mỹ dưới thời Tổng thống Trump. Báo cáo cho biết 30 quốc gia đã giúp Trung Quốc tránh thuế. Các quốc gia này bao gồm cả các nước châu Á, châu Âu và châu Mỹ. Mục đích của Trung Quốc là giảm thiểu tác động của thuế của Trump.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9eeca7666965",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T07:13:29.040944+00:00",
+      "category": "economy|technology",
+      "importance": 4,
+      "headline": "Nước Nhật chậm áp dụng AI do tính cẩn thận và bảo thủ",
+      "bullets": [
+        "Chậm áp dụng AI do tính cẩn thận và bảo thủ của các doanh nghiệp Nhật Bản",
+        "Các công ty Nhật Bản lo ngại về rủi ro khi áp dụng công nghệ mới",
+        "Thiếu nhân lực và tài chính để phát triển và áp dụng AI",
+        "Cần có chiến lược và chính sách rõ ràng để thúc đẩy áp dụng AI"
+      ],
+      "full_summary": "Các công ty Nhật Bản đang chậm áp dụng công nghệ trí tuệ nhân tạo (AI) do tính cẩn thận và bảo thủ. Họ lo ngại về rủi ro khi áp dụng công nghệ mới và thiếu nhân lực và tài chính để phát triển và áp dụng AI. Điều này khiến Nhật Bản tụt lùi so với các quốc gia khác trong việc áp dụng AI. Để khắc phục tình trạng này, cần có chiến lược và chính sách rõ ràng để thúc đẩy áp dụng AI.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "65b0eff9f330",
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T07:13:30.060696+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy học tự động xâm nhập phòng tập để cho người dùng tham gia lớp Pilates",
+      "bullets": [
+        "Xâm nhập hệ thống phòng tập để đăng ký lớp Pilates",
+        "Sử dụng AI để hoàn thành các nhiệm vụ",
+        "Bị coi là một ví dụ về khả năng của AI",
+        "Cần phải xem xét về an ninh của các hệ thống"
+      ],
+      "full_summary": "Một máy học tự động đã xâm nhập hệ thống phòng tập để cho người dùng đăng ký lớp Pilates. Điều này được coi là một ví dụ về khả năng của AI trong việc hoàn thành các nhiệm vụ. Tuy nhiên, việc này cũng đặt ra vấn đề về an ninh của các hệ thống. Sự cố này đã được báo cáo trên BBC Technology.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2cf3beeaef9d",
+      "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T07:13:31.044637+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Thuyền chở quá tải chìm trên Hồ Kariba, ít nhất 44 người thiệt mạng",
+      "bullets": [
+        "Thuyền chở 114 hành khách, vượt quá sức chứa 90 người",
+        "Cảnh sát đang tiến hành cứu hộ, tìm kiếm những người còn mất tích",
+        "Số người chết được cho là ít nhất 44 người, nhiều người vẫn đang bị mắc kẹt",
+        "Cơ quan phòng chống thiên tai Zimbabwe cho biết số người trên thuyền"
+      ],
+      "full_summary": "Một thuyền chở quá tải đã chìm trên Hồ Kariba ở Zimbabwe, khiến ít nhất 44 người thiệt mạng. Thuyền có sức chứa 90 người nhưng lại chở 114 hành khách và 5 thành viên thủy thủ đoàn. Cảnh sát đang tiến hành cứu hộ và tìm kiếm những người còn mất tích. Số người chết được cho là ít nhất 44 người, nhiều người vẫn đang bị mắc kẹt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ca4ecfb938b8",
+      "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
+      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T07:13:32.080551+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu mới về nấm giúp diệt côn trùng gây hại cho nông nghiệp",
+      "bullets": [
+        "Khám phá nấm tự nhiên có thể diệt côn trùng gây hại",
+        "Nghiên cứu của nhà khoa học Nam Phi giúp nông dân chống lại sâu bọ",
+        "Sâu bọ gây hại cho nông nghiệp ở châu Phi đang bị một loại nấm tự nhiên diệt",
+        "Nghiên cứu hứa hẹn mang lại hy vọng cho nông dân"
+      ],
+      "full_summary": "Một nhà khoa học Nam Phi đã phát hiện ra một loại nấm tự nhiên có thể diệt sâu bọ gây hại cho nông nghiệp ở châu Phi. Loại nấm này đã được tìm thấy trong các cánh đồng bị sâu bọ phá hoại. Nghiên cứu của nhà khoa học này đã hứa hẹn mang lại hy vọng cho nông dân ở châu Phi.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5706f9d987f9",
+      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-14T07:13:33.113319+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "WestJet đồng ý bồi thường cho nữ tiếp viên hàng không bị quấy rối tình dục",
+      "bullets": [
+        "WestJet đồng ý bồi thường 4,5 triệu đô la Canada cho nữ tiếp viên hàng không",
+        "Nữ tiếp viên cáo buộc hãng hàng không không tạo môi trường làm việc an toàn",
+        "Vụ việc liên quan đến cáo buộc một phi công có hành vi tấn công tình dục",
+        "WestJet đã đồng ý bồi thường cho các nữ tiếp viên trong vụ kiện tập thể"
+      ],
+      "full_summary": "WestJet đã đồng ý bồi thường 4,5 triệu đô la Canada cho các nữ tiếp viên hàng không trong vụ kiện tập thể liên quan đến cáo buộc quấy rối tình dục. Vụ việc bắt đầu từ khi một nữ tiếp viên cáo buộc một phi công có hành vi tấn công tình dục và WestJet đã tiếp tục cho phi công này bay, khiến các nhân viên khác gặp nguy hiểm. WestJet đã đồng ý bồi thường cho các nữ tiếp viên trong vụ kiện này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "402e5d07dff2",
+      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-14T07:13:34.633618+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Máy bay không người lái Ukraine tiêu diệt toàn bộ sư đoàn xe tăng Mỹ trong cuộc thử nghiệm chiến đấu",
+      "bullets": [
+        "Tiêu diệt toàn bộ sư đoàn xe tăng Mỹ",
+        "Giải quyết các bài học chiến trường cho quân đội Mỹ và NATO",
+        "Máy bay không người lái Ukraine thể hiện khả năng chiến đấu vượt trội",
+        "Cuộc thử nghiệm chiến đấu cho thấy hiệu quả của máy bay không người lái trong chiến đấu"
+      ],
+      "full_summary": "Trong một cuộc thử nghiệm chiến đấu, máy bay không người lái Ukraine đã tiêu diệt toàn bộ sư đoàn xe tăng Mỹ. Sự kiện này cho thấy khả năng chiến đấu vượt trội của máy bay không người lái Ukraine và đã giải quyết các bài học chiến trường cho quân đội Mỹ và NATO. Cuộc thử nghiệm chiến đấu cũng cho thấy hiệu quả của máy bay không người lái trong chiến đấu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7931484727b3",
+      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-14T07:13:35.661150+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Flock không thể tránh được vấn đề cảnh sát theo dõi",
+      "bullets": [
+        "Cảnh sát vẫn có thể che giấu hành vi lạm dụng",
+        "Flock không thể tự giải quyết vấn đề cảnh sát theo dõi",
+        "Các cơ quan có thể sử dụng công nghệ để che giấu hành vi lạm dụng",
+        "Flock chỉ là một phần giải pháp cho vấn đề này"
+      ],
+      "full_summary": "Flock, một công nghệ được sử dụng để ngăn chặn cảnh sát theo dõi, không thể giải quyết vấn đề này một mình. Mặc dù Flock có thể giúp ngăn chặn cảnh sát theo dõi, nhưng các cơ quan vẫn có thể sử dụng công nghệ để che giấu hành vi lạm dụng. Điều này cho thấy rằng Flock chỉ là một phần giải pháp cho vấn đề cảnh sát theo dõi và cần có sự thay đổi từ các cơ quan và chính phủ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89700e420187",
+      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-14T07:13:36.654762+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Máy tự động cho ăn thú cưng bị lỗi, khiến chúng đói",
+      "bullets": [
+        "Hàng trăm chủ thú cưng phải đối mặt với tình huống khó xử",
+        "Máy tự động cho ăn bị lỗi dẫn đến thú cưng không được ăn",
+        "Chủ sở hữu phải tìm cách khác để cho ăn cho thú cưng",
+        "Một số người đã mất lòng tin vào các sản phẩm công nghệ"
+      ],
+      "full_summary": "Một số chủ thú cưng đã phải đối mặt với tình huống khó xử khi máy tự động cho ăn của họ bị lỗi. Hàng trăm chủ sở hữu phải tìm cách khác để cho ăn cho thú cưng. Điều này đã khiến một số người mất lòng tin vào các sản phẩm công nghệ. Các chủ sở hữu đang kêu gọi công ty sản xuất máy tự động cho ăn cải thiện chất lượng sản phẩm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "5f281a860131",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-14T07:13:37.628118+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Logo mới của Instagram bị chỉ trích vì quá xấu",
+      "bullets": [
+        "Bị chỉ trích vì quá xấu",
+        "Được coi là biểu tượng của sự lỏng lẻo trong AI",
+        "Cơ quan thiết kế không thể giải thích lý do thiết kế logo này",
+        "Logo mới gây tranh cãi trong cộng đồng thiết kế"
+      ],
+      "full_summary": "Logo mới của Instagram đã gây ra nhiều tranh cãi trong cộng đồng thiết kế. Một số người cho rằng logo mới quá xấu và không phù hợp với thương hiệu của Instagram. Logo mới được coi là biểu tượng của sự lỏng lẻo trong AI, một khía cạnh không mong muốn trong việc sử dụng AI trong thiết kế. Cơ quan thiết kế không thể giải thích lý do thiết kế logo này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "11c3091c1310",
+      "title": "How Gödel's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-14T07:13:42.086546+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Gödel chứng minh bất toàn của toán học",
+      "bullets": [
+        "Gödel chứng minh rằng bất kỳ hệ thống toán học nào cũng có thể chứa sai lầm",
+        "Hệ thống toán học có thể tự mô tả chính nó, dẫn đến sự mâu thuẫn",
+        "Gödel sử dụng phương pháp chứng minh bằng phản chứng để đạt được kết quả này"
+      ],
+      "full_summary": "Năm 1931, nhà toán học Kurt Gödel đã chứng minh rằng bất kỳ hệ thống toán học nào cũng có thể chứa sai lầm. Ông sử dụng phương pháp chứng minh bằng phản chứng để chứng minh rằng hệ thống toán học có thể tự mô tả chính nó, dẫn đến sự mâu thuẫn. Điều này có nghĩa là không thể tạo ra một hệ thống toán học hoàn toàn chính xác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "e1e53d14aa13",
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
@@ -555,244 +794,6 @@
         "Nó sẽ giúp tăng cường giao dịch quốc tế bằng nhân dân tệ"
       ],
       "full_summary": "Deutsche Bank đã trở thành ngân hàng đầu tiên ở châu Âu được phép thanh toán bằng nhân dân tệ. Điều này sẽ giúp tăng cường giao dịch quốc tế bằng nhân dân tệ và hỗ trợ cho các khách hàng của ngân hàng. Việc này cũng sẽ giúp mở rộng phạm vi sử dụng nhân dân tệ trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "743b1d41d77c",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T07:16:05.121717+00:00",
-      "category": "politics",
-      "importance": 5,
-      "headline": "Chủ tịch Putin không thể tuyên bố chiến thắng ở Ukraine",
-      "bullets": [
-        "Dmitry Muratov nói chiến tranh ở Ukraine đã không thể kết thúc bằng chiến thắng của Putin",
-        "Kremlin chỉ có thể phá hủy Ukraine, không thể chiếm lĩnh",
-        "Đại diện Ukraine cho biết chiến tranh đã bước sang năm thứ năm",
-        "Chủ tịch Putin vẫn tiếp tục tiến hành chiến dịch quân sự"
-      ],
-      "full_summary": "Dmitry Muratov, người đoạt giải Nobel Hòa bình, đã nói với BBC rằng Chủ tịch Putin không thể tuyên bố chiến thắng ở Ukraine. Ông nói rằng chiến tranh đã bước sang năm thứ năm và Kremlin chỉ có thể phá hủy Ukraine, không thể chiếm lĩnh. Đại diện Ukraine cho biết chiến tranh vẫn tiếp tục diễn ra và Chủ tịch Putin vẫn tiếp tục tiến hành chiến dịch quân sự.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4ff8f8d7c54c",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T07:16:06.429683+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "Sốt xuất huyết Ebola có thể gây tử vong nhiều nhất trong lịch sử",
-      "bullets": [
-        "Đã có hơn 2.000 người chết vì bệnh",
-        "Hàng nghìn trường hợp mắc bệnh đã được báo cáo",
-        "WHO cho biết dịch bệnh đang diễn ra tồi tệ hơn dự kiến",
-        "Số ca tử vong có thể tăng cao hơn"
-      ],
-      "full_summary": "Sốt xuất huyết Ebola đang trở thành dịch bệnh tồi tệ nhất trong lịch sử. Theo WHO, số ca tử vong đã vượt quá 2.000 người. Dịch bệnh được công bố vào ngày 15 tháng 5 và đã gây ra hàng nghìn trường hợp mắc bệnh. WHO cho biết dịch bệnh đang diễn ra tồi tệ hơn dự kiến và số ca tử vong có thể tăng cao hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de6a8aaac34f",
-      "title": "Three men will be executed on the same day as death penalties rise in US",
-      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T07:16:07.315483+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Ba người đàn ông sắp bị tử hình cùng ngày",
-      "bullets": [
-        "Sẽ có 3 người đàn ông bị tử hình trong cùng một ngày",
-        "Số lượng án tử hình đang tăng lên trong nước",
-        "Mặc dù có sự phản đối ngày càng tăng đối với án tử hình",
-        "Một bang đang đứng sau sự tăng trưởng này"
-      ],
-      "full_summary": "Mặc dù có sự phản đối ngày càng tăng đối với án tử hình, một bang đang đứng sau sự tăng trưởng này. Số lượng án tử hình đang tăng lên trong nước. Sẽ có 3 người đàn ông bị tử hình trong cùng một ngày. Điều này đã gây ra sự quan ngại về hệ thống tư pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5202c3aeea41",
-      "title": "BTS star V reveals hearing loss battle during livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T07:16:08.252764+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "V của BTS tiết lộ cuộc chiến chống mất thính lực",
-      "bullets": [
-        "Tập hợp BTS V tiết lộ đã bị mất thính lực từ 2 năm trước",
-        "Ngôi sao K-pop này đã phải đấu tranh với vấn đề này",
-        "V đã chia sẻ thông tin về tình trạng của mình trong một buổi livestream",
-        "V đang cố gắng tìm kiếm sự giúp đỡ để phục hồi thính lực"
-      ],
-      "full_summary": "V của BTS đã tiết lộ trong một buổi livestream rằng anh đã bị mất thính lực từ 2 năm trước. Ngôi sao K-pop này đã phải đấu tranh với vấn đề này và cuối cùng đã quyết định chia sẻ thông tin về tình trạng của mình. V đang cố gắng tìm kiếm sự giúp đỡ để phục hồi thính lực và hy vọng sẽ có thể quay trở lại công việc âm nhạc của mình.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fb5e0e6b164e",
-      "title": "Japan protests against Putin visit to disputed islands",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T07:16:09.179491+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Nhật Bản phản đối cuộc thăm dò của Putin tới các đảo tranh chấp",
-      "bullets": [
-        "Nhật Bản phản đối cuộc thăm dò của Tổng thống Nga Vladimir Putin tới các đảo Kuril",
-        "Đây là lần đầu tiên Putin thăm các đảo này theo thông tin từ truyền thông nhà nước",
-        "Các đảo Kuril đang là điểm tranh chấp giữa Nhật Bản và Nga",
-        "Cuộc thăm dò của Putin gây ra phản ứng gay gắt từ phía Nhật Bản"
-      ],
-      "full_summary": "Tổng thống Nga Vladimir Putin đã thăm dò các đảo Kuril, một điểm tranh chấp giữa Nhật Bản và Nga. Đây là lần đầu tiên Putin thăm các đảo này. Nhật Bản đã phản đối mạnh mẽ cuộc thăm dò này. Các đảo Kuril nằm ở phía đông bắc Nhật Bản và Nga đã tranh chấp quyền kiểm soát các đảo này kể từ sau Thế chiến II.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ffc926680b28",
-      "title": "Amazon is using Twitch to train generative AI",
-      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T07:16:10.271626+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Amazon sử dụng Twitch để huấn luyện AI tạo mẫu",
-      "bullets": [
-        "Amazon cho phép sử dụng nội dung kênh Twitch để huấn luyện AI",
-        "Người dùng Twitch chỉ trích quyết định này",
-        "Twitch là nền tảng trực tuyến lớn của Amazon",
-        "Nội dung kênh Twitch sẽ được sử dụng để huấn luyện AI tạo mẫu"
-      ],
-      "full_summary": "Amazon đang sử dụng nền tảng trực tuyến Twitch để huấn luyện AI tạo mẫu. Người dùng Twitch đã chỉ trích quyết định này, cho rằng nội dung kênh của họ sẽ được sử dụng mà không cần sự đồng ý. Amazon cho biết quyết định này nhằm mục đích cải thiện chất lượng nội dung trên Twitch. Tuy nhiên, người dùng vẫn đang phản đối quyết định này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3115da6122c5",
-      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-13T07:16:13.958341+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Trẻ nhỏ tử vong vì vi khuẩn hiếm gặp gây hại cho não",
-      "bullets": [
-        "Các bác sĩ đã bỏ lỡ tình trạng nhiễm vi khuẩn hiếm gặp gây hại cho não của trẻ nhỏ.",
-        "Các triệu chứng bất thường của trẻ có thể giúp xác định trường hợp tiếp theo sớm hơn.",
-        "Vi khuẩn hiếm gặp này đã gây hại cho não của trẻ nhỏ và dẫn đến cái chết.",
-        "Báo cáo về trường hợp này có thể giúp các bác sĩ nhận biết và điều trị tình trạng này sớm hơn."
-      ],
-      "full_summary": "Một trường hợp trẻ nhỏ tử vong do nhiễm vi khuẩn hiếm gặp gây hại cho não đã được báo cáo. Các bác sĩ đã bỏ lỡ tình trạng nhiễm vi khuẩn này và các triệu chứng bất thường của trẻ có thể giúp xác định trường hợp tiếp theo sớm hơn. Báo cáo về trường hợp này có thể giúp các bác sĩ nhận biết và điều trị tình trạng này sớm hơn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bb12ff71cc53",
-      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-13T07:16:16.025088+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Các nhà vật lý có thể đã tìm thấy glueballs",
-      "bullets": [
-        "Xác định được bằng chứng mạnh mẽ về sự tồn tại của glueballs trong tự nhiên",
-        "Phát hiện các hạt được chi phối bởi thành phần glueball",
-        "Giúp mở rộng hiểu biết về vật lý hạt nhân",
-        "Xác minh giả thuyết đã tồn tại hàng thập kỷ"
-      ],
-      "full_summary": "Các nhà vật lý đã tìm thấy bằng chứng mạnh mẽ về sự tồn tại của glueballs, các hạt được chi phối bởi thành phần glueball. Điều này giúp mở rộng hiểu biết về vật lý hạt nhân và xác minh giả thuyết đã tồn tại hàng thập kỷ. Các nhà nghiên cứu đã sử dụng các phương pháp mới để xác định các hạt này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "fc284878d88a",
-      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T01:18:36.946866+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Vulture bị đe dọa tuyệt chủng ở Nigeria",
-      "bullets": [
-        "Nguyên nhân dẫn đến sự tuyệt chủng của vulture ở Nigeria chưa được rõ ràng",
-        "Một số người coi vulture là loài vật đáng sợ, còn một số khác săn bắt chúng cho mục đích nghi lễ",
-        "Tuy nhiên, loài vật này đóng vai trò quan trọng trong chu kỳ tự nhiên",
-        "Người đàn ông Nigeria, được gọi là 'Vua Vulture', đang nỗ lực để đảo ngược xu hướng tuyệt chủng"
-      ],
-      "full_summary": "Vulture đang bị đe dọa tuyệt chủng ở Nigeria. Nguyên nhân chưa được rõ ràng, nhưng một số người coi chúng là loài vật đáng sợ, còn một số khác săn bắt chúng cho mục đích nghi lễ. Tuy nhiên, loài vật này đóng vai trò quan trọng trong chu kỳ tự nhiên. Một người đàn ông Nigeria, được gọi là 'Vua Vulture', đang nỗ lực để đảo ngược xu hướng tuyệt chủng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "09fddf747c47",
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T01:18:37.826160+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Trợ lý báo chí Nhà Trắng Karoline Leavitt rời nhiệm vụ",
-      "bullets": [
-        "Trợ lý báo chí Nhà Trắng Karoline Leavitt sẽ rời nhiệm vụ",
-        "Bà sẽ dành thời gian cho con cái và gia đình",
-        "Bà đã làm việc tại Nhà Trắng dưới sự lãnh đạo của Tổng thống Trump"
-      ],
-      "full_summary": "Tổng thống Trump đã xác nhận Trợ lý báo chí Nhà Trắng Karoline Leavitt sẽ rời nhiệm vụ. Bà sẽ dành thời gian cho con cái và gia đình. Thông báo này được đưa ra sau khi bà làm việc tại Nhà Trắng dưới sự lãnh đạo của Tổng thống Trump.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6247d76f0210",
-      "title": "Why are 'human fridges' being sold in Japan?",
-      "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T01:18:38.823379+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người Nhật mua 'tủ lạnh con người' để chống nóng",
-      "bullets": [
-        "Bán 'tủ lạnh con người' ở Nhật Bản để chống nóng mùa hè",
-        "Sản phẩm này giúp người dùng hạ nhiệt cơ thể",
-        "Chuyên gia cảnh báo về sự an toàn của sản phẩm",
-        "Người mua phải trả thêm phí sử dụng"
-      ],
-      "full_summary": "Trong mùa hè nóng bức ở Nhật Bản, người dân đang tìm kiếm các giải pháp để hạ nhiệt. Một sản phẩm mới được gọi là 'tủ lạnh con người' đã trở thành một trong những lựa chọn phổ biến. Sản phẩm này giúp người dùng hạ nhiệt cơ thể bằng cách sử dụng các công nghệ làm mát tiên tiến. Tuy nhiên, chuyên gia cảnh báo về sự an toàn của sản phẩm và người mua phải trả thêm phí sử dụng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b3998ae854a3",
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-13T01:18:40.253001+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Travis Kelce chia sẻ chi tiết hôn lễ với Taylor Swift tại Madison Square Garden",
-      "bullets": [
-        "Travis Kelce gọi Taylor Swift là vợ đầu tiên",
-        "Hôn lễ diễn ra tại Madison Square Garden là mơ ước từ thuở nhỏ",
-        "Travis Kelce gọi đêm cưới là 'đêm tốt nhất trong cuộc đời'"
-      ],
-      "full_summary": "Travis Kelce, cầu thủ bóng bầu dục Mỹ, đã chia sẻ chi tiết hôn lễ với ca sĩ nổi tiếng Taylor Swift. Theo đó, hôn lễ diễn ra tại Madison Square Garden, một địa điểm mà Kelce đã mơ ước từ thuở nhỏ. Ông gọi Taylor Swift là vợ đầu tiên và gọi đêm cưới là 'đêm tốt nhất trong cuộc đời'.",
       "comments": 0,
       "score": 0
     }
