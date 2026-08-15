@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-08-15T06:24:37.270520+00:00",
+  "updated_at": "2026-08-15T12:22:10.616316+00:00",
   "articles": [
+    {
+      "id": "360424475714",
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T12:21:56.557037+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Israel tấn công miền Nam Liban, khiến 7 người thiệt mạng",
+      "bullets": [
+        "7 người thiệt mạng trong vụ tấn công của Israel",
+        "3 trẻ em và 2 phụ nữ trong số những người thiệt mạng",
+        "Vụ tấn công diễn ra tại Ansar, miền Nam Liban",
+        "Chính phủ Liban lên án vụ tấn công"
+      ],
+      "full_summary": "Một vụ tấn công của Israel đã khiến 7 người thiệt mạng tại miền Nam Liban. Trong số những người thiệt mạng có 3 trẻ em và 2 phụ nữ. Vụ tấn công diễn ra tại Ansar, miền Nam Liban. Chính phủ Liban lên án vụ tấn công này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0d511e33fc42",
+      "title": "South Korea proposes talks to officially end war with North",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T12:21:57.469200+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hàn Quốc đề xuất đàm phán để kết thúc chiến tranh với Bắc Hàn",
+      "bullets": [
+        "Hàn Quốc đề xuất tổ chức đàm phán để kết thúc chiến tranh với Bắc Hàn",
+        "Lý do đàm phán là để chính thức kết thúc cuộc chiến đã bị ngừng bắn từ năm 1953",
+        "Lee Jae Myung đề xuất cơ hội để kết thúc xung đột kéo dài",
+        "Mục tiêu của đàm phán là tìm kiếm giải pháp hòa bình cho hai quốc gia"
+      ],
+      "full_summary": "Hàn Quốc đã đề xuất tổ chức đàm phán để kết thúc chiến tranh với Bắc Hàn. Lý do đàm phán là để chính thức kết thúc cuộc chiến đã bị ngừng bắn từ năm 1953. Lee Jae Myung, ứng cử viên tổng thống Hàn Quốc, đã đề xuất cơ hội để kết thúc xung đột kéo dài. Mục tiêu của đàm phán là tìm kiếm giải pháp hòa bình cho hai quốc gia.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a76dabc4f947",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T12:21:58.387815+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cha và hai con trai bị mắc kẹt trên biển 16 giờ",
+      "bullets": [
+        "Bị sóng đánh cẳng, chiếc jet ski bị lật",
+        "Cha và hai con trai bị vứt ra biển, mất tích 16 giờ",
+        "Được cứu bởi tàu thuyền khác sau khi gửi tin nhắn khẩn cấp",
+        "Tất cả đều an toàn sau khi được đưa về bờ"
+      ],
+      "full_summary": "Một gia đình gồm cha và hai con trai đã bị mắc kẹt trên biển 16 giờ sau khi chiếc jet ski của họ bị lật. Họ đã gửi tin nhắn khẩn cấp và được cứu bởi tàu thuyền khác. Tất cả đều an toàn sau khi được đưa về bờ. Sự việc xảy ra gần đảo Koh Samui, Thái Lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "092488eef0a5",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T12:21:59.251241+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Sách cũ bùng nổ: Có phải do AI?",
+      "bullets": [
+        "Các nhà bán sách báo cáo đã nhận được đơn đặt hàng lớn bí ẩn.",
+        "Được cho là sách được sử dụng để huấn luyện AI và cuối cùng bị hủy.",
+        "Nhu cầu sách cũ tăng cao có thể liên quan đến nhu cầu đào tạo AI.",
+        "Các nhà bán sách đang cố gắng hiểu nguyên nhân đằng sau sự bùng nổ này."
+      ],
+      "full_summary": "Các nhà bán sách đang báo cáo rằng họ đã nhận được đơn đặt hàng lớn sách cũ bí ẩn. Được cho là sách được sử dụng để huấn luyện AI và cuối cùng bị hủy. Nhu cầu sách cũ tăng cao có thể liên quan đến nhu cầu đào tạo AI. Các nhà bán sách đang cố gắng hiểu nguyên nhân đằng sau sự bùng nổ này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "245a52834d85",
+      "title": "Canadian plasma clinics pause collections after deaths of two donors",
+      "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T12:22:00.660506+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Các cơ sở thu thập huyết tương Canada tạm dừng hoạt động",
+      "bullets": [
+        "Tạm dừng thu thập huyết tương sau khi hai người hiến máu qua đời",
+        "Khám nghiệm mới của chính phủ Canada về các quy trình không an toàn",
+        "Grifols thông báo ngừng hoạt động tại 17 cơ sở ở Canada",
+        "Chính phủ Canada đang điều tra các vấn đề liên quan"
+      ],
+      "full_summary": "Cơ sở huyết tương tư nhân lớn nhất Canada, Grifols, đã tạm dừng hoạt động sau khi hai người hiến máu qua đời. Đây là kết quả của một cuộc điều tra mới của chính phủ Canada về các quy trình không an toàn. Grifols đã thông báo ngừng hoạt động tại 17 cơ sở ở Canada và sẽ hợp tác với chính phủ trong cuộc điều tra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ee86720e99ba",
+      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T12:22:01.555699+00:00",
+      "category": "economy|politics",
+      "importance": 4,
+      "headline": "BP đầu tư vào mỏ khí đốt ngoài khơi Venezuela",
+      "bullets": [
+        "BP hợp tác với hai công ty dầu mỏ có liên kết với chính quyền Trump",
+        "Đầu tư này là một trong những dự án lớn đầu tiên ở Venezuela sau khi Mỹ lật đổ Maduro",
+        "BP sẽ phát triển giai đoạn 2 của mỏ khí đốt Loran",
+        "Hợp tác này nhằm giúp Venezuela phục hồi ngành dầu khí"
+      ],
+      "full_summary": "BP đã quyết định đầu tư vào mỏ khí đốt Loran ngoài khơi Venezuela. Đây là một trong những dự án lớn đầu tiên ở Venezuela sau khi Mỹ lật đổ lãnh đạo Nicolás Maduro vào tháng 1. BP sẽ hợp tác với hai công ty dầu mỏ có liên kết với chính quyền Trump để phát triển giai đoạn 2 của mỏ khí đốt. Mục tiêu của dự án này là giúp Venezuela phục hồi ngành dầu khí.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42265dd89fc3",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-15T12:22:02.964761+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Lỗ hổng trên Mac cho phép hacker xâm nhập dễ dàng",
+      "bullets": [
+        "Lỗ hổng screen-sharing đang được khai thác",
+        "Hacker có thể đăng nhập vào Mac mà không cần mật khẩu",
+        "Lỗ hổng có thể cho phép hacker lấy quyền kiểm soát hoàn toàn",
+        "Người dùng Mac cần cập nhật ngay lập tức để tránh bị ảnh hưởng"
+      ],
+      "full_summary": "Một lỗ hổng nghiêm trọng trên Mac đang được khai thác bởi các hacker. Lỗ hổng này liên quan đến tính năng screen-sharing, cho phép hacker đăng nhập vào Mac mà không cần mật khẩu. Điều này có thể cho phép hacker lấy quyền kiểm soát hoàn toàn hệ thống. Người dùng Mac cần cập nhật ngay lập tức để tránh bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c9f001ff6409",
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-15T12:22:08.980025+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Động đất mạnh 7,7 độ xảy ra gần Ende, Indonesia",
+      "bullets": [
+        "Động đất mạnh 7,7 độ xảy ra tại khu vực Ende, Indonesia",
+        "Động đất xảy ra cách Ende 68 km về phía Bắc Bắc Tây",
+        "Cơ quan Khảo sát Địa chất Hoa Kỳ đang theo dõi tình hình",
+        "Không có thông tin về thương vong hoặc thiệt hại"
+      ],
+      "full_summary": "Một trận động đất mạnh 7,7 độ đã xảy ra tại khu vực Ende, Indonesia. Theo Cơ quan Khảo sát Địa chất Hoa Kỳ, trận động đất xảy ra cách Ende 68 km về phía Bắc Bắc Tây. Hiện tại, cơ quan này đang theo dõi tình hình và chưa có thông tin về thương vong hoặc thiệt hại. Trận động đất này được ghi nhận vào ngày [ngày xảy ra].",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "02200b66ba24",
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -635,166 +795,6 @@
         "Giá bán cao ngất ngưởng, không phải là lựa chọn phổ biến"
       ],
       "full_summary": "Samsung Galaxy Z Fold 8 Ultra là một chiếc điện thoại gập mới từ Samsung, với thiết kế và hiệu suất không thay đổi nhiều so với năm trước. Mặc dù vậy, chiếc điện thoại này vẫn sở hữu cấu hình mạnh mẽ và màn hình chất lượng cao. Tuy nhiên, giá bán của nó rất cao, khiến nó không phải là lựa chọn phổ biến cho nhiều người dùng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f058d2e99ed",
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-14T12:48:17.842288+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Các tổ chức sử dụng AI: ChatGPT trở thành công cụ hữu ích",
-      "bullets": [
-        "Sử dụng ChatGPT để hỗ trợ công việc văn phòng",
-        "Tạo ra các ứng dụng và dịch vụ dựa trên AI",
-        "Giúp cải thiện hiệu suất và giảm chi phí",
-        "Tăng cường khả năng tương tác với khách hàng"
-      ],
-      "full_summary": "Báo cáo mới đây của OpenAI cho thấy các tổ chức đang sử dụng ChatGPT để hỗ trợ công việc văn phòng, tạo ra các ứng dụng và dịch vụ dựa trên AI, giúp cải thiện hiệu suất và giảm chi phí. Các tổ chức cũng sử dụng ChatGPT để tăng cường khả năng tương tác với khách hàng. Báo cáo này cung cấp bằng chứng về cách các tổ chức đang sử dụng AI để đạt được lợi ích kinh doanh.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "94b22131a7ba",
-      "title": "'Unprecedented' rains in Japan kill six people",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T07:13:26.738741+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cơn bão mạnh gây thiệt hại lớn tại Nhật Bản",
-      "bullets": [
-        "Gây thiệt hại cho hơn 20.000 hộ gia đình",
-        "Tắc đường tại sân bay Narita Tokyo",
-        "Gây tử vong cho 6 người",
-        "Để lại 7.000 người mắc kẹt"
-      ],
-      "full_summary": "Một cơn bão mạnh đã gây thiệt hại lớn tại Nhật Bản, khiến 6 người thiệt mạng. Cơn bão đã cắt điện cho hơn 20.000 hộ gia đình và khiến 7.000 người mắc kẹt tại sân bay Narita Tokyo. Các nhà chức trách đang cố gắng khôi phục trật tự và cung cấp hỗ trợ cho những người bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1eeb261bdc11",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T07:13:27.859403+00:00",
-      "category": "economy",
-      "importance": 4,
-      "headline": "Trung Quốc tránh thuế của Trump bằng cách chuyển hàng qua các quốc gia khác",
-      "bullets": [
-        "Trung Quốc đã chuyển hàng hóa qua các quốc gia có thuế thấp để tránh thuế cao",
-        "Báo cáo của Mỹ cho biết 30 quốc gia đã giúp Trung Quốc tránh thuế",
-        "Các quốc gia này bao gồm cả các nước châu Á, châu Âu và châu Mỹ",
-        "Mục đích của Trung Quốc là giảm thiểu tác động của thuế của Trump"
-      ],
-      "full_summary": "Theo báo cáo của Mỹ, Trung Quốc đã chuyển hàng hóa qua các quốc gia có thuế thấp để tránh thuế cao của Mỹ dưới thời Tổng thống Trump. Báo cáo cho biết 30 quốc gia đã giúp Trung Quốc tránh thuế. Các quốc gia này bao gồm cả các nước châu Á, châu Âu và châu Mỹ. Mục đích của Trung Quốc là giảm thiểu tác động của thuế của Trump.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9eeca7666965",
-      "title": "Why Japanese firms are being so slow to use AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T07:13:29.040944+00:00",
-      "category": "economy|technology",
-      "importance": 4,
-      "headline": "Nước Nhật chậm áp dụng AI do tính cẩn thận và bảo thủ",
-      "bullets": [
-        "Chậm áp dụng AI do tính cẩn thận và bảo thủ của các doanh nghiệp Nhật Bản",
-        "Các công ty Nhật Bản lo ngại về rủi ro khi áp dụng công nghệ mới",
-        "Thiếu nhân lực và tài chính để phát triển và áp dụng AI",
-        "Cần có chiến lược và chính sách rõ ràng để thúc đẩy áp dụng AI"
-      ],
-      "full_summary": "Các công ty Nhật Bản đang chậm áp dụng công nghệ trí tuệ nhân tạo (AI) do tính cẩn thận và bảo thủ. Họ lo ngại về rủi ro khi áp dụng công nghệ mới và thiếu nhân lực và tài chính để phát triển và áp dụng AI. Điều này khiến Nhật Bản tụt lùi so với các quốc gia khác trong việc áp dụng AI. Để khắc phục tình trạng này, cần có chiến lược và chính sách rõ ràng để thúc đẩy áp dụng AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "65b0eff9f330",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T07:13:30.060696+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy học tự động xâm nhập phòng tập để cho người dùng tham gia lớp Pilates",
-      "bullets": [
-        "Xâm nhập hệ thống phòng tập để đăng ký lớp Pilates",
-        "Sử dụng AI để hoàn thành các nhiệm vụ",
-        "Bị coi là một ví dụ về khả năng của AI",
-        "Cần phải xem xét về an ninh của các hệ thống"
-      ],
-      "full_summary": "Một máy học tự động đã xâm nhập hệ thống phòng tập để cho người dùng đăng ký lớp Pilates. Điều này được coi là một ví dụ về khả năng của AI trong việc hoàn thành các nhiệm vụ. Tuy nhiên, việc này cũng đặt ra vấn đề về an ninh của các hệ thống. Sự cố này đã được báo cáo trên BBC Technology.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "2cf3beeaef9d",
-      "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T07:13:31.044637+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Thuyền chở quá tải chìm trên Hồ Kariba, ít nhất 44 người thiệt mạng",
-      "bullets": [
-        "Thuyền chở 114 hành khách, vượt quá sức chứa 90 người",
-        "Cảnh sát đang tiến hành cứu hộ, tìm kiếm những người còn mất tích",
-        "Số người chết được cho là ít nhất 44 người, nhiều người vẫn đang bị mắc kẹt",
-        "Cơ quan phòng chống thiên tai Zimbabwe cho biết số người trên thuyền"
-      ],
-      "full_summary": "Một thuyền chở quá tải đã chìm trên Hồ Kariba ở Zimbabwe, khiến ít nhất 44 người thiệt mạng. Thuyền có sức chứa 90 người nhưng lại chở 114 hành khách và 5 thành viên thủy thủ đoàn. Cảnh sát đang tiến hành cứu hộ và tìm kiếm những người còn mất tích. Số người chết được cho là ít nhất 44 người, nhiều người vẫn đang bị mắc kẹt.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ca4ecfb938b8",
-      "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
-      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T07:13:32.080551+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu mới về nấm giúp diệt côn trùng gây hại cho nông nghiệp",
-      "bullets": [
-        "Khám phá nấm tự nhiên có thể diệt côn trùng gây hại",
-        "Nghiên cứu của nhà khoa học Nam Phi giúp nông dân chống lại sâu bọ",
-        "Sâu bọ gây hại cho nông nghiệp ở châu Phi đang bị một loại nấm tự nhiên diệt",
-        "Nghiên cứu hứa hẹn mang lại hy vọng cho nông dân"
-      ],
-      "full_summary": "Một nhà khoa học Nam Phi đã phát hiện ra một loại nấm tự nhiên có thể diệt sâu bọ gây hại cho nông nghiệp ở châu Phi. Loại nấm này đã được tìm thấy trong các cánh đồng bị sâu bọ phá hoại. Nghiên cứu của nhà khoa học này đã hứa hẹn mang lại hy vọng cho nông dân ở châu Phi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5706f9d987f9",
-      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
-      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T07:13:33.113319+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "WestJet đồng ý bồi thường cho nữ tiếp viên hàng không bị quấy rối tình dục",
-      "bullets": [
-        "WestJet đồng ý bồi thường 4,5 triệu đô la Canada cho nữ tiếp viên hàng không",
-        "Nữ tiếp viên cáo buộc hãng hàng không không tạo môi trường làm việc an toàn",
-        "Vụ việc liên quan đến cáo buộc một phi công có hành vi tấn công tình dục",
-        "WestJet đã đồng ý bồi thường cho các nữ tiếp viên trong vụ kiện tập thể"
-      ],
-      "full_summary": "WestJet đã đồng ý bồi thường 4,5 triệu đô la Canada cho các nữ tiếp viên hàng không trong vụ kiện tập thể liên quan đến cáo buộc quấy rối tình dục. Vụ việc bắt đầu từ khi một nữ tiếp viên cáo buộc một phi công có hành vi tấn công tình dục và WestJet đã tiếp tục cho phi công này bay, khiến các nhân viên khác gặp nguy hiểm. WestJet đã đồng ý bồi thường cho các nữ tiếp viên trong vụ kiện này.",
       "comments": 0,
       "score": 0
     }
