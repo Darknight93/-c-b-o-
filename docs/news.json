@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-15T00:49:42.755069+00:00",
+  "updated_at": "2026-08-15T06:24:37.270520+00:00",
   "articles": [
+    {
+      "id": "02200b66ba24",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T06:24:21.220273+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "BBC tìm kiếm lệnh triệu tập các thành viên gia đình Trump trong vụ kiện Panorama",
+      "bullets": [
+        "BBC tìm kiếm lệnh triệu tập các thành viên gia đình Trump",
+        "Trợ lý luật sư của BBC cho rằng các thành viên gia đình Trump có kiến thức cá nhân về ý định của ông Trump",
+        "Vụ việc liên quan đến bài phát biểu của ông Trump ngoài Capitol Mỹ vào ngày 6 tháng 1 năm 2021",
+        "BBC đang kiện một bộ phim tài liệu về vụ việc này"
+      ],
+      "full_summary": "BBC đang tìm kiếm lệnh triệu tập các thành viên gia đình Trump trong vụ kiện liên quan đến một bộ phim tài liệu về vụ việc ông Trump phát biểu ngoài Capitol Mỹ vào ngày 6 tháng 1 năm 2021. Trợ lý luật sư của BBC cho rằng các thành viên gia đình Trump có kiến thức cá nhân về ý định của ông Trump. Vụ việc đang được xét xử tại tòa án.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7be922b812af",
+      "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T06:24:22.669825+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Động đất 7,7 độ xảy ra ở Indonesia, ít nhất 14 người thiệt mạng",
+      "bullets": [
+        "Động đất xảy ra ở phía đông Flores vào sáng sớm thứ Bảy.",
+        "Sự cố khiến ít nhất 14 người thiệt mạng và nhiều người khác bị thương.",
+        "Động đất có cường độ 7,7 độ và được ghi nhận ở khu vực biển.",
+        "Các cơ quan cứu hộ đang tiến hành tìm kiếm và cứu hộ."
+      ],
+      "full_summary": "Một trận động đất mạnh 7,7 độ đã xảy ra ở phía đông Flores, Indonesia vào sáng sớm thứ Bảy. Sự cố này khiến ít nhất 14 người thiệt mạng và nhiều người khác bị thương. Các cơ quan cứu hộ đang tiến hành tìm kiếm và cứu hộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9eda3d426816",
+      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T06:24:23.688144+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Bumble bỏ quy tắc trò chuyện 'nữ trước' sau thử nghiệm thành công",
+      "bullets": [
+        "Bumble đã bỏ quy tắc trò chuyện 'nữ trước' trên ứng dụng",
+        "Giám đốc điều hành cho biết quyết định này dựa trên thử nghiệm thành công",
+        "Người dùng muốn thay đổi cách thức hoạt động của ứng dụng",
+        "Quy tắc mới cho phép người dùng tự chọn ai có thể gửi tin nhắn đầu tiên"
+      ],
+      "full_summary": "Bumble đã bỏ quy tắc trò chuyện 'nữ trước' trên ứng dụng sau một thử nghiệm thành công. Giám đốc điều hành của Bumble cho biết quyết định này dựa trên phản hồi từ người dùng. Người dùng muốn thay đổi cách thức hoạt động của ứng dụng, từ đó Bumble đã quyết định bỏ quy tắc cũ và cho phép người dùng tự chọn ai có thể gửi tin nhắn đầu tiên.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6867cfd16891",
+      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T06:24:24.715366+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cảnh sát Mỹ từ chức vì sử dụng camera đọc biển số xe theo dõi người yêu",
+      "bullets": [
+        "Hai cảnh sát Mỹ từ chức vì sử dụng camera đọc biển số xe theo dõi người yêu",
+        "Công ty cung cấp camera đọc biển số xe thừa nhận đã chậm phản ứng với cáo buộc",
+        "Cáo buộc cho thấy cảnh sát đã lạm dụng quyền lực và vi phạm quyền riêng tư",
+        "Sự việc đã gây ra sự phẫn nộ và kêu gọi cải cách hệ thống cảnh sát"
+      ],
+      "full_summary": "Hai cảnh sát Mỹ đã từ chức sau khi bị cáo buộc sử dụng camera đọc biển số xe để theo dõi người yêu. Công ty cung cấp camera đọc biển số xe, Flock, đã thừa nhận đã chậm phản ứng với cáo buộc. Cáo buộc cho thấy cảnh sát đã lạm dụng quyền lực và vi phạm quyền riêng tư của công dân. Sự việc đã gây ra sự phẫn nộ và kêu gọi cải cách hệ thống cảnh sát.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b563f86aee3f",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T06:24:26.181831+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "DRC đang đối mặt với một đợt bùng phát Ebola nghiêm trọng",
+      "bullets": [
+        "Bùng phát Ebola lan sang tỉnh thứ sáu ở Cộng hòa Dân chủ Congo",
+        "Số ca tử vong đã vượt quá 2.100 người trong hơn 4.500 trường hợp",
+        "Đại diện WHO cảnh báo đợt bùng phát này có thể trở thành đợt bùng phát Ebola chết chóc nhất trong lịch sử"
+      ],
+      "full_summary": "Cộng hòa Dân chủ Congo đang đối mặt với một đợt bùng phát Ebola nghiêm trọng. Số ca tử vong đã vượt quá 2.100 người trong hơn 4.500 trường hợp. Đại diện WHO cảnh báo đợt bùng phát này có thể trở thành đợt bùng phát Ebola chết chóc nhất trong lịch sử. Đợt bùng phát này đã lan sang tỉnh thứ sáu và đang gây ra lo ngại về sự lan rộng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "de857ac60530",
+      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T06:24:27.279410+00:00",
+      "category": "politics",
+      "importance": 3,
+      "headline": "Hội đồng kỷ luật đại sứ Pháp tại CAR vì nghi vấn tổ chức bữa tiệc",
+      "bullets": [
+        "Khởi xướng cuộc điều tra kỷ luật đại sứ Pháp tại CAR",
+        "Nghi vấn đại sứ đưa hàng chục phụ nữ vào nhà riêng gây lo ngại an ninh",
+        "Pháp đang nỗ lực xây dựng lại quan hệ với CAR sau nhiều năm suy giảm",
+        "Nghi vấn này diễn ra khi Pháp đang cố gắng tái lập quan hệ với CAR"
+      ],
+      "full_summary": "Pháp đã mở cuộc điều tra kỷ luật đại sứ tại Cộng hòa Trung Phi (CAR) do nghi vấn ông ta tổ chức bữa tiệc với hàng chục phụ nữ tại nhà riêng, gây lo ngại về an ninh. Sự việc diễn ra khi Pháp đang cố gắng tái lập quan hệ với CAR sau nhiều năm suy giảm. Điều này diễn ra trong bối cảnh Nga đang tăng cường ảnh hưởng tại cựu thuộc địa của Pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "89cc4a8b1485",
+      "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+      "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-15T06:24:31.364329+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 3,
+      "headline": "Chính sách châu Âu gặp khó khăn khi cân nhắc phóng tên lửa",
+      "bullets": [
+        "Xác định rằng kinh tế tái sử dụng tên lửa rất tốt",
+        "Châu Âu gặp khó khăn khi cân nhắc phóng tên lửa",
+        "Các chuyên gia chính sách cho rằng châu Âu đang đứng giữa hai khó khăn",
+        "Tái sử dụng tên lửa mang lại lợi ích kinh tế đáng kể"
+      ],
+      "full_summary": "Các chuyên gia chính sách cho rằng châu Âu đang gặp khó khăn khi cân nhắc phóng tên lửa. Kinh tế tái sử dụng tên lửa rất tốt, nhưng châu Âu lại gặp khó khăn khi cân nhắc phóng tên lửa. Các chuyên gia cho rằng châu Âu đang đứng giữa hai khó khăn. Tái sử dụng tên lửa mang lại lợi ích kinh tế đáng kể, nhưng châu Âu cần cân nhắc kỹ lưỡng trước khi đưa ra quyết định.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "82b0a0965800",
+      "title": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-15T06:24:36.166860+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Ploopy A+ Trackball Đã Ra Mắt",
+      "bullets": [
+        "Ra mắt sản phẩm mới Ploopy A+ Trackball",
+        "Sản phẩm này mang đến trải nghiệm sử dụng mới mẻ",
+        "Có thể sử dụng với nhiều loại thiết bị khác nhau",
+        "Được nhiều người dùng quan tâm và đánh giá cao"
+      ],
+      "full_summary": "Ploopy A+ Trackball là sản phẩm mới của công ty Ploopy, được ra mắt với mục đích mang đến trải nghiệm sử dụng mới mẻ cho người dùng. Sản phẩm này có thể sử dụng với nhiều loại thiết bị khác nhau, bao gồm máy tính, điện thoại và các thiết bị khác. Ploopy A+ Trackball đã nhận được nhiều đánh giá cao từ người dùng và đang trở thành một trong những sản phẩm được quan tâm nhất trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "989a69b79c7f",
       "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
@@ -636,165 +795,6 @@
         "WestJet đã đồng ý bồi thường cho các nữ tiếp viên trong vụ kiện tập thể"
       ],
       "full_summary": "WestJet đã đồng ý bồi thường 4,5 triệu đô la Canada cho các nữ tiếp viên hàng không trong vụ kiện tập thể liên quan đến cáo buộc quấy rối tình dục. Vụ việc bắt đầu từ khi một nữ tiếp viên cáo buộc một phi công có hành vi tấn công tình dục và WestJet đã tiếp tục cho phi công này bay, khiến các nhân viên khác gặp nguy hiểm. WestJet đã đồng ý bồi thường cho các nữ tiếp viên trong vụ kiện này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "402e5d07dff2",
-      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-14T07:13:34.633618+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Máy bay không người lái Ukraine tiêu diệt toàn bộ sư đoàn xe tăng Mỹ trong cuộc thử nghiệm chiến đấu",
-      "bullets": [
-        "Tiêu diệt toàn bộ sư đoàn xe tăng Mỹ",
-        "Giải quyết các bài học chiến trường cho quân đội Mỹ và NATO",
-        "Máy bay không người lái Ukraine thể hiện khả năng chiến đấu vượt trội",
-        "Cuộc thử nghiệm chiến đấu cho thấy hiệu quả của máy bay không người lái trong chiến đấu"
-      ],
-      "full_summary": "Trong một cuộc thử nghiệm chiến đấu, máy bay không người lái Ukraine đã tiêu diệt toàn bộ sư đoàn xe tăng Mỹ. Sự kiện này cho thấy khả năng chiến đấu vượt trội của máy bay không người lái Ukraine và đã giải quyết các bài học chiến trường cho quân đội Mỹ và NATO. Cuộc thử nghiệm chiến đấu cũng cho thấy hiệu quả của máy bay không người lái trong chiến đấu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7931484727b3",
-      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-      "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-14T07:13:35.661150+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Flock không thể tránh được vấn đề cảnh sát theo dõi",
-      "bullets": [
-        "Cảnh sát vẫn có thể che giấu hành vi lạm dụng",
-        "Flock không thể tự giải quyết vấn đề cảnh sát theo dõi",
-        "Các cơ quan có thể sử dụng công nghệ để che giấu hành vi lạm dụng",
-        "Flock chỉ là một phần giải pháp cho vấn đề này"
-      ],
-      "full_summary": "Flock, một công nghệ được sử dụng để ngăn chặn cảnh sát theo dõi, không thể giải quyết vấn đề này một mình. Mặc dù Flock có thể giúp ngăn chặn cảnh sát theo dõi, nhưng các cơ quan vẫn có thể sử dụng công nghệ để che giấu hành vi lạm dụng. Điều này cho thấy rằng Flock chỉ là một phần giải pháp cho vấn đề cảnh sát theo dõi và cần có sự thay đổi từ các cơ quan và chính phủ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89700e420187",
-      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
-      "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-14T07:13:36.654762+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Máy tự động cho ăn thú cưng bị lỗi, khiến chúng đói",
-      "bullets": [
-        "Hàng trăm chủ thú cưng phải đối mặt với tình huống khó xử",
-        "Máy tự động cho ăn bị lỗi dẫn đến thú cưng không được ăn",
-        "Chủ sở hữu phải tìm cách khác để cho ăn cho thú cưng",
-        "Một số người đã mất lòng tin vào các sản phẩm công nghệ"
-      ],
-      "full_summary": "Một số chủ thú cưng đã phải đối mặt với tình huống khó xử khi máy tự động cho ăn của họ bị lỗi. Hàng trăm chủ sở hữu phải tìm cách khác để cho ăn cho thú cưng. Điều này đã khiến một số người mất lòng tin vào các sản phẩm công nghệ. Các chủ sở hữu đang kêu gọi công ty sản xuất máy tự động cho ăn cải thiện chất lượng sản phẩm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5f281a860131",
-      "title": "The new Instagram logo is the perfect embodiment of AI slop",
-      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-14T07:13:37.628118+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Logo mới của Instagram bị chỉ trích vì quá xấu",
-      "bullets": [
-        "Bị chỉ trích vì quá xấu",
-        "Được coi là biểu tượng của sự lỏng lẻo trong AI",
-        "Cơ quan thiết kế không thể giải thích lý do thiết kế logo này",
-        "Logo mới gây tranh cãi trong cộng đồng thiết kế"
-      ],
-      "full_summary": "Logo mới của Instagram đã gây ra nhiều tranh cãi trong cộng đồng thiết kế. Một số người cho rằng logo mới quá xấu và không phù hợp với thương hiệu của Instagram. Logo mới được coi là biểu tượng của sự lỏng lẻo trong AI, một khía cạnh không mong muốn trong việc sử dụng AI trong thiết kế. Cơ quan thiết kế không thể giải thích lý do thiết kế logo này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "11c3091c1310",
-      "title": "How Gödel's Proof Works (2020)",
-      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-14T07:13:42.086546+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Gödel chứng minh bất toàn của toán học",
-      "bullets": [
-        "Gödel chứng minh rằng bất kỳ hệ thống toán học nào cũng có thể chứa sai lầm",
-        "Hệ thống toán học có thể tự mô tả chính nó, dẫn đến sự mâu thuẫn",
-        "Gödel sử dụng phương pháp chứng minh bằng phản chứng để đạt được kết quả này"
-      ],
-      "full_summary": "Năm 1931, nhà toán học Kurt Gödel đã chứng minh rằng bất kỳ hệ thống toán học nào cũng có thể chứa sai lầm. Ông sử dụng phương pháp chứng minh bằng phản chứng để chứng minh rằng hệ thống toán học có thể tự mô tả chính nó, dẫn đến sự mâu thuẫn. Điều này có nghĩa là không thể tạo ra một hệ thống toán học hoàn toàn chính xác.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "e1e53d14aa13",
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T01:17:53.386564+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Máy bay Ryanair bị vỡ kính do mảnh cánh quạt máy bay",
-      "bullets": [
-        "Mảnh cánh quạt máy bay bị vỡ trên chuyến bay từ Hy Lạp sang Đức",
-        "Mảnh vỡ đâm vào cửa sổ máy bay",
-        "Đầu người của hành khách bị hút ra ngoài",
-        "Đoàn điều tra Mỹ đang làm rõ nguyên nhân vụ việc"
-      ],
-      "full_summary": "Một báo cáo sơ bộ của đoàn điều tra Mỹ cho biết mảnh cánh quạt máy bay vỡ trên chuyến bay Ryanair từ Hy Lạp sang Đức vào tháng trước. Mảnh vỡ đâm vào cửa sổ máy bay, khiến đầu người của hành khách bị hút ra ngoài. Đoàn điều tra đang làm rõ nguyên nhân vụ việc. Vụ việc đã gây ra sự lo ngại về an toàn hàng không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0803d35ac73b",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T01:17:54.901384+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hàng không Boeing bị kiện 29 triệu USD sau tai nạn máy bay",
-      "bullets": [
-        "Một bồi thẩm đoàn tại Chicago đã trao 29 triệu USD cho gia đình Michael Ryan",
-        "Nạn nhân trong vụ tai nạn máy bay này là một công dân Ireland",
-        "Gia đình nạn nhân đã kiện Boeing trong một vụ kiện dân sự",
-        "Tòa án đã xác định Boeing có lỗi trong vụ tai nạn"
-      ],
-      "full_summary": "Một bồi thẩm đoàn tại Chicago đã trao 29 triệu USD cho gia đình Michael Ryan sau khi họ kiện Boeing trong một vụ kiện dân sự. Nạn nhân trong vụ tai nạn máy bay này là một công dân Ireland. Vụ tai nạn đã xảy ra vào năm 2019 và gia đình nạn nhân đã cáo buộc Boeing có lỗi trong vụ tai nạn. Tòa án đã xác định Boeing có lỗi và trao 29 triệu USD cho gia đình nạn nhân.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5cedb3301edb",
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T01:17:55.998367+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Discord bị yêu cầu ngừng phát trực tiếp trên Brazil",
-      "bullets": [
-        "Discord bị yêu cầu ngừng phát trực tiếp trên Brazil",
-        "Ủy ban bảo vệ dữ liệu Brazil đưa ra lệnh ngừng phát trực tiếp",
-        "Discord cam kết đảm bảo an toàn cho người dùng",
-        "Công ty đang xem xét kỹ lưỡng lệnh ngừng phát trực tiếp"
-      ],
-      "full_summary": "Ủy ban bảo vệ dữ liệu Brazil đã yêu cầu Discord ngừng phát trực tiếp trên lãnh thổ Brazil. Discord cho biết đang xem xét kỹ lưỡng lệnh ngừng phát trực tiếp và cam kết đảm bảo an toàn cho người dùng. Công ty này đã không cung cấp thêm thông tin về lý do đằng sau lệnh ngừng phát trực tiếp.",
       "comments": 0,
       "score": 0
     }
