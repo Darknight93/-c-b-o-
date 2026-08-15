@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-15T12:22:10.616316+00:00",
+  "updated_at": "2026-08-15T18:17:51.024628+00:00",
   "articles": [
+    {
+      "id": "059adcf10b8e",
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T18:17:36.501843+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Một vụ bắn súng xảy ra tại Đại học bang Virginia",
+      "bullets": [
+        "Cảnh sát đã được báo cáo về vụ bắn xảy ra ngoài các tòa nhà sinh viên vào khoảng 01:28 giờ địa phương (05:28 GMT) vào thứ Bảy",
+        "Năm người đã bị bắn và đang được chăm sóc y tế",
+        "Cảnh sát đang tìm kiếm nhiều nghi phạm",
+        "Vụ việc đang được điều tra"
+      ],
+      "full_summary": "Một vụ bắn súng đã xảy ra tại Đại học bang Virginia vào thứ Bảy. Năm người đã bị bắn và đang được chăm sóc y tế. Cảnh sát đang tìm kiếm nhiều nghi phạm và vụ việc đang được điều tra. Vụ việc xảy ra ngoài các tòa nhà sinh viên vào khoảng 01:28 giờ địa phương.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "84664161a4e8",
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T18:17:37.433150+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hỏa hoạn lớn đang lan rộng qua khu bảo tồn thiên nhiên Bỉ",
+      "bullets": [
+        "Đang có nhiều nỗ lực để dập tắt đám cháy",
+        "Hỏa hoạn đang lan rộng qua khu bảo tồn thiên nhiên lớn",
+        "Đây được coi là vụ hỏa hoạn tồi tệ nhất ở Bỉ trong thời gian gần đây",
+        "Cảnh sát và cứu hỏa đang làm việc để kiểm soát đám cháy"
+      ],
+      "full_summary": "Một đám cháy lớn đang lan rộng qua khu bảo tồn thiên nhiên ở Bỉ. Đây được coi là vụ hỏa hoạn tồi tệ nhất ở Bỉ trong thời gian gần đây. Cảnh sát và cứu hỏa đang làm việc để kiểm soát đám cháy và ngăn chặn nó lan rộng thêm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9eeca7666965",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T18:17:38.384684+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Nước Nhật chậm áp dụng trí tuệ nhân tạo vì tính cẩn trọng",
+      "bullets": [
+        "Chậm áp dụng trí tuệ nhân tạo vì tính cẩn trọng",
+        "Tập trung vào an toàn và ổn định",
+        "Chưa sẵn sàng chấp nhận rủi ro",
+        "Đòi hỏi sự thay đổi lớn về quy trình"
+      ],
+      "full_summary": "Các công ty Nhật Bản đang chậm áp dụng trí tuệ nhân tạo (AI) do tính cẩn trọng và bảo thủ. Họ tập trung vào an toàn và ổn định, chưa sẵn sàng chấp nhận rủi ro. Điều này đòi hỏi sự thay đổi lớn về quy trình và công nghệ. Các chuyên gia cho rằng đây là một thách thức lớn đối với Nhật Bản trong cuộc cạnh tranh toàn cầu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1cebaf5d7556",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-15T18:17:39.533082+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Hơn 100 người bị bắt giữ khi nhập cảnh vào Ceuta",
+      "bullets": [
+        "Bị bắt giữ 111 người khi nhập cảnh vào Ceuta",
+        "Tăng cường an ninh sau những bài đăng trên mạng xã hội",
+        "Gần 1 tháng trước, hơn 72.000 người nhập cảnh vào Ceuta",
+        "Ít nhất 96 người thiệt mạng khi cố gắng đến châu Âu"
+      ],
+      "full_summary": "Ngày 15/8, cảnh sát Morocco bắt giữ 111 người khi họ cố gắng nhập cảnh vào Ceuta, một lãnh thổ của Tây Ban Nha ở Bắc Phi. Sự cố này diễn ra sau những bài đăng trên mạng xã hội kêu gọi nhập cảnh en masse vào Ceuta. Chỉ hai tuần trước, hơn 72.000 người đã nhập cảnh vào Ceuta, gây ra căng thẳng trong EU và kích động ngôn ngữ chống nhập cư của các đảng cực hữu trên toàn thế giới. Ít nhất 96 người đã thiệt mạng khi cố gắng đến châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "031bef8b9f41",
+      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-15T18:17:40.504253+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ukraine tấn công nhà máy tên lửa Nga bằng tên lửa hành trình",
+      "bullets": [
+        "Ukraine sử dụng tên lửa Flamingo tấn công nhà máy tên lửa Nga",
+        "Hàng loạt tên lửa hành trình đã đánh trúng mục tiêu",
+        "Chiến dịch quân sự của Ukraine đạt được thành công đáng kể",
+        "Cơ sở sản xuất tên lửa của Nga bị hư hại nghiêm trọng"
+      ],
+      "full_summary": "Ukraine đã sử dụng tên lửa Flamingo tấn công một nhà máy tên lửa lớn của Nga. Chiến dịch quân sự này được coi là một thành công đáng kể của Ukraine. Tên lửa hành trình đã đánh trúng mục tiêu và gây hư hại nghiêm trọng cho cơ sở sản xuất tên lửa của Nga. Sự kiện này đã thu hút sự chú ý của cộng đồng quốc tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f825b290756e",
+      "title": "So much solar: Digging into the list of every US power plant that went online this year",
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-15T18:17:41.606705+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 4,
+      "headline": "Năng lượng mặt trời chiếm ưu thế trong các nhà máy điện mới",
+      "bullets": [
+        "Cập nhật mới nhất về các nhà máy điện mặt trời quy mô lớn",
+        "Batteries trở thành lựa chọn phổ biến thứ hai",
+        "Năng lượng hóa thạch không còn được ưa chuộng",
+        "Tình hình năng lượng của Mỹ đang thay đổi"
+      ],
+      "full_summary": "Theo Ars Technica, năm 2026 đã chứng kiến sự bùng nổ của năng lượng mặt trời với nhiều nhà máy điện mới được đưa vào hoạt động. Năng lượng mặt trời đã chiếm ưu thế trong số các nhà máy điện mới, tiếp theo là các hệ thống pin năng lượng. Trong khi đó, năng lượng hóa thạch không còn được ưa chuộng như trước đây. Điều này cho thấy tình hình năng lượng của Mỹ đang thay đổi theo hướng thân thiện với môi trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d82328f3aaa5",
+      "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
+      "url": "https://www.core77.com/posts/144869",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-15T18:17:44.897908+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Người dân Hà Lan sống trên các mảnh đất hẹp trong hồ",
+      "bullets": [
+        "Sống trên các mảnh đất hẹp trong hồ là một phần của cộng đồng Hà Lan",
+        "Người dân ở đây phải đối mặt với nhiều thách thức về môi trường",
+        "Cộng đồng này đã trở thành điểm thu hút du khách",
+        "Sống trên các mảnh đất hẹp trong hồ đòi hỏi sự kiên nhẫn và sáng tạo"
+      ],
+      "full_summary": "Cộng đồng Hà Lan sống trên các mảnh đất hẹp trong hồ là một hiện tượng độc đáo. Người dân ở đây phải đối mặt với nhiều thách thức về môi trường, bao gồm việc bảo vệ môi trường và duy trì cuộc sống bình thường. Cộng đồng này đã trở thành điểm thu hút du khách và được nhiều người quan tâm. Để sống trên các mảnh đất hẹp trong hồ, người dân phải có sự kiên nhẫn và sáng tạo để đối mặt với những thách thức này.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "09d6a7cc277a",
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "url": "https://www.nature.com/articles/d41586-026-02562-w",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-08-15T18:17:49.949709+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Anthropic giới thiệu dấu hiệu nhận biết AI mới",
+      "bullets": [
+        "Khẳng định tính xác thực của nội dung AI",
+        "Đánh dấu nội dung AI để bảo vệ nghiên cứu khoa học",
+        "Tìm hiểu về những điểm nhạy cảm trên cơ thể giống nhau ở mọi nền văn hóa"
+      ],
+      "full_summary": "Anthropic vừa công bố dấu hiệu nhận biết AI mới. Dấu hiệu này sẽ giúp xác định tính xác thực của nội dung AI và bảo vệ nghiên cứu khoa học khỏi các nội dung giả mạo. Ngoài ra, nghiên cứu cũng tìm hiểu về những điểm nhạy cảm trên cơ thể giống nhau ở mọi nền văn hóa.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "360424475714",
       "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
@@ -636,165 +795,6 @@
         "Mục tiêu là phát triển máy bay điện lai thương mại"
       ],
       "full_summary": "Một công ty hợp tác với hãng hàng không vừa thử nghiệm thành công máy bay điện lớn nhất thế giới. Chuyến bay thử nghiệm đầu tiên chỉ tiêu thụ 5 USD điện. Công ty đang phát triển máy bay điện lai với mục tiêu là sử dụng rộng rãi trong ngành hàng không thương mại. Đây là một bước tiến quan trọng trong việc phát triển công nghệ điện lai.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7b488677622d",
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-14T18:43:29.560474+00:00",
-      "category": "khoa học công nghệ",
-      "importance": 3,
-      "headline": "MỞ RỘNG Công cụ kiểm tra mã kernel GPU được tạo bởi mô hình ngôn ngữ lớn",
-      "bullets": [
-        "Tạo ra công cụ kiểm tra mã kernel GPU tự động",
-        "Sử dụng mô hình ngôn ngữ lớn để tạo ra mã kernel GPU",
-        "Giúp tăng tốc độ và hiệu suất của các ứng dụng sử dụng GPU",
-        "Cung cấp sự bảo mật và tin cậy cho các ứng dụng sử dụng GPU"
-      ],
-      "full_summary": "Một nhóm nghiên cứu đã phát triển một công cụ kiểm tra mã kernel GPU được tạo bởi mô hình ngôn ngữ lớn. Công cụ này có thể tự động kiểm tra mã kernel GPU và giúp tăng tốc độ và hiệu suất của các ứng dụng sử dụng GPU. Công cụ này cũng cung cấp sự bảo mật và tin cậy cho các ứng dụng sử dụng GPU. Công cụ này có thể được sử dụng trong nhiều lĩnh vực khác nhau, bao gồm trí tuệ nhân tạo, khoa học dữ liệu và game.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4d2799cede52",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T12:48:05.766342+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Một người đàn ông bị bắt giữ sau khi tìm thấy 8 tác phẩm của Matisse ở Brazil",
-      "bullets": [
-        "Tìm thấy 8 tác phẩm của Matisse tại một căn nhà ở khu vực São Paulo",
-        "Một người đàn ông bị bắt giữ liên quan đến vụ trộm cắp",
-        "Các tác phẩm được tìm thấy sau nhiều năm mất tích",
-        "Cảnh sát Brazil đã thực hiện vụ bắt giữ"
-      ],
-      "full_summary": "Một người đàn ông bị bắt giữ sau khi cảnh sát Brazil tìm thấy 8 tác phẩm của nhà họa sĩ nổi tiếng Henri Matisse tại một căn nhà ở khu vực São Paulo. Các tác phẩm được tìm thấy sau nhiều năm mất tích và vụ bắt giữ được thực hiện sau khi điều tra. Vụ việc cho thấy cảnh sát Brazil đã thực hiện một cuộc điều tra thành công để tìm thấy các tác phẩm bị trộm cắp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ef9d8448815c",
-      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T12:48:07.046408+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Bầu cử tổng thống Zambia bị dừng vì bạo lực",
-      "bullets": [
-        "Bạo lực xảy ra tại khu vực bỏ phiếu",
-        "Hành động này khiến cho các phiếu bầu bị đánh cắp",
-        "Ủy ban bầu cử Zambia tạm dừng quá trình kiểm phiếu",
-        "Lý do chính là để đảm bảo an toàn cho nhân viên bầu cử"
-      ],
-      "full_summary": "Ủy ban bầu cử Zambia đã tạm dừng quá trình kiểm phiếu bầu cử tổng thống do bạo lực xảy ra tại khu vực bỏ phiếu. Các nhân viên bầu cử bị tấn công và phiếu bầu bị đánh cắp. Ủy ban này cho biết hành động này đã khiến cho quá trình bầu cử bị ảnh hưởng nghiêm trọng. Việc kiểm phiếu sẽ được tiếp tục sau khi tình hình được ổn định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "32aedffb0946",
-      "title": "US missionary released following kidnap in Niger, Christian group says",
-      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T12:48:07.971484+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chuyên gia Mỹ được giải cứu sau khi bị bắt cóc tại Niger",
-      "bullets": [
-        "Bị bắt cóc ngoài nhà ở thủ đô vào tháng 10",
-        "Bây giờ đang được các quan chức Mỹ tiếp cận",
-        "Tình huống được một tổ chức Kitô giáo xác nhận",
-        "Chi tiết chưa được tiết lộ"
-      ],
-      "full_summary": "Một chuyên gia Mỹ tên Kevin Rideout đã bị bắt cóc ngoài nhà ở thủ đô Niger vào tháng 10. Bây giờ ông đã được giải cứu và đang được các quan chức Mỹ tiếp cận. Một tổ chức Kitô giáo đã xác nhận tình huống này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ffc926680b28",
-      "title": "Amazon is using Twitch to train generative AI",
-      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T12:48:09.147275+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Amazon sử dụng Twitch để huấn luyện AI tạo mẫu",
-      "bullets": [
-        "Amazon cho phép sử dụng nội dung kênh Twitch để huấn luyện AI",
-        "Người dùng Twitch chỉ trích quyết định này",
-        "Twitch là nền tảng trực tuyến nổi tiếng cho các trò chơi điện tử",
-        "Nội dung kênh Twitch sẽ được sử dụng để huấn luyện AI tạo mẫu"
-      ],
-      "full_summary": "Amazon đang sử dụng nền tảng Twitch để huấn luyện AI tạo mẫu. Người dùng Twitch đã chỉ trích quyết định này, cho rằng nội dung kênh của họ sẽ được sử dụng mà không có sự đồng ý. Twitch là nền tảng trực tuyến nổi tiếng cho các trò chơi điện tử, nơi người dùng có thể phát trực tiếp các trò chơi của mình. Việc sử dụng nội dung kênh Twitch để huấn luyện AI tạo mẫu đã gây ra sự tranh cãi.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "46eb0aec6594",
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T12:48:10.240311+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Mục sư Mỹ bị bắt cóc ở Niger được thả sau 9 tháng",
-      "bullets": [
-        "Bị bắt cóc vào tháng 10, mục sư Mỹ Kevin Rideout đã được thả",
-        "Ông được cho là trong tình trạng sức khỏe tốt",
-        "Được chăm sóc bởi các quan chức Mỹ",
-        "Sẽ được đoàn tụ với gia đình"
-      ],
-      "full_summary": "Mục sư Mỹ Kevin Rideout bị bắt cóc ở Niger vào tháng 10 đã được thả. Ông được cho là trong tình trạng sức khỏe tốt và đang được chăm sóc bởi các quan chức Mỹ. Tổ chức SIM International đã xác nhận thông tin này và cho biết ông sẽ được đoàn tụ với gia đình. Sự việc này diễn ra sau 9 tháng kể từ khi ông bị bắt cóc.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d4e460a1a18d",
-      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-14T12:48:11.164472+00:00",
-      "category": "khoa học-kỹ thuật",
-      "importance": 4,
-      "headline": "Rocket Lab thể hiện sự linh hoạt, Blue Origin có kế hoạch hai bệ phóng",
-      "bullets": [
-        "Rocket Lab đã chứng minh khả năng linh hoạt của mình",
-        "Blue Origin đang xây dựng kế hoạch hai bệ phóng",
-        "Căng thẳng về khả năng phóng tên lửa đang gia tăng",
-        "Các công ty tên lửa đang phải đối mặt với khó khăn về khả năng phóng"
-      ],
-      "full_summary": "Rocket Lab đã chứng minh khả năng linh hoạt của mình bằng cách phóng tên lửa từ một bệ phóng khác nhau. Trong khi đó, Blue Origin đang xây dựng kế hoạch hai bệ phóng để tăng khả năng phóng tên lửa. Căng thẳng về khả năng phóng tên lửa đang gia tăng do nhu cầu phóng tên lửa tăng cao. Các công ty tên lửa đang phải đối mặt với khó khăn về khả năng phóng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3d1f4dc55396",
-      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-      "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-14T12:48:12.098831+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Samsung Galaxy Z Fold 8 Ultra: Một chiếc điện thoại gập với giá siêu cao",
-      "bullets": [
-        "Cập nhật ít thay đổi về thiết kế và hiệu suất",
-        "Cấu hình mạnh mẽ và màn hình chất lượng cao",
-        "Giá bán cao ngất ngưởng, không phải là lựa chọn phổ biến"
-      ],
-      "full_summary": "Samsung Galaxy Z Fold 8 Ultra là một chiếc điện thoại gập mới từ Samsung, với thiết kế và hiệu suất không thay đổi nhiều so với năm trước. Mặc dù vậy, chiếc điện thoại này vẫn sở hữu cấu hình mạnh mẽ và màn hình chất lượng cao. Tuy nhiên, giá bán của nó rất cao, khiến nó không phải là lựa chọn phổ biến cho nhiều người dùng.",
       "comments": 0,
       "score": 0
     }
