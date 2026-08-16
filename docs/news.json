@@ -1,6 +1,183 @@
 {
-  "updated_at": "2026-08-16T12:24:01.328927+00:00",
+  "updated_at": "2026-08-16T18:17:53.048718+00:00",
   "articles": [
+    {
+      "id": "47113be88d74",
+      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T18:17:37.523862+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hai vụ hỏa hoạn đồng thời xảy ra trên đảo Salamina, Hy Lạp",
+      "bullets": [
+        "Hai vụ hỏa hoạn bùng phát trên đảo Salamina",
+        "Khoảng 200 người cứu hỏa đang cố gắng ngăn lửa lan sang khu vực khác",
+        "Hàng trăm người đã được sơ tán",
+        "Hai vụ hỏa hoạn đã khiến hai người thiệt mạng"
+      ],
+      "full_summary": "Hai vụ hỏa hoạn đồng thời xảy ra trên đảo Salamina, Hy Lạp, khiến hai người thiệt mạng và hàng trăm người phải sơ tán. Khoảng 200 người cứu hỏa đang cố gắng ngăn lửa lan sang khu vực khác. Các phương tiện truyền thông Hy Lạp cho biết hai vụ hỏa hoạn đang được kiểm soát.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9eda3d426816",
+      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T18:17:38.451404+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Bumble bỏ quy tắc trò chuyện 'nữ trước' sau thử nghiệm thành công",
+      "bullets": [
+        "Bumble đã bỏ quy tắc trò chuyện 'nữ trước' trên ứng dụng",
+        "Quy tắc này đã được thử nghiệm và nhận được phản hồi tích cực",
+        "Người dùng muốn thay đổi cách thức trò chuyện trên ứng dụng",
+        "Bumble sẽ cho phép người dùng tự do chọn người trò chuyện đầu tiên"
+      ],
+      "full_summary": "Bumble, ứng dụng hẹn hò nổi tiếng, đã quyết định bỏ quy tắc trò chuyện 'nữ trước' sau một thử nghiệm thành công. Theo người đứng đầu Bumble, quy tắc này đã không còn phù hợp với nhu cầu của người dùng. Bumble sẽ cho phép người dùng tự do chọn người trò chuyện đầu tiên, thay vì quy tắc 'nữ trước' trước đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "6867cfd16891",
+      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T18:17:39.411731+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Cảnh sát Mỹ bị sa thải vì theo dõi bạn gái bằng camera đọc biển số",
+      "bullets": [
+        "Bốn cảnh sát Mỹ bị sa thải vì sử dụng camera đọc biển số để theo dõi bạn gái",
+        "Các cảnh sát này đã sử dụng công nghệ của công ty Flock để theo dõi đối tượng",
+        "Flock đã thừa nhận đã chậm trễ trong việc hành động chống lại lạm dụng của cảnh sát"
+      ],
+      "full_summary": "Bốn cảnh sát Mỹ đã bị sa thải vì sử dụng camera đọc biển số để theo dõi bạn gái. Công ty Flock, cung cấp công nghệ này, đã thừa nhận đã chậm trễ trong việc hành động chống lại lạm dụng của cảnh sát. Điều này đã gây ra sự phẫn nộ trong công chúng và các tổ chức nhân quyền.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b563f86aee3f",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T18:17:40.516301+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Cúm Ebola lan rộng sang tỉnh thứ sáu",
+      "bullets": [
+        "Sốt xuất huyết Ebola đã lan sang tỉnh Bas-Uele sau khi một người từ Haut-Uele đi đến",
+        "Số người chết do Ebola đã vượt quá 2.100 người",
+        "Chính phủ dự đoán số ca nhiễm sẽ tiếp tục tăng cao",
+        "Đại diện WHO cho rằng cúm Ebola có thể trở thành dịch bệnh tồi tệ nhất trong lịch sử"
+      ],
+      "full_summary": "Sốt xuất huyết Ebola đã lan sang tỉnh thứ sáu của Cộng hòa Dân chủ Congo. Theo số liệu mới nhất, số người chết do Ebola đã vượt quá 2.100 người, trong khi số ca nhiễm đã đạt hơn 4.500 người. Đại diện Tổ chức Y tế Thế giới cho rằng cúm Ebola có thể trở thành dịch bệnh tồi tệ nhất trong lịch sử, vượt qua số người chết trong dịch Ebola năm 2014-2016.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ee86720e99ba",
+      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T18:17:41.448198+00:00",
+      "category": "economy|politics",
+      "importance": 4,
+      "headline": "BP sẽ phát triển mỏ khí đốt ngoài khơi ở Venezuela",
+      "bullets": [
+        "BP sẽ hợp tác với hai công ty dầu mỏ có liên kết chặt chẽ với chính quyền Trump",
+        "Động thái này sẽ là một trong những khoản đầu tư nước ngoài lớn đầu tiên ở Venezuela sau khi Mỹ lật đổ lãnh đạo Nicolás Maduro",
+        "BP sẽ phát triển giai đoạn thứ hai của mỏ khí đốt Loran",
+        "Đây là một phần của nỗ lực giúp Venezuela phục hồi ngành năng lượng"
+      ],
+      "full_summary": "BP đã quyết định phát triển một mỏ khí đốt ngoài khơi lớn ở Venezuela, một động thái được coi là một phần của nỗ lực giúp Venezuela phục hồi ngành năng lượng. Đây sẽ là một trong những khoản đầu tư nước ngoài lớn đầu tiên ở Venezuela sau khi Mỹ lật đổ lãnh đạo Nicolás Maduro. BP sẽ hợp tác với hai công ty dầu mỏ có liên kết chặt chẽ với chính quyền Trump để phát triển giai đoạn thứ hai của mỏ khí đốt Loran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "fd05c50a200f",
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-16T18:17:42.434808+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Khói từ cháy rừng trở thành mối đe dọa thai sản lớn hơn",
+      "bullets": [
+        "Giảm thiểu tác động của khí thải gây hại cho thai sản",
+        "Nhưng khói từ cháy rừng đang xóa bỏ những tiến bộ này",
+        "Khói từ cháy rừng chứa nhiều chất gây hại cho thai phụ",
+        "Cần có biện pháp ngăn chặn và giảm thiểu tác động của khói từ cháy rừng"
+      ],
+      "full_summary": "Theo nghiên cứu mới, khói từ cháy rừng đã trở thành mối đe dọa lớn hơn cho thai sản so với nguồn khí thải từ con người. Mặc dù các quy định đã giúp giảm thiểu tác động của khí thải gây hại, nhưng khói từ cháy rừng đang xóa bỏ những tiến bộ này. Nghiên cứu cho thấy khói từ cháy rừng chứa nhiều chất gây hại cho thai phụ, bao gồm các chất độc hại và ô nhiễm không khí. Điều này đặt ra thách thức lớn cho các biện pháp ngăn chặn và giảm thiểu tác động của khói từ cháy rừng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "42265dd89fc3",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-16T18:17:43.340259+00:00",
+      "category": "technology",
+      "importance": 5,
+      "headline": "Loại trừ bảo mật trên Mac cho phép hacker kiểm soát toàn bộ thiết bị",
+      "bullets": [
+        "Các hacker đang khai thác lỗ hổng cho phép họ truy cập vào Mac mà không cần mật khẩu",
+        "Lỗ hổng này liên quan đến tính năng chia sẻ màn hình trên Mac",
+        "Các nhà phát triển đang cố gắng tìm ra cách sửa lỗi"
+      ],
+      "full_summary": "Một lỗ hổng bảo mật nghiêm trọng trên Mac đang được khai thác bởi các hacker. Lỗ hổng này cho phép các hacker truy cập vào Mac mà không cần mật khẩu bằng cách sử dụng tính năng chia sẻ màn hình. Các nhà phát triển đang cố gắng tìm ra cách sửa lỗi để ngăn chặn các cuộc tấn công này. Người dùng Mac đang được khuyên nên cập nhật phần mềm của họ để tránh bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "3b57b315245f",
+      "title": "GPS and the Lost Art of Getting Lost",
+      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-16T18:17:47.916819+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "GPS khiến chúng ta mất kỹ năng tìm đường",
+      "bullets": [
+        "Tìm hiểu về lịch sử phát triển của GPS và ảnh hưởng của nó đến cách chúng ta di chuyển",
+        "Thảo luận về tầm quan trọng của việc mất phương hướng và kỹ năng tìm đường",
+        "Xây dựng lại kỹ năng tìm đường bằng cách loại bỏ GPS và sử dụng bản đồ giấy"
+      ],
+      "full_summary": "GPS đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta. Tuy nhiên, việc phụ thuộc quá nhiều vào GPS đã khiến chúng ta mất kỹ năng tìm đường. Điều này đã dẫn đến việc thiếu sự tự tin và kỹ năng trong việc di chuyển mà không cần GPS. Để xây dựng lại kỹ năng tìm đường, chúng ta có thể bắt đầu bằng cách loại bỏ GPS và sử dụng bản đồ giấy.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ddc28151492e",
+      "title": "Einstein the musician, AI prophets and more: Books in brief",
+      "url": "https://www.nature.com/articles/d41586-026-02504-6",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-08-16T18:17:51.384457+00:00",
+      "category": "science",
+      "importance": 3,
+      "headline": "Tác giả Andrew Robinson giới thiệu 5 cuốn sách khoa học hay nhất",
+      "bullets": [
+        "Giới thiệu cuốn sách về Albert Einstein như một nhạc sĩ",
+        "Đánh giá cuốn sách về các nhà tiên tri AI",
+        "Trình bày cuốn sách về các phát hiện khoa học mới nhất",
+        "Đánh giá cuốn sách về lịch sử khoa học"
+      ],
+      "full_summary": "Tác giả Andrew Robinson đã giới thiệu 5 cuốn sách khoa học hay nhất trong bài viết của mình. Những cuốn sách này bao gồm cuốn sách về Albert Einstein như một nhạc sĩ, cuốn sách về các nhà tiên tri AI, cuốn sách về các phát hiện khoa học mới nhất và cuốn sách về lịch sử khoa học. Mỗi cuốn sách đều mang đến một góc nhìn độc đáo về thế giới khoa học.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "bd488c85e2d4",
       "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
@@ -616,185 +793,6 @@
         "Ít nhất 96 người thiệt mạng khi cố gắng đến châu Âu"
       ],
       "full_summary": "Ngày 15/8, cảnh sát Morocco bắt giữ 111 người khi họ cố gắng nhập cảnh vào Ceuta, một lãnh thổ của Tây Ban Nha ở Bắc Phi. Sự cố này diễn ra sau những bài đăng trên mạng xã hội kêu gọi nhập cảnh en masse vào Ceuta. Chỉ hai tuần trước, hơn 72.000 người đã nhập cảnh vào Ceuta, gây ra căng thẳng trong EU và kích động ngôn ngữ chống nhập cư của các đảng cực hữu trên toàn thế giới. Ít nhất 96 người đã thiệt mạng khi cố gắng đến châu Âu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "031bef8b9f41",
-      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-15T18:17:40.504253+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Ukraine tấn công nhà máy tên lửa Nga bằng tên lửa hành trình",
-      "bullets": [
-        "Ukraine sử dụng tên lửa Flamingo tấn công nhà máy tên lửa Nga",
-        "Hàng loạt tên lửa hành trình đã đánh trúng mục tiêu",
-        "Chiến dịch quân sự của Ukraine đạt được thành công đáng kể",
-        "Cơ sở sản xuất tên lửa của Nga bị hư hại nghiêm trọng"
-      ],
-      "full_summary": "Ukraine đã sử dụng tên lửa Flamingo tấn công một nhà máy tên lửa lớn của Nga. Chiến dịch quân sự này được coi là một thành công đáng kể của Ukraine. Tên lửa hành trình đã đánh trúng mục tiêu và gây hư hại nghiêm trọng cho cơ sở sản xuất tên lửa của Nga. Sự kiện này đã thu hút sự chú ý của cộng đồng quốc tế.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f825b290756e",
-      "title": "So much solar: Digging into the list of every US power plant that went online this year",
-      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-15T18:17:41.606705+00:00",
-      "category": "khoa học-kỹ thuật",
-      "importance": 4,
-      "headline": "Năng lượng mặt trời chiếm ưu thế trong các nhà máy điện mới",
-      "bullets": [
-        "Cập nhật mới nhất về các nhà máy điện mặt trời quy mô lớn",
-        "Batteries trở thành lựa chọn phổ biến thứ hai",
-        "Năng lượng hóa thạch không còn được ưa chuộng",
-        "Tình hình năng lượng của Mỹ đang thay đổi"
-      ],
-      "full_summary": "Theo Ars Technica, năm 2026 đã chứng kiến sự bùng nổ của năng lượng mặt trời với nhiều nhà máy điện mới được đưa vào hoạt động. Năng lượng mặt trời đã chiếm ưu thế trong số các nhà máy điện mới, tiếp theo là các hệ thống pin năng lượng. Trong khi đó, năng lượng hóa thạch không còn được ưa chuộng như trước đây. Điều này cho thấy tình hình năng lượng của Mỹ đang thay đổi theo hướng thân thiện với môi trường.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d82328f3aaa5",
-      "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
-      "url": "https://www.core77.com/posts/144869",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-15T18:17:44.897908+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Người dân Hà Lan sống trên các mảnh đất hẹp trong hồ",
-      "bullets": [
-        "Sống trên các mảnh đất hẹp trong hồ là một phần của cộng đồng Hà Lan",
-        "Người dân ở đây phải đối mặt với nhiều thách thức về môi trường",
-        "Cộng đồng này đã trở thành điểm thu hút du khách",
-        "Sống trên các mảnh đất hẹp trong hồ đòi hỏi sự kiên nhẫn và sáng tạo"
-      ],
-      "full_summary": "Cộng đồng Hà Lan sống trên các mảnh đất hẹp trong hồ là một hiện tượng độc đáo. Người dân ở đây phải đối mặt với nhiều thách thức về môi trường, bao gồm việc bảo vệ môi trường và duy trì cuộc sống bình thường. Cộng đồng này đã trở thành điểm thu hút du khách và được nhiều người quan tâm. Để sống trên các mảnh đất hẹp trong hồ, người dân phải có sự kiên nhẫn và sáng tạo để đối mặt với những thách thức này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "09d6a7cc277a",
-      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-      "url": "https://www.nature.com/articles/d41586-026-02562-w",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-08-15T18:17:49.949709+00:00",
-      "category": "science",
-      "importance": 3,
-      "headline": "Anthropic giới thiệu dấu hiệu nhận biết AI mới",
-      "bullets": [
-        "Khẳng định tính xác thực của nội dung AI",
-        "Đánh dấu nội dung AI để bảo vệ nghiên cứu khoa học",
-        "Tìm hiểu về những điểm nhạy cảm trên cơ thể giống nhau ở mọi nền văn hóa"
-      ],
-      "full_summary": "Anthropic vừa công bố dấu hiệu nhận biết AI mới. Dấu hiệu này sẽ giúp xác định tính xác thực của nội dung AI và bảo vệ nghiên cứu khoa học khỏi các nội dung giả mạo. Ngoài ra, nghiên cứu cũng tìm hiểu về những điểm nhạy cảm trên cơ thể giống nhau ở mọi nền văn hóa.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "360424475714",
-      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T12:21:56.557037+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Israel tấn công miền Nam Liban, khiến 7 người thiệt mạng",
-      "bullets": [
-        "7 người thiệt mạng trong vụ tấn công của Israel",
-        "3 trẻ em và 2 phụ nữ trong số những người thiệt mạng",
-        "Vụ tấn công diễn ra tại Ansar, miền Nam Liban",
-        "Chính phủ Liban lên án vụ tấn công"
-      ],
-      "full_summary": "Một vụ tấn công của Israel đã khiến 7 người thiệt mạng tại miền Nam Liban. Trong số những người thiệt mạng có 3 trẻ em và 2 phụ nữ. Vụ tấn công diễn ra tại Ansar, miền Nam Liban. Chính phủ Liban lên án vụ tấn công này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "0d511e33fc42",
-      "title": "South Korea proposes talks to officially end war with North",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T12:21:57.469200+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hàn Quốc đề xuất đàm phán để kết thúc chiến tranh với Bắc Hàn",
-      "bullets": [
-        "Hàn Quốc đề xuất tổ chức đàm phán để kết thúc chiến tranh với Bắc Hàn",
-        "Lý do đàm phán là để chính thức kết thúc cuộc chiến đã bị ngừng bắn từ năm 1953",
-        "Lee Jae Myung đề xuất cơ hội để kết thúc xung đột kéo dài",
-        "Mục tiêu của đàm phán là tìm kiếm giải pháp hòa bình cho hai quốc gia"
-      ],
-      "full_summary": "Hàn Quốc đã đề xuất tổ chức đàm phán để kết thúc chiến tranh với Bắc Hàn. Lý do đàm phán là để chính thức kết thúc cuộc chiến đã bị ngừng bắn từ năm 1953. Lee Jae Myung, ứng cử viên tổng thống Hàn Quốc, đã đề xuất cơ hội để kết thúc xung đột kéo dài. Mục tiêu của đàm phán là tìm kiếm giải pháp hòa bình cho hai quốc gia.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a76dabc4f947",
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T12:21:58.387815+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Cha và hai con trai bị mắc kẹt trên biển 16 giờ",
-      "bullets": [
-        "Bị sóng đánh cẳng, chiếc jet ski bị lật",
-        "Cha và hai con trai bị vứt ra biển, mất tích 16 giờ",
-        "Được cứu bởi tàu thuyền khác sau khi gửi tin nhắn khẩn cấp",
-        "Tất cả đều an toàn sau khi được đưa về bờ"
-      ],
-      "full_summary": "Một gia đình gồm cha và hai con trai đã bị mắc kẹt trên biển 16 giờ sau khi chiếc jet ski của họ bị lật. Họ đã gửi tin nhắn khẩn cấp và được cứu bởi tàu thuyền khác. Tất cả đều an toàn sau khi được đưa về bờ. Sự việc xảy ra gần đảo Koh Samui, Thái Lan.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "092488eef0a5",
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T12:21:59.251241+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Sách cũ bùng nổ: Có phải do AI?",
-      "bullets": [
-        "Các nhà bán sách báo cáo đã nhận được đơn đặt hàng lớn bí ẩn.",
-        "Được cho là sách được sử dụng để huấn luyện AI và cuối cùng bị hủy.",
-        "Nhu cầu sách cũ tăng cao có thể liên quan đến nhu cầu đào tạo AI.",
-        "Các nhà bán sách đang cố gắng hiểu nguyên nhân đằng sau sự bùng nổ này."
-      ],
-      "full_summary": "Các nhà bán sách đang báo cáo rằng họ đã nhận được đơn đặt hàng lớn sách cũ bí ẩn. Được cho là sách được sử dụng để huấn luyện AI và cuối cùng bị hủy. Nhu cầu sách cũ tăng cao có thể liên quan đến nhu cầu đào tạo AI. Các nhà bán sách đang cố gắng hiểu nguyên nhân đằng sau sự bùng nổ này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "245a52834d85",
-      "title": "Canadian plasma clinics pause collections after deaths of two donors",
-      "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T12:22:00.660506+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Các cơ sở thu thập huyết tương Canada tạm dừng hoạt động",
-      "bullets": [
-        "Tạm dừng thu thập huyết tương sau khi hai người hiến máu qua đời",
-        "Khám nghiệm mới của chính phủ Canada về các quy trình không an toàn",
-        "Grifols thông báo ngừng hoạt động tại 17 cơ sở ở Canada",
-        "Chính phủ Canada đang điều tra các vấn đề liên quan"
-      ],
-      "full_summary": "Cơ sở huyết tương tư nhân lớn nhất Canada, Grifols, đã tạm dừng hoạt động sau khi hai người hiến máu qua đời. Đây là kết quả của một cuộc điều tra mới của chính phủ Canada về các quy trình không an toàn. Grifols đã thông báo ngừng hoạt động tại 17 cơ sở ở Canada và sẽ hợp tác với chính phủ trong cuộc điều tra.",
       "comments": 0,
       "score": 0
     }
