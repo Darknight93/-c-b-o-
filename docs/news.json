@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-08-15T18:17:51.024628+00:00",
+  "updated_at": "2026-08-16T00:52:37.816204+00:00",
   "articles": [
+    {
+      "id": "17695ffcc353",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T00:52:24.040888+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Sinh tử xảy ra sau trận động đất mạnh ở Indonesia",
+      "bullets": [
+        "Cứu hộ đang tìm kiếm người sống sót sau trận động đất",
+        "Hàng trăm tòa nhà bị phá hủy",
+        "47 người đã thiệt mạng",
+        "Đánh giá nhanh chóng về tác động của trận động đất đang được tiến hành"
+      ],
+      "full_summary": "Một trận động đất mạnh đã xảy ra ở Indonesia, khiến hàng trăm tòa nhà bị phá hủy và ít nhất 47 người thiệt mạng. Các nhà chức trách đang tiến hành đánh giá nhanh chóng về tác động của trận động đất. Cứu hộ đang tìm kiếm người sống sót và hỗ trợ người dân bị ảnh hưởng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4b8c4b3a3167",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T00:52:24.984450+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hàng chục người nhập cư bị bắt giữ khi cố gắng vượt biên sang Ceuta",
+      "bullets": [
+        "Bị bắt giữ khi cố gắng vượt biên",
+        "Đã tăng cường an ninh tại Ceuta",
+        "Sự cố xảy ra sau những thông tin trên mạng xã hội",
+        "Hàng trăm người nhập cư đã cố gắng vượt biên vào Ceuta"
+      ],
+      "full_summary": "Hàng chục người nhập cư đã bị bắt giữ khi cố gắng vượt biên sang Ceuta, Tây Ban Nha. Sự cố xảy ra sau những thông tin trên mạng xã hội về một vụ vượt biên quy mô lớn khác. An ninh đã được tăng cường tại Ceuta để ngăn chặn các vụ vượt biên. Morocco đã bắt giữ hàng trăm người nhập cư trong những tháng gần đây.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "72fe293da022",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T00:52:25.848669+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Liệchtenstein cho phép phụ nữ lên ngôi hoàng hậu",
+      "bullets": [
+        "Cải cách quy tắc kế vị",
+        "Phụ nữ có thể trở thành người kế vị",
+        "Lễ kỷ niệm ngày quốc gia",
+        "Số dân chỉ 44.000"
+      ],
+      "full_summary": "Liệchtenstein vừa thông báo thay đổi quy tắc kế vị, cho phép phụ nữ lên ngôi hoàng hậu. Sự thay đổi này được công bố vào ngày quốc gia của đất nước nhỏ bé ở châu Âu. Liệchtenstein có dân số chỉ 44.000 người.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c4ec57921d9d",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T00:52:26.802341+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Qatar phủ nhận bắt giữ phi công Iran sau khi bắn hạ máy bay chiến đấu",
+      "bullets": [
+        "Qatar phủ nhận bắt giữ 3 phi công Iran sau khi bắn hạ máy bay chiến đấu",
+        "Iran tuyên bố 3 phi công bị bắt giữ từ sau khi Qatar bắn hạ máy bay chiến đấu",
+        "Qatar và Iran đang có mâu thuẫn về việc bắn hạ máy bay chiến đấu",
+        "Vụ việc liên quan đến chiến sự giữa Mỹ và Iran"
+      ],
+      "full_summary": "Qatar đã phủ nhận cáo buộc bắt giữ 3 phi công Iran sau khi bắn hạ máy bay chiến đấu. Theo Iran, 3 phi công đã bị bắt giữ từ sau khi Qatar bắn hạ máy bay chiến đấu vào đầu chiến sự Mỹ-Iran. Vụ việc đã gây ra mâu thuẫn giữa Qatar và Iran.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b1933921c0c1",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T00:52:27.703594+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hawaii chuẩn bị đối mặt với cơn bão đầu tiên trực tiếp trong 34 năm",
+      "bullets": [
+        "Hawaii chuẩn bị đối mặt với cơn bão Lala",
+        "Cơn bão có thể đổ mưa lên đến 63cm trên đảo Big Island",
+        "Cơn bão Lala được dự báo là cơn bão loại 1",
+        "Hawaii chưa từng đối mặt với cơn bão trực tiếp kể từ năm 1983"
+      ],
+      "full_summary": "Hawaii chuẩn bị đối mặt với cơn bão Lala, loại 1, có thể đổ mưa lên đến 63cm trên đảo Big Island. Cơn bão được dự báo sẽ ảnh hưởng nghiêm trọng đến khu vực này. Đây là cơn bão đầu tiên trực tiếp đánh vào Hawaii trong 34 năm kể từ năm 1983.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "4215b8ee63c0",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T00:52:28.679873+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nữ sinh Bondi Beach bị đánh một cú khiến bang New South Wales đề xuất thu hồi súng",
+      "bullets": [
+        "Chính phủ bang New South Wales đề xuất thu hồi súng",
+        "Giá trị tiền mặt sẽ được trao cho người sở hữu súng",
+        "Mục tiêu là giảm số lượng súng trong cộng đồng",
+        "Động thái này diễn ra sau vụ tấn công tại Bondi Beach"
+      ],
+      "full_summary": "Sau vụ tấn công tại Bondi Beach, chính phủ bang New South Wales đã đề xuất một chương trình thu hồi súng. Chương trình này sẽ cung cấp tiền mặt cho người sở hữu súng để họ giao nộp vũ khí. Mục tiêu của chương trình là giảm số lượng súng trong cộng đồng và ngăn chặn các vụ tấn công tương tự. Đây là một động thái quan trọng trong việc kiểm soát súng tại bang New South Wales.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7152f7f7c227",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T00:52:30.747969+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Tỷ lệ tử vong trong tai nạn thuyền ở Zimbabwe lên tới 68",
+      "bullets": [
+        "Cập nhật 22 thi thể mới sau tai nạn thuyền ở Lake Kariba",
+        "Tổng cộng 68 người thiệt mạng, trong đó 18 là trẻ em",
+        "Cơ quan điều tra nghi ngờ thuyền quá tải khi gặp gió mạnh",
+        "Tìm kiếm cứu hộ đang tiếp tục ở khu vực Lake Kariba"
+      ],
+      "full_summary": "Một thuyền chở khách đã lật úp trên Hồ Kariba, giáp ranh với Zambia. Số người chết đã tăng lên 68, trong đó 18 là trẻ em. Cơ quan điều tra nghi ngờ thuyền quá tải khi gặp gió mạnh. Tìm kiếm cứu hộ đang tiếp tục ở khu vực Hồ Kariba.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "f465e3e25559",
+      "title": "Oracle – a photorealistic browser for every Magic card ever printed",
+      "url": "https://magic-oracle.com/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-16T00:52:35.615761+00:00",
+      "category": "other",
+      "importance": 2,
+      "headline": "Ứng dụng Oracle mô phỏng card Magic với độ chính xác cao",
+      "bullets": [
+        "Tạo ra một trình duyệt photorealistic cho mọi card Magic từng được in",
+        "Cho phép người dùng khám phá và tương tác với các card Magic",
+        "Ứng dụng được phát triển bởi một nhóm lập trình viên",
+        "Có sẵn tại địa chỉ https://magic-oracle.com/"
+      ],
+      "full_summary": "Ứng dụng Oracle là một trình duyệt photorealistic cho mọi card Magic từng được in. Ứng dụng cho phép người dùng khám phá và tương tác với các card Magic một cách chân thực. Ứng dụng được phát triển bởi một nhóm lập trình viên và có sẵn tại địa chỉ https://magic-oracle.com/.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "059adcf10b8e",
       "title": "Multiple suspects at large after five shot at Virginia State University, police say",
@@ -635,166 +795,6 @@
         "Trạm phát sóng PBS đang tìm kiếm giải pháp để tránh mất dữ liệu"
       ],
       "full_summary": "Trạm phát sóng PBS đang lo lắng về việc mất dữ liệu 50TB sau khi bị bỏ rơi bởi nhà cung cấp lưu trữ đám mây. Họ không thể truy cập dữ liệu và lo lắng dữ liệu có thể bị mất vĩnh viễn. Iron Mountain, công ty cung cấp dịch vụ lưu trữ đám mây, nói rằng họ không thể truy cập dữ liệu trên máy chủ. Trạm phát sóng PBS đang tìm kiếm giải pháp để tránh mất dữ liệu quan trọng này.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c5228a25f8ae",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T18:43:14.584486+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Cộng đồng Instagram quảng cáo cách vượt biên trái phép qua Ceuta",
-      "bullets": [
-        "Tìm thấy mạng lưới tài khoản Instagram quảng cáo cách vượt biên",
-        "Tài khoản này đang thu tiền cho lời khuyên giúp người dùng vượt biên",
-        "Vượt biên trái phép qua Ceuta đang gây ra tình trạng khẩn cấp",
-        "BBC phát hiện ra mạng lưới tài khoản Instagram này trên podcast Top Comment"
-      ],
-      "full_summary": "BBC phát hiện ra một mạng lưới tài khoản Instagram đang quảng cáo cách vượt biên trái phép qua Ceuta. Các tài khoản này thu tiền cho lời khuyên giúp người dùng vượt biên. Vượt biên trái phép qua Ceuta đang gây ra tình trạng khẩn cấp và làm tăng nguy cơ mất an toàn cho người dân. BBC đã phát hiện ra mạng lưới này trên podcast Top Comment.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9f0f40b7bbf5",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T18:43:15.542707+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hỗ trợ bị chặn khi người dân Palestine bị bao vây",
-      "bullets": [
-        "Hai gia đình bị kẹt trong nhà ở khu vực chiếm đóng Tây Ban Nha",
-        "Các nhà hoạt động cố gắng vận chuyển hàng viện trợ đến",
-        "Hàng chục người Israel đã bao vây khu vực",
-        "Các gia đình đang gặp khó khăn về thực phẩm và nước"
-      ],
-      "full_summary": "Các nhà hoạt động đang cố gắng vận chuyển hàng viện trợ đến hai gia đình bị kẹt trong nhà ở khu vực chiếm đóng Tây Ban Nha. Họ bị bao vây bởi hàng chục người Israel trong nhiều ngày. Các gia đình đang gặp khó khăn về thực phẩm và nước. Các nhà hoạt động hy vọng sẽ được phép vận chuyển hàng viện trợ đến để hỗ trợ họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "5cd0d1475378",
-      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T18:43:16.485569+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Nhà xây dựng phát hiện kho vàng trị giá 9 triệu euro",
-      "bullets": [
-        "Phát hiện kho vàng trong tường nhà",
-        "Kho vàng được tìm thấy trong hầm của một ngôi nhà",
-        "Giá trị kho vàng lên tới 9 triệu euro",
-        "Nhà xây dựng đang thực hiện công việc sửa chữa đường ống nước thải"
-      ],
-      "full_summary": "Các nhà xây dựng đã phát hiện một kho vàng trị giá 9 triệu euro trong tường nhà của một ngôi nhà ở Bỉ. Kho vàng được tìm thấy khi họ đang thực hiện công việc sửa chữa đường ống nước thải. Các công nhân đã phát hiện kho vàng trong tường nhà của hầm. Kho vàng được đóng kín và không rõ ai là chủ sở hữu của nó.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "8f10b66bf13d",
-      "title": "France's top court blocks social media ban for under-15s",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T18:43:17.479810+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Tòa án Pháp ngăn cấm mạng xã hội cho người dưới 15 tuổi",
-      "bullets": [
-        "Pháp cấm mạng xã hội cho người dưới 15 tuổi bị tòa án bác",
-        "Tòa án nói hành động này vi phạm quyền tự do ngôn luận",
-        "Chủ tịch Macron hứa sẽ chuẩn bị một bản dự thảo mới",
-        "Bản dự thảo mới sẽ được đưa ra để thay thế cho luật cũ"
-      ],
-      "full_summary": "Tòa án Pháp đã bác bỏ luật cấm mạng xã hội cho người dưới 15 tuổi vì vi phạm quyền tự do ngôn luận. Chủ tịch Macron đã hứa sẽ chuẩn bị một bản dự thảo mới để thay thế cho luật cũ. Ông Macron cho rằng luật mới sẽ giúp bảo vệ trẻ em khỏi những ảnh hưởng tiêu cực của mạng xã hội. Tuy nhiên, vẫn chưa rõ khi nào luật mới sẽ được đưa ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "35d4af9572ab",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T18:43:19.541044+00:00",
-      "category": "công nghệ",
-      "importance": 4,
-      "headline": "Người dùng Twitch phẫn nộ vì Amazon sử dụng nội dung của họ để đào tạo AI",
-      "bullets": [
-        "Criticisms nổ ra khi Amazon cho phép sử dụng dữ liệu người dùng Twitch",
-        "Người dùng không được phép từ chối việc sử dụng dữ liệu của họ",
-        "Amazon sử dụng dữ liệu để đào tạo AI trong tính năng mới",
-        "Người dùng kêu gọi Amazon thay đổi chính sách này"
-      ],
-      "full_summary": "Người dùng Twitch đã chỉ trích Amazon vì cho phép sử dụng dữ liệu của họ để đào tạo AI trong tính năng mới. Theo BBC, Amazon đã sử dụng dữ liệu người dùng Twitch để đào tạo AI trong tính năng mới mà không cần sự đồng ý của họ. Người dùng đã kêu gọi Amazon thay đổi chính sách này, cho phép họ từ chối việc sử dụng dữ liệu của họ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "27e6f27455da",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T18:43:21.074587+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Nghiên cứu AI gặp khó khăn khi tính toán chi phí",
-      "bullets": [
-        "Các nhà cung cấp dịch vụ AI gặp khó khăn khi tính toán chi phí",
-        "Người mua dịch vụ AI khó kiểm soát chi phí",
-        "Các nhà cung cấp dịch vụ AI không biết cách định giá",
-        "Sự không chắc chắn về chi phí gây khó khăn cho cả hai bên"
-      ],
-      "full_summary": "Các nhà cung cấp dịch vụ AI đang gặp khó khăn khi tính toán chi phí và định giá dịch vụ của mình. Người mua dịch vụ AI cũng gặp khó khăn khi kiểm soát chi phí. Sự không chắc chắn về chi phí gây khó khăn cho cả hai bên. Điều này là do tokenomics, một khái niệm liên quan đến việc sử dụng token để thanh toán cho dịch vụ AI.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "bf643209bf4d",
-      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-14T18:43:22.433578+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hakainde Hichilema đối mặt với bóng tối của đối thủ cũ Edgar Lungu",
-      "bullets": [
-        "Hichilema đang chạy đua cho nhiệm kỳ thứ hai",
-        "Feud giữa Hichilema và gia đình Lungu vẫn tiếp tục",
-        "Elections ở Zambia diễn ra vào ngày thứ năm",
-        "Hichilema đã đánh bại Lungu trong cuộc bầu cử năm 2021"
-      ],
-      "full_summary": "Hakainde Hichilema đang chạy đua cho nhiệm kỳ thứ hai tại Zambia, nhưng ông vẫn phải đối mặt với bóng tối của đối thủ cũ Edgar Lungu. Lungu đã qua đời vào năm 2025, nhưng gia đình ông vẫn tiếp tục gây ra sự bất ổn. Các cuộc bầu cử ở Zambia sẽ diễn ra vào ngày thứ năm, và Hichilema đang hy vọng sẽ giành được chiến thắng một lần nữa. Tuy nhiên, cuộc bầu cử này vẫn còn nhiều bất ổn và không thể dự đoán được kết quả.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "492ee54063c4",
-      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-14T18:43:25.156484+00:00",
-      "category": "khoa học",
-      "importance": 4,
-      "headline": "Máy bay điện lớn nhất thế giới bay thử nghiệm với chi phí điện chỉ 5 USD",
-      "bullets": [
-        "Thử nghiệm máy bay điện lớn nhất thế giới thành công",
-        "Chi phí điện chỉ 5 USD trong chuyến bay thử nghiệm đầu tiên",
-        "Công ty hợp tác với hãng hàng không đang phát triển máy bay điện lai",
-        "Mục tiêu là phát triển máy bay điện lai thương mại"
-      ],
-      "full_summary": "Một công ty hợp tác với hãng hàng không vừa thử nghiệm thành công máy bay điện lớn nhất thế giới. Chuyến bay thử nghiệm đầu tiên chỉ tiêu thụ 5 USD điện. Công ty đang phát triển máy bay điện lai với mục tiêu là sử dụng rộng rãi trong ngành hàng không thương mại. Đây là một bước tiến quan trọng trong việc phát triển công nghệ điện lai.",
       "comments": 0,
       "score": 0
     }
