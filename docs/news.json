@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-08-16T06:27:16.568910+00:00",
+  "updated_at": "2026-08-16T12:24:01.328927+00:00",
   "articles": [
+    {
+      "id": "bd488c85e2d4",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T12:23:47.295307+00:00",
+      "category": "politics",
+      "importance": 5,
+      "headline": "Nga tấn công Ukraine bằng không quân, khiến 5 người thiệt mạng",
+      "bullets": [
+        "Nga đã thực hiện các cuộc tấn công không quân mới trên Ukraine",
+        "Chủ tịch Ukraine Volodymyr Zelensky cáo buộc Nga nhắm vào cơ sở hạ tầng dân sự",
+        "Moscow cho biết một kho hàng đã bị trúng đạn"
+      ],
+      "full_summary": "Chủ tịch Ukraine Volodymyr Zelensky cáo buộc Nga tấn công cơ sở hạ tầng dân sự, trong khi Moscow cho biết một kho hàng đã bị trúng đạn. Các cuộc tấn công không quân mới của Nga đã khiến 5 người thiệt mạng. Sự cố này đã gây ra lo ngại về tình hình an ninh tại Ukraine.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "40c3341d94d7",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T12:23:48.284766+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Xe buýt du lịch va chạm, 12 người chết",
+      "bullets": [
+        "Va chạm xảy ra vào sáng chủ nhật",
+        "Xe buýt lật úp trên đường cao tốc Hungary",
+        "Hàng chục người bị thương nghiêm trọng",
+        "Cảnh sát đang điều tra nguyên nhân tai nạn"
+      ],
+      "full_summary": "Một vụ tai nạn nghiêm trọng xảy ra vào sáng chủ nhật khi xe buýt du lịch của người Poland va chạm và lật úp trên đường cao tốc Hungary. Theo BBC, ít nhất 12 người đã thiệt mạng và hàng chục người bị thương nghiêm trọng. Cảnh sát đang điều tra nguyên nhân của vụ tai nạn.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1431f3e670df",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T12:23:49.229924+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Thành tựu mới về tượng Mẹ Thiên Chúa cao nhất châu Âu",
+      "bullets": [
+        "Bịt mắt bởi mây, tượng Mẹ Thiên Chúa cao 55,6 mét đã được khai trương ở Ba Lan",
+        "Tượng cao hơn tượng Chúa Giê-su ở Rio de Janeiro",
+        "Tượng được làm bằng bê tông và là một điểm tham quan mới ở vùng nông thôn Ba Lan"
+      ],
+      "full_summary": "Một tượng Mẹ Thiên Chúa cao 55,6 mét đã được khai trương ở vùng nông thôn Ba Lan, trở thành tượng cao nhất châu Âu. Tượng được làm bằng bê tông và cao hơn tượng Chúa Giê-su ở Rio de Janeiro. Tượng này được xây dựng để trở thành một điểm tham quan mới ở vùng nông thôn Ba Lan.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "a7228593c3a0",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T12:23:50.230181+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Chủ tịch Meta Zuckerberg viết thư dài về trí tuệ nhân tạo",
+      "bullets": [
+        "Viết thư dài về AI",
+        "Cung cấp quan điểm về tương lai của trí tuệ nhân tạo",
+        "Trả lời các thắc mắc về vai trò của AI trong xã hội",
+        "Giúp người dùng hiểu rõ hơn về công nghệ mới"
+      ],
+      "full_summary": "Chủ tịch Meta Mark Zuckerberg đã viết một bức thư dài về trí tuệ nhân tạo (AI). Thư này có thể dài tới hàng nghìn từ và cung cấp quan điểm của ông về tương lai của AI. Ông Zuckerberg hy vọng thư này sẽ giúp người dùng hiểu rõ hơn về công nghệ mới và vai trò của AI trong xã hội. Đây không phải lần đầu tiên một người lãnh đạo công nghệ viết thư về AI, nhưng thư của ông Zuckerberg lại đặc biệt dài và chi tiết.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "eb9e483efcce",
+      "title": "Protein or pickled garlic? What's new in ice cream",
+      "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T12:23:51.186643+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Nước sốt mới cho kem: Bơ, tỏi ngâm hay protein?",
+      "bullets": [
+        "Tạo ra hương vị mới cho kem",
+        "Giảm chi phí sản xuất",
+        "Sử dụng nguyên liệu từ thiên nhiên",
+        "Thử nghiệm các hương vị độc đáo"
+      ],
+      "full_summary": "Trong ngành công nghiệp kem, luôn có cuộc cạnh tranh không ngừng để tạo ra hương vị mới và giảm chi phí sản xuất. Các công ty đang thử nghiệm các nguyên liệu mới như bơ, tỏi ngâm và protein để tạo ra hương vị độc đáo. Mục tiêu là giảm chi phí sản xuất mà vẫn giữ được hương vị ngon. Các công ty đang cố gắng tìm ra công thức mới để cạnh tranh trên thị trường.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "de857ac60530",
+      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T12:23:52.193058+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Ngoại trưởng Pháp bị điều tra vì cho hàng chục phụ nữ vào nhà riêng",
+      "bullets": [
+        "Bắt đầu điều tra về cáo buộc ngoại trưởng Pháp có hành vi không phù hợp",
+        "Tổn hại an ninh quốc gia vì cho nhiều phụ nữ vào nhà riêng",
+        "Pháp đang nỗ lực khôi phục quan hệ với Cộng hòa Trung Phi",
+        "Cộng hòa Trung Phi đang bị ảnh hưởng bởi sự mở rộng ảnh hưởng của Nga"
+      ],
+      "full_summary": "Pháp đã mở cuộc điều tra về cáo buộc ngoại trưởng tại Cộng hòa Trung Phi có hành vi không phù hợp. Ngoại trưởng Bruno Foucher bị cáo buộc đã cho hàng chục phụ nữ vào nhà riêng, gây lo ngại về an ninh quốc gia. Điều này diễn ra khi Pháp đang nỗ lực khôi phục quan hệ với Cộng hòa Trung Phi sau nhiều năm suy giảm. Quan hệ giữa hai nước đã bị ảnh hưởng bởi sự mở rộng ảnh hưởng của Nga tại khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "d956b149ffb2",
+      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T12:23:53.226547+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Tòa án cao cấp Ontario cho phép xóa làn đường xe đạp ở Toronto",
+      "bullets": [
+        "Bỏ qua làn đường xe đạp ở Toronto",
+        "Tòa án cao cấp Ontario phán quyết theo yêu cầu của chính phủ",
+        "Doug Ford kêu gọi xóa làn đường xe đạp",
+        "Tăng lưu lượng xe trên đường phố Toronto"
+      ],
+      "full_summary": "Tòa án cao cấp Ontario đã phán quyết cho phép chính phủ Ontario xóa làn đường xe đạp ở Toronto. Đây là một chiến thắng quan trọng cho Thủ tướng Doug Ford và chính phủ của ông, người đã lâu nay chỉ trích làn đường xe đạp ở Toronto, cho rằng chúng gây ra các vấn đề giao thông. Theo phán quyết của tòa án, chính phủ Ontario được phép xóa làn đường xe đạp trên các con đường chính ở Toronto mà không vi phạm quyền hiến pháp của người dân.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c00127a1daaf",
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "url": "https://www.micdrop.gg/",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-16T12:23:58.588570+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Trò chơi karaoke trực tuyến đa người chơi Mic Drop ra mắt",
+      "bullets": [
+        "Ra mắt trò chơi karaoke trực tuyến đa người chơi Mic Drop",
+        "Cho phép người dùng hát cùng nhau trong thời gian thực",
+        "Có thể chơi trên web mà không cần tải ứng dụng",
+        "Đang được thảo luận trên Hacker News"
+      ],
+      "full_summary": "Trò chơi karaoke trực tuyến đa người chơi Mic Drop vừa được ra mắt, cho phép người dùng hát cùng nhau trong thời gian thực. Trò chơi này có thể chơi trên web mà không cần tải ứng dụng. Người dùng có thể tham gia và chơi cùng nhau ngay lập tức. Trò chơi đang được thảo luận trên Hacker News.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "f2835fe5dd6f",
       "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -637,165 +795,6 @@
         "Chính phủ Canada đang điều tra các vấn đề liên quan"
       ],
       "full_summary": "Cơ sở huyết tương tư nhân lớn nhất Canada, Grifols, đã tạm dừng hoạt động sau khi hai người hiến máu qua đời. Đây là kết quả của một cuộc điều tra mới của chính phủ Canada về các quy trình không an toàn. Grifols đã thông báo ngừng hoạt động tại 17 cơ sở ở Canada và sẽ hợp tác với chính phủ trong cuộc điều tra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "ee86720e99ba",
-      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T12:22:01.555699+00:00",
-      "category": "economy|politics",
-      "importance": 4,
-      "headline": "BP đầu tư vào mỏ khí đốt ngoài khơi Venezuela",
-      "bullets": [
-        "BP hợp tác với hai công ty dầu mỏ có liên kết với chính quyền Trump",
-        "Đầu tư này là một trong những dự án lớn đầu tiên ở Venezuela sau khi Mỹ lật đổ Maduro",
-        "BP sẽ phát triển giai đoạn 2 của mỏ khí đốt Loran",
-        "Hợp tác này nhằm giúp Venezuela phục hồi ngành dầu khí"
-      ],
-      "full_summary": "BP đã quyết định đầu tư vào mỏ khí đốt Loran ngoài khơi Venezuela. Đây là một trong những dự án lớn đầu tiên ở Venezuela sau khi Mỹ lật đổ lãnh đạo Nicolás Maduro vào tháng 1. BP sẽ hợp tác với hai công ty dầu mỏ có liên kết với chính quyền Trump để phát triển giai đoạn 2 của mỏ khí đốt. Mục tiêu của dự án này là giúp Venezuela phục hồi ngành dầu khí.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "42265dd89fc3",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-15T12:22:02.964761+00:00",
-      "category": "technology",
-      "importance": 5,
-      "headline": "Lỗ hổng trên Mac cho phép hacker xâm nhập dễ dàng",
-      "bullets": [
-        "Lỗ hổng screen-sharing đang được khai thác",
-        "Hacker có thể đăng nhập vào Mac mà không cần mật khẩu",
-        "Lỗ hổng có thể cho phép hacker lấy quyền kiểm soát hoàn toàn",
-        "Người dùng Mac cần cập nhật ngay lập tức để tránh bị ảnh hưởng"
-      ],
-      "full_summary": "Một lỗ hổng nghiêm trọng trên Mac đang được khai thác bởi các hacker. Lỗ hổng này liên quan đến tính năng screen-sharing, cho phép hacker đăng nhập vào Mac mà không cần mật khẩu. Điều này có thể cho phép hacker lấy quyền kiểm soát hoàn toàn hệ thống. Người dùng Mac cần cập nhật ngay lập tức để tránh bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c9f001ff6409",
-      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-15T12:22:08.980025+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Động đất mạnh 7,7 độ xảy ra gần Ende, Indonesia",
-      "bullets": [
-        "Động đất mạnh 7,7 độ xảy ra tại khu vực Ende, Indonesia",
-        "Động đất xảy ra cách Ende 68 km về phía Bắc Bắc Tây",
-        "Cơ quan Khảo sát Địa chất Hoa Kỳ đang theo dõi tình hình",
-        "Không có thông tin về thương vong hoặc thiệt hại"
-      ],
-      "full_summary": "Một trận động đất mạnh 7,7 độ đã xảy ra tại khu vực Ende, Indonesia. Theo Cơ quan Khảo sát Địa chất Hoa Kỳ, trận động đất xảy ra cách Ende 68 km về phía Bắc Bắc Tây. Hiện tại, cơ quan này đang theo dõi tình hình và chưa có thông tin về thương vong hoặc thiệt hại. Trận động đất này được ghi nhận vào ngày [ngày xảy ra].",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "02200b66ba24",
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T06:24:21.220273+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "BBC tìm kiếm lệnh triệu tập các thành viên gia đình Trump trong vụ kiện Panorama",
-      "bullets": [
-        "BBC tìm kiếm lệnh triệu tập các thành viên gia đình Trump",
-        "Trợ lý luật sư của BBC cho rằng các thành viên gia đình Trump có kiến thức cá nhân về ý định của ông Trump",
-        "Vụ việc liên quan đến bài phát biểu của ông Trump ngoài Capitol Mỹ vào ngày 6 tháng 1 năm 2021",
-        "BBC đang kiện một bộ phim tài liệu về vụ việc này"
-      ],
-      "full_summary": "BBC đang tìm kiếm lệnh triệu tập các thành viên gia đình Trump trong vụ kiện liên quan đến một bộ phim tài liệu về vụ việc ông Trump phát biểu ngoài Capitol Mỹ vào ngày 6 tháng 1 năm 2021. Trợ lý luật sư của BBC cho rằng các thành viên gia đình Trump có kiến thức cá nhân về ý định của ông Trump. Vụ việc đang được xét xử tại tòa án.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7be922b812af",
-      "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T06:24:22.669825+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Động đất 7,7 độ xảy ra ở Indonesia, ít nhất 14 người thiệt mạng",
-      "bullets": [
-        "Động đất xảy ra ở phía đông Flores vào sáng sớm thứ Bảy.",
-        "Sự cố khiến ít nhất 14 người thiệt mạng và nhiều người khác bị thương.",
-        "Động đất có cường độ 7,7 độ và được ghi nhận ở khu vực biển.",
-        "Các cơ quan cứu hộ đang tiến hành tìm kiếm và cứu hộ."
-      ],
-      "full_summary": "Một trận động đất mạnh 7,7 độ đã xảy ra ở phía đông Flores, Indonesia vào sáng sớm thứ Bảy. Sự cố này khiến ít nhất 14 người thiệt mạng và nhiều người khác bị thương. Các cơ quan cứu hộ đang tiến hành tìm kiếm và cứu hộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9eda3d426816",
-      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T06:24:23.688144+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Bumble bỏ quy tắc trò chuyện 'nữ trước' sau thử nghiệm thành công",
-      "bullets": [
-        "Bumble đã bỏ quy tắc trò chuyện 'nữ trước' trên ứng dụng",
-        "Giám đốc điều hành cho biết quyết định này dựa trên thử nghiệm thành công",
-        "Người dùng muốn thay đổi cách thức hoạt động của ứng dụng",
-        "Quy tắc mới cho phép người dùng tự chọn ai có thể gửi tin nhắn đầu tiên"
-      ],
-      "full_summary": "Bumble đã bỏ quy tắc trò chuyện 'nữ trước' trên ứng dụng sau một thử nghiệm thành công. Giám đốc điều hành của Bumble cho biết quyết định này dựa trên phản hồi từ người dùng. Người dùng muốn thay đổi cách thức hoạt động của ứng dụng, từ đó Bumble đã quyết định bỏ quy tắc cũ và cho phép người dùng tự chọn ai có thể gửi tin nhắn đầu tiên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "6867cfd16891",
-      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T06:24:24.715366+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Cảnh sát Mỹ từ chức vì sử dụng camera đọc biển số xe theo dõi người yêu",
-      "bullets": [
-        "Hai cảnh sát Mỹ từ chức vì sử dụng camera đọc biển số xe theo dõi người yêu",
-        "Công ty cung cấp camera đọc biển số xe thừa nhận đã chậm phản ứng với cáo buộc",
-        "Cáo buộc cho thấy cảnh sát đã lạm dụng quyền lực và vi phạm quyền riêng tư",
-        "Sự việc đã gây ra sự phẫn nộ và kêu gọi cải cách hệ thống cảnh sát"
-      ],
-      "full_summary": "Hai cảnh sát Mỹ đã từ chức sau khi bị cáo buộc sử dụng camera đọc biển số xe để theo dõi người yêu. Công ty cung cấp camera đọc biển số xe, Flock, đã thừa nhận đã chậm phản ứng với cáo buộc. Cáo buộc cho thấy cảnh sát đã lạm dụng quyền lực và vi phạm quyền riêng tư của công dân. Sự việc đã gây ra sự phẫn nộ và kêu gọi cải cách hệ thống cảnh sát.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b563f86aee3f",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T06:24:26.181831+00:00",
-      "category": "science",
-      "importance": 5,
-      "headline": "DRC đang đối mặt với một đợt bùng phát Ebola nghiêm trọng",
-      "bullets": [
-        "Bùng phát Ebola lan sang tỉnh thứ sáu ở Cộng hòa Dân chủ Congo",
-        "Số ca tử vong đã vượt quá 2.100 người trong hơn 4.500 trường hợp",
-        "Đại diện WHO cảnh báo đợt bùng phát này có thể trở thành đợt bùng phát Ebola chết chóc nhất trong lịch sử"
-      ],
-      "full_summary": "Cộng hòa Dân chủ Congo đang đối mặt với một đợt bùng phát Ebola nghiêm trọng. Số ca tử vong đã vượt quá 2.100 người trong hơn 4.500 trường hợp. Đại diện WHO cảnh báo đợt bùng phát này có thể trở thành đợt bùng phát Ebola chết chóc nhất trong lịch sử. Đợt bùng phát này đã lan sang tỉnh thứ sáu và đang gây ra lo ngại về sự lan rộng.",
       "comments": 0,
       "score": 0
     }
