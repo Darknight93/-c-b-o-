@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-08-16T00:52:37.816204+00:00",
+  "updated_at": "2026-08-16T06:27:16.568910+00:00",
   "articles": [
+    {
+      "id": "f2835fe5dd6f",
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T06:27:01.599330+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Trò chơi điện thoại mới về thủ tướng Anh khiến nội các bỏ rơi",
+      "bullets": [
+        "Trò chơi điện thoại No 10: Full Confidence vừa vươn lên vị trí số một trên App Store Anh.",
+        "Trò chơi này đã vượt qua Minecraft trên bảng xếp hạng game trả phí của App Store Anh.",
+        "Người chơi thủ tướng trong trò chơi đã sống sót được hai năm nhưng nội các đã bỏ rơi họ.",
+        "Trò chơi điện thoại No 10: Full Confidence đang gây chú ý trên thị trường game điện thoại."
+      ],
+      "full_summary": "Trò chơi điện thoại No 10: Full Confidence vừa vươn lên vị trí số một trên App Store Anh. Trò chơi này cho phép người chơi trở thành thủ tướng Anh và sống sót được hai năm. Tuy nhiên, người chơi thủ tướng đã bị nội các bỏ rơi. Trò chơi này đã vượt qua Minecraft trên bảng xếp hạng game trả phí của App Store Anh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "35d4af9572ab",
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T06:27:02.605231+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Người dùng Twitch phẫn nộ vì Amazon sử dụng nội dung của họ để đào tạo AI",
+      "bullets": [
+        "Phát hiện ra rằng Amazon đã sử dụng dữ liệu của họ mà không được phép",
+        "Người dùng chỉ ra rằng tính năng opt-out không được kích hoạt mặc định",
+        "Twitch bị chỉ trích vì không bảo vệ quyền lợi của người dùng",
+        "Nội dung của người dùng có thể được sử dụng để đào tạo AI mà không cần sự đồng ý"
+      ],
+      "full_summary": "Người dùng Twitch đã phẫn nộ vì Amazon sử dụng nội dung của họ để đào tạo AI mà không được phép. Tính năng opt-out không được kích hoạt mặc định, khiến người dùng không thể chọn không tham gia. Điều này đã khiến Twitch bị chỉ trích vì không bảo vệ quyền lợi của người dùng. Nội dung của người dùng có thể được sử dụng để đào tạo AI mà không cần sự đồng ý của họ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ffc926680b28",
+      "title": "Amazon is using Twitch to train generative AI",
+      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T06:27:03.551609+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Amazon sử dụng Twitch để đào tạo AI tạo mẫu",
+      "bullets": [
+        "Amazon cho phép sử dụng nội dung kênh Twitch để đào tạo AI tạo mẫu",
+        "Người dùng Twitch phản ứng tiêu cực với quyết định này",
+        "AI tạo mẫu được sử dụng để tạo nội dung mới cho các nền tảng",
+        "Nội dung được tạo ra từ AI có thể không chính xác hoặc gây tranh cãi"
+      ],
+      "full_summary": "Amazon đang sử dụng nền tảng Twitch để đào tạo AI tạo mẫu. Người dùng Twitch đã phản ứng tiêu cực với quyết định này, cho rằng nội dung kênh của họ sẽ được sử dụng để đào tạo AI. AI tạo mẫu được sử dụng để tạo nội dung mới cho các nền tảng, nhưng nội dung được tạo ra từ AI có thể không chính xác hoặc gây tranh cãi. Điều này đã gây ra lo ngại về quyền sở hữu trí tuệ và quyền riêng tư của người dùng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "46eb0aec6594",
+      "title": "American missionary kidnapped in Niger freed after nine months",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-16T06:27:04.442512+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Học giả Mỹ bị bắt cóc ở Niger được thả sau 9 tháng",
+      "bullets": [
+        "Bị bắt cóc vào tháng 10, học giả Mỹ Kevin Rideout được thả",
+        "Kevin Rideout được cho là đang khỏe mạnh và được chăm sóc bởi các quan chức Mỹ",
+        "Ông sẽ sớm được đoàn tụ với gia đình",
+        "Học giả Mỹ đang được chăm sóc bởi các quan chức Mỹ"
+      ],
+      "full_summary": "Học giả Mỹ Kevin Rideout bị bắt cóc ở Niger vào tháng 10 đã được thả. Ông đang khỏe mạnh và được chăm sóc bởi các quan chức Mỹ. Tổ chức Serving in Mission International cho biết ông sẽ sớm được đoàn tụ với gia đình.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "214d02ee2c9e",
+      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-16T06:27:05.298835+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Disney công bố trailer VisionQuest và Ahsoka S2 tại D23",
+      "bullets": [
+        "Công bố trailer VisionQuest",
+        "Ra mắt teaser Ahsoka S2",
+        "Đưa ra trailer Doomsday",
+        "Cập nhật thông tin về X-Men và Star Wars: Starfighter"
+      ],
+      "full_summary": "Tại sự kiện D23, Disney đã công bố trailer VisionQuest và Ahsoka S2. Ngoài ra, họ cũng đưa ra trailer Doomsday và cập nhật thông tin về X-Men và Star Wars: Starfighter. Những thông tin này đã thu hút sự chú ý của các fan hâm mộ.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "492ee54063c4",
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-16T06:27:06.288587+00:00",
+      "category": "khoa học-kỹ thuật",
+      "importance": 4,
+      "headline": "Máy bay điện lớn nhất thế giới chỉ tiêu thụ 5 USD điện",
+      "bullets": [
+        "Thử nghiệm thành công chuyến bay đầu tiên của máy bay điện lớn nhất thế giới",
+        "Khởi động dự án nhằm phát triển máy bay điện lai cho vận tải hàng không thương mại",
+        "Máy bay điện lai tiết kiệm năng lượng và giảm thiểu tác động môi trường",
+        "Dự án được hỗ trợ bởi các hãng hàng không lớn"
+      ],
+      "full_summary": "Một công ty liên doanh do các hãng hàng không hỗ trợ đã thử nghiệm thành công chuyến bay đầu tiên của máy bay điện lớn nhất thế giới. Chuyến bay này chỉ tiêu thụ 5 USD điện. Dự án nhằm phát triển máy bay điện lai cho vận tải hàng không thương mại, tiết kiệm năng lượng và giảm thiểu tác động môi trường. Máy bay điện lai có thể trở thành tương lai của ngành hàng không.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "9e143ab6925a",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-16T06:27:07.254750+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nạn nhân của chatbot: Người tự đại diện sử dụng bot sai cách",
+      "bullets": [
+        "Sử dụng chatbot để viết đơn kiện",
+        "Tìm cách tiêm gợi ý vào hồ sơ để thắng vụ án",
+        "Hộ thẩm phán cảnh báo người tự đại diện đang sử dụng chatbot sai cách",
+        "Tình hình trở nên khẩn cấp và bất an"
+      ],
+      "full_summary": "Một người tự đại diện đã sử dụng chatbot để viết đơn kiện và tìm cách tiêm gợi ý vào hồ sơ để thắng vụ án. Tuy nhiên, thẩm phán đã cảnh báo rằng người tự đại diện đang sử dụng chatbot sai cách và tình hình trở nên khẩn cấp và bất an. Điều này đã đặt ra câu hỏi về việc sử dụng công nghệ trong hệ thống tư pháp.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "479c4d364dde",
+      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "source": "Ars Technica",
+      "icon": "💡",
+      "fetched_at": "2026-08-16T06:27:08.226272+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hộ chiếu điện tử Kalshi bị cấm đặt cược tại Washington",
+      "bullets": [
+        "Hộ chiếu điện tử Kalshi bị lệnh ngừng hoạt động đặt cược thể thao và các loại cược khác tại Washington.",
+        "Hộ chiếu điện tử Kalshi phải thực hiện geofencing để ngăn chặn người dùng tại Washington.",
+        "Hộ chiếu điện tử Kalshi phải tuân thủ quyết định của tòa án tiểu bang.",
+        "Hộ chiếu điện tử Kalshi có thể phải thay đổi chính sách đặt cược của mình."
+      ],
+      "full_summary": "Một tòa án tiểu bang đã ra lệnh cho Kalshi ngừng cung cấp đặt cược thể thao và các loại cược khác tại Washington. Hộ chiếu điện tử Kalshi phải thực hiện geofencing để ngăn chặn người dùng tại Washington. Quyết định này có thể ảnh hưởng đến chính sách đặt cược của Kalshi trên toàn thế giới.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1c5c4294dc39",
+      "title": "The Iran War Is a Whole New Level of Quagmire for the US",
+      "url": "https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-16T06:27:09.131773+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Mỹ lúng túng trong cuộc chiến Iran",
+      "bullets": [
+        "Quên bài học từ cuộc chiến Iraq",
+        "Mỹ đang tìm kiếm ý tưởng mới cho cuộc chiến Iran",
+        "Cuộc chiến Iran đang trở thành một cuộc chiến quagmire mới cho Mỹ",
+        "Mỹ đang gặp khó khăn trong việc tìm kiếm chiến lược hiệu quả"
+      ],
+      "full_summary": "Theo Politico, Mỹ đang gặp khó khăn trong cuộc chiến Iran. Cuộc chiến này đang trở thành một cuộc chiến quagmire mới cho Mỹ, giống như cuộc chiến Iraq trước đây. Mỹ đã quên bài học từ cuộc chiến Iraq và đang tìm kiếm ý tưởng mới cho cuộc chiến Iran. Tuy nhiên, vẫn chưa có chiến lược hiệu quả nào được đưa ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "aecf285eb049",
+      "title": "ProofRun – a local verification receipt for AI coding agents",
+      "url": "https://github.com/yebiguo/ProofRun",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-16T06:27:11.727297+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Mã xác minh ProofRun cho các tác nhân lập trình AI",
+      "bullets": [
+        "Xây dựng một phương pháp xác minh địa phương cho các tác nhân lập trình AI",
+        "Giúp đảm bảo tính chính xác và tin cậy của các tác nhân lập trình AI",
+        "Được phát triển trên GitHub và có sẵn cho cộng đồng",
+        "Chưa có thông tin về ứng dụng thực tế của ProofRun"
+      ],
+      "full_summary": "ProofRun là một phương pháp xác minh địa phương cho các tác nhân lập trình AI. Nó được thiết kế để đảm bảo tính chính xác và tin cậy của các tác nhân lập trình AI. ProofRun được phát triển trên GitHub và có sẵn cho cộng đồng. Tuy nhiên, chưa có thông tin về ứng dụng thực tế của ProofRun.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "c1a31e81e97b",
+      "title": "Undocumented migration does not raise crime rates, huge study finds",
+      "url": "https://www.nature.com/articles/d41586-026-02542-0",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-08-16T06:27:16.068754+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu lớn không tìm thấy mối liên hệ giữa người nhập cư không giấy tờ và tội phạm",
+      "bullets": [
+        "Không có bằng chứng cho thấy số lượng người nhập cư không giấy tờ tăng lên dẫn đến tội phạm bạo lực",
+        "Nghiên cứu phân tích các khu phố ở hơn 100 thành phố tại Mỹ",
+        "Kết quả cho thấy không có mối liên hệ giữa người nhập cư không giấy tờ và tội phạm",
+        "Nghiên cứu này có thể giúp thay đổi quan điểm về người nhập cư không giấy tờ"
+      ],
+      "full_summary": "Một nghiên cứu lớn mới được công bố trên tạp chí Nature cho thấy không có bằng chứng cho thấy số lượng người nhập cư không giấy tờ tăng lên dẫn đến tội phạm bạo lực. Nghiên cứu này phân tích các khu phố ở hơn 100 thành phố tại Mỹ và kết quả cho thấy không có mối liên hệ giữa người nhập cư không giấy tờ và tội phạm. Kết quả này có thể giúp thay đổi quan điểm về người nhập cư không giấy tờ và những người ủng hộ chính sách nhập cư cứng rắn.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "17695ffcc353",
       "title": "Rescuers search for survivors of powerful Indonesia earthquake",
@@ -576,225 +796,6 @@
         "Đại diện WHO cảnh báo đợt bùng phát này có thể trở thành đợt bùng phát Ebola chết chóc nhất trong lịch sử"
       ],
       "full_summary": "Cộng hòa Dân chủ Congo đang đối mặt với một đợt bùng phát Ebola nghiêm trọng. Số ca tử vong đã vượt quá 2.100 người trong hơn 4.500 trường hợp. Đại diện WHO cảnh báo đợt bùng phát này có thể trở thành đợt bùng phát Ebola chết chóc nhất trong lịch sử. Đợt bùng phát này đã lan sang tỉnh thứ sáu và đang gây ra lo ngại về sự lan rộng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "de857ac60530",
-      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
-      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T06:24:27.279410+00:00",
-      "category": "politics",
-      "importance": 3,
-      "headline": "Hội đồng kỷ luật đại sứ Pháp tại CAR vì nghi vấn tổ chức bữa tiệc",
-      "bullets": [
-        "Khởi xướng cuộc điều tra kỷ luật đại sứ Pháp tại CAR",
-        "Nghi vấn đại sứ đưa hàng chục phụ nữ vào nhà riêng gây lo ngại an ninh",
-        "Pháp đang nỗ lực xây dựng lại quan hệ với CAR sau nhiều năm suy giảm",
-        "Nghi vấn này diễn ra khi Pháp đang cố gắng tái lập quan hệ với CAR"
-      ],
-      "full_summary": "Pháp đã mở cuộc điều tra kỷ luật đại sứ tại Cộng hòa Trung Phi (CAR) do nghi vấn ông ta tổ chức bữa tiệc với hàng chục phụ nữ tại nhà riêng, gây lo ngại về an ninh. Sự việc diễn ra khi Pháp đang cố gắng tái lập quan hệ với CAR sau nhiều năm suy giảm. Điều này diễn ra trong bối cảnh Nga đang tăng cường ảnh hưởng tại cựu thuộc địa của Pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "89cc4a8b1485",
-      "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
-      "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-15T06:24:31.364329+00:00",
-      "category": "khoa học-kỹ thuật",
-      "importance": 3,
-      "headline": "Chính sách châu Âu gặp khó khăn khi cân nhắc phóng tên lửa",
-      "bullets": [
-        "Xác định rằng kinh tế tái sử dụng tên lửa rất tốt",
-        "Châu Âu gặp khó khăn khi cân nhắc phóng tên lửa",
-        "Các chuyên gia chính sách cho rằng châu Âu đang đứng giữa hai khó khăn",
-        "Tái sử dụng tên lửa mang lại lợi ích kinh tế đáng kể"
-      ],
-      "full_summary": "Các chuyên gia chính sách cho rằng châu Âu đang gặp khó khăn khi cân nhắc phóng tên lửa. Kinh tế tái sử dụng tên lửa rất tốt, nhưng châu Âu lại gặp khó khăn khi cân nhắc phóng tên lửa. Các chuyên gia cho rằng châu Âu đang đứng giữa hai khó khăn. Tái sử dụng tên lửa mang lại lợi ích kinh tế đáng kể, nhưng châu Âu cần cân nhắc kỹ lưỡng trước khi đưa ra quyết định.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "82b0a0965800",
-      "title": "The Ploopy A+ Trackball Is Here",
-      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-15T06:24:36.166860+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Ploopy A+ Trackball Đã Ra Mắt",
-      "bullets": [
-        "Ra mắt sản phẩm mới Ploopy A+ Trackball",
-        "Sản phẩm này mang đến trải nghiệm sử dụng mới mẻ",
-        "Có thể sử dụng với nhiều loại thiết bị khác nhau",
-        "Được nhiều người dùng quan tâm và đánh giá cao"
-      ],
-      "full_summary": "Ploopy A+ Trackball là sản phẩm mới của công ty Ploopy, được ra mắt với mục đích mang đến trải nghiệm sử dụng mới mẻ cho người dùng. Sản phẩm này có thể sử dụng với nhiều loại thiết bị khác nhau, bao gồm máy tính, điện thoại và các thiết bị khác. Ploopy A+ Trackball đã nhận được nhiều đánh giá cao từ người dùng và đang trở thành một trong những sản phẩm được quan tâm nhất trên Hacker News.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "989a69b79c7f",
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T00:49:27.296429+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Chàng trai 28 tuổi thú nhận giết giám đốc y tế ở Manhattan",
-      "bullets": [
-        "Chàng trai 28 tuổi thú nhận giết giám đốc y tế",
-        "Anh ta đã thú nhận tội danh theo dõi dẫn đến cái chết",
-        "Chàng trai này đã xin tội theo luật liên bang",
-        "Anh ta sẽ phải đối mặt với hình phạt"
-      ],
-      "full_summary": "Một chàng trai 28 tuổi đã thú nhận giết giám đốc y tế ở Manhattan và xin tội theo luật liên bang. Anh ta đã thú nhận đã bắn chết giám đốc y tế và sẽ phải đối mặt với hình phạt. Chàng trai này đã bị bắt vì tội danh theo dõi dẫn đến cái chết và đã xin tội theo luật liên bang.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "efecd9d6b265",
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T00:49:28.563453+00:00",
-      "category": "other",
-      "importance": 5,
-      "headline": "Nữ giới Afghanistan mô tả cuộc sống bất khả kháng sau 5 năm cai trị Taliban",
-      "bullets": [
-        "Bị trừng phạt công khai bằng roi",
-        "Mất việc làm và gặp khó khăn trong việc tìm kiếm công việc",
-        "Gặp khó khăn trong việc tiếp cận dịch vụ y tế"
-      ],
-      "full_summary": "Các phụ nữ Afghanistan mô tả cuộc sống của họ đã trở nên bất khả kháng sau 5 năm cai trị của Taliban. Họ nói về việc bị trừng phạt công khai bằng roi, mất việc làm và gặp khó khăn trong việc tiếp cận dịch vụ y tế. Những khó khăn này đã khiến nhiều người phụ nữ gặp nguy hiểm đến tính mạng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "64372cacdfd5",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T00:49:29.864703+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hạm đội Mỹ chuẩn bị thay thế tàu sân bay Lincoln",
-      "bullets": [
-        "Đang có vấn đề về thực phẩm và nước uống trên tàu Lincoln",
-        "Một số thủy thủ đoàn cân nhắc nhảy xuống biển",
-        "Tàu sân bay khác của Mỹ đang di chuyển để thay thế",
-        "Căng thẳng trên tàu Lincoln đang tăng lên"
-      ],
-      "full_summary": "Một hạm đội tàu sân bay của Mỹ đang di chuyển để thay thế USS Lincoln sau khi có báo cáo về vấn đề thực phẩm và nước uống trên tàu. Theo BBC, có hàng nghìn thủy thủ đoàn trên tàu Lincoln đang đối mặt với tình trạng thiếu thực phẩm và hệ thống nước uống bị hư hỏng. Một số thủy thủ đoàn thậm chí còn cân nhắc nhảy xuống biển. Căng thẳng trên tàu Lincoln đang tăng lên.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f74290beec0d",
-      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T00:49:30.834633+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hỏa hoạn ở Croatia khiến hàng chục người bị thương",
-      "bullets": [
-        "Cả ngàn người phải di dời khỏi khu vực cháy",
-        "Hỏa hoạn gần thị trấn cảng Omis là một trong những vụ cháy tồi tệ nhất trong lịch sử Croatia",
-        "Hàng chục người bị thương trong vụ cháy",
-        "Các quan chức đang cố gắng dập lửa"
-      ],
-      "full_summary": "Một vụ hỏa hoạn lớn đã xảy ra gần thị trấn cảng Omis ở Croatia, khiến hàng chục người bị thương và hàng ngàn người phải di dời khỏi khu vực cháy. Đây là một trong những vụ cháy tồi tệ nhất trong lịch sử Croatia. Các quan chức đang cố gắng dập lửa và giúp đỡ những người bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "a7228593c3a0",
-      "title": "Why tech bosses keep sharing their manifestos about AI",
-      "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T00:49:31.854433+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Mark Zuckerberg viết thư dài về trí tuệ nhân tạo",
-      "bullets": [
-        "Viết thư dài về AI, Mark Zuckerberg muốn chia sẻ tầm nhìn của mình",
-        "Các CEO công nghệ lớn đang viết thư về AI để thể hiện tầm nhìn và chiến lược",
-        "Thư của họ cung cấp thông tin về cách họ sẽ ứng phó với AI trong tương lai",
-        "Các thư này cũng cho thấy sự quan tâm của họ đến việc quản lý AI một cách có trách nhiệm"
-      ],
-      "full_summary": "Mark Zuckerberg là người mới nhất trong số các CEO công nghệ lớn viết thư dài về trí tuệ nhân tạo. Các thư này thường dài hàng nghìn từ và cung cấp thông tin về cách họ sẽ ứng phó với AI trong tương lai. Các CEO công nghệ lớn muốn thể hiện tầm nhìn và chiến lược của mình về AI và quản lý nó một cách có trách nhiệm. Thư của họ cũng cho thấy sự quan tâm của họ đến việc ứng phó với các thách thức mà AI mang lại.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "eb9e483efcce",
-      "title": "Protein or pickled garlic? What's new in ice cream",
-      "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T00:49:32.829638+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hương vị mới cho kem tươi: Bột protein hay tỏi ngâm?",
-      "bullets": [
-        "Cung cấp hương vị mới cho kem tươi",
-        "Giảm chi phí sản xuất",
-        "Tìm kiếm nguyên liệu thay thế",
-        "Tăng cường trải nghiệm cho người tiêu dùng"
-      ],
-      "full_summary": "Trong ngành công nghiệp kem tươi, luôn có một cuộc chiến không ngừng để tìm kiếm hương vị mới và giảm chi phí. Một số công ty đang thử nghiệm các hương vị mới như bột protein và tỏi ngâm. Mục tiêu là tạo ra hương vị độc đáo và thu hút người tiêu dùng. Các công ty cũng đang tìm kiếm các nguyên liệu thay thế để giảm chi phí sản xuất.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "d956b149ffb2",
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T00:49:34.921297+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Tòa án cao nhất Ontario cho phép xóa làn xe đạp ở Toronto",
-      "bullets": [
-        "Xóa làn xe đạp ở Toronto được cho phép",
-        "Tòa án cao nhất Ontario phán quyết theo lợi ích của tỉnh",
-        "Chính phủ tỉnh Ontario đã lâu kêu ca về làn xe đạp gây tắc đường",
-        "Chủ tịch tỉnh Doug Ford được hưởng lợi từ quyết định này"
-      ],
-      "full_summary": "Tòa án cao nhất Ontario đã phán quyết rằng chính phủ tỉnh Ontario có thể xóa làn xe đạp ở Toronto. Đây là một quyết định quan trọng cho Chủ tịch tỉnh Doug Ford, người đã lâu kêu ca về làn xe đạp gây tắc đường. Theo quyết định này, chính phủ tỉnh Ontario có thể xóa làn xe đạp trên các con đường sầm uất nhất của thành phố.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "3874b2e5cffe",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-15T00:49:39.349395+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Trạm phát sóng PBS lo mất dữ liệu 50TB sau khi bị nhà cung cấp lưu trữ đám mây bỏ rơi",
-      "bullets": [
-        "Bị bỏ rơi bởi nhà cung cấp lưu trữ đám mây, trạm phát sóng PBS không thể truy cập dữ liệu",
-        "Dữ liệu 50TB có thể bị mất vĩnh viễn nếu không tìm được giải pháp thay thế",
-        "Iron Mountain nói không thể truy cập dữ liệu trên máy chủ",
-        "Trạm phát sóng PBS đang tìm kiếm giải pháp để tránh mất dữ liệu"
-      ],
-      "full_summary": "Trạm phát sóng PBS đang lo lắng về việc mất dữ liệu 50TB sau khi bị bỏ rơi bởi nhà cung cấp lưu trữ đám mây. Họ không thể truy cập dữ liệu và lo lắng dữ liệu có thể bị mất vĩnh viễn. Iron Mountain, công ty cung cấp dịch vụ lưu trữ đám mây, nói rằng họ không thể truy cập dữ liệu trên máy chủ. Trạm phát sóng PBS đang tìm kiếm giải pháp để tránh mất dữ liệu quan trọng này.",
       "comments": 0,
       "score": 0
     }
