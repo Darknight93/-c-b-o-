@@ -1,6 +1,205 @@
 {
-  "updated_at": "2026-08-16T18:17:53.048718+00:00",
+  "updated_at": "2026-08-17T00:50:30.907503+00:00",
   "articles": [
+    {
+      "id": "18e36077e305",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:14.945976+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu Tổng thống Mỹ Trump giảm quy mô tập trận quân sự với Hàn Quốc",
+      "bullets": [
+        "Trump giảm quy mô tập trận quân sự với Hàn Quốc",
+        "Cựu Tổng thống Mỹ cho biết lý do là do Hàn Quốc không tham gia chiến tranh Iran",
+        "Trump tuyên bố có mối quan hệ tốt đẹp với lãnh đạo Triều Tiên",
+        "Tập trận quân sự sẽ được giảm quy mô"
+      ],
+      "full_summary": "Cựu Tổng thống Mỹ Donald Trump cho biết Mỹ sẽ giảm quy mô tập trận quân sự với Hàn Quốc sau khi Hàn Quốc không tham gia chiến tranh Iran. Trump cho biết lý do là do mối quan hệ tốt đẹp của ông với lãnh đạo Triều Tiên. Việc giảm quy mô tập trận quân sự đã gây ra nhiều tranh cãi và lo ngại về an ninh ở khu vực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0af7cc5988a9",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:15.947313+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Cựu đại sứ Trump gặp lãnh đạo Hamas để thúc đẩy kế hoạch hòa bình Gaza",
+      "bullets": [
+        "Gặp gỡ hiếm hoi giữa cựu đại sứ Trump và lãnh đạo Hamas",
+        "Israel đã bác bỏ kế hoạch hòa bình Gaza của Trump một tuần trước",
+        "Kushner cố gắng thuyết phục Hamas tham gia kế hoạch hòa bình",
+        "Kế hoạch hòa bình của Trump nhằm giải quyết xung đột Gaza"
+      ],
+      "full_summary": "Cựu đại sứ Mỹ Jared Kushner đã gặp lãnh đạo Hamas Ismail Haniyeh tại Gaza để thúc đẩy kế hoạch hòa bình của Tổng thống Donald Trump. Đây là một cuộc gặp hiếm hoi giữa Mỹ và Hamas. Một tuần trước, Israel đã bác bỏ kế hoạch hòa bình của Trump. Kushner hy vọng kế hoạch hòa bình sẽ giúp giải quyết xung đột Gaza.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "19660ecf8c49",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:16.936634+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Bốn bức tranh Renaissance quý giá bị trộm khỏi bảo tàng Ý",
+      "bullets": [
+        "Bức tranh bị trộm được đưa đi vào ban đêm mà không kích hoạt báo động",
+        "Tội phạm có thể là một nhóm chuyên nghiệp",
+        "Các bức tranh bị trộm có giá trị nghệ thuật rất cao",
+        "Bảo tàng đang hợp tác với cảnh sát để điều tra"
+      ],
+      "full_summary": "Bốn bức tranh Renaissance quý giá đã bị trộm khỏi bảo tàng ở Ý. Các bức tranh này được đưa đi vào ban đêm mà không kích hoạt báo động, khiến cảnh sát nghi ngờ về một nhóm chuyên nghiệp. Các bức tranh bị trộm có giá trị nghệ thuật rất cao và bảo tàng đang hợp tác với cảnh sát để điều tra. Cảnh sát đang tìm kiếm các bằng chứng để bắt giữ những kẻ trộm.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "e8ed902b5ab7",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:17.899828+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Hạm trưởng Mỹ xác nhận sức khỏe tinh thần là ưu tiên trên tàu USS Lincoln",
+      "bullets": [
+        "Hạm trưởng Adm Brad Cooper xác nhận rằng phục vụ hải quân trên biển trong thời gian dài là 'khó khăn và đặc biệt'",
+        "Tàu USS Lincoln là nơi phục vụ của nhiều thủy thủ đoàn",
+        "Sức khỏe tinh thần là ưu tiên hàng đầu cho thủy thủ đoàn"
+      ],
+      "full_summary": "Hạm trưởng Adm Brad Cooper đã xác nhận rằng phục vụ hải quân trên biển trong thời gian dài là 'khó khăn và đặc biệt'. Ông Cooper đã đến thăm tàu USS Lincoln và nhận thấy rằng sức khỏe tinh thần của thủy thủ đoàn là ưu tiên hàng đầu. Tàu USS Lincoln là nơi phục vụ của nhiều thủy thủ đoàn và phục vụ hải quân trên biển trong thời gian dài có thể gây ra nhiều áp lực.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0d232b368cf0",
+      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:18.824176+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Tập đoàn Meta có thể thay đổi Instagram và Facebook vĩnh viễn",
+      "bullets": [
+        "Hội đồng 30 bang ở Mỹ kiện Meta",
+        "Yêu cầu Meta thay đổi nền tảng cho người dùng trẻ",
+        "Sự thay đổi có thể ảnh hưởng đến hàng triệu người dùng",
+        "Meta có thể phải thay đổi chính sách bảo mật và quyền riêng tư"
+      ],
+      "full_summary": "Hội đồng 30 bang ở Mỹ đã kiện Tập đoàn Meta yêu cầu thay đổi nền tảng Instagram và Facebook cho người dùng trẻ. Nếu Meta thua vụ kiện này, hai nền tảng có thể thay đổi vĩnh viễn. Điều này có thể ảnh hưởng đến hàng triệu người dùng trên toàn thế giới. Meta có thể phải thay đổi chính sách bảo mật và quyền riêng tư để đáp ứng yêu cầu của hội đồng.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "092488eef0a5",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:19.834076+00:00",
+      "category": "technology",
+      "importance": 4,
+      "headline": "Sách cũ bán chạy gấp nhiều lần, có thể do AI",
+      "bullets": [
+        "Các nhà bán sách báo cáo đặt hàng lớn bí ẩn",
+        "Sách được sử dụng để đào tạo AI và sau đó bị nghiền vụn",
+        "Các nhà bán sách không biết lý do đằng sau những đặt hàng lớn",
+        "Có thể các nhà phát triển AI đang tìm kiếm dữ liệu để đào tạo"
+      ],
+      "full_summary": "Các nhà bán sách đang báo cáo về các đặt hàng lớn bí ẩn. Họ cho rằng những cuốn sách này được sử dụng để đào tạo AI và sau đó bị nghiền vụn. Các nhà bán sách không biết lý do đằng sau những đặt hàng lớn này. Có thể các nhà phát triển AI đang tìm kiếm dữ liệu để đào tạo. Những đặt hàng lớn này đã khiến doanh số bán sách cũ tăng vọt.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "0cdc9f91d42b",
+      "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:20.877952+00:00",
+      "category": "other",
+      "importance": 5,
+      "headline": "Congo ghi nhận số ca tử vong Ebola cao nhất trong lịch sử",
+      "bullets": [
+        "Đã xác nhận 4.945 ca nhiễm Ebola",
+        "Số ca tử vong đã lên đến 2.325 người",
+        "Tổng số ca nhiễm đã vượt qua mức năm 2018-2020",
+        "Congo đang đối mặt với một trong những đợt bùng phát Ebola tồi tệ nhất"
+      ],
+      "full_summary": "Congo đang đối mặt với một trong những đợt bùng phát Ebola tồi tệ nhất trong lịch sử. Theo dữ liệu của chính phủ, đã có ít nhất 2.325 người chết vì bệnh này. Số ca nhiễm đã lên đến 4.945, bao gồm 101 ca mới được phát hiện trong 24 giờ qua. Đợt bùng phát này đã vượt qua mức năm 2018-2020 và đang gây ra lo ngại về sự lan rộng của bệnh.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "b3cd2e644f18",
+      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:22.061048+00:00",
+      "category": "politics",
+      "importance": 4,
+      "headline": "Lula ra tranh cử nhiệm kỳ thứ tư, ngăn chặn cực hữu quay lại",
+      "bullets": [
+        "Lula ra tranh cử nhiệm kỳ thứ tư, cam kết ngăn chặn cực hữu quay lại",
+        "Flávio Bolsonaro, con trai Jair Bolsonaro, sẽ đối đầu với Lula trong cuộc bầu cử tháng 10",
+        "Lula chỉ trích chế độ của Bolsonaro đã gây ra bạo lực và hỗn loạn trong nhiệm kỳ 2018-2022",
+        "Lula cam kết sẽ ngăn chặn cực hữu quay lại khi còn sống"
+      ],
+      "full_summary": "Lula da Silva, tổng thống 80 tuổi, đã ra tranh cử nhiệm kỳ thứ tư và cam kết ngăn chặn cực hữu quay lại. Trong cuộc vận động tranh cử tại thành phố São Bernardo do Campo, nơi bắt đầu sự nghiệp chính trị của Lula, ông đã chỉ trích chế độ của Bolsonaro đã gây ra bạo lực và hỗn loạn trong nhiệm kỳ 2018-2022. Lula sẽ đối đầu với Flávio Bolsonaro, con trai Jair Bolsonaro, trong cuộc bầu cử tháng 10.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "245a52834d85",
+      "title": "Canadian plasma clinics pause collections after deaths of two donors",
+      "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T00:50:23.039039+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Các cơ sở thu thập huyết tương Canada tạm dừng hoạt động sau cái chết của hai người hiến máu",
+      "bullets": [
+        "Tạm dừng thu thập huyết tương sau cái chết của hai người hiến máu",
+        "Khám phá an toàn tại các cơ sở của Grifols",
+        "Cơ sở Grifols thông báo với Health Canada về quyết định tạm dừng hoạt động",
+        "Chính phủ Canada điều tra các hành vi không an toàn"
+      ],
+      "full_summary": "Cơ sở huyết tương tư nhân của Grifols ở Canada đã tạm dừng thu thập huyết tương sau cái chết của hai người hiến máu. Grifols, một công ty chăm sóc sức khỏe Tây Ban Nha, đã thông báo với Health Canada về quyết định tạm dừng hoạt động. Điều này diễn ra sau khi chính phủ Canada mở cuộc điều tra về các hành vi không an toàn tại các cơ sở của Grifols.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "62b5166438b6",
+      "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-17T00:50:28.476379+00:00",
+      "category": "technology",
+      "importance": 2,
+      "headline": "Mô hình phát hiện pump crypto mới được phát triển",
+      "bullets": [
+        "Được xây dựng dựa trên công nghệ mã nguồn mở",
+        "Chỉ sử dụng các dữ liệu về giá ngọn nến",
+        "Đang tìm kiếm các cộng tác viên về trí tuệ nhân tạo",
+        "Mục tiêu là phát triển một công cụ tự động"
+      ],
+      "full_summary": "Một dự án mới được phát triển trên GitHub nhằm phát hiện pump crypto bằng cách sử dụng các dữ liệu về giá ngọn nến. Dự án này được xây dựng dựa trên công nghệ mã nguồn mở và đang tìm kiếm các cộng tác viên về trí tuệ nhân tạo. Mục tiêu của dự án là phát triển một công cụ tự động có thể phát hiện pump crypto một cách chính xác.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "47113be88d74",
       "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
@@ -593,206 +792,6 @@
         "Hàng trăm người nhập cư đã cố gắng vượt biên vào Ceuta"
       ],
       "full_summary": "Hàng chục người nhập cư đã bị bắt giữ khi cố gắng vượt biên sang Ceuta, Tây Ban Nha. Sự cố xảy ra sau những thông tin trên mạng xã hội về một vụ vượt biên quy mô lớn khác. An ninh đã được tăng cường tại Ceuta để ngăn chặn các vụ vượt biên. Morocco đã bắt giữ hàng trăm người nhập cư trong những tháng gần đây.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "72fe293da022",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-16T00:52:25.848669+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Liệchtenstein cho phép phụ nữ lên ngôi hoàng hậu",
-      "bullets": [
-        "Cải cách quy tắc kế vị",
-        "Phụ nữ có thể trở thành người kế vị",
-        "Lễ kỷ niệm ngày quốc gia",
-        "Số dân chỉ 44.000"
-      ],
-      "full_summary": "Liệchtenstein vừa thông báo thay đổi quy tắc kế vị, cho phép phụ nữ lên ngôi hoàng hậu. Sự thay đổi này được công bố vào ngày quốc gia của đất nước nhỏ bé ở châu Âu. Liệchtenstein có dân số chỉ 44.000 người.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c4ec57921d9d",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-16T00:52:26.802341+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Qatar phủ nhận bắt giữ phi công Iran sau khi bắn hạ máy bay chiến đấu",
-      "bullets": [
-        "Qatar phủ nhận bắt giữ 3 phi công Iran sau khi bắn hạ máy bay chiến đấu",
-        "Iran tuyên bố 3 phi công bị bắt giữ từ sau khi Qatar bắn hạ máy bay chiến đấu",
-        "Qatar và Iran đang có mâu thuẫn về việc bắn hạ máy bay chiến đấu",
-        "Vụ việc liên quan đến chiến sự giữa Mỹ và Iran"
-      ],
-      "full_summary": "Qatar đã phủ nhận cáo buộc bắt giữ 3 phi công Iran sau khi bắn hạ máy bay chiến đấu. Theo Iran, 3 phi công đã bị bắt giữ từ sau khi Qatar bắn hạ máy bay chiến đấu vào đầu chiến sự Mỹ-Iran. Vụ việc đã gây ra mâu thuẫn giữa Qatar và Iran.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "b1933921c0c1",
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-16T00:52:27.703594+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hawaii chuẩn bị đối mặt với cơn bão đầu tiên trực tiếp trong 34 năm",
-      "bullets": [
-        "Hawaii chuẩn bị đối mặt với cơn bão Lala",
-        "Cơn bão có thể đổ mưa lên đến 63cm trên đảo Big Island",
-        "Cơn bão Lala được dự báo là cơn bão loại 1",
-        "Hawaii chưa từng đối mặt với cơn bão trực tiếp kể từ năm 1983"
-      ],
-      "full_summary": "Hawaii chuẩn bị đối mặt với cơn bão Lala, loại 1, có thể đổ mưa lên đến 63cm trên đảo Big Island. Cơn bão được dự báo sẽ ảnh hưởng nghiêm trọng đến khu vực này. Đây là cơn bão đầu tiên trực tiếp đánh vào Hawaii trong 34 năm kể từ năm 1983.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4215b8ee63c0",
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-16T00:52:28.679873+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nữ sinh Bondi Beach bị đánh một cú khiến bang New South Wales đề xuất thu hồi súng",
-      "bullets": [
-        "Chính phủ bang New South Wales đề xuất thu hồi súng",
-        "Giá trị tiền mặt sẽ được trao cho người sở hữu súng",
-        "Mục tiêu là giảm số lượng súng trong cộng đồng",
-        "Động thái này diễn ra sau vụ tấn công tại Bondi Beach"
-      ],
-      "full_summary": "Sau vụ tấn công tại Bondi Beach, chính phủ bang New South Wales đã đề xuất một chương trình thu hồi súng. Chương trình này sẽ cung cấp tiền mặt cho người sở hữu súng để họ giao nộp vũ khí. Mục tiêu của chương trình là giảm số lượng súng trong cộng đồng và ngăn chặn các vụ tấn công tương tự. Đây là một động thái quan trọng trong việc kiểm soát súng tại bang New South Wales.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "7152f7f7c227",
-      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-16T00:52:30.747969+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Tỷ lệ tử vong trong tai nạn thuyền ở Zimbabwe lên tới 68",
-      "bullets": [
-        "Cập nhật 22 thi thể mới sau tai nạn thuyền ở Lake Kariba",
-        "Tổng cộng 68 người thiệt mạng, trong đó 18 là trẻ em",
-        "Cơ quan điều tra nghi ngờ thuyền quá tải khi gặp gió mạnh",
-        "Tìm kiếm cứu hộ đang tiếp tục ở khu vực Lake Kariba"
-      ],
-      "full_summary": "Một thuyền chở khách đã lật úp trên Hồ Kariba, giáp ranh với Zambia. Số người chết đã tăng lên 68, trong đó 18 là trẻ em. Cơ quan điều tra nghi ngờ thuyền quá tải khi gặp gió mạnh. Tìm kiếm cứu hộ đang tiếp tục ở khu vực Hồ Kariba.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "f465e3e25559",
-      "title": "Oracle – a photorealistic browser for every Magic card ever printed",
-      "url": "https://magic-oracle.com/",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-16T00:52:35.615761+00:00",
-      "category": "other",
-      "importance": 2,
-      "headline": "Ứng dụng Oracle mô phỏng card Magic với độ chính xác cao",
-      "bullets": [
-        "Tạo ra một trình duyệt photorealistic cho mọi card Magic từng được in",
-        "Cho phép người dùng khám phá và tương tác với các card Magic",
-        "Ứng dụng được phát triển bởi một nhóm lập trình viên",
-        "Có sẵn tại địa chỉ https://magic-oracle.com/"
-      ],
-      "full_summary": "Ứng dụng Oracle là một trình duyệt photorealistic cho mọi card Magic từng được in. Ứng dụng cho phép người dùng khám phá và tương tác với các card Magic một cách chân thực. Ứng dụng được phát triển bởi một nhóm lập trình viên và có sẵn tại địa chỉ https://magic-oracle.com/.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "059adcf10b8e",
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T18:17:36.501843+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Một vụ bắn súng xảy ra tại Đại học bang Virginia",
-      "bullets": [
-        "Cảnh sát đã được báo cáo về vụ bắn xảy ra ngoài các tòa nhà sinh viên vào khoảng 01:28 giờ địa phương (05:28 GMT) vào thứ Bảy",
-        "Năm người đã bị bắn và đang được chăm sóc y tế",
-        "Cảnh sát đang tìm kiếm nhiều nghi phạm",
-        "Vụ việc đang được điều tra"
-      ],
-      "full_summary": "Một vụ bắn súng đã xảy ra tại Đại học bang Virginia vào thứ Bảy. Năm người đã bị bắn và đang được chăm sóc y tế. Cảnh sát đang tìm kiếm nhiều nghi phạm và vụ việc đang được điều tra. Vụ việc xảy ra ngoài các tòa nhà sinh viên vào khoảng 01:28 giờ địa phương.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "84664161a4e8",
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T18:17:37.433150+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Hỏa hoạn lớn đang lan rộng qua khu bảo tồn thiên nhiên Bỉ",
-      "bullets": [
-        "Đang có nhiều nỗ lực để dập tắt đám cháy",
-        "Hỏa hoạn đang lan rộng qua khu bảo tồn thiên nhiên lớn",
-        "Đây được coi là vụ hỏa hoạn tồi tệ nhất ở Bỉ trong thời gian gần đây",
-        "Cảnh sát và cứu hỏa đang làm việc để kiểm soát đám cháy"
-      ],
-      "full_summary": "Một đám cháy lớn đang lan rộng qua khu bảo tồn thiên nhiên ở Bỉ. Đây được coi là vụ hỏa hoạn tồi tệ nhất ở Bỉ trong thời gian gần đây. Cảnh sát và cứu hỏa đang làm việc để kiểm soát đám cháy và ngăn chặn nó lan rộng thêm.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9eeca7666965",
-      "title": "Why Japanese firms are being so slow to use AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T18:17:38.384684+00:00",
-      "category": "technology",
-      "importance": 4,
-      "headline": "Nước Nhật chậm áp dụng trí tuệ nhân tạo vì tính cẩn trọng",
-      "bullets": [
-        "Chậm áp dụng trí tuệ nhân tạo vì tính cẩn trọng",
-        "Tập trung vào an toàn và ổn định",
-        "Chưa sẵn sàng chấp nhận rủi ro",
-        "Đòi hỏi sự thay đổi lớn về quy trình"
-      ],
-      "full_summary": "Các công ty Nhật Bản đang chậm áp dụng trí tuệ nhân tạo (AI) do tính cẩn trọng và bảo thủ. Họ tập trung vào an toàn và ổn định, chưa sẵn sàng chấp nhận rủi ro. Điều này đòi hỏi sự thay đổi lớn về quy trình và công nghệ. Các chuyên gia cho rằng đây là một thách thức lớn đối với Nhật Bản trong cuộc cạnh tranh toàn cầu.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1cebaf5d7556",
-      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "source": "The Guardian World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-15T18:17:39.533082+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Hơn 100 người bị bắt giữ khi nhập cảnh vào Ceuta",
-      "bullets": [
-        "Bị bắt giữ 111 người khi nhập cảnh vào Ceuta",
-        "Tăng cường an ninh sau những bài đăng trên mạng xã hội",
-        "Gần 1 tháng trước, hơn 72.000 người nhập cảnh vào Ceuta",
-        "Ít nhất 96 người thiệt mạng khi cố gắng đến châu Âu"
-      ],
-      "full_summary": "Ngày 15/8, cảnh sát Morocco bắt giữ 111 người khi họ cố gắng nhập cảnh vào Ceuta, một lãnh thổ của Tây Ban Nha ở Bắc Phi. Sự cố này diễn ra sau những bài đăng trên mạng xã hội kêu gọi nhập cảnh en masse vào Ceuta. Chỉ hai tuần trước, hơn 72.000 người đã nhập cảnh vào Ceuta, gây ra căng thẳng trong EU và kích động ngôn ngữ chống nhập cư của các đảng cực hữu trên toàn thế giới. Ít nhất 96 người đã thiệt mạng khi cố gắng đến châu Âu.",
       "comments": 0,
       "score": 0
     }
