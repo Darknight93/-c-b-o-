@@ -1,6 +1,165 @@
 {
-  "updated_at": "2026-08-17T00:50:30.907503+00:00",
+  "updated_at": "2026-08-17T06:38:30.461919+00:00",
   "articles": [
+    {
+      "id": "cdaac14503c1",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T06:38:16.619011+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Nổ súng ở Ukraine giết 6 người tại Nga",
+      "bullets": [
+        "Một cậu bé 14 tuổi bị thương",
+        "Tổng cộng 6 người chết",
+        "Hai bên đang xung đột",
+        "Nổ súng ở Ukraine gây thương vong"
+      ],
+      "full_summary": "Các vụ tấn công của Ukraine đã giết 6 người tại Nga, theo thông tin từ phó thống đốc khu vực Belgorod. Một cậu bé 14 tuổi và 4 người khác bị thương. Các vụ tấn công này xảy ra trong bối cảnh xung đột giữa Ukraine và Nga tiếp tục diễn ra.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "52991b80194e",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T06:38:17.559814+00:00",
+      "category": "science",
+      "importance": 5,
+      "headline": "Sự bùng phát Ebola ở Cộng hòa Dân chủ Congo trở thành vụ bùng phát tồi tệ nhất trong lịch sử",
+      "bullets": [
+        "Bùng phát Ebola đã trở thành vụ bùng phát nhanh nhất trong lịch sử",
+        "Sự bùng phát được gây ra bởi một loài Ebola hiếm gọi là Bundibugyo",
+        "Số lượng người nhiễm Ebola đang tăng nhanh chóng",
+        "Sự bùng phát đã trở thành vụ bùng phát tồi tệ nhất trong lịch sử"
+      ],
+      "full_summary": "Sự bùng phát Ebola ở Cộng hòa Dân chủ Congo đã trở thành vụ bùng phát tồi tệ nhất trong lịch sử. Vụ bùng phát này được gây ra bởi một loài Ebola hiếm gọi là Bundibugyo. Số lượng người nhiễm Ebola đang tăng nhanh chóng. Sự bùng phát này đã trở thành một thách thức lớn đối với các nhà chức trách và các tổ chức y tế.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "ee671c2d8fbd",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T06:38:18.491479+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Mưa lớn kỷ lục nhấn chìm thành phố Hàn Quốc, một người chết",
+      "bullets": [
+        "Nhiều vùng Đông và Đông Nam Á bị nhấn chìm bởi mưa lớn",
+        "Một vụ lở đất ở Hàn Quốc khiến một người thiệt mạng",
+        "Mưa lớn kỷ lục đã xảy ra ở thành phố Hàn Quốc",
+        "Các vùng khác ở Hàn Quốc cũng bị ảnh hưởng bởi mưa lớn"
+      ],
+      "full_summary": "Mưa lớn kỷ lục đã nhấn chìm thành phố Hàn Quốc, khiến một người thiệt mạng. Vụ lở đất xảy ra sau khi mưa lớn kéo dài. Các vùng khác ở Hàn Quốc cũng bị ảnh hưởng bởi mưa lớn. Mưa lớn kỷ lục là một phần của đợt mưa lớn kéo dài ở Đông và Đông Nam Á.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "14dbf26d81ad",
+      "title": "Ferrari's first ever electric car sold for record $40m",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T06:38:19.355907+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Xe điện Ferrari Luce bán với giá kỷ lục 40 triệu USD",
+      "bullets": [
+        "Bán với giá kỷ lục 40 triệu USD",
+        "Luce là xe điện đầu tiên của Ferrari",
+        "Xe gây tranh cãi vì thiết kế không giống phong cách truyền thống",
+        "Luce được bán tại một cuộc đấu giá"
+      ],
+      "full_summary": "Ferrari Luce là xe điện đầu tiên của thương hiệu xe thể thao Ý. Xe được bán với giá kỷ lục 40 triệu USD tại một cuộc đấu giá. Mặc dù vậy, Luce đã gây tranh cãi vì thiết kế không giống phong cách truyền thống của Ferrari.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "7152f7f7c227",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T06:38:20.288145+00:00",
+      "category": "other",
+      "importance": 3,
+      "headline": "Tử vong ở vụ tai nạn thuyền ở Zimbabwe tăng lên 68 người",
+      "bullets": [
+        "Lật thuyền trên hồ Kariba",
+        "Có 18 trẻ em trong số những người thiệt mạng",
+        "Cơ quan điều tra cho rằng thuyền quá tải khi bị gió mạnh",
+        "Tìm thấy 22 thi thể mới"
+      ],
+      "full_summary": "Một vụ tai nạn thuyền trên hồ Kariba ở Zimbabwe đã khiến 68 người thiệt mạng. Vụ tai nạn xảy ra vào thứ Ba, khi thuyền bị gió mạnh lật úp. Cơ quan điều tra cho rằng thuyền quá tải khi xảy ra vụ tai nạn. 22 thi thể mới được tìm thấy sau đó.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "1cebaf5d7556",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "source": "The Guardian World",
+      "icon": "🇬🇧",
+      "fetched_at": "2026-08-17T06:38:21.255397+00:00",
+      "category": "other",
+      "importance": 4,
+      "headline": "Hơn 100 người bị bắt giữ khi cố gắng vào lãnh thổ Ceuta",
+      "bullets": [
+        "Bị bắt giữ 111 người khi cố gắng nhập cảnh vào Ceuta",
+        "An ninh biên giới được tăng cường sau khi có thông tin trên mạng xã hội",
+        "Sự cố nhập cảnh vào Ceuta đã gây ra căng thẳng trong EU",
+        "Ít nhất 96 người thiệt mạng trong quá trình cố gắng đến châu Âu"
+      ],
+      "full_summary": "Hôm thứ Bảy, cảnh sát Maroc đã bắt giữ 111 người khi họ cố gắng nhập cảnh vào lãnh thổ Ceuta của Tây Ban Nha. Sự cố này diễn ra hai tuần sau khi hơn 72.000 người nhập cảnh vào Ceuta, gây ra căng thẳng trong Liên minh châu Âu và dẫn đến lời nói của các đảng cực hữu trên toàn thế giới. Sự cố nhập cảnh vào Ceuta đã khiến ít nhất 96 người thiệt mạng trong quá trình cố gắng đến châu Âu.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "351eee515932",
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "source": "Hacker News",
+      "icon": "🟠",
+      "fetched_at": "2026-08-17T06:38:24.530620+00:00",
+      "category": "technology",
+      "importance": 3,
+      "headline": "Cỗ máy tính Commodore 64 giờ có thể chơi Sierra Adventures",
+      "bullets": [
+        "Chuyển đổi AGI-64 cho phép chơi Sierra Adventures trên Commodore 64",
+        "Cỗ máy tính cổ điển giờ có thể chơi các trò chơi Sierra Adventures",
+        "AGI-64 là công cụ chuyển đổi giúp chơi các trò chơi Sierra Adventures trên Commodore 64"
+      ],
+      "full_summary": "Một nhóm lập trình viên đã tạo ra công cụ chuyển đổi AGI-64, cho phép chơi các trò chơi Sierra Adventures trên cỗ máy tính Commodore 64. Công cụ này giúp người dùng có thể chơi các trò chơi Sierra Adventures mà không cần đến các cỗ máy tính mạnh mẽ hơn. AGI-64 là một công cụ chuyển đổi độc đáo giúp mở rộng khả năng chơi game của Commodore 64.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "id": "2c63aaf72102",
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "url": "https://www.nature.com/articles/s41586-026-10959-w",
+      "source": "Nature",
+      "icon": "🧬",
+      "fetched_at": "2026-08-17T06:38:29.961760+00:00",
+      "category": "science",
+      "importance": 4,
+      "headline": "Nghiên cứu mới về cơ chế ức chế cGAS bởi nucleosome",
+      "bullets": [
+        "Xác định được cơ chế ức chế cGAS bởi nucleosome",
+        "Nucleosome đóng vai trò quan trọng trong quá trình ức chế cGAS",
+        "Cơ chế ức chế cGAS có thể dẫn đến sự thay đổi trong quá trình sinh học",
+        "Nghiên cứu này có thể mở ra hướng mới cho việc điều trị các bệnh liên quan đến cGAS"
+      ],
+      "full_summary": "Một nghiên cứu mới được công bố trên Nature đã xác định được cơ chế ức chế cGAS bởi nucleosome. Nucleosome đóng vai trò quan trọng trong quá trình ức chế cGAS, và cơ chế này có thể dẫn đến sự thay đổi trong quá trình sinh học. Nghiên cứu này có thể mở ra hướng mới cho việc điều trị các bệnh liên quan đến cGAS.",
+      "comments": 0,
+      "score": 0
+    },
     {
       "id": "18e36077e305",
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
@@ -632,166 +791,6 @@
         "Cập nhật thông tin về X-Men và Star Wars: Starfighter"
       ],
       "full_summary": "Tại sự kiện D23, Disney đã công bố trailer VisionQuest và Ahsoka S2. Ngoài ra, họ cũng đưa ra trailer Doomsday và cập nhật thông tin về X-Men và Star Wars: Starfighter. Những thông tin này đã thu hút sự chú ý của các fan hâm mộ.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "492ee54063c4",
-      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-16T06:27:06.288587+00:00",
-      "category": "khoa học-kỹ thuật",
-      "importance": 4,
-      "headline": "Máy bay điện lớn nhất thế giới chỉ tiêu thụ 5 USD điện",
-      "bullets": [
-        "Thử nghiệm thành công chuyến bay đầu tiên của máy bay điện lớn nhất thế giới",
-        "Khởi động dự án nhằm phát triển máy bay điện lai cho vận tải hàng không thương mại",
-        "Máy bay điện lai tiết kiệm năng lượng và giảm thiểu tác động môi trường",
-        "Dự án được hỗ trợ bởi các hãng hàng không lớn"
-      ],
-      "full_summary": "Một công ty liên doanh do các hãng hàng không hỗ trợ đã thử nghiệm thành công chuyến bay đầu tiên của máy bay điện lớn nhất thế giới. Chuyến bay này chỉ tiêu thụ 5 USD điện. Dự án nhằm phát triển máy bay điện lai cho vận tải hàng không thương mại, tiết kiệm năng lượng và giảm thiểu tác động môi trường. Máy bay điện lai có thể trở thành tương lai của ngành hàng không.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "9e143ab6925a",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-16T06:27:07.254750+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Nạn nhân của chatbot: Người tự đại diện sử dụng bot sai cách",
-      "bullets": [
-        "Sử dụng chatbot để viết đơn kiện",
-        "Tìm cách tiêm gợi ý vào hồ sơ để thắng vụ án",
-        "Hộ thẩm phán cảnh báo người tự đại diện đang sử dụng chatbot sai cách",
-        "Tình hình trở nên khẩn cấp và bất an"
-      ],
-      "full_summary": "Một người tự đại diện đã sử dụng chatbot để viết đơn kiện và tìm cách tiêm gợi ý vào hồ sơ để thắng vụ án. Tuy nhiên, thẩm phán đã cảnh báo rằng người tự đại diện đang sử dụng chatbot sai cách và tình hình trở nên khẩn cấp và bất an. Điều này đã đặt ra câu hỏi về việc sử dụng công nghệ trong hệ thống tư pháp.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "479c4d364dde",
-      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-      "source": "Ars Technica",
-      "icon": "💡",
-      "fetched_at": "2026-08-16T06:27:08.226272+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hộ chiếu điện tử Kalshi bị cấm đặt cược tại Washington",
-      "bullets": [
-        "Hộ chiếu điện tử Kalshi bị lệnh ngừng hoạt động đặt cược thể thao và các loại cược khác tại Washington.",
-        "Hộ chiếu điện tử Kalshi phải thực hiện geofencing để ngăn chặn người dùng tại Washington.",
-        "Hộ chiếu điện tử Kalshi phải tuân thủ quyết định của tòa án tiểu bang.",
-        "Hộ chiếu điện tử Kalshi có thể phải thay đổi chính sách đặt cược của mình."
-      ],
-      "full_summary": "Một tòa án tiểu bang đã ra lệnh cho Kalshi ngừng cung cấp đặt cược thể thao và các loại cược khác tại Washington. Hộ chiếu điện tử Kalshi phải thực hiện geofencing để ngăn chặn người dùng tại Washington. Quyết định này có thể ảnh hưởng đến chính sách đặt cược của Kalshi trên toàn thế giới.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "1c5c4294dc39",
-      "title": "The Iran War Is a Whole New Level of Quagmire for the US",
-      "url": "https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-16T06:27:09.131773+00:00",
-      "category": "politics",
-      "importance": 4,
-      "headline": "Mỹ lúng túng trong cuộc chiến Iran",
-      "bullets": [
-        "Quên bài học từ cuộc chiến Iraq",
-        "Mỹ đang tìm kiếm ý tưởng mới cho cuộc chiến Iran",
-        "Cuộc chiến Iran đang trở thành một cuộc chiến quagmire mới cho Mỹ",
-        "Mỹ đang gặp khó khăn trong việc tìm kiếm chiến lược hiệu quả"
-      ],
-      "full_summary": "Theo Politico, Mỹ đang gặp khó khăn trong cuộc chiến Iran. Cuộc chiến này đang trở thành một cuộc chiến quagmire mới cho Mỹ, giống như cuộc chiến Iraq trước đây. Mỹ đã quên bài học từ cuộc chiến Iraq và đang tìm kiếm ý tưởng mới cho cuộc chiến Iran. Tuy nhiên, vẫn chưa có chiến lược hiệu quả nào được đưa ra.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "aecf285eb049",
-      "title": "ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://github.com/yebiguo/ProofRun",
-      "source": "Hacker News",
-      "icon": "🟠",
-      "fetched_at": "2026-08-16T06:27:11.727297+00:00",
-      "category": "technology",
-      "importance": 3,
-      "headline": "Mã xác minh ProofRun cho các tác nhân lập trình AI",
-      "bullets": [
-        "Xây dựng một phương pháp xác minh địa phương cho các tác nhân lập trình AI",
-        "Giúp đảm bảo tính chính xác và tin cậy của các tác nhân lập trình AI",
-        "Được phát triển trên GitHub và có sẵn cho cộng đồng",
-        "Chưa có thông tin về ứng dụng thực tế của ProofRun"
-      ],
-      "full_summary": "ProofRun là một phương pháp xác minh địa phương cho các tác nhân lập trình AI. Nó được thiết kế để đảm bảo tính chính xác và tin cậy của các tác nhân lập trình AI. ProofRun được phát triển trên GitHub và có sẵn cho cộng đồng. Tuy nhiên, chưa có thông tin về ứng dụng thực tế của ProofRun.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "c1a31e81e97b",
-      "title": "Undocumented migration does not raise crime rates, huge study finds",
-      "url": "https://www.nature.com/articles/d41586-026-02542-0",
-      "source": "Nature",
-      "icon": "🧬",
-      "fetched_at": "2026-08-16T06:27:16.068754+00:00",
-      "category": "science",
-      "importance": 4,
-      "headline": "Nghiên cứu lớn không tìm thấy mối liên hệ giữa người nhập cư không giấy tờ và tội phạm",
-      "bullets": [
-        "Không có bằng chứng cho thấy số lượng người nhập cư không giấy tờ tăng lên dẫn đến tội phạm bạo lực",
-        "Nghiên cứu phân tích các khu phố ở hơn 100 thành phố tại Mỹ",
-        "Kết quả cho thấy không có mối liên hệ giữa người nhập cư không giấy tờ và tội phạm",
-        "Nghiên cứu này có thể giúp thay đổi quan điểm về người nhập cư không giấy tờ"
-      ],
-      "full_summary": "Một nghiên cứu lớn mới được công bố trên tạp chí Nature cho thấy không có bằng chứng cho thấy số lượng người nhập cư không giấy tờ tăng lên dẫn đến tội phạm bạo lực. Nghiên cứu này phân tích các khu phố ở hơn 100 thành phố tại Mỹ và kết quả cho thấy không có mối liên hệ giữa người nhập cư không giấy tờ và tội phạm. Kết quả này có thể giúp thay đổi quan điểm về người nhập cư không giấy tờ và những người ủng hộ chính sách nhập cư cứng rắn.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "17695ffcc353",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-16T00:52:24.040888+00:00",
-      "category": "other",
-      "importance": 4,
-      "headline": "Sinh tử xảy ra sau trận động đất mạnh ở Indonesia",
-      "bullets": [
-        "Cứu hộ đang tìm kiếm người sống sót sau trận động đất",
-        "Hàng trăm tòa nhà bị phá hủy",
-        "47 người đã thiệt mạng",
-        "Đánh giá nhanh chóng về tác động của trận động đất đang được tiến hành"
-      ],
-      "full_summary": "Một trận động đất mạnh đã xảy ra ở Indonesia, khiến hàng trăm tòa nhà bị phá hủy và ít nhất 47 người thiệt mạng. Các nhà chức trách đang tiến hành đánh giá nhanh chóng về tác động của trận động đất. Cứu hộ đang tìm kiếm người sống sót và hỗ trợ người dân bị ảnh hưởng.",
-      "comments": 0,
-      "score": 0
-    },
-    {
-      "id": "4b8c4b3a3167",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "icon": "🇬🇧",
-      "fetched_at": "2026-08-16T00:52:24.984450+00:00",
-      "category": "other",
-      "importance": 3,
-      "headline": "Hàng chục người nhập cư bị bắt giữ khi cố gắng vượt biên sang Ceuta",
-      "bullets": [
-        "Bị bắt giữ khi cố gắng vượt biên",
-        "Đã tăng cường an ninh tại Ceuta",
-        "Sự cố xảy ra sau những thông tin trên mạng xã hội",
-        "Hàng trăm người nhập cư đã cố gắng vượt biên vào Ceuta"
-      ],
-      "full_summary": "Hàng chục người nhập cư đã bị bắt giữ khi cố gắng vượt biên sang Ceuta, Tây Ban Nha. Sự cố xảy ra sau những thông tin trên mạng xã hội về một vụ vượt biên quy mô lớn khác. An ninh đã được tăng cường tại Ceuta để ngăn chặn các vụ vượt biên. Morocco đã bắt giữ hàng trăm người nhập cư trong những tháng gần đây.",
       "comments": 0,
       "score": 0
     }
